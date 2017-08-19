@@ -4,16 +4,23 @@ title: >
 subtitle: >
   East Meets West 2015 presents Highway
 date: "2015-02-20 00:25:44 +0000"
+
 # Attributes from Felix Online V1
 id: "5286"
 old_path: /cands/5286/hit-the-highway-with-indian-society
 aliases:
  - /cands/5286/hit-the-highway-with-indian-society
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _East Meets West_ is a student run multicultural show that accumulates the talent across Imperial College and showcases a cornucopia of cultures. It is the longest running student show in the UK and its 23rd anniversary show, _Highway_, will be held at the __Richmond Theatre__ in London on 22nd February 2015.

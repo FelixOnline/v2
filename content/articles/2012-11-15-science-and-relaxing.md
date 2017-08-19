@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A weirdly relaxed editorial
 date: "2012-11-15 20:59:12 +0000"
+
 # Attributes from Felix Online V1
 id: "2887"
 old_path: /comment/2887/science-and-relaxing
 aliases:
  - /comment/2887/science-and-relaxing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week, the front page contains a storyabout science spending cuts. It’s all a bit economics heavy, but the gist is that, in real terms, science spending was cut by a lot in the 2010-2011 year.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Television sneaks under-cover reporter "Captain Reynolds" into the BBC Head Of Programming office to record this secret conversation about the commissioning of their new Saturday night show.
 date: "2011-04-28 13:43:55 +0100"
+
 # Attributes from Felix Online V1
 id: "1145"
 old_path: /tv/1145/dont-scare-the-hare
 aliases:
  - /tv/1145/dont-scare-the-hare
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “Thanks for coming at such short notice.”

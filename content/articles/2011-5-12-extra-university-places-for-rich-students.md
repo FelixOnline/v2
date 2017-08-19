@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Universities minister David Willetts suggests that extra more expensive university places could be created outside of the loans system
 date: "2011-05-12 15:50:30 +0100"
+
 # Attributes from Felix Online V1
 id: "1184"
 old_path: /news/1184/extra-university-places-for-rich-students
 aliases:
  - /news/1184/extra-university-places-for-rich-students
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The government is considering proposals to allow universities to offer extra places on their courses at market prices, outside the government loans system. Students entering university in this way could pay fees similar to that of overseas students without any public funding and they would also have to meet the entry requirements of the course.

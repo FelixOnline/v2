@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Jazz Café, 5th November 2010
 date: "2010-12-02 21:04:47 +0000"
+
 # Attributes from Felix Online V1
 id: "485"
 old_path: /music/485/botown-bring-the-bollywood-funk
 aliases:
  - /music/485/botown-bring-the-bollywood-funk
+imported: true
+comments:
+ - Excellent article that prompted me to find out more about this great group and listen to them on youtube I wont disclose my age but lets say I had all the original songs when they were released and now listening to the same songs with a twist of sax and jazz made it all very exciting BalwantNice one Rishi This is so koool I am glad that the younger generation can bring the golden oldies back to life in a modern mixture combined with Jazz As for India  I think it will be a great hit they mix all their new hits with a western flavour Ill check out Rekhas voiice laterHey Rishi  can you get me their contact details and Ill invite them to City As for the article youre not only a scientist but a journalist toooo Well done  looking forward to the next review Asha Nice review I also went to see these guys at the Jazz Cafe after seeing them on TV Absolutely loved it amazing evening Its so refreshing to see a live band that can play well Great vocals sexy sax and cool bass as well as the
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rm1709
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rm1709"
 author_name: "Rishi Mistry"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Excellent article that prompted me to find out more about this great group and listen to them on youtube I wont disclose my age but lets say I had all the original songs when they were released and now listening to the same songs with a twist of sax and jazz made it all very exciting BalwantNice one Rishi This is so koool I am glad that the younger generation can bring the golden oldies back to life in a modern mixture combined with Jazz As for India  I think it will be a great hit they mix all their new hits with a western flavour Ill check out Rekhas voiice laterHey Rishi  can you get me their contact details and Ill invite them to City As for the article youre not only a scientist but a journalist toooo Well done  looking forward to the next review Asha Nice review I also went to see these guys at the Jazz Cafe after seeing them on TV Absolutely loved it amazing evening Its so refreshing to see a live band that can play well Great vocals sexy sax and cool bass as well as the
-imported: true
 ---
 
 A week ago I unexpectedly stumbled across [Botown](http://www.botown.co.uk/), a band promising reborn Bollywood grooves with a funk soul twist. I’ve never considered placing these music genres together, especially as their roots lie half way around the world, but the prospect of a night in the Jazz Café with a new take on funk and soul was something I couldn’t pass on.

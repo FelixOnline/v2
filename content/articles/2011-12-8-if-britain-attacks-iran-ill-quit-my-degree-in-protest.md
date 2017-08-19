@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We are preparing for war on the flimsiest of evidence
 date: "2011-12-08 21:29:25 +0000"
+
 # Attributes from Felix Online V1
 id: "1940"
 old_path: /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
 aliases:
  - /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
+imported: true
+comments:
+ - Well of course if Imperial College invades Iran you should quit your oh wait Imperial wont be doing the invadingNonetheless Im sure it will be of great use and comfort to the people of IranOK that was a pretty bitchy commentBut I stand by the sentiment dammitx
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well of course if Imperial College invades Iran you should quit your oh wait Imperial wont be doing the invadingNonetheless Im sure it will be of great use and comfort to the people of IranOK that was a pretty bitchy commentBut I stand by the sentiment dammitx
-imported: true
 ---
 
 I’m too young to properly remember what the run-up to the invasion of Iraq was like, but I imagine it was rather similar to the situation today with Iran. UN inspectors find no conclusive evidence of weapons, the media spreads irrational panic, diplomatic ties are removed, and then the carpet bombing begins. Fortunately Iran is yet to experience that final step, but a war is looking increasingly likely. Which brings me to my main point: if Britain goes to war in Iran and if even one civilian is killed as a result, I will quit my degree in protest, I’ll go to Iran, and I’ll see what I can do to help. That is, if I can muster enough confidence.

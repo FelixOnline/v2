@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports as the final team is chosen following weeks of quizzes
 date: "2014-11-28 00:32:31 +0000"
+
 # Attributes from Felix Online V1
 id: "4959"
 old_path: /news/4959/this-years-university-challenge-team-finalised
 aliases:
  - /news/4959/this-years-university-challenge-team-finalised
+imported: true
+comments:
+ - Guys I dont think youve got enough physicists on your teamWhy are they all physicistsStupid idea having this many people from the same discipline Why are they all male Id like to hear a good excuse for a change httpuniversitychallengecrushblogspotcouk201408diversitychallengehtmlThem all being male is probably within margin of error to accurately reflect the Imperial populationoliver j ford Not according to your own stats Answer They are all Physicists because they have the most time to kill while everybody else is super busy SimpleWe did have a girl on the team in our first selection However she has an exam very close to one of the filming dates and she was not sure if she could handle both responsibilities She decided to drop out and the reserve was elevated to team status This is also the reason we have three physicists as our original team selection had two physicists one mathematician and a medicAs for the general reason theres more physicists than any ot
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Guys I dont think youve got enough physicists on your teamWhy are they all physicistsStupid idea having this many people from the same discipline Why are they all male Id like to hear a good excuse for a change httpuniversitychallengecrushblogspotcouk201408diversitychallengehtmlThem all being male is probably within margin of error to accurately reflect the Imperial populationoliver j ford Not according to your own stats Answer They are all Physicists because they have the most time to kill while everybody else is super busy SimpleWe did have a girl on the team in our first selection However she has an exam very close to one of the filming dates and she was not sure if she could handle both responsibilities She decided to drop out and the reserve was elevated to team status This is also the reason we have three physicists as our original team selection had two physicists one mathematician and a medicAs for the general reason theres more physicists than any ot
-imported: true
 ---
 
 The University Challenge team has been finalised after an extensive selection process. The new team consists of 5 male students and was selected after passing several rounds of quizzes and a final trial stage.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Thomas Lim discusses Union censorship of student papers
 date: "2014-11-14 20:29:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4869"
 old_path: /comment/4869/the-darker-side-to-student-journalism
 aliases:
  - /comment/4869/the-darker-side-to-student-journalism
+imported: true
+comments:
+ - christian loubitancheap christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - christian loubitancheap christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 A recent article in _The Guardian _explored the world of student journalism, and the often strained relationship between student journalists and their Universities and Student Unions. One such story took place at Plymouth University last year, where the Editor faced thinly veiled threats from their Union, who would put her degree at risk if she covered a story about cuts to student amenities. When trying to run a story about how University staff had an all expenses paid trip to Miami, she was told by the University’s communications team that they would rather she didn’t print stories which portray the University in a bad light, adding that if she had gotten on better with the University, perhaps she could also have gone to Miami.

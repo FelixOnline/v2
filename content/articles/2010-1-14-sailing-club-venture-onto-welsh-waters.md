@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sailors sail near Swansea and probably away again. It is Swansea, after all
 date: "2010-01-14 22:27:49 +0000"
+
 # Attributes from Felix Online V1
 id: "39"
 old_path: /sport/39/sailing-club-venture-onto-welsh-waters
 aliases:
  - /sport/39/sailing-club-venture-onto-welsh-waters
+imported: true
+comments:
+ - Lovely senic course and well steuorppd race Food was lovely and greatly appreciated by the runners Credit is due to committees who put on road races and to the runners who travel all over cork county and further afield to support these races On this note the delay in calling out the results was not good enough bearing in mind that people had to travel up to 2hrs and more to get home on  sunday evening having made the journey to the race earlier in the dayLooking foward to next years race
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mb506
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Lovely senic course and well steuorppd race Food was lovely and greatly appreciated by the runners Credit is due to committees who put on road races and to the runners who travel all over cork county and further afield to support these races On this note the delay in calling out the results was not good enough bearing in mind that people had to travel up to 2hrs and more to get home on  sunday evening having made the journey to the race earlier in the dayLooking foward to next years race
-imported: true
 ---
 
 In December Imperial Sailing Club ventured into the land of sheep and dragons for their first away event of the year- The Welsh Dragon. With two days of sailing and a sheep themed social the event hosted by Cardiff University was set to be a good one.

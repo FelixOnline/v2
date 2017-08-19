@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Why bother with reforms if nobody cares?
 date: "2017-02-17 14:21:49 +0000"
+
 # Attributes from Felix Online V1
 id: "6777"
 old_path: /news/6777/no-mascotry-resolution-in-sight
 aliases:
  - /news/6777/no-mascotry-resolution-in-sight
+imported: true
+comments:
+ - 2GAaqd  qgswkifwvood urlhttpygdhlhifvgojcomygdhlhifvgojurl linkhttplicttsoemiaocomlicttsoemiaolink httpdztnghjmgatycom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 2GAaqd  qgswkifwvood urlhttpygdhlhifvgojcomygdhlhifvgojurl linkhttplicttsoemiaocomlicttsoemiaolink httpdztnghjmgatycom
-imported: true
 ---
 
 The age-old Imperial tradition of mascot stealing (also known as mascotry) was once again brought up at Union Council on Monday, in an attempt to create a new, contemporary set of rules to regulate the competitive ‘sport’.

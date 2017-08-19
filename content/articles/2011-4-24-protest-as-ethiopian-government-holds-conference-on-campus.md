@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Network Against Injustice and Repression in Ethiopia stage demonstration outside Sherfield
 date: "2011-04-24 10:55:01 +0100"
+
 # Attributes from Felix Online V1
 id: "1133"
 old_path: /news/1133/protest-as-ethiopian-government-holds-conference-on-campus
 aliases:
  - /news/1133/protest-as-ethiopian-government-holds-conference-on-campus
+imported: true
+comments:
+ - Hi there               Modern women understand everything except their husbands       Histogram worksheets for middle school6Used peanut roasters for sale2Pornmobil2Signatures for phones with songs2Oshime omorashi3Hi there               Practice is the best of all instructors       Rob dyrdek secretary nude4How to watch two girls one cup on ipod touch1Lewis n201Discover cardSecretariat earnings for1You got great points there thats why I always love checking out your blog     My blog credit conso et sygma banque
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hi there               Modern women understand everything except their husbands       Histogram worksheets for middle school6Used peanut roasters for sale2Pornmobil2Signatures for phones with songs2Oshime omorashi3Hi there               Practice is the best of all instructors       Rob dyrdek secretary nude4How to watch two girls one cup on ipod touch1Lewis n201Discover cardSecretariat earnings for1You got great points there thats why I always love checking out your blog     My blog credit conso et sygma banque
-imported: true
 ---
 
 Chaos broke out at a demonstration held on campus when a fire alarm was triggered and forced hundreds of students to evacuate the central library. The demonstration was in protest at an Ethiopian government conference being held in the Great Hall on Saturday 16th April. In the confusion that followed the alarm, protesters breached police barriers and attempted to storm the Sherfield building.

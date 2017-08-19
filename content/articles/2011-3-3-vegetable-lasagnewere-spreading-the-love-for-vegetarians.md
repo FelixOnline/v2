@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I’ll show you how to transform your cramped vegetable lasagne into a thing of simple beauty
 date: "2011-03-03 19:32:41 +0000"
+
 # Attributes from Felix Online V1
 id: "998"
 old_path: /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
 aliases:
  - /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
+imported: true
+comments:
+ - I hope my fellow meat eating comrades will not be too annoyed with me but I have to give it to Stephen Hes right vegetable lasagne is fantastic Most places like he said doesnt do the dish justice But find a place that does or make it yourself and youll think more than twice about ordering something else Stephen oh Stephen whilst it is easy to sing your praises from the rooftops in a duet with Cher and Lady Gagas illegitimate lovechild I must admit that I am slightly disappointed with your recipe It simply begs the question Steve Y U NO PUT MEATAlso wheres the Red LeicesterI think you mean raises the questionhttpbegthequestioninfo
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I hope my fellow meat eating comrades will not be too annoyed with me but I have to give it to Stephen Hes right vegetable lasagne is fantastic Most places like he said doesnt do the dish justice But find a place that does or make it yourself and youll think more than twice about ordering something else Stephen oh Stephen whilst it is easy to sing your praises from the rooftops in a duet with Cher and Lady Gagas illegitimate lovechild I must admit that I am slightly disappointed with your recipe It simply begs the question Steve Y U NO PUT MEATAlso wheres the Red LeicesterI think you mean raises the questionhttpbegthequestioninfo
-imported: true
 ---
 
 It is an unfortunately ubiquitous belief amongst non-vegetarian cooks that vegetables are an accompaniment to a meal rather than a meal in themselves. This means that meatless dishes can often go catastrophically wrong.

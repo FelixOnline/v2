@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The government’s white paper on higher education is out and it’s official, fees won’t stay at nine grand
 date: "2016-05-20 08:48:52 +0100"
+
 # Attributes from Felix Online V1
 id: "6173"
 old_path: /news/6173/tuition-fees-will-rise-with-inflation
 aliases:
  - /news/6173/tuition-fees-will-rise-with-inflation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The government has released a white paper this week outlining its future plans for higher education, most notably allowing universities to charge more than £9000 per year in tuition fees.

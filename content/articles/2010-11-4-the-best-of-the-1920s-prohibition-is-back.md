@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A new night aims to bring back the feel of the 'Roaring Twenties'
 date: "2010-11-04 18:36:52 +0000"
+
 # Attributes from Felix Online V1
 id: "304"
 old_path: /food/304/the-best-of-the-1920s-prohibition-is-back-
 aliases:
  - /food/304/the-best-of-the-1920s-prohibition-is-back-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Those who paid attention in GCSE History will remember what a fantastic time 1920s America was: cue [Rudolph Valentino](http://en.wikipedia.org/wiki/Rudolph_Valentino), the first heartthrob of Hollywood’s silent films; thriving underground speakeasies under the Prohibition act and the infamous Valentine Day’s Massacre of Al Capone. Just don’t mention the Depression that followed...

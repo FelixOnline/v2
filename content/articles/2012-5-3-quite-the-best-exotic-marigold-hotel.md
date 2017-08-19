@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An uplifting tale of a group of people that discover a different culture and develop a new outlook on life
 date: "2012-05-03 18:16:08 +0100"
+
 # Attributes from Felix Online V1
 id: "2410"
 old_path: /film/2410/quite-the-best-exotic-marigold-hotel
 aliases:
  - /film/2410/quite-the-best-exotic-marigold-hotel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [The Best Exotic Marigold Hotel](http://www.imdb.com/title/tt1412386/)

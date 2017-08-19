@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Genome sequences for each of the four great ape groups have been investigated
 date: "2012-03-15 19:58:32 +0000"
+
 # Attributes from Felix Online V1
 id: "2354"
 old_path: /science/2354/last-great-ape-genome-sequenced
 aliases:
  - /science/2354/last-great-ape-genome-sequenced
+imported: true
+comments:
+ - The bonobo genome has not been sequenced  the headline of the original article from the BBC was misleading but in the text it stated bonobos are yet to be sequenced  Gorillas were actually sequenced in 2009 httpwwwbbccouknewsscienceenvironment17239059
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The bonobo genome has not been sequenced  the headline of the original article from the BBC was misleading but in the text it stated bonobos are yet to be sequenced  Gorillas were actually sequenced in 2009 httpwwwbbccouknewsscienceenvironment17239059
-imported: true
 ---
 
 A decade after the completion of the human genome sequence, researchers have sequenced the genome of a female western lowland gorilla called Kamilah from San Diego zoo. This means we now have a fully sequenced, representative genome sequence from each of the four great ape groups: humans, chimps and bonobos, orangutans, and gorillas. Having the full set will enable scientists to better understand when each of these groups evolved – a current matter of debate.

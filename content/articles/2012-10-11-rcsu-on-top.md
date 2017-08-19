@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Plabon Saha says: seriously, we stole everyone’s shit
 date: "2012-10-11 20:49:29 +0100"
+
 # Attributes from Felix Online V1
 id: "2654"
 old_path: /news/2654/rcsu-on-top
 aliases:
  - /news/2654/rcsu-on-top
+imported: true
+comments:
+ - Actually giving someone else your card to use is against college rules If you read it carefully youll see that I sought permission from the cardholder to use her card and she complied which I can provide proof of with a couple of witnesses if you would like So she is the one that broke college rules rather than me since I neither stole it nor did I take it by force I am aware that we must throw the current Theta in the serpentine and build a new one if its violated but since they only stole a part of Theta Im not sure whether we should throw this one away since most of it was still in our handshttpswwwyoutubecomwatchvqZxRpOGLRkI thought using someone elses card is against college rulesdo not pass Go do not collect 200cool story broBeware Gentlemen Your forebears do not expect to see the words Theta and violated in the same sentence Nice to see that Gluids have at least stopped muttering about inviolate mascots and not playingBack in my day when Theta was violated a new
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Actually giving someone else your card to use is against college rules If you read it carefully youll see that I sought permission from the cardholder to use her card and she complied which I can provide proof of with a couple of witnesses if you would like So she is the one that broke college rules rather than me since I neither stole it nor did I take it by force I am aware that we must throw the current Theta in the serpentine and build a new one if its violated but since they only stole a part of Theta Im not sure whether we should throw this one away since most of it was still in our handshttpswwwyoutubecomwatchvqZxRpOGLRkI thought using someone elses card is against college rulesdo not pass Go do not collect 200cool story broBeware Gentlemen Your forebears do not expect to see the words Theta and violated in the same sentence Nice to see that Gluids have at least stopped muttering about inviolate mascots and not playingBack in my day when Theta was violated a new
-imported: true
 ---
 
 Fresher’s Fair 2012 saw an unprecedented rise in mascotry and the RCSU-CGCU rivalry was re-ignited with a burning vengeance. After the capture of the ICSMU’s Phoenix head last year the RCSU went a step further as it is currently holding onto City and Guild Union’s Bolt and Spanner and the ICSMU’s Phoenix feet. However, it pains me to say that our beloved mascot Theta was violated as well and one of its four parts is currently in the hands of the dirty engineers in CGCU.

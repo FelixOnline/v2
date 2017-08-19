@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I think the bursary should continue to be given to students cash in hand
 date: "2011-03-17 21:44:04 +0000"
+
 # Attributes from Felix Online V1
 id: "1105"
 old_path: /comment/1105/bursaries-make-university-fun
 aliases:
  - /comment/1105/bursaries-make-university-fun
+imported: true
+comments:
+ - Well thats the point reallytldr versionGloat gloat gloat Current system is unfair Oh well  another Cosmo pleaseIf this was at any other university there would be complete outrageWhat a crock of shit  This girl is vacuous and a waste of space  She disgusts me with her  ahhhh poor me routine Clothes and cocktails  These arent living costs these are luxuries  Bursaries can be abused yes and arent you living proof Put your time to good use and get a job and pay your way in life instead of writing such drivelIf you hadnt put your name and photo up I would have thought you were tollingWhat an embarrassmentI just find it frustrating to read something like that when I only have access to my student loan and have minimal parental contributions due to extenuating home circumstances Ive looked into all possible sources of income and they just dont seem to apply I manage to fall through a complete loophole in the systemInstead I spend my holidays working
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well thats the point reallytldr versionGloat gloat gloat Current system is unfair Oh well  another Cosmo pleaseIf this was at any other university there would be complete outrageWhat a crock of shit  This girl is vacuous and a waste of space  She disgusts me with her  ahhhh poor me routine Clothes and cocktails  These arent living costs these are luxuries  Bursaries can be abused yes and arent you living proof Put your time to good use and get a job and pay your way in life instead of writing such drivelIf you hadnt put your name and photo up I would have thought you were tollingWhat an embarrassmentI just find it frustrating to read something like that when I only have access to my student loan and have minimal parental contributions due to extenuating home circumstances Ive looked into all possible sources of income and they just dont seem to apply I manage to fall through a complete loophole in the systemInstead I spend my holidays working
-imported: true
 ---
 
 Living the typical meagre student existence at Imperial College in South Kensington, one of the wealthiest boroughs in one of the world’s most expensive cities, was never going to be easy. But my soon–to–be alma mater (assuming I pass my damned degree) is going to make it a whole lot harder with the increase in tuition fees. The powers that be feel that Imperial is esteemed enough to demand £9,000 a year for a degree, and had this been the case when I was applying for university, I feel my parents would have been far less supportive of me coming here. After all, they have had to suffer most of the costs.

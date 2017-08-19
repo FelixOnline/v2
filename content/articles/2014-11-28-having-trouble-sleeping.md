@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Utsav Radia reports on Imperial’s research into getting a good nights sleep
 date: "2014-11-28 01:01:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4973"
 old_path: /science/4973/having-trouble-sleeping-
 aliases:
  - /science/4973/having-trouble-sleeping-
+imported: true
+comments:
+ - Very nice writeup I definitely love this site Thanksnike air max 90 hyperfuse volt neon httpwwwassolowcostititnikeairmax90hyperfusevoltneon17611htmlSpot on with this writeup I truly believe this web site needs a great deal more attention Ill probably be back again to see more thanks for the adviceray ban 3016 clubmaster httpwwwpolitica2ceroesesrayban3016clubmaster13095htmlhttpcoachoutletsonlinesalecom  coach factory outlet online    httpwwwmichaelkorsoutletonlinebiz  cheap michael kors handbags    httpwww2015oakleysunglassescom  cheap oakleys    httpraybanoutletvintagelicious  cheap ray ban sunglasses   cheap ray bans httpcheapraybansoutletonlinestoresnethttpwwwoutletscoachorg  coach outlet    httpwwwmichaelkorsoutlethandbagsus  michael kors handbags    httpwwwoakleysalesorg  oakley sunglasses    httprboutletonlinesalecccom  ray ban sunglasses   coach factory outlet online httpwwwcoachoffic
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Very nice writeup I definitely love this site Thanksnike air max 90 hyperfuse volt neon httpwwwassolowcostititnikeairmax90hyperfusevoltneon17611htmlSpot on with this writeup I truly believe this web site needs a great deal more attention Ill probably be back again to see more thanks for the adviceray ban 3016 clubmaster httpwwwpolitica2ceroesesrayban3016clubmaster13095htmlhttpcoachoutletsonlinesalecom  coach factory outlet online    httpwwwmichaelkorsoutletonlinebiz  cheap michael kors handbags    httpwww2015oakleysunglassescom  cheap oakleys    httpraybanoutletvintagelicious  cheap ray ban sunglasses   cheap ray bans httpcheapraybansoutletonlinestoresnethttpwwwoutletscoachorg  coach outlet    httpwwwmichaelkorsoutlethandbagsus  michael kors handbags    httpwwwoakleysalesorg  oakley sunglasses    httprboutletonlinesalecccom  ray ban sunglasses   coach factory outlet online httpwwwcoachoffic
-imported: true
 ---
 
 In the UK, 1 in 4 people suffer from some form of sleep disorder resulting in excessive daytime sleepiness. Researchers at Imperial College London, led by Professors William Wisden and Nicholas Franks of the Department of Life Sciences and Dr Mick Hastings’ group at the MRC Laboratory of Molecular Biology in Cambridge, have shined new light on exactly how the body controls when you wake up and when you fall asleep (the circadian rhythm).

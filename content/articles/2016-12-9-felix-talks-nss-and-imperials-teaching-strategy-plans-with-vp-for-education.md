@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Simone Buitendijk discusses online learning, Brexit and more
 date: "2016-12-09 15:33:21 +0000"
+
 # Attributes from Felix Online V1
 id: "6572"
 old_path: /news/6572/felix-talks-nss-and-imperials-teaching-strategy-plans-with-vp-for-education
 aliases:
  - /news/6572/felix-talks-nss-and-imperials-teaching-strategy-plans-with-vp-for-education
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 **So I guess we should probably start by welcoming you to Imperial. How are you finding it so far?**

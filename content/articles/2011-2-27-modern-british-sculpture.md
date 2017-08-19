@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The questions it poses are broader beyond even the breadth of the works it displays
 date: "2011-02-27 19:26:48 +0000"
+
 # Attributes from Felix Online V1
 id: "913"
 old_path: /arts/913/modern-british-sculpture
 aliases:
  - /arts/913/modern-british-sculpture
+imported: true
+comments:
+ - Reference to Adam Walker seems a bit bizarre and unnecessary
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Reference to Adam Walker seems a bit bizarre and unnecessary
-imported: true
 ---
 
 On entering Modern British Sculpture, a vast trunk of stone stands before you. It fills the high-walled room almost up to its domed ceiling, making it more temple than art gallery. Smooth, cold, awesome in the most formidable sense, you have to lean back to see it as it ascends, narrowing in linear sections, where, at its height, a tomb sits. Colossal in size, yet not extravagant; mournful yet imperious. I can’t think of a situation where in the space of passing through a set of double-doors, I have ever been more awestruck, as I was upon entering Modern British Sculpture. Had I not been in as respectable a setting as the RA, I might’ve even audibly had a ‘Clay Davis’ moment.

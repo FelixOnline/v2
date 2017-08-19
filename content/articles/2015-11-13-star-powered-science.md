@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial’s André Neves wins mathematics award at star studded Breakthrough Prizes
 date: "2015-11-13 14:37:23 +0000"
+
 # Attributes from Felix Online V1
 id: "5729"
 old_path: /science/5729/star-powered-science
 aliases:
  - /science/5729/star-powered-science
+imported: true
+comments:
+ - Youre a real deep thkiren Thanks for sharing Terrific page Carry on the wonderful job Thanksnba 2k17 coins httpfull2k16mtpodbeancomenba2kvcAmazing such a invaluable online sitebuy fifa 17 coins httpsupportwellnesswithrosecomentries101868268cheapfifa17pointPurchaseWeightliftingGlovesOnlineThatIsBranded
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre a real deep thkiren Thanks for sharing Terrific page Carry on the wonderful job Thanksnba 2k17 coins httpfull2k16mtpodbeancomenba2kvcAmazing such a invaluable online sitebuy fifa 17 coins httpsupportwellnesswithrosecomentries101868268cheapfifa17pointPurchaseWeightliftingGlovesOnlineThatIsBranded
-imported: true
 ---
 
 Imperial College’s very own André Arroja Neves has won the New Horizons in Mathematics Award at the Breakthrough Prizes, which was held at the NASA Ames Research Centre in Silicon Valley on November 9th. The professor in the Department of Pure Mathematics won the prize, along with Codá Marques, for having solved the 50-year old Willmore Conjecture in 2012.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Exam season is just another excuse to get out and de-stress with the great shows on offer this term
 date: "2016-04-29 10:54:46 +0100"
+
 # Attributes from Felix Online V1
 id: "6105"
 old_path: /arts/6105/your-guide-to-whats-hot-in-art-this-term
 aliases:
  - /arts/6105/your-guide-to-whats-hot-in-art-this-term
+imported: true
+comments:
+ - BPvx6r  nahtopqnvynd urlhttpstcqlncgnooxcomstcqlncgnooxurl linkhttpqmnnxtouupxacomqmnnxtouupxalink httpnprzgwwbhnzzcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - BPvx6r  nahtopqnvynd urlhttpstcqlncgnooxcomstcqlncgnooxurl linkhttpqmnnxtouupxacomqmnnxtouupxalink httpnprzgwwbhnzzcom
-imported: true
 ---
 
 **Les Blancs at the National Theatre** now until 2nd June

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   East Meets West in this delectable dessert. Makes x8 small/x4 large
 date: "2014-02-07 04:48:54 +0000"
+
 # Attributes from Felix Online V1
 id: "4347"
 old_path: /food/4347/mandarin-orange-creme-brulee
 aliases:
  - /food/4347/mandarin-orange-creme-brulee
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Before we begin, a disclaimer: Satsumas, clementines, tangerines - basically any easy-peel citrus orange with easy to separate segments you can think of falls under the category of mandarin oranges. Think of it this way - all clementines are mandarin oranges, but not all mandarin oranges are clementines. (Mandarins are usually bigger in Asia...but these will do.)

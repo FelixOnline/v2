@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hopefully, debunking lies and unscientific non-sense is not going to end
 date: "2011-11-10 20:46:49 +0000"
+
 # Attributes from Felix Online V1
 id: "1720"
 old_path: /comment/1720/the-death-of-bad-science
 aliases:
  - /comment/1720/the-death-of-bad-science
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Bad Science is dead. It has fallen off its bench. It has gone to meet its supervisor. It is an ex-science. Sadly, I am not talking about a humane rounding-up of charlatans, quacks, homoeopathists, and people who like to compete as to who has the best imaginary friend. I am talking about Ben Goldacre’s column in The Guardian.

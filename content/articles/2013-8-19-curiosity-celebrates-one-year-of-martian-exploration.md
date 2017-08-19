@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Marion Ferrat takes a look at Curiosity’s first year on the Red Planet
 date: "2013-08-19 08:06:30 +0100"
+
 # Attributes from Felix Online V1
 id: "3752"
 old_path: /science/3752/curiosity-celebrates-one-year-of-martian-exploration
 aliases:
  - /science/3752/curiosity-celebrates-one-year-of-martian-exploration
+imported: true
+comments:
+ - I love the idea of the digitalis but in the video it doesnt relaly stand out from the creeper that much  Maybe if the growth rate is tuned up a bit it will seem more unique but as it is you didnt look like you relaly had to fight much harder against the digitalis than against the general flood of creeper  I dont want to sound like one of the people who seem to think its their game but I just wanted to leave some of the thoughts I had here1 Perhaps if the digitalis were to spread even without a connection to an emitter  Even small amounts of digitalis would have to be controlled or they would spread out of control  Unlike creeper cutting off the emitter wouldnt be enough2 If digitalis were to produce creeper in small quantities when active it would create an incentive to control it as much as possible while making outgrowths toward your base very dangerousFinal random thought I love the cool growth pattern of the digitalis but being able to push a button and see where it would go made it
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - I love the idea of the digitalis but in the video it doesnt relaly stand out from the creeper that much  Maybe if the growth rate is tuned up a bit it will seem more unique but as it is you didnt look like you relaly had to fight much harder against the digitalis than against the general flood of creeper  I dont want to sound like one of the people who seem to think its their game but I just wanted to leave some of the thoughts I had here1 Perhaps if the digitalis were to spread even without a connection to an emitter  Even small amounts of digitalis would have to be controlled or they would spread out of control  Unlike creeper cutting off the emitter wouldnt be enough2 If digitalis were to produce creeper in small quantities when active it would create an incentive to control it as much as possible while making outgrowths toward your base very dangerousFinal random thought I love the cool growth pattern of the digitalis but being able to push a button and see where it would go made it
-imported: true
 ---
 
 Just over a year ago, on 6 August 2012 (5 August Eastern Standard Time), a little something called Curiosity made its final descent towards the Martian surface. Curiosity had spent over seven months making the journey from Cape Canaveral in Florida to the outer atmosphere of Mars. After a series of perfectly executed moves, and an excruciating wait for the Mars Science Laboratory (MSL) team at NASA, the rover landed safely in Gale crater, near the Martian equator.

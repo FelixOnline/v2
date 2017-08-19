@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.
 date: "2014-05-09 01:55:00 +0100"
+
 # Attributes from Felix Online V1
 id: "4564"
 old_path: /news/4564/college-gets-a-21-for-sexual-health
 aliases:
  - /news/4564/college-gets-a-21-for-sexual-health
+imported: true
+comments:
+ - Since when is it Imperials responsibility to educate its students on sexual health Surely everyone learns this sort of thing at secondary school or earlierWhat is this sexual heath information theyre expecting on the campus Condom usage posters in the disabled toilets Popup images of diseased genitals when you log in to the college PCs Agreed Patronising to the max not Colleges jobGood advert for Superdrug though If I was a cynical person I would suggest that was their motive for doing the surveyAnd far from highlighting an issue I suspect many of us would be delighted with a 21
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Since when is it Imperials responsibility to educate its students on sexual health Surely everyone learns this sort of thing at secondary school or earlierWhat is this sexual heath information theyre expecting on the campus Condom usage posters in the disabled toilets Popup images of diseased genitals when you log in to the college PCs Agreed Patronising to the max not Colleges jobGood advert for Superdrug though If I was a cynical person I would suggest that was their motive for doing the surveyAnd far from highlighting an issue I suspect many of us would be delighted with a 21
-imported: true
 ---
 
 In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.

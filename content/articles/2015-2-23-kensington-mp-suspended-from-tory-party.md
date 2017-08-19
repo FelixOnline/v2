@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Politicians for hire: Rifkind suspended from Tory Party pending investigation into ‘cash for access’ scandal.
 date: "2015-02-23 15:43:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5306"
 old_path: /news/5306/-kensington-mp-suspended-from-tory-party
 aliases:
  - /news/5306/-kensington-mp-suspended-from-tory-party
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The party whip and MP Sir Malcolm Rifkind has been suspended from the Conservative party in parliament after becoming embroiled in ‘cash for access’ allegations.

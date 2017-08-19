@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A great way to hear Moby Dick
 date: "2012-10-26 02:45:35 +0100"
+
 # Attributes from Felix Online V1
 id: "2756"
 old_path: /books/2756/moby-dick-big-read
 aliases:
  - /books/2756/moby-dick-big-read
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In the 160 years since its first publication, Moby Dick has become one of the most acclaimed novels in the English language. However, while most people have heard of the book and its most famous characters, few have actually read it. Now, however, artist Angela Cockayne and writer Philip Hoare, both big fans of Moby Dick, seek to correct this problem and give people a chance to experience this masterpiece in a new and exciting way.

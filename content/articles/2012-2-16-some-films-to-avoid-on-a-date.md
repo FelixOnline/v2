@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Whether it’s extreme violence, naked ladies, or weird psychos, there are films that are simply big no-nos
 date: "2012-02-16 21:10:03 +0000"
+
 # Attributes from Felix Online V1
 id: "2185"
 old_path: /film/2185/some-films-to-avoid-on-a-date
 aliases:
  - /film/2185/some-films-to-avoid-on-a-date
+imported: true
+comments:
+ - Irreversible still a better love story than Twilightyeah the human centipede 2 was one fucked up film can think of a few others to avoid on dates the devils rejects funny games the strangers ichi the killer teeth caligulaboys dont cryhostelsawcrashnatural born killersromper stomperI saw the 1st human centipede and that was pretty rough  Not looking forward to seeing the 2nd one but itll probably happen when Im hungover from a party the night before and Im on the couch with my roommate and nothing on TV P    I dont really agree with your honorable mentions Fatal Attraction Titanic Last House on the Left Misery Requiem for a Dream American Psycho  The other ones you listed I dont find terrible just not great  And yes the Fast and Furious is as boring as watching NASCARS make 500 continuous left turns for 3 hours
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Irreversible still a better love story than Twilightyeah the human centipede 2 was one fucked up film can think of a few others to avoid on dates the devils rejects funny games the strangers ichi the killer teeth caligulaboys dont cryhostelsawcrashnatural born killersromper stomperI saw the 1st human centipede and that was pretty rough  Not looking forward to seeing the 2nd one but itll probably happen when Im hungover from a party the night before and Im on the couch with my roommate and nothing on TV P    I dont really agree with your honorable mentions Fatal Attraction Titanic Last House on the Left Misery Requiem for a Dream American Psycho  The other ones you listed I dont find terrible just not great  And yes the Fast and Furious is as boring as watching NASCARS make 500 continuous left turns for 3 hours
-imported: true
 ---
 
 __The Human Centipede 2: Full Sequence__

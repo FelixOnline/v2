@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle reports on the research into large-scale screening programmes
 date: "2015-05-29 01:03:26 +0100"
+
 # Attributes from Felix Online V1
 id: "5578"
 old_path: /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
 aliases:
  - /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
+imported: true
+comments:
+ - After the Diabetes Free program Review here httpswwwyoutubecomwatchvC_nJ3xlOWvk My mind is opened to the possibilities of using all natural methods to cure diabetes whether that means adopting a diabetic diet or lifestyle etc The 7 steps book is way better than Diabetes Free as far as treating diabetes goes I dropped my blood sugar to 7080 with it  Im starting to realize that we need to focus more on the natural methods that exist as far as beating diabetes goesfitflops shopsfitflop online sale australia httpwwwaustraliafitflopscomchristian louboutin heelschristian louboutin online httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pumpschristian louboutin shoes sale httpchristianlouboutincanadaoutletblogspotcomsuch an innreestitg mom u are love the mild reversal role whr ur daughter is conscious abt food coloring and privacy while u are all hyped to present the pretty pink cake to her happy birthday to ur daughter and may u both remain a loving
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - After the Diabetes Free program Review here httpswwwyoutubecomwatchvC_nJ3xlOWvk My mind is opened to the possibilities of using all natural methods to cure diabetes whether that means adopting a diabetic diet or lifestyle etc The 7 steps book is way better than Diabetes Free as far as treating diabetes goes I dropped my blood sugar to 7080 with it  Im starting to realize that we need to focus more on the natural methods that exist as far as beating diabetes goesfitflops shopsfitflop online sale australia httpwwwaustraliafitflopscomchristian louboutin heelschristian louboutin online httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pumpschristian louboutin shoes sale httpchristianlouboutincanadaoutletblogspotcomsuch an innreestitg mom u are love the mild reversal role whr ur daughter is conscious abt food coloring and privacy while u are all hyped to present the pretty pink cake to her happy birthday to ur daughter and may u both remain a loving
-imported: true
 ---
 
 A study conducted by a team including a professor from Imperial College London has suggested that the large-scale diabetes screening programme in India will result in the public health system being overwhelmed.

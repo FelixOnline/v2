@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alexandre Adler advises you on how to win an election – warning: it involves a lot of human interaction
 date: "2017-03-17 15:09:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6903"
 old_path: /comment/6903/so-you-want-to-run-an-elections-2018-campaign
 aliases:
  - /comment/6903/so-you-want-to-run-an-elections-2018-campaign
+imported: true
+comments:
+ -  AEROC                      13
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -  AEROC                      13
-imported: true
 ---
 
 Campaigning for a position in the student elections is the least Imperial-like thing imaginable: you have to talk to strangers while sober. Some coped by campaigning online, thereby retreating safely behind a Facebook page or Twitter account dedicated to their glory, but most of us ended up doing the face to face campaign. And it was an interesting experience, so I chose to write it down for your convenience. This way you can feel the thrill of the elections without actually standing for anything, or even voting. Isn’t that great?

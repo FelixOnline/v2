@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Why Elon Musk’s newest invention is smart, sexy and sustainable
 date: "2016-11-04 12:47:43 +0000"
+
 # Attributes from Felix Online V1
 id: "6381"
 old_path: /science/6381/saving-the-world-one-tile-at-a-time
 aliases:
  - /science/6381/saving-the-world-one-tile-at-a-time
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Unless you’ve been living under a cave for the last few years, you will have heard of Elon Musk, the founder of Tesla Motors, SolarCity and SpaceX. This South African born engineer, inventor and progressive thinker is on a quest to save mankind from itself through renewable energy, space exploration and by tackling whatever global issue he sets his mind on. Musk has often been compared to a real life Tony Stark.

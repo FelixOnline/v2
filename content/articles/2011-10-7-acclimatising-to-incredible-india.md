@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Follow the adventures of a backpacker across the mighty subcontinent, beginning with some sightseeing in the country’s brilliant capital city
 date: "2011-10-07 13:10:56 +0100"
+
 # Attributes from Felix Online V1
 id: "1497"
 old_path: /travel/1497/acclimatising-to-incredible-india
 aliases:
  - /travel/1497/acclimatising-to-incredible-india
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When I first touched down in New Delhi I have to say I was a tad deceived. Having skimmed my trusty Lonely Planet, I was expecting the Paharganj area to be a bustling Th Khao San à la Bangkok, but was greeted with something else entirely. I suppose I have my own ignorance to thank; I’d been told about what to expect, but brushed it off under the pretence that I am some sort of travel wizard.

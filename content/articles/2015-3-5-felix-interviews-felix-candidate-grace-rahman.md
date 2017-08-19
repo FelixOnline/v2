@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:48:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5347"
 old_path: /comment/5347/felix-interviews-felix-candidate-grace-rahman
 aliases:
  - /comment/5347/felix-interviews-felix-candidate-grace-rahman
+imported: true
+comments:
+ - birkenstock factory outletbirkenstock store httpbirkenstockaustraliamallscomlouboutin outletchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcomTidak perlu dilakukan pembalikan Pengamatan dilakukan cecara berkala misalnya pengamatan suhu kasar air dan perubahan tinggi tumpukan Jika proses pengomposan kurang berjalan bagus perlu dilakukan pembalikan Kompos ditutup terus sampai matang cartier bijoux replique homme urlhttpwwwbraceletluxefrcartier bijoux replique hommeurl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock factory outletbirkenstock store httpbirkenstockaustraliamallscomlouboutin outletchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcomTidak perlu dilakukan pembalikan Pengamatan dilakukan cecara berkala misalnya pengamatan suhu kasar air dan perubahan tinggi tumpukan Jika proses pengomposan kurang berjalan bagus perlu dilakukan pembalikan Kompos ditutup terus sampai matang cartier bijoux replique homme urlhttpwwwbraceletluxefrcartier bijoux replique hommeurl
-imported: true
 ---
 
 __What made you run for this position?__

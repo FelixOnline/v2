@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Moving onwards from our last issue
 date: "2012-02-16 22:06:03 +0000"
+
 # Attributes from Felix Online V1
 id: "2208"
 old_path: /comment/2208/a-note-on-last-weeks-hangman-
 aliases:
  - /comment/2208/a-note-on-last-weeks-hangman-
+imported: true
+comments:
+ - It wasnt promoting date rape but it was trivialising it I love Hangmans wedontgiveashit attitude Its at its funniest when its at its most outrageous But there is a fundamental difference between joking about Harry Potter inspired orgies and making light of rape regardless of the intention Remember that given the size of Felixs readership there will be readers who have been raped I do hope Hangman comes back soon and that it continues to be crazy and outrageous But making fun regardless of the intention of one of the most traumatic things that can happen to a person That crossed a line and Matt was right to respondRSocks with sandals the only way to go babyAre they removing the centrefold too No there was just nobody to do it last week Centrefolds are still going Alex is correct Centrefolds havent been droppedOh lads Lads lads lads You let yourself down Has a life of reading 4chan and reddit really desensitised you so completely to the idea that word
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - It wasnt promoting date rape but it was trivialising it I love Hangmans wedontgiveashit attitude Its at its funniest when its at its most outrageous But there is a fundamental difference between joking about Harry Potter inspired orgies and making light of rape regardless of the intention Remember that given the size of Felixs readership there will be readers who have been raped I do hope Hangman comes back soon and that it continues to be crazy and outrageous But making fun regardless of the intention of one of the most traumatic things that can happen to a person That crossed a line and Matt was right to respondRSocks with sandals the only way to go babyAre they removing the centrefold too No there was just nobody to do it last week Centrefolds are still going Alex is correct Centrefolds havent been droppedOh lads Lads lads lads You let yourself down Has a life of reading 4chan and reddit really desensitised you so completely to the idea that word
-imported: true
 ---
 
 In last week’s Felix, an article was published in the Hangman section which many readers felt incited sexual violence, trivialised rape and generally contributed to the idea of a rape culture. I would like to take the opportunity to assure readers that this was in no way our intention, and we all agree that a piece of content which does this is wholly unacceptable.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Gilead Amit and the abuse of sympathy
 date: "2010-02-01 17:09:39 +0000"
+
 # Attributes from Felix Online V1
 id: "65"
 old_path: /comment/65/the-abuse-of-sympathy
 aliases:
  - /comment/65/the-abuse-of-sympathy
+imported: true
+comments:
+ - I have no respect for people who say showing sympathy for Palestinians is being abused There is not enough words to describe the inhumanity caused by Israel and the suffering and injustice that is upon the people of Gaza Blaming Hamas to justify the indiscriminate massacre of over 1400 palestinians mostly civilians is preposterous The Goldstone Report conducted by the quotUnited Nations Fact Finding Mission on the Gaza Conflictquot concluded clearly and quite categorically that quotthere is strong evidence to establish that numerous serious violations of international law both humanitarian law and human rights law were committed by Israel during the military operations in Gaza The mission concluded that actions amounting to war crimes and possibly in some respects crimes against humanity were committed by the Israel Defense ForceTHE ABUSE OF MEDIAInteresting yet painful to follow the logicAgreed emotions do not necessarily point towards the true reality however as
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - gda07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have no respect for people who say showing sympathy for Palestinians is being abused There is not enough words to describe the inhumanity caused by Israel and the suffering and injustice that is upon the people of Gaza Blaming Hamas to justify the indiscriminate massacre of over 1400 palestinians mostly civilians is preposterous The Goldstone Report conducted by the quotUnited Nations Fact Finding Mission on the Gaza Conflictquot concluded clearly and quite categorically that quotthere is strong evidence to establish that numerous serious violations of international law both humanitarian law and human rights law were committed by Israel during the military operations in Gaza The mission concluded that actions amounting to war crimes and possibly in some respects crimes against humanity were committed by the Israel Defense ForceTHE ABUSE OF MEDIAInteresting yet painful to follow the logicAgreed emotions do not necessarily point towards the true reality however as
-imported: true
 ---
 
 This has been a busy week on campus. Imperial Christian Union have been hosting their free thinking week, and the Palestinian Society have organised a Gaza awareness week. And being a conscientious, participating member of the Union, I've tried to get involved with all these conflicting activities as best I can. I came to some of the Christian Union events, ready for an argument and the free doughnuts, with my fists clenched and my cheeks turned. I even went to some of my lectures.

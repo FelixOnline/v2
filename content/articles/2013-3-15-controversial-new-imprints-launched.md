@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Random House gets more Random
 date: "2013-03-15 01:32:32 +0000"
+
 # Attributes from Felix Online V1
 id: "3477"
 old_path: /books/3477/controversial-new-imprints-launched
 aliases:
  - /books/3477/controversial-new-imprints-launched
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Random House, one of the ‘big six’ English language publishers, has launched a set of new digital-only imprints. Hydra will publish science fiction, fantasy and horror; Alibi will publish mystery fiction; Loveswept will publish romantic fiction; and Flirt will focus on “New Adult” work.

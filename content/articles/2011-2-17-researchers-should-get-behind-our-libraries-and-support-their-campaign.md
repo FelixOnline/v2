@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The zeitgeist has changed irrevocably. University libraries have understood this; it is essential that researchers and publishers do the same.
 date: "2011-02-17 20:15:50 +0000"
+
 # Attributes from Felix Online V1
 id: "836"
 old_path: /comment/836/researchers-should-get-behind-our-libraries-and-support-their-campaign
 aliases:
  - /comment/836/researchers-should-get-behind-our-libraries-and-support-their-campaign
+imported: true
+comments:
+ - The Fat Burning Furnace primarily teaches 1 to be disciplined experienced and aware when it comes to our bodies It is because our bodies vary in metabolism charges and many other methods that trigger the induce of gaining much more pointless So why is there a will need for a single to drop excess weight and also a lot more by this Fat Burning Furnace system Beneath are just number of vital motives to know and observe that are details primarily based from scientific explanation and testified from the people by themselves  urlhttpfatburingfurnacereviewofebookcomfat burning furnace ebookurl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - The Fat Burning Furnace primarily teaches 1 to be disciplined experienced and aware when it comes to our bodies It is because our bodies vary in metabolism charges and many other methods that trigger the induce of gaining much more pointless So why is there a will need for a single to drop excess weight and also a lot more by this Fat Burning Furnace system Beneath are just number of vital motives to know and observe that are details primarily based from scientific explanation and testified from the people by themselves  urlhttpfatburingfurnacereviewofebookcomfat burning furnace ebookurl
-imported: true
 ---
 
 Universities are facing a drastic funding shortfall. As Felix [reported last week](http://felixonline.co.uk/?article=766), the Higher Education Funding Council for England has announced that it will be cutting the money that it gives to universities by almost £1 billion for 2011/12. These cuts could affect all areas of a university’s activities, and it will be up to individual institutions to decide what to prioritize. Even though fees of £9,000 will go some way to plugging the shortfall in funding, austere times lie ahead of us.

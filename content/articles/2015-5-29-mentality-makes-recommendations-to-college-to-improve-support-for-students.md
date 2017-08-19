@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Training and student support groups are suggested
 date: "2015-05-29 00:42:34 +0100"
+
 # Attributes from Felix Online V1
 id: "5574"
 old_path: /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
 aliases:
  - /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
+imported: true
+comments:
+ - fitflops australia outletfitflop australia sale httpfitflopsaublogspotcommens louboutinchristian louboutin shoes sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin for mencheap christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomwomens christian louboutin flatschristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops australia outletfitflop australia sale httpfitflopsaublogspotcommens louboutinchristian louboutin shoes sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin for mencheap christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomwomens christian louboutin flatschristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 Mentality made a number of recommendations towards the end of the survey, which they think would improve the services available to Imperial students.

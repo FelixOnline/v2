@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Royal British Legion provides £5m towards understanding roadside bomb injuries
 date: "2011-12-08 20:03:06 +0000"
+
 # Attributes from Felix Online V1
 id: "1906"
 old_path: /news/1906/blast-injury-centre-set-up-at-imperial
 aliases:
  - /news/1906/blast-injury-centre-set-up-at-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A new £8m Royal British Legion Centre for Blast Injury Studies at Imperial College has officially opened this week. The Centre aims to provide a better understanding of the injuries caused by roadside bombs, or Improvised Explosive Devices (IEDs). These are the leading cause of death and injury for Service personnel on operations in Afghanistan and Iraq.

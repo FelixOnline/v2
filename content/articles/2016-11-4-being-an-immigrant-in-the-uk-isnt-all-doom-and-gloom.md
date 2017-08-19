@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Aayush Singh responds to Lef’s article on immigration
 date: "2016-11-04 14:20:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6390"
 old_path: /comment/6390/being-an-immigrant-in-the-uk-isnt-all-doom-and-gloom
 aliases:
  - /comment/6390/being-an-immigrant-in-the-uk-isnt-all-doom-and-gloom
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In response to the article from Friday, the 14th of October, _I never knew how hard it was being an immigrant until I put it into words_, I would like to propose an alternative view and my own personal take on life as an immigrant in Britain.

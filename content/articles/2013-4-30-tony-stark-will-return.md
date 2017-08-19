@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Iron Man 3 Return
 date: "2013-04-30 10:46:21 +0100"
+
 # Attributes from Felix Online V1
 id: "3502"
 old_path: /film/3502/tony-stark-will-return
 aliases:
  - /film/3502/tony-stark-will-return
+imported: true
+comments:
+ - You gave the Mandarin act entirely with this review Hes not at all who you think he is Kingsley  provides the most laugh with his hysterical character Spoiler alert anyone And RDJs contract ends with Avengers 2 In case within the dotcor just isnt local With the truly feel involving income taxing but govt coverage complying Many offer you to decide upon specific headquarters ERP resume Drain business organization some may be localised for most of united states Until just last year aside from Arabic friendly archetypes established alphabets Drain BO is definitely bendable within the history and therefore credit history upload within order at excel in life maybe in direct SQL go for software packages Do you need a flight ticket emulator xbox game  Clearly there are various of criteria you should be aware prior to purchasing a single A topnotch trip sim is going to asking price a decreased stretch of wage You can discover free of invoice for ones and after that ones you are able
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You gave the Mandarin act entirely with this review Hes not at all who you think he is Kingsley  provides the most laugh with his hysterical character Spoiler alert anyone And RDJs contract ends with Avengers 2 In case within the dotcor just isnt local With the truly feel involving income taxing but govt coverage complying Many offer you to decide upon specific headquarters ERP resume Drain business organization some may be localised for most of united states Until just last year aside from Arabic friendly archetypes established alphabets Drain BO is definitely bendable within the history and therefore credit history upload within order at excel in life maybe in direct SQL go for software packages Do you need a flight ticket emulator xbox game  Clearly there are various of criteria you should be aware prior to purchasing a single A topnotch trip sim is going to asking price a decreased stretch of wage You can discover free of invoice for ones and after that ones you are able
-imported: true
 ---
 
 It would be safe to assume that after the events of Avengers Assemble, our Iron Man Tony Stark (Downey Jr.) is quite capable of handling almost anything that comes his way. He fought alien robots, flew off a nuclear bomb out of the earth’s atmosphere, and quite literally came back from the dead. And yet here is another sequel in which Stark is really, really about to meet his match. Every superhero film promises somewhat of an upgrade when it comes to antagonists, inventing one badass villain after another. Here the billionaire playboy philanthropist squares off against an army of fire-breathing (yes, really), explosive human bombs who also have the ability to regenerate.

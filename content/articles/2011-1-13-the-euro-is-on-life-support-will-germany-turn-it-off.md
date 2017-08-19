@@ -4,16 +4,24 @@ title: >
 subtitle: >
   2010 was a turning point for the euro
 date: "2011-01-13 20:04:13 +0000"
+
 # Attributes from Felix Online V1
 id: "574"
 old_path: /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
 aliases:
  - /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
+imported: true
+comments:
+ - I have to mention that there is an error in my article The above article says that the current account balance of Iceland was 15 of its GDP in 2008 but the truth is that it was minus 15 of its GDPId like to correct it OK The article has been corrected Thank you Editor Remember that in a doublewhammy eoleticn year he is locked not only in a grand coalition but in a struggle with the excomunnist Left party The bottomline of the SPDs argument is that AngloAmerican capitalism is to blame for the crisis not the lovely German  social market economy  The SPD blasts the lack of financial regulation You wonder of course where GermanEuropean regulators were when Hypo Real Estates Irish subsidiary went off the cliffs Never mind that Mr Steinbrfccks party has been holding the Finance Ministry ever since 1998 which is responsible for the regulation of the financial sector So it may be all  Its politics stupid  And so far the strategy has been holding up The left has not gained in t
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - TM1510
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "TM1510"
 author_name: "Tomokazu Miyamoto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have to mention that there is an error in my article The above article says that the current account balance of Iceland was 15 of its GDP in 2008 but the truth is that it was minus 15 of its GDPId like to correct it OK The article has been corrected Thank you Editor Remember that in a doublewhammy eoleticn year he is locked not only in a grand coalition but in a struggle with the excomunnist Left party The bottomline of the SPDs argument is that AngloAmerican capitalism is to blame for the crisis not the lovely German  social market economy  The SPD blasts the lack of financial regulation You wonder of course where GermanEuropean regulators were when Hypo Real Estates Irish subsidiary went off the cliffs Never mind that Mr Steinbrfccks party has been holding the Finance Ministry ever since 1998 which is responsible for the regulation of the financial sector So it may be all  Its politics stupid  And so far the strategy has been holding up The left has not gained in t
-imported: true
 ---
 
 “We can abandon the euro if our proposal is refused.” Angela Merkel, the German chancellor, said to George Papandreou, the Greece prime minister, during dinner at the EU summit in Brussels last October. The summit was held to discuss the euro crisis and a plan to bail out Ireland. Merkel had demanded a new legislation stating that bailed-out countries should lose certain voting rights in EU councils. Since it is only Germany that can pay a large amount of money as a bailout, the country is asked to bear the greatest burden whenever a debt crisis happens. Such unfairness has certainly made the German populace uncomfortable, but insisting on the loss of EU council voting rights was opposed by many other EU governments.

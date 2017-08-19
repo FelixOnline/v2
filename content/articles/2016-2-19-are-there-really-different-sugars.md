@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Or why your agave syrup isn’t really any better
 date: "2016-02-19 11:29:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5933"
 old_path: /science/5933/are-there-really-different-sugars
 aliases:
  - /science/5933/are-there-really-different-sugars
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cane sugar, honey, raw turbinado, coconut sugar, agave syrup. Many nutrition experts sitting on their high horses all wax lyrical over these glistening labels, eager to proclaim the nutritional properties of each. These are the same people who are religious avocado-toast eaters and green-juice guzzlers. These are the people who are fine with anything that’s not white sugar or high-fructose corn syrup, the four words which instigate heated debate in the world of nutrition. The hidden truth? All these sugars are the same, in the sense that they all get processed the same way. Too much sugar in any form is dangerous.

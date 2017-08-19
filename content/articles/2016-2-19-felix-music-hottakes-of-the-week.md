@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Takes so hot they are literally hell
 date: "2016-02-19 12:21:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5943"
 old_path: /music/5943/felix-music-hottakes-of-the-week
 aliases:
  - /music/5943/felix-music-hottakes-of-the-week
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _He wanted the world to know his struggle_

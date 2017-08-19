@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sex dreams would totally be on repeat. AMMIRITE?
 date: "2012-10-26 02:31:35 +0100"
+
 # Attributes from Felix Online V1
 id: "2746"
 old_path: /science/2746/recording-dreams
 aliases:
  - /science/2746/recording-dreams
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Have you ever had an absolutely fantastic dream, woken up and promptly forgotten everything that happened in it? I certainly have, and would love to be able to watch some of the more interesting ones back later. The idea of reading and recording dreams has been the preserve of science fiction, but as our understanding of the brain improves, it is getting closer to reality.

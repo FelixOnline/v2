@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The first of our 'games that never made it' feature
 date: "2011-02-28 20:48:07 +0000"
+
 # Attributes from Felix Online V1
 id: "935"
 old_path: /games/935/dirty-harry-the-game
 aliases:
  - /games/935/dirty-harry-the-game
+imported: true
+comments:
+ - Holy crap I never knew any of this Awesome
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Holy crap I never knew any of this Awesome
-imported: true
 ---
 
 No, I kid you not, they were really going to make a Dirty Harry game. To be set in between the first two films, the game was to focus on SFPD Inspector Harry Callahan as he pursues the serial killer Scorpio. One of the creative aims driving its production was to further develop the character of Dirty Harry himself, a man so ridiculously bad-ass that even people misquoting him sound cool by association.

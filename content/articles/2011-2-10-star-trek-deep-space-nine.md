@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It’s high time Maciej Matuszewski tackled one of the best known science fiction phenomena out there, Star Trek
 date: "2011-02-10 20:30:45 +0000"
+
 # Attributes from Felix Online V1
 id: "775"
 old_path: /science/775/star-trek-deep-space-nine
 aliases:
  - /science/775/star-trek-deep-space-nine
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Seeing how I’ve been doing this for a few weeks now I think it’s high time I tackled one of the best known science fiction phenomena out there, Star Trek. The franchise has been a massive success and even most people who aren’t fans can recognise Captains Kirk and Picard. My favourite Star Trek show, however, is a bit more obscure than The Original Series or The Next Generation; it is, in fact, Star Trek Deep Space Nine.

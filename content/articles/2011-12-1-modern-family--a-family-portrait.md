@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A TV series which looks at the everyday life of your typical family
 date: "2011-12-01 20:36:11 +0000"
+
 # Attributes from Felix Online V1
 id: "1873"
 old_path: /tv/1873/modern-family--a-family-portrait
 aliases:
  - /tv/1873/modern-family--a-family-portrait
+imported: true
+comments:
+ - I was recommended to watch this show by a friend of mine I never got around to it until I was reminded about it by this article All that to say that my housemates and myself are now huge fans  of Gloria of course
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - js2310
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I was recommended to watch this show by a friend of mine I never got around to it until I was reminded about it by this article All that to say that my housemates and myself are now huge fans  of Gloria of course
-imported: true
 ---
 
 I have a completely insane family. So when I heard about _[Modern Family](http://www.imdb.com/title/tt1442437/)_, I didn’t think much of it. The advert on TV just made me cringe. That was until I watched an episode. American comedies can sometimes disappoint, but this show is fantastic. I would venture to say it’s because it has a hint of British humour to it, with a lot of the slapstick and puns that we love so much.

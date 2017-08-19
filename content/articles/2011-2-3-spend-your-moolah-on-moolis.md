@@ -4,16 +4,24 @@ title: >
 subtitle: >
   When the hooplah over Brick Lane just gets too much.“Fed up with the cuisine wrongly assumed to be ‘Indian’ in London *cough* Brick Lane...”
 date: "2011-02-03 18:56:01 +0000"
+
 # Attributes from Felix Online V1
 id: "707"
 old_path: /food/707/spend-your-moolah-on-moolis
 aliases:
  - /food/707/spend-your-moolah-on-moolis
+imported: true
+comments:
+ - Absolutely on the dot except that we would not call the roti used a rumali roti Having tasted all the moolis described I can vouch for the veracity of the descriptionUnfortunately not open on Sundays but the friendliness of the staff makes this place stand out
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Absolutely on the dot except that we would not call the roti used a rumali roti Having tasted all the moolis described I can vouch for the veracity of the descriptionUnfortunately not open on Sundays but the friendliness of the staff makes this place stand out
-imported: true
 ---
 
 Situated just off Shaftsbury Avenue in the heart of the West End, a district known for its wide variety of theatres and eateries, Mooli’s is a small, minimalistic and trendy restaurant which stands out from the crowd by serving food that’s a little bit different. Fed up with the cuisine wrongly assumed to be ‘Indian’ in London, *cough* Brick Lane, Mooli’s is the brainchild of two former bankers who saw a gap in the market for cheap authentic Indian food on-the-go. For this reason you won’t find a tikka masala or anything of that sort at Mooli’s!

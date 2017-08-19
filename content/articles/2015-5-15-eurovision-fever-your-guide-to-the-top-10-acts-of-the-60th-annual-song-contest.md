@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jamie Thomas gives us the lowdown on this year’s favourites
 date: "2015-05-15 12:24:48 +0100"
+
 # Attributes from Felix Online V1
 id: "5530"
 old_path: /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
 aliases:
  - /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
+imported: true
+comments:
+ - xXH08j httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - xXH08j httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 ### United Kingdom

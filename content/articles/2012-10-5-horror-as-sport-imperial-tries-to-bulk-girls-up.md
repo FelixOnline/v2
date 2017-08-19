@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sorcha Cotter retells two weeks of free/gruelling sessions
 date: "2012-10-05 13:32:18 +0100"
+
 # Attributes from Felix Online V1
 id: "2629"
 old_path: /sport/2629/horror-as-sport-imperial-tries-to-bulk-girls-up
 aliases:
  - /sport/2629/horror-as-sport-imperial-tries-to-bulk-girls-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two weeks before term starts, sport imperial organized some FREE pre-season fitness for all abilities from those elite athletes among us, as well as anyone just wanting to look in tiptop shape for the incoming freshers!

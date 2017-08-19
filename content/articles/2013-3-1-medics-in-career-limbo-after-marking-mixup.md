@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anxious wait for the final years
 date: "2013-03-01 01:22:20 +0000"
+
 # Attributes from Felix Online V1
 id: "3418"
 old_path: /news/3418/medics-in-career-limbo-after-marking-mixup
 aliases:
  - /news/3418/medics-in-career-limbo-after-marking-mixup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 More than seven thousand final year medics nationwide have been left stunned and unsure of their future following the retraction of allocated Situational Judgement Test (SJT) results. The move, taken by the UK Foundation Programme Office (UKFPO) on 25 February, means that medics must undergo yet another nervous wait to find out which hospital will become their training base.

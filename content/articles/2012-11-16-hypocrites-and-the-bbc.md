@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Butcher argues that the BBC are alright, what other organisation would publicly grill its boss?
 date: "2012-11-16 17:17:58 +0000"
+
 # Attributes from Felix Online V1
 id: "2920"
 old_path: /comment/2920/hypocrites-and-the-bbc
 aliases:
  - /comment/2920/hypocrites-and-the-bbc
+imported: true
+comments:
+ - Except I cant choose to not pay its fee can I By having a television capable of receiving live broadcast I am legally obliged to pay 150 every single year Even if I never ever watch anything by the BBCFact is it is worth 150 a year for the reasons you so eloquently describe It is an amazing service Anyone whos ever watched American news is rightly totally in awe of BBC NewsBut where is the choice Now that all the analoque broadcasts have been turned off there is absolutely no justification at all for an archaic system where you pay a tax for owning a television Even if you dont own a television you get threatening letters every few weeks and the occasional visit from someone wanting to check your room for televisionsThe BBC should become a subscription service you can optin to like Sky Sports or whatever Abolish the TV TaxI agree you Christopher that if I was to build up the entire system from scratch I probably wouldnt chose it as it is now But what we have n
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Except I cant choose to not pay its fee can I By having a television capable of receiving live broadcast I am legally obliged to pay 150 every single year Even if I never ever watch anything by the BBCFact is it is worth 150 a year for the reasons you so eloquently describe It is an amazing service Anyone whos ever watched American news is rightly totally in awe of BBC NewsBut where is the choice Now that all the analoque broadcasts have been turned off there is absolutely no justification at all for an archaic system where you pay a tax for owning a television Even if you dont own a television you get threatening letters every few weeks and the occasional visit from someone wanting to check your room for televisionsThe BBC should become a subscription service you can optin to like Sky Sports or whatever Abolish the TV TaxI agree you Christopher that if I was to build up the entire system from scratch I probably wouldnt chose it as it is now But what we have n
-imported: true
 ---
 
 The [BBC](http://www.bbc.co.uk/) has been having an interesting few days. Or at least a small part of the investigative journalism section has. Not only do they fail to broadcast an allegation about [Jimmy Savile](http://www.bbc.co.uk/news/uk-19921658), leaving it to [ITV to do so several months later](http://www.itv.com/news/update/2012-10-04/watch-the-itv-documentary-on-jimmy-savile/), but they [accidentally aired a report from someone suggesting that they had been abused by a former senior polititician,](http://www.bbc.co.uk/news/uk-20348978) when actually it wasn’t the person they meant, even though they never actually gave a name. I know, I’m confused too.

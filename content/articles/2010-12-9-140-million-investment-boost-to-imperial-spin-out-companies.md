@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stock market floatation raises millions for research
 date: "2010-12-09 21:38:50 +0000"
+
 # Attributes from Felix Online V1
 id: "539"
 old_path: /news/539/140-million-investment-boost-to-imperial-spin-out-companies-
 aliases:
  - /news/539/140-million-investment-boost-to-imperial-spin-out-companies-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - za710
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "za710"
 author_name: "Zainab Ali"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A leading technological development company, Imperial Innovations, has [announced](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_7-12-2010-8-52-12) that it intends to raise £140 million within the next two years, some of which will be used to fund research at Imperial College.

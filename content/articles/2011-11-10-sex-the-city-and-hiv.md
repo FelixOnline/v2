@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maya Kaushik discusses the Master’s project that forced her to look at her hometown of Bangalore in a completely different way
 date: "2011-11-10 20:49:15 +0000"
+
 # Attributes from Felix Online V1
 id: "1721"
 old_path: /science/1721/sex-the-city-and-hiv
 aliases:
  - /science/1721/sex-the-city-and-hiv
+imported: true
+comments:
+ - Your answer shows real inngllieetceThis is what we need  an insight to make evrnoyee think  insurance agencies for autos   cialis order   fights diseases   order accutane   might expereince
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your answer shows real inngllieetceThis is what we need  an insight to make evrnoyee think  insurance agencies for autos   cialis order   fights diseases   order accutane   might expereince
-imported: true
 ---
 
 Ever sat with a hanky in hand, wiping away tears as Edward climbs the fire escape with a rose in his teeth to profess his love to Vivienne, in the final scene of Pretty Woman? Or ever had a laugh at Belle and her hilarious antics in Secret Diary of a Call Girl?

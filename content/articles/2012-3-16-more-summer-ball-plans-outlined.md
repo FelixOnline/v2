@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tickets now on sale, greater emphasis on managing risk
 date: "2012-03-16 01:50:40 +0000"
+
 # Attributes from Felix Online V1
 id: "2402"
 old_path: /news/2402/more-summer-ball-plans-outlined
 aliases:
  - /news/2402/more-summer-ball-plans-outlined
+imported: true
+comments:
+ - 13000 on acts Is this some sort of joke or what Any halfdecent act will cost more than that alone Rest assured I will not be going if there arent some really great name acts Laura Marling last year was a perfect example of a great act even though I have waited for this ball for 4 yearsWhat an absolute joke Also Matt please link to article of original loss Its good practise You want big name actsGo to ticketmaster ffsYou should also link to where to buy the tickets Remember when we lost 100000 on a Summer Ball And the ball itself sucked Spending vast sums of money on major acts doesnt guarentee a good time So long as the organisers dont screw up the basics Im sure most people will have a good time
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 13000 on acts Is this some sort of joke or what Any halfdecent act will cost more than that alone Rest assured I will not be going if there arent some really great name acts Laura Marling last year was a perfect example of a great act even though I have waited for this ball for 4 yearsWhat an absolute joke Also Matt please link to article of original loss Its good practise You want big name actsGo to ticketmaster ffsYou should also link to where to buy the tickets Remember when we lost 100000 on a Summer Ball And the ball itself sucked Spending vast sums of money on major acts doesnt guarentee a good time So long as the organisers dont screw up the basics Im sure most people will have a good time
-imported: true
 ---
 
 Tickets are [now on sale](http://www.union.ic.ac.uk/marketing/summerball/) for this year’s scaled-down Summer Ball, to be held on 23 June. Promising a “transformed South Kensington campus” and marking the return of a black tie formal dinner option, the Union has sought to firmly overview the financial risk of the event in order to avoid [a substantial loss](http://felixonline.co.uk/news/1450/summer-ball-suffers-100000-loss/) such as that sustained at the 2011 Summer Ball.

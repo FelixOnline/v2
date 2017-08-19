@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Student photographed in Central Library bathrooms
 date: "2011-06-23 18:55:24 +0100"
+
 # Attributes from Felix Online V1
 id: "1409"
 old_path: /news/1409/students-warned-about-campus-pervert
 aliases:
  - /news/1409/students-warned-about-campus-pervert
+imported: true
+comments:
+ - College has always had an issue with a poor level of CCTV coverage The unsolved thefts that have happened in abundance over the last few years continue to show that this is a real problem Having said that stealing Spanner and Bolt wouldnt be half as easy if there were a load of CCTV in the Mech Eng corridorCollege is painfully aware of their shoddy CCTV Often the cameras have the wrong timestamps so even if you know exactly when an incident occurred youre unlikely to find footage of the culprit Youd think theyd work out how to set the time on what is basically a fancy VCR rightit had significantly affected her revision  this made me laugh so hard I mean really If she saw the phone taking pics why couldnt she pull it from the said pervs hands Or if that sounds harsh cover the camera with toilet paper or whateverAnd waiting 45 hours at the police station Shes just looking for a way to get marks on her exams for mitigating circumstancesOh dear its exam time and I havent re
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - College has always had an issue with a poor level of CCTV coverage The unsolved thefts that have happened in abundance over the last few years continue to show that this is a real problem Having said that stealing Spanner and Bolt wouldnt be half as easy if there were a load of CCTV in the Mech Eng corridorCollege is painfully aware of their shoddy CCTV Often the cameras have the wrong timestamps so even if you know exactly when an incident occurred youre unlikely to find footage of the culprit Youd think theyd work out how to set the time on what is basically a fancy VCR rightit had significantly affected her revision  this made me laugh so hard I mean really If she saw the phone taking pics why couldnt she pull it from the said pervs hands Or if that sounds harsh cover the camera with toilet paper or whateverAnd waiting 45 hours at the police station Shes just looking for a way to get marks on her exams for mitigating circumstancesOh dear its exam time and I havent re
-imported: true
 ---
 
 On Saturday 18th June, during the Summer Ball, an at around 3pm in the Central Library, a female Imperial student, who has asked to remain anonymous, was followed into the 2nd floor toilets by another person who then attempted to take pictures of her by sliding their mobile phone underneath the stall.

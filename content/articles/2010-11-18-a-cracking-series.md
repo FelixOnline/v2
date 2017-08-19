@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Masiej Matuszewski attends the BAFTA preview of Sky One’s latest comedy series of all-star Christmas specials
 date: "2010-11-18 20:46:19 +0000"
+
 # Attributes from Felix Online V1
 id: "392"
 old_path: /film/392/a-cracking-series
 aliases:
  - /film/392/a-cracking-series
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week I visited a preview of Sky One’s new series of Christmas specials, Little Crackers, as hosted by BAFTA. They are a part of a plan by the channel to introduce more original comedy and make Sky One a “warmer, funnier place”, with the series consisting of twelve stand-alone shorts. Showing as a double bill every evening in the weeks leading up to Christmas, they give some of Britain’s best known comedic stars the chance to bring their vision to the nation’s TV screens.

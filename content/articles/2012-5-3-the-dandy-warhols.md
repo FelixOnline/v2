@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Aditya Narayanan starts a mosh pit in Kentish Town
 date: "2012-05-03 17:52:14 +0100"
+
 # Attributes from Felix Online V1
 id: "2407"
 old_path: /music/2407/the-dandy-warhols
 aliases:
  - /music/2407/the-dandy-warhols
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The band is __The Dandy Warhols__. The location is the Kentish Town Forum. The mission? To start a mosh pit. My friend, a die-hard punk fan who is also coming to see the gig remains sceptical. A band known for producing radio-friendly power pop hits to supplement their back catalogue of psychedelic stoner rock is – in theory at least – unlikely to attract the energetic and robust crowd required to partake in behaviour traditionally more suited to more aggressive forms of music.

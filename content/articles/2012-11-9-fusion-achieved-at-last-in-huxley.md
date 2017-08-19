@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An interview with Physics’ artist in residence
 date: "2012-11-09 13:13:59 +0000"
+
 # Attributes from Felix Online V1
 id: "2855"
 old_path: /arts/2855/fusion-achieved-at-last-in-huxley
 aliases:
  - /arts/2855/fusion-achieved-at-last-in-huxley
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I met Geraldine Cox in a windy garet on the roof of the physics building. The abandoned weather station is an octagonal room half-open to the elements and filled with drying clothes, bits of mouldering, esoteric looking equipment and empty beer bottles. It was an appropriately idiosyncratic setting for an interview with a unusual person. Geraldine is the Department of Physics’ artist in residence.

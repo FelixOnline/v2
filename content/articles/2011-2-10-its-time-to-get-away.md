@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Toss away the Valentine’s Day courtesies, and consider travelling alone
 date: "2011-02-10 19:53:16 +0000"
+
 # Attributes from Felix Online V1
 id: "759"
 old_path: /travel/759/its-time-to-get-away
 aliases:
  - /travel/759/its-time-to-get-away
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - cr709
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cr709"
 author_name: "Christopher Richardson"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With a significant proportion of you currently being in a ‘dry spell’ (as highlighted by Felix’s excellent [sex survey](http://www.felixonline.co.uk/?article=791)) this article is probably irrelevant to a lot of you. But I urge those it concerns to take some of the key points on board before hopping on the lovey-dovey travelling bandwagon. It takes some serious cojones and a lot of hard work to properly pull it off.

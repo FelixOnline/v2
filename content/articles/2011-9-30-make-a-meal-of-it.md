@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charles Betts wrestles with existential angst as he attempts to review restaurant chain Giraffe
 date: "2011-09-30 12:21:15 +0100"
+
 # Attributes from Felix Online V1
 id: "1461"
 old_path: /food/1461/make-a-meal-of-it
 aliases:
  - /food/1461/make-a-meal-of-it
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So, I’m sitting in the Union, and the Felix Editor comes up and says, “Hi, would you like to go and review [Giraffe](http://www.giraffe.net/)?” And I say yes, especially as the restaurant is paying. But now, all I can think is, “Oh shit.” You see, I’m stuck. I just don’t know how to write a proper food review – I mean, where do I get the training for this sort of thing? I’ve never played this game before. Sure, I’ve always rather loved nosh. Yes, I can tell the difference between fried and poached eggs, vomit and ratatouille. I’ve even eaten in a few Michelin-starred restaurants. But when it comes to expressing my taste sensations in writing, I’m lost.

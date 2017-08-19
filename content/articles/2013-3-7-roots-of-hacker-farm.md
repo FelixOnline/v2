@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Riaz Agahi harvests info ahead of an IC Radio exclusive
 date: "2013-03-07 21:38:17 +0000"
+
 # Attributes from Felix Online V1
 id: "3427"
 old_path: /music/3427/roots-of-hacker-farm
 aliases:
  - /music/3427/roots-of-hacker-farm
+imported: true
+comments:
+ - httpwwwfacebookcomSongsAboutNothing
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpwwwfacebookcomSongsAboutNothing
-imported: true
 ---
 
 Ahead of the Hacker Farm exclusive on IC Radio next week, I spoke to them about their influences, motivations and what’s coming up next. Kek W ably walked me through the HF ethos.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Time to Fear the Walking Dead
 date: "2016-05-27 09:03:09 +0100"
+
 # Attributes from Felix Online V1
 id: "6218"
 old_path: /tv/6218/the-zombies-are-coming
 aliases:
  - /tv/6218/the-zombies-are-coming
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ever since it was introduced, _The Walking Dead’s_ popularity has soared through the roof. Another Zombie apocalypse styled story, the franchise has a comic book, TV series, video game, and now, with _Fear the Walking Dead_, a spin-off TV series. With the main show still airing and already in place however, it begs the question, does this show add anything new and substantially different?

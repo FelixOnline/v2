@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Here Felix Games presents a poem for you: gamers are artists
 date: "2014-01-15 17:07:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4217"
 old_path: /games/4217/virtual-reality
 aliases:
  - /games/4217/virtual-reality
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ah, what a powerful feeling!

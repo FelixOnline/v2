@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Hub Project: Become a mentor for school businesses
 date: "2013-10-11 23:08:16 +0100"
+
 # Attributes from Felix Online V1
 id: "3824"
 old_path: /biz/3824/interested-in-enterprise
 aliases:
  - /biz/3824/interested-in-enterprise
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Imagine you are not at Imperial. You have never heard of Felix and you are not sitting here reading this article. What a dream. No dull lectures, ridiculously difficult coursework, or seemingly un-passable exams. But imagine that it wasn’t out of choice – imagine you never obtained the opportunity to study here, or to do any studying at all in fact. According to UNESCO, this is the reality for 57 million primary school-aged and 69 million lower secondary school-aged children as of 2011 around the world. There are huge efforts to try and get these figures down to 0, but it is still a long way off.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A recap of all the main news stories from 2014
 date: "2014-12-12 13:01:10 +0000"
+
 # Attributes from Felix Online V1
 id: "5050"
 old_path: /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
 aliases:
  - /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
+imported: true
+comments:
+ - Dashed I meant  but that was before I read the link about the authors What fascinating women and what a compelling story Maybe cornibolataols arent such a great idea ulp
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Dashed I meant  but that was before I read the link about the authors What fascinating women and what a compelling story Maybe cornibolataols arent such a great idea ulp
-imported: true
 ---
 
 It has been a busy year for Imperial College, with the Union and the University alike giving Felix lots of material and good reason to go to print (most of the time).

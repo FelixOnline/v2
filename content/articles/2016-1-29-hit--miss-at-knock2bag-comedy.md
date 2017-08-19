@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Fifteen minute funny bits
 date: "2016-01-29 09:43:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5853"
 old_path: /arts/5853/hit--miss-at-knock2bag-comedy
 aliases:
  - /arts/5853/hit--miss-at-knock2bag-comedy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Fresh outta West Basement, this comedy virgin headed out to meet Knock2Bag. Hailed by _Time Out_ as some of the best comedy in the East End at brilliant value, it had a lot to live up to.

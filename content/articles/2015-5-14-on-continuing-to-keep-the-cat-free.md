@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson doesn’t want to set a precedent for the censorship of student media
 date: "2015-05-14 22:41:41 +0100"
+
 # Attributes from Felix Online V1
 id: "5525"
 old_path: /comment/5525/on-continuing-to-keep-the-cat-free
 aliases:
  - /comment/5525/on-continuing-to-keep-the-cat-free
+imported: true
+comments:
+ - Great article Keep the Cat FreeMartin S TaylorFELIX Editor 198283While I agree that media censorship should not be allowed Felix should be more sensitive in how it relays information Why is there a need to put that story in the front page knowing perfectly well that there would be thousands of visitors coming to the College on the weekend Wouldnt it be better to delay the news and not jeopardise such an opportunity to promote the College in a large scaleIf your goal is to inform the students then delaying the story wouldnt have mattered as we would be here anyway And if your goal is to inform the public well the story is already out there for them to see Felixs job isnt to do PR for the College There are enough spinners on campus as it isYou make some valid points many of which weve discussed in the office Felix puts a lot of thought into how we present information we follow best practice media guidelines set out by Samaritans and other sources whenever we cover sensiti
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great article Keep the Cat FreeMartin S TaylorFELIX Editor 198283While I agree that media censorship should not be allowed Felix should be more sensitive in how it relays information Why is there a need to put that story in the front page knowing perfectly well that there would be thousands of visitors coming to the College on the weekend Wouldnt it be better to delay the news and not jeopardise such an opportunity to promote the College in a large scaleIf your goal is to inform the students then delaying the story wouldnt have mattered as we would be here anyway And if your goal is to inform the public well the story is already out there for them to see Felixs job isnt to do PR for the College There are enough spinners on campus as it isYou make some valid points many of which weve discussed in the office Felix puts a lot of thought into how we present information we follow best practice media guidelines set out by Samaritans and other sources whenever we cover sensiti
-imported: true
 ---
 
 Last weekend, the College played host to 15,000 guests at this year’s Imperial Festival. With alumni events running alongside, the festival seeks to raise Imperial’s profile by dragging its scientists and engineers out of the laboratory to share their research with the public. But this year, one regular campus fixture wasn’t being presented to the ImpFest audience: the student newspaper, Felix.

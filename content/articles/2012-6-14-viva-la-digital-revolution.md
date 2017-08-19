@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Rayner ponders the future of printed music and the dominance of downloads
 date: "2012-06-14 20:03:47 +0100"
+
 # Attributes from Felix Online V1
 id: "2556"
 old_path: /tech/2556/viva-la-digital-revolution
 aliases:
  - /tech/2556/viva-la-digital-revolution
+imported: true
+comments:
+ - I think your spot on in youre artical with the push for digital distribution streaming  cloud Based services becoming ever more the norm it leaves the dependency for Hard copys Optical drives album art  special editions related to those formats to be fazed out entirely for profiting and piracy issues The idea is genius from a business point of view the Label cuts out all the middle men from production importexport and everyone inbetween to Instead have the customer go direct to them at the point of sale without ever really needing to over spend on anything other then marketing well I assumeOn the other hand the purist will be dragged kicking and screaming into this way of digital conformation rendering their love of the physical copy useless and worthless as soon as the hardware designed to play them are also assigned to the history books of time
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think your spot on in youre artical with the push for digital distribution streaming  cloud Based services becoming ever more the norm it leaves the dependency for Hard copys Optical drives album art  special editions related to those formats to be fazed out entirely for profiting and piracy issues The idea is genius from a business point of view the Label cuts out all the middle men from production importexport and everyone inbetween to Instead have the customer go direct to them at the point of sale without ever really needing to over spend on anything other then marketing well I assumeOn the other hand the purist will be dragged kicking and screaming into this way of digital conformation rendering their love of the physical copy useless and worthless as soon as the hardware designed to play them are also assigned to the history books of time
-imported: true
 ---
 
 Video killed the radio star, tape was hailed to be a killer of music (yes tapes, origin of the term mix tape and sole inventor of yet another use for the pencil) but now is digital content and cloud saving killing nearly all forms of art?

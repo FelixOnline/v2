@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Mario Testino pays homage to British icon Kate Moss in limited edition book
 date: "2010-10-10 15:43:46 +0100"
+
 # Attributes from Felix Online V1
 id: "194"
 old_path: /fashion/194/mario-testino-vs-kate-moss
 aliases:
  - /fashion/194/mario-testino-vs-kate-moss
+imported: true
+comments:
+ - We should REALLY talk about the Isabella Blow book surely Or the Isabella Blow BOOKS
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - We should REALLY talk about the Isabella Blow book surely Or the Isabella Blow BOOKS
-imported: true
 ---
 
 When one of the most renowned fashion photographers collaborates with his muse, it is unsurprising that they should create the most exclusive photographic tome since Helmut Newton’s gargantuan, and aptly named, Sumo. Kate Moss by Mario Testino, printed in extremely limited edition and retailing at about £600, has become an object of lust for fashionistas everywhere. Not only does it contain some of the most iconic work of a creative genius, but it also gives a glimpse into the world of the inimitable Kate Moss, from her early days backstage at her first runway shows to her revolutionary editorials, plus intimate private shots between the two extraordinarily close friends.

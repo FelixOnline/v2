@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The food review
 date: "2012-10-05 13:20:30 +0100"
+
 # Attributes from Felix Online V1
 id: "2626"
 old_path: /food/2626/la-famiglia
 aliases:
  - /food/2626/la-famiglia
+imported: true
+comments:
+ - 1 food the rest is a rather pitiful and vapid student criticism of Rupert Murdochs empire I know this is a student paper but seriously isnt the editor there to make sure people stay on topicThe experience is relevant too of course but the writer just seems like a guilty middle class socialist from SurreyI liked it
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - 1 food the rest is a rather pitiful and vapid student criticism of Rupert Murdochs empire I know this is a student paper but seriously isnt the editor there to make sure people stay on topicThe experience is relevant too of course but the writer just seems like a guilty middle class socialist from SurreyI liked it
-imported: true
 ---
 
 It doesn’t seem quite right to say there’s a dodgy part on the King’s Road. But there is, just beyond the trendy Bluebird brasserie, where the pavement gets a bit dirtier, the shops a bit more Londis. It is here that one stumbles upon La Famiglia restaurant. A place that proves eating out is just as much about the atmosphere as it is about the food.

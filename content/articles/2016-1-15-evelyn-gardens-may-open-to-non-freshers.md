@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It has been revealed that students in second year and beyond may be able to apply for halls that were due to be shut down this year
 date: "2016-01-15 11:23:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5829"
 old_path: /news/5829/evelyn-gardens-may-open-to-non-freshers
 aliases:
  - /news/5829/evelyn-gardens-may-open-to-non-freshers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 At Tuesday night’s union council meeting it came to light that the Evelyn Gardens may become a hall reserved for second years.

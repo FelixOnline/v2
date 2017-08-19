@@ -4,16 +4,22 @@ title: >
 subtitle: >
   An Imperial-led team found blood cancer cells actively move rather than hide in bone marrow
 date: "2016-10-31 15:45:03 +0000"
+
 # Attributes from Felix Online V1
 id: "6363"
 old_path: /science/6363/the-race-to-understand-leukaemia-cells
 aliases:
  - /science/6363/the-race-to-understand-leukaemia-cells
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 T-cell acute lymphoblastic leukaemia (T-ALL) is a fast progressive type of blood cancer that affects white blood cells, especially those activating antibody-producing cells. It affects both children and adults and since it is in the blood, cancerous cells can also move to and affect other organs of the body.

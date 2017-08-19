@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We’re all jealous of our friends who don't have roommates
 date: "2016-05-13 09:00:01 +0100"
+
 # Attributes from Felix Online V1
 id: "6151"
 old_path: /features/6151/how-to-have-sex-in-halls
 aliases:
  - /features/6151/how-to-have-sex-in-halls
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With exams finishing and the sun coming out, Imperial is a hive of frenzied sexual activity, as inhibitions are shed in anticipation of the long summer break. But if you live in a shared room in halls, it strongly limits the privacy available for the exciting sexual encounters that we’re all craving. Some of you may have already worked out how to get around this, and for others this may be a new problem. Anyway, here’s some advice for you to make the most of the rest of the summer term.

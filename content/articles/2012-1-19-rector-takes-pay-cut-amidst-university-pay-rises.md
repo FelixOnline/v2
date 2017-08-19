@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Average pay rise of £10,000 for university leaders
 date: "2012-01-19 23:03:29 +0000"
+
 # Attributes from Felix Online V1
 id: "2036"
 old_path: /news/2036/rector-takes-pay-cut-amidst-university-pay-rises
 aliases:
  - /news/2036/rector-takes-pay-cut-amidst-university-pay-rises
+imported: true
+comments:
+ - The rector and his admin team are wankers They run this university as if it was a business no care about the students This place is not a cafe nor a restaurant nor roomstorent You should be making money out of research and knowledge you fucking admin wankersi think we should have a demonstration outside the rectors office we could complain about the Holland Club Clayponds and the rectors high salaryI am not in the AuditAccounting industries I dont know why I am on this dustribition listHowever it is an interesting topic I would like to share some views as an outsider PLEASE wake up people We are not living in the fairy tale There is no industries will assume you have job security and fat pay cheque forever It is happening everywhere in the world Some industries will be boom and some will be setback The world is changingWhy you think your problems are bigger than others What if you are working in the IT sector or structuring dpet at IB nowThis new  Year of the Priest  tele
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The rector and his admin team are wankers They run this university as if it was a business no care about the students This place is not a cafe nor a restaurant nor roomstorent You should be making money out of research and knowledge you fucking admin wankersi think we should have a demonstration outside the rectors office we could complain about the Holland Club Clayponds and the rectors high salaryI am not in the AuditAccounting industries I dont know why I am on this dustribition listHowever it is an interesting topic I would like to share some views as an outsider PLEASE wake up people We are not living in the fairy tale There is no industries will assume you have job security and fat pay cheque forever It is happening everywhere in the world Some industries will be boom and some will be setback The world is changingWhy you think your problems are bigger than others What if you are working in the IT sector or structuring dpet at IB nowThis new  Year of the Priest  tele
-imported: true
 ---
 
 An examination of thirteen of the UK’s top universities’ financial statements from 2010-11 has revealed that their leaders earned an average salary of £333,000, with an average pay rise of £9,700.

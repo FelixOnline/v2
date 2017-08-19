@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Demands are made as medics let down their guard
 date: "2011-10-07 00:08:00 +0100"
+
 # Attributes from Felix Online V1
 id: "1468"
 old_path: /news/1468/stolen-medic-mascot-scandal
 aliases:
  - /news/1468/stolen-medic-mascot-scandal
+imported: true
+comments:
+ - Please stop using my fees for this bullshit and sort out some decent timetabling
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Please stop using my fees for this bullshit and sort out some decent timetabling
-imported: true
 ---
 
 Luke Kanczes, President of the [Royal College of Science Union](http://www.rcsu.org.uk/exec) (RCSU) successfully stole the [Imperial College School of Medicine Students' Union's](http://www.icsmsu.com/exec/) (ICSMSU) Phoenix mascot head earlier this week with RCSU Vice-President Paul Beaumont in a mascotry scandal that continues today. The RCSU President explained that they ‘’saw the chicken head carelessly tossed aside on the Queen’s Lawn”, posed as freshers to distract the medic manning the RAG stall and took the mascot.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Survey collects results from over one thousand Imperial students about mental wellbeing
 date: "2015-05-29 00:27:43 +0100"
+
 # Attributes from Felix Online V1
 id: "5572"
 old_path: /news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition
 aliases:
  - /news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition
+imported: true
+comments:
+ - too little too late for meI hope this is just hyped up pseudojournalism or that the students were answering the questions in jest If not then many of you spoilt brats need to wake up and smell the coffee If having to stay up all night in the library occasionally or being upset about not being in the top of the class is your idea of stress then you need a slap Even if you flunk out of your course you still have a very good high school education It may not get you your dream job at Goldman Sachs Google or wherever the hell else half you twats want to work but youd be doing a hell of a lot better than almost all of the population in Africa and Asia You also have your healthapologies to any of you who dont  you arent blind paralysed a triple amputee etcagain abject apologies to anyone who has any of these afflictions I have other things I should be doing you know woe is me the workload at Imperial is so hard so I am rushing this and that explains any poor grammarpunctuation I just read t
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - too little too late for meI hope this is just hyped up pseudojournalism or that the students were answering the questions in jest If not then many of you spoilt brats need to wake up and smell the coffee If having to stay up all night in the library occasionally or being upset about not being in the top of the class is your idea of stress then you need a slap Even if you flunk out of your course you still have a very good high school education It may not get you your dream job at Goldman Sachs Google or wherever the hell else half you twats want to work but youd be doing a hell of a lot better than almost all of the population in Africa and Asia You also have your healthapologies to any of you who dont  you arent blind paralysed a triple amputee etcagain abject apologies to anyone who has any of these afflictions I have other things I should be doing you know woe is me the workload at Imperial is so hard so I am rushing this and that explains any poor grammarpunctuation I just read t
-imported: true
 ---
 
 A College-wide survey has found that three out of four students have suffered from high levels of stress or a mental health condition whilst at Imperial.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jamie Rickman on the impact of the US shutdown
 date: "2013-10-24 23:50:08 +0100"
+
 # Attributes from Felix Online V1
 id: "3914"
 old_path: /science/3914/scientists-go-back-to-work
 aliases:
  - /science/3914/scientists-go-back-to-work
+imported: true
+comments:
+ - The agreement aeunnocnd Wednesday gives Emanuel a victory that evaded former MayorRichard Daley who often boasted of his efforts to make Chicago the nations greenest city David Baer proble9me1nak tekinti hogy az egyhe1zakkal kapcsolatos df6nte9st a parlament nem pedig a ffcggetlen bedrf3se1g hozta meg The Friday Megapanel  Were joined by  Guy Benson Krystal Ball and Toure Recentlya0a 20yearold apartment maintenance worker confessed to killing a child who resided at the same Canton Georgia complex The pecuniary jurisdiction of the magistrates are again set out in the relevant Act that is the Magistrates Court Act Cap10 Laws of Kenyahey there and thank you for your information  Ive ceirtanly picked up something new from right here I did however expertise some technical issues using this site since I experienced to reload the website lots of times previous to I could get it to load correctly I had been wondering if your web host is OK Not t
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The agreement aeunnocnd Wednesday gives Emanuel a victory that evaded former MayorRichard Daley who often boasted of his efforts to make Chicago the nations greenest city David Baer proble9me1nak tekinti hogy az egyhe1zakkal kapcsolatos df6nte9st a parlament nem pedig a ffcggetlen bedrf3se1g hozta meg The Friday Megapanel  Were joined by  Guy Benson Krystal Ball and Toure Recentlya0a 20yearold apartment maintenance worker confessed to killing a child who resided at the same Canton Georgia complex The pecuniary jurisdiction of the magistrates are again set out in the relevant Act that is the Magistrates Court Act Cap10 Laws of Kenyahey there and thank you for your information  Ive ceirtanly picked up something new from right here I did however expertise some technical issues using this site since I experienced to reload the website lots of times previous to I could get it to load correctly I had been wondering if your web host is OK Not t
-imported: true
 ---
 
 The 16 day US government shut-down ended last week with an uneasy truce. Obama’s refusal to accept the House Republican’s condition of delaying Obamacare led to the closure of many federal science institutions, painfully elucidating the instability of government funded science in America.

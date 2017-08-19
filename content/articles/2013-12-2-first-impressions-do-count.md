@@ -4,16 +4,23 @@ title: >
 subtitle: >
   At times you may feel like it’s almost a full time job in itself trying to get your first opportunity in the workplace. As we have talked about previously, there are a lot of considerations to take on board when seeking opportunities.
 date: "2013-12-02 22:17:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4170"
 old_path: /features/4170/first-impressions-do-count
 aliases:
  - /features/4170/first-impressions-do-count
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 At times you may feel like it’s almost a full time job in itself trying to get your first opportunity in the workplace. As we have talked about previously, there are a lot of considerations to take on board when seeking opportunities. Have you fully considered all your skills and selling points? Have you researched the areas of work that you are interested in? Have you looked at all opportunity providers, large or small? Have you considered the hidden job market, and finally, are you doing yourself justice on your applications and CV’s?

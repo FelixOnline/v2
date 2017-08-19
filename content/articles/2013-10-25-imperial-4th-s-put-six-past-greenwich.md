@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action as Imperial stroll to victory
 date: "2013-10-25 01:14:56 +0100"
+
 # Attributes from Felix Online V1
 id: "3952"
 old_path: /sport/3952/imperial-4th-s-put-six-past-greenwich
 aliases:
  - /sport/3952/imperial-4th-s-put-six-past-greenwich
+imported: true
+comments:
+ - Hi NicoleI wrote you a few weeks ago about the Robin Long workshop  I am one of Kellis 2011 spinrg alums  Wish I could attend Robins workshop but it now looks like I will be in LA that week  I am taking Kelley Rydens workshop in a few weeks thoughThese are fantastic shots  Mind sharing the lens you used and what actions you are working with  If its easier you can email me instead of posting  Also as I think you know I am based out of Hartford  I am looking for a location down south to meet a friend from NY for a shoot  Mind sharing your some locations in the fairfield area that I may be able to meet them at  I understand if you would rather keep them under wraps
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hi NicoleI wrote you a few weeks ago about the Robin Long workshop  I am one of Kellis 2011 spinrg alums  Wish I could attend Robins workshop but it now looks like I will be in LA that week  I am taking Kelley Rydens workshop in a few weeks thoughThese are fantastic shots  Mind sharing the lens you used and what actions you are working with  If its easier you can email me instead of posting  Also as I think you know I am based out of Hartford  I am looking for a location down south to meet a friend from NY for a shoot  Mind sharing your some locations in the fairfield area that I may be able to meet them at  I understand if you would rather keep them under wraps
-imported: true
 ---
 
 On the morning of the 16th October 2013, The Force (a.k.a The 4s) readied themselves for D-Day, landing on the shores of the Thames for the opening match of the season: Greenwich away.

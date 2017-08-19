@@ -4,16 +4,23 @@ title: >
 subtitle: >
   IC joined forces with the RCA to create art inspired by science; Artifact is happening again this year
 date: "2012-02-09 22:08:20 +0000"
+
 # Attributes from Felix Online V1
 id: "2139"
 old_path: /arts/2139/a-step-towards-cross-fing
 aliases:
  - /arts/2139/a-step-towards-cross-fing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 It is very difficult to retain a historical perspective of the present. Artistic movements only acquire recognition and an associated nomenclature once they are well established, or in many cases once they have peaked. However, I am going to stick my neck out to predict that art histories yet to be written will refer to ‘Sciencism’ or ‘Technophilism’ originating in our time. Perhaps some other silly name will be used, but I stand by my hunch. A term will be required to collect the current dearth of art/science collaborations.

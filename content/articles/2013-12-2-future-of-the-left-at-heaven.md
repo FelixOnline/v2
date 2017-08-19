@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Clemy Walker reports on the Welsh rockers
 date: "2013-12-02 22:12:45 +0000"
+
 # Attributes from Felix Online V1
 id: "4167"
 old_path: /music/4167/future-of-the-left-at-heaven
 aliases:
  - /music/4167/future-of-the-left-at-heaven
+imported: true
+comments:
+ - It was a gig no one really waetnd to end even also exMclusky Jack Egglestone on drums didnt want it to stop requiring the bassist to dismantle his kit while he was still playing the end of adeadenemyalwayssmellsgood long after the guitarists had left the stage This is actually a Shellac gimmick one that Mclusky used to do as well   I think its some sort of homage
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - It was a gig no one really waetnd to end even also exMclusky Jack Egglestone on drums didnt want it to stop requiring the bassist to dismantle his kit while he was still playing the end of adeadenemyalwayssmellsgood long after the guitarists had left the stage This is actually a Shellac gimmick one that Mclusky used to do as well   I think its some sort of homage
-imported: true
 ---
 
 It’s Wednesday night and I am at Heaven to see angry Welsh noise-rockers Future of the Left. Formed from the ashes of mclusky and Jarcrew, and now featuring Julia Ruzicka from Million Dead on bass, they are known for their heavy stop-start guitar riffs and front man Falco’s viciously delivered satirical lyrics.

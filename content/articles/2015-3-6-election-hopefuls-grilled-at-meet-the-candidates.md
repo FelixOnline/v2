@@ -4,16 +4,23 @@ title: >
 subtitle: >
   You can watch the video here: https://www.youtube.com/watch?v=_XYGHr7zr3M
 date: "2015-03-06 13:56:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5352"
 old_path: /news/5352/election-hopefuls-grilled-at-meet-the-candidates
 aliases:
  - /news/5352/election-hopefuls-grilled-at-meet-the-candidates
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Wednesday once again saw the annual broadcast of Meet the Candidates by Imperial College Television (ICTV), where candidates for the various Officer Trustee roles, as well as Felix Editor, Council Chair, and Student Trustees debated live on air as part of their campaigns to win the election.

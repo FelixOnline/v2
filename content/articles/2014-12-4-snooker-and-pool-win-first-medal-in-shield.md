@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Aaron Brown and Robert Hughes report as Snooker and Pool win their first medal at the Southern England Championships
 date: "2014-12-04 20:20:25 +0000"
+
 # Attributes from Felix Online V1
 id: "5009"
 old_path: /sport/5009/snooker-and-pool-win-first-medal-in-shield
 aliases:
  - /sport/5009/snooker-and-pool-win-first-medal-in-shield
+imported: true
+comments:
+ - mens christian louboutin shoeschristian louboutin shoes httpcanadachristianlouboutinblogspotcomchristian louboutinbuy christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomused christian louboutinchristian louboutin sale httpcanadachristianlouboutinblogspotcomchristian louboutin instagramchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mens christian louboutin shoeschristian louboutin shoes httpcanadachristianlouboutinblogspotcomchristian louboutinbuy christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomused christian louboutinchristian louboutin sale httpcanadachristianlouboutinblogspotcomchristian louboutin instagramchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 Records tumbled at the first inter-university pool tournament of the year as a new-look Imperial team pulled off some stunning wins and overcame bad luck (and hangovers) to earn their first ever medal in the Southern England Univesities Pool Council Team Shield event. The team set off early Saturday morning from Paddington, and spirits were high as we made the arduous journey towards sunny Weston-Super-Mare. With three new members to the team, team captain Rob had some head scratching to do in the run up to the tournament as to how to field his eager players, using the journey to make sure all were up to speed on tournament rules and regulations.

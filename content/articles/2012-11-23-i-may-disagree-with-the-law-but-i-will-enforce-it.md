@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park patrols the cinema, and finds a gem in End of Watch
 date: "2012-11-23 00:35:55 +0000"
+
 # Attributes from Felix Online V1
 id: "2974"
 old_path: /film/2974/i-may-disagree-with-the-law-but-i-will-enforce-it
 aliases:
  - /film/2974/i-may-disagree-with-the-law-but-i-will-enforce-it
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Although costing a relatively miniscule 7-million dollars, here is one of the best, most thrilling, heart-pounding action thrillers of the year. It also achieves this level of greatness in a sub-genre that is more often than not plagued with its own brand of clichés and predictable plot turns. But with End of Watch director David Ayer has made even the most obvious, tiresome formula with such style and panache that you will come out of the screening feeling richly rewarded and your pulses racing. It knows when to hold off on the action, it lets its characters develop and interact with one another, the dialogue is often sharp and witty, and when the much-anticipated ultimate shoot-out does grace the screen, it pays off, in its kinetic, resounding finale.

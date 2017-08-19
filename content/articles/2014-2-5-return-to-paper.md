@@ -4,16 +4,23 @@ title: >
 subtitle: >
   First thoughts on Facebook's new app
 date: "2014-02-05 10:20:15 +0000"
+
 # Attributes from Felix Online V1
 id: "4332"
 old_path: /tech/4332/return-to-paper
 aliases:
  - /tech/4332/return-to-paper
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Yes, Facebook, has turned 10. Ten years this giant has been sucking out our souls, killing our times and generally trying to inject itself into every aspect of our lives. Now they have introduced their next strategy in their multi-pronged attack to make themselves virtually indispensible, a reader app named paper. Almost identical to Flipboard, it aims to deliver a new experience to browsing Facebook, and general news around the Internet.

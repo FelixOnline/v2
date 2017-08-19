@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Discover the local spotlights of London’s Christmas suit with Yung Nam Cheah
 date: "2014-12-04 19:05:19 +0000"
+
 # Attributes from Felix Online V1
 id: "4992"
 old_path: /travel/4992/oh-christmas-lights-so-christmas-y
 aliases:
  - /travel/4992/oh-christmas-lights-so-christmas-y
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It is getting to everyone’s favourite time of the year again, and the capital has already decked out for the season.

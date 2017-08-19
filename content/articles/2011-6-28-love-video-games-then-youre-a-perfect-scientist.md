@@ -4,16 +4,23 @@ title: >
 subtitle: >
   David Robertson explains how gamers explore and learn just like scientists
 date: "2011-06-28 10:52:59 +0100"
+
 # Attributes from Felix Online V1
 id: "1437"
 old_path: /games/1437/love-video-games-then-youre-a-perfect-scientist
 aliases:
  - /games/1437/love-video-games-then-youre-a-perfect-scientist
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What if all the world’s not a stage, but a game? The men and women would still be players, but of a very different kind. And scientists would be the biggest gamers of all.

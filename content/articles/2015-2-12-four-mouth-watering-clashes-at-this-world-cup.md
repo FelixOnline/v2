@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kunal Wagle picks out the four group stage matches that he is most looking forward to at this year’s World Cup
 date: "2015-02-12 22:57:02 +0000"
+
 # Attributes from Felix Online V1
 id: "5245"
 old_path: /sport/5245/four-mouth-watering-clashes-at-this-world-cup
 aliases:
  - /sport/5245/four-mouth-watering-clashes-at-this-world-cup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 #### Australia v England

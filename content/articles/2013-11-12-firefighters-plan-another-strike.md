@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Firefighters in England and Wales plan to strike on Wednesday 13th November between 10AM to 2PM.
 date: "2013-11-12 18:38:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4049"
 old_path: /news/4049/firefighters-plan-another-strike
 aliases:
  - /news/4049/firefighters-plan-another-strike
+imported: true
+comments:
+ - Why is this the main story What has this got to do with Imperial Is the editor drunkCan someone explain why on earth Felix is reporting on the firefighters strikeOf course it affects Imperial students as it does everyone but this is clearly not Imperial news
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Why is this the main story What has this got to do with Imperial Is the editor drunkCan someone explain why on earth Felix is reporting on the firefighters strikeOf course it affects Imperial students as it does everyone but this is clearly not Imperial news
-imported: true
 ---
 
 Firefighters in England and Wales are due to hold a strike this Wednesday as a response to proposed changes to the pension scheme. This will be the fourth such strike this year. The government proposed changes include cutting the pensions of those firefighters who retire early for health or fitness reasons by up to 47.1% to £9,000 a year and increasing monthly pension contributions from £320 to £340.

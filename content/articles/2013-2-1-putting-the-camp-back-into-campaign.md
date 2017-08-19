@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas mince along to the Michael Grandage Company’s opening show
 date: "2013-02-01 00:11:43 +0000"
+
 # Attributes from Felix Online V1
 id: "3222"
 old_path: /arts/3222/putting-the-camp-back-into-campaign
 aliases:
  - /arts/3222/putting-the-camp-back-into-campaign
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Meredith and I went down to the Noël Coward Theatre in the West End in order to interview a young actor, Sam Swainsbury, involved in one of the most exciting theatre companies playing currently in London.

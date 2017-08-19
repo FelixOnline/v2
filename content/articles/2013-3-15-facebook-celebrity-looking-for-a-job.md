@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pedro Pereira interviews Adzuna co-founder Andrew Hunter
 date: "2013-03-15 00:58:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3465"
 old_path: /biz/3465/facebook-celebrity-looking-for-a-job
 aliases:
  - /biz/3465/facebook-celebrity-looking-for-a-job
+imported: true
+comments:
+ - Theres definately a great deal to find out about this subject I love all the points you have madeIf you want to read more articles by me feel free to link in google or linkedin httpsplusgooglecomPedroPereiraMarketing
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Theres definately a great deal to find out about this subject I love all the points you have madeIf you want to read more articles by me feel free to link in google or linkedin httpsplusgooglecomPedroPereiraMarketing
-imported: true
 ---
 
 The eternal procrastinating tool… Facebook. Or is it? [Adzuna](http://www.adzuna.co.uk/), a social job search engine, has developed a way to help you get hired with a little help from your friends. Launched out of a central London pub in July 2011, this small London startup, with over 1.5 million monthly visitors, classifies itself as the future Google for jobs with a social network side. Not only that, they search thousands of job websites so you don’t have to, and even give job seekers access to a wide range of job statistics and data to make their search even more efficient.

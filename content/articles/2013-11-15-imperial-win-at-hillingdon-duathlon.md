@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ed Hallett gives his account as Imperial take both first and third place.
 date: "2013-11-15 11:50:40 +0000"
+
 # Attributes from Felix Online V1
 id: "4090"
 old_path: /sport/4090/imperial-win-at-hillingdon-duathlon
 aliases:
  - /sport/4090/imperial-win-at-hillingdon-duathlon
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Memories of a completely crappy rain-filled start to November were dried up in a flash as Sunday came around and the skies cleared for the 2013 Hillingdon Autumn Duathlon. The local race is a favourite among the club with a few podiums last year and a win courtesy of Swiss international Jean-Claude who sadly has now moved back home. Only 15min away by overground from Paddington, and on a purpose built mile long racetrack with no cars or pedestrians to contend with. The atmosphere was light-hearted as fourteen of Imperial Triathlon Club’s finest gathered outside the front of Hillingdon triathlete’s club house. The atmosphere inside was just as relaxed as the hosts seamlessly ran a faultless race day for us.

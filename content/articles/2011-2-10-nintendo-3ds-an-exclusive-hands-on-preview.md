@@ -4,16 +4,24 @@ title: >
 subtitle: >
   "The 3D worked straight from the off"
 date: "2011-02-10 20:44:23 +0000"
+
 # Attributes from Felix Online V1
 id: "782"
 old_path: /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
 aliases:
  - /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
+imported: true
+comments:
+ - I think youll find the NGP is more awesome in every way
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - cb908
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cb908"
 author_name: "Chris Bowers"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think youll find the NGP is more awesome in every way
-imported: true
 ---
 
 Last weekend I bagged tickets to an exclusive [Nintendo 3DS hands-on preview](http://trynintendo3ds.co.uk) – and first impressions were excellent! After a vague demonstration of StreetPass, “real-life” demonstrations of _Street Fighter_ and _Resident Evil_, and a brief introductory video featuring Jonathan Ross (seemingly the new face of Nintendo Europe), I got my hands on the 3DS.

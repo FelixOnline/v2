@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Webster keeps his money under his mattress
 date: "2013-02-07 23:35:58 +0000"
+
 # Attributes from Felix Online V1
 id: "3264"
 old_path: /games/3264/valentines-day-the-heist
 aliases:
  - /games/3264/valentines-day-the-heist
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Nothing says “I love you” more than robbing a bank together. Even if it’s four guys with a fetish for masks and gold.

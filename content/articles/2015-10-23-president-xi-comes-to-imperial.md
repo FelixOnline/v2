@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The General Secretary of the Communist Party of China met with students and scientists while on a state visit
 date: "2015-10-23 10:49:37 +0100"
+
 # Attributes from Felix Online V1
 id: "5662"
 old_path: /news/5662/president-xi-comes-to-imperial
 aliases:
  - /news/5662/president-xi-comes-to-imperial
+imported: true
+comments:
+ - its a very good weblog and i like it greatlyfut 16 coins httptherealphilanthropistcomcommunityMarryLileblogyoushouldsigyoushouldsigninakiwilliamswhoisthebestfifa16silver5eH0Gi  vwxeegwmwvsg urlhttpmxyetgqhdvybcommxyetgqhdvyburl linkhttpqokqhlfhwrqdcomqokqhlfhwrqdlink httpcnhzihsutympcomthis website might help me personally to locate some good suggestionsbuy Madden 16 Coins httpheywhatevernetprofilesblogsaboutmaddenstorecomwere so proud of youmadden 16 coins xbox 360 buy httpwwwmaddenstorecommaddennfl16XBOX3602190You are so cutefree nfl 16 news httpwwwmaddenstorecomnewsI mean itCheap MUT Coins httpfulltransactionscomindexphpblogs35581530376howtobringsuperstarmodebackinmaddenNo teams no loyalties just individuals representing themselves for the best within their ability My favorite soccer movie is Shaolin Soccer written and directed by Stephen Chow Marshall started and played the actual wh
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - its a very good weblog and i like it greatlyfut 16 coins httptherealphilanthropistcomcommunityMarryLileblogyoushouldsigyoushouldsigninakiwilliamswhoisthebestfifa16silver5eH0Gi  vwxeegwmwvsg urlhttpmxyetgqhdvybcommxyetgqhdvyburl linkhttpqokqhlfhwrqdcomqokqhlfhwrqdlink httpcnhzihsutympcomthis website might help me personally to locate some good suggestionsbuy Madden 16 Coins httpheywhatevernetprofilesblogsaboutmaddenstorecomwere so proud of youmadden 16 coins xbox 360 buy httpwwwmaddenstorecommaddennfl16XBOX3602190You are so cutefree nfl 16 news httpwwwmaddenstorecomnewsI mean itCheap MUT Coins httpfulltransactionscomindexphpblogs35581530376howtobringsuperstarmodebackinmaddenNo teams no loyalties just individuals representing themselves for the best within their ability My favorite soccer movie is Shaolin Soccer written and directed by Stephen Chow Marshall started and played the actual wh
-imported: true
 ---
 
 On Wednesday, Chinese President Xi Jinping stopped off at Imperial to celebrate collaboration between Chinese institutions and the College. Imperial proudly repeated the statistic that since 2003, the number of UK papers published in Nature with a co-author in China had jumped from 3% to 22%.

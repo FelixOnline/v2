@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tessa Davey explains why fat people are not afforded the privilege of 'normal' eating habits
 date: "2017-02-03 15:46:34 +0000"
+
 # Attributes from Felix Online V1
 id: "6711"
 old_path: /comment/6711/youre-putting-me-off-my-food
 aliases:
  - /comment/6711/youre-putting-me-off-my-food
+imported: true
+comments:
+ - As someone who is also overweight and struggles with the vice of food daily I find think this article is ridiculous It is true that food is an addiction to those more heavily inclined I think about it every meal time and I try to reduce or change my habit as I know it is harmful to my health Successfully or not I appreciate this is a something we have to think about regularly where as others do notMy real issue with this article is that you are justifying the unjustifiable Imagine you exchanged food in this article with Alcohol or a narcotic I would say that you were simply trying to justify your addiction and are not fully aware of your own relationship with insert addictive substance here I have found that people are very supportive when they realise you are on a good path to your own health and surrounding yourself with people like that is very beneficial If youre an addict to something Im sorry but Im not going to listen to your drivel about how others should change they are simply reinf
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - As someone who is also overweight and struggles with the vice of food daily I find think this article is ridiculous It is true that food is an addiction to those more heavily inclined I think about it every meal time and I try to reduce or change my habit as I know it is harmful to my health Successfully or not I appreciate this is a something we have to think about regularly where as others do notMy real issue with this article is that you are justifying the unjustifiable Imagine you exchanged food in this article with Alcohol or a narcotic I would say that you were simply trying to justify your addiction and are not fully aware of your own relationship with insert addictive substance here I have found that people are very supportive when they realise you are on a good path to your own health and surrounding yourself with people like that is very beneficial If youre an addict to something Im sorry but Im not going to listen to your drivel about how others should change they are simply reinf
-imported: true
 ---
 
 I have a complicated relationship with food. I think every fat person does. That isn’t to say I don’t also think that every woman or man who is impacted by the pressure of beauty standards also does – I do – but for a fat person it is subtly different. Being fat is the reason that we are perceived as greedy, lazy, stupid. Fat is the reason that we are told that we are not attractive, not desirable, not good enough. And food is predominantly the thing that causes that. Food is something that we need to consume, several times a day, but it is also something that is heavily associated with shame.

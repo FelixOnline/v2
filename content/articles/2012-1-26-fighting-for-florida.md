@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joseph Letts comments on the current state of US Presidential elections
 date: "2012-01-26 22:01:15 +0000"
+
 # Attributes from Felix Online V1
 id: "2049"
 old_path: /politics/2049/fighting-for-florida
 aliases:
  - /politics/2049/fighting-for-florida
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 By the end of the year, Americans will have elected a new President. However, with no clear majority in public opinion for either the Democrats or the Republicans, who will become the next Leader of the Free World? Who will answer the call from visiting extra-terrestrial dignitaries?

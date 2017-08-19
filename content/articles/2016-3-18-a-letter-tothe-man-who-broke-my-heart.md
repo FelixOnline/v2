@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I thought it should end the way it started, with an inappropriate article in FELIX
 date: "2016-03-18 11:42:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6056"
 old_path: /features/6056/a-letter-tothe-man-who-broke-my-heart
 aliases:
  - /features/6056/a-letter-tothe-man-who-broke-my-heart
+imported: true
+comments:
+ - QVfb8a  royvtoknrnyr urlhttpimydhsrdapdlcomimydhsrdapdlurl linkhttpfmdpywpovstacomfmdpywpovstalink httprgpfbzownibscomWow beautiful website Thnx pokemongo httpwwwletstalkinenglishcomforumtopic1430
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - QVfb8a  royvtoknrnyr urlhttpimydhsrdapdlcomimydhsrdapdlurl linkhttpfmdpywpovstacomfmdpywpovstalink httprgpfbzownibscomWow beautiful website Thnx pokemongo httpwwwletstalkinenglishcomforumtopic1430
-imported: true
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

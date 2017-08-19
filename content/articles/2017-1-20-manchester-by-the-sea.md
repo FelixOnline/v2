@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A restrained exploration of grief, with exceptionally strong performances from Michelle Williams and Casey Affleck, Manchester by the Sea is the most moving film of the year.
 date: "2017-01-20 15:27:20 +0000"
+
 # Attributes from Felix Online V1
 id: "6671"
 old_path: /film/6671/manchester-by-the-sea
 aliases:
  - /film/6671/manchester-by-the-sea
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you were to rely on the list of previous winners of the Best Actor Oscar as a definitive list of cinema history’s greatest performances, you would probably have one clear go-to when thinking of acting techniques for a sure-fire win (apart from being white): shouting. It has seemed throughout the years that the only performances by leading actors that really catch awards committees’ attention are the ones that go off with a flash and a bang – nuance and subtlety be damned. In fact, Leonardo DiCaprio’s landmark win last year for his role in The Revenant saw him in a performance that featured more yelling and exasperated grunting than actual speech.

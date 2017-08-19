@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Should freedom of speech be given when it threatens social peace?
 date: "2015-01-16 13:22:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5097"
 old_path: /comment/5097/freedom-of-speech-in-a-civilised-society
 aliases:
  - /comment/5097/freedom-of-speech-in-a-civilised-society
+imported: true
+comments:
+ - Great article truly emphasises the great  figures in the religion and how they would if alive today rebuke and condemn such heinous actions of the murderers This should answer many arguments to ones intellectMuslims do not seek preferential treatment but equal treatment Comedians make jokes about Jesus and the Old Testament prophets frequently and without being assassinated Therefore if Muslims truly want to be treated equally they should accept  that they will be the target of satire from time to timeIt doesnt surprise me that you hold personal freedom in such low regard The word muslim after all means one who submits Islamic society is based around submission  women to their husbands men to clerics and caliphs and all must submit to Allah Why would you value freedom Youve never experienced itCherry  If your definition of freedom is to insult others feelings and emotions deliberately in the name of freedom  of speech  then you  can have your freedom which serves no pu
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great article truly emphasises the great  figures in the religion and how they would if alive today rebuke and condemn such heinous actions of the murderers This should answer many arguments to ones intellectMuslims do not seek preferential treatment but equal treatment Comedians make jokes about Jesus and the Old Testament prophets frequently and without being assassinated Therefore if Muslims truly want to be treated equally they should accept  that they will be the target of satire from time to timeIt doesnt surprise me that you hold personal freedom in such low regard The word muslim after all means one who submits Islamic society is based around submission  women to their husbands men to clerics and caliphs and all must submit to Allah Why would you value freedom Youve never experienced itCherry  If your definition of freedom is to insult others feelings and emotions deliberately in the name of freedom  of speech  then you  can have your freedom which serves no pu
-imported: true
 ---
 
 Last week’s heinous attacks on Charlie Hebdo caused an outpouring of grief and support from around the world for the innocents who lost their lives that day, and in the days that followed. The brazen assault was led by two masked gunmen claiming that they were avenging the name of the Prophet Muhammad, whose gross caricatures Charlie Hebdo had published in years gone by. And yet, 2 of the 12 murder victims that day were Muslim – one named Ahmed, the other Mustapha – both names of the Prophet Muhammad, a telling symbol of the character assassination that took place that day. In the coverage that followed, it became clear that the terrorists did more to defame the name of Islam than any cartoon ever could.

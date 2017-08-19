@@ -4,16 +4,23 @@ title: >
 subtitle: >
   New emphasis on NSS sees Imperial fall 11 places
 date: "2011-10-06 23:53:30 +0100"
+
 # Attributes from Felix Online V1
 id: "1467"
 old_path: /news/1467/student-satisfaction-hits-tables
 aliases:
  - /news/1467/student-satisfaction-hits-tables
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial has dropped a stunning 11 places in the Sunday Times League Table for 2012 entry, published last month. The College is now ranked fourteenth in the UK, behind institutions such as the University of Exeter and Newcastle University. This is the first time in fourteen years that Imperial has not been in the table’s top four. This drop has been attributed to a change in the methodology of compiling the table, which has also seen King’s College London slide from tenth to seventeenth place and the University of Edinburgh from fourteenth to twenty-seventh.

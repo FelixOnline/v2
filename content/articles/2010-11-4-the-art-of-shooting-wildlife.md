@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Another year at the Veolia photography competition, and the entries are wilder and more captivating than ever
 date: "2010-11-04 18:11:17 +0000"
+
 # Attributes from Felix Online V1
 id: "291"
 old_path: /arts/291/the-art-of-shooting-wildlife-
 aliases:
  - /arts/291/the-art-of-shooting-wildlife-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 From classical ‘safari’ style photos that bring drama on a big scale, to atmospheric artistic black and white studies and colourful conceptual pieces, [this exhibition](http://www.nhm.ac.uk/visit-us/whats-on/temporary-exhibitions/wpy/index.jsp) has rightly earned itself a popular following as an internationally renowned exhibition bringing together some of the best wildlife photography of the last year. I really only became aware of its existence last year and sadly, that attention was due to infamy. In 2009 there was scandal; shortly after José Luis Rodriguez’s ‘Storybook Wolf’ was announced as the overall winner of the prestigious award, gossip began circulating that not all was as it seemed. Following thorough investigations it emerged that, contrary to what Rodriguez had portrayed in his submitted caption, [his photo was not a chance encounter with a wild wolf, capturing distinct natural behaviour](http://www.guardian.co.uk/environment/2010/jan/20/wolf-wildlife-photographer-award-stripped). Instead, he effectively cheated by using a tame wolf trained to perform for the camera. For the first time in 46 years, there was a blank space on the exhibition wall as the photograph was removed and Rodriquez’ title revoked.

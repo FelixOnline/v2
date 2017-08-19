@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ed Hallett runs and cycles, presumably not while writing this article
 date: "2012-11-15 22:22:50 +0000"
+
 # Attributes from Felix Online V1
 id: "2915"
 old_path: /sport/2915/triathalon-dominate-podium
 aliases:
  - /sport/2915/triathalon-dominate-podium
+imported: true
+comments:
+ - thanks all i am still about 15 kilos from my  best weight  but im in with psnaorel trainer madrid for at least another year   so ill smash it and get shredded to boot watch this space
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - thanks all i am still about 15 kilos from my  best weight  but im in with psnaorel trainer madrid for at least another year   so ill smash it and get shredded to boot watch this space
-imported: true
 ---
 
 On what felt like the coldest morning of the year so far, a selection of Imperial Triathlon members met while it was still dark to ride off towards Paddington, and to the first race on our calendar. The team was severely dented with four members dropping out at the last minute due to falling down stairs (valid), recurring hip problems (valid), misjudged coursework deadline (crap excuse) and a no show(WTF??!). But never the less, the ten-strong team headed out into the darkness.

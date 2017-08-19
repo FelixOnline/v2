@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Has Italian tapas' time come?
 date: "2011-03-03 19:39:35 +0000"
+
 # Attributes from Felix Online V1
 id: "999"
 old_path: /food/999/ciccetti-the-italian-gastro-fad
 aliases:
  - /food/999/ciccetti-the-italian-gastro-fad
+imported: true
+comments:
+ - im already hungry
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - im already hungry
-imported: true
 ---
 
 Italian food is probably the cuisine that serves the most disparity in London. The big giants like Pizza Express, ASK and Zizzi lure the indifferent diners with their attractive 2-for-1 deals, but what say you to pasta that is freshly made on the day and pesto that is so brilliant, even Berlusconi might be distracted from his loins for a brief moment.

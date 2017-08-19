@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on outside the BUCS League
 date: "2014-11-06 19:28:28 +0000"
+
 # Attributes from Felix Online V1
 id: "4779"
 old_path: /sport/4779/in-case-you-missed-it-in-the-world-of-sport
 aliases:
  - /sport/4779/in-case-you-missed-it-in-the-world-of-sport
+imported: true
+comments:
+ - Wow that was strange I just wrote an very long comment but after I clicked submit my comment didn7821t show up Grrrr well Im not writing all that over again Regardless just wanted to say fantastic blog
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow that was strange I just wrote an very long comment but after I clicked submit my comment didn7821t show up Grrrr well Im not writing all that over again Regardless just wanted to say fantastic blog
-imported: true
 ---
 
 In the Champions League Arsenal blew a 3-0 lead to only draw against Anderlecht at the Emirates. Liverpool’s game at Real Madrid was the source of much discussion, as manager Brendan Rodgers opted to field a much changed eleven against the Galacticos. The Reds lost 1-0.

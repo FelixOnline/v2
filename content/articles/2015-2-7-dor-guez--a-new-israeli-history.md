@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland checks out one of the new shows at the ICA
 date: "2015-02-07 19:15:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5206"
 old_path: /arts/5206/dor-guez--a-new-israeli-history
 aliases:
  - /arts/5206/dor-guez--a-new-israeli-history
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Dor Guez is a fascinating man. Born in Jerusalem to Christian Palestinian and Jewish Tunisian parents, he has been able to experience the Middle East with a truly unique eye, away from the prevailing Arab and Jewish Israeli narratives. Entitling this exhibition _The Sick Man of Europe_, Guez is making a comment on Israel’s profound cultural and economic malaise, limping just outside the continent’s borders, all the while receiving large amounts of financial support from the West, unlike any other healthy country. This gives you a sense of the Guez’s approach to art – analytical, reflective, quite comfortable in commenting about the region’s tumultuous modern history.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In short: upgrade your Wordpress plz. kthnxbai.
 date: "2012-11-29 21:55:30 +0000"
+
 # Attributes from Felix Online V1
 id: "2983"
 old_path: /news/2983/clubs-with-wordpress-sites-need-to-upgrade-or-be-hacked-intense
 aliases:
  - /news/2983/clubs-with-wordpress-sites-need-to-upgrade-or-be-hacked-intense
+imported: true
+comments:
+ - Im not using SSL as some form of silver bullet that will magically solve all these issues its part of a number of things I am doing Dont worry Im not going to sit in my chair and relax nowAn added benefit of mandating SSL will hopefully be realised once I get the necessary approval from the powers that be but youll hopefully find out about that one soonIts too easy to hide behind the whole OMG USE SSL thing just because one of the Ss stands for secure Most browsers wont warn about iframes or crossdomain AJAX requests particularly if the user has ticked the dont warn me again boxIts no substitute for writing secure code and I would have thought that Wordpress as an open source communityreviewed project would be far more resilient to attack than some contributed code by Imperial studentsI have seen code written by the current Union President and exSysadmin that has made me feel physically sickI say you force everyone to use PDO prepared statements
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im not using SSL as some form of silver bullet that will magically solve all these issues its part of a number of things I am doing Dont worry Im not going to sit in my chair and relax nowAn added benefit of mandating SSL will hopefully be realised once I get the necessary approval from the powers that be but youll hopefully find out about that one soonIts too easy to hide behind the whole OMG USE SSL thing just because one of the Ss stands for secure Most browsers wont warn about iframes or crossdomain AJAX requests particularly if the user has ticked the dont warn me again boxIts no substitute for writing secure code and I would have thought that Wordpress as an open source communityreviewed project would be far more resilient to attack than some contributed code by Imperial studentsI have seen code written by the current Union President and exSysadmin that has made me feel physically sickI say you force everyone to use PDO prepared statements
-imported: true
 ---
 
 Imperial clubs with old Wordpress sites are vulnerable toattack from hackers.

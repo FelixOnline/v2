@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Crowds gather at Queen’s Tower to hold minute’s silence for Paris victims
 date: "2015-11-19 22:16:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5739"
 old_path: /news/5739/imperial-mourns
 aliases:
  - /news/5739/imperial-mourns
+imported: true
+comments:
+ - Thanks for your beneficial post As time passes I have come to be able to understand that the particular symptoms of mesothelioma cancer are caused by your build up associated fluid involving the lining in the lung and the torso cavity The infection may start inside the chest spot and pass on to other parts of the body Other symptoms of pleural mesothelioma include fat loss severe inhaling trouble nausea difficulty ingesting and bloating of the face and neck areas  It ought to be noted that some people having the disease tend not to experience just about any serious symptoms at allnew era fitted hats wholesale httpwwwtwofangtucnfittedhats
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for your beneficial post As time passes I have come to be able to understand that the particular symptoms of mesothelioma cancer are caused by your build up associated fluid involving the lining in the lung and the torso cavity The infection may start inside the chest spot and pass on to other parts of the body Other symptoms of pleural mesothelioma include fat loss severe inhaling trouble nausea difficulty ingesting and bloating of the face and neck areas  It ought to be noted that some people having the disease tend not to experience just about any serious symptoms at allnew era fitted hats wholesale httpwwwtwofangtucnfittedhats
-imported: true
 ---
 
 Several hundred people gathered at the foot of Queen’s Tower on Monday for a minute’s silence to remember the 129 people killed in the Paris attacks. The crowd included students and staff, who joined a Europe-wide moment of reflection three days after the tragedy.

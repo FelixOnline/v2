@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:31:34 +0000"
+
 # Attributes from Felix Online V1
 id: "5341"
 old_path: /comment/5341/felix-interviews-deputy-president-cs-candidate-isabelle-barrett
 aliases:
  - /comment/5341/felix-interviews-deputy-president-cs-candidate-isabelle-barrett
+imported: true
+comments:
+ - How do you propose to alter these allocations to help smaller clubs In particular minibusesfitflops cheapestfitflop sales httpfitflopsaublogspotcomfitflops slippersfitflop sandals httpfitflopsaublogspotcomchristian loubitoncheap christian louboutin shoes canada httpcanadachristianlouboutinblogspotcomlouboutin mens shoes canadadiscount christian louboutin httpchristianlouboutincanadaoutletblogspotcomThe material is amazingly uniquecs go skins amazon httpsmssaffsagadaorgprofilesblogstheriskofnba2k16mtthatnobodyisdiscussingThank you so much for sharing your well put together siteNFL 17 coins httpwwwmalluzcomblogspost763Youve very well info right herenhl 17 coins httppalaircooledtreasurycomforumtopic7541Wow because this is very greatexcellent work Congrats and keep it upmadden 17 coins httpzrupycomindexphpdllprofilesubblogviewitem_id230006item2_id2050
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How do you propose to alter these allocations to help smaller clubs In particular minibusesfitflops cheapestfitflop sales httpfitflopsaublogspotcomfitflops slippersfitflop sandals httpfitflopsaublogspotcomchristian loubitoncheap christian louboutin shoes canada httpcanadachristianlouboutinblogspotcomlouboutin mens shoes canadadiscount christian louboutin httpchristianlouboutincanadaoutletblogspotcomThe material is amazingly uniquecs go skins amazon httpsmssaffsagadaorgprofilesblogstheriskofnba2k16mtthatnobodyisdiscussingThank you so much for sharing your well put together siteNFL 17 coins httpwwwmalluzcomblogspost763Youve very well info right herenhl 17 coins httppalaircooledtreasurycomforumtopic7541Wow because this is very greatexcellent work Congrats and keep it upmadden 17 coins httpzrupycomindexphpdllprofilesubblogviewitem_id230006item2_id2050
-imported: true
 ---
 
 __What made you run for this position?__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   And the winner is... Cypriot Society!
 date: "2011-02-19 15:55:07 +0000"
+
 # Attributes from Felix Online V1
 id: "857"
 old_path: /arts/857/international-night
 aliases:
  - /arts/857/international-night
+imported: true
+comments:
+ - Is this supposed to be a review of the Night or a feature on the Cypriot Society and their secrets to their success For an event review there are remarkably sparse details of what the other acts were and in what way they dazzled the audienceOf course is a review of the night man but it is focused on the winners Fair enoughlol what about some write up of the original winners thenhow can she write about the original winners since they didnt even bother to stay until the end of the show
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Is this supposed to be a review of the Night or a feature on the Cypriot Society and their secrets to their success For an event review there are remarkably sparse details of what the other acts were and in what way they dazzled the audienceOf course is a review of the night man but it is focused on the winners Fair enoughlol what about some write up of the original winners thenhow can she write about the original winners since they didnt even bother to stay until the end of the show
-imported: true
 ---
 
 Last Friday, 11th of February at 7:00 p.m, the Great Hall of Sherfield Building was packed from Imperial College students, friends, parents and staff. The reason? One of the most entertaining and full of fun event that is organized annually by the Imperial College Overseas Societies Committee; the International Night 2011!

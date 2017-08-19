@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park's Ramblings about Mr Turner
 date: "2014-11-06 19:22:26 +0000"
+
 # Attributes from Felix Online V1
 id: "4777"
 old_path: /film/4777/the-talented-mr-turner
 aliases:
  - /film/4777/the-talented-mr-turner
+imported: true
+comments:
+ - fitflop fiorella for salefitflops sale httpsingaporeasalefitflopsblogspotcomprice fitflopsfitflops buy online httpwwwaustraliafitflopscomcheapest fitflops onlinefitflops sale online httpwwwaustraliafitflopscombirkenstock sale clearancebirkenstock sale australia httpbirkenstockaustraliarochecaporglouboutin new yorkchristian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomWith thanks This is an impressive sitemadden 17 news httpsvkcomevent1271555302UqdQI httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop fiorella for salefitflops sale httpsingaporeasalefitflopsblogspotcomprice fitflopsfitflops buy online httpwwwaustraliafitflopscomcheapest fitflops onlinefitflops sale online httpwwwaustraliafitflopscombirkenstock sale clearancebirkenstock sale australia httpbirkenstockaustraliarochecaporglouboutin new yorkchristian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomWith thanks This is an impressive sitemadden 17 news httpsvkcomevent1271555302UqdQI httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Acclaimed director Mike Leigh has an array of impressive films to his name. And _Mr Turner _is no exception when it comes to his expert craftsmanship. It is a hugely ambitious biopic, one that covers decades of an eccentric artist’s life, packing the narrative full with rich, colourful settings, memorable characters, and a deep, poignant view into the protagonist.

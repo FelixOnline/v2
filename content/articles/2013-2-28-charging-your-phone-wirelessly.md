@@ -4,16 +4,25 @@ title: >
 subtitle: >
   Will the lack of Wires (or lack thereof) ever conspire to be desired?
 date: "2013-02-28 17:35:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3380"
 old_path: /tech/3380/charging-your-phone-wirelessly
 aliases:
  - /tech/3380/charging-your-phone-wirelessly
+imported: true
+comments:
+ - Apparently Qi may be making way for PMA another standard
+ - if youre in Europe PowerKiss are setting up in wireless charging tables McDonalds they already have some in the UK in Harrods and Paddington stationhttpwwwengadgetcom20130318powerkisspowermattersalliancelolSeptember 16 2012 at 731 ambest buy has a really nice hp detskop at a great price it says its refurbishedshould i take advantage of the great deal or stay away from refurbished computershere is the pc    HP   Refurbished Pavilion DesktopProduct FeaturesFrom our expanded online assortment not available in all Best Buy stores 2nd Gen Intelae Core i52400 processor Features a 6MB cache and 31GHz processor speed with Turbo Boost up to 34GHz Intelae Core i5 processor Features smart 4way processing performance with a speed boost Intelae Turbo Boost Technology Automatically speeds up your processor when your PC needs extra performance 8GB DDR3 SDRAM For multitasking power Multiformat DVDb1RWCDRW dri
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,16 +39,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Apparently Qi may be making way for PMA another standard
- - if youre in Europe PowerKiss are setting up in wireless charging tables McDonalds they already have some in the UK in Harrods and Paddington stationhttpwwwengadgetcom20130318powerkisspowermattersalliancelolSeptember 16 2012 at 731 ambest buy has a really nice hp detskop at a great price it says its refurbishedshould i take advantage of the great deal or stay away from refurbished computershere is the pc    HP   Refurbished Pavilion DesktopProduct FeaturesFrom our expanded online assortment not available in all Best Buy stores 2nd Gen Intelae Core i52400 processor Features a 6MB cache and 31GHz processor speed with Turbo Boost up to 34GHz Intelae Core i5 processor Features smart 4way processing performance with a speed boost Intelae Turbo Boost Technology Automatically speeds up your processor when your PC needs extra performance 8GB DDR3 SDRAM For multitasking power Multiformat DVDb1RWCDRW dri
-imported: true
 ---
 
 Qi. This sounds like some sort of Chinese “life energy” philosophy, but that’s not what we are talking about here. Pronounced “chee”, Qi is a wireless inductive power standard that is increasingly being adopted by handset manufacturers such as Nokia and LG for inclusion into their handsets. For phones that do not support the wireless charging standards, there are cases designed to envelope the devices and provide wireless charging capabilities. But is wireless charging even necessary, or is it just a solution to no one’s problem?

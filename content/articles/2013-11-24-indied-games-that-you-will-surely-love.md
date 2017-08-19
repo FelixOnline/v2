@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Calum Skene reviews some great indie games (yes, again)!
 date: "2013-11-24 16:37:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4130"
 old_path: /games/4130/indied-games-that-you-will-surely-love
 aliases:
  - /games/4130/indied-games-that-you-will-surely-love
+imported: true
+comments:
+ - Comments author 081807 125800 AM
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Comments author 081807 125800 AM
-imported: true
 ---
 
 Recently I have picked up a few games through steam sales which I have loved for their originality. These were cheap games in which I have already racked up an impressive (or unimpressive depending on your viewpoint) number of hours in. So if you’re looking for a great game to add to your steam libraries read on.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A photography book chronicling Hepburn’s ascent to fame from 1953-1966 by her friend and renowned Hollywood photojournalist Bob Willoughby
 date: "2010-11-18 20:07:01 +0000"
+
 # Attributes from Felix Online V1
 id: "383"
 old_path: /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
 aliases:
  - /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
+imported: true
+comments:
+ - Proud Galleries Chelsea presents The Audrey Collection by Bob Willoughby a touching photographic portrait of one of the most striking and stylish Hollywood stars of the 20th century captured through the lens of one her most trusted friends Bob Willoughbys unique collection will be exhibited at Proud Chelsea from 12th May  10th July 2011 and includes estate and very rare original prints printed and signed by Bob Willoughby himself and all for sale In his distinguished career as a Hollywood photographer Bob Willoughby took iconic photographs of many stars but remained unequivocal about his favourite subject Audrey HepburnFor more information email infoproudgalleriescouk or visit httpwwwproudcoukProud Chelsea 161 Kings Road SW3 5XP
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Proud Galleries Chelsea presents The Audrey Collection by Bob Willoughby a touching photographic portrait of one of the most striking and stylish Hollywood stars of the 20th century captured through the lens of one her most trusted friends Bob Willoughbys unique collection will be exhibited at Proud Chelsea from 12th May  10th July 2011 and includes estate and very rare original prints printed and signed by Bob Willoughby himself and all for sale In his distinguished career as a Hollywood photographer Bob Willoughby took iconic photographs of many stars but remained unequivocal about his favourite subject Audrey HepburnFor more information email infoproudgalleriescouk or visit httpwwwproudcoukProud Chelsea 161 Kings Road SW3 5XP
-imported: true
 ---
 
 Yet another photographic tome on the ubiquitous Ms Audrey Hepburn – there are so many out there now that if you didn’t know better, this one, by the late renowned Hollywood photographer Bob Willoughby is just another one on the shelf.

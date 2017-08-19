@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-21 23:47:52 +0000"
+
 # Attributes from Felix Online V1
 id: "3349"
 old_path: /news/3349/asbestos-has-been-found-in-skempton
 aliases:
  - /news/3349/asbestos-has-been-found-in-skempton
+imported: true
+comments:
+ - Unless you breathe the fibres in in large quantities asbestos is no more dangerous than sand and should certainly not be described as highly toxic In particular asbestos in building materials is very likely to be locked into a cement matrix which makes it pretty much harmless The correct way to deal with asbestos is to leave it alone and mark it so that no unsuspecting builder drills through it This is almost certainly what the uni Asbestos Management Plan entails
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Unless you breathe the fibres in in large quantities asbestos is no more dangerous than sand and should certainly not be described as highly toxic In particular asbestos in building materials is very likely to be locked into a cement matrix which makes it pretty much harmless The correct way to deal with asbestos is to leave it alone and mark it so that no unsuspecting builder drills through it This is almost certainly what the uni Asbestos Management Plan entails
-imported: true
 ---
 
 Recently released [College Council minutes](https://workspace.imperial.ac.uk/secretariat/Public/Minutes/Council/Council%20Minutes%2025%20Sept%202012.pdf) from last September have revealed the discovery of asbestos in the Skempton Building. The material, which is no longer used in construction, is highly toxic and leads to a range of respiratory illnesses.

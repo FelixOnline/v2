@@ -4,16 +4,24 @@ title: >
 subtitle: >
   £3,000 subscription to Campaign for Science and Engineering better spent on ‘core activities’ says College
 date: "2011-06-02 18:02:29 +0100"
+
 # Attributes from Felix Online V1
 id: "1291"
 old_path: /news/1291/imperial-cuts-ties-with-case
 aliases:
  - /news/1291/imperial-cuts-ties-with-case
+imported: true
+comments:
+ - I saw  Imran Khan in The Times Eureka magazine and was like cool I have not actually read this article but am sure it is excellent in a variety of ways
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I saw  Imran Khan in The Times Eureka magazine and was like cool I have not actually read this article but am sure it is excellent in a variety of ways
-imported: true
 ---
 
 Imperial has ended its subscription to influential science lobby group the Campaign for Science and Engineering ([CaSE](http://sciencecampaign.org.uk/)). The decision, which CaSE director Imran Khan called “puzzling”, means that Imperial is now one of only two Russell Group institutions, the other being the LSE, that is not affiliated with CaSE.

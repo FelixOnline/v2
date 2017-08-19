@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kelly Oakes reports on a possible cause of falling bee numbers
 date: "2012-05-25 18:42:40 +0100"
+
 # Attributes from Felix Online V1
 id: "2500"
 old_path: /science/2500/the-decline-of-british-bee-power
 aliases:
  - /science/2500/the-decline-of-british-bee-power
+imported: true
+comments:
+ - Cough cough httpwwwunionicacuksccesoc For bee based discussion and bee keeping on campus cough cough mailing list shameless plug
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Cough cough httpwwwunionicacuksccesoc For bee based discussion and bee keeping on campus cough cough mailing list shameless plug
-imported: true
 ---
 
 Pesticides may be the bees knees when it comes to protecting crops, but researchers from the UK and France have shown that exposure to one common pesticide leads to a dramatic loss to the number of queen bees, and another pesticide affects foragers’ ability to find their way back to the hive. The new findings might go some way to explaining recent decline in bee numbers.

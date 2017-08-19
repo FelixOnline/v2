@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A Batman theme won the syncronised swimmers a silver medal
 date: "2016-03-11 12:15:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6047"
 old_path: /sport/6047/caped-crusaders-swim-to-victory
 aliases:
  - /sport/6047/caped-crusaders-swim-to-victory
+imported: true
+comments:
+ - The youre really talented urlhttpwwwblogstercomalbionmallsomenicecommentsaboutmaplestoryAlbion Online SilverurlDo not rush meurlhttpuffxivbloggetsnetbladesoulcontrollersupportisnecessaryBladeSoul Goldurlwere so proud of youurlhttpswwwflickrcompeople131695270N07r4pgurlTake my word for iturlhttpencommunitydellcommembersroistoreroistoreurlGreat web sitewebsite It looks really professional Sustain the excellent workfifa 17 points httpwwwlvlistingcomcheapnfl17coinsisfootballvaluabledetailsKeep up the great work and producing in the crowdfifa 17 httpwwwedutoriumorgpagesview364956fastdeliveryfifa17coinsfirstgamebackiswoninbysilas
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The youre really talented urlhttpwwwblogstercomalbionmallsomenicecommentsaboutmaplestoryAlbion Online SilverurlDo not rush meurlhttpuffxivbloggetsnetbladesoulcontrollersupportisnecessaryBladeSoul Goldurlwere so proud of youurlhttpswwwflickrcompeople131695270N07r4pgurlTake my word for iturlhttpencommunitydellcommembersroistoreroistoreurlGreat web sitewebsite It looks really professional Sustain the excellent workfifa 17 points httpwwwlvlistingcomcheapnfl17coinsisfootballvaluabledetailsKeep up the great work and producing in the crowdfifa 17 httpwwwedutoriumorgpagesview364956fastdeliveryfifa17coinsfirstgamebackiswoninbysilas
-imported: true
 ---
 
 On Saturday 27th February Imperial College’s Synchronised Swimming Team swam in the Middlesex Synchronised Swimming championships, winning the silver medal in the “Masters 20+” age category.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Three totally awesome albums
 date: "2012-10-05 11:37:53 +0100"
+
 # Attributes from Felix Online V1
 id: "2600"
 old_path: /music/2600/hot-albums-mercury-special
 aliases:
  - /music/2600/hot-albums-mercury-special
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - nn1209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Alt-J (∆)

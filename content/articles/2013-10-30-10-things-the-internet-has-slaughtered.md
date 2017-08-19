@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Listing 10 things that have been brutally murdered by the interwebs
 date: "2013-10-30 16:08:13 +0000"
+
 # Attributes from Felix Online V1
 id: "3962"
 old_path: /tech/3962/10-things-the-internet-has-slaughtered
 aliases:
  - /tech/3962/10-things-the-internet-has-slaughtered
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## 1. Movie Stores

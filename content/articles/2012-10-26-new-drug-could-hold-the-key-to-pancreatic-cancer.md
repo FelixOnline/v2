@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The deadly disease is usually fatal, but a new drug may hold the key
 date: "2012-10-26 02:29:18 +0100"
+
 # Attributes from Felix Online V1
 id: "2744"
 old_path: /science/2744/new-drug-could-hold-the-key-to-pancreatic-cancer
 aliases:
  - /science/2744/new-drug-could-hold-the-key-to-pancreatic-cancer
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The thunder god vine, or Lei Gong Teng, is a herb used in traditional Chinese medicine and believed by some to be of use in a variety of ailments from arthritis to kidney disease. The plant contains multiple active compounds, and one of the most promising of these is triptolide, previously shown to have potential as a drug for treating various cancers, including pancreatic cancers.

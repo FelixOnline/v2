@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Departments calm as few declare intention to strike
 date: "2011-03-17 20:54:28 +0000"
+
 # Attributes from Felix Online V1
 id: "1096"
 old_path: /news/1096/strike-to-go-ahead-but-numbers-still-unknown
 aliases:
  - /news/1096/strike-to-go-ahead-but-numbers-still-unknown
+imported: true
+comments:
+ - What a joy to find someone else who thniks this waypjMQBu  ckgvtkfairiz
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - What a joy to find someone else who thniks this waypjMQBu  ckgvtkfairiz
-imported: true
 ---
 
 The University and College Union (UCU) has officially confirmed that members at Imperial college will be striking on the 22nd and 24th of March. It is still unknown exactly how many lecturers will strike but around as of Wednesday 17th, a dozen had already declared their intentions to College, with more expected to follow.

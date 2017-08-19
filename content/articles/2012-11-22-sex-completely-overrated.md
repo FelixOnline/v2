@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charlie Owen discusses why one class of creature shuns sex
 date: "2012-11-22 23:28:48 +0000"
+
 # Attributes from Felix Online V1
 id: "2950"
 old_path: /science/2950/sex-completely-overrated
 aliases:
  - /science/2950/sex-completely-overrated
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As much as you may think the contrary, and that this advice is hardly required for the average Imperial student, avoiding sex is really quite difficult. That is, for a species to survive, its genome must be kept up-to-date through the ‘shuffling’ effects of recombination and sexual reproduction. Without it, evolution simply can’t happen quickly enough in the fight against threats such as parasites.

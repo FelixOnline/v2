@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial once again get close to the Ultimate Field Trip
 date: "2013-01-31 22:29:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3196"
 old_path: /news/3196/imperial-students-in-bp-semi-finals
 aliases:
  - /news/3196/imperial-students-in-bp-semi-finals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial students have made it through to the [BP Ultimate Field Trip semi-final](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9044170&contentId=7077247)s. Five Imperial teams, each with three engineering students have reached the semi-finals stage, which will be held on the 4th-5th February across the UK.

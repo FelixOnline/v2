@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ashton Carter spends his one day in the UK wondering round ICL
 date: "2015-10-16 14:21:59 +0100"
+
 # Attributes from Felix Online V1
 id: "5655"
 old_path: /news/5655/us-secretary-of-defence-visits-imperial-campus
 aliases:
  - /news/5655/us-secretary-of-defence-visits-imperial-campus
+imported: true
+comments:
+ - this is a very useful mmorpg websitemadden 16 coins ps4 for sale httpwwwmaddenstorecommaddennfl16PS42187If he shows up we stick with himMadden 16 Coins httpmaddencoinsmywapblogcommaddennfl16top5defenseplayersxhtmlToo bad we must return thembladesoulgold httpforumnisimcomTopic21264161aspxTake my word for itwwwfifa16mallcom httpforumwastelandsinteractivecommemberphp26669CeciliaIcesnownice goingRunescape Gold httpiprofacecomblogview134190themostfunrunescapeskillthievingIll fix itnba 2k17 mt httpmakemendelcomforumviewtopicphpf28t4097You are nothing like us buy nba 2k17 mt httpdfwvgacomForummessagesaspxTopicID1992Too bad we have to return them cheap fifa 17 coins httpsomdmdaorgfifa_17_gameplay_better_fifa_16this website might help me personally to find good quality suggestionsbuy cheapest nba 2k mt httpwwwu4nbacomThank you for your helping handBuy Cheap NBA 2K17 MT httpbtcjunkies
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - this is a very useful mmorpg websitemadden 16 coins ps4 for sale httpwwwmaddenstorecommaddennfl16PS42187If he shows up we stick with himMadden 16 Coins httpmaddencoinsmywapblogcommaddennfl16top5defenseplayersxhtmlToo bad we must return thembladesoulgold httpforumnisimcomTopic21264161aspxTake my word for itwwwfifa16mallcom httpforumwastelandsinteractivecommemberphp26669CeciliaIcesnownice goingRunescape Gold httpiprofacecomblogview134190themostfunrunescapeskillthievingIll fix itnba 2k17 mt httpmakemendelcomforumviewtopicphpf28t4097You are nothing like us buy nba 2k17 mt httpdfwvgacomForummessagesaspxTopicID1992Too bad we have to return them cheap fifa 17 coins httpsomdmdaorgfifa_17_gameplay_better_fifa_16this website might help me personally to find good quality suggestionsbuy cheapest nba 2k mt httpwwwu4nbacomThank you for your helping handBuy Cheap NBA 2K17 MT httpbtcjunkies
-imported: true
 ---
 
 United States Secretary of Defence Dr Ashton Carter paid a visit to Imperial College London this week to discuss research ties between the UK and US, including how Imperial researchers are taking on a variety of challenges faced by both countries in the field of defence.

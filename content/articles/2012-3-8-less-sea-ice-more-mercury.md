@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mercury fallout in the atmosphere could be linked to melting ice in the Arctic Ocean
 date: "2012-03-08 20:10:46 +0000"
+
 # Attributes from Felix Online V1
 id: "2312"
 old_path: /science/2312/less-sea-ice-more-mercury
 aliases:
  - /science/2312/less-sea-ice-more-mercury
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Declining sea ice in the Arctic Ocean may be indirectly causing mercury fallout in the lower atmosphere, a NASA-led study suggests. The study reveals that the increasing replacement of multi-year ice by saltier seasonal ice is driving the increased release of salt ions such as bromine into the atmosphere, which then interacts with various atmospheric components such as pollutants and ozone.

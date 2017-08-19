@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Taha Butt describes the action from the coast as they return with mixed results
 date: "2014-12-04 20:28:58 +0000"
+
 # Attributes from Felix Online V1
 id: "5011"
 old_path: /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
 aliases:
  - /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
+imported: true
+comments:
+ -          urlhttpvektortelekomcom urlLxoKoR httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThanks for the purpose of providing these kinds of great content materialfifa 17 news httppetstopsitescompetresourcesmiscbuyfifa17coinsonthecitadelhtml
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -          urlhttpvektortelekomcom urlLxoKoR httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThanks for the purpose of providing these kinds of great content materialfifa 17 news httppetstopsitescompetresourcesmiscbuyfifa17coinsonthecitadelhtml
-imported: true
 ---
 
 After weeks of deliberation and minutes of research, tour secretary Naven Ghulam came to the decision that Imperial College Union Association Football Club (ICUAFC) and its hordes of Rangers were to return to the tour destination from two years ago: the lovely sea side town of Brighton. The day began as Philipp Gerstenberg arrived for his first pint at the union a good eight hours before the scheduled departure time. The Tour Sec was bombarded with questions on a range of topics using the hashtag #AskNav. Despite his ability to keep calm in answering these questions, it soon became apparent that he was in fact from the Matt Cann school of tour secs and that the tradition of incompetency was to be carried on. Refusing to let this setback hold them down, the army of Rangers powered on as more and more joined the cause.

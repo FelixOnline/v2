@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Security officer punched in face by suspect
 date: "2011-05-26 18:19:15 +0100"
+
 # Attributes from Felix Online V1
 id: "1247"
 old_path: /news/1247/laptop-thief-caught-red-handed-by-college-security
 aliases:
  - /news/1247/laptop-thief-caught-red-handed-by-college-security
+imported: true
+comments:
+ - I want Jonathons babies he is bare sexy and tingyoull have to get past me first girlfriendThis reminds me of the Shaggy songAbout time Annoying sintin demWhat a joy to find such clear thinking Thnaks for postingvK687R  urlhttphowowxjkhdticomhowowxjkhdtiurl linkhttphwzmmackybwrcomhwzmmackybwrlink httpekcvwllvdpdvcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I want Jonathons babies he is bare sexy and tingyoull have to get past me first girlfriendThis reminds me of the Shaggy songAbout time Annoying sintin demWhat a joy to find such clear thinking Thnaks for postingvK687R  urlhttphowowxjkhdticomhowowxjkhdtiurl linkhttphwzmmackybwrcomhwzmmackybwrlink httpekcvwllvdpdvcom
-imported: true
 ---
 
 College security officers, reacting to a report last Wednesday of the theft of a laptop computer, chased two young men across campus leading to an arrest and the assault of a security officer.

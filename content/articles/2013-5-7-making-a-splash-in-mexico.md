@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stephanie Walton visits an exotic paradise, while you're in the Library eating a j pot. Damn.
 date: "2013-05-07 19:37:17 +0100"
+
 # Attributes from Felix Online V1
 id: "3544"
 old_path: /travel/3544/making-a-splash-in-mexico
 aliases:
  - /travel/3544/making-a-splash-in-mexico
+imported: true
+comments:
+ - Mile  Hi NathanFirst of all congratulations for your phtoos you are undoubtly a PRO The place looks gorgeous my fiancee and I are also looking for venues on riviera maya one after another and still we havent totally found one that fits our needs  I am trying to contact milamores but their website is not working If you have by chance their email or number to provide me I would appreciate it a lotWarm regards Mile
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Mile  Hi NathanFirst of all congratulations for your phtoos you are undoubtly a PRO The place looks gorgeous my fiancee and I are also looking for venues on riviera maya one after another and still we havent totally found one that fits our needs  I am trying to contact milamores but their website is not working If you have by chance their email or number to provide me I would appreciate it a lotWarm regards Mile
-imported: true
 ---
 
 Mexico receives such bad press these days that it is hard to believe it has a safe and beautiful peninsula kicking out into the Caribbean Sea. There are white beaches, fascinating Mayan ruins and magnificent colonial cities. It seems that the only two drawbacks to this balmy “Yucatán” Peninsula are that place names are unpronounceable (try “Xkeken” or “Xcaret”) and that although the street food looks great, it might be regretted later.

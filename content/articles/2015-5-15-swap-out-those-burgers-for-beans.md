@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on lowering your risk of colon cancer
 date: "2015-05-15 12:01:20 +0100"
+
 # Attributes from Felix Online V1
 id: "5526"
 old_path: /science/5526/swap-out-those-burgers-for-beans
 aliases:
  - /science/5526/swap-out-those-burgers-for-beans
+imported: true
+comments:
+ - JDFKoX httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - JDFKoX httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
-imported: true
 ---
 
 Those late night burgers and sloppy kebabs may be doing far more dangerous things to your body than just expanding your waistline, research from Imperial suggests. A diet swap between American and African volunteers has indicated that one nation’s dietary habits leads to a greater risk of getting colon cancer.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The lessons of the past have been learned
 date: "2011-03-17 21:26:00 +0000"
+
 # Attributes from Felix Online V1
 id: "1101"
 old_path: /politics/1101/is-this-the-end-of-nuclear-power
 aliases:
  - /politics/1101/is-this-the-end-of-nuclear-power
+imported: true
+comments:
+ - Nuclear energy is not low cost at all Taking into account time to build new plants 1020 years costs for dealing with increasing radioactive waste increasing price of nuclear fuel and security problems it is far wiser not to invest in new plants but in research for alternative energy sources or alternative nuclear energy production cycles Thorium seems to provide a much better scenario in terms of safety and  nuclear waste amounts but in my opinion should be pursued only as alternative to research in  renewable energy sources The latter when optimized and  smartly networked  will be by far the best option for a viable futureYou can find more info on the debate from Felix at httpwwwfelixonlinecoukarticle875
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Nuclear energy is not low cost at all Taking into account time to build new plants 1020 years costs for dealing with increasing radioactive waste increasing price of nuclear fuel and security problems it is far wiser not to invest in new plants but in research for alternative energy sources or alternative nuclear energy production cycles Thorium seems to provide a much better scenario in terms of safety and  nuclear waste amounts but in my opinion should be pursued only as alternative to research in  renewable energy sources The latter when optimized and  smartly networked  will be by far the best option for a viable futureYou can find more info on the debate from Felix at httpwwwfelixonlinecoukarticle875
-imported: true
 ---
 
 On Friday 11th March 2011, an earthquake of magnitude 9.0 struck 230 miles off the coast of northern Japan. As well as triggering a devastating tsunami, the earthquake has also caused problems with a nuclear plant in Fukushima, with developments keeping the global community sitting on the edge of its seat.

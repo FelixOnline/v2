@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A look at Tastes like Human: the latest book of humorous lists by ‘The Shark Guys’
 date: "2012-03-15 21:09:08 +0000"
+
 # Attributes from Felix Online V1
 id: "2371"
 old_path: /books/2371/no-humans-were-harmed-in-the-writing-of-this-review
 aliases:
  - /books/2371/no-humans-were-harmed-in-the-writing-of-this-review
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I have somewhat of a fondness for amusing lists. They’re a quick read and perfect whether you want to you want to wind down or just procrastinate. I was therefore interested to hear of _Tastes like Human_, the latest book by ‘The Shark Guys’ – Noel Boivin and Christopher Lombardo.

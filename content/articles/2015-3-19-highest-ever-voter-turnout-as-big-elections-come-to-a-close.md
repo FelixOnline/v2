@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philip Kent caught up with the winners on results night
 date: "2015-03-19 23:44:39 +0000"
+
 # Attributes from Felix Online V1
 id: "5408"
 old_path: /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
 aliases:
  - /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
+imported: true
+comments:
+ - Most of us BMS students groan inwardly when were emailed yet another dull missive from Cyin But well done anyway for getting the DPE positionMobiles that Micromax has launched have its own characteristic featuring And Micromax is the name that keeps the mobile freaks amazed with its outstanding featuring products and models Models with all the latest facilities and features are what Micromax always keeps marinating A look inside wwopiightshoppingingitbasCMicromaxMobilePhonesbMicrwmaxcrd1 will give full idea of the Micromax offers
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Most of us BMS students groan inwardly when were emailed yet another dull missive from Cyin But well done anyway for getting the DPE positionMobiles that Micromax has launched have its own characteristic featuring And Micromax is the name that keeps the mobile freaks amazed with its outstanding featuring products and models Models with all the latest facilities and features are what Micromax always keeps marinating A look inside wwopiightshoppingingitbasCMicromaxMobilePhonesbMicrwmaxcrd1 will give full idea of the Micromax offers
-imported: true
 ---
 
 Last Friday saw the end of another year of campaigning and voting for the Imperial College Union sabbatical positions, with the results of the Big Elections 2015 announced during the results party in Metric.

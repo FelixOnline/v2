@@ -4,16 +4,23 @@ title: >
 subtitle: >
   3D TV's back but what does it mean for you?
 date: "2010-06-16 18:30:14 +0100"
+
 # Attributes from Felix Online V1
 id: "145"
 old_path: /tech/145/3ds-back-baby-you-ready
 aliases:
  - /tech/145/3ds-back-baby-you-ready
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
-imported: true
 ---
 
 The age of the red-and-blue grainy cliché is over! Cast aside your cheap cardboard spectacles and make way for a new era of unparalleled 3D realism accompanied by spectacular picture quality. However, instead of overpriced cinema screenings the revolution is going to happen right in your front room, changing the televisions and video games we know and love for ever.

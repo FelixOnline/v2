@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-20 09:16:02 +0100"
+
 # Attributes from Felix Online V1
 id: "6188"
 old_path: /film/6188/documentary-corner-a-riot-of-our-own
 aliases:
  - /film/6188/documentary-corner-a-riot-of-our-own
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 No Nazis. No dark metal. Live acts seven days a week. These simple admission criteria meant that gigs could be booked in the same day, regardless of band size or experience, to play in front of the music-loving crowd who religiously converged on the 12 Bar Club, hidden in Denmark Street.

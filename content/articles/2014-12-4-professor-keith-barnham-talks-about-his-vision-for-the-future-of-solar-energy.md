@@ -4,16 +4,24 @@ title: >
 subtitle: >
   “If we could produce our own, free, solar fuel on our rooftops, we could use it in fuel cells to power cars. You’d have free mileage for life.” James Bezer talks to Professor Keith Barnham about his vision for the future of solar energy
 date: "2014-12-04 21:32:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5015"
 old_path: /science/5015/professor-keith-barnham-talks-about-his-vision-for-the-future-of-solar-energy
 aliases:
  - /science/5015/professor-keith-barnham-talks-about-his-vision-for-the-future-of-solar-energy
+imported: true
+comments:
+ - Honda built a Solar Hydrogen plant at their Swindon plant Im surprised it hasnt received more attention Its the  biggest Hydrogen news of the year Details The launch of the UKs first commercialscale hydrogen production and refuelling facility powered by solar energy heralds the dawn of an era of true carbonfree fuelThe gas will be generated at Honda UKs manufacturing plant in Swindon at the rate of 20 tonnes per year using a process called solar hydrolysishttpwwwshdlogisticscomnewsviewhydrogenfuelbecomesapracticalreality They are also working on a home unit httpworldhondacomFuelCellSolarHydrogenStationWhy does he make it sound like nuclear energy is detrimental to the environment when it has zero carbon emissions While I respect scientists and engineers who work on renewable energy sources even Im working on a microCSP design at the moment I believe it is ultimately highly myopic to think of a nuclearfree future Nuclear reactors do not only pro
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Honda built a Solar Hydrogen plant at their Swindon plant Im surprised it hasnt received more attention Its the  biggest Hydrogen news of the year Details The launch of the UKs first commercialscale hydrogen production and refuelling facility powered by solar energy heralds the dawn of an era of true carbonfree fuelThe gas will be generated at Honda UKs manufacturing plant in Swindon at the rate of 20 tonnes per year using a process called solar hydrolysishttpwwwshdlogisticscomnewsviewhydrogenfuelbecomesapracticalreality They are also working on a home unit httpworldhondacomFuelCellSolarHydrogenStationWhy does he make it sound like nuclear energy is detrimental to the environment when it has zero carbon emissions While I respect scientists and engineers who work on renewable energy sources even Im working on a microCSP design at the moment I believe it is ultimately highly myopic to think of a nuclearfree future Nuclear reactors do not only pro
-imported: true
 ---
 
 __James: You originally started your career in particle physics—why did you change to researching solar panels?__

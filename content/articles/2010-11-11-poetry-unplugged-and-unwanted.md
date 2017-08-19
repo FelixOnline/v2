@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Poetry Café's Poetry Unplugged night is a nice idea, but ultimately a bit shit
 date: "2010-11-11 20:24:23 +0000"
+
 # Attributes from Felix Online V1
 id: "333"
 old_path: /arts/333/-poetry-unplugged-and-unwanted
 aliases:
  - /arts/333/-poetry-unplugged-and-unwanted
+imported: true
+comments:
+ - Thank you for the multitude of comments on this article You may not have noticed its over a year oldUnfortunately in classic poet form youve not actually responded to any of the criticisms in the article the venue was uninspiring and not really suited to poetry the poetry wasnt just bad it was gibberish etc etc and instead youve decided to just list some of the famous people that once went there meaningless and then spouted some marketingpublicity spam also meaningless If you have some genuine responses please do comment againAlso whilst we appreciate your opinion inciting hatred from your account on Twitter httptwittercompoetniallstatus112893393373380608 only reinforces your sore loser attitude and if you think this review is nasty you have much to learn Its one thing to post a link but to gather up your little Twittermob of poets and come over here and personally attack the reviewer herself is just a little childishIf you believe that your comment
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thank you for the multitude of comments on this article You may not have noticed its over a year oldUnfortunately in classic poet form youve not actually responded to any of the criticisms in the article the venue was uninspiring and not really suited to poetry the poetry wasnt just bad it was gibberish etc etc and instead youve decided to just list some of the famous people that once went there meaningless and then spouted some marketingpublicity spam also meaningless If you have some genuine responses please do comment againAlso whilst we appreciate your opinion inciting hatred from your account on Twitter httptwittercompoetniallstatus112893393373380608 only reinforces your sore loser attitude and if you think this review is nasty you have much to learn Its one thing to post a link but to gather up your little Twittermob of poets and come over here and personally attack the reviewer herself is just a little childishIf you believe that your comment
-imported: true
 ---
 
 The Poetry Café is a sweet little place with a rather unattractive poetry night, [Poetry Unplugged](http://www.poetrysociety.org.uk/content/cafe/events/), on Tuesday evenings. Poetry Unplugged gives anyone the opportunity to read poetry in public. Amateur poets can read their poetry in public to an accepting audience. Unfortunately, the mix of amateur poets and nice audience members make for some truly terrible poetry. Any mildly good verse was quickly outshone by a host of overly emotional, unoriginal or simply crazy sonnets.

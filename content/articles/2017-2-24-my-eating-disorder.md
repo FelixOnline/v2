@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Conchi Hermida Sánchez shares her relationship with food, the starving and the binge-eating, and hopes for a brighter healthier future
 date: "2017-02-24 13:48:26 +0000"
+
 # Attributes from Felix Online V1
 id: "6812"
 old_path: /comment/6812/my-eating-disorder
 aliases:
  - /comment/6812/my-eating-disorder
+imported: true
+comments:
+ - BaronBut for the West to do so would destroy its own collective soul Not doing such things is what distinguishes us from themI agree cotAlemelyplsoThe official US policy for decades is that the response to a nuclear attack will be a massive retailation in kind against the perpetrators details not announced in advanceAnyone with at least a two digit IQ realizes this will happen  Any rational person will not use nuclear weapons against the US  Bin Laden however if had them would think this a good reason to use them in the hope he could leat the islamic anger  Tancredos comments are an invitation to people like bin Laden
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - BaronBut for the West to do so would destroy its own collective soul Not doing such things is what distinguishes us from themI agree cotAlemelyplsoThe official US policy for decades is that the response to a nuclear attack will be a massive retailation in kind against the perpetrators details not announced in advanceAnyone with at least a two digit IQ realizes this will happen  Any rational person will not use nuclear weapons against the US  Bin Laden however if had them would think this a good reason to use them in the hope he could leat the islamic anger  Tancredos comments are an invitation to people like bin Laden
-imported: true
 ---
 
 As part of Eating Disorders Awareness Week, I would like to share my personal experience and hopefully help someone out there.

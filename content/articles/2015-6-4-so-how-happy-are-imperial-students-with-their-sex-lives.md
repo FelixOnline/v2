@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson summarises your sexual satisfaction
 date: "2015-06-04 23:32:36 +0100"
+
 # Attributes from Felix Online V1
 id: "5599"
 old_path: /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
 aliases:
  - /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
+imported: true
+comments:
+ - When twice as many students fill out a mental health survey you know theres a serious problembirkenstock shoes onlinebirkenstock gizeh httpbirkenstockaustraliablogspotcombirkenstock outlet online shopwhere to buy birkenstocks httpbirkenstockaustraliarochecaporgEspecially as the eventual qualifying equation might come right down to goal difference in this group of death It will function group opener for both squads your market 2010 FIFA World Wine glasscrdits fifa gratuit httpcreditsfutcomred sole shoeschristian louboutin sale clearance httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes salechristian louboutin canada stores httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - When twice as many students fill out a mental health survey you know theres a serious problembirkenstock shoes onlinebirkenstock gizeh httpbirkenstockaustraliablogspotcombirkenstock outlet online shopwhere to buy birkenstocks httpbirkenstockaustraliarochecaporgEspecially as the eventual qualifying equation might come right down to goal difference in this group of death It will function group opener for both squads your market 2010 FIFA World Wine glasscrdits fifa gratuit httpcreditsfutcomred sole shoeschristian louboutin sale clearance httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes salechristian louboutin canada stores httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 Overall, 62% of us are ‘happy’ or ‘very happy’ with our sex lives at Imperial. Only 21% reported that they were ‘unhappy’ or ‘very unhappy’ (sorry folks), while 15% didn’t feel one way or the other.

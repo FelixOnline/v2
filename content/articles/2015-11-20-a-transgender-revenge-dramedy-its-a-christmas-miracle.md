@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tangerine may be bombastic in its approach, but there is real warmth and joy within the film
 date: "2015-11-20 14:08:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5768"
 old_path: /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
 aliases:
  - /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
+imported: true
+comments:
+ - Cheap NBA 2k16 httpwwwfreewebsiteservicecomfifacoinstraderfifa2B152Bcoins252Cps4phpid869388snavn2KSportsMachineNotAvailableAtTheMomentThanks a bunch This a astounding siteCheap NBA 2k15 MT httpwwwpgfhomorgforumindexphptopic124900PeI22R httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Cheap NBA 2k16 httpwwwfreewebsiteservicecomfifacoinstraderfifa2B152Bcoins252Cps4phpid869388snavn2KSportsMachineNotAvailableAtTheMomentThanks a bunch This a astounding siteCheap NBA 2k15 MT httpwwwpgfhomorgforumindexphptopic124900PeI22R httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Transgender revenge dramedies are somewhat hard to come by in a cinema. In fact I’m not sure many of them exist at all. If you need to bump up your street cred, then, _Tangerine_ will definitely be the edgiest film you’ll see this month, perhaps this year. Fortunately it’s got enough substance in it that you can get more out of it than just a good story.

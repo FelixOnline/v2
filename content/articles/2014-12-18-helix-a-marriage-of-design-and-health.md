@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland speaks to Maja Kecman, a specialist in medical design at the HELIX Centre
 date: "2014-12-18 15:44:09 +0000"
+
 # Attributes from Felix Online V1
 id: "5059"
 old_path: /arts/5059/helix-a-marriage-of-design-and-health
 aliases:
  - /arts/5059/helix-a-marriage-of-design-and-health
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week, I had the opportunity to visit __The HELIX Centre for Design in Healthcare__, part of Imperial’s Institute of Global Health Innovation. Based at St. Mary's Hospital in Paddington, the centre aims to provide solutions in healthcare through intelligent and low cost design. Formed less than a year ago as a collaboration between the Royal College of Art and Imperial College, London; I was really enthusiastic about this, both as a medic and someone interested in clever and elegant design. It promised to be an exciting integration of fields not often thought of together. I sat down with Maja Kecman, a specialist in healthcare design working at HELIX, to see if the hype was justified:

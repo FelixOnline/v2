@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Zoë Wanamaker makes Chekov’s classic play at the National Theatre the pick of the crop
 date: "2011-06-02 19:46:13 +0100"
+
 # Attributes from Felix Online V1
 id: "1312"
 old_path: /arts/1312/cherries-ripe-for-watching
 aliases:
  - /arts/1312/cherries-ripe-for-watching
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 When I eventually managed to walk through the doors of the Olivier Theatre, blocked up with crowds, I turned my head to the stage and that enchanting stage setting took me to the beginning of the twentieth century straightaway. I could see a living room with wooden walls cosily enlightened with candles, and a grand bookcase and sofas. As a history lover, I realised that I picked the right play to watch on my Bank Holiday weekend.

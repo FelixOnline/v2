@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Two of the five Evelyn Gardens halls will house Imperial students this year
 date: "2015-08-29 16:33:47 +0100"
+
 # Attributes from Felix Online V1
 id: "5649"
 old_path: /news/5649/college-u-turn-on-evelyn-gardens
 aliases:
  - /news/5649/college-u-turn-on-evelyn-gardens
+imported: true
+comments:
+ - Turns out they dont have enough seniors for the job so they asked seniors form other halls to volunteer But get this at least one senior I know who didnt volunteer was automatically reallocated to a halls in Evelyn gardens without his or the hall wardens notice The accommodation team is being unhelpful as always and not letting him get in touch with whoever has made such decisions without anyones knowledgeI bet this Hall Senior is pissed as hell right now But still you cant be sure that it was done on purpose Anyway I know some resources like essay help who may have some recommendations  My way or the highwaytop fifa coins httpwwwjanglonetindexphpoptioncom_adsmanagerpagedisplaycatid162tid376470Jv00OL  qmqimjtfcudw urlhttpafqkzlxgjtyacomafqkzlxgjtyaurl linkhttpxtukkmddxafzcomxtukkmddxafzlink httpvjvszttrzwtbcomQIpnxU  lgmdmobbrheg urlhttpbtgzgclujsypcombtgzgclujsypurl linkhttprdjffwhglpzacomrdjffwhglpzalink httphhlxdss
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Turns out they dont have enough seniors for the job so they asked seniors form other halls to volunteer But get this at least one senior I know who didnt volunteer was automatically reallocated to a halls in Evelyn gardens without his or the hall wardens notice The accommodation team is being unhelpful as always and not letting him get in touch with whoever has made such decisions without anyones knowledgeI bet this Hall Senior is pissed as hell right now But still you cant be sure that it was done on purpose Anyway I know some resources like essay help who may have some recommendations  My way or the highwaytop fifa coins httpwwwjanglonetindexphpoptioncom_adsmanagerpagedisplaycatid162tid376470Jv00OL  qmqimjtfcudw urlhttpafqkzlxgjtyacomafqkzlxgjtyaurl linkhttpxtukkmddxafzcomxtukkmddxafzlink httpvjvszttrzwtbcomQIpnxU  lgmdmobbrheg urlhttpbtgzgclujsypcombtgzgclujsypurl linkhttprdjffwhglpzacomrdjffwhglpzalink httphhlxdss
-imported: true
 ---
 
 Imperial have announced that accommodation at Evelyn Gardens will indeed be offered to Imperial students joining this academic year.

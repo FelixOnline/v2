@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Colin Hill against the union refurbishments
 date: "2010-02-27 17:09:41 +0000"
+
 # Attributes from Felix Online V1
 id: "112"
 old_path: /comment/112/colin-hill-against-the-union-refurbishments
 aliases:
  - /comment/112/colin-hill-against-the-union-refurbishments
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As I’m sure most of you have read recently, the Union has decided to spend £2.4 million on renovating dB’s and da Vinci’s. Personally, I like the union the way it is; it’s a fantastic establishment where all my friends are, “cutting up some mad shapes on the D-Floor” is perfectly acceptable and the staff give the right amount of leniency to raucous behaviour.

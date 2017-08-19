@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Michael Cook talks making shortcuts and artificial intelligence
 date: "2011-02-28 20:45:00 +0000"
+
 # Attributes from Felix Online V1
 id: "934"
 old_path: /games/934/when-in-doubt-leave-it-out
 aliases:
  - /games/934/when-in-doubt-leave-it-out
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _This is Day 2 of the IC.HACK tutorial series! To see yesterday's article click [Day 1 - Starting](http://felixonline.co.uk/?article=903) or for the next installment click [Day 3 - Art and Sound](http://felixonline.co.uk/?article=965)._

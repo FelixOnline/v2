@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Isaid Benitez-Cabral takes a look at the choices facing the French people at the Presidential Elections
 date: "2012-03-15 19:49:29 +0000"
+
 # Attributes from Felix Online V1
 id: "2350"
 old_path: /politics/2350/bling-bling-or-flamby
 aliases:
  - /politics/2350/bling-bling-or-flamby
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - ig711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Five years have passed since the last presidential elections took place in France in 2007, which saw the centre-right populist [Nicolas Sarkozy](http://www.support-sarkozy-france.com/nicolas_sarkozy/) beat the centre-left Ségolène Royal to become the sixth president of the Fifth Republic. The presidency of France is up for grabs once again and will be contested in two rounds on 22 April and 6 May. In 1981, the French people chose left over right and booted out the unpopular incumbent. It is not unrealistic to think that we could see a replay of this unusual situation in the upcoming elections.

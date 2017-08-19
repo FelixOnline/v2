@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The change.org petition needs your signature
 date: "2016-05-20 08:46:53 +0100"
+
 # Attributes from Felix Online V1
 id: "6171"
 old_path: /news/6171/petition-started-to-get-air-conditioning-in-library
 aliases:
  - /news/6171/petition-started-to-get-air-conditioning-in-library
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _Sign the petition [here](https://www.change.org/p/imperial-college-london-put-air-conditioning-in-the-imperial-college-central-library)._

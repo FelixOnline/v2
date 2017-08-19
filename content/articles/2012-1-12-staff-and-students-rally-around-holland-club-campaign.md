@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Call to protect staff bar attracts hundreds of members
 date: "2012-01-12 21:40:11 +0000"
+
 # Attributes from Felix Online V1
 id: "1972"
 old_path: /news/1972/staff-and-students-rally-around-holland-club-campaign
 aliases:
  - /news/1972/staff-and-students-rally-around-holland-club-campaign
+imported: true
+comments:
+ - Since I wrote the article College has created a feedback page which can be found herehttpwww2imperialacukblogannouncements20120111feedbackinvitedoncateringandamenityofferonsouthkensingtoncampusFritzl Bar
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Since I wrote the article College has created a feedback page which can be found herehttpwww2imperialacukblogannouncements20120111feedbackinvitedoncateringandamenityofferonsouthkensingtoncampusFritzl Bar
-imported: true
 ---
 
 The future of Imperial College’s staff bar, the Holland Club, is in serious doubt this week as it emerged that college catering are potentially planning on converting the space into a new food outlet.

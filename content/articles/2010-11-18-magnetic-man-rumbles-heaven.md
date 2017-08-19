@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Magnetic Man unleash a torrent of bass @ Heaven
 date: "2010-11-18 20:39:40 +0000"
+
 # Attributes from Felix Online V1
 id: "390"
 old_path: /music/390/magnetic-man-rumbles-heaven
 aliases:
  - /music/390/magnetic-man-rumbles-heaven
+imported: true
+comments:
+ - I love reading these articles because theyre short but infrmoatvie 20120222 1647     I hope you never stop  This is one of the best blogs Ive ever read  Youve got some mad skill here man  I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there  Please keep it up because the internet needs someone like you spreading the wordI teach ESL and this would be a fun way to get students to write comltepe sentences  To make it really work in the classroom I would need as others have pointed out some punctuation marks and capital letters  Any chance of that happening soon  Otherwise its a good start  And dont worry about having the letters added via keyboard  In my opinion the whole idea is to move the letters one by one just like one does with magnets  asthma symptoms   long now   many mistakes   actual
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - I love reading these articles because theyre short but infrmoatvie 20120222 1647     I hope you never stop  This is one of the best blogs Ive ever read  Youve got some mad skill here man  I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there  Please keep it up because the internet needs someone like you spreading the wordI teach ESL and this would be a fun way to get students to write comltepe sentences  To make it really work in the classroom I would need as others have pointed out some punctuation marks and capital letters  Any chance of that happening soon  Otherwise its a good start  And dont worry about having the letters added via keyboard  In my opinion the whole idea is to move the letters one by one just like one does with magnets  asthma symptoms   long now   many mistakes   actual
-imported: true
 ---
 
 Calling themselves the world’s first dubstep supergroup, this talented trio have definitely stepped up their live act (from what initially resembled a Warcraft LAN party) to a blitz of lights and torrent of bass. For those of you who have been living in the library too much, they are composed of dubstep giants Skream, Benga and Artwork (who? precisely) and have recently released their kick-ass eponymous debut. On Wednesday 3rd they shook Heaven’s foundations with the excessive dub that incited chaos on the dance floor as they were joined on-stage by guests that included the likes of Katy B and Ms. Dynamite.

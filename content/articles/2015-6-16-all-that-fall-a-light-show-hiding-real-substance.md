@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emiel de Lange finds that the auditory component of Beckett's work far outweighs the visuals
 date: "2015-06-16 18:55:52 +0100"
+
 # Attributes from Felix Online V1
 id: "5624"
 old_path: /arts/5624/all-that-fall-a-light-show-hiding-real-substance
 aliases:
  - /arts/5624/all-that-fall-a-light-show-hiding-real-substance
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We enter a dark room scattered with rocking chairs. The far wall is covered by an array of bright yellow lights, emanating heat and an irritating electrical buzz, while dimly lit bulbs hang from the ceiling. Taking our seats on the cushioned wood, I can see the looks of anticipation and curiosity on faces around me. Like them, I had little idea of what to expect, though we were promised to be “immersed into an atmospheric chamber of multiple speakers and ambient lights” whilst listening to Samuel Beckett’s radio play, _All That Fall_.

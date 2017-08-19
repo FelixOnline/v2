@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Say goodbye to those foreign flings
 date: "2016-10-03 16:00:25 +0100"
+
 # Attributes from Felix Online V1
 id: "6299"
 old_path: /news/6299/uk-unis-fear-erasmus-drop-post-brexit
 aliases:
  - /news/6299/uk-unis-fear-erasmus-drop-post-brexit
+imported: true
+comments:
+ - httpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycom
-imported: true
 ---
 
 Studying with a year abroad might soon be a thing of the past, as Britain edges closer to implementing Brexit. The exchange scheme allowing UK students to spend up to a year in participating universities across the EU, is for the first time in its 30 year-long history facing a “moment of uncertainty”, according to UK director of Erasmus+, Ruth Sinclair-Jones.

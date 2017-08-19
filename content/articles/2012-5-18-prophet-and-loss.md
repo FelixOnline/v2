@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Taiba Suddek talks to Hassan Abdulrazzak, one of IC’s own, about his new play exploring the Arab Spring
 date: "2012-05-18 15:49:56 +0100"
+
 # Attributes from Felix Online V1
 id: "2472"
 old_path: /arts/2472/prophet-and-loss
 aliases:
  - /arts/2472/prophet-and-loss
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Throughout history a number of great artists have also been scientists. “Anton Tchekhov himself was a practicing physician.” Hassan Abdualrazzak, researcher at __Imperial College__ and playwright tells me in the Junior Common Room at Imperial where we met for the interview. He continues to say that scientists make good playwrights due to the huge analytical skills needed to write a good script. This may go against the stereotype that scientists are rigorous, working only from hard facts while artists are eccentric, run by their emotions and impulses, however as many before him Hassan has disproven this stereotype by remaining a successful scientist whilst producing award winning work. His first play “Bagdad Wedding” was wildly praised, premiering at London’s Soho theatre, and also reproduced by BBC Radio 3, as well as in theatres in Sydney and New York. Bagdad Wedding focuses on the lives of three professional Iraqis. The play moves between London and Bagdad where the wedding of the main character, Salim, a doctor and writer of adult fiction is taking place. On the way to the wedding Salim’s cousins fire gunshots up into the sky (a traditional occurrence at Iraqi weddings), attracting the attention of American soldiers. Believed to be a terrorist, Salim is captured and tortured. The play starts with Salim’s death; his friend, Marwan, looks back at their relationship and how they met at __Imperial College__ as students. Hassan tells me that one of the scenes in the play takes place at the base of Queen’s Tower where Marwan and his love interest Luma, an outgoing, energetic Iraqi medical student, are talking about the tower and admiring it. Luma returns to Iraq after her father’s death to practice medicine in an under-equipped hospital. One of the themes in the play is her adjusting to her new job which requires her doing things such as putting on a hijab in order to fit in.

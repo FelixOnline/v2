@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Christy tries to go out of her comfort zone and goes to a new place with a dress-code that serves the fanciest waffles in town, no matter if they are sweet or not, even if they do not reach up her high expectations.
 date: "2017-02-10 16:21:34 +0000"
+
 # Attributes from Felix Online V1
 id: "6773"
 old_path: /food/6773/bored-of-the-classic-waffle-me-too-
 aliases:
  - /food/6773/bored-of-the-classic-waffle-me-too-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You should never make a comment about a restaurant before you’ve tried it.”

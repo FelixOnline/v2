@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As lecture theatres around the country play host to student activists, Ian Wei reports from the UCL occupation
 date: "2010-12-02 21:43:54 +0000"
+
 # Attributes from Felix Online V1
 id: "495"
 old_path: /news/495/so-what-happens-at-an-occupation-
 aliases:
  - /news/495/so-what-happens-at-an-occupation-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 As the parliamentary vote on tuition fees draws nearer, the intensity of the student protests against higher fees, education cuts and the scrapping of the EMA has rapidly increased. With occupations of university buildings happening all across the country, the reactionary protests have morphed into a new grassroots movement of students, academics, school kids and trade unionists. The defining images of the protests are still pictures of violence and chaos from Millbank Tower on the 10th of November; but a visit to the [UCL occupation](http://ucloccupation.wordpress.com/) is proof of how unrepresentative that incident was.

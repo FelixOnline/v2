@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Manon Lescaut is on at the Royal Opera House until 12th December 2016
 date: "2016-12-02 14:59:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6535"
 old_path: /arts/6535/manon-lescaut-raises-some-questions
 aliases:
  - /arts/6535/manon-lescaut-raises-some-questions
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Despite the pre-existing Manon by Jules Massenet, Puccini chose to write another opera based on the story of Manon Lescaut, defending his decision thus: “a woman like Manon can have more than one lover.” The sentiment is not untrue; by turns passionate, coquettish, and mercenary, Manon is a character who captivates both the audience and her fellow protagonists on stage.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Humans are unmistakably tied to our ape origins, says Jane Courtnell
 date: "2015-03-13 00:42:20 +0000"
+
 # Attributes from Felix Online V1
 id: "5386"
 old_path: /science/5386/fossil-discovery-sheds-light-on-human-origins
 aliases:
  - /science/5386/fossil-discovery-sheds-light-on-human-origins
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Humans still have an unmistakable tie to our ape origins. The question is, how did we get from such a beginning to our where we are now? The fossil record provides a fragmented view of human evolution. From this record, the time of split between the Homo genus and Australopithecus genus remains ambiguous. Fossilised remains of Homo habilis mark the split between Homo and Australopithecus dating between 2.4 and 1.5 million years ago (mya). However, with the continual advancement within palaeoanthropology we have recently seen the discovery of a lower jawbone and five teeth belonging to the Homo linegage which dates to around 2.8 mya. Disputes concerning whether the fossilised remains of Homo habilis specimens belong to the Australopithecus genus and thus splits in the latter lineage occurring at a later date, are challenged.

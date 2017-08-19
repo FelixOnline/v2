@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The different sought after destinations in Europe
 date: "2011-03-03 19:58:05 +0000"
+
 # Attributes from Felix Online V1
 id: "1000"
 old_path: /travel/1000/european-playground-exposed
 aliases:
  - /travel/1000/european-playground-exposed
+imported: true
+comments:
+ - Well I lived in Athens Greece like most of my life and I kind of know how it is over their It depends when iyou go like if you go in the smumer its going to be more expensive than if you go in the winter But if you want to have fun go to clubs sites and take some tours With tours you have to be careful because the people that give you tours can bewell annoying and your going to having to go up and down and you will get tierd just take it easy They money your going to spend depends on where your going to stay If you want this to be the funnest cheapest trip ever you can go stay in a hostel with free breakfest and you good save big money Well thats all I know and I hope everything works out for you your going to love itWe stayed at the Harborview Lavish arteampnt for 12 days in JuneJuly 12Booking the arteampnt was straight forward and quickWe also booked with David the airport shuttle that took us from the airport dire
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well I lived in Athens Greece like most of my life and I kind of know how it is over their It depends when iyou go like if you go in the smumer its going to be more expensive than if you go in the winter But if you want to have fun go to clubs sites and take some tours With tours you have to be careful because the people that give you tours can bewell annoying and your going to having to go up and down and you will get tierd just take it easy They money your going to spend depends on where your going to stay If you want this to be the funnest cheapest trip ever you can go stay in a hostel with free breakfest and you good save big money Well thats all I know and I hope everything works out for you your going to love itWe stayed at the Harborview Lavish arteampnt for 12 days in JuneJuly 12Booking the arteampnt was straight forward and quickWe also booked with David the airport shuttle that took us from the airport dire
-imported: true
 ---
 
 _The lowdown_: Once the playground of Romans and feudal lords alike, modern Europe is now flocked by visitors pursuing the delights it has to offer. The diversity of cultures, languages, history, cuisine and so on are reasons us Brits should roam our continental neighbours.

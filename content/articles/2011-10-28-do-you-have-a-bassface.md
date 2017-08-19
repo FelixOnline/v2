@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chandra Chadalawada investigates the phenomenon
 date: "2011-10-28 11:09:09 +0100"
+
 # Attributes from Felix Online V1
 id: "1639"
 old_path: /music/1639/do-you-have-a-bassface
 aliases:
  - /music/1639/do-you-have-a-bassface
+imported: true
+comments:
+ - Ahem There used to be two people in that enrite building who knew who New Order was every time I had to come over for a meeting that isBut maybe I should be nice Before 1993 no St Louis radio station would play anything by NO but  True Faith  except maybe on Sunday nights when Les Aaron had a two or threehour alternative music show on the less popular of the two Top 40 stationsI think its funny every time I hear someone with a ringtone that sounds like an old Western Electric rotary someone walks up to them and asks where they got that ringtone Imagine that a phone that sounds like a phone Andrew Weiss lines are thick like flying eatlhpnes great choice There are a lot of amazing 4 strings players out there i would add Joe Lally hes always right  aging facial   hewlettpackard   communities large   both girls   many
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Ahem There used to be two people in that enrite building who knew who New Order was every time I had to come over for a meeting that isBut maybe I should be nice Before 1993 no St Louis radio station would play anything by NO but  True Faith  except maybe on Sunday nights when Les Aaron had a two or threehour alternative music show on the less popular of the two Top 40 stationsI think its funny every time I hear someone with a ringtone that sounds like an old Western Electric rotary someone walks up to them and asks where they got that ringtone Imagine that a phone that sounds like a phone Andrew Weiss lines are thick like flying eatlhpnes great choice There are a lot of amazing 4 strings players out there i would add Joe Lally hes always right  aging facial   hewlettpackard   communities large   both girls   many
-imported: true
 ---
 
 I don’t know how many of you are into Dubstep, Drum & Bass, House or any other genre with a bassline. But let me ask the people who are: what happens to you when you hear a fat tune?

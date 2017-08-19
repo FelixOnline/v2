@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Looking back at one of the finest shows set in the 1960's
 date: "2016-02-08 17:41:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5892"
 old_path: /tv/5892/retro-retrospective-mad-men
 aliases:
  - /tv/5892/retro-retrospective-mad-men
+imported: true
+comments:
+ - Great looking site Assume you did a bunch of your own codingnba 2k16 mt points httpwwwnba2k16mtchallengepaysitewusThis is a good posting I was wodeirnng if I could use this writeup on my website I will link it back to your website though If this is a problem please let me know and I will take it down right away
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great looking site Assume you did a bunch of your own codingnba 2k16 mt points httpwwwnba2k16mtchallengepaysitewusThis is a good posting I was wodeirnng if I could use this writeup on my website I will link it back to your website though If this is a problem please let me know and I will take it down right away
-imported: true
 ---
 
 Last year marked the end of lots of things; Jon Stewart’s run on the Daily Show, Bill Cosby’s career, Meek Mill’s career, 2014, and many beloved TV shows. Of these, one was Mad Men, a series I discovered, binge watched, and fell in love with, all in the space of about two weeks. Centring on the enigmatic and dapper Don Draper, played by a perfectly cast Jon Hamm, the show follows the exploits of the men and women of the Sterling-Cooper advertising agency; as they attempt to navigate through the rapidly changing world of 1960s New York.

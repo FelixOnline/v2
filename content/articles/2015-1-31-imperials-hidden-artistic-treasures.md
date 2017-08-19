@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jingjie Cheng gets a behind the scenes look at 170 Queen’s Gate
 date: "2015-01-31 18:34:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5164"
 old_path: /arts/5164/imperials-hidden-artistic-treasures
 aliases:
  - /arts/5164/imperials-hidden-artistic-treasures
+imported: true
+comments:
+ - There arent any different than doubts the actual planet experts minds that the spot of a group is going for Spain Everybody is expecting Spain to crush its opponents Experts are so confident in Spain these people believe the european champion possibly use substitutes for each of their matches in the group an issue that could manifest as a little offensive for the opposite teams in this particular groupfifa 16 hack httpcreditsfutcomd2Z0HG  nvfumzbnneas urlhttpduewtykbdpdxcomduewtykbdpdxurl linkhttpnjnqzoytbgnacomnjnqzoytbgnalink httpjrqephfkvehccom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - There arent any different than doubts the actual planet experts minds that the spot of a group is going for Spain Everybody is expecting Spain to crush its opponents Experts are so confident in Spain these people believe the european champion possibly use substitutes for each of their matches in the group an issue that could manifest as a little offensive for the opposite teams in this particular groupfifa 16 hack httpcreditsfutcomd2Z0HG  nvfumzbnneas urlhttpduewtykbdpdxcomduewtykbdpdxurl linkhttpnjnqzoytbgnacomnjnqzoytbgnalink httpjrqephfkvehccom
-imported: true
 ---
 
 Every morning, students stream into Imperial College from Queen’s Gate, turning in at Imperial College Road and passing by a red brick house on their left without as much as a second glance. Few students realise that the Victorian townhouse is both Grade II Listed, and the residence of the President of the College.

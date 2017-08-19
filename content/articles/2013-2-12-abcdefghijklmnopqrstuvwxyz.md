@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The ABCs of Death showcases 26 short, disturbing films
 date: "2013-02-12 18:28:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3291"
 old_path: /film/3291/abcdefghijklmnopqrstuvwxyz
 aliases:
  - /film/3291/abcdefghijklmnopqrstuvwxyz
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 26 directors, 26 ways to die. As horror anthology goes, this is the Concorde moment, 26 short films from some of the most twisted horror minds, it’s a brave bold stab at something that may never be repeated.

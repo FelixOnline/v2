@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It’s season six, episode eight!
 date: "2016-06-17 09:33:06 +0100"
+
 # Attributes from Felix Online V1
 id: "6284"
 old_path: /tv/6284/this-week-on-game-of-thrones
 aliases:
  - /tv/6284/this-week-on-game-of-thrones
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We’re coming up to the final episodes of the second to last season of this show and they apparently still have the time to meander around for an episode with nothing particularly interesting happening. Ah well, here’s a recap anyway.

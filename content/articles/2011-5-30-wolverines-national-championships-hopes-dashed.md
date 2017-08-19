@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial’s Wolverines unable to qualify for National Championships after suffering heartbreak in Southampton
 date: "2011-05-30 13:11:02 +0100"
+
 # Attributes from Felix Online V1
 id: "1286"
 old_path: /sport/1286/wolverines-national-championships-hopes-dashed-
 aliases:
  - /sport/1286/wolverines-national-championships-hopes-dashed-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
-imported: true
 ---
 
 On Sunday May 15th, Imperial Wolverines 1s played their last and most important Dodgeball tournament of the year. Placing in the top 3 teams would guarantee a place in the National Championships in June. The team met early at Waterloo, and after seemingly been fraudulently sold the wrong type of group discount ticket, headed off to Southampton where the South East England Championship would be played.

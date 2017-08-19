@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Oli Benton loves Imperial, but wishes the feeling were a bit more mutual
 date: "2013-05-07 19:17:13 +0100"
+
 # Attributes from Felix Online V1
 id: "3540"
 old_path: /comment/3540/an-uncaring-university
 aliases:
  - /comment/3540/an-uncaring-university
+imported: true
+comments:
+ - Youre right of course especially about Imperial being very good at business The main problem is that we are here for only a few years and so none of us gets sufficiently invested in the student experience to make enough of a fuss about it a problem which is exacerbated by the fact that Imperial students are pretty much the most apathetic and conservative in the country The Sabbatical positions were probably meaningful once but now they exist as an answer to the question Give an example of a time when you showed leadership qualities in Consultancy interviews The best we can hope for is that application rates will drop significantly after the Acton halls come into useThats the responsibility of the Union Council and generally the student body I guessThis is probably one of the best written articles Ive ever read in Felix and for the most part I totally agree especially with the final paragraph  I love it here have a large and friendly social circle enjoy my Wednesday nights  weekends w
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre right of course especially about Imperial being very good at business The main problem is that we are here for only a few years and so none of us gets sufficiently invested in the student experience to make enough of a fuss about it a problem which is exacerbated by the fact that Imperial students are pretty much the most apathetic and conservative in the country The Sabbatical positions were probably meaningful once but now they exist as an answer to the question Give an example of a time when you showed leadership qualities in Consultancy interviews The best we can hope for is that application rates will drop significantly after the Acton halls come into useThats the responsibility of the Union Council and generally the student body I guessThis is probably one of the best written articles Ive ever read in Felix and for the most part I totally agree especially with the final paragraph  I love it here have a large and friendly social circle enjoy my Wednesday nights  weekends w
-imported: true
 ---
 
 Imperial College doesn’t care about its students and there’s nothing we can do to change it. The Sabbs are generally powerless and many of the Union’s decisions don’t seem to have our best interests at heart.

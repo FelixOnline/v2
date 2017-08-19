@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As it’s the food edition, we thought we’d focus on the fanciest, most elegant ingredient that most of us will ever have grace our plates: the potato. We present to you five excellent ways to prepare this sublime ingredient, as well as a comprehensive breakdown of why it is notably superior to all ot
 date: "2017-02-03 17:45:19 +0000"
+
 # Attributes from Felix Online V1
 id: "6735"
 old_path: /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
 aliases:
  - /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
+imported: true
+comments:
+ - In Irland sind ganze Wlder mit Efeu berankt und die Bume stehen trotzdem stark und fest mit eigener grner Krone da Soooo schlimm kann das also nicht seinBei mir riecht es auch schon seit ein paar Tagen grn Das find ich schn Und wenn man raus kommt scheint es warm zu sein obwohl ja doch nur 5  im Herbst eindeutig HarwchuhsettedGrne NIts going to be ending of mine day except before end I am reading this impressive post to improve my knowledgebest financial planners httphelpfultipeuAt this time it looks like Drupal is the preferred blogging platform available right now from what Ive read Is that what you are using on your blogstock prices httpfinancehinteuSpot on with this writeup I really think this web site needs a lot more attention Ill probably be back again to read more thanks for the information httpbusinessclueeu
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - In Irland sind ganze Wlder mit Efeu berankt und die Bume stehen trotzdem stark und fest mit eigener grner Krone da Soooo schlimm kann das also nicht seinBei mir riecht es auch schon seit ein paar Tagen grn Das find ich schn Und wenn man raus kommt scheint es warm zu sein obwohl ja doch nur 5  im Herbst eindeutig HarwchuhsettedGrne NIts going to be ending of mine day except before end I am reading this impressive post to improve my knowledgebest financial planners httphelpfultipeuAt this time it looks like Drupal is the preferred blogging platform available right now from what Ive read Is that what you are using on your blogstock prices httpfinancehinteuSpot on with this writeup I really think this web site needs a lot more attention Ill probably be back again to read more thanks for the information httpbusinessclueeu
-imported: true
 ---
 
 The humble spud. Where to start? How many foodstuffs can compare to the tuber that brought a whole nation to its knees – and I’m not talking about the Irish potato famine, but rather the introduction of potatoes to haute cuisine. People had been searching for a starch that was affordable yet amazing, could be roasted as easily as boiled, and in all preparations had the same delicious taste – the potato had it all.

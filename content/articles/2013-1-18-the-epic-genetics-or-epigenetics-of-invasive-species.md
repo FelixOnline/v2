@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Some species just don't understand personal space
 date: "2013-01-18 00:18:16 +0000"
+
 # Attributes from Felix Online V1
 id: "3128"
 old_path: /science/3128/the-epic-genetics-or-epigenetics-of-invasive-species-
 aliases:
  - /science/3128/the-epic-genetics-or-epigenetics-of-invasive-species-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Even at Imperial I doubt you’d find biology students wearing T-shirts referring to Lamarckism, but you especially wouldn’t find them wearing shirts that deride, “Inhindsight, pretty ridiculous”. Jean-Baptiste Lamarck’s evolutionary theories are remembered for suggesting that offspring could inherit characteristics that their parents had acquired due to the environment. The classic example is that every generation of baby giraffes has slightly longer and stronger necks because their parents are continuously stretching their necks to reach the leaves of Acacia trees.

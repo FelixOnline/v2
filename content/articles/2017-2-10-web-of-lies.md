@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-02-10 14:03:57 +0000"
+
 # Attributes from Felix Online V1
 id: "6752"
 old_path: /science/6752/web-of-lies
 aliases:
  - /science/6752/web-of-lies
+imported: true
+comments:
+ -
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -
-imported: true
 ---
 
 Fact: Goats spin spider-webs.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   FelixSport enters 2010, at a quick jog...
 date: "2010-01-14 22:33:45 +0000"
+
 # Attributes from Felix Online V1
 id: "40"
 old_path: /sport/40/felixsport-enters-2010-at-a-quick-jog
 aliases:
  - /sport/40/felixsport-enters-2010-at-a-quick-jog
+imported: true
+comments:
+ - Thats more than senilsbe Thats a great postTuAUsU  uxaigjfjizbk cheap life insurance  buy car insurance online tltt
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mb506
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thats more than senilsbe Thats a great postTuAUsU  uxaigjfjizbk cheap life insurance  buy car insurance online tltt
-imported: true
 ---
 
 Welcome back! A new year, and a new term, are upon us, and 2010 promises to be a massive one in terms of sport. For starters, the winter Olympics are set to kick off in Vancouver next month.

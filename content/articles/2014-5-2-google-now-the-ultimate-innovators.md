@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch.
 date: "2014-05-02 01:48:20 +0100"
+
 # Attributes from Felix Online V1
 id: "4556"
 old_path: /tech/4556/google-now-the-ultimate-innovators
 aliases:
  - /tech/4556/google-now-the-ultimate-innovators
+imported: true
+comments:
+ - innovatornouna person who introduces new methods ideas or productsReturning to the smartwatch Google arent the first to conceive of the idea of making the wearable deviceSo not really innovating thenAnd they bought Android hardly Google innovating They are great at spotting other people innovating and paying enough money to get the Google brand on itinnovator noun a person who introduces new methods ideas or products Returning to the smartwatch Google arent the first to conceive of the idea of making the wearable device So not really innovating then And they bought Android hardly Google innovating They are great at spotting other people innovating and paying enough money to get the Google brand on it
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - innovatornouna person who introduces new methods ideas or productsReturning to the smartwatch Google arent the first to conceive of the idea of making the wearable deviceSo not really innovating thenAnd they bought Android hardly Google innovating They are great at spotting other people innovating and paying enough money to get the Google brand on itinnovator noun a person who introduces new methods ideas or products Returning to the smartwatch Google arent the first to conceive of the idea of making the wearable device So not really innovating then And they bought Android hardly Google innovating They are great at spotting other people innovating and paying enough money to get the Google brand on it
-imported: true
 ---
 
 Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch. No concrete details on the wearable device are known as of yet, but the sources across the netscape indicate that it could build on already established partnerships with HTC, Asus, LG and others.

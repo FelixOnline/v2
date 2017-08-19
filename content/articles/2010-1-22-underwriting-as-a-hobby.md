@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As the publishing deadline rapidly approaches, the wells of inspiration rapidly run dry. What to say and how to say it? I'm sure I'll find a way round it...
 date: "2010-01-22 13:58:55 +0000"
+
 # Attributes from Felix Online V1
 id: "52"
 old_path: /comment/52/underwriting-as-a-hobby
 aliases:
  - /comment/52/underwriting-as-a-hobby
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - gda07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Can't I put it off for a few hours longer?

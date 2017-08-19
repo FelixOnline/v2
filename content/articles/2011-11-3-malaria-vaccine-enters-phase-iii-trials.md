@@ -4,16 +4,23 @@ title: >
 subtitle: >
   GSK announces huge success in African tests
 date: "2011-11-03 19:54:19 +0000"
+
 # Attributes from Felix Online V1
 id: "1658"
 old_path: /science/1658/malaria-vaccine-enters-phase-iii-trials
 aliases:
  - /science/1658/malaria-vaccine-enters-phase-iii-trials
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A malaria vaccine candidate called RTS,S has been raising a stir within the health industry since the pharmaceutical giant, Glaxo-Smith Kline, announced highly promising results in its on-going phase III trials in Africa. Whilst it is unwise to declare success too soon, it is hoped that these early results may mark the beginning of the greatest breakthrough in malarial control yet.

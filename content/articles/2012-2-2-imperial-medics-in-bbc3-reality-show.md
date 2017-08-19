@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Junior Doctors storm back with an Imperial twist
 date: "2012-02-02 22:49:19 +0000"
+
 # Attributes from Felix Online V1
 id: "2103"
 old_path: /tv/2103/imperial-medics-in-bbc3-reality-show
 aliases:
  - /tv/2103/imperial-medics-in-bbc3-reality-show
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [_Junior Doctors: Your Life in their Hands_](http://www.bbc.co.uk/iplayer/episode/b01bbvcw/Junior_Doctors_Your_Life_in_Their_Hands_Series_2_Episode_1/) is back! After a first series in Newcastle General Hospital and the Royal Victoria Infirmary, eight newly-qualified doctors hit the wards of the Chelsea and Westminster Hospital. After getting their MBBS, for the first time, they have to deal with real life and death situations and take on the responsibility of taking care of patients.

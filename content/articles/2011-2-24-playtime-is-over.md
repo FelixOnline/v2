@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The social events provided by the amenities fund is the best part of hall life. Why take it out of students’ hands?
 date: "2011-02-24 20:21:55 +0000"
+
 # Attributes from Felix Online V1
 id: "888"
 old_path: /comment/888/playtime-is-over
 aliases:
  - /comment/888/playtime-is-over
+imported: true
+comments:
+ - David unlike karaoke there are people who cannot drink for religious reasons This is the reason why Alex branded alcohol subsidisation immoral and unfortunately you seem to have missed it completely
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - David unlike karaoke there are people who cannot drink for religious reasons This is the reason why Alex branded alcohol subsidisation immoral and unfortunately you seem to have missed it completely
-imported: true
 ---
 
 Why did I choose to stay at [Clayponds Village](http://halls.imperial.ac.uk/clayponds/), the Imperial postgraduate hall?

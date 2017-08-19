@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular column
 date: "2016-02-26 11:54:48 +0000"
+
 # Attributes from Felix Online V1
 id: "5975"
 old_path: /tv/5975/cartoon-corner-avengers-emh
 aliases:
  - /tv/5975/cartoon-corner-avengers-emh
+imported: true
+comments:
+ - I enjoy the data on your site Thnxnba 2k16 mt generator download httpmadmixtubecomblogbuy2k16mtpossiblefatigueactorbecauseoflongtravels46358
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I enjoy the data on your site Thnxnba 2k16 mt generator download httpmadmixtubecomblogbuy2k16mtpossiblefatigueactorbecauseoflongtravels46358
-imported: true
 ---
 
 A_vengers Earth’s Mightiest Heroes_ is a fantastic journey into fun  and adventure, with writing that embraces the best elements of Marvel media as well as the original comic book roots. With well done, serialised storytelling, an excellent voice cast and superb animation, _Avengers EMH_ is a lot of plain, awesome fun that anyone can enjoy.

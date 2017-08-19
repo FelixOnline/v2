@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The privacy aware, personally controlled, do-it-all, open source social network
 date: "2010-11-11 20:32:09 +0000"
+
 # Attributes from Felix Online V1
 id: "338"
 old_path: /tech/338/diaspora-social-without-the-invasion
 aliases:
  - /tech/338/diaspora-social-without-the-invasion
+imported: true
+comments:
+ - I have observed that over the corsue of developing a relationship with real estate homeowners youll be able to come to understand that in every single real estate exchange a commission is paid Ultimately FSBO sellers tend not to save the commission rate Rather they try to earn the commission by way of doing an agents occupation In this they devote their money along with time to accomplish as best they will the assignments of an agent Those duties include disclosing the home by means of marketing presenting the home to prospective buyers developing a sense of buyer urgency in order to trigger an offer booking home inspections taking on qualification check ups with the loan provider supervising repairs and aiding the closingThanks for the concepts you have dcsiussed here In addition I believe usually there are some factors that keep your automobile insurance premium straight down One is to consider buying cars and trucks that ar
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I have observed that over the corsue of developing a relationship with real estate homeowners youll be able to come to understand that in every single real estate exchange a commission is paid Ultimately FSBO sellers tend not to save the commission rate Rather they try to earn the commission by way of doing an agents occupation In this they devote their money along with time to accomplish as best they will the assignments of an agent Those duties include disclosing the home by means of marketing presenting the home to prospective buyers developing a sense of buyer urgency in order to trigger an offer booking home inspections taking on qualification check ups with the loan provider supervising repairs and aiding the closingThanks for the concepts you have dcsiussed here In addition I believe usually there are some factors that keep your automobile insurance premium straight down One is to consider buying cars and trucks that ar
-imported: true
 ---
 
 [Diaspora](https://joindiaspora.com/) is an open source social network built by four students at NYU’s Courant Institute; Daniel Grippi, Maxwell Salzberg, Raphael Sofaer, and Ilya Zhitomirskiy.

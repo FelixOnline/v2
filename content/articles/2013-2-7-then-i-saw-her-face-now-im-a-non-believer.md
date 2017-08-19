@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A shameless plug by IC Atheists, Secularists and Humanists
 date: "2013-02-07 23:09:33 +0000"
+
 # Attributes from Felix Online V1
 id: "3253"
 old_path: /comment/3253/then-i-saw-her-face-now-im-a-non-believer
 aliases:
  - /comment/3253/then-i-saw-her-face-now-im-a-non-believer
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Religion is one of those awkward words. To some, it represents all that is good in life, and the celebration of the divine. For others, it’s a term which is almost taboo, one of those awkward boxes that Facebook asks you to fill in. Yet, there’s no doubt that many religions have shaped past and present events, and will no doubt continue to do so for the foreseeable future. Or so you might think; but just how many people are still religious?

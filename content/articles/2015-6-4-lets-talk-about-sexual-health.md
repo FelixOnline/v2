@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson finds out how much you remember from sex ed class
 date: "2015-06-04 23:39:18 +0100"
+
 # Attributes from Felix Online V1
 id: "5603"
 old_path: /features/5603/lets-talk-about-sexual-health
 aliases:
  - /features/5603/lets-talk-about-sexual-health
+imported: true
+comments:
+ - birkenstock sale australiabirkenstock shoe httpbirkenstockaustraliablogspotcomchristian louboutin evening canadachristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomAppreciate it for sharing this nice websitenba 2k16 mt wars httpblog1decsgoskinsirl3715061buy2k16mt2CrealtimescoresandupdatesandapassbroadbandhtmlYoure an extremely valuable site could not make it without yanba 2k17 mt httpeturystykaorgcontentview2059145
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock sale australiabirkenstock shoe httpbirkenstockaustraliablogspotcomchristian louboutin evening canadachristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomAppreciate it for sharing this nice websitenba 2k16 mt wars httpblog1decsgoskinsirl3715061buy2k16mt2CrealtimescoresandupdatesandapassbroadbandhtmlYoure an extremely valuable site could not make it without yanba 2k17 mt httpeturystykaorgcontentview2059145
-imported: true
 ---
 
 This year 65% of sexually active students admitted to having had unprotected sex in the past. 31% of you have apparently been well behaved, while the remaining 4% chose not to say whether they had done it or not.

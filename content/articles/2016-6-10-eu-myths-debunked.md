@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What the Leave campaign says is going on versus what is actually going on
 date: "2016-06-10 08:19:07 +0100"
+
 # Attributes from Felix Online V1
 id: "6250"
 old_path: /comment/6250/eu-myths-debunked
 aliases:
  - /comment/6250/eu-myths-debunked
+imported: true
+comments:
+ - EU myths debunked  debunkedIMMIGRATIONThis 95 figure is somewhat misleading as it includes the UK in EU net migration Of course the majority of emigrants from this country will have been born here If we compare EU net excl British as a percentage of all net migration we find the figure for net EU migration to be about 38 of total net migration So clearly net EU migration is not insignificant as you suggesthttpwwwmigrationobservatoryoxacukreports3netmigrationandimmigration Figure 3Besides I feel like you have chosen 2011 because freedom of movement was extended to Romania and Bulgaria in 2012 If we look at more recent figures from 2014 we find net EU migration is around 47 of total net migrationhttpwwwmigrationwatchukorgbriefingpaper378 Figure 2DEMOCRACYSure you can vote for your MEPs but that doesnt mean the EU is democratic In the EU we elect a largely toothless Parliament which cannot even propose legislation The Parliament then approves a
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - EU myths debunked  debunkedIMMIGRATIONThis 95 figure is somewhat misleading as it includes the UK in EU net migration Of course the majority of emigrants from this country will have been born here If we compare EU net excl British as a percentage of all net migration we find the figure for net EU migration to be about 38 of total net migration So clearly net EU migration is not insignificant as you suggesthttpwwwmigrationobservatoryoxacukreports3netmigrationandimmigration Figure 3Besides I feel like you have chosen 2011 because freedom of movement was extended to Romania and Bulgaria in 2012 If we look at more recent figures from 2014 we find net EU migration is around 47 of total net migrationhttpwwwmigrationwatchukorgbriefingpaper378 Figure 2DEMOCRACYSure you can vote for your MEPs but that doesnt mean the EU is democratic In the EU we elect a largely toothless Parliament which cannot even propose legislation The Parliament then approves a
-imported: true
 ---
 
 **The claim**: The EU open-borders policy puts strain on the UK and makes it harder for non-Europeans to settle in the UK.

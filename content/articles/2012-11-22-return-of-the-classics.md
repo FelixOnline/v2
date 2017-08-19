@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about his favourite classic literature
 date: "2012-11-22 23:07:43 +0000"
+
 # Attributes from Felix Online V1
 id: "2939"
 old_path: /books/2939/return-of-the-classics
 aliases:
  - /books/2939/return-of-the-classics
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Despite of, or perhaps because of, classics being so heavily emphasised in secondary education and being beloved of critics they are certainly not the most liked of books of ordinary people. They are often considered dry, irrelevant or just plain boring.

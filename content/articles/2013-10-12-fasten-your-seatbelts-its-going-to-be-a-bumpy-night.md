@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There is something so intensely vigorous and exciting about Ron Howard’s Formula 1 biopic Rush. Focusing on British driver James Hunt (Hemsworth, excellent) and his rivalry with the German Niki Lauda (Brühl, a worthy opponent), here is a winning film that concentrates on having fun as well as...
 date: "2013-10-12 12:02:01 +0100"
+
 # Attributes from Felix Online V1
 id: "3843"
 old_path: /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
 aliases:
  - /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
+imported: true
+comments:
+ - Squirrels are safe to eat in the summer prdevoid they look healthy Rabbits youll get a lot of mixed feelings Some say they are ok others say dont dare But if youre shooting rabbits in the summer they are classified as pests so theres really no harm in just throwing them in the dtich jug of water   soapplastic walmart bag for after they are gutted and youre ready to put them in a cooler or go home I dont think its a good idea to put warm game in plasticCooler with ice if you have to drive home a wayssmall game vest or just cut a stick to poke through the anklespocket knife  pruning shears to cut the legs offsquirrel call if you have one recomend the knight and haleSmall foam cushion for sittingchaps for rabbit huntingorange hat wouldnt hurtRun like a Deer    Fly like an Eagle
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Squirrels are safe to eat in the summer prdevoid they look healthy Rabbits youll get a lot of mixed feelings Some say they are ok others say dont dare But if youre shooting rabbits in the summer they are classified as pests so theres really no harm in just throwing them in the dtich jug of water   soapplastic walmart bag for after they are gutted and youre ready to put them in a cooler or go home I dont think its a good idea to put warm game in plasticCooler with ice if you have to drive home a wayssmall game vest or just cut a stick to poke through the anklespocket knife  pruning shears to cut the legs offsquirrel call if you have one recomend the knight and haleSmall foam cushion for sittingchaps for rabbit huntingorange hat wouldnt hurtRun like a Deer    Fly like an Eagle
-imported: true
 ---
 
 There is something so intensely vigorous and exciting about Ron Howard’s Formula 1 biopic _Rush_. Focusing on British driver James Hunt (Hemsworth, excellent) and his rivalry with the German Niki Lauda (Brühl, a worthy opponent), here is a winning film that concentrates on having fun as well as staying on course to develop its characters.

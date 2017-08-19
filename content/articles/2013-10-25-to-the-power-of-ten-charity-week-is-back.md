@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Get involved with Charity Week next week.
 date: "2013-10-25 01:08:23 +0100"
+
 # Attributes from Felix Online V1
 id: "3948"
 old_path: /features/3948/to-the-power-of-ten-charity-week-is-back
 aliases:
  - /features/3948/to-the-power-of-ten-charity-week-is-back
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Charity Week officially starts this Saturday 26th, it’s a week that will leave you with some of your fondest memories of your time at Imperial, as well as many lifelong friendships.

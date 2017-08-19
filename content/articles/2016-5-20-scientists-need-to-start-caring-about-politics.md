@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Forget ISIS or Trump, apathy is the greatest threat to democracy
 date: "2016-05-20 08:55:49 +0100"
+
 # Attributes from Felix Online V1
 id: "6176"
 old_path: /comment/6176/scientists-need-to-start-caring-about-politics
 aliases:
  - /comment/6176/scientists-need-to-start-caring-about-politics
+imported: true
+comments:
+ - Good read and very well written
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good read and very well written
-imported: true
 ---
 
 The recent election season has got me in the political spirit, and I have been reminded of the shameful situation that continues to both bemuse and inflame me: the Science and Technology Select Committee. This grand, administrative behemoth, whose expansive remit covers everything from big data to genetics, with its cross-party composition and its inquiry-laden legislature, sets the national agenda on science policy. In a world where science policy is of growing importance, occupying all the top spots on international issues, be they climate change or viral pandemics, the UK Government needs to take leadership and forge the path to a sustainable future.

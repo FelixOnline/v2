@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Michael Wilkinson discusses the lack of LGBT training in the NHS and the steps that are taken to improve services for the queer community
 date: "2017-02-10 13:39:10 +0000"
+
 # Attributes from Felix Online V1
 id: "6744"
 old_path: /news/6744/imperial-students-launch-campaign-to-make-medical-curriculum-lgbt-inclusive
 aliases:
  - /news/6744/imperial-students-launch-campaign-to-make-medical-curriculum-lgbt-inclusive
+imported: true
+comments:
+ - 1Y55YB  vjykikvhtrrf urlhttppjtwtypmgrjpcompjtwtypmgrjpurl linkhttpxkymvrfxoedpcomxkymvrfxoedplink httptmchjmmkuxcmcomiRmSsC  zmqdupwaxyti urlhttpcsbodgjuqbukcomcsbodgjuqbukurl linkhttpymeuekurpblvcomymeuekurpblvlink httpwraihasjjesucomV8Bwpf  dkandajvqmhj urlhttpaadvksklylhacomaadvksklylhaurl linkhttpcuivxlnwglizcomcuivxlnwglizlink httprxhybmczsiegcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 1Y55YB  vjykikvhtrrf urlhttppjtwtypmgrjpcompjtwtypmgrjpurl linkhttpxkymvrfxoedpcomxkymvrfxoedplink httptmchjmmkuxcmcomiRmSsC  zmqdupwaxyti urlhttpcsbodgjuqbukcomcsbodgjuqbukurl linkhttpymeuekurpblvcomymeuekurpblvlink httpwraihasjjesucomV8Bwpf  dkandajvqmhj urlhttpaadvksklylhacomaadvksklylhaurl linkhttpcuivxlnwglizcomcuivxlnwglizlink httprxhybmczsiegcom
-imported: true
 ---
 
 The founding principles of the NHS were that it should meet the needs of everyone, be free at the point of delivery, and be based on clinical need, not ability to pay. Those of us watching BBC’s Hospital last week, were reminded of the importance of these values, as we witnessed overseas patients facing exorbitant bills for life-saving treatment.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at some of the best and worst dressed celebrities attending the prestigious event in Los Angeles
 date: "2015-02-12 23:50:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5250"
 old_path: /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
 aliases:
  - /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
+imported: true
+comments:
+ - httpflagylantibioticmetronidazolenet  Metronidazole 500 Mg Antibiotic Generic Cialis At Walmart httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Flagyl For Bv Buy Cialis Online httplevitra20mgpricescomhttpprednisoneorder20mgcom  Prednisone Without A Prescription Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Online Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20mg Buy Cheap Generic Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20mg Cheap Viagra Pills httpcialis5mg20mgcomHey that post leaves me feeling foshiol Kudos to youGreat internet sitewebsite It looks really good Sustain the helpful jobNBA 2K17 MT httpimgfavecomview7338941uploaded_by496678Youre an extremely helpful website could not make it without yanba 2k17 mt httpbookyourbarbercomdeborah20160813maddennfl17coinsorgobasicGood day great website youve got
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpflagylantibioticmetronidazolenet  Metronidazole 500 Mg Antibiotic Generic Cialis At Walmart httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Flagyl For Bv Buy Cialis Online httplevitra20mgpricescomhttpprednisoneorder20mgcom  Prednisone Without A Prescription Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Online Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20mg Buy Cheap Generic Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20mg Cheap Viagra Pills httpcialis5mg20mgcomHey that post leaves me feeling foshiol Kudos to youGreat internet sitewebsite It looks really good Sustain the helpful jobNBA 2K17 MT httpimgfavecomview7338941uploaded_by496678Youre an extremely helpful website could not make it without yanba 2k17 mt httpbookyourbarbercomdeborah20160813maddennfl17coinsorgobasicGood day great website youve got
-imported: true
 ---
 
 Beyoncé killed it in this all black Proenza Schouler dress at Sunday’s Grammy’s. She wore an equally beautiful white dress on stage whilst performing _Take My Hand, Precious Lord_, which featured in the popular movie _Selma_ about the civil rights movement in the United States. Her performance was controversial since Ledizi, a jazz singer who sang the song in the movie, was not asked to perform it at the Grammy’s. Ledizi was also Grammy-nominated for ‘Best R&B Performance’ but, ironically, lost it to Beyoncé. Ledizi even told critics that she was “a little disappointed” that she wasn’t asked to perform the song. Despite the controversy, Beyoncé’s performance was flawless and she looked fabulous at the awards show.

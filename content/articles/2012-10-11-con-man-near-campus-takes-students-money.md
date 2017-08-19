@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Student loses £70 to a man near campus
 date: "2012-10-11 20:20:48 +0100"
+
 # Attributes from Felix Online V1
 id: "2639"
 old_path: /news/2639/con-man-near-campus-takes-students-money
 aliases:
  - /news/2639/con-man-near-campus-takes-students-money
+imported: true
+comments:
+ - Every year These kids never learnGreat picture  httpwwwyoutubecomwatchvJU9TouRnO84t0m33sI wonder what whitedark hair looks likeJust to clarify I cant cheat an honest man This American guy is obviously a bellendI am the son of the exPresident of Nigeria and can help recover the lost money  Coincidentally  I am also in need to people to help me distribute some funds and just need your bank details to allow me to transfer them to you  I guarantee that you will make large amounts of money  you can obviously trust me as you met me on the internetSeriously although I have no reason to doubt the story given by this unfortunate the basic motive that these guys rely on is GREED  Hard to understand what inspired the victim to get into the cab  An obviously articulate English speaker with directions money enough for a cab and and a cabby at his service  Doesnt sound like the type of person who you need to help further  But not for me to questionSame guy tried to con me As so
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Every year These kids never learnGreat picture  httpwwwyoutubecomwatchvJU9TouRnO84t0m33sI wonder what whitedark hair looks likeJust to clarify I cant cheat an honest man This American guy is obviously a bellendI am the son of the exPresident of Nigeria and can help recover the lost money  Coincidentally  I am also in need to people to help me distribute some funds and just need your bank details to allow me to transfer them to you  I guarantee that you will make large amounts of money  you can obviously trust me as you met me on the internetSeriously although I have no reason to doubt the story given by this unfortunate the basic motive that these guys rely on is GREED  Hard to understand what inspired the victim to get into the cab  An obviously articulate English speaker with directions money enough for a cab and and a cabby at his service  Doesnt sound like the type of person who you need to help further  But not for me to questionSame guy tried to con me As so
-imported: true
 ---
 
 Last Thursday 4 October at around 10:30am, a student at Imperial College London has had £70 taken by a confidence trickster.

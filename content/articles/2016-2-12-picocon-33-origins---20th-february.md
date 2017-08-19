@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The annual convention returns
 date: "2016-02-12 12:01:47 +0000"
+
 # Attributes from Felix Online V1
 id: "5918"
 old_path: /cands/5918/picocon-33-origins---20th-february
 aliases:
  - /cands/5918/picocon-33-origins---20th-february
+imported: true
+comments:
+ - xztyE8  nmxbvxbsselh urlhttpcaklpiqoggafcomcaklpiqoggafurl linkhttpvnltwuykzabtcomvnltwuykzabtlink httpslblpeigwmfxcom
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - xztyE8  nmxbvxbsselh urlhttpcaklpiqoggafcomcaklpiqoggafurl linkhttpvnltwuykzabtcomvnltwuykzabtlink httpslblpeigwmfxcom
-imported: true
 ---
 
 Picocon is a small convention run by Imperial College Science Fiction and Fantasy Society (ICSF). It is one of the only entirely student-run conventions, and it has been held in late February each year for 33 years – this February 20th marking Picocon 33.

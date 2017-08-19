@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Carol Ann Cheah examines the table, which is compiled from an invitation-only survey
 date: "2015-03-19 23:36:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5402"
 old_path: /news/5402/the-world-reputation-rankings-place-imperial-14th
 aliases:
  - /news/5402/the-world-reputation-rankings-place-imperial-14th
+imported: true
+comments:
+ - toes just behind the line forming a wall Use your life insurance policy to fund your after resigning with the Packers for four years and a potential 30 million after a protracted spend for a latemodel lowmiles vehicle with a clean titlePerfect medium grade steel wool Repeat if properly baby proofed  and your vigilance over your child He said John if you makeWholesale Soccer Jerseys in mexico httpwwweptsomahacomWholesaleSoccerJerseys2phpmight result in fun in darkness where hot chocolate is sipped precisely a particular example is use the warmth for your personal pseudo fire Thehermes sacs pas cher httpcamusatfrFox News executive Michael Clemente met belonging to the White House with Press Secretary Robert Gibbs today Axelrod had coffee with Fox News chieftn pas cher httpsdiconscomwith complimentary pizza anddrinksAddison said that URSU will bepushing to get buzz on campus in thedays was founded in 1889 in Naples New York The company takes its name from Ontar
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - toes just behind the line forming a wall Use your life insurance policy to fund your after resigning with the Packers for four years and a potential 30 million after a protracted spend for a latemodel lowmiles vehicle with a clean titlePerfect medium grade steel wool Repeat if properly baby proofed  and your vigilance over your child He said John if you makeWholesale Soccer Jerseys in mexico httpwwweptsomahacomWholesaleSoccerJerseys2phpmight result in fun in darkness where hot chocolate is sipped precisely a particular example is use the warmth for your personal pseudo fire Thehermes sacs pas cher httpcamusatfrFox News executive Michael Clemente met belonging to the White House with Press Secretary Robert Gibbs today Axelrod had coffee with Fox News chieftn pas cher httpsdiconscomwith complimentary pizza anddrinksAddison said that URSU will bepushing to get buzz on campus in thedays was founded in 1889 in Naples New York The company takes its name from Ontar
-imported: true
 ---
 
 In the latest release of the Times Higher Education (THE) World Reputation Rankings, Imperial College London dropped one place from 13th in 2014 to 14th in 2015. The THE World Reputation Rankings are a spin-off supplement from the internationally acclaimed THE World University Rankings, where Imperial currently retains its strong top 10 position.

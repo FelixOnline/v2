@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Are you a victim of the global smartphone dictatorship?
 date: "2013-03-15 01:16:13 +0000"
+
 # Attributes from Felix Online V1
 id: "3471"
 old_path: /tech/3471/addicted-smartphone-syndrome
 aliases:
  - /tech/3471/addicted-smartphone-syndrome
+imported: true
+comments:
+ - Thank you for good imformationI liked the article even though it also made me sad People preferring the smartphone to actual human interaction  Facebook to meeting their friends  texting to actually talking to someone facetoface  Thanks for this food for thought
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you for good imformationI liked the article even though it also made me sad People preferring the smartphone to actual human interaction  Facebook to meeting their friends  texting to actually talking to someone facetoface  Thanks for this food for thought
-imported: true
 ---
 
 Smartphones affect almost every aspect of the average student’s life. Marvels of modern technology, something underlined by the much quoted: “your smartphone has the equivalent processing power of the computers used for the Apollo space missions”, they have revolutionised the way we interact with other human beings as well as giving us tools to accomplish a multitude of tasks. In a sense these increasingly powerful devices have freed us from a desk-bound environment, as they can fulfil many tasks that your average desktop would do. All in all it seems smartphones enrich our daily lives.

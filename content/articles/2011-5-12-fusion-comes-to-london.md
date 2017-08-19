@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students from all over London come together to bring Fusion, York University’s hugely successful music, fashion, and dance show, to the capital
 date: "2011-05-12 18:23:06 +0100"
+
 # Attributes from Felix Online V1
 id: "1194"
 old_path: /arts/1194/fusion-comes-to-london
 aliases:
  - /arts/1194/fusion-comes-to-london
+imported: true
+comments:
+ - didnt you mean bunkercumbrothel
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - didnt you mean bunkercumbrothel
-imported: true
 ---
 
 What kind of city do we live in? The London social calendar is full of awfully pretentious events charging ludicrous amounts of dosh for a very ordinary experience whilst managing to be incredibly vile and unwelcoming about it at the same time. Events where the lighting has that weird, trendy glow that occasionally reveals the semen-ink words ‘reclusive wanker’ on the trousers of the dismally self-important clientele. Events where the barman claims to make the best Bellini cocktail in the world outside of Venice, with all the pomp and disillusionment Nick Griffin that uses to claim he’s the best guy to deal with immigration. Events that are cynical, tacky, dunderheaded, and decadent.

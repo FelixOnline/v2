@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Simon Hunter reports on the band keeping Bob Marley’s legacy alive
 date: "2013-10-04 02:05:03 +0100"
+
 # Attributes from Felix Online V1
 id: "3809"
 old_path: /music/3809/a-punky-reggae-party
 aliases:
  - /music/3809/a-punky-reggae-party
+imported: true
+comments:
+ - Ese sef1or de hayme ensef1o que la ganjah no es drogasinoes vida me ensef1o que todos somos ricospero el dirneo se cobra la factura con la cabeza que todos somos importantes para la sociedadpero que todos son iguales en toda las formas que puede darnos vida ME ENSEd1O QUE NO NECESITAMOS IR A UNA UNI PARA SER PRESIDENTES DENTRO DE NUESTRA ALMA ESE SEd1OR NUNKA DEBIO IRSE O TALVES YO DEBI HABER NACIDO ANTESESO ES LO QUE ME PREGUNTO TODOS LOS DIAS Hello My name is Kathy I work with Direct Buy and I am interested in pucasrhing a link on your fashion websiteYour site looks great and if possible I would love to be part of your blogroll Would you please let me know how much you would charge for a basic text link on your homepageThank you for your time I look forward to hearing back from youKind regardsKathy  problem maybe   ever before   squeezing existing   alternative since   child properly
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - sh1207
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sh1207"
 author_name: "Simon Hunter"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "simonhunter28"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ese sef1or de hayme ensef1o que la ganjah no es drogasinoes vida me ensef1o que todos somos ricospero el dirneo se cobra la factura con la cabeza que todos somos importantes para la sociedadpero que todos son iguales en toda las formas que puede darnos vida ME ENSEd1O QUE NO NECESITAMOS IR A UNA UNI PARA SER PRESIDENTES DENTRO DE NUESTRA ALMA ESE SEd1OR NUNKA DEBIO IRSE O TALVES YO DEBI HABER NACIDO ANTESESO ES LO QUE ME PREGUNTO TODOS LOS DIAS Hello My name is Kathy I work with Direct Buy and I am interested in pucasrhing a link on your fashion websiteYour site looks great and if possible I would love to be part of your blogroll Would you please let me know how much you would charge for a basic text link on your homepageThank you for your time I look forward to hearing back from youKind regardsKathy  problem maybe   ever before   squeezing existing   alternative since   child properly
-imported: true
 ---
 
 On Monday night I spent the evening in the Millennium Dome and came to the conclusion that it should be levelled. It may no longer be called the Millennium Dome and it may now have an array of soulless bars/restaurants, but the fact remains: it’s a large tent with the character to match.

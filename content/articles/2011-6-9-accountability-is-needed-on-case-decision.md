@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Whomever made the decision should have the decency to explain their reasoning
 date: "2011-06-09 21:47:41 +0100"
+
 # Attributes from Felix Online V1
 id: "1356"
 old_path: /comment/1356/accountability-is-needed-on-case-decision
 aliases:
  - /comment/1356/accountability-is-needed-on-case-decision
+imported: true
+comments:
+ - Usually if no one takes responsibility it implies that a decision was taken by nonacademic staff I think this is becoming a big problem and something that must be addressed sooner than later Where the duties of nonacademic staff ends and how involved they can be in the running of the college This is in particular important if most admins are moved to Shepherds bush in which there can be no oversightI think the relationship between academic and nonacademic staff and the line separating them may require an editorial
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Usually if no one takes responsibility it implies that a decision was taken by nonacademic staff I think this is becoming a big problem and something that must be addressed sooner than later Where the duties of nonacademic staff ends and how involved they can be in the running of the college This is in particular important if most admins are moved to Shepherds bush in which there can be no oversightI think the relationship between academic and nonacademic staff and the line separating them may require an editorial
-imported: true
 ---
 
 A great number of controversial decisions have been taken at Imperial this year. Some have been taken by departments, some have been taken by central College management, others have been taken by the Union. The one thing that unites them, something that Felix has always been pleasantly surprised by, is the willingness of the decision-makers to put forward their argument; to answer questions about their motivations; and to make themselves accountable. Of course this has occurred to varying degrees, and we have not always agreed with their arguments or motivations, but the story of the past academic year is of people accepting the accountability that must come with authority. Which is why we are disappointed that this accountability has not accompanied Imperial’s decision to cut its £3,000 subscription to the Campaign for Science and Engineering (CaSE).

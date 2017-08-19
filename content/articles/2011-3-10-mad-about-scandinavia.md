@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nigel Kheng Wei Hehn and Ricki Calel review Madsen, a Scandinavian restaurant in the heart of South Kensington
 date: "2011-03-10 20:58:34 +0000"
+
 # Attributes from Felix Online V1
 id: "1079"
 old_path: /food/1079/mad-about-scandinavia-
 aliases:
  - /food/1079/mad-about-scandinavia-
+imported: true
+comments:
+ - I made this last night   and the flavor was fatisantc but I am wondering what the final texture of the dessert is supposed to be My grandmothers baked rice pudding was solid almost like a dense cake or pie   and tasted amazing I was aiming for that but despite 25 hours of baking it never really gelled together at the bottom Could this have been due to the baking dish I used Should I add another ingredient to help it set  Any help appreciated
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I made this last night   and the flavor was fatisantc but I am wondering what the final texture of the dessert is supposed to be My grandmothers baked rice pudding was solid almost like a dense cake or pie   and tasted amazing I was aiming for that but despite 25 hours of baking it never really gelled together at the bottom Could this have been due to the baking dish I used Should I add another ingredient to help it set  Any help appreciated
-imported: true
 ---
 
 Getting tired and sick of the same old fast food? Here’s a change for your taste buds going into the toughest second term of your life.

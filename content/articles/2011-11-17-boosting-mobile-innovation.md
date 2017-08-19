@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kin-Hing Lo explores the revolutionary impact of mobile proliferation on our lives
 date: "2011-11-17 21:41:25 +0000"
+
 # Attributes from Felix Online V1
 id: "1783"
 old_path: /tech/1783/boosting-mobile-innovation
 aliases:
  - /tech/1783/boosting-mobile-innovation
+imported: true
+comments:
+ - Thanks for the mention of EpiSurveyor we surpassed 6300 users in 170 countries worldwide last week  Your readers can use it to collect all sorts of field data for free at wwwepisurveyororg
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for the mention of EpiSurveyor we surpassed 6300 users in 170 countries worldwide last week  Your readers can use it to collect all sorts of field data for free at wwwepisurveyororg
-imported: true
 ---
 
 As each second ticks away, there’s a quiet revolution going on in every town and every city across the globe. Mobile technology disrupts the way we live our lives, the way we communicate with others and the way we function as a society.

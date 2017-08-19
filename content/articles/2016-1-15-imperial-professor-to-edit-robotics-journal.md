@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Professor Guang-Zhong Yang is the currently the Director of the Hamlyn Centre for robotics
 date: "2016-01-15 11:22:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5828"
 old_path: /news/5828/imperial-professor-to-edit-robotics-journal
 aliases:
  - /news/5828/imperial-professor-to-edit-robotics-journal
+imported: true
+comments:
+ - A pal of mine received out KIDNEY DIALYSIS see this httpkidneyoktumblrcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A pal of mine received out KIDNEY DIALYSIS see this httpkidneyoktumblrcom
-imported: true
 ---
 
 One of Imperial’s very own professors has been appointed editor of a newly formed journal, _Science Robotics_, which is due to launch in July of this year.

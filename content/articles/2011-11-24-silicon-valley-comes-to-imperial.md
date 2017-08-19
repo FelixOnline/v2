@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on a recent boost to the College’s entrepreneurial stature
 date: "2011-11-24 20:24:08 +0000"
+
 # Attributes from Felix Online V1
 id: "1804"
 old_path: /biz/1804/silicon-valley-comes-to-imperial
 aliases:
  - /biz/1804/silicon-valley-comes-to-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College has joined the elite list of universities participating in ‘[Silicon Valley comes to the UK](http://svc2uk.com/)’ (SVC2UK), an annual event that brings successful Silicon Valley entrepreneurs to inspire students across the UK. Silicon Valley comes to Imperial (SVC2I), hosted by Imperial Entrepreneurs and the Department of Computing in collaboration with [MIT Enterprise Forum](http://mitenterpriseforum.org.uk/), brought a range of speakers to our doorstep. They were welcomed by an audience of over 120, and a waiting-list of over 150.

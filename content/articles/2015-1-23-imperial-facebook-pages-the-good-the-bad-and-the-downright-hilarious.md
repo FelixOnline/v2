@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A general overview of the stuff populating our feeds
 date: "2015-01-23 01:21:34 +0000"
+
 # Attributes from Felix Online V1
 id: "5121"
 old_path: /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
 aliases:
  - /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
+imported: true
+comments:
+ - fitflop sale australiafitflops shops httpwwwaustraliafitflopscomTheir only defeat came against Ukraine but till then their place was shut On the other hand Colin Powell Secretary of State went towards country in 2004 The break doubles up as a summer summer vacationcrdits fut rapidement httpcreditsfutcomchristian leboutinchristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomshoes with red bottomschristian louboutin sale outlet httpchristianlouboutincanadaoutletblogspotcomPassion the site extremely user friendly and lots to seenba 2k17 coins httpclarafredericasnackwsmadden17toobtainbrandnewequipmenthtmlLove the website really individual friendly and whole lots to seenba 2k17 httpzrupycomindexphpdllprofilesubblogviewitem_id230009item2_id2065
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - fitflop sale australiafitflops shops httpwwwaustraliafitflopscomTheir only defeat came against Ukraine but till then their place was shut On the other hand Colin Powell Secretary of State went towards country in 2004 The break doubles up as a summer summer vacationcrdits fut rapidement httpcreditsfutcomchristian leboutinchristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomshoes with red bottomschristian louboutin sale outlet httpchristianlouboutincanadaoutletblogspotcomPassion the site extremely user friendly and lots to seenba 2k17 coins httpclarafredericasnackwsmadden17toobtainbrandnewequipmenthtmlLove the website really individual friendly and whole lots to seenba 2k17 httpzrupycomindexphpdllprofilesubblogviewitem_id230009item2_id2065
-imported: true
 ---
 
 The rise of Imperial Facebook pages spans several years, but despite sprouting a number of different pages they are all for pretty much of the same audience. These include such as Imperial College Secrets, Spotted: Central Library and Humans of Imperial, some of which allow students to anonymously submit content to be posted on the page, with others having admins that track down and curate content themselves.

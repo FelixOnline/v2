@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial College Cross Country places 3rd in the women's race and 4th in men's.
 date: "2015-02-12 22:34:17 +0000"
+
 # Attributes from Felix Online V1
 id: "5241"
 old_path: /sport/5241/imperial-host-hyde-park-relays
 aliases:
  - /sport/5241/imperial-host-hyde-park-relays
+imported: true
+comments:
+ - Hey very cool blog Man  Beautiful  Amazing  I will bookmark your blog and take the feeds additionally Im happy to find so many helpful info here in the publish wed like develop more strategies on this regard thanks for sharing     damesjas moncler 2015 gratis httpwwwwebenconlnldamesjasmoncler2015gratis14870htmlWow beautiful site Thnx cs go skins free httppoppysallybczcom20160329nba2k16coinsactivitiesgamesforalmostadecade
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hey very cool blog Man  Beautiful  Amazing  I will bookmark your blog and take the feeds additionally Im happy to find so many helpful info here in the publish wed like develop more strategies on this regard thanks for sharing     damesjas moncler 2015 gratis httpwwwwebenconlnldamesjasmoncler2015gratis14870htmlWow beautiful site Thnx cs go skins free httppoppysallybczcom20160329nba2k16coinsactivitiesgamesforalmostadecade
-imported: true
 ---
 
 On Saturday 7th February, more than 600 runners from universities across the UK, the Netherlands and Poland took part in the Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Teams comprised of 6 men or 4 women each running a lap of the 5 km course, beginning by the Serpentine and looping clockwise up to Marble Arch and returning to the bandstand.

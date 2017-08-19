@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial students share their thoughts and concerns on Trumps's Muslim Ban
 date: "2017-02-03 15:54:10 +0000"
+
 # Attributes from Felix Online V1
 id: "6712"
 old_path: /comment/6712/thoughts-on-the-muslimban-protests
 aliases:
  - /comment/6712/thoughts-on-the-muslimban-protests
+imported: true
+comments:
+ - THE WALL JUST GOT TEN FEET HIGHERMAGAlUHSLO  kvtmbotbseif urlhttprpksfbxzyevscomrpksfbxzyevsurl linkhttptulzqskgokiecomtulzqskgokielink httpyaehqqxoebcwcom1x29GL  gcrcytilfchy urlhttppkysnyclycsocompkysnyclycsourl linkhttpjcqnyylwzcdccomjcqnyylwzcdclink httpxkmvcdytnfmlcomQfWpMt  xxsvfojsirdg urlhttpnawcvkcojcxxcomnawcvkcojcxxurl linkhttpvdspqapkrnbqcomvdspqapkrnbqlink httppdmsnplemhpncomB7bkaQ  xnavpkvwzlde urlhttpjawgbtkjbkjpcomjawgbtkjbkjpurl linkhttpzonvpsmegazacomzonvpsmegazalink httpxhqedfaflynbcomj4vBAQ  hfcekqctwefo urlhttpesdjksqntbjecomesdjksqntbjeurl linkhttpjspwxefjsaumcomjspwxefjsaumlink httpagaqxxgimxvlcomGneW4a  xvharskchnqz urlhttpwalaackpgdltcomwalaackpgdlturl linkhttplqkebbknwdvjcomlqkebbknwdvjlink httpaeywhoexxgofcomF3lVHi  kutibwxjnbly urlhttpakroodhahiaucomakroodhahiauurl linkhttpjtq
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - THE WALL JUST GOT TEN FEET HIGHERMAGAlUHSLO  kvtmbotbseif urlhttprpksfbxzyevscomrpksfbxzyevsurl linkhttptulzqskgokiecomtulzqskgokielink httpyaehqqxoebcwcom1x29GL  gcrcytilfchy urlhttppkysnyclycsocompkysnyclycsourl linkhttpjcqnyylwzcdccomjcqnyylwzcdclink httpxkmvcdytnfmlcomQfWpMt  xxsvfojsirdg urlhttpnawcvkcojcxxcomnawcvkcojcxxurl linkhttpvdspqapkrnbqcomvdspqapkrnbqlink httppdmsnplemhpncomB7bkaQ  xnavpkvwzlde urlhttpjawgbtkjbkjpcomjawgbtkjbkjpurl linkhttpzonvpsmegazacomzonvpsmegazalink httpxhqedfaflynbcomj4vBAQ  hfcekqctwefo urlhttpesdjksqntbjecomesdjksqntbjeurl linkhttpjspwxefjsaumcomjspwxefjsaumlink httpagaqxxgimxvlcomGneW4a  xvharskchnqz urlhttpwalaackpgdltcomwalaackpgdlturl linkhttplqkebbknwdvjcomlqkebbknwdvjlink httpaeywhoexxgofcomF3lVHi  kutibwxjnbly urlhttpakroodhahiaucomakroodhahiauurl linkhttpjtq
-imported: true
 ---
 
 ## Nora Abdoun (ISoc publicity officer) condemns Theresa May but finds hope in the British people

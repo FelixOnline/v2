@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Literally, a watch may appear in this space any moment now
 date: "2014-11-10 22:13:47 +0000"
+
 # Attributes from Felix Online V1
 id: "4841"
 old_path: /tech/4841/wearable-technology--watch-this-space
 aliases:
  - /tech/4841/wearable-technology--watch-this-space
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Tech-companies want to expand their product portfolio outside of smartphones, and with iPad and tablet sales falling quarter after quarter and all the variety in screen sizes pretty much exhausted, where do they go from here?

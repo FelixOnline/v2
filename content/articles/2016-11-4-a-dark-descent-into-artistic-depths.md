@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Tom Ford returns after a seven-year absence with Nocturnal Animals, a luscious, scintillating thriller that shows off his eye for beauty
 date: "2016-11-04 14:15:11 +0000"
+
 # Attributes from Felix Online V1
 id: "6387"
 old_path: /film/6387/a-dark-descent-into-artistic-depths
 aliases:
  - /film/6387/a-dark-descent-into-artistic-depths
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Looking for a startling way to open your movie? A slow-motion montage of obese elderly women dancing, completely naked save for cheerleading pom-poms and marching band hats, ought to do the trick. _Nocturnal Animals,_ the latest feature from fashion-bigwig-turned-film-director Tom Ford, opens with such a scene. Though a visual echo to this opening occurs later in the movie in a brief strip bar scene, its meaning is never quite explained. There’s a suggestion that this lack of explanation, or lack of meaning, is entirely the point: it’s revealed that this display of dancers is a new art installation by successful gallery owner Susan Monrow (Amy Adams), and at a dinner a few scenes later she describes her own installation, with sincere dejection, as “junk”.

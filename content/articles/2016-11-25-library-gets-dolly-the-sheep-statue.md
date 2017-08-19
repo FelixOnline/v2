@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ewe have to see it to believe it
 date: "2016-11-25 13:21:28 +0000"
+
 # Attributes from Felix Online V1
 id: "6494"
 old_path: /news/6494/library-gets-dolly-the-sheep-statue
 aliases:
  - /news/6494/library-gets-dolly-the-sheep-statue
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Students who have walked through the security gates at Central Library the past couple of weeks may have noticed a strange sculpture awaiting them before they turn into the main study areas.

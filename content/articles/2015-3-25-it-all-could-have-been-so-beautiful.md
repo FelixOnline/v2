@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joshua Jacobs is let down at the National Theatre’s new production
 date: "2015-03-25 12:58:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5441"
 old_path: /arts/5441/it-all-could-have-been-so-beautiful
 aliases:
  - /arts/5441/it-all-could-have-been-so-beautiful
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _B__ehind the Beautiful Forevers_, based on the non­fiction book by Katherine Boo, and adapted for the stage by David Hare, is currently on at the __National Theatre__. Hare’s adaptation is principally mediocre, and does very little but leave me wanting. Set in a slum outside the Mumbai airport, the play begins with a stage littered with refuse, waiting to be collected, along with a backdrop of crude temporary buildings. Shane Zaz’s character of Abdul Husain is anchored at centre stage sorting rubbish, whilst other young characters run around collecting what they can, thus clearing the stage. This scene foreshadowed the tone of the first half of the play, not only in that it shows the frenzied nature of the characters’ lives, but also the insincerity of the production, which extends to the whole play. Booming electronic Indian music attempts to corroborate and justify the pace of this scene, as the characters frantically run to and fro across the stage. However, the balance of the music forcefully reminds the audience that they are in a theatre, and that the characters moving around on stage are performing for them, undermining any possible immersion into the world in which this play is set.

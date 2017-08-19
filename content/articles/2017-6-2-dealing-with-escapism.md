@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Central library is a great spot for binge watching. Just make sure you remember to control yourself
 date: "2017-06-02 13:22:54 +0100"
+
 # Attributes from Felix Online V1
 id: "6994"
 old_path: /games/6994/dealing-with-escapism
 aliases:
  - /games/6994/dealing-with-escapism
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It should come as no surprise to anyone that life is a cruel mistress, especially if you’re in uni. With deadlines, exams and project work, it can quickly get overwhelming. Things can also be insanely frustrating (when for example, you put all your heart and soul into revising for a course but you screw up the exam, just because the compulsory question was about waves in the solar wind which you obviously hadn’t revised thoroughly because it barely came up until now!).

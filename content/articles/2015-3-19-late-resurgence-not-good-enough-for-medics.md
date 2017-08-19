@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle is on hand as College win close encounter in Women's match at The Stoop.
 date: "2015-03-19 23:41:39 +0000"
+
 # Attributes from Felix Online V1
 id: "5405"
 old_path: /sport/5405/late-resurgence-not-good-enough-for-medics
 aliases:
  - /sport/5405/late-resurgence-not-good-enough-for-medics
+imported: true
+comments:
+ - cheapest fit flopsfitflop in australia httpaustraliafitflopsblogspotcomlouboutin rolando shoes salediscount christian louboutin httpcanadachristianlouboutinblogspotcomshoes with red bottomscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomblack christian louboutinchristian louboutin shoes outlet httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheapest fit flopsfitflop in australia httpaustraliafitflopsblogspotcomlouboutin rolando shoes salediscount christian louboutin httpcanadachristianlouboutinblogspotcomshoes with red bottomscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomblack christian louboutinchristian louboutin shoes outlet httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 A late resurgence from the Imperial Medicals was not enough to prevent a victory for the Imperial College team in the first ever Varsity fixture held at The Stoop for women’s rugby. It was a low scoring game of ten-a-side rugby that was decided on a few beautiful breakaway tries. For long periods of the game it looked as though the College could score at any moment. But, having gone two tries down before half time, the Medics rallied after the break, and a last gasp try ended the game at a close 15-12. However, the Medics could point to a couple of dubious decisions in the lead up to two of the tries that College scored.

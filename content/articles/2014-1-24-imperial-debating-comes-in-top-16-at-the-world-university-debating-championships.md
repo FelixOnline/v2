@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Debating saw success at the World University Debating Championships.
 date: "2014-01-24 09:39:37 +0000"
+
 # Attributes from Felix Online V1
 id: "4270"
 old_path: /news/4270/imperial-debating-comes-in-top-16-at-the-world-university-debating-championships
 aliases:
  - /news/4270/imperial-debating-comes-in-top-16-at-the-world-university-debating-championships
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Imperial Debating saw success at the World University Debating Championships. Tensions and temperatures were high at Rajalakshmi College of Engineering in Chennai, the host venue of the competition. During the second year of attending the international competition, students of Imperial College argued their way through almost 350 teams into the top sixteen of the tournament.

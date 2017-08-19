@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tessa Davey teaches you how to look like you know what you’re talking about, without any of the pesky consequences of expressing an opinion.
 date: "2016-10-03 18:47:19 +0100"
+
 # Attributes from Felix Online V1
 id: "6305"
 old_path: /comment/6305/how-to-blag-your-way-through-politics
 aliases:
  - /comment/6305/how-to-blag-your-way-through-politics
+imported: true
+comments:
+ - If the Palestinians had stopped shooting rockets over the border then complaining when Israel defends itself we could have seen peace in the region decades agoHuman Rights Watch in their World Report 2016 disagrees with youIsrael continued in 2015 to enforce severe and discriminatory restrictions on Palestinians human rights and to build unlawful settlements in and facilitate the transfer of Israeli civilians to the occupied West Bank Israeli authorities also arbitrarily detained peaceful Palestinian demonstrators including childrenI think I should give it a shotUPAlbioncom httpbegamernetblogs16008010albiononlineregardingbetaphMy way or the highwaybuy Dofus Touch Kamas httpadpostindiagaeventsdofustouchbuyingreliablekamasherehtml
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If the Palestinians had stopped shooting rockets over the border then complaining when Israel defends itself we could have seen peace in the region decades agoHuman Rights Watch in their World Report 2016 disagrees with youIsrael continued in 2015 to enforce severe and discriminatory restrictions on Palestinians human rights and to build unlawful settlements in and facilitate the transfer of Israeli civilians to the occupied West Bank Israeli authorities also arbitrarily detained peaceful Palestinian demonstrators including childrenI think I should give it a shotUPAlbioncom httpbegamernetblogs16008010albiononlineregardingbetaphMy way or the highwaybuy Dofus Touch Kamas httpadpostindiagaeventsdofustouchbuyingreliablekamasherehtml
-imported: true
 ---
 
 Are you more _won’t_ than _woke_ when it comes to talking politics? Do you despair at any mention of David Cameron, tremble at the thought of Theresa May, or cower away from Corbyn?

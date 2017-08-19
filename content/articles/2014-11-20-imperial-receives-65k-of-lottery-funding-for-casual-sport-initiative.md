@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Howitt reports on Sport Imperial’s new programme, Impetus
 date: "2014-11-20 22:05:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4922"
 old_path: /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
 aliases:
  - /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
+imported: true
+comments:
+ - fitflop australia cheapfitflop stores httpfitflopsaublogspotcomFor newest news you have to visit internet and on internet I found this website as a most excellent web page for most uptodate updatesmoncler uk harrods 2014 httpwwwthegrandpavilioncoukukmonclerukharrods201413355htmllouboutin peep toes canadacheap christian louboutin httpcanadachristianlouboutinblogspotcomDoh I was domain shopping at namecheapcom and went to type in the domain name   and guess who already purchased it You did haha jk I was about to buy this domain name but realized it had been taken so I decided Id come check it out Wonderful blogurlhttpwwwairmax2016cznike air maxurlI was suggested this website by my cousin I am not sure whether this post is written by him as no one else know such detailed about my problem You are wonderful Thanksurlhttpwwwairmax90itnike air maxurlI every time spent my half an hour to read this web sites posts daily along with a
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop australia cheapfitflop stores httpfitflopsaublogspotcomFor newest news you have to visit internet and on internet I found this website as a most excellent web page for most uptodate updatesmoncler uk harrods 2014 httpwwwthegrandpavilioncoukukmonclerukharrods201413355htmllouboutin peep toes canadacheap christian louboutin httpcanadachristianlouboutinblogspotcomDoh I was domain shopping at namecheapcom and went to type in the domain name   and guess who already purchased it You did haha jk I was about to buy this domain name but realized it had been taken so I decided Id come check it out Wonderful blogurlhttpwwwairmax2016cznike air maxurlI was suggested this website by my cousin I am not sure whether this post is written by him as no one else know such detailed about my problem You are wonderful Thanksurlhttpwwwairmax90itnike air maxurlI every time spent my half an hour to read this web sites posts daily along with a
-imported: true
 ---
 
 Sport Imperial have launched a new initiative, aimed at people who want to play casual sport without the pressure of being a part of a sports club or the atmosphere of being in Ethos for a fitness class or gym session.

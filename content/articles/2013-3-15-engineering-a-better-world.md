@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chaplaincy brings you an unmissable evening with His Holiness Radhanath Swami
 date: "2013-03-15 02:33:11 +0000"
+
 # Attributes from Felix Online V1
 id: "3489"
 old_path: /news/3489/engineering-a-better-world
 aliases:
  - /news/3489/engineering-a-better-world
+imported: true
+comments:
+ - This looks like an incredible event Ive heard hes given inspirational talks at other institutions and universities so I am definately coming to this one
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This looks like an incredible event Ive heard hes given inspirational talks at other institutions and universities so I am definately coming to this one
-imported: true
 ---
 
 Have you ever sat in a boring lecture and thought: ‘I wonder how I could help make the world a better place?’ Or been stuck behind a bunch of chatty teenagers on the tube and wondered ‘why should I even bother?’ Well, be prepared to have all these and more of your important life questions answered. We have just the event for all of your queries!

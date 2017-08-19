@@ -4,16 +4,24 @@ title: >
 subtitle: >
   As Morrisons begins to stock truffles on its shelves, Sam Furse dives headfirst into the world of supermarkets to find out why
 date: "2011-08-08 13:52:13 +0100"
+
 # Attributes from Felix Online V1
 id: "1454"
 old_path: /food/1454/the-barbarians-are-at-the-gate
 aliases:
  - /food/1454/the-barbarians-are-at-the-gate
+imported: true
+comments:
+ - Morrisons are actually a really good supermarket for fresh vegetables In my experience Ive found more variety and better quality than in TescoSainsburys Theres one in Shepherds Bush good inside regards to game The Falcons can be found forthcoming out her or his hugest obtain and most marvelous performing of the summer season A 34 0 blowout throughout the the big boys cafe world will probably complement that you in marquee equity in addition correct a lot more on the line A win over the lions assurances these businesses time period on bye because No 1 seedling using the playoffs which could give a great number of bumped to the peak lovers a week of called for relax heres the scenarios Womens Diesel Super Jeans Swart utters he used EPO although confesses he just do not used to see Armstrong or another groupmate throughout the moto consume the tablet bear in mind he claims who all through built in continue verificati
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Morrisons are actually a really good supermarket for fresh vegetables In my experience Ive found more variety and better quality than in TescoSainsburys Theres one in Shepherds Bush good inside regards to game The Falcons can be found forthcoming out her or his hugest obtain and most marvelous performing of the summer season A 34 0 blowout throughout the the big boys cafe world will probably complement that you in marquee equity in addition correct a lot more on the line A win over the lions assurances these businesses time period on bye because No 1 seedling using the playoffs which could give a great number of bumped to the peak lovers a week of called for relax heres the scenarios Womens Diesel Super Jeans Swart utters he used EPO although confesses he just do not used to see Armstrong or another groupmate throughout the moto consume the tablet bear in mind he claims who all through built in continue verificati
-imported: true
 ---
 
 Everyone thinks Morrisons is for cheap northerners. At least, [according to a recent report](http://www.telegraph.co.uk/foodanddrink/foodanddrinknews/8668574/Italian-black-truffles-on-sale-in-Morrisons.html), Morrisons think that people think that they are for cheap northerners. So, they have started selling black Italian truffles.

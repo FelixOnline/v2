@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The latest antics from Priya Garg, who tosses away her inhibitions and embraces the manic culture of Argentina’s booming capital
 date: "2011-02-10 20:02:06 +0000"
+
 # Attributes from Felix Online V1
 id: "762"
 old_path: /travel/762/ambling-argentinean-escapades-
 aliases:
  - /travel/762/ambling-argentinean-escapades-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Surviving a semi-camo twenty four hour bus journey, we arrived at the slightly grubby omnibus terminal in the iconic metropolis of Buenos Aires. Throwing ourselves onto the Subte (Argentina’s answer to the tube) we were presented with an antique wooden carriage complete with grey leather sashes hanging from the ceiling and extravagant glass wall lights.

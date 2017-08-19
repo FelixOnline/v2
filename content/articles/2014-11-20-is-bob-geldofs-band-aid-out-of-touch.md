@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The single might be topping the charts but does it perpetuate damaging stereotypes about Africa?
 date: "2014-11-20 21:23:23 +0000"
+
 # Attributes from Felix Online V1
 id: "4915"
 old_path: /comment/4915/is-bob-geldofs-band-aid-out-of-touch
 aliases:
  - /comment/4915/is-bob-geldofs-band-aid-out-of-touch
+imported: true
+comments:
+ - This post is actually a pleasant one it helps new the web visitors who are wishing in favor of bloggingmoncler bambino genova httpwwwtargettisportingclubititmonclerbambinogenova8331htmlfitflops sandalsfitflop stores httpwwwaustraliafitflopscomfitflop australia outletfitflops sale online australia httpfitflopsaublogspotcombirkenstock online discountbuy birkenstocks online httpbirkenstockaustraliarochecaporglouboutin shoes pricechristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomchristian loubitanchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin onlinechristian louboutin sale canada httpcanadachristianlouboutinblogspotcomlouboutin bianca canadacheap christian louboutin canada httpcanadachristianlouboutinblogspotcomchristian louboutin flats for womenchristian louboutin sale outlet httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This post is actually a pleasant one it helps new the web visitors who are wishing in favor of bloggingmoncler bambino genova httpwwwtargettisportingclubititmonclerbambinogenova8331htmlfitflops sandalsfitflop stores httpwwwaustraliafitflopscomfitflop australia outletfitflops sale online australia httpfitflopsaublogspotcombirkenstock online discountbuy birkenstocks online httpbirkenstockaustraliarochecaporglouboutin shoes pricechristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomchristian loubitanchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin onlinechristian louboutin sale canada httpcanadachristianlouboutinblogspotcomlouboutin bianca canadacheap christian louboutin canada httpcanadachristianlouboutinblogspotcomchristian louboutin flats for womenchristian louboutin sale outlet httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 Aside from the fact that it makes me feel old (It can’t have been ten years since the last one, I remember that coming out when I was doing my GCSEs...), I have more problems with __Band Aid__ and the song, ‘Do They Know It’s Christmas’ than I can possibly keep straight. Of course, there’s as big a difference between a dislike of the song and the concept as there is between the concept and the incarnation. Band Aid 30 represents a significant modernisation in the track, which aims to raise money to tackle the Ebola Crisis, and features significant changes to the lyrics compared to the original in 1984, which raised funds to help counter the Ethiopian famine.

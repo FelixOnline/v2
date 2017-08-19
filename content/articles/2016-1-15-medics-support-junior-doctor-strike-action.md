@@ -4,16 +4,23 @@ title: >
 subtitle: >
   While Junior Doctors picketed hospitals on Tuesday, students garnered support form the public
 date: "2016-01-15 11:20:14 +0000"
+
 # Attributes from Felix Online V1
 id: "5826"
 old_path: /news/5826/medics-support-junior-doctor-strike-action
 aliases:
  - /news/5826/medics-support-junior-doctor-strike-action
+imported: true
+comments:
+ - 11Vmbn httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 11Vmbn httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 On Tuesday, junior doctors went on strike  for 24 hours, in protest against the government’s proposed changes to their contracts. Doctors say  these changes will involve both dangerously long working hours for them, which will in turn endanger patients, as well as an effective pay cut.

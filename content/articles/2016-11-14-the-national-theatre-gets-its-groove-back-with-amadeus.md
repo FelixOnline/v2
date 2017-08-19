@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Amadeus is on at the National Theatre until 1st February
 date: "2016-11-14 14:16:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6446"
 old_path: /arts/6446/the-national-theatre-gets-its-groove-back-with-amadeus
 aliases:
  - /arts/6446/the-national-theatre-gets-its-groove-back-with-amadeus
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The National’s new revival of its 1979 triumph is one tinged with sadness, doubly so on the evening of its opening. The playwright behind _Amadeus_, Peter Shaffer, sadly passed away earlier this year, and on the day of the opening the director Howard Davies, responsible for 30 shows at the National over the past few decades, also left us. There is a pre-show appearance by Rufus Norris and Nick Hytner (present and previous artistic directors of the National) to pay tribute to the two men, and there is an undeniable air of melancholy hanging over the building.

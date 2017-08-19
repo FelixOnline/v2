@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The most controversial of next year’s sabbatical officers is, no doubt, Chris Kaye. In an online media outlet that may never be named, we are told that the incoming Deputy President (Welfare) ran on a platform of a scaled back and cost-effective union, but is that really what we voted for?
 date: "2014-03-24 12:18:20 +0000"
+
 # Attributes from Felix Online V1
 id: "4497"
 old_path: /comment/4497/tell-me-its-o-kaye
 aliases:
  - /comment/4497/tell-me-its-o-kaye
+imported: true
+comments:
+ - Spot on article Its worrying that one of our payed fulltime Sabbatical officers should be voted injust for a laugh with so little regard for the consequences I think this is a somewhat disingenuous article as you correctly pointed out Chris Kayes manifesto did not mention any plan to reduce the number of Sabbatical Officers or that the position of welfare officer and hence as you seem to suggest welfare issues in general are unimportant To then claim that it was his big point or that he ran on that platform in the election is unfair From my interpretation of Meet the Candidates he was asked a question gave his personal opinion that the number of sabbatical officers where too high and which was elaborated in The Tab but also pointed out that this was not a decision he could or would make by himself After spending some time in that position next year he might very reasonably change his opinion on whether the roles could be merged it is after all just his opinion without goin
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Spot on article Its worrying that one of our payed fulltime Sabbatical officers should be voted injust for a laugh with so little regard for the consequences I think this is a somewhat disingenuous article as you correctly pointed out Chris Kayes manifesto did not mention any plan to reduce the number of Sabbatical Officers or that the position of welfare officer and hence as you seem to suggest welfare issues in general are unimportant To then claim that it was his big point or that he ran on that platform in the election is unfair From my interpretation of Meet the Candidates he was asked a question gave his personal opinion that the number of sabbatical officers where too high and which was elaborated in The Tab but also pointed out that this was not a decision he could or would make by himself After spending some time in that position next year he might very reasonably change his opinion on whether the roles could be merged it is after all just his opinion without goin
-imported: true
 ---
 
 The most controversial of next year’s sabbatical officers is, no doubt, Chris Kaye. In an online media outlet that may never be named within these pages, we are told that the incoming Deputy President (Welfare) ran on a platform of a scaled back and cost-effective union, merging the positions of Deputy President (Welfare) and Deputy President (Education), and has a mandate from students to roll the union back.

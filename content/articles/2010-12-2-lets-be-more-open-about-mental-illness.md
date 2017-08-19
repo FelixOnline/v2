@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Katherine Bettany and Lizzie Crouch on the stigmas often attached to mental illness
 date: "2010-12-02 21:36:15 +0000"
+
 # Attributes from Felix Online V1
 id: "492"
 old_path: /news/492/lets-be-more-open-about-mental-illness-
 aliases:
  - /news/492/lets-be-more-open-about-mental-illness-
+imported: true
+comments:
+ - Just wondering how an article on mental health failed to mention one of Imperials finest achievements the creation of London Nightline the first Nightline in the country and a vital source of information and support for students outside of office hours Thank you for writing this I like many at Imperial i suspect have managed to get myself into a rut of severe anxiety that led to depression before There is no doubt in my mind that the Imperial environment contributed to this and i suspect others will agree It certainly isnt the sole cause though and i dont think anyone would say that in order to tackle such issues Imperial needs to drastically changes the way it delivers its education What does need examining is the support network This is something that is talked about every year and is certainly a complicated issue For me the root cause lies as you have mentioned with the stigma attached to being depressed The counseling service is very good but there are so many steps before reaching cou
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
- - Just wondering how an article on mental health failed to mention one of Imperials finest achievements the creation of London Nightline the first Nightline in the country and a vital source of information and support for students outside of office hours Thank you for writing this I like many at Imperial i suspect have managed to get myself into a rut of severe anxiety that led to depression before There is no doubt in my mind that the Imperial environment contributed to this and i suspect others will agree It certainly isnt the sole cause though and i dont think anyone would say that in order to tackle such issues Imperial needs to drastically changes the way it delivers its education What does need examining is the support network This is something that is talked about every year and is certainly a complicated issue For me the root cause lies as you have mentioned with the stigma attached to being depressed The counseling service is very good but there are so many steps before reaching cou
-imported: true
 ---
 
 Two o’clock in the morning. I had got home from an amazing night out and was falling asleep when I heard people running in the corridor. It was a Friday night and we were Freshers, so I thought nothing of it; I turned over and pulled the duvet tighter around me.

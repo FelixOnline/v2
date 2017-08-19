@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We should be remembering the victims of the British Empire, not the perpetrators
 date: "2016-02-05 11:52:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5864"
 old_path: /comment/5864/rhodes-must-fall
 aliases:
  - /comment/5864/rhodes-must-fall
+imported: true
+comments:
+ - Oh its you againLike many lefties you patronisingly refer to people who disagree with you as not educated It turns out that the legacy of the Empire is more complex than you make out Do you really think Zimbabwe with its hyperinflation and famines is better off under Mugabe than it was as a colony What about Jamaica where 60 of the population believe they would have been better off remaining under British rule httpwwwbbccouknewsworldlatinamerica13952592 Or do you only care about the voices and stories of the oppressed when they support your argumentYes in its 350year history the British Empire committed many atrocities But so did the proud nations it replaced such as the Maratha Empire Warfare slavery and oppression have basically been the norm throughout human history so its odd that Britain should be more ashamed of itself than any other nation Youve also ignored the positive effects of Empire We brought education industrialisation medicine and eventually
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Oh its you againLike many lefties you patronisingly refer to people who disagree with you as not educated It turns out that the legacy of the Empire is more complex than you make out Do you really think Zimbabwe with its hyperinflation and famines is better off under Mugabe than it was as a colony What about Jamaica where 60 of the population believe they would have been better off remaining under British rule httpwwwbbccouknewsworldlatinamerica13952592 Or do you only care about the voices and stories of the oppressed when they support your argumentYes in its 350year history the British Empire committed many atrocities But so did the proud nations it replaced such as the Maratha Empire Warfare slavery and oppression have basically been the norm throughout human history so its odd that Britain should be more ashamed of itself than any other nation Youve also ignored the positive effects of Empire We brought education industrialisation medicine and eventually
-imported: true
 ---
 
 Last week Oriel College, Oxford confirmed that a monument commemorating Cecil Rhodes, a 19th century British imperialist, would remain despite a massive movement by students seeking the removal of the statue. Like many of the students at Oxford University, I’m disappointed by the college’s decision which goes against the views of the university’s student union. Rhodes must fall, and be moved to a more suitable location – the dark and dusty corner of a museum.

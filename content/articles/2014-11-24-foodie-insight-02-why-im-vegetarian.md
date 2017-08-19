@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Or at least, he tries to be! Kamil McClelland discusses *THAT* lifestyle choice
 date: "2014-11-24 20:34:58 +0000"
+
 # Attributes from Felix Online V1
 id: "4954"
 old_path: /food/4954/foodie-insight-02-why-im-vegetarian
 aliases:
  - /food/4954/foodie-insight-02-why-im-vegetarian
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As the joke goes: “How do you know if someone is vegan? Oh don’t worry, they’ll tell you”. A lot of people, including myself, are put off by these militant activists, encamped on their moral high ground looking disdainfully down at the rest of us.

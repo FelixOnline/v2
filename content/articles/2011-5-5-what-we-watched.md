@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Wrecking up the week’s TV
 date: "2011-05-05 23:00:00 +0100"
+
 # Attributes from Felix Online V1
 id: "750"
 old_path: /tv/750/what-we-watched-
 aliases:
  - /tv/750/what-we-watched-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The words "Period Drama" usually conjure up a rose-tinted image of vast country estates, sunshine and happy endings. The fact that The Tudors isn't shown at prime time may lead one to believe that it is just more of the aforementioned – possibly a repeat; rather than the fact that it is actually a massive shagfest.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Tessa Davey thinks sometimes we cross the line when it comes to diagnosing mental health disorders vs personality traits.
 date: "2017-06-02 12:55:10 +0100"
+
 # Attributes from Felix Online V1
 id: "6990"
 old_path: /comment/6990/are-we-medicalising-personality
 aliases:
  - /comment/6990/are-we-medicalising-personality
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 None of my friends from home have mental health problems. This is in small-town, rural Wales, where knowing about the wider world isn't really a thing, and buzzwords like self-care and mindfulness might as well be in a totally different language, or are laughed at from behind a veneer of defiant stoicism. This isn't to say that some people in my hometown don’t suffer like my friends in London, but certainly more of them claim to be happy. Maybe it’s the country way of life, or maybe it's the lack of awareness that all too often leads to self-diagnosis and, like a self-fulfilling prophecy, misery.

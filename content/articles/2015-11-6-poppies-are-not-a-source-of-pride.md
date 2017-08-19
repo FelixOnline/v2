@@ -4,16 +4,24 @@ title: >
 subtitle: >
   What are you saying by wearing a poppy?
 date: "2015-11-06 13:45:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5701"
 old_path: /comment/5701/poppies-are-not-a-source-of-pride
 aliases:
  - /comment/5701/poppies-are-not-a-source-of-pride
+imported: true
+comments:
+ - This is a good articleFor newest news you have to go to see internet and on internet I found this site as a most excellent site for hottest updatescomprar ray ban 4068 httpwwwglobalenergyesescomprarrayban406814411htmlThis post will help the internet visitors for creating new webpage or even a weblog from start to endmoncler winterjas dames goedkoop eten httpwwwacmelnlnlnlmonclerwinterjasdamesgoedkoopeten14383htmlnba 2k16 mt now httpchandrakalabrokingcomindexphpblogentryamongthemostadmirednba2k16mthtmlHiya well put together webpage youve got right nownhl 17 coins httprxaffiliatesforumcomforummainforumpharmindustrynewsandevents512cheapnba2k17mtrefurbishedxbox360consolewhatincaseyoupurchaseIncredibly user pleasant website Enormous info available on couple of clicks onmadden 17 coins httpwwwezhibaocomnode688255I like looking at your web site thnxnba 2k17 httpup2uduzoneblogspost1480I love this website
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a good articleFor newest news you have to go to see internet and on internet I found this site as a most excellent site for hottest updatescomprar ray ban 4068 httpwwwglobalenergyesescomprarrayban406814411htmlThis post will help the internet visitors for creating new webpage or even a weblog from start to endmoncler winterjas dames goedkoop eten httpwwwacmelnlnlnlmonclerwinterjasdamesgoedkoopeten14383htmlnba 2k16 mt now httpchandrakalabrokingcomindexphpblogentryamongthemostadmirednba2k16mthtmlHiya well put together webpage youve got right nownhl 17 coins httprxaffiliatesforumcomforummainforumpharmindustrynewsandevents512cheapnba2k17mtrefurbishedxbox360consolewhatincaseyoupurchaseIncredibly user pleasant website Enormous info available on couple of clicks onmadden 17 coins httpwwwezhibaocomnode688255I like looking at your web site thnxnba 2k17 httpup2uduzoneblogspost1480I love this website
-imported: true
 ---
 
 Wednesday 11th November marks 97 years since the armistice of the First World War. Across the UK, the poppy will be worn this month as a symbol of commemoration for all the lives lost and affected by conflict.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Film runs down the winners and losers
 date: "2013-05-28 13:50:09 +0100"
+
 # Attributes from Felix Online V1
 id: "3624"
 old_path: /film/3624/2013-cannes-film-festival
 aliases:
  - /film/3624/2013-cannes-film-festival
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The world’s most prestigious film festival came to a close last Sunday, with renowned filmmakers, actors, models, singers and Cheryl Cole all making an appearance on the fancy red carpet – there were highs, lows, and some downright bizarre films in competition, as with every year, and Felix Film goes through this year’s big winners – we’ll look at the others next week – we’ve got exams...!

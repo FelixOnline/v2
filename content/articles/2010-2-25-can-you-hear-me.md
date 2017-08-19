@@ -4,16 +4,23 @@ title: >
 subtitle: >
    A look at how mobile phones have brought private conversations into the public space to the annoyance of everyone
 date: "2010-02-25 13:08:26 +0000"
+
 # Attributes from Felix Online V1
 id: "97"
 old_path: /tech/97/can-you-hear-me
 aliases:
  - /tech/97/can-you-hear-me
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
-imported: true
 ---
 
 Let me make this abundantly clear, I don’t want to hear about your dog’s diarrhoea problems. It may sound harsh, but I don’t care if the poor sod is at death’s door, especially if it involves you describing his last meal and what it looked like coming out the other end. Ever been aurally assaulted by someone else’s painfully private mobile phone conversation on a bus? I take the rush hour bus to and from my home every weekday and this, coupled with the London Transport network’s plentiful population of eccentrics, has exposed me to some of the strangest conversations I will probably ever hear.

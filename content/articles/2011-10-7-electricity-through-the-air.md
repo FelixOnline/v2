@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Is this the moment for wireless electricity?
 date: "2011-10-07 10:36:22 +0100"
+
 # Attributes from Felix Online V1
 id: "1488"
 old_path: /tech/1488/electricity-through-the-air
 aliases:
  - /tech/1488/electricity-through-the-air
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cables, chargers everywhere. You’ve got one for your phone, another for your laptop, more for those multiple alarm clocks that get you out of bed in the mornings… the list goes on. And while we can transfer so much wirelessly these days – our keystrokes and mouse movements, our voices and even our internet – power is something still constrained to those same cables we seek to banish.

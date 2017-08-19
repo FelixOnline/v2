@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Anonymous explores a secret operatic world previously out of reach
 date: "2015-03-25 12:43:04 +0000"
+
 # Attributes from Felix Online V1
 id: "5435"
 old_path: /arts/5435/the-white-square--an-lsd-rhapsody
 aliases:
  - /arts/5435/the-white-square--an-lsd-rhapsody
+imported: true
+comments:
+ - It was like a scene from high school they wouldnt eat at the same table with me and my colleagues in the cafeteria cartier faux bracelet urlhttpwwwbraceletluxefrcartier faux braceleturl
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - It was like a scene from high school they wouldnt eat at the same table with me and my colleagues in the cafeteria cartier faux bracelet urlhttpwwwbraceletluxefrcartier faux braceleturl
-imported: true
 ---
 
 Have I just made the stupidest mistake of my life?” I wondered as the white square dissolved in my mouth and passed down my throat. I reassured myself, the whole thing was thought through and the plan was bullet proof. I stepped out of the bathroom and an usher passed a few angry words in my direction. I didn’t hear what she said, but surely it wasn’t possible that she knew? “The men’s toilets are over there” she pointed.

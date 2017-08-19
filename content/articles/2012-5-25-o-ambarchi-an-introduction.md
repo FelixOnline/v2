@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Riaz Agahi goes deep on three of this year’s offerings
 date: "2012-05-25 18:59:33 +0100"
+
 # Attributes from Felix Online V1
 id: "2504"
 old_path: /music/2504/o-ambarchi-an-introduction
 aliases:
  - /music/2504/o-ambarchi-an-introduction
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Modern music has few people prolific as Australian guitarist and multi-instrumentalist __Oren Ambarchi__. He started out as free jazz drummer in his native country before moving to guitar, which he plays experimentally and unconventionally, producing sounds alien to traditional music.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The new Felix App Update is available to download this week. Felix Technology takes a closer look at the latest version.
 date: "2015-01-23 18:04:49 +0000"
+
 # Attributes from Felix Online V1
 id: "5138"
 old_path: /tech/5138/taking-another-step-into-the-smartphone-world
 aliases:
  - /tech/5138/taking-another-step-into-the-smartphone-world
+imported: true
+comments:
+ - You could use a spy app for your smartphone such as 1TopSpy It allows track GPS location spy on text messages web history images calls logs and spy call recording spy on Whatsapp Viber Facebook messages Snapchat Line BBM messages and much more Youd try it Dhttpwwwviagrayescom httpwwwpcansicom httpgsmywkscom  Cheap Generic Levitra cialis  Buy cialis online  best price for generic viagra kamagra effervescent reviews cheap generic viagra canada original and  Buy viagra Ireland Viagra Cialis Generic Viagra  viagra 100mg is better than 50mg kamagra chewable online buy kamagra uk online at samrx viagra cialis online canada viagra generic release date usa  Vardenafil 20mg Levitra Cialis viagra   side effects of cialis 20mg tadalafil viagra generic dangers generic viagra wholesale cialis reviews recreational dive planner generic viagra korea  Buy Tadalafil cheap Cialis online Cialis cheap 2BFZrV  hezxxviunpuw urlhttphhsmndnumisscomhhsmndnumissurl linkhttpzbokvpdjiyy
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You could use a spy app for your smartphone such as 1TopSpy It allows track GPS location spy on text messages web history images calls logs and spy call recording spy on Whatsapp Viber Facebook messages Snapchat Line BBM messages and much more Youd try it Dhttpwwwviagrayescom httpwwwpcansicom httpgsmywkscom  Cheap Generic Levitra cialis  Buy cialis online  best price for generic viagra kamagra effervescent reviews cheap generic viagra canada original and  Buy viagra Ireland Viagra Cialis Generic Viagra  viagra 100mg is better than 50mg kamagra chewable online buy kamagra uk online at samrx viagra cialis online canada viagra generic release date usa  Vardenafil 20mg Levitra Cialis viagra   side effects of cialis 20mg tadalafil viagra generic dangers generic viagra wholesale cialis reviews recreational dive planner generic viagra korea  Buy Tadalafil cheap Cialis online Cialis cheap 2BFZrV  hezxxviunpuw urlhttphhsmndnumisscomhhsmndnumissurl linkhttpzbokvpdjiyy
-imported: true
 ---
 
 This week _Felix_ released the latest version of its app for iPhone. It includes a major revamp of the way it works, adding benefits both in its user interface and in its engine for the user. Today Felix Technology takes a look at what we should expect from the latest addition to _Felix_’s digital “empire”.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett looks at the controversial bill that may be a threat to free speech in universities
 date: "2015-02-05 23:40:35 +0000"
+
 # Attributes from Felix Online V1
 id: "5195"
 old_path: /news/5195/students-take-to-council-to-condemn-counter-terrorism-bill
 aliases:
  - /news/5195/students-take-to-council-to-condemn-counter-terrorism-bill
+imported: true
+comments:
+ - Ah lovely the Governments pursuing another brilliant way to avoid dealing with the cause of the problem by pouring money into something contentious and detrimental   Wasting money on another war and wasting money on this   Probably time we instated a new British value along the lines of not spending taxpayers money on airstrikes which make us more enemies than friends  Dead Admin of felixonlinecouk  First of all let me tell you that you have a wonderfull website My name is Debra and Im a partner of Online Finance Investment company  I would like to propose you cooperation which will allow you to receive a source of passive income  All you need to do is 3 simple steps  1 Register on the website and get promotinal links or banners 2 Invite your friends using refferal links or use banners on your website 3 Receive  from each invited client and become rich  Also you can invest by yourself and receive 128 f income in just one day  Invitation link h
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ah lovely the Governments pursuing another brilliant way to avoid dealing with the cause of the problem by pouring money into something contentious and detrimental   Wasting money on another war and wasting money on this   Probably time we instated a new British value along the lines of not spending taxpayers money on airstrikes which make us more enemies than friends  Dead Admin of felixonlinecouk  First of all let me tell you that you have a wonderfull website My name is Debra and Im a partner of Online Finance Investment company  I would like to propose you cooperation which will allow you to receive a source of passive income  All you need to do is 3 simple steps  1 Register on the website and get promotinal links or banners 2 Invite your friends using refferal links or use banners on your website 3 Receive  from each invited client and become rich  Also you can invest by yourself and receive 128 f income in just one day  Invitation link h
-imported: true
 ---
 
 A bill being passed through government has come under fire for potentially supressing free speech at Universities, and now two students want to pass a paper through Imperial College Union Council, condemning the bill altogether.

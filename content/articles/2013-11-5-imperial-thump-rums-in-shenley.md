@@ -4,16 +4,23 @@ title: >
 subtitle: >
   James Clarke reports as Imperial’s 5th XI football team win comfortably.
 date: "2013-11-05 09:57:31 +0000"
+
 # Attributes from Felix Online V1
 id: "4013"
 old_path: /sport/4013/imperial-thump-rums-in-shenley
 aliases:
  - /sport/4013/imperial-thump-rums-in-shenley
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 ICUAFC 5’s set off on the long trip to North London on Saturday for a matchup against London rivals RUMS 3’s. The team’s arrival at Shenley was excitedly received by veteran footballer and long-time IC 5’s fan Gianfranco Zola. Unfortunately captain Clarke couldn’t fit him into the team in place of the technically superior Deasy, and he was forced to watch from the stands.

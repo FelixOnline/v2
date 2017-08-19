@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Beth shares her thoughts on the survey results
 date: "2015-05-29 00:58:24 +0100"
+
 # Attributes from Felix Online V1
 id: "5576"
 old_path: /news/5576/mentality-we-need-to-learn-to-address-stress-and-realise-we-are-all-in-this-together-
 aliases:
  - /news/5576/mentality-we-need-to-learn-to-address-stress-and-realise-we-are-all-in-this-together-
+imported: true
+comments:
+ - Appreciate the recommendation Will try it outugg chocolate httptestnegrifirmancomituggchocolate4862htmlThis post offers clear idea in support of the new viewers of blogging that actually how to do running a blogcanada goose drenthe instagram httpwwwsomarnlnlcanadagoosedrentheinstagram6135htmlfitflops on salefitflops sale australia httpaustraliafitflopsiemillernetfitflops in storesfitflop cheap httpaustraliafitflopsblogspotcombirkenstock outletbirkenstock sandals clearance httpbirkenstockaustraliamallscomchristian louboutin bridalchristian louboutin shoes httpchristianlouboutincanadaoutletblogspotcomchristian louboutin rolandochristian louboutin canada outlet httpchristianlouboutincanadaoutletblogspotcomlouboutin rolando shoes salechristian louboutin shoes sale httpcanadachristianlouboutinblogspotcomchristian louboutin instagramchristian louboutin sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Appreciate the recommendation Will try it outugg chocolate httptestnegrifirmancomituggchocolate4862htmlThis post offers clear idea in support of the new viewers of blogging that actually how to do running a blogcanada goose drenthe instagram httpwwwsomarnlnlcanadagoosedrentheinstagram6135htmlfitflops on salefitflops sale australia httpaustraliafitflopsiemillernetfitflops in storesfitflop cheap httpaustraliafitflopsblogspotcombirkenstock outletbirkenstock sandals clearance httpbirkenstockaustraliamallscomchristian louboutin bridalchristian louboutin shoes httpchristianlouboutincanadaoutletblogspotcomchristian louboutin rolandochristian louboutin canada outlet httpchristianlouboutincanadaoutletblogspotcomlouboutin rolando shoes salechristian louboutin shoes sale httpcanadachristianlouboutinblogspotcomchristian louboutin instagramchristian louboutin sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin
-imported: true
 ---
 
 Mentality was started as a campaign this year, run by a group of students and lead by Bethany Davison, a second year physics student.

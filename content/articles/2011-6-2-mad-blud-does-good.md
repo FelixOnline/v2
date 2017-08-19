@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Exploring London knife crime on stage
 date: "2011-06-02 19:37:40 +0100"
+
 # Attributes from Felix Online V1
 id: "1309"
 old_path: /arts/1309/mad-blud-does-good
 aliases:
  - /arts/1309/mad-blud-does-good
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So often in the media you hear directors and people of the arts talking of their desire to ‘transport’ the reader or viewer or listener, whatever it might be, away from their mundane reality. Whether the destination is Richmond, Rio or Ancient Rome, all too often you can find yourself back in that reality in a matter of seconds. As I walked out of Mad Blud, I could not say the same, but not entirely due to the play itself.

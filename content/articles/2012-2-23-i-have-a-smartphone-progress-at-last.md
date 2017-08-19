@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rhys Davies has finally left (or returned to?) the Stone Age
 date: "2012-02-23 19:51:07 +0000"
+
 # Attributes from Felix Online V1
 id: "2227"
 old_path: /comment/2227/i-have-a-smartphone-progress-at-last
 aliases:
  - /comment/2227/i-have-a-smartphone-progress-at-last
+imported: true
+comments:
+ -  20120217 0726     Greetings Quick question thats cmelpotely off topic Do you know how to make your website mobile friendly My site looks weird when browsing from my apple iphone  Im trying to uncover a template or plugin that might be able to correct this concern If you have any suggestions please share With thanks
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -  20120217 0726     Greetings Quick question thats cmelpotely off topic Do you know how to make your website mobile friendly My site looks weird when browsing from my apple iphone  Im trying to uncover a template or plugin that might be able to correct this concern If you have any suggestions please share With thanks
-imported: true
 ---
 
 I recently joined the twenty-first century and got a new phone.

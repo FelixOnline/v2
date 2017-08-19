@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park awards four stars to Men Women & Children
 date: "2014-12-04 19:41:34 +0000"
+
 # Attributes from Felix Online V1
 id: "5002"
 old_path: /film/5002/discover-how-little-you-know
 aliases:
  - /film/5002/discover-how-little-you-know
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Has technology made us more violent? More promiscuous? Is it easier to cheat with a little help from the internet? How dangerous are online games? Is it okay for a mother to essentially spy on her daughter? Is romance dead because of technology? Does social media reveal too much about us? With a boom in the use of texts, Facebook, Twitter, and all sorts of other platforms, it is everyone who has been affected in some ways, by the advancement of technology. Men, women, children, regardless your gender and age, Jason Reitman’s newest feature is one that looks at how living in the modern world keeping up with the same struggles as before looks like.

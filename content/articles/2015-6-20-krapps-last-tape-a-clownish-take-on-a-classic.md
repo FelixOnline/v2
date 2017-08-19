@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
+
 # Attributes from Felix Online V1
 id: "5645"
 old_path: /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
 aliases:
  - /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
+imported: true
+comments:
+ - Robert Wilsons Krapps Last Tape was the worst directedproduced and abysmally acted play of any kind that I have ever seen in nearly 70 years theatre going Clowning it is wide off the mark and the poetry of Becketts language was completely lost Wilson moved like a wouldbe Marcel Marceau his squeaks and squawks were irritating  this was an offence to Becketts memory Krapp isnt a funny play and shouldnt be treated as such Complete waste of time and money Plus far far too long and too noisy It took 20 minutes relentless noise for Krapp to start eating his first banana and 30 until he finally spoke Shame on Wilson and those who booked himGosh that was dreadful  Thought I was at a Childrens birthday party Really bad  Why did I pay 35 Why did the audience clap  Wilson got 2 curtain calls and claimed a third just in the nick of time as we gathered our coats and made for the exit  The set was the only thing worth looking at and the taped narration was the only thing worth listening to
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Robert Wilsons Krapps Last Tape was the worst directedproduced and abysmally acted play of any kind that I have ever seen in nearly 70 years theatre going Clowning it is wide off the mark and the poetry of Becketts language was completely lost Wilson moved like a wouldbe Marcel Marceau his squeaks and squawks were irritating  this was an offence to Becketts memory Krapp isnt a funny play and shouldnt be treated as such Complete waste of time and money Plus far far too long and too noisy It took 20 minutes relentless noise for Krapp to start eating his first banana and 30 until he finally spoke Shame on Wilson and those who booked himGosh that was dreadful  Thought I was at a Childrens birthday party Really bad  Why did I pay 35 Why did the audience clap  Wilson got 2 curtain calls and claimed a third just in the nick of time as we gathered our coats and made for the exit  The set was the only thing worth looking at and the taped narration was the only thing worth listening to
-imported: true
 ---
 
 As the __Barbican Centre__’s month-long celebration of Samuel Beckett comes to an end, what better production can see us out than _Krapp’s Last Tape_, a tale of a man looking back on the past, evaluating his actions? There is a palpable sense of excitement in the __Barbican Theatre__, as famed director Robert Wilson is taking on the role, but from the offset, it is clear that things are going to be different with this version.

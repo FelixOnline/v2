@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Spence-Jones reviews an album by Capital Cities
 date: "2013-10-20 01:53:18 +0100"
+
 # Attributes from Felix Online V1
 id: "3904"
 old_path: /music/3904/ams-album-of-the-week-in-a-tidal-wave-of-mystery
 aliases:
  - /music/3904/ams-album-of-the-week-in-a-tidal-wave-of-mystery
+imported: true
+comments:
+ - JuliaHow cool are you You are rather young to have such an apepcriation for one of the masters Nice to know we have something in common I had all his albums when I was younger And I mean vinyl albums Wore them completely outEvery time I think  Wow hes out done himself   Brian aalwys surprises me and all his fans by writingsinging more beautiful music  He is so talented and as a  GREAT  compliment I find my 17 year old daughter who is glued 100 to her IPOD humming and singing his tunes often   KEEP WRITING
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - JuliaHow cool are you You are rather young to have such an apepcriation for one of the masters Nice to know we have something in common I had all his albums when I was younger And I mean vinyl albums Wore them completely outEvery time I think  Wow hes out done himself   Brian aalwys surprises me and all his fans by writingsinging more beautiful music  He is so talented and as a  GREAT  compliment I find my 17 year old daughter who is glued 100 to her IPOD humming and singing his tunes often   KEEP WRITING
-imported: true
 ---
 
 __Capital Cities__ – In a Tidal Wave of Mystery

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   James lees tell us how France is to ban the wearing of the niqab
 date: "2010-02-01 17:30:54 +0000"
+
 # Attributes from Felix Online V1
 id: "67"
 old_path: /politics/67/france-to-ban-the-wearing-of-the-niqab-
 aliases:
  - /politics/67/france-to-ban-the-wearing-of-the-niqab-
+imported: true
+comments:
+ - in the name of allah the most mercifulquotWe cannot accept in our country women imprisoned behind a mesh cut off from society deprived of all identity That is not the French republics idea of womens dignitywhere is the rest of my commentThe french idea of women dignity seems to be a mystery Whether it is that the blessed Mery who should be a role model to muslimchristian girls alike is dignified under such definitions im not sure whether she wouldve been welcomed in french schools at all for her veilWhether putting pictures of seminaked ladies on merchandise to make it more appealing even when its a simple matchbox is more dignified im not sure  If you want to know why the faceveil is worn then ask us Dont just assume its submission to men Id say the only oppressed is a person who denies himself from hearing the true answer from those who know not quotshaikhquot Sarkozi who declared himself knowledgeable in what Islam saysThursday
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - in the name of allah the most mercifulquotWe cannot accept in our country women imprisoned behind a mesh cut off from society deprived of all identity That is not the French republics idea of womens dignitywhere is the rest of my commentThe french idea of women dignity seems to be a mystery Whether it is that the blessed Mery who should be a role model to muslimchristian girls alike is dignified under such definitions im not sure whether she wouldve been welcomed in french schools at all for her veilWhether putting pictures of seminaked ladies on merchandise to make it more appealing even when its a simple matchbox is more dignified im not sure  If you want to know why the faceveil is worn then ask us Dont just assume its submission to men Id say the only oppressed is a person who denies himself from hearing the true answer from those who know not quotshaikhquot Sarkozi who declared himself knowledgeable in what Islam saysThursday
-imported: true
 ---
 
 France, a country known mainly for cheese, wine, surrendering, gourmet food and the Eiffel Tower, is not a country I often praise. There is, however, one thing which I envy about France: the way the French Republic sticks to its principles – mostly.

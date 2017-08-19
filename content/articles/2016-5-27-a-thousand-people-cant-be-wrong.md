@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Air conditioning in central library must be a top priority for the sabbaticals
 date: "2016-05-27 08:46:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6203"
 old_path: /comment/6203/a-thousand-people-cant-be-wrong
 aliases:
  - /comment/6203/a-thousand-people-cant-be-wrong
+imported: true
+comments:
+ - As a member of Union Council you could have easily written and taken a paper on air conditioning to said council Instead youre jumping on the Union bashing bandwagon It seems to be an Imperial wide problem Everyone is quick to moan and complain about College and the Union but arent prepared to do anything about itWell if the Union will employ a staff of 50 its not unreasonable to expect them to do something off their own batSure people should be proactive and write papers but that doesnt mean the Sabbs have no responsibility to use initiative of their own
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - As a member of Union Council you could have easily written and taken a paper on air conditioning to said council Instead youre jumping on the Union bashing bandwagon It seems to be an Imperial wide problem Everyone is quick to moan and complain about College and the Union but arent prepared to do anything about itWell if the Union will employ a staff of 50 its not unreasonable to expect them to do something off their own batSure people should be proactive and write papers but that doesnt mean the Sabbs have no responsibility to use initiative of their own
-imported: true
 ---
 
 An expected outbreak of support for Felix’s campaign for air conditioning in the library has seriously raised questions about the role of the union in delivering student demands.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ellen Mathieson takes a trip to the re-opening of Jurassic Park
 date: "2015-06-18 20:16:46 +0100"
+
 # Attributes from Felix Online V1
 id: "5632"
 old_path: /film/5632/its-all-about-that-rex-no-pteranodon
 aliases:
  - /film/5632/its-all-about-that-rex-no-pteranodon
+imported: true
+comments:
+ - I know this if off topic but Im looking into starting my own weblog and was curious what all is needed to get set up Im assuming having a blog like yours would cost a pretty penny Im not very web savvy so Im not 100 sure Any tips or advice would be greatly appreciated Appreciate itdiscount vouchers ugg boots sale uk x2 httpwwwessenceofedencoukukdiscountvouchersuggbootssaleukx23872htmlWow such a good websitesnba 2k16 mtdb draft httpforumscozycotcomforumbeautyforummakeup4475035whoelsedesirestolearnaboutnba2k16mtcoinsMerely desired to say Now i am delighted I stumbled onto your webpagenba 2k17 httpblogtianyacnpost72498181175955941shtml
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I know this if off topic but Im looking into starting my own weblog and was curious what all is needed to get set up Im assuming having a blog like yours would cost a pretty penny Im not very web savvy so Im not 100 sure Any tips or advice would be greatly appreciated Appreciate itdiscount vouchers ugg boots sale uk x2 httpwwwessenceofedencoukukdiscountvouchersuggbootssaleukx23872htmlWow such a good websitesnba 2k16 mtdb draft httpforumscozycotcomforumbeautyforummakeup4475035whoelsedesirestolearnaboutnba2k16mtcoinsMerely desired to say Now i am delighted I stumbled onto your webpagenba 2k17 httpblogtianyacnpost72498181175955941shtml
-imported: true
 ---
 
 First things first, it’s not as good as _Jurassic Park_. And really it never was going to compare to the original. It’s battling years of love and nostalgia, and the film that inspired countless people to spend at least a couple of years as a kid wanting to be an archaeologist (usually somewhere before astronaut but after princess). It is the film that made dinosaurs into a thing, much as _Jaws_ made people fear sharks.

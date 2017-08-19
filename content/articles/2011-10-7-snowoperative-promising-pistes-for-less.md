@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Snowsports clubs collaboration will ‘reduce prices’
 date: "2011-10-07 01:06:43 +0100"
+
 # Attributes from Felix Online V1
 id: "1472"
 old_path: /sport/1472/snowoperative-promising-pistes-for-less
 aliases:
  - /sport/1472/snowoperative-promising-pistes-for-less
+imported: true
+comments:
+ - Easter Ski Trip DetailsWe cant cover all the awesomeness of SaalbachHinterglemm in this space but we hope you get the idea of how truly stoked we are to be going to Austria this year Phenomenal skiing and snowboarding for all abilities the most picturesque green runs through to gnarly tree skiing and everything in between Parties  Competitions to get involved in And 2000 UK university students thereStarting price of 399 includes Lift Pass Accommodation self catered as in France Return Coach from London Resort Tax BUSC Main Event Wristband gets you into everything and drinks deals etc BUSC 2012 trip tshirtDates 24TH  31ST MARCH 2012HOW TO BOOKhttpwwwbusceventscomeventsindexphpcontent943menu2497Choose IMPERIAL and pick MAIN WEEKPlease see httpfelixonlinecouksport3148carvingitupinvalthorens for latest updatearticleCoach hasnt compromised the caliber of their totes becoming created
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Easter Ski Trip DetailsWe cant cover all the awesomeness of SaalbachHinterglemm in this space but we hope you get the idea of how truly stoked we are to be going to Austria this year Phenomenal skiing and snowboarding for all abilities the most picturesque green runs through to gnarly tree skiing and everything in between Parties  Competitions to get involved in And 2000 UK university students thereStarting price of 399 includes Lift Pass Accommodation self catered as in France Return Coach from London Resort Tax BUSC Main Event Wristband gets you into everything and drinks deals etc BUSC 2012 trip tshirtDates 24TH  31ST MARCH 2012HOW TO BOOKhttpwwwbusceventscomeventsindexphpcontent943menu2497Choose IMPERIAL and pick MAIN WEEKPlease see httpfelixonlinecouksport3148carvingitupinvalthorens for latest updatearticleCoach hasnt compromised the caliber of their totes becoming created
-imported: true
 ---
 
 In this ‘age of austerity’ skiing and snowboarding can still remain affordable for students. Tough times call for tough measures. So now, Snowsports clubs from across the land of London have come together to bring snowy fun to the masses (i.e. you) at good ol’, pre-tuition-fee-scandal, student prices! While you were busy working on those tans that the days of revision and exams denied you, your lovely Snowsports committee were looking out for your winter needs.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles thinks that the National Theatre's latest production is a snappy, comedic diamond in the rough
 date: "2015-03-30 14:36:07 +0100"
+
 # Attributes from Felix Online V1
 id: "5459"
 old_path: /arts/5459/the-rules-of-the-game
 aliases:
  - /arts/5459/the-rules-of-the-game
+imported: true
+comments:
+ - Sustain the spectacular job  Lovin itfifa 17 httpforumsgreenheatingcompostcheapnba2k17mtwithacontestinwinterpark8211834pid1293128410
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sustain the spectacular job  Lovin itfifa 17 httpforumsgreenheatingcompostcheapnba2k17mtwithacontestinwinterpark8211834pid1293128410
-imported: true
 ---
 
 Any hope that the __National Theatre__’s _Rules For Living_ would be a quiet affair was quickly dashed upon reading the programme: in the cast list, tucked under the usual Lighting Designers and Sound Technicians, is an acknowledgement for Kate Waters - Fight Director. This gives us a clear indication of the direction the play is going to go in, but really it should be obvious from the start - _Rules For Living_ centres around that most volatile of environments: the middle-class christmas dinner.

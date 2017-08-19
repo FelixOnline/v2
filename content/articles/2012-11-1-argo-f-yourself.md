@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Affleck's lastest outing as a director is a masterclass in dark comedy and political satire
 date: "2012-11-01 23:04:29 +0000"
+
 # Attributes from Felix Online V1
 id: "2808"
 old_path: /film/2808/argo-f-yourself
 aliases:
  - /film/2808/argo-f-yourself
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Based on true events, Affleck’s latest directorial is a darkly comic mixture of thriller and political satire.

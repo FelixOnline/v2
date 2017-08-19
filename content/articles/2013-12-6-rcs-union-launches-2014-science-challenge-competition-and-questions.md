@@ -4,16 +4,23 @@ title: >
 subtitle: >
   On Tuesday the RCSU (Royal College of Science Union) celebrated the introduction to the next RCSU Science Challenge Competition with a launch event in the Sir Alexander Fleming Building.
 date: "2013-12-06 03:45:17 +0000"
+
 # Attributes from Felix Online V1
 id: "4178"
 old_path: /news/4178/rcs-union-launches-2014-science-challenge-competition-and-questions
 aliases:
  - /news/4178/rcs-union-launches-2014-science-challenge-competition-and-questions
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 On Tuesday the RCSU (Royal College of Science Union) celebrated the introduction to the next RCSU Science Challenge Competition with a launch event in the Sir Alexander Fleming Building.

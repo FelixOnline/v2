@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sophia Goldberg on her first taste of Cyprus
 date: "2012-11-22 23:13:45 +0000"
+
 # Attributes from Felix Online V1
 id: "2942"
 old_path: /food/2942/bring-cyprus-to-london
 aliases:
  - /food/2942/bring-cyprus-to-london
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Thursday we, the Food Editors, decided to paint the town red! We hit the “Cyrus Hospitality” event, organised by the Imperial College London Cypriot society.

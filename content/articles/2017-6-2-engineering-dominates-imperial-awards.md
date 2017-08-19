@@ -4,16 +4,22 @@ title: >
 subtitle: >
   SACAs, President’s Awards and NSS scores all say the same thing
 date: "2017-06-02 12:44:10 +0100"
+
 # Attributes from Felix Online V1
 id: "6984"
 old_path: /news/6984/engineering-dominates-imperial-awards
 aliases:
  - /news/6984/engineering-dominates-imperial-awards
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Union honoured Imperial staff last week at the annual Student Academic Choice Awards (SACAs for short) after sifting through a record breaking 831 nominations. The ceremony saw eight humans of Imperial getting recognised for their contributions in teaching.

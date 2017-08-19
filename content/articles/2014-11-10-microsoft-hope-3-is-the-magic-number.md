@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Osama Awara reviews the newest member of the Surface family
 date: "2014-11-10 22:12:47 +0000"
+
 # Attributes from Felix Online V1
 id: "4840"
 old_path: /tech/4840/microsoft-hope-3-is-the-magic-number
 aliases:
  - /tech/4840/microsoft-hope-3-is-the-magic-number
+imported: true
+comments:
+ - EejUDs  uygweadvyyhc urlhttpboqdpqtxddlhcomboqdpqtxddlhurl linkhttpdyqpsfeiawuicomdyqpsfeiawuilink httpihfspooyyfoxcom
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - EejUDs  uygweadvyyhc urlhttpboqdpqtxddlhcomboqdpqtxddlhurl linkhttpdyqpsfeiawuicomdyqpsfeiawuilink httpihfspooyyfoxcom
-imported: true
 ---
 
 The third generation of Windows tablets, or Lablets as I like to call them, have been released by Microsoft. They claim that the Surface Pro 3 is not only a tablet, but a laptop as well, potentially replacing both of those devices in your home. After owning one for several weeks, I can honestly back Microsoft on this one. I have not touched my old laptop since the purchase; it is currently sitting in a bedroom drawer collecting dust.

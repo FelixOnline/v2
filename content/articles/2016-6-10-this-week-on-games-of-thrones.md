@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It’s season six, episode seven
 date: "2016-06-10 08:35:17 +0100"
+
 # Attributes from Felix Online V1
 id: "6265"
 old_path: /tv/6265/this-week-on-games-of-thrones
 aliases:
  - /tv/6265/this-week-on-games-of-thrones
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A big reveal this episode, hope you’re ready to board the hype train.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Good news for Woodward – it’ll only take 45 minutes to get home on a Friday night
 date: "2016-03-04 11:24:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5995"
 old_path: /news/5995/night-tube-resurrected
 aliases:
  - /news/5995/night-tube-resurrected
+imported: true
+comments:
+ - Not if Sadiq gets electedI was just looking at your Night Tube resurrected  News  Felix Online website and see that your website has the potential to get a lot of visitors I just want to tell you In case you didnt already know There is a website service which already has more than 16 million users and the majority of the users are interested in websites like yours By getting your site on this service you have a chance to get your site more visitors than you can imagine It is free to sign up and you can read more about it here httptodochiapasmxC3jq  Now let me ask you Do you need your website to be successful to maintain your business Do you need targeted traffic who are interested in the services and products you offer Are looking for exposure to increase sales and to quickly develop awareness for your site If your answer is YES you can achieve these things only if you get your site on the network I am describing This traffic network advertises you to thousands while also givi
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Not if Sadiq gets electedI was just looking at your Night Tube resurrected  News  Felix Online website and see that your website has the potential to get a lot of visitors I just want to tell you In case you didnt already know There is a website service which already has more than 16 million users and the majority of the users are interested in websites like yours By getting your site on this service you have a chance to get your site more visitors than you can imagine It is free to sign up and you can read more about it here httptodochiapasmxC3jq  Now let me ask you Do you need your website to be successful to maintain your business Do you need targeted traffic who are interested in the services and products you offer Are looking for exposure to increase sales and to quickly develop awareness for your site If your answer is YES you can achieve these things only if you get your site on the network I am describing This traffic network advertises you to thousands while also givi
-imported: true
 ---
 
 One of the four main unions representing London Underground drivers, RMT, voted in favour of a renegotiated contract on Monday, paving the way toward the Night Tube service that was due to be implemented in September last year.

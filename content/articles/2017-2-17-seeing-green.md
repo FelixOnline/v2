@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Your environmentally friendly TV guide
 date: "2017-02-17 15:32:07 +0000"
+
 # Attributes from Felix Online V1
 id: "6795"
 old_path: /tv/6795/seeing-green
 aliases:
  - /tv/6795/seeing-green
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Remember the good old days, when we had the environment themed shows like Captain Planet? Well, if you miss that era, here are some shows that’ll help you get your fill of green TV.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hugh Mackenzie can't read a course map, but can run and cycle pretty well
 date: "2013-02-13 15:52:02 +0000"
+
 # Attributes from Felix Online V1
 id: "3308"
 old_path: /sport/3308/votwo-gonna-do-triathlon-triumphs
 aliases:
  - /sport/3308/votwo-gonna-do-triathlon-triumphs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The first event of a year is always a tough race, but this one was at Dorney Lake; a well-established, flat course with beautiful smooth roads. This short Votwo Gatorade 5k/20k/5k duathlon is always a good lung opener to start your season. To make the most of the potential for a PB, a number of Imperial College Triathletes drove there in the early hours of Saturday. The team included Alex Milne, Aimee DiMarco, Paul Bryant, Tom Pearson and Hugh Mackenzie. The day dawned bright, cold and worryingly windy. The lake is extremely exposed and with a course consisting of out and back loops it meant running/cycling directly into a head wind and then returning with a tail wind pushing you along. Despite my reservations, I knew this was going to make for some exciting racing.

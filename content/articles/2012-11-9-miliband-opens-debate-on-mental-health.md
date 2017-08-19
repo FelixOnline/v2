@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Miliband says we should talk more about mental health issues
 date: "2012-11-09 12:30:07 +0000"
+
 # Attributes from Felix Online V1
 id: "2847"
 old_path: /politics/2847/miliband-opens-debate-on-mental-health
 aliases:
  - /politics/2847/miliband-opens-debate-on-mental-health
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 According to the World Health Organisation, one in four of us will have a mental illness at some point in our life, and that by 2030 depression will be the largest cause of disease around the world. That’s a scary statistic. Mental health issues, be them our own or someone else’s, affect us all, and yet we don’t talk about them. This is the problem cited by[](http://www.labour.org.uk/speech-on-mental-health-to-the-royal-college-of-psychiatrists)[Ed Miliband in his speech to the Royal College of Psychiatrists last week.](http://www.bbc.co.uk/news/uk-politics-20117661)

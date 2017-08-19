@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
+
 # Attributes from Felix Online V1
 id: "1774"
 old_path: /music/1774/reports-from-a-sick-night-in-metric-no-seriously
 aliases:
  - /music/1774/reports-from-a-sick-night-in-metric-no-seriously
+imported: true
+comments:
+ - I was therestop being anal
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - I was therestop being anal
-imported: true
 ---
 
 _See photos of the night [here](http://felixonline.co.uk/media/photo/19/kablaam-felix-music-night/)_

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jack Steadman champions Tom Stoppard’s right to the title
 date: "2015-03-25 12:51:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5438"
 old_path: /arts/5438/britains-greatest-living-playwright
 aliases:
  - /arts/5438/britains-greatest-living-playwright
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 To call anyone “Britain’s greatest living playwright” is a bold claim. Competition for the title is fierce, and ever-growing – a simple glance at the work coming out of the likes of the __Royal Court__ shows the strength of new talent.

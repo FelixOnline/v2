@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maximilian Eggl, on another beautiful encounter with Bluetooth
 date: "2014-03-26 15:40:39 +0000"
+
 # Attributes from Felix Online V1
 id: "4511"
 old_path: /tech/4511/august-ep650-headphones
 aliases:
  - /tech/4511/august-ep650-headphones
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Almost a year and a half ago I stumbled across the wonderful world of Bluetooth headphones. For those of you who might remember, back then a naïve tech writer I had just decided to splash out on a pair of 20 quid headphones from Amazon, namely the SX-907. To date this still remains my most popular article, and by which I assume that either I am reading my own articles way too much or that you guys are genuinely interested about Bluetooth headphones. For my own sanity, I shall assume the latter.

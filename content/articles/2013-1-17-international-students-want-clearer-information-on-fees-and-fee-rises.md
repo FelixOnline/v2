@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union seeks better dissemination of information
 date: "2013-01-17 23:38:47 +0000"
+
 # Attributes from Felix Online V1
 id: "3115"
 old_path: /news/3115/international-students-want-clearer-information-on-fees-and-fee-rises
 aliases:
  - /news/3115/international-students-want-clearer-information-on-fees-and-fee-rises
+imported: true
+comments:
+ - This is a great article Im glad that a brilliant paper was bought to council so that we can now begin to work with international students and lobby college about how it calculates its increases and how they are communicated to students Transparency is keyIve had meetings with the Deputy Rector Pro Rector Education and College Secretary about the paper on this that was taken to Union Council over the last week All of them think its  in principle details to be ironed out  good that students are told in advance what their fees will be Ive got more meetings to come but hopefully we will be able to make this possibleYou hit the nail right on the head with that one Lethal articalJohnSmashed itExcellent article  good to highlight fee escalation problems for all students
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a great article Im glad that a brilliant paper was bought to council so that we can now begin to work with international students and lobby college about how it calculates its increases and how they are communicated to students Transparency is keyIve had meetings with the Deputy Rector Pro Rector Education and College Secretary about the paper on this that was taken to Union Council over the last week All of them think its  in principle details to be ironed out  good that students are told in advance what their fees will be Ive got more meetings to come but hopefully we will be able to make this possibleYou hit the nail right on the head with that one Lethal articalJohnSmashed itExcellent article  good to highlight fee escalation problems for all students
-imported: true
 ---
 
 Imperial College fails to provide sufficient clarity on international student tariffs, as perceived by students. Imperial College Union intends to lobby the University amidst growing apprehension among overseas students.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Go! Team bounce around the stage and off each other
 date: "2011-02-24 19:45:35 +0000"
+
 # Attributes from Felix Online V1
 id: "868"
 old_path: /music/868/the-musical-emodiment-of-energy-rock-heaven
 aliases:
  - /music/868/the-musical-emodiment-of-energy-rock-heaven
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Energy can be explained in many different contexts. I put it to you that [The Go! Team](http://www.myspace.com/thegoteam) are the musical embodiment of energy. And enthusiasm. And pizzazz, joy and childlike wonderment.

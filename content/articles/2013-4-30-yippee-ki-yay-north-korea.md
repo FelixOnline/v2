@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Olympus Has Fallen review
 date: "2013-04-30 10:40:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3501"
 old_path: /film/3501/yippee-ki-yay-north-korea
 aliases:
  - /film/3501/yippee-ki-yay-north-korea
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With tensions in North Korea constantly on the rise, Gerard Butler’s new action-packed outing tells a story that doesn’t seem far too out of reach.

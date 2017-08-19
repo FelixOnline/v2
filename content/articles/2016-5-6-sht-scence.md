@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-06 09:55:06 +0100"
+
 # Attributes from Felix Online V1
 id: "6123"
 old_path: /science/6123/sht-scence
 aliases:
  - /science/6123/sht-scence
+imported: true
+comments:
+ - Thanks a lot It is an outstanding webpagenba httpwwwmattphelpscompersonalboardindexphptopic1878060I was just looking at your Sht Scence  Science  Felix Online website and see that your website has the potential to become very popular I just want to tell you In case you dont already know There is a website service which already has more than 16 million users and the majority of the users are interested in websites like yours By getting your website on this service you have a chance to get your site more visitors than you can imagine It is free to sign up and you can find out more about it here httpkbblirmy  Now let me ask you Do you need your site to be successful to maintain your way of life Do you need targeted traffic who are interested in the services and products you offer Are looking for exposure to increase sales and to quickly develop awareness for your site If your answer is YES you can achieve these things only if you get your site on the service I am
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks a lot It is an outstanding webpagenba httpwwwmattphelpscompersonalboardindexphptopic1878060I was just looking at your Sht Scence  Science  Felix Online website and see that your website has the potential to become very popular I just want to tell you In case you dont already know There is a website service which already has more than 16 million users and the majority of the users are interested in websites like yours By getting your website on this service you have a chance to get your site more visitors than you can imagine It is free to sign up and you can find out more about it here httpkbblirmy  Now let me ask you Do you need your site to be successful to maintain your way of life Do you need targeted traffic who are interested in the services and products you offer Are looking for exposure to increase sales and to quickly develop awareness for your site If your answer is YES you can achieve these things only if you get your site on the service I am
-imported: true
 ---
 
 At Sh!t Sc!ience, we believe that all science, no matter how stupid it sounds, has a purpose and adds to the sum of human knowledge. This week: the science of gingerness.

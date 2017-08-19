@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Winning a new perspective on the position, Imperial, and comfort zones
 date: "2016-03-18 11:38:19 +0000"
+
 # Attributes from Felix Online V1
 id: "6055"
 old_path: /comment/6055/my-fight-for-dpcs
 aliases:
  - /comment/6055/my-fight-for-dpcs
+imported: true
+comments:
+ - Author hereJust in case you think badly of the other DPCS candidates for not turning up to the Results Party Ju actually was there and I somehow missed him and James was at an RCSU dinner so he had a good excuse ApologiesMy memory is rather hazy but Im fairly certain I wanted you to run for DPFS But thanks for the kind words about me nonetheless Im glad I enthused you to run for a role  albeit not my role sniff sniffYour campaign was particularly imaginative and certainly livened up this years electionsWishing you all the best JonathanChrisMy memory is rather hazy but Im fairly certain I wanted you to run for DPFS But thanks for the kind words about me nonetheless Im glad I enthused you to run for a role  albeit not my role sniff sniffYour campaign was particularly imaginative and certainly livened up this years electionsWishing you all the best JonathanChrisdnap9t  urxvjpsuvfrb urlhttprakhmwjkwunkcomrakhmwjkwunkurl linkhttpxqdjonlvbgrucom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Author hereJust in case you think badly of the other DPCS candidates for not turning up to the Results Party Ju actually was there and I somehow missed him and James was at an RCSU dinner so he had a good excuse ApologiesMy memory is rather hazy but Im fairly certain I wanted you to run for DPFS But thanks for the kind words about me nonetheless Im glad I enthused you to run for a role  albeit not my role sniff sniffYour campaign was particularly imaginative and certainly livened up this years electionsWishing you all the best JonathanChrisMy memory is rather hazy but Im fairly certain I wanted you to run for DPFS But thanks for the kind words about me nonetheless Im glad I enthused you to run for a role  albeit not my role sniff sniffYour campaign was particularly imaginative and certainly livened up this years electionsWishing you all the best JonathanChrisdnap9t  urxvjpsuvfrb urlhttprakhmwjkwunkcomrakhmwjkwunkurl linkhttpxqdjonlvbgrucom
-imported: true
 ---
 
 This year I ran for DPCS in the Union Elections, and here's the story of my campaign.

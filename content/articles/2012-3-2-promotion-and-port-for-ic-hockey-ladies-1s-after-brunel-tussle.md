@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rounding off a successful season for the ladies
 date: "2012-03-02 17:42:22 +0000"
+
 # Attributes from Felix Online V1
 id: "2309"
 old_path: /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
 aliases:
  - /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
+imported: true
+comments:
+ - Thibaut  We loved dragging you aonurd Munich Ann and cant wait for the truckload of pics  We are cool with sharing another giant mug of beer again am besten ein dunkel weidfbier  Just pass by our home June 7 2012   1004 pmKIDS Zone Junior Class  Putting the Puzzles togather   Come find out what its all aboutKindergarten Class  Bible Land  Alot of acnitg going onBeginer Class ages 35  stories from the Bible February 19th 12 noon at the church Jumpin Around Inflatables will be here Bring a friend
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thibaut  We loved dragging you aonurd Munich Ann and cant wait for the truckload of pics  We are cool with sharing another giant mug of beer again am besten ein dunkel weidfbier  Just pass by our home June 7 2012   1004 pmKIDS Zone Junior Class  Putting the Puzzles togather   Come find out what its all aboutKindergarten Class  Bible Land  Alot of acnitg going onBeginer Class ages 35  stories from the Bible February 19th 12 noon at the church Jumpin Around Inflatables will be here Bring a friend
-imported: true
 ---
 
 TODO: image from

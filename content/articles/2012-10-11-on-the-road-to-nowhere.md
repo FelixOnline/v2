@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Only two out of five stars for this. It doesn't matter how cool typewriters are
 date: "2012-10-11 21:12:47 +0100"
+
 # Attributes from Felix Online V1
 id: "2665"
 old_path: /film/2665/on-the-road-to-nowhere
 aliases:
  - /film/2665/on-the-road-to-nowhere
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Here is a repetitive bore of a movie in which the three main characters (Hedlund, Riley and Stewart) spend far too much time chasing three things: alcohol, drugs and sex. Yes, they’re either getting drunk, getting high, or getting laid. One of them fancies himself as a bit of a deep-thinking writer, and he serves as the film’s narrator. We see things in Sal Paradise’s (Riley) point of view, who records every single wild experience he shares with various people in his life.

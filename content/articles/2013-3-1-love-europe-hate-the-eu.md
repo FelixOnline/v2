@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An anonymous response to the recent comment articles on the virtues of the EU
 date: "2013-03-01 00:55:44 +0000"
+
 # Attributes from Felix Online V1
 id: "3412"
 old_path: /comment/3412/love-europe-hate-the-eu
 aliases:
  - /comment/3412/love-europe-hate-the-eu
+imported: true
+comments:
+ - Fantastic articlecouldnt agree with you moreI take onus with the idea that people who embrace a European identity are missing part of their own Despite never having been subject to the proEuropean propaganda that bit made me snortlaugh of a European school I consider myself a European and indeed a global citizen the idea that you should be primarily defined by the borders between which you happened to be born is increasingly archaic let alone the idea that more global identities arent reconcilable with national onesI dont deny that the European Union is in need of some reform increased accountability and democratisation are vital But the legitimacy of the authors comments is damaged irrevocably by isolationism and redscare tacticsPerils of an open forum My points still standHave you ever considered that it is indeed possible to feel both Italian and European at the same time Ill tell you more  inside Italy there is a lot of pride of belonging to a specific region and hell
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Fantastic articlecouldnt agree with you moreI take onus with the idea that people who embrace a European identity are missing part of their own Despite never having been subject to the proEuropean propaganda that bit made me snortlaugh of a European school I consider myself a European and indeed a global citizen the idea that you should be primarily defined by the borders between which you happened to be born is increasingly archaic let alone the idea that more global identities arent reconcilable with national onesI dont deny that the European Union is in need of some reform increased accountability and democratisation are vital But the legitimacy of the authors comments is damaged irrevocably by isolationism and redscare tacticsPerils of an open forum My points still standHave you ever considered that it is indeed possible to feel both Italian and European at the same time Ill tell you more  inside Italy there is a lot of pride of belonging to a specific region and hell
-imported: true
 ---
 
 f you really love Europe then you ought to be a Eurosceptic by now.

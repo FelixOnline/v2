@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This recession malarky has got everyone worried about their career prospects. Apart from Matt. And Danny Dyer
 date: "2011-02-28 20:30:14 +0000"
+
 # Attributes from Felix Online V1
 id: "928"
 old_path: /comment/928/pain-in-the-career-
 aliases:
  - /comment/928/pain-in-the-career-
+imported: true
+comments:
+ - YAH mate so I  applied to this lush bank The Times Top 100 says that its got water coolers and everything Really made me laugh Sooo true Why do we care so much I think its to do with all those recruitment fairs and emails and basically advertising branding and brainwashing  But you do make a good point there  it can all be a bit of a waste of time Some of these graduate schemes have like 10000 people applying for 50 jobs so you go through this online application  phone interview  assessment centre circle like 20 times with no result apart from congratulations its a real achievement to get this far You are probably better off spending that time on more productive things  like actually doing your degree and learning things With Imperial on your CV you can always get a job once you have finished applying to actual vacancies rather than this graduate recruitment nonsense where they pay you like 25K while you work your guts off
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - YAH mate so I  applied to this lush bank The Times Top 100 says that its got water coolers and everything Really made me laugh Sooo true Why do we care so much I think its to do with all those recruitment fairs and emails and basically advertising branding and brainwashing  But you do make a good point there  it can all be a bit of a waste of time Some of these graduate schemes have like 10000 people applying for 50 jobs so you go through this online application  phone interview  assessment centre circle like 20 times with no result apart from congratulations its a real achievement to get this far You are probably better off spending that time on more productive things  like actually doing your degree and learning things With Imperial on your CV you can always get a job once you have finished applying to actual vacancies rather than this graduate recruitment nonsense where they pay you like 25K while you work your guts off
-imported: true
 ---
 
 The world’s a pretty scary place at the moment, not least because of the abundance of Danny Dyer films being produced. In these uncertain times, it’s good to have a bit of security, so it’s no surprise that one of the hottest topics at the moment is one which turns even the most studious into career-hungry businessmen and women – internships.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Immortals beat Brighton Tsunami in impressive match
 date: "2014-11-14 21:18:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4893"
 old_path: /sport/4893/immortals-win-12-6-in-first-mates-of-the-season
 aliases:
  - /sport/4893/immortals-win-12-6-in-first-mates-of-the-season
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Saturday 8th November brought the Imperial Immortals American Football Club’s first game of the season against Brighton Tsunami. It was a home game at the ‘Runway’ Harlington and from the start the Immortals came out strong and dominated on defence shutting down Brighton on their first drive.

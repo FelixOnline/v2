@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union expected to release Ball finances next week
 date: "2011-06-23 19:08:27 +0100"
+
 # Attributes from Felix Online V1
 id: "1410"
 old_path: /news/1410/disappointing-summer-ball-turnout
 aliases:
  - /news/1410/disappointing-summer-ball-turnout
+imported: true
+comments:
+ - Just a short update The full figures havent yet been calculated Im told but they should be ready in time for Exec on the 14th of JulyYes A correction on the date its actually this Friday 8th from 23pm in the Union Floor 2M in the Student Activities Centre SACIm really looking forward to this briefing on the outcome of the ball and further meetings for the planning of the next summer ball because if the amount of constructive criticism that Imperial students are willing to offer anonymously on an internet forum  is anything to go by when they are finally given the chance to actively take part in an open face to face debate about what they want with the summer ball the volume of advice that will be given will mean that next years summer ball will be by far the best ever Please accept my sincerest apologies C The Union did not publish the figures today but we should have made that clear We have been told to expect them on Monday I hope that this clears up any confusion
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Just a short update The full figures havent yet been calculated Im told but they should be ready in time for Exec on the 14th of JulyYes A correction on the date its actually this Friday 8th from 23pm in the Union Floor 2M in the Student Activities Centre SACIm really looking forward to this briefing on the outcome of the ball and further meetings for the planning of the next summer ball because if the amount of constructive criticism that Imperial students are willing to offer anonymously on an internet forum  is anything to go by when they are finally given the chance to actively take part in an open face to face debate about what they want with the summer ball the volume of advice that will be given will mean that next years summer ball will be by far the best ever Please accept my sincerest apologies C The Union did not publish the figures today but we should have made that clear We have been told to expect them on Monday I hope that this clears up any confusion
-imported: true
 ---
 
 The Union were forced to hold the Summer Ball two weeks before the end of term this year, instead of the usual one week, because the clash with Glastonbury meant that “acts and equipment” would have been too difficult to hire. Union President Alex Kendall explained that the difficulty in having the Summer Ball at the very end of term, after everybody’s exams, is that first years would be moving out of halls.

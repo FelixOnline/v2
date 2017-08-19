@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Lara Bailey explores how brain stimulation can affect our libidos
 date: "2016-12-09 12:05:59 +0000"
+
 # Attributes from Felix Online V1
 id: "6564"
 old_path: /science/6564/erecto-shock-therapy
 aliases:
  - /science/6564/erecto-shock-therapy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Transcranial magnetic stimulation (TMS) is a technique currently used in the treatment of migraines and depression. It involves stimulating the part of the brain that is linked to reward and pleasure. Patients undergoing treatment for depression may receive numerous sessions of TMS, but it is unknown as to whether their sex drive is altered as a result.

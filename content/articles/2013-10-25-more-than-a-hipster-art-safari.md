@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland explores one of the world’s leading art fairs
 date: "2013-10-25 00:26:31 +0100"
+
 # Attributes from Felix Online V1
 id: "3928"
 old_path: /arts/3928/more-than-a-hipster-art-safari
 aliases:
  - /arts/3928/more-than-a-hipster-art-safari
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Frieze Art Fair, now in its 11th year, is one of the world’s leading contemporary art fairs, and has helped shape London into a nucleus of creativity and vision.

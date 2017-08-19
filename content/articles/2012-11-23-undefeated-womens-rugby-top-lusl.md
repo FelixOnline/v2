@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Women's Rugby show everyone how it's done
 date: "2012-11-23 00:10:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2962"
 old_path: /sport/2962/undefeated-womens-rugby-top-lusl
 aliases:
  - /sport/2962/undefeated-womens-rugby-top-lusl
+imported: true
+comments:
+ - I think the team does so well because of the terrific pres of the club Xx
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think the team does so well because of the terrific pres of the club Xx
-imported: true
 ---
 
 Having made a fantastic start to the season with two impressive wins, the fixture against King’s College London was eagerly anticipated, if approached with slight trepidation. In the previous three encounters last season, King’s had won convincingly on all occasions which led to their promotion in BUCS. However, they many of their starting line-up had graduated in the interim. In form, this fixture was set to be the first true test of how far Imperial has come since gaining momentum last season.

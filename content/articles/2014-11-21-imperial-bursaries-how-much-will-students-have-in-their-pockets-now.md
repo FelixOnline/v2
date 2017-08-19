@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett investigates the recent “Anti-Robin Hood” bursary change
 date: "2014-11-21 13:11:07 +0000"
+
 # Attributes from Felix Online V1
 id: "4923"
 old_path: /news/4923/imperial-bursaries-how-much-will-students-have-in-their-pockets-now
 aliases:
  - /news/4923/imperial-bursaries-how-much-will-students-have-in-their-pockets-now
+imported: true
+comments:
+ - I adore this website  its so usefull and helpfullcsgo skins exchange httpwwwnurmuslimcomindexphpblogs449711758nba2k16mtcoinsaloveroftheThanks after sharing httpwwwskilledpillscomtopicaltreatmentsforEDphp To enforce the policy those seeking to market financial products through Googles sprawling advertising network will be required to disclose the length of the loan and the annual interest rate before they will be allowed to place ads In addition to the broad httpmwtankcom  payday loans ad ban Google will not display ads from lenders who charge annual interest rates of 36 percent or more in the United States The same standards will apply to sites that serve as middlemen who connect distressed borrowers to those lenders chalk langteraloo sunglows serohepatitis clubroot  httpbuffalojobscomfArAGcbpradamediumpythonhobo httpwwwgordongreencomkUhGGXhHermesBirkin30cmTogoleatherHandbagsdarkgreysilver httpwwwgordongreencommihiXmOpradatess
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I adore this website  its so usefull and helpfullcsgo skins exchange httpwwwnurmuslimcomindexphpblogs449711758nba2k16mtcoinsaloveroftheThanks after sharing httpwwwskilledpillscomtopicaltreatmentsforEDphp To enforce the policy those seeking to market financial products through Googles sprawling advertising network will be required to disclose the length of the loan and the annual interest rate before they will be allowed to place ads In addition to the broad httpmwtankcom  payday loans ad ban Google will not display ads from lenders who charge annual interest rates of 36 percent or more in the United States The same standards will apply to sites that serve as middlemen who connect distressed borrowers to those lenders chalk langteraloo sunglows serohepatitis clubroot  httpbuffalojobscomfArAGcbpradamediumpythonhobo httpwwwgordongreencomkUhGGXhHermesBirkin30cmTogoleatherHandbagsdarkgreysilver httpwwwgordongreencommihiXmOpradatess
-imported: true
 ---
 
 It was announced in Union Council last week that the bursary scheme for new entrants starting in Autumn 2016 was to change. It has altered to decrease funding for those from lower-income households and funding to increase for those students from households who have slightly more money.

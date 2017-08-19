@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Carys Cook on how human activity may cause a delay in the next ice age
 date: "2012-01-19 20:03:21 +0000"
+
 # Attributes from Felix Online V1
 id: "2003"
 old_path: /science/2003/the-next-ice-age-may-be-late
 aliases:
  - /science/2003/the-next-ice-age-may-be-late
+imported: true
+comments:
+ - Maybe Mother Earth is pregnant and its Ice Age wont come at all
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Maybe Mother Earth is pregnant and its Ice Age wont come at all
-imported: true
 ---
 
 Human activity may be delaying the Earth’s next ice age, a new study reveals, suggesting that atmospheric CO2 concentrations need to be considerably lower for Earth’s next climatic heartbeat to follow its natural rhythm. The study, by Professor [Chronis Tzedakis](http://www.geog.ucl.ac.uk/about-the-department/people/academics/chronis-tzedakis) and colleagues at the Environmental Change Research Centre at University College London, published in Nature Geoscience, looks at recent geological analogues of the current interglacials in order to answer a question that has, up to now, stumped climatologists – how long do we have until the next ice age?

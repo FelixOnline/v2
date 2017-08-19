@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yasmin Malik and IC Belly Dancing gets close and personal with Sunny the Shake Boy
 date: "2014-11-06 21:04:07 +0000"
+
 # Attributes from Felix Online V1
 id: "4794"
 old_path: /cands/4794/never-really-knew-that-he-could-dance-like-this
 aliases:
  - /cands/4794/never-really-knew-that-he-could-dance-like-this
+imported: true
+comments:
+ - fitflops australia outletfitflop outlet httpfitflopsaublogspotcomchristian loubutinchristian louboutin outlet httpcanadachristianlouboutinblogspotcomIncredibly enlightening looking frontward to returningcs go skins prices httpblogyamcomnhl15newsarticle138923924
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops australia outletfitflop outlet httpfitflopsaublogspotcomchristian loubutinchristian louboutin outlet httpcanadachristianlouboutinblogspotcomIncredibly enlightening looking frontward to returningcs go skins prices httpblogyamcomnhl15newsarticle138923924
-imported: true
 ---
 
 A_rabic Night_ is a monthly Middle Eastern dance showcase in central London and is a regular favourite of the Imperial College Belly Dancing Society. Last Sunday around 15 of us headed to the fancy Moroccan and Lebanese restaurant __Maison Touareg__, located in the heart of Soho.

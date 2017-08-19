@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Transiting planets reveal dust in far away planetary systems
 date: "2011-10-07 09:31:43 +0100"
+
 # Attributes from Felix Online V1
 id: "1477"
 old_path: /science/1477/distant-stardust-found
 aliases:
  - /science/1477/distant-stardust-found
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In early October this year, there were 687 confirmed discoveries of planets outside our solar system. This number is growing almost daily and as it increases we can begin to dig deeper into the details of these planets, known as exoplanets because of their “extrasolar” nature, and explore their properties and those of the planetary systems they exist within.

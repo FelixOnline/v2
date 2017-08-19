@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial launches lecture and tutorial scheme, beginning with climate change discussion
 date: "2012-01-27 00:14:28 +0000"
+
 # Attributes from Felix Online V1
 id: "2079"
 old_path: /news/2079/dawn-on-the-horizons
 aliases:
  - /news/2079/dawn-on-the-horizons
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Monday 23 January saw the start of the [Imperial Horizons](http://www3.imperial.ac.uk/horizons/) program, an experimental scheme that sees 200 undergraduates from departments across the college meeting for a series of lectures and tutorials over the next 8 weeks. Using the topic of climate change, the program aims to develop participants’ awareness of how scientific issues and debates can have wide reaching impacts on an international scale: from affecting policy making in Governments to new technology in people’s homes.

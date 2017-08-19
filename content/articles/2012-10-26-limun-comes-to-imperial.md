@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Franca Hoffmann discusses politicians-to-be coming to campus
 date: "2012-10-26 02:02:00 +0100"
+
 # Attributes from Felix Online V1
 id: "2733"
 old_path: /news/2733/limun-comes-to-imperial
 aliases:
  - /news/2733/limun-comes-to-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 From 15 – 17th February 2013, you will see numerous important looking people in black suits and formal dresses run around our campus. And you may wonder what it could be causing this invasion of foreigners. Let me give you some insight into the big things happening at Imperial.

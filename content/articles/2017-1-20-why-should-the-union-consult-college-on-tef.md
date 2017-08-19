@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Deputy President Education gives us his side
 date: "2017-01-20 14:51:01 +0000"
+
 # Attributes from Felix Online V1
 id: "6654"
 old_path: /news/6654/why-should-the-union-consult-college-on-tef-
 aliases:
  - /news/6654/why-should-the-union-consult-college-on-tef-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 During this week’s extraordinary council meeting, I proposed a paper to seek permission from Council to approve the following: firstly, for the Union to make contributions to Imperial’s Teaching Excellence Framework (TEF) submission and secondly, for Council to review the Union’s existing Higher Education Funding policy. The paper was passed successfully.

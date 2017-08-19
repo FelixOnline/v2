@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yiango Mavrocostanti has some yummy Italian food at the Italian societies first event.
 date: "2013-02-13 14:12:01 +0000"
+
 # Attributes from Felix Online V1
 id: "3301"
 old_path: /food/3301/aperitivo-all-italiana
 aliases:
  - /food/3301/aperitivo-all-italiana
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Yes, Aperitivo all’ Italiana. The first official event of the newly founded Italian Society at Imperial! Of course, it was food related and that is why I was very excited about it. It took place at a traditional Italian bar called Da Lisa at Gloucester road and it was indeed very Italian and also a heaven for people who appreciate good food. If a room full of typical Italian desserts, pastries, biscuits and of course the smell of that perfect espresso cannot be called heaven, then what can?

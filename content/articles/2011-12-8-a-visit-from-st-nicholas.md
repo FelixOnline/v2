@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ross Webster signs off the year with a traditional Christmas jingle – Portal style
 date: "2011-12-08 21:28:32 +0000"
+
 # Attributes from Felix Online V1
 id: "1939"
 old_path: /games/1939/a-visit-from-st-nicholas
 aliases:
  - /games/1939/a-visit-from-st-nicholas
+imported: true
+comments:
+ - Nice
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Nice
-imported: true
 ---
 
 ‘Twas the night before Christmas, when all through the lab,

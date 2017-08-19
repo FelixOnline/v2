@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Behind the Candelabra review
 date: "2013-06-13 23:33:59 +0100"
+
 # Attributes from Felix Online V1
 id: "3694"
 old_path: /film/3694/too-gay-for-hollywood
 aliases:
  - /film/3694/too-gay-for-hollywood
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Director Steven Soderbergh recently spoke about how difficult it was to make his latest film, as it was deemed “too gay” by most big film studios. But thank heavens for Home Box Office (HBO) for giving Soderbergh his chance to tell the story of Liberace, one of the most celebrated, and highly paid musical figures in the 20th Century, known for his outrageously extravagant visuals on stage, his colourful lifestyle, as well as his ability to put on a cracking show and entertain.

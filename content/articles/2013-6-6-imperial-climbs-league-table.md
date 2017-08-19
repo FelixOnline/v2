@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Cambridge on top, but Imperial claws back a few places to finish ninth in the Guardian league table.
 date: "2013-06-06 18:47:08 +0100"
+
 # Attributes from Felix Online V1
 id: "3668"
 old_path: /news/3668/imperial-climbs-league-table
 aliases:
  - /news/3668/imperial-climbs-league-table
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A lacklustre performance in the NSS (National Student Survey) left Imperial College London trailing behind the University of Oxford and the University of Cambridge, the other two thirds of the ‘Big Three’ UK-based academic institutions, in the latest league table compiled by the Guardian. A score of 64 fell short of Cambridge’s 75 and Oxford’s 71 respectively. In fact, a host of other academic institutions surpassed the College, ranging from the London School of Economics through to the University of Surrey. The findings are anticipated to irritate many staff and students within the College and may raise questions over the validity of league tables in general. Although, overall, Imperial did climb from 13th to 9th place.

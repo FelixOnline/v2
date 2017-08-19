@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-14 20:48:51 +0000"
+
 # Attributes from Felix Online V1
 id: "4876"
 old_path: /arts/4876/my-art-tomoko-uemure-in-her-bath
 aliases:
  - /arts/4876/my-art-tomoko-uemure-in-her-bath
+imported: true
+comments:
+ - Great looking site Presume you did a whole lot of your ownyour very own html codingmadden 17 coins httpwwwcamerestudentiitbologna1255_nba_2k17_vc_were_never_in_it_in_the_first_place
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great looking site Presume you did a whole lot of your ownyour very own html codingmadden 17 coins httpwwwcamerestudentiitbologna1255_nba_2k17_vc_were_never_in_it_in_the_first_place
-imported: true
 ---
 
 A picture tells a thousand words, as the old adage goes. But some of the best photos go deeper; not satisfied with a word-limit of a thousand, the photographer instead expands their range, taking in entire movements, nations, and histories with their lens.

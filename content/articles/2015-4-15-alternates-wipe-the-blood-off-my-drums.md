@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken reviews Whiplash
 date: "2015-04-15 22:43:58 +0100"
+
 # Attributes from Felix Online V1
 id: "5465"
 old_path: /film/5465/alternates-wipe-the-blood-off-my-drums
 aliases:
  - /film/5465/alternates-wipe-the-blood-off-my-drums
+imported: true
+comments:
+ - Thanks very nice blogoakley frogskins infinite hero httpwwwbesimpleititoakleyfrogskinsinfinitehero20237htmlfitflop australia salebuy fitflops online httpfitflopsaublogspotcomshoes with red bottomschristian louboutin outlet httpcanadachristianlouboutinblogspotcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks very nice blogoakley frogskins infinite hero httpwwwbesimpleititoakleyfrogskinsinfinitehero20237htmlfitflop australia salebuy fitflops online httpfitflopsaublogspotcomshoes with red bottomschristian louboutin outlet httpcanadachristianlouboutinblogspotcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H
-imported: true
 ---
 
 Written and shot by the young American director Damien Chazelle, Whiplash is an ambitious piece of storytelling that chronicles the development and suffering of a young musician with dreams of becoming one of the greatest drummers of his generation. The film follows Shaffer Conservatory of Music freshman Andrew Neyman (Miles Teller), who is handpicked by the demanding and much-feared teacher, Terrence Fletcher (J.K. Simmons), to be a drummer in a jazz orchestra created for the competition circuit.

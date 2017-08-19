@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Winter Olympics have come to our television screens again, and Gilead Amit shares the view from his couch.
 date: "2010-02-27 17:13:41 +0000"
+
 # Attributes from Felix Online V1
 id: "113"
 old_path: /comment/113/the-icemen-cometh
 aliases:
  - /comment/113/the-icemen-cometh
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - gda07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When I was younger, and had time on my hands and nothing better to do, I frequently fell ill. Nothing particularly debilitating or life-threatening, you understand, only regular healthy doses of the common cold or flu. Influenza, as they say, and out flew my health.

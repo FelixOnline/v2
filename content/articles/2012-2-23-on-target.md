@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial fencers win their quarter finals to progress to the BUCS Championship final round to be held in Sheffield
 date: "2012-02-23 21:10:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2251"
 old_path: /sport/2251/on-target-
 aliases:
  - /sport/2251/on-target-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 Wednesday afternoon saw the latest chapter in Imperial College Fencing Club’s stellar season unfold. The men’s first team kicked off proceedings in Ethos at 2pm, facing a Durham side who turned up with minutes to spare before the scheduled 2pm start. Confidence was high amongst the guys, having been freshly crowned Southern Premiership champions and only having suffered one defeat all season. Durham, on the other hand, sat at the bottom of the Northern premiership, having lost all their league matches this season.

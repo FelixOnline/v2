@@ -4,16 +4,22 @@ title: >
 subtitle: >
   This comes a year after the survey that said 97% of final year students were in the red
 date: "2016-05-13 08:48:29 +0100"
+
 # Attributes from Felix Online V1
 id: "6141"
 old_path: /news/6141/imperial-to-spread-medic-bursaries-out-across-all-six-years
 aliases:
  - /news/6141/imperial-to-spread-medic-bursaries-out-across-all-six-years
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Yesterday it was announced that Imperial’s bursaries for medics will be spread out over all six years of study instead of just the first four. This is in a bid to ease the financial hardship that notoriously occurs in the final years of a medical degree.

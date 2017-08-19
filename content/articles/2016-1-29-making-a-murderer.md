@@ -4,16 +4,23 @@ title: >
 subtitle: >
   You'll have to watch it eventually
 date: "2016-01-29 10:02:21 +0000"
+
 # Attributes from Felix Online V1
 id: "5857"
 old_path: /tv/5857/making-a-murderer
 aliases:
  - /tv/5857/making-a-murderer
+imported: true
+comments:
+ - Humans build brittle structures in tectonically active places When physical forces make the earth move the structures crumble If humans are in the way they get hurt and some die No supernatural force made it happen just as none could prevent it Placing cause in some other domain is delusional imitation cartier montres de luxe urlhttpwwwsupercawatchcnfrimitation cartier montres de luxeurlcartierlovejesduas It is truly a nice and useful piece of information I am satisfied that you shared this helpful info with us Please stay us up to date like this Thanks for sharingimitation cartier love braclet httpwwwbanglegoldcomamulettedecartierjewelryseriesMaybe you could write next articles referring to this article I want to read even more things about itHermes Birkin PrezzoHermes OutletBorse Hermes OutletHermes Outlet ItaliaHermes Handbags OutletHermes Outlet StoreHermes Birkin OutletHermes Kelly OutletHermes Outlet OnlineCheap Hermes BagsReplica Hermes BagsHermes Birkin Repli
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Humans build brittle structures in tectonically active places When physical forces make the earth move the structures crumble If humans are in the way they get hurt and some die No supernatural force made it happen just as none could prevent it Placing cause in some other domain is delusional imitation cartier montres de luxe urlhttpwwwsupercawatchcnfrimitation cartier montres de luxeurlcartierlovejesduas It is truly a nice and useful piece of information I am satisfied that you shared this helpful info with us Please stay us up to date like this Thanks for sharingimitation cartier love braclet httpwwwbanglegoldcomamulettedecartierjewelryseriesMaybe you could write next articles referring to this article I want to read even more things about itHermes Birkin PrezzoHermes OutletBorse Hermes OutletHermes Outlet ItaliaHermes Handbags OutletHermes Outlet StoreHermes Birkin OutletHermes Kelly OutletHermes Outlet OnlineCheap Hermes BagsReplica Hermes BagsHermes Birkin Repli
-imported: true
 ---
 
 Making a Murderer, released to stream on Netflix in December 2015, is Netflix’s second foray into documentary filmmaking after the mostly ignored Chef’s Table. It has already been described by many as the service’s most addictive program yet.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Wear whatever you want to the Summer Ball – I will
 date: "2011-05-06 08:32:54 +0100"
+
 # Attributes from Felix Online V1
 id: "1158"
 old_path: /comment/1158/a-load-of-balls
 aliases:
  - /comment/1158/a-load-of-balls
+imported: true
+comments:
+ - Offence  sorry the offense misspelling really annoys me Otherwise great comment pieceI think you are missing the pointThe real reason people are so pissed off is because no official dresscode means that the ball is now pretty much officially a festivalConsidering that this was the only collegewide formal on the social calendar we are now left with a total of ZERO formals per year Formals are an integral part of the university experience and as a result of these changes our only formal has been taken away from usIn response this sentiment Alexander Kendall has suggested that people should just rent out the UDH and have a formal with their clubs and societies httpwwwfacebookcomimperialcollegeunionposts125292977545266Quite frankly I find this insultingThe summer ball is supposed to be OUR formalIt is the last send off from imperial and should be treated with some respectSo thank you for the festivalbut can you now organise a summer ball pl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Offence  sorry the offense misspelling really annoys me Otherwise great comment pieceI think you are missing the pointThe real reason people are so pissed off is because no official dresscode means that the ball is now pretty much officially a festivalConsidering that this was the only collegewide formal on the social calendar we are now left with a total of ZERO formals per year Formals are an integral part of the university experience and as a result of these changes our only formal has been taken away from usIn response this sentiment Alexander Kendall has suggested that people should just rent out the UDH and have a formal with their clubs and societies httpwwwfacebookcomimperialcollegeunionposts125292977545266Quite frankly I find this insultingThe summer ball is supposed to be OUR formalIt is the last send off from imperial and should be treated with some respectSo thank you for the festivalbut can you now organise a summer ball pl
-imported: true
 ---
 
 The Summer Ball is once more drawing ever closer. The time when the girls get to wear expensive dresses, and the guys get to wear tuxedos with a real bowtie, (not one of those pre–tied ones, which don’t allow you to wear it with the knot undone for that cool after party look). But wait, what’s that in the sky? Is it a bird? Is it a plane? Yes, it is a plane. It’s actually several planes doing a flyby for the Royal Wedding, but the plane I was referring to is the metaphorical one behind them. It’s here to drop a bomb, a metaphorical bomb; this year the Summer Ball isn’t officially black tie.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Can fashion be a force for liberation? Fred Fyles investigates
 date: "2014-11-06 21:30:39 +0000"
+
 # Attributes from Felix Online V1
 id: "4803"
 old_path: /arts/4803/fashionable-women-but-no-powerful-punch
 aliases:
  - /arts/4803/fashionable-women-but-no-powerful-punch
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “There can be no doubt that the hand which first encloses the waist of a girl in these cruel contrivances, supplying her with a fictitious support, where the hand of God has placed bones and muscles that ought to be brought into vigorous action, lays the foundation of bitter suffering.” Thus spoke Charlotte Elizabeth Tonna, a popular novelist, on the pretty prisons that are corsets. The year of the declaration? 1841, making it a fitting start to the __Design Museum__’s retrospective of the relationship between women, clothes, and feminism, succinctly titled __Women Fashion Power__.

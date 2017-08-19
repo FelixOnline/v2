@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The medics won the Ladies' 1s though
 date: "2016-03-04 11:27:15 +0000"
+
 # Attributes from Felix Online V1
 id: "5997"
 old_path: /sport/5997/varsity-wins-for-ic
 aliases:
  - /sport/5997/varsity-wins-for-ic
+imported: true
+comments:
+ - I had no idea how to approach this bernfeoow Im locked and loaded
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I had no idea how to approach this bernfeoow Im locked and loaded
-imported: true
 ---
 
 Wednesday’s Varsity Hockey matches saw mostly college wins over the medics. With four games played at Harlington, Hockey took place two weeks earlier than Football and Rugby, which are on the 19th at Heston.

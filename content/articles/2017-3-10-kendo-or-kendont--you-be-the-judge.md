@@ -4,16 +4,23 @@ title: >
 subtitle: >
   (tho how can you not like waking people with a big stick?)
 date: "2017-03-10 14:46:13 +0000"
+
 # Attributes from Felix Online V1
 id: "6889"
 old_path: /sport/6889/kendo-or-kendont--you-be-the-judge
 aliases:
  - /sport/6889/kendo-or-kendont--you-be-the-judge
+imported: true
+comments:
+ - Good Cool I love your this bolgbuy albion online gold httpsocialcryptonetblogview47796albionequipmentarmourandassassinjackethoodDo you have a good sense of humor cheapest madden 17 coins mobile coins httpwwwmaddenstorecomwere so proud of youcheapest pokemon go rare pokemon seller pokemonbux httpwwwpokemonbuxcomNow you tell me shes not a knockoutbuy Dofus Touch Kamas httpdofustouchthezenwebcomFeelHardToFarmDofusTouchKamasInGameVisitHere3838739youre really talentedcheap Albion online gold for sale httpalbiononlineshurfrublogtopic9499
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good Cool I love your this bolgbuy albion online gold httpsocialcryptonetblogview47796albionequipmentarmourandassassinjackethoodDo you have a good sense of humor cheapest madden 17 coins mobile coins httpwwwmaddenstorecomwere so proud of youcheapest pokemon go rare pokemon seller pokemonbux httpwwwpokemonbuxcomNow you tell me shes not a knockoutbuy Dofus Touch Kamas httpdofustouchthezenwebcomFeelHardToFarmDofusTouchKamasInGameVisitHere3838739youre really talentedcheap Albion online gold for sale httpalbiononlineshurfrublogtopic9499
-imported: true
 ---
 
 Last weekend on the 4th and 5th of March, the annual UK Kendo University Championships took place in Cambridge, where Imperial College took home several awards, including winning the kyu grade team competition.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mast and Stroud have their hands full on stage in a constant frenzy of gnarly jams
 date: "2015-11-06 14:18:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5710"
 old_path: /music/5710/ratatat-funkify-brixton
 aliases:
  - /music/5710/ratatat-funkify-brixton
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As those of you who speak to me on a regular basis know, I went to see Ratatat live in Brixton the other day. I couldn’t help pouring gloat after gloat out my face-hole. Eat it, Josh! I was on the guest list!

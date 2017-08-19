@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Taking a look at every street-wearing teen's wet dream
 date: "2017-03-10 13:10:22 +0000"
+
 # Attributes from Felix Online V1
 id: "6863"
 old_path: /news/6863/fashion-reigns-supreme
 aliases:
  - /news/6863/fashion-reigns-supreme
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you walk through Beit Quad, you’re more likely than not to find at least one person wearing some sort of flashy outfit. Imperial is not known for any sort of fashion programs but students still love to flex their personal styles, whether it’s the preppy jocks from the Rugby team or flannel clad hipsters from the art clubs. London’s fashion week has come and gone but that has not stopped streetwear fanatics from throughout the world from continuously shopping throughout the SOHO area.

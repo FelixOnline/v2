@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day six of our 30-day Song Challenge duel
 date: "2011-05-25 11:14:48 +0100"
+
 # Attributes from Felix Online V1
 id: "1245"
 old_path: /music/1245/london-student-vs-felix-day-six--a-song-that-reminds-you-of-somewhere
 aliases:
  - /music/1245/london-student-vs-felix-day-six--a-song-that-reminds-you-of-somewhere
+imported: true
+comments:
+ - Day 9 A song that you can dance to  Singin in the Rain  Mint Royale httpwwwyoutubecomwatchvgs_T_cEoX6Ifeaturerelated1985  Bowling for Soup Can you call headbanging dancingI love this Reminds me of the Felix office as well yay was hoping youd put this in at some pointShould make a spotifyyoutube playlist of all the songs
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Day 9 A song that you can dance to  Singin in the Rain  Mint Royale httpwwwyoutubecomwatchvgs_T_cEoX6Ifeaturerelated1985  Bowling for Soup Can you call headbanging dancingI love this Reminds me of the Felix office as well yay was hoping youd put this in at some pointShould make a spotifyyoutube playlist of all the songs
-imported: true
 ---
 
 This song will forever remind me of being in the Felix office on a Thursday with Chief Copy Editor Lizzy Griffiths, with an hour or two left until the print deadline. The metronomic shake of the beat, along with the ominous thudding opening, has helped it become our copy-editing anthem (yes, I am aware of how nauseatingly lame that sentence was...)

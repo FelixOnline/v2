@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Wardening review recommends rebalancing in favour of counselling and disability services
 date: "2011-05-26 18:39:22 +0100"
+
 # Attributes from Felix Online V1
 id: "1250"
 old_path: /news/1250/reduction-in-subwarden-numbers
 aliases:
  - /news/1250/reduction-in-subwarden-numbers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A review into the wardening system has recommended reducing the number of sub-wardens by around 15%. The reductions, which will occur through the normal turnover of contracts, are aimed at rebalancing the College’s welfare provision towards counselling and disability services.

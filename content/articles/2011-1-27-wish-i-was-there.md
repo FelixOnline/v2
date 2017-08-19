@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Going to a Spanish university for a year makes you realise just how fortunate we are to be at Imperial
 date: "2011-01-27 19:42:18 +0000"
+
 # Attributes from Felix Online V1
 id: "674"
 old_path: /comment/674/wish-i-was-there-
 aliases:
  - /comment/674/wish-i-was-there-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ial08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ial08"
 author_name: "Indy Leclercq"
-author_image_path: "img/upload/201101271938-ks607-indylecl.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 January is generally not the best month in anyone’s year. What passed for enjoyable, seasonal weather in December has become dreary, cold and depressing in the new year. For all Imperialites, the first month of the year is stressful, sleep-scarce and just generally bollocks.

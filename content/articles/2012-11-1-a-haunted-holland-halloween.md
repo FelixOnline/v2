@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Gaming at the Holland Club
 date: "2012-11-01 22:57:35 +0000"
+
 # Attributes from Felix Online V1
 id: "2802"
 old_path: /games/2802/a-haunted-holland-halloween
 aliases:
  - /games/2802/a-haunted-holland-halloween
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It was a Wednesday afternoon like any other. Laptops, consoles and “You n00b!” screaming across the room, marking the start of the training session for this week’s UCL vs Imperial gaming tournaments. This was just the beginning.

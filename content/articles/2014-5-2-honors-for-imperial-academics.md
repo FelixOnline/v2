@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Several Imperial staff members have received amazing awards and titles over the last few weeks.
 date: "2014-05-02 00:53:49 +0100"
+
 # Attributes from Felix Online V1
 id: "4536"
 old_path: /news/4536/honors-for-imperial-academics
 aliases:
  - /news/4536/honors-for-imperial-academics
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Professor Erol Gelenbe (Dennis Gabor Chair, Dept. Electrical and Electronic Engineering) was recently awarded the honour of Chevalier de la Legion d’Honneur (Knight of the Legion of Honour) by French President Francois Hollande for 43 years of service in Higher Education and Research.

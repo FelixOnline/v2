@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Time travelling, platformer...what is there not to like?
 date: "2014-01-29 16:39:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4307"
 old_path: /games/4307/time-to-pack-out-braid
 aliases:
  - /games/4307/time-to-pack-out-braid
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Indie Game the Movie is a great film for games fans. It follows the creation and reception of 3 Indie Games; Super Meat Boy, Fez and Braid. I already had played a lot of Super Meat Boy, and soon after the movie I caught Fez in a humble bundle. These were some of the best games I’ve ever played and were instant favourites of mine so it is of no surprise that once I finally caught Braid on sale it instantly followed its predecessors into my top 10.

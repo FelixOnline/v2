@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Does Graduation with a lower second class degree consign you to a life of un employment? Is a 2:2 from Imperial worth just as much as a 2:1 from other insutitutions? Dan Wan Investigates
 date: "2010-02-27 17:46:55 +0000"
+
 # Attributes from Felix Online V1
 id: "115"
 old_path: /news/115/worth-the-effort
 aliases:
  - /news/115/worth-the-effort
+imported: true
+comments:
+ - I wish Elspeth Farrars thought and Opinion about graduates with 21 or 22 degrees chances of getting emeployed is passed across to some companies in Nigeria requesting for only 21 and above What a joy to find such clear thinking Tahkns for postingTAkyrk  urlhttpesycvfztubchcomesycvfztubchurl linkhttprkovlqmhxmptcomrkovlqmhxmptlink httplrxilnvsmhwhcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I wish Elspeth Farrars thought and Opinion about graduates with 21 or 22 degrees chances of getting emeployed is passed across to some companies in Nigeria requesting for only 21 and above What a joy to find such clear thinking Tahkns for postingTAkyrk  urlhttpesycvfztubchcomesycvfztubchurl linkhttprkovlqmhxmptcomrkovlqmhxmptlink httplrxilnvsmhwhcom
-imported: true
 ---
 
 It has long been instilled in many a student’s mind that they should be coming out of University with at least upper second class honours if they’re to make the leap to employment afterwards. They say without a 2:1 in your respective degree, you’re destined to life in a dead-end job, and failing that, unemployment. Whilst others continue to fly high, you remain on the dole.

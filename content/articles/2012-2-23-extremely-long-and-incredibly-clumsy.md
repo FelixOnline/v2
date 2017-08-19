@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
+
 # Attributes from Felix Online V1
 id: "2232"
 old_path: /film/2232/extremely-long-and-incredibly-clumsy
 aliases:
  - /film/2232/extremely-long-and-incredibly-clumsy
+imported: true
+comments:
+ - Great review Sam I rlealy enjoyed the readWhilst we share opposite views about whether the film is worth watching I do appreciate the balanced argument that you do presentIt is too bad that a universal story had to be wrapped in something that emotionally blackmailed the audiences to feel something Also I liked your assertion that the backdrop of September 11th needs no additional attempts to elicit emotion since its a subject which is already emotionally chargedGreat reviewGlad to hear you liked the movie I saw a commercial for it and all I could think about was how I could not even imanige going to a movie with 911 as the backdrop Its just still so sad and unnerving
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great review Sam I rlealy enjoyed the readWhilst we share opposite views about whether the film is worth watching I do appreciate the balanced argument that you do presentIt is too bad that a universal story had to be wrapped in something that emotionally blackmailed the audiences to feel something Also I liked your assertion that the backdrop of September 11th needs no additional attempts to elicit emotion since its a subject which is already emotionally chargedGreat reviewGlad to hear you liked the movie I saw a commercial for it and all I could think about was how I could not even imanige going to a movie with 911 as the backdrop Its just still so sad and unnerving
-imported: true
 ---
 
 [__Extremely Loud and Incredibly Close__](http://www.imdb.com/title/tt0477302/)

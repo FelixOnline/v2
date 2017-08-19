@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The relationship between scientists, the media and the public is fraught with the dangers of miscommunication and exploitation. The question of where the responsibility must lie when a patient becomes a victim is not easily answered. This is particularly true of fertility research, an area that...
 date: "2013-10-11 23:15:10 +0100"
+
 # Attributes from Felix Online V1
 id: "3825"
 old_path: /science/3825/hype-hope-and-headlines
 aliases:
  - /science/3825/hype-hope-and-headlines
+imported: true
+comments:
+ - After 3 failed cleycs using Clomid my OB referred me to Dr Gago We determined that I was not ovulating on my own because no follicles were maturing and would need to use injectible follicle stimulating meds My body did not respond easily to the medication too much medicine would cause too many of the follicles to respond at once too little would have no effect at all so each cycle meant anywhere from 10 to 20 days of injections at different dosages and daily trips to the clinic for ultrasounds to check on follicular growth and hormone levels to see what the next days dose would be Everyone at Dr Gagos office was so wonderful my emotions were all over the place but they did everything they could to be encouraging and supportive I especially have to thank Jenny and Laurelle the ultrasound techs for keeping my spirits up through every long cycle After several attempts with injectibles and regular intercourse we moved on to several attempts at IUI which were not successful At that point we knew
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - After 3 failed cleycs using Clomid my OB referred me to Dr Gago We determined that I was not ovulating on my own because no follicles were maturing and would need to use injectible follicle stimulating meds My body did not respond easily to the medication too much medicine would cause too many of the follicles to respond at once too little would have no effect at all so each cycle meant anywhere from 10 to 20 days of injections at different dosages and daily trips to the clinic for ultrasounds to check on follicular growth and hormone levels to see what the next days dose would be Everyone at Dr Gagos office was so wonderful my emotions were all over the place but they did everything they could to be encouraging and supportive I especially have to thank Jenny and Laurelle the ultrasound techs for keeping my spirits up through every long cycle After several attempts with injectibles and regular intercourse we moved on to several attempts at IUI which were not successful At that point we knew
-imported: true
 ---
 
 The relationship between scientists, the media and the public is fraught with the dangers of miscommunication and exploitation. The question of where the responsibility must lie when a patient becomes a victim is not easily answered. This is particularly true of fertility research, an area that touches on one of the most profound aspects of all our lives.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Life of Paul.
 date: "2016-02-26 12:08:10 +0000"
+
 # Attributes from Felix Online V1
 id: "5986"
 old_path: /cands/5986/dramsoc-presents-birdland
 aliases:
  - /cands/5986/dramsoc-presents-birdland
+imported: true
+comments:
+ - Nestes dois ultimos jogos s tenho pena que os rbitros tenham beneficiado os advesrrios dando to pouco tempo de desconto Ficaria 12 horas seguidas a ver o Sporting jogar Que continuem assim SL
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Nestes dois ultimos jogos s tenho pena que os rbitros tenham beneficiado os advesrrios dando to pouco tempo de desconto Ficaria 12 horas seguidas a ver o Sporting jogar Que continuem assim SL
-imported: true
 ---
 
 Entering into the second term of the last year of my Joint Maths and Computing Degree, I thought to myself, “How can I distract myself from my work in a ridiculous way I haven’t tried yet?”. Having already become captain of the most obscure sport on the planet (underwater hockey – don’t ask), and literally played God in a DramSoc play last year, I decided it was time to actually become God. Sadly, gaining omniscience is fairly difficult, so I settled on directing. Sadly, nobody liked the play I wanted to do, so I settled on assistant directing someone else’s.

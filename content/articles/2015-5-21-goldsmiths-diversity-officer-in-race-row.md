@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jonathan Masters is on the case as officer lands herself in hot water
 date: "2015-05-21 20:06:28 +0100"
+
 # Attributes from Felix Online V1
 id: "5547"
 old_path: /news/5547/goldsmiths-diversity-officer-in-race-row
 aliases:
  - /news/5547/goldsmiths-diversity-officer-in-race-row
+imported: true
+comments:
+ - cheap fit flopsfitflops australia sale httpaustraliafitflopsiemillernetchristian louboutin peep toeschristian louboutin cheapest httpcanadachristianlouboutinoutletblogspotcomdaffodile christian louboutinchristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomYouve gotten probably the greatest online sitesnba 2k16 mt australia httpbeverly815inubecomblog49574642k16mtxbox360redblinkingGood day awesome online site you possess in herenfl 17 httpwwwphotonloungecompost69996p69996
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheap fit flopsfitflops australia sale httpaustraliafitflopsiemillernetchristian louboutin peep toeschristian louboutin cheapest httpcanadachristianlouboutinoutletblogspotcomdaffodile christian louboutinchristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomYouve gotten probably the greatest online sitesnba 2k16 mt australia httpbeverly815inubecomblog49574642k16mtxbox360redblinkingGood day awesome online site you possess in herenfl 17 httpwwwphotonloungecompost69996p69996
-imported: true
 ---
 
 A petition has been launched to remove Bahara Mustafa, the current Diversity officer for Goldsmiths University, from her position following a recent tweet featuring the inflammatory hashtag “Kill all white men”.

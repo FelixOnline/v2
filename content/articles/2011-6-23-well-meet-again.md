@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Saying goodbye isn’t easy, no matter how often you do it
 date: "2011-06-23 20:44:32 +0100"
+
 # Attributes from Felix Online V1
 id: "1427"
 old_path: /comment/1427/well-meet-again
 aliases:
  - /comment/1427/well-meet-again
+imported: true
+comments:
+ - In these days of austerity along with rvtilaee anxiousness about incurring debt many people balk resistant to the idea of having a credit card in order to make acquisition of merchandise or perhaps pay for a vacation preferring instead just to rely on the actual tried and also trusted technique of making repayment   cash However if youve got the cash available to make the purchase in whole then paradoxically this is the best time to use the cards for several causes
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - In these days of austerity along with rvtilaee anxiousness about incurring debt many people balk resistant to the idea of having a credit card in order to make acquisition of merchandise or perhaps pay for a vacation preferring instead just to rely on the actual tried and also trusted technique of making repayment   cash However if youve got the cash available to make the purchase in whole then paradoxically this is the best time to use the cards for several causes
-imported: true
 ---
 
 One might think that, after having changed nine schools and two universities, I’d have gotten the hang of farewells.

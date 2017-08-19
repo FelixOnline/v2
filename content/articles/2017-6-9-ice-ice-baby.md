@@ -4,16 +4,22 @@ title: >
 subtitle: >
   You know less about ice than you think
 date: "2017-06-09 15:02:44 +0100"
+
 # Attributes from Felix Online V1
 id: "7014"
 old_path: /science/7014/ice-ice-baby-
 aliases:
  - /science/7014/ice-ice-baby-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Fact: Hot water freezes faster than cold water.

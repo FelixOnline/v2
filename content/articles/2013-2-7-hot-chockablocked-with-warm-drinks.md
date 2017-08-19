@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kevin Ng explores the different options for hot chocolate
 date: "2013-02-07 23:03:08 +0000"
+
 # Attributes from Felix Online V1
 id: "3251"
 old_path: /food/3251/hot-chockablocked-with-warm-drinks
 aliases:
  - /food/3251/hot-chockablocked-with-warm-drinks
+imported: true
+comments:
+ - I had a very good chocolate once in Whole Foods Market which is not on this list
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I had a very good chocolate once in Whole Foods Market which is not on this list
-imported: true
 ---
 
 Some January we’ve had this year, huh? College and tests right after Christmas, Britain’s coldest winter in 100 months (complete with that massive bout of dandruff from heaven), and the weather boffins are saying February won’t be much better. Not to worry, though: at times like these, you can always count on a lovely, steaming mug of hot chocolate to make you nice and toasty (well, other than a warm cuddle from thatspecial someone). Nope, not cocoa, not that mug of Nesquick, Swiss Miss, Milo or whatever you call it. There’s a time and place for that stuff, but today, we’re going to discuss real hot chocolate – the stuff that’s thick, rich and unctuous, the drink that warms you to your toes.

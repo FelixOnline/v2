@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Scientists have investigated differences in bees' neurochemistry determining the way in which they forage for food
 date: "2012-03-15 19:53:52 +0000"
+
 # Attributes from Felix Online V1
 id: "2352"
 old_path: /science/2352/honey-bees-seek-thrills-just-like-us
 aliases:
  - /science/2352/honey-bees-seek-thrills-just-like-us
+imported: true
+comments:
+ - I realise this is an incredibly late answer but youre right I didnt actually provide the picture or the caption for this article nor was I included in choosing those things I do remember being a bit upset about the incorrect caption at the time but not enough to get it corrected or to acknowledge itInteresting article thank you You sayOn his way back from an adventure  in the title to the picturenow I am not an expert but I thought it was only the girls that gathered pollen the yellow blob on its leg and nectar so she is on her way back The boys are drones
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I realise this is an incredibly late answer but youre right I didnt actually provide the picture or the caption for this article nor was I included in choosing those things I do remember being a bit upset about the incorrect caption at the time but not enough to get it corrected or to acknowledge itInteresting article thank you You sayOn his way back from an adventure  in the title to the picturenow I am not an expert but I thought it was only the girls that gathered pollen the yellow blob on its leg and nectar so she is on her way back The boys are drones
-imported: true
 ---
 
 Honey bee scouts are at the forefront of bee exploration, seeking out new sources of food for the hungry hive and finding suitable nest sites for the colony when it outgrows its current home. These bees differ from their fellow foragers. They do not wait to be told where to go or what to do, but seek novelty, maybe even adventure.

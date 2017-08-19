@@ -4,16 +4,23 @@ title: >
 subtitle: >
   You can forget about elections for the rest of the year
 date: "2017-03-17 13:03:25 +0000"
+
 # Attributes from Felix Online V1
 id: "6897"
 old_path: /news/6897/your-new-sabbs-are-here
 aliases:
  - /news/6897/your-new-sabbs-are-here
+imported: true
+comments:
+ - My way or the highwaybuy cheap albion online gold httpswwwfriendkucomblogphpuser8045blogentry_id124995Not that I know ofcheap madden 17 mobile coins store httpwwwmaddenstorecomThis is really a nice placetop one pokemon go rare pokemon seller httpwwwpokemonbuxcomYou started it cheap albion online gold httpwwwalbionsilvernetalbionrunsvariousplatformsnextupdateWhy dont we give this a trybuy cheapest Dofus Touch Kamas httpboardspacewarsxooitbizt69074DofusTouchKamasAssurancePriceofKamashtm
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My way or the highwaybuy cheap albion online gold httpswwwfriendkucomblogphpuser8045blogentry_id124995Not that I know ofcheap madden 17 mobile coins store httpwwwmaddenstorecomThis is really a nice placetop one pokemon go rare pokemon seller httpwwwpokemonbuxcomYou started it cheap albion online gold httpwwwalbionsilvernetalbionrunsvariousplatformsnextupdateWhy dont we give this a trybuy cheapest Dofus Touch Kamas httpboardspacewarsxooitbizt69074DofusTouchKamasAssurancePriceofKamashtm
-imported: true
 ---
 
 Following a 36.79% turnout (down a bit from last year but still the third-highest in the country according to the Union website), elections are finally over and winners have been announced.

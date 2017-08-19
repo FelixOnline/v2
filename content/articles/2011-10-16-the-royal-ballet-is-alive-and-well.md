@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A ballet from the wings and a strong triple bill made for two very special evenings at Covent Garden. Dance in Britain is going strong
 date: "2011-10-16 14:27:32 +0100"
+
 # Attributes from Felix Online V1
 id: "1546"
 old_path: /arts/1546/the-royal-ballet-is-alive-and-well
 aliases:
  - /arts/1546/the-royal-ballet-is-alive-and-well
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Watching a ballet from the wings is an experience akin to glancing through an open window into the life of a stranger. A voyeuristic experience perhaps. Dancers on a stage appear as magical and ethereal creatures, even in the most human of roles. They are perfectly poised, every movement apparently effortless. However, in ballet there is little that can be done without effort.

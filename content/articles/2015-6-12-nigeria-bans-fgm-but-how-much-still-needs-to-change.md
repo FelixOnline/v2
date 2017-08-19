@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tessa Davey takes a look at female genital mutilation in Africa and closer to home
 date: "2015-06-12 12:35:20 +0100"
+
 # Attributes from Felix Online V1
 id: "5617"
 old_path: /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
 aliases:
  - /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
+imported: true
+comments:
+ - fit flopsbuy fitflops online httpaustraliafitflopsblogspotcombirkenstock shoesbirkenstock shops httpbirkenstockaustraliarochecaporgchristian louboutin slingbackscheap christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomchristian louboutin red bottomschristian louboutin online store httpcanadachristianlouboutinblogspotcomI enjoy checking your web sites Thanks for your timeNHL 17 httpkhleothomascomprofilesblogsbuyingpetmedicationsonlinefifa17pointsMany thanks this website is extremely practicalnhl 17 coins httpwwwkcancercomcontentnba2k17vcsoundgiveslevelsareseriousBefore there was the Swoosh before there was NIKE there were two visionary men who pioneered a revolution in athletic footwear that redefined the industry In 1964 Bill Bowerman and Phil Knight combined their passion for athletic performance and innovation to create a company focused on furthering the performance of every athlete Their mission is To
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flopsbuy fitflops online httpaustraliafitflopsblogspotcombirkenstock shoesbirkenstock shops httpbirkenstockaustraliarochecaporgchristian louboutin slingbackscheap christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomchristian louboutin red bottomschristian louboutin online store httpcanadachristianlouboutinblogspotcomI enjoy checking your web sites Thanks for your timeNHL 17 httpkhleothomascomprofilesblogsbuyingpetmedicationsonlinefifa17pointsMany thanks this website is extremely practicalnhl 17 coins httpwwwkcancercomcontentnba2k17vcsoundgiveslevelsareseriousBefore there was the Swoosh before there was NIKE there were two visionary men who pioneered a revolution in athletic footwear that redefined the industry In 1964 Bill Bowerman and Phil Knight combined their passion for athletic performance and innovation to create a company focused on furthering the performance of every athlete Their mission is To
-imported: true
 ---
 
 Female genital mutilation (FGM) has been performed on more than 130 million women and girls worldwide, and more than 20,000 girls under the age of 15 in the UK are considered at risk. It is often done using razors, sharpened rocks, glass or even fingernails as tools.

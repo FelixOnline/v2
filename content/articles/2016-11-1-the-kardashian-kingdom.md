@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Kardashians have a multi-million dollar empire, a successful TV show, and several influential brands. So why are they so resented?
 date: "2016-11-01 00:07:07 +0000"
+
 # Attributes from Felix Online V1
 id: "6376"
 old_path: /tv/6376/the-kardashian-kingdom
 aliases:
  - /tv/6376/the-kardashian-kingdom
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Kardashians’ long standing affair with the media began in 1994, when Robert Kardashian Sr. thrust the family into the limelight defending his friend O. J. Simpson. In the following decades, members of the clan have appeared sporadically throughout various media. Kim Kardashian, in particular, was always quick to maximise her media presence, garnering mild buzz by positioning herself as Paris Hilton’s supposed confidante and stylist. Kim and the family, however, both managed to fly relatively under the radar of the general public until 2007. This was when a sex-tape, featuring Kim and her then-boyfriend Ray-J, leaked, thrusting the family into the limelight. Incredibly, and to Kris Jenner and Kim’s great credit, they capitalised on this new found infamy with the production of a reality show based on their lives. Fast forward to today, _Keeping Up with the Kardashians_ is a staple of the TV zeitgeist and the archetype that springs to mind when someone mentions the term ‘reality show’.  Kim’s net-worth alone has exploded from an estimated $4.4 million in 2007, to $150 million today. That’s more than Kanye, Drake, and Miley Cyrus. There’s a reason Kim takes the lead in ‘Kimye’.                 So given how successful the family has been, why is there so much ill-will directed towards them, and why do sentiments still pervade that they don’t deserve it, or ‘aren’t intelligent enough’ to have earned it?      Some people may suggest that they’re vapid or shallow but is this really such a big issue? Sure, they can be narcissistic at times, but that’s something we’re all guilty of. They are reflections of ourselves, our obsessions with social media and trivialities. Surely we can’t hate them for being extrapolations of us. Even then, their perceived shallowness never manifests itself aggressively, or with great ignorance. The family and series has even made efforts to highlight the Armenian genocide.      Instead, perhaps, an alternative criticism that can be proposed is that they don’t really ‘do’ anything. They simply exist as a family, and they get paid for it. Of course, this is probably the easiest one to debunk. You don’t make that much money without being a shrewd businessperson. Looking around, it quickly becomes apparent just how many different pies the Kardashians have their fingers in. There are two different apps dedicated to just Kim, God knows how many perfume and fashion lines, and even a colouring book. All that probably takes a lot of work.

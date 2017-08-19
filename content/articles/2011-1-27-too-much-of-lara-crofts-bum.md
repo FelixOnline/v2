@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Omar Hafeez-Bore wasn’t trying to get a better view... honest!
 date: "2011-01-27 20:27:27 +0000"
+
 # Attributes from Felix Online V1
 id: "694"
 old_path: /games/694/too-much-of-lara-crofts-bum
 aliases:
  - /games/694/too-much-of-lara-crofts-bum
+imported: true
+comments:
+ - LOL funny articleI play 640 by 480 toogiggidyMaybe the new view just takes some getting used to like most things in life Good article anywayThanks for the insight It bignrs light into the darkbCZnnJ  urlhttpzltrgmhnefuncomzltrgmhnefunurl linkhttpjoisrsilzyljcomjoisrsilzyljlink httpqwtcnjvxivtlcomSBXz5v  mbjyplzrhprb
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - oh106
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "oh106"
 author_name: "Omar Hafeez-Bore"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LOL funny articleI play 640 by 480 toogiggidyMaybe the new view just takes some getting used to like most things in life Good article anywayThanks for the insight It bignrs light into the darkbCZnnJ  urlhttpzltrgmhnefuncomzltrgmhnefunurl linkhttpjoisrsilzyljcomjoisrsilzyljlink httpqwtcnjvxivtlcomSBXz5v  mbjyplzrhprb
-imported: true
 ---
 
 Now I don’t usually start off by focusing on Lara Croft’s buttocks (who does?), but I’ve seen an awful lot of them lately and feel the need to confess why: I changed the controls I used in _Tomb Raider Anniversary_. And now I’m worried, because somehow I changed everything else too.

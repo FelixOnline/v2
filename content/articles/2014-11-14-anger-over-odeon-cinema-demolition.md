@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Carol Ann Cheah reports on controversy on High Street Kensington
 date: "2014-11-14 20:06:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4867"
 old_path: /news/4867/anger-over-odeon-cinema-demolition
 aliases:
  - /news/4867/anger-over-odeon-cinema-demolition
+imported: true
+comments:
+ - Yet another greedy faceless property developer ruining our precious cinema building Minervas greed and attitude to heritage is obvious THey just dont care when large sums of money are involve I hope K  C Council have the common sense to reject outright this unneeded proposalRestore it as completely as possible and convert it into an IMAX 3D Showcase cinema that runs ordinary movies and events  stage musicals ballet and other grandstand events tooIs there no way that the Odeon  Cinema Kensington can be slapped with some kind of listed building status as a prime example of Art Deco architecture it needs to be preserved  Too many of our beautiful historic buildings have been demolished to make way for anonymous buildings  whose only value is to serve the mega rich developers many of whom have no connection to our community or indeed our country  Is there nothing that can be done to save this building for future generationsMay we start a campaign to stop these proposals  Kensington seems
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Yet another greedy faceless property developer ruining our precious cinema building Minervas greed and attitude to heritage is obvious THey just dont care when large sums of money are involve I hope K  C Council have the common sense to reject outright this unneeded proposalRestore it as completely as possible and convert it into an IMAX 3D Showcase cinema that runs ordinary movies and events  stage musicals ballet and other grandstand events tooIs there no way that the Odeon  Cinema Kensington can be slapped with some kind of listed building status as a prime example of Art Deco architecture it needs to be preserved  Too many of our beautiful historic buildings have been demolished to make way for anonymous buildings  whose only value is to serve the mega rich developers many of whom have no connection to our community or indeed our country  Is there nothing that can be done to save this building for future generationsMay we start a campaign to stop these proposals  Kensington seems
-imported: true
 ---
 
 Kensington residents have been up in arms over a recent planning application submitted by Minerva Ltd to the Royal Borough of Kensington and Chelsea (RBKC), which entails demolishing a number of iconic Kensington High Street buildings, including the Odeon Kensington cinema.

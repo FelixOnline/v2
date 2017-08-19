@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Silly anime gets the thumbs up from Maciej Matuszewski
 date: "2011-11-03 20:36:59 +0000"
+
 # Attributes from Felix Online V1
 id: "1670"
 old_path: /tv/1670/an-extraterrestial-plan-to-destroy-earth
 aliases:
  - /tv/1670/an-extraterrestial-plan-to-destroy-earth
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What can I say FLCL (pronounced fooly cooly or furi kuri)? Produced by anime powerhouses Gainax and I.G. Production, it’s certainly one the craziest pieces of fiction that I’ve ever seen.

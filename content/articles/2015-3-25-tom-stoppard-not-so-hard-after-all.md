@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman wraps his head around the playwright’s latest
 date: "2015-03-25 12:56:39 +0000"
+
 # Attributes from Felix Online V1
 id: "5440"
 old_path: /arts/5440/tom-stoppard-not-so-hard-after-all
 aliases:
  - /arts/5440/tom-stoppard-not-so-hard-after-all
+imported: true
+comments:
+ - fit flops discountfitflops sale online australia httpaustraliafitflopsiemillernetchristian louboutin canada salechristian louboutin online store httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flops discountfitflops sale online australia httpaustraliafitflopsiemillernetchristian louboutin canada salechristian louboutin online store httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 Tom Stoppard’s latest play has been a long time coming. His last work to grace the stage was 2006’s _Rock and Roll _at __The Royal Court__ – and his last work at the__ National Theatre__ was four years before that, with _The Coast of Utopia_ in 2002. Nine years since his last play. To call expectations high might just be an understatement.

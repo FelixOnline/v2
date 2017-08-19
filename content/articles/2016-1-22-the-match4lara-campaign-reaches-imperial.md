@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stem cell donation drive hits SAF today
 date: "2016-01-22 12:48:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5831"
 old_path: /news/5831/the-match4lara-campaign-reaches-imperial
 aliases:
  - /news/5831/the-match4lara-campaign-reaches-imperial
+imported: true
+comments:
+ - Very powerful next to last sentence  The only way to really get things done is to be in touch with how we are feeling and what we need So true  otherwise we will just procrastinate or find some other strategy to get that need for time off met I find that when I dont try to c0for2e things in my life and when I take little breaks in my day happen things flow so much better Thanks for the reminder
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Very powerful next to last sentence  The only way to really get things done is to be in touch with how we are feeling and what we need So true  otherwise we will just procrastinate or find some other strategy to get that need for time off met I find that when I dont try to c0for2e things in my life and when I take little breaks in my day happen things flow so much better Thanks for the reminder
-imported: true
 ---
 
 Today, the Anthony Nolan branch at Imperial is running a bone marrow drive in an attempt to find a match for a Thai-Italian student,  the 24 year old Lara Casalotti, who has been diagnosed with leukaemia.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Professor Grimm passed away in September of this year
 date: "2014-11-28 00:36:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4960"
 old_path: /news/4960/college-to-investigate-circumstances-surrounding-professors-death
 aliases:
  - /news/4960/college-to-investigate-circumstances-surrounding-professors-death
+imported: true
+comments:
+ - fitflop shoes australiafitflop australia httpwwwaustraliafitflopscomnew fit flopsfitflops online sale httpfitflopsaublogspotcomwhere to buy fitflopsfitflops australia outlet httpaustraliafitflopsblogspotcombuy fitflopsfitflops australia clearance httpfitflopsaublogspotcomdiscount birkenstockbirkenstock sydney httpbirkenstockaustraliamallscombirkenstock outlet onlinebirkenstock discount httpbirkenstockaustraliablogspotcomlouboutin pointed toe canadachristian louboutin shoes outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin priceschristian louboutin shoes outlet httpcanadachristianlouboutinoutletblogspotcomlouboutin boots canadachristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin peep toes shoeschristian louboutin online store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin sneakers canadachristian louboutin shoes online httpcanadachri
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop shoes australiafitflop australia httpwwwaustraliafitflopscomnew fit flopsfitflops online sale httpfitflopsaublogspotcomwhere to buy fitflopsfitflops australia outlet httpaustraliafitflopsblogspotcombuy fitflopsfitflops australia clearance httpfitflopsaublogspotcomdiscount birkenstockbirkenstock sydney httpbirkenstockaustraliamallscombirkenstock outlet onlinebirkenstock discount httpbirkenstockaustraliablogspotcomlouboutin pointed toe canadachristian louboutin shoes outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin priceschristian louboutin shoes outlet httpcanadachristianlouboutinoutletblogspotcomlouboutin boots canadachristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin peep toes shoeschristian louboutin online store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin sneakers canadachristian louboutin shoes online httpcanadachri
-imported: true
 ---
 
 A professor from the Faculty of Medicine, Professor Stefan Grimm, was found dead in September of this year in Northwood, Middlesex.

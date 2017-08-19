@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mindlessly erotic - Elizaveta looks at Egon Schiele's works
 date: "2014-11-06 21:49:04 +0000"
+
 # Attributes from Felix Online V1
 id: "4809"
 old_path: /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
 aliases:
  - /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A mention of sex in any context, really, is usually enough to get people excited (pun intended). After all, to quote Oscar Wilde: “Everything in the world is about sex, except sex. Sex is about power”.

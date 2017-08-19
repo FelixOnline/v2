@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ellen Mathieson enjoys the return of the Bellas in Pitch Perfect 2
 date: "2015-05-29 10:54:26 +0100"
+
 # Attributes from Felix Online V1
 id: "5584"
 old_path: /film/5584/can-you-even-spell-a-cappella
 aliases:
  - /film/5584/can-you-even-spell-a-cappella
+imported: true
+comments:
+ - Exceptionally individual friendly site Immense info readily available on couple of clicks oncs go skins calculator httpblog1dergsdgseg663709329nba2k16mtwonderfulrepresentationsOfthegamehtmlYoure a really practical site couldnt make it without yanba 2k17 vc httpancestralheroescomrevolutionarywar6770hutcoinsfeaturesalargenumbercustomers
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Exceptionally individual friendly site Immense info readily available on couple of clicks oncs go skins calculator httpblog1dergsdgseg663709329nba2k16mtwonderfulrepresentationsOfthegamehtmlYoure a really practical site couldnt make it without yanba 2k17 vc httpancestralheroescomrevolutionarywar6770hutcoinsfeaturesalargenumbercustomers
-imported: true
 ---
 
 It’s a well-known fact that comedy sequels are tricky. For every occasional good one, there is a whole host of bad ones. _Pitch Perfect_ was one of 2009 most surprising hits, making back its money in a big way and having one of the most downloaded soundtracks of the year.

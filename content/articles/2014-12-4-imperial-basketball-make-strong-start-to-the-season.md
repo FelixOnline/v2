@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Cedric Colle comments on what has been a very impressive start to the season for all Basketball teams
 date: "2014-12-04 20:33:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5012"
 old_path: /sport/5012/imperial-basketball-make-strong-start-to-the-season
 aliases:
  - /sport/5012/imperial-basketball-make-strong-start-to-the-season
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Half-way through the season, and everything is extremely bright for Imperial College Basketball so far! The teams which entered the British Universities & Colleges Sport (BUCS) leagues have been performing outstandingly. The Men’s 1st team tops its league, and is still undefeated (just like the Philadelphia 76ers, only the other way round). The Women’s 1st and Men’s 2nd teams are respectively 4th and 2nd in their league.

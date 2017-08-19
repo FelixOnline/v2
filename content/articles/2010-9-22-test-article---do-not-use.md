@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Test article - do not use!
 date: "2010-09-22 13:18:32 +0100"
+
 # Attributes from Felix Online V1
 id: "158"
 old_path: /travel/158/test-article---do-not-use
 aliases:
  - /travel/158/test-article---do-not-use
+imported: true
+comments:
+ - TestingTesting 2Testing 3Testing 4TestingTestingTestingTesting                    Testing if comments still work in loggedin modeDo loggedin comments still workChris ext commentSetting to provisional with IP Two people attempt to break glass by sining a highpitch tone Instead wackily the glass fills with blood An anthropomorphized Physics then admits she is attempting to stop humans from finding the Higgs Boson  a particle whose discovery would explain much of the inexplicable aspects of modern physics  This comic serves only as a medium to make a reference to a popculture physics conceptExternal commentNew comment with return valueTest with apostrophes and quotesTest email notificationsext commentwith 2 line breakschris b testingp
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
- - TestingTesting 2Testing 3Testing 4TestingTestingTestingTesting                    Testing if comments still work in loggedin modeDo loggedin comments still workChris ext commentSetting to provisional with IP Two people attempt to break glass by sining a highpitch tone Instead wackily the glass fills with blood An anthropomorphized Physics then admits she is attempting to stop humans from finding the Higgs Boson  a particle whose discovery would explain much of the inexplicable aspects of modern physics  This comic serves only as a medium to make a reference to a popculture physics conceptExternal commentNew comment with return valueTest with apostrophes and quotesTest email notificationsext commentwith 2 line breakschris b testingp
-imported: true
 ---
 
 Original by [Markus ](http://bbc.co.uk)Kuhn, adapted for HTML by Martin Dürst.

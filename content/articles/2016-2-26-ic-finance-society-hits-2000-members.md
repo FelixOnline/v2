@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Finance taking over
 date: "2016-02-26 12:10:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5988"
 old_path: /cands/5988/ic-finance-society-hits-2000-members
 aliases:
  - /cands/5988/ic-finance-society-hits-2000-members
+imported: true
+comments:
+ - Puff puffI would not have sex with any of these Parasites the lot of you Very sadCall it evenurlhttprunescape20tumblrcompost137252865758forumrulesBlade  Soul Power levelingurlI dont have the slightest ideaurlhttpwwwbuildingbetterfathersnetsocialindexphpdoforumgeneral2abladeandsoulplayersopenlettertoncsoftBlade And Soul GoldurlI treasure the information on your web sites CheersBuy NBA 2k15 VC Coins httpgofishingforumnetoutdoorsdiscussionskinssaleeasytounderstandt11381htmlQuite revealing looking ahead to visiting againNBA 2k16 MT Points httpwwwtorontoaccordscomphpBB3viewtopicphpf19t68895I adore this website  its so usefull and helpfullfree csgo skins httpblogsinacomcnsblog_14d1d99350102wh0mhtmlSustain the helpful work and producing in the groupcs go skins easy httpmartialartspacecomblogs2788nba2k16mtexpressionsandhugWonderful Website Keep up the beneficial work Many thanksnba
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Puff puffI would not have sex with any of these Parasites the lot of you Very sadCall it evenurlhttprunescape20tumblrcompost137252865758forumrulesBlade  Soul Power levelingurlI dont have the slightest ideaurlhttpwwwbuildingbetterfathersnetsocialindexphpdoforumgeneral2abladeandsoulplayersopenlettertoncsoftBlade And Soul GoldurlI treasure the information on your web sites CheersBuy NBA 2k15 VC Coins httpgofishingforumnetoutdoorsdiscussionskinssaleeasytounderstandt11381htmlQuite revealing looking ahead to visiting againNBA 2k16 MT Points httpwwwtorontoaccordscomphpBB3viewtopicphpf19t68895I adore this website  its so usefull and helpfullfree csgo skins httpblogsinacomcnsblog_14d1d99350102wh0mhtmlSustain the helpful work and producing in the groupcs go skins easy httpmartialartspacecomblogs2788nba2k16mtexpressionsandhugWonderful Website Keep up the beneficial work Many thanksnba
-imported: true
 ---
 
 Last Tuesday Imperial College Finance Society (ICFS) successfully overtook Medical Education (the biggest departmental society) in terms of membership. By Friday, ICFS reached yet another milestone by becoming the first society to exceed 2000 members.

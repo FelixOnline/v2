@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stpryasfipjadf
 date: "2011-06-09 18:13:54 +0100"
+
 # Attributes from Felix Online V1
 id: "1330"
 old_path: /phoenix/1330/design-flaws
 aliases:
  - /phoenix/1330/design-flaws
+imported: true
+comments:
+ - I havent been tracking this year but last year I eeerntd every single food receipt into a spreadsheet so that I could track what we were spending When I included our summer CSA box 20wk Gathering Together Farm the cost of a quarter cow local happy cow and alcohol not much we spent about 500wk on food We eat mostly organic and local as much as we can so our cost was inflated by shopping at FirstAlt and perhaps somewhat by the farmers market although I tend to weight that by lower medical costs we will have in the long run Our costs now are only inflated by the extra calories that I am eating while nursing which isnt much 500 sounds like a lot but when I posted about it on Facebook last year I got a lot of comments from friends in CA that they were spending way more on food that wasnt as fresh or as good If you are spending 450 for your family you are doing really well and not overspending IMHO As far as I am concerned spending money on good quality food is one of the be
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I havent been tracking this year but last year I eeerntd every single food receipt into a spreadsheet so that I could track what we were spending When I included our summer CSA box 20wk Gathering Together Farm the cost of a quarter cow local happy cow and alcohol not much we spent about 500wk on food We eat mostly organic and local as much as we can so our cost was inflated by shopping at FirstAlt and perhaps somewhat by the farmers market although I tend to weight that by lower medical costs we will have in the long run Our costs now are only inflated by the extra calories that I am eating while nursing which isnt much 500 sounds like a lot but when I posted about it on Facebook last year I got a lot of comments from friends in CA that they were spending way more on food that wasnt as fresh or as good If you are spending 450 for your family you are doing really well and not overspending IMHO As far as I am concerned spending money on good quality food is one of the be
-imported: true
 ---
 
 When they said that you see a bright light when you die, you did not realise that it was actually a 60 watt desk-lamp.

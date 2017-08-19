@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sheperd’s Bush Empire, 23rd November 2010
 date: "2010-12-02 21:01:22 +0000"
+
 # Attributes from Felix Online V1
 id: "484"
 old_path: /music/484/beach-house-are-the-cherry-on-the-cake
 aliases:
  - /music/484/beach-house-are-the-cherry-on-the-cake
+imported: true
+comments:
+ - more photoshttpwwwflickrcomphotoschristopherwalmsleysets72157625354978603
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tm208
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tm208"
 author_name: "Tytus Murphy"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - more photoshttpwwwflickrcomphotoschristopherwalmsleysets72157625354978603
-imported: true
 ---
 
 Beloved by [Pitchfork](http://pitchfork.com/reviews/albums/13872-teen-dream/), Jay-Z and Beyonce as well as your humble reviewer, Beach House are a well regarded twosome emanating from Baltimore that comprise of Alex Scally and Victoria Legrand. This scruffy and seductive pair have been riding an ever-growing wave of critical adoration since 2004 which now appears to be translating into a wider commercial acclaim, as evidenced by healthy sales of their beautifully beguiling 2010-released LP [Teen Dream](http://open.spotify.com/album/72mGz9Dnt42euozq8yBULe) and their sell-out gig at the Shepherd’s Bush Empire.

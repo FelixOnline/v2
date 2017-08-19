@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jason Parmar coos over his new Nokia Lumia 800
 date: "2011-12-08 19:55:42 +0000"
+
 # Attributes from Felix Online V1
 id: "1904"
 old_path: /tech/1904/nokiasoft-a-match-made-in-heaven
 aliases:
  - /tech/1904/nokiasoft-a-match-made-in-heaven
+imported: true
+comments:
+ - Its called Windows Phone 7 Windows Mobile refers to versions 65 and below Microsoft ran a campaign rebranding the operating system to indicate its vast difference I use the HTC HD7 Windows Phone and I love it It says Windows Phone 7 where does it say Windows MobileThe article in print which you can find in the issue archive online this one just got changed PErgh slipped right by usWe were too busy on Photoshop I reckonI found some pretty awesome deals herehttpwwwe2savecommobilephonecontractnokiaNokiaLumia800htmlnetworkorangetariffcodeC11TESEP11But in the end I just rang up Vodaphone my network and convinced them to give me an awesome dealAlso noted I meant iPhone 4S instead of iPhone 3G in the price sectionNow compare it to what that phone was meant to be the Nokia N9httpwwwengadgetcom20111022nokian9reviewThe review doesnt really do it justice youve got to play with one to see how good a phone it really is but still MeeGo is d
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its called Windows Phone 7 Windows Mobile refers to versions 65 and below Microsoft ran a campaign rebranding the operating system to indicate its vast difference I use the HTC HD7 Windows Phone and I love it It says Windows Phone 7 where does it say Windows MobileThe article in print which you can find in the issue archive online this one just got changed PErgh slipped right by usWe were too busy on Photoshop I reckonI found some pretty awesome deals herehttpwwwe2savecommobilephonecontractnokiaNokiaLumia800htmlnetworkorangetariffcodeC11TESEP11But in the end I just rang up Vodaphone my network and convinced them to give me an awesome dealAlso noted I meant iPhone 4S instead of iPhone 3G in the price sectionNow compare it to what that phone was meant to be the Nokia N9httpwwwengadgetcom20111022nokian9reviewThe review doesnt really do it justice youve got to play with one to see how good a phone it really is but still MeeGo is d
-imported: true
 ---
 
 When Nokia announced their partnership with [Windows Phone 7](http://www.microsoft.com/windowsphone/en-us/default.aspx) instead of Android back in February I honestly thought that they’d made one of the biggest mistakes in the company’s history. How wrong I was.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland explores what remains after Iraq and Afghanistan
 date: "2014-11-14 20:53:38 +0000"
+
 # Attributes from Felix Online V1
 id: "4879"
 old_path: /arts/4879/wounded-is-this-wars-true-legacy
 aliases:
  - /arts/4879/wounded-is-this-wars-true-legacy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I was a bit apprehensive of this new exhibition at Somerset House. I feared it might just be an attempt for Bryan Adams, the photographer, to try and reinvent himself, having been a washed up pop star for so long. Moreover, the advertising made it seem like just another one of those populist exhibitions, raking in plenty of publicity for Somerset House without actually having much substance. But it has got a lot of attention and will surely be popular, especially seeing that it opened just after Remembrance Day, ensuring people are still caught up in an emotional frenzy stirred up by our nationalistic media.

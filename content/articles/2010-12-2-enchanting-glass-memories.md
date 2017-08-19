@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A review of Tennessee Williams' famed play
 date: "2010-12-02 20:14:28 +0000"
+
 # Attributes from Felix Online V1
 id: "463"
 old_path: /arts/463/enchanting-glass-memories
 aliases:
  - /arts/463/enchanting-glass-memories
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - cf107
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cf107"
 author_name: "Christina Flanagan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [The Glass Menagerie](http://en.wikipedia.org/wiki/The_Glass_Menagerie) enfolds us in the memories of Tom, a young poet trapped by his dependent family, who both appears in each scene and narrates the play from his present. This is the play that made Tennessee Williams famous and aside from an occasionally dodgy Southern accent (Deborah Findlay as the mother) and a limp that may have hopped from foot to foot (the sister) the Young Vic’s production is flawless. An aura of memory is cleverly crafted by the presence of the two musicians as part of the multi-level set – particularly poignant moments in the play are haunted by the eerie sound from the percussionist’s array of wine glasses (the licking your finger and running it round the rim trick).

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lauren Ratcliffe on the impact of logging in Borneo’s rainforests
 date: "2015-05-04 16:27:43 +0100"
+
 # Attributes from Felix Online V1
 id: "5489"
 old_path: /science/5489/kings-of-the-jungle-de-throned
 aliases:
  - /science/5489/kings-of-the-jungle-de-throned
+imported: true
+comments:
+ - I for all time emailed this weblog post page to all my contacts since if like to read it afterward my links will toogoedkope uggs kopen online httppaulramnlnlgoedkopeuggskopenonline3424htmlNorth Korea were very defensive involving their approach the particular qualifiers Remember that earning coins gets incredibly easier He is far more commonly known in his country as Ronaldinho Gauchofifa 16 hack httpcreditsfutcomWow gorgeous site Thnx nba 2k16 mt ratings httpeprintedbookscomClassitem1526
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I for all time emailed this weblog post page to all my contacts since if like to read it afterward my links will toogoedkope uggs kopen online httppaulramnlnlgoedkopeuggskopenonline3424htmlNorth Korea were very defensive involving their approach the particular qualifiers Remember that earning coins gets incredibly easier He is far more commonly known in his country as Ronaldinho Gauchofifa 16 hack httpcreditsfutcomWow gorgeous site Thnx nba 2k16 mt ratings httpeprintedbookscomClassitem1526
-imported: true
 ---
 
 New research in Borneo by researchers from Imperial College London suggests that clear cutting rainforests changes which types of species perform vital ecosystem functions. In logged forests, vertebrates instead of invertebrates appear to be contributing a greater amount to key processes such as seed dispersal and predation. This switch in functional dominance renders these systems more vulnerable to future change.

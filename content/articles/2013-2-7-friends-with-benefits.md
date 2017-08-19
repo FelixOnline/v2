@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Choose your own adventure: sexy edition!
 date: "2013-02-07 23:10:38 +0000"
+
 # Attributes from Felix Online V1
 id: "3254"
 old_path: /comment/3254/friends-with-benefits
 aliases:
  - /comment/3254/friends-with-benefits
+imported: true
+comments:
+ - I have read cosmopolitan once some of the articles content was similar I do not mean to be accused for feminism here again but yet this way of thinking for women is described by certain adjectives in the society stereotypes dictionary Being a conservative I do share the stereotypes ideas The fact that you choose to stay anonymous suggests that you are a woman aware of the stereotype or you are a guy and a genius I do love the article though because it is a perfect presentation of the truth about how manynot all women think NiceExcellent
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have read cosmopolitan once some of the articles content was similar I do not mean to be accused for feminism here again but yet this way of thinking for women is described by certain adjectives in the society stereotypes dictionary Being a conservative I do share the stereotypes ideas The fact that you choose to stay anonymous suggests that you are a woman aware of the stereotype or you are a guy and a genius I do love the article though because it is a perfect presentation of the truth about how manynot all women think NiceExcellent
-imported: true
 ---
 
 Casual sex, no fuss no muss: the holy grail for most guys. In this modern society, the taboo has largely been lifted on satisfying one’s own sexual needs. You only need to browse truelad.com for five mins to realise that most guys are probably whacking one out in the five minute break between lectures. As for the ladies, we’ve gone one step further; certain battery operated devices named after innocent woodland creatures that are endowed with not one, but three speed settings have been provided to satisfy our needs. And although these devices are life-savers, there is only so much love you can give yourself before the asymmetry between the musculature of your right and left arm becomes a bit of a giveaway. Solution: the fuck buddy. A number you can dial when you need to, someone who won’t spend the night and a relationship in which it is considered perfectly acceptable not to swallow. What could possibly go wrong?

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-03 09:30:23 +0100"
+
 # Attributes from Felix Online V1
 id: "6242"
 old_path: /film/6242/documentary-corner-paris-is-burning
 aliases:
  - /film/6242/documentary-corner-paris-is-burning
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Shade. What does it mean? Where did it come from? For those of us confused by the lexicon of reading, kiki-ing, and shade, it would be a good idea to take a look back to the 1980s, and Jennie Livingston’s landmark 1990 documentary _Paris is Burning_, which focused on the ball culture of NYC, and the individuals making their mark in it. Ball culture emerged from the LGBTQ subculture in America, and revolved around competitions, in which people would ‘walk’ in order to win trophies. Different categories would see individuals try and emulate a particular type of individual, such as the ‘executive realness’ category, which involved dressing up as fantasy 80s businesswomen, shoulder-pads and all.

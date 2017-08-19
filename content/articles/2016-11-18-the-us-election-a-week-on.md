@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix gets out and about for your reactions too
 date: "2016-11-18 14:26:56 +0000"
+
 # Attributes from Felix Online V1
 id: "6455"
 old_path: /news/6455/the-us-election-a-week-on
 aliases:
  - /news/6455/the-us-election-a-week-on
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s been about a week and a half since the U.S. election was held. By now, most of the world seems to know that Donald Trump is the president-elect of the United States.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park awards three stars to St. Vincent
 date: "2014-12-04 19:43:21 +0000"
+
 # Attributes from Felix Online V1
 id: "5003"
 old_path: /film/5003/when-the-saints-go-marching-in
 aliases:
  - /film/5003/when-the-saints-go-marching-in
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What happens when you put together a grumpy old man and the next door neighbour’s slightly, odd but intelligent child? The grumpy man who everyone hates at the beginning of the film does something remarkable for the kid, and we discover that actually, the moody old man is a real softie at heart. An episode of US sitcom _Modern Family_ finds a young child bonding with the next door neighbour, a retired fireman. The mother is concerned. But he lists_ Gran Torino_, _True Grit_ and _Up_ as examples of how things worked out in the end. _St. Vincent _essentially follows the exact same formula. We are introduced to Vincent (Bill Murray), a loner of a man who drinks too much, then drives, and spends too much and is generally the last person you would want looking after your child. Not knowing any of this, desperate single mother Maggie (Melissa McCarthy), who is far too busy at her work making a living for herself and her son Oliver (Jaeden Lieberher), recruits Vincent’s help…for an hourly babysitter’s fee of course.

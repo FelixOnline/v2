@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle reports as College are victorious in the Men's match at the Stoop
 date: "2015-03-19 23:39:09 +0000"
+
 # Attributes from Felix Online V1
 id: "5403"
 old_path: /sport/5403/late-tries-add-gloss-to-college-victory
 aliases:
  - /sport/5403/late-tries-add-gloss-to-college-victory
+imported: true
+comments:
+ - cheapest fitflopfitflops in australia httpwwwaustraliafitflopscomfitflop slippersfitflop buy online httpaustraliafitflopsiemillernetlouboutin heelschristian louboutin online outlet httpcanadachristianlouboutinblogspotcomshoes with red bottomscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes outletchristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin wedges shoeschristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomkdokZs httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheapest fitflopfitflops in australia httpwwwaustraliafitflopscomfitflop slippersfitflop buy online httpaustraliafitflopsiemillernetlouboutin heelschristian louboutin online outlet httpcanadachristianlouboutinblogspotcomshoes with red bottomscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes outletchristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin wedges shoeschristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomkdokZs httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Two dominant periods at the start and end of the match ensured that Imperial College claimed a more than comfortable victory over the Imperial Medicals at The Stoop on Wednesday. Having scored an early penalty, the College then put away two unanswered tries before the Medics hit back to give themselves a chance at 15-5 at half-time. Another try two minutes into the second half for the boys in red had the College worried. But their overall superiority shone through in the end as they went over three more times before the end of the game to underline their great performance, though the Medics may feel slightly aggrieved that the final score looked so one sided after an encouraging performance.

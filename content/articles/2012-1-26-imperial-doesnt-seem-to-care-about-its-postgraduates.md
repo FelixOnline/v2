@@ -4,16 +4,24 @@ title: >
 subtitle: >
   News about Clayponds and the Holland Club highlight inadequacies in Imperial's view of postgraduate students
 date: "2012-01-26 22:35:18 +0000"
+
 # Attributes from Felix Online V1
 id: "2067"
 old_path: /comment/2067/imperial-doesnt-seem-to-care-about-its-postgraduates
 aliases:
  - /comment/2067/imperial-doesnt-seem-to-care-about-its-postgraduates
+imported: true
+comments:
+ - Unfortunately due to a bug in the Felix web site this article is wrongly attributed to the medic Tom Phillips rather than me Tom W Phillips in Physics Matt Editor is trying to fix itFantastic pieceOh brilliant work ME not leaving a real name and making an unsubstantiated and vague comment Cheers Imperial West is at the design stage and Toms argument in this article is still valid College need to avoid blowing another midbending wodge of money on a project that will leave the PG community feeling cold The Rector responded to criticism from Clayponds subwarden Craig Court by saying that a focus group found students wanted to be within 30 minutes of South Kensington Who doesntPostgrads at Hammersmith Charing Cross St Marys Silwood even You write a good article but dont forget the several thousand of us who are not based in South KenIm not forgetting about those students who dont work at the SK campus  I was simply replying to the Rectors comment about SK Criticise
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Unfortunately due to a bug in the Felix web site this article is wrongly attributed to the medic Tom Phillips rather than me Tom W Phillips in Physics Matt Editor is trying to fix itFantastic pieceOh brilliant work ME not leaving a real name and making an unsubstantiated and vague comment Cheers Imperial West is at the design stage and Toms argument in this article is still valid College need to avoid blowing another midbending wodge of money on a project that will leave the PG community feeling cold The Rector responded to criticism from Clayponds subwarden Craig Court by saying that a focus group found students wanted to be within 30 minutes of South Kensington Who doesntPostgrads at Hammersmith Charing Cross St Marys Silwood even You write a good article but dont forget the several thousand of us who are not based in South KenIm not forgetting about those students who dont work at the SK campus  I was simply replying to the Rectors comment about SK Criticise
-imported: true
 ---
 
 After finishing my undergraduate degree, I’m now in my fifth year at Imperial studying for a PhD. Recent news about [the future of Clayponds](http://felixonline.co.uk/news/2032/clayponds-in-crisis/) and [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) has led me to believe that Imperial is disconnected from the lives and needs of postgraduate students.

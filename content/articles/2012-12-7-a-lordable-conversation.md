@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Alex Morton interviews constitutional expert Lord Norton about constitutional reform
 date: "2012-12-07 01:12:50 +0000"
+
 # Attributes from Felix Online V1
 id: "3031"
 old_path: /news/3031/a-lordable-conversation
 aliases:
  - /news/3031/a-lordable-conversation
+imported: true
+comments:
+ - Smashing event in RSM last week More guests like LNoL pleaseWell done Morty
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Smashing event in RSM last week More guests like LNoL pleaseWell done Morty
-imported: true
 ---
 
 __Alex Morton: Thank you very much for giving up your time this afternoon Lord Norton. Could you briefly explain the principal functions of the House of Lords, and why it matters?__

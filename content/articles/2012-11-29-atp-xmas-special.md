@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Alternative music is like so like mainstream man
 date: "2012-11-29 22:56:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2994"
 old_path: /music/2994/atp-xmas-special
 aliases:
  - /music/2994/atp-xmas-special
+imported: true
+comments:
+ - I like to party not look arelicts up online You made it happenWell put sir well put Ill ceriatnly make note of that
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I like to party not look arelicts up online You made it happenWell put sir well put Ill ceriatnly make note of that
-imported: true
 ---
 
 ATP in many ways can be seen as an embodiment of alternative music, often attended by those who know their music, it never fails to provide a selection of the finest alternative music out there, sweeping a wide range of musical genres in every line up. This quality is coupled with a spirit of musical fellowship, as often bands on the line up are seen enjoying the sets of their colleagues, and having the festival curated by a band or individual allows a feeling of connection to a normally hugely influential and respected curator. This sense of intimacy is further added to by a smaller venue, accommodating only 3000. Having spent a few years based in Butlins, Minehead, they have returned to Pontins in Camber Sands, the spiritual home of the festival, where the first 7 or 8 festivals took place. It should also be noted that, as was also the case in Butlins, the uncomfortable and dehumanising camping experience is bypassed with comfortable chalets, allowing a good night’s sleep and a place to chill between shows.

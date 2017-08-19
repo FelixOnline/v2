@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix’s deputy expert on the world’s favourite rockstar predicts the possible policies of the 2020 West Administration
 date: "2015-10-16 14:44:52 +0100"
+
 # Attributes from Felix Online V1
 id: "5659"
 old_path: /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
 aliases:
  - /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
+imported: true
+comments:
+ - Just simply wanted to say I am just relieved I stumbled on your web pagenhl 17 httpwwwcouponforumorgthreadscheapnba2k17mtexcellentgamestoowninachildrenparty299671Whats happening nice websites youve gotten going herefifa coins httptosbstverlibrufourwayskeepyourcheapfifa17coinsgrowingwithoutburningmidnightoilKeep up the helpful work and delivering in the crowdbuy fifa 17 coins httpyytyxcomhomephpmodspaceuid13814doprofilefromspace
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Just simply wanted to say I am just relieved I stumbled on your web pagenhl 17 httpwwwcouponforumorgthreadscheapnba2k17mtexcellentgamestoowninachildrenparty299671Whats happening nice websites youve gotten going herefifa coins httptosbstverlibrufourwayskeepyourcheapfifa17coinsgrowingwithoutburningmidnightoilKeep up the helpful work and delivering in the crowdbuy fifa 17 coins httpyytyxcomhomephpmodspaceuid13814doprofilefromspace
-imported: true
 ---
 
 Straight-talking Politics

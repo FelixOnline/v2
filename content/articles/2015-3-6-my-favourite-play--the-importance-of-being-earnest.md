@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman tells us why Wilde's wit is the best around
 date: "2015-03-06 14:05:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5354"
 old_path: /arts/5354/my-favourite-play--the-importance-of-being-earnest
 aliases:
  - /arts/5354/my-favourite-play--the-importance-of-being-earnest
+imported: true
+comments:
+ - louboutin pointed toe canadachristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - louboutin pointed toe canadachristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 I have such an obvious fondness for _Arcadia_ – and for Stoppard’s work in general – that my picking it as my favourite play seems like a foregone conclusion. So let’s side step that conversation by turning straight to my second-favourite play. Now comes the requirement to actually think about the answer to this.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Off his tits on politics, Joshua Renken tackles the issue of low voter turnout amongst the millennial generation.
 date: "2015-03-06 16:49:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5359"
 old_path: /politics/5359/why-dont-more-young-people-vote
 aliases:
  - /politics/5359/why-dont-more-young-people-vote
+imported: true
+comments:
+ - g3A71Z httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - g3A71Z httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 With just 61 days to go until polling stations open across the United Kingdom, party election campaigns are well under way. In 2010, voter turnout was at 65%. The over-65’s demographic had an overall turnout of 76%. Amongst 18-24 year olds, however, turnout was only 44% and recent polls indicate that number will be even lower on 7th May.

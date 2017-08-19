@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Teacher claims union said ‘cultural appropriation’ meant the classes would be stopped
 date: "2015-11-27 11:50:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5772"
 old_path: /news/5772/yoga-banned-at-canadian-university
 aliases:
  - /news/5772/yoga-banned-at-canadian-university
+imported: true
+comments:
+ - Um please do a fact check Ottawa is not an American city Its the capital city of CanadaHi please do your research Ottawa is actually not situated in the United States of America Ottawa is the capital city of Canada Thanks guys is it thoughare you sureIm not certain where youre getting your information but great topic I must spend some time studying much more or understanding more Thank you for magnificent info I was looking for this information for my missionray ban sale uk 2014 httpwwwmerchantservicesbedfordshirecoukukraybansaleuk201423208html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Um please do a fact check Ottawa is not an American city Its the capital city of CanadaHi please do your research Ottawa is actually not situated in the United States of America Ottawa is the capital city of Canada Thanks guys is it thoughare you sureIm not certain where youre getting your information but great topic I must spend some time studying much more or understanding more Thank you for magnificent info I was looking for this information for my missionray ban sale uk 2014 httpwwwmerchantservicesbedfordshirecoukukraybansaleuk201423208html
-imported: true
 ---
 
 Yoga classes at the University of Ottawa have been cancelled by the university’s Student Federation (the Canadian student union equivalent) after apparent concerns over “cultural appropriation”.

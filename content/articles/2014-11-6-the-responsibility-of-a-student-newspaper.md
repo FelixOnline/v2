@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Editorial for 1587
 date: "2014-11-06 22:18:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4813"
 old_path: /comment/4813/the-responsibility-of-a-student-newspaper
 aliases:
  - /comment/4813/the-responsibility-of-a-student-newspaper
+imported: true
+comments:
+ - red sole shoeschristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - red sole shoeschristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 This week, another rugby team has been suspending following another stint of bad behaviour. Although this lessened the logistics of arranging our front page (literally, we could have just changed the name of the team from last week’s issue), it is becoming a much more difficult topic for us, as a student paper, to report on.

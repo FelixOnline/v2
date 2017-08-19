@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Crystal Castles: (III)
 date: "2012-11-15 21:36:02 +0000"
+
 # Attributes from Felix Online V1
 id: "2900"
 old_path: /music/2900/ams-album-of-the-week-5
 aliases:
  - /music/2900/ams-album-of-the-week-5
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Crystal Castles’ rise to fame has undoubtedly been rapid. From their debut album (I) in 2008 to their latest release (III), the band has attracted a huge fan base. They went from playing in dingy, underground bars to playing Reading this year.

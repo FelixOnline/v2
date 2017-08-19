@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Graduate studies in the USA
 date: "2011-06-23 19:17:05 +0100"
+
 # Attributes from Felix Online V1
 id: "1413"
 old_path: /news/1413/the-american-dream
 aliases:
  - /news/1413/the-american-dream
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
-imported: true
 ---
 
 If you think the grass might be greener on the other side of the pond, here’s what you need to know to apply for a PhD at US universities.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A defence of banking’s most controversial practice: bonuses, by Ross Gray
 date: "2013-02-22 01:46:58 +0000"
+
 # Attributes from Felix Online V1
 id: "3366"
 old_path: /comment/3366/populist-legislation-sure-to-destroy-londons-economy
 aliases:
  - /comment/3366/populist-legislation-sure-to-destroy-londons-economy
+imported: true
+comments:
+ - Heres an idea pay out the huge profits in dividends to the shareholders  the owners of the company  the people who also actually lose money when the company under performs It seems to me that the culture among bankers is that they are entitled to the money they have generated They arent freelancers they are employees In no other sector do I think this entitlement is so widespreadhttpwwwbbccoukiplayerepisodeb01qrq28Panorama_Inside_Barclays_Banking_on_Bonuses 1000  I think investment banking says its for the shareholder but actually is a machine for the enrichment of investment bankersJack I understand this is not immediately analogous if youre not used to viewing capital markets extensively but many shareholders prefer reinvestment in the company Essentially if they paid out excess cash to the shareholders the share price wouldnt rise It would become a fairly flat security paying out a regular dividend really more akin to a bond but with none of the security assoc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Heres an idea pay out the huge profits in dividends to the shareholders  the owners of the company  the people who also actually lose money when the company under performs It seems to me that the culture among bankers is that they are entitled to the money they have generated They arent freelancers they are employees In no other sector do I think this entitlement is so widespreadhttpwwwbbccoukiplayerepisodeb01qrq28Panorama_Inside_Barclays_Banking_on_Bonuses 1000  I think investment banking says its for the shareholder but actually is a machine for the enrichment of investment bankersJack I understand this is not immediately analogous if youre not used to viewing capital markets extensively but many shareholders prefer reinvestment in the company Essentially if they paid out excess cash to the shareholders the share price wouldnt rise It would become a fairly flat security paying out a regular dividend really more akin to a bond but with none of the security assoc
-imported: true
 ---
 
 Well, this is turning into a [delightful little serial isn’t it?](http://felixonline.co.uk/comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary/) Today, I would like to discuss the most controversial of all issues concerning investment banking: [remuneration](http://en.wikipedia.org/wiki/Bankers'_bonuses). This has been a hot topic since the (thoroughly understandable) moral outrage at bankers still raking in massive bonuses following the crisis. Whilst I understand this viewpoint, there is a piece of legislation coming in from the EU that is pretty much sheer insanity; which will almost certainly destroy our financial services sector and deepen any future recessions. I know everyone dislikes bankers these days but I can’t help but feel we might miss the substantial amount of GDP and tax they contribute once the EU has decimated what was once the jewel in the British economic crown.

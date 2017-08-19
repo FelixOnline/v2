@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The due date has already been pushed back two months
 date: "2017-03-17 13:00:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6896"
 old_path: /news/6896/practice-room-due-to-re-open-maybe
 aliases:
  - /news/6896/practice-room-due-to-re-open-maybe
+imported: true
+comments:
+ - The youre really talented madden mobile 17 coins for sale httpwwwmaddenstorecomI mean itcheapest pokemon go rare pokemon pokemonbux httpwwwpokemonbuxcomlook great todaybuy cheap albion online silver httpwwwd3gamenetalbiononlineupdatedetailsworkworkyoure looking sharpcheap dofus touch kamas for sale on dofustouchkamascom httpswwwdofustouchkamascomYour company is very impressive Cheap Albion Online gold httpindyarockscomblog4194721AllAlbionOnlineProductsOfferedForSaleOnUPAlbionAreCheapest
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The youre really talented madden mobile 17 coins for sale httpwwwmaddenstorecomI mean itcheapest pokemon go rare pokemon pokemonbux httpwwwpokemonbuxcomlook great todaybuy cheap albion online silver httpwwwd3gamenetalbiononlineupdatedetailsworkworkyoure looking sharpcheap dofus touch kamas for sale on dofustouchkamascom httpswwwdofustouchkamascomYour company is very impressive Cheap Albion Online gold httpindyarockscomblog4194721AllAlbionOnlineProductsOfferedForSaleOnUPAlbionAreCheapest
-imported: true
 ---
 
 As the Spring term draws to an end, so should the West Basement refurbishment which has seen numerous student media facilities intermittently being cordoned off over the course of the last few years. This last leg of the works should mark the end of a cumulative £1.27 million investment.

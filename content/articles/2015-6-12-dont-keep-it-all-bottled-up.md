@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chanon Wongsatayanont explains why seeking help for mental illness can be tough
 date: "2015-06-12 12:43:51 +0100"
+
 # Attributes from Felix Online V1
 id: "5622"
 old_path: /welfare/5622/dont-keep-it-all-bottled-up
 aliases:
  - /welfare/5622/dont-keep-it-all-bottled-up
+imported: true
+comments:
+ - Wow Great to find a post with such a clear meegass
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow Great to find a post with such a clear meegass
-imported: true
 ---
 
 A few weeks ago, the results of a College-wide mental health survey was released on Felix.

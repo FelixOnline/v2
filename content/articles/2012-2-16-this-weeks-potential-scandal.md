@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Musings about last week's storm in a teacup
 date: "2012-02-16 22:18:23 +0000"
+
 # Attributes from Felix Online V1
 id: "2211"
 old_path: /comment/2211/this-weeks-potential-scandal
 aliases:
  - /comment/2211/this-weeks-potential-scandal
+imported: true
+comments:
+ - Its hard to tell whether or not this is satire but Ill assume notjumping to the conclusion that we need an armed feminist society ready to kick ass chew gum and live their lives in an independent thoughtful and personally satisfying way seems like a knee jerk in the opposite direction We shouldnt need to do thisWhether we need this society or not is irrelevant We dont need a Harry Potter society or an Irish society or an LGBT society but people want them which is why they exist The online petition for the feminist society now has 78 signatures so clearly people want it If people want to sit around talking about feminism go collectively on protests and in general try to promote gender equality why is that a problem Do you also feel the same way about the LGBT society or the Interfaith society both of which stand for equality in their various waysCould you maybe also leave this comment on the article about the Unions rejection of the Gender Equality Society It sums up th
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - Its hard to tell whether or not this is satire but Ill assume notjumping to the conclusion that we need an armed feminist society ready to kick ass chew gum and live their lives in an independent thoughtful and personally satisfying way seems like a knee jerk in the opposite direction We shouldnt need to do thisWhether we need this society or not is irrelevant We dont need a Harry Potter society or an Irish society or an LGBT society but people want them which is why they exist The online petition for the feminist society now has 78 signatures so clearly people want it If people want to sit around talking about feminism go collectively on protests and in general try to promote gender equality why is that a problem Do you also feel the same way about the LGBT society or the Interfaith society both of which stand for equality in their various waysCould you maybe also leave this comment on the article about the Unions rejection of the Gender Equality Society It sums up th
-imported: true
 ---
 
 Deep breaths everyone. Let’s open with the statement that no-one finds rape funny. So let’s do that: it’s not funny. No-one likes to see or hear about anyone being abused in such a way. I’m not particularly interested if you think male rape is under-represented, or if rape law only protects women, or anything like that. This is not Reddit. Rape isn’t ha-ha funny, plain and simple. I’ve never seen an episode of Friends about someone getting jovially drugged, abused and dumped somewhere.

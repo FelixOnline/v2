@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Marvin Tan Xing Haw, Physics student at Imperial, has applied for a patent for a novel way to make electricity
 date: "2012-06-14 20:15:40 +0100"
+
 # Attributes from Felix Online V1
 id: "2560"
 old_path: /science/2560/inspired-by-iron-man
 aliases:
  - /science/2560/inspired-by-iron-man
+imported: true
+comments:
+ - Marvin has a Facebook page for his device it would appear his patent has been grantedhttpswwwfacebookcombetafissionYou know publishing something before having a patent approved invalidates the patent rightAnonymous Wed 20 June 1621I dont think a news article is quite the same as the knowledge for the invention being in the public domain For starters there is no mention of any of the specifics which make the intellectual property uniqueSounds good though  Id be interested if Felix would follow this over the course of the students career at Imperial and beyond I anticipate full marks on the Research Interfaces course in fourth year httpwwwipogovukfactpublicationpdfYou know discussing the basic concepts of something isnt the same as the nittygritty in the patent rightTONY STARK WAS ABLE TO BUILD THIS IN A CAVE WITH A BOX OF SCRAAAAAAPSWhether or not this is classed as publication this chap will not be granted a patent until he can demonstrate that it actua
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Marvin has a Facebook page for his device it would appear his patent has been grantedhttpswwwfacebookcombetafissionYou know publishing something before having a patent approved invalidates the patent rightAnonymous Wed 20 June 1621I dont think a news article is quite the same as the knowledge for the invention being in the public domain For starters there is no mention of any of the specifics which make the intellectual property uniqueSounds good though  Id be interested if Felix would follow this over the course of the students career at Imperial and beyond I anticipate full marks on the Research Interfaces course in fourth year httpwwwipogovukfactpublicationpdfYou know discussing the basic concepts of something isnt the same as the nittygritty in the patent rightTONY STARK WAS ABLE TO BUILD THIS IN A CAVE WITH A BOX OF SCRAAAAAAPSWhether or not this is classed as publication this chap will not be granted a patent until he can demonstrate that it actua
-imported: true
 ---
 
 A first year Physics student at Imperial has applied for a patent on a new way to make electricity. Felix Science caught up with inventor Marvin Tan Xing Haw to find out all about his (as yet hypothetical) device…

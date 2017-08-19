@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Layers of Tone
 date: "2012-06-14 20:57:28 +0100"
+
 # Attributes from Felix Online V1
 id: "2573"
 old_path: /phoenix/2573/layers-of-tone-
 aliases:
  - /phoenix/2573/layers-of-tone-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A revival of what once was

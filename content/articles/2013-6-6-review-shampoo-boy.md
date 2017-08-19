@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ross Gray explores Peter Rehberg’s dark new collaboration
 date: "2013-06-06 19:47:23 +0100"
+
 # Attributes from Felix Online V1
 id: "3669"
 old_path: /music/3669/review-shampoo-boy
 aliases:
  - /music/3669/review-shampoo-boy
+imported: true
+comments:
+ - new KTL album with Jim ORourke  sounds very itteresning indeed especially as ORourkes latest releases are top quality the Touch 7 is fantastic Thank god its lunchtime here as i just clicked the Tenya link and its made me super hungryZune and iPod Most people coparme the Zune to the Touch but after seeing how slim and surprisingly small and light it is I consider it to be a rather unique hybrid that combines qualities of both the Touch and the Nano Its very colorful and lovely OLED screen is slightly smaller than the touch screen but the player itself feels quite a bit smaller and lighter It weighs about 23 as much and is noticeably smaller in width and height while being just a hair thicker  cialis online   cialis online   necessary missouri   cialis online
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - new KTL album with Jim ORourke  sounds very itteresning indeed especially as ORourkes latest releases are top quality the Touch 7 is fantastic Thank god its lunchtime here as i just clicked the Tenya link and its made me super hungryZune and iPod Most people coparme the Zune to the Touch but after seeing how slim and surprisingly small and light it is I consider it to be a rather unique hybrid that combines qualities of both the Touch and the Nano Its very colorful and lovely OLED screen is slightly smaller than the touch screen but the player itself feels quite a bit smaller and lighter It weighs about 23 as much and is noticeably smaller in width and height while being just a hair thicker  cialis online   cialis online   necessary missouri   cialis online
-imported: true
 ---
 
 Blackest Ever Black, the aptly named London label that has been grabbing attention with crushingly dark electronic releases for the past few years, seems like an ideal home for Peter Rehberg (PITA, Editions Mego head), Christina Nemec, and Christian Schachinger’s new project Shampoo Boy.

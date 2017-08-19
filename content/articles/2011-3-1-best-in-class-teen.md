@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The, fluffy angsty world of Teen TV
 date: "2011-03-01 21:00:41 +0000"
+
 # Attributes from Felix Online V1
 id: "962"
 old_path: /tv/962/best-in-class-teen-
 aliases:
  - /tv/962/best-in-class-teen-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There is no shame, only greatness and beautiful people. At least that’s the cover I’m hiding under. Teen Drama has a bad reputation and for good reason; the word teen conjures up an image of a thirteen year old girl painting her nails and blue tacking pictures of some floppy haired, half clothed male from Smash Hits to her wall. As someone who was once that 13 year old girl I can confirm we were that twee. Thankfully though, good teen telly despite its trapping has a little more depth than my musings over canary yellow or cherry red for my nails. Not that any award show beyond MTV Best Kiss has ever noticed. Though I’m not going to go and pretend that I never appreciate the ridiculous hotness this brand of TV celebrates. And that my friends, is the beauty of watching something so unashamedly aimed at the “younger generation”: the pure eye candy. Shallow? Yes. True? Entirely.

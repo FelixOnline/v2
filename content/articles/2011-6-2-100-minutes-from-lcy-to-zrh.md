@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Richard Keller on a relaxing sojourn in Zurich
 date: "2011-06-02 20:19:33 +0100"
+
 # Attributes from Felix Online V1
 id: "1321"
 old_path: /travel/1321/100-minutes-from-lcy-to-zrh
 aliases:
  - /travel/1321/100-minutes-from-lcy-to-zrh
+imported: true
+comments:
+ - Well for what its worth Italy simply isnt Switzerland for everything other than the ice cream Oh and I dont speak the languageYou mention that tuscan icecream is better Why didnt you just fly to Pisa instead of Zurich
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well for what its worth Italy simply isnt Switzerland for everything other than the ice cream Oh and I dont speak the languageYou mention that tuscan icecream is better Why didnt you just fly to Pisa instead of Zurich
-imported: true
 ---
 
 I was in Zurich last week; a beautiful sunny day in what the Zürcher like to consider to be the best of Switzerland, its peak. It lacks the 15,203 ft altitude of the Dufourspitze, though, on a day like today the view across the lake is just as amazing. Strolling along Bahnhofstrasse the fashion statements (for women) walking by present themselves mainly as wearing shorts or a mini skirt, leather boots that go all the way up to the knees with flat heels and a top that has flowers printed all over it. In short, life is beautiful here.

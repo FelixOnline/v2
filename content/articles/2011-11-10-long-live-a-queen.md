@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maintaining a misogynist monarchy
 date: "2011-11-10 20:18:00 +0000"
+
 # Attributes from Felix Online V1
 id: "1710"
 old_path: /politics/1710/long-live-a-queen
 aliases:
  - /politics/1710/long-live-a-queen
+imported: true
+comments:
+ - Your overriding argument in this article seems to be that we shouldnt change the rules of succession let alone contemplate switching to a republican system or in fact make any changes to the British political system because this will apparently destabilise the country  This thinking doesnt stand up to scrutiny there are many representative democracies in the world that dont have a monarch as head of state and survive without their societies descending into chaos  Why would changes to the executive branch of government even the trivial one you are against bring this about
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your overriding argument in this article seems to be that we shouldnt change the rules of succession let alone contemplate switching to a republican system or in fact make any changes to the British political system because this will apparently destabilise the country  This thinking doesnt stand up to scrutiny there are many representative democracies in the world that dont have a monarch as head of state and survive without their societies descending into chaos  Why would changes to the executive branch of government even the trivial one you are against bring this about
-imported: true
 ---
 
 A couple of weeks ago, at the Commonwealth summit in Perth, the sixteen leaders of countries where Elizabeth II is head of state unanimously agreed to change the succession laws to give women equal priority as men. This means should the Duke and Duchess of Cambridge (aka Wills and Kate) have a daughter before any sons, she will be eligible for the throne before her younger brothers. It will also allow any monarch, or anyone else in the succession line, to marry a Catholic without losing their right to the throne. A retroactive clause has been added to prevent hundreds of pretenders to the throne from emerging.

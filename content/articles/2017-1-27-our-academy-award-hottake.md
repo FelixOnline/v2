@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our Culture Editor, Fred Fyles, gives you the run-down on the Academy Award nominations for this year, from the meteoric rise of La La Land, to the possible success of Moonlight, and all those films that they missed along the way...
 date: "2017-01-27 16:46:49 +0000"
+
 # Attributes from Felix Online V1
 id: "6696"
 old_path: /film/6696/our-academy-award-hottake
 aliases:
  - /film/6696/our-academy-award-hottake
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The announcement of the nominees for the 89th Academy Awards this week marked the beginning of the end of the year-long awards process, which begins with the Cannes Film Festival in May, and ends with the Oscars, 8 months later. As usual, the list of nominees contains few surprises, with the Academy of Motion Picture Arts and Sciences choosing to stay on the straight and narrow, throwing out very few left-field choices.

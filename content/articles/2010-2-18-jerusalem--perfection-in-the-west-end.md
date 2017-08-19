@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Caz Knight reviews Jerusalem- a baudy satire about Binge Drinking and Morris Dancing
 date: "2010-02-18 16:50:10 +0000"
+
 # Attributes from Felix Online V1
 id: "93"
 old_path: /arts/93/jerusalem--perfection-in-the-west-end
 aliases:
  - /arts/93/jerusalem--perfection-in-the-west-end
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - lh106
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Royal Court Theatre production of Jerusalem is named after William Blake’s iconic poem of the same name. A favourite hymn to many, Jerusalem reveres the majesty of bucolic England – a countryside so beautiful that Christ himself must surely have been born here. It is with a sense of irony then that Jez Butterworth’s play begins with the morning-after-the-night-before carnage at Johnny ‘Rooster’ Byron’s trailer in the woods of Flintock, Wiltshire. Rudely awoken by the local council on St George’s day issuing an eviction notice in lieu of a decision to build the new estate in Rooster wood, Johnny stumbles out, limping, and fixes his inevitable hangover with a milk, raw egg and vodka concoction. This spinner of yarns is a modern day Pied Piper, father and drug dealer rolled into one, as his home of twenty years is local party destination for underage revelers and old friends alike. St George’s day heralds the beginning of the annual Flintock village fair and presents a chance for Johnny and his motley crew to do what Brits do best and go mental.

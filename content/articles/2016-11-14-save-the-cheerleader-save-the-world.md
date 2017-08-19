@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Yes. We made that reference
 date: "2016-11-14 14:24:42 +0000"
+
 # Attributes from Felix Online V1
 id: "6453"
 old_path: /sport/6453/save-the-cheerleader-save-the-world
 aliases:
  - /sport/6453/save-the-cheerleader-save-the-world
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College Titans are the university’s cheerleading team. The club is entering its 6th year of competition, with silver medals under our belt from last year’s nationals, and we need your support to go for gold.

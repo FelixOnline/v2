@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park moves his on-going feature towards nearly being in colour...
 date: "2012-10-18 21:30:06 +0100"
+
 # Attributes from Felix Online V1
 id: "2709"
 old_path: /film/2709/the-best-films-from-the-1950s
 aliases:
  - /film/2709/the-best-films-from-the-1950s
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Recently, the British Film Institute (BFI) released the results of their celebrated poll, “THE GREATEST FILMS OF ALL TIME”, in which they surveyed film critics and directors to list their ten favourite films. Now the Felix Film team, as much as we’d love to, doesn’t have that kind of time or resources. And so we decided to split the films up according to the decades in which they were released. So every week, we will present you with our top films of each decade.

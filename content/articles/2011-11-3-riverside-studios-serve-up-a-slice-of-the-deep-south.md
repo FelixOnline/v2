@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tennessee Williams (and Horton Foote) come to Hammersmith
 date: "2011-11-03 22:01:05 +0000"
+
 # Attributes from Felix Online V1
 id: "1696"
 old_path: /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
 aliases:
  - /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In the absence of any culinary skills, I’ve found that eating one’s dinner whilst watching MasterChef, can often make the experience a little more palatable. Through years of pretending that my toast was a main of spider crab thermidor accompanied with mussels, foraged sea vegetables and a side of chips, [Gregg Wallace has hammered into me](http://www.youtube.com/watch?v=IfeyUGZt8nk) an appreciation of the infamous notion of ‘flavour combinations.’

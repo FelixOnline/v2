@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the issues in the 2015 elections
 date: "2014-11-14 20:31:03 +0000"
+
 # Attributes from Felix Online V1
 id: "4870"
 old_path: /comment/4870/the-diversity-of-opinion-that-shapes-elections
 aliases:
  - /comment/4870/the-diversity-of-opinion-that-shapes-elections
+imported: true
+comments:
+ - Useful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to staUseful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to stay up there Secondly  we  suppress rather than emulate and exceed  the past achievements of our ablest peopleLord Bellwin for onejust look in Hansardand how about the bloke whoshould have been exempted on grounds of ageinsisted that he drop into Arnhem
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Useful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to staUseful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to stay up there Secondly  we  suppress rather than emulate and exceed  the past achievements of our ablest peopleLord Bellwin for onejust look in Hansardand how about the bloke whoshould have been exempted on grounds of ageinsisted that he drop into Arnhem
-imported: true
 ---
 
 In the 2015 election, one of the largest issues will be the size of the Government. People are asking questions, such as “what should the Government provide?”, and “how much control should the Government have in our lives?”. These questions split the political parties, with Conservatives generally in favour of having a smaller Government, and Labour in favour of a larger one. Parties have a spectrum of answers to this question.

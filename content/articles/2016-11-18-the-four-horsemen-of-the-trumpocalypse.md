@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Avirup Banerjee points the finger of blame for the Trump presidency
 date: "2016-11-18 14:40:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6460"
 old_path: /comment/6460/the-four-horsemen-of-the-trumpocalypse
 aliases:
  - /comment/6460/the-four-horsemen-of-the-trumpocalypse
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Wednesday the world woke to darkness – a fascist, misogynistic, anti-semitic, Islamophobic, racist, sexual assaulter who has called Mexicans rapists, made fun of a reporter’s disability, praised every dictator under the sun from Putin to Kim Jong-Un, ridiculed the heroism of prisoners of war, called for the banning of all Muslims, urged carpet bombing the Middle East, questioned the need to preserve NATO, asserted that climate change is a hoax perpetrated by the Chinese, threatened the 1st Amendment rights of free speech by promising to jail journalists and paying the legal fees of his supporters beating up peaceful protesters, and prided himself on his sexual abuse of women. Quite a mouthful, but only a thin veneer of what is Donald Trump.

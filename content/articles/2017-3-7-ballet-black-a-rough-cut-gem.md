@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ballet Black's triple bill has a strong message of diversity
 date: "2017-03-07 15:33:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6861"
 old_path: /arts/6861/ballet-black-a-rough-cut-gem
 aliases:
  - /arts/6861/ballet-black-a-rough-cut-gem
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ballet Black’s triple bill at the Barbican consisted of three works, which covered an eclectic range of compositions and dances. The first work, _House of Dreams_, was a non-narrative work consisting of three pas de deux and a finale to a diverse selection of compositions by Debussy. The compositions were not entirely disparate: all were solo compositions for piano, producing a minimalist atmosphere which was matched by the sparsity of props on stage and the simple lighting used throughout. Each piece conveyed a distinct emotional tone – the work opened with the melodic and whimsical _Prelude_ from the Suite Bergamasque but proceeded to the haunting and introspective_Des pas sur la neige_ before finishing with the frantic and bold _Passepied_. However abrupt, these transitions were not jarring as they were confidently handled by the dancing pairs: in particular the partnership of Sayaka Ichikawa and Damien Johnson stood out as terrifically coordinated and emotive.

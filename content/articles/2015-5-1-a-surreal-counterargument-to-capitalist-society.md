@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Max Falkenberg follows 1927's Golem, as it makes its move from the Young Vic to the West End
 date: "2015-05-01 10:13:06 +0100"
+
 # Attributes from Felix Online V1
 id: "5484"
 old_path: /arts/5484/a-surreal-counterargument-to-capitalist-society
 aliases:
  - /arts/5484/a-surreal-counterargument-to-capitalist-society
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Using animation, live music, physical theatre, and stand-up comic timing, _Golem_ is less your standard play and more a cabaret spectacle. Despite a slightly weaker plot than hoped, Golem’s message about corporate greed and human idleness is poignantly addressed by its technical achievements. With stunningly beautiful visuals, an incredible soundtrack, and a remarkable attention to detail, theatre company _1927_ present a truly unforgettable psychedelic nightmare – Golem is quite simply an artistic masterpiece.

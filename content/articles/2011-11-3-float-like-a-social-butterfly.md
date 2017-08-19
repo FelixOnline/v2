@@ -4,16 +4,24 @@ title: >
 subtitle: >
   How your online presence may relate to your real life presence
 date: "2011-11-03 21:43:31 +0000"
+
 # Attributes from Felix Online V1
 id: "1692"
 old_path: /comment/1692/float-like-a-social-butterfly
 aliases:
  - /comment/1692/float-like-a-social-butterfly
+imported: true
+comments:
+ - Im not sure how Id react if anthropologists in 200 years time say with all seriousness that Facebook was an advance  certainly it cant be ruled outHow many people have you ever deletedblocked   It leaves me curious about the long term impact the Internet is having on our cognitive processes and brain structures if anyIm not sure how many Ive blocked or deleted but I wouldnt say its completely out of the picture I dont really tend to accept requests from people I havent met or dont believe I will in the foreseeable futureFurther readinghttpnewsyahoocomnofacebooknotruininggradesstudy17330311420111012htmli think u look very sexy in your pic yes i do ur face is very round and sexyI actually think his face isnt at all sexy But it is roundI actually think his face isnt at all sexy But it is round
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Im not sure how Id react if anthropologists in 200 years time say with all seriousness that Facebook was an advance  certainly it cant be ruled outHow many people have you ever deletedblocked   It leaves me curious about the long term impact the Internet is having on our cognitive processes and brain structures if anyIm not sure how many Ive blocked or deleted but I wouldnt say its completely out of the picture I dont really tend to accept requests from people I havent met or dont believe I will in the foreseeable futureFurther readinghttpnewsyahoocomnofacebooknotruininggradesstudy17330311420111012htmli think u look very sexy in your pic yes i do ur face is very round and sexyI actually think his face isnt at all sexy But it is roundI actually think his face isnt at all sexy But it is round
-imported: true
 ---
 
 You may notice a story I ran [in the Science section last week](http://felixonline.co.uk/science/1628/study-links-facebook-friends-with-brain-regions/) regarding a study which linked the amount of Facebook friends to the size of an individual’s grey matter. It is interesting to note that there have been many studies which have correlated changing brain structures to internet usage. Although we must not misinterpret correlation as causation in any case, we can discuss the potential implications.

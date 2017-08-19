@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Let's talk about it
 date: "2016-05-13 09:26:56 +0100"
+
 # Attributes from Felix Online V1
 id: "6162"
 old_path: /tv/6162/daredevil-season-2
 aliases:
  - /tv/6162/daredevil-season-2
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Blood once again soaks the streets of Hell’s Kitchen, New York as Daredevil returns to our computer screens. Whereas the first season detailed the rise of Matt Murdock to the role of red-horn-wearing superhero, this season focuses more on Matt’s struggles with his new role and with just what it means to be a hero.

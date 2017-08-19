@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Results of Felix's Sexism Survey
 date: "2012-05-24 23:40:07 +0100"
+
 # Attributes from Felix Online V1
 id: "2490"
 old_path: /news/2490/felix-sexism-survey
 aliases:
  - /news/2490/felix-sexism-survey
+imported: true
+comments:
+ - Please can this be fixed  link brokenSurvey was sadly lacking in female nudity bawdy anecdotes Please try harder next timewomen were first allowed into the union bar in 1972WHATWomen are allowed in the Union Bar  Really
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Please can this be fixed  link brokenSurvey was sadly lacking in female nudity bawdy anecdotes Please try harder next timewomen were first allowed into the union bar in 1972WHATWomen are allowed in the Union Bar  Really
-imported: true
 ---
 
 Over the past year, 10 articles and 231 comments have been written about sexism in science and at Imperial. Stephen Smith’s “[Sexism at Imperial College](http://felixonline.co.uk/comment/2167/sexism-at-imperial-college/)” has been viewed over 7,500 times on the Felix website. Sexism is clearly an issue that concerns the Imperial community and 631 of you gave us your opinion by filling in the survey. Thank you.

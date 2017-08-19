@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Investments are indirect but clash with college’s cancer research efforts
 date: "2016-05-27 08:36:24 +0100"
+
 # Attributes from Felix Online V1
 id: "6194"
 old_path: /news/6194/-imperial-has-23-million-invested-in-tobacco-firms-via-endowment
 aliases:
  - /news/6194/-imperial-has-23-million-invested-in-tobacco-firms-via-endowment
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week FELIX revealed that the college has significant investments in several tobacco firms, as part of its endowment portfolio.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
    Hundreds of male MPs vote to continue charging women for having vaginas
 date: "2015-10-30 12:42:21 +0000"
+
 # Attributes from Felix Online V1
 id: "5685"
 old_path: /comment/5685/my-period-is-not-a-luxury
 aliases:
  - /comment/5685/my-period-is-not-a-luxury
+imported: true
+comments:
+ - Of course theyre not luxury items but neither are plenty of other things also not zerorated  it doesnt make sense to me periodically no pun intended get cross about something being considered a luxury which I dont believe is in the legislative language at all rather than to just have a complete reform like VATing everything as many other countries do and dropping the rate a bit accordinglyOTOH good job ICU for making them notsoldforprofit items in the Union shop earlier this year That does make senseHey there I just wanted to ask if you ever have any issues with hackers My last blog wordpress was hacked and I ended up losing months of hard work due to no data backup Do you have any solutions to stop hackerscheap snapbacks httpwwwtwofangtucnLxcl6Y httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomI value the information on your internet site Thanks a bunchFIFA 17 POINTS httpwwwdirefarebaciaretoitoperecherryannanba2kmtbeingbetteronlinegamingreliabl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Of course theyre not luxury items but neither are plenty of other things also not zerorated  it doesnt make sense to me periodically no pun intended get cross about something being considered a luxury which I dont believe is in the legislative language at all rather than to just have a complete reform like VATing everything as many other countries do and dropping the rate a bit accordinglyOTOH good job ICU for making them notsoldforprofit items in the Union shop earlier this year That does make senseHey there I just wanted to ask if you ever have any issues with hackers My last blog wordpress was hacked and I ended up losing months of hard work due to no data backup Do you have any solutions to stop hackerscheap snapbacks httpwwwtwofangtucnLxcl6Y httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomI value the information on your internet site Thanks a bunchFIFA 17 POINTS httpwwwdirefarebaciaretoitoperecherryannanba2kmtbeingbetteronlinegamingreliabl
-imported: true
 ---
 
 As a student, the list of items I would define as “luxury” is quite long. Branded chocolate, new razors, shoes without holes in – for all these things there is a feasible, if less appealing, alternative.

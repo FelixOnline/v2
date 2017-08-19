@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Music Editor Riaz Agahi explores the intricate stylings of Chalk White Nights, a collaborative album by Stranger By Starlight
 date: "2013-08-21 07:05:10 +0100"
+
 # Attributes from Felix Online V1
 id: "3753"
 old_path: /music/3753/album-chalk-white-nights
 aliases:
  - /music/3753/album-chalk-white-nights
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __Stranger By Starlight__ is a collaboration between Eugene Robinson of legendary experimental rock band [__Oxbow__](http://www.theoxbow.com) and __Anthony Saggers__, the man behind projects such as [__Stray Ghost__](http://music.hiddenshoal.com/artists/stray-ghost/stray-ghost-bio/). The name alone summarises the sort of unsettling ambience to the music, along with an album title which I can only hope is a veiled reference to Boardwalk Empire. Robinson, the quintessential intellectual badass, in addition to debut book ‘FIGHT: Everything You Ever Wanted to Know About Ass Kicking But Were Afraid You'd Get Your Ass Kicked for Asking’, published ‘A Long Slow Screw’ last November, a gritty crime novel so it is unsurprising in a way that the album itself is inspired by Film Noir and detective novels.

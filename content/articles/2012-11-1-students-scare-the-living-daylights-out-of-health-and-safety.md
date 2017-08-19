@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Bond pun in the title took a lot of work
 date: "2012-11-01 23:21:26 +0000"
+
 # Attributes from Felix Online V1
 id: "2826"
 old_path: /news/2826/students-scare-the-living-daylights-out-of-health-and-safety
 aliases:
  - /news/2826/students-scare-the-living-daylights-out-of-health-and-safety
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week, Felix reported that students had found their way onto the roof of Beit using the sheer mental power provided to the excellent students of this institution. Stephwen Hughes, Head of Health, Safety & Fire at Imperial College London, followed up with the following statement:

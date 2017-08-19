@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ice Hockey : Imperial B’s 2 - 10 Warwick B’s
 date: "2011-03-03 21:31:22 +0000"
+
 # Attributes from Felix Online V1
 id: "1028"
 old_path: /sport/1028/league-leaders-too-much-for-devil-bs
 aliases:
  - /sport/1028/league-leaders-too-much-for-devil-bs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A relatively up-beat third ranked team arrived at Streatham to see away a home match with the division leaders. In the second game without coach Coolegem the B-Team were confident in themselves although this may have manifested into arrogance. A solid pre-game tactics session by bench coaches Dolan and Runcorn made sure the team knew what was required of them, but concerns over Warwick’s player stats and top scorers stole the focus. Added to this the line-up was missing key elements, treachery on the half of Assistant Captain Matt Nolan (#53) and Treasurer Nathan Jones (#40).

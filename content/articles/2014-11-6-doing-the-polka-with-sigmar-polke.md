@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kieran Ryan wonders about intense dotted portraits
 date: "2014-11-06 21:40:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4807"
 old_path: /arts/4807/doing-the-polka-with-sigmar-polke
 aliases:
  - /arts/4807/doing-the-polka-with-sigmar-polke
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What is a Sigmar Polke? You are first exposed to strange drawings, soon giving way to intense dotted portraits, where eyes become mere dark recesses, their superficial happiness running thin. Buildings at night that are made of melting ice cream, a supermarket full of Supermen, an office worker about to shoot himself in the head with a catapult, collages of things not disincluding porn, and a really, really big Chairman Mao’s head. Blurred, nearly ethereal photos of homeless guys. You know those times when you remember that capitalism is built on false promises? This kind of brings you to that point a bit quicker.

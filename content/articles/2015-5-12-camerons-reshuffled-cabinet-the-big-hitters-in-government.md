@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
+
 # Attributes from Felix Online V1
 id: "5511"
 old_path: /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
 aliases:
  - /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
+imported: true
+comments:
+ - fit flops on salefitflops singapore online httpfitflopsalesingapore2blogspotcomExcellent blog Do you have any recommendations for aspiring writers Im planning to start my own website soon but Im a little lost on everything Would you propose starting with a free platform like Wordpress or go for a paid option There are so many choices out there that Im completely confused  Any suggestions Cheerswholesale snapbacks httpwwwdailymotioncomvideox30jl5l_wholesalesnapbackhatscheapnewerahatsfromchinaonly5hat_lifestylewhere to buy fitflopsfitflop stores httpaustraliafitflopsiemillernetbirkenstock sandals clearancebirkenstocks mayari httpbirkenstockaustraliamallscomlouboutin shoes pricechristian louboutin shoes httpcanadachristianlouboutinblogspotcomMany thanks this site is very beneficialcs go skins explained httpbestcoinsshopworldscom20160411nba2k16vccoinswithprimepromotingvideogamefranchisesMany thanks this website is very us
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flops on salefitflops singapore online httpfitflopsalesingapore2blogspotcomExcellent blog Do you have any recommendations for aspiring writers Im planning to start my own website soon but Im a little lost on everything Would you propose starting with a free platform like Wordpress or go for a paid option There are so many choices out there that Im completely confused  Any suggestions Cheerswholesale snapbacks httpwwwdailymotioncomvideox30jl5l_wholesalesnapbackhatscheapnewerahatsfromchinaonly5hat_lifestylewhere to buy fitflopsfitflop stores httpaustraliafitflopsiemillernetbirkenstock sandals clearancebirkenstocks mayari httpbirkenstockaustraliamallscomlouboutin shoes pricechristian louboutin shoes httpcanadachristianlouboutinblogspotcomMany thanks this site is very beneficialcs go skins explained httpbestcoinsshopworldscom20160411nba2k16vccoinswithprimepromotingvideogamefranchisesMany thanks this website is very us
-imported: true
 ---
 
 There’s not much change at the top in Cameron’s cabinet reshuffle, but in the ‘bottom’ half there are far more young and fresh faces, including more women.

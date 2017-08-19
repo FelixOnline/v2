@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jennifer Eden explains why Brexit isn’t necessarily the disaster you think it is –especially for Africa
 date: "2016-10-03 18:54:25 +0100"
+
 # Attributes from Felix Online V1
 id: "6306"
 old_path: /comment/6306/remaining-to-keep-africa-impoverished
 aliases:
  - /comment/6306/remaining-to-keep-africa-impoverished
+imported: true
+comments:
+ - Dans ce site vous serez en mesure dacheter de la collection de repliques deurlhttpwwwcrestscomhttpwwwcrestsorgurlurlhttpwwwcrestscomanniversary_wedding_double_crestshtmhttpwwwcrestsorganniversary_wedding_double_crestshtmurlurlhttpwwwcrestscomblazon_of_armshtmhttpwwwcrestsorgblazon_of_armshtmurlurlhttpwwwcrestscomcoat_of_armshtmhttpwwwcrestsorgcoat_of_armshtmurlurlhttpwwwcrestscomcrest_giftshtmhttpwwwcrestsorgcrest_giftshtmurlurlhttpwwwcrestscomcrest_or_coat_of_armshtmhttpwwwcrestsorgcrest_or_coat_of_armshtmurlurlhttpwwwcrestscomcrest_over_helmethtmhttpwwwcrestsorgcrest_over_helmethtmurlurlhttpwwwcrestscomcrest_specialshtmhttpwwwcrestsorgcrest_specialshtmurlurlhttpwwwcrestscomfamily_crestshtmhttpwwwcrestsorgfamily_crestshtmurlurlhttpwwwcrestscomfamily_reunionshtmhttpwwwcrestsorgfamily_reunionshtmurlurlhttpwwwc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Dans ce site vous serez en mesure dacheter de la collection de repliques deurlhttpwwwcrestscomhttpwwwcrestsorgurlurlhttpwwwcrestscomanniversary_wedding_double_crestshtmhttpwwwcrestsorganniversary_wedding_double_crestshtmurlurlhttpwwwcrestscomblazon_of_armshtmhttpwwwcrestsorgblazon_of_armshtmurlurlhttpwwwcrestscomcoat_of_armshtmhttpwwwcrestsorgcoat_of_armshtmurlurlhttpwwwcrestscomcrest_giftshtmhttpwwwcrestsorgcrest_giftshtmurlurlhttpwwwcrestscomcrest_or_coat_of_armshtmhttpwwwcrestsorgcrest_or_coat_of_armshtmurlurlhttpwwwcrestscomcrest_over_helmethtmhttpwwwcrestsorgcrest_over_helmethtmurlurlhttpwwwcrestscomcrest_specialshtmhttpwwwcrestsorgcrest_specialshtmurlurlhttpwwwcrestscomfamily_crestshtmhttpwwwcrestsorgfamily_crestshtmurlurlhttpwwwcrestscomfamily_reunionshtmhttpwwwcrestsorgfamily_reunionshtmurlurlhttpwwwc
-imported: true
 ---
 
 Upon joining the European Union in 1973, Britain joined an exclusive trade bloc based on its geographical location. A western country joining a western organisation designed to help already wealthy countries protect their own market interests. Yet, amidst the panic that followed the Brexit vote, many remainers were full of dismay and shame that Britain had detached itself from the EU utopia of ‘common values’, most laughably of which is inclusivity. The EU is first and foremost an exclusive group. This cannot be stressed enough.

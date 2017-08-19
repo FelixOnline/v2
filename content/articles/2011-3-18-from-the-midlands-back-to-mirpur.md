@@ -4,16 +4,24 @@ title: >
 subtitle: >
   How Mirpuris shaped the British Isles and how they themselves were changed
 date: "2011-03-18 06:44:41 +0000"
+
 # Attributes from Felix Online V1
 id: "1110"
 old_path: /news/1110/from-the-midlands-back-to-mirpur
 aliases:
  - /news/1110/from-the-midlands-back-to-mirpur
+imported: true
+comments:
+ - Nice article looking forward to the next installmentThis is great Had me in bitsSo much of this is TRUE You may be training to be a Doctor but youve deconstructed the Pakistani community with surgical precession  Great article MashAllah Correction You may be training to be a Doctor but youve deconstructed the Pakistani community with surgical precisionGood to let it out guys but rather diplomatic I felt Youre deviating from your Mirpuri roots Anyhoo who you guys supporting in this years Cricket World CupGreat conclusion to first article  great workWhy do I get the distinct impression that nobody likes MirpurisNice article looking forward to the next installmentNot bad but you need another article to get into the undercurrant that is harming the view of Pakistanis in the UK And that is the underlying propensity to crime drugs fraud and why the community covers it up All is not well in the Mirpur community in the UK maybe thats why nobody likes themWhats
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Nice article looking forward to the next installmentThis is great Had me in bitsSo much of this is TRUE You may be training to be a Doctor but youve deconstructed the Pakistani community with surgical precession  Great article MashAllah Correction You may be training to be a Doctor but youve deconstructed the Pakistani community with surgical precisionGood to let it out guys but rather diplomatic I felt Youre deviating from your Mirpuri roots Anyhoo who you guys supporting in this years Cricket World CupGreat conclusion to first article  great workWhy do I get the distinct impression that nobody likes MirpurisNice article looking forward to the next installmentNot bad but you need another article to get into the undercurrant that is harming the view of Pakistanis in the UK And that is the underlying propensity to crime drugs fraud and why the community covers it up All is not well in the Mirpur community in the UK maybe thats why nobody likes themWhats
-imported: true
 ---
 
 _Read part one "[From Mirpur to the Midlands](http://www.felixonline.co.uk/?article=1058)" _

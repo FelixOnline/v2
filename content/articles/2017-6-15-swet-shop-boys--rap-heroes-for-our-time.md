@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Political, witty and earnest, Riz MC and Heems are the transatlantic duo lending disenfranchised South-Asian kids a voice
 date: "2017-06-15 17:13:19 +0100"
+
 # Attributes from Felix Online V1
 id: "7027"
 old_path: /music/7027/swet-shop-boys--rap-heroes-for-our-time-
 aliases:
  - /music/7027/swet-shop-boys--rap-heroes-for-our-time-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On the first of June, midway through his set, Riz Ahmed signalled for the sold-out crowd at Scala to quieten down. Leaning in close, unaccompanied by music, he rapped his 2011 single Sour Times; “Please allow me to vouch for mine…/ losing my religion to tomorrow’s headlines”. It had been exactly a week since the horrific scenes at the Manchester Arena, and a few scant days before more horrific scenes would play out barely two miles from the King’s Cross venue at London Bridge.  “Ain’t religious faith that’s causing these crimes/It’s losing faith in democratic free market designs” he continued: “there's a monopoly on pens that's why they forge their own swords…They're misguided, turned violent, strapped themselves up with bombs/But they're still cowards, 'cause they ain’t here when the backlash is on”. Many artists understandably felt the need to say something after these attacks, coming from Ahmed it feels particularly poignant, he along with the rapper Heems, the other half of Swet Shop Boys, has made a career of creating politically conscious music that doesn’t shy away from tackling issues of religion and race.

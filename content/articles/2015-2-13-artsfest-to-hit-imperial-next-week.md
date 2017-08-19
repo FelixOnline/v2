@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jonathan McNaught on the biggest Arts Event on the Union's calendar.
 date: "2015-02-13 14:36:54 +0000"
+
 # Attributes from Felix Online V1
 id: "5252"
 old_path: /cands/5252/artsfest-to-hit-imperial-next-week
 aliases:
  - /cands/5252/artsfest-to-hit-imperial-next-week
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “ArtsFest? What’s that?” I hear you chorus, “There are scientists, engineers and medics at Imperial who like arts?” I may be totally biased, but I really believe the answer is yes, and ArtsFest is one of the many times during the year to show it.

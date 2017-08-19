@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This is a clash between civilisation and barbarism – and civilisation must triumph
 date: "2015-11-27 14:19:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5775"
 old_path: /comment/5775/isis-must-be-destroyed-with-air-strikes
 aliases:
  - /comment/5775/isis-must-be-destroyed-with-air-strikes
+imported: true
+comments:
+ - This article is devoid of any rational fact or nuancThis article is devoid of any rational fact or nuanced opinion This article is a statement of pride that we  must should attack a foreign country where everything is a complete mess in the hope of somehow reducing domestic terrorism and the Syrian refugee crisis Bombing at least without proper international coordination and forethought will not help either of these things In fact bombing will almost certainly increase the amount of civilians displaced and send a bastion admittedly a bastion of imperial educated dictatorship of calm further into the red Surely past interventions into Iraq and Lybia should teach us that bombing campaigns simply do not help The solution here is not to pour money into the defence industry but to educate people and be as western society the better option than a group of people thuggish militants Currently many young Muslims prefer their way of seeing the world to ours and that is a great review of how far we have fal
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article is devoid of any rational fact or nuancThis article is devoid of any rational fact or nuanced opinion This article is a statement of pride that we  must should attack a foreign country where everything is a complete mess in the hope of somehow reducing domestic terrorism and the Syrian refugee crisis Bombing at least without proper international coordination and forethought will not help either of these things In fact bombing will almost certainly increase the amount of civilians displaced and send a bastion admittedly a bastion of imperial educated dictatorship of calm further into the red Surely past interventions into Iraq and Lybia should teach us that bombing campaigns simply do not help The solution here is not to pour money into the defence industry but to educate people and be as western society the better option than a group of people thuggish militants Currently many young Muslims prefer their way of seeing the world to ours and that is a great review of how far we have fal
-imported: true
 ---
 
 In the wake of Paris, David Cameron is set to ask the House of Commons to authorise anti-ISIS strikes in Syria. In terms of strategy, this is common sense. The RAF is already striking ISIS targets in Iraq – it is ludicrous to respect a non-existent border that our enemy does not.

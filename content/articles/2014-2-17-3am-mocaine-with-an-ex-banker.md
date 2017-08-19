@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.
 date: "2014-02-17 17:24:41 +0000"
+
 # Attributes from Felix Online V1
 id: "4393"
 old_path: /comment/4393/3am-mocaine-with-an-ex-banker-
 aliases:
  - /comment/4393/3am-mocaine-with-an-ex-banker-
+imported: true
+comments:
+ - What on earth is this pile of turd Get a grip felix those arid musings from crippleminded wannabes of all sorts dont excite anyone anymore
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - What on earth is this pile of turd Get a grip felix those arid musings from crippleminded wannabes of all sorts dont excite anyone anymore
-imported: true
 ---
 
 This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.

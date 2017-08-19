@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Simran Sansoy watches Jake Bugg’s sold out show at the O2
 date: "2013-11-05 09:35:00 +0000"
+
 # Attributes from Felix Online V1
 id: "3993"
 old_path: /music/3993/jake-bugg-the-bugg-brand
 aliases:
  - /music/3993/jake-bugg-the-bugg-brand
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 I was lucky enough to get the chance to see Jake Bugg last Thursday at one of his three sold out gigs at the O2 Academy in Brixton. I’m only familiar with a handful of his songs, so I was actually quite surprised by his performance as a musician, singer and songwriter. Some people say he lacks charisma whilst performing, but I think they are confusing the word charisma with arrogance. Jake Bugg isn’t the kind of artist who needs to jump around the stage or smash a guitar to grab the audience’s attention; his music does that for him. Ok, so the only times he spoke in between songs were to thank the audience or to introduce the next song, but like the majority of the other audience members, I was there to enjoy his musical talent and that I certainly did.

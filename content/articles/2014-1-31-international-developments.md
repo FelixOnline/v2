@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hugo Paquet explores international development
 date: "2014-01-31 17:49:54 +0000"
+
 # Attributes from Felix Online V1
 id: "4320"
 old_path: /comment/4320/international-developments
 aliases:
  - /comment/4320/international-developments
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 There is little doubt that when development involves the empowerment of communities and spread of innovative ideas, lives will be changed. From the poorest of the poor to the war-torn regions of the globe, issues concerning people’s needs and rights interlink each and every one of us. When the standard of living and quality of life suffers in the face of issues such as healthcare, food scarcity and education, then onlookers beyond borders must act. Contributing to international development is of paramount importance as we head into mid 21st century. From technology to policy or social movements, progressive reform can take many guises. The introduction of large-scale, low cost vaccination to lower infant mortality, or strains of crop designed to survive harsh conditions to provide agricultural livelihoods both exemplify actions that have lessened huge health and environmental burdens on developing countries. Yet, these reforms make the news for their scale and involvement of international governments. Dig below the surface and you’ll find a whole host of progressive movements that are revolutionising the face of development. And most of the time these can be identified by three key features: community, technology and the presence of youth.

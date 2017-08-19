@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I hate reviewing if I haven't paid
 date: "2011-06-23 21:11:35 +0100"
+
 # Attributes from Felix Online V1
 id: "1434"
 old_path: /food/1434/confessions-of-a-food-editor
 aliases:
  - /food/1434/confessions-of-a-food-editor
+imported: true
+comments:
+ - I simply wtaend to thank you so much once more I do not know what I might have sorted out without these points contributed by you on my field It previously was a depressing circumstance in my view nevertheless viewing a new expert technique you managed the issue made me to weep with happiness Im just happier for your help and as well  pray you realize what a great job you were providing educating some other people by way of a site More than likely you havent met all of usWhat i do not realize is if truth be told how youre now not atuaclly much more wellliked than you might be right now Youre so intelligent You realize therefore considerably in relation to this topic produced me in my view imagine it from so many varied angles Its like men and women arent fascinated until it is one thing to do with Woman gaga Your individual stuffs outstanding Always maintain it up
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I simply wtaend to thank you so much once more I do not know what I might have sorted out without these points contributed by you on my field It previously was a depressing circumstance in my view nevertheless viewing a new expert technique you managed the issue made me to weep with happiness Im just happier for your help and as well  pray you realize what a great job you were providing educating some other people by way of a site More than likely you havent met all of usWhat i do not realize is if truth be told how youre now not atuaclly much more wellliked than you might be right now Youre so intelligent You realize therefore considerably in relation to this topic produced me in my view imagine it from so many varied angles Its like men and women arent fascinated until it is one thing to do with Woman gaga Your individual stuffs outstanding Always maintain it up
-imported: true
 ---
 
 Reviews. I hate writing reviews for places that I’ve eaten ‘on the house’. There’s something about dining for free, and the awkward moment when you don’t call for the bill. Do you just thank the waiter and bid him “Adieu!”? And when the restaurant gets my review in the post, I always wonder whether they admire and put it amongst their other shiny reviews; or do they put your name in the black book if you foulmouthed the taste of their tap water; or do they simply throw it in the trash. The latter does seem far more likely. (Especially when they see the last sentence isn’t even finished with a full stop.)

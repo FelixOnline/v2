@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Immanuel Kant, perennial philosopher of the 18th century, once made two key distinctions. Firstly, objects act in accordance with fixed rules. The latter distinction clarified that rational agents (you and I) formulate actions with flippant regard to mere conceptions of those rules...
 date: "2013-10-11 23:40:58 +0100"
+
 # Attributes from Felix Online V1
 id: "3830"
 old_path: /comment/3830/head-to-head-eoghan-totten-on-the-platonic-merits-of-a-religious-education
 aliases:
  - /comment/3830/head-to-head-eoghan-totten-on-the-platonic-merits-of-a-religious-education
+imported: true
+comments:
+ - Your entire argument for religious schooling consists of the fact that you are now at Imperial College and that you believe religion of all things can reconcile a conflict between catholics and protestants in a tiny corner of the worldIt must be made clear however that these seeds of imperfection were not sewn in the classrooms of Roman Catholic schools indeed I believe that faithoriented academic institutions share a common thread having been buffeted tarnished and ultimately engulfed by recurrent waves of vitriolic demagoguery which frequently and often surprisingly remains unchallenged Having been educated in a Catholic Grammar school I feel that the dualism between a religious ethos and education can stimulate plurality empathy and tolerance in the mind of a student Great so the churchs issues with pedophilia among other things apparently dont stem from its schools The rest of your paragraph makes little senseOne might care to consider focus as the desirable crux o
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Your entire argument for religious schooling consists of the fact that you are now at Imperial College and that you believe religion of all things can reconcile a conflict between catholics and protestants in a tiny corner of the worldIt must be made clear however that these seeds of imperfection were not sewn in the classrooms of Roman Catholic schools indeed I believe that faithoriented academic institutions share a common thread having been buffeted tarnished and ultimately engulfed by recurrent waves of vitriolic demagoguery which frequently and often surprisingly remains unchallenged Having been educated in a Catholic Grammar school I feel that the dualism between a religious ethos and education can stimulate plurality empathy and tolerance in the mind of a student Great so the churchs issues with pedophilia among other things apparently dont stem from its schools The rest of your paragraph makes little senseOne might care to consider focus as the desirable crux o
-imported: true
 ---
 
 Immanuel Kant, perennial philosopher of the 18th century, once made two key distinctions. Firstly, objects act in accordance with fixed rules. The latter distinction clarified that rational agents (you and I) formulate actions with flippant regard to mere conceptions of those rules. One would therefore conclude that certain elements of humanity prove to be flawed. Many would concede that Roman Catholicism, in recent decades, serves as a fitting allegory. Be it the sex abuse scandals portrayed to perpetuate ad infinitum or the Vatican’s dogmatic condemnation of contraception, the church has received its fair share of criticism (as has religion as a whole).

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In the last Wellbeing section, I wrote about my experience with recovering from depression. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.
 date: "2014-05-02 00:59:09 +0100"
+
 # Attributes from Felix Online V1
 id: "4537"
 old_path: /features/4537/helping-friends-with-depression
 aliases:
  - /features/4537/helping-friends-with-depression
+imported: true
+comments:
+ - This was great to read One of my closest friends has been through a lot and suffered badly from depression and I did struggle with not knowing how I could help her It was tough that it took her a long time to get better as I felt like I wasnt really helping at the time and shouldve been doing more I definitely spent too long asking how she was and focusing on her pushing my life to the side Whilst I didnt have any major problems she still appreciated hearing all the little good and bad stories from my life as I guess it helped her feel more normal and sometimes just wanted to try to get away from her depression
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - This was great to read One of my closest friends has been through a lot and suffered badly from depression and I did struggle with not knowing how I could help her It was tough that it took her a long time to get better as I felt like I wasnt really helping at the time and shouldve been doing more I definitely spent too long asking how she was and focusing on her pushing my life to the side Whilst I didnt have any major problems she still appreciated hearing all the little good and bad stories from my life as I guess it helped her feel more normal and sometimes just wanted to try to get away from her depression
-imported: true
 ---
 
 In the last Wellbeing section, I wrote about my experience with recovering from depression. Maybe it’s because I don’t make a habit of talking about my mental illness but I was genuinely surprised at the positive reception it received from friends, acquaintances and even complete strangers. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.

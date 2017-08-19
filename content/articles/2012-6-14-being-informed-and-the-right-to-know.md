@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Whether imposing further diagnostics as a mandatory procedure expands or limits a patient's rights is a question worth considering
 date: "2012-06-14 19:37:10 +0100"
+
 # Attributes from Felix Online V1
 id: "2548"
 old_path: /comment/2548/being-informed-and-the-right-to-know
 aliases:
  - /comment/2548/being-informed-and-the-right-to-know
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 However different American healthcare is from British healthcare, it wouldn’t be unreasonable to assume that the principles of consent are similar. One such principle is that valid consent needs to be informed; one must be aware of the implications of a decision to have a procedure, the benefits, risks and so on. When it comes to abortion, it seems people cannot agree on what it means to be informed. Some Americans feel that to be sufficiently informed about a decision to terminate one’s pregnancy a woman must undergo transvaginal ultrasound. They refer to this together with the provision of other information as “the right to know”.

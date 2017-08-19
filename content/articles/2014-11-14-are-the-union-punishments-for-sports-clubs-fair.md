@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Toni Semmence, last year's netball captain, discusses the sanctions held against the Rubgy players
 date: "2014-11-14 21:27:17 +0000"
+
 # Attributes from Felix Online V1
 id: "4896"
 old_path: /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
 aliases:
  - /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
+imported: true
+comments:
+ - My class choice is almost always Traditional with a twist or variations on trdotianaliAlso would love to learn to get out of my own way Some projects I dont tackle thinking yeah I cant so that When Im sure I could if I would just get out of my own way
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My class choice is almost always Traditional with a twist or variations on trdotianaliAlso would love to learn to get out of my own way Some projects I dont tackle thinking yeah I cant so that When Im sure I could if I would just get out of my own way
-imported: true
 ---
 
 In recent weeks two of Imperial College London’s biggest sports teams have been embroiled in various activities that have brought Imperial College Union into disrepute. The sanctions against the teams are causing innocent students to miss out on playing sport. Is this treating everyone fairly or have the disciplinarians allowed themselves to get influenced by the media?

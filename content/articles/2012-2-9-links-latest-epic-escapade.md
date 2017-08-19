@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Not the best, but certainly not the worst. Rhys Davies embarks on Link’s most recent epic, The Legend of Zelda: Skyward Sword
 date: "2012-02-09 22:44:40 +0000"
+
 # Attributes from Felix Online V1
 id: "2160"
 old_path: /games/2160/links-latest-epic-escapade
 aliases:
  - /games/2160/links-latest-epic-escapade
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So I finally completed _The Legend of Zelda: Skyward Sword_ last night.

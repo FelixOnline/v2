@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This isn't 50 Shades of Grey
 date: "2017-03-03 16:11:20 +0000"
+
 # Attributes from Felix Online V1
 id: "6854"
 old_path: /sex/6854/enter-the-kink--bdsm-101
 aliases:
  - /sex/6854/enter-the-kink--bdsm-101
+imported: true
+comments:
+ - Thats a skillful answer to a diuifcflt question
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thats a skillful answer to a diuifcflt question
-imported: true
 ---
 
 Following the election theme, today I’m going to talk about relinquishing control of yourself to someone who you deem trustworthy enough not to cause permanent damage to your well-being. Welcome to BDSM 101.

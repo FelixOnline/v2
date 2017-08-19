@@ -4,16 +4,23 @@ title: >
 subtitle: >
   One less place to tick off in freshers’ week
 date: "2016-10-03 17:04:40 +0100"
+
 # Attributes from Felix Online V1
 id: "6302"
 old_path: /news/6302/another-club-bites-the-dust
 aliases:
  - /news/6302/another-club-bites-the-dust
+imported: true
+comments:
+ - Fabric was overrated Went a couple of times it was a bit shit and full of monged out dancetardsYou are nothing like us NBA 2K17 MT PS4 httpcarpetarotacomblogs37847149696nba2k17playablecharacterthierryhenryarrivesinnba2k17You have a good tastebuy Cheap NBA 2K17 MT httpforumdovogamecomthread4079111htmlI was thinking if after work we could grab a cup of coffeecheap NBA 2K17 MT httpmarketmeiqcomblogs3973379nba2k17slasherprograndbadgeunlockguideEven call itUPAlbioncom httpalbiononlinegratisblogbiz20160524someusefulsuggestionsinalbiononline
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Fabric was overrated Went a couple of times it was a bit shit and full of monged out dancetardsYou are nothing like us NBA 2K17 MT PS4 httpcarpetarotacomblogs37847149696nba2k17playablecharacterthierryhenryarrivesinnba2k17You have a good tastebuy Cheap NBA 2K17 MT httpforumdovogamecomthread4079111htmlI was thinking if after work we could grab a cup of coffeecheap NBA 2K17 MT httpmarketmeiqcomblogs3973379nba2k17slasherprograndbadgeunlockguideEven call itUPAlbioncom httpalbiononlinegratisblogbiz20160524someusefulsuggestionsinalbiononline
-imported: true
 ---
 
 The iconic Islington Club, Fabric, shut it’s doors for possibly the last time over summer after it had its licence revoked by the local council.

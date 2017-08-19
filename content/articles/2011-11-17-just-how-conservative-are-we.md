@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton on Imperial’s political viewpoint
 date: "2011-11-17 21:16:33 +0000"
+
 # Attributes from Felix Online V1
 id: "1773"
 old_path: /news/1773/just-how-conservative-are-we
 aliases:
  - /news/1773/just-how-conservative-are-we
+imported: true
+comments:
+ - Sure but why should scientists be necessarily more right wing Most science jobs are government funded after all and the mighty Robert Winston is a Labour peerAh I meant jobs involving science research not jobs for science grads far point Most people say were right wingish because were science students but why should that be I mean that question honestly The Cons Soc chair we spoke to reckoned it was because IC students tend to get the kind of well paid jobs that the free market supplies baking oil etc so maybe thats it But is there a more fundamental ideological reason beyond self interest that links science student to the centre rightCurious to know peoples opinions on thisReally interesting point Luke Thanks for your commentYou might just be right about the difference in how we are taught In science you really learn how things ARE rather than critique them We may accept that certain theories may possibly be wrong ish but no undergrad physicist is going to dare c
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Sure but why should scientists be necessarily more right wing Most science jobs are government funded after all and the mighty Robert Winston is a Labour peerAh I meant jobs involving science research not jobs for science grads far point Most people say were right wingish because were science students but why should that be I mean that question honestly The Cons Soc chair we spoke to reckoned it was because IC students tend to get the kind of well paid jobs that the free market supplies baking oil etc so maybe thats it But is there a more fundamental ideological reason beyond self interest that links science student to the centre rightCurious to know peoples opinions on thisReally interesting point Luke Thanks for your commentYou might just be right about the difference in how we are taught In science you really learn how things ARE rather than critique them We may accept that certain theories may possibly be wrong ish but no undergrad physicist is going to dare c
-imported: true
 ---
 
 The week before I started my first year here I went to the Fresher’s Fair at Queen’s University Belfast, my local. Going to Imperial’s the week after was a more or less similar affair – the same hobbies and sports, the same international societies and charities. But one thing stood out as missing – where was the political Left? Unlike Queen’s with its range of left wing groups all vying for attention, singing revolutionary songs and pronouncing on student fees and corporate greed, this fledgling physicist saw just two people quietly manning a Socialist Workers stall, nestled uncomfortable between stalls from the various investment banks and oil companies we all know and love on campus. The Left, it seemed, had left. The question is – has it ever been here? Is Imperial naturally conservative?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Royal Academy succeeds with an exhibition on bronze sculpture throughout history
 date: "2012-10-18 20:56:40 +0100"
+
 # Attributes from Felix Online V1
 id: "2684"
 old_path: /arts/2684/gold-for-bronze
 aliases:
  - /arts/2684/gold-for-bronze
+imported: true
+comments:
+ - Nicely written Might go visit
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Nicely written Might go visit
-imported: true
 ---
 
 Classically, bronze is thought of as the material of antiquity. The discovery of the endurable properties of such copper alloys certainly allowed our ancestors to make more robust tools and weapons than their stone-age predecessors. Its use as an artistic medium, however, from the ancient world to the modern day, cannot be overlooked. The impressive exhibition of Bronze, currently running at the Royal Academy, eulogises the versatility and beauty of this abiding material, with a collection of artworks and artefacts spanning over 5,000 years of history.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The makers of Monument Valley return with the first great VR experience on mobile
 date: "2016-02-05 12:43:36 +0000"
+
 # Attributes from Felix Online V1
 id: "5882"
 old_path: /games/5882/lands-end-is-a-vr-gem
 aliases:
  - /games/5882/lands-end-is-a-vr-gem
+imported: true
+comments:
+ - Maintain the amazing job  Lovin itAlessandro Nesta httpormastopevent656I seecahrd a bunch of sites and this was the best
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Maintain the amazing job  Lovin itAlessandro Nesta httpormastopevent656I seecahrd a bunch of sites and this was the best
-imported: true
 ---
 
 For a gaming device to truly succeed it needs a great launch title. Land’s End, a virtual reality puzzle adventure from the creators of Monument Valley, is the game that every owner of the device must play. Developers Ustwo truly understand the power of the new medium and where it works best, and they’ve used that knowledge to create something that feels completely new.

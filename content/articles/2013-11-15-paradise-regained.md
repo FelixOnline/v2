@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Thomas Heaven catches Paradise Lost’s 25th anniversary show
 date: "2013-11-15 18:05:52 +0000"
+
 # Attributes from Felix Online V1
 id: "4078"
 old_path: /music/4078/paradise-regained
 aliases:
  - /music/4078/paradise-regained
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Paradise Lost played their 25th anniversary show at the roundhouse on Sunday, and I was there! It’s been 25 years since Paradise Lost emerged from Halifax in west Yorkshire. Twenty-five years in which the band has established itself as one of the best and most reliable in metal music, with 13 studio albums to their name, all but one original member still touring and new material that can stand shoulder to shoulder with the best of their early work. Guns n’ Roses should be jealous.

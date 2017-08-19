@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Giulia Gabrielli on the next generation of charming TV presenters
 date: "2014-12-04 19:19:05 +0000"
+
 # Attributes from Felix Online V1
 id: "4995"
 old_path: /tv/4995/the-thinking-womans-crumpet
 aliases:
  - /tv/4995/the-thinking-womans-crumpet
+imported: true
+comments:
+ - Thanks a lot It is definitely an awesome web pagecheap nba coins httpelainegwendolynmywapblogcomhowtoobtain2k16mtcoinsthatarenbaxhtmlA deficiency during ascorbic acid can reduce any durability so that you can stress filled functions whilst lower levels for the B vitamins sometimes with the fear and anxiety trouble sleeping depression plus mood swings determined by BourkeOxboard httpswwwsmarthoverboarderbeThis is certainly to imply that candor ought to be utilized one step extra that you produce the thoughts interesting and upliftingOxboard Kopen Goedkoop httpswwwsmarthoverboarderbeI failed to choose to motivate things regarding individuals who they didnt really wanthoverboards for sale httpswwwsmarthoverboardsforsalecomIt wont remedy the pressure anxiety symptoms and even disappointment of which created any major depression having something made a good idea that people with a depressive disorder even practice therapySkate Hoverboard httpswwwsmartho
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks a lot It is definitely an awesome web pagecheap nba coins httpelainegwendolynmywapblogcomhowtoobtain2k16mtcoinsthatarenbaxhtmlA deficiency during ascorbic acid can reduce any durability so that you can stress filled functions whilst lower levels for the B vitamins sometimes with the fear and anxiety trouble sleeping depression plus mood swings determined by BourkeOxboard httpswwwsmarthoverboarderbeThis is certainly to imply that candor ought to be utilized one step extra that you produce the thoughts interesting and upliftingOxboard Kopen Goedkoop httpswwwsmarthoverboarderbeI failed to choose to motivate things regarding individuals who they didnt really wanthoverboards for sale httpswwwsmarthoverboardsforsalecomIt wont remedy the pressure anxiety symptoms and even disappointment of which created any major depression having something made a good idea that people with a depressive disorder even practice therapySkate Hoverboard httpswwwsmartho
-imported: true
 ---
 
 Forget Brian Cox and David Attenborough. Forget science documentaries about space and animals, for a little while at least. There’s a new generation of TV presenters giving us insights into big cities, old jazz clubs and sacred rivers and we are definitely digging it.

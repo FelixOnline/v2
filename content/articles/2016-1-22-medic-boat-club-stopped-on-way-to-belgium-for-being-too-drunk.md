@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The annual trip to Leuven ended abruptly at Dover when students were sent home
 date: "2016-01-22 12:42:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5830"
 old_path: /news/5830/medic-boat-club-stopped-on-way-to-belgium-for-being-too-drunk
 aliases:
  - /news/5830/medic-boat-club-stopped-on-way-to-belgium-for-being-too-drunk
+imported: true
+comments:
+ - I heard Dariush threw a fresher in the sealolKidney Disease in America 1 man or woman on 9 has itAnd a lot dont have any idea it httpkidneyoktumblrcomcheap pro sports jerseys coupons mlb shop nfl pro shop promo code httpeastlothianplumbercoukcheap wholesale nhl jerseys nffl wholesale jerseys cheap mlb jerseys free shippingcheap nba jerseys Orlando Magic Jersey wholesale nfl jerseyscheap mlb jerseys Tampa Bay Lightning Jersey cheap mlb jerseyswholesale nnfl jerseys Cincinnati Bengals wholesale nhl jerseys Hubertnhl shop free shipping coupon code promo code for nhl shop mlb pro shop coupon codewhere to buy cheap nba jerseys mllb shop black friday promo code coupon for nhl shopnhl jersey shop chuna black friday nfl shop clearance nnba shop free shippig coupon codecoupo for nhl shop cheap nba jerseys free shipping nfl pro shop promo codenfl shop china nhll shop cyber monday wholesale nfl jerseys cheapcheap jerseys com cheap nhl jerseys for sale nfl cheap jerseyscheap j
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I heard Dariush threw a fresher in the sealolKidney Disease in America 1 man or woman on 9 has itAnd a lot dont have any idea it httpkidneyoktumblrcomcheap pro sports jerseys coupons mlb shop nfl pro shop promo code httpeastlothianplumbercoukcheap wholesale nhl jerseys nffl wholesale jerseys cheap mlb jerseys free shippingcheap nba jerseys Orlando Magic Jersey wholesale nfl jerseyscheap mlb jerseys Tampa Bay Lightning Jersey cheap mlb jerseyswholesale nnfl jerseys Cincinnati Bengals wholesale nhl jerseys Hubertnhl shop free shipping coupon code promo code for nhl shop mlb pro shop coupon codewhere to buy cheap nba jerseys mllb shop black friday promo code coupon for nhl shopnhl jersey shop chuna black friday nfl shop clearance nnba shop free shippig coupon codecoupo for nhl shop cheap nba jerseys free shipping nfl pro shop promo codenfl shop china nhll shop cyber monday wholesale nfl jerseys cheapcheap jerseys com cheap nhl jerseys for sale nfl cheap jerseyscheap j
-imported: true
 ---
 
 Last week’s ICSM Boat club’s annual trip to Belgium ended before it really even began – at the ferry port in Dover.

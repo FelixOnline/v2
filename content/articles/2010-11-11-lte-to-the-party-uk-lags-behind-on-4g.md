@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It’s almost 2011 already. Where’s my super fast 4G?!
 date: "2010-11-11 20:34:39 +0000"
+
 # Attributes from Felix Online V1
 id: "340"
 old_path: /tech/340/lte-to-the-party-uk-lags-behind-on-4g
 aliases:
  - /tech/340/lte-to-the-party-uk-lags-behind-on-4g
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We’ve been stuck with 3G (Third Generation) networks in the UK since March 2003. Technology has moved on significantly in the last seven years, but unfortunately we have not. The USA, Japan and most of Europe have already signed deals and are set to have the next generation of mobile networks operational in under 12 months. In fact in Germany and India, we’ve already seen the government auction off the frequencies that are required to broadcast these networks to cellular providers. In short, we’re well behind the game.

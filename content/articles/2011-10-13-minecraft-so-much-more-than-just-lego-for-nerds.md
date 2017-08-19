@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Laurence Pope goes digging for gold as he tries to explain all those cubes
 date: "2011-10-13 22:41:37 +0100"
+
 # Attributes from Felix Online V1
 id: "1516"
 old_path: /games/1516/minecraft-so-much-more-than-just-lego-for-nerds
 aliases:
  - /games/1516/minecraft-so-much-more-than-just-lego-for-nerds
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Yesterday one of my friends asked me – what’s the deal with Minecraft? I tried to explain it to them, but to no avail. So here’s try two – in print form. Maybe I’ll enlighten this time around…

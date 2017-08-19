@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Only the hottest of takes
 date: "2016-03-11 11:50:01 +0000"
+
 # Attributes from Felix Online V1
 id: "6034"
 old_path: /music/6034/hottakes-of-the-week
 aliases:
  - /music/6034/hottakes-of-the-week
+imported: true
+comments:
+ - Your company is very impressive urlhttpgaodongdongoverblogcom201601difficultenemieskeeptheweaponsneededtobeginabreakthroughortransformationhtmlBuy Blade And Soul GoldurlWhere were weurlhttpscheapgw2goldforsalewordpresscom20160310howdoyoufeelaboutthepveofbladesoulBladeSoul GoldurlYou re so smarturlhttpr4pgimgurcomr4pgurlToo bad we have to return them urlhttpschicisimocomroistoreroistoreurl
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your company is very impressive urlhttpgaodongdongoverblogcom201601difficultenemieskeeptheweaponsneededtobeginabreakthroughortransformationhtmlBuy Blade And Soul GoldurlWhere were weurlhttpscheapgw2goldforsalewordpresscom20160310howdoyoufeelaboutthepveofbladesoulBladeSoul GoldurlYou re so smarturlhttpr4pgimgurcomr4pgurlToo bad we have to return them urlhttpschicisimocomroistoreroistoreurl
-imported: true
 ---
 
 _No more CDs from me_

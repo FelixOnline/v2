@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I showed Xi Jinping what it’s like to be a student at Imperial
 date: "2015-10-23 11:56:20 +0100"
+
 # Attributes from Felix Online V1
 id: "5678"
 old_path: /comment/5678/my-morning-with-the-president-of-china
 aliases:
  - /comment/5678/my-morning-with-the-president-of-china
+imported: true
+comments:
+ - This inhsgtis just the way to kick life into this debateIn group F strategies Italy Paraguay New Zealand and Slovakia Statistically Jacobs and Ward do what Westbrook gets done alone although Jacobs can be a lot tougher to lower The success will earn them international accoladesfifa 16 hack httpcreditsfutcomMany thanks this website is really beneficialfifa 17 httpbkjydendkvanilladiscussion7902neverwintergolddragonofmanymanyeffective
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This inhsgtis just the way to kick life into this debateIn group F strategies Italy Paraguay New Zealand and Slovakia Statistically Jacobs and Ward do what Westbrook gets done alone although Jacobs can be a lot tougher to lower The success will earn them international accoladesfifa 16 hack httpcreditsfutcomMany thanks this website is really beneficialfifa 17 httpbkjydendkvanilladiscussion7902neverwintergolddragonofmanymanyeffective
-imported: true
 ---
 
 On Wednesday, Imperial was honoured to welcome President Xi Jinping of the People’s Republic of China. The trip to the College was part of a four day visit to the UK, which was the first state visit by a Chinese leader in ten years. In addition to visiting Imperial, the President also met with Prime Minister, David Cameron in an extremely important meeting regarding the building of a new power plant at Hinkley Point, Somerset. Whilst in the UK he is a guest of the Queen, residing at Buckingham Palace.

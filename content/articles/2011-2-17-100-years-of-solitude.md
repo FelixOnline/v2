@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Majid Al-Khalil recounts a book which is called the most influential Latin American text of all time
 date: "2011-02-17 18:57:41 +0000"
+
 # Attributes from Felix Online V1
 id: "809"
 old_path: /arts/809/100-years-of-solitude
 aliases:
  - /arts/809/100-years-of-solitude
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mma09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mma09"
 author_name: "Majid Al-Khalil"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 "Many years later, as he faced the firing squad, Colonel Aureliano BuendÌa was to remember that distant afternoon when his father took him to discover ice..." These are the first words which catapult the reader into Marquez's vibrant imagination and of a novel that has stayed with me from the moment I finished reading it.

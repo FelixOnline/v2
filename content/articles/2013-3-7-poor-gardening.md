@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An editorial on sleep (well, written on very little sleep), Garden Hall, and Elections
 date: "2013-03-07 23:33:34 +0000"
+
 # Attributes from Felix Online V1
 id: "3442"
 old_path: /comment/3442/poor-gardening
 aliases:
  - /comment/3442/poor-gardening
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Another week another issue. This week has been absolutely shattering. In fact, I am so tired that when I came into work today (Thursday) I put on my scarf, went to the door, then turned around and looked for my scarf as I thought I had lost it. It’s just been one of those weeks. Work, sleep, eat: barely time for relaxing at all. This is actually being written on a bus into College, just to prove that point.

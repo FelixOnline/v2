@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Another setback for the quest of finding a reliable male contraceptive, with reports of side effects in clinical trials causing concern
 date: "2016-11-04 12:57:38 +0000"
+
 # Attributes from Felix Online V1
 id: "6384"
 old_path: /science/6384/will-sperm-ever-be-stopped
 aliases:
  - /science/6384/will-sperm-ever-be-stopped
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Talking about Imperial Girl’s Can, isn’t it about time for a bit of equality when it comes to birth control? Men currently only have 3 options: condoms, vasectomies and withdrawal (not recommended), compared to the multiple women can choose from. Unfortunately, side effects are common alongside hormonal contraception methods resulting in mood swings, depression, weight gain, acne, or heavy periods. Having a male equivalent is a more balanced compromise, but would also allow men to take control of their fertility, making it more of a two-way street. A report showed that over half of women forgot to take at least one Pill during their last cycle. Yikes.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle tells Felix about some of the best action over the holiday
 date: "2014-12-11 23:39:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5044"
 old_path: /sport/5044/what-sport-should-you-look-out-for-this-christmas
 aliases:
  - /sport/5044/what-sport-should-you-look-out-for-this-christmas
+imported: true
+comments:
+ - Il est savoureux de lire les commentaires sur la mauvaise situation britannique puisque ce sont ces mmes personnes qui critiquent le rsultat de Sarkozy Quand je me regarde je me dsole mais quand je me compare je me co2srlen30Maoio Draghi et the economist sont du mme avis avec Hollande on court  la catastrophe
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Il est savoureux de lire les commentaires sur la mauvaise situation britannique puisque ce sont ces mmes personnes qui critiquent le rsultat de Sarkozy Quand je me regarde je me dsole mais quand je me compare je me co2srlen30Maoio Draghi et the economist sont du mme avis avec Hollande on court  la catastrophe
-imported: true
 ---
 
 __Football__

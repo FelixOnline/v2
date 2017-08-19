@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Post-match pizza isn’t only reserved for Leicester City Football Club
 date: "2016-11-07 13:18:57 +0000"
+
 # Attributes from Felix Online V1
 id: "6407"
 old_path: /sport/6407/netball-1s-secure-first-victories-of-the-season-
 aliases:
  - /sport/6407/netball-1s-secure-first-victories-of-the-season-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The first team had to wait 3 games to taste victory, but it was definitely worth it. Pre-ACC matches always have an extra sense of excitement but the home game at Heston against St Mary’s was the 1s first cup game and had a great atmosphere before the match even started. In the first quarter the game stayed tight at 11-6, with a relatively new team not used to playing together. Impressive defensive displays from Kath, Filippa and Annie in the second quarter ensured St Mary’s only scored two goals in the second quarter.

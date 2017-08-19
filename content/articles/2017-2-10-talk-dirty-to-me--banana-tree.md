@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Shanzeh embarks on an Indonesian food trip for an amazing price and, on top of that near college, not eating but rather experiencing a whole spectrum of flavours and making memories
 date: "2017-02-10 16:10:40 +0000"
+
 # Attributes from Felix Online V1
 id: "6771"
 old_path: /food/6771/talk-dirty-to-me--banana-tree
 aliases:
  - /food/6771/talk-dirty-to-me--banana-tree
+imported: true
+comments:
+ - TELL MO UR WOESits very useful for me personally searching for this sitecheapest and fastest madden 17 mobile coins store httpwwwmaddenstorecomProud of you pokemon go rare pokemon buy httpwwwpokemonbuxcomGood Cool I love your this bolgdofustouchkamas no1 dofus touch kamas seller httpswwwdofustouchkamascomYou fall for it every timeAlbion Online gold httpalbionbloogplid359719427titleUPAlbionIsAReputableAlbionOnlineGoldProviderindexhtml
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - TELL MO UR WOESits very useful for me personally searching for this sitecheapest and fastest madden 17 mobile coins store httpwwwmaddenstorecomProud of you pokemon go rare pokemon buy httpwwwpokemonbuxcomGood Cool I love your this bolgdofustouchkamas no1 dofus touch kamas seller httpswwwdofustouchkamascomYou fall for it every timeAlbion Online gold httpalbionbloogplid359719427titleUPAlbionIsAReputableAlbionOnlineGoldProviderindexhtml
-imported: true
 ---
 
 ## Where to go

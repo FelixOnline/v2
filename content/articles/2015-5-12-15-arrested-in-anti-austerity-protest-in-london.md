@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority.
 date: "2015-05-12 15:59:28 +0100"
+
 # Attributes from Felix Online V1
 id: "5512"
 old_path: /news/5512/15-arrested-in-anti-austerity-protest-in-london
 aliases:
  - /news/5512/15-arrested-in-anti-austerity-protest-in-london
+imported: true
+comments:
+ - Thanks pertaining to offering this kind of awesome writeupcs go skins for paypal httpfifa15trailerdrupalgardenscomcontent2ksportsstoppingitsmajorleaguebaseballgamingcollectionMuch thanks It is definitely an remarkable sitemadden 17 coins httpelizabeth2youbeweblogcheapnhl17coinsofpopularitygoaltenactiethreadthreadid386952
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks pertaining to offering this kind of awesome writeupcs go skins for paypal httpfifa15trailerdrupalgardenscomcontent2ksportsstoppingitsmajorleaguebaseballgamingcollectionMuch thanks It is definitely an remarkable sitemadden 17 coins httpelizabeth2youbeweblogcheapnhl17coinsofpopularitygoaltenactiethreadthreadid386952
-imported: true
 ---
 
 Protestors threw traffic cones, smoke bombs and other objects at the police in central London, angry that the Conservatives won the general election.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tips on how to avoid the mess!
 date: "2014-02-05 10:22:51 +0000"
+
 # Attributes from Felix Online V1
 id: "4333"
 old_path: /tech/4333/tired-of-all-those-wires
 aliases:
  - /tech/4333/tired-of-all-those-wires
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I hate wires. Every time I look at the back of my PC and I see the bunch of wires, my OCD kicks in. Luckily, I can usually sit at my desk and pretend the wires are not there.

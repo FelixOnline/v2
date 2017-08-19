@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Musical mash-up brings in comedians
 date: "2011-10-21 11:47:04 +0100"
+
 # Attributes from Felix Online V1
 id: "1603"
 old_path: /arts/1603/want-to-get-your-horne-on
 aliases:
  - /arts/1603/want-to-get-your-horne-on
+imported: true
+comments:
+ - Well Mark you took all the surprise out of my announcement that City had an excellent win over Leicester  obviously nothing to do with the skill and expertise of the players on the field as its entirely down to the combined finger crossing of Watsonians United Wonder which division they play in  Please ignore that last remark which is just too sillyHey Jen  our hard work and influence is paying dividends  Yay  NB Nicky Maynard scored twice and very nearly had a hat trick Onwards with your fast approaching new show on the horizon Mark  sure it will be an absolute blast  x buy viagra cheap auto insurance
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well Mark you took all the surprise out of my announcement that City had an excellent win over Leicester  obviously nothing to do with the skill and expertise of the players on the field as its entirely down to the combined finger crossing of Watsonians United Wonder which division they play in  Please ignore that last remark which is just too sillyHey Jen  our hard work and influence is paying dividends  Yay  NB Nicky Maynard scored twice and very nearly had a hat trick Onwards with your fast approaching new show on the horizon Mark  sure it will be an absolute blast  x buy viagra cheap auto insurance
-imported: true
 ---
 
 [Alex Horne](http://www.youtube.com/watch?v=yrBF-yYVcX8) is something of a mystery to me. He’s little known except by regular explorers of the comedy circuit and yet seems to have the phonebook of an A-list celebrity comedian. Here’s a man whose shows pull in the likes of [Tim Minchin](http://www.youtube.com/watch?v=KVN_0qvuhhw), [Harry Hill](http://www.youtube.com/watch?v=DtX-4A69mGo) and [Jimmy Carr](http://www.youtube.com/watch?v=1ioBZ5fNJO8) to name but a few, and yet who himself is rarely seen on TV or heard on radio. But if there were any question marks hanging over his comic credentials, his Section does more than answer them.

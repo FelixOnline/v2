@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Shad – 'Besides'
 date: "2012-03-15 21:20:16 +0000"
+
 # Attributes from Felix Online V1
 id: "2377"
 old_path: /music/2377/ramas-hip-hop-tune-of-the-week-3
 aliases:
  - /music/2377/ramas-hip-hop-tune-of-the-week-3
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In an attempt to redeem myself for last week’s poor no-show this week I’ve upped the ante and bringing you a whole mixtape.

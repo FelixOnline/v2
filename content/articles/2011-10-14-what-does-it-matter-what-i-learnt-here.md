@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There's always room in your head for new knowledge
 date: "2011-10-14 00:15:23 +0100"
+
 # Attributes from Felix Online V1
 id: "1533"
 old_path: /comment/1533/what-does-it-matter-what-i-learnt-here
 aliases:
  - /comment/1533/what-does-it-matter-what-i-learnt-here
+imported: true
+comments:
+ - I like how this is written very good stuffMy favourite bitThen having proved myself the AlphaMale of Intellect Id also drop in details of the fluid dynamics OF MY URINE which I spray round the house to mark my territory because Im so alphamale now Raaaaaar I put Extra As in that word because Im so full of alphaA very good read As always your article is hilarious Loved this And just as Khayam said LOL at the cannulaThe problem nowadays is that there is too much new knowledge about Unlike the polymaths of old we acquire it superficially without any deeper understanding whilst outrightly ignoring allied fields Weve become narrowdisciplined and with noone to oversee this multifaceted advancement of raw knowledge academics the world over continue to pursue it disparately like headless chickens with no real purpose in mind But yes what the study of timetested vocational disciplines like medicine or engineering does successfully impart on us is a rather l
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I like how this is written very good stuffMy favourite bitThen having proved myself the AlphaMale of Intellect Id also drop in details of the fluid dynamics OF MY URINE which I spray round the house to mark my territory because Im so alphamale now Raaaaaar I put Extra As in that word because Im so full of alphaA very good read As always your article is hilarious Loved this And just as Khayam said LOL at the cannulaThe problem nowadays is that there is too much new knowledge about Unlike the polymaths of old we acquire it superficially without any deeper understanding whilst outrightly ignoring allied fields Weve become narrowdisciplined and with noone to oversee this multifaceted advancement of raw knowledge academics the world over continue to pursue it disparately like headless chickens with no real purpose in mind But yes what the study of timetested vocational disciplines like medicine or engineering does successfully impart on us is a rather l
-imported: true
 ---
 
 It’s my 6th year here and my brain has been permanently disfigured, forever transformed by all that Science. It’s my 6th year of student discounts. My 6th year of Tuna-pasta dinners. My 6th year of pretending that I know stuff, and my 6th year of exam-period all-nighters because I don’t.

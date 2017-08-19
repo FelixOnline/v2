@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mayoral debate planned for Imperial
 date: "2012-03-02 01:06:57 +0000"
+
 # Attributes from Felix Online V1
 id: "2302"
 old_path: /news/2302/student-mayoral-manifesto-launched-
 aliases:
  - /news/2302/student-mayoral-manifesto-launched-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A student manifesto has been released in light of the London mayoral and assembly elections in May. The document, produced by [Student Vision for London](http://visionforlondon.org.uk/) in collaboration with many London universities’ student unions, outlines nine key issues for students with demands for the mayoral candidates to solve them.

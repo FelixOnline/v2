@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Valerie Wischott thinks we should all hold ourselves accountable for our unsustainable lifestyles
 date: "2017-02-17 14:40:14 +0000"
+
 # Attributes from Felix Online V1
 id: "6785"
 old_path: /comment/6785/query-your-consumerism
 aliases:
  - /comment/6785/query-your-consumerism
+imported: true
+comments:
+ - It iss thhe bet time too make somme plans ffor tthe fufure andd itt iss tiume tto be happyIve read thiis post annd if I could I wieh too sufgest yoou feww interesting tings oor suggestions Maybe yyou can write nedt artticles rerferring tto his article I desir too read more thijngs avout itWayy cool Somee very vali points I apppreciate yoou penning thos article annd tthe rest of thhe siute iis alpso very good   I am suure this paragrasph has touched alll tthe internet people itss reallly really good post onn building up neww website  httpfoxnewsnet
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - It iss thhe bet time too make somme plans ffor tthe fufure andd itt iss tiume tto be happyIve read thiis post annd if I could I wieh too sufgest yoou feww interesting tings oor suggestions Maybe yyou can write nedt artticles rerferring tto his article I desir too read more thijngs avout itWayy cool Somee very vali points I apppreciate yoou penning thos article annd tthe rest of thhe siute iis alpso very good   I am suure this paragrasph has touched alll tthe internet people itss reallly really good post onn building up neww website  httpfoxnewsnet
-imported: true
 ---
 
 I buy these flip-flops from H&amp;M for every summer – after one year, they’re broken. But it doesn’t matter, they’re only €7.” “I already booked my journey back home for Christmas holidays – got a flight for €10!” All of you have probably said something along these lines at some point. These quotes reflect the attitude that dominates today’s consumer behaviour. We are used to the permanent availability of all our desired products, from food to fashion to flights, and we can acquire them at low prices. At the same time, the world is worrying about climate change, desertification and pollution, and thus establishes goals and agreements in order to protect the environment. A common sense view on the causality chain of the environmental destruction reveals that our consumer behaviour is at the top of this chain and represents an essential factor with regard to the changes of the environment. Everyone’s daily life contains consumption decisions which have a direct or indirect influence on the environment. While some things seem obvious, others have to be investigated more carefully in order to trace back their influence. In doing so, the whole life cycle of a product or a service has to be taken into account.

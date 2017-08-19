@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix Games is back with Max Eggl reviewing indie hit Running with Rifles
 date: "2015-05-29 12:20:44 +0100"
+
 # Attributes from Felix Online V1
 id: "5588"
 old_path: /games/5588/squad-go-go-go
 aliases:
  - /games/5588/squad-go-go-go
+imported: true
+comments:
+ - How come my Kymco scooter sttars just for a few seconds then it stops even though my gas tank is fullIt automatically stops wheter i used the push button ignition or by kick startBut i was able to run  use the scooter 2 days ago  tried to start the engine last night  it workedBut this morning it the engine doesnt run anymore
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How come my Kymco scooter sttars just for a few seconds then it stops even though my gas tank is fullIt automatically stops wheter i used the push button ignition or by kick startBut i was able to run  use the scooter 2 days ago  tried to start the engine last night  it workedBut this morning it the engine doesnt run anymore
-imported: true
 ---
 
 Back in yonder days when I first started playing computer games, the one that really filled my childhood after-school hours was one called Army Men. Basically it was a shooter revolving around the green plastic men, where you would control one of them and shoot the other plastic dudes using a variety of guns, grenades and vehicles. Sadly the graphics of this classic did not stand the test of time, and I moved on to bigger and graphically better things. However, recently in a fit of nostalgia I decided to look this game up again, and while doing so came across the game Running with Rifles on Steam, made by indie studio Modulaatio Games. Described as a “tactical top-down shooter with RPG elements”, I had found a game that looked eerily similar to my past passion nd it didn’t look half bad! After checking out some videos, I knew I had to get it.

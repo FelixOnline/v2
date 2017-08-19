@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial researcher moves closer to realising the dream of the quantum computer
 date: "2010-11-18 20:13:56 +0000"
+
 # Attributes from Felix Online V1
 id: "385"
 old_path: /science/385/huge-leap-forward-in-quantum-computing
 aliases:
  - /science/385/huge-leap-forward-in-quantum-computing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ko407
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ko407"
 author_name: "Kelly Oakes"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kahoakes"
 author_facebook: ""
 author_website_url: "http://blogs.scientificamerican.com/basic-space"
 author_website_title: "Basic Space @ Scientific American"
-
-comments:
-imported: true
 ---
 
 Do you think you could make sense of this sentence if every fourth word was missing? How about trying to hold a conversation when you can only hear three quarters of what the other person is saying? Cutting out a fraction of the information being transferred in a given situation may make life slightly difficult, but it certainly doesn’t stop the meaning being conveyed in most cases. This is because of the redundancy built into language. However, redundancy is not only useful for conversations on a dodgy phone line - it can also come in handy in the world of quantum computing, as two researchers explained in a paper published in Physical Review Letters last week.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Priya Garg visits Arequipa, sees a Incan mummy and cycles down an active volcano
 date: "2011-06-16 21:03:40 +0100"
+
 # Attributes from Felix Online V1
 id: "1401"
 old_path: /travel/1401/return-of-the-mummy
 aliases:
  - /travel/1401/return-of-the-mummy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Arequipa, informally termed “la ciudad blanca” due to its luxurious white buildings, almost Arabic in stone and construction, lies in the Andes mountains overlooked by the looming snow-peaked volcano of El Misti, which rises majestically some 5822 feet above the city. Bordering El Misti lay the summits of Chachani and Picchu Picchu, the superstitious “Apus” or Inca homes of the Gods and spirits controlling the nature of the universe, nestling this ancient town and UNESCO world heritage site below their watchful eyes.

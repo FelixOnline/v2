@@ -4,16 +4,24 @@ title: >
 subtitle: >
   College Council haven’t delivered on the teaching review
 date: "2011-05-26 19:27:05 +0100"
+
 # Attributes from Felix Online V1
 id: "1261"
 old_path: /comment/1261/broken-promises
 aliases:
  - /comment/1261/broken-promises
+imported: true
+comments:
+ - Wow thats a really cveler way of thinking about itpBFqw8  urlhttpjlkhomzbqqqdcomjlkhomzbqqqdurl linkhttpfdipflhbewnfcomfdipflhbewnflink httpwlmqmuuyybjdcom7jNdQR  mphrabigtddf
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Wow thats a really cveler way of thinking about itpBFqw8  urlhttpjlkhomzbqqqdcomjlkhomzbqqqdurl linkhttpfdipflhbewnfcomfdipflhbewnflink httpwlmqmuuyybjdcom7jNdQR  mphrabigtddf
-imported: true
 ---
 
 [Last week’s Felix headline](http://felixonline.co.uk/news/1242/union-president-maggie-dallman-misinformed-college-council/) announced that I accused Professor Dallman, the Principle of Natural Sciences, of lying to the College Council. Those are not the exact words that I used (I said she lied to the Union President and misled College Council), but the implications are large and it is worth explaining what happened.

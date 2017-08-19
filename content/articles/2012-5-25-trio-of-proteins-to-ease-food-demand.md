@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Demand for food and fuels could be reduced
 date: "2012-05-25 14:29:14 +0100"
+
 # Attributes from Felix Online V1
 id: "2494"
 old_path: /science/2494/trio-of-proteins-to-ease-food-demand
 aliases:
  - /science/2494/trio-of-proteins-to-ease-food-demand
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A new study has identified three key proteins in plants that may help the development of improved crops yielding higher qualities and quantities of oils. The scientists, of the [Salk Institute for Biological Studies ](http://www.salk.edu/)and [Iowa State University](http://www.iastate.edu/), say that such plants could help to reduce the growing global demand for food and fuels, and negate the detrimental effect such demand may have on our environment and ecosystems.

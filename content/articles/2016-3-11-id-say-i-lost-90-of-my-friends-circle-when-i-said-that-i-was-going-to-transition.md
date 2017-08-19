@@ -4,16 +4,23 @@ title: >
 subtitle: >
   FELIX interviews 29 year-old Anjeli Patel, who works at Ernst & Young, on being trans, being Indian and the equality in the workplace
 date: "2016-03-11 11:31:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6023"
 old_path: /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
 aliases:
  - /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
+imported: true
+comments:
+ - Its very unfortunate that she is being discriminated against and treated so poorly for something she cant change ie her internal gender identity Good news that she is transitioning her external appearance to better match her selfimageThe treatment she has received from her community just further highlights the problems of letting intolerant cultures seep into our largely socially liberal countryFirstly thank you to Felix for taking the time to ask me a few questions about my experiences and observations in regards to transitioning within the Asian community Before I respond to the comment left I would like to say that the picture chosen for this article will be changed  I do not endorse Caitlyn Jenners views and the only thing her and I have in common is the fact that we are both transgender women In response to the comment left thank you for showing your support to my situation however there are a couple of points I would like to clarify A lot of what was spoken about in the articl
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its very unfortunate that she is being discriminated against and treated so poorly for something she cant change ie her internal gender identity Good news that she is transitioning her external appearance to better match her selfimageThe treatment she has received from her community just further highlights the problems of letting intolerant cultures seep into our largely socially liberal countryFirstly thank you to Felix for taking the time to ask me a few questions about my experiences and observations in regards to transitioning within the Asian community Before I respond to the comment left I would like to say that the picture chosen for this article will be changed  I do not endorse Caitlyn Jenners views and the only thing her and I have in common is the fact that we are both transgender women In response to the comment left thank you for showing your support to my situation however there are a couple of points I would like to clarify A lot of what was spoken about in the articl
-imported: true
 ---
 
 Iam ten minutes late by the time I get on the line to Anjeli Patel – not something I reckon would be taken lightly at Ernst &amp; Young LLP, where she works as an associate in assurance within Wealth and Asset management.

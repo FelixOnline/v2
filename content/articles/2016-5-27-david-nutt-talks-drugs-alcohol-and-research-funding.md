@@ -4,16 +4,22 @@ title: >
 subtitle: >
   He spoke as part of Imperial’s Mental Health Week
 date: "2016-05-27 08:39:46 +0100"
+
 # Attributes from Felix Online V1
 id: "6198"
 old_path: /news/6198/david-nutt-talks-drugs-alcohol-and-research-funding
 aliases:
  - /news/6198/david-nutt-talks-drugs-alcohol-and-research-funding
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 David Nutt, the chair of Imperial’s Centre for Neuropsychopharmacology, advocate for drug reform, and former chair of the Advisory Council on the Misuse of Drugs before he was sacked by the government in 2009 for saying alcohol was more harmful than illegal drugs, spoke to students and staff last week as part of Imperial’s mental health week.

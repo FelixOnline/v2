@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emilie Beauchamp hops on an exercise bike in search of laughter
 date: "2012-11-01 22:51:20 +0000"
+
 # Attributes from Felix Online V1
 id: "2796"
 old_path: /arts/2796/pedal-powered-comedy
 aliases:
  - /arts/2796/pedal-powered-comedy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 How do you deal with a heartbreak? Some people go and party it away. Others merge with their sofas until the tears dry out and some develop a freakish emotional attachment to a spinning bike…

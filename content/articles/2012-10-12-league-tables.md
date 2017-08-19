@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Seen and believed?
 date: "2012-10-12 10:57:52 +0100"
+
 # Attributes from Felix Online V1
 id: "2683"
 old_path: /comment/2683/league-tables
 aliases:
  - /comment/2683/league-tables
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week, we have painstakingly (sort of) gone through all of the league tables so you can see where we stand. Also, importantly, you can see where your subject is placed. I hope it’s interesting and that you enjoy the pretty infographics. We’ve tried to strip out the boring waffling from us and just give you the facts and figures.

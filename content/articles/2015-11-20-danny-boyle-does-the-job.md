@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With a quickfire script and powerful acting, this is the biopic we’ve been waiting for
 date: "2015-11-20 09:13:51 +0000"
+
 # Attributes from Felix Online V1
 id: "5750"
 old_path: /film/5750/danny-boyle-does-the-job
 aliases:
  - /film/5750/danny-boyle-does-the-job
+imported: true
+comments:
+ - Thanks for the recommendations shared on your own blog Something also important I would like to state is that fat loss is not exactly about going on a fad diet and trying to lose as much weight as you can in a couple of weeks The most effective way in losing weight is by acquiring it gradually and using some basic guidelines which can help you to make the most from a attempt to drop some weight You may realize and already be following many of these tips nonetheless reinforcing information never does any damage Enlever les cernes urlhttpwwwenleverlescernesmlEnlever les cernesurlI believe  avoiding processed foods is a first step so that you can lose weight They may taste great but highly processed foods possess very little vitamins and minerals making you take more only to have enough strength to get through the day If youre constantly consuming these foods transitioning to cereals and other complex carbohydrates will make you to have more vigor while having less Thanks alot   for
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for the recommendations shared on your own blog Something also important I would like to state is that fat loss is not exactly about going on a fad diet and trying to lose as much weight as you can in a couple of weeks The most effective way in losing weight is by acquiring it gradually and using some basic guidelines which can help you to make the most from a attempt to drop some weight You may realize and already be following many of these tips nonetheless reinforcing information never does any damage Enlever les cernes urlhttpwwwenleverlescernesmlEnlever les cernesurlI believe  avoiding processed foods is a first step so that you can lose weight They may taste great but highly processed foods possess very little vitamins and minerals making you take more only to have enough strength to get through the day If youre constantly consuming these foods transitioning to cereals and other complex carbohydrates will make you to have more vigor while having less Thanks alot   for
-imported: true
 ---
 
 It was a bit of a shock when Ashton Kutcher was picked to star as the Apple-founding billionaire in 2013’s biopic Jobs; he’s not the most likely actor I would have picked for a historical breaking of typecasting, but a role as one of the most iconic and influential men of the modern technological revolution being given to that guy from Dude, Where’s My Car? was a casting decision reaching Robin Williams in Good Will Hunting levels of unexpectedness. Far from the glimmering success of Williams’ atypically heartbreaking performance, Kutcher’s turn in Jobs appears to have become a bedtime horror story that agents tell their actors before they go to sleep: ‘If you ever break type, the spirit of Ashton Kutcher’s Steve Jobs will possess you and you will never be respected again.’ Shudder. The film itself was apparently so bad that it had to be remade within two years of its release, and so here we are with Steve Jobs. What’s gratifying is that it’s been done very, very well this time.

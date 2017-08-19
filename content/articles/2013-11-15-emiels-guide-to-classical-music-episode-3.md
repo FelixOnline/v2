@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Episode 3: The School at Notre Dame
 date: "2013-11-15 18:10:44 +0000"
+
 # Attributes from Felix Online V1
 id: "4082"
 old_path: /music/4082/emiels-guide-to-classical-music-episode-3
 aliases:
  - /music/4082/emiels-guide-to-classical-music-episode-3
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ask someone to name a ‘Classical’ composer and they’ll reply with Bach, Mozart or Beethoven. The music we’ve discussed so far is, I’ll admit, a little bit ‘niche’; rarely performed in the concert hall, and probably the reserve of a special group of early music enthusiasts. Still, I’m going to continue my slow march through history – not only because the foundations of music are being laid, but also because you may actually like some of what you hear! I certainly do; the music of these early periods has a certain purity, (to modern ears) and mysticism to it not seen again until the 20th century. So, I hope you keep reading, and once again there should be musical examples on the Felix website to give you a taste.

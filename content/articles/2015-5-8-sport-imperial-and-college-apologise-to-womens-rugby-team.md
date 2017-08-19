@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Investigation reveals “clear failings” during Varsity, Philippa Skett reports
 date: "2015-05-08 00:29:59 +0100"
+
 # Attributes from Felix Online V1
 id: "5503"
 old_path: /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
 aliases:
  - /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
+imported: true
+comments:
+ - Youre an extremely beneficial site could not make it without yacs go skins database httpforummedicalexamscomindexphppdiscussion881872k16coinsforthephiladelphiawarriorsinhershey20162016   100urlhttpwwwokakakucombrand37copy0html    romurlnwpngV httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre an extremely beneficial site could not make it without yacs go skins database httpforummedicalexamscomindexphppdiscussion881872k16coinsforthephiladelphiawarriorsinhershey20162016   100urlhttpwwwokakakucombrand37copy0html    romurlnwpngV httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
-imported: true
 ---
 
 The College has released the investigation findings surrounding Varsity 2015, with Sport Imperial and the College offering up apologies to the Women’s Rugby team.

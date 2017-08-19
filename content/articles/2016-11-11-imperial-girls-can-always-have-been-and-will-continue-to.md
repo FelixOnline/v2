@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Are men really that intimidating? I certainly don’t feel it when doing the dishes in a fetching apron
 date: "2016-11-11 18:25:50 +0000"
+
 # Attributes from Felix Online V1
 id: "6441"
 old_path: /sport/6441/imperial-girls-can-always-have-been-and-will-continue-to-
 aliases:
  - /sport/6441/imperial-girls-can-always-have-been-and-will-continue-to-
+imported: true
+comments:
+ - As a member of the opposite sex I did get the impression the week was for women only At no point was it made clear that men were welcome to attend but as mentioned at the start of this piece shouldnt it be obvious Equality means opportunities for all at supposedly singlesex events To quote UN Women Goodwill Ambassador Emma Watson Men  Gender equality is your issue too  Yeah this is misinformed sorryMen have kind off run the world since time began so not being enthusiastically welcomed to an event to help raise the profile of womens sport may feel like a real injustice but compared to institutionalised sexism it really isnt so bad
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - As a member of the opposite sex I did get the impression the week was for women only At no point was it made clear that men were welcome to attend but as mentioned at the start of this piece shouldnt it be obvious Equality means opportunities for all at supposedly singlesex events To quote UN Women Goodwill Ambassador Emma Watson Men  Gender equality is your issue too  Yeah this is misinformed sorryMen have kind off run the world since time began so not being enthusiastically welcomed to an event to help raise the profile of womens sport may feel like a real injustice but compared to institutionalised sexism it really isnt so bad
-imported: true
 ---
 
 I have now been married for three wonderful months, and even though I may be the man of the house I can happily say my wife has a more proficient history in sport than I. Do note the lack of shame. I have no beef with such a statement. I am proud to talk about her previous achievements and will continue to be, even when our future children ask why I always lose during games night. Again, not in a ‘this is unusual’ way, in a perfectly normal, proud-husband manner.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   For nonbelievers to properly engage wth Christians, they must learn about the life of Jesus, says Tom Ravalde
 date: "2013-01-25 01:42:19 +0000"
+
 # Attributes from Felix Online V1
 id: "3183"
 old_path: /comment/3183/what-would-jesus-do
 aliases:
  - /comment/3183/what-would-jesus-do
+imported: true
+comments:
+ - What possible use is there for atheists or faitheists in religion  What do you have that we need  I find your characterisation of us as users like this very sad and deeply cynicalIf anyone is pretending at dialogue and listening it would seem to be you  If the only solution you see to any problem is salvation sought through Jesus there doesnt seem to be anything worth discussing  Your article states that there is no dialogue to be had and there is no listening on your part to be done  If the only listening we can do is receiving the gospel this seems to be a waste of everyones timea more fundamental predicament  a world thats turned its back on its loving Creator  this is broadly what Christians mean by sinThe Christian worldview has a far deeper explanation of the evil we experience than faitheism allowsJesus sees a need greater than just the physicalJesus tells us our biggest problem is to stand unforgiven before GodUnfortunately yo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What possible use is there for atheists or faitheists in religion  What do you have that we need  I find your characterisation of us as users like this very sad and deeply cynicalIf anyone is pretending at dialogue and listening it would seem to be you  If the only solution you see to any problem is salvation sought through Jesus there doesnt seem to be anything worth discussing  Your article states that there is no dialogue to be had and there is no listening on your part to be done  If the only listening we can do is receiving the gospel this seems to be a waste of everyones timea more fundamental predicament  a world thats turned its back on its loving Creator  this is broadly what Christians mean by sinThe Christian worldview has a far deeper explanation of the evil we experience than faitheism allowsJesus sees a need greater than just the physicalJesus tells us our biggest problem is to stand unforgiven before GodUnfortunately yo
-imported: true
 ---
 
 Let the dialogue begin.’ So began [Rory Fenton’s thoughtful piece last week](http://felixonline.co.uk/comment/3135/faitheism-the-importance-of-dialogue/) – encouraging the religious and irreligious alike to ‘look for the common ground’ and ‘work together’ against extremism for a better society. As a Christian, I welcome this engagement from the (so called) ‘faitheists’ – it’s certainly a refreshing change from the hostile rhetoric spouted by Dawkins et al.

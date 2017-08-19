@@ -4,16 +4,24 @@ title: >
 subtitle: >
   £235 per week for a room at Griffon Studios
 date: "2011-01-13 21:47:22 +0000"
+
 # Attributes from Felix Online V1
 id: "596"
 old_path: /news/596/new-postgraduate-halls-at-clapham-junction-
 aliases:
  - /news/596/new-postgraduate-halls-at-clapham-junction-
+imported: true
+comments:
+ - 235 a week for Clapham JunctionWhy would they charge so much to postgrads of all people  who will already be in a situation of debt by their PG tuition fees and outstanding debts from their first degreeMr Anderson argued that the halls offered international postgraduate students peace of mind when it came to housing The 235 price tag is not simply for the bricks and mortar Its also for the amenities the community spirit and for peace of mind We know that international postgraduate students can sometimes get burnt in the private rental marketSo theyre basically overcharging people who dont know betterThis makes no financial sense whatsoever for the PhDs If youre lucky your stipend is 1300 a month which is 15600 a year and these halls would come in to 12220 leaving you 3380 for personal spending thats 65 a weekFor 235 a week you can get a decent 1 bed flat in CJTheyre just taking advantage of people who havent got a clue what prop
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - 235 a week for Clapham JunctionWhy would they charge so much to postgrads of all people  who will already be in a situation of debt by their PG tuition fees and outstanding debts from their first degreeMr Anderson argued that the halls offered international postgraduate students peace of mind when it came to housing The 235 price tag is not simply for the bricks and mortar Its also for the amenities the community spirit and for peace of mind We know that international postgraduate students can sometimes get burnt in the private rental marketSo theyre basically overcharging people who dont know betterThis makes no financial sense whatsoever for the PhDs If youre lucky your stipend is 1300 a month which is 15600 a year and these halls would come in to 12220 leaving you 3380 for personal spending thats 65 a weekFor 235 a week you can get a decent 1 bed flat in CJTheyre just taking advantage of people who havent got a clue what prop
-imported: true
 ---
 
 New halls in Clapham Junction are set to open to postgraduates in the next academic year. [Griffon Studios](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectivepostgraduatestudents/accommodationoptions/griffonstudios), which charges £235 per week for high-quality studio apartments, is the product of a joint venture between the Imperial College Fund and the property developer [Berkeley First](http://www.berkeleygroup.co.uk/berkeley-first). The halls on Winstanley Road, which include a 24-hour “concierge service” and a free on-site “fitness gym”, will house 452 postgraduates from October 2011, expanding to 566 the following year.

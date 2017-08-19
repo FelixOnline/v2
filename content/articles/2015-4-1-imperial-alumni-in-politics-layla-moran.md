@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Plabon Saha interviews the Liberal Democrat parliamentary candidate for Oxford West and Abingdon
 date: "2015-04-01 17:01:05 +0100"
+
 # Attributes from Felix Online V1
 id: "5460"
 old_path: /politics/5460/imperial-alumni-in-politics-layla-moran
 aliases:
  - /politics/5460/imperial-alumni-in-politics-layla-moran
+imported: true
+comments:
+ - How are you excellent site you have in herenhl 17 coins httpnyxgamingtkforumsMainForum1131cheapnba2k17coinsflashgameoftheweektwistgame
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How are you excellent site you have in herenhl 17 coins httpnyxgamingtkforumsMainForum1131cheapnba2k17coinsflashgameoftheweektwistgame
-imported: true
 ---
 
 Layla Moran, a physics graduate from Imperial College London is currently running for Parliament in the ultra-marginal seat of Oxford West and Abingdon. Last weekend the Imperial Liberal Democrats popped down to help Layla with her campaign. We caught up with Layla over lunch.

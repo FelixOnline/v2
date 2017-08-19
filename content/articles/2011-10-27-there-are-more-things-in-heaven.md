@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Raftery argues against the common misconceptions about the afterlife
 date: "2011-10-27 23:55:33 +0100"
+
 # Attributes from Felix Online V1
 id: "1625"
 old_path: /comment/1625/there-are-more-things-in-heaven
 aliases:
  - /comment/1625/there-are-more-things-in-heaven
+imported: true
+comments:
+ - I think the main thing you failed to address was the issue of eternity Surely you do not wish to exist for all time Also quoting a single passage from the bible doesnt really help you as the idea that you posited that somehow our bodies will also be taken up to heaven is contradicted by 2 Corinthians 58  Yes we are fully confident and we would rather be away from these earthly bodies for then we will be at home with the LordBelieve it or not I actually do My concept of eternity is not static or boring it just gets better Why do you find that hard to acceptYes I agree that one bible quote isnt enough to get a full picture but you only have so many words Thats a good point you make from 2 Corinthians 5 A bit of context running up to the verse you quotedFor we know that if the tent that is our earthly home is destroyed we have a building from God a house not made with hands eternal in the heavens For in this tent we groan longing to put on our heavenly dwelling if inde
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think the main thing you failed to address was the issue of eternity Surely you do not wish to exist for all time Also quoting a single passage from the bible doesnt really help you as the idea that you posited that somehow our bodies will also be taken up to heaven is contradicted by 2 Corinthians 58  Yes we are fully confident and we would rather be away from these earthly bodies for then we will be at home with the LordBelieve it or not I actually do My concept of eternity is not static or boring it just gets better Why do you find that hard to acceptYes I agree that one bible quote isnt enough to get a full picture but you only have so many words Thats a good point you make from 2 Corinthians 5 A bit of context running up to the verse you quotedFor we know that if the tent that is our earthly home is destroyed we have a building from God a house not made with hands eternal in the heavens For in this tent we groan longing to put on our heavenly dwelling if inde
-imported: true
 ---
 
 In last week’s edition of Felix, the comment piece [‘The Hell of Heaven’](http://felixonline.co.uk/comment/1568/the-hell-of-heaven/) asked this question to those who hope for an afterlife: “Would you enjoy heaven?” In this article, I’m aiming to clear up two common misconceptions about what Christians believe by offering a picture of what the Bible actually says about our eternal future. By the end of it, I hope that you’ll have a good impression of whether or not I think I’ll enjoy heaven, and why. (NB: I’m not addressing the question of whether there is life after death, because that wasn’t the question asked by last week’s article. However, that could be the subject of some fruitful debate in the future.)

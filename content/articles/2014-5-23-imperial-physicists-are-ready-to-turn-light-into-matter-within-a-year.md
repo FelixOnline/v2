@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Physicists at Imperial College London are ready to turn light into matter within a year, according to new research published in the journal Nature Photonics.
 date: "2014-05-23 14:25:25 +0100"
+
 # Attributes from Felix Online V1
 id: "4630"
 old_path: /news/4630/imperial-physicists-are-ready-to-turn-light-into-matter-within-a-year
 aliases:
  - /news/4630/imperial-physicists-are-ready-to-turn-light-into-matter-within-a-year
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Physicists at Imperial College London are ready to turn light into matter within a year, according to new research published in the journal Nature Photonics. If successful, the collider would have the capacity to demonstrate one of the most famous theories in physics: Einstein’s theory of relativity, which claims, among other things, that matter and energy are essentially interchangeable.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken interviews the RESPECT Party candidate for Mayor of London, George Galloway, on his mayoral bid and current affairs
 date: "2015-07-05 10:02:34 +0100"
+
 # Attributes from Felix Online V1
 id: "5648"
 old_path: /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
 aliases:
  - /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
+imported: true
+comments:
+ - fitflops happy goghfitflop factory outlet singapore httpsingaporeasalefitflopsblogspotcomwhere to buy fitflopsfitflop sandals clearance httpfitflopsaublogspotcomfitflop sandals salefitflop outlet httpaustraliafitflopsblogspotcombirkenstock madrid salebirkenstock sale clearance httpbirkenstocksaleaustraliablogspotcomchristian louboutin new yorkbuy christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomThats an inigneous way of thinking about itchristian louboutin quotesbuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomLnZ4aY httpbrothosonkonlonwonruyxGA6J  moegucjgwfoc urlhttpodabochejkeucomodabochejkeuurl linkhttpojdecdoxgstqcomojdecdoxgstqlink httpholdtcemftsecom1yqsPo  mjbdmurjpvfa urlhttpzuwphqnwpofrcomzuwphqnwpofrurl linkhttphoonwortvgvycomhoonwortvgvylink httpbrzeqabgrlsncomThe material is really importantnba 2k16 mt vc http
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops happy goghfitflop factory outlet singapore httpsingaporeasalefitflopsblogspotcomwhere to buy fitflopsfitflop sandals clearance httpfitflopsaublogspotcomfitflop sandals salefitflop outlet httpaustraliafitflopsblogspotcombirkenstock madrid salebirkenstock sale clearance httpbirkenstocksaleaustraliablogspotcomchristian louboutin new yorkbuy christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomThats an inigneous way of thinking about itchristian louboutin quotesbuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomLnZ4aY httpbrothosonkonlonwonruyxGA6J  moegucjgwfoc urlhttpodabochejkeucomodabochejkeuurl linkhttpojdecdoxgstqcomojdecdoxgstqlink httpholdtcemftsecom1yqsPo  mjbdmurjpvfa urlhttpzuwphqnwpofrcomzuwphqnwpofrurl linkhttphoonwortvgvycomhoonwortvgvylink httpbrzeqabgrlsncomThe material is really importantnba 2k16 mt vc http
-imported: true
 ---
 
 Born in Dundee, Galloway became involved in politics from a very young age and is now campaigning as RESPECT Party candidate for Mayor of London. Known as a political maverick and divisive figure in British politics, Galloway has been lauded for his lively rhetoric and impassioned debating style.

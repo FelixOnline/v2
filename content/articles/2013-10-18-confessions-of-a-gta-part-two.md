@@ -4,16 +4,23 @@ title: >
 subtitle: >
   “GTA does not stand for Grand Theft Auto!”
 date: "2013-10-18 21:37:19 +0100"
+
 # Attributes from Felix Online V1
 id: "3893"
 old_path: /comment/3893/confessions-of-a-gta-part-two
 aliases:
  - /comment/3893/confessions-of-a-gta-part-two
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Sadly, this is true. In fact it is an acronym for ‘graduate teaching assistant’. You know, the ones standing at the front chatting to the professors instead of helping you out. Yep, I’m one of those and as far as I’m aware we do not steal cars, only solutions to questions when the lecturers truly overestimate our abilities. We do not get chased down by cops but by students in the last minute of a two hour tutorial, deciding that they don’t understand the entire subject so far. And we don’t go to glamorous parties. Well okay, maybe we do...

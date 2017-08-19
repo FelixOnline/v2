@@ -4,16 +4,23 @@ title: >
 subtitle: >
   RAG went too far, and should take responsibility for putting women off taking on positions of responsibility
 date: "2016-02-12 11:20:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5899"
 old_path: /comment/5899/your-union-president-speaks-on-rag-mag-sexism
 aliases:
  - /comment/5899/your-union-president-speaks-on-rag-mag-sexism
+imported: true
+comments:
+ - You have placed your personal vanity above your officeShut up cunt get back in the kitchen and make me a sandwichEvery student is entitled to speak freely but the RAG mag is an attack on thisAbsolutely ridiculous How does the publication of the RAG mag curtail the free expressions of othersFreedom of speech does not equate to freedom from consequencesThis sounds like the slogan of an Orwellian dictatorship By this curious definition the Soviet Union had freedom of speech as long as you were prepared to accept consequences such as being sent to a labour campBeing a woman does not entitle you to use your office to silence and intimidate people who make fun of youcheap jerseys from china free shipping mlb shop cyber monday promotional codes china wholesale jerseys onlineIts kinda funny how this is being considered sexist cause its notWheeler was dragged through the dirt tons of times last year thats probably something that comes with the position People make fun of the
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You have placed your personal vanity above your officeShut up cunt get back in the kitchen and make me a sandwichEvery student is entitled to speak freely but the RAG mag is an attack on thisAbsolutely ridiculous How does the publication of the RAG mag curtail the free expressions of othersFreedom of speech does not equate to freedom from consequencesThis sounds like the slogan of an Orwellian dictatorship By this curious definition the Soviet Union had freedom of speech as long as you were prepared to accept consequences such as being sent to a labour campBeing a woman does not entitle you to use your office to silence and intimidate people who make fun of youcheap jerseys from china free shipping mlb shop cyber monday promotional codes china wholesale jerseys onlineIts kinda funny how this is being considered sexist cause its notWheeler was dragged through the dirt tons of times last year thats probably something that comes with the position People make fun of the
-imported: true
 ---
 
 Who’s to blame for the gender imbalance at Imperial, and in science and leadership in general? “Not me”, you’re thinking. For the vast majority of you, that’s correct. But a tiny proportion of our community fails to recognise their role in creating that awful reality.

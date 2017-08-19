@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sarah Byrne explores the wonders on offer
 date: "2013-06-13 22:47:21 +0100"
+
 # Attributes from Felix Online V1
 id: "3682"
 old_path: /science/3682/the-hidden-secrets-of-coral-reefs
 aliases:
  - /science/3682/the-hidden-secrets-of-coral-reefs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Coral reefs are one of the wonders of the marine world: vast underwater structures supporting a large and diverse ecosystem of marine species. It’s surprising then that until recently we knew very little about exactly how they form.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   More highbrow reporting from Felix as we find out just what the hell went on
 date: "2015-01-22 16:35:15 +0000"
+
 # Attributes from Felix Online V1
 id: "5111"
 old_path: /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
 aliases:
  - /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
+imported: true
+comments:
+ - You need to be a part of a contest for one of the most useful blogs on the internet I will recommend this websitenike air max 1 dames roze httpwwwblosrtvnlnlnikeairmax1damesroze15797htmlurlhttpfluconazolepurchasediflucancomDiflucanurl Online Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan Without A Prescriptionurl Pharmacy Online httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomFluconazole Is For Whaturl Canadian Pharmacy Online Drugstore httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucanurl Online Pharmacy Cialis httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomPurchase Fluconazoleurl Lasix Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancom150 Mg Diflucanurl Canadian Online Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomBuy Diflucan No Prescriptionurl Ciali
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You need to be a part of a contest for one of the most useful blogs on the internet I will recommend this websitenike air max 1 dames roze httpwwwblosrtvnlnlnikeairmax1damesroze15797htmlurlhttpfluconazolepurchasediflucancomDiflucanurl Online Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan Without A Prescriptionurl Pharmacy Online httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomFluconazole Is For Whaturl Canadian Pharmacy Online Drugstore httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucanurl Online Pharmacy Cialis httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomPurchase Fluconazoleurl Lasix Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancom150 Mg Diflucanurl Canadian Online Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomBuy Diflucan No Prescriptionurl Ciali
-imported: true
 ---
 
 The Imperial Secrets facebook page has lent itself as a platform to a lot of odd posts, but one took a bizarre turn when it resulted in emails being sent to students inviting them to a “Jihad themed” orgy.

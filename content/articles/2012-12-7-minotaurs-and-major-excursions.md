@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Meredith Thomas, aka Charles Thomas, doesn't want to give anything away...
 date: "2012-12-07 02:24:46 +0000"
+
 # Attributes from Felix Online V1
 id: "3047"
 old_path: /arts/3047/minotaurs-and-major-excursions
 aliases:
  - /arts/3047/minotaurs-and-major-excursions
+imported: true
+comments:
+ - If I may add this to complement your article here A recent interview in the Independent with Shunts the theatre company behind the show explained one of their aims is to disorientate confuse and baffle from my experience they managed it pretty well The opening monologue got off to a bad start It went on for far too long about some pseudo theory on Architecture I am all for an insightful or satirical take on architectural theory but it has made its point in the first minute but it went on for 5 This overegging of an idea carried on with the middle section where we were all supposed to be on a cruise ship and jokes regarding behaviour and activities on the ship were funny but it was 30 minutes of variations of the same joke There was an overall storyline about a controlling incestuous family which had a hint of satire about it but it didnt work as a narrative The finale felt like it belonged to another piece altogether It was funny in places and it was an interesting space and could have
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If I may add this to complement your article here A recent interview in the Independent with Shunts the theatre company behind the show explained one of their aims is to disorientate confuse and baffle from my experience they managed it pretty well The opening monologue got off to a bad start It went on for far too long about some pseudo theory on Architecture I am all for an insightful or satirical take on architectural theory but it has made its point in the first minute but it went on for 5 This overegging of an idea carried on with the middle section where we were all supposed to be on a cruise ship and jokes regarding behaviour and activities on the ship were funny but it was 30 minutes of variations of the same joke There was an overall storyline about a controlling incestuous family which had a hint of satire about it but it didnt work as a narrative The finale felt like it belonged to another piece altogether It was funny in places and it was an interesting space and could have
-imported: true
 ---
 
 The [Architect](http://www.nationaltheatre.org.uk/shows/the-architects-shunt-at-the-biscuit-factory) is Shunt’s first production in three years and it was well worth the wait. Shunt is an unusual collective centred round an experimental theatre company. The group have had a presence around East London for years. Some readers might just remember the astonishing club they ran in the tunnels under London Bridge station of the same name. It was amazing folks; the only dance floor I have ever graced where one of the major dangers was drunk rickshaw drivers. The core work of Shunt however has always been theatre and so, as I traipsed my way into the wilds of Bermondsey to their new hideout in an abandoned biscuit factory, I was more than a little excited.

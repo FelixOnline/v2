@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Izzy Koksal and Luke Sheldon on why students should care about Wednesday’s strikes
 date: "2011-11-24 21:38:15 +0000"
+
 # Attributes from Felix Online V1
 id: "1825"
 old_path: /news/1825/november-30th-day-of-action
 aliases:
  - /news/1825/november-30th-day-of-action
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You may have heard news headlines describing the biggest strike in generations happening on 30th November, but perhaps thought little of it. What has striking got to do with students? Especially striking over pensions. Pensions seem ages away, we’re only just dealing with our students loans! The strike may seem like a distant and irrelevant event.

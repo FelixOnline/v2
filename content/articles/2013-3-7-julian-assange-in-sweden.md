@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Christopher Reynolds reviews a biased and inaccurate account of the WikiLeaks founder’s troubles with the law
 date: "2013-03-07 23:56:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3449"
 old_path: /books/3449/julian-assange-in-sweden
 aliases:
  - /books/3449/julian-assange-in-sweden
+imported: true
+comments:
+ - Thank goodness a tried and true conventionalist as Christopher Reynolds are on the case The outrage we all feel when America England Sweden and NATO industries are suggested to be devious is again avengedIf we fail to protect the Assanges of the world we condemn ourselves to tyrannyJulian Assange for the Nobel prize for freedom of the pressPlease type 3wavaazorgenpetitionJulian_Assange_for_Nobel_prize_Freedom_of_the_PressPLEASE HELP PROMOTE THIS LINK is that Assanges case has gone to court  Multiple times  First a judge granted the arrest warrant although that was rather perfunctory then Assange appealed to the Svea court of appeals  His attorney gave a full defense of his case  He lost the court found probable cause that he did do it  He then appealed to the Supreme Court  He lost there tooNow we have a couple options  We can either believe that every court in Sweden is secretly under the control of the CIA  Or we can believe that Assanges attorney is s
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank goodness a tried and true conventionalist as Christopher Reynolds are on the case The outrage we all feel when America England Sweden and NATO industries are suggested to be devious is again avengedIf we fail to protect the Assanges of the world we condemn ourselves to tyrannyJulian Assange for the Nobel prize for freedom of the pressPlease type 3wavaazorgenpetitionJulian_Assange_for_Nobel_prize_Freedom_of_the_PressPLEASE HELP PROMOTE THIS LINK is that Assanges case has gone to court  Multiple times  First a judge granted the arrest warrant although that was rather perfunctory then Assange appealed to the Svea court of appeals  His attorney gave a full defense of his case  He lost the court found probable cause that he did do it  He then appealed to the Supreme Court  He lost there tooNow we have a couple options  We can either believe that every court in Sweden is secretly under the control of the CIA  Or we can believe that Assanges attorney is s
-imported: true
 ---
 
 One effect of digital distribution is that books become that would previously be unreleasable become available. This is not necessarily a bad thing, as books with potential audiences too low to justify a print run can now reach their target market. Julian Assange in Sweden however, is less a book, and more of an assemblage of internet message board rantings. Literally so, as much of the book is given over to conspiracy theories which are noted as being proposed on a Swedish internet forum (the logo of which features a cat smoking a spliff, which tells you all you need to know).

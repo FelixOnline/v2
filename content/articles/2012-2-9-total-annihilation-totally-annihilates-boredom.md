@@ -4,16 +4,24 @@ title: >
 subtitle: >
   “This is a fight to the death. For each side the only acceptable outcome is the complete elimination of the other”
 date: "2012-02-09 22:33:47 +0000"
+
 # Attributes from Felix Online V1
 id: "2153"
 old_path: /games/2153/total-annihilation-totally-annihilates-boredom
 aliases:
  - /games/2153/total-annihilation-totally-annihilates-boredom
+imported: true
+comments:
+ - TA is basically the best game ever Have you ever seen httpspringrtscom Its at its heart a TA clone but with a ridiculous amount of enhancementsproperly 3dHell yeah I remember that level Core Primes moon Dump That was an annoying map Ill tell youNOSTALGIAI loved TA back in 2003Anyone remember a level where youre on some moon Theres absolutely no metal around to mine instead of have to recycle burnt out machines left behind by the enemyThen theres that brilliant weapon Big Bertha I think it was called that could shoot halfway across the map but cost 1000 energy each shot I remember building and defending many fusion power plants and Big Berthas epic win ensued
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - TA is basically the best game ever Have you ever seen httpspringrtscom Its at its heart a TA clone but with a ridiculous amount of enhancementsproperly 3dHell yeah I remember that level Core Primes moon Dump That was an annoying map Ill tell youNOSTALGIAI loved TA back in 2003Anyone remember a level where youre on some moon Theres absolutely no metal around to mine instead of have to recycle burnt out machines left behind by the enemyThen theres that brilliant weapon Big Bertha I think it was called that could shoot halfway across the map but cost 1000 energy each shot I remember building and defending many fusion power plants and Big Berthas epic win ensued
-imported: true
 ---
 
 Oh, so you were expecting a review on a new game? What new game? January and February are hell for game reviews; nothing’s being churned out by the video game companies. So instead, I’m going to take the time to wind the clock back and review a game I played when I was eleven. It was brilliant then and it’s still a masterpiece today. I’m talking about Cavedog Entertainment’s real-time strategy game _Total Annihilation_.

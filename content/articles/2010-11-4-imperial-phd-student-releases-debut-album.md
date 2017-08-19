@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Unsigned Imperial student Todd Kuffner unveils first body of work
 date: "2010-11-04 18:28:02 +0000"
+
 # Attributes from Felix Online V1
 id: "298"
 old_path: /music/298/imperial-phd-student-releases-debut-album-
 aliases:
  - /music/298/imperial-phd-student-releases-debut-album-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Don’t care for synth? Tired of auto-tune? Then [Todd Kuffner’s](http://toddkuffner.com/musicsite/) debut album, Squirrel Hunter in Training may well be the album you’ve been waiting for. Currently studying for a PhD at Imperial, Kuffner is a self-confessed musical "dictator", which has led to this album being a solo project in it’s truest sense, with every aspect being done by the man himself.

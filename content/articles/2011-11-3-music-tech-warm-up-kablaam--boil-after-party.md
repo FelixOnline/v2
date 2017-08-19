@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto on the glorification of the vibe selector and Imperial’s musical exploits
 date: "2011-11-03 20:50:10 +0000"
+
 # Attributes from Felix Online V1
 id: "1675"
 old_path: /music/1675/music-tech-warm-up-kablaam--boil-after-party
 aliases:
  - /music/1675/music-tech-warm-up-kablaam--boil-after-party
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When I first encountered Music Tech, I thought I had seen the light. Finally some people were playing (and making) good music to go out to. No longer had I excuses to swallow inane “party party” muzak, when such an alternative was close at hand. My first evening with the lot was driven by a hazy concoction of deep bass music and liberal liquefaction of my mind and body, to the extent of internal heamorraghing. I hope next Saturday’s apperance at KABLAAM will prove equally enthralling and ear opening for some as it did for me.

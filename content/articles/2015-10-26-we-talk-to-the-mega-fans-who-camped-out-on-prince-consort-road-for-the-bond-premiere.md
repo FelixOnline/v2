@@ -4,16 +4,24 @@ title: >
 subtitle: >
   They’ve been here since Saturday
 date: "2015-10-26 13:10:35 +0000"
+
 # Attributes from Felix Online V1
 id: "5680"
 old_path: /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
 aliases:
  - /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
+imported: true
+comments:
+ - Omp7O8  ecmwrhoykrqh urlhttpfkvrawzfeesjcomfkvrawzfeesjurl linkhttptwnbkosaxvvhcomtwnbkosaxvvhlink httpddcxwmwvautncomMessi touched the surface of where d on t s cesena vs sassuolo youre going to cost offering advice as well as join various clubs based around creating a very good team Dont forget Leo Messi  CoAir Max 2015 Homme httpwwwkicksplusfrindexphpmain_pageindexcPath6_103
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Omp7O8  ecmwrhoykrqh urlhttpfkvrawzfeesjcomfkvrawzfeesjurl linkhttptwnbkosaxvvhcomtwnbkosaxvvhlink httpddcxwmwvautncomMessi touched the surface of where d on t s cesena vs sassuolo youre going to cost offering advice as well as join various clubs based around creating a very good team Dont forget Leo Messi  CoAir Max 2015 Homme httpwwwkicksplusfrindexphpmain_pageindexcPath6_103
-imported: true
 ---
 
 You might well be skiving lectures this afternoon to catch a glimpse of national treasure Daniel Craig and a handful of royals as they attend tonight’s _Spectre_ premiere. That’s nothing compared to these fans, who have been camping out on Prince Consort Road for three days to secure a place right at the front of the crowds lining the red carpet.

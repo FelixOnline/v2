@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The President and Rector bestowed Imperial College's first Regius Professorship on Professor Chris Toumazou.
 date: "2013-10-24 23:29:59 +0100"
+
 # Attributes from Felix Online V1
 id: "3908"
 old_path: /news/3908/imperial-names-first-regius-professor-
 aliases:
  - /news/3908/imperial-names-first-regius-professor-
+imported: true
+comments:
+ - This is a test comment for AkismetThis is also a test commentFinally this should workAhWelcome backI recall a leuctrer at university pointing out how much more plausible and sophisticated was the understanding of Pythagoreanism shewn by the Church Fathers than that shewn by  rationalistic philosophers The explanations of the latter eg on the Pythagoreans famous abstention from beans were shallow and fatuousThe Fathers analysis may or may not have been correct but they were at least able to engage theologically with the beliefs and practices they were critiquing and treat them seriouslyA subversive point as the modern presumption was to trust the ancient philosophers congenial rationalists against than the Fathers superstitious old fools who would naturally be so biased against pagan belief systems that they wouldnt be able to do them justiceDoubly subversive as casting doubt in turn on modern rationalists and thus supporting the point LewisSarah Footyou makeWelcome  You have
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - This is a test comment for AkismetThis is also a test commentFinally this should workAhWelcome backI recall a leuctrer at university pointing out how much more plausible and sophisticated was the understanding of Pythagoreanism shewn by the Church Fathers than that shewn by  rationalistic philosophers The explanations of the latter eg on the Pythagoreans famous abstention from beans were shallow and fatuousThe Fathers analysis may or may not have been correct but they were at least able to engage theologically with the beliefs and practices they were critiquing and treat them seriouslyA subversive point as the modern presumption was to trust the ancient philosophers congenial rationalists against than the Fathers superstitious old fools who would naturally be so biased against pagan belief systems that they wouldnt be able to do them justiceDoubly subversive as casting doubt in turn on modern rationalists and thus supporting the point LewisSarah Footyou makeWelcome  You have
-imported: true
 ---
 
 Imperial conferred its first Regius Professorship on Professor Chris Toumazou on Commemoration day for undergraduate students on 23 October.

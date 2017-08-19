@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This fan-boy isn't happy
 date: "2016-01-29 09:13:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5844"
 old_path: /film/5844/the-suicide-squad-trailer-is-not-okay
 aliases:
  - /film/5844/the-suicide-squad-trailer-is-not-okay
+imported: true
+comments:
+ - Good site you have herenhl 17 coins httpballroomsceneradiocomoxwallblogspost1812sthashgKCOxB5lhwOiXOpldpbsGreat internet site It looks really professional Sustain the helpful jobnhl 17 coins httpwwwpsykosocialcomforumsMainForum2023buynba2k17mtnhl09determinesgameseveninthecapitals
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good site you have herenhl 17 coins httpballroomsceneradiocomoxwallblogspost1812sthashgKCOxB5lhwOiXOpldpbsGreat internet site It looks really professional Sustain the helpful jobnhl 17 coins httpwwwpsykosocialcomforumsMainForum2023buynba2k17mtnhl09determinesgameseveninthecapitals
-imported: true
 ---
 
 When it comes to the shortcomings of Marvel or DC’s cinematic output, as a self-confessed comic book fan-boy, I’m usually pretty forgiving. Unfortunately, the first official trailer for DC’s latest film, _Suicide Squad,_ which dropped last week, hints at a film with some serious flaws. It might only be a two-minute trailer, but the way it trivialises mental health and sexualises its female cast has me worried for its release this August.

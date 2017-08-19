@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Get the lowdown on a fresh UNESCO site in the heart of China’s Zhejiang Province
 date: "2013-10-12 19:45:41 +0100"
+
 # Attributes from Felix Online V1
 id: "3859"
 old_path: /travel/3859/hangzhou-a-forgotten-pearl-from-heaven
 aliases:
  - /travel/3859/hangzhou-a-forgotten-pearl-from-heaven
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 ####  Hangzhou

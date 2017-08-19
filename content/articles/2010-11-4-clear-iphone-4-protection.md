@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Samuel Gibbs reviews the latest case for the iPhone 4
 date: "2010-11-04 18:46:48 +0000"
+
 # Attributes from Felix Online V1
 id: "311"
 old_path: /tech/311/clear-iphone-4-protection
 aliases:
  - /tech/311/clear-iphone-4-protection
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The iPhone 4 is a svelte piece of product design, with immaculate lines and a glossy, beautiful finish. Like it or loathe it, no one can deny that it is a gorgeous piece of hardware and, with it costing up to £600, you probably want to keep it that way.

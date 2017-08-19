@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Strapped for cash and greetings in the corridor
 date: "2014-02-17 17:23:17 +0000"
+
 # Attributes from Felix Online V1
 id: "4391"
 old_path: /comment/4391/confessions-of-a-gta-part-11
 aliases:
  - /comment/4391/confessions-of-a-gta-part-11
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 As one of the more strapped for cash GTAs I teach a lot of classes in my department. This includes some outside my speciality meaning I have taught pretty much every year of the undergraduates and as detailed last week, some of the MScs. This is great as I have a broad spectrum of topics and an even broader spectrum of students. Thus the chance I am stuck with people who think I am an idiot is decreased by pure safety in numbers.

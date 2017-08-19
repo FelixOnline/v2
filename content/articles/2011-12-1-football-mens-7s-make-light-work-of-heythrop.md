@@ -4,16 +4,24 @@ title: >
 subtitle: >
   "With performances like this, the 7s are sure to quickly rise up the table."
 date: "2011-12-01 21:24:43 +0000"
+
 # Attributes from Felix Online V1
 id: "1891"
 old_path: /sport/1891/football-mens-7s-make-light-work-of-heythrop
 aliases:
  - /sport/1891/football-mens-7s-make-light-work-of-heythrop
+imported: true
+comments:
+ - You put the wrong teams and scores at the topotherwise great reportdont blame me blame the editors
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You put the wrong teams and scores at the topotherwise great reportdont blame me blame the editors
-imported: true
 ---
 
 __Football__

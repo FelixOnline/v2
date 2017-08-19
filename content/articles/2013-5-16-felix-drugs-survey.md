@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A look into the drug taking habits of students
 date: "2013-05-16 19:08:48 +0100"
+
 # Attributes from Felix Online V1
 id: "3588"
 old_path: /news/3588/felix-drugs-survey
 aliases:
  - /news/3588/felix-drugs-survey
+imported: true
+comments:
+ - Hey AnonCheers for pointing out the graphs mate Sorry for that Fixing it nowThis article was giving me grief uploading so thats why that crept in At one point I had to actually start uploading it from scratch which was a painRight everyone Im having an issue with one of the graphs it just doesnt want to be a large image which is weird and annoying Trying to fix itThe graphs in this article are pretty poor Occasionally should be green in the legend and the Druggy Departments graph is the wrong oneactually many drugs are less harmful than alcohol DMT LSD MDMA Psilocybin and cannabis are all in this list and they are all less harmful than alcohol
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hey AnonCheers for pointing out the graphs mate Sorry for that Fixing it nowThis article was giving me grief uploading so thats why that crept in At one point I had to actually start uploading it from scratch which was a painRight everyone Im having an issue with one of the graphs it just doesnt want to be a large image which is weird and annoying Trying to fix itThe graphs in this article are pretty poor Occasionally should be green in the legend and the Druggy Departments graph is the wrong oneactually many drugs are less harmful than alcohol DMT LSD MDMA Psilocybin and cannabis are all in this list and they are all less harmful than alcohol
-imported: true
 ---
 
 The full version is available [online](https://union.ic.ac.uk/media/felix/img/Drug_Results.jpg).

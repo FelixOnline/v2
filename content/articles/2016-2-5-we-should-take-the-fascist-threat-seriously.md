@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As well as hurting those caught in the cross-fire, the hatred and fear of refugees is spreading
 date: "2016-02-05 11:59:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5867"
 old_path: /comment/5867/we-should-take-the-fascist-threat-seriously
 aliases:
  - /comment/5867/we-should-take-the-fascist-threat-seriously
+imported: true
+comments:
+ - X2lUWX  rdknbvwikart urlhttpishaibyoggsxcomishaibyoggsxurl linkhttpzzumrffjcjsjcomzzumrffjcjsjlink httpyisakptkgpnvcomhttpflagylantibioticmetronidazolenet  Flagyl Cialis httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Buy Flagyl Cialis Generic httplevitra20mgpricescomhttpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldbraceletturquoise5motifsp299html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldbraceletwhitemop5motifsp298html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldcarnelian10motifsnecklacep315html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgolddiamondringcarnelianp334html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgolddiamondringonyxp333html httpwwwsimulationschmucknetenvancleefarpelsrepl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - X2lUWX  rdknbvwikart urlhttpishaibyoggsxcomishaibyoggsxurl linkhttpzzumrffjcjsjcomzzumrffjcjsjlink httpyisakptkgpnvcomhttpflagylantibioticmetronidazolenet  Flagyl Cialis httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Buy Flagyl Cialis Generic httplevitra20mgpricescomhttpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldbraceletturquoise5motifsp299html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldbraceletwhitemop5motifsp298html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldcarnelian10motifsnecklacep315html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgolddiamondringcarnelianp334html httpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgolddiamondringonyxp333html httpwwwsimulationschmucknetenvancleefarpelsrepl
-imported: true
 ---
 
 Racism, xenophobia and Islamophobia have reached a new height in light of the ‘refugee-crisis’ and more recently the sexual harassment incidents in Germany on New Year’s Eve. This Saturday, Dover saw another big anti-immigration rally by groups like the English Defense League, National Front, South East Alliance, Britain First, BNP and UK PEGIDA (don’t even try to figure out what PEGIDA stands for, the acronym only “makes sense” in German).

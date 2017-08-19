@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jian Li Chew apologises for his article last week in light of new information
 date: "2017-01-20 15:01:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6659"
 old_path: /comment/6659/im-sorry-i-made-a-mistake
 aliases:
  - /comment/6659/im-sorry-i-made-a-mistake
+imported: true
+comments:
+ - So you didnt even bother to look for primary sources beyond a cursory glance Rather you saw a single article that supported your preconceived notions about a group of people and decided to make false accusations about them That just reeks of lazy and dishonest journalism At least you recognise this I suppose
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - So you didnt even bother to look for primary sources beyond a cursory glance Rather you saw a single article that supported your preconceived notions about a group of people and decided to make false accusations about them That just reeks of lazy and dishonest journalism At least you recognise this I suppose
-imported: true
 ---
 
 After the publishing of my article last week, I was informed that The Telegraph article on which I based my own, which was picked up from The Daily Mail, was a gross misrepresentation of SOAS Student Union’s campaign. Reading the official SU statement, I am here to retract my previous article and to write an apology.

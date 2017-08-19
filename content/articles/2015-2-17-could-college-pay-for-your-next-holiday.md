@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland sat down with the new head of Exploration Board after their endorsement of his upcoming trip through Central Asia
 date: "2015-02-17 19:12:54 +0000"
+
 # Attributes from Felix Online V1
 id: "5269"
 old_path: /travel/5269/could-college-pay-for-your-next-holiday
 aliases:
  - /travel/5269/could-college-pay-for-your-next-holiday
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 How many people knew there was such a thing as the Imperial Exploration Board? Apparently not that many, as I found out when telling people that I had received their endorsement for a cycling expedition myself and a few friends are planning this summer across Central Asia. And so, I decided to talk to the Chairman of the Board, Dr. Lorraine Craig, to find out more about what the Board does and how others can get involved.

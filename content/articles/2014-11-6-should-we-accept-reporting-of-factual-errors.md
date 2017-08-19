@@ -4,16 +4,24 @@ title: >
 subtitle: >
   If you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa.
 date: "2014-11-06 18:23:08 +0000"
+
 # Attributes from Felix Online V1
 id: "4762"
 old_path: /comment/4762/should-we-accept-reporting-of-factual-errors
 aliases:
  - /comment/4762/should-we-accept-reporting-of-factual-errors
+imported: true
+comments:
+ - Thanks for sharing Your post is a useful coitributnon
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for sharing Your post is a useful coitributnon
-imported: true
 ---
 
 So if you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa and soon enough, we are assured, the rest of the world.

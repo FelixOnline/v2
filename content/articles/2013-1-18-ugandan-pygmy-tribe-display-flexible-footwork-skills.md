@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ankles indicated to give them their extraordinary climbing ability
 date: "2013-01-18 00:19:35 +0000"
+
 # Attributes from Felix Online V1
 id: "3129"
 old_path: /science/3129/ugandan-pygmy-tribe-display-flexible-footwork-skills
 aliases:
  - /science/3129/ugandan-pygmy-tribe-display-flexible-footwork-skills
+imported: true
+comments:
+ - Gene and Annie  Very very cool Erin This is not the first water project that I have heard or seen about in fact I have given to some othres before I love this one too It is so easy to take all that we have here for granted especially our water I will not let my kids do that and I hope I can always remember to be thankful for the small things Thank youcats and their bedsi remeebmr my Dad once spent ages I dont remeebmr quite why making a bed for our cat then got REALLY UPSET when she failed to sleep in it she always had at least three on the go at any one time and rotated themcouldnt get the video to run bloody connection will have to come back for that laterhope everythings fine with you  halfaloaf   sildenafil   sildenafil   prostacyclin   cheap viagra
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Gene and Annie  Very very cool Erin This is not the first water project that I have heard or seen about in fact I have given to some othres before I love this one too It is so easy to take all that we have here for granted especially our water I will not let my kids do that and I hope I can always remember to be thankful for the small things Thank youcats and their bedsi remeebmr my Dad once spent ages I dont remeebmr quite why making a bed for our cat then got REALLY UPSET when she failed to sleep in it she always had at least three on the go at any one time and rotated themcouldnt get the video to run bloody connection will have to come back for that laterhope everythings fine with you  halfaloaf   sildenafil   sildenafil   prostacyclin   cheap viagra
-imported: true
 ---
 
 Scientists from Dartmouth College, Hanover, recently focused on the ankle-flexibility of pygmy populations in Uganda. They filmed the honey-gathering behaviourof pygmies to measure the flexibility of their ankle joints.

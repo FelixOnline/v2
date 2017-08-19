@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Welcome to Felix Food October 31st
 date: "2014-11-10 22:22:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4844"
 old_path: /food/4844/new-ideas-aplentystarring-you
 aliases:
  - /food/4844/new-ideas-aplentystarring-you
+imported: true
+comments:
+ - zB3Ngz  qqcorjakgcdn urlhttpxiahdhunafopcomxiahdhunafopurl linkhttpdhbcamvllujlcomdhbcamvllujllink httpxosfokyeumsacom
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - zB3Ngz  qqcorjakgcdn urlhttpxiahdhunafopcomxiahdhunafopurl linkhttpdhbcamvllujlcomdhbcamvllujllink httpxosfokyeumsacom
-imported: true
 ---
 
 Eh-up, Imperialites – welcome back to another instalment of Felix Food! The weather’s turned turtle and it seems all of us in my flat have fallen victim to some form of Freshers’ Flu (despite not being freshers, pah.) That said, however, it’s perfect weather for all the comfort foods we associate with winter: stews, mash, soups... and dare I say it, hot puddings (obviously with more than a side of custard!)

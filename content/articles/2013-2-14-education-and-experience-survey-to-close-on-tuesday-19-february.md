@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Students and staff can still fill it out
 date: "2013-02-14 13:15:46 +0000"
+
 # Attributes from Felix Online V1
 id: "3323"
 old_path: /news/3323/education-and-experience-survey-to-close-on-tuesday-19-february
 aliases:
  - /news/3323/education-and-experience-survey-to-close-on-tuesday-19-february
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Education and Student Experience Survey will be closing on Tuesday 19 February.

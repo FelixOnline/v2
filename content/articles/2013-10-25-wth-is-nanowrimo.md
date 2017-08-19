@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Keir Little thinks that you should know
 date: "2013-10-25 00:12:31 +0100"
+
 # Attributes from Felix Online V1
 id: "3924"
 old_path: /books/3924/wth-is-nanowrimo
 aliases:
  - /books/3924/wth-is-nanowrimo
+imported: true
+comments:
+ - Heather I love your Emerson quote  Every artist was first an amtuaer   A friend who also attended the conference and I were just talking about that subject  In any creative endeavor periods of verbal selfflagellation are inevitable  When I was painting we called it  the Uglies   That term still works in my writing  I force myself to work through it  Writing everyday with occasional exceptions is a rule  I put pen to paper or fingertips to keys for at least an hour  That usually turns into two or four  My mantra is  Just do it  By the way I used that term before NikiJan Im so glad  You are on my list of authors to ask for an iinvretew  Its a short list thus far but a list nonetheless   With the storm and power outage we just had our power was just restored at noon today I had extra reading time much by candlelight and flashlight since I couldnt use computer or many other things  It would be wonderful to be able to read more during the ho
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Heather I love your Emerson quote  Every artist was first an amtuaer   A friend who also attended the conference and I were just talking about that subject  In any creative endeavor periods of verbal selfflagellation are inevitable  When I was painting we called it  the Uglies   That term still works in my writing  I force myself to work through it  Writing everyday with occasional exceptions is a rule  I put pen to paper or fingertips to keys for at least an hour  That usually turns into two or four  My mantra is  Just do it  By the way I used that term before NikiJan Im so glad  You are on my list of authors to ask for an iinvretew  Its a short list thus far but a list nonetheless   With the storm and power outage we just had our power was just restored at noon today I had extra reading time much by candlelight and flashlight since I couldnt use computer or many other things  It would be wonderful to be able to read more during the ho
-imported: true
 ---
 
 Whether it’s swimming 500 lengths or climbing 5,000 metres, we all know about the athletic challenges that some people rise to. Fewer know about the creative challenge that over a quarter of a million aspiring authors take up each year: writing a 50,000 word novel in thirty days.

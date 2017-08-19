@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students vow to “keep the momentum going” as the Cops off Campus campaign call another demonstration on 22 January.
 date: "2014-01-17 03:07:11 +0000"
+
 # Attributes from Felix Online V1
 id: "4225"
 old_path: /news/4225/cops-off-campus--the-saga-continues
 aliases:
  - /news/4225/cops-off-campus--the-saga-continues
+imported: true
+comments:
+ - The ULU is an embarrassing joke that merits the shutdown And really holding a rally in support of a drugdealing gunrunner who was shot in the belief that he was carrying firearms which indeed he was shortly before the police opened fire Im glad were not affiliated with this nonsense or the NUS any more Imperial has a calibre of student that can do better than jump onto the nearest farleft bandwagon just to have something to protest out and we know it
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - The ULU is an embarrassing joke that merits the shutdown And really holding a rally in support of a drugdealing gunrunner who was shot in the belief that he was carrying firearms which indeed he was shortly before the police opened fire Im glad were not affiliated with this nonsense or the NUS any more Imperial has a calibre of student that can do better than jump onto the nearest farleft bandwagon just to have something to protest out and we know it
-imported: true
 ---
 
 Students vow to “keep the momentum going” as the Cops off Campus campaign call another demonstration on 22 January. Three years on from the increase in tuition fees and the student protests that followed, university campuses are faced with fresh opposition as the recent protests against police presence on campus culminated in thousands of students marching through Bloomsbury.

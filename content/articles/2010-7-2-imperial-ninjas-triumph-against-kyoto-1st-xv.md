@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Espedrille and Peregrin report on the ICURFC 1st XV win against Kyoto University
 date: "2010-07-02 11:17:14 +0100"
+
 # Attributes from Felix Online V1
 id: "150"
 old_path: /sport/150/imperial-ninjas-triumph-against-kyoto-1st-xv
 aliases:
  - /sport/150/imperial-ninjas-triumph-against-kyoto-1st-xv
+imported: true
+comments:
+ - Whether you are on the lookout for medical insurance coverage for you or even for you and your family    below are great tips which enables to obtain highly affordable insurance plan There is not any questioning that it is highpriced   utilize suggestions while you shop to remain quotes lower even though guarding yourself through the destruction having to fork out unpredicted health charges  The earliest solution to becoming economical insurance plan it truly is the right analysis The internet may be a beneficial system in terms of looking for There are actually rrnternet sites which allow the consumer to generate rates from leading businesses by using the press of your mouse Could these kind of insurance policies give you those offers Foremost a computer owner is certainly persuaded to include within simple information regarding the total number of people who will probably be covered with the project and also underlying health concerns as well as demographic information and facts to determi
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jn104
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Whether you are on the lookout for medical insurance coverage for you or even for you and your family    below are great tips which enables to obtain highly affordable insurance plan There is not any questioning that it is highpriced   utilize suggestions while you shop to remain quotes lower even though guarding yourself through the destruction having to fork out unpredicted health charges  The earliest solution to becoming economical insurance plan it truly is the right analysis The internet may be a beneficial system in terms of looking for There are actually rrnternet sites which allow the consumer to generate rates from leading businesses by using the press of your mouse Could these kind of insurance policies give you those offers Foremost a computer owner is certainly persuaded to include within simple information regarding the total number of people who will probably be covered with the project and also underlying health concerns as well as demographic information and facts to determi
-imported: true
 ---
 
 ### Kyoto University RFC 1st XV 19

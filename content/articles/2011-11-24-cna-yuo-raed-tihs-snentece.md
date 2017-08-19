@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Thier sceince mya suprirse yuo!
 date: "2011-11-24 21:04:17 +0000"
+
 # Attributes from Felix Online V1
 id: "1813"
 old_path: /science/1813/cna-yuo-raed-tihs-snentece
 aliases:
  - /science/1813/cna-yuo-raed-tihs-snentece
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 Throughout the history of neuroscience, we have often been amazed by the brain’s capability and workings. Instances like the ability to read the jumbled headline above intrigue us – how is a mess of letters comprehensible?

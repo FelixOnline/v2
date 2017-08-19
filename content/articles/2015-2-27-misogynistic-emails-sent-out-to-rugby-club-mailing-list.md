@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Social Secretary, who sent emails, now banned from mailing list
 date: "2015-02-27 00:07:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5309"
 old_path: /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
 aliases:
  - /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
+imported: true
+comments:
+ - Loose means drunk Unsure how that is misogynisticSlow news week at Imperial  Also what right does the union have to tell emailers to moderate language Everybody who is on the mailing list has presumably signed up to it and is free to leave at any point One would have thought that the union has more important issues to deal with than chasing up emails which are quite clearly jokes The ladies  in question have commented on how well behaved the gentlemen were end of story in my opinionLoose obviously has sexual connotations The union cant tell us what we can say in emails but this is a sad indication of attitudes towards women at Imperial and in the wider worldhow can people say this isnt an issue it shows base misogynistic views of women as sex objects easy pickings   We understand that the email was aimed at a specific audience and that the boys would not speak in this manner to any of our girlsbut they believe this way of speaking and thinking about girls is funny inste
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Loose means drunk Unsure how that is misogynisticSlow news week at Imperial  Also what right does the union have to tell emailers to moderate language Everybody who is on the mailing list has presumably signed up to it and is free to leave at any point One would have thought that the union has more important issues to deal with than chasing up emails which are quite clearly jokes The ladies  in question have commented on how well behaved the gentlemen were end of story in my opinionLoose obviously has sexual connotations The union cant tell us what we can say in emails but this is a sad indication of attitudes towards women at Imperial and in the wider worldhow can people say this isnt an issue it shows base misogynistic views of women as sex objects easy pickings   We understand that the email was aimed at a specific audience and that the boys would not speak in this manner to any of our girlsbut they believe this way of speaking and thinking about girls is funny inste
-imported: true
 ---
 
 Emails sent to the ICU Rugby Football Club (ICURFC) mailing list recently have contained misogynistic content, despite previously being warned by Imperial College Union to moderate their “inappropriate” language.

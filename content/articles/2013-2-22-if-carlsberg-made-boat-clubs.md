@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ... Oh, you know the rest
 date: "2013-02-22 02:08:01 +0000"
+
 # Attributes from Felix Online V1
 id: "3372"
 old_path: /sport/3372/if-carlsberg-made-boat-clubs
 aliases:
  - /sport/3372/if-carlsberg-made-boat-clubs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In a highly successful weekend at Boston, ICBC laid claim to having the fastest 8, the fastest 4 and the fastest women’s quad, as well as medals left, right and centre in other categories. We also finished 2nd in the Victor Ludorum for BUCS points and medals, narrowly behind Newcastle. You cannot argue with that.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   RCSU Science Challenge is back for another year, with a total prize pot of £4000 and an all expenses paid trip to CERN up for grabs
 date: "2013-01-17 23:53:22 +0000"
+
 # Attributes from Felix Online V1
 id: "3123"
 old_path: /news/3123/science-challenge-returns
 aliases:
  - /news/3123/science-challenge-returns
+imported: true
+comments:
+ - Robert Lord WinstonLord Christian Name Surname format is a courtesy title for younger sons of Dukes and Marquesses only Whereas Lord Winston is a life peer rank of Baron in his own righthttpenwikipediaorgwikiCourtesy_titles_in_the_United_KingdomCourtesy_prefix_of_22Lord22Where is Pallab Ghosh this year Hes only the greatest judge of all time
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Robert Lord WinstonLord Christian Name Surname format is a courtesy title for younger sons of Dukes and Marquesses only Whereas Lord Winston is a life peer rank of Baron in his own righthttpenwikipediaorgwikiCourtesy_titles_in_the_United_KingdomCourtesy_prefix_of_22Lord22Where is Pallab Ghosh this year Hes only the greatest judge of all time
-imported: true
 ---
 
 The RCSU Science Challenge returns! With a total prize-pot of over £4,000 to give away and the chance to win an all-expenses paid trip to CERN, Geneva, this is a competition you don’t want to miss.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philip Kent scrutinises the pledges each party has made ahead of the election
 date: "2015-05-01 00:05:11 +0100"
+
 # Attributes from Felix Online V1
 id: "5476"
 old_path: /news/5476/the-main-parties-and-their-promises-
 aliases:
  - /news/5476/the-main-parties-and-their-promises-
+imported: true
+comments:
+ - Whats Happening i am new to this I stumbled upon this I have found It positively helpful and it has helped me out loads I am hoping to contribute  assist other users like its aided me Great jobbotas ugg gijon kilometros httpwwwglobalenergyesesbotasugggijonkilometros2830htmlHave you ever thought about publishing an ebook or guest authoring on other sites I have a blog centered on the same subjects you discuss and would really like to have you share some storiesinformation I know my viewers would appreciate your work If you are even remotely interested feel free to shoot me an e mailrei oakley sunglasses httpcrownmodelscomusareioakleysunglasses35187html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Whats Happening i am new to this I stumbled upon this I have found It positively helpful and it has helped me out loads I am hoping to contribute  assist other users like its aided me Great jobbotas ugg gijon kilometros httpwwwglobalenergyesesbotasugggijonkilometros2830htmlHave you ever thought about publishing an ebook or guest authoring on other sites I have a blog centered on the same subjects you discuss and would really like to have you share some storiesinformation I know my viewers would appreciate your work If you are even remotely interested feel free to shoot me an e mailrei oakley sunglasses httpcrownmodelscomusareioakleysunglasses35187html
-imported: true
 ---
 
 __LABOUR __

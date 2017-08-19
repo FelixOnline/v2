@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Incredible performance from squash to nick title from favourites
 date: "2016-02-12 12:08:35 +0000"
+
 # Attributes from Felix Online V1
 id: "5920"
 old_path: /sport/5920/imperial-squash-opposition
 aliases:
  - /sport/5920/imperial-squash-opposition
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last weekend saw the return of the prestigious Roehampton Club University Cup, with 16 mixed teams across the country playing in a tournament renowned for its high standard of squash.

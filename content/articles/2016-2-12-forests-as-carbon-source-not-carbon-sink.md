@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Human management of European forests to mitigate climate change could be counterintuitive
 date: "2016-02-12 11:29:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5903"
 old_path: /science/5903/forests-as-carbon-source-not-carbon-sink
 aliases:
  - /science/5903/forests-as-carbon-source-not-carbon-sink
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A key component in the fight against climate change has been the idea of controlled and regulated reforestation in regions destroyed by human actions. However, a recent study suggests that forests regrowing in Europe after mass deforestation between the 18th and 19th century are actually contributing to global warming rather than helping to reverse it; despite the fact they are 10% larger than the pre-industrial revolution woodlands. This poses a real problem for those hoping to reverse the effects of climate change via reforestation, with over 85% of modern European forests regulated by human management.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Making missing the "most important meal of the day" a thing of the past
 date: "2012-10-11 21:19:08 +0100"
+
 # Attributes from Felix Online V1
 id: "2670"
 old_path: /food/2670/whats-for-breakfast
 aliases:
  - /food/2670/whats-for-breakfast
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You don’t need me to rehash that old cliché about breakfast being the most important meal of the day, seeing as it’s been nattered on enough. Some of you who skip breakfast might even want to stab my eyeballs for even bringing it up. However, for the majority of you who skimp on it because you rolled out of bed with precious little time to spare, this one’s for you. A major plus is that these things won’t give you a severe sugar crash afterwards. Thank us for the improved concentration in lectures later.

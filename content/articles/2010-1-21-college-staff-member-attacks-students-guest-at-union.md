@@ -4,16 +4,24 @@ title: >
 subtitle: >
   College staff member attack's student's guest at Union
 date: "2010-01-21 21:39:27 +0000"
+
 # Attributes from Felix Online V1
 id: "44"
 old_path: /news/44/college-staff-member-attacks-students-guest-at-union
 aliases:
  - /news/44/college-staff-member-attacks-students-guest-at-union
+imported: true
+comments:
+ - so how exactly does this make senseLast day of work he was out celebrating about getting out of something that he didnt wanna be part of hence the celebrationSooo why did he go to the UNION bar to celebrate it contradiction 1He decided that hed punch someone and he found the one who DID NOT belong to the organisation he didnt wanna be part of anyway contradiction 2Is it me or is anyone else not seeing how stupid this isI think the moral of the story is that the guy is an absolute plonkerWhat an idiotAdmin hello here are having problems with your site malware warning Write me icq 989567856647buy jimmy choo bag for more I0Pjimmy
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - so how exactly does this make senseLast day of work he was out celebrating about getting out of something that he didnt wanna be part of hence the celebrationSooo why did he go to the UNION bar to celebrate it contradiction 1He decided that hed punch someone and he found the one who DID NOT belong to the organisation he didnt wanna be part of anyway contradiction 2Is it me or is anyone else not seeing how stupid this isI think the moral of the story is that the guy is an absolute plonkerWhat an idiotAdmin hello here are having problems with your site malware warning Write me icq 989567856647buy jimmy choo bag for more I0Pjimmy
-imported: true
 ---
 
 <span style="\"font-size:" 14px;\"="">Violence erupted at the Union on Friday night after a guest of an Imperial student was left with a bloody face after being attacked by a member of College staff on his last day of work.

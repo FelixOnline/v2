@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Peter Swallow and Navin Surtani take a look at the winners & losers of the 2010/11 Ashes
 date: "2011-01-13 20:28:58 +0000"
+
 # Attributes from Felix Online V1
 id: "581"
 old_path: /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
 aliases:
  - /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
+imported: true
+comments:
+ - I purchased mine this aftnreoon got home and started the install Unfortunately Steams tells me that the game is not released yet and cancels the install from DVD I have the option to preload the game though via steamReminds me of the Bill Hicks flag burnin  bit Hey buddy my daddy died for that flag  Really I bohugt mine They sell  em in KMart   yeahHe died in Korea for that flag  Wow what a coincidence Mine was made in Korea   Noone and I repeat NOONE has ever died for a flag A flag is a piece of cloth they might have died for freedom which by the way is the freedom to Burn the fucking flag you seeBurning the flag doesnt make freedom go away  Given that the burning of a Koran causes Milsums to get all frothy around the mouth and start killing each other what would happen if a whole bunch of people started doing it every day and posting it online This is NOT a suggestion I repeat this is NOT as suggestion it is a purely hypothetical qu
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I purchased mine this aftnreoon got home and started the install Unfortunately Steams tells me that the game is not released yet and cancels the install from DVD I have the option to preload the game though via steamReminds me of the Bill Hicks flag burnin  bit Hey buddy my daddy died for that flag  Really I bohugt mine They sell  em in KMart   yeahHe died in Korea for that flag  Wow what a coincidence Mine was made in Korea   Noone and I repeat NOONE has ever died for a flag A flag is a piece of cloth they might have died for freedom which by the way is the freedom to Burn the fucking flag you seeBurning the flag doesnt make freedom go away  Given that the burning of a Koran causes Milsums to get all frothy around the mouth and start killing each other what would happen if a whole bunch of people started doing it every day and posting it online This is NOT a suggestion I repeat this is NOT as suggestion it is a purely hypothetical qu
-imported: true
 ---
 
 While we were all enjoying the big freeze here in London, some of the enlightened few of us Imperial College students might have known that the Ashes were going on in the convict colony known as Australia. Too busy revising/partying and don’t know what happened? Here’s a quick recap and a player review.

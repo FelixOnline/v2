@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Veli Akiner fails to mourn a very dead phenomenon
 date: "2012-02-23 20:02:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2228"
 old_path: /comment/2228/imperial-memes-a-post-mortem
 aliases:
  - /comment/2228/imperial-memes-a-post-mortem
+imported: true
+comments:
+ - Inventor of FOIL commentingjust sayingsyaingHaters be hatinWell imperial memes only lasted a day but youll be a miserable prick for lifeI would like to remind everyone that most of the messages to be taken from the memes had already pretty much all been posted on FOIL back in early 2010just syaingLOL par
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Inventor of FOIL commentingjust sayingsyaingHaters be hatinWell imperial memes only lasted a day but youll be a miserable prick for lifeI would like to remind everyone that most of the messages to be taken from the memes had already pretty much all been posted on FOIL back in early 2010just syaingLOL par
-imported: true
 ---
 
 Late on a Tuesday night, [a monster was born](http://www.facebook.com/ImperialMemes). One that would increase exponentially with size; prove that Imperial students, for all their academic brilliance, follow the same behavioural patterns in a crowd as anyone else; and leave many of us sleep-deprived during our 9 o’clock lectures the following day.

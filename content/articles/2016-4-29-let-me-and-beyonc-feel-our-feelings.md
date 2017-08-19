@@ -4,16 +4,23 @@ title: >
 subtitle: >
   There is as much dignity in being honest as in staying silent
 date: "2016-04-29 10:11:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6094"
 old_path: /comment/6094/let-me-and-beyonc-feel-our-feelings
 aliases:
  - /comment/6094/let-me-and-beyonc-feel-our-feelings
+imported: true
+comments:
+ - Your article made me think of this from Chris Kraus  Because Im moved in writing to be irrepressible Writing to you seems like some holy cause cause theres not enough female irrepressibility written down Ive fused my silence and repression with the entire female genders silence and repression I think the sheer fact of women talking being paradoxical inexplicable flip selfdestructive but above all else public is the most revolutionary thing in the world7qIpr9 httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomhttpprednisoneorder20mgcom  Prednisone Viagra Bestellen Online httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Without A Prescription Viagra Generic 100mg httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20mg Generic Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20 Mg Viagra Pills httpcialis5mg20mgcomYouve gotten the most impressive websitesfifa 17 coins httpplumbingandheatingforumc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your article made me think of this from Chris Kraus  Because Im moved in writing to be irrepressible Writing to you seems like some holy cause cause theres not enough female irrepressibility written down Ive fused my silence and repression with the entire female genders silence and repression I think the sheer fact of women talking being paradoxical inexplicable flip selfdestructive but above all else public is the most revolutionary thing in the world7qIpr9 httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomhttpprednisoneorder20mgcom  Prednisone Viagra Bestellen Online httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Without A Prescription Viagra Generic 100mg httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20mg Generic Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20 Mg Viagra Pills httpcialis5mg20mgcomYouve gotten the most impressive websitesfifa 17 coins httpplumbingandheatingforumc
-imported: true
 ---
 
 A couple of months ago, I wrote an open letter in Felix. It was directed at my very recent ex-boyfriend, and in it I attempted to verbalise the pain I felt and some of the things I realised in the wake of our breakup. It wasn’t something that I wrote originally with the intention of publishing it in FELIX, but for me, the act of editing it for publication and seeing it printed was incredibly cathartic.

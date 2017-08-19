@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tom Rivlin on the past and future of the internet sensation
 date: "2014-11-06 20:42:58 +0000"
+
 # Attributes from Felix Online V1
 id: "4791"
 old_path: /games/4791/twitch-plays-pokmon-alive-and-kicking
 aliases:
  - /games/4791/twitch-plays-pokmon-alive-and-kicking
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Remember that thing that everyone cared about for one week in February? To a future historian it’ll look like a weird mind virus infected everyone for exactly a week and then disappeared. Let’s talk about it again!

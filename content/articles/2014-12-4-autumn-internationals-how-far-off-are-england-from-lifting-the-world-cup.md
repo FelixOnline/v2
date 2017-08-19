@@ -4,16 +4,23 @@ title: >
 subtitle: >
   After mixed performances in the Autumn internationals, Henry Lambley examines whether winning the world cup next year is a realistic dream
 date: "2014-12-04 20:23:07 +0000"
+
 # Attributes from Felix Online V1
 id: "5010"
 old_path: /sport/5010/autumn-internationals-how-far-off-are-england-from-lifting-the-world-cup
 aliases:
  - /sport/5010/autumn-internationals-how-far-off-are-england-from-lifting-the-world-cup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 England ended their autumn international campaign with a 26-17 win against an Australian team struggling for form in recent weeks. An estimated 82,000 supporters at Twickenham watched England exert their dominance in the scrum leading to a brace of tries split either side of half time for number eight Ben Morgan. Australia did sparkle at times and retaliated with two tries of their own through Fly Half Bernard Foley, who was substituted immediately after, and replacement lock Will Skelton, although they conceded far more penalties during the 80 minutes.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joseph Spiking looks back on the life of JD Salinger
 date: "2012-01-26 22:28:07 +0000"
+
 # Attributes from Felix Online V1
 id: "2064"
 old_path: /books/2064/a-tribute-to-a-reclusive-author
 aliases:
  - /books/2064/a-tribute-to-a-reclusive-author
+imported: true
+comments:
+ - Great article about a great man never knew that he had lived through so muchA cracking article I particularly like the ending which far from emphasising the authors reclusiveness questions the society that would lead someone as gifted as Salinger to renounce fame in the literary world  never knew salinger fought in normandy gives a new perspective on the man and his work
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great article about a great man never knew that he had lived through so muchA cracking article I particularly like the ending which far from emphasising the authors reclusiveness questions the society that would lead someone as gifted as Salinger to renounce fame in the literary world  never knew salinger fought in normandy gives a new perspective on the man and his work
-imported: true
 ---
 
 Holden Caulfield, Salinger’s most auto-biographical literary creation, once said, “What really knocks me out is a book that, when you’re all done reading it, you wish the author was a terrific friend of yours and you could call him up on the phone whenever you felt like it.” Salinger, a man known for his inaccessibility, was not going to give his phone number away to his devoted readers. Instead, he gave them a greater gift – the gift of a conversation with himself through his novels.

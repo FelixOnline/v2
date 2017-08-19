@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The kits will tell you if your drugs are safe
 date: "2016-05-13 08:52:30 +0100"
+
 # Attributes from Felix Online V1
 id: "6146"
 old_path: /news/6146/newcastle-students-union-to-sell-drug-testing-kits
 aliases:
  - /news/6146/newcastle-students-union-to-sell-drug-testing-kits
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Newcastle university students' union is to sell drug-testing packs to its students – not to test them for drugs – but to test the drugs themselves.

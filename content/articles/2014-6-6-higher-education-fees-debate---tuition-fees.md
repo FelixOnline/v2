@@ -4,16 +4,23 @@ title: >
 subtitle: >
   So, I am the poor schmuck who has to try to sell Tuition fees to the people already most disenfranchised with them. It’s my job to tell you all why running up a debt of £9000 per year on tuition fees (alongside other costs) is the best idea out there…
 date: "2014-06-06 02:42:25 +0100"
+
 # Attributes from Felix Online V1
 id: "4659"
 old_path: /comment/4659/higher-education-fees-debate---tuition-fees
 aliases:
  - /comment/4659/higher-education-fees-debate---tuition-fees
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 So, I am the poor schmuck who has to try to sell Tuition fees to the people already most disenfranchised with them. It’s my job to tell you all why running up a debt of £9000 per year on tuition fees (alongside other costs) is the best idea out there… oh, and I get 750 words to make that sale, 60 of which I’ve already used. So, it’s a good day to be me. That said, as I look at it more it seems more and more of a sensible standpoint. Why? Well let’s see.

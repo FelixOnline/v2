@@ -4,16 +4,24 @@ title: >
 subtitle: >
   College tight-lipped over delays
 date: "2011-05-12 15:42:13 +0100"
+
 # Attributes from Felix Online V1
 id: "1183"
 old_path: /news/1183/further-details-emerge-on-mechanical-engineering-refurbishment
 aliases:
  - /news/1183/further-details-emerge-on-mechanical-engineering-refurbishment
+imported: true
+comments:
+ - Bunch of Idiots
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Bunch of Idiots
-imported: true
 ---
 
 New information about the delayed refurbishment of the Mechanical Engineering department has come to light in the past week; showing the effect of the disruption on PhD students and implying that the College was unhappy with the way the project was being managed and that the error with the £3 million exhaust system is just one area where the refurbishment has not proceeded smoothly.

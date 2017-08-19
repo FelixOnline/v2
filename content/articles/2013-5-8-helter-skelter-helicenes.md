@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Laurence Pope interviews Dr Fuchter, a synthetic and medicinal chemist at ICL
 date: "2013-05-08 16:36:43 +0100"
+
 # Attributes from Felix Online V1
 id: "3550"
 old_path: /science/3550/helter-skelter-helicenes
 aliases:
  - /science/3550/helter-skelter-helicenes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Dr Matthew Fuchter is a Senior Lecturer in Synthetic and Medicinal chemistry at Imperial College London. In close collaboration with Dr Alasdair Campbell from the department of Physics Dr Fuchter and his research group have dedicated some of their research to OLEDs and a group of molecules known as helicenes.

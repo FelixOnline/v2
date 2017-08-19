@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Sara Hamilton reviews London’s biggest vegan festival, commenting on how cutting down on meat may be the answer to our environmental problems
 date: "2016-10-31 16:07:16 +0000"
+
 # Attributes from Felix Online V1
 id: "6366"
 old_path: /science/6366/why-vegetables-are-saving-the-planet
 aliases:
  - /science/6366/why-vegetables-are-saving-the-planet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I can already feel the eye-rolls. The “Oh, this vegan hippy nonsense again” eye-roll, so before I lose you all, let me promise that I’m not going to preach about animals’ feelings or inform you how tasty avocado is. What I am going to tell you about is a VegFest-induced realization of how easy it is to make a difference to the environment and how many people are doing so already.

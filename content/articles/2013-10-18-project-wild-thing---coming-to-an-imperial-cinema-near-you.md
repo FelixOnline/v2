@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Project Wild Thing opens in Cinemas nationwide on Friday 25th October. It will be screening at Imperial Cinema on Friday 25th October at 5pm. Tickets £5 students / £7 others available online at bit.ly/wildthingimperial
 date: "2013-10-18 20:53:00 +0100"
+
 # Attributes from Felix Online V1
 id: "3886"
 old_path: /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
 aliases:
  - /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
+imported: true
+comments:
+ - I was looking evheywrere and this popped up like nothingHello there I am so thrilled I found your weitbse I really found you by error while I was researching on Digg for something else Anyways I am here now and would just like to say cheers for a fantastic post and a all round thrilling blog I also love the themedesign I dont have time to read it all at the minute but I have bookmarked it and also included your RSS feeds so when I have time I will be back to read a lot more Please do keep up the awesome job
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - I was looking evheywrere and this popped up like nothingHello there I am so thrilled I found your weitbse I really found you by error while I was researching on Digg for something else Anyways I am here now and would just like to say cheers for a fantastic post and a all round thrilling blog I also love the themedesign I dont have time to read it all at the minute but I have bookmarked it and also included your RSS feeds so when I have time I will be back to read a lot more Please do keep up the awesome job
-imported: true
 ---
 
 David Bond is a worried man. When he was a child, he spent his time outdoors in the natural world, but now all his children do is stare at screens and obsess with big brands. He sets out to change things, appointing himself Marketing Director for Nature. This witty and irreverent documentary follows his antics as he attempts to launch a national marketing campaign to get children back enjoying the great outdoors. Described as “Like David Attenborough and Morgan Spurlock got drunk and had a baby” by one watcher at the Sheffield Doc Fest where the film premiered this summer, it’s sure to be an interesting watch.

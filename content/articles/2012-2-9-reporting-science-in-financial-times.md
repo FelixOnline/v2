@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Business Editors Benat Gurrutxaga-Lerma and Nina Kearsey talk to Clive Cookson, Science Editor at the Financial Times, about the argument for business involvement in science, and about the challenges and changes facing science journalism
 date: "2012-02-09 22:17:54 +0000"
+
 # Attributes from Felix Online V1
 id: "2146"
 old_path: /biz/2146/reporting-science-in-financial-times
 aliases:
  - /biz/2146/reporting-science-in-financial-times
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 To begin, as interviews commonly do, with some scene-setting by way of a weather report, it was a cold albeit sunny morning (one of those ironies so common to the English winter) when we met with the Financial Times’ Clive Cookson to talk science and business. Both a scientist and journalist by training, Cookson’s work for the _FT_ has involved writing everything from blogs and podcasts to teeline shorthand. Thus embodying both the new- and old-schools of journalism, he is well placed to share his thoughts on the changing status of science and science reporting. Retreating from the unremitting cold of the winter anticyclone to RCS1, and with coats still drawn around us against its lasting chill and the capricious air-con, we began the following conversation.

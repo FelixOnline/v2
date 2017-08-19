@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mmm tacos
 date: "2012-03-15 20:54:23 +0000"
+
 # Attributes from Felix Online V1
 id: "2364"
 old_path: /food/2364/a-veggie-and-a-meaty
 aliases:
  - /food/2364/a-veggie-and-a-meaty
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ig711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Black Bean, Courgette, & Olive Tacos served with Garlic-Lemon Yogurt – makes 8 tacos

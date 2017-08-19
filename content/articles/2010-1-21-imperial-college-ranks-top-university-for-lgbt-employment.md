@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial College ranks top university for LGBT employment
 date: "2010-01-21 22:26:08 +0000"
+
 # Attributes from Felix Online V1
 id: "46"
 old_path: /news/46/imperial-college-ranks-top-university-for-lgbt-employment
 aliases:
  - /news/46/imperial-college-ranks-top-university-for-lgbt-employment
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College London has been listed among Stonewall's Top 100 Employers 2010 for being one of the top employers of LGBT (lesbian, gay, bisexual and transgender) people. The Workplace Equality Index, released on 13th January, places Imperial at number 79 ahead of the only other HEI (higher education institution) in the list, Liverpool John Moores University, which follows at 85.

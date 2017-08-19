@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A team of EEE students are working to help establishing internet access in rural areas of developing countries
 date: "2012-02-16 20:55:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2179"
 old_path: /tech/2179/providing-internet-to-all
 aliases:
  - /tech/2179/providing-internet-to-all
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Can you imagine a day without the internet? Today communication touches every aspect of our lives from social networking to business. We exploit information technology to enhance the learning experience through the use of the internet, supported by online initiatives such as podcasts and Virtual Learning Environments. However in countries such as Morocco, Thailand, India and Nepal, social and economic development is restricted by a lack of communications infrastructure.

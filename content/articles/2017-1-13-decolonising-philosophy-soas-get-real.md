@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jian Li Chew discusses decolonisation,philosophy, and special snowflakes.
 date: "2017-01-13 14:01:29 +0000"
+
 # Attributes from Felix Online V1
 id: "6635"
 old_path: /comment/6635/decolonising-philosophy-soas-get-real
 aliases:
  - /comment/6635/decolonising-philosophy-soas-get-real
+imported: true
+comments:
+ - SOAS students have never asked for these philosophers to be banned only that they be studied in the context of colonialismhttpssoasunionorgnewsarticle6013StatementontherecentPressaboutDecolonisingSOASAlso as per usual those complaining about snowflakes seem to be the most easily offended Youve called students at SOAS racist narrowminded and brainwashed with absolutely no real evidence Surely the fact that they are questioning their curriculum is proof that they are thinking criticallyA response by the instructors of the BA World Philosophies programme to recent press coverageFB httpswwwfacebookcomsianhawthorneposts10155122274928643 pasted in full below Those of us teaching on the SOAS BA World Philosophies programme welcome the recent press interest in the debates concerning decolonising the curriculum These debates challenge both students and staff to think critically about the contexts and purposes of the production of knowledge and its institutional
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - SOAS students have never asked for these philosophers to be banned only that they be studied in the context of colonialismhttpssoasunionorgnewsarticle6013StatementontherecentPressaboutDecolonisingSOASAlso as per usual those complaining about snowflakes seem to be the most easily offended Youve called students at SOAS racist narrowminded and brainwashed with absolutely no real evidence Surely the fact that they are questioning their curriculum is proof that they are thinking criticallyA response by the instructors of the BA World Philosophies programme to recent press coverageFB httpswwwfacebookcomsianhawthorneposts10155122274928643 pasted in full below Those of us teaching on the SOAS BA World Philosophies programme welcome the recent press interest in the debates concerning decolonising the curriculum These debates challenge both students and staff to think critically about the contexts and purposes of the production of knowledge and its institutional
-imported: true
 ---
 
 So The Telegraph reported that the SOAS’s Student Union wants the university to decolonise its philosophy to remove Plato, Descartes and Kant. I read it just after having a pint of ale at Eastside to forget the tragedy that was my Structural Mechanics paper and my Asian flush made my face redder than the time I confessed my feelings to that girl two years ago – (She very politely rejected me). You may ask me, “But didn’t you decolonise your life and go to China to be a farmer?” Let’s just say that my mum found out and beat some sense into me. Also, I can’t fly. I now have to face the horrifying reality that I can’t blame white people for everything and to take responsibility for my actions.

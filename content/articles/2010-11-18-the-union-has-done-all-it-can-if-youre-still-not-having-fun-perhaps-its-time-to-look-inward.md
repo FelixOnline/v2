@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There are many fewer reasons for Imperial students to complain than there were just a year ago
 date: "2010-11-18 22:14:51 +0000"
+
 # Attributes from Felix Online V1
 id: "420"
 old_path: /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
 aliases:
  - /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
+imported: true
+comments:
+ - Because the drinks are cheaper You can get 250 vodka red bull in picadilly on a night out Why would i buy the unions special offer 450 versionDrink prices are outrageous Everyone wants to enjoy it but our wallets wont let usI fear metric will be under used It seems to have been aimed at the serious club kids with the industrial interior decent soundsysten and initial live music programme However the majority of students at imperial are typical lads who just want to get sfaced and laid The club kids will carry on going to Egg and Corsica Studios where theres better music and drugs Metric will have to keep drink prices low to attract crowds Shame reallyWe wasted how much money on this place Imperial College Unions bar is always going to be a sausage fest The rest of London is less so If youre bored  go there Why would anyone from Imperial want to go hang out at UCLTry the medics union Its cheaper more relaxed and frankly better
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Because the drinks are cheaper You can get 250 vodka red bull in picadilly on a night out Why would i buy the unions special offer 450 versionDrink prices are outrageous Everyone wants to enjoy it but our wallets wont let usI fear metric will be under used It seems to have been aimed at the serious club kids with the industrial interior decent soundsysten and initial live music programme However the majority of students at imperial are typical lads who just want to get sfaced and laid The club kids will carry on going to Egg and Corsica Studios where theres better music and drugs Metric will have to keep drink prices low to attract crowds Shame reallyWe wasted how much money on this place Imperial College Unions bar is always going to be a sausage fest The rest of London is less so If youre bored  go there Why would anyone from Imperial want to go hang out at UCLTry the medics union Its cheaper more relaxed and frankly better
-imported: true
 ---
 
 So the Union’s [£2.5 million refurbishment](http://www.felixonline.co.uk/?article=409) is finally coming to a close. The horrendous blue shed outside Metric will disappear and smoking builders in high-vis jackets will no longer grace Beit Quad. Even the decrepit lawn is being renewed. But as memories of asbestos grow faint in our minds and the constant thud and screech of construction work fades into the air, what will we think of our new Union?

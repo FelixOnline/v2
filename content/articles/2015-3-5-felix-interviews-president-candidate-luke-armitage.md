@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:25:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5338"
 old_path: /comment/5338/felix-interviews-president-candidate-luke-armitage
 aliases:
  - /comment/5338/felix-interviews-president-candidate-luke-armitage
+imported: true
+comments:
+ - Obviously this is satirical but he makes some very valid points in his own unorthodox manner Would just like to see him speak seriously once and he definitely be getting my voteI concurhttpswwwyoutubecomwatchvCS4yjfqOkaM  Here we goThere is clearly no real choice this year which is why I am voting RONWill this do AhemhttpswwwyoutubecomwatchvCS4yjfqOkaMindex8listPLYMu67m522JSSVLPinDx1c1CZGmvk8CvTfitflop salefitflop outlet httpfitflopsaublogspotcomfitflop australia outletfitflop australia httpfitflopsaublogspotcomchristian louboutin wedges canadachristian louboutin online httpcanadachristianlouboutinblogspotcomchristian louboutin boots canadachristian louboutin cheapest httpchristianlouboutincanadaoutletblogspotcombuy christian louboutin shoes canadachristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pricechristian louboutin sale canada httpcanadachristianlouboutinblogspotcomchr
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Obviously this is satirical but he makes some very valid points in his own unorthodox manner Would just like to see him speak seriously once and he definitely be getting my voteI concurhttpswwwyoutubecomwatchvCS4yjfqOkaM  Here we goThere is clearly no real choice this year which is why I am voting RONWill this do AhemhttpswwwyoutubecomwatchvCS4yjfqOkaMindex8listPLYMu67m522JSSVLPinDx1c1CZGmvk8CvTfitflop salefitflop outlet httpfitflopsaublogspotcomfitflop australia outletfitflop australia httpfitflopsaublogspotcomchristian louboutin wedges canadachristian louboutin online httpcanadachristianlouboutinblogspotcomchristian louboutin boots canadachristian louboutin cheapest httpchristianlouboutincanadaoutletblogspotcombuy christian louboutin shoes canadachristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pricechristian louboutin sale canada httpcanadachristianlouboutinblogspotcomchr
-imported: true
 ---
 
 ![Screen Shot 2015-03-02 at 17.23.50.png](../inc/timthumb.php?src=/img/upload/201503091457-ps3110-screen-shot-2015-03-02-at-17.23.50.png&w=460px&zc=1&a=t)

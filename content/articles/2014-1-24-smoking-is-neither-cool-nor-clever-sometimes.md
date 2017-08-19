@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anand Jagatia discovers that one beast breathes nicotine, not fire
 date: "2014-01-24 09:58:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4288"
 old_path: /science/4288/smoking-is-neither-cool-nor-clever-sometimes
 aliases:
  - /science/4288/smoking-is-neither-cool-nor-clever-sometimes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Most non-smokers will probably agree that the smell of cigarette smoke is fairly repulsive - there’s little worse than being stuck in a bus shelter with someone who doesn’t appreciate the finer points of the smoking ban. But scientists from the Max Planck Institute for Chemical Ecology in Germany have found that the tobacco hornworm (_Manduca sexta_) makes use of a similar effect to defend itself against predators - by exhaling nicotine at them.

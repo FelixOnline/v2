@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Student makes gruesome discovery before prayers last Sunday
 date: "2015-12-11 15:22:25 +0000"
+
 # Attributes from Felix Online V1
 id: "5810"
 old_path: /news/5810/pigs-head-found-in-australian-university-mosques-bathroom
 aliases:
  - /news/5810/pigs-head-found-in-australian-university-mosques-bathroom
+imported: true
+comments:
+ - Youre on top of the game Thanks for shrgnia nice goingCheap Albion Online Gold httpnetworkmarketingningcomprofilesblogshowtohaveafasttravelinalbiononlineNow you tell me shes not a knockouturlhttpwwwthenamexchangecomadsthreemajoralbiononlinethingsbuy Albion Online GoldurlMany thanks this website is really valuablenba 2k17 vc httpwwwmatrixundergroundcomgroupmatrixundergroundbeginnersgroupforumgetcheapflightstofifacoinsforsaleYoure a very helpful site could not make it without yaNFL 17 coins httpswwwteamresortcomforumstopic749buynhl17coinstinybitstrangesometimesviewpost_id749Keep up the awesome job  Lovin itnfl 17 news httpclara07xshtumblrcompost149153862149maddennfl17coinstobecomethemosteffective
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre on top of the game Thanks for shrgnia nice goingCheap Albion Online Gold httpnetworkmarketingningcomprofilesblogshowtohaveafasttravelinalbiononlineNow you tell me shes not a knockouturlhttpwwwthenamexchangecomadsthreemajoralbiononlinethingsbuy Albion Online GoldurlMany thanks this website is really valuablenba 2k17 vc httpwwwmatrixundergroundcomgroupmatrixundergroundbeginnersgroupforumgetcheapflightstofifacoinsforsaleYoure a very helpful site could not make it without yaNFL 17 coins httpswwwteamresortcomforumstopic749buynhl17coinstinybitstrangesometimesviewpost_id749Keep up the awesome job  Lovin itnfl 17 news httpclara07xshtumblrcompost149153862149maddennfl17coinstobecomethemosteffective
-imported: true
 ---
 
 TODO: image from

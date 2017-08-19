@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Will Prince’s Weekend d’Integration
 date: "2012-11-01 22:56:40 +0000"
+
 # Attributes from Felix Online V1
 id: "2801"
 old_path: /comment/2801/50-shades-of-grenoble
 aliases:
  - /comment/2801/50-shades-of-grenoble
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It must be about midnight and I’m sitting on a sun lounger in a dress I bought from a supermarket several hours earlier with a puffer-jacket-clad security guard checking I don’t try and introduce myself to the pool. Luckily I’ve already learnt my lesson in this department, having tried to introduce myself to someone about ten minutes earlier, only to have a drink poured over my head by their boyfriend for “standing to close to her”.

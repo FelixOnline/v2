@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Two Imperial graduates talk to Felix about plans to walk the entire length of New Zealand, on the Te Araroa trail
 date: "2010-10-21 18:49:10 +0100"
+
 # Attributes from Felix Online V1
 id: "223"
 old_path: /travel/223/one-tasty-looking-trek
 aliases:
  - /travel/223/one-tasty-looking-trek
+imported: true
+comments:
+ - First of all I would like to wish BEST OF LUCK both of you Alexander  Landey n the epic journey I am sure youll experience interesting  challenging moments NZ is the best country to be explored due to its terrains  geological features I always use NZ for my study cases in my previous assignments Geotourism When it comes to first impression to the customer you have to have a great logo built by a custom logo design company
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - First of all I would like to wish BEST OF LUCK both of you Alexander  Landey n the epic journey I am sure youll experience interesting  challenging moments NZ is the best country to be explored due to its terrains  geological features I always use NZ for my study cases in my previous assignments Geotourism When it comes to first impression to the customer you have to have a great logo built by a custom logo design company
-imported: true
 ---
 
 New Zealand. For a land-of-the-long-white-cloud the size of United Kingdom, which secludes itself in the south-eastern corner of the world map, and houses a population of sheep outnumbering that of humans by 15:1, it boasts an uncanny amount of eccentrics and their heroic – yet insane – antics.

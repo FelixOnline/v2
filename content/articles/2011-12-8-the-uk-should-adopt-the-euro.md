@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Dimitri Raphaelovich argues that the UK should become part of the Eurozone
 date: "2011-12-08 20:56:42 +0000"
+
 # Attributes from Felix Online V1
 id: "1925"
 old_path: /biz/1925/the-uk-should-adopt-the-euro
 aliases:
  - /biz/1925/the-uk-should-adopt-the-euro
+imported: true
+comments:
+ - A couple of omitted pointsThe EUs share of World GDP is shrinking And the majority of UK exports now go outside of the EU as a resultNot that that has anything to do with being in the EU let alone the Euro at all as most of our trade is governed by WTO rules anywayAlso for the Euro to have even the faintest chance of surviving its current lamentable state it would be essential for full fiscal union appropriately accronymed FU with cash flowing from North Europe to South This would NEVER achieve a democratic mandate in the United Kingdom Not that pesky democracy has ever bothered Eurocrats before ehThe sooner the Euro breaks up the sooner the economies of Greece Spain and Italy can start to rebuild their broken economies As Iceland has managed due in no small part to having its own currency to take the hitA whole generation languishing on the unemployment scrapheap because of the folly of those who dream of a Federal EuropeReally sickening stuff1 What th
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - A couple of omitted pointsThe EUs share of World GDP is shrinking And the majority of UK exports now go outside of the EU as a resultNot that that has anything to do with being in the EU let alone the Euro at all as most of our trade is governed by WTO rules anywayAlso for the Euro to have even the faintest chance of surviving its current lamentable state it would be essential for full fiscal union appropriately accronymed FU with cash flowing from North Europe to South This would NEVER achieve a democratic mandate in the United Kingdom Not that pesky democracy has ever bothered Eurocrats before ehThe sooner the Euro breaks up the sooner the economies of Greece Spain and Italy can start to rebuild their broken economies As Iceland has managed due in no small part to having its own currency to take the hitA whole generation languishing on the unemployment scrapheap because of the folly of those who dream of a Federal EuropeReally sickening stuff1 What th
-imported: true
 ---
 
 In last Wednesday’s Autumn Statement, George Osborne confirmed that the UK economy’s health was far worse than his office had expected. He blamed the ongoing Eurozone crisis of negatively affecting the UK’s economic growth, by pointing out the negative impact the former had had in our country’s exports.

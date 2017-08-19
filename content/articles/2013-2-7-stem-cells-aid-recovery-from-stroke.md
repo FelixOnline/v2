@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sarah Byrne investigates a new, fat-derived stem cell therapy
 date: "2013-02-07 23:26:32 +0000"
+
 # Attributes from Felix Online V1
 id: "3260"
 old_path: /science/3260/stem-cells-aid-recovery-from-stroke-
 aliases:
  - /science/3260/stem-cells-aid-recovery-from-stroke-
+imported: true
+comments:
+ - Well I am atheist but thats tltaoly cool that you believe in God or whatever that stuff doesnt bother me My mom died when I was 10 of cervical cancer and she wrote to me in a journal She frequently would say stuff like  Im sorry to put you guys through this you and your brother are too young   and now all I can think is how sorry I am she had to put up with the cancer So yes I have felt that way sometimes that I wish she could have been peaceful I dont want to say  died sooner  because that doesnt look right to me Our family friends dad died at age 76 after having like 3 different types of cancers and 3 strokes He was basically a vegetable in a bed for a year and half and I think his daughter was happy to know that he was at last at peaceI am truly sorry for your mother Best of luck to youMy spouse and i ended up being aulslbteoy comfortable that Ervin managed to round up his basic research while using the ideas he received using your blog Its no
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well I am atheist but thats tltaoly cool that you believe in God or whatever that stuff doesnt bother me My mom died when I was 10 of cervical cancer and she wrote to me in a journal She frequently would say stuff like  Im sorry to put you guys through this you and your brother are too young   and now all I can think is how sorry I am she had to put up with the cancer So yes I have felt that way sometimes that I wish she could have been peaceful I dont want to say  died sooner  because that doesnt look right to me Our family friends dad died at age 76 after having like 3 different types of cancers and 3 strokes He was basically a vegetable in a bed for a year and half and I think his daughter was happy to know that he was at last at peaceI am truly sorry for your mother Best of luck to youMy spouse and i ended up being aulslbteoy comfortable that Ervin managed to round up his basic research while using the ideas he received using your blog Its no
-imported: true
 ---
 
 he effects of a stroke can be devastating, with the initial loss of blood supply to part of the brain setting in motion a series of biochemical events called the ‘ischaemic cascade’. This causes cumulative damage to brain cells and blood vessels during the first few hours after the stroke, often resulting in severe and irreversible brain injury.

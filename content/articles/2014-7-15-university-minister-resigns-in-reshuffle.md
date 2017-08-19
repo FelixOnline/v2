@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Universities Minister has resigned as David Cameron prepares to announce a reshuffle in the cabinet.
 date: "2014-07-15 02:51:30 +0100"
+
 # Attributes from Felix Online V1
 id: "4725"
 old_path: /news/4725/university-minister-resigns-in-reshuffle
 aliases:
  - /news/4725/university-minister-resigns-in-reshuffle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Conservative MP David Willetts has resigned his post as Universities Minister as part of the current cabinet reshuffle. Mr Willetts was previously the Shadow Universities Minister and the Shadow Education Minister. His replacement will be Greg Clark.

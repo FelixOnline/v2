@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-03 09:18:15 +0100"
+
 # Attributes from Felix Online V1
 id: "6236"
 old_path: /science/6236/science--the-city
 aliases:
  - /science/6236/science--the-city
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Very few of us are here at Imperial because we’re interested in the inner machinations of the political beast. But as argued lately in Felix, science and scientists need to wake up and start caring about science and policy. Besides being a way to sell ourselves better and increase funding from one of our largest donors (the government), gathering technical knowledge and transforming it into human wisdom requires prescience about how it will affect society. And one of the most powerful, overarching frameworks for societal influence is politics.

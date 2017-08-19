@@ -4,16 +4,22 @@ title: >
 subtitle: >
   ...
 date: "2016-12-09 12:09:59 +0000"
+
 # Attributes from Felix Online V1
 id: "6567"
 old_path: /science/6567/cosmic-dust-in-your-backyard
 aliases:
  - /science/6567/cosmic-dust-in-your-backyard
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Of the many things you might have been sweeping off your balconies and terraces, cosmic dust particles could have found their way in your dust pan. Cosmic dust grains are minute particles measuring around 0.01 millimetres in size and are remnants from the time our solar system was born. They contain traces of minerals and analysing it can help scientists  to solve the puzzle of how the entire solar system was formed.

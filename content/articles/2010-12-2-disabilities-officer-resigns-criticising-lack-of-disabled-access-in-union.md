@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union says issues are being resolved
 date: "2010-12-02 21:59:49 +0000"
+
 # Attributes from Felix Online V1
 id: "502"
 old_path: /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
 aliases:
  - /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
+imported: true
+comments:
+ - I wish Nicola Hopkins had not resigned so she could help meI have Aspergers Syndrome and distrust the Disabilities Services and my department head and few others who have mistreated me since I startedThey made me feel bad about myselfI worked very hard to get accepted by Imperial College having gone through major knee surgeries and now after 2 years I feel bad being thereEveryone finds me strange and I have no friendsPlease tell others about Aspergers so they understand people like me cannot help the way we areIm sorry to hear this I too felt very mistreated by the Colleges disability services when I approached them for help They treated me like it was my fault So Ive decided to get help privately
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - I wish Nicola Hopkins had not resigned so she could help meI have Aspergers Syndrome and distrust the Disabilities Services and my department head and few others who have mistreated me since I startedThey made me feel bad about myselfI worked very hard to get accepted by Imperial College having gone through major knee surgeries and now after 2 years I feel bad being thereEveryone finds me strange and I have no friendsPlease tell others about Aspergers so they understand people like me cannot help the way we areIm sorry to hear this I too felt very mistreated by the Colleges disability services when I approached them for help They treated me like it was my fault So Ive decided to get help privately
-imported: true
 ---
 
 The Union’s commitment to disabled students was called into question last week as the Union Disabilities Officer resigned saying that the Union “should be leading the way in accessibility for students, not lagging behind the rest of the university”.

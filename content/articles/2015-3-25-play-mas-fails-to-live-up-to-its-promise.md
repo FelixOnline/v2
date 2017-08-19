@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Falkenberg is let down by the Orange Tree Theatre’s play
 date: "2015-03-25 13:29:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5452"
 old_path: /arts/5452/play-mas-fails-to-live-up-to-its-promise
 aliases:
  - /arts/5452/play-mas-fails-to-live-up-to-its-promise
+imported: true
+comments:
+ - Boston is actually going to another market that the NBA thrives on having for national televised games Shaquille ONeal Shaq changed the way lowpost basketball was played in recent yrscrdits fifa gratuit httpcreditsfutcomhttpprednisoneorder20mgcom  By Prednisone W Not Prescription Prices Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Viagra Pills httpcialis5mg20mgcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Boston is actually going to another market that the NBA thrives on having for national televised games Shaquille ONeal Shaq changed the way lowpost basketball was played in recent yrscrdits fifa gratuit httpcreditsfutcomhttpprednisoneorder20mgcom  By Prednisone W Not Prescription Prices Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Viagra Pills httpcialis5mg20mgcom
-imported: true
 ---
 
 The joy of carnival is infectious. Dressing up, getting drunk and parading around town to the sound of steel drums: what could be better? Every culture has a different spin on carnival, but few know how to do it better than the Trinidadians’ annual _Play Mas_.

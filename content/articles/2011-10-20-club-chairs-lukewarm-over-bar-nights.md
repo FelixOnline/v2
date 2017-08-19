@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Boards give an underwhelming response to new rulings on how to run events
 date: "2011-10-20 19:30:32 +0100"
+
 # Attributes from Felix Online V1
 id: "1555"
 old_path: /news/1555/club-chairs-lukewarm-over-bar-nights
 aliases:
  - /news/1555/club-chairs-lukewarm-over-bar-nights
+imported: true
+comments:
+ - Sounds like a sensible decision to meIf the staffingcleaning costs are losing the union money why not charge those at cost too Simple Sell kegs at cost charge for staff at cost If extra cleaning is required because people werent acting responsibly charge the club or CSB extra If ICU wants to continue providing a safe environment for students to do stupid things and learn lifes lessons the hard way If ICU are going to price clubs and societies out of their venues then there will be more and more events organised elsewhere taking students out of the relative safety and closeproximity of their halls of residence If the number of external events rises significantly then ICU has three options The first is to relax these draconian rules a little to entice clubs back into the union The second is to ban external events involving alcohol to force clubs back to the union at which point students will go clubbing without clubsICU The third is to allow clubs to run external events until someone ge
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Sounds like a sensible decision to meIf the staffingcleaning costs are losing the union money why not charge those at cost too Simple Sell kegs at cost charge for staff at cost If extra cleaning is required because people werent acting responsibly charge the club or CSB extra If ICU wants to continue providing a safe environment for students to do stupid things and learn lifes lessons the hard way If ICU are going to price clubs and societies out of their venues then there will be more and more events organised elsewhere taking students out of the relative safety and closeproximity of their halls of residence If the number of external events rises significantly then ICU has three options The first is to relax these draconian rules a little to entice clubs back into the union The second is to ban external events involving alcohol to force clubs back to the union at which point students will go clubbing without clubsICU The third is to allow clubs to run external events until someone ge
-imported: true
 ---
 
 Members of the Arts and Entertainments Board (AEB) voiced overwhelming discontent with the Union’s new rules on holding bar nights for clubs and societies.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Do you remember the days when you had to actually chat to your friends or neighbours or call your mom to find out how to cook something new? Well, neither do I, because we’re all used to using the almighty godly internet instead.
 date: "2017-02-24 15:21:01 +0000"
+
 # Attributes from Felix Online V1
 id: "6828"
 old_path: /food/6828/all-hail-the-mighty-internet
 aliases:
  - /food/6828/all-hail-the-mighty-internet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Good thing that nowadays, you are only a search away from “I want to try some Thai tonight!” or “How am I supposed to eat an artichoke?”. But sometimes the Internet does more bad than good and gives too many recommendations. I mean, how are you supposed to decide between that perfect steak and the perfect cake? What about that oh so easy to make soup recipe you stumbled upon the other day? I mean, I know you want to eat them all, but you don’t want to waste all your life cooking – a.k.a. becoming a chef – and you promised yourself that you are going to lose a few pounds so you’re taking it easy on the food.

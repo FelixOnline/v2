@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two of London’s universities go head to head in an all-day battle for glory on the small screens
 date: "2017-03-17 17:29:34 +0000"
+
 # Attributes from Felix Online V1
 id: "6917"
 old_path: /features/6917/esports--imperial-vs-ucl
 aliases:
  - /features/6917/esports--imperial-vs-ucl
+imported: true
+comments:
+ - look great todaycheap madden 17 coins mobile coins buy httpwwwmaddenstorecomIll be there for you cheap albion online gold httpwwwiflforumcombloge15720TipsOnHowToObtainALotMoreMethodsAlongWithStrategiesInsideAlbionhtmlYou started it pokemonbux pokemon go rare pokemon online store httpwwwpokemonbuxcomyoure really talentedbuy cheapest Dofus Touch Kamas httpcollabfamilylawsurreycoukforumforum_postsaspTID48825PN1TPN1Proud of you buy Albion Online Gold httpalbionblogsportde20170304upalbionsafealbiononlinegoldstoreonline24hours
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - look great todaycheap madden 17 coins mobile coins buy httpwwwmaddenstorecomIll be there for you cheap albion online gold httpwwwiflforumcombloge15720TipsOnHowToObtainALotMoreMethodsAlongWithStrategiesInsideAlbionhtmlYou started it pokemonbux pokemon go rare pokemon online store httpwwwpokemonbuxcomyoure really talentedbuy cheapest Dofus Touch Kamas httpcollabfamilylawsurreycoukforumforum_postsaspTID48825PN1TPN1Proud of you buy Albion Online Gold httpalbionblogsportde20170304upalbionsafealbiononlinegoldstoreonline24hours
-imported: true
 ---
 
 For most people, the 12th of March was just another Sunday. For a group of certain individuals, however, it was a chance for lasting and eternal glory. Well, more like temporary happiness for a few days, but hey, we all have to take what we can get.

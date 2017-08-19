@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jungle beats fire up crowd of young music junkies at Heaven
 date: "2010-12-09 20:29:22 +0000"
+
 # Attributes from Felix Online V1
 id: "523"
 old_path: /music/523/ratatat-duo-flourish-under-the-arches
 aliases:
  - /music/523/ratatat-duo-flourish-under-the-arches
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This dynamic duo, formally known as Cherry, fired up at Heaven. A set mainly compromised of tracks from Ratatat’s newest album LP4, was complemented by trippy video projections spanning the rear of the stage, creating a pleasantly multi-sensorial experience. Jungle beats were harmonised with warped collages of sorts, featuring everything from animal portraits to volcanic eruptions.

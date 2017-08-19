@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Gaming Society go to UCL... Tl;dr: Imperial possibly beat UCL at a bunch of video games, with a score of 2-1 or 3-2. Or maybe we drew with 2-2 - I don’t know. Just read the article.
 date: "2012-11-09 16:35:55 +0000"
+
 # Attributes from Felix Online V1
 id: "2880"
 old_path: /games/2880/strike-team-sent-to-upset-ucl-mission-successful
 aliases:
  - /games/2880/strike-team-sent-to-upset-ucl-mission-successful
+imported: true
+comments:
+ - To get involved in future events contact gamingimperialacuk or follow httpswwwfacebookcomgroupsICGaming for details on our next event 27th November
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - To get involved in future events contact gamingimperialacuk or follow httpswwwfacebookcomgroupsICGaming for details on our next event 27th November
-imported: true
 ---
 
 It’s been a question that has floated around Imperial College Union’s Gaming Club for years now – why don’t we play anyone else? This year, gears actually started moving.

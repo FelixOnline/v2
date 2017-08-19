@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jeremy Hunt’s plans for junior doctor contracts will affect the care you receive
 date: "2015-11-19 22:44:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5748"
 old_path: /comment/5748/this-is-everyones-fight
 aliases:
  - /comment/5748/this-is-everyones-fight
+imported: true
+comments:
+ - Do you have a spam issue on this website I also am a blogger and I was wanting to know your situation we have developed some nice procedures and we are looking to swap techniques with other folks why not shoot me an email if interestedmoncler baby jas roze maandag httpwwwthibornlnlmonclerbabyjasrozemaandag13501htmlHey there I know this is somewhat off topic but I was wondering which blog platform are you using for this website Im getting sick and tired of Wordpress because Ive had issues with hackers and Im looking at options for another platform I would be fantastic if you could point me in the direction of a good platformwoolrich eugene coat cos httpwwwbesimpleititwoolricheugenecoatcos28696html
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Do you have a spam issue on this website I also am a blogger and I was wanting to know your situation we have developed some nice procedures and we are looking to swap techniques with other folks why not shoot me an email if interestedmoncler baby jas roze maandag httpwwwthibornlnlmonclerbabyjasrozemaandag13501htmlHey there I know this is somewhat off topic but I was wondering which blog platform are you using for this website Im getting sick and tired of Wordpress because Ive had issues with hackers and Im looking at options for another platform I would be fantastic if you could point me in the direction of a good platformwoolrich eugene coat cos httpwwwbesimpleititwoolricheugenecoatcos28696html
-imported: true
 ---
 
 I’m aware that the media and Facebook may have recently reached saturation with heartfelt pleas for help from the medic community. I have undoubtedly littered friends’ timelines with tearjerking videos, angry statistic-riddled rants and protest photos. However, Jeremy Hunt still refuses to listen and I believe you, the voting public and NHS patients, deserve to know what’s happening. I hope you might even join the debate.

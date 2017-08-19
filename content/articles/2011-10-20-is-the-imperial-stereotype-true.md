@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Free advice for Freshers freaking out, from Faye Hemsley
 date: "2011-10-20 23:25:56 +0100"
+
 # Attributes from Felix Online V1
 id: "1581"
 old_path: /comment/1581/is-the-imperial-stereotype-true
 aliases:
  - /comment/1581/is-the-imperial-stereotype-true
+imported: true
+comments:
+ - is guilty of being a flatmate who forgot to order Sky BroadbandGO WARRINGTONwhat a fugly cowwhat a fugly cow
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - is guilty of being a flatmate who forgot to order Sky BroadbandGO WARRINGTONwhat a fugly cowwhat a fugly cow
-imported: true
 ---
 
 So it’s two weeks in, and things aren’t going as you planned. It isn’t exactly how it was sold to you. Sure, you’ve been out most nights, met a million people you can’t remember, been a bit of a tourist and burnt a few meals. But you’ve also missed more 9am lectures than you made it to, piled up a mountain of work, and have come to realise that you are no longer one of the elite. Yes, you, the geek extraordinaire with a billion A levels, are average. You’ve finally met a group of like-minded people, and all it’s done is deflate your ego. You’re just a fish in a very large pond, more like a lake actually, maybe the Serpentine in Hyde Park now you mention it.

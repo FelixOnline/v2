@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Four products that are destined to make a big splash in the coming year
 date: "2011-01-13 20:38:02 +0000"
+
 # Attributes from Felix Online V1
 id: "583"
 old_path: /tech/583/top-tech-to-keep-your-eye-on-in-2011
 aliases:
  - /tech/583/top-tech-to-keep-your-eye-on-in-2011
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - fa608
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __The Motorola Xoom__

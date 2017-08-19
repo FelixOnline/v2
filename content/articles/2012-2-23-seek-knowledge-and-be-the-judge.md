@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC Islamic Society presents a week of events inviting you to discover Islam
 date: "2012-02-23 21:45:35 +0000"
+
 # Attributes from Felix Online V1
 id: "2261"
 old_path: /news/2261/seek-knowledge-and-be-the-judge-
 aliases:
  - /news/2261/seek-knowledge-and-be-the-judge-
+imported: true
+comments:
+ - LOL thanks for putting this in the news section matt
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LOL thanks for putting this in the news section matt
-imported: true
 ---
 
 Falling into a set routine of university life, we can find ourselves sinking into a certain state of mind where nothing really matters much beyond the next deadline or what we are planning for the weekend. When we switch off like this we can sleepwalk through the days and find that life simply passes us by. As we watch time slip past, we seldom take the chance to ask the important questions: Why are we here? What is the meaning of life? We leave these questions unanswered in the back of our minds.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   How an educational charity is bringing art back to the masses
 date: "2014-01-17 03:47:52 +0000"
+
 # Attributes from Felix Online V1
 id: "4241"
 old_path: /arts/4241/arts-emergency
 aliases:
  - /arts/4241/arts-emergency
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Present education policy seems to be driven by the political notion that culture should be seen as a ‘luxury’ and a ‘commodity’, and purely in terms of economic utility. In April 2013, arts secretary Maria Miller spoke on the subject of British arts, saying that the argument for continued arts funding must be made primarily on economic grounds, so that it “will get traction, not in the press, but with my colleagues – and with the country at large”.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy is dismissive of Saturday's protests
 date: "2017-01-27 16:22:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6687"
 old_path: /comment/6687/real-change-comes-from-real-action
 aliases:
  - /comment/6687/real-change-comes-from-real-action
+imported: true
+comments:
+ - Everyones for real change and youre absolutely right that quiet action is much more effective in achieving that than loud rhetoric But many protesters are not expecting to effect some seismic change on whatever issue theyre fired up about Zoe Williams wrote an excellent piece in the guardian on the same idea httpswwwtheguardiancomcommentisfree2017jan22piersmorganwomensmarchprotestlovegreenhamcommontrumpI was there because otherwise how can we see one another When were refracted through a political and media culture that treats cooperation as schmaltz equality as passe honesty as optional and dissenters as raging weirdos how other than by congregating can we believe that were not aloneI think its quite harsh to call it selfindulgence As Fighting apathy and maybe eventually encouraging empathy is another key challenge in bringing about change I laud these protesters for getting out there making themselves seen Misguided or whatever else one might call the
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Everyones for real change and youre absolutely right that quiet action is much more effective in achieving that than loud rhetoric But many protesters are not expecting to effect some seismic change on whatever issue theyre fired up about Zoe Williams wrote an excellent piece in the guardian on the same idea httpswwwtheguardiancomcommentisfree2017jan22piersmorganwomensmarchprotestlovegreenhamcommontrumpI was there because otherwise how can we see one another When were refracted through a political and media culture that treats cooperation as schmaltz equality as passe honesty as optional and dissenters as raging weirdos how other than by congregating can we believe that were not aloneI think its quite harsh to call it selfindulgence As Fighting apathy and maybe eventually encouraging empathy is another key challenge in bringing about change I laud these protesters for getting out there making themselves seen Misguided or whatever else one might call the
-imported: true
 ---
 
 Oh, you went on Saturday’s march? You must have the moral high ground now. You 100% changed the world by walking around with a sign. Here’s a reality check: the only way to influence the nation is through government. You didn’t make any tangible change, you sent a letter of complaint: 'Hi, I think you are meanies and this is how angry I’m going to get if you continue.’ How often does a head of state listen to a protest?

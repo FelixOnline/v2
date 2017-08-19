@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Mahima Razdan writes about the perks of mingling abroad
 date: "2015-01-23 01:23:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5122"
 old_path: /welfare/5122/what-it-means-to-be-an-international-student
 aliases:
  - /welfare/5122/what-it-means-to-be-an-international-student
+imported: true
+comments:
+ - fitflop cheapfitflop in australia httpaustraliafitflopsblogspotcomHis one downside is that like McFadden he sometimes provides a problem with fumbles Gonzalez went the full 90 in the 21 loss to El Salvador You can watch soccer all day long in the event thats what you opt to dofifa 16 hack httpcreditsfutcomchristian louboutin torontochristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop cheapfitflop in australia httpaustraliafitflopsblogspotcomHis one downside is that like McFadden he sometimes provides a problem with fumbles Gonzalez went the full 90 in the 21 loss to El Salvador You can watch soccer all day long in the event thats what you opt to dofifa 16 hack httpcreditsfutcomchristian louboutin torontochristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 Take a look around in your lecture hall. What do you see? Considering that all of you are studying at Imperial College, there will probably be people of different races, nationalities, ethnicities and socioeconomic backgrounds all packed into one room. Now take a closer look. I’ll wager that there will be a group of Chinese students bunched together in the front. the Indians will have congregated somewhere around the back. There will be a whole bunch of Europeans scattered around the room, sitting together according to their nationalities, and the English will probably be found all around the room in two’s or threes.

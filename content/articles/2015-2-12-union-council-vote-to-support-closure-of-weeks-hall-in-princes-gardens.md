@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports from meeting that brands hall “an inefficient use of space”, but also supports cutting the prices of new halls in North Acton.
 date: "2015-02-12 21:56:48 +0000"
+
 # Attributes from Felix Online V1
 id: "5240"
 old_path: /news/5240/union-council-vote-to-support-closure-of-weeks-hall-in-princes-gardens
 aliases:
  - /news/5240/union-council-vote-to-support-closure-of-weeks-hall-in-princes-gardens
+imported: true
+comments:
+ - Evelyn Garden closing 2015 Garden Hall closed 2013 Pembridge having in the balance and now Weeks on the danger list Inefficient use of spacehave you seen the business school Profit first student experience last Do the people making these decisions not realise that they cant be reversedIts strange that Eastside prices cant be changedlowered even though the hall has been in operation for 5 years  at the same time the process in Acton can be cut before it opens  does this suggest students were being ripped offAll other rents increasing some substantiallyand supported by the body elected to represent studentsSo they closed Garden Hall two years ago and the space is barely being used It is now home to the Chaplaincy which does not require all the space that used to house nearly 100 students And if the problem with Weeks is that it is too difficult to refurbish then how is it going to be used for other functions I cant help but feel like a similar thing would happen with Weeks w
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Evelyn Garden closing 2015 Garden Hall closed 2013 Pembridge having in the balance and now Weeks on the danger list Inefficient use of spacehave you seen the business school Profit first student experience last Do the people making these decisions not realise that they cant be reversedIts strange that Eastside prices cant be changedlowered even though the hall has been in operation for 5 years  at the same time the process in Acton can be cut before it opens  does this suggest students were being ripped offAll other rents increasing some substantiallyand supported by the body elected to represent studentsSo they closed Garden Hall two years ago and the space is barely being used It is now home to the Chaplaincy which does not require all the space that used to house nearly 100 students And if the problem with Weeks is that it is too difficult to refurbish then how is it going to be used for other functions I cant help but feel like a similar thing would happen with Weeks w
-imported: true
 ---
 
 Union Council voted this week to support the closure of Weeks hall in order to transform it into space that could be used for childcare provisions for academics.

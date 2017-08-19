@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jonathan London on depression
 date: "2013-01-31 23:24:44 +0000"
+
 # Attributes from Felix Online V1
 id: "3207"
 old_path: /news/3207/unseen-imperial--depression-the-stigmatised-illness
 aliases:
  - /news/3207/unseen-imperial--depression-the-stigmatised-illness
+imported: true
+comments:
+ - Great thing youre doing here I am an alumni with a great and wellpayed job now and looking forward to my future During my time at Imperial though I had trouble measuring up to the colleges expectations and spent most of my time feeling at the edge of a cliff without a chance of saving myself from a seeming downward spiral of bad grades thinking Ill have a terrible future to feeling worthless which in turn certainly didnt help my grades I couldnt get up in the morning and thought of suicide nearly daily especially during exam periods Its a burden I wished I wouldnt have kept to myself Everybody has their reasons those were mine and the fact that I feel that I still have to justify who I was back then shows how little this is socially accepted as you rightly point outBest of luck and keep this up Make a call for donations this is something I would like to support
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great thing youre doing here I am an alumni with a great and wellpayed job now and looking forward to my future During my time at Imperial though I had trouble measuring up to the colleges expectations and spent most of my time feeling at the edge of a cliff without a chance of saving myself from a seeming downward spiral of bad grades thinking Ill have a terrible future to feeling worthless which in turn certainly didnt help my grades I couldnt get up in the morning and thought of suicide nearly daily especially during exam periods Its a burden I wished I wouldnt have kept to myself Everybody has their reasons those were mine and the fact that I feel that I still have to justify who I was back then shows how little this is socially accepted as you rightly point outBest of luck and keep this up Make a call for donations this is something I would like to support
-imported: true
 ---
 
 __What is Unseen Imp____erial?__

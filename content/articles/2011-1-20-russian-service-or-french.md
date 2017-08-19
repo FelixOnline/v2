@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I prefer English service over both of them
 date: "2011-01-20 20:24:11 +0000"
+
 # Attributes from Felix Online V1
 id: "624"
 old_path: /food/624/russian-service-or-french
 aliases:
  - /food/624/russian-service-or-french
+imported: true
+comments:
+ - First things first service  langlaise is a term that already exists in common use Its very similar to service  la franaise as you describe it above but also the horrors of clamp serving from a silver platter As much as I like the way you describe your dinner parties they do sound nice youre looking in the wrong place to see if this is original to you Its hard to say what you exactly mean with your english serving but given the sparse info you give before you describe the example menu it seems to be a collection of smaller dishes with a pick and mix attitude but complimenting each other Larousse and similar would be focused on western styles but you would have to look east to find something like this Your description basically pegs it as a poor mans version of Kaiseki or Korean royal cuisine
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - First things first service  langlaise is a term that already exists in common use Its very similar to service  la franaise as you describe it above but also the horrors of clamp serving from a silver platter As much as I like the way you describe your dinner parties they do sound nice youre looking in the wrong place to see if this is original to you Its hard to say what you exactly mean with your english serving but given the sparse info you give before you describe the example menu it seems to be a collection of smaller dishes with a pick and mix attitude but complimenting each other Larousse and similar would be focused on western styles but you would have to look east to find something like this Your description basically pegs it as a poor mans version of Kaiseki or Korean royal cuisine
-imported: true
 ---
 
 One of the things all the top chefs say is that one of the reasons they are in the job is because they like putting a plate of food in front of someone. A good recent example of this is Nigel Slater, whose early life was dramatised on the BBC over Christmas – arguably more for the gay kiss than for the lemon meringue, one might say.

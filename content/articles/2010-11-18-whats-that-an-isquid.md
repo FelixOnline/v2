@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Incipio Dotties iPhone 3GS case reviewed by Andrew McDonagh
 date: "2010-11-18 20:05:34 +0000"
+
 # Attributes from Felix Online V1
 id: "382"
 old_path: /tech/382/whats-that-an-isquid
 aliases:
  - /tech/382/whats-that-an-isquid
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 “What on earth is that? It looks like you’ve run over a squid and put it on your phone.” My sickened friend was referring to my tricked out [Incipio Dotties iPhone 3GS case](http://www.myincipio.com/iPhone-3G-3GS-Cases-Accessories/Incipio-iPhone-3G-3GS-dotties-Silicone-Case.asp), complete with customizable ‘dottie’ inserts.

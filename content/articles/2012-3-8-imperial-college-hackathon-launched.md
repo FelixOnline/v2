@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Applications abound as students take to their screens, writes Sangjin Lee
 date: "2012-03-08 21:01:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2321"
 old_path: /biz/2321/imperial-college-hackathon-launched
 aliases:
  - /biz/2321/imperial-college-hackathon-launched
+imported: true
+comments:
+ - Really glad that this went well The issue of encouraging entrepreneurial behaviour came up in the first Computing Staff Student Committee meeting of the year It was brought up by the head of department Susan Eisenbach as something the department hoped to encourage in futureI dont know whether you spoke to her but perhaps it would be worth contacting her if you need help organizing future events I think there are a lot of students who are potentially interested but there is a deeper issue of the workload on students If we are too heavily tasked with coursework we dont have the breathing space needed to spend a weekend hacking on appsI also doubt that framing what is essentially an entrepreneurial exercise as a chance to be recruited by a top company is conducive to the much more noble goal of building young small business leaders It seems that recruiting the best of these students to a bank is a waste of the talents your contest seeks to highlightRegardless congratulations on a s
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Really glad that this went well The issue of encouraging entrepreneurial behaviour came up in the first Computing Staff Student Committee meeting of the year It was brought up by the head of department Susan Eisenbach as something the department hoped to encourage in futureI dont know whether you spoke to her but perhaps it would be worth contacting her if you need help organizing future events I think there are a lot of students who are potentially interested but there is a deeper issue of the workload on students If we are too heavily tasked with coursework we dont have the breathing space needed to spend a weekend hacking on appsI also doubt that framing what is essentially an entrepreneurial exercise as a chance to be recruited by a top company is conducive to the much more noble goal of building young small business leaders It seems that recruiting the best of these students to a bank is a waste of the talents your contest seeks to highlightRegardless congratulations on a s
-imported: true
 ---
 
 Imperial College has one of the best Computing and Electrical Engineering Departments in the World, producing the most disciplined and talented software developers and programmers consistently. These programmers often benefit from high salaries and fabulous perquisites from their employers. Imperial College prides itself on this monumental achievement. However, students often observe the lack of ambition for entrepreneurship and technological innovation among Computing Undergraduates – please correct me if I am wrong.

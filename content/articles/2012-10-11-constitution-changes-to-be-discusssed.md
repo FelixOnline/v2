@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Full changes to be circulated by Monday. Agreed to in principle by Council. Changes to structure of some Boards
 date: "2012-10-11 20:23:05 +0100"
+
 # Attributes from Felix Online V1
 id: "2641"
 old_path: /news/2641/constitution-changes-to-be-discusssed
 aliases:
  - /news/2641/constitution-changes-to-be-discusssed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In the first Council of the academic year, changes to the constitution, which were put forward by Paul Beaumont, Union President, were agreed to in principle. A period of consultation is now expected to begin. Beaumont said that he was going to be talking to people about it and explaining the changes.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What have the biggest companies done this year?
 date: "2014-06-19 18:45:50 +0100"
+
 # Attributes from Felix Online V1
 id: "4696"
 old_path: /tech/4696/yearly-review-the-big-ones
 aliases:
  - /tech/4696/yearly-review-the-big-ones
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 #### Microsoft

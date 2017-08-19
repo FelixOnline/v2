@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Main Attrakionz – 808s & Dark Grapes II – 2011
 date: "2011-11-24 22:23:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1833"
 old_path: /music/1833/kadhims-totally-hot-album-of-the-week-8
 aliases:
  - /music/1833/kadhims-totally-hot-album-of-the-week-8
+imported: true
+comments:
+ -  Ill look at a few tracksWhen pepole are looking for real theological exegesis they dont look to the Newsboys Most lyrics explore a simple Bible concept I really think Taits voice is killing it on this album  On Your Knees  is really good but sounds a lot like a Daughtry or Lifehouse ballad but it is done so well in the same way that dc Talk would copy another artists style and it would still sound good He makes some statement about  love coming from the inside out  but ultimately this song runs in contrast to the message of Rick Warren basically saying  when youve given it all you got  which the message should be  why arent you first going to Scripture and prayer  that submitting to God is how to survive and at times overcome When The Boys Light Up  sounds a little like a Toby Mac song and I wouldnt mind this which is yet another inspirational  go get  em  song but the guitars keys and drums are just a little cheesy The little phrases like  get wired to the Highest Power   we a
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- -  Ill look at a few tracksWhen pepole are looking for real theological exegesis they dont look to the Newsboys Most lyrics explore a simple Bible concept I really think Taits voice is killing it on this album  On Your Knees  is really good but sounds a lot like a Daughtry or Lifehouse ballad but it is done so well in the same way that dc Talk would copy another artists style and it would still sound good He makes some statement about  love coming from the inside out  but ultimately this song runs in contrast to the message of Rick Warren basically saying  when youve given it all you got  which the message should be  why arent you first going to Scripture and prayer  that submitting to God is how to survive and at times overcome When The Boys Light Up  sounds a little like a Toby Mac song and I wouldnt mind this which is yet another inspirational  go get  em  song but the guitars keys and drums are just a little cheesy The little phrases like  get wired to the Highest Power   we a
-imported: true
 ---
 
 Searching out new music is not a lone pursuit and cannot be meaningfully automated. You can’t hope to get past the tripe on mainstream radio or last.fm’s “1+1 = U2” algorithm without a friend giving you a nudge and saying, “we literally won’t be friends anymore if you don’t love this band”.

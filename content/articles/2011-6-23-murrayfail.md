@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Beating off burglars with his tennis racket?
 date: "2011-06-23 20:57:48 +0100"
+
 # Attributes from Felix Online V1
 id: "1430"
 old_path: /comment/1430/murrayfail
 aliases:
  - /comment/1430/murrayfail
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Andy Murray may have made his name as a great British and mediocre international tennis player but when it comes to [fending off burglars](http://www.thisislondon.co.uk/standard/article-23960557-murray-leaps-out-of-bed-to-tackle-burglars-armed-with-tennis-racket.do) (otherwise known as false alarms) he really ought to leave it to the pros. Kim Sears, his girlfriend, questions Murray’s decision to defend her honour with a tennis racket...

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eppeic fencing from Imperial
 date: "2013-02-01 00:31:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3230"
 old_path: /sport/3230/they-came-sword-and-conquered
 aliases:
  - /sport/3230/they-came-sword-and-conquered
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The guys started on Saturday, facing Bristol. Their opponents had lost one of their main fencers, but gained an international who held his ground well in foil and epee. Whilst the epeeists found the going tough, losing their match 32-45, the foilists were able to even out the score through a 45-35 victory and then handing it over to the sabreurs to comfortably win 45-13 for an overall victory of 122-93.

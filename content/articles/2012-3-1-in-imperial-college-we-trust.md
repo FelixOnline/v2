@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An anonymous contributor criticises the Union's choice to allocate funding away from the 'tours pot'
 date: "2012-03-01 22:55:42 +0000"
+
 # Attributes from Felix Online V1
 id: "2295"
 old_path: /comment/2295/in-imperial-college-we-trust
 aliases:
  - /comment/2295/in-imperial-college-we-trust
+imported: true
+comments:
+ - Has anyone from IC Trust seen this Amazed it only made it to the comment pages And ICU want to obtain charitable statusYou can totally rent a car my filmay did it but warning driving in Italy is stressful confusing and the other drivers are insane Driving in the country wasnt too bad and you got to see all these cute towns that dont have public transport to them but driving in cities is hell Look into trainsI have been living with Tracey Paul and Jacob for about 5 mtonhs and I have to say that they are a really pleasant and amazing family to stay with Not only they will make you feel like home but they will also treat you extremely well Personally I experienced so many great things with them they took me on trips I got to see some breathtaking landscapes down south with my parents thanks to Tracey who helped us book all the accommodation and I even had the chance to spend several public holidays such as Christmas and New Years Eve with their whole familyI
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Has anyone from IC Trust seen this Amazed it only made it to the comment pages And ICU want to obtain charitable statusYou can totally rent a car my filmay did it but warning driving in Italy is stressful confusing and the other drivers are insane Driving in the country wasnt too bad and you got to see all these cute towns that dont have public transport to them but driving in cities is hell Look into trainsI have been living with Tracey Paul and Jacob for about 5 mtonhs and I have to say that they are a really pleasant and amazing family to stay with Not only they will make you feel like home but they will also treat you extremely well Personally I experienced so many great things with them they took me on trips I got to see some breathtaking landscapes down south with my parents thanks to Tracey who helped us book all the accommodation and I even had the chance to spend several public holidays such as Christmas and New Years Eve with their whole familyI
-imported: true
 ---
 
 Imperial College Union’s Clubs & Societies Board (CSB) voted to cut its contribution towards the “tours pot” from £9,000 to £0 at its annual budgeting round on Monday. The move, at the recommendation of Deputy President (Clubs & Societies) Monya Zard, was due to a £7,500 increase in funding from the Imperial College Trust.

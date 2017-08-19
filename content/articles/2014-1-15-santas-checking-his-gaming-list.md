@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Endless dosh, what would your Games Editors want?
 date: "2014-01-15 16:14:40 +0000"
+
 # Attributes from Felix Online V1
 id: "4209"
 old_path: /games/4209/santas-checking-his-gaming-list
 aliases:
  - /games/4209/santas-checking-his-gaming-list
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 #### Battlefield 4 + Premium membership

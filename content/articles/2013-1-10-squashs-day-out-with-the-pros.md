@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stephanie Walton on glass squash courts.
 date: "2013-01-10 23:19:49 +0000"
+
 # Attributes from Felix Online V1
 id: "3111"
 old_path: /sport/3111/squashs-day-out-with-the-pros
 aliases:
  - /sport/3111/squashs-day-out-with-the-pros
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Rich people tend to lavish their money on fast cars, helicopters and yachts. Portable glass squash courts, though, are surely the ultimate display of status and wealth. The court can be assembled at the drop of a hat (well… within three weeks) at whatever location the owner fancies. Which means that he can perfect his backhand on palm tree-lined beaches, practise his reverse-drive on top of the Sydney Opera House, and delight the crowds in St. Peter’s Square…

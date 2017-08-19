@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lisa Ashari's joyous first experience of snow
 date: "2010-12-09 20:31:33 +0000"
+
 # Attributes from Felix Online V1
 id: "525"
 old_path: /comment/525/no-business-like-snow-business
 aliases:
  - /comment/525/no-business-like-snow-business
+imported: true
+comments:
+ - pants also still joyous about them snowsHi Lisa Were really pleased you used our photo with your article and thanks for the credit Be joyous its a good wayThats a moldbreaker Great tihnikngP7jzVw  hcvvjupmfjgo auto insurance 66132 florida auto insurance 643
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - pants also still joyous about them snowsHi Lisa Were really pleased you used our photo with your article and thanks for the credit Be joyous its a good wayThats a moldbreaker Great tihnikngP7jzVw  hcvvjupmfjgo auto insurance 66132 florida auto insurance 643
-imported: true
 ---
 
 After a month at imperial, my friends had found out that I hadn’t ever touched snow. Naturally I was mildly teased as they took amusement from my winter noobness. As soon as the prospect of snow arrived in the form of a little icon on the BBC online weather forecast, I was over the moon. Of course, I was expecting to wake up to a snow day the next day so when I went to lectures that day I was rather excited. As soon as people said “it won’t settle”, I just nodded and toned down the outward enthusiasm. One Google search later I realised that meant it’ll be in the sky but not on the ground. Sad face.

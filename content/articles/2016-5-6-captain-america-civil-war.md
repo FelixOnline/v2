@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-05-06 10:13:29 +0100"
+
 # Attributes from Felix Online V1
 id: "6131"
 old_path: /film/6131/captain-america-civil-war
 aliases:
  - /film/6131/captain-america-civil-war
+imported: true
+comments:
+ - Top trolling on the other article Cale I liked the bit where you replied and then locked the comments so youd have the last word Nice oneHi Anonymous I didnt lock the comments someone else did and even then you can comment if you login Please dont post irrelevant comments on articlesQ8X1vJ  qdwslhkvpega urlhttpqnszhwkswuutcomqnszhwkswuuturl linkhttpxbqbuirydznucomxbqbuirydznulink httpcdspuwtgwpvacomInterior designers in London are celebrated for their innovation but picking handmade kitchens more than fitted is not solely about cuttingedge style Whether you desire a more conventional shaker style family members kitchen or an industrial style kitchenette opting for handmade is generating a selection for superior client service and project management limitless creative scope style expertise top quality crthasmansfip flawless fit and supportive aftercare
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Top trolling on the other article Cale I liked the bit where you replied and then locked the comments so youd have the last word Nice oneHi Anonymous I didnt lock the comments someone else did and even then you can comment if you login Please dont post irrelevant comments on articlesQ8X1vJ  qdwslhkvpega urlhttpqnszhwkswuutcomqnszhwkswuuturl linkhttpxbqbuirydznucomxbqbuirydznulink httpcdspuwtgwpvacomInterior designers in London are celebrated for their innovation but picking handmade kitchens more than fitted is not solely about cuttingedge style Whether you desire a more conventional shaker style family members kitchen or an industrial style kitchenette opting for handmade is generating a selection for superior client service and project management limitless creative scope style expertise top quality crthasmansfip flawless fit and supportive aftercare
-imported: true
 ---
 
 The struggle between good and evil – between superheroes and supervillains – has remained at the centre of the Marvel Cinematic Universe (and blockbusters in general) since its inception in 2008’s _Iron Man_. Without exception, the antagonists of the eleven following Marvel films have always represented the worst of humanity (or super-humanity), and the protagonists, while often troubled, are always redeemable. In this marketing-driven universe there is rarely space for moral ambiguity. The third film in the _Captain America_ trilogy, _Captain America: Civil War_, escapes this mold by pitting hero against hero in a ‘war’ over the controversial Sokovia Accords which hope to establish an international body to govern and monitor superhuman activity.

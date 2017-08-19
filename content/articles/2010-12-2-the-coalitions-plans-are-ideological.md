@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It's time for us all to make it clear to the Union and College we oppose the changes and introduction of higher fees
 date: "2010-12-02 21:12:54 +0000"
+
 # Attributes from Felix Online V1
 id: "488"
 old_path: /comment/488/the-coalitions-plans-are-ideological
 aliases:
  - /comment/488/the-coalitions-plans-are-ideological
+imported: true
+comments:
+ - Posts like this brihtgen up my day Thanks for taking the timeYRFQGM  tujnbibqrujm valtrex  topamax and excessive weight loss   cialis 8  DD  propecia PP cheap synthroid noxgi topamax azor
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rlg107
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rlg107"
 author_name: "Reuben Gibbons"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Posts like this brihtgen up my day Thanks for taking the timeYRFQGM  tujnbibqrujm valtrex  topamax and excessive weight loss   cialis 8  DD  propecia PP cheap synthroid noxgi topamax azor
-imported: true
 ---
 
 Those who support the government’s cuts claim that people haven’t looked up or understood the propositions, and that there are no other viable options. I find this insulting and naive.

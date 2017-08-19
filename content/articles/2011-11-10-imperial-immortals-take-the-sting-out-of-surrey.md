@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Mike Peacock reports on the crushing of Surrey
 date: "2011-11-10 22:16:30 +0000"
+
 # Attributes from Felix Online V1
 id: "1745"
 old_path: /sport/1745/imperial-immortals-take-the-sting-out-of-surrey
 aliases:
  - /sport/1745/imperial-immortals-take-the-sting-out-of-surrey
+imported: true
+comments:
+ - Go IMPERIAL IMMORTALS LOVE YOU GUYS WOHOO
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Go IMPERIAL IMMORTALS LOVE YOU GUYS WOHOO
-imported: true
 ---
 
 __American Football__

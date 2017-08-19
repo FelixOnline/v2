@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Fernando interviews Michele Dougherty FRS, principal investigator on the Cassini spacecraft orbiting Saturn
 date: "2014-12-11 20:32:24 +0000"
+
 # Attributes from Felix Online V1
 id: "5028"
 old_path: /science/5028/a-decade-of-discovery
 aliases:
  - /science/5028/a-decade-of-discovery
+imported: true
+comments:
+ - Good day Would you mind if I share your blog with my twitter group Theres a lot of people that I think would really enjoy your content Please let me know Many thankscheap knit hats httpwwwtwofangtucnbeaniehatsI acquired more new stuff on this fat reduction issue 1 issue is that good nutrition is very vital while dieting An enormous reduction in fast foods sugary meals fried foods sweet foods beef and white flour products could be necessary Having wastes parasitic organisms and poisons may prevent targets for losing belly fat While selected drugs briefly solve the matter the bad side effects usually are not worth it plus they never supply more than a momentary solution This can be a known idea that 95 of diet plans fail Many thanks sharing your notions on this blog site Enlever les cernes urlhttpwwwenleverlescernesmlEnlever les cernesurlThis post will assist the internet users for creating new website or even a weblog from start to endugg josette pas cher http
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good day Would you mind if I share your blog with my twitter group Theres a lot of people that I think would really enjoy your content Please let me know Many thankscheap knit hats httpwwwtwofangtucnbeaniehatsI acquired more new stuff on this fat reduction issue 1 issue is that good nutrition is very vital while dieting An enormous reduction in fast foods sugary meals fried foods sweet foods beef and white flour products could be necessary Having wastes parasitic organisms and poisons may prevent targets for losing belly fat While selected drugs briefly solve the matter the bad side effects usually are not worth it plus they never supply more than a momentary solution This can be a known idea that 95 of diet plans fail Many thanks sharing your notions on this blog site Enlever les cernes urlhttpwwwenleverlescernesmlEnlever les cernesurlThis post will assist the internet users for creating new website or even a weblog from start to endugg josette pas cher http
-imported: true
 ---
 
 __Could you please tell me a little about exactly what your involvement in the mission is? __

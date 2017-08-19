@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Children should not be denied the opportunity to learn first aid by an old man who has difficulties remembering his childhood
 date: "2015-11-27 14:22:06 +0000"
+
 # Attributes from Felix Online V1
 id: "5777"
 old_path: /comment/5777/filibuster-foils-first-aid--fair
 aliases:
  - /comment/5777/filibuster-foils-first-aid--fair
+imported: true
+comments:
+ - I dont agree with the filibuster in principle  I think its inherently antidemocratic But its unreasonable not to expect the Government to use a parliamentary tactic which has been used by previous governments It seems you think the filibuster is legitimate when used by your preferred political party but not when it it used by their opponentsThe rest of your article seems to rest on copious adhominem attacks everyone who disagrees with me is stupidstyle reasoning and a healthy dose of  Conservatives R evil hysteriaIt is in general a good idea that people should learn first aid However it is not the job of a government to make good ideas mandatory If that were the case alcohol and tobacco would be illegal and failure to exercise daily would be punishable by imprisonmentThe muchneeded reform of the education system under the last parliament freed schools from the mediocre hand of central government diktat and allowed thousands of institutions greater freedom in setting their ow
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I dont agree with the filibuster in principle  I think its inherently antidemocratic But its unreasonable not to expect the Government to use a parliamentary tactic which has been used by previous governments It seems you think the filibuster is legitimate when used by your preferred political party but not when it it used by their opponentsThe rest of your article seems to rest on copious adhominem attacks everyone who disagrees with me is stupidstyle reasoning and a healthy dose of  Conservatives R evil hysteriaIt is in general a good idea that people should learn first aid However it is not the job of a government to make good ideas mandatory If that were the case alcohol and tobacco would be illegal and failure to exercise daily would be punishable by imprisonmentThe muchneeded reform of the education system under the last parliament freed schools from the mediocre hand of central government diktat and allowed thousands of institutions greater freedom in setting their ow
-imported: true
 ---
 
 Last Friday, a group of Conservative MPs killed a bill intended to make first aid training compulsory in state-run secondary schools by “talking it to death.”

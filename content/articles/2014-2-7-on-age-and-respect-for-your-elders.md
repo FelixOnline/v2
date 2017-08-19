@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Respect your elders” is a mantra that I always felt was redundant.
 date: "2014-02-07 05:07:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4358"
 old_path: /comment/4358/on-age-and-respect-for-your-elders
 aliases:
  - /comment/4358/on-age-and-respect-for-your-elders
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Respect your elders” is a mantra that I always felt was redundant. You would give someone due respect if they were reasonable and polite to you, as anyone should be, or you would give them special consideration, such as offering your seat on the bus, if they were physically infirm, not just because they were old. It is not the case that I resent old people; I’m just very suspicious of anyone who demands special treatment for being in a position that is passively attained, like being privately educated, provided that it is not an affliction, though many may view old age as one.

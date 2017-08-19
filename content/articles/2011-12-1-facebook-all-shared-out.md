@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Feroz Salam is worn out from all the real news that's appeared on Facebook
 date: "2011-12-01 19:33:08 +0000"
+
 # Attributes from Felix Online V1
 id: "1855"
 old_path: /tech/1855/facebook-all-shared-out
 aliases:
  - /tech/1855/facebook-all-shared-out
+imported: true
+comments:
+ - In a system geared towards drastically increasing the amount of information you push out to the world its not surprising were hit with much more than we can possibly care aboutTherefore ignore it If there is an irritating person in real life you ignore that person and so the same can be done for irritating things on the internet The nature of the human brain is to filter out what information is relevant and what is not and this is a perfect example of why this is a good thing  you can simply filter out what you are not interested in so there is no need for Facebooks own complex filtering toolsHah just remembered this comment I might have mentioned in the article that my Facebook has been and will probably stay deactivated for a while             The idea of the Nibiru encounter orinagited with Nancy Lieder a Wisconsin wom
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - In a system geared towards drastically increasing the amount of information you push out to the world its not surprising were hit with much more than we can possibly care aboutTherefore ignore it If there is an irritating person in real life you ignore that person and so the same can be done for irritating things on the internet The nature of the human brain is to filter out what information is relevant and what is not and this is a perfect example of why this is a good thing  you can simply filter out what you are not interested in so there is no need for Facebooks own complex filtering toolsHah just remembered this comment I might have mentioned in the article that my Facebook has been and will probably stay deactivated for a while             The idea of the Nibiru encounter orinagited with Nancy Lieder a Wisconsin wom
-imported: true
 ---
 
 I expect most of you have noticed the new items that have started appearing in your Facebook feeds: Spotify playlists of music that your friends are listening to and news articles from a whole host of national and international papers. They are part of the ‘[OpenGraph](http://ogp.me/)’ scheme that Facebook has been pushing in earnest over the last few months: adding a few tags to your website means that any links to your website from within Facebook makes it a Facebook page.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   They were taking their class picture outside the Royal Albert Hall when they were ‘discovered’
 date: "2016-05-20 08:45:04 +0100"
+
 # Attributes from Felix Online V1
 id: "6170"
 old_path: /news/6170/aero-students-invited-to-william-gig-because-director-liked-their-boiler-suits
 aliases:
  - /news/6170/aero-students-invited-to-william-gig-because-director-liked-their-boiler-suits
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Twenty first year aeronautics students were given free tickets to a will.i.am gig at the Royal Albert Hall gig last week, after being spotted in their boiler suits taking an end of year picture outside the venue earlier that day.

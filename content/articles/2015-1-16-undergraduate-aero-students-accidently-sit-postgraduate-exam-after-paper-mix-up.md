@@ -4,16 +4,24 @@ title: >
 subtitle: >
   These Aero-smiths didn’t want to miss a thing
 date: "2015-01-16 12:52:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5089"
 old_path: /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
 aliases:
  - /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
+imported: true
+comments:
+ - fitflop freeway salefitflop shoes online httpfitflopssalesingaporeblogspotcomMy brother suggested I may like this web site He was entirely right This post actually made my day You cannt imagine just how so much time I had spent for this information Thanksnike ontwerpen schoenen httpwwwsomarnlnlnikeontwerpenschoenen17322htmlVery nice post I just stumbled upon your weblog and wanted to say that Ive truly enjoyed surfing around your blog posts After all I will be subscribing to your feed and I hope you write again very soonoakley crowbar fire iridium lens httpcrownmodelscomusaoakleycrowbarfireiridiumlens35304htmlfitflop retailersfitflops australia httpwwwaustraliafitflopscomfitflop trainersfitflops sales httpwwwaustraliafitflopscomfitflops salesfitflop australia httpaustraliafitflopsiemillernetcheapest birkenstocksdiscount birkenstock httpbirkenstockaustraliablogspotcomhttpbirkenstockaustraliamallscombirkenstock gizeh ht
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop freeway salefitflop shoes online httpfitflopssalesingaporeblogspotcomMy brother suggested I may like this web site He was entirely right This post actually made my day You cannt imagine just how so much time I had spent for this information Thanksnike ontwerpen schoenen httpwwwsomarnlnlnikeontwerpenschoenen17322htmlVery nice post I just stumbled upon your weblog and wanted to say that Ive truly enjoyed surfing around your blog posts After all I will be subscribing to your feed and I hope you write again very soonoakley crowbar fire iridium lens httpcrownmodelscomusaoakleycrowbarfireiridiumlens35304htmlfitflop retailersfitflops australia httpwwwaustraliafitflopscomfitflop trainersfitflops sales httpwwwaustraliafitflopscomfitflops salesfitflop australia httpaustraliafitflopsiemillernetcheapest birkenstocksdiscount birkenstock httpbirkenstockaustraliablogspotcomhttpbirkenstockaustraliamallscombirkenstock gizeh ht
-imported: true
 ---
 
 Undergraduate aeronautical students were given a postgraduate exam paper to sit this week, with no-one realising until the end of the exam the mistake that was made.

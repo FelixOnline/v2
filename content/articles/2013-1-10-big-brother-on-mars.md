@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Reality TV fan? Edward Bals on the potential Mars One TV show
 date: "2013-01-10 22:13:07 +0000"
+
 # Attributes from Felix Online V1
 id: "3080"
 old_path: /science/3080/big-brother-on-mars
 aliases:
  - /science/3080/big-brother-on-mars
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Mars One is a not-for-profit organisation planning to use money donated from sponsors and that generated from a reality TV show ‘media storm’ to fund a project that will put a human habitat on Mars in 2023. In the first half of this year the application process will open to applications for their astronaut training program, which itself will be filmed and broadcast as part of the TV show. Mars One claim to have already received over 1000 emails expressing interest in signing up for the project, regardless of the catch: the trip to Mars will be one way.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Nam Cheah reviews the exhibition showcasing gowns worn by royals
 date: "2014-11-10 21:40:03 +0000"
+
 # Attributes from Felix Online V1
 id: "4823"
 old_path: /fashion/4823/fashion-rules-regal-fashion-at-kensington-palace
 aliases:
  - /fashion/4823/fashion-rules-regal-fashion-at-kensington-palace
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Almost every girl has dreamt of being a princess at some point in her life. Being able to live in a fairy-tale castle, enjoy the privileges and most of all, the dresses and beautiful outfits that come with it. Look at Cinderella; she got a dress from her fairy god mother and the next thing you know, she fell in love with a prince and they lived happily ever after.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   FELIX visits WA café, a Japanese pâtissierie in Ealing Broadway
 date: "2016-06-03 09:32:35 +0100"
+
 # Attributes from Felix Online V1
 id: "6243"
 old_path: /food/6243/let-me-eat-cake
 aliases:
  - /food/6243/let-me-eat-cake
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Marie Antoinette once said, “Let them eat cake.” If I were a peasant back in the days of the French Revolution, I’d happily take her words as a genuine attempt to offer me cake, ditch my hunger for the stale baguettes and munch on the amazing French creations for the rest of my life, maybe a vanilla millefeuille, a Saint Honoré or a basket of madeleines.

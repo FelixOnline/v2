@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Women’s 3s – 39 / LSE 4s – 5 / Women’s 4s – 8 / St George’s 4s – 22
 date: "2012-02-02 23:13:56 +0000"
+
 # Attributes from Felix Online V1
 id: "2107"
 old_path: /sport/2107/netball-3s-crush-lse-plucky-4s-lose-to-st-georges
 aliases:
  - /sport/2107/netball-3s-crush-lse-plucky-4s-lose-to-st-georges
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 IC 3s triumphed in the first game of what was a busy week of fixtures, outplaying LSE 4s in an open and fast paced encounter. After an end-to-end first few minutes, IC soon asserted their authority and quickly raced to a 5-0 lead.

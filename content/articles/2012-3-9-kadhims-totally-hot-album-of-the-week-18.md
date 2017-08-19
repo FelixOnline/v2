@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Quantic & Alice Russell with the Combo Barbaro – Look Around The Corner – Tru Thoughts – 2012
 date: "2012-03-09 13:00:21 +0000"
+
 # Attributes from Felix Online V1
 id: "2337"
 old_path: /music/2337/kadhims-totally-hot-album-of-the-week-18
 aliases:
  - /music/2337/kadhims-totally-hot-album-of-the-week-18
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Do you know anyone who says, “Music is crap nowadays?” Let’s be honest: those people are the most boring people you know. In fact, you’re not even sure why you know them anymore. Everytime you hang out with them you find your brain warning you, with fundamentalist zeal, “Get the fuck out of here before I cut off the oxygen to myself”.

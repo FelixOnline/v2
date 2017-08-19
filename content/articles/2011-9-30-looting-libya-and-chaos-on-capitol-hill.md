@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We gear up for another year of politics by rounding up the events of the summer
 date: "2011-09-30 11:35:59 +0100"
+
 # Attributes from Felix Online V1
 id: "1459"
 old_path: /politics/1459/looting-libya-and-chaos-on-capitol-hill
 aliases:
  - /politics/1459/looting-libya-and-chaos-on-capitol-hill
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Dear Freshers and regular readers, welcome to a new year at Imperial; a new year that brings new experiences and new challenges. The politics team in Felix hopes to keep you interested in the politics of the outside world while you spend your year in the bubble of university life.

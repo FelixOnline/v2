@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Their pay now matches the average Imperial graduate's wage
 date: "2016-06-10 08:11:17 +0100"
+
 # Attributes from Felix Online V1
 id: "6244"
 old_path: /news/6244/our-sabbs-will-now-be-paid-29800-a-year
 aliases:
  - /news/6244/our-sabbs-will-now-be-paid-29800-a-year
+imported: true
+comments:
+ - Well this is bullshit what makes the union so special that they can promise a certain job with certain benefits and then totally change the TC with no consultation Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountableWho the fuck are the trustee board
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well this is bullshit what makes the union so special that they can promise a certain job with certain benefits and then totally change the TC with no consultation Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountableWho the fuck are the trustee board
-imported: true
 ---
 
 This year’s change in sabb pay, despite looking like a £10,000 pay rise on paper, may actually leave sabbs worse off financially than ever.

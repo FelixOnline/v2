@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An intense film, albeit visually conservative
 date: "2012-02-09 23:24:49 +0000"
+
 # Attributes from Felix Online V1
 id: "2176"
 old_path: /film/2176/witness-the-birth-of-psychoanalysis
 aliases:
  - /film/2176/witness-the-birth-of-psychoanalysis
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __A Dangerous Method__

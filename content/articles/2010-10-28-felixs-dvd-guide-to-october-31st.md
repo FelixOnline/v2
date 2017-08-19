@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Review by Matt Allinson, Oliver Calderbank, Chris Richardson and Jonathan Messing
 date: "2010-10-28 19:44:08 +0100"
+
 # Attributes from Felix Online V1
 id: "273"
 old_path: /film/273/felixs-dvd-guide-to-october-31st
 aliases:
  - /film/273/felixs-dvd-guide-to-october-31st
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Halloween parties are like sex: either a dark, lusty and twisted extravaganza enhanced by elaborate costumes; or an over-hyped and disappointing charade we do once a year because we feel socially compelled to. Helping you make yours the former, here is our guide of some new and re-released Horror DVDs to get you going.

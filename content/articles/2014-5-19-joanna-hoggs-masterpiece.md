@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The biography of British director Joanna Hogg is a strange one indeed: mentored by legendary avant-gardiste Derek Jarman during the 1970s, she won a scholarship to the National Film and Television School, where she took a chance on unknown actor Tilda Swinton for her graduate piece. And then?
 date: "2014-05-19 13:53:33 +0100"
+
 # Attributes from Felix Online V1
 id: "4611"
 old_path: /film/4611/joanna-hoggs-masterpiece
 aliases:
  - /film/4611/joanna-hoggs-masterpiece
+imported: true
+comments:
+ - Her work reminds me a lot of Yasujiro Ozu Shes exactly what British cinema needs right now
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Her work reminds me a lot of Yasujiro Ozu Shes exactly what British cinema needs right now
-imported: true
 ---
 
 __Exhibition__

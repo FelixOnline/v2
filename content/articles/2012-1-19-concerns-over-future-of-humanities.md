@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lecturer speaks out against "departmental cuts"
 date: "2012-01-19 22:20:19 +0000"
+
 # Attributes from Felix Online V1
 id: "2033"
 old_path: /news/2033/concerns-over-future-of-humanities
 aliases:
  - /news/2033/concerns-over-future-of-humanities
+imported: true
+comments:
+ - As a Year in Europe student Ive experienced firsthand the changes happening in the Humanities Department and I too believe that the constant departmental restructuring is posing a very real threat to is future  Luckily there are people at Imperial who like Mr Occhipinti realise the importance of their subject and are prepared to fight for its worthI consider the Humanities Department to be one of Imperials greatest assets primarily as it succeeds in developing the creative minds of its students in what is otherwise a strictly sciencebased community  The result  Students emerging from Humanities come with a true breadth of knowledge and character that extends further from the resounding Imperial College stereotype of Im a Scientist and thats thatIm also a Year in Europe so Ive been studying French in the Humanities Department for two years now  I can say with confidence that the teaching Ive received has been excellent and I feel Ive greatly benefited from the experienc
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - As a Year in Europe student Ive experienced firsthand the changes happening in the Humanities Department and I too believe that the constant departmental restructuring is posing a very real threat to is future  Luckily there are people at Imperial who like Mr Occhipinti realise the importance of their subject and are prepared to fight for its worthI consider the Humanities Department to be one of Imperials greatest assets primarily as it succeeds in developing the creative minds of its students in what is otherwise a strictly sciencebased community  The result  Students emerging from Humanities come with a true breadth of knowledge and character that extends further from the resounding Imperial College stereotype of Im a Scientist and thats thatIm also a Year in Europe so Ive been studying French in the Humanities Department for two years now  I can say with confidence that the teaching Ive received has been excellent and I feel Ive greatly benefited from the experienc
-imported: true
 ---
 
 Concerns have been raised about the future of the [Humanities department](http://www3.imperial.ac.uk/humanities) at Imperial by one of its lecturers, Didier Occhipinti. Mr Occhipinti, who teaches French at the College, was due to present a lecture to the Political Philosophy Society late last term but cancelled the event in protest of what he sees as the threat of a "death by a thousand cuts" to the department.

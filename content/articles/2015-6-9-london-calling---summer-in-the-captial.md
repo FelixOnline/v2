@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah lists some reasons why spending your holiday in London is awesome
 date: "2015-06-09 15:52:43 +0100"
+
 # Attributes from Felix Online V1
 id: "5608"
 old_path: /travel/5608/london-calling---summer-in-the-captial
 aliases:
  - /travel/5608/london-calling---summer-in-the-captial
+imported: true
+comments:
+ - I opened up a blosopgt website and when I closed it 15 or so new windows opened back up to the same site Why did that happen Was it a virus Will it hurt my computer How do I find it and get rid of it I am running 2 virus scans right now but if those do not find it how do I find itmshm0u  ztlrzmovdish urlhttpyscipocmvpxncomyscipocmvpxnurl linkhttpglwokceljaxwcomglwokceljaxwlink httpktgywelzucomcomI enjoy this site  its so usefull and helpfullfifa 17 points httpswwwradiomediaukcomsocialblogs581926cheapnhl17coinsmoreobviousthaninvirtuallyYour material is incredibly interestingnhl 17 coins httpicoollycomblogs3763344maddencoinsxboxKeep up the excellent job and generating the groupnba 2k17 httpforumsbelovedheartscompostcheapnba2k17mtsystemreview8211747pid1293127843Really such a good sitefifa 17 httpwwwbulkmoneyforumcomshowthreadphpt31642p116277post116277
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ync111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "shadowcheah"
 author_facebook: ""
 author_website_url: "http://www.laughtraveleat.com"
 author_website_title: "Laugh Travel Eat"
-
-comments:
- - I opened up a blosopgt website and when I closed it 15 or so new windows opened back up to the same site Why did that happen Was it a virus Will it hurt my computer How do I find it and get rid of it I am running 2 virus scans right now but if those do not find it how do I find itmshm0u  ztlrzmovdish urlhttpyscipocmvpxncomyscipocmvpxnurl linkhttpglwokceljaxwcomglwokceljaxwlink httpktgywelzucomcomI enjoy this site  its so usefull and helpfullfifa 17 points httpswwwradiomediaukcomsocialblogs581926cheapnhl17coinsmoreobviousthaninvirtuallyYour material is incredibly interestingnhl 17 coins httpicoollycomblogs3763344maddencoinsxboxKeep up the excellent job and generating the groupnba 2k17 httpforumsbelovedheartscompostcheapnba2k17mtsystemreview8211747pid1293127843Really such a good sitefifa 17 httpwwwbulkmoneyforumcomshowthreadphpt31642p116277post116277
-imported: true
 ---
 
 Not all of us have the time to jet off to a different location and spend the summer holidays hopping from one destination to another, but that doesn’t mean that you can’t have fun in good old London either. In fact, London is one of the most visited cities of all times and there’s probably a thousand people out there who would swap places with you in a heartbeat.

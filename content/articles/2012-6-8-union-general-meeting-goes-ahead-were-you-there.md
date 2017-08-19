@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Some interesting proposals were raised, after all
 date: "2012-06-08 08:41:39 +0100"
+
 # Attributes from Felix Online V1
 id: "2543"
 old_path: /comment/2543/union-general-meeting-goes-ahead-were-you-there
 aliases:
  - /comment/2543/union-general-meeting-goes-ahead-were-you-there
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The [Union General Meeting](http://www.imperialcollegeunion.org/data/files/generalmeetingfinal-1085.pdf) was held last Wednesday to a baying crowd of approximately twenty interested individuals. It was unlikely to take incredible precedence in many a calendar across Imperial due to the stage of term. The low attendance (with 200 required to reach quorum) was undoubtedly a combination of timing – with many still remaining in the midst of exams and revision – a general lack of publicity, and for want of a better word, hype.

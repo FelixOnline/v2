@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Poking action
 date: "2016-11-25 14:53:57 +0000"
+
 # Attributes from Felix Online V1
 id: "6518"
 old_path: /sport/6518/weekend-action-for-ic-fencing
 aliases:
  - /sport/6518/weekend-action-for-ic-fencing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last weekend was the opening bout of the Imperial Women’s first season at Oxford. Unlike our other teams, the Women’s 1s are in the Premiership, which is the top league and extremely competitive. In this league it is usual to do all the matches in two or three intense weekends rather than weekly. First up on Saturday was Cardiff, which Imperial won with an impressive score of 130-107. The second match was against local rivals UCL, which Imperial again won 131-113. The final match of the day was against Cambridge where Imperial were narrowly beaten by only nine hits, with an overall score 111-120.  There was only one match for the Women’s 1s on Sunday, against the hosting team, Oxford, where Imperial were unfortunately beaten with an overall score of 124-94. This means that the Women’s 1s have won two and lost two in their first four matches, putting them in a pretty good position going into the match against last year’s Championship winners Surrey.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It might not go on your CV, but here's my advice on an invaluable life skill
 date: "2016-06-17 08:55:41 +0100"
+
 # Attributes from Felix Online V1
 id: "6273"
 old_path: /comment/6273/imperial-taught-me-how-to-be-a-better-dj
 aliases:
  - /comment/6273/imperial-taught-me-how-to-be-a-better-dj
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This will be my final article for FELIX, as, after nearly nine years, my time has come to leave Imperial. This newspaper has been an important part of my experience here, back from the very first copy I acquired in freshers’ week and kept because it had the instructions on how to operate washing machines.

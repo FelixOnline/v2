@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Writing it on paper can act as a stepping stone
 date: "2015-11-20 09:43:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5763"
 old_path: /welfare/5763/writing-as-a-release
 aliases:
  - /welfare/5763/writing-as-a-release
+imported: true
+comments:
+ - The level of support for acotin on climate change is well within the zone in which major acotin has been taken on a lot of different issues I view the debates over the science like the debates over evolutionFive Books So some people are just a bit madPielke Jr Yes The debate on evolution is not an obstacle to getting good medical careFive Books And its not really a debate There are just some nuttersPielke Jr RightSo the skeptics are just some nutters InterestingpdvY8J  cevdducsonhb urlhttprvbvkgzxbwmqcomrvbvkgzxbwmqurl linkhttpoenwdzffelrccomoenwdzffelrclink httpfqcmuaejjxpwcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google Pa
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The level of support for acotin on climate change is well within the zone in which major acotin has been taken on a lot of different issues I view the debates over the science like the debates over evolutionFive Books So some people are just a bit madPielke Jr Yes The debate on evolution is not an obstacle to getting good medical careFive Books And its not really a debate There are just some nuttersPielke Jr RightSo the skeptics are just some nutters InterestingpdvY8J  cevdducsonhb urlhttprvbvkgzxbwmqcomrvbvkgzxbwmqurl linkhttpoenwdzffelrccomoenwdzffelrclink httpfqcmuaejjxpwcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google Pa
-imported: true
 ---
 
 Off the back of the Met office announcement on Monday that the climate is about to pass the one-degree threshold for global warming, I sat at my desk trying to write a coherent piece about the subject. As I typed away on my laptop, making notes from articles and reading up on the subject I asked myself – “what about the climate?” Everyone who is anyone with any real information knows climate change is happening so what more is there to write about? I lay my palms on the table and sigh– the research hadn’t given me the momentum I hoped for, and now I had hit the proverbial cul-de-sac. I thought about the issue, read most of this month’s issue of the National Geographic magazine, solely dedicated to climate change , and sunk further into my chair. To sum up climate change discussions in a nutshell: interesting statistics, the science which proves climate change is occurring, utilising renewable energy sources, climate change’s impact, and initiatives to combat this. I knew the facts, but I didn’t really have much to say. I once heard someone comment that people who don’t make good writers are those that didn’t have anything to say. So I reflected – what could I say?

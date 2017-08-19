@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ex-journalist, Luke Blair, will be in charge of the college’s PR machine
 date: "2016-04-29 10:06:33 +0100"
+
 # Attributes from Felix Online V1
 id: "6090"
 old_path: /news/6090/imperial-appoints-new-vp-for-communications
 aliases:
  - /news/6090/imperial-appoints-new-vp-for-communications
+imported: true
+comments:
+ - nhl shopping network cyber mnday nba shuop coupon codes nnba shop black fidaymlb shop black fiday coupon codes black friday nhl shop disfount code nba shop black riday dealsI organised the debate in Imperial that proposed this college represents a threat to liberal education and should be blown up With speakers including Trevor Philipps and Nina Temple both expresidents of the NUT and Imperial Students Union and the prorector the audience voted to blowup the college This is what alumni HGWells did in his short story Argonauts  in the Air written at the end of the 19th century The threat of Imperial to education that humanises us has long been recognised and expertly avoided by people like Blair The conversion of the Humanities Department originally created to address this problem as recognised by Blackett and Linstead in a report for the British Association for the Advancement in Science to part of the professional development of students for an international market shows
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - nhl shopping network cyber mnday nba shuop coupon codes nnba shop black fidaymlb shop black fiday coupon codes black friday nhl shop disfount code nba shop black riday dealsI organised the debate in Imperial that proposed this college represents a threat to liberal education and should be blown up With speakers including Trevor Philipps and Nina Temple both expresidents of the NUT and Imperial Students Union and the prorector the audience voted to blowup the college This is what alumni HGWells did in his short story Argonauts  in the Air written at the end of the 19th century The threat of Imperial to education that humanises us has long been recognised and expertly avoided by people like Blair The conversion of the Humanities Department originally created to address this problem as recognised by Blackett and Linstead in a report for the British Association for the Advancement in Science to part of the professional development of students for an international market shows
-imported: true
 ---
 
 Many of us suspect that Imperial’s concerned more with its image than ever before, and now it has hired a ‘Vice President for Communications and public affairs’. From September the new post will join the highest managers at Imperial, including the VPs for Advancement and Innovation.

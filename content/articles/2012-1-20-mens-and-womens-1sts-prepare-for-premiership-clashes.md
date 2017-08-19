@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Weekend win on the cards
 date: "2012-01-20 12:09:16 +0000"
+
 # Attributes from Felix Online V1
 id: "2041"
 old_path: /sport/2041/mens-and-womens-1sts-prepare-for-premiership-clashes
 aliases:
  - /sport/2041/mens-and-womens-1sts-prepare-for-premiership-clashes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Imperial fencing men’s and women’s teams stand to win their respective leagues this weekend, the men’s and women’s Southern Premiership, if they can fight off the likes of Oxford, Cambridge, and London rivals such as Queen Mary or ULU.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Simon Hunter continues his tour of the electronic realm with London’s Night Slugs
 date: "2010-11-11 21:24:41 +0000"
+
 # Attributes from Felix Online V1
 id: "362"
 old_path: /music/362/techno-nonsense-night-slugs
 aliases:
  - /music/362/techno-nonsense-night-slugs
+imported: true
+comments:
+ - NIGHT SLUGSSS Night slugsBetter get down to the night slugs party tonight thenLets get steaming
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - NIGHT SLUGSSS Night slugsBetter get down to the night slugs party tonight thenLets get steaming
-imported: true
 ---
 
 In this, my second installment of Techno Nonsense, a feature dedicated to highlighting the big players in electronic dance music right now, I’m going to hit you with [Night Slugs](http://nightslugs.net/).

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Plabon Saha interviews the Liberal Democrat member of parliament for Carshalton and Wallington, Tom Brake
 date: "2015-04-10 19:56:18 +0100"
+
 # Attributes from Felix Online V1
 id: "5463"
 old_path: /politics/5463/imperial-alumni-in-politics-tom-brake
 aliases:
  - /politics/5463/imperial-alumni-in-politics-tom-brake
+imported: true
+comments:
+ - cheapest fitflopsfitflop buy online httpfitflopsaublogspotcomdiscount fitflopfitflop in australia httpwwwaustraliafitflopscomchristian louboutin rolandochristian louboutin outlet store httpcanadachristianlouboutinblogspotcomchristian louboutin ukchristian louboutin sale clearance httpcanadachristianlouboutinblogspotcomlouboutin sneakerschristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheapest fitflopsfitflop buy online httpfitflopsaublogspotcomdiscount fitflopfitflop in australia httpwwwaustraliafitflopscomchristian louboutin rolandochristian louboutin outlet store httpcanadachristianlouboutinblogspotcomchristian louboutin ukchristian louboutin sale clearance httpcanadachristianlouboutinblogspotcomlouboutin sneakerschristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 Tom Brake has been a MP for Carshalton and Wallington since 1997. In this parliament he has served as the Deputy Leader of the House of Commons and assistant whip for the Liberal Democrats. Tom graduated from Imperial in 1983 and recently returned to campus in an event hosted by the Imperial Liberal Democrats.

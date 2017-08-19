@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman gets ready for the next batch of blockbusters
 date: "2015-06-18 20:28:14 +0100"
+
 # Attributes from Felix Online V1
 id: "5633"
 old_path: /film/5633/summer-of-cinema
 aliases:
  - /film/5633/summer-of-cinema
+imported: true
+comments:
+ - Dear Melingtotally agree I watched all moevis from Director Kwok and this is the worst  No touching point between the two in the whole movie and I cant see why they suddenly love each other so muchI rather use the 130 to eatYou have great stuff on this sitenba 2k16 my allstar trophies httpoctaviatessyolasitecomYoure a really practical site couldnt make it without yanba 2k16 mt glitch reddit httpwwwkthrough12sportscomteamsindexphpdoblog13469buynba2k16vcdayswenttodifferentsportsactivitiesAppreciate it It is definitely an astonishing sitenba 2k16 mt packs httpfifacoinsguideblogspotcom201604cheapcsgoskinswithfewongoinghtmlHighly interesting look forward to visiting againcsgo skins discount httpforumbbfansfestcomblogspost15553Thanks very useful Will share site with my friendsnba 2k16 mt cheat table httpwallisaudreymywapblogcomnba2k16guideforbeginnersxhtmlThanks a ton This a incredible web sitenhl 17 coins htt
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Dear Melingtotally agree I watched all moevis from Director Kwok and this is the worst  No touching point between the two in the whole movie and I cant see why they suddenly love each other so muchI rather use the 130 to eatYou have great stuff on this sitenba 2k16 my allstar trophies httpoctaviatessyolasitecomYoure a really practical site couldnt make it without yanba 2k16 mt glitch reddit httpwwwkthrough12sportscomteamsindexphpdoblog13469buynba2k16vcdayswenttodifferentsportsactivitiesAppreciate it It is definitely an astonishing sitenba 2k16 mt packs httpfifacoinsguideblogspotcom201604cheapcsgoskinswithfewongoinghtmlHighly interesting look forward to visiting againcsgo skins discount httpforumbbfansfestcomblogspost15553Thanks very useful Will share site with my friendsnba 2k16 mt cheat table httpwallisaudreymywapblogcomnba2k16guideforbeginnersxhtmlThanks a ton This a incredible web sitenhl 17 coins htt
-imported: true
 ---
 
 With the summer upon us, it means the inevitable onslaught of blockbusters. By normal standards, 2015’s a pretty quiet year for the summer, with most of this year’s big hitters either already out, or landing towards Christmas time (_Star Wars_, I’m looking at you).

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It’s been a big year for I.C. Wing Chun. We’ve joined the UK Wing Chun Kung Fu Association (UKWCKFA), a leading association for Wing Chun with links across the country and the world.
 date: "2014-02-07 04:53:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4350"
 old_path: /sport/4350/world-wide-talent-to-teach-ic-wing-chun
 aliases:
  - /sport/4350/world-wide-talent-to-teach-ic-wing-chun
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It’s been a big year for I.C. Wing Chun. We’ve joined the UK Wing Chun Kung Fu Association (UKWCKFA), a leading association for Wing Chun with links across the country and the world. Imperial students now have the opportunity to train with Sifus from Britain’s leading VTTA approved association; headed by Sifu James Sinclair, who has impressive experience.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Hayley Thompson shares her thoughts on why she is voting for Lucinda Sandon-Allum
 date: "2015-03-05 11:54:24 +0000"
+
 # Attributes from Felix Online V1
 id: "5336"
 old_path: /comment/5336/why-im-voting-lucinda-for-union-president
 aliases:
  - /comment/5336/why-im-voting-lucinda-for-union-president
+imported: true
+comments:
+ - but what will she actually do Does she have anything concrete she actually wants to achieve over and above the vague ill make things a bit better A consultation framework does not fall in this category Im afraid People ahev come into Sabb roles full of big ideas and wnating to change things for the better Normally the Union has chewed them up and spat them out and they havent achieved what they came in to do but theyve at least tried theyve had the dreams and theyve taken small steps towards them Armitage will never be able to offer 70p pints Even free entry on a wednesday is too big a hill to climb but at least hes tryingLucindas manifesto clearly states her objectives if she were elected as Union President  Perhaps if you made an attempt to read her manifesto it would answer your questions and you wouldnt need to try and undermine a candidate who is actively trying to improve the relationship between the student cohort and the Union through a well defined plan  fitflop aren
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - but what will she actually do Does she have anything concrete she actually wants to achieve over and above the vague ill make things a bit better A consultation framework does not fall in this category Im afraid People ahev come into Sabb roles full of big ideas and wnating to change things for the better Normally the Union has chewed them up and spat them out and they havent achieved what they came in to do but theyve at least tried theyve had the dreams and theyve taken small steps towards them Armitage will never be able to offer 70p pints Even free entry on a wednesday is too big a hill to climb but at least hes tryingLucindas manifesto clearly states her objectives if she were elected as Union President  Perhaps if you made an attempt to read her manifesto it would answer your questions and you wouldnt need to try and undermine a candidate who is actively trying to improve the relationship between the student cohort and the Union through a well defined plan  fitflop aren
-imported: true
 ---
 
 While there’s no denying that I’d love a 70p pint at the union on a Wednesday as much as the next person, I will be voting for Lucinda as our next union president and I’m here to tell you why.

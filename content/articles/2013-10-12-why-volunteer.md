@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ben's second column on volunteering activities around Imperial
 date: "2013-10-12 20:05:24 +0100"
+
 # Attributes from Felix Online V1
 id: "3863"
 old_path: /features/3863/why-volunteer
 aliases:
  - /features/3863/why-volunteer
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Some people think that charity should be done as a completely selfless pursuit. Perhaps it should be! But the reality is that we’re all busy and want to enjoy our free time at Imperial, so why bother to do not-for-profit work? Here are a few reasons. Some of them are obvious, some are not…

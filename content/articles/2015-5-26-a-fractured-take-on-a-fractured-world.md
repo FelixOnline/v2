@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jack Steadman has never seen Carmen, but that doesn't matter in Simon Stephens' new take on the classic opera.
 date: "2015-05-26 13:30:10 +0100"
+
 # Attributes from Felix Online V1
 id: "5564"
 old_path: /arts/5564/a-fractured-take-on-a-fractured-world
 aliases:
  - /arts/5564/a-fractured-take-on-a-fractured-world
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Simons Stephens ranks as one of Britain’s most prolific playwrights, which makes it no surprise that, fresh off the run of _Birdland_at the __Royal Court__ last summer, he’s already back in the theatre with _Carmen Disruption_, a musing on life, love and loss in an unnamed European city.

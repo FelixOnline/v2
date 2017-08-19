@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Christy Kelly examines whether poppies are an appropriate symbol of remembrance
 date: "2014-11-06 18:32:08 +0000"
+
 # Attributes from Felix Online V1
 id: "4764"
 old_path: /comment/4764/poppies-will-put-them-to-sleep
 aliases:
  - /comment/4764/poppies-will-put-them-to-sleep
+imported: true
+comments:
+ - This article was very difficult to read due to the stilted writing style and plethora of superfluous words I fear your point will have lost any impact There are a few good reasons not to buy poppies but you missed all of them Congratulations on your recent thesaurus purchaseSome athletes are blessed with higher amounts of trust of their skill sets therefore displays in competitivenessnike lunar httprunningshoesshopcom15nikelunarYou cannot truthfully bet upon sports within Florida You possibly can throughout Nevazon Many times which will sportsbooks around Nevada are going to have a standard think which can be above 1 each and every gameplay You should know that gambling on on sporting events might not deliver the results profession presume and also Parenthetically you prefer to staked on Duke to conquer Lehigh When you bet about the spread Duke will need to be successful by 15 points or more to ensure that you succeed You will enjoy paid at 110 and that means you gamble 110 that w
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article was very difficult to read due to the stilted writing style and plethora of superfluous words I fear your point will have lost any impact There are a few good reasons not to buy poppies but you missed all of them Congratulations on your recent thesaurus purchaseSome athletes are blessed with higher amounts of trust of their skill sets therefore displays in competitivenessnike lunar httprunningshoesshopcom15nikelunarYou cannot truthfully bet upon sports within Florida You possibly can throughout Nevazon Many times which will sportsbooks around Nevada are going to have a standard think which can be above 1 each and every gameplay You should know that gambling on on sporting events might not deliver the results profession presume and also Parenthetically you prefer to staked on Duke to conquer Lehigh When you bet about the spread Duke will need to be successful by 15 points or more to ensure that you succeed You will enjoy paid at 110 and that means you gamble 110 that w
-imported: true
 ---
 
 Recall the scene from the Wizard of Oz where the Wicked Witch of the West hinders the progress of Dorothy and company by sending them to sleep in a field of poppies. Does this not encapsulate a basic – symbolic – truth about these flowers? Pace John McCrae of In Flanders Fields fame, the soporific effect of the plant has been attested to since antiquity and has so associated itself with the drug that it wormed its way into the Latinate nomenclature: Papaver Somniferum. In fact, the remembrance poppies are of a different species to their brethren – source of the opiates – but forgive me if I dismiss this as pedantry (outside the field of botany where it is no doubt important).

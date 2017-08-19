@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to Colin Love about the Business School’s plans
 date: "2013-03-15 02:37:37 +0000"
+
 # Attributes from Felix Online V1
 id: "3491"
 old_path: /news/3491/a-love-for-business
 aliases:
  - /news/3491/a-love-for-business
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As I walk into the airy Business School on time for a meeting (for once), I wonder where any offices could be. Having snuck in by nefarious means, attempting to be clandestine as I tailgate an unsuspecting accomplice, I realise that the furthest I’ve ever been into the Business School is the café.

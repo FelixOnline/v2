@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lizzy Griffiths heads for the slopes
 date: "2013-05-01 10:21:35 +0100"
+
 # Attributes from Felix Online V1
 id: "3508"
 old_path: /sport/3508/fresh-powder-in-les-alpes
 aliases:
  - /sport/3508/fresh-powder-in-les-alpes
+imported: true
+comments:
+ - good to see busc hasnt changed
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - good to see busc hasnt changed
-imported: true
 ---
 
 Friday 22nd March brought more excitement than the usual end-of-term celebrations for 48 of Imperial’s snow enthusiasts: we were heading to the French Alps for our Easter ski trip. BUSC Main Event, organised annually by the British University Snowsports Council, is a week full of competitions, après events and drunken antics attended by 1,500 students from the UK, and this year ¬– hosted in Alpe D’Huez – promised to be as crazy as ever.

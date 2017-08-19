@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philae probe sucessfully lands on comet 67P/C-G
 date: "2014-11-14 21:09:31 +0000"
+
 # Attributes from Felix Online V1
 id: "4889"
 old_path: /science/4889/rosetta-probe-successfully-lands-on-comet
 aliases:
  - /science/4889/rosetta-probe-successfully-lands-on-comet
+imported: true
+comments:
+ - louboutin sneakerschristian louboutin canada outlet httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - louboutin sneakerschristian louboutin canada outlet httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 On Wednesday afternoon, the signal came through that one of the most ambitious space missions ever attempted has successfully landed on a comet.

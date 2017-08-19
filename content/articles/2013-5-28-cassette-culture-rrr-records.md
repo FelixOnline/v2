@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Riaz Agahi talks to Ron Lessard, head of seminal noise label RRR
 date: "2013-05-28 14:42:50 +0100"
+
 # Attributes from Felix Online V1
 id: "3626"
 old_path: /music/3626/cassette-culture-rrr-records
 aliases:
  - /music/3626/cassette-culture-rrr-records
+imported: true
+comments:
+ - RobertJune 30 2012Ah yes I had lots of the Memorex dBS and the  Laser  and lots of other cheapies in the late 80searly 90s Somewhere aunrod 94 I was old enough to start buying my own My favorites were Maxell they had several different  models  that were excellent BASF made some great ones for the price as wellI remember that when CDs had completely taken over Im thinking 9394 maybe albums were routinely more than 45 minutes long and wouldnt fit on one side of a 90 minute tape anymore Led to a lot of screwing aunrod with where to put the break if the cover didnt list the track timesThat does bring back memories When I first staterd getting LPs my aunt advised me to get 90minute cassettes and tape one album on each side The idea was you would put the record away and only play it rarely to keep it from wearing out Now if Id have had the brains to hang on to my original Led Zeppelin III
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - RobertJune 30 2012Ah yes I had lots of the Memorex dBS and the  Laser  and lots of other cheapies in the late 80searly 90s Somewhere aunrod 94 I was old enough to start buying my own My favorites were Maxell they had several different  models  that were excellent BASF made some great ones for the price as wellI remember that when CDs had completely taken over Im thinking 9394 maybe albums were routinely more than 45 minutes long and wouldnt fit on one side of a 90 minute tape anymore Led to a lot of screwing aunrod with where to put the break if the cover didnt list the track timesThat does bring back memories When I first staterd getting LPs my aunt advised me to get 90minute cassettes and tape one album on each side The idea was you would put the record away and only play it rarely to keep it from wearing out Now if Id have had the brains to hang on to my original Led Zeppelin III
-imported: true
 ---
 
 After hearing about RRR records through their Recycled series, I discovered a contribution to the development and proliferation of noise music that goes far beyond a series of tapes which brings together some of noise’s most important artists. Based in Lowell, Massachusetts, RRR has the distinction of being the first American label to release Merzow, effectively globalising noise. Despite that, the label’s profile is lower than Merzbow and the like, and this is because rather than sticking with the artists it helped establish, the label has relentlessly focused on new discoveries. This is RRR records’ truly underground ethos, which I felt worthy of further examination, so I got in touch with label founder and head Ron Lessard.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Angus James Morrison finds The Virtues of Things to be a mixed bag
 date: "2015-05-13 14:19:43 +0100"
+
 # Attributes from Felix Online V1
 id: "5515"
 old_path: /arts/5515/a-new-meta-opera-arrives-at-the-roh
 aliases:
  - /arts/5515/a-new-meta-opera-arrives-at-the-roh
+imported: true
+comments:
+ - A turnover on downs a few minutes later sport was over and so was the time of year for Northeastern By analyzing how an individual behaves you might be in theory able to predict their future actionsfifa 16 hack httpcreditsfutcomWhen you want to lay your hands on the most exclusive and exquisite diamonds you must have the sense to sort it out from worthless pebbles that might look temptingWe at Elite Diamond Escorts are equipped with the best diamondlike divas who has studded our gallery and they are nothing short of the precious diamondsLooking for the best partner to whisk away time while enjoying her jocund companyOur Nottingham escorts fit the bill perfectly When you have once sealed the deal with us you would approach us time and again to satiate your pleasure needs You get topclass professional and confidential services that is well within your budget when you pair up with a breathtaking glam dollWe list for you the best escorts in Nottingham Derby Mansfi
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A turnover on downs a few minutes later sport was over and so was the time of year for Northeastern By analyzing how an individual behaves you might be in theory able to predict their future actionsfifa 16 hack httpcreditsfutcomWhen you want to lay your hands on the most exclusive and exquisite diamonds you must have the sense to sort it out from worthless pebbles that might look temptingWe at Elite Diamond Escorts are equipped with the best diamondlike divas who has studded our gallery and they are nothing short of the precious diamondsLooking for the best partner to whisk away time while enjoying her jocund companyOur Nottingham escorts fit the bill perfectly When you have once sealed the deal with us you would approach us time and again to satiate your pleasure needs You get topclass professional and confidential services that is well within your budget when you pair up with a breathtaking glam dollWe list for you the best escorts in Nottingham Derby Mansfi
-imported: true
 ---
 
 _T__he Virtues of Things_ is a chamber opera by the sometime computer game music composer Matt Rogers, and his debut at the __Royal Opera House__. It is performed by the Aurora Orchestra, conducted by Richard Baker, and directed by Bijan Sheibani with a cast including last year’s Figaro at the __ENO__, David Stout, and the veteran mezzo-soprano, Fiona Kimm.

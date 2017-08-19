@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Looking at the release of a long awaited game.
 date: "2014-01-15 16:46:05 +0000"
+
 # Attributes from Felix Online V1
 id: "4215"
 old_path: /games/4215/dayz-nothing-about-flowers
 aliases:
  - /games/4215/dayz-nothing-about-flowers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Shivering in the cold, dressed in an assortment of scavenged clothes and gear I wait on top of the hill overlooking Balota Airfield. Through the scope of my Mosin, I watch down below hoping to see something interesting or somebody to talk to. I see some movement off to my left, and excitedly I turn my scope that way to see if its a fellow survivor. I sigh, only a zombie and return to my vigil. Suddenly bullets appear out of nowhere, hit me in the back and a black screen appears: You are dead.

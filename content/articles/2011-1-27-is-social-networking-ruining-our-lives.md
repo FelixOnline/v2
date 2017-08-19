@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Is the rise of Facebook and Twitter a positive or negative influence in the 21st century?
 date: "2011-01-27 19:58:46 +0000"
+
 # Attributes from Felix Online V1
 id: "682"
 old_path: /comment/682/is-social-networking-ruining-our-lives
 aliases:
  - /comment/682/is-social-networking-ruining-our-lives
+imported: true
+comments:
+ - Greatings        Protesto contra esto     urlhttprsfilesserveblognetDouglesurlWow nice article Really shows how POV makes a big difference Im glad Im not one of those socnet addicts I have to say though social networking can be greatly helpful when it comes to relevant communication between classmates for instance Still what are IMs and Skype for Btw Alex remember me
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ann09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ann09"
 author_name: "Alexandra Nowbar"
-author_image_path: "img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Greatings        Protesto contra esto     urlhttprsfilesserveblognetDouglesurlWow nice article Really shows how POV makes a big difference Im glad Im not one of those socnet addicts I have to say though social networking can be greatly helpful when it comes to relevant communication between classmates for instance Still what are IMs and Skype for Btw Alex remember me
-imported: true
 ---
 
 __Ben Good– No__

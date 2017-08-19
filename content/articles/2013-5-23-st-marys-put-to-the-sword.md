@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICUCC continue on their successful season
 date: "2013-05-23 21:33:47 +0100"
+
 # Attributes from Felix Online V1
 id: "3601"
 old_path: /sport/3601/st-marys-put-to-the-sword
 aliases:
  - /sport/3601/st-marys-put-to-the-sword
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In a near-repeat performance of his previous match as captain, stand-in skipper Vignesh Venkateshwaran led a squad with a depletedbatting line up to a 58-run victory over a much-vaunted St. Mary’s side who had recorded some big wins of their own leading up to this match. Imperial was put in to bat first on a slowish track with some variable bounce. Juhin Patel anchored the innings with a solid 75 off 134 balls, nearly carrying his bat. After a stern pep-talk with Juhin about not getting caught playing an on-drive, the skipper , coming in 1-down, promptly managed to get dismissed in that exact fashion for a duck. Every dark cloud has a silver lining however, and in this case the wicket heralded the arrival of club president Siddharth Kohli to the crease.

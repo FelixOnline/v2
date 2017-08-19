@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tessa Davey explores the beauty in fashion for the plus-size woman, and the politics behind it
 date: "2015-03-25 12:06:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5425"
 old_path: /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
 aliases:
  - /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
+imported: true
+comments:
+ - Just had to tell you Now im lucky that i happened onto your sitenba 2k16 my auctions httpcsgoskinsultimatesnappagescomblog20160412csgoskinscounterstrikermethodsforbeginnersMany thanks this website is extremely valuablepokemongo httpfriendsmakerdkmemberblog_post_viewphppostId115449Many thanks extremely beneficial Will certainly share website with my good friendsfifa 17 httpnba2k16mtgotweeblycomblogcopyingxboxgamestodrivenba2k17coinsI love browsing your website Thanks a lotnba 2k17 httpvisuallybuynba2k17coinsadvantageousourchildren
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Just had to tell you Now im lucky that i happened onto your sitenba 2k16 my auctions httpcsgoskinsultimatesnappagescomblog20160412csgoskinscounterstrikermethodsforbeginnersMany thanks this website is extremely valuablepokemongo httpfriendsmakerdkmemberblog_post_viewphppostId115449Many thanks extremely beneficial Will certainly share website with my good friendsfifa 17 httpnba2k16mtgotweeblycomblogcopyingxboxgamestodrivenba2k17coinsI love browsing your website Thanks a lotnba 2k17 httpvisuallybuynba2k17coinsadvantageousourchildren
-imported: true
 ---
 
 It’s safe to say that the world of plus-size fashion is rapidly accelerating at an unprecedented rate. It’s not difficult to see why. Over the last few decades the average size of women (and men) has increased, and regardless of the reasons why they’re getting larger, people still need clothes.

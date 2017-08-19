@@ -4,16 +4,24 @@ title: >
 subtitle: >
    you've won again
 date: "2010-01-10 01:29:25 +0000"
+
 # Attributes from Felix Online V1
 id: "21"
 old_path: /comment/21/well-done-terrorism---youve-won-again
 aliases:
  - /comment/21/well-done-terrorism---youve-won-again
+imported: true
+comments:
+ - The millions to be spent on full body scanners actually seems like a very sound investment in the safety of civiliansThe 100000 loss on last years summer ball however
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The millions to be spent on full body scanners actually seems like a very sound investment in the safety of civiliansThe 100000 loss on last years summer ball however
-imported: true
 ---
 
 Well done terrorism – you’ve won again. A single guy is discovered with (potentially) explosive underpants and now millions of pounds of taxpayers’ money is being spent on full body scanners in airports. Initially, there was a fuss over liquids, which are still banned until 2011. Presumably someone somewhere in the world was discovered with a bottle of liquid which was apparently part of a wider bomb plot. As a result of that, millions of travellers not only have to endure excessively long queues but are left baffled every day when their bottles of juice and plastic bags are confiscated by security personnel. Terrorists around the world must be rubbing their hands together gleefully at the thought of the millions of pounds we’ve been forced to spend on largely meaningless and useless crap every time there’s even a whiff of suspected terrorist activity. I wouldn’t be surprised if the terrorists who plotted the daring underpants raid had shares in these body scanner producing companies.

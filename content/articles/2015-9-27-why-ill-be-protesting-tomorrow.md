@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Deputy President of Welfare, Jennie Watson, explains why the medics are taking a stand.
 date: "2015-09-27 18:28:01 +0100"
+
 # Attributes from Felix Online V1
 id: "5653"
 old_path: /comment/5653/why-ill-be-protesting-tomorrow
 aliases:
  - /comment/5653/why-ill-be-protesting-tomorrow
+imported: true
+comments:
+ - How long are you planning to stay here httpwwwbrainwinescomventolinnebules25mgdosagehtml how much does ventolin hfa cost  White House officials projected in April that the FHA wouldface a shortfall of 943 million in the fiscal year that ends onMonday but rising mortgage rates cut its loan volume and curbeda hopedfor increase in revenues from higher loan premiums Nice to meet you httpwwwbrainwinescomventolinbygskhtml how much does ventolin cost in ontario  The bad Fukushima news complicates Prime Minister Shinzo Abes plans to restart nuclear reactors idled since 2011 At the time 70 of Japanese supported taking the reactors offline especially as evidence emerged that the disaster was the result of collusion between the government the regulators and Fukushima owner Tepco as a parliamentary panel put it in a 641page report last month Nice to meet you httpwwwbrainwinescomventolinbygskhtml how much does ventolin cost in ontario  The bad Fukushima ne
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How long are you planning to stay here httpwwwbrainwinescomventolinnebules25mgdosagehtml how much does ventolin hfa cost  White House officials projected in April that the FHA wouldface a shortfall of 943 million in the fiscal year that ends onMonday but rising mortgage rates cut its loan volume and curbeda hopedfor increase in revenues from higher loan premiums Nice to meet you httpwwwbrainwinescomventolinbygskhtml how much does ventolin cost in ontario  The bad Fukushima news complicates Prime Minister Shinzo Abes plans to restart nuclear reactors idled since 2011 At the time 70 of Japanese supported taking the reactors offline especially as evidence emerged that the disaster was the result of collusion between the government the regulators and Fukushima owner Tepco as a parliamentary panel put it in a 641page report last month Nice to meet you httpwwwbrainwinescomventolinbygskhtml how much does ventolin cost in ontario  The bad Fukushima ne
-imported: true
 ---
 
 On Monday the medics will be demonstrating. The proposed changes to junior doctors’ contracts place patient safety at risk. In short, pay will be slashed and ‘sociable hours’ will be extended to 7am through to 10pm Monday to Saturday, normalising fifteen hour working days. Changes to pay progression will disadvantage part time trainees – women taking maternity leave, amongst others. I must make myself very clear here, this is not about money. This is about patient safety and doctors’ safety, but the two are inextricably linked. No one wants to be treated by an exhausted, demoralised, overworked doctor.

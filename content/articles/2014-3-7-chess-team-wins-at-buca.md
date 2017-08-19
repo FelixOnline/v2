@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two weekends ago, Imperial College London’s chess club fielded three teams for the British University Chess Association championship (BUCA), coming away with two cases of silverware.
 date: "2014-03-07 04:33:04 +0000"
+
 # Attributes from Felix Online V1
 id: "4452"
 old_path: /news/4452/chess-team-wins-at-buca
 aliases:
  - /news/4452/chess-team-wins-at-buca
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two weekends ago, Imperial College London’s chess club fielded three teams for the British University Chess Association championship (BUCA), coming away with two cases of silverware.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC Radio offline after “member of public” complains about racially offensive term
 date: "2011-02-03 19:50:39 +0000"
+
 # Attributes from Felix Online V1
 id: "727"
 old_path: /news/727/complaint-to-rector-leads-to-radio-shutdown-
 aliases:
  - /news/727/complaint-to-rector-leads-to-radio-shutdown-
+imported: true
+comments:
+ - its crap and no one listens to it anywayLanguage is generally only offensive if it is intended to harm belittle make fun of or insult If it is just meant as friendly banter and does none of the above to the recipient then surely it is not racially offensiveOh look at me Im a geek At Imperial So originalTwatI dont personally have a problem with the people that run or the people that help with putting together Felix its just we have a lot of positive things that are happen at ICRadio which should have space in felix paper other than this negative press  We have had a number of artists and musicians coming to the studio to promote there new epalbums which theres no mention  ICRadio should be work together a lot more in future for good and bad press write ups  You cant blame people that makes comments which they the say the station is crap  However it not made easy when people take down ICRadio promotional posters to do with shows and if there no support from Felix in helping people awar
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - its crap and no one listens to it anywayLanguage is generally only offensive if it is intended to harm belittle make fun of or insult If it is just meant as friendly banter and does none of the above to the recipient then surely it is not racially offensiveOh look at me Im a geek At Imperial So originalTwatI dont personally have a problem with the people that run or the people that help with putting together Felix its just we have a lot of positive things that are happen at ICRadio which should have space in felix paper other than this negative press  We have had a number of artists and musicians coming to the studio to promote there new epalbums which theres no mention  ICRadio should be work together a lot more in future for good and bad press write ups  You cant blame people that makes comments which they the say the station is crap  However it not made easy when people take down ICRadio promotional posters to do with shows and if there no support from Felix in helping people awar
-imported: true
 ---
 
 Imperial College Radio ([IC Radio](http://www.icradio.com/)) was shut down by the Union last Tuesday evening after a “member of the public” complained to the Rector about the use of racially offensive language during a broadcast. A non-Imperial guest on an IC Radio show referred to a close friend as a “Paki”, which the College and Union say breaks Imperial’s regulations governing media content.

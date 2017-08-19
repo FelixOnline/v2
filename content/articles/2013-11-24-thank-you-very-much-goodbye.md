@@ -4,16 +4,23 @@ title: >
 subtitle: >
   On Thursday 16th November 1989, a sixteen-year-old took guard in his first innings for India and faced one of the most feared bowling attacks in the world. He was dismissed by fellow debutant Waqar Younis for 15, but everyone knew that there was something special about this schoolboy – the...
 date: "2013-11-24 23:59:08 +0000"
+
 # Attributes from Felix Online V1
 id: "4136"
 old_path: /sport/4136/thank-you-very-much-goodbye
 aliases:
  - /sport/4136/thank-you-very-much-goodbye
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 On Thursday 16th November 1989, a sixteen-year-old took guard in his first innings for India and faced one of the most feared bowling attacks in the world. He was dismissed by fellow debutant Waqar Younis for 15, but everyone knew that there was something special about this schoolboy – the youngest ever test cricketer at the time.

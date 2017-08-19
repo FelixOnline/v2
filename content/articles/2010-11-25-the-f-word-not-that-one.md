@@ -4,16 +4,24 @@ title: >
 subtitle: >
    The F-word. Not that one
 date: "2010-11-25 21:58:48 +0000"
+
 # Attributes from Felix Online V1
 id: "445"
 old_path: /comment/445/the-f-word-not-that-one
 aliases:
  - /comment/445/the-f-word-not-that-one
+imported: true
+comments:
+ - Walking in the preensce of giants here Cool thinking all around
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Walking in the preensce of giants here Cool thinking all around
-imported: true
 ---
 
 Before you begin to read, please excuse the crumbs.

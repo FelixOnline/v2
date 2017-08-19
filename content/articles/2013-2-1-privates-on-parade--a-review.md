@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eva Rosenthal enjoys a camp play with just enough serious tinges
 date: "2013-02-01 00:13:37 +0000"
+
 # Attributes from Felix Online V1
 id: "3223"
 old_path: /arts/3223/privates-on-parade--a-review
 aliases:
  - /arts/3223/privates-on-parade--a-review
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Privates on Parade, a musical farce rife with semi-gratuitous nudity and camp song-and-dance numbers, is not the sort of play one would expect Michael Grandage to stage. A star-studded Shakespeare production would have been the obvious choice as his new company takes to the London stage for the first time. The risk that Grandage has taken is palpable in every bawdy, mildly inappropriate scene. With a script that is already OTT, any directorial excesses could easily have had a disastrous effect. The fine line that Grandage parades his actors along yields a very strange sort of titillation. One cannot help but imagine that the whole thing is about to take a dramatic (although surely hysterical) tumble.

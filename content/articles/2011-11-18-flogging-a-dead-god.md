@@ -4,16 +4,24 @@ title: >
 subtitle: >
   When will everyone realise that the debate on divine existence is over?
 date: "2011-11-18 00:09:23 +0000"
+
 # Attributes from Felix Online V1
 id: "1797"
 old_path: /comment/1797/flogging-a-dead-god
 aliases:
  - /comment/1797/flogging-a-dead-god
+imported: true
+comments:
+ - Its ok Repent and accept Jesus and all of your sins will be forgiven and you will get to spend eternity in heaven with the likes of William Lane Craig Actually now hell sounds more appealingIt is interesting to note that you arent offering any evidence for Gods nonexistance in which you belive Perhaps if you offered some proof of Gods nonexistance then you would have more to argue with than refutations of evidence for Gods existance Were scientists We do not offer proof for the nonexistence of things which others have failed to prove exists This is akin to offering proof that another universe outside our own doesnt exist on the premise that someone might one day find some proof for one which does Its actually less interesting that Kishan offers no proof for the nonexistence of a god than anyone offering solid proof for the existence of god
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its ok Repent and accept Jesus and all of your sins will be forgiven and you will get to spend eternity in heaven with the likes of William Lane Craig Actually now hell sounds more appealingIt is interesting to note that you arent offering any evidence for Gods nonexistance in which you belive Perhaps if you offered some proof of Gods nonexistance then you would have more to argue with than refutations of evidence for Gods existance Were scientists We do not offer proof for the nonexistence of things which others have failed to prove exists This is akin to offering proof that another universe outside our own doesnt exist on the premise that someone might one day find some proof for one which does Its actually less interesting that Kishan offers no proof for the nonexistence of a god than anyone offering solid proof for the existence of god
-imported: true
 ---
 
 My unquestionable faith in the non-existence of an ineffable, unfathomable and utterly unintelligible being has been brought into question. “Aha! The fundamentalist atheist finally sees that the existence of the ultimate voyeur (as Sartre would put it…) is still very much up for debate.” What has brought about this paradigm shift?

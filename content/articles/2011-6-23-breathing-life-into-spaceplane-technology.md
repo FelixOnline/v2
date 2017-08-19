@@ -4,16 +4,24 @@ title: >
 subtitle: >
   British firm may be able to turn spaceplane dream into reality
 date: "2011-06-23 19:23:37 +0100"
+
 # Attributes from Felix Online V1
 id: "1415"
 old_path: /science/1415/breathing-life-into-spaceplane-technology
 aliases:
  - /science/1415/breathing-life-into-spaceplane-technology
+imported: true
+comments:
+ - er oxygen a FUEL Thought IC was a science collegeWe should be proud that companies with such vision are here in the UK
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - er oxygen a FUEL Thought IC was a science collegeWe should be proud that companies with such vision are here in the UK
-imported: true
 ---
 
 The dream of spaceplanes has often been dismissed as fantasy, born out of bad 1950s science fiction films. According to most industry analysts, the rightful place of the spaceplane – along with food pills, floating cities and personal jetpacks – is consigned to the dustbin of history.

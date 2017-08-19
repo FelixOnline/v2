@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rooms will be for returning undergraduates only
 date: "2016-03-11 11:18:25 +0000"
+
 # Attributes from Felix Online V1
 id: "6016"
 old_path: /news/6016/renovated-evelyn-gardens-halls-will-cost-up-to-225-per-week
 aliases:
  - /news/6016/renovated-evelyn-gardens-halls-will-cost-up-to-225-per-week
+imported: true
+comments:
+ - My way or the highwayurlhttpnaayeorgvideomaplestoryrebootcontentupdateguideBuy MapleStory MesosurlYou fall for it every timeurlhttpuffxivsocialparodycomblogread15992225bladeampsoulblackdesertisfunBuy Blade And Soul Goldurlhttpflagylantibioticmetronidazolenet  Flagyl Cialis For Sale httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Flagyl 500 Traitement Candidose Cialis httplevitra20mgpricescomSurprisingly individual friendly site Great details offered on few gos toNBA 2K17 MT httpwwwkinkculturecommemberblog_post_viewphppostId11033Wow stunning site Thnx fifa 17 points httpwwwandamaorgforumcontributeandhelptheandamaproject18862viewcoyotesgameliveviewphoenixcoyotesgamesliveonlMaintain the excellent work  Lovin itnba 2k17 coins httparlenedinahwebstartscomcheap_nfl_17_coinshtmlHey there well put together websites you have at this time therepokemongo httpwwwsocialengi
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My way or the highwayurlhttpnaayeorgvideomaplestoryrebootcontentupdateguideBuy MapleStory MesosurlYou fall for it every timeurlhttpuffxivsocialparodycomblogread15992225bladeampsoulblackdesertisfunBuy Blade And Soul Goldurlhttpflagylantibioticmetronidazolenet  Flagyl Cialis For Sale httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Flagyl 500 Traitement Candidose Cialis httplevitra20mgpricescomSurprisingly individual friendly site Great details offered on few gos toNBA 2K17 MT httpwwwkinkculturecommemberblog_post_viewphppostId11033Wow stunning site Thnx fifa 17 points httpwwwandamaorgforumcontributeandhelptheandamaproject18862viewcoyotesgameliveviewphoenixcoyotesgamesliveonlMaintain the excellent work  Lovin itnba 2k17 coins httparlenedinahwebstartscomcheap_nfl_17_coinshtmlHey there well put together websites you have at this time therepokemongo httpwwwsocialengi
-imported: true
 ---
 
 Three halls in Evelyn Gardens, Holbein, Southwell and Willis Jackson, which college closed at the end of  last year, will reopen this September to second and third year undergraduates only.

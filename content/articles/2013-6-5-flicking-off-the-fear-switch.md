@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Some people are afraid of nothing. They should try a thermodynamics exam. That would scare them.
 date: "2013-06-05 16:10:57 +0100"
+
 # Attributes from Felix Online V1
 id: "3655"
 old_path: /science/3655/flicking-off-the-fear-switch
 aliases:
  - /science/3655/flicking-off-the-fear-switch
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “You asked me once, what was in Room 101. I told you that you knew the answer already. Everyone knows it. The thing that is in Room 101 is the worst thing in the world.”

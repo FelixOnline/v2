@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Council votes to let Hobson live to play another day
 date: "2014-12-10 15:15:07 +0000"
+
 # Attributes from Felix Online V1
 id: "5023"
 old_path: /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
 aliases:
  - /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
+imported: true
+comments:
+ - Screw the union bureaucrats LongLiveHobson Hobson4PresidentThere wouldnt be a rugby club at all without the hacks and bureacrats who keep the whole system ticking overShocking cowardice by Council in not censuring someone who has brought the whole of College into disrepute I hope College disciplinary procedures are more rigorous impartial and severe If a random member of the public had done this the police would have charged themHobsons disingenuous ignorance of what the Union actually does should rule him incompetent to be club captain  chair on its own Where does he think the money comes fromWith all due respect that isnt fair We didnt have  a motion of censure to vote on The fact is that the Union isnt the police we should only remove someone from their position ie punish them if it would be for the greater good of our membership as a whole Many of us did not believe that the vote of noconfidence would deliver this outcome I personally would throw my full support behi
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Screw the union bureaucrats LongLiveHobson Hobson4PresidentThere wouldnt be a rugby club at all without the hacks and bureacrats who keep the whole system ticking overShocking cowardice by Council in not censuring someone who has brought the whole of College into disrepute I hope College disciplinary procedures are more rigorous impartial and severe If a random member of the public had done this the police would have charged themHobsons disingenuous ignorance of what the Union actually does should rule him incompetent to be club captain  chair on its own Where does he think the money comes fromWith all due respect that isnt fair We didnt have  a motion of censure to vote on The fact is that the Union isnt the police we should only remove someone from their position ie punish them if it would be for the greater good of our membership as a whole Many of us did not believe that the vote of noconfidence would deliver this outcome I personally would throw my full support behi
-imported: true
 ---
 
 Union Council saw the motion of no confidence against Imperial College Union Rugby Football Union (ICURFC) Club Captain rejected Tuesday evening.

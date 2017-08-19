@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joanna Wormald discusses the rise of mental illness across UK universities and efforts (or lack of) that have been made to tackle student depression.
 date: "2017-03-10 13:23:28 +0000"
+
 # Attributes from Felix Online V1
 id: "6867"
 old_path: /features/6867/higher-education-faces-depression-epidemic
 aliases:
  - /features/6867/higher-education-faces-depression-epidemic
+imported: true
+comments:
+ - Managing depression with medication can be difficult EMPowerplus is a great natural option It even has a quite a few studies done on it Take a look at their site httpwwwtruehopecomdepressionhtmlManaging depression with medication can be difficult EMPowerplus is a great natural option It even has a quite a few studies done on itFinally we need to challenge the stigma around mental illness Unless it is your intent to contribute to that prejudice you mean you need to challenge those who direct it You will have to decide which you want to do Harold A Maio retired mental health editorits very helpful for me personally searching for this sitebuy cheap Albion online gold httpalbion2017blogsitycom20170115flaggingsystemwellzonealbionexplanationYou did it cheapest madden 17 mobile coins for sale httpwwwmaddenstorecomyoure looking sharpcheap Albion Online gold for sale httpwwwarcheagetipsorgtaketimebuycheapestalbiononlinegoldcheapupalbion
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Managing depression with medication can be difficult EMPowerplus is a great natural option It even has a quite a few studies done on it Take a look at their site httpwwwtruehopecomdepressionhtmlManaging depression with medication can be difficult EMPowerplus is a great natural option It even has a quite a few studies done on itFinally we need to challenge the stigma around mental illness Unless it is your intent to contribute to that prejudice you mean you need to challenge those who direct it You will have to decide which you want to do Harold A Maio retired mental health editorits very helpful for me personally searching for this sitebuy cheap Albion online gold httpalbion2017blogsitycom20170115flaggingsystemwellzonealbionexplanationYou did it cheapest madden 17 mobile coins for sale httpwwwmaddenstorecomyoure looking sharpcheap Albion Online gold for sale httpwwwarcheagetipsorgtaketimebuycheapestalbiononlinegoldcheapupalbion
-imported: true
 ---
 
 Recent years show an alarming trend amongst students. Rising rates of mental illness show little sign of slowing. In the past ten years, suicide rates have almost doubled. In York, up to 50% of ambulance call-outs to the university were for self-harm or suicide attempts. This is a far from localised issue‒ it’s an epidemic.

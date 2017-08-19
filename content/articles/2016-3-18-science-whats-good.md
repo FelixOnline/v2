@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This week's science news
 date: "2016-03-18 11:52:33 +0000"
+
 # Attributes from Felix Online V1
 id: "6063"
 old_path: /science/6063/science-whats-good
 aliases:
  - /science/6063/science-whats-good
+imported: true
+comments:
+ - hei hppJammen hadde du ogs ftt shoppets mye genialt du har ftt med degKjenner suget etter Ikea her nm nok snart ta meg en turSte prinsessa i voeighgrlnaHa en fin helgKlem linda
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - hei hppJammen hadde du ogs ftt shoppets mye genialt du har ftt med degKjenner suget etter Ikea her nm nok snart ta meg en turSte prinsessa i voeighgrlnaHa en fin helgKlem linda
-imported: true
 ---
 
 Mechanical heartbreak fix

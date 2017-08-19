@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken offers a final retrospective on this long-running medical drama
 date: "2015-03-25 12:09:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5426"
 old_path: /tv/5426/house-a-post-mortem
 aliases:
  - /tv/5426/house-a-post-mortem
+imported: true
+comments:
+ - urlhttpcanadianpharcharmyonlineusacomcanadian pharcharmy onlineurl canadian pharcharmy online httpcanadianpharcharmyonlineusacom canadian pharcharmy onlineKUwi0Q  jupudkqeypel urlhttpnglvfiagwaskcomnglvfiagwaskurl linkhttpwfxymzpbyjrhcomwfxymzpbyjrhlink httpqzsjajrodjwlcomSo excited I found this article as it made things much quircekcsgo skins free httpwwwwocchatcompages140info6zDqPv httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomhow to take omeprazole 40 mg tenze24domperidone generic form of prilosecfenugreek help with breastfeeding domperidonetenze24tumblr how to get rid of breast milk lumpsprince hans frozen voice tenze24tumblrcom foods to increase breast milkcan your milk come back after it dries up tenze24tumblrcom what is apo naproxenmtf estrogen without antiandrogen domperidonetenze24tumblr stemetil tablet in pregnancyranitidine 300 side effects tenze24tumblrcom prescription meds for nauseatens unit for lactation induc
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - urlhttpcanadianpharcharmyonlineusacomcanadian pharcharmy onlineurl canadian pharcharmy online httpcanadianpharcharmyonlineusacom canadian pharcharmy onlineKUwi0Q  jupudkqeypel urlhttpnglvfiagwaskcomnglvfiagwaskurl linkhttpwfxymzpbyjrhcomwfxymzpbyjrhlink httpqzsjajrodjwlcomSo excited I found this article as it made things much quircekcsgo skins free httpwwwwocchatcompages140info6zDqPv httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomhow to take omeprazole 40 mg tenze24domperidone generic form of prilosecfenugreek help with breastfeeding domperidonetenze24tumblr how to get rid of breast milk lumpsprince hans frozen voice tenze24tumblrcom foods to increase breast milkcan your milk come back after it dries up tenze24tumblrcom what is apo naproxenmtf estrogen without antiandrogen domperidonetenze24tumblr stemetil tablet in pregnancyranitidine 300 side effects tenze24tumblrcom prescription meds for nauseatens unit for lactation induc
-imported: true
 ---
 
 If you have never watched _House_, I envy you. It is one of the most nuanced and intelligent shows ever created, and there are 177 episodes for you to enjoy for the first time. In the eight years that _House_ ran (2004-2012) it was distributed to over 60 countries and at one point had the highest worldwide viewing figures of any television series. While the idea of a new medical show for Fox network originated with Paul Attanasio, it was David Shore, credited as creator, who conceived the titular character that made the series so captivating.

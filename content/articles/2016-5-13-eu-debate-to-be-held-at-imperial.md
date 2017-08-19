@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Advocates for both leave and remain campaigns will be represented
 date: "2016-05-13 08:51:43 +0100"
+
 # Attributes from Felix Online V1
 id: "6145"
 old_path: /news/6145/eu-debate-to-be-held-at-imperial
 aliases:
  - /news/6145/eu-debate-to-be-held-at-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A debate about Britain’s place in the EU is due to take place at Imperial on the 2nd of June. Representatives from both camps will be there to argue over whether we should vote to leave the EU on the 23rd of June.

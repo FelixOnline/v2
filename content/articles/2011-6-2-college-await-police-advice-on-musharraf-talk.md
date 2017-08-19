@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pakistan Society say that visit would "add to the reputation of the College"
 date: "2011-06-02 18:21:50 +0100"
+
 # Attributes from Felix Online V1
 id: "1294"
 old_path: /news/1294/college-await-police-advice-on-musharraf-talk
 aliases:
  - /news/1294/college-await-police-advice-on-musharraf-talk
+imported: true
+comments:
+ - Freedom of speech bros Although it is up to the collegeWhy is paksoc giving platform to a dictator i will tell you now ic union IF U LET PAKSOC INVITE MUSHARRAF I a pakistani student at imperial will take part in a mass protest against it and there will be hundreds who will join me to denounce Imperial College Union to allow a murderer and a dictator who tore apart the pakistan constitution to speakA Pakistani I pity u and shocked at the standard of imperial college intake teh way u say sweeping statements like murderer and dictator he is teh sole reason why democracy is here he borught local govt system freed media which were in teh dictator politicians hands use yr brauins and not just text books being in uniform doesnt make any one a dictator its a mindset and Musharraf is more democratic than any otehr politician I pity u and shocked at the standard of imperial college intake teh way u say sweeping statements like murderer and dictator he is teh sole reason why democ
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Freedom of speech bros Although it is up to the collegeWhy is paksoc giving platform to a dictator i will tell you now ic union IF U LET PAKSOC INVITE MUSHARRAF I a pakistani student at imperial will take part in a mass protest against it and there will be hundreds who will join me to denounce Imperial College Union to allow a murderer and a dictator who tore apart the pakistan constitution to speakA Pakistani I pity u and shocked at the standard of imperial college intake teh way u say sweeping statements like murderer and dictator he is teh sole reason why democracy is here he borught local govt system freed media which were in teh dictator politicians hands use yr brauins and not just text books being in uniform doesnt make any one a dictator its a mindset and Musharraf is more democratic than any otehr politician I pity u and shocked at the standard of imperial college intake teh way u say sweeping statements like murderer and dictator he is teh sole reason why democ
-imported: true
 ---
 
 The College has denied permission for a high-profile talk by former Pakistani President Pervez Musharraf on Sunday 5th June, saying that they were not given enough notice. The talk, which may go ahead on the following Sunday, was organised by the [Pakistan Society](http://www.union.ic.ac.uk/osc/pakistan/soc/Welcome.html) and was to focus on ‘Unity, Faith and Discipline’ and the role of young people in promoting peace.

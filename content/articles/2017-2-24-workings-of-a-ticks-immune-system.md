@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ipsita Herlekar looks at how the immune system of ticks is adapted to host disease causing bacteria without being affected themselves
 date: "2017-02-24 13:55:49 +0000"
+
 # Attributes from Felix Online V1
 id: "6815"
 old_path: /science/6815/workings-of-a-ticks-immune-system
 aliases:
  - /science/6815/workings-of-a-ticks-immune-system
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Have you ever been bitten by a tick? Hopefully not. But if you have, maybe make sure you are not infected with any of the near fatal diseases that ticks sometimes carry. Ticks, like mosquitoes can  be vectors of diseases like Kyasanur Forest disease and the more widely spread Lyme disease which affects nearly 3,00,000 people in USA and 65,000 in Europe each year. Apart from causing extreme discomfort in the form of itchiness that sometimes borders on agony, people suffering from Lyme disease experience severe muscle aches, fatigue and high fever. How is it that the bacterium Borrelia burgdorferi responsible for Lyme disease affects humans to such a large extent, without harming the ticks themselves? Scientists from University of Maryland’s School of Medicine have now found out how ticks manage not to succumb to the infection of the bacteria they so generously harbour.

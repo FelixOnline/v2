@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our highlights and picks from the year's biggest gadget exhibition straight out of the City of Sin
 date: "2010-01-14 16:18:30 +0000"
+
 # Attributes from Felix Online V1
 id: "30"
 old_path: /tech/30/consumer-electronics-show-2010
 aliases:
  - /tech/30/consumer-electronics-show-2010
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
-imported: true
 ---
 
 __Transparent Displays__

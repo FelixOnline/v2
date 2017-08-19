@@ -4,16 +4,24 @@ title: >
 subtitle: >
   New season, new ambitions, new kit for IC sports clubs
 date: "2011-10-07 00:57:05 +0100"
+
 # Attributes from Felix Online V1
 id: "1471"
 old_path: /sport/1471/imperial-captains-gear-up-for-new-season
 aliases:
  - /sport/1471/imperial-captains-gear-up-for-new-season
+imported: true
+comments:
+ - Hi IndyThanks for this article Kukri are delighted to be supporting Imperial and look forward to following your reports this season If anybody has any queries or wants to know about the new range please pop into Ethos and see Andy Crossley or email andrewcrossleykukrisportscombest regardsWill
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi IndyThanks for this article Kukri are delighted to be supporting Imperial and look forward to following your reports this season If anybody has any queries or wants to know about the new range please pop into Ethos and see Andy Crossley or email andrewcrossleykukrisportscombest regardsWill
-imported: true
 ---
 
 Head of [Sport Imperial](http://www3.imperial.ac.uk/sports) Neil Mosley sounded the start of the new sports season on Monday at the Club Captains’ meeting held in Ethos. Introducing himself and the rest of the Sport Imperial team to the hundred or so team captains and sports club committee members, he was full of praise for the achievements of IC sports clubs last season. “Five years ago, our objective was to get into the [BUCS](http://www.bucs.org.uk/) (British Universities and Colleges Sport) league table top twenty. I’m delighted to say we did it.”

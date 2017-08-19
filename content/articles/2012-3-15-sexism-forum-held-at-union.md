@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Discussion follows rejection of feminist society by the New Clubs Committee
 date: "2012-03-15 21:36:21 +0000"
+
 # Attributes from Felix Online V1
 id: "2388"
 old_path: /news/2388/sexism-forum-held-at-union
 aliases:
  - /news/2388/sexism-forum-held-at-union
+imported: true
+comments:
+ - If you are interested in this conversation join the Facebook group httpwwwfacebookcomgroups251790461577177 or get in touch with dpwelfareimperialacukBrilliant Im so excited for such a society to finally be set uplike the split infinitive you are going boldlynever thought imperial was that sexist until i heard guys shouting ratings out of 10 to all the models and female dancers at ICSM Fashion Show appalling behaviourI know that imperial is very male dominated but I cant help but feel that theres actually more misandry than misogyny in the university As a final year student with 2 solid internships under my belt and a high 21 with the possibility of a first I cant help but feel put out when women with lower grades and less work experience are preferentially taken by companies due to groups such as women in engineering Now I understand its likely ill get a torrade of abuse for being ignorant and everyone will probably say I know nothing of how difficult it is to be a woman i
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If you are interested in this conversation join the Facebook group httpwwwfacebookcomgroups251790461577177 or get in touch with dpwelfareimperialacukBrilliant Im so excited for such a society to finally be set uplike the split infinitive you are going boldlynever thought imperial was that sexist until i heard guys shouting ratings out of 10 to all the models and female dancers at ICSM Fashion Show appalling behaviourI know that imperial is very male dominated but I cant help but feel that theres actually more misandry than misogyny in the university As a final year student with 2 solid internships under my belt and a high 21 with the possibility of a first I cant help but feel put out when women with lower grades and less work experience are preferentially taken by companies due to groups such as women in engineering Now I understand its likely ill get a torrade of abuse for being ignorant and everyone will probably say I know nothing of how difficult it is to be a woman i
-imported: true
 ---
 
 A [forum on sexism](http://www.union.ic.ac.uk/blogs/2012/02/29/women-at-imperial-is-everything-ok/) at Imperial College was held on Tuesday, with the intention of investigating the extent of sexism within the college as well as brainstorming plans on how best to address it.

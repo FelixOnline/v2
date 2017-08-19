@@ -4,16 +4,24 @@ title: >
 subtitle: >
   China secretly slaps it’s knees whenever Kim Jong Il makes a weird speech
 date: "2010-12-09 20:34:54 +0000"
+
 # Attributes from Felix Online V1
 id: "528"
 old_path: /comment/528/our-leaders-are-idiots-no-shit
 aliases:
  - /comment/528/our-leaders-are-idiots-no-shit
+imported: true
+comments:
+ - THX thats a great awnser
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mrangry
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mrangry"
 author_name: "Mr Angry"
-author_image_path: "img/upload/201104240247-jk708-angry-geek.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201104240247-jk708-angry-geek.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - THX thats a great awnser
-imported: true
 ---
 
 The praise for Julian Assange certainly is interesting to me. Not that I don’t admire the man; it’s very impressive what he’s done, and many of the papers released are genuinely hilarious to read. Mainly because they paint a picture that confirms the best and most accurate conspiracy of all - that the world is not run by malicious plotters or fascists or corporations, but that it is run by people. Stupid, fallible, normal people who just happen to be in a seat of power rather than the front of a taxi.

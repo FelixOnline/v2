@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The classic cooking show : Master Chef
 date: "2011-02-24 19:42:12 +0000"
+
 # Attributes from Felix Online V1
 id: "866"
 old_path: /food/866/gastronomical-musings
 aliases:
  - /food/866/gastronomical-musings
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Dana says:

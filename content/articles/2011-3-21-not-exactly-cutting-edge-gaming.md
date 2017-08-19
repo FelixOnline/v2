@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Whip out your scalpel and forceps in Surgery Simulator
 date: "2011-03-21 11:58:03 +0000"
+
 # Attributes from Felix Online V1
 id: "1122"
 old_path: /games/1122/not-exactly-cutting-edge-gaming
 aliases:
  - /games/1122/not-exactly-cutting-edge-gaming
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Surgery Simulator literally consists of eight different operations. One of which is called ‘Road Traffic Accident’… this is the sort of level we’re operating on (pun intended). Oh, and I should warn you: “This product is a computer game and not for training or tuition purposes!!!” So you Medics that have picked up this title to enhance your surgical skills, think again.

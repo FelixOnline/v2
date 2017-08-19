@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton reveals (almost) all with a look at the hot new “Secret” app.
 date: "2014-05-09 02:01:22 +0100"
+
 # Attributes from Felix Online V1
 id: "4569"
 old_path: /features/4569/tell-me-friends-what-is-your-secret
 aliases:
  - /features/4569/tell-me-friends-what-is-your-secret
+imported: true
+comments:
+ - A very good item has also just been published in Wired warning people that Secret isnt all that secret when it comes to anything with legal repercussionshttpwwwwiredcom201405whistleblowersbeware
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - A very good item has also just been published in Wired warning people that Secret isnt all that secret when it comes to anything with legal repercussionshttpwwwwiredcom201405whistleblowersbeware
-imported: true
 ---
 
 It’s often said that in the Internet Age there is no more anonymity but this is only half true. Yes, thanks to Facebook I’ll know that the girl from my old English class in Year 12 has just broken up with her boyfriend and is playing Taylor Swift on a tear-filled triumphant loop on Spotify but the internet has also opened up so many ways to be completely expressive and yet completely anonymous. Take Twitter. While my own handle is @roryfenton (Hint: follow me. I’m lonely), many of the people I follow use anonymous accounts. @LetterOfNote shares interesting letters written by famous and not-so-famous hands. @IAM\_SHAKESPEARE (“Willy Shakes”) fills my timeline with accidental innuendos from Shakespeare’s plays (today’s include “His youthful hose, well sav’d, a world too wide” from As You Like It). These don’t, however, represent the bulk of anonymous tweeters. Less interesting or humorous are the countless accounts set up to anonymously abuse other Twitter users. When you see someone like Lenny Henry told to “EFF OFF BACK TO *insert misspelt African country*”, there’s a good chance that was sent from an anonymous account, possibly set up just to send that tweet. To exaggerate a little, it seems we’re stuck with either arseholery on anonymous Twitter or Too Much Information on nonymous Facebook. Yes I made the word “nonymous” up.

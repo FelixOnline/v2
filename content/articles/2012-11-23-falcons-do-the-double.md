@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chris Carter plays basketball right? Right? Oh, ooops...
 date: "2012-11-23 00:07:02 +0000"
+
 # Attributes from Felix Online V1
 id: "2960"
 old_path: /sport/2960/falcons-do-the-double
 aliases:
  - /sport/2960/falcons-do-the-double
+imported: true
+comments:
+ - Good stuff Falcons Hope to see a perfect winning streak this season
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good stuff Falcons Hope to see a perfect winning streak this season
-imported: true
 ---
 
 The Imperial Falcons are back to winning ways after club President Dan Harris went 3 for 3 and Sidney Louzon hit a home run to fire Imperial to two victories against UCL.

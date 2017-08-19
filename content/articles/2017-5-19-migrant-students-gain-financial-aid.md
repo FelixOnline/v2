@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It doesn't make sense for Imperial College to charge them international fees
 date: "2017-05-19 14:58:40 +0100"
+
 # Attributes from Felix Online V1
 id: "6971"
 old_path: /news/6971/migrant-students-gain-financial-aid
 aliases:
  - /news/6971/migrant-students-gain-financial-aid
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 An interesting paper at this week’s Union Council meeting addressed the issues faced by asylum-seekers and migrants trying to access higher education in London.

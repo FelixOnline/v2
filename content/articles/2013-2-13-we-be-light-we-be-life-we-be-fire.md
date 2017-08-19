@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lucy McGregor think things were better when she was younger. Herumph.
 date: "2013-02-13 14:43:17 +0000"
+
 # Attributes from Felix Online V1
 id: "3304"
 old_path: /books/3304/we-be-light-we-be-life-we-be-fire
 aliases:
  - /books/3304/we-be-light-we-be-life-we-be-fire
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Books were better when I was younger. I’m sure of it. I don’t know if I’m becoming more experienced, or more cynical, or if I was simply lucky enough to be introduced early to a large amount of really excellent fiction, but I find it very hard to bring to mind any books in my adult life that affected me as powerfully as my childhood favourites.

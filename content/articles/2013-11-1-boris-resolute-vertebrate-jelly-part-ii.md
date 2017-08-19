@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Eoghan should probably have a chat to Boris next week...
 date: "2013-11-01 10:54:38 +0000"
+
 # Attributes from Felix Online V1
 id: "3979"
 old_path: /comment/3979/boris-resolute-vertebrate-jelly-part-ii
 aliases:
  - /comment/3979/boris-resolute-vertebrate-jelly-part-ii
+imported: true
+comments:
+ - It appears comment moderators are deathly slowIm not entirely sure what youre attempting to say here  theres not much cohesion Are you saying that Boris Johnson is failing the poor and disadvantaged and focussing on relatively insignificant superficial changes that benefit the wealthy Are you saying hes talented and pluckyIf it could be misconstrued as clandestine and disengaged where is the misunderstanding You appear to demonstrate that it is indeed clandestine and disengagedWhy is Boris Johnson the only man capable of continuing the legacy of the olympic games Again it seems youve demonstrated that he is catering solely to the most powerful and able and not succeeding at fostering a spirit of togetherness participation and equal opportunity for all Im fairly sure the latter was the moral of the games not the formerIm not entirely sure what youre attempting to say here  theres not much cohesion Are you saying that Boris Johnson is failing the poor and disadvantaged a
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - It appears comment moderators are deathly slowIm not entirely sure what youre attempting to say here  theres not much cohesion Are you saying that Boris Johnson is failing the poor and disadvantaged and focussing on relatively insignificant superficial changes that benefit the wealthy Are you saying hes talented and pluckyIf it could be misconstrued as clandestine and disengaged where is the misunderstanding You appear to demonstrate that it is indeed clandestine and disengagedWhy is Boris Johnson the only man capable of continuing the legacy of the olympic games Again it seems youve demonstrated that he is catering solely to the most powerful and able and not succeeding at fostering a spirit of togetherness participation and equal opportunity for all Im fairly sure the latter was the moral of the games not the formerIm not entirely sure what youre attempting to say here  theres not much cohesion Are you saying that Boris Johnson is failing the poor and disadvantaged a
-imported: true
 ---
 
 “If the ball came loose from the back of the scrum, which it won’t of course, it would be a great, great thing to have a crack at.”

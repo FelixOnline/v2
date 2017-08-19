@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This unpolished gem is well worth a watch
 date: "2016-01-29 09:31:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5848"
 old_path: /film/5848/documentary-corner-american-movie
 aliases:
  - /film/5848/documentary-corner-american-movie
+imported: true
+comments:
+ - Love the site very user friendly and whole lots to seenba 2k17 vc httpwwwishowcasenetCherryAnnablog11619
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Love the site very user friendly and whole lots to seenba 2k17 vc httpwwwishowcasenetCherryAnnablog11619
-imported: true
 ---
 
 It’s not often you see a documentary split opinion in such a love-it-or-hate-it fashion. I suppose that is something that comes with ‘cult film’ territory, and personally, when I think of the label of ‘cult classic’, _American Movie_ is the first film that comes to mind. The star here is Mark Borchardt – an amateur filmmaker who has spent his whole life trying to inspire his family and slacker friends to fund, star in, and help produce a short horror film ‘_Coven_’. He does this in order to garner interest and money, eventually allowing him to produce his magnum opus ‘_Northwestern_’.

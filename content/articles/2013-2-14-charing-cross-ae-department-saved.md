@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A&E Department to remain open after a U-Turn, but campaigners say it doesn't go far enough
 date: "2013-02-14 21:20:11 +0000"
+
 # Attributes from Felix Online V1
 id: "3336"
 old_path: /news/3336/charing-cross-ae-department-saved
 aliases:
  - /news/3336/charing-cross-ae-department-saved
+imported: true
+comments:
+ - Saying the hospital has been saved it disingenuous Its being sold off for redevelopment all that will remain is an urgent care centre which is a 24hour GP serviceSee below for the outcome of the meeting yesterdayhttpus1campaignarchive2comub3184f09229818a8d6b340e37id5e0dd73da1e74b9e92101Goes something like this httpwwwandyslaughtercoukp7926This article does well to raise awareness of the issue but has unfortunately taken a relatively limited viewpoint in terms of relaying all the facts Many regard this as a lastditch attempt by the conservativerun council to increase acceptance of the impending doom of the hospital Whats more the potential impact on students hasnt even been touched upon There is likely to be a significant impact on Imperial medics  with a reduction of inpatients down to 12 of its original number a really worrying implication is that the capacity for clinical teaching would similarly be slashed Where will students be placed How will medical
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Saying the hospital has been saved it disingenuous Its being sold off for redevelopment all that will remain is an urgent care centre which is a 24hour GP serviceSee below for the outcome of the meeting yesterdayhttpus1campaignarchive2comub3184f09229818a8d6b340e37id5e0dd73da1e74b9e92101Goes something like this httpwwwandyslaughtercoukp7926This article does well to raise awareness of the issue but has unfortunately taken a relatively limited viewpoint in terms of relaying all the facts Many regard this as a lastditch attempt by the conservativerun council to increase acceptance of the impending doom of the hospital Whats more the potential impact on students hasnt even been touched upon There is likely to be a significant impact on Imperial medics  with a reduction of inpatients down to 12 of its original number a really worrying implication is that the capacity for clinical teaching would similarly be slashed Where will students be placed How will medical
-imported: true
 ---
 
 [Plans to close the Accident and Emergency department of Charing Cross Hospital ](http://felixonline.co.uk/news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close/)have been scrapped in a last minute decision. The original plan to downgrade Charing Cross Hospital has been changed so that the hospital will still have a 24/7 emergency service for those who make their own way to the A&E. More complicated emergencies, including blue light emergencies will be directed to specialist centres. Many have said that the A&E Department hasn't properly been saved at all.

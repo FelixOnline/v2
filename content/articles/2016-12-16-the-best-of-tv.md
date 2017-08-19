@@ -4,16 +4,22 @@ title: >
 subtitle: >
   But, let’s avoid ending on a sour note. Despite everything, 2016 has been a remarkably good year for television. In fact, so much so that narrowing this down to just five was quite the challenge. So, in case you missed them, here are the highest highs of the year’s offerings.
 date: "2016-12-16 15:12:56 +0000"
+
 # Attributes from Felix Online V1
 id: "6616"
 old_path: /tv/6616/the-best-of-tv
 aliases:
  - /tv/6616/the-best-of-tv
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## 1. Bojack Horseman

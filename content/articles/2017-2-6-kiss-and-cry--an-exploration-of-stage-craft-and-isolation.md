@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jaco Van Dormael and Michéle Anne De Mey's short piece shows off choreography, cinematography, and lighting to dazzling effect
 date: "2017-02-06 16:15:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6740"
 old_path: /arts/6740/kiss-and-cry--an-exploration-of-stage-craft-and-isolation
 aliases:
  - /arts/6740/kiss-and-cry--an-exploration-of-stage-craft-and-isolation
+imported: true
+comments:
+ - What Snowboard To BuyWhat snowboard would you recommend me to buyI have been snoiwoardbng for 4 years and Im pretty good not amazing but goodI dont go on any high jumps or do any tricks I only go on little jumps once in a while I usually just go downhill snowboarding in ski resortsWhat size also Im 57 130ish lbs size 8 feet
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What Snowboard To BuyWhat snowboard would you recommend me to buyI have been snoiwoardbng for 4 years and Im pretty good not amazing but goodI dont go on any high jumps or do any tricks I only go on little jumps once in a while I usually just go downhill snowboarding in ski resortsWhat size also Im 57 130ish lbs size 8 feet
-imported: true
 ---
 
 Jaco Van Dormael and Michéle Anne De Mey, the husband-and-wife team behind Kiss and Cry, have taken the ‘Mime’ of the ‘London International Mime Festival’ – of which their piece is a part – and stretched the definition to its absolute limit. Kiss and Cry, which consists of a single 80-minute piece, incorporates dance, stagecraft, cinematography, and storytelling to impressive effect; it’s a far cry from the traditional idea of mime, with its associations of face-paint and striped shirts.

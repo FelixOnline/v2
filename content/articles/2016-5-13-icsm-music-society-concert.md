@@ -4,16 +4,22 @@ title: >
 subtitle: >
   What a night
 date: "2016-05-13 09:40:00 +0100"
+
 # Attributes from Felix Online V1
 id: "6168"
 old_path: /cands/6168/icsm-music-society-concert
 aliases:
  - /cands/6168/icsm-music-society-concert
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 One of my favourite things about playing the French horn is that you get called in to play in concerts at the last minute pretty often. At Imperial the concerts usually tend to end up being actually really good and so it’s always quite exciting to get the opportunity to play with groups here. Last week I got to play in the ICSM Music Society Concert and it basically lived up to all my hopes for a concert and massively surpassed my expectations for a night that the only details I’d really been given beforehand were ‘turn up for rehearsal at 4.30, St Stephen’s Church’.

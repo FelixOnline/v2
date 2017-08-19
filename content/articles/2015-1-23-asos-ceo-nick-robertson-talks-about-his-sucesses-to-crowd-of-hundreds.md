@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5120"
 old_path: /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
 aliases:
  - /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
+imported: true
+comments:
+ - Spot on with this writeup I actually suppose this web site wants much more considerationray ban wayfarer httpraybanoutletvintageliciousThere may be noticeably a bundle to learn about this I assume you made sure good factors in options alsoray ban sunglasses discount httpwwwsunglasseshutccI dont know if greatest practices have emerged around things like that but Im positive that your job is clearly recognized as a fair game Each boys and girls feel the influence of only a second pleasureoakley sunglasses outlet httpwwwoakleysunglassnameThat is the fitting blog for anybody who needs to find out about this topic You understand a lot its nearly laborious to arguemichael kors outlet online httpwwwmichaelkorsoutletxyzI supply the thoughts above as common inspiration however clearly there are questions just like the one you deliver up wherecheap ray ban sunglasses httprboutletonlinesalecccomVery nice post i definitely love this web site carry on it Added to F
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Spot on with this writeup I actually suppose this web site wants much more considerationray ban wayfarer httpraybanoutletvintageliciousThere may be noticeably a bundle to learn about this I assume you made sure good factors in options alsoray ban sunglasses discount httpwwwsunglasseshutccI dont know if greatest practices have emerged around things like that but Im positive that your job is clearly recognized as a fair game Each boys and girls feel the influence of only a second pleasureoakley sunglasses outlet httpwwwoakleysunglassnameThat is the fitting blog for anybody who needs to find out about this topic You understand a lot its nearly laborious to arguemichael kors outlet online httpwwwmichaelkorsoutletxyzI supply the thoughts above as common inspiration however clearly there are questions just like the one you deliver up wherecheap ray ban sunglasses httprboutletonlinesalecccomVery nice post i definitely love this web site carry on it Added to F
-imported: true
 ---
 
 On Monday, an event hosted by the Imperial Entrepreneurs society (IE) saw Huxley flooded with students hoping to see ASOS co-founder and CEO, Nick Robertson, give his insight into the success of his company. As the queue of hopeful students extended onto the Sherfield walkway, members of IE handed out flyers “guaranteeing” entry to the event.

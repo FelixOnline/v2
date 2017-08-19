@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The winning recipes are announced as Felix Food crowns its first Imperial MasterChef
 date: "2011-10-28 14:02:29 +0100"
+
 # Attributes from Felix Online V1
 id: "1644"
 old_path: /food/1644/imperial-food-awards-the-results
 aliases:
  - /food/1644/imperial-food-awards-the-results
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We would like to thank everyone who contributed to [the first Imperial Food Awards](http://felixonline.co.uk/food/1529/imperial-food-awards/) and proved how important food is in our lives.

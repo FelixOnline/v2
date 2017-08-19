@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Resurrections in politics are not always a good thing
 date: "2015-05-04 16:17:07 +0100"
+
 # Attributes from Felix Online V1
 id: "5487"
 old_path: /comment/5487/will-our-government-be-reborn-this-spring
 aliases:
  - /comment/5487/will-our-government-be-reborn-this-spring
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In some accounts of the ‘Constantinian shift’ towards Christianity as the state religion of the Roman Empire in the 4th century CE, part of the political efficacy of the move came through the assimilation to Christianity of a variegated iconography and diverse social practices associated with older paganisms. While as historical interpretation such accounts are a little too ‘Dan Brown’, the general idea does point nicely to a bizarre semantic association in the English language: that of rebirth and resurrection, largely a product of the coexistence of the Christian Eastertide and residues of spring fertility rituals in rural areas. Both the main parties seem to have had a similar confusion about the meaning of these terms in the run up to the election.

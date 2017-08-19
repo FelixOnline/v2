@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial professor advises the Government on subsidence
 date: "2012-01-27 00:07:57 +0000"
+
 # Attributes from Felix Online V1
 id: "2078"
 old_path: /news/2078/move-to-prevent-big-ben-tower-lean
 aliases:
  - /news/2078/move-to-prevent-big-ben-tower-lean
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Members of the House of Commons Commission have met to discuss options to deal with the subsidence problems that the Palace of Westminster is experiencing. The palace, which was constructed in 1870, is slowly sinking into the ground, and the clock tower, which houses the infamous Big Ben, is leaning at an angle of 0.26 degrees.

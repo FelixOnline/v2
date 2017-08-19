@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Imperial psychiatrist talks to FELIX about the difficulties of psychedelic research
 date: "2016-05-27 08:49:56 +0100"
+
 # Attributes from Felix Online V1
 id: "6207"
 old_path: /science/6207/its-hard-out-there-for-class-a-drug-research-
 aliases:
  - /science/6207/its-hard-out-there-for-class-a-drug-research-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Over the past year, a dozen patients have been fortunate enough to participate in an innovative study, led by Dr Robin Carhart-Harris, exploring a novel treatment for depression. Last week it was announced that all twelve, though resistant to conventional treatments, responded positively to this new antidepressant. Only it wasn’t exactly a new antidepressant they were responding to. It was psilocybin, a compound known for making some mushrooms... magic

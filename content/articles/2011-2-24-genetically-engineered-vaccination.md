@@ -4,16 +4,24 @@ title: >
 subtitle: >
   One bacteria derived vaccine for many infectious diseased
 date: "2011-02-24 20:17:54 +0000"
+
 # Attributes from Felix Online V1
 id: "885"
 old_path: /science/885/genetically-engineered-vaccination
 aliases:
  - /science/885/genetically-engineered-vaccination
+imported: true
+comments:
+ - Its like you read my mind You seem to know so much about this like you wrote the book in it or something I think that you could do with some pics to drive the mesgase home a bit but other than that this is great blogTry Looking up some natural eenistsal oils  Tea tree is a good antibiotic lemon grass all the citrus eenistsal oils like lemon orange bergamot Also lavendar and peppermint eucalyptus there all great
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its like you read my mind You seem to know so much about this like you wrote the book in it or something I think that you could do with some pics to drive the mesgase home a bit but other than that this is great blogTry Looking up some natural eenistsal oils  Tea tree is a good antibiotic lemon grass all the citrus eenistsal oils like lemon orange bergamot Also lavendar and peppermint eucalyptus there all great
-imported: true
 ---
 
 A new type of vaccine for pneumonia based on genetically engineered bacteria has been developed, and may help in the fight against many other infectious diseases.

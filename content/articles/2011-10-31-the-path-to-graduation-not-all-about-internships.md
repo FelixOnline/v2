@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The social side of university must not be overlooked
 date: "2011-10-31 11:07:26 +0000"
+
 # Attributes from Felix Online V1
 id: "1645"
 old_path: /comment/1645/the-path-to-graduation-not-all-about-internships
 aliases:
  - /comment/1645/the-path-to-graduation-not-all-about-internships
+imported: true
+comments:
+ - I think internship are a valuable experience and it is up to you whether you are ripped off I graduated from in 2011 with a first and no clue which career path I wanted to take I have completed three different internship the first in PR then for a VC and the last for social media I was unpaid for all of them but made sure that there were strict terms ie I would only work for free for max of 3 months travel and food had to be covered I learned loads and would not have changed them for anything If only I had done them as part of my degree I could have saved a year of being unpaid Job aggregators like this one httpwwwadzunacoukjobsinternship are excellent for finding internships Highly recommended
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I think internship are a valuable experience and it is up to you whether you are ripped off I graduated from in 2011 with a first and no clue which career path I wanted to take I have completed three different internship the first in PR then for a VC and the last for social media I was unpaid for all of them but made sure that there were strict terms ie I would only work for free for max of 3 months travel and food had to be covered I learned loads and would not have changed them for anything If only I had done them as part of my degree I could have saved a year of being unpaid Job aggregators like this one httpwwwadzunacoukjobsinternship are excellent for finding internships Highly recommended
-imported: true
 ---
 
 As this year’s cohort of new graduates [eases itself away from university life](http://felixonline.co.uk/news/1554/largest-ever-graduation/), many will either be beginning or continuing in their new careers. However, it is important to realise that unemployment remains an ever present issue for graduates. Unemployment finds itself at its highest total since 1994, with just over two and a half million people finding themselves out of work – a significant proportion being newly graduated students. Despite these solemn figures, it is good to take a step back and realise that Imperial degrees remain highly sought after, and that we must not lose focus on what this university has to offer other than study.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Three vehicles were involved in the incident on Tuesday afternoon
 date: "2015-05-14 22:17:13 +0100"
+
 # Attributes from Felix Online V1
 id: "5519"
 old_path: /news/5519/car-flipped-over-on-exhibition-road-two-injured
 aliases:
  - /news/5519/car-flipped-over-on-exhibition-road-two-injured
+imported: true
+comments:
+ - Not related to this incident but more to the locationHave you  noticed that vehicles going through Exhibition road not only they do not respect the speed limit  supposed to be 20  maybe the signs are too small  but also seem to be totally unaware of the type of road theyre on which I believe was meant to be shared  that is giving pedestrians greater priority To my experience  its very rare to find any motorist slowing or giving way to anyone trying to crossLove the website really user friendly and great deals to seenba 2k16 mt for sale httpwwwnusajayanetitem169Howdy excellent online site youve herenba 2k16 my endorsements httpwwwibase45netblogs26311523studiosuesmakersofnba2k16forusingplayertattoosBGdczh  ehnfncqwbgkp urlhttpimuhmcyocclucomimuhmcyoccluurl linkhttpqogxveabhlkccomqogxveabhlkclink httpnloojeotuaxfcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Not related to this incident but more to the locationHave you  noticed that vehicles going through Exhibition road not only they do not respect the speed limit  supposed to be 20  maybe the signs are too small  but also seem to be totally unaware of the type of road theyre on which I believe was meant to be shared  that is giving pedestrians greater priority To my experience  its very rare to find any motorist slowing or giving way to anyone trying to crossLove the website really user friendly and great deals to seenba 2k16 mt for sale httpwwwnusajayanetitem169Howdy excellent online site youve herenba 2k16 my endorsements httpwwwibase45netblogs26311523studiosuesmakersofnba2k16forusingplayertattoosBGdczh  ehnfncqwbgkp urlhttpimuhmcyocclucomimuhmcyoccluurl linkhttpqogxveabhlkccomqogxveabhlkclink httpnloojeotuaxfcom
-imported: true
 ---
 
 Two women were treated for minor injuries after their car was flipped onto its roof due to a collison with a lorry on Exhibition Road. The incident occurred on Tuesday afternoon outside the Natural History Museum, which also saw a Rolls-Royce take damage.

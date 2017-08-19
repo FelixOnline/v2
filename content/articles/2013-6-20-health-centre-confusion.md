@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cuts in services to postgraduates still unclear
 date: "2013-06-20 23:42:31 +0100"
+
 # Attributes from Felix Online V1
 id: "3726"
 old_path: /news/3726/health-centre-confusion
 aliases:
  - /news/3726/health-centre-confusion
+imported: true
+comments:
+ - Good newsThe Union has been working with the College and the Princes Gardens Health Centre to try restore access to services there for postgraduate students outside of the catchment area We are very pleased to be able to tell you that postgraduates will once again be able to access the Centre from the 1 August 2013There might be a silver lining to this Never used the ICHC myself but always hearing stories of rude staff and poor service Registering with a local GP might not be so bad after all They are all obliged to offer eveningearly surgeries so students should be able to get an appointment with minimal disruption to the college day I went in one day to get stitches removed and I was sent away to get them removed the next day at triage at their suggestionToo bad policy came into effect that night but they had not deigned to tell me this and sent me awayI would say that a good analogy of dealing with the health centre and imperial college to get most things is the same as my experien
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good newsThe Union has been working with the College and the Princes Gardens Health Centre to try restore access to services there for postgraduate students outside of the catchment area We are very pleased to be able to tell you that postgraduates will once again be able to access the Centre from the 1 August 2013There might be a silver lining to this Never used the ICHC myself but always hearing stories of rude staff and poor service Registering with a local GP might not be so bad after all They are all obliged to offer eveningearly surgeries so students should be able to get an appointment with minimal disruption to the college day I went in one day to get stitches removed and I was sent away to get them removed the next day at triage at their suggestionToo bad policy came into effect that night but they had not deigned to tell me this and sent me awayI would say that a good analogy of dealing with the health centre and imperial college to get most things is the same as my experien
-imported: true
 ---
 
 Angry responses have [continued](http://felixonline.co.uk/news/3536/postgraduate-anger-at-health-centre-access-being-removed/) to pour in concerning the decision by the Imperial College Health Centre to stop treating Imperial postgraduates who live outside of the Centre’s catchment area. The Health Centre only receives money from the NHS to register patients living within this area but additional funding received from the College has traditionally allowed it to treat out of area students. These students do not officially ‘register’ at the Health Centre but rather ‘join’. This allows them to use all of the Health Centre’s provisions apart from the out-of-hours service, but they are still encouraged to register with a local GP.

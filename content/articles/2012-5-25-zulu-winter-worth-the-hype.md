@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mark England travels to the Boston Arms to find a band guaranteed to soundtrack future O2 adverts
 date: "2012-05-25 19:09:55 +0100"
+
 # Attributes from Felix Online V1
 id: "2505"
 old_path: /music/2505/zulu-winter-worth-the-hype
 aliases:
  - /music/2505/zulu-winter-worth-the-hype
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Zulu Winter __are a curious band. They seem to be a band beloved by hipsters at the minute, yet their soaring ambitions surely cannot be contained to playing to only the trendy crowds of London. The band’s recent singles are highly reminiscent of the stadium bothering doom-pop of __White Lies__ and the lead singer’s powerful vocals remind me very much of Chris Martin in his prime, ( I am not entirely sure when that is but I can definitely say it is not now). Therefore it was quite a surreal night when I went to their debut album’s launch party show at a small venue in North London. It was an odd sight looking at a crowd of East London hipsters, industry liggers and fashionistas stroking their moustaches and sipping their Red Stripe whilst the band bash out some massive choruses smothered in swooning guitars, clearly with much bigger venues in mind.

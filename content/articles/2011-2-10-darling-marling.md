@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stephen Smith is clearly a fisherman... and he’s after the Marlin!
 date: "2011-02-10 20:22:51 +0000"
+
 # Attributes from Felix Online V1
 id: "771"
 old_path: /music/771/darling-marling
 aliases:
  - /music/771/darling-marling
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Laura Marling is a remarkable artist. She left home at 16 and moved to London carrying, you would like to imagine, only a guitar, a straw hat and a few vinyls. She then befriended – remarkably, given her shyness – members of lightweight-campfire-singalong bands Noah and the Whale and, later, Mumford and Sons. Most people will have noticed her first singing cutesy backing vocals on Mystery Jets’ ‘[Young Love](http://www.youtube.com/watch?v=qz-FoGp3p0s)’ and Noah’s ‘[5 Years Time](http://www.youtube.com/watch?v=T8YCSJpF4g4)’ and would have rightly thought her a songstress of little substance. However, delve even slightly into any of her solo work and you will notice a complete transformation. No longer is she the naïve poster girl of such hollow genres as “indie-folk” or “nu-folk” but rather a songwriter of (almost) the highest quality who contemplates womanhood and the hazards of love rather than sunny days at the zoo. That is not to say that childlike, happy songs are bad: sunny days at the zoo are some of the happiest memories of my life. However, anyone can write a catchy tune about the sun, but it takes great talent to sing about love and sadness without cliché, something Laura manages every time.

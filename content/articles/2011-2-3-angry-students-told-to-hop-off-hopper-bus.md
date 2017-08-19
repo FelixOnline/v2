@@ -4,16 +4,24 @@ title: >
 subtitle: >
   No prior warning given, says Medic President
 date: "2011-02-03 19:19:21 +0000"
+
 # Attributes from Felix Online V1
 id: "712"
 old_path: /news/712/angry-students-told-to-hop-off-hopper-bus-
 aliases:
  - /news/712/angry-students-told-to-hop-off-hopper-bus-
+imported: true
+comments:
+ - ICSMSU has not been given any information about the change  why should they have been The hopper bus was never meant for students The priority has rightly been reserved for NHS staff with clinical or academic responsibilities whose job it is to get to different sitesMedical Students have long been exploiting a system which was not designed for their use potentially depriving doctors and other NHS staff from getting to where they need to be and are now unhappy that the loophole has been shut Complaining about this is ridiculous  its akin to getting angry after being found out that youve been using your grans Freedom Pass to get aroundMaybe now they can start paying for public transport like all the other Imperial students have to  they have to deal with the problem of living costs too you knowDear RealistAs clinical students we often have to travel extensively to sites as far as Ashford and Hillingdon For GP placements and Paediatric residency placements you can sometimes end u
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - ICSMSU has not been given any information about the change  why should they have been The hopper bus was never meant for students The priority has rightly been reserved for NHS staff with clinical or academic responsibilities whose job it is to get to different sitesMedical Students have long been exploiting a system which was not designed for their use potentially depriving doctors and other NHS staff from getting to where they need to be and are now unhappy that the loophole has been shut Complaining about this is ridiculous  its akin to getting angry after being found out that youve been using your grans Freedom Pass to get aroundMaybe now they can start paying for public transport like all the other Imperial students have to  they have to deal with the problem of living costs too you knowDear RealistAs clinical students we often have to travel extensively to sites as far as Ashford and Hillingdon For GP placements and Paediatric residency placements you can sometimes end u
-imported: true
 ---
 
 Disgruntled students have this week found themselves unable to use the NHS Trust ‘Hopper Bus’ service, a shuttle service that runs between [NHS Trust](http://www.imperial.nhs.uk/) sites.

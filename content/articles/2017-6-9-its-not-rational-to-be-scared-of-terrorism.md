@@ -4,16 +4,22 @@ title: >
 subtitle: >
   An anonymous writer thinks you should stop making this all about you
 date: "2017-06-09 14:57:36 +0100"
+
 # Attributes from Felix Online V1
 id: "7011"
 old_path: /comment/7011/its-not-rational-to-be-scared-of-terrorism
 aliases:
  - /comment/7011/its-not-rational-to-be-scared-of-terrorism
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Every time there’s a terrorist attack, the more skittish of my friends set about panicking. Marking themselves safe on Facebook, making dramatic social media posts, and generally creating the hysteria and alarm that follows a terrorist attack.

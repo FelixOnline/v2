@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Food brings happiness to revision with cake
 date: "2014-05-09 15:39:35 +0100"
+
 # Attributes from Felix Online V1
 id: "4588"
 old_path: /food/4588/examin-cake-sion
 aliases:
  - /food/4588/examin-cake-sion
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Who doesn’t like cake? Even Latvia’s entry to this year’s Eurovision was all about this sweet, fluffy and tasty food! It is a wide misconception to think cakes are hard to bake and it takes up a long time. But we are here to prove that wrong.

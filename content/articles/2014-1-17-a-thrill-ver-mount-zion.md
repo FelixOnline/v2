@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stuart Masson reviews the Godspeed side project’s latest album
 date: "2014-01-17 03:52:57 +0000"
+
 # Attributes from Felix Online V1
 id: "4244"
 old_path: /music/4244/a-thrill-ver-mount-zion
 aliases:
  - /music/4244/a-thrill-ver-mount-zion
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It’s difficult for any side project to ever be judged in comparison to anything but their parent band, and when that band is __Godspeed You! Black Emperor__, it is probably never going to go well for you. Starting as __A Silver Mt. Zion__ in 1999, __Thee Silver Mt. Zion Memorial Orchestra__ are onto their seventh album and fifth name (including the memorable __Thee Silver Mt. Zion Memorial Orchestra and Tra-La-La Band with Choir__). They are probably the best known of the numerous Godspeed side projects, and a lazy journalist might describe them as Godspeed without the experimenation. They do bring a few new things to the table though, with the addition of vocals in particular being an interesting innovation. They’ve taken a backseat for the last few years due to the Godspeed reunion, meaning that _Fuck Off Get Free We Pour Light on Everything_ is their first album since 2010. It’s definitely been worth the wait, and not just because of, you know, the Godspeed reunion.

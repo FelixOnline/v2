@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maximilian Eggl is weary of what the wearable future will hold
 date: "2013-02-22 01:24:50 +0000"
+
 # Attributes from Felix Online V1
 id: "3360"
 old_path: /tech/3360/revolution-wearable-technology
 aliases:
  - /tech/3360/revolution-wearable-technology
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After the smartphone and table revolution, the next big thing in the tech world seems to be wearable gadgets. After the full saturation of these two markets, which are quite important for these kind of companies, the technology giants are attempting to claim this new area of the market. Potential game changer, these could completely revolutionise the way we interact with our gadgets, affecting even more of our lives than all our smartphones and tablets already do.

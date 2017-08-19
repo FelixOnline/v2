@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention...
 date: "2013-11-24 16:36:27 +0000"
+
 # Attributes from Felix Online V1
 id: "4129"
 old_path: /games/4129/wii-u-no-consider-nintendo
 aliases:
  - /games/4129/wii-u-no-consider-nintendo
+imported: true
+comments:
+ - Someone Who buys aComputer wants the best graphics without having buying a console Nothing wrong with thatPS4 Someone who is a hardcore gamer Nothing wrong with that tooXBox1 A foolWii U Someone who can embrace games no matter the sales or what people say about Pure BrillanceIve played the PS4 Ive played the XB1 I enjoy the WiiU For me its a PCWiiU3DS combo this generation with the tail end of the 360 stuff as well Just cant justify spending 500 to play Forza And a not very great Forza at thatI have still yet to play any of the 3 new consoles but the Wii U sales do look quite worrying It has sold less in a year than the PS4 and Xbox One sold in just two days Blame it on bad nintendo marketing or peoples simple lust for graphics over gameplay but either way those are some scary numbers
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Someone Who buys aComputer wants the best graphics without having buying a console Nothing wrong with thatPS4 Someone who is a hardcore gamer Nothing wrong with that tooXBox1 A foolWii U Someone who can embrace games no matter the sales or what people say about Pure BrillanceIve played the PS4 Ive played the XB1 I enjoy the WiiU For me its a PCWiiU3DS combo this generation with the tail end of the 360 stuff as well Just cant justify spending 500 to play Forza And a not very great Forza at thatI have still yet to play any of the 3 new consoles but the Wii U sales do look quite worrying It has sold less in a year than the PS4 and Xbox One sold in just two days Blame it on bad nintendo marketing or peoples simple lust for graphics over gameplay but either way those are some scary numbers
-imported: true
 ---
 
 Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention. I am, as some may have noticed, a pretty hardcore Nintendo fan but I shall try and keep this as informative and unbiased as I can. So here follows an account of why I believe the Wii U is a real competitor and something that should be considered, and just a general overview of what I think of consoles.

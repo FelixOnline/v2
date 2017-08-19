@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tim Arbabzadah gives a brief case study on Paragon, in the wake of the new North Acton halls
 date: "2013-02-22 00:15:02 +0000"
+
 # Attributes from Felix Online V1
 id: "3355"
 old_path: /news/3355/paragon-a-case-study-of-distance
 aliases:
  - /news/3355/paragon-a-case-study-of-distance
+imported: true
+comments:
+ - jesus Ah great the weekly Felix is badly written comment Im getting pretty sick of these1 Felix is free You pay nothing for it and have no right to complain even were it printed on solid dog shit2 When its 7PM on a Thursday evening the paper needs to be sent off or it wont get printed for Friday morning and there are still 6 blank pages staring at you your priorities shift to getting the information out there in some form even if the prose itself isnt perfect Now as someone not involved with Felix you obviously wouldnt be able to comprehend this which brings me quite nicely on to3 Felix is a student newspaper run by students for students If the quality of the writing distresses you to the point where you feel the need to post inane comments to the website every week why not get your lazy ass out of your desk chair put some clothes on come down to the office and help produce the papertldr contribute or GTFOideally located for students studying in central and
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - jesus Ah great the weekly Felix is badly written comment Im getting pretty sick of these1 Felix is free You pay nothing for it and have no right to complain even were it printed on solid dog shit2 When its 7PM on a Thursday evening the paper needs to be sent off or it wont get printed for Friday morning and there are still 6 blank pages staring at you your priorities shift to getting the information out there in some form even if the prose itself isnt perfect Now as someone not involved with Felix you obviously wouldnt be able to comprehend this which brings me quite nicely on to3 Felix is a student newspaper run by students for students If the quality of the writing distresses you to the point where you feel the need to post inane comments to the website every week why not get your lazy ass out of your desk chair put some clothes on come down to the office and help produce the papertldr contribute or GTFOideally located for students studying in central and
-imported: true
 ---
 
 Paragon halls are located in Brentford, about six and a half miles from the South Kensington campus of Imperial College London, which is where most students need to be every day. The use of the halls is a temporary stopgap measure; the problem was caused by the [last minute renovation of Wilson House](http://felixonline.co.uk/news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls/). They are a shared halls: Imperial, University of West London and Thames Valley College all share the space. There are 176 rooms for freshers in Paragon, each room costing £155 per week. This does not factor in the travel cost per day that is needed to get into College. They are all single study bedrooms (with en suites) and arranged in cluster flats of eight with a shared kitchen.

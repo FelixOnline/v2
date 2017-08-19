@@ -4,16 +4,24 @@ title: >
 subtitle: >
   First XV team suspended after exposing themselves on the Underground, identified whilst wearing their sports kit.
 date: "2014-10-30 17:28:50 +0000"
+
 # Attributes from Felix Online V1
 id: "4755"
 old_path: /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
 aliases:
  - /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
+imported: true
+comments:
+ - It has never and will never be referred to as Teddys Referring to Teddington as Teddys is not only disrespectful to the ground that was once home of St Marys Hospital RFC but it is incorrect and the Editor should research further before publishing such outrageous falsitiesOnce again Imperial Rugby dragging the name of this illustrious university through the mud The whole club should be banned Why apologise for calling it Tedders If thats what other people referred to it as then theres nothing wrong with using it the only mistake you made was incorrectly writing Teddys I honestly dont understand how anyone could be offended by that and people arent owed an apology just for being offendedGood job on the rugby boys for being dicksthis was the best night of my lifeIn the grand pattern of things youll receive an A just for hard work Exactly where you lost everybody was first in your specifics As it is said the devil is in the details And it couldnt be much more ac
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - It has never and will never be referred to as Teddys Referring to Teddington as Teddys is not only disrespectful to the ground that was once home of St Marys Hospital RFC but it is incorrect and the Editor should research further before publishing such outrageous falsitiesOnce again Imperial Rugby dragging the name of this illustrious university through the mud The whole club should be banned Why apologise for calling it Tedders If thats what other people referred to it as then theres nothing wrong with using it the only mistake you made was incorrectly writing Teddys I honestly dont understand how anyone could be offended by that and people arent owed an apology just for being offendedGood job on the rugby boys for being dicksthis was the best night of my lifeIn the grand pattern of things youll receive an A just for hard work Exactly where you lost everybody was first in your specifics As it is said the devil is in the details And it couldnt be much more ac
-imported: true
 ---
 
 The Imperial College Rugby First XV team have been suspended pending investigation into reports that team members were stripping on a District Line tube.

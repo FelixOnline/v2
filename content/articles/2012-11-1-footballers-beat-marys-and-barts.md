@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington
 date: "2012-11-01 23:18:30 +0000"
+
 # Attributes from Felix Online V1
 id: "2824"
 old_path: /sport/2824/footballers-beat-marys-and-barts
 aliases:
  - /sport/2824/footballers-beat-marys-and-barts
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Following a good performance but bad result against Kingston 2s in their first BUCS MARS South Eastern 5C league match, Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington on Wed 24th, looking to pick up their first points of the season. Due to a host of injuries and absentees, Imperial were forced to make several changes to their starting line-up. Consequently Pete Nugent, Andy Smith, Bilal Nasim, Luke Butler and Kume Feese replaced Dom Affron, Bilal Abou Ela Bourquin, Dan Moxham, Alex Dale and Josh March.

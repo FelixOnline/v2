@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What are things that may affect future gamers?
 date: "2014-02-19 21:24:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4406"
 old_path: /games/4406/gaming-in-the-future
 aliases:
  - /games/4406/gaming-in-the-future
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Gaming is something I hold very dearly. I will defend my love with tooth and nail. Furthermore I like the status quo. I like the way I buy, play and interact with games, and in fact I could say that I am actually missing the past a bit. However I can see that gaming is changing, and maybe not always for the best. So here I list the 4 main things that will influence gaming in the foreseeable future:

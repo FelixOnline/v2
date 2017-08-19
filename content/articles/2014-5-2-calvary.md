@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Following on from their previous effort The Guard, director John Michael McDonagh (brother of Marty) have teamed up again for Calvary, the tale of a well-meaning, innocent priest told in the confessional that he has only a week left to live.
 date: "2014-05-02 01:22:05 +0100"
+
 # Attributes from Felix Online V1
 id: "4548"
 old_path: /film/4548/calvary
 aliases:
  - /film/4548/calvary
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __Calvary__

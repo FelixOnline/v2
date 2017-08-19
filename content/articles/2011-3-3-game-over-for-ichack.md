@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tackling all those little bugs is the most important step
 date: "2011-03-03 21:16:06 +0000"
+
 # Attributes from Felix Online V1
 id: "1022"
 old_path: /games/1022/game-over-for-ichack
 aliases:
  - /games/1022/game-over-for-ichack
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _This is Day 5 of the IC.HACK tutorial series! To see the previous day's articles, click [Day 1 – Starting](http://felixonline.co.uk/games/903/ever-wanted-to-make-games/), [Day 2 – AI](http://felixonline.co.uk/games/934/when-in-doubt-leave-it-out/), [Day 3 – Art and Sound](http://felixonline.co.uk/games/965/game-developers-dont-need-to-draw/) or [Day 4 – Creating Levels](http://felixonline.co.uk/?article=988)_

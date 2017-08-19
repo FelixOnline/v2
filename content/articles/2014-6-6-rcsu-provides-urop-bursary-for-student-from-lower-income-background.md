@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The RCSU UROP bursary has been awarded to an undergraduate student from the Department of Chemistry. This is a new initiative where the funding will be from the RCSU for students from lower income backgrounds.
 date: "2014-06-06 02:38:04 +0100"
+
 # Attributes from Felix Online V1
 id: "4654"
 old_path: /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
 aliases:
  - /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
+imported: true
+comments:
+ - Good step forward   I was denied a UROP bursary which meant I had to withdraw from my placement due to monetary problems for ridiculous reasons Within my year approximately 8 people were offered a UROP and all but myself and one other were not given a bursary However one of my colleagues was offered two different bursaries and the one she rejected was then in a sort of limbo where it wasnt offered to anyone I asked for feedback on my bursary proposal and was told that enough proof checking was not carried out on my application After probing further there was one mistake with my application the date in my supervisors section not mine was written in a different format  the format which is used in his home country Apparently that is a perfectly acceptable reason to deny a person the opportunity to undertake a UROP Hi Keir Thank you for that comment Can you please send me an email with more details about your case and Ill bring it up in the Faculys Teaching Committee and see if the
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Good step forward   I was denied a UROP bursary which meant I had to withdraw from my placement due to monetary problems for ridiculous reasons Within my year approximately 8 people were offered a UROP and all but myself and one other were not given a bursary However one of my colleagues was offered two different bursaries and the one she rejected was then in a sort of limbo where it wasnt offered to anyone I asked for feedback on my bursary proposal and was told that enough proof checking was not carried out on my application After probing further there was one mistake with my application the date in my supervisors section not mine was written in a different format  the format which is used in his home country Apparently that is a perfectly acceptable reason to deny a person the opportunity to undertake a UROP Hi Keir Thank you for that comment Can you please send me an email with more details about your case and Ill bring it up in the Faculys Teaching Committee and see if the
-imported: true
 ---
 
 The RCSU UROP bursary has been awarded to an undergraduate student from the Department of Chemistry. This is a new initiative where the funding will be from the RCSU for students from lower income backgrounds.

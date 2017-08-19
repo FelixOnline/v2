@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Henry Turner-Chambers finds an infectious afternoon's entertainment with Steven Soderbergh's Contagion
 date: "2011-10-27 21:29:08 +0100"
+
 # Attributes from Felix Online V1
 id: "1611"
 old_path: /film/1611/only-three-minutes-of-gwyneth-the-rests-ok
 aliases:
  - /film/1611/only-three-minutes-of-gwyneth-the-rests-ok
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Contagion__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   To what extent is Felix a democratic body? Can it claim to represent the wider student body? Navid Nabijou investigates
 date: "2013-03-15 00:52:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3464"
 old_path: /comment/3464/felix-and-democracy
 aliases:
  - /comment/3464/felix-and-democracy
+imported: true
+comments:
+ - There is content there
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - There is content there
-imported: true
 ---
 
 Last night I was browsing The[ Big Elections ](https://www.union.ic.ac.uk/elections/)website, pondering my choices of candidates. I decided to watch the Meet the Candidates video: partly because I was getting a bit lost amidst the endless succession of naïve and generic manifestos, but mostly for the comedic gold I’d been hearing about (“it’s known that most young men will engage in an element of burlesque in their lives…”). I should mention at this point that if you haven’t already seen the video I couldn’t recommend it highly enough.

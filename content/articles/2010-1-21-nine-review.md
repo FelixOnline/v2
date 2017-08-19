@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park finds that Fergie is the star of the show in Rob Marshall musical tribute to Fellini.
 date: "2010-01-21 14:03:10 +0000"
+
 # Attributes from Felix Online V1
 id: "41"
 old_path: /film/41/nine-review
 aliases:
  - /film/41/nine-review
+imported: true
+comments:
+ - I was dragged along to this almost literally dragged but actually really enjoyed itquotCruz is overflowing with sex appeal more so when shes twisting and wrapping her body around ropes and curtainsquot1000 she is ridiculously hot
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - egk08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I was dragged along to this almost literally dragged but actually really enjoyed itquotCruz is overflowing with sex appeal more so when shes twisting and wrapping her body around ropes and curtainsquot1000 she is ridiculously hot
-imported: true
 ---
 
 Reviewed by John Park

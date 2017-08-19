@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Its grand opening happened on Friday
 date: "2016-05-13 08:50:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6144"
 old_path: /news/6144/reynolds-bar-re-opens-after-refurb
 aliases:
  - /news/6144/reynolds-bar-re-opens-after-refurb
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Charing Cross Hospital’s only onsite bar has finally been refurbished by the union, after consultation with students.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Webster thinks his mind should be supervised at all times
 date: "2012-11-22 23:09:38 +0000"
+
 # Attributes from Felix Online V1
 id: "2940"
 old_path: /games/2940/abandonment-issues-
 aliases:
  - /games/2940/abandonment-issues-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It happened again this week. I was running around the ruins of a mining operation, in a cave, now made accessible by the departure of a floating city, which acted like a cork upon this bottle of badly-aged acid, when I looked up and I got the urge. This isn’t the kind of urge that involves running to the toilet after last night’s curry, this is the urge to will time to stop, so you can just stand there and take in what you’re seeing. When I get this feeling, I can’t help but get this itch in my mind, which isn’t satisfied until I’ve explored all the things. I want to climb that scaffolding, and see how far the tracks go. I want to know whose house-of-tyres I just ran through. Where are they? Are they still alive? Does anyone remember that this place still exists? My mind races, and for a moment, I want to be my character, with all the opportunities that this effectively timeless world offers. Only for a moment, however, as the bubbling lakes of acid, the swarm of varkids and the pack of thumping crystalisks detract from this notion of abandonment. Damned nature. The problem is that I can’t rightly put this feeling into words, so you’ll just have to bear with me, whilst I try to mangle words into emotions.

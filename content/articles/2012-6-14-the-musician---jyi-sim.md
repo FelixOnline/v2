@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Musician - Jyi Sim
 date: "2012-06-14 20:39:13 +0100"
+
 # Attributes from Felix Online V1
 id: "2568"
 old_path: /phoenix/2568/the-musician---jyi-sim-
 aliases:
  - /phoenix/2568/the-musician---jyi-sim-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _Jyi Sim is a bubbly 3rd year aero with a enthusiasm that goes beyond the day job. Her passion for music and what it meant to her became clear as we talked. Jyi’s self produced first album Postcards from Unity draws heavily on her upbringing in Malaysia and the shock of moving to the UK. Recording and producing all of the tracks herself, she is now working on her second EP of down-tempo fusion._

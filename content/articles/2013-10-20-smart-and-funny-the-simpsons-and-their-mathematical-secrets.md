@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Calum Grant explores a nefarious plot to educate cartoon viewers
 date: "2013-10-20 01:25:50 +0100"
+
 # Attributes from Felix Online V1
 id: "3900"
 old_path: /books/3900/smart-and-funny-the-simpsons-and-their-mathematical-secrets
 aliases:
  - /books/3900/smart-and-funny-the-simpsons-and-their-mathematical-secrets
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Simon Singh has returned with a lovely new book all about the role that mathematics has to played in the longest running and arguably most successful animated television show ever. What that means exactly is far from obvious, but in reading the book it appears as though the whole show may have actually been filler whilst high level mathematics has been subtlety broadcast for years with few people noticing.

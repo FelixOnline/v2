@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fire alarm in halls leads to stolen cash and jewellery
 date: "2012-03-09 01:15:40 +0000"
+
 # Attributes from Felix Online V1
 id: "2336"
 old_path: /news/2336/break-in-at-beit-hall
 aliases:
  - /news/2336/break-in-at-beit-hall
+imported: true
+comments:
+ - We asked these questions but security was unable to respond in timeSecurity disclosed no more information to Felix because the investigation is ongoing Weve reported exactly what we got in our timeframeIs there CCTV footage Can you please make clear if the thief is or is not a student  How long until he was found These questions are easy to answer and give the article more flavour and informationWhy wasnt the thief named and shamed I want to be aware of who to watch out for in hallsSecurity wasnt able to tell you at what time the thief was caught And therefore how long before he was foundWhat do you prefer an article that is closetodate and describes the event to warn students or an article that is weeks after the event with the detailsA follow up article with the details of the thefts can easily be written The main aim is to warn students and get students who were robbed to come forwardand this is coming from someone who actually was robbed in this theftso chilli
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - We asked these questions but security was unable to respond in timeSecurity disclosed no more information to Felix because the investigation is ongoing Weve reported exactly what we got in our timeframeIs there CCTV footage Can you please make clear if the thief is or is not a student  How long until he was found These questions are easy to answer and give the article more flavour and informationWhy wasnt the thief named and shamed I want to be aware of who to watch out for in hallsSecurity wasnt able to tell you at what time the thief was caught And therefore how long before he was foundWhat do you prefer an article that is closetodate and describes the event to warn students or an article that is weeks after the event with the detailsA follow up article with the details of the thefts can easily be written The main aim is to warn students and get students who were robbed to come forwardand this is coming from someone who actually was robbed in this theftso chilli
-imported: true
 ---
 
 Student residence Beit Hall was disrupted on Wednesday 29 February following a series of thefts that took place during a fire alarm. Following the alarm, which began at 1am and lasted for 45 minutes, students who left their doors open during the commotion returned to find items such as cash, jewellery and personal items missing. Concerns were soon raised as to whether the fire alarm was set off with the express intent of creating the opportunity to raid students’ rooms.

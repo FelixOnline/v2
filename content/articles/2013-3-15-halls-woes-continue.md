@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Garden Hall petition has over 1,100 supporters Management Board to meet on 20th March Cost of Evelyn Gardens refurbishment reportedly £10m for 33 years College to answer students’ questions after Management Board meeting
 date: "2013-03-15 00:37:28 +0000"
+
 # Attributes from Felix Online V1
 id: "3463"
 old_path: /news/3463/halls-woes-continue
 aliases:
  - /news/3463/halls-woes-continue
+imported: true
+comments:
+ - Doing some maths 10m over 30 years with 620 beds thats  540 per person per year That comes to an extra 13 per person per weekIm certain that pretty much everyone would rather pay an extra 13 a week and a lot of rooms will still come under the 150 pw that North Acton will cost and remain in Evelyn Gardens
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Doing some maths 10m over 30 years with 620 beds thats  540 per person per year That comes to an extra 13 per person per weekIm certain that pretty much everyone would rather pay an extra 13 a week and a lot of rooms will still come under the 150 pw that North Acton will cost and remain in Evelyn Gardens
-imported: true
 ---
 
 The [halls saga continues](http://felixonline.co.uk/news/3347/anger-over-new-halls/), with [Garden Hal](http://felixonline.co.uk/news/3441/protest-over-garden-closure/)l, and the halls in Evelyn Gardens’ futures still unclear. As well as this there is the [possibility of new halls being built in North Acton](http://felixonline.co.uk/news/3417/pressure-continues-over-acton/). [Jeff Magee](http://www3.imperial.ac.uk/people/j.magee), Principle of the Faculty of Engineering, discussed the halls in a meeting of student reps. Discussing Evelyn Gardens, he said to the students: “The proposition there is to convince the College to refurbish those halls for the 33 years, knowing at the end of it that you’ll lose that money,” which he stated was estimated at 10 million pounds. He went on to say that the main question being discussed by those at the top of College was whether or not this was a good use of the money, stating that “in my view it probably is”. During the meeting he was questioned by many students. He said that “nobody is trying to pull it fast on anybody here. Property people have been looking for five years for affordable accommodation close to College”. He said that everywhere in five miles was looked at in great detail. He mentioned that land in London is very expensive, particularly in South Kensington. Regarding the price of accommodation in North Acton he said that, while the price may be arguable, it is actually affordable compared to other options available.

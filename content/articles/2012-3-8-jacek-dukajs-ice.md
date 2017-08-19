@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A political and philosophical alternate history thriller
 date: "2012-03-08 20:40:24 +0000"
+
 # Attributes from Felix Online V1
 id: "2318"
 old_path: /books/2318/jacek-dukajs-ice
 aliases:
  - /books/2318/jacek-dukajs-ice
+imported: true
+comments:
+ -  This doubt leads him a few chapters in to suddenly switch from first to third person I do often enjoy elements of weirdness but here they dont have any depth Theyre fun to read but they just dont add anythingI cannot agree This means everything in this bookProtagonist is constantly looking for his true self and third person is used in moments when he tries to prove he doesnt exist according to the laws of SummerWhen hes trying to justify his gambling his actions driven by shame and other people Its one of the most intriguing parts of the book When Benedykt is freezing during the way through Siberia It means everything its not just meaningless weirdness without depthI agree with Toad Someone has to be blind to not see the purpose of using the third person narration
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -  This doubt leads him a few chapters in to suddenly switch from first to third person I do often enjoy elements of weirdness but here they dont have any depth Theyre fun to read but they just dont add anythingI cannot agree This means everything in this bookProtagonist is constantly looking for his true self and third person is used in moments when he tries to prove he doesnt exist according to the laws of SummerWhen hes trying to justify his gambling his actions driven by shame and other people Its one of the most intriguing parts of the book When Benedykt is freezing during the way through Siberia It means everything its not just meaningless weirdness without depthI agree with Toad Someone has to be blind to not see the purpose of using the third person narration
-imported: true
 ---
 
 I find it rather disappointing how so few of the books available to readers in this country are written by foreign language authors. Sure, you can find translations of all the French and Russian classics in the larger bookshops but not much from other countries and certainly nothing contemporary. I’m somewhat at a loss to explain this phenomenon. Other European countries don’t seem to have this problem, with some bookshops devoting up to half their fiction section to translations. I think that it’s a great loss for the British public – foreign literature is a way of immersing yourself in new cultures without leaving your home – it broadens the mind and gives you a new viewpoint. I bet that not many of you have even heard of Henryk Sienkiewicz, despite the man having won a Nobel Prize in Literature. It seems that, in general, publishers have seemingly decided not to run the risk of giving their readers something different. I was therefore pleasantly surprised when I heard that the independent British publisher Atlantic Books will be putting out an English translation of Jacek Dukaj’s acclaimed science fiction alternate history novel _Ice_ before the year is out.

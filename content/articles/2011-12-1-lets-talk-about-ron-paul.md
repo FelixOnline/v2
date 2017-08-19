@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Why Liberty and Democracy don’t mix
 date: "2011-12-01 21:20:08 +0000"
+
 # Attributes from Felix Online V1
 id: "1888"
 old_path: /comment/1888/lets-talk-about-ron-paul-
 aliases:
  - /comment/1888/lets-talk-about-ron-paul-
+imported: true
+comments:
+ - I dont think there opinions are worth less than mine I just think their opinions are downright idiotic And yes they think the way they do for a reason as do I Determinism and all that It still doesnt mean that they have intelligent opinionsYour first point is exactly what I was saying in the article people vote to help themselves but only the majority can actually get what they want Bigotry in the way it is used nowadays doesnt mean simply someone who disagrees with you I am using it to describe a group of people who have archaic old fashioned and downright stupid opinions on minorities and would if it were up to then make the lives of these minorities a complete miseryI said in my article Ron Paul looks like the best candidate at the moment I hope he gets voted in although it doesnt look all that likely But I just dont like the way that people seem to be glossing over the problems a Ron Paul led America will face as outlined in the articleIm not sure exactly the poi
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I dont think there opinions are worth less than mine I just think their opinions are downright idiotic And yes they think the way they do for a reason as do I Determinism and all that It still doesnt mean that they have intelligent opinionsYour first point is exactly what I was saying in the article people vote to help themselves but only the majority can actually get what they want Bigotry in the way it is used nowadays doesnt mean simply someone who disagrees with you I am using it to describe a group of people who have archaic old fashioned and downright stupid opinions on minorities and would if it were up to then make the lives of these minorities a complete miseryI said in my article Ron Paul looks like the best candidate at the moment I hope he gets voted in although it doesnt look all that likely But I just dont like the way that people seem to be glossing over the problems a Ron Paul led America will face as outlined in the articleIm not sure exactly the poi
-imported: true
 ---
 
 If you’ve been paying attention to the goings on in America in the lead up to next year’s presidential elections, you will no doubt have heard many political commentators expressing the view that Ron Paul is the man that everyone has been waiting for. The hero that America needs. What is especially impressive is that this type of praise is happening across the board, regardless of political loyalties or emotional ties.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-10 08:27:46 +0100"
+
 # Attributes from Felix Online V1
 id: "6257"
 old_path: /science/6257/this-weeks-science-picture
 aliases:
  - /science/6257/this-weeks-science-picture
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Coral bleaching has severely impacted the Great Barrier Reef over the past month. The corals, which are in constant competition with algae for light and nutrients, seem to be losing the battle, with many bleached coral skeletons completely engulfed in algae. Pictures and testimonials from Lizard Island have been painting a grim picture of ghastly, brown, decomposing coral. WWF Australia shared pictures taken last month of granite Island ‘ground zero’ where a mass bleaching event killed an estimated 22% of the reef’s coral.

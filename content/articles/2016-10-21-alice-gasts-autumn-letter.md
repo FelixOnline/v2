@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix reads it so you don’t have to (you’re welcome)
 date: "2016-10-21 09:18:38 +0100"
+
 # Attributes from Felix Online V1
 id: "6337"
 old_path: /news/6337/alice-gasts-autumn-letter
 aliases:
  - /news/6337/alice-gasts-autumn-letter
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College President, Alice Gast, released her autumn letter this week and set out College’s vision for the future, a post Brexit future.

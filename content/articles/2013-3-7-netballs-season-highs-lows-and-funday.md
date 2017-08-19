@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICUNC President Nancy Edge reflects on her season
 date: "2013-03-07 22:07:52 +0000"
+
 # Attributes from Felix Online V1
 id: "3439"
 old_path: /sport/3439/netballs-season-highs-lows-and-funday
 aliases:
  - /sport/3439/netballs-season-highs-lows-and-funday
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Passionate about her sport, Nancy has led the netball club from strength to strength this year; with increased membership, more socials and coming so close to promotion. Despite the difficulties of a plague of injuries and sponsorship woes, ICUNC has had a good year even with potential wins at Varsity to look forward to.

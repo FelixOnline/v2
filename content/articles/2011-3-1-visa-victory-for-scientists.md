@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Government alters visa restrictions to favour researchers
 date: "2011-03-01 20:32:36 +0000"
+
 # Attributes from Felix Online V1
 id: "954"
 old_path: /news/954/visa-victory-for-scientists
 aliases:
  - /news/954/visa-victory-for-scientists
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week, the government announced [alterations to the proposals](http://www.ukba.homeoffice.gov.uk/sitecontent/documents/aboutus/reports/soi-tier2/) to curb immigration to reflect the importance of research to the UK amid much fanfare from activists and campaigners. The change will see a new restricted ‘certificate of sponsorship’ (‘CoS’) system where researchers are favoured significantly over other applicants. From April of this year, the government will implement an extra monthly system for sponsoring institutions to apply for extra ‘CoS’s.

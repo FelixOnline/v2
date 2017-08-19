@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pippa Smith introduces the London Climate Forum 2014
 date: "2014-11-14 20:40:39 +0000"
+
 # Attributes from Felix Online V1
 id: "4872"
 old_path: /features/4872/the-biggest-forum-to-discuss-change
 aliases:
  - /features/4872/the-biggest-forum-to-discuss-change
+imported: true
+comments:
+ - canada goose inc cheap mens coatscanada goose coat outletcanada winter coat Dr Zoumalan grew up with a passion for medicine and science He completed his undergraduate training the University of California Los Angeles in Biology and Psychology The best way the wizard is offered will make this a painless chore Before you mail out your brochure it is a great idea to find out beforehand the name of the person from the companyinstitution who would be the decision taker with such an activity buy jacketcanada goose parka womens sale parka jacketscanada goose jacket pricecanadian goose down coats 31recognizes that once you have had broadband it hard to livewithout it so we are giving cable modem customers a unique one time offerthat saves them as much as 300 and allows them to easily switch toBellSouth FastAccess DSL said Bill Story vice president of broadbandmarketing and sales for BellSouth Many species have now bexome extinct from earth due to these reasons This is due to the fact that pet clinic
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - canada goose inc cheap mens coatscanada goose coat outletcanada winter coat Dr Zoumalan grew up with a passion for medicine and science He completed his undergraduate training the University of California Los Angeles in Biology and Psychology The best way the wizard is offered will make this a painless chore Before you mail out your brochure it is a great idea to find out beforehand the name of the person from the companyinstitution who would be the decision taker with such an activity buy jacketcanada goose parka womens sale parka jacketscanada goose jacket pricecanadian goose down coats 31recognizes that once you have had broadband it hard to livewithout it so we are giving cable modem customers a unique one time offerthat saves them as much as 300 and allows them to easily switch toBellSouth FastAccess DSL said Bill Story vice president of broadbandmarketing and sales for BellSouth Many species have now bexome extinct from earth due to these reasons This is due to the fact that pet clinic
-imported: true
 ---
 
 Climate change is a hotter topic than ever. The 2014 IPCC report, hot from the press, recommends that 80%of the world’s power should be from low-carbon sources by 2050. This will limit the warming of the atmosphere to 2°C, the agreed ‘tipping point’ for disastrous consequences.

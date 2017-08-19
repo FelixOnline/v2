@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yorgos Lanthimos’ latest gem is a postmodern love story with deadly claws
 date: "2015-10-16 15:09:17 +0100"
+
 # Attributes from Felix Online V1
 id: "5661"
 old_path: /film/5661/the-lobster--a-new-breed-of-romance
 aliases:
  - /film/5661/the-lobster--a-new-breed-of-romance
+imported: true
+comments:
+ - Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be one internal link to a page on your blog and you should have one image with an alt tag that has y
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be one internal link to a page on your blog and you should have one image with an alt tag that has y
-imported: true
 ---
 
 It was the longest queue of the whole festival. The anticipation for Yorgos Lanthimos’ first English-language feature, The Lobster, had reached such fever pitch on its long march from Cannes, that by the time the London Film Festival screen opened to the press, a row of journalists and industry delegates stretched along the balcony of the newly-opened Picturehouse Central, down the staircase (illuminated tastefully from that icon of hip postmodernity – the ubiquitous hanging bulb), around the café, out into the street, back into the building, back up the stairs, and into the bar. While those around grumbled about the length, worrying about whether they would get in, there was one question on everyone’s minds: will it be worth it?

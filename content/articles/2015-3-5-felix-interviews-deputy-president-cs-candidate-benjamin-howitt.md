@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:29:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5340"
 old_path: /comment/5340/felix-interviews-deputy-president-cs-candidate-benjamin-howitt
 aliases:
  - /comment/5340/felix-interviews-deputy-president-cs-candidate-benjamin-howitt
+imported: true
+comments:
+ - fitflop cheapestfitflop australia store httpaustraliafitflopsiemillernetbuy fitflopfitflop discount httpwwwaustraliafitflopscomchristian louboutin pointed toe pumpchristian louboutin sale outlet httpcanadachristianlouboutinoutletblogspotcomSouth Africa itself are usually in group A with Mexico Uruguay and Spain Using the above 13 of the games so far ended in 10 score line You can barely hear anything if notcrdits fut rapidement httpcreditsfutcomI like this site  its so usefull and helpfullnba 2k17 mt httpvidaexterioresBreendablog13893Fantastic site you possess therenba 2k17 httpcomunidadproyectolatinorgblogview132130fifa17coinscomforttradeimprovementsarrivingmarch
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop cheapestfitflop australia store httpaustraliafitflopsiemillernetbuy fitflopfitflop discount httpwwwaustraliafitflopscomchristian louboutin pointed toe pumpchristian louboutin sale outlet httpcanadachristianlouboutinoutletblogspotcomSouth Africa itself are usually in group A with Mexico Uruguay and Spain Using the above 13 of the games so far ended in 10 score line You can barely hear anything if notcrdits fut rapidement httpcreditsfutcomI like this site  its so usefull and helpfullnba 2k17 mt httpvidaexterioresBreendablog13893Fantastic site you possess therenba 2k17 httpcomunidadproyectolatinorgblogview132130fifa17coinscomforttradeimprovementsarrivingmarch
-imported: true
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

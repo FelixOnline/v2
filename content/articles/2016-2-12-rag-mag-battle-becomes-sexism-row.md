@@ -4,16 +4,23 @@ title: >
 subtitle: >
   President speaks out as RAG week continues mag-less
 date: "2016-02-12 11:11:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5896"
 old_path: /news/5896/rag-mag-battle-becomes-sexism-row
 aliases:
  - /news/5896/rag-mag-battle-becomes-sexism-row
+imported: true
+comments:
+ - The Rag magazine was offensive but not sexist lets not get silly about thisAnyone have a link to the censored Rag MagNo its definitely not but Lucinda said it was As a result shes potentially made RAG lose 1500 in sponsorship Thats money that could have gone to charity Not to mention the fact that shes abused her own students and broken pretty much every union policy she cares to What a disgraceNo its definitely not but Lucinda said it was As a result shes potentially made RAG lose 1500 in sponsorship Thats money that could have gone to charity Not to mention the fact that shes abused her own students and broken pretty much every union policy she cares to What a disgraceWhere can we see a copy of this magazine So we can decide for ourselvesWhere can we see a copy of this magazine So we can decide for ourselveshttpimgurcomagZcEAHaving read the diary Im not sure how anyone could possibly construe it as sexistPerhaps its telling that the article doesnt even attem
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The Rag magazine was offensive but not sexist lets not get silly about thisAnyone have a link to the censored Rag MagNo its definitely not but Lucinda said it was As a result shes potentially made RAG lose 1500 in sponsorship Thats money that could have gone to charity Not to mention the fact that shes abused her own students and broken pretty much every union policy she cares to What a disgraceNo its definitely not but Lucinda said it was As a result shes potentially made RAG lose 1500 in sponsorship Thats money that could have gone to charity Not to mention the fact that shes abused her own students and broken pretty much every union policy she cares to What a disgraceWhere can we see a copy of this magazine So we can decide for ourselvesWhere can we see a copy of this magazine So we can decide for ourselveshttpimgurcomagZcEAHaving read the diary Im not sure how anyone could possibly construe it as sexistPerhaps its telling that the article doesnt even attem
-imported: true
 ---
 
 In this week’s FELIX, the Union President has spoken out on last week’s RAG mag controversy. Contents of the magazine, although technically not banned, caused the union to strongly advise RAG to dispose of the 1600 undistributed copies after the union had seen the contents. One page in particular was said to be “beyond the acceptable bounds of satire or mockery” and that further distribution would be considered “elevated harassment”.

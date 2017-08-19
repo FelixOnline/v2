@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Beneath the differences between Wittgenstein’s Tractatus-Logico Philosophicus and his Philosophical Investigations there is a more fundamental continuity between the texts. This article relies heavily on two books, Alain Badiou’s Wittgenstein’s Anti-Philosophy ...
 date: "2014-02-07 05:09:19 +0000"
+
 # Attributes from Felix Online V1
 id: "4360"
 old_path: /comment/4360/philsophical-investigations-
 aliases:
  - /comment/4360/philsophical-investigations-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Beneath the differences between Wittgenstein’s Tractatus-Logico Philosophicus and his Philosophical Investigations there is a more fundamental continuity between the texts. This article relies heavily on two books, Alain Badiou’s Wittgenstein’s Anti-Philosophy and Saul Kripke’s On Rules and Private Languages.

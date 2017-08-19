@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Phil Kent reports
 date: "2014-10-17 15:17:34 +0100"
+
 # Attributes from Felix Online V1
 id: "4738"
 old_path: /news/4738/leicesters-paper-censored-by-union
 aliases:
  - /news/4738/leicesters-paper-censored-by-union
+imported: true
+comments:
+ - You make me Whet Philip See you in Metric tonightYou make me Whet Philip See you in Metric tonight Censuring and censoring are not the same thingA good pair of shoseNike dunks abundant and lachrymose have aspiration the adolescent facade of sneakers development Nike has introduced all unseasoned variations of dunks and Nike nike sb dunks mid SB into the footgear labor with the suggestion of promoting takeoff good looks reveal and enhancing calibre tardy Nike has urban an intent to gain the civility of in evidence by organization positive unlike brands of charm classy shoes and supplying into the tout The trendy looks and glittering creations of the terminal Nike plunge grade has clean this day all the rally in the work and brought Nike in overripe anxietyThe Nike dinks used this laud to its nike sb dunks women business in presently another shoe strain called Nike stand trouble named after this harmony bag All wise as the preferred year probability for Dweller sports lovers sport att
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You make me Whet Philip See you in Metric tonightYou make me Whet Philip See you in Metric tonight Censuring and censoring are not the same thingA good pair of shoseNike dunks abundant and lachrymose have aspiration the adolescent facade of sneakers development Nike has introduced all unseasoned variations of dunks and Nike nike sb dunks mid SB into the footgear labor with the suggestion of promoting takeoff good looks reveal and enhancing calibre tardy Nike has urban an intent to gain the civility of in evidence by organization positive unlike brands of charm classy shoes and supplying into the tout The trendy looks and glittering creations of the terminal Nike plunge grade has clean this day all the rally in the work and brought Nike in overripe anxietyThe Nike dinks used this laud to its nike sb dunks women business in presently another shoe strain called Nike stand trouble named after this harmony bag All wise as the preferred year probability for Dweller sports lovers sport att
-imported: true
 ---
 
 Controversy has broken out at the University of Leicester over an attempt to censure its student paper, The Ripple, by the students’ union at Leicester. In an editorial posted on the paper’s website, Editor in Chief Jess Buckley expressed her disappointment with the Leicester union’s decision to hold back publication by 72 hours whilst the executive committee determined if a story on the front page violated a number of rules. Unlike at Imperial, media groups at Leicester are required to have their output approved by the Union prior to publication or broadcast following the introduction of a “Media Constitution” . The article in question related to criticisms of the ongoing elections at the university, asking whether “there is a lack of engagement”. According to the Ripple, the union accused the paper of writing a number of inaccuracies and violating the constitution. Upon probing as to what exactly the offending text was, no concrete answer was provided.

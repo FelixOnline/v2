@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ken Wu on how rubbish TV is these days...
 date: "2010-02-01 17:05:23 +0000"
+
 # Attributes from Felix Online V1
 id: "64"
 old_path: /comment/64/how-rubbish-tv-is-these-days
 aliases:
  - /comment/64/how-rubbish-tv-is-these-days
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Anyone who has lived in the new Eastside/Southside complex of halls in Princes Gardens (of which I am one!) would know that every kitchen comes with a flat screen plasma TV. To achieve superiority, this fact would be bragged about countless times in conversations with friends of other universities or even with the older years at Imperial.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nobody's horsing around
 date: "2012-02-23 21:36:22 +0000"
+
 # Attributes from Felix Online V1
 id: "2257"
 old_path: /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
 aliases:
  - /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
+imported: true
+comments:
+ - Well put Dan That makes me feel even better about my first three years of hunntig and last year too I had four successful years in between andIm still not buying into the idea of there being a broenpaikt in my life where I go from working to not working and relying on investments for my income  I have an associate I work with whos well into his 70 s still works as many hours as I do  Right now I work lots and take time off when neededdesired  Maybe in the future I will change that balance a bit but I dont intend to simply give up work  No way am I going to go fishing everyday or fill my entire day every day with household chores  Investments and savings can get me to the point where Im OK financially if Im unable to work  But for me its a disability policy for my later years not a work replacement program
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - Well put Dan That makes me feel even better about my first three years of hunntig and last year too I had four successful years in between andIm still not buying into the idea of there being a broenpaikt in my life where I go from working to not working and relying on investments for my income  I have an associate I work with whos well into his 70 s still works as many hours as I do  Right now I work lots and take time off when neededdesired  Maybe in the future I will change that balance a bit but I dont intend to simply give up work  No way am I going to go fishing everyday or fill my entire day every day with household chores  Investments and savings can get me to the point where Im OK financially if Im unable to work  But for me its a disability policy for my later years not a work replacement program
-imported: true
 ---
 
 It’s actually getting pretty tough to remember how many polo nationals I’ve been to these days. However, this year, with a new venue in the Midlands, we were expecting something a bit different and a bit special. With some stunning new club shirts courtesy of the extremely generous Rydges Hotel Kensington and the attached Polo Bar on Gloucester Road we felt confident that we were going to at least look the part; with marginally more practice as a team this year than on previous occasions we had fingers crossed for a strong finish.

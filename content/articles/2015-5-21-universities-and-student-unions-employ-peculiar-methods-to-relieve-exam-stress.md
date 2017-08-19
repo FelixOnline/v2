@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson finds out how students are relaxing during the exam period
 date: "2015-05-21 20:38:11 +0100"
+
 # Attributes from Felix Online V1
 id: "5551"
 old_path: /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
 aliases:
  - /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
+imported: true
+comments:
+ - What happened after the complaints We need to know Will there be any puppies and micropigs any time soon The exam stress is killing us right now wholesale sports jerseys wholesale sports jerseyscheeap UGGS boots cheap nba jerseys for sale UGGS factory outlet store onlinewhollesale sports jerseys Jessika whoesale sports jerseyswholesae sports jerseys wholesale sports jerseyscheap mario addison jerseys New Enggland Patriots Outlet Stor 1coachoutletcom Detroit Lions Jersey coachoutletcomCheap Authentic Spirts Jerseys New England Patriots Jersey Cheap Authentic Sports Jerseysdiscount uggs sale cheap jerseys us discount uggs saleHighly energetic article I liked that a lot Will there be a part 2light purple canada goose dames httpwwwacmelnlnlnllightpurplecanadagoosedames6690htmlI am in fact happy to glance at this website posts which includes plenty of helpful facts thanks for providing such statisticsugg ugg zwarte laarzen httptestnegrifirmancomitugguggzwartel
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What happened after the complaints We need to know Will there be any puppies and micropigs any time soon The exam stress is killing us right now wholesale sports jerseys wholesale sports jerseyscheeap UGGS boots cheap nba jerseys for sale UGGS factory outlet store onlinewhollesale sports jerseys Jessika whoesale sports jerseyswholesae sports jerseys wholesale sports jerseyscheap mario addison jerseys New Enggland Patriots Outlet Stor 1coachoutletcom Detroit Lions Jersey coachoutletcomCheap Authentic Spirts Jerseys New England Patriots Jersey Cheap Authentic Sports Jerseysdiscount uggs sale cheap jerseys us discount uggs saleHighly energetic article I liked that a lot Will there be a part 2light purple canada goose dames httpwwwacmelnlnlnllightpurplecanadagoosedames6690htmlI am in fact happy to glance at this website posts which includes plenty of helpful facts thanks for providing such statisticsugg ugg zwarte laarzen httptestnegrifirmancomitugguggzwartel
-imported: true
 ---
 
 Exam season is most definitely upon us, and this year more and more Universities and Student Unions are attempting to reduce students’ stress levels with a variety of bizarre initiatives ranging from Puppy Therapy to ball pits.

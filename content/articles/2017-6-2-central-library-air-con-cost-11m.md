@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Central Library spent more money in 2017 than it has over the last ten years
 date: "2017-06-02 12:47:27 +0100"
+
 # Attributes from Felix Online V1
 id: "6987"
 old_path: /news/6987/central-library-air-con-cost-11m
 aliases:
  - /news/6987/central-library-air-con-cost-11m
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It might have taken a freedom of information request but we found out how much the new Central Library air-con is going to cost. And while we were at it we thought we’d ask for the cost of every single refurbishment the Library has undergone since 2004. Because nobody keeps secrets from felix (and also because College is only requested by law to keep data for up to 12 years).

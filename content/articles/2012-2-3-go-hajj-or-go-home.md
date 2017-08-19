@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Taking a journey to the Heart of Islam
 date: "2012-02-03 10:46:10 +0000"
+
 # Attributes from Felix Online V1
 id: "2127"
 old_path: /arts/2127/go-hajj-or-go-home
 aliases:
  - /arts/2127/go-hajj-or-go-home
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I’d always thought writing opening paragraphs was hard. But no editorial challenge that faces us, here in the Felix office, comes anywhere close to the mammoth task taken on by the __British Museum__ (or, more truthfully, by curator Venetia Porter) in its latest exhibition, [_Hajj: Journey to the Heart of Islam_](http://www.britishmuseum.org/whats_on/exhibitions/hajj.aspx).

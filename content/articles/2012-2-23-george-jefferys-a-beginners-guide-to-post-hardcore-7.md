@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lesson 7: Meet Me In St. Louis
 date: "2012-02-23 21:37:10 +0000"
+
 # Attributes from Felix Online V1
 id: "2258"
 old_path: /music/2258/george-jefferys-a-beginners-guide-to-post-hardcore-7
 aliases:
  - /music/2258/george-jefferys-a-beginners-guide-to-post-hardcore-7
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A few of you may remember an article which appeared in Felix Music last term about a trampy man who played an acoustic gig on a boat. Well this man is about to have his Imperial fame replenished as this week I acquaint you with UK post-hardcore masterminds __Meet Me In St. Louis__.

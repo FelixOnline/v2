@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What is going on where you live?
 date: "2015-05-01 00:24:42 +0100"
+
 # Attributes from Felix Online V1
 id: "5479"
 old_path: /politics/5479/imperials-local-constituencies-explained
 aliases:
  - /politics/5479/imperials-local-constituencies-explained
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The majority of students at Imperial (especially those in halls) are concentrated in the four constituencies of Chelsea and Fulham, Kensington, Hammersmith, and Cities of London and Westminster. Felix takes a look at each of them below.

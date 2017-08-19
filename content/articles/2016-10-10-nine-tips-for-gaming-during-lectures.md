@@ -4,16 +4,22 @@ title: >
 subtitle: >
   'cause ten is just taking it too far
 date: "2016-10-10 12:21:40 +0100"
+
 # Attributes from Felix Online V1
 id: "6321"
 old_path: /games/6321/nine-tips-for-gaming-during-lectures-
 aliases:
  - /games/6321/nine-tips-for-gaming-during-lectures-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## 1

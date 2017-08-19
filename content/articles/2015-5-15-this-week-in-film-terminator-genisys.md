@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yes, that's the real title. No, that's not a misprint.
 date: "2015-05-15 12:10:26 +0100"
+
 # Attributes from Felix Online V1
 id: "5528"
 old_path: /film/5528/this-week-in-film-terminator-genisys
 aliases:
  - /film/5528/this-week-in-film-terminator-genisys
+imported: true
+comments:
+ - birkenstock arizona sandalsbirkenstock cheap httpbirkenstockaustraliablogspotcomchristian louboutin peep toeschristian louboutin sale canada httpcanadachristianlouboutinblogspotcomMany thanks extremely beneficial Will share website with my friendscsgo skins checker httpcostacirclecomcommunityforumtopic6894
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock arizona sandalsbirkenstock cheap httpbirkenstockaustraliablogspotcomchristian louboutin peep toeschristian louboutin sale canada httpcanadachristianlouboutinblogspotcomMany thanks extremely beneficial Will share website with my friendscsgo skins checker httpcostacirclecomcommunityforumtopic6894
-imported: true
 ---
 
 The marketing campaign for the latest reboot/revival of the _Terminator_ series continues rolling, with a new batch of character posters hitting the web this week.

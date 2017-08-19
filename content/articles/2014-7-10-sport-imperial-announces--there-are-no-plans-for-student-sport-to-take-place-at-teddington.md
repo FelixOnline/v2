@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In a news statement released today, Sport Imperial announced once and for all that, despite outcry from medics, the Teddington sports ground will no longer be used.
 date: "2014-07-10 13:13:08 +0100"
+
 # Attributes from Felix Online V1
 id: "4722"
 old_path: /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
 aliases:
  - /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
+imported: true
+comments:
+ - I did my undergrad at Imperial and now doing my PhD in Cambridge I cannot think of a place more disconnected from reality and the needs of students than Imperial Its just outrageous everything theyve done so far Threatening to close Evelyn Gardens Garden and Weeks Halls now the sports grounds the Grad Student facilities are close to nonexistent sense of community is rubbish the Life Sciences Restructure of 2011 was a joke the Department of Humanities has been ourageously cut Well done ImperialLocal newspapers in the Teddington area have reported for quite some time that the land is potentially to be used for a new secondary school Turing House despite local opposition Worth googling it Sadly I suspect that the fact that theyre announcing suspension of sport at the grounds might mean its a done deal but who knows perhaps student power may be able to exert some influence
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I did my undergrad at Imperial and now doing my PhD in Cambridge I cannot think of a place more disconnected from reality and the needs of students than Imperial Its just outrageous everything theyve done so far Threatening to close Evelyn Gardens Garden and Weeks Halls now the sports grounds the Grad Student facilities are close to nonexistent sense of community is rubbish the Life Sciences Restructure of 2011 was a joke the Department of Humanities has been ourageously cut Well done ImperialLocal newspapers in the Teddington area have reported for quite some time that the land is potentially to be used for a new secondary school Turing House despite local opposition Worth googling it Sadly I suspect that the fact that theyre announcing suspension of sport at the grounds might mean its a done deal but who knows perhaps student power may be able to exert some influence
-imported: true
 ---
 
 In a [news statement](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/sports/newssummary/news_9-7-2014-15-20-47) released today, Sport Imperial announced once and for all that, despite outcry from medics, the Teddington sports ground will no longer be used.

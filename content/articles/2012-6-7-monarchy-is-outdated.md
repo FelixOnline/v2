@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maybe it's time for a Republic
 date: "2012-06-07 19:46:04 +0100"
+
 # Attributes from Felix Online V1
 id: "2532"
 old_path: /comment/2532/monarchy-is-outdated
 aliases:
  - /comment/2532/monarchy-is-outdated
+imported: true
+comments:
+ - I can understand your sentiments but I do believe you may have overlooked a few points Firstly it is not so useful to generalise  each country is different The British Monarchy at present still has the potential to inspire people through acts of charity etc Maybe the younger Royals can do more to become role models  and that is something valuable to a country I hope especially because they are around longer than politicians so they can get involved in social causes Also I dont think that costing is a finicky numbers game I think the amount of money paid to the Royal Family should be weighed against the amount of revenue generated through tourist visits to Royal buildings etcSo why are you slagging off the British MonarchyApparently many think we should keep the monarchy because its tradition It doesnt at all represent the separation at birth creating a class society where your parents can give you such a massive advantage at the expense of those without such contacts  money etcIm not
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I can understand your sentiments but I do believe you may have overlooked a few points Firstly it is not so useful to generalise  each country is different The British Monarchy at present still has the potential to inspire people through acts of charity etc Maybe the younger Royals can do more to become role models  and that is something valuable to a country I hope especially because they are around longer than politicians so they can get involved in social causes Also I dont think that costing is a finicky numbers game I think the amount of money paid to the Royal Family should be weighed against the amount of revenue generated through tourist visits to Royal buildings etcSo why are you slagging off the British MonarchyApparently many think we should keep the monarchy because its tradition It doesnt at all represent the separation at birth creating a class society where your parents can give you such a massive advantage at the expense of those without such contacts  money etcIm not
-imported: true
 ---
 
 If you’ve been in the country for the past month or so, you undoubtedly will have heard about the Queen’s Jubilee and the great festivities that accompanied it. National holiday, extended weekend, parades and lots of flag-waving to celebrate the monarch’s sixty year reign. One thing that I was taken aback by was the scale of the whole thing; not by the lavishness and pomp, as I was expecting that considering how proud and wealthy this kingdom is and has been, but rather by how much everyone participated in the affair. As the nation ground to a halt, Union Jacks were flown everywhere and thousands if not millions gathered to celebrate across the globe. Faraway, and otherwise unrelated, countries covered the jubilee in great detail and everyone seemed to participate in wishing the Queen well. My Facebook feed constantly showed messages of support. My cynical side is quick to explain how this widespread approval might be motivated by the four-day holiday, but that aside, the celebrations seemed very earnest.

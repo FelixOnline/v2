@@ -4,16 +4,22 @@ title: >
 subtitle: >
   if you can’t love yourself how in the hell you gonna love somebody else
 date: "2017-03-10 14:16:10 +0000"
+
 # Attributes from Felix Online V1
 id: "6883"
 old_path: /sex/6883/self-love-
 aliases:
  - /sex/6883/self-love-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Toys for girls

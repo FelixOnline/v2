@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles explains how Young Vic’s Bull misses the target in places
 date: "2015-01-31 19:24:04 +0000"
+
 # Attributes from Felix Online V1
 id: "5175"
 old_path: /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
 aliases:
  - /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Three people enter. Two people leave. Anyone who is familiar with the BBC show _The Apprentice_, in which a collection of terminally unlikable corporate drones are paraded in front of the camera, will be familiar with this format; every week a contestant is sent packing, the grizzly tones of Sir Alan’s catchphrase “You’re fired” still ringing in their ears. In the __Young Vic’s__ latest production _Bull_, this format is brought to the stage, and we are presented with a similar dilemma.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Your hate should be aimed at ITV, not me
 date: "2011-11-03 21:39:46 +0000"
+
 # Attributes from Felix Online V1
 id: "1690"
 old_path: /comment/1690/a-response-to-all-of-the-critics
 aliases:
  - /comment/1690/a-response-to-all-of-the-critics
+imported: true
+comments:
+ - Ive still not seen this television programme  Not only is there the review in Felix but Alan Davies was bidden to watch it on Ive Never Seen Star Wars Radio 4 currently available on iPlayer httpwwwbbccoukiplayerepisodeb014r5qhIve_Never_Seen_Star_Wars_Series_4_Alan_Davies  but as no one has anything kind to say about it I am not sure what is to be gained by watching it  Can anyone help with this
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ive still not seen this television programme  Not only is there the review in Felix but Alan Davies was bidden to watch it on Ive Never Seen Star Wars Radio 4 currently available on iPlayer httpwwwbbccoukiplayerepisodeb014r5qhIve_Never_Seen_Star_Wars_Series_4_Alan_Davies  but as no one has anything kind to say about it I am not sure what is to be gained by watching it  Can anyone help with this
-imported: true
 ---
 
 I must say; I was rather taken aback by the hullabaloo caused by [my (somewhat overemphasised) opinions](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/) when I reviewed the Jeremy Kyle show a few weeks ago, and for that, I extend my apologies to anyone who was offended by it. I have never professed to be any good at this writing malarkey – evidently my tongue-in-cheek style and exaggeration were not recognised by some people. Oh well!

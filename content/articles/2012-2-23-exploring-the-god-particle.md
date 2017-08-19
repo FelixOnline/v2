@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Michele Tonutti explores the Large Hadron Collider’s main experiment
 date: "2012-02-23 20:54:06 +0000"
+
 # Attributes from Felix Online V1
 id: "2246"
 old_path: /science/2246/exploring-the-god-particle
 aliases:
  - /science/2246/exploring-the-god-particle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If the [God Particle](http://www.higgs-boson.org/) is real, 2012 will be the year of its discovery. Scientists at CERN have been searching for proof of the existence Higgs boson since 2008, when the construction of the Large Hadron Collider finally came to an end. Now, after four years, the LHC – a 27-kilometre ring of superconducting magnets located in Geneva, Switzerland – is ready to take up a new challenge. On 13 February, CERN announced that in the next year the Collider will fire proton rays at an energy of 4 TeV. Until now, the LHC has run at a beam energy of ‘only’ 1.18 TeV (Physics fun fact: 1TeV is about the kinetic energy of a flying mosquito). Up until 2009, the highest energy used for this kind of experiment was less than 1 TeV; this record was held by the Tevatron accelerator at the Fermi Laboratory in Illinois, USA.

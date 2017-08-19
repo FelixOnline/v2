@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A study has revealed the reason why the East Antarctic Ice Shelf is thinning so rapidly
 date: "2015-03-19 23:46:47 +0000"
+
 # Attributes from Felix Online V1
 id: "5409"
 old_path: /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
 aliases:
  - /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
+imported: true
+comments:
+ - wow think how glaciers will be in 700 yearsfitflops sale aufitflop buy online httpfitflopsaublogspotcomfitflop shopsbuy cheap fitflops httpfitflopsaublogspotcomhttpwwwcoachfactorysuscom  coach factory    httpwwwmichaelkorsoutletxyz  michael kors outlet online    httpwwwwholesaleoakleysunglassescom  oakley sunglasses wholesale    httpwwwrboutlet2015net  ray ban outlet   cheap ray ban sunglasses httpwwwrboutlet2015nethttpwwwoutletcoachcc  coach outlet    httpwwwcheapraybansalesnet  cheap ray ban sunglasses    httpoakleyoutletstoreuscom  oakley sunglasses    httpwwwraybanussalescom  ray ban sunglasses outlet   coach factory outlet httpwwwcoachusaoutletnethttpwwwcoachfactoryoutletxyz  coach factory outlet    httpwwwofficialmkoutletcc  michael kors outlet    httpwwwcheapoakleysxyz  oakley sunglasses wholesale    httpraybanoutletkenyanproductscom  cheap ray ban sunglasses
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - wow think how glaciers will be in 700 yearsfitflops sale aufitflop buy online httpfitflopsaublogspotcomfitflop shopsbuy cheap fitflops httpfitflopsaublogspotcomhttpwwwcoachfactorysuscom  coach factory    httpwwwmichaelkorsoutletxyz  michael kors outlet online    httpwwwwholesaleoakleysunglassescom  oakley sunglasses wholesale    httpwwwrboutlet2015net  ray ban outlet   cheap ray ban sunglasses httpwwwrboutlet2015nethttpwwwoutletcoachcc  coach outlet    httpwwwcheapraybansalesnet  cheap ray ban sunglasses    httpoakleyoutletstoreuscom  oakley sunglasses    httpwwwraybanussalescom  ray ban sunglasses outlet   coach factory outlet httpwwwcoachusaoutletnethttpwwwcoachfactoryoutletxyz  coach factory outlet    httpwwwofficialmkoutletcc  michael kors outlet    httpwwwcheapoakleysxyz  oakley sunglasses wholesale    httpraybanoutletkenyanproductscom  cheap ray ban sunglasses
-imported: true
 ---
 
 Scientists from Imperial College London have revealed that the melting and thinning of Totten Glacier in East Antarctica is being accelerated by a valley underneath the ice shelf channelling warm water to the base of the glacier.

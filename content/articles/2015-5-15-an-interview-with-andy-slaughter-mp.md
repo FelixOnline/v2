@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken interviews the Labour MP who is representing your views in Hammersmith
 date: "2015-05-15 12:15:16 +0100"
+
 # Attributes from Felix Online V1
 id: "5529"
 old_path: /politics/5529/an-interview-with-andy-slaughter-mp
 aliases:
  - /politics/5529/an-interview-with-andy-slaughter-mp
+imported: true
+comments:
+ - Shephards BushGlad I didnt vote for him So arrogantLib dems totally dishonest to increase tuition fees having said they wouldnt But labour did just that thats not the issue were talking about the lib dems hereGood try What some people are mistaking for arrogance is genuine intelligence Best constituency MP Ive ever lived under  social housing opposition to free schools and dismembering of the NHS are his top priorities and hes out there every week fighting for them Check Hansard and the local press if you need convincing  hes forthright about what he believes and then he goes and fights for it50 of the vote biatchesbest place to buy mac makeup Hot Sale Online QNAPE 647  Stanovi Izvor Mac Brun Eyeshadow With Lowest Price BWYAF 192  Pokoutn festival mac foundation nw15 The Latest HYjDqa4zR3 mac makeup range You Will Be Amazed At The Discounts That We Offer 0LO2N 525  Chameleons101 Ombroorg  fluid for mac Unequal In Performance KUQLO 451 Quang cao ngoai
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Shephards BushGlad I didnt vote for him So arrogantLib dems totally dishonest to increase tuition fees having said they wouldnt But labour did just that thats not the issue were talking about the lib dems hereGood try What some people are mistaking for arrogance is genuine intelligence Best constituency MP Ive ever lived under  social housing opposition to free schools and dismembering of the NHS are his top priorities and hes out there every week fighting for them Check Hansard and the local press if you need convincing  hes forthright about what he believes and then he goes and fights for it50 of the vote biatchesbest place to buy mac makeup Hot Sale Online QNAPE 647  Stanovi Izvor Mac Brun Eyeshadow With Lowest Price BWYAF 192  Pokoutn festival mac foundation nw15 The Latest HYjDqa4zR3 mac makeup range You Will Be Amazed At The Discounts That We Offer 0LO2N 525  Chameleons101 Ombroorg  fluid for mac Unequal In Performance KUQLO 451 Quang cao ngoai
-imported: true
 ---
 
 The Labour politician Andy Slaughter was elected as Member of Parliament for Hammersmith in 2010, and was re-elected last week with 50% of the vote. Previously the MP for Ealing, Acton and Shepherd’s Bush from 2005 to 2010, Slaughter has been the Shadow Justice Minister since 2010, serving on the Labour Party’s front bench. Joshua Renken interviewed Andy to talk about constituency matters and national politics.

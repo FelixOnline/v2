@@ -4,16 +4,23 @@ title: >
 subtitle: >
   War is waged on the astroturf and scores are settled by the stick
 date: "2012-02-16 23:32:15 +0000"
+
 # Attributes from Felix Online V1
 id: "2221"
 old_path: /sport/2221/hockey-pre-varsity-tension-builds
 aliases:
  - /sport/2221/hockey-pre-varsity-tension-builds
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __IC Men’s 2s__ – 1

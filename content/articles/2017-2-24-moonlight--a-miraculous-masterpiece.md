@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Barry Jenkins’ tale of the coming-of-age of a gay black man is just as good as you’ve heard: Moonlight is a miraculous piece of cinema, one that tells the stories so often untold by Hollywood
 date: "2017-02-24 14:14:33 +0000"
+
 # Attributes from Felix Online V1
 id: "6817"
 old_path: /film/6817/moonlight--a-miraculous-masterpiece
 aliases:
  - /film/6817/moonlight--a-miraculous-masterpiece
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In Barry Jenkins’ masterful film Moonlight, the coming of age of a gay, black man is compressed down into a mere 111 minutes, distilled for your viewing pleasure.

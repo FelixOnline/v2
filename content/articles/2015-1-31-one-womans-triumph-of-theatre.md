@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Max Falkenberg heads down to the Tricycle Theatre to check out Happy Birthday Without You
 date: "2015-01-31 18:42:16 +0000"
+
 # Attributes from Felix Online V1
 id: "5166"
 old_path: /arts/5166/one-womans-triumph-of-theatre
 aliases:
  - /arts/5166/one-womans-triumph-of-theatre
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Smart, sexy and absurd. One woman shows do not get any better than this. For an hour of complete hilarity, Violet Fox recounts her struggles to be an ever more extraordinary artist for her exceptionally ordinary audience.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Adam Forsyth looks in-depth at Ice Cream Sandwich and its new flagship device
 date: "2011-11-03 18:21:08 +0000"
+
 # Attributes from Felix Online V1
 id: "1649"
 old_path: /tech/1649/the-next-iteration-of-androids-future
 aliases:
  - /tech/1649/the-next-iteration-of-androids-future
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - fa608
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A fortnight ago saw Google team up with Samsung for the much anticipated launch of the latest iteration of Android, its popular smartphone OS, alongside the Galaxy Nexus, the latest and greatest Google branded hardware to run it on. Held in Hong Kong, the keynote swiftly began with Samsung taking to the stage to discuss the Galaxy Nexus. It’s not the first time the two companies have partnered together to release a smartphone, as last year they unveiled the Nexus S.

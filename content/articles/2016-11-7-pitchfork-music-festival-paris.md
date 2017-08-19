@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It wasn't too bad actually.
 date: "2016-11-07 17:34:50 +0000"
+
 # Attributes from Felix Online V1
 id: "6412"
 old_path: /music/6412/pitchfork-music-festival-paris
 aliases:
  - /music/6412/pitchfork-music-festival-paris
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Avery bad presentiment seized us when we stepped into Grande halle de la Villette : one pint of Heineken cost seven euros and it seemed like Heineken was the only sponsor of the event. We went to see Flavien Berger, a French musician that neither of us had listened to before, but he somehow became the surprise of the day. His deep raspy voice melded with the funky beats and spaced out synths in an eccentric yet coherent way. As my friend Alicia, who just moved to Paris, got excited about the successful exploration of French music, we gradually forgot about booze issues and became confident that the level of soberness would not affect the experience at all.

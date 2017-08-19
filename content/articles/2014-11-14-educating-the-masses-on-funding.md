@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alex Savell and Andrew Tranter explain Higher Education Funding and how you can help in shaping its future
 date: "2014-11-14 20:36:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4871"
 old_path: /features/4871/educating-the-masses-on-funding
 aliases:
  - /features/4871/educating-the-masses-on-funding
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Higher Education Funding (HEF) is certainly not sexy. Like British Politics it has all the charisma of your average British politician. But it is important. It’s important because defining the future of how Universities receive funding is something that will affect thousands of young people who (for the most part) can’t vote in the upcoming UK General Election next May, and yet their lives could be profoundly altered by the next government’s stance on this issue.

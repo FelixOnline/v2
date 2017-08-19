@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Over £7000 raised for RAG from bargain bikes
 date: "2011-11-03 19:29:24 +0000"
+
 # Attributes from Felix Online V1
 id: "1652"
 old_path: /news/1652/records-broken-at-annual-bike-auction
 aliases:
  - /news/1652/records-broken-at-annual-bike-auction
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This Monday saw the Union conduct a bike auction in Beit Quad, raising over £7000 for RAG; a new record. 106 bikes and one scooter were up for sale, having been left chained to railings and bike racks around campus, presumably abandoned by their owners.

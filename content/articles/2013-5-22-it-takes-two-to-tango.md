@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Men must be included in feminism
 date: "2013-05-22 14:24:51 +0100"
+
 # Attributes from Felix Online V1
 id: "3595"
 old_path: /comment/3595/it-takes-two-to-tango-
 aliases:
  - /comment/3595/it-takes-two-to-tango-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The word feminism itself does not include men into the equation. Yet, men should be just as active as women in the movement towards gender equality. This should be the accepted norm, which it appears to be at university, as proven by the high percentage of guys involved in the Feminist society. Certain aspects of feminism should perhaps be solely dominated by women; but the majority of it must equally involve men in addressing gender inequalities. If society is to act, think and behave differently it will only occur through both sexes bringing about change. We women cannot make change alone for it always takes two to tango.

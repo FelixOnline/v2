@@ -4,16 +4,24 @@ title: >
 subtitle: >
   How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5048"
 old_path: /news/5048/death-of-professor-grimm-the-world-reacts
 aliases:
  - /news/5048/death-of-professor-grimm-the-world-reacts
+imported: true
+comments:
+ - 8C40VQ httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomtTBKFm httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomKFT41H httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 8C40VQ httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomtTBKFm httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomKFT41H httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 After the initial uproar amongst academics caused by the publication of Stefan Grimm’s damning posthumous email, discussion has spread amongst academics outside the English-speaking scientific community.

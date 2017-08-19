@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Umar Nasser talks about the controversy over "that" film over summer
 date: "2012-10-05 12:57:28 +0100"
+
 # Attributes from Felix Online V1
 id: "2619"
 old_path: /comment/2619/repel-evil-with-what-is-best
 aliases:
  - /comment/2619/repel-evil-with-what-is-best
+imported: true
+comments:
+ - Excellent article which summarizes the recent events about the vile antiIslam movie I hope the lecture will delve into the allegations that are presented in the movie I plan to come to AMSA lecture and hopefully will learn a lot Many thanks for doing something like this We should work toward reconciliation and understanding rather than division and hatredVery enjoyable read Regardless of our loves and dislikes this is the way that people of intellect tolerance and culture should argue their point of view Through reasoned argument And well done to Felix for encouraging thoughtful debate  An amateur group of Islamic film makers have posted a video on YouTube which mocks Christianity and Jesus ChristIt is believed to be so offensive that St Peters church in Shrewsbury have postponed their tea and cake morning until next Wednesday and Dorothy Green from Margate has written in to Points of viewWhen will the madness end
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Excellent article which summarizes the recent events about the vile antiIslam movie I hope the lecture will delve into the allegations that are presented in the movie I plan to come to AMSA lecture and hopefully will learn a lot Many thanks for doing something like this We should work toward reconciliation and understanding rather than division and hatredVery enjoyable read Regardless of our loves and dislikes this is the way that people of intellect tolerance and culture should argue their point of view Through reasoned argument And well done to Felix for encouraging thoughtful debate  An amateur group of Islamic film makers have posted a video on YouTube which mocks Christianity and Jesus ChristIt is believed to be so offensive that St Peters church in Shrewsbury have postponed their tea and cake morning until next Wednesday and Dorothy Green from Margate has written in to Points of viewWhen will the madness end
-imported: true
 ---
 
 Make no mistake: “The Innocence of Muslims” is a vile film, and an insult to the Founder of Islam and Muslims the world over. Yet the response to it across the Muslim world has done far more to tarnish the name of Islam than any short film ever could.

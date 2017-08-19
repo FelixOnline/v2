@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-18 11:56:40 +0000"
+
 # Attributes from Felix Online V1
 id: "6067"
 old_path: /film/6067/the-witch
 aliases:
  - /film/6067/the-witch
+imported: true
+comments:
+ - I think she looks amazingI love the shoes although even just going with a silver shoe would have upped the ante a little bit Im becoming a fan of Jenny Packham evening gowns I saw a few women wearing them at the Oscars this year and really liked them cartier copy love bracelets urlhttpwwwthislovebanglecncartier copy love braceletsurlcartierlovejesduas So many beautiful women when will the Nigerian men catch up replique cartier rose gold love bracelet
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think she looks amazingI love the shoes although even just going with a silver shoe would have upped the ante a little bit Im becoming a fan of Jenny Packham evening gowns I saw a few women wearing them at the Oscars this year and really liked them cartier copy love bracelets urlhttpwwwthislovebanglecncartier copy love braceletsurlcartierlovejesduas So many beautiful women when will the Nigerian men catch up replique cartier rose gold love bracelet
-imported: true
 ---
 
 The concept of the witch is an ancient one. Present since time immemorial, examples of witchcraft can be found all across the globe, from the Maori people’s belief in _makutu_, to the _kitsune-tsukai_ of Japan. Even today, witches play a prominent role in society: just look at the phrase ‘Ditch the Witch’, used a few years ago by supporters of Tony Abbott against the then-incumbent Australian PM Julia Gillard. The witch has come to stand for a fear of female agency and power, and nowhere is this more apparent than in Robert Eggers’ directorial debut, _The Witch_, a slow-burning horror that creeps into your subconscious like tendrils of mist.

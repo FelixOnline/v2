@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman reports on the march that spread through the city on Wednesday
 date: "2015-05-29 01:10:34 +0100"
+
 # Attributes from Felix Online V1
 id: "5580"
 old_path: /news/5580/anti-austerity-protests-take-place-in-central-london
 aliases:
  - /news/5580/anti-austerity-protests-take-place-in-central-london
+imported: true
+comments:
+ - Hadnt realised there was anyone else from IC there Would have said helloAs you say that theyve managed to push through these cuts under the balancing the books narrative is an outrageous example of economic illiteracy and purely ideological in aim Even their neoliberal cronies at the IMF admitted austerity was a failed policygroup of protestors who encountered UKIP MP Douglas Carswell outside St James Park The crowd jeered and swarmed Mr Carswell shouting racist racistThough I dont count myself among them these twats give the seriousminded left who are sitting quietly at home a shameful name and imageMr Carswell won a seat fair and square the majority of Clactoners voted for himTheres a large intersection between these protestors and those that want  more proportional representation  which would give more seats to UKIPAs for get the Tories out its just embarrassing Even if you dont like the constituencysweep the Conservative party has 36
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hadnt realised there was anyone else from IC there Would have said helloAs you say that theyve managed to push through these cuts under the balancing the books narrative is an outrageous example of economic illiteracy and purely ideological in aim Even their neoliberal cronies at the IMF admitted austerity was a failed policygroup of protestors who encountered UKIP MP Douglas Carswell outside St James Park The crowd jeered and swarmed Mr Carswell shouting racist racistThough I dont count myself among them these twats give the seriousminded left who are sitting quietly at home a shameful name and imageMr Carswell won a seat fair and square the majority of Clactoners voted for himTheres a large intersection between these protestors and those that want  more proportional representation  which would give more seats to UKIPAs for get the Tories out its just embarrassing Even if you dont like the constituencysweep the Conservative party has 36
-imported: true
 ---
 
 Anti-austerity protests took place in London on Wednesday, with demonstrators taking to the streets alongside the Queen’s Speech in the newly elected Parliament.

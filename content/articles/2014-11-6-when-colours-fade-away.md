@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chanon Wongs atayanont discusses the effects of depression how it feels
 date: "2014-11-06 20:22:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4788"
 old_path: /welfare/4788/when-colours-fade-away
 aliases:
  - /welfare/4788/when-colours-fade-away
+imported: true
+comments:
+ - httpbirkenstocksaleaustraliablogspotcomcheapest birkenstock sandals httpbirkenstocksaleaustraliablogspotcommayari birkenstockbirkenstock australia clearance httpbirkenstocksaleaustraliablogspotcomchristian louboutin shoes outletchristian louboutin online outlet httpchristianlouboutincanadaoutletblogspotcomlouboutin wedding shoeschristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomGreat web website It looks extremely good Sustain the helpful jobcs go skins credit card httpmadden15coinsguideloftercompost1d3e1fe4_a62d298Many thanks this site is extremely usefulcs go skins by price httpwwwkoledzyzwojskaplobrazhowmakecoins2k16mtYouve gotten fantastic thing on this websiteNFL 17 httpkoolkidstableorgforumthread30fifacoinshelpsitbeanexcellentPassion the site very individual pleasant and great deals to seemadden 17 coins httpwwwwestechcomputerscomforumevents338maddennflcoinstorontovid
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpbirkenstocksaleaustraliablogspotcomcheapest birkenstock sandals httpbirkenstocksaleaustraliablogspotcommayari birkenstockbirkenstock australia clearance httpbirkenstocksaleaustraliablogspotcomchristian louboutin shoes outletchristian louboutin online outlet httpchristianlouboutincanadaoutletblogspotcomlouboutin wedding shoeschristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomGreat web website It looks extremely good Sustain the helpful jobcs go skins credit card httpmadden15coinsguideloftercompost1d3e1fe4_a62d298Many thanks this site is extremely usefulcs go skins by price httpwwwkoledzyzwojskaplobrazhowmakecoins2k16mtYouve gotten fantastic thing on this websiteNFL 17 httpkoolkidstableorgforumthread30fifacoinshelpsitbeanexcellentPassion the site very individual pleasant and great deals to seemadden 17 coins httpwwwwestechcomputerscomforumevents338maddennflcoinstorontovid
-imported: true
 ---
 
 This week, let’s move on from anxiety to the more cheerful topic of depression. To the sufferers, it is the worst feeling in the world. But for those who have never experienced it, it is hard to truly understand how unpleasant or disruptive it is, so this article will try to explain how it feels.

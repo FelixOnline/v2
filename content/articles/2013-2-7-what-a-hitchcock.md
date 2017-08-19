@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Only two stars for The Girl from John Park
 date: "2013-02-07 22:56:00 +0000"
+
 # Attributes from Felix Online V1
 id: "3248"
 old_path: /film/3248/what-a-hitchcock
 aliases:
  - /film/3248/what-a-hitchcock
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Tippi Hedren is not in the least bit inhibited when it comes to talking about the relationship she had with director Alfred Hitchcock. Starring in two of his films The Birds and Marnie, Hedren got the first-hand experienceof the eccentric director, and claims she was subjected to continuous harsh, unfair treatment and cruelty under a genius, brilliant director who had a rather unhealthy obsession for the rising starlet. These claims, of course, come years after his death, after Hedren spoke warmly of the director whilst he was receiving his American Film Institute’s Lifetime Achievement Award, claims that have also been refuted by other actresses (Kim Novak, Eva Marie Saint) who had also worked closely with him. So the degree of authenticity of her accusations is difficult to judge no doubt, but there is also a believable amount of substance here to make for a potentially intriguing movie. That there were no sexual harassment laws back in the day to protect working actresses supposedly prevented Hedren from taking much action. And here is what should be described as a partially fictionalised account of how Hedren became but ultimately declined the role of becoming Hitchcock’s next “Girl.”

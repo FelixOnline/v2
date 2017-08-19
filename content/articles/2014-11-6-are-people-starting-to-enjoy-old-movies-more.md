@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Muni Wen ponders the revival of retro in modern cinema
 date: "2014-11-06 18:16:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4761"
 old_path: /comment/4761/are-people-starting-to-enjoy-old-movies-more
 aliases:
  - /comment/4761/are-people-starting-to-enjoy-old-movies-more
+imported: true
+comments:
+ - pietra fitflopfitflop in singapore httpfitflopsalesingapore2blogspotcomfitflop australia salefitflop australia outlet httpfitflopsaublogspotcombuy cheap birkenstocksbirkenstock outlet online shop httpbirkenstockaustralia2013blogspotcombirkenstocks clearancebirkenstock outlet online shop httpbirkenstockaustraliamallscomScrapped that plan and played defense the next five games winning four of them It is a unique indisputable fact that some players appreciate among others dislike For example the purpose is worth a many pointfifa 16 hack httpcreditsfutcomcheap christian louboutin pumpschristian louboutin online store httpcanadachristianlouboutinblogspotcomchristian louboutin rolandochristian louboutin online httpchristianlouboutincanadaoutletblogspotcomI was just looking at your Are people starting to enjoy old movies more  Comment  Felix Online site and see that your site has the potential to become very popular I just want to tell you In cas
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - pietra fitflopfitflop in singapore httpfitflopsalesingapore2blogspotcomfitflop australia salefitflop australia outlet httpfitflopsaublogspotcombuy cheap birkenstocksbirkenstock outlet online shop httpbirkenstockaustralia2013blogspotcombirkenstocks clearancebirkenstock outlet online shop httpbirkenstockaustraliamallscomScrapped that plan and played defense the next five games winning four of them It is a unique indisputable fact that some players appreciate among others dislike For example the purpose is worth a many pointfifa 16 hack httpcreditsfutcomcheap christian louboutin pumpschristian louboutin online store httpcanadachristianlouboutinblogspotcomchristian louboutin rolandochristian louboutin online httpchristianlouboutincanadaoutletblogspotcomI was just looking at your Are people starting to enjoy old movies more  Comment  Felix Online site and see that your site has the potential to become very popular I just want to tell you In cas
-imported: true
 ---
 
 It was the sort of sunny afternoon when girls put on floral skirts and pin their hair up. As I floppily moved my mouse to click on a link someone had just shared, my eyes widened. It was a list called “Upcoming Movies 2015”, and there were many names that made my heart leap in familiarity. I saw SpongeBob, Cinderella, Peanutws, Star Wars, and loads of other old friends who suddenly look back at me from the foreseeable future. My first thought: 2015 is going to be a fun year. Second thought: are people starting to appreciate old movies more and more?

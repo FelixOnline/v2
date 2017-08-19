@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Was Shakespeare a fraud?
 date: "2011-11-17 22:07:13 +0000"
+
 # Attributes from Felix Online V1
 id: "1791"
 old_path: /film/1791/to-believe-or-not-to-believe
 aliases:
  - /film/1791/to-believe-or-not-to-believe
+imported: true
+comments:
+ - Felix somehow manegad But he was not ready and he was not in charge He manegad to get out of the flatspin because he trusted his feelings and found the way outHe is talented but he was luckyThis is a good example of the dangers of getting interfering interests mixed with extreme sports
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Felix somehow manegad But he was not ready and he was not in charge He manegad to get out of the flatspin because he trusted his feelings and found the way outHe is talented but he was luckyThis is a good example of the dangers of getting interfering interests mixed with extreme sports
-imported: true
 ---
 
 __Anonymous__

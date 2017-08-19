@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC Debating Society are always up for an argument. Unfortunately, this week, they got sidetracked for two hours debating the meaning of debates. Then they started arguing about if they were even really there or not. Luckily, they got round to debating Greece as well.
 date: "2011-12-01 21:37:50 +0000"
+
 # Attributes from Felix Online V1
 id: "1898"
 old_path: /comment/1898/should-the-greek-economy-be-allowed-to-fail
 aliases:
  - /comment/1898/should-the-greek-economy-be-allowed-to-fail
+imported: true
+comments:
+ - Helloooooo Aneebodee homeNopeYall gotta be thare ifn yall is sayin nopeNopeYall aint comin outNopeWahl wassup Gotza bad feilen like thares gonna be a chainreactshun Aint fownd nobodee can say whassupWahl it aint usn folksies We aint homeYall is shittin Yall is home ifn yall is acallin backstomeWe be uhechoLordy Aint so Yall aint sayin waht I do be sayinLordy Aint so Yall aint sayin waht I do be sayinDobejesus I gotta gutfeelin thisn is itDobejesus I gotta gutfeelin thisn is itShut yur pietrapShut yur pietrapDangdabbit I be off to the Otiss Gonna crack uh Bud with my stew
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Helloooooo Aneebodee homeNopeYall gotta be thare ifn yall is sayin nopeNopeYall aint comin outNopeWahl wassup Gotza bad feilen like thares gonna be a chainreactshun Aint fownd nobodee can say whassupWahl it aint usn folksies We aint homeYall is shittin Yall is home ifn yall is acallin backstomeWe be uhechoLordy Aint so Yall aint sayin waht I do be sayinLordy Aint so Yall aint sayin waht I do be sayinDobejesus I gotta gutfeelin thisn is itDobejesus I gotta gutfeelin thisn is itShut yur pietrapShut yur pietrapDangdabbit I be off to the Otiss Gonna crack uh Bud with my stew
-imported: true
 ---
 
 __Yes – James Clough__

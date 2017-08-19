@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fiona Hartley finds it difficult to ignore a golden opportunity for puns
 date: "2013-11-01 09:45:20 +0000"
+
 # Attributes from Felix Online V1
 id: "3975"
 old_path: /science/3975/apparently-money-does-grow-on-trees
 aliases:
  - /science/3975/apparently-money-does-grow-on-trees
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - frh10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "frh10"
 author_name: "Fiona Hartley"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Money doesn’t grow on trees, said every person ever, but it turns out that isn’t entirely accurate. There’s gold in them thar hills, or rather, in them thar trees. Scientists have struck gold – surprisingly in the leaves, twigs and bark of eucalyptus trees in Western Australia.

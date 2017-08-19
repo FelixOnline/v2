@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sci-Fi soc tell us about their exciting events
 date: "2014-01-17 04:34:07 +0000"
+
 # Attributes from Felix Online V1
 id: "4258"
 old_path: /features/4258/free-books-and-other-events-from-sci-fi-soc
 aliases:
  - /features/4258/free-books-and-other-events-from-sci-fi-soc
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What could be better than curling up with a good book? That’s right, curling up with a good book that you got for free! That’s why the Science Fiction, Fantasy and Gothic Horror Society is bringing back our hugely popular Book Blind Date event. Last October we found new homes for over fifty great books and this term it’s all going to be even bigger and better.

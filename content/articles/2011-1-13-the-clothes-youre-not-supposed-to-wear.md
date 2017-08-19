@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Royal Academy springs an esoteric jumble to get you thinking, until the end of January
 date: "2011-01-13 19:19:18 +0000"
+
 # Attributes from Felix Online V1
 id: "563"
 old_path: /arts/563/the-clothes-youre-not-supposed-to-wear
 aliases:
  - /arts/563/the-clothes-youre-not-supposed-to-wear
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - rm1509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rm1509"
 author_name: "Roxanne Middleton"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 High fashion is not like anything you know or have seen in normal society. What is its link to the fashion worn by the ordinary clothes-wearing public? I have no idea. Images of beautiful women made bizarre by face paint and freakish garments as they strut down the catwalk (which may or may not be underwater/on fire/an enormous chessboard) are the manifestation of this incredibly profitable industry. However, the Royal Academy is not Vogue magazine, and this show is not a haute-couture runway. Well thank goodness for that.

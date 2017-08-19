@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews two highly-anticipated Christmas specials
 date: "2014-01-17 04:17:51 +0000"
+
 # Attributes from Felix Online V1
 id: "4254"
 old_path: /tv/4254/the-best-of-festive-tv
 aliases:
  - /tv/4254/the-best-of-festive-tv
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 SHERLOCK

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Guy Needham reviews The English Patient, a handsome, well-acted, and Oscar-winning picture that retains timeless appeal
 date: "2012-02-03 17:05:35 +0000"
+
 # Attributes from Felix Online V1
 id: "2134"
 old_path: /film/2134/remembering-a-classic
 aliases:
  - /film/2134/remembering-a-classic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __The English Patient__

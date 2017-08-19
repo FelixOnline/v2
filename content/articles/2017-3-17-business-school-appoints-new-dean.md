@@ -4,16 +4,23 @@ title: >
 subtitle: >
   *Dean-dong* There’s a new guy in town
 date: "2017-03-17 13:07:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6899"
 old_path: /news/6899/business-school-appoints-new-dean
 aliases:
  - /news/6899/business-school-appoints-new-dean
+imported: true
+comments:
+ - Youre very eloquentcheap albion online gold httpwwwcokoyescomblog212096trickster039sstartingpointalongwithitsoverviewfdpsE28099tricksterit is a very good weblog and that i like it very muchBest Site to Buy Cheapest madden mobile 17 coins httpwwwmaddenstorecomThe youre really talented pokemonbux leading pokemon go rare pokemon seller httpwwwpokemonbuxcomProud of you cheap albion online gold httpalbiononlineangelfirecomalbiononlinehtml
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre very eloquentcheap albion online gold httpwwwcokoyescomblog212096trickster039sstartingpointalongwithitsoverviewfdpsE28099tricksterit is a very good weblog and that i like it very muchBest Site to Buy Cheapest madden mobile 17 coins httpwwwmaddenstorecomThe youre really talented pokemonbux leading pokemon go rare pokemon seller httpwwwpokemonbuxcomProud of you cheap albion online gold httpalbiononlineangelfirecomalbiononlinehtml
-imported: true
 ---
 
 Imperial College Business School appointed a new Dean this week, Professor Francisco Veloso. Veloso takes on the position in August after a year of temporary leadership from Professor Nelson Phillips, who held the role of Acting Dean after the previous Dean (Professor G. ‘Anand’ Anandalingam) stepped down last summer.

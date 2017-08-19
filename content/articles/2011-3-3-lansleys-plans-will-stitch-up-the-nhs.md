@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With cost the driving factor, quality of care will suffer
 date: "2011-03-03 21:06:46 +0000"
+
 # Attributes from Felix Online V1
 id: "1020"
 old_path: /comment/1020/lansleys-plans-will-stitch-up-the-nhs
 aliases:
  - /comment/1020/lansleys-plans-will-stitch-up-the-nhs
+imported: true
+comments:
+ - its extraordinary to determine a terrific blog like this one todaynot surprisingly appreciate your website and you need to confirm the spelling upon tibetan jewelry a number of your posts Many of themare generally rife havingspellingdifficulties and that i think it isincrediblyWow Great tihiknng JKBskbKU  litqsaikovov
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - its extraordinary to determine a terrific blog like this one todaynot surprisingly appreciate your website and you need to confirm the spelling upon tibetan jewelry a number of your posts Many of themare generally rife havingspellingdifficulties and that i think it isincrediblyWow Great tihiknng JKBskbKU  litqsaikovov
-imported: true
 ---
 
 The NHS is one of Britain’s most cherished institutions – pretty much the only thing Labour and the Conservatives agreed on during the general election was the need to safeguard the NHS from budget cuts. It has gone through one of the biggest spending increases in it’s history.

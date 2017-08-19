@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Utsav Radia on a new step to neurodegenerative disease treatment
 date: "2013-10-18 21:12:14 +0100"
+
 # Attributes from Felix Online V1
 id: "3888"
 old_path: /science/3888/breakthrough-towards-curing-alzheimers
 aliases:
  - /science/3888/breakthrough-towards-curing-alzheimers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The MRC Toxicology Unit research team, led by Professor Giovanna Mallucci at the University of Leicester, has managed to successfully control the progression of Prion disease, a neurodegenerative disorder, in mice. The study, published in Science Translational Medicine, shows great promise for human neurodegenerative disorders such as Alzheimer’s, which affects around half a million people in the UK.

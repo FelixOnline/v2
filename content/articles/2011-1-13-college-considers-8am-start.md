@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Committee to look at timetable changes
 date: "2011-01-13 21:42:00 +0000"
+
 # Attributes from Felix Online V1
 id: "594"
 old_path: /news/594/college-considers-8am-start-
 aliases:
  - /news/594/college-considers-8am-start-
+imported: true
+comments:
+ - We live in Orient House which is three miles away to be in for 8am wed have to get up at 6I got so frustrated with my ICL maths degree having only 12 lecture hours a week but counting as a full time degreeIf I was paying the new higher tuition fees I would be so angry  With these higher fees the maths degree could easily be fitted into 2 years even more so if the ridiculously long summer break was curtailed to 6 weeks and the day extended to 96 with an hour for lunch  Having such a long lunch and holidays does not prepare us for reallife jobsi dont think my lecturer would even make it in for 8am lectures this is so ridiculous8 am lectures will never fly  Especially with Masters students  Were scattered all over the city with commute times up to and including an hour  I had issues making 830 classes in undergrad when I lived 5 minutes away  So me an 8am masters class and Ill show you an empty classroom W4chickYou are aware that coursework and tutorials are counted into the t
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - We live in Orient House which is three miles away to be in for 8am wed have to get up at 6I got so frustrated with my ICL maths degree having only 12 lecture hours a week but counting as a full time degreeIf I was paying the new higher tuition fees I would be so angry  With these higher fees the maths degree could easily be fitted into 2 years even more so if the ridiculously long summer break was curtailed to 6 weeks and the day extended to 96 with an hour for lunch  Having such a long lunch and holidays does not prepare us for reallife jobsi dont think my lecturer would even make it in for 8am lectures this is so ridiculous8 am lectures will never fly  Especially with Masters students  Were scattered all over the city with commute times up to and including an hour  I had issues making 830 classes in undergrad when I lived 5 minutes away  So me an 8am masters class and Ill show you an empty classroom W4chickYou are aware that coursework and tutorials are counted into the t
-imported: true
 ---
 
 In a move sure to raise eyebrows among those who prefer an extra hour (or three) in bed, it has been revealed that a College committee is considering lengthening the academic day in order to ensure that Imperial is able to “accommodate the growing number of master’s courses and extracurricular programmes [that it] offers.” The proposals being discussed include allowing teaching during the current lunch break by reducing it to one hour.

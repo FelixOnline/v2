@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chanon Wongsatayanont talks about coping with long distance relationships
 date: "2015-02-03 13:30:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5180"
 old_path: /welfare/5180/overcoming-the-distance
 aliases:
  - /welfare/5180/overcoming-the-distance
+imported: true
+comments:
+ - birkenstock shoebirkenstocks cheap httpbirkenstocksaleaustraliablogspotcomScrapped that plan and played defense the other five games winning four of every one of them Its a unique incontrovertible fact that some players appreciate as well as others dislike For example an end is worth a one pointfifa 16 hack httpcreditsfutcomlouboutin pigalle 120christian louboutin sale outlet httpcanadachristianlouboutinblogspotcomchristian louboutin pigallechristian louboutin canada sale httpcanadachristianlouboutinoutletblogspotcomI value the knowledge on your website Thanks a bunchnba 2k16 mt hack pc httpalicedeirdremoonfruitcomblog4592107951TomClancyE28099sTheDivisionUltimateGuideToLevelRapidlyUp10641994Neat page Keep up the great work With thankscsgo skins checker httpblog1deHuldaDinah3731302TopFiveStrategiesForChoosingTheRightSuccessKnife3ACSGoKniveshtml
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock shoebirkenstocks cheap httpbirkenstocksaleaustraliablogspotcomScrapped that plan and played defense the other five games winning four of every one of them Its a unique incontrovertible fact that some players appreciate as well as others dislike For example an end is worth a one pointfifa 16 hack httpcreditsfutcomlouboutin pigalle 120christian louboutin sale outlet httpcanadachristianlouboutinblogspotcomchristian louboutin pigallechristian louboutin canada sale httpcanadachristianlouboutinoutletblogspotcomI value the knowledge on your website Thanks a bunchnba 2k16 mt hack pc httpalicedeirdremoonfruitcomblog4592107951TomClancyE28099sTheDivisionUltimateGuideToLevelRapidlyUp10641994Neat page Keep up the great work With thankscsgo skins checker httpblog1deHuldaDinah3731302TopFiveStrategiesForChoosingTheRightSuccessKnife3ACSGoKniveshtml
-imported: true
 ---
 
 The world is getting more globalised and people seem to end up all over the place, smattered here and there like dots of paint. Unfortunately, this also applies to couples, out of necessity or to chase after an opportunity elsewhere. Both sides mean well and they each want the best for each other, but it’s painful for a relationship to be reduced to a window on Skype or a voice over the phone.

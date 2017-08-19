@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Council vote in favour of reducing the rent for new halls in Acton, but increasing the rent for halls closer to campus
 date: "2015-02-15 23:04:02 +0000"
+
 # Attributes from Felix Online V1
 id: "5260"
 old_path: /news/5260/union-council-votes-in-favour-of-new-rent-proposals
 aliases:
  - /news/5260/union-council-votes-in-favour-of-new-rent-proposals
+imported: true
+comments:
+ - Its going to end up in a situation where all the rich upper class guys are in South Ken and everyone else in Acton Terrible for diversity and culture Glad I got into halls when I didbasically building up a ghetto with thisRichkids on campus everyone else notTheyre already the most expensiveNew pricing simply charges more from people that can afford it lowering the cost for othersExcept if you get Eastside in the lottery and are stung for rents that cost more than an individual studio Over 200 a week for student accommodation is ridiculous Youre the fresher is welcome to decline the offer of accommodation and rent elsewhereIf this is truly as unfair as people are claiming well simply see a great decline in takeup of rooms in halls as more first years choose to live elsewhereAt the meeting we were told it is Colleges aspiration to let students pick and get the exact typecost of room they want so not a preferences systemOf course who knows when this will happen Po
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its going to end up in a situation where all the rich upper class guys are in South Ken and everyone else in Acton Terrible for diversity and culture Glad I got into halls when I didbasically building up a ghetto with thisRichkids on campus everyone else notTheyre already the most expensiveNew pricing simply charges more from people that can afford it lowering the cost for othersExcept if you get Eastside in the lottery and are stung for rents that cost more than an individual studio Over 200 a week for student accommodation is ridiculous Youre the fresher is welcome to decline the offer of accommodation and rent elsewhereIf this is truly as unfair as people are claiming well simply see a great decline in takeup of rooms in halls as more first years choose to live elsewhereAt the meeting we were told it is Colleges aspiration to let students pick and get the exact typecost of room they want so not a preferences systemOf course who knows when this will happen Po
-imported: true
 ---
 
 Students present at Union Council this week voted in favour of new rent proposals, which included lowering the suggested rates for the new student accommodation based in Acton. The new hall, now named Woodward, will open next academic year; students will face a commute time upwards of thirty minutes to get to campus.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial's Team Plasticity on Genetic Engineering
 date: "2013-10-24 23:43:21 +0100"
+
 # Attributes from Felix Online V1
 id: "3912"
 old_path: /features/3912/from-trash-to-treasure-via-synthetic-biology
 aliases:
  - /features/3912/from-trash-to-treasure-via-synthetic-biology
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial’s iGEM (international Genetically Engineered Machine) team have just flown back from Lyon, finishing in the top three in Europe in the international Synthetic Biology competition and progressing to the next round at MIT in Boston.

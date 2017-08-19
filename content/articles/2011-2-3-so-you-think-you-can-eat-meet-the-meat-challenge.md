@@ -4,16 +4,24 @@ title: >
 subtitle: >
    The sheer drama of waving around metal stakes is thrilling...
 date: "2011-02-03 18:52:18 +0000"
+
 # Attributes from Felix Online V1
 id: "706"
 old_path: /food/706/so-you-think-you-can-eat-meet-the-meat-challenge-
 aliases:
  - /food/706/so-you-think-you-can-eat-meet-the-meat-challenge-
+imported: true
+comments:
+ - Im someone who can eat a lot and still work hard so if there is a challenge Im up for it
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Im someone who can eat a lot and still work hard so if there is a challenge Im up for it
-imported: true
 ---
 
 Meat. That quintessential ingredient of all meals. The point of any fare. Or so I’ve been told. I love food; lunch, brunch, pudding, tea, tapas and amuse-bouche are all held in fond regard. I could however easily forgo meat. I’m not a vegetarian. I would definitely not want to be part of that fringe group, though they have my sympathies. Having seen the abuse my sister puts up with from all you rabid animals, I wouldn’t tarnish myself with that brush.

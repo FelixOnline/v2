@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Saw creator goes back to his roots to create a genuinely creepy but not too original horror film
 date: "2011-05-20 04:38:12 +0100"
+
 # Attributes from Felix Online V1
 id: "1220"
 old_path: /film/1220/haunted-house
 aliases:
  - /film/1220/haunted-house
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Leave it to James Wan, the man behind Saw who kick-started the whole franchise, to make another low-budget thrilling horror experience. This time there is very little gore, no limbs being hacked off, no scary man in a freaky mask telling the victims that he wants to “play a game.” No, the villain here is far sneakier and sinister than that (hence the title). Plus with Insidious, Wan ventures out into the paranormal, as seems to be a popular crowd pleaser when it comes to the horror genre these days. Even the opening score, loaded with string instruments plucking away, is similar to those of vintage horror films that scare us even to this day.

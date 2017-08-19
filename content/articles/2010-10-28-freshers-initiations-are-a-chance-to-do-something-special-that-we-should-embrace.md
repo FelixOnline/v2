@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Initiations aren't all bad
 date: "2010-10-28 19:51:35 +0100"
+
 # Attributes from Felix Online V1
 id: "280"
 old_path: /comment/280/freshers-initiations-are-a-chance-to-do-something-special-that-we-should-embrace-
 aliases:
  - /comment/280/freshers-initiations-are-a-chance-to-do-something-special-that-we-should-embrace-
+imported: true
+comments:
+ - The best way to Choose Purses at the Turn of SeasonsSeasonal handbags are really common at a seasons turn It is a big fun to shop seasonal purses The below guidelines will help you to find the fads in themFirstly Louis Vuitton Icare opt for a correct style or design In the summer you may like a large bag to carry all your beach gear In the fall you could want something which includes a strap to sling on shoulders for a short go away In the winter it is an excellent time for a little clutch which you can take to all the holiday gatherings The spring is up for any sort of bagsThe second point is about locating out perfect textile Natural cotton canvas or vinyl are really popular for summertime bags Theyre especially durable Spring is a sparkling season Therefore it is far better to select easy and longlasting material to coordinate the bright seasonThirdly its essential to get a
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The best way to Choose Purses at the Turn of SeasonsSeasonal handbags are really common at a seasons turn It is a big fun to shop seasonal purses The below guidelines will help you to find the fads in themFirstly Louis Vuitton Icare opt for a correct style or design In the summer you may like a large bag to carry all your beach gear In the fall you could want something which includes a strap to sling on shoulders for a short go away In the winter it is an excellent time for a little clutch which you can take to all the holiday gatherings The spring is up for any sort of bagsThe second point is about locating out perfect textile Natural cotton canvas or vinyl are really popular for summertime bags Theyre especially durable Spring is a sparkling season Therefore it is far better to select easy and longlasting material to coordinate the bright seasonThirdly its essential to get a
-imported: true
 ---
 
 A couple of years ago, at some rather remote university in England, a student died as a result of an initiation ceremony, apparently involving physical activity and alcohol. The details were never quite made clear, but it left many universities and colleges across the land with no option but to ban such ceremonies formally.

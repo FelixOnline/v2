@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Dan Wan with the latest on the CGCU VPFS
 date: "2010-02-01 16:34:52 +0000"
+
 # Attributes from Felix Online V1
 id: "59"
 old_path: /news/59/guilds-vice-president-awol-not-likely-he-says
 aliases:
  - /news/59/guilds-vice-president-awol-not-likely-he-says
+imported: true
+comments:
+ - Hi there Id just like to stress that I was not quotreluctant to update the articlequot I was reluctant to remove the article which is what Mr Norris requested Mr Norris made the requests to my personal account and in a personal manner and requested that I did not disclose the reason of his absence Following a short email correspondence the article was updated with corrections provided by Mr Norris within just a few hours of the article being published and no formal complaint to the Live email account has been receivedIt is unfortunate that felix made no attempt to contact myself personally or via Live before publishing this article
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi there Id just like to stress that I was not quotreluctant to update the articlequot I was reluctant to remove the article which is what Mr Norris requested Mr Norris made the requests to my personal account and in a personal manner and requested that I did not disclose the reason of his absence Following a short email correspondence the article was updated with corrections provided by Mr Norris within just a few hours of the article being published and no formal complaint to the Live email account has been receivedIt is unfortunate that felix made no attempt to contact myself personally or via Live before publishing this article
-imported: true
 ---
 
 In a long line of mishaps involving the City & Guilds College Union, their Vice President (Finance & Societies) Rikki Norris has been criticised for his absence about College, but has now spoken to felix to clarify the situation.

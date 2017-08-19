@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laurence Pope stops the bad puns and talks Eurogamer ‘11
 date: "2011-10-07 12:19:06 +0100"
+
 # Attributes from Felix Online V1
 id: "1490"
 old_path: /games/1490/an-ex-po-citing-expo
 aliases:
  - /games/1490/an-ex-po-citing-expo
+imported: true
+comments:
+ - I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster I need to know which roller coaster to go on first so that I wont be too frightened to go on some others Please can you tell me the amount of G Force that each roller coaster there has Thanks in advanceapakah opersional kan wndwois 7 di ipad sudah bisa operasionalkan layaknya sebuah PC yadan jika iyaapakah bisa mendukung applikasiprogram komputerdan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster I need to know which roller coaster to go on first so that I wont be too frightened to go on some others Please can you tell me the amount of G Force that each roller coaster there has Thanks in advanceapakah opersional kan wndwois 7 di ipad sudah bisa operasionalkan layaknya sebuah PC yadan jika iyaapakah bisa mendukung applikasiprogram komputerdan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan
-imported: true
 ---
 
 I guess now’s the time for me to offer a late (but warm) welcome to all the freshers who’ve stumbled onto the Games section. I would’ve written for the Freshers' Issue, but I was too busy doing more important stuff like working on my rock-hard abs, jet skiing in the Caribbean and seducing beautiful women. Oh, and playing video games.

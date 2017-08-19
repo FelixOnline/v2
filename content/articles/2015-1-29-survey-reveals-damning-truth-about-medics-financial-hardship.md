@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett investigates as ICSM survey says that 97% final year students are in the red
 date: "2015-01-29 23:46:06 +0000"
+
 # Attributes from Felix Online V1
 id: "5156"
 old_path: /news/5156/survey-reveals-damning-truth-about-medics-financial-hardship
 aliases:
  - /news/5156/survey-reveals-damning-truth-about-medics-financial-hardship
+imported: true
+comments:
+ - Wow not exactly surprising that after 6 years of education they are in the red  The same is true of most students after less than the 34 years that they are here  On top of that medical students have amazing job security  The please feel sorry for us line that Medics and doctors once graduated read off at every occasion is becoming really boring and mundane and makes the medical profession seem totally detached from realityWhat about the rest of the student body at Imperial let alone nation wide  Not exactly a great article with regards to the hardships that all London based students have  I would like to see a similar survey completed for all final year students paying home based fees  Personally I work at every opportunity to make ends meetWhy do medical students see themselves as completely separated from all students  Financial hardships at university are most felt by the middle classes upper class have the money to not worry working class get the most financial support which most me
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow not exactly surprising that after 6 years of education they are in the red  The same is true of most students after less than the 34 years that they are here  On top of that medical students have amazing job security  The please feel sorry for us line that Medics and doctors once graduated read off at every occasion is becoming really boring and mundane and makes the medical profession seem totally detached from realityWhat about the rest of the student body at Imperial let alone nation wide  Not exactly a great article with regards to the hardships that all London based students have  I would like to see a similar survey completed for all final year students paying home based fees  Personally I work at every opportunity to make ends meetWhy do medical students see themselves as completely separated from all students  Financial hardships at university are most felt by the middle classes upper class have the money to not worry working class get the most financial support which most me
-imported: true
 ---
 
 Recent survey results have shown that students in their final years of medicine face extreme financial difficulty, with one in two students saying that their financial situation might affect their ability to complete their degree.

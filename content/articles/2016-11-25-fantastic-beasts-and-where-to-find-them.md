@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We finally reviewed it and it was good
 date: "2016-11-25 13:54:35 +0000"
+
 # Attributes from Felix Online V1
 id: "6505"
 old_path: /film/6505/fantastic-beasts-and-where-to-find-them
 aliases:
  - /film/6505/fantastic-beasts-and-where-to-find-them
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Unless you live in a cave, it is quite hard to overlook the fact that Fantastic Beasts and Where to Find Them is finally out. First of all, it is difficult to walk down an entire street without seeing at least one poster, and secondly because the film has immediately become a source of wild disputes. Surprisingly, it’s not a conflict between Potterheads passionately defending the film and the others condemning it – from my experience, it is often quite the opposite. What is the reason behind this and how well did Fantastic Beasts actually do?

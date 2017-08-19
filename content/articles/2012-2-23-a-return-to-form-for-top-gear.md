@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Barnett evaluates Top Gear's recent entertainment value
 date: "2012-02-23 20:56:34 +0000"
+
 # Attributes from Felix Online V1
 id: "2247"
 old_path: /tv/2247/a-return-to-form-for-top-gear
 aliases:
  - /tv/2247/a-return-to-form-for-top-gear
+imported: true
+comments:
+ - A very eloquent and well written description of why I havent been excited about top gear in about 2 years I somewhat suspect that the personalities involved got the idea that everything they touched turned to gold and didnt realise that the most enjoyable part of the show was the cars themselves as opposed to the people reviewing them I agree that the Fenton parody was amusing the highlight of that feature in fact The rest of it wasnt great though was itIm not entirely sure if you actually read my review or not but id like to highlight a few bits of it for you First of all I find Top Gear entertaining that bit was made quite clear in the first sentence Secondly the reason I dont find it funny anymore is that most of the jokes are the same and have been repeated over and over again this opinion was also made fairly clear in the first paragraphIt certainly doesnt seem like you managed to reach the final paragraph so let me summarise it for you Top Gear is improving It has show
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - A very eloquent and well written description of why I havent been excited about top gear in about 2 years I somewhat suspect that the personalities involved got the idea that everything they touched turned to gold and didnt realise that the most enjoyable part of the show was the cars themselves as opposed to the people reviewing them I agree that the Fenton parody was amusing the highlight of that feature in fact The rest of it wasnt great though was itIm not entirely sure if you actually read my review or not but id like to highlight a few bits of it for you First of all I find Top Gear entertaining that bit was made quite clear in the first sentence Secondly the reason I dont find it funny anymore is that most of the jokes are the same and have been repeated over and over again this opinion was also made fairly clear in the first paragraphIt certainly doesnt seem like you managed to reach the final paragraph so let me summarise it for you Top Gear is improving It has show
-imported: true
 ---
 
 Ever since its rebirth in 2002, [_Top Gear_](http://www.bbc.co.uk/programmes/b006mj59) has provided me with Sunday night entertainment and it’s always been brilliant. Well actually that isn’t entirely true. You see, _Top Gear_’s entertainment value has decreased hugely in recent years – the ‘humour’ has become entirely predictable and largely infantile, whilst fewer and fewer cars are actually being reviewed and much like I expect Hangman to be offensive, I expect a car show to be about cars.

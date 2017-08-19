@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But is the U.N.’s newest agency’s plan to end gender inequality and poverty in one fell swoop just more of the same?
 date: "2011-02-10 20:56:06 +0000"
+
 # Attributes from Felix Online V1
 id: "788"
 old_path: /politics/788/female-empowerment-to-save-the-world-
 aliases:
  - /politics/788/female-empowerment-to-save-the-world-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The role that women play in the alleviation of poverty is becoming increasingly apparent in development research. In a sad irony, it is also increasingly clear that they bear the majority of the burden of this same poverty. The figures are alarming – women work two thirds of the world’s working hours but directly earn just 10% of the world’s income – money which they are more likely to spend on education and food for their children than their male counterparts. Women also make up 70% of the world’s poorest people and are underrepresented in society from classrooms to politics (holding just 19% of the world’s parliamentary seats).

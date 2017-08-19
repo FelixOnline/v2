@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:36:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5343"
 old_path: /comment/5343/felix-interviews-deputy-president-fs-candidate-ali-lown
 aliases:
  - /comment/5343/felix-interviews-deputy-president-fs-candidate-ali-lown
+imported: true
+comments:
+ - fitflops online australiafitflop shoes clearance httpwwwaustraliafitflopscomfitflop australia cheapfitflops sale australia httpwwwaustraliafitflopscomurlhttpfluconazolepurchasediflucancomDiflucanurl Zithromax Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan For Sale Onlineurl Viagra In Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomFluconazole Eyeurl Pharmacy Zithromax Effective For Treating Bronchitis httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomBuy Diflucan Without No Prescription Vetrinaryurl Viagra From Canadian Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan Side Effectsurl Online Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan Fedex Deliveryurl Zithromax Pharmacy httpfurosemidelasixbuycomlouboutin wedding shoeschristian louboutin canada sale httpc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops online australiafitflop shoes clearance httpwwwaustraliafitflopscomfitflop australia cheapfitflops sale australia httpwwwaustraliafitflopscomurlhttpfluconazolepurchasediflucancomDiflucanurl Zithromax Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan For Sale Onlineurl Viagra In Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomFluconazole Eyeurl Pharmacy Zithromax Effective For Treating Bronchitis httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomBuy Diflucan Without No Prescription Vetrinaryurl Viagra From Canadian Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan Side Effectsurl Online Pharmacy httpfurosemidelasixbuycomurlhttpfluconazolepurchasediflucancomDiflucan Fedex Deliveryurl Zithromax Pharmacy httpfurosemidelasixbuycomlouboutin wedding shoeschristian louboutin canada sale httpc
-imported: true
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

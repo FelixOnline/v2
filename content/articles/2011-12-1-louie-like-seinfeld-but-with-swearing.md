@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tim Arbabzadah tries to not look like a hipster as he reviews a slightly obscure show
 date: "2011-12-01 20:29:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1871"
 old_path: /tv/1871/louie-like-seinfeld-but-with-swearing
 aliases:
  - /tv/1871/louie-like-seinfeld-but-with-swearing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _Louie_ is directed, written, edited by, and starring Louis C.K. The show is basically him; in fact, I’ve heard an interview that says he helps with the cinematography as well. I’m not exactly sure how to describe the look of the show, but I’ll give it a go. It’s shot as a single camera show in the same way as _The Thick of It_ is. That should give you an idea of the sort of visual style to expect, hopefully.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland explores what inspires us to seek out adventure
 date: "2015-06-20 17:30:55 +0100"
+
 # Attributes from Felix Online V1
 id: "5647"
 old_path: /travel/5647/bukhara-dreams-of-another-land
 aliases:
  - /travel/5647/bukhara-dreams-of-another-land
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - km2612
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "km2612"
 author_name: "Kamil McClelland"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _“But there is no such thing as a Silk Road!”_

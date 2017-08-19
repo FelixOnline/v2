@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Old faces make an appearance at American Football’s Bath match
 date: "2016-02-26 12:14:48 +0000"
+
 # Attributes from Felix Online V1
 id: "5991"
 old_path: /sport/5991/goodbye-old-friends
 aliases:
  - /sport/5991/goodbye-old-friends
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Sunday saw our last game of the season against the Bath Killer Bees, the Immortals were determined not to end the season with a loss; however, after a long game, the score was 49-8 to the Killer Bees.

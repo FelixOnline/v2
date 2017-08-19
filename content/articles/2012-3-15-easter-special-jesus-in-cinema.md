@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Read the book first!
 date: "2012-03-15 20:16:00 +0000"
+
 # Attributes from Felix Online V1
 id: "2358"
 old_path: /film/2358/easter-special-jesus-in-cinema
 aliases:
  - /film/2358/easter-special-jesus-in-cinema
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __The King of Kings (1927) – H. B. Warner__

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   First Annual Netball Day.
 date: "2010-11-04 18:51:10 +0000"
+
 # Attributes from Felix Online V1
 id: "315"
 old_path: /sport/315/rugby-exec-beat-netball-girls-at-their-first-annual-netball-fun-day-
 aliases:
  - /sport/315/rugby-exec-beat-netball-girls-at-their-first-annual-netball-fun-day-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - fmg08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "fmg08"
 author_name: "Fern Gibbons"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Saturday 30th October the first ever Netball Fun Day was hosted by ICUNC. The day started with the sun shining, a clear sky and a lot of excitable Netball girls.

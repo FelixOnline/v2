@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Will the BAFTAs swing us in the right direction to guess the Oscar winners?
 date: "2011-02-17 19:27:58 +0000"
+
 # Attributes from Felix Online V1
 id: "817"
 old_path: /film/817/can-the-baftas-be-a-good-prediction-for-the-oscars
 aliases:
  - /film/817/can-the-baftas-be-a-good-prediction-for-the-oscars
+imported: true
+comments:
+ - Actually Colin Firth didnt win an Oscar last year for A Single Man Jeff Bridges did for Crazy HeartThank God Smeoone with brains speaksCj2WJ5  vukacreboqie nexium  mail order cymbalta cbabcm topamax zonegran and binge eating P  auto insurance quotes  buy pfizer viagra
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jh308
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jh308"
 author_name: "Jade Hoffman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Actually Colin Firth didnt win an Oscar last year for A Single Man Jeff Bridges did for Crazy HeartThank God Smeoone with brains speaksCj2WJ5  vukacreboqie nexium  mail order cymbalta cbabcm topamax zonegran and binge eating P  auto insurance quotes  buy pfizer viagra
-imported: true
 ---
 
 Despite the rain on February 13th, Leicester Square was once again a buzzing night of flashbulbs and red carpet walks as it played host to the 63rd annual BAFTA awards. A semi-reliable predictor of which way the Oscars might swing, the BAFTAs has becoming an increasingly high profile event in the film world, injecting a bit of life and glamour into the British film scene and bringing big names to the capital. Julianne Moore, Jessica Alba and Mark Ruffalo, were among the Hollywood faces who turned up, but the big winners of the night were the cast and crew of the recent British hit, The King’s Speech.

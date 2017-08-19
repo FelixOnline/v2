@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dr Lamb bemoans “the mess which over-zealous multiculturalism has got Britain into”
 date: "2016-01-13 14:45:36 +0000"
+
 # Attributes from Felix Online V1
 id: "5825"
 old_path: /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
 aliases:
  - /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
+imported: true
+comments:
+ - wholesalejerseys coom Texas AM Aggies Jersey jersey knit fabric wholesalenhljerseys Bayern Munchen Jersey cheap nhl jerseyyouth usaa hockey jersey Chicago Cubs nhljerseysBURN THE WITCHbuy cheap hlckey jerseys Wisconsin Badgers Jersey cheap authentic hockey jerseysnike factory wholesale eastlothianplumbercouk nfl jersey throwback jerseys wholesalecheap nhl hocley jerseys Calgary Flames Jersey cheap nhl jerseys wholesalehljerseys NFL Womsn Jeans nhl vintage jerseyscheap chinese nfl jerseys cheap nhll jerseys china authentic nfl cheap jerseys chinachinese hockey jerseys wholesale nfl jersey nfl jersey fdom chinathrowback jerseys wholesale Denver Broncos throwback jerseys wholesalewholesalejerseys com San Diego Chargers discount jerseyscheap nfl jerseys china cheap nhl jerseys from china china jerseychewp soccer jerseys china wholesale nfl jerseys supply chinese sportts jerseyschjina spoirts jerseys cheap nfl jerseys wholesale cheap nfl jerseys from china free shippingwholesale ncaa je
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - wholesalejerseys coom Texas AM Aggies Jersey jersey knit fabric wholesalenhljerseys Bayern Munchen Jersey cheap nhl jerseyyouth usaa hockey jersey Chicago Cubs nhljerseysBURN THE WITCHbuy cheap hlckey jerseys Wisconsin Badgers Jersey cheap authentic hockey jerseysnike factory wholesale eastlothianplumbercouk nfl jersey throwback jerseys wholesalecheap nhl hocley jerseys Calgary Flames Jersey cheap nhl jerseys wholesalehljerseys NFL Womsn Jeans nhl vintage jerseyscheap chinese nfl jerseys cheap nhll jerseys china authentic nfl cheap jerseys chinachinese hockey jerseys wholesale nfl jersey nfl jersey fdom chinathrowback jerseys wholesale Denver Broncos throwback jerseys wholesalewholesalejerseys com San Diego Chargers discount jerseyscheap nfl jerseys china cheap nhl jerseys from china china jerseychewp soccer jerseys china wholesale nfl jerseys supply chinese sportts jerseyschjina spoirts jerseys cheap nfl jerseys wholesale cheap nfl jerseys from china free shippingwholesale ncaa je
-imported: true
 ---
 
 One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no-go’ areas at night for white people”.

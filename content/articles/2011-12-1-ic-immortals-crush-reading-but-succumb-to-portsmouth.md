@@ -4,16 +4,23 @@ title: >
 subtitle: >
   "Hopefully, with hard work and time for injuries to heal, a full Immortals team can take the rest of the season head-on, maybe even fighting their way to the playoffs."
 date: "2011-12-01 21:14:24 +0000"
+
 # Attributes from Felix Online V1
 id: "1883"
 old_path: /sport/1883/ic-immortals-crush-reading-but-succumb-to-portsmouth-
 aliases:
  - /sport/1883/ic-immortals-crush-reading-but-succumb-to-portsmouth-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __American Football__

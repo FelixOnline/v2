@@ -4,16 +4,23 @@ title: >
 subtitle: >
   They didn’t realise they couldn’t sublet the place
 date: "2016-05-06 09:41:21 +0100"
+
 # Attributes from Felix Online V1
 id: "6113"
 old_path: /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
 aliases:
  - /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
+imported: true
+comments:
+ - httpswwwfacebookcomgroups349137428622212permalink504635219739098Thats what you get for trying to scum your way into being a landlord No sympathy for the idiotsThey run the risk of getting sued if they dont pay up since the contract is a legally binding documentYes but just because a term appears in a contract doesnt mean a court will choose to enforce it  There is a concept of unfair termsGo read httpswwwgovukgovernmentpublicationsunfairtermsintenancyagreements2 in particular pages 55 and 103JjBWnN  ogmotbbntpql urlhttpejbnouqnimnncomejbnouqnimnnurl linkhttphaxzcgxzlvxocomhaxzcgxzlvxolink httpcdousnjacenucomThe Stylish Cheap Jersey Hot Sale Online Right NowThe Excellent Quality With Surprsing Discount In ProgressShip From ChinaPlease Dont Miss It Accesswholesale jerseysJust because the court might not uphold it doesnt mean they wont get sued  just affects whether that sueing is succesful or not Id be wary in their po
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpswwwfacebookcomgroups349137428622212permalink504635219739098Thats what you get for trying to scum your way into being a landlord No sympathy for the idiotsThey run the risk of getting sued if they dont pay up since the contract is a legally binding documentYes but just because a term appears in a contract doesnt mean a court will choose to enforce it  There is a concept of unfair termsGo read httpswwwgovukgovernmentpublicationsunfairtermsintenancyagreements2 in particular pages 55 and 103JjBWnN  ogmotbbntpql urlhttpejbnouqnimnncomejbnouqnimnnurl linkhttphaxzcgxzlvxocomhaxzcgxzlvxolink httpcdousnjacenucomThe Stylish Cheap Jersey Hot Sale Online Right NowThe Excellent Quality With Surprsing Discount In ProgressShip From ChinaPlease Dont Miss It Accesswholesale jerseysJust because the court might not uphold it doesnt mean they wont get sued  just affects whether that sueing is succesful or not Id be wary in their po
-imported: true
 ---
 
 This week, college is coming to the aid of three Imperial students who accidentally signed a three year tenancy agreement for a flat on Queen’s Gate that they can’t afford.

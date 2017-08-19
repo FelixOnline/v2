@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stay with us for the latest developments as Alex Bellotti comments on Aaron Sorkin's return to the small screen
 date: "2012-07-10 11:43:58 +0100"
+
 # Attributes from Felix Online V1
 id: "2584"
 old_path: /tv/2584/review-the-newsroom-uk-premiere
 aliases:
  - /tv/2584/review-the-newsroom-uk-premiere
+imported: true
+comments:
+ - Thanks for a properly critical but optimistic review rather than the mauling that has characterised several Ive seenThe show has potential lets hope its fulfilledCheers I did my dissertation on his stuff so Im admittedly a big fan of Sorkins Think most feminist critiques of his work are usually quite overblown and are usually a result of some lazy overall characterisation more than his specific depictions of females His hearts clearly in the right place though and I like the way he tries to show how things should be as opposed to most shows that are content to just show how things are HBO rarely get their dramas wrong so Im hoping they push Sorkin to the limit and get his writing firing on all cylinders Theres no network thatd suit him better Id say that muchVINICKMCAVOY 2012
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for a properly critical but optimistic review rather than the mauling that has characterised several Ive seenThe show has potential lets hope its fulfilledCheers I did my dissertation on his stuff so Im admittedly a big fan of Sorkins Think most feminist critiques of his work are usually quite overblown and are usually a result of some lazy overall characterisation more than his specific depictions of females His hearts clearly in the right place though and I like the way he tries to show how things should be as opposed to most shows that are content to just show how things are HBO rarely get their dramas wrong so Im hoping they push Sorkin to the limit and get his writing firing on all cylinders Theres no network thatd suit him better Id say that muchVINICKMCAVOY 2012
-imported: true
 ---
 
 It seems a long time ago that Aaron Sorkin was last on our TV screens. After the success of [_The West Wing_](http://www.youtube.com/watch?v=FScv89J6rro), everyone expected [_Studio 60 on the Sunset Strip_](http://www.youtube.com/watch?v=1INS1Rp3o9M) to be the next step towards greatness for the burgeoning screenwriter. Unfortunately, the show flopped within the first few episodes and was cancelled after one series. Sorkin disappeared off the radar and many thought that his best work was already behind him.

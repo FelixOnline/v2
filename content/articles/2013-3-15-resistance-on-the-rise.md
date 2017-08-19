@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laurence Pope resists the urge to make a pun...
 date: "2013-03-15 01:02:00 +0000"
+
 # Attributes from Felix Online V1
 id: "3467"
 old_path: /science/3467/resistance-on-the-rise
 aliases:
  - /science/3467/resistance-on-the-rise
+imported: true
+comments:
+ - No new antibiotics have been introduced into the public domain since 1987Do you have a source for thisIf drugs entered the public domain sooner what bearing would this have on drug resistance or pharmaceutical companies willingness to develop new antibioticsDrugs would certainly be available to more people for instance in poor and developing countries so one might predict this would lead to an faster onset of resistance On the other hand these drugs may be more carefully administered due to the absence of aggressive marketing from the patentholding pharmaceutical company However this seems to leave less incentive for the pharmaceutical company to develop the drugs in the first place if the window in which the can recoup RD costs and turn a profit is reduced After all it seems these days pharmaceuticals live and die by their drug patents
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - No new antibiotics have been introduced into the public domain since 1987Do you have a source for thisIf drugs entered the public domain sooner what bearing would this have on drug resistance or pharmaceutical companies willingness to develop new antibioticsDrugs would certainly be available to more people for instance in poor and developing countries so one might predict this would lead to an faster onset of resistance On the other hand these drugs may be more carefully administered due to the absence of aggressive marketing from the patentholding pharmaceutical company However this seems to leave less incentive for the pharmaceutical company to develop the drugs in the first place if the window in which the can recoup RD costs and turn a profit is reduced After all it seems these days pharmaceuticals live and die by their drug patents
-imported: true
 ---
 
 As any good Imperial student knows antibiotic resistant bacteria are a growing threat to human health. The threat has been heightened once again by a recent report produced by the government’s chief medical officer, calling the problem a “ticking timebomb”.

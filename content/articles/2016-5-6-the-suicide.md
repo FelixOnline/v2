@@ -4,16 +4,22 @@ title: >
 subtitle: >
   An adaptation of the Erdman classic amuses and underwhelms in equal measure
 date: "2016-05-06 10:16:04 +0100"
+
 # Attributes from Felix Online V1
 id: "6134"
 old_path: /arts/6134/the-suicide-
 aliases:
  - /arts/6134/the-suicide-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The National’s latest modernisation of an old classic, _The Suicide_ has all the potential of a biting satirical comedy with little of the finesse or foundation to really pull it off. While the laughs are frequent and at times provocative, the play struggles to maintain its momentum and leaves little of an underlying narrative.

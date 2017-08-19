@@ -4,16 +4,23 @@ title: >
 subtitle: >
   University Challenge star is running to become a councillor
 date: "2016-04-29 10:00:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6086"
 old_path: /news/6086/student-hopeful-for-kensington-by-election-success
 aliases:
  - /news/6086/student-hopeful-for-kensington-by-election-success
+imported: true
+comments:
+ - Its all ahout cheap NBA Jerseys click to viewFrom  Wholesale JerseysThis guy would not be a good councillor He is attentionseeking and is really only doing this for more of that  similar to his lying articles in felix over the years that were used to draw attention to himv5vwpH  nzbgocukbymu urlhttpbwvadznnjyfecombwvadznnjyfeurl linkhttpojkuxcjljuwgcomojkuxcjljuwglink httpwqwuljgqwxjacom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its all ahout cheap NBA Jerseys click to viewFrom  Wholesale JerseysThis guy would not be a good councillor He is attentionseeking and is really only doing this for more of that  similar to his lying articles in felix over the years that were used to draw attention to himv5vwpH  nzbgocukbymu urlhttpbwvadznnjyfecombwvadznnjyfeurl linkhttpojkuxcjljuwgcomojkuxcjljuwglink httpwqwuljgqwxjacom
-imported: true
 ---
 
 Next week, local elections are happening up and down the country, most notably the London Mayoral elections, but slightly closer to home is the Kensington and Chelsea Councillor by-election in which Imperial College physics student Ben Fernando is standing.

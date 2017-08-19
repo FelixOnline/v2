@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Calum Grant interviews science writer Simon Singh.
 date: "2013-10-20 01:30:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3901"
 old_path: /books/3901/an-interview-with-simon-singh
 aliases:
  - /books/3901/an-interview-with-simon-singh
+imported: true
+comments:
+ - If its an interview with Simon Singh why have you put a picture of Matt Allinson in the article
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - If its an interview with Simon Singh why have you put a picture of Matt Allinson in the article
-imported: true
 ---
 
 __Calum Grant: Having written about the history of mathematics, code breaking, the Big Bang and Alternative medicine, was this book on maths Easter eggs in the Simpsons the easiest book you’ve written?__

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alexander Karapetian takes a look at the latest developments in quantum systems
 date: "2011-11-17 20:30:30 +0000"
+
 # Attributes from Felix Online V1
 id: "1761"
 old_path: /science/1761/quantum-information
 aliases:
  - /science/1761/quantum-information
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two developing technologies have been touted to mark the emergence of new quantum systems. Published in the journal Science last month, the fields of plasmonics and nanophotonics promise to speed up the advent of quantum information systems, which are capable of achieving processing powers that are orders of magnitude larger than classical computers.

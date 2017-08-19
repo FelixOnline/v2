@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Feroz Salam and Chris Bowers get you up to scratch
 date: "2011-09-30 12:00:04 +0100"
+
 # Attributes from Felix Online V1
 id: "1460"
 old_path: /tech/1460/the-felix-tech-guide-2011
 aliases:
  - /tech/1460/the-felix-tech-guide-2011
+imported: true
+comments:
+ - about a 101001000 connection bescaue it just isnt going to happen Everything Ive read on every forum I can find says its due to the weak processor that WD chose to use to run the Linux OS driving the whole thing I get 11MBs max and that is using TerraCopy and not the even slower included windows explorer copy function Moving my 130GB music collection yes all legal took hours I manage that collection with iTunes and Ive made the mistake of trying to update the ID3 tags on an entire genre of music sloooooooow Summary Dont expect the speed of an external USB or FireWire drive it just isnt going to happen but it will serve up music and movies at the same time without missing a beat The only thing to clear your schedule for is making large data transfers or updates I recommend getting your music and movies the way you want them locally and then moving them to this NASHelp other customers find the most helpful reviewsa0Was this review helpful to youa0   a0When Valentines Working day or
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - about a 101001000 connection bescaue it just isnt going to happen Everything Ive read on every forum I can find says its due to the weak processor that WD chose to use to run the Linux OS driving the whole thing I get 11MBs max and that is using TerraCopy and not the even slower included windows explorer copy function Moving my 130GB music collection yes all legal took hours I manage that collection with iTunes and Ive made the mistake of trying to update the ID3 tags on an entire genre of music sloooooooow Summary Dont expect the speed of an external USB or FireWire drive it just isnt going to happen but it will serve up music and movies at the same time without missing a beat The only thing to clear your schedule for is making large data transfers or updates I recommend getting your music and movies the way you want them locally and then moving them to this NASHelp other customers find the most helpful reviewsa0Was this review helpful to youa0   a0When Valentines Working day or
-imported: true
 ---
 
 Welcome to Imperial! You’ve done well to make it here; for the next few years you will get to experience extreme levels of stress, a rapidly receding hairline and the effects of excess Red Bull consumption (seizure, in the case of one of my housemates).

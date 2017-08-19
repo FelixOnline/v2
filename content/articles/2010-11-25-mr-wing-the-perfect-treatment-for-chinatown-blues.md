@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jamie Williams visits his local Chinese gem in Earl’s Court in hope of an alternative to the West End
 date: "2010-11-25 20:34:44 +0000"
+
 # Attributes from Felix Online V1
 id: "432"
 old_path: /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
 aliases:
  - /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
+imported: true
+comments:
+ - I have to say I am in total agreement with the abouve postfab place and woth every pound spent
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have to say I am in total agreement with the abouve postfab place and woth every pound spent
-imported: true
 ---
 
 The 12th November, 4:48 pm: e-mail received asking me to review Mr Wing, a Chinese restaurant in Earl’s Court.

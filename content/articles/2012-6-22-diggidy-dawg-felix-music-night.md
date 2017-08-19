@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Music sees out the year in Metric
 date: "2012-06-22 16:21:37 +0100"
+
 # Attributes from Felix Online V1
 id: "2580"
 old_path: /music/2580/diggidy-dawg-felix-music-night
 aliases:
  - /music/2580/diggidy-dawg-felix-music-night
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Saturday saw the return of Felix Music Night for their final party of the year and boy, was it a party. Things were kicked off with an uplifting jazz & bass set from __Phrij__. Accompanying his selection, __Gabor Kerekes__ shone the hypnotic motion of oils, colours and washing up liquid swirling through each other through an old-school over-head projector.

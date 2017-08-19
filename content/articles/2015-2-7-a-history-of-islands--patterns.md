@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles takes a look at the British Museum's display of Pacific cloth
 date: "2015-02-07 19:06:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5202"
 old_path: /arts/5202/a-history-of-islands--patterns
 aliases:
  - /arts/5202/a-history-of-islands--patterns
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you want to gauge the measure of a culture, you only need to look at their clothing. The stuffy moralism of the British Puritans was reflected in their monochromatic dress; the grotesque opulence of pre-revolutionary France is woven into the gowns of Marie Antoinette; and – as the new exhibit at the __British Museum__ shows us – the pattern on your barkcloth can mark anything from status, to age, to cultural group.

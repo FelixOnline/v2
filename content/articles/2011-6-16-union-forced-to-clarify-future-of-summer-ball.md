@@ -4,16 +4,24 @@ title: >
 subtitle: >
   No concrete long-term strategy in place says Union
 date: "2011-06-16 18:45:50 +0100"
+
 # Attributes from Felix Online V1
 id: "1375"
 old_path: /news/1375/union-forced-to-clarify-future-of-summer-ball
 aliases:
  - /news/1375/union-forced-to-clarify-future-of-summer-ball
+imported: true
+comments:
+ - Felix did report on Councils decision httpfelixonlinecouknews1378councildeniesdeputypresidentfinancesserviceshonorarylifemembershipIt was on Page 3 of this weeks edition httpfelixonlinecoukarchiveIC_20112011_1493_ApdfIs Felix going to report on why Ravi wasnt awarded an HLM this year
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Felix did report on Councils decision httpfelixonlinecouknews1378councildeniesdeputypresidentfinancesserviceshonorarylifemembershipIt was on Page 3 of this weeks edition httpfelixonlinecoukarchiveIC_20112011_1493_ApdfIs Felix going to report on why Ravi wasnt awarded an HLM this year
-imported: true
 ---
 
 The Union has been forced to clarify that no plans for the future of the Summer Ball have been set in stone after several Deputy Presidents raised concerns following [last week’s Felix article](http://felixonline.co.uk/news/1350/union-unveil-ambitious-future-for-summer-ball/). Union President Alex Kendall said that the statement given to Felix regarding plans for the future of the Ball gave the “wrong impression” that the decisions had already been made and emphasied that student input would be sought and included in future decisions.

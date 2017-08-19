@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross wILL...
 date: "2014-02-14 05:05:39 +0000"
+
 # Attributes from Felix Online V1
 id: "4380"
 old_path: /news/4380/science-fiction-and-fantasy-convention-returns-to-imperial-on-february-22
 aliases:
  - /news/4380/science-fiction-and-fantasy-convention-returns-to-imperial-on-february-22
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross will also be joined by Imperial’s Professor David Southwood – Chair of the Royal Astronomical Society and patron of the SF Foundation. Organised by the Science Fiction, Fantasy and Gothic Horror Society and currently in its thirty first year, the theme of the convention this time round will be ‘Survival’.

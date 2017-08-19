@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With twice as many respondents as the year before, Felix brings you another snapshot of the sexual lives of Imperial students – now with more statistical relevance
 date: "2012-03-01 22:17:01 +0000"
+
 # Attributes from Felix Online V1
 id: "2285"
 old_path: /news/2285/felix-sex-survey-2012
 aliases:
  - /news/2285/felix-sex-survey-2012
+imported: true
+comments:
+ - Read the results of the survey in their entirety from pages X to XX in LINK TO ARCHIVEthis weeks issue of FelixLINK Alternatively just LINK TO IMAGEstare at the pretty infographicsLINKAlternatively insert smaller image of centrefold linking to highres versionI WANT TO READ ITRead the results of the survey in their entirety from pages X to XX in LINK TO ARCHIVEthis weeks issue of FelixLINK Alternatively just LINK TO IMAGEstare at the pretty infographicsLINKOh youYou need to upload the paper every Friday morning guysSo how many gayslesbians this year Did we get at least one as opposed to last yearApart from that amazed how active imperial actually is Still love the big V under loss of virginity
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Read the results of the survey in their entirety from pages X to XX in LINK TO ARCHIVEthis weeks issue of FelixLINK Alternatively just LINK TO IMAGEstare at the pretty infographicsLINKAlternatively insert smaller image of centrefold linking to highres versionI WANT TO READ ITRead the results of the survey in their entirety from pages X to XX in LINK TO ARCHIVEthis weeks issue of FelixLINK Alternatively just LINK TO IMAGEstare at the pretty infographicsLINKOh youYou need to upload the paper every Friday morning guysSo how many gayslesbians this year Did we get at least one as opposed to last yearApart from that amazed how active imperial actually is Still love the big V under loss of virginity
-imported: true
 ---
 
 The number of respondents we had to the sex survey this year has been almost overwhelming. 1063 of you replied, and only about 20 of them as far as we could tell were blatant trolls (thank you guys btw for making us laugh).

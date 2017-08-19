@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Lehman Brothers lose a law suit against Barclays. Lehman considering to appeal the ruling.
 date: "2011-02-24 19:51:09 +0000"
+
 # Attributes from Felix Online V1
 id: "871"
 old_path: /biz/871/lehman-loses-law-suit-in-us-against-barclays
 aliases:
  - /biz/871/lehman-loses-law-suit-in-us-against-barclays
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The estate of Lehman Brothers lost a law suit on Wednesday against Barclays over the sale of its investment banking and brokerage businesses to Barclays. The sale was made in September 2008 in the same week that Lehman filed for Chapter 11 bankruptcy. The company received $1.85 billion and was claiming in its law suit that the figure should have been higher. Attempting to raise funds to repay some of its $360 billion debt to creditors, Lehman has also sued J. P. Morgan, Bank of America, and Canadian Imperial Bank of Commerce over similar complaints.

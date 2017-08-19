@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Clara Clark Nevola is taken on a journey to the fun side of the ROH
 date: "2015-05-06 16:34:38 +0100"
+
 # Attributes from Felix Online V1
 id: "5496"
 old_path: /arts/5496/an-operatic-romp-through-60s-italy
 aliases:
  - /arts/5496/an-operatic-romp-through-60s-italy
+imported: true
+comments:
+ - fitflops sale aufitflop sale australia httpaustraliafitflopsblogspotcombuy cheap birkenstocksbirkenstock madrid sandals httpbirkenstockaustraliamallscomlouboutin lady peepchristian louboutin outlet online httpcanadachristianlouboutinblogspotcomAs for your technical side of gaming it was much smoother and more realistic approach past different versions Amazoncom and RocketmailVideo Games were great resources for video game informationcrdits fut rapidement httpcreditsfutcomlouboutin peep toes canadachristian louboutin outlet canada httpcanadachristianlouboutinblogspotcomOGsEv8 httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops sale aufitflop sale australia httpaustraliafitflopsblogspotcombuy cheap birkenstocksbirkenstock madrid sandals httpbirkenstockaustraliamallscomlouboutin lady peepchristian louboutin outlet online httpcanadachristianlouboutinblogspotcomAs for your technical side of gaming it was much smoother and more realistic approach past different versions Amazoncom and RocketmailVideo Games were great resources for video game informationcrdits fut rapidement httpcreditsfutcomlouboutin peep toes canadachristian louboutin outlet canada httpcanadachristianlouboutinblogspotcomOGsEv8 httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 It would be understandable if a comic opera about a love triangle – featuring a randy Turkish prince, a doddering old man, and his unfaithful young wife – struggled to be relevant. Throw in a few jokes about Gypsies, the inconstancy of women, and old men falling into plates of spaghetti and it turns into an unpalatable cocktail of racism, sexism and slapstick comedy.

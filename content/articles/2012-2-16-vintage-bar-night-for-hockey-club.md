@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial College Hockey Club serve up free shots and more!
 date: "2012-02-16 21:32:26 +0000"
+
 # Attributes from Felix Online V1
 id: "2191"
 old_path: /news/2191/vintage-bar-night-for-hockey-club
 aliases:
  - /news/2191/vintage-bar-night-for-hockey-club
+imported: true
+comments:
+ - How can our sabbaticals and our union claim to be run effectively by students when this article quite clearly shows otherwise At some point along the management chain of 568 and Metric something is going wrong If a club in Fulham can take business away from the Student Union purely due to financial riskgain good music and good drinks deals something must be wrong The expectations and needs of clubs and most importantly students who attend Imperial are not being fulfilled It is great to see this being highlighted Well done FelixAs the article mentioned this is not the first time that a club or society has held an event here  the Rugby club held two events here even before Hockey came along  and Artsfest are doing one this week This is pretty much a direct consequence of the horrific reputation that the Union has with Clubs and Societies at the moment what with the Responsible Retailing of Alcohol policy casting a shadow over whats supposed to be a studentled barI have been vocal on this bef
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - How can our sabbaticals and our union claim to be run effectively by students when this article quite clearly shows otherwise At some point along the management chain of 568 and Metric something is going wrong If a club in Fulham can take business away from the Student Union purely due to financial riskgain good music and good drinks deals something must be wrong The expectations and needs of clubs and most importantly students who attend Imperial are not being fulfilled It is great to see this being highlighted Well done FelixAs the article mentioned this is not the first time that a club or society has held an event here  the Rugby club held two events here even before Hockey came along  and Artsfest are doing one this week This is pretty much a direct consequence of the horrific reputation that the Union has with Clubs and Societies at the moment what with the Responsible Retailing of Alcohol policy casting a shadow over whats supposed to be a studentled barI have been vocal on this bef
-imported: true
 ---
 
 The [Imperial College Hockey Club](http://www.union.ic.ac.uk/acc/hockey/) (ICHC) hosted a bar night at Vintage, formerly Chateau 6, on Thursday last week. The event was open to all students and served as a way for both students involved in sports and others to blow off some steam before the all-important Varsity games this March.

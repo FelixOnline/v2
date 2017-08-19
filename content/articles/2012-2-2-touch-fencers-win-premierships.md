@@ -4,16 +4,23 @@ title: >
 subtitle: >
   IC confirm reigning champion status at Ethos in weekend tournament
 date: "2012-02-02 23:10:07 +0000"
+
 # Attributes from Felix Online V1
 id: "2106"
 old_path: /sport/2106/touch-fencers-win-premierships
 aliases:
  - /sport/2106/touch-fencers-win-premierships
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The mantle of success is never an easy thing to bear, especially so in sport. Success breeds expectation, which translates into pressure – exactly the sort of thing you don’t want when you’re trying to reproduce past exploits.

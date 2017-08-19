@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Their head of Estates said “some people just simply cannot afford to live in London”
 date: "2016-03-04 11:25:21 +0000"
+
 # Attributes from Felix Online V1
 id: "5996"
 old_path: /news/5996/ucl-rent-strike-steps-up-a-gear
 aliases:
  - /news/5996/ucl-rent-strike-steps-up-a-gear
+imported: true
+comments:
+ - hi my daughter has an offer from ucl and is looking for on campus accomodation  but looking at the strike etc and student issues we are a little concerned  can anyone recomend good clean accomodation in ucl university campus which does not have rats cockroaches etc  self catered preferred  would be sooo grateful hank you
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - hi my daughter has an offer from ucl and is looking for on campus accomodation  but looking at the strike etc and student issues we are a little concerned  can anyone recomend good clean accomodation in ucl university campus which does not have rats cockroaches etc  self catered preferred  would be sooo grateful hank you
-imported: true
 ---
 
 The rent strikes that UCL students have been undertaking since late January are gaining more and more traction, now boasting a cohort of over 500 disgruntled tenants.

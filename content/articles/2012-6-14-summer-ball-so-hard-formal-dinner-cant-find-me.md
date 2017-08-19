@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A review of the Union
 date: "2012-06-14 19:43:49 +0100"
+
 # Attributes from Felix Online V1
 id: "2550"
 old_path: /comment/2550/summer-ball-so-hard-formal-dinner-cant-find-me
 aliases:
  - /comment/2550/summer-ball-so-hard-formal-dinner-cant-find-me
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 You can’t deny that the Union isn’t carefully considering the financial onset of this year’s Summer Ball. Regrettable as the cancellation of the on-campus Formal Dinner was to those preparing their own formal attire, the decision will not have an impact on the financial success of the event, with the tickets having been sold at cost price.

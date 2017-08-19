@@ -4,16 +4,24 @@ title: >
 subtitle: >
   35% of students will be voting Conservative next week, whilst another 30% will be choosing Labour
 date: "2015-05-01 00:09:01 +0100"
+
 # Attributes from Felix Online V1
 id: "5477"
 old_path: /news/5477/imperial-students-most-likely-to-vote-conservative-felix-poll-finds
 aliases:
  - /news/5477/imperial-students-most-likely-to-vote-conservative-felix-poll-finds
+imported: true
+comments:
+ - Its truly very complex in this active life to listen news on TV so I only use world wide web for that purpose and get the newest newsfake moncler vests xxl httpcrownmodelscomusafakemonclervestsxxl12840html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its truly very complex in this active life to listen news on TV so I only use world wide web for that purpose and get the newest newsfake moncler vests xxl httpcrownmodelscomusafakemonclervestsxxl12840html
-imported: true
 ---
 
 35% of students will be voting for the Conservative party this year, although a further 30% will be giving the Labour party their vote, our Felix opinion poll shows.

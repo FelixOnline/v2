@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Chrysostomos Meli inspects just what has gone wrong with Windows over the years
 date: "2014-11-24 13:00:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4948"
 old_path: /tech/4948/microsoft-stepping-back-into-the-future
 aliases:
  - /tech/4948/microsoft-stepping-back-into-the-future
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Since the explosion of the smartphone, Microsoft has been facing an ever-increasing uphill struggle. With the introduction of iOS and Android, Windows is no longer the only viable OS option out there. iPads and Android tablets might not be the productivity powerhouses that Windows is, but they have certainly provided alternatives to people that would otherwise have no other choice but to buy a Windows laptop. Bill Gates’ brainchild is still by far the number one operating system for personal computers but it hasn’t been showing the growth it used to – and PC manufacturers aren’t happy.

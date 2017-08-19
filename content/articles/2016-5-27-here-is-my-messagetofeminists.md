@@ -4,16 +4,23 @@ title: >
 subtitle: >
   'Social justice warriors' would do well to listen to their own sermon of tolerance
 date: "2016-05-27 08:46:04 +0100"
+
 # Attributes from Felix Online V1
 id: "6202"
 old_path: /comment/6202/here-is-my-messagetofeminists
 aliases:
  - /comment/6202/here-is-my-messagetofeminists
+imported: true
+comments:
+ - not a big fan of this article its bogged down with jargon and has a really superior toneTheres a lot of treating a groups of individuals as having a monolithic set of views which is also really flawedIf you thought Mark Ruffalos tumblr post was going to put people off feminism this is a whole other ballgameHi thanks for the commentI was concerned someone would take it negatively like you did so I did actually ask the editor to put an addendum in but this wasnt possible as Id then be exceeding the word limitThis was my addendum which I now wish Id pushed harder to get written inThe writer is not antifeminist and hopes that his views will not be taken as inflammatory The writer merely wishes to express his concern with how many feminists are representing the movement but more importantly how certain social theories which have been widely circulated by contemporary feminism are now being used to justify intolerance and actual harassment The writer is open to having his views co
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - not a big fan of this article its bogged down with jargon and has a really superior toneTheres a lot of treating a groups of individuals as having a monolithic set of views which is also really flawedIf you thought Mark Ruffalos tumblr post was going to put people off feminism this is a whole other ballgameHi thanks for the commentI was concerned someone would take it negatively like you did so I did actually ask the editor to put an addendum in but this wasnt possible as Id then be exceeding the word limitThis was my addendum which I now wish Id pushed harder to get written inThe writer is not antifeminist and hopes that his views will not be taken as inflammatory The writer merely wishes to express his concern with how many feminists are representing the movement but more importantly how certain social theories which have been widely circulated by contemporary feminism are now being used to justify intolerance and actual harassment The writer is open to having his views co
-imported: true
 ---
 
 There has been a recent rise of an online stronghold of cultural libertarianism, which has been deemed by some to be a reactionary movement against the regressive left. Classically liberal and conservative figures are breaking down the barriers between the political left and right, and are coming together to discuss a multitude of ideas including free speech, political correctness, censorship and 'safe spaces' in the university scene, and cultural relativity.

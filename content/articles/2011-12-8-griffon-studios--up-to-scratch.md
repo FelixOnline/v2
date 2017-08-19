@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A term of initial occupancy issues for new postgraduate accommodation
 date: "2011-12-08 19:59:48 +0000"
+
 # Attributes from Felix Online V1
 id: "1905"
 old_path: /news/1905/griffon-studios--up-to-scratch
 aliases:
  - /news/1905/griffon-studios--up-to-scratch
+imported: true
+comments:
+ - Is the previous governments poverty line measure pre or post tax thoughIMPORTANTHiI would strongly advise anyone who is looking at accommodation options NOT to book accommodation with GradpadI am currently a resident at Griffon Studios and my experience has been absolutely terrible and has affected my studies I really dont want anyone else to fall into this trapWas moved against my wishes to a different accom to the one I bookedInternet doesnt workThey lose rent paymentsAll appliances in my room have broken takes up to a month to get them fixedYes there has been issues but then its a brand new place so its quite normal to have minor issues as mentioned I am a resident here as well and I am very appreciative of the enthusiastic efforts of the staff and I find the quality quite high here Wireless internet is an issue and I sent an email two days ago about my complaint and today received several emails and a phone call for followup So overall except for its sketchy
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Is the previous governments poverty line measure pre or post tax thoughIMPORTANTHiI would strongly advise anyone who is looking at accommodation options NOT to book accommodation with GradpadI am currently a resident at Griffon Studios and my experience has been absolutely terrible and has affected my studies I really dont want anyone else to fall into this trapWas moved against my wishes to a different accom to the one I bookedInternet doesnt workThey lose rent paymentsAll appliances in my room have broken takes up to a month to get them fixedYes there has been issues but then its a brand new place so its quite normal to have minor issues as mentioned I am a resident here as well and I am very appreciative of the enthusiastic efforts of the staff and I find the quality quite high here Wireless internet is an issue and I sent an email two days ago about my complaint and today received several emails and a phone call for followup So overall except for its sketchy
-imported: true
 ---
 
 The Christmas holidays approach, signalling the end of the first term for the residents in the new [Griffon Studios](http://www.gradpaduk.com/properties/griffon-studios). The new halls of residence, branded a part of accommodation option provider GradPad, opened this October exclusively for postgraduate students. Located south of the river in Battersea, it boasts “affordable, secure and high quality accommodation”. It emulates top-notch student living; over 450 modern studio apartments with wireless internet, free gym on site, large social space with plasma TVs, and a host of shops within five minutes walk. But has this ‘GradPad’ lived up to all of these claims? Upon investigation beneath the shiny exterior of Griffon Studios, cracks appear to have emerged.

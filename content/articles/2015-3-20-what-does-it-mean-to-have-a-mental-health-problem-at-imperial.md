@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Butcher investigates what you can do if you need help
 date: "2015-03-20 14:58:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5420"
 old_path: /features/5420/what-does-it-mean-to-have-a-mental-health-problem-at-imperial
 aliases:
  - /features/5420/what-does-it-mean-to-have-a-mental-health-problem-at-imperial
+imported: true
+comments:
+ - I know a few people who had very bad experiences with a specific doctor at IC Health Centre when they approached them about their depression Nonetheless I wouldnt discourage anyone from going to see the health centre Im sure there are some fantastic doctors there and if any arent suited to mental health then discouraging people from going will only continue to hide the problemIn my experience friends at Imperial have been open about mental health issues and supported each other though I think there is a problem with the more competitive students at imperial creating an environment where people are scared to talk about it and have seen instances where I suspect competitive students have distanced themselves from people who have confided in them about their mental health issues But this mustnt deter people those competitive students may themselves be suffering from poor mental health and worse may not even realise it Absolutely anyone can suffer from mental health issues we dont consider p
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I know a few people who had very bad experiences with a specific doctor at IC Health Centre when they approached them about their depression Nonetheless I wouldnt discourage anyone from going to see the health centre Im sure there are some fantastic doctors there and if any arent suited to mental health then discouraging people from going will only continue to hide the problemIn my experience friends at Imperial have been open about mental health issues and supported each other though I think there is a problem with the more competitive students at imperial creating an environment where people are scared to talk about it and have seen instances where I suspect competitive students have distanced themselves from people who have confided in them about their mental health issues But this mustnt deter people those competitive students may themselves be suffering from poor mental health and worse may not even realise it Absolutely anyone can suffer from mental health issues we dont consider p
-imported: true
 ---
 
 If you have 400 Facebook friends aged 16 to 24, the chances are that 14 of them have generalised anxiety disorder, 35 of them have self-harmed and 24 of them have attempted suicide. Over our life time, a quarter of us will suffer from a mental health problem.

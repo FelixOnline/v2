@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Don't hate them cause they're well protected
 date: "2016-12-16 16:25:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6626"
 old_path: /sport/6626/ic-american-football-in-playoff-contention
 aliases:
  - /sport/6626/ic-american-football-in-playoff-contention
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It was an early rise. Apparently too early for some of our squad. We embarked on our journey to the University of East Anglia Pirates with a heavily depleted squad and a hubris that we would make them walk the plank once again.

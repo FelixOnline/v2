@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lizzie Riach is transported back in time by the RA’s Moroni exhibition
 date: "2014-11-10 21:08:41 +0000"
+
 # Attributes from Felix Online V1
 id: "4814"
 old_path: /arts/4814/discover-the-life-work-of-an-italian-master
 aliases:
  - /arts/4814/discover-the-life-work-of-an-italian-master
+imported: true
+comments:
+ - Baseball and poker end up being the only teo activities rrn which you might still improve Score some goals an individual will be rewarded The running backs in this particular game always be the deciding factorfifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Baseball and poker end up being the only teo activities rrn which you might still improve Score some goals an individual will be rewarded The running backs in this particular game always be the deciding factorfifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 Are you interested in portraiture and the state of affairs in Italy during the sixteenth century? Have you ever wondered how the great masters like Caravaggio and Velasquez were inspired? The answers lie in the Royal Academy’s latest exhibition, where you are faced with works from throughout the life of Giovanni Battista Moroni, a relatively unknown Italian painter who was able to capture the likeness and personality of his sitters with apparent ease. The portraits are done with such skill that they seem to capture precise moments in time rather than simply standing in the room you are transported back to late Renaissance Italy.

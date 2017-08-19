@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Our out-dated attitude to drugs is doing more harm than good. Legalising them is the most sensible solution.
 date: "2010-11-04 18:52:19 +0000"
+
 # Attributes from Felix Online V1
 id: "317"
 old_path: /comment/317/bans-dont-work
 aliases:
  - /comment/317/bans-dont-work
+imported: true
+comments:
+ - Ties in neatly with Professor Nutt et als latest conclusions that alcohol is in fact worse than heroin and every other substance out there Hardly surprising results thoughThe just say no mentality is a bit dated  an ecstasy tablet wont kill you and wouldnt have killed that girl if shed been properly educated on water intoxication and I swear the media hype about mephedrone turned out to be a hoax ie mephedrone wasnt the cause of deathIf the government was really concerned about safety theyd legalise drugs and make them state run Similar to abortions for example before you had women being severely injured and killed by backalley jobs but it didnt put anyone off whereas now they can go to a hospital and have it done safely forget the cries of religious quacksI sometimes realise that if Britain still had the death penalty no current political leader would have the guts to abolish itSimon JenkinsLegalising drugs would be a very bad idea Mephedrone turned out to be
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Ties in neatly with Professor Nutt et als latest conclusions that alcohol is in fact worse than heroin and every other substance out there Hardly surprising results thoughThe just say no mentality is a bit dated  an ecstasy tablet wont kill you and wouldnt have killed that girl if shed been properly educated on water intoxication and I swear the media hype about mephedrone turned out to be a hoax ie mephedrone wasnt the cause of deathIf the government was really concerned about safety theyd legalise drugs and make them state run Similar to abortions for example before you had women being severely injured and killed by backalley jobs but it didnt put anyone off whereas now they can go to a hospital and have it done safely forget the cries of religious quacksI sometimes realise that if Britain still had the death penalty no current political leader would have the guts to abolish itSimon JenkinsLegalising drugs would be a very bad idea Mephedrone turned out to be
-imported: true
 ---
 
 Since the not so level-headed Mephedrone debate you’d have hoped that people could see how prohibition can only lead to problems and that legalisation of narcotics isn’t such a bad thing, but judging from the idiotic grumbles I keep hearing, it seems people still aren’t quite getting it.

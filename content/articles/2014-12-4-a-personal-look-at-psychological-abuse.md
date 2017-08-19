@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An anonymous writer’s personal experience with emotional abuse and the warning signs
 date: "2014-12-04 18:56:20 +0000"
+
 # Attributes from Felix Online V1
 id: "4990"
 old_path: /welfare/4990/a-personal-look-at-psychological-abuse
 aliases:
  - /welfare/4990/a-personal-look-at-psychological-abuse
+imported: true
+comments:
+ - Great internet site It looks really expert Sustain the excellent workNHL 17 httpwwwtos50comnode38670DF5GWv  sjzkewrqvdxi urlhttplggoenlwlznncomlggoenlwlznnurl linkhttpffvxxoyxtlywcomffvxxoyxtlywlink httpyvlpuivhnngscom
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great internet site It looks really expert Sustain the excellent workNHL 17 httpwwwtos50comnode38670DF5GWv  sjzkewrqvdxi urlhttplggoenlwlznncomlggoenlwlznnurl linkhttpffvxxoyxtlywcomffvxxoyxtlywlink httpyvlpuivhnngscom
-imported: true
 ---
 
 Αt a friend’s house party last week I met a couple that brought back a few memories I had hoped to keep locked up, and now, huddled next to the radiator in my otherwise arctic flat, I try to write this for what seems like the hundredth time. I want to write about emotional abuse, its warning signs, and illustrate this all with my own experiences because looking back now, I feel like had I known what it was that was happening to me, I would have got out of there much, much earlier.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kings Park Capital founder Jason Katz talks to Imperial Investors Club, Deepka Rana reports
 date: "2012-03-01 22:43:46 +0000"
+
 # Attributes from Felix Online V1
 id: "2289"
 old_path: /biz/2289/putting-a-katz-amongst-the-pigeons
 aliases:
  - /biz/2289/putting-a-katz-amongst-the-pigeons
+imported: true
+comments:
+ - Hi Bob Unfortunately the wrong CMYK copy of the photo was uploaded last week  we have now rectified the issue and put up the originalBad contrast editing on my picture Why you guys bother doing this
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hi Bob Unfortunately the wrong CMYK copy of the photo was uploaded last week  we have now rectified the issue and put up the originalBad contrast editing on my picture Why you guys bother doing this
-imported: true
 ---
 
 Jason Katz, a renowned investment banker who turned his hand to private equity, visited Imperial College to share his knowledge and advice in an event organised by the Imperial Speaker’s Club and the Imperial Investment Club.

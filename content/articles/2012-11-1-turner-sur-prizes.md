@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The ever controversial prize succeeds this year with evocative and thought provoking nominees
 date: "2012-11-01 22:49:59 +0000"
+
 # Attributes from Felix Online V1
 id: "2795"
 old_path: /arts/2795/turner-sur-prizes
 aliases:
  - /arts/2795/turner-sur-prizes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Alongside death and taxes, one certainty in life is the controversy generated every year when the Tate releases the shortlist for [the Turner Prize](http://www.tate.org.uk/whats-on/tate-britain/exhibition/turner-prize-2012). With past winners including Damien Hirst and Grayson Perry, the shortlist has always trod the line between great and gimmicky. However this year, all the work exhibited is pretty incredible.

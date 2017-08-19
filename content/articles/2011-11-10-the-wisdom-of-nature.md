@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Going organic with the latest natural foods
 date: "2011-11-10 21:56:15 +0000"
+
 # Attributes from Felix Online V1
 id: "1737"
 old_path: /food/1737/the-wisdom-of-nature
 aliases:
  - /food/1737/the-wisdom-of-nature
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The truth is that organic products have managed to attract a large number of people in the United Kingdom. In addition, the increase in the number of people buying organic goods is showing no signs of slowing down. The supporters of this ‘green lifestyle’ believe that it is not just a fashion trend that is going to disappear in the future, as they argue that organic products are of greater quality despite their slightly higher cost.

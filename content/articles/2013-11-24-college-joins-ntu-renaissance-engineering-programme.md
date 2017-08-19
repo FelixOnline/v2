@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Nanyang Technological University’s (NTU) Renaissance Engineering Programme (REP) picks the top 50 engineering students that are trained to be the “Engineering Leaders of Tomorrow”. Last week, Imperial signed a contract with NTU agreeing to partake in this scheme.
 date: "2013-11-24 15:38:52 +0000"
+
 # Attributes from Felix Online V1
 id: "4096"
 old_path: /news/4096/college-joins-ntu-renaissance-engineering-programme
 aliases:
  - /news/4096/college-joins-ntu-renaissance-engineering-programme
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The Nanyang Technological University’s (NTU) Renaissance Engineering Programme (REP) picks the top 50 engineering students that are trained to be the “Engineering Leaders of Tomorrow”. Last week, Imperial signed a contract with NTU agreeing to partake in this scheme.

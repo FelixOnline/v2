@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Oli Benton investigates the inner workings of the College and the Union, and what people do and don’t know about how they are run
 date: "2013-06-20 23:49:50 +0100"
+
 # Attributes from Felix Online V1
 id: "3728"
 old_path: /news/3728/uncommunicative-university
 aliases:
  - /news/3728/uncommunicative-university
+imported: true
+comments:
+ - For what little its worth I read it with great interest and had the good fortune to discuss it with the authorAs apparently noone higher up and salaried can be bothered to respond then you can always email icucampaigns with your gripes and Ill gladly do some probingIm amazed that this article has got no comments It might have come out at the wrong time but this highlights some scandalous if unfortunately all too predictable practices by both the University and the Union If anyone has found an official response I would love to see itIve truly mastered a lot of irpmotant matters through your personal post I might like to state that could be a problem in which you can make application for a financial loan and not have to have a cosigner like a Govt Pupil Aid Loan Still for anyone who is getting that college loan through the typical collector you then have to be manufactured ready to use a cosigner willing to allow you to Lenders can certainly bottom their own personal choice ove
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - For what little its worth I read it with great interest and had the good fortune to discuss it with the authorAs apparently noone higher up and salaried can be bothered to respond then you can always email icucampaigns with your gripes and Ill gladly do some probingIm amazed that this article has got no comments It might have come out at the wrong time but this highlights some scandalous if unfortunately all too predictable practices by both the University and the Union If anyone has found an official response I would love to see itIve truly mastered a lot of irpmotant matters through your personal post I might like to state that could be a problem in which you can make application for a financial loan and not have to have a cosigner like a Govt Pupil Aid Loan Still for anyone who is getting that college loan through the typical collector you then have to be manufactured ready to use a cosigner willing to allow you to Lenders can certainly bottom their own personal choice ove
-imported: true
 ---
 
 I wrote an [article last month](http://felixonline.co.uk/comment/3540/an-uncaring-university/) about how Imperial College is run like a business. This business doesn’t have the interests of the students or its academics at heart. The week after my article, [a letter from Ian Howgate](http://felixonline.co.uk/comment/3627/college-put-students-last-at-harlington/), hockey player and former Imperial College Union President, followed up on this.

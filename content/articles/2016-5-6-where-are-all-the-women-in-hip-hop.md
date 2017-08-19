@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Female rappers rarely talk about sex from any position of power
 date: "2016-05-06 09:59:09 +0100"
+
 # Attributes from Felix Online V1
 id: "6127"
 old_path: /music/6127/where-are-all-the-women-in-hip-hop
 aliases:
  - /music/6127/where-are-all-the-women-in-hip-hop
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With hip hop, as a genre and a culture, passing its 40th anniversary in recent years, a female presence is as absent as ever. This is, of course, not for a lack of talent. Ignoring some examples like **Iggy Azalea** and **Kreayshawn**, there is a lot of female talent to be found in the realm of hip hop music. But when I go onto the featured rap artist page on Spotify I only see two women (**Missy Elliot** and **MC Lyte**) and around 60 men. As someone who wants to see more **Lauryn Hill**s in the world, I really have to question why this is.

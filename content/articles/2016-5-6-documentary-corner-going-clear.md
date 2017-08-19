@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-06 10:14:14 +0100"
+
 # Attributes from Felix Online V1
 id: "6132"
 old_path: /film/6132/documentary-corner-going-clear-
 aliases:
  - /film/6132/documentary-corner-going-clear-
+imported: true
+comments:
+ - ffypdj httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - ffypdj httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Scientology is not exactly the rarest documentary topic. Countless attempts have been made in the past to expose various aspects of this ‘Church’ in the past – discussing its history or telling the stories of those who have left its ranks. Perhaps the most famous documentary prior to the release of _Going Clear: Scientology and the Prison of Belief_ was the BBC Panorama’s _Scientology and Me_. You’ve probably seen the clip from this programme wherein the host, John Sweeney, explodes at church member Tommy Davis, who managed to finally get under his skin following months of harassment. This is, unfortunately, the usual way these documentaries go: any journalist who has ever tried to independently combat and expose Scientology is quickly met with stalking, harassment, and lawsuits – some Scientology members have even gone so far as to plant child pornography on reporters’ computers. Where the HBO special _Going Clear_ stands out – other than the incredible level of detail it goes into – is that it’s quite hands-off. The presenter, Alex Gibney, gives us his message almost exclusively through the voices of (very) high-ranking ex-members of the church, such as Mike Rinder. I think the backing of the behemoth that is HBO had some part to play in the fearlessness with which this documentary tackles its subject. Ultimately, _Going Clear_ really does serve as the only scientology documentary you’d need to watch to get a full understanding of the movement.

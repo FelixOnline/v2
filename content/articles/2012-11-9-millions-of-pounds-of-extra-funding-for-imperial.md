@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We gotz all your m0neyz
 date: "2012-11-09 00:12:09 +0000"
+
 # Attributes from Felix Online V1
 id: "2833"
 old_path: /news/2833/millions-of-pounds-of-extra-funding-for-imperial
 aliases:
  - /news/2833/millions-of-pounds-of-extra-funding-for-imperial
+imported: true
+comments:
+ - Great for Imperial not that they need the moneyIts a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities  they tend to already be in favourable financial situations and already have the infrastructure in place to produce top class research outputs or knowledge exchange as HEFCE so affectionately describes itShould HEFCE not do more for the neglected universities They are plagued with cuts restructuring and redundancies so may lack the facilities but otherwise have the ability to stimulate economic growth through research
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great for Imperial not that they need the moneyIts a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities  they tend to already be in favourable financial situations and already have the infrastructure in place to produce top class research outputs or knowledge exchange as HEFCE so affectionately describes itShould HEFCE not do more for the neglected universities They are plagued with cuts restructuring and redundancies so may lack the facilities but otherwise have the ability to stimulate economic growth through research
-imported: true
 ---
 
 Imperial are to beone of twelve universities that are going to benefit from £6m of funding from the Higher Education Funding Council for England (HEFCE).

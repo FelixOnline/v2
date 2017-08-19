@@ -4,16 +4,24 @@ title: >
 subtitle: >
   As the honours system is scrapped, Felix asks whether Imperial could follow suit
 date: "2011-10-13 20:33:51 +0100"
+
 # Attributes from Felix Online V1
 id: "1503"
 old_path: /news/1503/ucl-to-introduce-grade-point-average
 aliases:
  - /news/1503/ucl-to-introduce-grade-point-average
+imported: true
+comments:
+ - I think the GPA grading is a much fairer concept Some UK universities and some courses do not adopt grade inflation This is because universities and departments act independently they have different scoring rules and very little regulationsupervision exists on UK universities For example universities which are not part of the G5 or Russell Group will try to boost their reputation using the employment market as a mean to it Therefore the current grading system is just biased and a bad indication of the student capacity
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I think the GPA grading is a much fairer concept Some UK universities and some courses do not adopt grade inflation This is because universities and departments act independently they have different scoring rules and very little regulationsupervision exists on UK universities For example universities which are not part of the G5 or Russell Group will try to boost their reputation using the employment market as a mean to it Therefore the current grading system is just biased and a bad indication of the student capacity
-imported: true
 ---
 
 University College London is to scrap the widely used honours system, where students are awarded a first, 2:1, 2:2 or third at the end of their degrees, and move towards US style Grade Point Averages (GPA). UCL Provost Professor Malcolm Grant [last week told _The Telegraph_](http://www.telegraph.co.uk/journalists/julie-henry/8815641/University-to-scrap-first-class-degrees-to-combat-award-inflation.html) that “award inflation over the past three decades has led to student performance being essentially recognised by classification into only two main groups: first class and upper second class honours.” He called the system “crude and undistinguished” and said that the changes would “ensure that our students’ mode of study is internationally recognised”.

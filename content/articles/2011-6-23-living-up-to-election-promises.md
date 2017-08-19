@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The question I’m asking is – did they make the difference that they promised?
 date: "2011-06-23 20:54:33 +0100"
+
 # Attributes from Felix Online V1
 id: "1429"
 old_path: /comment/1429/living-up-to-election-promises
 aliases:
  - /comment/1429/living-up-to-election-promises
+imported: true
+comments:
+ - This is an interesting article Simon and I agree that the majority of students do not know if a Sabb has achieved what they set out to do in their manifesto However in the last union council of the year which Im told anyone can attend the Sabbs actually go over what theyve done over the year and usually attach a manifesto too I think it would actually be a good idea to make these public give them to Matt to publish in Felix so the students actually do know what the Sabbs have doneI agreeWith regards to my podcast idea Id like to clarify the reason its vague in my manifesto is due to the limited word countIn truth I dont expect to be able to get the thousandsmillions in funding to create a system similar to that of MIT However that doesnt mean I cant actively encourage lecturers and college I do want all lectures to be recorded we deserve it and I will work hard for it But as Sabb I can only do so much college and lecturers have the final sayWell Ravis a knob so it
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - This is an interesting article Simon and I agree that the majority of students do not know if a Sabb has achieved what they set out to do in their manifesto However in the last union council of the year which Im told anyone can attend the Sabbs actually go over what theyve done over the year and usually attach a manifesto too I think it would actually be a good idea to make these public give them to Matt to publish in Felix so the students actually do know what the Sabbs have doneI agreeWith regards to my podcast idea Id like to clarify the reason its vague in my manifesto is due to the limited word countIn truth I dont expect to be able to get the thousandsmillions in funding to create a system similar to that of MIT However that doesnt mean I cant actively encourage lecturers and college I do want all lectures to be recorded we deserve it and I will work hard for it But as Sabb I can only do so much college and lecturers have the final sayWell Ravis a knob so it
-imported: true
 ---
 
 "I want it to be the year where your Union makes a Guinness World Record attempt.” “Vote for me for better quality lecture notes.”

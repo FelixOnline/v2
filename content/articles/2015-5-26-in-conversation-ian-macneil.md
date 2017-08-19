@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ian MacNeil is the set designer for Everyman, currently on at the National Theatre. Felix Arts’ Jack Steadman caught up with Ian during the run of Everyman for a chat about his work on the show, as well as a look back at his career.
 date: "2015-05-26 13:20:44 +0100"
+
 # Attributes from Felix Online V1
 id: "5563"
 old_path: /arts/5563/in-conversation-ian-macneil
 aliases:
  - /arts/5563/in-conversation-ian-macneil
+imported: true
+comments:
+ - Simply just had to point out Im delighted I came on the web sitenba 2k16 mt database httpopportunityexchangecomnode190239thank so a lot for your site it assists a lotnba 2k16 mt fast httpdaisyalicebczcom20160411everythingthatyououghttoknowaboutthemaddennfl16gamesay thanks to so a lota lot for your internet site it assists a whole lotnba 2k17 httpuser1470994313182yepcomblog375986_General1561690_Learn_Information_About_NHL_17
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Simply just had to point out Im delighted I came on the web sitenba 2k16 mt database httpopportunityexchangecomnode190239thank so a lot for your site it assists a lotnba 2k16 mt fast httpdaisyalicebczcom20160411everythingthatyououghttoknowaboutthemaddennfl16gamesay thanks to so a lota lot for your internet site it assists a whole lotnba 2k17 httpuser1470994313182yepcomblog375986_General1561690_Learn_Information_About_NHL_17
-imported: true
 ---
 
 Ian MacNeil is the set designer for _Everyman_, currently on at the __National Theatre__. Directed by Rufus Norris, the new Director of the National, and starring Academy Award-winning Chiwetel Ejiofor, the play runs until 30th August. Ian’s previous work includes the likes of _Billy Elliot: The Musical_, for which he won the Tony Award for Best Scenic Design of a Musical, and the critically acclaimed _An Inspector Calls_, which won an Olivier Award for Best Set Design.

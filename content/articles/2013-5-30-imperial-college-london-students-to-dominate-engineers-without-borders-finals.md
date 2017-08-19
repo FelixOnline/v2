@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Three Imperial teams through to the final of the Engineers Without Borders Challenge Finals
 date: "2013-05-30 12:26:51 +0100"
+
 # Attributes from Felix Online V1
 id: "3644"
 old_path: /news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals
 aliases:
  - /news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Three teams of prospective year two students dominated a 2,500 strong national field from thirteen Universities to secure a place in the Engineering Without Borders Challenge Finals taking place at Coventry University next month. The teams, consisting of individuals from multidisciplinary backgrounds (outside of Engineering) endeavoured to solve complex problems affecting the impoverished community of An Minh, Vietnam. All work was co-ordinated in context of the ‘Global Challenges’ field of Imperial Horizons. Their success manifests the core skill bases championed by Imperial Horizons tutors; many hope that it will mark the inception of more future success related to the ancillary courses.

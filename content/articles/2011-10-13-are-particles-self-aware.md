@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pavitar Devgon discusses Brownian motion
 date: "2011-10-13 21:56:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1511"
 old_path: /science/1511/are-particles-self-aware
 aliases:
  - /science/1511/are-particles-self-aware
+imported: true
+comments:
+ - Ill accept responsibility for that apologiesYes you have to grab peoples attention but is it necessary to title your piece in a misleading and ridiculous way that only makes people read it to check that you arent completely insaneSelfaware indeed
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Ill accept responsibility for that apologiesYes you have to grab peoples attention but is it necessary to title your piece in a misleading and ridiculous way that only makes people read it to check that you arent completely insaneSelfaware indeed
-imported: true
 ---
 
 We all think we know what Brownian motion is. It is the way physicists describe the motion of fluids like air and smoke in which the particles moves about, seemingly at random, and diffuse throughout a volume. However, by looking at the microscopic scale where the particles interact, scientists have found a new phenomenon.

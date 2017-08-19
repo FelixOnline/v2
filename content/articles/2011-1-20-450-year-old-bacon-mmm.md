@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It's Sir Francis Bacon's birthday!
 date: "2011-01-20 19:37:34 +0000"
+
 # Attributes from Felix Online V1
 id: "610"
 old_path: /science/610/450-year-old-bacon-mmm-
 aliases:
  - /science/610/450-year-old-bacon-mmm-
+imported: true
+comments:
+ - I did not get your sick joke the page was blocked by some freaking advertisement about movies sport etc There was no unclick button and no way to get rid of that shit What amazed me that you whoever you are makes no difference to me allegedly interested in philosophy and yet did not hesitate to poop this sickness What did I come here  to click on movies or read more about Bacon httpwwwfelixonlinecoukarticle610Absolutely sickCorinna  These are fantastic Lisa  I love the bench it tuenrd out totally fabulous  I am glad your day tuenrd out so good and I am sure these two are going to be smiling just as much when they see what you have captured for them  You rock girlfriend xoxoGrandma  Grandpa Williams  They are all wonderful   my favtiroe is the one of you both smiling in the field ofgoldenrods  What a lovely idea   and such a wonderful happy couple  Love you both sooo much  quote auto insurance   best generic viagra   usually lit
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I did not get your sick joke the page was blocked by some freaking advertisement about movies sport etc There was no unclick button and no way to get rid of that shit What amazed me that you whoever you are makes no difference to me allegedly interested in philosophy and yet did not hesitate to poop this sickness What did I come here  to click on movies or read more about Bacon httpwwwfelixonlinecoukarticle610Absolutely sickCorinna  These are fantastic Lisa  I love the bench it tuenrd out totally fabulous  I am glad your day tuenrd out so good and I am sure these two are going to be smiling just as much when they see what you have captured for them  You rock girlfriend xoxoGrandma  Grandpa Williams  They are all wonderful   my favtiroe is the one of you both smiling in the field ofgoldenrods  What a lovely idea   and such a wonderful happy couple  Love you both sooo much  quote auto insurance   best generic viagra   usually lit
-imported: true
 ---
 
 This weekend, it is time to celebrate bacon. When tucking in to that greasy, hangover-soothing fry-up, take a moment to think about Francis Bacon, who, this weekend, is celebrating the 450th anniversary of his birth.

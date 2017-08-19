@@ -4,16 +4,24 @@ title: >
 subtitle: >
   On paper, The Counsellor should be perfect. Cormac McCarthy’s first original screenplay (a few of his other books have been adapted into screenplays – notably No Country for Old Men and The Road), directed by Ridley Scott, the genius behind Alien and the man with such a passion for McCarthy’s...
 date: "2013-11-24 16:27:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4121"
 old_path: /film/4121/can-fassbender-handle-the-truth
 aliases:
  - /film/4121/can-fassbender-handle-the-truth
+imported: true
+comments:
+ - Loved the movie The performances were great and I have a fondness for talkie movies It didnt feel unfinished to meI personally loved the movie and have been thinking about it for daysin fact I saw it twice  The actors were wonderful and so was the direction and the glorious dialogue  Many people hated it of course for reasons that arent quite clear to me but this is a good review and perhaps does indicate why some might not have liked it  Expectations are important if youre expecting an actionadventure movie with a neat resolution it will disappoint but if you are willing to take it on its own terms it is very rewarding
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Loved the movie The performances were great and I have a fondness for talkie movies It didnt feel unfinished to meI personally loved the movie and have been thinking about it for daysin fact I saw it twice  The actors were wonderful and so was the direction and the glorious dialogue  Many people hated it of course for reasons that arent quite clear to me but this is a good review and perhaps does indicate why some might not have liked it  Expectations are important if youre expecting an actionadventure movie with a neat resolution it will disappoint but if you are willing to take it on its own terms it is very rewarding
-imported: true
 ---
 
 The Counsellor

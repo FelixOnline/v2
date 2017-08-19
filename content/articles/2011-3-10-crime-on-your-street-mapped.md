@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Police.uk throws up little in the way of surprises
 date: "2011-03-10 19:30:00 +0000"
+
 # Attributes from Felix Online V1
 id: "1052"
 old_path: /tech/1052/crime-on-your-street-mapped
 aliases:
  - /tech/1052/crime-on-your-street-mapped
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two burglaries and a case of vehicle crime – not your an average night out in a rough part of London, but a description of the crime in my street in the last month according to the police’s latest initiative, [www.police.uk](http://www.imperialcollegeunion.org/medsin). The site, which allows you to enter a postcode and retrieve detailed crime statistics for the area, has been a massive success, receiving 400m hits in the two months it’s been online.

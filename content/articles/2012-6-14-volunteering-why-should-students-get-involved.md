@@ -4,16 +4,23 @@ title: >
 subtitle: >
   With the upcoming launch of the Imperial Hub next week, Caroline Wood discusses volunteering opportunities at university
 date: "2012-06-14 19:58:25 +0100"
+
 # Attributes from Felix Online V1
 id: "2554"
 old_path: /news/2554/volunteering-why-should-students-get-involved
 aliases:
  - /news/2554/volunteering-why-should-students-get-involved
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As the academic year draws to a close, final projects are handed in, and the last few exams are sat, it’s only natural to reflect on the year gone by. Most of us have clocked up more library hours than we care to remember and spent too many nights in Metric that we wish we remembered more of. We’ve all made a new friend, learnt something new and had a new experience. As Imperial students, not only do we grapple with some of the most academically challenging university courses in the UK, but collectively, we also find time to run over 300 different clubs and societies ranging from IC Rugby Club to DramSoc to CheeseSoc. As if this point needs restating, but contrary to what your academic tutor might tell you, university is about much more than just getting your degree.

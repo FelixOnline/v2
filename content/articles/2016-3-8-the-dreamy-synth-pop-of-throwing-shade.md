@@ -4,16 +4,23 @@ title: >
 subtitle: >
    Nabihah Iqba's latest EP is a hazy blur of sharp light and colour
 date: "2016-03-08 16:51:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6014"
 old_path: /music/6014/the-dreamy-synth-pop-of-throwing-shade
 aliases:
  - /music/6014/the-dreamy-synth-pop-of-throwing-shade
+imported: true
+comments:
+ - You did a good job urlhttpwwwfulltransactionscomindexphpblogs34381531236albiononlineisnotwithoutitsshortfallsAlbion Online SilverurlI made a fool of myselfurlhttpwwwbuildingbetterfathersnetsocialindexphpdoforumgeneral2considertheirvalueinbnsBladeSoul Goldurlhellothis is very good siteurlhttpwwwaboutuscomr4pgcomr4pgurlMuch thanks It is an awesome websitenba 2k16 mt points free httpwinifred9deviantartcomjournalAnessentialrolemayenjoywithNBA2K16coins602757190
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You did a good job urlhttpwwwfulltransactionscomindexphpblogs34381531236albiononlineisnotwithoutitsshortfallsAlbion Online SilverurlI made a fool of myselfurlhttpwwwbuildingbetterfathersnetsocialindexphpdoforumgeneral2considertheirvalueinbnsBladeSoul Goldurlhellothis is very good siteurlhttpwwwaboutuscomr4pgcomr4pgurlMuch thanks It is an awesome websitenba 2k16 mt points free httpwinifred9deviantartcomjournalAnessentialrolemayenjoywithNBA2K16coins602757190
-imported: true
 ---
 
 **Throwing Shade**, AKA Nabihah Iqbal, is an artist who educates. Her background in history and ethnomusicology (in which she holds a degree from SOAS) heavily influences her bi-weekly NTS Radio show, where she weaves sounds from all over the world into a culturally rich sonic tapestry, exploding with colour and exposing listeners to the “weird and wonderful”. As well as this, she’s a producer whose wealth of musical knowledge shines through in each of her glittering compositions.

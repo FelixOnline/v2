@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The world renowned Argentine steak at El Gauchoa
 date: "2010-10-28 19:41:36 +0100"
+
 # Attributes from Felix Online V1
 id: "271"
 old_path: /food/271/an-argentine-legend-in-south-ken
 aliases:
  - /food/271/an-argentine-legend-in-south-ken
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Situated underground, just a stone’s throw from the station, lies South Kensington’s best kept culinary secret. Those with a proclivity for excellent steak can often be observed venturing down the narrow steps into the basement area. Those curious enough to discover its visceral delights will follow. And those who are vegetarians, well… look away now.

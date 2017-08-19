@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Right motives, wrong methods – Occupy isn't all some claim it to be
 date: "2012-01-19 23:21:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2038"
 old_path: /comment/2038/occupy-the-new-year-but-grow-up-first
 aliases:
  - /comment/2038/occupy-the-new-year-but-grow-up-first
+imported: true
+comments:
+ - Emm not all Occupiers are revolutionaries Also a complete overhaul of democracy does not imply revolutionFrom their own newspaper httptheoccupiedtimescoukp643there are a variety of views within the camp on capitalism Many dislike the system and wish to see an alternative many more wish to see the current model reformed The initial statement released by the camp which was agreed upon by consensus makes no mention of overthrowing capitalism yet many media outlets have taken to describing the camp as anticapitalist This is either lazy journalism or it is by design Much of the press has an agenda to discredit or marginalise the Occupy movementIve been trying to find the quote at the start of the article and only found a blog yours I presumeSince your articles premise relies on that quote it seems a little strange it cant be found anywhere on the internet and that you didnt cite its sourceIt looks suspiciously like youre setting up a strawmanHi Jakov
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Emm not all Occupiers are revolutionaries Also a complete overhaul of democracy does not imply revolutionFrom their own newspaper httptheoccupiedtimescoukp643there are a variety of views within the camp on capitalism Many dislike the system and wish to see an alternative many more wish to see the current model reformed The initial statement released by the camp which was agreed upon by consensus makes no mention of overthrowing capitalism yet many media outlets have taken to describing the camp as anticapitalist This is either lazy journalism or it is by design Much of the press has an agenda to discredit or marginalise the Occupy movementIve been trying to find the quote at the start of the article and only found a blog yours I presumeSince your articles premise relies on that quote it seems a little strange it cant be found anywhere on the internet and that you didnt cite its sourceIt looks suspiciously like youre setting up a strawmanHi Jakov
-imported: true
 ---
 
 _Revolution! With its impassioned rhetoric and gritty anger the Occupy movement is intent on overhauling democracy as we know it. Bitter, disaffected people around the world are answering Occupy’s call, and governments are beginning to pay attention to the voice of the disillusioned masses!

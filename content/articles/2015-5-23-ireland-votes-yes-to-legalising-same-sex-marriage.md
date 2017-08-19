@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ireland has made history as the first country in the world to legalise same-sex marriage by popular vote. The final results were 1,201,607 "Yes" votes to 734,300 "No" votes.
 date: "2015-05-23 18:08:29 +0100"
+
 # Attributes from Felix Online V1
 id: "5560"
 old_path: /politics/5560/ireland-votes-yes-to-legalising-same-sex-marriage
 aliases:
  - /politics/5560/ireland-votes-yes-to-legalising-same-sex-marriage
+imported: true
+comments:
+ - andapplications They always spellcheck prrefooad and allow oneother person to prrefooad their applications and essay for errorsSuccessful students do not ignore scholarships that may be local orthose for small amounts Scholarship amounts even as small as50 can add upSuccessful students do not rely on only one source such as theInternet for their scholarship search They use many resourcesMany scholarships on the Internet or in the free scholarshipsearches that you find on the World Wide Web are nationally knownand are harder to win due to greater competition Local and regionalscholarships are not found as easily through an Internet searchalthough they may be easier to win because the applicant pool issmaller You have to use a combination of resources to find asmany scholarships to apply for as possibleSuccessful students market themselves well In their applicationsthey highlight positive aspects about their lives especiallycommunity involvementSuccessful students do not apply to one or two
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - andapplications They always spellcheck prrefooad and allow oneother person to prrefooad their applications and essay for errorsSuccessful students do not ignore scholarships that may be local orthose for small amounts Scholarship amounts even as small as50 can add upSuccessful students do not rely on only one source such as theInternet for their scholarship search They use many resourcesMany scholarships on the Internet or in the free scholarshipsearches that you find on the World Wide Web are nationally knownand are harder to win due to greater competition Local and regionalscholarships are not found as easily through an Internet searchalthough they may be easier to win because the applicant pool issmaller You have to use a combination of resources to find asmany scholarships to apply for as possibleSuccessful students market themselves well In their applicationsthey highlight positive aspects about their lives especiallycommunity involvementSuccessful students do not apply to one or two
-imported: true
 ---
 
 Ireland has made history as the first country in the world to legalise same-sex marriage by popular vote.

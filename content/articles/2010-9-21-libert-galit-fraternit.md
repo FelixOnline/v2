@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dominic MacIver reviews Howard Benton's Danton's Death at the National Theatre
 date: "2010-09-21 14:12:54 +0100"
+
 # Attributes from Felix Online V1
 id: "157"
 old_path: /arts/157/libert-galit-fraternit
 aliases:
  - /arts/157/libert-galit-fraternit
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ck806
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ck806"
 author_name: "Caroline Knight"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The rhetorical bombast of revolutionary Paris, 1794, puts the modern era of bland soundbites, media management and political PR to shame. Obsessive revolutionaries, following and manipulating the public will according to their own bloodthirsty instinct for self-preservation, fill this new production of Büchner’s classic. This production emphasises the struggle between its two main anti-heroes, the sensual, hedonistic Danton and the self-righteous demagogue, Robespierre, the main architects of the Terror.

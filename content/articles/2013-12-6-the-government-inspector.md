@@ -4,16 +4,24 @@ title: >
 subtitle: >
   DramSoc’s winter play this year is Nikolai Gogol’s satirical comedy The Government Inspector. Banned by the tsarist government of Imperial Russia on its first publication, the play makes a mockery of the stupidity, greed and corruption of the officials of a small provincial town
 date: "2013-12-06 04:14:05 +0000"
+
 # Attributes from Felix Online V1
 id: "4193"
 old_path: /arts/4193/the-government-inspector
 aliases:
  - /arts/4193/the-government-inspector
+imported: true
+comments:
+ - This play is sick went to see it the other night  you will laugh your little cotton socks off
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - This play is sick went to see it the other night  you will laugh your little cotton socks off
-imported: true
 ---
 
 __Jack Williams__

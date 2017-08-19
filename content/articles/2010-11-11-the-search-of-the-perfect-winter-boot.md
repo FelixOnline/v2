@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In-keeping with the shearling trend for winter, Felix checks out Ugg’s competition, which comes in the unusual form of CAT’s uber-functional and furry footwear. By: Jennifer Smith
 date: "2010-11-11 20:37:30 +0000"
+
 # Attributes from Felix Online V1
 id: "341"
 old_path: /fashion/341/the-search-of-the-perfect-winter-boot
 aliases:
  - /fashion/341/the-search-of-the-perfect-winter-boot
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 As seen on the Autumn/Winter 2010 catwalks of Milan, CAT’s shearling-lined work boots are quickly becoming the hot fashion trend of this winter. With an eclectic mix of designs for men and women, CAT presents an ideal footwear solution for those seeking a boot encapsulating functionality and vintage style.

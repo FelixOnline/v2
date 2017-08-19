@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Max Eggl rewrites the history of the Emerald Isle in Crusader Kings II
 date: "2012-11-15 21:55:43 +0000"
+
 # Attributes from Felix Online V1
 id: "2906"
 old_path: /games/2906/my-wild-irish-prose-
 aliases:
  - /games/2906/my-wild-irish-prose-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Intro__: Murchad mac Diarmata (1026 – 1070) was a King of Dublin and Leinster, and if you haven’t heard of him, no big deal. He didn’t really accomplish that much, and thus his name has been lost in the realms of history. However, last week, I decided, with the aid of Crusader Kings 2, to give the name of Murchad new meaning! Playing out his life in full glory, and doing things differently from the way he did, Murchad (me) achieved crazy things! If you want to discover how this historical figure lived out his lifein my alternate universe, read his diary that was discovered and translated just yesterday!

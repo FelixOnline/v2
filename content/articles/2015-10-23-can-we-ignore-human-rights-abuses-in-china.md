@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Are we supporting suffering by allying ourselves academically?
 date: "2015-10-23 11:58:00 +0100"
+
 # Attributes from Felix Online V1
 id: "5679"
 old_path: /comment/5679/can-we-ignore-human-rights-abuses-in-china
 aliases:
  - /comment/5679/can-we-ignore-human-rights-abuses-in-china
+imported: true
+comments:
+ - PpG0ck  fsxqsktnaapz urlhttppocphynbhcmbcompocphynbhcmburl linkhttpinutpfydhvjocominutpfydhvjolink httpcyezseziotyacomIm impressed by your writing Are you a professional or just very knebeldgoawleWere a bunch of volunteers and starting a brand new scheme in our community Your website provided us with helpful information to work on Youve done a formidable process and our entire neighborhood can be thankful to younew era fitted hats wholesale httpwwwtwofangtucnfittedhatsThis is a very on account of tally which I just so realize joyful reading httpwwwskilledpillscom Wow cuz this is great work Congrats and keep it upnhl 17 coins httpauroraearthaangelfirecombuynfl17coinshtml
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - PpG0ck  fsxqsktnaapz urlhttppocphynbhcmbcompocphynbhcmburl linkhttpinutpfydhvjocominutpfydhvjolink httpcyezseziotyacomIm impressed by your writing Are you a professional or just very knebeldgoawleWere a bunch of volunteers and starting a brand new scheme in our community Your website provided us with helpful information to work on Youve done a formidable process and our entire neighborhood can be thankful to younew era fitted hats wholesale httpwwwtwofangtucnfittedhatsThis is a very on account of tally which I just so realize joyful reading httpwwwskilledpillscom Wow cuz this is great work Congrats and keep it upnhl 17 coins httpauroraearthaangelfirecombuynfl17coinshtml
-imported: true
 ---
 
 According to the College website, we are the UK’s number one research partner with China. In a speech welcoming Xi Jinping, Professor Alice Gast, president of the university, said “brilliant students and academic collaborations are making both the UK and China stronger, more prosperous and ready to deal with the challenges of this century”. Surely these challenges of the century should include opposing inequality, imprisonment without trial and the persecution of ethnic minorities?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ross Gray discusses the electronic cassette label with Stephen Bishop
 date: "2013-05-08 20:31:01 +0100"
+
 # Attributes from Felix Online V1
 id: "3554"
 old_path: /music/3554/cassette-culture-opal-tapes-interview-
 aliases:
  - /music/3554/cassette-culture-opal-tapes-interview-
+imported: true
+comments:
+ - Yes I need this I need a round little paper cat to sit on my deskFrom a paaercrpftlovingdeskworkeranddedicatedblogreaderAmandinePS I have folded every single month of that Go Scout Creative monthly paaercrpft calendar that you linked to a long time ago I look forward to it the first of every month Thank YouTwitter Maybe it would help you if you didnt look at things as  diet foods   When you want to eat seionhmtg which you should do often like every 23 hours think to yourself   what benefit am I getting from this  So instead of thinking of things you CANT eat bc youre trying to firm up try thinking of what you CAN eat to help you  What you do eat is much more important that what you dont eat  And the little things do add up  For example   try a small handful of nuts but remember to get them without salt  No need for that extra sodium  And drink TONS of water  I know it sounds very cliche but once you get into a habit of really staying h
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rbg10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Yes I need this I need a round little paper cat to sit on my deskFrom a paaercrpftlovingdeskworkeranddedicatedblogreaderAmandinePS I have folded every single month of that Go Scout Creative monthly paaercrpft calendar that you linked to a long time ago I look forward to it the first of every month Thank YouTwitter Maybe it would help you if you didnt look at things as  diet foods   When you want to eat seionhmtg which you should do often like every 23 hours think to yourself   what benefit am I getting from this  So instead of thinking of things you CANT eat bc youre trying to firm up try thinking of what you CAN eat to help you  What you do eat is much more important that what you dont eat  And the little things do add up  For example   try a small handful of nuts but remember to get them without salt  No need for that extra sodium  And drink TONS of water  I know it sounds very cliche but once you get into a habit of really staying h
-imported: true
 ---
 
 Within the past year experimental electronic music has exploded into the D.I.Y. cassette culture within the UK, previously dominated by (but by no means limited to) noise releases. Stephen Bishop, head honcho of prominent label Opal Tapes, spoke to me about its formation, the themes that run through its work and his opinions on noise in electronic music.

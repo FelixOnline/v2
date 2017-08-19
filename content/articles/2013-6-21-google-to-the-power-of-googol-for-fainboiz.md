@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jason Parmar steps into the shoes of a fanboi to review the year
 date: "2013-06-21 00:32:09 +0100"
+
 # Attributes from Felix Online V1
 id: "3736"
 old_path: /tech/3736/google-to-the-power-of-googol-for-fainboiz
 aliases:
  - /tech/3736/google-to-the-power-of-googol-for-fainboiz
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
-imported: true
 ---
 
 Note: _Some or all of this article may be parody..._

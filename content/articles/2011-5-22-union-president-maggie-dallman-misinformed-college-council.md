@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Head of Natural Sciences Faculty 'directly lied' to former Union President and 'misinformed' College Council says Alex Kendall
 date: "2011-05-22 13:08:27 +0100"
+
 # Attributes from Felix Online V1
 id: "1242"
 old_path: /news/1242/union-president-maggie-dallman-misinformed-college-council
 aliases:
  - /news/1242/union-president-maggie-dallman-misinformed-college-council
+imported: true
+comments:
+ - there is no mechanism for students to make formal complaints about members of staffIs that really true Seems a bit ridiculous if it is There is a complaints procedure outlined on the Registrys pagehttpwww3imperialacuksecretariatgovernancecharterandstatutese3HannahAs it says these are for academic or administrative services My complaint would have been about general conduct and accountability It is worrying that there is no method for this but the point is that College Council is meant to be the ultimate accountability tool If a lower internal mechanism could overide its authority then it would lose that authority by definition Whether Council is indeed accountable we will find out at the next one when I will bring this upIt could fall under either of those if you want to stretch it particularly if you want to emphasis the effect it has on academia It explicitly states the matters which it cannot deal with which this does not fall under The issue can then be
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - there is no mechanism for students to make formal complaints about members of staffIs that really true Seems a bit ridiculous if it is There is a complaints procedure outlined on the Registrys pagehttpwww3imperialacuksecretariatgovernancecharterandstatutese3HannahAs it says these are for academic or administrative services My complaint would have been about general conduct and accountability It is worrying that there is no method for this but the point is that College Council is meant to be the ultimate accountability tool If a lower internal mechanism could overide its authority then it would lose that authority by definition Whether Council is indeed accountable we will find out at the next one when I will bring this upIt could fall under either of those if you want to stretch it particularly if you want to emphasis the effect it has on academia It explicitly states the matters which it cannot deal with which this does not fall under The issue can then be
-imported: true
 ---
 
 _The original headline for this article was changed on the 23rd of May at 16:05. An explanation is published at the bottom of the article._

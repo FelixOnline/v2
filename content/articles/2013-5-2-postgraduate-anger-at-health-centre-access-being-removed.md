@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Health Centre no longer allows postgraduate students to access their services if they don't live in the 20 post codes that they cover
 date: "2013-05-02 13:48:55 +0100"
+
 # Attributes from Felix Online V1
 id: "3536"
 old_path: /news/3536/postgraduate-anger-at-health-centre-access-being-removed
 aliases:
  - /news/3536/postgraduate-anger-at-health-centre-access-being-removed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College Health Centre will no longer be letting postgraduate students use their services if they live outside of the registration area. Imperial College Union informed the postgraduate students of the change via email, which prompted over 200 replies mostly stating anger and upset at the situation.

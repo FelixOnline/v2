@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Gaelic footballers at the British Universities Championships
 date: "2011-02-24 20:28:44 +0000"
+
 # Attributes from Felix Online V1
 id: "890"
 old_path: /sport/890/gaelic-footballers-go-to-birmingham-
 aliases:
  - /sport/890/gaelic-footballers-go-to-birmingham-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial Gaelic footballers travelled down to Birmingham to meet their counter parts from across the Isles to compete in the biggest event on the calendar – the British Universities Championships.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Warm up the kitchen with some classic Christmas baking
 date: "2011-12-08 21:50:23 +0000"
+
 # Attributes from Felix Online V1
 id: "1947"
 old_path: /food/1947/frosty-the-cupcake-
 aliases:
  - /food/1947/frosty-the-cupcake-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Follow these guidelines on how to make yourself the perfect base and frosting in time for Christmas!

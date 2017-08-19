@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Christy Kelly offers useful insight on the politics behind the current situation in Ukraine
 date: "2014-05-09 02:10:53 +0100"
+
 # Attributes from Felix Online V1
 id: "4575"
 old_path: /comment/4575/ukraine-revisited
 aliases:
  - /comment/4575/ukraine-revisited
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Having written about the Ukraine when the events there were all just kicking off, I feel it is about time to return to the topic. Then I wrote full of youthful enthusiasm but now I shall have to take a more sober perspective. I could look at this (and to some extent I do) as a further sad confirmation that a Luxemburgist spontaneous revolution simply cannot deal with the Thermidorean reaction. But Ukraine was always a little more complicated: there is a distinct lack of any sense of ‘national’ unity in the country, and without this most efficient of banners to mobilise behind, the student protests in Kiev never really had any scope to advance beyond the modest middle-class movements which they were.

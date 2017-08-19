@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Workload woes for College students while Dundee leads latest list
 date: "2012-05-04 01:02:21 +0100"
+
 # Attributes from Felix Online V1
 id: "2425"
 old_path: /news/2425/imperial-falls-in-student-experience-survey
 aliases:
  - /news/2425/imperial-falls-in-student-experience-survey
+imported: true
+comments:
+ - On a personal level Im a fan of comments by Joe Herbert and Vigilante CatAs DPE Id like to point out that although this survey is informative it had a rather pathetic 156 respondents to represent out great institutionCompare that with the NSS which has comfortably over 10 times the number of respondents and you can understand why we talk about ther NSS so muchInterestingly this survey highlights some similar issues to the NSS so I strongly recommend anyone interested to have a read of Imperial College Unions in depth NSS Response see wwwunionicacukblogsShutting the Holland Club was never anything to do with improving the student experience the altar to which we are all now prostrate  It was to provide yet another outlet for the stale soggy baguettes shortdated petrolstation sandwiches and all the other dreary stuff that catering excels at in a carbon copy of every other outlet in the college The secondary purpose was to create a selfcontained facility outside the JCRS
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - On a personal level Im a fan of comments by Joe Herbert and Vigilante CatAs DPE Id like to point out that although this survey is informative it had a rather pathetic 156 respondents to represent out great institutionCompare that with the NSS which has comfortably over 10 times the number of respondents and you can understand why we talk about ther NSS so muchInterestingly this survey highlights some similar issues to the NSS so I strongly recommend anyone interested to have a read of Imperial College Unions in depth NSS Response see wwwunionicacukblogsShutting the Holland Club was never anything to do with improving the student experience the altar to which we are all now prostrate  It was to provide yet another outlet for the stale soggy baguettes shortdated petrolstation sandwiches and all the other dreary stuff that catering excels at in a carbon copy of every other outlet in the college The secondary purpose was to create a selfcontained facility outside the JCRS
-imported: true
 ---
 
 Imperial has dropped nine places from last year in the [_Times Higher Education_](http://www.timeshighereducation.co.uk/) (_THE_) Student Experience Survey to take joint 71st place with Canterbury Christ Church University. The University of Dundee topped the survey with a score of 85% while Imperial scored 73.4%, slightly lower than the average of 75.1%.

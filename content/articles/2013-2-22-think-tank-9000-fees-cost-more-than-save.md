@@ -4,16 +4,23 @@ title: >
 subtitle: >
   “Jury has to be out” about cost-effectiveness of funding says CEO
 date: "2013-02-22 00:01:34 +0000"
+
 # Attributes from Felix Online V1
 id: "3352"
 old_path: /news/3352/think-tank-9000-fees-cost-more-than-save
 aliases:
  - /news/3352/think-tank-9000-fees-cost-more-than-save
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Treasury has estimated that £1.7 bn will be saved by having higher tuition fees and putting an end to the teaching allowances.

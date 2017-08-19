@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Raincatcher Imperial on the vast importance of water provision
 date: "2012-01-26 22:30:24 +0000"
+
 # Attributes from Felix Online V1
 id: "2065"
 old_path: /news/2065/bringing-the-rain-to-those-in-need
 aliases:
  - /news/2065/bringing-the-rain-to-those-in-need
+imported: true
+comments:
+ - A really well written article touching on a vital issue Go Raincatcher
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A really well written article touching on a vital issue Go Raincatcher
-imported: true
 ---
 
 It’s common knowledge that water is essential for survival. Lesser known, perhaps, is the multitude of water-related problems faced by people in areas without adequate water supplies such as Tabora.

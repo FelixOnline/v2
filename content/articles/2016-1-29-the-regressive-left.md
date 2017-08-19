@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Has political correctness become more important than free speech?
 date: "2016-01-29 08:56:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5840"
 old_path: /comment/5840/the-regressive-left
 aliases:
  - /comment/5840/the-regressive-left
+imported: true
+comments:
+ - DBN09Z Spot on with this writeup I truly suppose this website wants way more consideration I all in all probability be again to learn much more thanks for that infoFinally someone said ituUEQ6q  okoibtfimxnv urlhttpikcqqxvaqxlhcomikcqqxvaqxlhurl linkhttpgbcskswkgivycomgbcskswkgivylink httpqicoeskcvazocomPolitically I am left on the Scandinavian scale And I have worked on my personal growth by daily challenging me to see anothers perspective I am a pragmatic humanist at heart who considers societal control and subsidising the five pillars of human life to be required for a proper development of a stable society I think that large economic rifts between classes are what breeds instability And I support basic incomeYet I loath so many of the people on the left They blame others for their problems brag about not working for the man And generally use horrible shame tactics to like a nazi skinhead forcibly push their agenda and politics Being born in the early
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - DBN09Z Spot on with this writeup I truly suppose this website wants way more consideration I all in all probability be again to learn much more thanks for that infoFinally someone said ituUEQ6q  okoibtfimxnv urlhttpikcqqxvaqxlhcomikcqqxvaqxlhurl linkhttpgbcskswkgivycomgbcskswkgivylink httpqicoeskcvazocomPolitically I am left on the Scandinavian scale And I have worked on my personal growth by daily challenging me to see anothers perspective I am a pragmatic humanist at heart who considers societal control and subsidising the five pillars of human life to be required for a proper development of a stable society I think that large economic rifts between classes are what breeds instability And I support basic incomeYet I loath so many of the people on the left They blame others for their problems brag about not working for the man And generally use horrible shame tactics to like a nazi skinhead forcibly push their agenda and politics Being born in the early
-imported: true
 ---
 
 You would be forgiven for expecting a guy like me, raised by a mother whose list of accolades includes filing suits against a nursery nurse for telling 3-year-old me to remove my nail varnish because “that’s what girls wear” and a post office for not allowing more than two  school children in at a time (ageism, obviously), to have been well and truly smothered in leftie PC rhetoric to the point of opting to punch myself in the face rather than mistakenly refer to a transgender person using a cisgender personal pronoun.

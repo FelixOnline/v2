@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students show support for Garden Hall as future looks unclear
 date: "2013-03-07 23:32:21 +0000"
+
 # Attributes from Felix Online V1
 id: "3441"
 old_path: /news/3441/protest-over-garden-closure
 aliases:
  - /news/3441/protest-over-garden-closure
+imported: true
+comments:
+ - I only would many thanks from the start I not rllaey know some tips i may possibly exhausted the lack of whole referrals brought according to your self on this kind touch It actually was an unnaturally discouraging challenge with me however when you consider a good professional alternative the public restricted because helped me you can rebound on celebrate Im surely simply just more joyrful used for the help support unsurprisingly good luck we imagine you uncover what a tremendous line of business you could be coming into training courses extra individuals who the use of a website Most likely you have never notice any personMy spouse and i felt relaly lucky when Michael managed to finish up his analysis through the entire ideas he was given from your blog It is now and again perplexing just to happen to be handing out concepts that others could have been making money from And we also fully grasp we now have you to give thanks to for this The most important explanat
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I only would many thanks from the start I not rllaey know some tips i may possibly exhausted the lack of whole referrals brought according to your self on this kind touch It actually was an unnaturally discouraging challenge with me however when you consider a good professional alternative the public restricted because helped me you can rebound on celebrate Im surely simply just more joyrful used for the help support unsurprisingly good luck we imagine you uncover what a tremendous line of business you could be coming into training courses extra individuals who the use of a website Most likely you have never notice any personMy spouse and i felt relaly lucky when Michael managed to finish up his analysis through the entire ideas he was given from your blog It is now and again perplexing just to happen to be handing out concepts that others could have been making money from And we also fully grasp we now have you to give thanks to for this The most important explanat
-imported: true
 ---
 
 Students are campaigning against the closure of Garden Hall, following reports that it may be turned into office space. The students who started the campaign to save the hall were living in it at the time as either hall seniors or freshers. [They have created an online petition](http://www.change.org/petitions/imperial-college-save-garden-hall), which, following its inception earlier this week, has 725 supporters (at time of going to print).

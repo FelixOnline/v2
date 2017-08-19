@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We surpassed Oxford and Cambridge
 date: "2015-05-08 00:13:11 +0100"
+
 # Attributes from Felix Online V1
 id: "5500"
 old_path: /news/5500/imperial-top-university-for-employment-prospects
 aliases:
  - /news/5500/imperial-top-university-for-employment-prospects
+imported: true
+comments:
+ - Somehow this article neglects to mention that  despite rapid employment the average earning of an Imperial  student is quite far from those of Oxford and Cambridge landing accurately between Birmingham and Sheffieldsourcehttpswwwlovemoneycomnews13851theuniversitythatleadstothehighestsalariesThat is a fair point although in terms of fresh graduate earnings Imperial students  are the highest earners however on a career length  perspective we do not do as well as other universitiesThe use of coupons is getting more and more popular these days There are coupon queens Internet sites and television shows that all claim to have gotten things for free because of their couponing They make it sound so easy but it does take a bit of effort and organization The tips in this article can provide you with the secrets of couponing so you are able to secure your own savingsUGG Outlet httptiremastercaugg
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Somehow this article neglects to mention that  despite rapid employment the average earning of an Imperial  student is quite far from those of Oxford and Cambridge landing accurately between Birmingham and Sheffieldsourcehttpswwwlovemoneycomnews13851theuniversitythatleadstothehighestsalariesThat is a fair point although in terms of fresh graduate earnings Imperial students  are the highest earners however on a career length  perspective we do not do as well as other universitiesThe use of coupons is getting more and more popular these days There are coupon queens Internet sites and television shows that all claim to have gotten things for free because of their couponing They make it sound so easy but it does take a bit of effort and organization The tips in this article can provide you with the secrets of couponing so you are able to secure your own savingsUGG Outlet httptiremastercaugg
-imported: true
 ---
 
 In the latest University ranking table study produced by The Complete University Guide, Imperial took the top spot, being declared the best University for postgraduate employment prospects.

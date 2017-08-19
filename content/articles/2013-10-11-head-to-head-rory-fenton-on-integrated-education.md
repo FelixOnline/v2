@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Public services should be open to all people, regardless of their beliefs. That so simple a statement should need to be shouted is madness and yet this is exactly what is needed in the UK. The truth is that for all our advances in other areas of human rights, when it comes to religious and belief...
 date: "2013-10-11 23:37:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3829"
 old_path: /comment/3829/head-to-head-rory-fenton-on-integrated-education
 aliases:
  - /comment/3829/head-to-head-rory-fenton-on-integrated-education
+imported: true
+comments:
+ - Ha Good spotSheikh kids
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Ha Good spotSheikh kids
-imported: true
 ---
 
 Public services should be open to all people, regardless of their beliefs. That so simple a statement should need to be shouted is madness and yet this is exactly what is needed in the UK. The truth is that for all our advances in other areas of human rights, when it comes to religious and belief discrimination in public services, the UK has scarcely changed in 100 years. Nowhere is this clearer than in our state schools.

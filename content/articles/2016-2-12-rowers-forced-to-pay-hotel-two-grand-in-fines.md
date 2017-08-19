@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The boat club had their annual party there last month
 date: "2016-02-12 11:10:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5895"
 old_path: /news/5895/rowers-forced-to-pay-hotel-two-grand-in-fines
 aliases:
  - /news/5895/rowers-forced-to-pay-hotel-two-grand-in-fines
+imported: true
+comments:
+ - Why do student journalists not check their facts before they publish This article would lose someone their job in a local paper let alone in the national press because the facts are simply untrue Come on Felix you can do better why dont you give your hacks some basic trainingWhats the real truth then curiouspoints concerning Narcissistic chicksladies who are narcissistic cleansing for health them selves past to more not to mention represent if life involves them women who have narcissistic nature chaos at times nearly always attach his or her selves first having said that The disposition condition impacts their personal everyday life occupationally and moreover socially girls that are narcissistic usually behave personally primarily based and find it difficult comprehending reasons why they can not attain better unions among exgirlfriends or perhaps very romantic tend to be responsibility online dating damage on blog writers as shifting any other duty to provide an example If a lady
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Why do student journalists not check their facts before they publish This article would lose someone their job in a local paper let alone in the national press because the facts are simply untrue Come on Felix you can do better why dont you give your hacks some basic trainingWhats the real truth then curiouspoints concerning Narcissistic chicksladies who are narcissistic cleansing for health them selves past to more not to mention represent if life involves them women who have narcissistic nature chaos at times nearly always attach his or her selves first having said that The disposition condition impacts their personal everyday life occupationally and moreover socially girls that are narcissistic usually behave personally primarily based and find it difficult comprehending reasons why they can not attain better unions among exgirlfriends or perhaps very romantic tend to be responsibility online dating damage on blog writers as shifting any other duty to provide an example If a lady
-imported: true
 ---
 
 The rowing club have been forced to pay £2050 in reparations to the Ambassadors Hotel in Bloomsbury, where they held their annual dinner three weeks ago.

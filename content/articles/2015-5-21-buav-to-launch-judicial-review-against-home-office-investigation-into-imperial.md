@@ -4,16 +4,24 @@ title: >
 subtitle: >
   BUAV also claims Imperial is “misleading the public” over post operative care. Philippa Skett reports
 date: "2015-05-21 23:02:32 +0100"
+
 # Attributes from Felix Online V1
 id: "5554"
 old_path: /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
 aliases:
  - /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
+imported: true
+comments:
+ - All animal abuse experiments must stop if you need to experiment try them on the people that are in prison that are abusers and murders and predators  Not animals There is no need or reason to test on animals these daysTest on convicted paedophiles insteadI dont see what the fuss is about Its not like the researchers are eating or having sex with the animals or anything like that We should ignore these animal rights terrorists and keep on performing worldclass research as usualfitflops on salefitflop in australia httpaustraliafitflopsblogspotcomdesigner shoes for lesscheap christian louboutin shoes canada httpcanadachristianlouboutinblogspotcomhttpbuysteroidseuropenetinjectablesteroids and httpWwwAuthenticpharmcomanabolicsteroidsHCGPregnyl is the place where you can buy steroids online which sells real anabolic steroids injectable steoridsoral steroids by Geneza Pharmaceuticals Asia Pharma Biomex labs Balkan Pharmaceuticals British Dispen
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - All animal abuse experiments must stop if you need to experiment try them on the people that are in prison that are abusers and murders and predators  Not animals There is no need or reason to test on animals these daysTest on convicted paedophiles insteadI dont see what the fuss is about Its not like the researchers are eating or having sex with the animals or anything like that We should ignore these animal rights terrorists and keep on performing worldclass research as usualfitflops on salefitflop in australia httpaustraliafitflopsblogspotcomdesigner shoes for lesscheap christian louboutin shoes canada httpcanadachristianlouboutinblogspotcomhttpbuysteroidseuropenetinjectablesteroids and httpWwwAuthenticpharmcomanabolicsteroidsHCGPregnyl is the place where you can buy steroids online which sells real anabolic steroids injectable steoridsoral steroids by Geneza Pharmaceuticals Asia Pharma Biomex labs Balkan Pharmaceuticals British Dispen
-imported: true
 ---
 
 The High Court has granted the British Union for the Abolition of Vivisection (BUAV) permission to bring a judicial review against the Home Office, in which they are hoping to again confront animal care at Imperial, and also “prove that the Home Office guilty of foul play”.

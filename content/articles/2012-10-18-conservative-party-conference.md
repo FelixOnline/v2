@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The political equivalent of the office Christmas party
 date: "2012-10-18 21:24:21 +0100"
+
 # Attributes from Felix Online V1
 id: "2705"
 old_path: /politics/2705/conservative-party-conference
 aliases:
  - /politics/2705/conservative-party-conference
+imported: true
+comments:
+ - That was a party political broadcast by the Labour Party
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - That was a party political broadcast by the Labour Party
-imported: true
 ---
 
 Party conference – the political equivalent of the office Christmas party. Careers are made or broken; too much alcohol and inappropriate sex; and all the dirty secrets get out. Thankfully much of that goes on behind the scenes, because the novelty of catching politicians with their trousers round their ankles would wear off pretty soon.

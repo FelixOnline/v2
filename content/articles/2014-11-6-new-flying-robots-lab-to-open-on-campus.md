@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Construction on the £1.25m lab will start in 2016.
 date: "2014-11-06 14:27:21 +0000"
+
 # Attributes from Felix Online V1
 id: "4757"
 old_path: /news/4757/new-flying-robots-lab-to-open-on-campus
 aliases:
  - /news/4757/new-flying-robots-lab-to-open-on-campus
+imported: true
+comments:
+ - Wonderful But seeing the little drones and how easy it seems to operate them and having heard they are practical enough that Amazon plans to use them for delivering goods I cant help wondering why they dont cut to the chase and develop robotic people carrying drones to replace carsIf they are able to lift goods and are economic enough for business use they cant be far away from that birkenstock outlet onlinecheapest birkenstock sandals httpbirkenstockaustraliarochecaporglouboutin rolando canadachristian louboutin canada httpchristianlouboutincanadaoutletblogspotcomQuite interesting looking forwards to coming back againnba 2k16 mt for sale xbox one httpblogbizesocomBlogDetailaspxbid6e1c2ee18d374cf6b94e54b920b8c0eaThanks this website is really handycsgo skins fast httpwwwirakyatmyblogs1227109602k16vcregularseasonearlierthanbestingtheuniversityLove the site extremely individual friendly and lots to seefifa 17 httpjfamecomblogs156
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wonderful But seeing the little drones and how easy it seems to operate them and having heard they are practical enough that Amazon plans to use them for delivering goods I cant help wondering why they dont cut to the chase and develop robotic people carrying drones to replace carsIf they are able to lift goods and are economic enough for business use they cant be far away from that birkenstock outlet onlinecheapest birkenstock sandals httpbirkenstockaustraliarochecaporglouboutin rolando canadachristian louboutin canada httpchristianlouboutincanadaoutletblogspotcomQuite interesting looking forwards to coming back againnba 2k16 mt for sale xbox one httpblogbizesocomBlogDetailaspxbid6e1c2ee18d374cf6b94e54b920b8c0eaThanks this website is really handycsgo skins fast httpwwwirakyatmyblogs1227109602k16vcregularseasonearlierthanbestingtheuniversityLove the site extremely individual friendly and lots to seefifa 17 httpjfamecomblogs156
-imported: true
 ---
 
 Imperial is opening a new lab to develop flying robots. The drone lab will be the most advanced in the UK, and will cost £1.25m to build. The testing lab is to be built on the South Kensington campus, as an investment into next generation robotics, and construction of the lab will begin in 2016.

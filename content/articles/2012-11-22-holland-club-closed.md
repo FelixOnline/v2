@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Commercial services to run Level 0 pub. Holland Club set to close on 21 December 2012. No current offer of alternate premises. Campaign to save the club didn’t work
 date: "2012-11-22 22:38:46 +0000"
+
 # Attributes from Felix Online V1
 id: "2931"
 old_path: /news/2931/holland-club-closed
 aliases:
  - /news/2931/holland-club-closed
+imported: true
+comments:
+ - Actually the Holland Club isnt closed Not if the first paragraph is to be believedA sad day Not a single person in favour of this and yet it pushes throughPossibly the biggest scandal of all is that over 3 million of public money is being ped up the wall on this project just so catering can sell yet more school dinnersClassic consultation exercise Judging by the other catering outlets Im not optimistic that the new one will be able to fulfil the current role of the Holland Club Sadly will lead to less socialising with colleagues As a staff member I am not impressed by the Colleges handling of this As usual the bottom line seems all importantFinally PG Taught students have somewhere to go to rather than the even more crap JCR i welcome the change since the current holland bar only attracts the SAME group of people who will oppose to any changes anyway UNION SHOULD RUN THE BARAs to the previous comment  many taught postgraduates frequent the bar and Ive never seen anybody t
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Actually the Holland Club isnt closed Not if the first paragraph is to be believedA sad day Not a single person in favour of this and yet it pushes throughPossibly the biggest scandal of all is that over 3 million of public money is being ped up the wall on this project just so catering can sell yet more school dinnersClassic consultation exercise Judging by the other catering outlets Im not optimistic that the new one will be able to fulfil the current role of the Holland Club Sadly will lead to less socialising with colleagues As a staff member I am not impressed by the Colleges handling of this As usual the bottom line seems all importantFinally PG Taught students have somewhere to go to rather than the even more crap JCR i welcome the change since the current holland bar only attracts the SAME group of people who will oppose to any changes anyway UNION SHOULD RUN THE BARAs to the previous comment  many taught postgraduates frequent the bar and Ive never seen anybody t
-imported: true
 ---
 
 The tender process has come to an end and the Holland Club will close the bar on 21 December 2012. Commercial Services will open a new, unnamed outlet in the space at the end of September 2013.

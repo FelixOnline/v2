@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The pressures of harder exams take their toll on a brave IC team. Jayanth Ganapthy reports
 date: "2013-06-13 22:22:56 +0100"
+
 # Attributes from Felix Online V1
 id: "3674"
 old_path: /sport/3674/icucc-beaten-by-ucl
 aliases:
  - /sport/3674/icucc-beaten-by-ucl
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With his 100% winning record as skipper on the line, Vignesh Venkateswaran once again took up the reins of captaincy as he led the ICUCC 1st XI to face off against arch-rivals UCL, in a nail-biting London derby.

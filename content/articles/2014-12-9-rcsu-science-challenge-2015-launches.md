@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Judges announce the questions for the essay and video competitions
 date: "2014-12-09 14:00:04 +0000"
+
 # Attributes from Felix Online V1
 id: "5019"
 old_path: /news/5019/rcsu-science-challenge-2015-launches
 aliases:
  - /news/5019/rcsu-science-challenge-2015-launches
+imported: true
+comments:
+ - GGiio7 httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - GGiio7 httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 On Monday, 100 students gathered in the Sir Alexander Fleming Building for the launch of the Science Challenge 2015. The Science Challenge is an annual competition that is open to Imperial College London students and school students across the country, often drawing in hundreds of entries over the course of the competition.

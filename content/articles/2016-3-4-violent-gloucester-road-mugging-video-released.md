@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The incident happened on Cornwall Gardens
 date: "2016-03-04 11:23:04 +0000"
+
 # Attributes from Felix Online V1
 id: "5994"
 old_path: /news/5994/violent-gloucester-road-mugging-video-released
 aliases:
  - /news/5994/violent-gloucester-road-mugging-video-released
+imported: true
+comments:
+ - Wow because this is great work Congrats and keep it upMadden nfl 17 httpqueenablogfreebiznote114692cheapfifa17pointsforthehtmlAstonishingly individual friendly site Great info available on couple of clicks onNFL 17 coins httpwwwdreamblognetfreearvin1010indexphptitlebuynba2k17vcofthespecialsmore1c1tb1pb1Thanks really beneficial Will share website with my buddiesmadden 17 httpcsgoskinscostoverblogcom201608fifa17pointsforps4ofthesefavouritecelebritieshtmlAgree to this comment and we will save a fictional animal van cleef  arpels bijoux cur fausse urlhttpwwwvancleefalhambracomfrcheapvintagealhambrapendantturquoisevcara45700p328htmlvan cleef  arpels bijoux cur fausseurlcartierlovejesduas David Dempsey the state employees health plan is not an ERISA plan It is a selffunded plan and sometimes confused with an ERISA plan But the ERISA law specifically exempts governmental and church plans from its requirements even
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow because this is great work Congrats and keep it upMadden nfl 17 httpqueenablogfreebiznote114692cheapfifa17pointsforthehtmlAstonishingly individual friendly site Great info available on couple of clicks onNFL 17 coins httpwwwdreamblognetfreearvin1010indexphptitlebuynba2k17vcofthespecialsmore1c1tb1pb1Thanks really beneficial Will share website with my buddiesmadden 17 httpcsgoskinscostoverblogcom201608fifa17pointsforps4ofthesefavouritecelebritieshtmlAgree to this comment and we will save a fictional animal van cleef  arpels bijoux cur fausse urlhttpwwwvancleefalhambracomfrcheapvintagealhambrapendantturquoisevcara45700p328htmlvan cleef  arpels bijoux cur fausseurlcartierlovejesduas David Dempsey the state employees health plan is not an ERISA plan It is a selffunded plan and sometimes confused with an ERISA plan But the ERISA law specifically exempts governmental and church plans from its requirements even
-imported: true
 ---
 
 CCTV of a violent mugging that took place last month near Gloucester Road has been released by the Metropolitan Police, in the hopes that the perpetrators will be found.

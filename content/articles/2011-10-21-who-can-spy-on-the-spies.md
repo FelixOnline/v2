@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Despite its labyrinthine plot, Lucy Wiles finds much to enjoy in Tomas Alfredson's latest project
 date: "2011-10-21 09:44:39 +0100"
+
 # Attributes from Felix Online V1
 id: "1582"
 old_path: /film/1582/who-can-spy-on-the-spies
 aliases:
  - /film/1582/who-can-spy-on-the-spies
+imported: true
+comments:
+ - This film hurt my brainBut maybe Im just simpleI DONT KNOW ANYMORE
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - This film hurt my brainBut maybe Im just simpleI DONT KNOW ANYMORE
-imported: true
 ---
 
 __Tinker Tailor Soldier Spy__

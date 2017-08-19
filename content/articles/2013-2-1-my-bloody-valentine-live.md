@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Gray is not talking about Bullet For My Valentine
 date: "2013-02-01 00:52:27 +0000"
+
 # Attributes from Felix Online V1
 id: "3236"
 old_path: /music/3236/my-bloody-valentine-live
 aliases:
  - /music/3236/my-bloody-valentine-live
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rbg10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When ATP (All Tomorrow’s Parties) and My Bloody Valentine announced their live return to the UK, a single night at the Hammersmith Apollo in March, the internet immediately started buzzing. Tickets went up and were sold out in seconds. Another night was quickly added, where standing tickets also promptly sold out. Having not seen MBV – a key band in the development of my musical tastes – in three years, I was pretty stoked. They were clearly feeling generous with their live performances for the dedicated and added a third, more intimate, date – the show at Electric Brixton last Sunday. By the time this third date was added I was giddy with excitement so quickly seized the opportunity to not only see MBV one more time, but also several months before I had originally expected.

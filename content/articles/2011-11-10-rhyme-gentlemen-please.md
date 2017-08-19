@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix interviews the founder of South Kensington's first poetry night
 date: "2011-11-10 21:34:33 +0000"
+
 # Attributes from Felix Online V1
 id: "1732"
 old_path: /arts/1732/rhyme-gentlemen-please-
 aliases:
  - /arts/1732/rhyme-gentlemen-please-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [__Fluent on Paper__](http://en-gb.facebook.com/event.php?eid=297519073593048), apparently the first poetry night to take place in South Kensington, has been set up by last year’s Felix editor Kadhim Shubber, and will likely feature amateur poets from the university.

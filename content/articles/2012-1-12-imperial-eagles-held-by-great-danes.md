@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Handball: Eagles 25-25 Danes
 date: "2012-01-12 20:50:07 +0000"
+
 # Attributes from Felix Online V1
 id: "1967"
 old_path: /sport/1967/imperial-eagles-held-by-great-danes
 aliases:
  - /sport/1967/imperial-eagles-held-by-great-danes
+imported: true
+comments:
+ - Care packages are so fun I rltencey sent one out to BFFMary and made her cry _I also sent out my ornament swap package I hope my partner enjoys it Cant wait til I receive hers DXo BelenI just love it all So cute How lucky little Felix isThat baby book looks very slimiar to my baby book Dating back to the 70sPokey the Puppy was always one of my favorites Especially the Christmas one Ironically my dog is very slimiar in looks  behaviour to Pokey
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - Care packages are so fun I rltencey sent one out to BFFMary and made her cry _I also sent out my ornament swap package I hope my partner enjoys it Cant wait til I receive hers DXo BelenI just love it all So cute How lucky little Felix isThat baby book looks very slimiar to my baby book Dating back to the 70sPokey the Puppy was always one of my favorites Especially the Christmas one Ironically my dog is very slimiar in looks  behaviour to Pokey
-imported: true
 ---
 
 Have you ever felt that tension, that awareness that to achieve your goal you will have to fight and exceed your own limits? On the day of the most important match of the season the Imperial Eagles felt exactly that way.

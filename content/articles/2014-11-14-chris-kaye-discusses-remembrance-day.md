@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chris Kaye reflects on this year's centenary of the end of The Great War
 date: "2014-11-14 19:55:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4859"
 old_path: /comment/4859/chris-kaye-discusses-remembrance-day
 aliases:
  - /comment/4859/chris-kaye-discusses-remembrance-day
+imported: true
+comments:
+ - christian louboutin boots canadachristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcomDrBGI appreciate the info and linksI was told by Dr Siebeckers clinic when I got my SIBO results NOT to have any gums marshmallow root aloe nothing mucilagey I have been staying away from Repairvite and other things I have used that contain those ingredients I am low stomach acid with no hpylori so I take HCL pepsin and enzymes with meals replique cartier ballon bleu urlhttpwwwaaawatchcnfrreplique cartier ballon bleuurl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - christian louboutin boots canadachristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcomDrBGI appreciate the info and linksI was told by Dr Siebeckers clinic when I got my SIBO results NOT to have any gums marshmallow root aloe nothing mucilagey I have been staying away from Repairvite and other things I have used that contain those ingredients I am low stomach acid with no hpylori so I take HCL pepsin and enzymes with meals replique cartier ballon bleu urlhttpwwwaaawatchcnfrreplique cartier ballon bleuurl
-imported: true
 ---
 
 This week I had the honour of laying a wreath, on behalf of the Students of Imperial College, to those staff and students who paid the Ultimate sacrifice in service during the First and Second World Wars. The moving ceremony was held in the foyer of the City & Guilds Building and was led by the College Chaplain with a reading from the College Archivist.

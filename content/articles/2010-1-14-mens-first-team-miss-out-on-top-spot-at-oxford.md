@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Men's first team miss out on top spot at Oxford
 date: "2010-01-14 19:29:02 +0000"
+
 # Attributes from Felix Online V1
 id: "38"
 old_path: /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
 aliases:
  - /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mb506
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A week after the individual championships in Nottingham, the men’s first team drove up to Oxford for their initial round of Premiership matches. This was the first major test of the season, facing up to the Oxford, Cambridge UCL and Bristol teams.

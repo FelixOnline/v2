@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lily Le is left disappointed by their live "offering"
 date: "2012-01-19 21:08:10 +0000"
+
 # Attributes from Felix Online V1
 id: "2027"
 old_path: /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
 aliases:
  - /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 The most offensive thing __The Horrors__ have probably ever done is release _Strange House_. The best thing they have ever done would have to be a toss-up between recognising this embarrassment and recording _Sea within a Sea_. What lies inbetween was the live show I attended.

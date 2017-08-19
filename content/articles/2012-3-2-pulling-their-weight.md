@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lightweight men retain title at BUCS Head 2012 while carnage cancels novice racing
 date: "2012-03-02 17:24:04 +0000"
+
 # Attributes from Felix Online V1
 id: "2307"
 old_path: /sport/2307/pulling-their-weight-
 aliases:
  - /sport/2307/pulling-their-weight-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 TODO: image from

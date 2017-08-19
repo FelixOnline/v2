@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
+
 # Attributes from Felix Online V1
 id: "4773"
 old_path: /features/4773/are-you-up-to-the-challenge
 aliases:
  - /features/4773/are-you-up-to-the-challenge
+imported: true
+comments:
+ - I was at Salmon Lake in July 2013 on a beautiful and calm day the reflection of the mountains on the lake provided some stunning photos The mosquitoes were fierce Wish I could go back Nome is really a fun place cuff bracelets cartier copy urlhttpwwwjustcarjewelrycomcuff bracelets cartier copyurlcartierbraceletlove I would move all PF content to another PF mailbox using the TechNet guidance and no you cant make another mailbox the primary Given the size of your implementation and the number of client connections I would move the primary PF mailbox to a lightly used database rplique bagues van cleef urlhttpwwwcollanaqualitagioiellicnfrvancleefringreplicac3_84rplique bagues van cleefurlSo Are the chief justices Amish Luddites bracelet cartier faux love urlhttpwwwlovejewelryfrtagbraceletcartierlovebracelet cartier faux loveurlYeah i wasnt able to find myself in any of this and i go to the gym 34 times a week which is actually quite
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I was at Salmon Lake in July 2013 on a beautiful and calm day the reflection of the mountains on the lake provided some stunning photos The mosquitoes were fierce Wish I could go back Nome is really a fun place cuff bracelets cartier copy urlhttpwwwjustcarjewelrycomcuff bracelets cartier copyurlcartierbraceletlove I would move all PF content to another PF mailbox using the TechNet guidance and no you cant make another mailbox the primary Given the size of your implementation and the number of client connections I would move the primary PF mailbox to a lightly used database rplique bagues van cleef urlhttpwwwcollanaqualitagioiellicnfrvancleefringreplicac3_84rplique bagues van cleefurlSo Are the chief justices Amish Luddites bracelet cartier faux love urlhttpwwwlovejewelryfrtagbraceletcartierlovebracelet cartier faux loveurlYeah i wasnt able to find myself in any of this and i go to the gym 34 times a week which is actually quite
-imported: true
 ---
 
 What is the capital of Kenya? Which is the largest moon of the Solar System? Who is the only person to have been awarded two unshared Nobel Prizes?

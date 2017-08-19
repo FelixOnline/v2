@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But College wins the day overall with the most wins
 date: "2014-03-17 17:31:39 +0000"
+
 # Attributes from Felix Online V1
 id: "4486"
 old_path: /news/4486/medics-take-the-jpr-williams-cup-at-varsity
 aliases:
  - /news/4486/medics-take-the-jpr-williams-cup-at-varsity
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Imperial Medicals RFC regained the JPR Williams Cup with a comprehensive 37-11 victory over Imperial College Union RFC in the flagship rugby union match under the floodlights at the Twickenham Stoop. The day wasn’t all bad for ICU however, as they won Varsity as a whole with more victories than ICSMSU across the 29 matches. The rugby union was dominated by the Medics, with further victories in the Women’s and 3rd XV only blotted by an ICU victory for the 2nds. The same happened in the Netball, where, with the exception of the 2nd and 3rd teams, the Medics ran out comfortable winners.

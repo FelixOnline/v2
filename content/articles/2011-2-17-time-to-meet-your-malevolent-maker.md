@@ -4,16 +4,24 @@ title: >
 subtitle: >
   If God exists he is a jerk. Once you take a minute to think about it, it explains everything so beautifully it brings a tear to my eye.
 date: "2011-02-17 20:18:27 +0000"
+
 # Attributes from Felix Online V1
 id: "839"
 old_path: /comment/839/time-to-meet-your-malevolent-maker
 aliases:
  - /comment/839/time-to-meet-your-malevolent-maker
+imported: true
+comments:
+ - Ive always thought its a rather egocentric argument to assume that Gods a jerk because bad things happen Being a jerk means hes out to get you when he might not just care about a fleck of dusts shadow like youAnd are things like natural disasters and cancer bad Yeah if you happen to be living with them but theyre all part of the natural way of things In my mind the cosmos is like one great big Heath Robinson contraptioneverything so amazing so prettyand so pointless
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Ive always thought its a rather egocentric argument to assume that Gods a jerk because bad things happen Being a jerk means hes out to get you when he might not just care about a fleck of dusts shadow like youAnd are things like natural disasters and cancer bad Yeah if you happen to be living with them but theyre all part of the natural way of things In my mind the cosmos is like one great big Heath Robinson contraptioneverything so amazing so prettyand so pointless
-imported: true
 ---
 
 I called shenanigans on the existence of God at the tender age of ten. Even before I knew pie was more than something you threw in 20s slapstick comedies it never made sense to me for an omnipotent being to be benevolent, given that we have such terrible things in this world as Justin Bieber, truly an apocalyptic horseman of our time. He also never returned my prayers, but I’m sure he was too busy setting bushes on fire like some geriatric yob.

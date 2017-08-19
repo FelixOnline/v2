@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Henry Wild gives you the know-how on how role-playing games work, as well as his recommendations on how to begin your first adventure
 date: "2017-02-03 17:33:24 +0000"
+
 # Attributes from Felix Online V1
 id: "6732"
 old_path: /games/6732/a-beginners-guide-to-tabletop-rpgs
 aliases:
  - /games/6732/a-beginners-guide-to-tabletop-rpgs
+imported: true
+comments:
+ - Les naturopathes sont des spcialistes de la toxmieles consulter les plutot que de prendre des risques avec sa sant me parait juxediiucTout  fait daccord avec Jocelyne
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Les naturopathes sont des spcialistes de la toxmieles consulter les plutot que de prendre des risques avec sa sant me parait juxediiucTout  fait daccord avec Jocelyne
-imported: true
 ---
 
 So you want to learn how I’ve slaughtered dragons, conquered galaxies, and made my legend? Well, you’re in the right place.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An interesting night for all its ups and downs
 date: "2012-03-15 21:30:50 +0000"
+
 # Attributes from Felix Online V1
 id: "2385"
 old_path: /music/2385/soko-at-the-union-chapel
 aliases:
  - /music/2385/soko-at-the-union-chapel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ig711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If any of you have seen the recent contentious article from The New York Times talking about how depraved and culturally rigid London has become. Thankfully, [Soko](http://www.s-o-k-o.com/), whose origins lie in France, but spends most of her time in California, doesn’t hold such views about our fair capital. You can see from the very first minute of her show that playing here, at the Union Chapel in Islington, was a special moment. After interviewing her following the gig she indicated that the venue was “absolutely perfect, like everything you could ever hope for” and one can understand why; her dream-like bedroom pop is perfectly sited to the intimate, beautiful setting.

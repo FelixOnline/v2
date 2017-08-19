@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The lockers on Sherfield Walkway will be available later in the term
 date: "2015-05-14 22:21:20 +0100"
+
 # Attributes from Felix Online V1
 id: "5520"
 old_path: /news/5520/amazon-soon-to-deliver-to-sherfield
 aliases:
  - /news/5520/amazon-soon-to-deliver-to-sherfield
+imported: true
+comments:
+ - Finally I can live fulltime in College and still get packages delivered What a time to be aliveQmCKKB httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomWow lovely portal Thnx cs go skins addiction httpjanice1101livejournalcom33977html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Finally I can live fulltime in College and still get packages delivered What a time to be aliveQmCKKB httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomWow lovely portal Thnx cs go skins addiction httpjanice1101livejournalcom33977html
-imported: true
 ---
 
 A new Amazon collection point has been installed on campus, allowing staff and students to receive their parcels from South Kensington instead of waiting in at home.

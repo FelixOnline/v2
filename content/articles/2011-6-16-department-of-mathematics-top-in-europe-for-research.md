@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial ranked 13th in world, above any non–US institution overall
 date: "2011-06-16 19:43:32 +0100"
+
 # Attributes from Felix Online V1
 id: "1385"
 old_path: /news/1385/department-of-mathematics-top-in-europe-for-research
 aliases:
  - /news/1385/department-of-mathematics-top-in-europe-for-research
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College has been ranked as having the most influential mathematics research of any institution in Europe by a [recent chart](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=416399&c=1) created by Thomson-Reuters. Ranked 13th for top institutions in mathematics, above any non-US institution overall, Imperial is listed as having 777 papers with 5,369 citations as of February 2011.

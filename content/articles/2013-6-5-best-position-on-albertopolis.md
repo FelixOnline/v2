@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to ex-Imperial student and TEDx organiser Kadhim Shubber about organising TEDxAlbertopolis
 date: "2013-06-05 17:56:49 +0100"
+
 # Attributes from Felix Online V1
 id: "3659"
 old_path: /news/3659/best-position-on-albertopolis-
 aliases:
  - /news/3659/best-position-on-albertopolis-
+imported: true
+comments:
+ - With the TEDx events at Imperial and Albertopolis exploring the relationship between art creativity and science how are they critically looking at these issues and using the history of the college in terms of its great teacher and Dean Prof Huxley and his famous student HGWells whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as Raze Imperial to the ground That was the verdict of the debate held last Tuesday on the motion This house believes that Imperial College is a threat to liberal education as fought for by Professor THHuxley and should be razed to the ground The debate was chaired by Mr Eric Stables head of the Humanities department
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - With the TEDx events at Imperial and Albertopolis exploring the relationship between art creativity and science how are they critically looking at these issues and using the history of the college in terms of its great teacher and Dean Prof Huxley and his famous student HGWells whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as Raze Imperial to the ground That was the verdict of the debate held last Tuesday on the motion This house believes that Imperial College is a threat to liberal education as fought for by Professor THHuxley and should be razed to the ground The debate was chaired by Mr Eric Stables head of the Humanities department
-imported: true
 ---
 
 TEDxImperialCollege was a must see event. It had so much on offer (you even got your own lanyard) and must have hit home with the audience: it was trending on Twitter. Considering it contained absolutely zero Justin Bieber performances, that’s pretty special. Former Felix Editor/physics student Kadhim Shubber kindly took some time out to answer some questions. He is co-organising possibly one of the largest ever TEDx events, right on our doorsteps at the Royal Albert Hall. The team organising [TEDxAlbertopolis](http://tedxalbertopolis.com/) is almost entirely made up of Imperial alumni, and Kadhim described them as “a dream. The most intelligent, interesting and effective people you could hope to work with.”

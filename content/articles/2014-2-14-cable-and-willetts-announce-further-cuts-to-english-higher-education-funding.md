@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The government has announced that it will be cutting £946 million from its annual grant to English Higher Education Institutions.
 date: "2014-02-14 05:04:47 +0000"
+
 # Attributes from Felix Online V1
 id: "4379"
 old_path: /news/4379/cable-and-willetts-announce-further-cuts-to-english-higher-education-funding
 aliases:
  - /news/4379/cable-and-willetts-announce-further-cuts-to-english-higher-education-funding
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The government has announced that it will be cutting £946 million from its annual grant to English Higher Education Institutions. In the latest its grant letter to the Higher Education Funding Council for England (HEFCE) the Department for Business, Innovation & Skills announced that its final recurrent grant to the sector for the 2014-2015 academic year will be £3.6 billion. This is some £125 million less than the estimate 2014-2015 funding that was announced in last year’s grant letter.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pt. 3: musique concrète
 date: "2012-10-26 03:11:18 +0100"
+
 # Attributes from Felix Online V1
 id: "2768"
 old_path: /music/2768/you-dont-have-to-call-it-music-3
 aliases:
  - /music/2768/you-dont-have-to-call-it-music-3
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - im808
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
-
-comments:
-imported: true
 ---
 
 _or: how the Berlin Wall made it to Broadway._

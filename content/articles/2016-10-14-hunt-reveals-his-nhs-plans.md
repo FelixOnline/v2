@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Mo’ doctors, mo’ problems
 date: "2016-10-14 09:48:26 +0100"
+
 # Attributes from Felix Online V1
 id: "6329"
 old_path: /news/6329/hunt-reveals-his-nhs-plans
 aliases:
  - /news/6329/hunt-reveals-his-nhs-plans
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Jeremy Hunt revealed his new plan for the future of the NHS last week, a mix of creating more British doctors and attempting to keep the ones that are trained here for longer.

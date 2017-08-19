@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This week's film is a chilling look at the meeting of right-wing politics and fundamentalism
 date: "2015-12-06 14:42:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5807"
 old_path: /film/5807/documentary-corner-jesus-camp
 aliases:
  - /film/5807/documentary-corner-jesus-camp
+imported: true
+comments:
+ - Im bored to tears at work so I decided to discontinuance missing your spot on my iphone during lunch break I relish the info you outfit here and cant delay to pocket a look when I get home Im shocked at how quick your blog loaded on my transportable  Im not identical httpbuygenericpillcomThis is a highgrade extravagant article thanks on the side of sharing this illuminating information httpwwwrealedpillscom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im bored to tears at work so I decided to discontinuance missing your spot on my iphone during lunch break I relish the info you outfit here and cant delay to pocket a look when I get home Im shocked at how quick your blog loaded on my transportable  Im not identical httpbuygenericpillcomThis is a highgrade extravagant article thanks on the side of sharing this illuminating information httpwwwrealedpillscom
-imported: true
 ---
 
 “Is there anyone in here who believes that God can do anything?” the energized Pentecostal preacher Becky Fischer questions her baying crowd as the camera cuts to a mother raising her two uninterested children’s hands excitedly. The opening scene of _Jesus Camp_ places the viewer right in the middle of one of the services at a Christian children’s summer camp in North Dakota. As the scene continues, fast editing and a haunting score crescendo to a pandemonium. Parents yell encouragement as the children and viewer alike are treated to the first of many frenzied sermons which come to be the focus of this film.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Animals have souls and eating them is wrong
 date: "2011-10-20 22:49:04 +0100"
+
 # Attributes from Felix Online V1
 id: "1575"
 old_path: /comment/1575/your-meat-offends-me-deal-with-it
 aliases:
  - /comment/1575/your-meat-offends-me-deal-with-it
+imported: true
+comments:
+ - Shopping in Tesco isnt the food chain If you were out hunting your meat thats the food chain But since youre reading this youre probably at Imperial which means youre weak feeble and are in the library rather than in Richmond Park with a spear Tuck in to your library jacket potato We _are_ different to animals humans are moral beings animals arentI wouldnt discourage anyone from having a stab at writing practice is an essential part of improving  However I am afraid I must agree with many of the sentiments above  Although my own writing is far from perfect I feel sure that it is easy to go too far when you are writing what you think  For example if you tell your audience you know their feelings better than they do you have to know deepdown that what you are doing is immoral you are in serious danger of alienating them  Some writers eg David Mitchell and Victoria Coren amongst my heroes are able to get a good balance and essentailly make whoever is reading their stuff agr
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Shopping in Tesco isnt the food chain If you were out hunting your meat thats the food chain But since youre reading this youre probably at Imperial which means youre weak feeble and are in the library rather than in Richmond Park with a spear Tuck in to your library jacket potato We _are_ different to animals humans are moral beings animals arentI wouldnt discourage anyone from having a stab at writing practice is an essential part of improving  However I am afraid I must agree with many of the sentiments above  Although my own writing is far from perfect I feel sure that it is easy to go too far when you are writing what you think  For example if you tell your audience you know their feelings better than they do you have to know deepdown that what you are doing is immoral you are in serious danger of alienating them  Some writers eg David Mitchell and Victoria Coren amongst my heroes are able to get a good balance and essentailly make whoever is reading their stuff agr
-imported: true
 ---
 
 I was eating my lunch in the JCR (two-bean goulash YUM! :D) and this random guy just comes and sits down next to me and starts devouring a greasy stinky burger. I asked him if he minded moving because I find the stench of cooked meat to be nauseating. As you may have guessed, I’m a vegan. When I see people eating meat, cheese, cake or any other food that has come from animals, I just feel sick. I’m not one of those in-your-face vegans, but I have my right to ask someone to move if they’re going to offend my beliefs. The guy rudely told me to f**k off, so I just moved to another table. I wasn’t going to stoop to his level so I just walked away. Always ignore a bully ;)

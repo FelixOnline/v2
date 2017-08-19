@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alexandre Adler knows Imperial will eventually divest, but will it be too late?
 date: "2017-03-03 14:49:18 +0000"
+
 # Attributes from Felix Online V1
 id: "6839"
 old_path: /comment/6839/imperial-still-needs-to-divest-from-fossil-fuels
 aliases:
  - /comment/6839/imperial-still-needs-to-divest-from-fossil-fuels
+imported: true
+comments:
+ - zNn9on  mqiihdcdcasq urlhttpflaefjywztnhcomflaefjywztnhurl linkhttpzuhdvtjfbvijcomzuhdvtjfbvijlink httpvyvdkipwqpdgcomI suppsoe that sounds and smells just about right
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - zNn9on  mqiihdcdcasq urlhttpflaefjywztnhcomflaefjywztnhurl linkhttpzuhdvtjfbvijcomzuhdvtjfbvijlink httpvyvdkipwqpdgcomI suppsoe that sounds and smells just about right
-imported: true
 ---
 
 Last year, while doing my Erasmus at King’s College London, I spotted a small placard on the wall calling on the university to "divest" from fossil fuels. By this, they meant that the college should not invest in corporations linked to fossil fuel extraction and exploitation. I am not a large fan of endowment funds in general and would really like to see a greener world, so the idea appealed to me immediately. This year, apparently, a few King’s students took the campaign a little further, and spray-painted a few pillars on the Strand building, an offence for which they promptly got arrested (anybody who has seen that building’s façade knows that the architect of the Strand building is the real culprit as far as urban vandalism is concerned).

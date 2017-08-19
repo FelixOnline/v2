@@ -4,16 +4,23 @@ title: >
 subtitle: >
   James Bezer on the triumphs of one of the most influential scientific techniques
 date: "2014-02-07 05:13:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4364"
 old_path: /science/4364/crystallography-turns-100
 aliases:
  - /science/4364/crystallography-turns-100
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 There are few scientific techniques that have had such an enormous influence across so many disciplines as crystallography.

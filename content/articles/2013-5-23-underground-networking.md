@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sarah Byrne explores a potentially useful facet in plant-fungi relationships
 date: "2013-05-23 22:08:33 +0100"
+
 # Attributes from Felix Online V1
 id: "3609"
 old_path: /science/3609/underground-networking
 aliases:
  - /science/3609/underground-networking
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You probably think humans invented communication networks. However according to recent research, plants might have got there first, communicating with each other through extensive underground fungal networks.

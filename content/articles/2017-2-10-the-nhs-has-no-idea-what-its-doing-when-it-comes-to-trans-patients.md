@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A trans student discusses the NHS's complete failure to address the needs of transgender patients
 date: "2017-02-10 13:48:35 +0000"
+
 # Attributes from Felix Online V1
 id: "6748"
 old_path: /comment/6748/the-nhs-has-no-idea-what-its-doing-when-it-comes-to-trans-patients
 aliases:
  - /comment/6748/the-nhs-has-no-idea-what-its-doing-when-it-comes-to-trans-patients
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 One of the most disconcerting things you can experience when visiting the doctor is seeing your GP open up Internet Explorer and start googling. As a nervous transgender teenager, I was completely terrified. GPs are meant to be a first point of contact for the general population; somebody we turn to for answers, not more questions. But for transgender people, a lack of knowledge by doctors is to be expected.

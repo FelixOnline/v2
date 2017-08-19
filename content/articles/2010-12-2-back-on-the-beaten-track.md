@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Because there’s only so much self-discovery and figurative bridge-building you can handle before you’re in desperate need of a well-deserved heroin cookie
 date: "2010-12-02 20:26:19 +0000"
+
 # Attributes from Felix Online V1
 id: "470"
 old_path: /travel/470/back-on-the-beaten-track
 aliases:
  - /travel/470/back-on-the-beaten-track
+imported: true
+comments:
+ - Ha I somehow fogort about your footinjury Well since I fixed it up I guess that drunk Chris hasnt fogortten his first aid I do remember us both drinking a lot of local whiskey though Good times But yeah it sure is something that I will encourage everybody to try at least once in their life We ought to have a  Tubingreunion  but maybe just create or own mayhem somewhere in England Im suggesting London Bolton or pretty much just anywhere with whiskey and you guys
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - cr709
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cr709"
 author_name: "Christopher Richardson"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ha I somehow fogort about your footinjury Well since I fixed it up I guess that drunk Chris hasnt fogortten his first aid I do remember us both drinking a lot of local whiskey though Good times But yeah it sure is something that I will encourage everybody to try at least once in their life We ought to have a  Tubingreunion  but maybe just create or own mayhem somewhere in England Im suggesting London Bolton or pretty much just anywhere with whiskey and you guys
-imported: true
 ---
 
 This heavily travelled part of the world offers great variety in the potential circuits suited to the varied tastes of the people you meet out there: if you want to stay well off the track it’s more than easy to do so, or you can hop on and off the track as and when you please, as I did. Some people prefer the somewhat more reductionist ‘circuit’, bouncing between Thailand’s infamous full moon parties on Koh Phangan and tubing in Laos’ Vang Vieng.

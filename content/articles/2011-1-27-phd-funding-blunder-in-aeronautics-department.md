@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Department failed to tell students their bursary was being reduced
 date: "2011-01-27 18:24:32 +0000"
+
 # Attributes from Felix Online V1
 id: "652"
 old_path: /news/652/phd-funding-blunder-in-aeronautics-department
 aliases:
  - /news/652/phd-funding-blunder-in-aeronautics-department
+imported: true
+comments:
+ - You got great points there thats why I always love checking out your blog     My blog  credit rachat credit ou courtier Rachat de credit
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - You got great points there thats why I always love checking out your blog     My blog  credit rachat credit ou courtier Rachat de credit
-imported: true
 ---
 
 Eleven PhD students in the [Department of Aeronautics](http://www3.imperial.ac.uk/aeronautics) have been left angered and confused after their monthly bursary payments were cut in December and January. No forewarning was given to the students; a blunder described as “unfortunate” by the Head of Department.

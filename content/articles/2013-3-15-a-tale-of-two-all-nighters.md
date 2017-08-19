@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICU Cinema get the Red Bull at the ready
 date: "2013-03-15 02:10:29 +0000"
+
 # Attributes from Felix Online V1
 id: "3486"
 old_path: /film/3486/a-tale-of-two-all-nighters
 aliases:
  - /film/3486/a-tale-of-two-all-nighters
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Along time ago, in a Union room far, far away an intrepid young fresher decided to attend her first all-nighter. Young and innocent, this girl did not know what to expect and this is the magical, mystifying tale of what she found there...

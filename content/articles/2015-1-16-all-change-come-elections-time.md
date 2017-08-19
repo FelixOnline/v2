@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Clubs with 150 members will now have to run their elections in the Union's Big Election system
 date: "2015-01-16 13:06:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5095"
 old_path: /news/5095/all-change-come-elections-time
 aliases:
  - /news/5095/all-change-come-elections-time
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Plans have been announced to change election regulations for clubs that have more than 150 members. Under the changes, clubs that hit the criteria would have to hold their committee elections as part of the Big Elections. Despite this, voting would still only be available for members of that society.

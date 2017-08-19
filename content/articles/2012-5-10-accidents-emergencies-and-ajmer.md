@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stephanie Walton recounts an Indian Easter with some very important people
 date: "2012-05-10 19:09:42 +0100"
+
 # Attributes from Felix Online V1
 id: "2430"
 old_path: /travel/2430/accidents-emergencies-and-ajmer
 aliases:
  - /travel/2430/accidents-emergencies-and-ajmer
+imported: true
+comments:
+ - One has to admire the glasshalffull outlook needed to claim being blessed with good luck while driving on dangerous roads one of you having just had a close encounter with a ceiling fan
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - One has to admire the glasshalffull outlook needed to claim being blessed with good luck while driving on dangerous roads one of you having just had a close encounter with a ceiling fan
-imported: true
 ---
 
 How far is it to Ajmer?”, I asked, concerned.

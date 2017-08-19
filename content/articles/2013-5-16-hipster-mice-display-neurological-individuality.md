@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Philippa Skett on how mice are linking experience to what makes us who we are
 date: "2013-05-16 18:06:33 +0100"
+
 # Attributes from Felix Online V1
 id: "3577"
 old_path: /science/3577/hipster-mice-display-neurological-individuality
 aliases:
  - /science/3577/hipster-mice-display-neurological-individuality
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Individuality seems to be more of an adolescent dilemma for picking profile pictures than it may be for neuroscientists, but research this week shows that they too are worrying just how to stand out from the crowd. Donning their lab coats and grabbing their microscopes rather than a mirror and an iPhone, researchers at the Salk Institute for Biological Studies in California may have pinpointed the reasoning for what makes us all that little bit different.

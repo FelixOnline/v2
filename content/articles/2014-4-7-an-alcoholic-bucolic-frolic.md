@@ -4,16 +4,23 @@ title: >
 subtitle: >
   DramSoc’s spring term production of Jerusalem, directed by Grace Surman, opens with a young girl wearing fairy wings singing the eponymous hymn in the middle of the countryside.
 date: "2014-04-07 12:55:53 +0100"
+
 # Attributes from Felix Online V1
 id: "4525"
 old_path: /arts/4525/an-alcoholic-bucolic-frolic
 aliases:
  - /arts/4525/an-alcoholic-bucolic-frolic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __D__ramSoc’s spring term production of _Jerusalem, _directed by Grace Surman, opens with a young girl wearing fairy wings singing the eponymous hymn in the middle of the countryside. A peaceful scene until The Prodigy’s _Invaders Must Die_ cuts in and a group of ravers rush onto the stage and scare the fairy away. This sets the tone for the play - constantly zig-zagging between romantic, nostalgic ideals and the reality of the present day.

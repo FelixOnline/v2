@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Oliver Benton makes the trip down to the new grounds
 date: "2014-10-17 15:12:36 +0100"
+
 # Attributes from Felix Online V1
 id: "4736"
 old_path: /news/4736/heston-opens-as-the-new-home-of-sport
 aliases:
  - /news/4736/heston-opens-as-the-new-home-of-sport
+imported: true
+comments:
+ - Roger Thanks for helping us tease out some of the implications of all this further As I understand you you are talking about the pragmatic validity of the HUP in the specific contexts you mention In my first post Part 1 I said As a sociological observation though there are certain exceptions to the rule the general accuracy of the HUP is practically incontrovertible The situation you are pointing to here may well be one of the exceptions I allude to In this paper and these posts I am not so interested though in analyzing the sociological and pragmatic validity of the HUP as I am the biblical basis and the implications of following what the Bible has to teach us regarding this faux montre Cartier or urlhttpwwwmontrecartiercomfaux montre Cartier orurl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Roger Thanks for helping us tease out some of the implications of all this further As I understand you you are talking about the pragmatic validity of the HUP in the specific contexts you mention In my first post Part 1 I said As a sociological observation though there are certain exceptions to the rule the general accuracy of the HUP is practically incontrovertible The situation you are pointing to here may well be one of the exceptions I allude to In this paper and these posts I am not so interested though in analyzing the sociological and pragmatic validity of the HUP as I am the biblical basis and the implications of following what the Bible has to teach us regarding this faux montre Cartier or urlhttpwwwmontrecartiercomfaux montre Cartier orurl
-imported: true
 ---
 
 Heston, the new home of Medic sport, was unveiled on Wednesday the 15th of October, to a nibbles and ‘BUCS’ fizz reception. Debra Humphris, Vice Provost (Education), launched the day with a short speech commenting on the “continued evolution of our sports facilities” and the revealing of a plaque honouring Teddington and a piece of the hallowed Teddington grass.

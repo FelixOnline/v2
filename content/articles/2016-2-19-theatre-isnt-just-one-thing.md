@@ -4,16 +4,23 @@ title: >
 subtitle: >
   FELIX asks Gate Theatre’s new director Ben Kidd about directing and his latest work
 date: "2016-02-19 12:15:30 +0000"
+
 # Attributes from Felix Online V1
 id: "5940"
 old_path: /arts/5940/theatre-isnt-just-one-thing
 aliases:
  - /arts/5940/theatre-isnt-just-one-thing
+imported: true
+comments:
+ - I in addition to my buddies ended up digesting the excellent key points from the blog and all of a sudden I got a horrible suspicion I had not thanked the web blog owner for them All the young men came as a consequence very interested to read through all of them and have in effect extremely been having fun with these things I appreciate you for indeed being well kind and also for choosing varieties of useful areas millions of individuals are really wanting to know about My personal honest apologies for not expressing apictrpaeion to  earlier
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I in addition to my buddies ended up digesting the excellent key points from the blog and all of a sudden I got a horrible suspicion I had not thanked the web blog owner for them All the young men came as a consequence very interested to read through all of them and have in effect extremely been having fun with these things I appreciate you for indeed being well kind and also for choosing varieties of useful areas millions of individuals are really wanting to know about My personal honest apologies for not expressing apictrpaeion to  earlier
-imported: true
 ---
 
 Ben Kidd bounds into a Notting Hill basement in between a kebab shop and a pizzeria. For the first time, Gate publicity maestro Tash Brown looks a tad worried. She needn’t be. Gate’s work is exactly the kind of thing I wish we had more of here at Imperial. Passionately done and served up with a massive dollop of generosity on the side, Gate Theatre is one big cosy theatre family – and y’all are invited. (Check out its outreach programme!)   Kidd, fresh from rehearsals, bubbles with the same outspoken friendliness, and we sit down to talk Ireland, Imperial and art.

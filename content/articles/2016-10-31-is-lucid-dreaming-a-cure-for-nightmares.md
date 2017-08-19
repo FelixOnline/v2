@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A study investigating the psychological effects of lucid dreaming on patients suffering from nightmare disorders may offer an insight into treatments, and provide insight into how the sleeping brain works
 date: "2016-10-31 16:02:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6365"
 old_path: /science/6365/is-lucid-dreaming-a-cure-for-nightmares
 aliases:
  - /science/6365/is-lucid-dreaming-a-cure-for-nightmares
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 An American paper published last month investigated how so-called ‘lucid dreaming’ may help to devise treatments of nightmare disorders and other psychological conditions. The idea is that sufferers may be able to re-program their nightmares into neutral or positive experiences by gaining control over their dream world. Turning negative dreams into positive experiences is not a new idea in the field of psychology, previously shown to be fairly effective in treating PTSD sufferers.

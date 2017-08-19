@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Robots is on at the Science Museum until 3rd September
 date: "2017-02-17 15:17:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6794"
 old_path: /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
 aliases:
  - /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
+imported: true
+comments:
+ - An inlenligett point of view well expressed Thanks
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - An inlenligett point of view well expressed Thanks
-imported: true
 ---
 
 Robots, the Science Museum’s shiny newly-opened exhibition, is a real treasure trove of delights: featuring over 100 robots models it spans 500 years of humanity's quest to recreate itself in the form of a machine, a process historically shaped by religion, industrial innovation, and popular culture.

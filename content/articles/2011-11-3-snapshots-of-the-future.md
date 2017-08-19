@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Douglas Heaven, Abhimanyu Chugh and Simon Worthington tell us what they hope they'll see in the next 50 years.
 date: "2011-11-03 18:25:21 +0000"
+
 # Attributes from Felix Online V1
 id: "1650"
 old_path: /tech/1650/snapshots-of-the-future
 aliases:
  - /tech/1650/snapshots-of-the-future
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - fa608
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Douglas Heaven sees programmable cells, not silicon chips__

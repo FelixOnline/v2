@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Social media has driven Conservatives to keep their views quiet
 date: "2015-05-14 22:35:36 +0100"
+
 # Attributes from Felix Online V1
 id: "5523"
 old_path: /comment/5523/why-is-it-so-taboo-to-be-tory
 aliases:
  - /comment/5523/why-is-it-so-taboo-to-be-tory
+imported: true
+comments:
+ - Whilst I generally agree with some of your argument that those on the left need to engage those of different views a bit more and demonise a bit less there are a few problems with this article I understand what the author is trying to say and take the point on board but some of the facts and arguments in here need some serious checking For example could you justify Surely this cant be true a group that is nearly half the country must be diverse and the policies which drew them must have some appeal Half of people in Britain didnt vote Conservative around 24 of the electorate did  this was indeed the largest vote share but is far lower that what is suggested by this commentAlso I dont feel it is correct to say that  FPTP has its flaws but all the leftwing advocates of a more proportional representation seem to have forgotten that this would give us 82 UKIP MPs First of all UKIP the most rightwing party on most peoples ballot papers is calling most strongly for PR so this
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tad08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tad08"
 author_name: "Theresa Davey"
-author_image_path: "img/upload/201411062201-snb11-tessa_headshot.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062201-snb11-tessa_headshot.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Whilst I generally agree with some of your argument that those on the left need to engage those of different views a bit more and demonise a bit less there are a few problems with this article I understand what the author is trying to say and take the point on board but some of the facts and arguments in here need some serious checking For example could you justify Surely this cant be true a group that is nearly half the country must be diverse and the policies which drew them must have some appeal Half of people in Britain didnt vote Conservative around 24 of the electorate did  this was indeed the largest vote share but is far lower that what is suggested by this commentAlso I dont feel it is correct to say that  FPTP has its flaws but all the leftwing advocates of a more proportional representation seem to have forgotten that this would give us 82 UKIP MPs First of all UKIP the most rightwing party on most peoples ballot papers is calling most strongly for PR so this
-imported: true
 ---
 
 The General Election has come and gone, and the United Kingdom has democratically elected the Conservative Party into power for the next five years. 36.9% of the country voted for them, but if you look at the articles being plastered all over the internet and social media, you would have no idea that this was the case.

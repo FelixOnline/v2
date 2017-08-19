@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman sees Brandon Flowers command the Brixton Academy stage
 date: "2015-05-29 12:19:33 +0100"
+
 # Attributes from Felix Online V1
 id: "5587"
 old_path: /music/5587/brandon-flowers-on-his-own
 aliases:
  - /music/5587/brandon-flowers-on-his-own
+imported: true
+comments:
+ - The video of Jacksons famous Tecmo Bowl touchdown run can be discovered here Our software is the only method watch society Cup online in high def quality The tournament has been lack of goals and sort of disappointingfifa 16 hack httpcreditsfutcomlhv tamoxifen anastrozole interaction anabolic steroids anastrozole anastrozole dosage during cycleIve never thought that Brandon sounds like Fleetwood Mac Love that band Now I need to relisten Brandons albums By the way do you know that their tour httpbuyticketsforconcertscomfleetwoodmacticketsatlanta gonna start soonyzu anastrozole ovarian cancer chemone research anastrozole stop taking anastrozoleaes how to dose anastrozole alternative to anastrozole side effects of arimidex anastrozolekaf anastrozole boiling point anastrozole month old baby anastrozole solubilityjga buy liquid anastrozole how long can you take anastrozole anastrozole or aromasinfib anastrozole side effects female anastrozole and weight gain research chemicals
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The video of Jacksons famous Tecmo Bowl touchdown run can be discovered here Our software is the only method watch society Cup online in high def quality The tournament has been lack of goals and sort of disappointingfifa 16 hack httpcreditsfutcomlhv tamoxifen anastrozole interaction anabolic steroids anastrozole anastrozole dosage during cycleIve never thought that Brandon sounds like Fleetwood Mac Love that band Now I need to relisten Brandons albums By the way do you know that their tour httpbuyticketsforconcertscomfleetwoodmacticketsatlanta gonna start soonyzu anastrozole ovarian cancer chemone research anastrozole stop taking anastrozoleaes how to dose anastrozole alternative to anastrozole side effects of arimidex anastrozolekaf anastrozole boiling point anastrozole month old baby anastrozole solubilityjga buy liquid anastrozole how long can you take anastrozole anastrozole or aromasinfib anastrozole side effects female anastrozole and weight gain research chemicals
-imported: true
 ---
 
 __Brandon Flowers__ going solo has always been an interesting proposition, begging the question: when it comes to __The Killers__ and everything they’ve done, how much of their sound is down to him?

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park runs down the best of the 70s
 date: "2013-01-10 23:08:15 +0000"
+
 # Attributes from Felix Online V1
 id: "3105"
 old_path: /film/3105/the-best-films-from-the-1970s
 aliases:
  - /film/3105/the-best-films-from-the-1970s
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Recently, the British Film Institute (BFI) released the results of their celebrated poll, “THE GREATEST FILMS OF ALL TIME”, in which they surveyed film critics and directors to list their ten favourite films. Now the Felix Film team, as much as we’d love to, doesn’t have that kind of time or resources. And so we decided to split the films up according to the decades in which they were released. So every week, we will present you with our top films of each decade.

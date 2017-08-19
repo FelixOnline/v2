@@ -4,16 +4,23 @@ title: >
 subtitle: >
   For those reading this hungover in bed after that “quick pint” on a Thursday evening turned into a free for all, we have good news. It seems that our very own Professor Nutt, previous government advisor and keen advocate of drug legalisation, has finally identified candidate molecules...
 date: "2013-11-24 16:05:01 +0000"
+
 # Attributes from Felix Online V1
 id: "4108"
 old_path: /science/4108/synthetic-alcohol-does-this---the-end-of-the-hangover
 aliases:
  - /science/4108/synthetic-alcohol-does-this---the-end-of-the-hangover
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 For those reading this hungover in bed after that “quick pint” on a Thursday evening turned into a free for all, we have good news. It seems that our very own Professor Nutt, previous government advisor and keen advocate of drug legalisation, has finally identified candidate molecules that can imitate all the good parts of drinking, without that dreaded feeling the next day. The molecule can hopefully reproduce the pleasurable effects of alcohol, but, with a lower toxicity, may keep the hangovers and health risks associated with drinking at bay.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson reports as a Professor of Electronic and Electrical Engineering is recognised for work in modelling computer systems
 date: "2015-05-21 20:02:48 +0100"
+
 # Attributes from Felix Online V1
 id: "5546"
 old_path: /news/5546/imperial-professor-is-made-fellow-of-the-royal-academy-
 aliases:
  - /news/5546/imperial-professor-is-made-fellow-of-the-royal-academy-
+imported: true
+comments:
+ - fitflops sale online australiafitflop australia httpaustraliafitflopsblogspotcomshoes red soleschristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomcartierbraceletlove I love sex hey any of u lesbians love faux bracelet urlhttpwwwclassiquebijouxcomfakecartierjewelryc1love faux braceleturlcartierlovejesduas Perhaps youd like to point out whats NOT truth and while youre at it if you choose to be a believer in anthropogenic global warming how about some evidence backing that up please imitazione cartier bracciale uomo
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops sale online australiafitflop australia httpaustraliafitflopsblogspotcomshoes red soleschristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomcartierbraceletlove I love sex hey any of u lesbians love faux bracelet urlhttpwwwclassiquebijouxcomfakecartierjewelryc1love faux braceleturlcartierlovejesduas Perhaps youd like to point out whats NOT truth and while youre at it if you choose to be a believer in anthropogenic global warming how about some evidence backing that up please imitazione cartier bracciale uomo
-imported: true
 ---
 
 Professor Erol Gelenbe, a researcher from the Department of Electrical and Electronic Engineering, has been made a Fellow of the Royal Academy, Sciences, Letters and Art of Belgium.

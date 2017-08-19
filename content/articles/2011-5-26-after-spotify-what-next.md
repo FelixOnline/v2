@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Will the end of free music on Spotify see it eclipsed by rivals?
 date: "2011-05-26 19:08:25 +0100"
+
 # Attributes from Felix Online V1
 id: "1254"
 old_path: /tech/1254/after-spotify-what-next
 aliases:
  - /tech/1254/after-spotify-what-next
+imported: true
+comments:
+ - Dont forget about We7com Its essentially the same as Spotfiy but browser based and without any time restrictions or play limits Also for every day you listen to a song you get 5 towards an advert free day Also i find the ads a lot less intrusive than Spotifys and it scrobbles which is always a plusMy problem with paying for Spotify is that you spend 60 a year and at the end of it you have nothing to show for it just avoiding a 15 second annoyance every 15 minutes Spend your money on something more deserving like some actual CDs
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Dont forget about We7com Its essentially the same as Spotfiy but browser based and without any time restrictions or play limits Also for every day you listen to a song you get 5 towards an advert free day Also i find the ads a lot less intrusive than Spotifys and it scrobbles which is always a plusMy problem with paying for Spotify is that you spend 60 a year and at the end of it you have nothing to show for it just avoiding a 15 second annoyance every 15 minutes Spend your money on something more deserving like some actual CDs
-imported: true
 ---
 
 Ever since Spotify Open [limited users to 10 hours of free music and 5 plays per track](http://www.spotify.com/uk/blog/archives/2011/04/14/upcoming-changes-to-spotify-free-open/), I’ve been on the hunt for alternative streaming services that offer something similar to its huge library and smooth browsing experience. If you’re searching too, here are my experiences.

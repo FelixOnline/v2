@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An editorial about Sex. Well the Sex Survey. Sorry to get you excited
 date: "2013-05-23 22:35:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3622"
 old_path: /comment/3622/sex-surveys-back
 aliases:
  - /comment/3622/sex-surveys-back
+imported: true
+comments:
+ -  20120222 2302     Please let me know if youre looking for a acitrle author for your weblog You have some really good acitrles and I believe I would be a good asset If you ever want to take some of the load off Id really like to write some content for your blog in exchange for a link back to mine Please blast me an email if interested Thank you
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -  20120222 2302     Please let me know if youre looking for a acitrle author for your weblog You have some really good acitrles and I believe I would be a good asset If you ever want to take some of the load off Id really like to write some content for your blog in exchange for a link back to mine Please blast me an email if interested Thank you
-imported: true
 ---
 
 [The Sex Survey has come back for another fucking year](http://felixonline.co.uk/news/3623/sex-survey-2013/). Well that’s a couple of puns out of the way, so I guess we can get onto more serious(ish) stuff.

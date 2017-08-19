@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Assured defiance from Savages' second album
 date: "2016-01-29 09:37:49 +0000"
+
 # Attributes from Felix Online V1
 id: "5851"
 old_path: /music/5851/is-it-human-to-adore-life-
 aliases:
  - /music/5851/is-it-human-to-adore-life-
+imported: true
+comments:
+ - RobertNick Thanks for feedback I may be interested to listen regarding just about any positive aspects in your SEARCH ENGINE MARKETING activities as soon as this is certainly implementedGucci Outlet Online httpwwwcharopfcomguccioutletYoure an extremely useful website couldnt make it without yanba 2k16 mt glitch httpcaraelizabethwebgardencomsection1buynba2k16coins
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - RobertNick Thanks for feedback I may be interested to listen regarding just about any positive aspects in your SEARCH ENGINE MARKETING activities as soon as this is certainly implementedGucci Outlet Online httpwwwcharopfcomguccioutletYoure an extremely useful website couldnt make it without yanba 2k16 mt glitch httpcaraelizabethwebgardencomsection1buynba2k16coins
-imported: true
 ---
 
 A_dore Life_ is an album about the good and the bad parts of love. The title should really be a question because Jenny Beth and her band are conflicted: “Is it human to adore life?”

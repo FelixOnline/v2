@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Life affirming, if a bit pretentious.
 date: "2013-04-30 14:59:57 +0100"
+
 # Attributes from Felix Online V1
 id: "3507"
 old_path: /books/3507/herman-hesses-siddhartha
 aliases:
  - /books/3507/herman-hesses-siddhartha
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - mtm10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Coming in at 114 pages long, Siddhartha is by far the easiest book to read by a Nobel Prize winning author. The guy I borrowed my copy off managed to read the whole thing in a particularly slow flight back from Jordan. I had only vaguely heard of either the book or the author before having the paper-back thrust into my hands, but it bore the trusted sign of being a “Penguin Modern Classic,” with its tasteful but artsy cover; so I figured I’d give it a go.

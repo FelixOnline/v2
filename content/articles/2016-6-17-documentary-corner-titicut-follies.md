@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-17 09:34:57 +0100"
+
 # Attributes from Felix Online V1
 id: "6286"
 old_path: /film/6286/documentary-corner-titicut-follies
 aliases:
  - /film/6286/documentary-corner-titicut-follies
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It seems fitting that Documentary Corner should end with a beginning. _Titicut Follies_ is the first film from director Frederick Wiseman, a giant in the documentary world, who stormed into the Bridgewater State Hospital for the criminally insane in 1966, armed only with a camera and a whole lot of chutzpah. Over the course of 84 minutes, Wiseman exposes the goings on in the hospital, from the mundane to the horrific: we see prisoners being force-fed, stripped, and relentlessly taunted by the guards, who are on the whole indifferent to their charges’ well-being.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Paolo Strampelli of the Imperial Entrepreneurs charts the history of a company that has struggled to keep apace with the times
 date: "2012-01-26 21:57:38 +0000"
+
 # Attributes from Felix Online V1
 id: "2048"
 old_path: /biz/2048/bankruptcy-a-kodak-moment
 aliases:
  - /biz/2048/bankruptcy-a-kodak-moment
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Filing for bankruptcy… a Kodak moment” joked someone in an elevator at one of Goldman Sachs offices, according to the twitter account [@GSElevator](http://twitter.com/#!/gselevator). On Thursday 19 January, (ex) photographic giant Eastman Kodak Co. filed for Chapter 11 bankruptcy. Low on cash, unable to effectively sell its assets, the company hopes through this move to slash its debts and, by forcing larger technology companies to pay to use its patents, stay in business. Kodak is now calling for a $950m bankruptcy loan, a call which seems to have been answered by the Citibank lending syndicate.

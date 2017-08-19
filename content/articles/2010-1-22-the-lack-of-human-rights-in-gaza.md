@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ali Jawad on the lack of human rights in Gaza
 date: "2010-01-22 13:26:03 +0000"
+
 # Attributes from Felix Online V1
 id: "49"
 old_path: /comment/49/the-lack-of-human-rights-in-gaza
 aliases:
  - /comment/49/the-lack-of-human-rights-in-gaza
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 24th December, 2008. Many of us were most likely sitting at home with the family, enjoying a peaceful night in, or out partying with friends, as Christmas Eve should be. Yet some 2000 miles away, the mood could not be more different. On a 25-mile strip of coastal land steeped in history, controversy and conflict, fighting had once again broken out. This foresaw more tears and bloodshed in the area famously dubbed ‘the world's largest open-air prison' – a fitting name for the territory, walled-off and under strict constant surveillance, encapsulating a million and a half people, many innocent children unknowing of what would befall them. War had once more struck Gaza, Palestine, already decrepit from years of repeated battles.

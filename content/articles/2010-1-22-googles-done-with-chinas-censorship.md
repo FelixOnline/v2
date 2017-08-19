@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Simon Worthington takes a look at the story that has the technology press going crazy over censorship
 date: "2010-01-22 19:04:37 +0000"
+
 # Attributes from Felix Online V1
 id: "56"
 old_path: /tech/56/googles-done-with-chinas-censorship
 aliases:
  - /tech/56/googles-done-with-chinas-censorship
+imported: true
+comments:
+ - Good for Google Information is a right and should be censored in any way or formlol why has it got ravi as authorRavi uploaded this and Im a little behind schedule with the backend of this site so you cant select other authors at uploadtime just yet will fix this soonGood article As Ravi says good for Google
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good for Google Information is a right and should be censored in any way or formlol why has it got ravi as authorRavi uploaded this and Im a little behind schedule with the backend of this site so you cant select other authors at uploadtime just yet will fix this soonGood article As Ravi says good for Google
-imported: true
 ---
 
 Google and China have never really been the best of friends, and now finally it's all over. Following security breaches of Google servers by hackers thought to originate from China, last week Google announced that it would be removing censorship from all of its Chinese services. Although the future is still uncertain, it's extremely likely that we'll see the end of Google.cn and the company effectively exiled from the country. As is usual, Google claims the moral high ground and reinforces its “don't be evil” attitude, but other evidence suggests that Google may have another hidden agenda.

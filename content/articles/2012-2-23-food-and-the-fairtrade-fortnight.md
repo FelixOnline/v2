@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Buying fairtrade helps others, so you should really try it out
 date: "2012-02-23 20:44:01 +0000"
+
 # Attributes from Felix Online V1
 id: "2241"
 old_path: /food/2241/food-and-the-fairtrade-fortnight-
 aliases:
  - /food/2241/food-and-the-fairtrade-fortnight-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The celebrations of Fairtrade Fortnight start on 27 February – but what is “Fairtrade” actually?

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles on photography from the Middle East
 date: "2013-02-01 00:08:55 +0000"
+
 # Attributes from Felix Online V1
 id: "3221"
 old_path: /arts/3221/youth-in-revolt
 aliases:
  - /arts/3221/youth-in-revolt
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It has been over two years since the beginning of the Arab Spring – the wave of revolutions, protests and conflict that swept the Arabian Peninsula – and things have still not died down. The ongoing civil war in Syria, which has left more than 60,000 dead, along with the continuing protests in Egypt ensure that our newspapers are filled with articles about the Middle East’s struggle for democracy on a daily basis. Whilst this increased exposure has led to heightened interest in the Arab world, it has done nothing to address the way many in the West see the Middle East: a single, monolithic entity, an endless desert stretching across from Africa to India, filled solely with oil wells, terrorists and guns. The V&A’s exhibition, which features work from 30 photographers and artists, helps shine a new light on the Middle East, revealing it to be a place of beauty, creativity and tenacity.

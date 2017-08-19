@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Camille Grellet talks to Felix about the reaction of her home country during the attacks
 date: "2015-01-16 12:57:36 +0000"
+
 # Attributes from Felix Online V1
 id: "5091"
 old_path: /news/5091/it-was-a-funny-paper-written-by-funny-people
 aliases:
  - /news/5091/it-was-a-funny-paper-written-by-funny-people
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _Felix_ spoke to Camille Grellet, a Bioengineer and the vice president of the French Society. Camille was in France during the attack, and told us how the country seemed to go into a state of shock. Stations, shops and locations of interest were closed whilst the terrorists were still on the run, and people were advised to stay in their home.

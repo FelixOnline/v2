@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Union says students are “skilled, experienced and equipped appropriately” but eyewitness disputes Union account
 date: "2011-01-13 21:50:17 +0000"
+
 # Attributes from Felix Online V1
 id: "597"
 old_path: /news/597/outdoor-club-accident-raises-safety-fears-
 aliases:
  - /news/597/outdoor-club-accident-raises-safety-fears-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A club trip took a turn for the worse last November when a member of the Outdoor Club fell 100ft while climbing in the Lake District. The injured student was winter climbing on the slopes of Helvellyn, the third highest peak in England, with a small group of other Imperial students on the 27th of November when the incident occurred.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland examines the role of the Tower of London installation
 date: "2014-11-14 20:54:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4880"
 old_path: /arts/4880/blood-swept-lands-why-do-we-remember-war
 aliases:
  - /arts/4880/blood-swept-lands-why-do-we-remember-war
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The UK has been blown over in support for Paul Cummin’s recent work at the Tower of London_ Blood Swept Lands and Seas of Red _to such an extent that the installation, which began being partly dismantled on Wednesday, was prolonged until the end of the month. Moreover, such was the public reaction that, with the help of David Cameron himself, some of the display will be toured around the country until 2018, after which it will gain a permanent position in the London and Manchester Imperial War Museums.

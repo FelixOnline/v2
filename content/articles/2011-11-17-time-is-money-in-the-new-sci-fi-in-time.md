@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The messages that the film tries to get across are admirable, but it is brought down by a lack of depth in characterization
 date: "2011-11-17 21:55:59 +0000"
+
 # Attributes from Felix Online V1
 id: "1789"
 old_path: /film/1789/time-is-money-in-the-new-sci-fi-in-time
 aliases:
  - /film/1789/time-is-money-in-the-new-sci-fi-in-time
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __In Time__

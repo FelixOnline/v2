@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Facebook: bringing you a sudden influx of misused memes
 date: "2012-02-09 22:18:37 +0000"
+
 # Attributes from Felix Online V1
 id: "2147"
 old_path: /tech/2147/zuckerberg-bored-enter-timeline
 aliases:
  - /tech/2147/zuckerberg-bored-enter-timeline
+imported: true
+comments:
+ - I hid my News category and now cant figure out how to restore it Its not in Recent  Hidden Activity either wrniitg like this additionally  taking time and actual effort to make a very good article but what can I say I procrastinate alot and by no means seem to get something done  plant based   car insurance access   VIAGARA   online pharmacy accutane
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I hid my News category and now cant figure out how to restore it Its not in Recent  Hidden Activity either wrniitg like this additionally  taking time and actual effort to make a very good article but what can I say I procrastinate alot and by no means seem to get something done  plant based   car insurance access   VIAGARA   online pharmacy accutane
-imported: true
 ---
 
 Tell your life story with a new kind of profile. Or so the marketing material goes. The latest revamp of the Facebook profile page has divided opinion among many people and it has not been embraced by as many people or as widely as Mark Zuckerberg would have wanted. These changes are possibly more far-reaching than any single modification to our favourite social network in its entire history. Like it or not, they will be made compulsory for everyone within the next month.

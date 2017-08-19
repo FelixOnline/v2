@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We all knew it was last year's worst film, but now its got an award to prove it!
 date: "2011-02-27 19:09:30 +0000"
+
 # Attributes from Felix Online V1
 id: "908"
 old_path: /film/908/and-the-winner-is-the-last-airbender
 aliases:
  - /film/908/and-the-winner-is-the-last-airbender
+imported: true
+comments:
+ - Yes absolutely Momentary brain death All about steve not All about eve All about eve is a fantastic classic starring Bette Davis and Anne Baxter Steve was the one Bullock starred in to win her RazzieI read that M Night was inspired to do this movie because he watched the series with his kids and all shared great enthusiasm for the series Im going to hold my judgment until I see the movie but Capones previous movie reviews have been pretty spot on It seems that sequel is on work and have a poster  httpwwwthelastairbender2com
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Yes absolutely Momentary brain death All about steve not All about eve All about eve is a fantastic classic starring Bette Davis and Anne Baxter Steve was the one Bullock starred in to win her RazzieI read that M Night was inspired to do this movie because he watched the series with his kids and all shared great enthusiasm for the series Im going to hold my judgment until I see the movie but Capones previous movie reviews have been pretty spot on It seems that sequel is on work and have a poster  httpwwwthelastairbender2com
-imported: true
 ---
 
 Los Angeles this weekend was buzzing even more than usual with the awards ceremony seeing the great minds behind Sex and the City 2 and M. Night Shyamalan’s The Last Airbender scooping most of the major prizes. At the 2011 Razzies.

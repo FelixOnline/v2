@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Friday sees the opening of the new h-bar for postgraduates and staff
 date: "2013-11-08 03:37:28 +0000"
+
 # Attributes from Felix Online V1
 id: "4019"
 old_path: /news/4019/new-postgraduate--opens
 aliases:
  - /news/4019/new-postgraduate--opens
+imported: true
+comments:
+ - Could you please please please add paragraph breaks to articles  I really cant read through a wall of textwot a load of old PlanckersHow much did it cost to close the Holland Club and open this And the name will garner barely a titter even amongst the most hardened Imperial dullardDoes anyone know what the criticisms of the name were
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Could you please please please add paragraph breaks to articles  I really cant read through a wall of textwot a load of old PlanckersHow much did it cost to close the Holland Club and open this And the name will garner barely a titter even amongst the most hardened Imperial dullardDoes anyone know what the criticisms of the name were
-imported: true
 ---
 
 A new postgraduate student and staff drinking and social venue on the South Kensington campus is set to open this Friday. In keeping with the Union’s trend of naming its drinking establishments with incredibly nerdy puns, the new space will be called ħ (pronounced h-bar), named after the reduced Planck constant, which is the smallest quantum of angular momentum (with a value of 6.582 x 10-16 eV s). There have been some criticisms of the new name, however according to the Union the name was chosen out of a shortlist of names submitted by staff members and postgraduate students.

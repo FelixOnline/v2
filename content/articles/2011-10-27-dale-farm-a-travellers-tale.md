@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Opposition against travellers isn't about planning permission or justice, it's just racism
 date: "2011-10-27 23:46:03 +0100"
+
 # Attributes from Felix Online V1
 id: "1623"
 old_path: /comment/1623/dale-farm-a-travellers-tale
 aliases:
  - /comment/1623/dale-farm-a-travellers-tale
+imported: true
+comments:
+ - LukeI have read many articles in mainstream newspapers about this case but none was anywhere near as balanced or well written as this one Well doneDear Anonymous firstly where do I ever suggest theyre poor in my article and when do I suggest that that would make it ok for them to break the law I find these points of yours strangeIn my last paragraph I even highlight how much debate is illinformed like yours They are not poor necessarily at Dale Farm they own the land They are not asking for any money and their financial situation has nothing to do with the case of eviction and whether it is or is not fair coninued in next commentYou try and act like the law is equal for all with youre assertion that if you break the law then you break the law However because of racism against the travellers we do not give them an option but to break the law We do not provide enough sites for travellers and we do not give them permission to form their own There are not enough legal locations i
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LukeI have read many articles in mainstream newspapers about this case but none was anywhere near as balanced or well written as this one Well doneDear Anonymous firstly where do I ever suggest theyre poor in my article and when do I suggest that that would make it ok for them to break the law I find these points of yours strangeIn my last paragraph I even highlight how much debate is illinformed like yours They are not poor necessarily at Dale Farm they own the land They are not asking for any money and their financial situation has nothing to do with the case of eviction and whether it is or is not fair coninued in next commentYou try and act like the law is equal for all with youre assertion that if you break the law then you break the law However because of racism against the travellers we do not give them an option but to break the law We do not provide enough sites for travellers and we do not give them permission to form their own There are not enough legal locations i
-imported: true
 ---
 
 Last week, the decade of legal battles over half of the traveller site at Dale Farm culminated into a physical one. Tony Balls, the Tory leader of Basildon council, has defended this eviction on the grounds of “fairness” – that the law must apply to everyone – which has been backed by his party’s leaders. However, this neglects the different starting positions: travellers are not treated like everyone to begin with. It’s like making someone start a game of Monopoly with half the money of everyone else and then complaining that it’s not fair when they start nicking money from the bank when people aren’t paying attention.

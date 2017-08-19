@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial surgeon Mr. Hutan Ashrafian has recently diagnosed a picture of Leonardo Da Vinci’s Vitruvian Man
 date: "2014-02-21 03:03:43 +0000"
+
 # Attributes from Felix Online V1
 id: "4415"
 old_path: /news/4415/imperial-medic-diagnoses-da-vincis-vitruvian-man
 aliases:
  - /news/4415/imperial-medic-diagnoses-da-vincis-vitruvian-man
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial surgeon Mr. Hutan Ashrafian has recently diagnosed a picture of Leonardo Da Vinci’s Vitruvian Man, saying in an email to the Huffington Post: “I noticed that Leonardo da Vinci’s image of a man had a feature that may have been pathological.

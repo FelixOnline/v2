@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
+
 # Attributes from Felix Online V1
 id: "5434"
 old_path: /arts/5434/an-ode-to-medicine-mortality-and-art
 aliases:
  - /arts/5434/an-ode-to-medicine-mortality-and-art
+imported: true
+comments:
+ - Hi there after reading this awesome post i am also cheerful to share my familiarity here with friendsparajumpers gloria woman httpwwwessenceofedencoukukparajumpersgloriawoman8001htmlfitflops in storesfitflops sale online httpaustraliafitflopsblogspotcombirkenstock arizona sandalsgizeh birkenstock httpbirkenstockaustraliamallscombirkenstock outlet online shopbirkenstock sydney httpbirkenstocksaleaustraliablogspotcomchristian louboutin bianca salechristian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin cheapbuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomBasically needed to mention Im just thankful I stumbled in your websiteNHL 17 httpcomparesecurityproductscoukcspforumindexphppdiscussion86570buynba2k17coinsiowateenagerchargedofkillinghismotheronthegaminghalo3
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi there after reading this awesome post i am also cheerful to share my familiarity here with friendsparajumpers gloria woman httpwwwessenceofedencoukukparajumpersgloriawoman8001htmlfitflops in storesfitflops sale online httpaustraliafitflopsblogspotcombirkenstock arizona sandalsgizeh birkenstock httpbirkenstockaustraliamallscombirkenstock outlet online shopbirkenstock sydney httpbirkenstocksaleaustraliablogspotcomchristian louboutin bianca salechristian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin cheapbuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomBasically needed to mention Im just thankful I stumbled in your websiteNHL 17 httpcomparesecurityproductscoukcspforumindexphppdiscussion86570buynba2k17coinsiowateenagerchargedofkillinghismotheronthegaminghalo3
-imported: true
 ---
 
 In his poem _Larynx_, Pablo Neruda implored of Death:

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fallout as event loses over £15,000
 date: "2012-05-18 06:14:07 +0100"
+
 # Attributes from Felix Online V1
 id: "2458"
 old_path: /news/2458/cold-fusionlondon-event-fails-to-reach-critical-mass
 aliases:
  - /news/2458/cold-fusionlondon-event-fails-to-reach-critical-mass
+imported: true
+comments:
+ - Beautiful headline the subject in hand aside of courseAnyone remember the Summer Ball 2011The real culprit here is Angela  her ego and insistence on doing things her way has led to this loss and I doubt she particularly feels any remorse for her actions Furthermore the budget that she originally presented stating that no expenditure would be made that didnt already have a guaranteed source of funding hence making the whole thing risk free was not the same budget passed to exec which was then approved Angela lied and cheated her way through the unions checks and balances system and the executive committee had the wool royally pulled over their eyesGlad to see that Henry Whittaker incompetent as ever in any role hes given Good luck to all clubs with him as DPCS next yearCritical mass is a property required for nuclear fission the title is of the typically poor quality befitting FelixWe got a sharp one here Only took em 7 months to figure it outIf you assume that articles are only
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Beautiful headline the subject in hand aside of courseAnyone remember the Summer Ball 2011The real culprit here is Angela  her ego and insistence on doing things her way has led to this loss and I doubt she particularly feels any remorse for her actions Furthermore the budget that she originally presented stating that no expenditure would be made that didnt already have a guaranteed source of funding hence making the whole thing risk free was not the same budget passed to exec which was then approved Angela lied and cheated her way through the unions checks and balances system and the executive committee had the wool royally pulled over their eyesGlad to see that Henry Whittaker incompetent as ever in any role hes given Good luck to all clubs with him as DPCS next yearCritical mass is a property required for nuclear fission the title is of the typically poor quality befitting FelixWe got a sharp one here Only took em 7 months to figure it outIf you assume that articles are only
-imported: true
 ---
 
 The financial outcome of the charity event [Fusion@London](http://fusionatlondon.com/) has finally become clear. [As reported previously in Felix](http://felixonline.co.uk/news/2301/confusion-over-event-success/), there was initially a long, slow, and confusing period of uncertainty as to exactly what the situation was. Up until as recently as 1 May, there were still invoices that needed to be paid. However, the loss is now known and eActivities (the online record of transactions for clubs and societies) currently gives an accurate representation of the financial failure of the event. In total, the event lost £15,506.91.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   When we’re surrounded by so much fear, we forget that we still have freedom
 date: "2015-11-27 14:27:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5778"
 old_path: /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
 aliases:
  - /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
+imported: true
+comments:
+ - One thing Id like to touch upon is that fat reduction plan fast is possible by the perfect diet and exercise Someones size not merely affects the look but also the entire quality of life Selfesteem depression health risks plus physical capabilities are affected in excess weight It is possible to just make everything right but still gain Should this happen a problem may be the offender While a lot food instead of enough work out are usually the culprit common health conditions and widespread prescriptions can certainly greatly help to increase size Thx for your post right here Enlever les cernes urlhttpwwwenleverlescernesmlEnlever les cernesurlI realized more new stuff on this losing weight issue 1 issue is that good nutrition is vital whenever dieting A huge reduction in fast foods sugary meals fried foods sweet foods beef and white flour products may be necessary Retaining wastes parasitic organisms and toxins may prevent targets for fat loss While particular drugs mo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - One thing Id like to touch upon is that fat reduction plan fast is possible by the perfect diet and exercise Someones size not merely affects the look but also the entire quality of life Selfesteem depression health risks plus physical capabilities are affected in excess weight It is possible to just make everything right but still gain Should this happen a problem may be the offender While a lot food instead of enough work out are usually the culprit common health conditions and widespread prescriptions can certainly greatly help to increase size Thx for your post right here Enlever les cernes urlhttpwwwenleverlescernesmlEnlever les cernesurlI realized more new stuff on this losing weight issue 1 issue is that good nutrition is vital whenever dieting A huge reduction in fast foods sugary meals fried foods sweet foods beef and white flour products may be necessary Retaining wastes parasitic organisms and toxins may prevent targets for fat loss While particular drugs mo
-imported: true
 ---
 
 In 1853, the architect Georges-Eugène Haussmann was tasked with the renovation of Paris, a city crippled by overcrowding and disease. Part of his work involved creating large, straight boulevards that critics at the time said were to allow the army to manoeuvre more easily and to suppress armed uprisings. Whether that really was the motivation behind them, today we are regrettably seeing soldiers lining these boulevards.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stephanie Walton interviews our very own CBE winner, FRS and researcher
 date: "2013-05-16 18:11:30 +0100"
+
 # Attributes from Felix Online V1
 id: "3579"
 old_path: /science/3579/bumper-year-for-physics-joanna-haigh
 aliases:
  - /science/3579/bumper-year-for-physics-joanna-haigh
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Climate physicist Professor Joanna Haigh is enjoying a glittering start to 2013. In recognition of her services to Physics she was appointed Commander of the British Empire (CBE) in the New Year Honours and earlier this month she was elected a Fellow of the Royal Society (FRS).

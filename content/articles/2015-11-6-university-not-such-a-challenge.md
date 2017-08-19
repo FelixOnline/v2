@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Hundreds of students flock to Beit bars to watch Imperial team storm to 305-75 victory over Cambridge’s Sidney Sussex
 date: "2015-11-06 13:39:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5699"
 old_path: /news/5699/university-not-such-a-challenge
 aliases:
  - /news/5699/university-not-such-a-challenge
+imported: true
+comments:
+ - Great article but it didnt have evrgtyhineI didnt find the kitchen sinkI like looking through your website thnxNHL 17 httpwwwfuturegncomauforumsblogsentertainmentgames561nhl17coinsforsalerememberthefantastictimesI appreciate browsing your web site With thanksnfl 17 httpwwwccjfriendscomblogspost611
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great article but it didnt have evrgtyhineI didnt find the kitchen sinkI like looking through your website thnxNHL 17 httpwwwfuturegncomauforumsblogsentertainmentgames561nhl17coinsforsalerememberthefantastictimesI appreciate browsing your web site With thanksnfl 17 httpwwwccjfriendscomblogspost611
-imported: true
 ---
 
 Imperial College London’s University Challenge team has made another strong appearance on the BBC quiz show, winning their second round match against Sidney Sussex College Cambridge with a final score of 305 to 75.

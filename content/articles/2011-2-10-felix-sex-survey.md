@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A small, X-rated snapshot of the sexual lives of Imperial students.
 date: "2011-02-10 21:02:39 +0000"
+
 # Attributes from Felix Online V1
 id: "791"
 old_path: /news/791/felix-sex-survey
 aliases:
  - /news/791/felix-sex-survey
+imported: true
+comments:
+ - There was a mix up with the data which meant that Civ Eng and Computing were combined Sorry Civ Eng and ComputingPity you didnt find space for an amusingly shaped sex toy infographic Were the data not conducive to that sort of thingSorry guys but Civ Eng and Comp Sci got combined together in the database so theres literally no way of telling them apart If only wed had a few more Comp Scis on board PI think we should have one a term to see which term imperial student get laid in the most And also because I loved doing data analysis waay too much No computing department resultsCould you print computing results separately in the next issue We really wanna know oAny more info the answers to the where on campus have you had sex questionThanks for sharing What a pleaurse to read
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - There was a mix up with the data which meant that Civ Eng and Computing were combined Sorry Civ Eng and ComputingPity you didnt find space for an amusingly shaped sex toy infographic Were the data not conducive to that sort of thingSorry guys but Civ Eng and Comp Sci got combined together in the database so theres literally no way of telling them apart If only wed had a few more Comp Scis on board PI think we should have one a term to see which term imperial student get laid in the most And also because I loved doing data analysis waay too much No computing department resultsCould you print computing results separately in the next issue We really wanna know oAny more info the answers to the where on campus have you had sex questionThanks for sharing What a pleaurse to read
-imported: true
 ---
 
 You can view the whole version [here.](http://www.felixonline.co.uk/img/sexsurvey/Felix%20Sex%20Survey.jpg)

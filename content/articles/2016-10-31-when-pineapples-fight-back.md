@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Another one of Mr Aran Shaunak’s Little Bites of Science
 date: "2016-10-31 16:00:30 +0000"
+
 # Attributes from Felix Online V1
 id: "6364"
 old_path: /science/6364/when-pineapples-fight-back
 aliases:
  - /science/6364/when-pineapples-fight-back
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Fact: pineapples are the only food to try to eat you while you eat them.

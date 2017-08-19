@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stephanie Walton takes an unusual walk by the sea
 date: "2012-11-09 12:39:56 +0000"
+
 # Attributes from Felix Online V1
 id: "2850"
 old_path: /travel/2850/wallowing-in-the-wadden
 aliases:
  - /travel/2850/wallowing-in-the-wadden
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I doubt many visitors to The Netherlands stray far beyond the amazing museums, canals and liberal attractions of Amsterdam. So it was perhaps unsurprising that I was met with quizzical looks when I announced that I was off to The Netherlands to go Wadlopen. Wadlopen, the art of walking on mudflats exposed at low tideby the Wadden Sea, was something that until recently I had never even heard of, let alone considered doing. When I read about it in my guide book, however, I was very keen to try this unusual activity.

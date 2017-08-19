@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Thomas Lim visits the newest eatery in College
 date: "2014-10-17 14:44:34 +0100"
+
 # Attributes from Felix Online V1
 id: "4729"
 old_path: /news/4729/food-outlet-fusion-54-opens-on-campus
 aliases:
  - /news/4729/food-outlet-fusion-54-opens-on-campus
+imported: true
+comments:
+ - Well is the food good or notIt certainly isDoes it take YoYo the College payment system on an iPhoneStickers on the door suggest they doDo you think FELIX could organise a review of the food there Which one tastes better etcWe could do were you hoping for a likeforlike comparison with Taste Imperial offerings so comparing two similar pasta dishes for example  or a look across the board at the range of stuff offeredThank you I think likeforlike would be a good idea pleaseTwo types about dedicated computers can be obtained more recently Been able Dedicated Hosting space Unmanaged Devoted Servers For Unmanaged Dedicated Server typically the management handle has into the customer and prospect is capable of doing software program update on his own and also security tracking software programs installation and various computer system restored When satellite service company the actual apparatus restoration community monitoring and so on Be the serious difference around managed and also
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well is the food good or notIt certainly isDoes it take YoYo the College payment system on an iPhoneStickers on the door suggest they doDo you think FELIX could organise a review of the food there Which one tastes better etcWe could do were you hoping for a likeforlike comparison with Taste Imperial offerings so comparing two similar pasta dishes for example  or a look across the board at the range of stuff offeredThank you I think likeforlike would be a good idea pleaseTwo types about dedicated computers can be obtained more recently Been able Dedicated Hosting space Unmanaged Devoted Servers For Unmanaged Dedicated Server typically the management handle has into the customer and prospect is capable of doing software program update on his own and also security tracking software programs installation and various computer system restored When satellite service company the actual apparatus restoration community monitoring and so on Be the serious difference around managed and also
-imported: true
 ---
 
 On Monday, Fusion 54, a new food outlet opened its doors on the Sherfield Walkway.

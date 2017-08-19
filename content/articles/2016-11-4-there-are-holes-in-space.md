@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Holes in space legislation, that is
 date: "2016-11-04 12:53:24 +0000"
+
 # Attributes from Felix Online V1
 id: "6382"
 old_path: /science/6382/there-are-holes-in-space
 aliases:
  - /science/6382/there-are-holes-in-space
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In spite of the seemingly everlasting state of conflict in the international community, all countries have pretty much agreed to pretend to be friends in outer space.

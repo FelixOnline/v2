@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Vatican has a lot of serious questions to answer
 date: "2011-06-11 17:23:01 +0100"
+
 # Attributes from Felix Online V1
 id: "1357"
 old_path: /comment/1357/mass-deception
 aliases:
  - /comment/1357/mass-deception
+imported: true
+comments:
+ - Please email commentfeliximperialacuk if you would like to write something in responseYes yes they should Having HIV is not a sin or social evil in any sense Spreading it recklessly or rejecting the means to protect others is howeverTitle now changed hope that clears up some of the doubts people were havingNot so I didnt choose the headline or subheadline although I take responsibility as obviously I allowed them to go to print I will concede that the subheadline had a certain dissonance with the thrust of the article which was a mistake but I was not purposely trying to create extra controversyThat last comment was me by the wayE Wong your points are invalid for a number of reasons Firstly you are assuming with HIV know they have HIV which of course they dont And secondly you are assuming that those with HIV will tell their sexual partner that they have it which of course they wont I hope that clears it up for you Even if both of these criteria fulfilled I am not s
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Please email commentfeliximperialacuk if you would like to write something in responseYes yes they should Having HIV is not a sin or social evil in any sense Spreading it recklessly or rejecting the means to protect others is howeverTitle now changed hope that clears up some of the doubts people were havingNot so I didnt choose the headline or subheadline although I take responsibility as obviously I allowed them to go to print I will concede that the subheadline had a certain dissonance with the thrust of the article which was a mistake but I was not purposely trying to create extra controversyThat last comment was me by the wayE Wong your points are invalid for a number of reasons Firstly you are assuming with HIV know they have HIV which of course they dont And secondly you are assuming that those with HIV will tell their sexual partner that they have it which of course they wont I hope that clears it up for you Even if both of these criteria fulfilled I am not s
-imported: true
 ---
 
 The news that the Belgian victims of abuse at the hands of Catholic priests [are attempting to sue the Vatican](http://www.bbc.co.uk/news/world-europe-13621325) should not surprise any of us. There have been various attempts over the years demanding that the church tries to put right the hideous crimes performed by its members, including a high profile effort to have the Pope arrested on his trip to Britain last year, headed by prominent atheists Christopher Hitchens and Richard Dawkins. Their lack of success comes as no shock to me; the Catholic Church has, after all, built its defenses tall and strong, impenetrable to the opposition it faces.

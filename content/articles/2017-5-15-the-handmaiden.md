@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A tale of deceit and desire
 date: "2017-05-15 17:23:13 +0100"
+
 # Attributes from Felix Online V1
 id: "6963"
 old_path: /film/6963/the-handmaiden
 aliases:
  - /film/6963/the-handmaiden
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A young Korean woman arrives at a vast mansion, taking up position as handmaiden to the niece of a wealthy aristocrat. So begins this erotic, psychological thriller, a taut and captivating exploration of deceit, power, and sexuality in Japanese-ruled Korea. The latest film from director Park Chan-Wook, who brought us the uber-violent neo-noir Oldboy, he smashes the ball out of the park once again.

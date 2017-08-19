@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Want to know more about the Croatia's upcoming Unknown Festival? Daniel Oppenheimer gives the deets.
 date: "2013-08-09 19:48:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3749"
 old_path: /music/3749/festival-preview-unknown-festival---croatia
 aliases:
  - /music/3749/festival-preview-unknown-festival---croatia
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Over the last few years Croatia’s coast on the Adriatic has become the go-to spot for electronic music festivals. This year the organisers of Field day, Warehouse Project and Hideout are bringing a fresh party to the region, Unknown.

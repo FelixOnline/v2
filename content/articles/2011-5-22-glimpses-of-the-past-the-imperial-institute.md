@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A look at our campus as it once was
 date: "2011-05-22 12:23:12 +0100"
+
 # Attributes from Felix Online V1
 id: "1239"
 old_path: /news/1239/glimpses-of-the-past-the-imperial-institute
 aliases:
  - /news/1239/glimpses-of-the-past-the-imperial-institute
+imported: true
+comments:
+ - Some more photoshttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxhttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxSame old story aint it when a load of nondescript municipal overremunerated muckers of various aesthetic taste or not at all get stuck in to deciding upon whether an edifice of yore that some thick is an eyesore and others regard as a feast to the eye should be raised to the ground or raised in praise
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Some more photoshttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxhttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxSame old story aint it when a load of nondescript municipal overremunerated muckers of various aesthetic taste or not at all get stuck in to deciding upon whether an edifice of yore that some thick is an eyesore and others regard as a feast to the eye should be raised to the ground or raised in praise
-imported: true
 ---
 
 When construction began on the grand Imperial Institute in 1887, fears were already being expressed that it would turn into a wasteful white elephant. Barely a year later, in fact, Thomas Henry Huxley had already pronounced the monumental project ‘a failure’. But when Rector Sir Patrick Linstead decided to tear the building down over half a century later, he was met with public outrage. At the time, it was reported that the decision to demolish the Institute was partly because its ‘architecture would be “difficult to reconcile” with the new science buildings’.

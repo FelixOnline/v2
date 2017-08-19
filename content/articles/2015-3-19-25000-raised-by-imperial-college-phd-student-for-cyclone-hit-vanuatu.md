@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson reports on the amazing fundraising achievement that has been accomplished in tragic circumstances
 date: "2015-03-19 23:39:31 +0000"
+
 # Attributes from Felix Online V1
 id: "5404"
 old_path: /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
 aliases:
  - /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
+imported: true
+comments:
+ - Deeply moving The world is indeed filled with good hearted people  Thank you for publishng this I a very gratefu to get this short list of agencies direclty involved in the disaster relief and will donate right away Thank you againThank you so much nothing is more powerful than a heart of a volunteer God bless youMany thanks this site is very valuablenba 2k16 mt database httpspacescoverscomblognhlcoinsNCAAB04072016csgoskinshasassuredfreedomofnavigathtml
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Deeply moving The world is indeed filled with good hearted people  Thank you for publishng this I a very gratefu to get this short list of agencies direclty involved in the disaster relief and will donate right away Thank you againThank you so much nothing is more powerful than a heart of a volunteer God bless youMany thanks this site is very valuablenba 2k16 mt database httpspacescoverscomblognhlcoinsNCAAB04072016csgoskinshasassuredfreedomofnavigathtml
-imported: true
 ---
 
 A PhD student of the Department of Chemistry has raised more than £13,000 since Sunday 15th March for relief efforts in the cyclone-hit island nation Vanuatu, after previously raising £12,000 to build a library for a school on one of the remote islands.

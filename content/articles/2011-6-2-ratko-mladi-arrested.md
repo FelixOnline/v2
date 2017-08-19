@@ -4,16 +4,24 @@ title: >
 subtitle: >
   But he’ll never face true justice at the Hague argues Naida Dzigal
 date: "2011-06-02 19:09:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1303"
 old_path: /politics/1303/ratko-mladi-arrested
 aliases:
  - /politics/1303/ratko-mladi-arrested
+imported: true
+comments:
+ - Dear Democratic SpokespersonI agree with you It is a great thing that everyone is assumed innocent until proven guilty However my piece wasnt centred on whether Mladic was guilty or not but rather around the consequences and reactions to his extradition Just because Milosevic or Hitler werent convicted doesnt mean they werent guilty And it certainly doesnt mean they did not commit the crimes they made Same goes for Mladic This all is a grey area of democracy and justice  the legitimisation or recognition of a crime having been committed But then one could argue the opposite as well  it has been proven many times that a convicted person was in fact not guilty This has however happened only in cases where the evidence was not as comprehensive as the Hague claims it isRe what you said about the fairness of a trial You would certainly then agree that since these alleged war criminals are being trialled in the Hague by the most international and highranked of judges with the best
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Dear Democratic SpokespersonI agree with you It is a great thing that everyone is assumed innocent until proven guilty However my piece wasnt centred on whether Mladic was guilty or not but rather around the consequences and reactions to his extradition Just because Milosevic or Hitler werent convicted doesnt mean they werent guilty And it certainly doesnt mean they did not commit the crimes they made Same goes for Mladic This all is a grey area of democracy and justice  the legitimisation or recognition of a crime having been committed But then one could argue the opposite as well  it has been proven many times that a convicted person was in fact not guilty This has however happened only in cases where the evidence was not as comprehensive as the Hague claims it isRe what you said about the fairness of a trial You would certainly then agree that since these alleged war criminals are being trialled in the Hague by the most international and highranked of judges with the best
-imported: true
 ---
 
 A couple of weeks ago, Osama bin Laden was found and killed in Pakistan by the US. As is usually the case, a lot of banter and ridicule followed – one of which was [a picture of Osama Bin Laden titled ‘Hide and Seek Champion: 2001– 2011’](http://www.collegehumor.com/picture/6497571/osama-bin-laden-hide-and-seek-champion). I remember thinking that he wasn’t the champion, there were still many war criminals and the like at large such as Ratko Mladić – the man who masterminded the [genocide in Srebrenica](http://en.wikipedia.org/wiki/Srebrenica_massacre) and presented it as a ‘gift’ to the Serbian nation. I wondered whether he’d ever be caught.

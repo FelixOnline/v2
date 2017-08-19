@@ -4,16 +4,22 @@ title: >
 subtitle: >
   They're back
 date: "2017-01-27 16:48:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6697"
 old_path: /music/6697/hallelujah-money-
 aliases:
  - /music/6697/hallelujah-money-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Gorillaz are back – and this time they are as political as they are whacky.  Having teased a new album through Instagram and SoundCloud releases over the past few months, Gorillaz released the brand new track Hallelujah Money (ft. Benjamin Clementine) on the eve of Trump’s inauguration.  The Damon Albarn-led virtual band described the track in their own words as a  “commentary on a politically-charged, historical moment”.

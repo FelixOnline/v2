@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Introducing the Imperial Series
 date: "2013-10-25 01:09:56 +0100"
+
 # Attributes from Felix Online V1
 id: "3949"
 old_path: /features/3949/the-imperial-series
 aliases:
  - /features/3949/the-imperial-series
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This year Imperial Hub is hosting an exciting fortnightly series of interactive talks kicking off on the 31st of October at 6:00pm in Huxley LT 144 with an insight into the very big issue of Social Isolation in London and ways of combatting it. With our much awaited talk on Humanitarian Aid in Syria by Louay El-Adeb from Syria Relief taking place on November 7th.

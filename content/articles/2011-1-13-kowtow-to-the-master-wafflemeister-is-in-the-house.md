@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With a motto like ‘I waffle therefore I am’, what’s not to love?
 date: "2011-01-13 19:47:00 +0000"
+
 # Attributes from Felix Online V1
 id: "569"
 old_path: /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
 aliases:
  - /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
+imported: true
+comments:
+ -  Louisa every one of these photos is aznmiag Just lurve lurve every aspect of it  The style the impish funthe dress the cake the flowers the ambience   youre one incredible photographer Thanks for sharingJanuary 15 2013                                                We are all waiting for the next griaeetnon Nikon and Canon professional dSLR cameras  The Nikon D3s knocked the socks off photographers who shoot indoor sports  At ISOs of 128000 the amount of noise in the images is less than most entry level cameras when shot at ISO 400  That is a six stop difference  That means that the photographer can be shooting NBA basket ball with shutter speeds of over 11000th second at f4  That was the last big dealMy guess is that the dSLR that can shoot in video RAW will be the next hot ticket  I am sure that there are a number of camera systems working on that right now
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- -  Louisa every one of these photos is aznmiag Just lurve lurve every aspect of it  The style the impish funthe dress the cake the flowers the ambience   youre one incredible photographer Thanks for sharingJanuary 15 2013                                                We are all waiting for the next griaeetnon Nikon and Canon professional dSLR cameras  The Nikon D3s knocked the socks off photographers who shoot indoor sports  At ISOs of 128000 the amount of noise in the images is less than most entry level cameras when shot at ISO 400  That is a six stop difference  That means that the photographer can be shooting NBA basket ball with shutter speeds of over 11000th second at f4  That was the last big dealMy guess is that the dSLR that can shoot in video RAW will be the next hot ticket  I am sure that there are a number of camera systems working on that right now
-imported: true
 ---
 
 Have you ever tried Sainbury’s Belgian Waffles? They glow a certain shade of yellow that reminds me of the Mercedes Benz SLK320 in sunshine yellow. God knows just how many additives they employed for you to ‘Taste the Difference’.

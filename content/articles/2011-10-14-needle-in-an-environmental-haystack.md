@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eoghan J.Totten reveals his first impressions of London
 date: "2011-10-14 00:39:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1540"
 old_path: /comment/1540/needle-in-an-environmental-haystack
 aliases:
  - /comment/1540/needle-in-an-environmental-haystack
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 London. A seething, writhing cacophony of activity by day and a place where simmering pulses of energy remain by night. If there’s one thing you can count on, it’s that in London, a light is always turned on somewhere.

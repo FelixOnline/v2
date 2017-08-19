@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles finds that the bravado of The Motherfucker with the Hat hides subtler themes
 date: "2015-06-20 16:25:58 +0100"
+
 # Attributes from Felix Online V1
 id: "5646"
 old_path: /arts/5646/addiction-and-adultery-in-the-city
 aliases:
  - /arts/5646/addiction-and-adultery-in-the-city
+imported: true
+comments:
+ - Ysw5lf  ljqyhsovwhwc urlhttpwwbnxvowtlercomwwbnxvowtlerurl linkhttpmtwyykdryvzrcommtwyykdryvzrlink httpssjaarlyqaxgcomI adore this site  its so usefull and helpfullnhl 17 coins httprxaffiliatesforumcomforummainforumpharmindustrynewsandevents513nba2k17coinsrefurbishedxbox360consolewhatincaseyoupurchaseI value the info on your web site Thank you so muchnba 2k17 coins httpwwwcooperativascarabocchioitindexphpoptioncom_ccboardviewpostlistforum1topic37880
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ysw5lf  ljqyhsovwhwc urlhttpwwbnxvowtlercomwwbnxvowtlerurl linkhttpmtwyykdryvzrcommtwyykdryvzrlink httpssjaarlyqaxgcomI adore this site  its so usefull and helpfullnhl 17 coins httprxaffiliatesforumcomforummainforumpharmindustrynewsandevents513nba2k17coinsrefurbishedxbox360consolewhatincaseyoupurchaseI value the info on your web site Thank you so muchnba 2k17 coins httpwwwcooperativascarabocchioitindexphpoptioncom_ccboardviewpostlistforum1topic37880
-imported: true
 ---
 
 ‘I mean, what are we - Europeans or some shit?’ cries Jackie, the hot-headed, recently-out-of-prison, honour-bound, macho-man central character of Stephen Adly Guirgis’ 2011 play _The Motherfucker with the Hat_, making its UK debut at the __National’s__ Lyttelton Theatre. And he’s right. This play, with its screeching city soundscape, larger-than-life characters, and tendency for expletives in every line, positively screams New York City. There are even the iconic fire escapes, hanging over the stage like swords of Damocles, reminding us that this certainly isn’t a European domestic drama.

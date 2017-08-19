@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial teams dominate the Luton Marathon Relays.
 date: "2012-11-29 23:12:42 +0000"
+
 # Attributes from Felix Online V1
 id: "3008"
 old_path: /sport/3008/runners-dominate-luton-relays-again
 aliases:
  - /sport/3008/runners-dominate-luton-relays-again
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Sunday morning, our four Imperial teams arrived in a sunny but cold Luton, ready to once again dominate the Luton Marathon Relays. Simply put, each relay team consists of three people, each running a third of a marathon.

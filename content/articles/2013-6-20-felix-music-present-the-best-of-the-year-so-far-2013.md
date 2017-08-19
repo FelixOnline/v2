@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ross Gray offers dark obscurities and a dreamy indie release
 date: "2013-06-20 23:10:56 +0100"
+
 # Attributes from Felix Online V1
 id: "3717"
 old_path: /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
 aliases:
  - /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
+imported: true
+comments:
+ - How could you guys forget this masterpiece httpwwwdailymotioncomvideoxyy9zg_eyetoeyesong_music                      Manhour basis                                                  Manhours                                                                   Invoice     owner
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rbg10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How could you guys forget this masterpiece httpwwwdailymotioncomvideoxyy9zg_eyetoeyesong_music                      Manhour basis                                                  Manhours                                                                   Invoice     owner
-imported: true
 ---
 
 2013 has been a year of labels for me. Whilst this may be somewhat rudimentary, I’ve really found labels to be an incredible source of new sounds in the year so far. I had to make a big effort to limit some of my favourite labels from this period (e.g. Opal Tapes, Blackest Ever Black) to just one record. Consequently, I would highly recommend looking at a label’s entire output if you like the release given in the list. I am unsure whether this has been a particularly good year for dark music or an awful year for me personally, but my picks from this year have been dominated by lo-fi, dark, industrial sounds, and so wherever possible I have avoided using this description for the works. Instead I have tried to focus on what it is that makes them stand out within this (surprisingly) tightly themed block.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two tickets up to grab at the RCSU Science Challenge launch
 date: "2011-12-08 20:07:14 +0000"
+
 # Attributes from Felix Online V1
 id: "1908"
 old_path: /news/1908/dinner-in-the-house-of-lords-anyone
 aliases:
  - /news/1908/dinner-in-the-house-of-lords-anyone
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This Wednesday the [Royal College of Science Union (RCSU](http://rcsu.org.uk)) announced via email to the Faculty of Natural Sciences that it will be holding the Science Challenge 2012 Final in the House of Lords.

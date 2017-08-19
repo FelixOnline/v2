@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The book that will make you a conscientious omnivore
 date: "2011-02-03 19:30:15 +0000"
+
 # Attributes from Felix Online V1
 id: "716"
 old_path: /arts/716/eat-meat-but-think-twice
 aliases:
  - /arts/716/eat-meat-but-think-twice
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Eating Animals is not a simple argument for vegetarianism, but an intelligent insight into the culture, economy, business and impacts of meat production. Jonathan Safran Foer makes a plea for more "conscientious omnivores", making meal-by-meal decisions. We should all think about the issues and where we stand, particularly in regards to resource use, as a topic that effects everyone on the planet

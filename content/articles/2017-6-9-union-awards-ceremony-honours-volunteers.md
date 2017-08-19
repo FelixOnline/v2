@@ -4,16 +4,23 @@ title: >
 subtitle: >
   RCSU President boycotts event
 date: "2017-06-09 14:51:10 +0100"
+
 # Attributes from Felix Online V1
 id: "7008"
 old_path: /news/7008/union-awards-ceremony-honours-volunteers
 aliases:
  - /news/7008/union-awards-ceremony-honours-volunteers
+imported: true
+comments:
+ - Lets look at Lloyd James record here as its pretty grim reading1 He argued hard against consent classes because of the expense but then spent union grant on a water cooler in the RCSU office which should have been spent on dep socs who are hard pressed for cash2 He sent a paper to council requesting that council only talk about big issues then sent in papers about petty issues such as mascotry policy of which he was arrogant enough not to consult other constituent unions about3 He persuaded Mentality to try and publish an slanderous open letter in Felix criticising Felix for publishing that LJ was against consent classes and then complained about cronyism in union awards35He complains about cronyism when his friend and secretary Michael Edwards is the next unopposed RCSU president and he posts on Facebook that Abhjay Sood will be the president after that4 He has been elected unopposed in every election he has ever run in yet has deep opinions about union democracy5 He claims to s
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Lets look at Lloyd James record here as its pretty grim reading1 He argued hard against consent classes because of the expense but then spent union grant on a water cooler in the RCSU office which should have been spent on dep socs who are hard pressed for cash2 He sent a paper to council requesting that council only talk about big issues then sent in papers about petty issues such as mascotry policy of which he was arrogant enough not to consult other constituent unions about3 He persuaded Mentality to try and publish an slanderous open letter in Felix criticising Felix for publishing that LJ was against consent classes and then complained about cronyism in union awards35He complains about cronyism when his friend and secretary Michael Edwards is the next unopposed RCSU president and he posts on Facebook that Abhjay Sood will be the president after that4 He has been elected unopposed in every election he has ever run in yet has deep opinions about union democracy5 He claims to s
-imported: true
 ---
 
 Monday saw the Union thank its volunteers at the annual Union Awards.

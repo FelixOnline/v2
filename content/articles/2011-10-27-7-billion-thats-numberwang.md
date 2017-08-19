@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton argues that population growth isn’t a priority
 date: "2011-10-27 22:52:57 +0100"
+
 # Attributes from Felix Online V1
 id: "1618"
 old_path: /politics/1618/7-billion-thats-numberwang
 aliases:
  - /politics/1618/7-billion-thats-numberwang
+imported: true
+comments:
+ - The problem of overpopulation is extremely hard to assessMore consumption  more warming regardless of the number of people I fail to see how a moral person can worry about the existence of a child in a large family in rural Africa who burns a little wood for cooking while we enjoy CO2 intensive Western lifestyles over here The ideal situation is if we could lift this poor child out of poverty  which means giving it enough calories as well as veggies and meat and access to energy healthcare education etc Sadly there is not much land left to turn into farms without encroaching in essential biomes and existing arable land is being eroded Th huge increase in crop yields seen in the 20th century has started to stallI donnt see how having even more people on Earth will help development
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The problem of overpopulation is extremely hard to assessMore consumption  more warming regardless of the number of people I fail to see how a moral person can worry about the existence of a child in a large family in rural Africa who burns a little wood for cooking while we enjoy CO2 intensive Western lifestyles over here The ideal situation is if we could lift this poor child out of poverty  which means giving it enough calories as well as veggies and meat and access to energy healthcare education etc Sadly there is not much land left to turn into farms without encroaching in essential biomes and existing arable land is being eroded Th huge increase in crop yields seen in the 20th century has started to stallI donnt see how having even more people on Earth will help development
-imported: true
 ---
 
 This Tuesday, the UN is expected to name a child, somewhere in the world, as [the planet’s seven billionth living resident](http://www.bbc.co.uk/news/world-15391515). The news has been greeted with alacrity by much of the same planet’s media, most notably The Guardian, which ran articles such as “Why current population growth is costing the Earth”. The idea that population growth is spelling doom for us all is as popular as it is old. It is just as wrong.

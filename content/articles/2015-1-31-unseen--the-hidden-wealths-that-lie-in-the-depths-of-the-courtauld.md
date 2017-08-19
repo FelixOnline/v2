@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Falkenberg checks out the Courtauld's collection of little-seen pictures
 date: "2015-01-31 19:19:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5173"
 old_path: /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
 aliases:
  - /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
+imported: true
+comments:
+ - One thing that doesnt help Adu is all the hype that surrounds him as through your body  people externally America expecting great things from him on an every week basis Various corporations have got signed sponsorship deals with Adu like Nike for 1 million are promoting him more or less anywhere as a brand new boy wonder and stronger only enhance pressure that is already on his young shouldersfifa 16 hack httpcreditsfutcomeremochaetous epitenon  breechloadernonacademicsimpertinences buy canadian goose jacket hermes birkin glycine canada goose buy in nyc air max solde homme air max 90 pas cher de femme Tampa Bay Buccaneers Ali Marpet ELITE Jerseys
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - One thing that doesnt help Adu is all the hype that surrounds him as through your body  people externally America expecting great things from him on an every week basis Various corporations have got signed sponsorship deals with Adu like Nike for 1 million are promoting him more or less anywhere as a brand new boy wonder and stronger only enhance pressure that is already on his young shouldersfifa 16 hack httpcreditsfutcomeremochaetous epitenon  breechloadernonacademicsimpertinences buy canadian goose jacket hermes birkin glycine canada goose buy in nyc air max solde homme air max 90 pas cher de femme Tampa Bay Buccaneers Ali Marpet ELITE Jerseys
-imported: true
 ---
 
 This January sees the opening of the __Gilbert & Ildiko Butler____drawings gallery__ at the Courtauld. The wonderful purpose built gallery, designed by 2013 Stirling prize winners Witherford Watson Mann Architects, finally gives the public a chance to see one of the most celebrated collections of drawings in the country. With over 7000 works, this is a remarkable opportunity to see a glimpse into the overlooked riches of the __Courtauld Institute. __

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jingjie Cheng explores what Somerset House’s newest exhibition can offer
 date: "2015-01-31 18:56:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5168"
 old_path: /arts/5168/mapping-the-city--cartography-reimagined
 aliases:
  - /arts/5168/mapping-the-city--cartography-reimagined
+imported: true
+comments:
+ - ka6jjV  vapnyqdybqzz urlhttpagdedfcfatmfcomagdedfcfatmfurl linkhttpxfeclmflwtybcomxfeclmflwtyblink httpyjtprtjwroqkcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - ka6jjV  vapnyqdybqzz urlhttpagdedfcfatmfcomagdedfcfatmfurl linkhttpxfeclmflwtybcomxfeclmflwtyblink httpyjtprtjwroqkcom
-imported: true
 ---
 
 _If self is a location, so is love:_

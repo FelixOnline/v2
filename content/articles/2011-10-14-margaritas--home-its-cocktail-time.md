@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We reveal the recipe for Mexico's most famous cocktail
 date: "2011-10-14 00:04:20 +0100"
+
 # Attributes from Felix Online V1
 id: "1532"
 old_path: /food/1532/margaritas--home-its-cocktail-time
 aliases:
  - /food/1532/margaritas--home-its-cocktail-time
+imported: true
+comments:
+ - I have learned some new isuses from your web siteabout pcs Another thing Ive always believed is that laptop computers have become an item that each residence must have for most reasons They offer convenient ways to organize households pay bills search for information study pay attention to music and also watch television shows An innovative technique to complete these tasks is to use a mobile computer These pcs are mobilesmall robust and portable
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have learned some new isuses from your web siteabout pcs Another thing Ive always believed is that laptop computers have become an item that each residence must have for most reasons They offer convenient ways to organize households pay bills search for information study pay attention to music and also watch television shows An innovative technique to complete these tasks is to use a mobile computer These pcs are mobilesmall robust and portable
-imported: true
 ---
 
 Margarita is the most common tequila-based cocktail and was most probably invented in Mexico, although there is no solid proof of its origin. We like it in its classic form or with strawberry, pineapple, peach, mango or papaya flavours.

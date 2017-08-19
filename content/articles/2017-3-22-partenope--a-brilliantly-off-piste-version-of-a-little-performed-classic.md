@@ -4,16 +4,22 @@ title: >
 subtitle: >
   In Partenope, Claire Chan finds the most entertaining opera she has seen this year
 date: "2017-03-22 17:09:08 +0000"
+
 # Attributes from Felix Online V1
 id: "6921"
 old_path: /arts/6921/partenope--a-brilliantly-off-piste-version-of-a-little-performed-classic
 aliases:
  - /arts/6921/partenope--a-brilliantly-off-piste-version-of-a-little-performed-classic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Can 18th century humour still be relevant today? This is the question the ENO are attempting to answer, with the first reprisal of Christopher Alden’s production of _Partenope_. First performed in 1730, _Partenope_ is an opera not often found on the operatic stage today. Opera in the early 18th century was dominated by Handel; _Partenope_ was one of the few comic works amongst his more traditional opera seria. Alden’s production, based on the surrealist images of Man Ray, is possibly the best-known modern version; first staged in London in 2008, it has since been performed at the Sydney Opera House in 2011 and the San Francisco War Memorial Opera House in 2014. This season sees the Olivier Award-winning production returning to the ENO, starring Sarah Tynan in the title role.

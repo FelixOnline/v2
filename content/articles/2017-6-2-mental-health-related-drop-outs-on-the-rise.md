@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It’s easier to drop out than find support
 date: "2017-06-02 12:23:39 +0100"
+
 # Attributes from Felix Online V1
 id: "6981"
 old_path: /news/6981/mental-health-related-drop-outs-on-the-rise
 aliases:
  - /news/6981/mental-health-related-drop-outs-on-the-rise
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In only five years, the number of students who have dropped out from higher education has quadrupled according to data from the Higher Education Statistics Agency (HESA). The findings which were highlighted earlier last week by the Guardian, show that just in 2014-15 a record 1,180 students struggling with mental health left higher education.

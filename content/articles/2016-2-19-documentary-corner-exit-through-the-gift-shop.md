@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Banksy is cool!!1
 date: "2016-02-19 12:09:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5938"
 old_path: /film/5938/documentary-corner-exit-through-the-gift-shop
 aliases:
  - /film/5938/documentary-corner-exit-through-the-gift-shop
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week we had _The Imposter_ – a gripping documentary following a bizarre case of identity fraud and murder. The film was heavy with recreation scenes and utilised them to such an extent that it blurred the lines between documentary and feature drama. The documentary of choice this week continues the theme of mixing reality and fiction. The difference here is that it's kind of the point. In reality, _Exit Through the Gift Shop_ may not even be allowed to feature in this section, as it’s not really clear if it can really be called a ‘documentary’.

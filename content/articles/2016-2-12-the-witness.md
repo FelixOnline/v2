@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jonathan Blow delivers his second masterpiece, a game about mazes
 date: "2016-02-12 11:41:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5909"
 old_path: /games/5909/the-witness
 aliases:
  - /games/5909/the-witness
+imported: true
+comments:
+ - Disclaimer We are not responsible for any financial loss data loss downgrade in search engine rankings missed customers undeliverable email or any other damages that you may suffer upon the expiration of felixonlinecouk For more information please refer to section 17c1a of our User Agreement  This is your final notice to renew felixonlinecouk  httpsdnscorporgnfelixonlinecoukrc  In the event that felixonlinecouk expires we reserve the right to offer your listing to competing businesses in the same niche and region after 3 business days on an auction basis  This is the final communication that we are required to send out regarding the expiration of felixonlinecouk  Secure Online Payment  httpsdnscorporgnfelixonlinecoukrc  All services will be automatically restored on felixonlinecouk if payment is received in full before expiration Thank you for your cooperation
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Disclaimer We are not responsible for any financial loss data loss downgrade in search engine rankings missed customers undeliverable email or any other damages that you may suffer upon the expiration of felixonlinecouk For more information please refer to section 17c1a of our User Agreement  This is your final notice to renew felixonlinecouk  httpsdnscorporgnfelixonlinecoukrc  In the event that felixonlinecouk expires we reserve the right to offer your listing to competing businesses in the same niche and region after 3 business days on an auction basis  This is the final communication that we are required to send out regarding the expiration of felixonlinecouk  Secure Online Payment  httpsdnscorporgnfelixonlinecoukrc  All services will be automatically restored on felixonlinecouk if payment is received in full before expiration Thank you for your cooperation
-imported: true
 ---
 
 There have been very few games released in recent years that have had more to live up to than The Witness. Unlike the recent Fallout 4, there was no multi-million dollar marketing campaign, no tube ads, no merchandising – in other words, no ‘hype’. Instead, The Witness has been quietly on our radar for close to six years.

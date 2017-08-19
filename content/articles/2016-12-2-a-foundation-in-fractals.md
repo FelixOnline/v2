@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Zofia Strzelecka highlights the wonders and applications of the patterns that make up the universe
 date: "2016-12-02 14:03:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6529"
 old_path: /science/6529/a-foundation-in-fractals
 aliases:
  - /science/6529/a-foundation-in-fractals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Fractals are everywhere we look. Clouds, snowflakes, broccoli – even mountains are full of them. Simply put, a fractal is a never-ending pattern that can be defined as ‘a rough or fragmented geometric shape that can be subdivided in parts, each of which is a reduced-size copy of the whole’. This property of fractals is called self-similarity. In nature, fractals mainly include branching patterns like those of a tree or river tributaries, or spiral patterns like a hurricane or the Milky Way.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The American Dream: pop to the present is on at the British Museum until 18th June
 date: "2017-03-17 17:09:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6912"
 old_path: /arts/6912/the-american-dream--prints-exposing-us-consumerism
 aliases:
  - /arts/6912/the-american-dream--prints-exposing-us-consumerism
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The UK’s first major exhibition of modern and contemporary American printmaking, that has recently opened at the British Museum, spans twelve rooms and six decades. The American Dream: pop to the present is as ambitious as it is controversial, with critics questioning not only pop art’s artistic value, but moreover whether it belongs in the British Museum at all.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Greg Hands is the Conservative representative of Fulham and Chelsea
 date: "2016-04-29 10:01:53 +0100"
+
 # Attributes from Felix Online V1
 id: "6087"
 old_path: /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
 aliases:
  - /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
+imported: true
+comments:
+ - He voted sensibly If theyve already reached Europe theyre fine Im sure that France Germany Italy and so on are quite capable of looking after them Its the ones stuck in Syria that are a cause for concern
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - He voted sensibly If theyve already reached Europe theyre fine Im sure that France Germany Italy and so on are quite capable of looking after them Its the ones stuck in Syria that are a cause for concern
-imported: true
 ---
 
 The MP for the Fulham and Chelsea constituency, where many Imperial students live, voted on Monday night not to allow 3000 Syrian refugee children into the UK.

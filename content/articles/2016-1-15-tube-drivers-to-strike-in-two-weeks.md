@@ -4,16 +4,22 @@ title: >
 subtitle: >
   London Underground drivers are set to strike this month, and twice in February, after a union ballot on Monday
 date: "2016-01-15 11:21:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5827"
 old_path: /news/5827/tube-drivers-to-strike-in-two-weeks
 aliases:
  - /news/5827/tube-drivers-to-strike-in-two-weeks
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 All tube services will be suspended on January 26th, February 15th and February 17th from 9:14pm for a full 24 hours, it emerged this week. The industrial action comes after months of negotiations over the 24-hour tube service that Mayor Boris Johnson aimed to introduce back in September, and follows two previous one day strikes in July and August of last year.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Catching up with the Indian film industry with Aamir Shamsi
 date: "2011-05-30 12:08:43 +0100"
+
 # Attributes from Felix Online V1
 id: "1285"
 old_path: /film/1285/bollywood-bite-20th-may
 aliases:
  - /film/1285/bollywood-bite-20th-may
+imported: true
+comments:
+ - I agree with you  the trailers are not that amazing and actually rather disappointing But keeping in mind that the film is to release much later these were just tasters of what is to come latest trailer that released on Wed is actually much betterIm actually glad they arent like the Endhiran because that film was so silly lol It has a much more serious tone to it probably because superhero flicks these days tend to have a dark aura about them cf Dark Knight transformation of Harry Potter films BondWith regards to the buzz I think its quite obvious if youre living in India why its creating so much hype Firstly SRK always creates a hype Secondly scifi has not been tapped into Bollywood so its a new experience the special effects are drawing people in and as always in India if some people are bigging something up then some people will do anything to drag it back down which just ends up creating more buzz about how succesful the movie will becomeThanks yaar So basically your
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I agree with you  the trailers are not that amazing and actually rather disappointing But keeping in mind that the film is to release much later these were just tasters of what is to come latest trailer that released on Wed is actually much betterIm actually glad they arent like the Endhiran because that film was so silly lol It has a much more serious tone to it probably because superhero flicks these days tend to have a dark aura about them cf Dark Knight transformation of Harry Potter films BondWith regards to the buzz I think its quite obvious if youre living in India why its creating so much hype Firstly SRK always creates a hype Secondly scifi has not been tapped into Bollywood so its a new experience the special effects are drawing people in and as always in India if some people are bigging something up then some people will do anything to drag it back down which just ends up creating more buzz about how succesful the movie will becomeThanks yaar So basically your
-imported: true
 ---
 
 __GupShup (Chit Chat) Corner__

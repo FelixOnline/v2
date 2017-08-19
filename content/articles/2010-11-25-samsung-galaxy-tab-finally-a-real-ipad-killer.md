@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kin-Hing Lo puts the Galaxy Tab through its paces
 date: "2010-11-25 20:12:59 +0000"
+
 # Attributes from Felix Online V1
 id: "427"
 old_path: /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
 aliases:
  - /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
+imported: true
+comments:
+ - I own a Samsung Gab 7in running 235 Gingerbread Im telling you its hands down better than ipad The size perfect I went out of my way to find it because its limited in stores because verizon and att want total control of this device You can buy an ipad or 101 GT anywhere but not the 7in they know ppl will come from all around to get it so why put it in every store when its an exclusive item Im impressed with everything about it it runs apps great and your really doin the wrong thing if you go out and buy a garmin google maps is just as good and thats just one function I showed my friends the device and the next time I see them guess whats in their hands Dont get suckered by a name like Apple Go online look at the comparisions the galaxy wins everytime So go sell your ipads turn around take your money to support the good ppl at samsung so they can keep making the best stuff money can buydear sir my wife is dignosid from aiims delhi syemstic scelorosis years 2003also meditation from dr rohin
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - kl208
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kl208"
 author_name: "Kin-hing Lo"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I own a Samsung Gab 7in running 235 Gingerbread Im telling you its hands down better than ipad The size perfect I went out of my way to find it because its limited in stores because verizon and att want total control of this device You can buy an ipad or 101 GT anywhere but not the 7in they know ppl will come from all around to get it so why put it in every store when its an exclusive item Im impressed with everything about it it runs apps great and your really doin the wrong thing if you go out and buy a garmin google maps is just as good and thats just one function I showed my friends the device and the next time I see them guess whats in their hands Dont get suckered by a name like Apple Go online look at the comparisions the galaxy wins everytime So go sell your ipads turn around take your money to support the good ppl at samsung so they can keep making the best stuff money can buydear sir my wife is dignosid from aiims delhi syemstic scelorosis years 2003also meditation from dr rohin
-imported: true
 ---
 
 The Galaxy Tab is a 7-inch Android-based tablet device from Samsung. It’s been dubbed the first serious competitor to the current king of the slates, Apple’s iPad. But does the the Galaxy Tab really have what it takes to top wishlists this Christmas or will the iPad reign supreme? Read on to find out.

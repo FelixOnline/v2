@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again
 date: "2010-11-04 19:06:09 +0000"
+
 # Attributes from Felix Online V1
 id: "324"
 old_path: /news/324/prof-nutt-alcohol-worse-than-heroin
 aliases:
  - /news/324/prof-nutt-alcohol-worse-than-heroin
+imported: true
+comments:
+ - The italicised i in the Limits logo seems to be implying these limits are just imaginaryyourlimitscouk Brilliant Its badly spelt makes no sense in some places and is selfcontradictory in others Totally worthless advice that only promotes existing social problems such as the belief that being a lightweight is bad Makes Imperial look shit againLimits site is comical most dealers cut stuff with homeopathic remedies because theyre cheap easily available and have no side effects except maybe an extra rush from all that tasty sugarNever heard of a case of someone being spiked with washing powder Maybe maggot eggs in which case hilarity ensues see httpwwwyoutubecomwatchvD6AjU20h5UEThats the only part of the site I bothered to look atKeep fighting the good fight DavidWow Great thniking JKXqwDww  anbbjniubhdv
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The italicised i in the Limits logo seems to be implying these limits are just imaginaryyourlimitscouk Brilliant Its badly spelt makes no sense in some places and is selfcontradictory in others Totally worthless advice that only promotes existing social problems such as the belief that being a lightweight is bad Makes Imperial look shit againLimits site is comical most dealers cut stuff with homeopathic remedies because theyre cheap easily available and have no side effects except maybe an extra rush from all that tasty sugarNever heard of a case of someone being spiked with washing powder Maybe maggot eggs in which case hilarity ensues see httpwwwyoutubecomwatchvD6AjU20h5UEThats the only part of the site I bothered to look atKeep fighting the good fight DavidWow Great thniking JKXqwDww  anbbjniubhdv
-imported: true
 ---
 
 Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again by claiming that alcohol is more harmful than various illegal substances in a newly released report.

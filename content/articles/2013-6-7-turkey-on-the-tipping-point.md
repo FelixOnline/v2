@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Inigo Martinez de Rituerto discusses the current political unrest in Turkey
 date: "2013-06-07 13:58:14 +0100"
+
 # Attributes from Felix Online V1
 id: "3673"
 old_path: /politics/3673/turkey-on-the-tipping-point
 aliases:
  - /politics/3673/turkey-on-the-tipping-point
+imported: true
+comments:
+ - Having seen the fantastic first Games back in 2003 I have full codfcnenie that the Corporate Games in Istanbul 2012 will be a complete success and great fun for all participantsGood luck to Kutlu Gulden and the rest of the hardworking team that you have over there Hope you have a blastValley Bank  So I know this is a really long chcane but I was kicking myself all the way home for not discussing with you japanese sex  today You have long blonde hair therefore you were wearing leggings at valley bank this afternoon We kept looking at each other the complete time we were inside I think free chat  you might be beautiful and would love to take you out there for drinks at some point Let me know but if your interested and speak about what color jacket I was sporting T Naked Finland women free dating ads Partestii De Jos Seno Bode  milf Ponce Puerto Ricobu fotoraf kendim falan e7ekmedim kaykanlardan aldm baka devletede ait olabilir bu yanlmzdr kab
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Having seen the fantastic first Games back in 2003 I have full codfcnenie that the Corporate Games in Istanbul 2012 will be a complete success and great fun for all participantsGood luck to Kutlu Gulden and the rest of the hardworking team that you have over there Hope you have a blastValley Bank  So I know this is a really long chcane but I was kicking myself all the way home for not discussing with you japanese sex  today You have long blonde hair therefore you were wearing leggings at valley bank this afternoon We kept looking at each other the complete time we were inside I think free chat  you might be beautiful and would love to take you out there for drinks at some point Let me know but if your interested and speak about what color jacket I was sporting T Naked Finland women free dating ads Partestii De Jos Seno Bode  milf Ponce Puerto Ricobu fotoraf kendim falan e7ekmedim kaykanlardan aldm baka devletede ait olabilir bu yanlmzdr kab
-imported: true
 ---
 
 This week in Turkey, peaceful demonstrations against the demolition of Istanbul’s Gezi Park rapidly escalated into nationwide protests against the increasingly conservative measures enacted by prime minister Recep Tayyip Erdoğan. The disproportionate dispersion tactics used by the police catalysed an uprising in a population which has grown tired of being ignored and oppressed by the authoritarian mandate of the ruling Justice and Development Party (AKP).

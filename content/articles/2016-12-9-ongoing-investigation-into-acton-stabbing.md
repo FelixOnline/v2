@@ -4,16 +4,22 @@ title: >
 subtitle: >
   College offers support to any students feeling affected
 date: "2016-12-09 11:58:42 +0000"
+
 # Attributes from Felix Online V1
 id: "6562"
 old_path: /news/6562/ongoing-investigation-into-acton-stabbing
 aliases:
  - /news/6562/ongoing-investigation-into-acton-stabbing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Metropolitan police are still searching for a minicab driver they believe played a role in the fatal stabbing of 18-year-old Khalid Safi on December 1st – which occurred near Woodward Buildings, one of Imperial College’s residence halls.

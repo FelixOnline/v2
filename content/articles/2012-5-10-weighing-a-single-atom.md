@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Improvements on previous nanotechnology research reach new levels
 date: "2012-05-10 20:39:45 +0100"
+
 # Attributes from Felix Online V1
 id: "2453"
 old_path: /science/2453/weighing-a-single-atom
 aliases:
  - /science/2453/weighing-a-single-atom
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A mass sensor has been developed by a group of Spanish scientists, lead by Julien Chaste from the Catalan Institute of Nanotechnology, capable of weighing individual molecules, atoms, and even protons.

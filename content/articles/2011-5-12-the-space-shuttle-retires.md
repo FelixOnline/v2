@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Waving goodbye to the Space Shuttle and saying hello to the private sector
 date: "2011-05-12 19:42:24 +0100"
+
 # Attributes from Felix Online V1
 id: "1209"
 old_path: /news/1209/the-space-shuttle-retires
 aliases:
  - /news/1209/the-space-shuttle-retires
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After being delayed for over two weeks, on the 16th May the Space Shuttle Endeavour is set to blast off into space for the final time. Following this mission, NASA plans to send only one more shuttle into orbit. It will then retire its ageing shuttle fleet after a total of 135 spaceflights.

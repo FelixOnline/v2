@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tate Britain examines the relationship between modern British art and Picasso
 date: "2012-03-08 20:33:25 +0000"
+
 # Attributes from Felix Online V1
 id: "2317"
 old_path: /arts/2317/no-pablo-ingls
 aliases:
  - /arts/2317/no-pablo-ingls
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I remember being mesmerised when seeing Picasso’s ‘Guernica’ for the first time in Madrid; the same happened to the millions of Brits who were able to see the imposing painting when it wasfirst exhibited in England. It must be said that it did take them the odd 30 years to actually start appreciating Picasso’s art.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Keir Little on the shutdown of the web’s biggest drug dealership
 date: "2013-10-12 19:32:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3857"
 old_path: /tech/3857/the-torrid-state-of-the-onion
 aliases:
  - /tech/3857/the-torrid-state-of-the-onion
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It was something like a 90s cyberpunk’s dream: an anonymous, hidden marketplace on the “deep web” where everything from research psychedelics to stolen credit card details could be bought. The Silk Road, considered by some a bold experiment in libertarianism, by others the biggest online hotbed of illegal trade, was finally shut down by the FBI last week after over two years of successful operation.

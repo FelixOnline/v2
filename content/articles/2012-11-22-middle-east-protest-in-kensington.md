@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students from Imperial get involved with protests against the violence in the Middle East. Protests blocks off parts of High Street Kensington
 date: "2012-11-22 22:32:40 +0000"
+
 # Attributes from Felix Online V1
 id: "2929"
 old_path: /news/2929/middle-east-protest-in-kensington
 aliases:
  - /news/2929/middle-east-protest-in-kensington
+imported: true
+comments:
+ - Thank you to the author it is a rare opportunity to have the students political opinions expressed despite university being THE time for most people to be active in politicsPerhaps the author of the article could have mentioned more facts namely the statistics of human life list and of damage Facts are nonbiased so to say 35 Israelis and over 100 Palestinians including approximately 40 children were killed  is that biased To say the damage to Israeli infrastructure was virtually nil especially with the sophisticated USsponsored military technology while Gazas agriculture educational governmental and housing infrastructure was torn to shreds  does these realities demand us to bend over backwards to conform to Western medias perception of neutrality
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you to the author it is a rare opportunity to have the students political opinions expressed despite university being THE time for most people to be active in politicsPerhaps the author of the article could have mentioned more facts namely the statistics of human life list and of damage Facts are nonbiased so to say 35 Israelis and over 100 Palestinians including approximately 40 children were killed  is that biased To say the damage to Israeli infrastructure was virtually nil especially with the sophisticated USsponsored military technology while Gazas agriculture educational governmental and housing infrastructure was torn to shreds  does these realities demand us to bend over backwards to conform to Western medias perception of neutrality
-imported: true
 ---
 
 Last Thursday, High Street Kensington found itself overwhelmed with protestors. At 5:30pm, crowds gathered to protest against the violence in the Middle East.

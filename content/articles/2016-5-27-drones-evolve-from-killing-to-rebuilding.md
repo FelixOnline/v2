@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Their versatility is a result of the onboard machinery
 date: "2016-05-27 08:56:41 +0100"
+
 # Attributes from Felix Online V1
 id: "6212"
 old_path: /science/6212/drones-evolve-from-killing-to-rebuilding-
 aliases:
  - /science/6212/drones-evolve-from-killing-to-rebuilding-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It is the 17th March 2011 and there is a distant humming from the sky over the Waziristan mountains, on the border between Pakistan and Afghanistan. Is it a bird? Is it a plane? No, it is an unmanned aerial vehicle (a drone to you and me) that is about to fire three missiles into a community meeting.

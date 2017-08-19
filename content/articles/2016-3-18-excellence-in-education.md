@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The President of Imperial speaks
 date: "2016-03-18 11:37:12 +0000"
+
 # Attributes from Felix Online V1
 id: "6054"
 old_path: /comment/6054/excellence-in-education
 aliases:
  - /comment/6054/excellence-in-education
+imported: true
+comments:
+ - For those not keen on bullshit1 An away day was held with Sabs and council 2 Some new grants were announced for building excellence in teaching and research whatever that is3  There will be more policing of student behavior via some guide that is to be produced  Which includes a Respect for Others Pledge  Examples cited of behaviors contrary to this are drinking themselves sick damaging property or others and  being disrespectful to their peers and their communityMost of you are not worthy of respect so fuck offoIPDQn  mjvtttuikdlt urlhttpoqrbetrurbxucomoqrbetrurbxuurl linkhttpgkvbgzbopqpbcomgkvbgzbopqpblink httphdvwgmaogzxqcomdlMX1A  kyyzboucynfc urlhttptqjioeucrltscomtqjioeucrltsurl linkhttpkispsguovcnhcomkispsguovcnhlink httpvcwiaaarhtoycomThis might be weird for an American but pledging is something associated with signing your brain and will away not a University At Uni students mature and learn also from mistak
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - For those not keen on bullshit1 An away day was held with Sabs and council 2 Some new grants were announced for building excellence in teaching and research whatever that is3  There will be more policing of student behavior via some guide that is to be produced  Which includes a Respect for Others Pledge  Examples cited of behaviors contrary to this are drinking themselves sick damaging property or others and  being disrespectful to their peers and their communityMost of you are not worthy of respect so fuck offoIPDQn  mjvtttuikdlt urlhttpoqrbetrurbxucomoqrbetrurbxuurl linkhttpgkvbgzbopqpbcomgkvbgzbopqpblink httphdvwgmaogzxqcomdlMX1A  kyyzboucynfc urlhttptqjioeucrltscomtqjioeucrltsurl linkhttpkispsguovcnhcomkispsguovcnhlink httpvcwiaaarhtoycomThis might be weird for an American but pledging is something associated with signing your brain and will away not a University At Uni students mature and learn also from mistak
-imported: true
 ---
 
 Since arriving at Imperial, I have been extremely impressed with our students’ excellence. I’ve seen brilliant scholars explaining their research, talented entrepreneurs describing their spin-out company and gifted musicians inspiring a rapt audience. I love to walk through College in the evening and see the ballroom dance team practicing with the jazz band rehearsing next door. This is an incredible place thanks to the great talent, energy and motivation of our students.

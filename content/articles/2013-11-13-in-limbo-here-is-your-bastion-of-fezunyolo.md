@@ -4,16 +4,23 @@ title: >
 subtitle: >
   If you haven’t heard of Humble Bundle you should really check it out!
 date: "2013-11-13 23:02:14 +0000"
+
 # Attributes from Felix Online V1
 id: "4056"
 old_path: /games/4056/in-limbo-here-is-your-bastion-of-fezunyolo-
 aliases:
  - /games/4056/in-limbo-here-is-your-bastion-of-fezunyolo-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you haven’t heard of Humble Bundle you should really check it out! They are an organisation that will regularly provide a bundle of games for any price you want to pay, and if you pay above the average (normally around £5) you will get some more “premium” games. Once you have selected how much you want to pay you can choose where your money goes- to charities like Childs Play or to the game developers. Recently I bought the Indie Bundle 9 which contained some great games; Limbo, Bastion, Fez, Mark of the Ninja, Eets Munchies, FTL, A Virus named Tom…amongst others. Here is a review of the first 3 games.

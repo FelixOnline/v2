@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Leaving the EU will detriment the UK, Europe, and the world
 date: "2016-05-27 08:48:09 +0100"
+
 # Attributes from Felix Online V1
 id: "6205"
 old_path: /comment/6205/the-eu-is-not-perfect-but-is-the-better-option
 aliases:
  - /comment/6205/the-eu-is-not-perfect-but-is-the-better-option
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I have written many times for FELIX with trollish tones and hyperbole, but this time, there is no exaggeration in what I say: I can think of no worse political catastrophe in our time than the UK leaving the European Union, perhaps only rivalled by a Trump presidency.

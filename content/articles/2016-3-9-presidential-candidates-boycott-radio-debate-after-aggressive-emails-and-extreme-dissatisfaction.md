@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Four candidates decided not to show after concerns over bias, format and attitude of IC radio presenters
 date: "2016-03-09 19:02:53 +0000"
+
 # Attributes from Felix Online V1
 id: "6015"
 old_path: /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
 aliases:
  - /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
+imported: true
+comments:
+ - hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl couponsblack friday nba shop promotional codes whoesale nhl jerseys cheap nfl shop coupon code free shippinglollolcheap jerseys com nfl pro shop coupons cheap nba jerseymlb shop cyber monday promo codde mlb shop prtomo copde 15 off mlb shop promocoupon mlb shop chinese wholesale nhhl jerseys nba pro sop coupon codenhl shop discount coupoon for nbaa shop cheap jerseys chinashopnhlcom promo code coupon codes for nba shop shopnbacom projo codenhl shop coupon code mlb shop oytlet nhl shop coupon code 20 offnbba shop cyber monday coupon codes nbaa shop coupons 20 nba pro shhop coupon codenhl shop coupons codes mlb pro shop coupons nnba pro shop couponscyber monday mlb shop clearance nfl shop promo code free shipping nfl pro shop promo codesblack friday nhl shop coupons nfl shop black friday promotional codes cyber monday nhl shopbuy cheap nba jeseys wholesale nba jerseys cheap shop nba promo codecheap jerseys
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - hina wholesale nfl jerseys black friday mlb shop promotional codde shop nfl couponsblack friday nba shop promotional codes whoesale nhl jerseys cheap nfl shop coupon code free shippinglollolcheap jerseys com nfl pro shop coupons cheap nba jerseymlb shop cyber monday promo codde mlb shop prtomo copde 15 off mlb shop promocoupon mlb shop chinese wholesale nhhl jerseys nba pro sop coupon codenhl shop discount coupoon for nbaa shop cheap jerseys chinashopnhlcom promo code coupon codes for nba shop shopnbacom projo codenhl shop coupon code mlb shop oytlet nhl shop coupon code 20 offnbba shop cyber monday coupon codes nbaa shop coupons 20 nba pro shhop coupon codenhl shop coupons codes mlb pro shop coupons nnba pro shop couponscyber monday mlb shop clearance nfl shop promo code free shipping nfl pro shop promo codesblack friday nhl shop coupons nfl shop black friday promotional codes cyber monday nhl shopbuy cheap nba jeseys wholesale nba jerseys cheap shop nba promo codecheap jerseys
-imported: true
 ---
 
 A debate between Union President Candidates that was due to be held on IC Radio last night was scuppered after four candidates decided to boycott the show an hour before it went on air.

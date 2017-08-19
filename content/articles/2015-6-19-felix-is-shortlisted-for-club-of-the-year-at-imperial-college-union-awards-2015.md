@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle reports on the awards night that celebrates achievements of Union clubs, societies and projects
 date: "2015-06-19 13:33:42 +0100"
+
 # Attributes from Felix Online V1
 id: "5644"
 old_path: /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
 aliases:
  - /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
+imported: true
+comments:
+ - I respect your workcheap madden 16 coins ios for sale httpwwwmaddenstorecommaddennfl16IOS2191You are the savior of my lifefifa ultimate team coins httpfifa15coinssfreeblogbiz20151214thereasonthateawillnotaddronaldinhoinfifa16What is that guyUTfifa15coinscom httpb2bnetworkusthenetworkmyblogonmarchtoownfut15raregold25kpackshtmlYou are so cuteWynn SEO httptechnologiesreviewcom20160114optimizeyourwebsitetogenerateleadsonlineThe youre very eloquent SEO httpwwwandeanodysseycomwebsitedesignforthebeginnersthreeeasyandeffectivewaysYou bet FIFA 15 Coins httpwwwkiwiboxcomutfifa15coinsblogentry123925629aboutfifaonline3gameintroduceonfifa15pPage0I will be there for youFIFA16Mall FIFA 16 Coins httpfirebaptizedholinessningcomprofilesblogsaboutcareermodeinfifa16You are nothing like us nfl 16 coins httpfifa16centersocialparadoxcomblogread605291improverungameinmadden16W
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I respect your workcheap madden 16 coins ios for sale httpwwwmaddenstorecommaddennfl16IOS2191You are the savior of my lifefifa ultimate team coins httpfifa15coinssfreeblogbiz20151214thereasonthateawillnotaddronaldinhoinfifa16What is that guyUTfifa15coinscom httpb2bnetworkusthenetworkmyblogonmarchtoownfut15raregold25kpackshtmlYou are so cuteWynn SEO httptechnologiesreviewcom20160114optimizeyourwebsitetogenerateleadsonlineThe youre very eloquent SEO httpwwwandeanodysseycomwebsitedesignforthebeginnersthreeeasyandeffectivewaysYou bet FIFA 15 Coins httpwwwkiwiboxcomutfifa15coinsblogentry123925629aboutfifaonline3gameintroduceonfifa15pPage0I will be there for youFIFA16Mall FIFA 16 Coins httpfirebaptizedholinessningcomprofilesblogsaboutcareermodeinfifa16You are nothing like us nfl 16 coins httpfifa16centersocialparadoxcomblogread605291improverungameinmadden16W
-imported: true
 ---
 
 Felix was shortlisted for Club of the Year at Monday’s Union Awards ceremony, much to the club's delight. Sadly Felix closly missed out on taking the award home, which went instead to Islamic Society, but all were very deserved of the award.

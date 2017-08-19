@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Antonio Torrisi reports on a study of attitudes towards geoengineering
 date: "2011-11-03 19:52:21 +0000"
+
 # Attributes from Felix Online V1
 id: "1657"
 old_path: /science/1657/do-the-public-trust-scientists
 aliases:
  - /science/1657/do-the-public-trust-scientists
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On the 14th of September of this year, at the British Science Festival in the University of Bradford, was presented the seemingly awkward project called SPICE (Stratospheric Particle Injection for Climate Engineering) led by UK scientists. The basic idea is to suspend a huge balloon one kilometre up in the stratosphere which would then pump out tap water out to produce artificial rain. This would lead to an abatement of CO2 concentration in the atmosphere and reduce the effects of global warming.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   After coming close to the bone. Puns away...
 date: "2012-12-07 00:17:12 +0000"
+
 # Attributes from Felix Online V1
 id: "3023"
 old_path: /news/3023/feasting-on-sciences-at-imperial-fringe
 aliases:
  - /news/3023/feasting-on-sciences-at-imperial-fringe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Following the success of last week’s [Imperial Fringe](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_30-11-2012-10-11-10) event focused on bone research taking place across the College, which was estimated to have gathered around 400 people throughout the evening with 120 people participating in the panel discussion, a new event called ‘A Feast of the Sciences’ is about to take place.

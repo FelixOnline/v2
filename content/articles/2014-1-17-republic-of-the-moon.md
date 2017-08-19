@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the new Earth-based Lunar Embassy
 date: "2014-01-17 03:41:20 +0000"
+
 # Attributes from Felix Online V1
 id: "4238"
 old_path: /arts/4238/republic-of-the-moon
 aliases:
  - /arts/4238/republic-of-the-moon
+imported: true
+comments:
+ - An excellent description and insight into this challenging but somewhat haphazard exhibition I visited the exhibition yesterday with Paul Gladstone Reid first Composer in Residence at Imperial College who is meeting scientists at the College involved with space exploration to inform the composition of his latest work Moon Symphony parts of which will be performed at an event to be organised by Friends of Imperial College later this year
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - An excellent description and insight into this challenging but somewhat haphazard exhibition I visited the exhibition yesterday with Paul Gladstone Reid first Composer in Residence at Imperial College who is meeting scientists at the College involved with space exploration to inform the composition of his latest work Moon Symphony parts of which will be performed at an event to be organised by Friends of Imperial College later this year
-imported: true
 ---
 
 __S__ince the dawn of humanity, mankind’s relationship with the Moon has been a special one. When our ancestors looked up into the sky, they saw the same heavenly sphere that we see today; unchanging and dynamic, familiar yet distant, the Moon has provided a wealth of inspiration about what it means to be human. For many years now space has been seen as the ‘final frontier’, culminating in the first manned moon landings in 1969. While enthusiasm for lunar exploration seems to have somewhat waned – the last manned landing was over four decades ago – as China and India begin to make their mark on the lunar surface, it seems likely that we will see renewed interest in the coming years. But there is a massive question that hasn’t yet been answered: now that we have finally reached the Moon, what do we do with it?

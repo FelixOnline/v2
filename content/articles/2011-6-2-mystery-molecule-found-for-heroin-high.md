@@ -4,16 +4,23 @@ title: >
 subtitle: >
   New research could help prevent addiction
 date: "2011-06-02 18:36:57 +0100"
+
 # Attributes from Felix Online V1
 id: "1299"
 old_path: /science/1299/mystery-molecule-found-for-heroin-high
 aliases:
  - /science/1299/mystery-molecule-found-for-heroin-high
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The euphoria experienced from taking heroin is caused by a molecule known as 6-monoacetylmorphine (6-MAM) and not morphine as previously thought, says a new study carried out by the [Department of Drug Abuse Research](http://www.fhi.no/eway/default.aspx?pid=238&trg=MainArea_5811&MainArea_5811=5903:0:15,4153:1:0:0:::0:0) at the Norwegian Institute of Public Health. This new understanding of how heroin works could have a profound effect on how we go about managing heroin addiction.

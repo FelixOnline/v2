@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The long awaited revival of Jez Butterworth’s play Mojo opened on the 13th November, and saw Rupert Grint making his professional theatre debut. Premiering in the Royal Court Theatre in 1995, Mojo was the recipient of the 1996 Laurence Olivier Award for Best New Comedy, with a film adaptation...
 date: "2013-11-24 16:11:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4114"
 old_path: /arts/4114/mojo-in-soho-getting-jazzy
 aliases:
  - /arts/4114/mojo-in-soho-getting-jazzy
+imported: true
+comments:
+ - The Second Act is certainly more powerful than the first containing a death scene more realistic than any I have ever witnessed movie or otherwise You forgot to say that this is played by the amazing Colin Morgan who is so outstanding in this play tooCompletely agree  but didnt want to create a spoilerProbably because he didnt want to say who dies
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - The Second Act is certainly more powerful than the first containing a death scene more realistic than any I have ever witnessed movie or otherwise You forgot to say that this is played by the amazing Colin Morgan who is so outstanding in this play tooCompletely agree  but didnt want to create a spoilerProbably because he didnt want to say who dies
-imported: true
 ---
 
 What: Mojo

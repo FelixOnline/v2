@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ed Knock passes his critical eye over the Academy Award Winners
 date: "2011-02-28 20:40:11 +0000"
+
 # Attributes from Felix Online V1
 id: "931"
 old_path: /film/931/the-kings-speech-triumphs
 aliases:
  - /film/931/the-kings-speech-triumphs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s always a joy when one film doesn’t clean up all the statuettes at The Oscars and this year was one of the most balanced distribution of gongs in recent years. However amongst the most predictable wins there were a few obvious surprises, notably The King’s Speech. Honestly I did not anticipate the historical drama snatching Best Film and Director from David Fincher’s The Social Network but I am happy about the home win (Yay Britain!).

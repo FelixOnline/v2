@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But where did all the measurables go?
 date: "2017-01-27 14:17:43 +0000"
+
 # Attributes from Felix Online V1
 id: "6683"
 old_path: /news/6683/union-launches-2017-20-strategy
 aliases:
  - /news/6683/union-launches-2017-20-strategy
+imported: true
+comments:
+ - some students felt that the lack of measurable strategic points detracted from the sentimentCould not agree more Whats the point of a strategy without measurable deliverables The old strategy recognised that and gave the Union direction Last few years its just been flapping about doing not a lot And this strategy seems to give free reign for future sabbs and staff to get away with similarsome students felt that the lack of measurable strategic points detracted from the sentimentCould not agree more What point is a strategy without measurable deliverables It gives free reign for the Union to do nothing which is exactly what it seems to be doing this year How about set yourself some hard targets ICU on NSS Q23 TEF postgrad representation NHS bursaries You know the things that matter Not wriggling out of being held accountable for anything and giving itself an easy rideEdPAcu  yxocqbjvegcg urlhttprbvrcovqsmrhcomrbvrcovqsmrhurl linkhttpwfiwowfopeiacomwfi
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - some students felt that the lack of measurable strategic points detracted from the sentimentCould not agree more Whats the point of a strategy without measurable deliverables The old strategy recognised that and gave the Union direction Last few years its just been flapping about doing not a lot And this strategy seems to give free reign for future sabbs and staff to get away with similarsome students felt that the lack of measurable strategic points detracted from the sentimentCould not agree more What point is a strategy without measurable deliverables It gives free reign for the Union to do nothing which is exactly what it seems to be doing this year How about set yourself some hard targets ICU on NSS Q23 TEF postgrad representation NHS bursaries You know the things that matter Not wriggling out of being held accountable for anything and giving itself an easy rideEdPAcu  yxocqbjvegcg urlhttprbvrcovqsmrhcomrbvrcovqsmrhurl linkhttpwfiwowfopeiacomwfi
-imported: true
 ---
 
 The Union launched a new three year strategy last week in Metric, at an event that was the culmination of a six month effort to meet (or at the very least express) the needs and wants of Imperial students. Despite vigorous consultation though, student reaction was luke-warm.

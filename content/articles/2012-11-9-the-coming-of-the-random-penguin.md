@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joseph Spiking brings you the news of a major merger
 date: "2012-11-09 13:22:14 +0000"
+
 # Attributes from Felix Online V1
 id: "2857"
 old_path: /books/2857/the-coming-of-the-random-penguin
 aliases:
  - /books/2857/the-coming-of-the-random-penguin
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Penguin and Random House – the consumer publishing divisions of Pearson and Bertelsmann respectively – have recently announced their intention to merge, creating the world’s biggest publishing house, duly named ‘Penguin Random House’.

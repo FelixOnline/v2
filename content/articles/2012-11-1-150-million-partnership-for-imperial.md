@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial West development gets another boost
 date: "2012-11-01 22:13:55 +0000"
+
 # Attributes from Felix Online V1
 id: "2779"
 old_path: /news/2779/150-million-partnership-for-imperial
 aliases:
  - /news/2779/150-million-partnership-for-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A £150 million partnership aiming to support the development of the new Hammersmith-based [Imperial West Technology Campus](http://www3.imperial.ac.uk/newcampus/whatis) has been announced.

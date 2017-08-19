@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Eggl ruminates on the repercussion of our device addiction
 date: "2013-10-12 23:50:07 +0100"
+
 # Attributes from Felix Online V1
 id: "3872"
 old_path: /tech/3872/the-crippling-effect-of-technology
 aliases:
  - /tech/3872/the-crippling-effect-of-technology
+imported: true
+comments:
+ - A wonderful job Super helpful intaomrfion            IT Mobile Technology Day                IOSAndroid          EPAM Systems    11 12  2012                          Saturday 11th  February1300 Checkin13301400   Meeting with the participants Hackathon rules dercsiption hacking beg
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - A wonderful job Super helpful intaomrfion            IT Mobile Technology Day                IOSAndroid          EPAM Systems    11 12  2012                          Saturday 11th  February1300 Checkin13301400   Meeting with the participants Hackathon rules dercsiption hacking beg
-imported: true
 ---
 
 This is a very interesting question I found myself talking about with a friend recently. Is technology really making us weaker, mentally and physically? If you consider that technology is part of the human condition, then you would disagree and I would be on your side. All the brilliant things that humans have invented really do make everything better (or do they? Sorry just had to put that cliché in). However if we only consider the human as the biological entity that makes him, is there a different story?

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mark England enters the world of Danish punk
 date: "2013-05-01 14:25:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3513"
 old_path: /music/3513/iceage-thaw-out-elektrowerkz
 aliases:
  - /music/3513/iceage-thaw-out-elektrowerkz
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Iceage’s second album You’re Nothing is getting critics frothing at the mouth, and for good reason. It keeps the raw, visceral vitality of their debut album, New Brigade, and marries it to a more intricate post-punk undercurrent. In fact, whisper it, new track ‘Morals’ seems to be an attempt at a pop song. The band have managed to ride the initial wave of hype and are now proving themselves to be a thrilling live proposition.

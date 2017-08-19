@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Some postgraduate students are critical of the h-bar but looking forward to some of the services it provides.
 date: "2013-11-08 03:40:36 +0000"
+
 # Attributes from Felix Online V1
 id: "4022"
 old_path: /news/4022/some-postgraduates-critical-of-h-bar
 aliases:
  - /news/4022/some-postgraduates-critical-of-h-bar
+imported: true
+comments:
+ - I think it will likely have some teething issues and certainly its never going to be a direct replacement for the Holland Club but I think theres a chance it will be quite fun in there Im planning on working behind the bar and the bar staff team seem to have their heads on straight It will have to carve itself out a new and different character than it used to have and with the new decor that will be more difficult until its worn in and Im not sure it will wear well but I hope it can accomplish it I think its going to end up more of a sort of All Bar One or other over 21s wine bar sort of feel to it not my favorite thing but theres a place in the market for that I think
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I think it will likely have some teething issues and certainly its never going to be a direct replacement for the Holland Club but I think theres a chance it will be quite fun in there Im planning on working behind the bar and the bar staff team seem to have their heads on straight It will have to carve itself out a new and different character than it used to have and with the new decor that will be more difficult until its worn in and Im not sure it will wear well but I hope it can accomplish it I think its going to end up more of a sort of All Bar One or other over 21s wine bar sort of feel to it not my favorite thing but theres a place in the market for that I think
-imported: true
 ---
 
 The new-look postgraduate bar is set to open this Friday, with pictures released by the Union and College previewing what it will look like and explaining the services provided by the new space.

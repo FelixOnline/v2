@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Reminiscence of the legend- John Barry.
 date: "2011-02-03 19:58:25 +0000"
+
 # Attributes from Felix Online V1
 id: "731"
 old_path: /film/731/the-late-great-john-barry-remembered
 aliases:
  - /film/731/the-late-great-john-barry-remembered
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - egk08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s the most famous title sequence in cinema; A white circle bobs across the screen, the camera reveals we’re looking down a gun barrel before 007 strides across the frame shooting the unfortunate owner and as the blood drips down the screen, those famous swinging orchestral chords blast out rising to a stacato climax – ‘Dun! Dun! Duhhh! Dun! Dun! Duhhh!’.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Immune response pioneer arrives from Trinity College Dublin
 date: "2012-01-12 22:38:45 +0000"
+
 # Attributes from Felix Online V1
 id: "1988"
 old_path: /news/1988/new-medicine-faculty-principal-appointed
 aliases:
  - /news/1988/new-medicine-faculty-principal-appointed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Professor Dermot Kelleher](http://www.tcd.ie/IMM/translational_bioscience_2003_2008/prof_kelleher.php) has been appointed Principal of the Faculty of Medicine. The Vice-Provost for Medical Affairs and Head of the School of Medicine at Trinity College Dublin since 2006, Professor Kelleher is to take up the role on October 1 2012.

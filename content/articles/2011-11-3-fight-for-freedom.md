@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Mr Poppadom discusses a land of opportunity, “where people can think and act and worship any way they want”
 date: "2011-11-03 21:01:31 +0000"
+
 # Attributes from Felix Online V1
 id: "1679"
 old_path: /biz/1679/fight-for-freedom
 aliases:
  - /biz/1679/fight-for-freedom
+imported: true
+comments:
+ - This post is truely excellent youve really hit the nail on the head with your argument there I just hope other readers have the wisdom to understand what your getting at
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - This post is truely excellent youve really hit the nail on the head with your argument there I just hope other readers have the wisdom to understand what your getting at
-imported: true
 ---
 
 _DISCLAIMER: These opinions are ficticious and form part of a celebration of Felix's 1500th issue. Any resemblance to real opinions, living or dead, is purely coincidental._

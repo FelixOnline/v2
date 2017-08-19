@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the Royal Opera House’s take on a ballet classic
 date: "2015-02-07 19:03:49 +0000"
+
 # Attributes from Felix Online V1
 id: "5201"
 old_path: /arts/5201/onegin--the-best-of-ballet
 aliases:
  - /arts/5201/onegin--the-best-of-ballet
+imported: true
+comments:
+ - Thank you This is definitely an superb webpagepokemongo httpwwwhotridesmagcomprofilesblogsmaddenmobilecoinssportsillustratedgivingmadden1710tonew
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you This is definitely an superb webpagepokemongo httpwwwhotridesmagcomprofilesblogsmaddenmobilecoinssportsillustratedgivingmadden1710tonew
-imported: true
 ---
 
 O_negin_ is a 1960s German ballet based on a 19th century Russian novel in verse.

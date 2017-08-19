@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A journey through the wonderful and horifying world of animal sex
 date: "2016-02-12 11:31:36 +0000"
+
 # Attributes from Felix Online V1
 id: "5904"
 old_path: /science/5904/five-facts-to-break-the-ice-on-v-day
 aliases:
  - /science/5904/five-facts-to-break-the-ice-on-v-day
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Nature documentaries often show the animal kingdom to be a weird and wonderful place, but animal genitalia don’t usually get the attention they rightfully deserve. To right this wrong here’s a list of five of the most bizarre bits on offer out there.

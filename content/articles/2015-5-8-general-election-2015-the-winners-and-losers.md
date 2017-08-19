@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote.
 date: "2015-05-08 17:58:15 +0100"
+
 # Attributes from Felix Online V1
 id: "5509"
 old_path: /news/5509/general-election-2015-the-winners-and-losers
 aliases:
  - /news/5509/general-election-2015-the-winners-and-losers
+imported: true
+comments:
+ - At the risk of going Mr Elrtieccian on you you could also solve the problem with a that way you can buy any lamp you like Go to your local Ace Hardware and they can probably hook you up with a solution that would avoid any more running around
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - At the risk of going Mr Elrtieccian on you you could also solve the problem with a that way you can buy any lamp you like Go to your local Ace Hardware and they can probably hook you up with a solution that would avoid any more running around
-imported: true
 ---
 
 We have a surprise Conservative 12-seat majority, as the Tories swept across England, while Scotland saw a landslide victory for the SNP, Wales remained majority Labour and Northern Ireland's DUP defended their share of the seats. The Liberal Democrats suffered a catastrophic election result across the United Kingdom, and UKIP only have one seat despite winning nearly 4 million votes.

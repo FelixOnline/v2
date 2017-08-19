@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Scientists left hanging over left handed fish conundrum
 date: "2016-03-04 11:40:56 +0000"
+
 # Attributes from Felix Online V1
 id: "6004"
 old_path: /science/6004/sht-scence
 aliases:
  - /science/6004/sht-scence
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 At Sh!t Sc!ence, we argue that all research, no matter how outrageously ridiculous-sounding, has a purpose and contributes to widen our knowledge of the world. Even when it is a study of how fish can be left-handed.

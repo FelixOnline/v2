@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With anger and uncertainty over the Government’s immigration policy, Philip Kent finds out what’s going on
 date: "2015-02-27 00:45:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5315"
 old_path: /news/5315/whats-going-on-with-student-visas
 aliases:
  - /news/5315/whats-going-on-with-student-visas
+imported: true
+comments:
+ - There are a number of inaccuracies in the article entitled So you want to get a Tier 4 General visa which I will address below I work as an International Student Adviser in the International Student Support team at Imperial College We are the only Imperial College staff authorised by the Office of the Immigration Services Commissioner OISC to provide immigration advice and services to students at Imperial College The International Student Support team provide detailed advice and support for prospective and current students including guidance on the required documents and guidance on how to complete the online application The immigration rules change regularly so please check the following websites when embarking on a visa application and refer back to these websites once you begin the visa application process International Student Support httpwwwimperialacukstudyinternationalstudentsvisasandimmigration the Home Office httpswwwgovuktier4generalvisa  and the Tier 4 Policy
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - There are a number of inaccuracies in the article entitled So you want to get a Tier 4 General visa which I will address below I work as an International Student Adviser in the International Student Support team at Imperial College We are the only Imperial College staff authorised by the Office of the Immigration Services Commissioner OISC to provide immigration advice and services to students at Imperial College The International Student Support team provide detailed advice and support for prospective and current students including guidance on the required documents and guidance on how to complete the online application The immigration rules change regularly so please check the following websites when embarking on a visa application and refer back to these websites once you begin the visa application process International Student Support httpwwwimperialacukstudyinternationalstudentsvisasandimmigration the Home Office httpswwwgovuktier4generalvisa  and the Tier 4 Policy
-imported: true
 ---
 
 An influential group of MPs has criticised the Government’s student visa policy this week. In a report published by the All-Party Parliamentary Group on Migration, the MPs argued for re-opening of the “post-study work route” following graduation.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sixth in line to the throne visits Imperial
 date: "2015-10-16 14:05:12 +0100"
+
 # Attributes from Felix Online V1
 id: "5654"
 old_path: /news/5654/prince-andrew-hosts-entrepreneurial-contest
 aliases:
  - /news/5654/prince-andrew-hosts-entrepreneurial-contest
+imported: true
+comments:
+ - tE9AN6  olbbyjimobff urlhttptvlsbibzvoxscomtvlsbibzvoxsurl linkhttpbbmuwbhvdwwkcombbmuwbhvdwwklink httpxufbimqnvyvxcomyou have a good sense of humorbuy MUT Coins httpfacenetnetnzblogspost22958What is that guyMadden 16 Coins httpmaddencoinsexteencom20151210topmaddennfl16defenseplayersI was wondering if after work we could grab a cup of coffeeCheap Madden 16 Coins httpfacenetnetnzblogspost22955Today looks great buy MUT Coins httpradiusnyccomprofilesblogsthemaddenultimateteamlegendsI let myself become a fool mut 16 coins android for sale httpwwwmaddenstorecommaddennfl16Android2192You always know the right thing to sayfifa 16 coins httpnetworkmarketingningcomprofilesblogsfifa16totgsteamofthechampionsleaguegroupstageNow you tell me that she was not a knockout Buy FIFA 16 Coins httpwwwbelletodaycomphblogsblogasprno373021bid1030947Where were weRunescape gold httpwwwshelbyn
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - tE9AN6  olbbyjimobff urlhttptvlsbibzvoxscomtvlsbibzvoxsurl linkhttpbbmuwbhvdwwkcombbmuwbhvdwwklink httpxufbimqnvyvxcomyou have a good sense of humorbuy MUT Coins httpfacenetnetnzblogspost22958What is that guyMadden 16 Coins httpmaddencoinsexteencom20151210topmaddennfl16defenseplayersI was wondering if after work we could grab a cup of coffeeCheap Madden 16 Coins httpfacenetnetnzblogspost22955Today looks great buy MUT Coins httpradiusnyccomprofilesblogsthemaddenultimateteamlegendsI let myself become a fool mut 16 coins android for sale httpwwwmaddenstorecommaddennfl16Android2192You always know the right thing to sayfifa 16 coins httpnetworkmarketingningcomprofilesblogsfifa16totgsteamofthechampionsleaguegroupstageNow you tell me that she was not a knockout Buy FIFA 16 Coins httpwwwbelletodaycomphblogsblogasprno373021bid1030947Where were weRunescape gold httpwwwshelbyn
-imported: true
 ---
 
 Wednesday saw the Duke of York come to Imperial, to host his Pitch@Palace entrepreneurial competition.

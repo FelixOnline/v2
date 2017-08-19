@@ -4,16 +4,24 @@ title: >
 subtitle: >
   CHOO CHOO! Max Eggl welcomes you to the Star Wars hype train!
 date: "2015-06-12 12:38:09 +0100"
+
 # Attributes from Felix Online V1
 id: "5619"
 old_path: /games/5619/a-long-time-ago-in-a-game-far-far-away
 aliases:
  - /games/5619/a-long-time-ago-in-a-game-far-far-away
+imported: true
+comments:
+ - how must to enunciate interest to make love to you with creolethere might ultimately the case such type of words nearly as Creole the phrase creole represents a make of language within ultimate success from a combination of two very different guardian different languages san francisco spa than 100 not the same creolized dialects the heck So you would have to state the one that youll raving about virgin IslandsBislama an excellent the english language dependent creole been vocal throughout VanuatuLlanito A romance language and as well as language based primarily creole used from GibraltarBajan or possibly a Barbadian Creole french based mostly verbal over BarbadosAntillean Creole also Crole Martiquais swedish formulated voiced from the much less AntillesTok Pisin an open public code of Papua brand new GuineaTpotentiallyres Strait Creole Brokan discussed appearing in too far northern eastern sydney Torres Strait to free airline PapuaPatois france depending verbal in stst LuciaNagamese c
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - how must to enunciate interest to make love to you with creolethere might ultimately the case such type of words nearly as Creole the phrase creole represents a make of language within ultimate success from a combination of two very different guardian different languages san francisco spa than 100 not the same creolized dialects the heck So you would have to state the one that youll raving about virgin IslandsBislama an excellent the english language dependent creole been vocal throughout VanuatuLlanito A romance language and as well as language based primarily creole used from GibraltarBajan or possibly a Barbadian Creole french based mostly verbal over BarbadosAntillean Creole also Crole Martiquais swedish formulated voiced from the much less AntillesTok Pisin an open public code of Papua brand new GuineaTpotentiallyres Strait Creole Brokan discussed appearing in too far northern eastern sydney Torres Strait to free airline PapuaPatois france depending verbal in stst LuciaNagamese c
-imported: true
 ---
 
 If you love star wars, first person shooters or in fact games in general, you could not have missed the fact that the makers of _Battlefield_, __DICE__ are remaking one of the best First Person Shooters (FPS) game ever.

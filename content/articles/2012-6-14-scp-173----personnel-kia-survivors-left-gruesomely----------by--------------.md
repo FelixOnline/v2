@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A horror game that fits the genre's name
 date: "2012-06-14 20:23:38 +0100"
+
 # Attributes from Felix Online V1
 id: "2563"
 old_path: /games/2563/scp-173----personnel-kia-survivors-left-gruesomely----------by--------------
 aliases:
  - /games/2563/scp-173----personnel-kia-survivors-left-gruesomely----------by--------------
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Any class D personnel are to stop reading this article immediately. Further reading with result in immediate termination.

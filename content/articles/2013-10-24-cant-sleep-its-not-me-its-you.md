@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Amrita Ghosh and Arya Mehta explore solutions to sleep deprivation
 date: "2013-10-24 23:55:48 +0100"
+
 # Attributes from Felix Online V1
 id: "3916"
 old_path: /science/3916/cant-sleep-its-not-me-its-you
 aliases:
  - /science/3916/cant-sleep-its-not-me-its-you
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Friend 1:__ Isn’t it really difficult for you to get the books from the top shelves in the library?

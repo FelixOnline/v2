@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students angrily denounce College plans for halls in North Acton. Union sets out five requests of College. Distance and price highlighted as main problems with the halls. Likely to be replacement to Evelyn Gardens. Probable closure of Garden hall.
 date: "2013-02-21 23:17:27 +0000"
+
 # Attributes from Felix Online V1
 id: "3347"
 old_path: /news/3347/anger-over-new-halls
 aliases:
  - /news/3347/anger-over-new-halls
+imported: true
+comments:
+ - Ive spent the last 6 months arguing against this it was commercial in confidence and I only knew about it because of my position on the College Council I actively lobbied the College Management against it ask them Only now can we tell students about it now its not confidentialLast comment was at Geek btwhttpfelixonlinecoukcomment3346collegeareactonupAnother thing that is very annoying in all of this is the lack of honesty and openness from College Due to it being commercially sensitive nobody that knew were allowed to say anything to anyone least of all say anything to Felix I do not blame them for not leaking as they would have been breaking trust and confidentiality agreements it would not have been hard to identify the source of the leak Yes it would have been a great bold move to do soSo its important before you get mad at the lack of reportingopposition to calm your tits and see if it hasnt already been doneattemptedTrue to everything apart
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ive spent the last 6 months arguing against this it was commercial in confidence and I only knew about it because of my position on the College Council I actively lobbied the College Management against it ask them Only now can we tell students about it now its not confidentialLast comment was at Geek btwhttpfelixonlinecoukcomment3346collegeareactonupAnother thing that is very annoying in all of this is the lack of honesty and openness from College Due to it being commercially sensitive nobody that knew were allowed to say anything to anyone least of all say anything to Felix I do not blame them for not leaking as they would have been breaking trust and confidentiality agreements it would not have been hard to identify the source of the leak Yes it would have been a great bold move to do soSo its important before you get mad at the lack of reportingopposition to calm your tits and see if it hasnt already been doneattemptedTrue to everything apart
-imported: true
 ---
 
 [Imperial College London is planning to build a large hall of residence in North Acton](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_18-2-2013-12-14-47) that will potentially replace halls that are cheaper and located far closer to the South Kensington Campus. The North Acton Halls could be used as a replacement for [Garden Halls](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectiveundergraduatestudents/hallsofresidenceug/gardenhall) and the halls in Evelyn Gardens, both of which are in South Kensington. The plans have been controversial amongst the student body and have already been denounced. Students have highlighted distance, cost, student experience, and welfare concerns. The Union have launched a campaigned against the plans, using the Twitter hashtag #AgainstActon. Already many students have voiced their opposition in a rare turn of student activism at Imperial.

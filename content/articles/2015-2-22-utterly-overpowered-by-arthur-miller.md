@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Falkenberg is emotionally blown apart at Wyndham’s
 date: "2015-02-22 17:44:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5305"
 old_path: /arts/5305/utterly-overpowered-by-arthur-miller
 aliases:
  - /arts/5305/utterly-overpowered-by-arthur-miller
+imported: true
+comments:
+ - sale fitflopsfitflop outlet httpfitflopsaublogspotcomhttpbirkenstockaustraliamallscombirkenstock stores httpbirkenstockaustraliablogspotcomlouboutin for menchristian louboutin outlet httpcanadachristianlouboutinblogspotcomlouboutin bootiescheap christian louboutin httpcanadachristianlouboutinblogspotcomshoes christian louboutinchristian louboutin shoes sale httpcanadachristianlouboutinoutletblogspotcomthank so much for your site it aids a great dealCheap NBA 2k16 httpforummaternalcomauviewtopicphpf44t230590Wow because this is excellent job Congrats and keep it upfree csgo skins httpcsgoskinsvaultpublicotonfrstupefaction goombay murdstone Concetta breese veruca husk camembert toturlhttpwwwairmax2015pascherfrnike air maxurlExtremely individual pleasant website Tremendous information offered on few clicks onnba 2k16 mt glitch november httpnba2k16coinsguidekinjacomthesmartestcsgoskinsmarket1769532341
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - sale fitflopsfitflop outlet httpfitflopsaublogspotcomhttpbirkenstockaustraliamallscombirkenstock stores httpbirkenstockaustraliablogspotcomlouboutin for menchristian louboutin outlet httpcanadachristianlouboutinblogspotcomlouboutin bootiescheap christian louboutin httpcanadachristianlouboutinblogspotcomshoes christian louboutinchristian louboutin shoes sale httpcanadachristianlouboutinoutletblogspotcomthank so much for your site it aids a great dealCheap NBA 2k16 httpforummaternalcomauviewtopicphpf44t230590Wow because this is excellent job Congrats and keep it upfree csgo skins httpcsgoskinsvaultpublicotonfrstupefaction goombay murdstone Concetta breese veruca husk camembert toturlhttpwwwairmax2015pascherfrnike air maxurlExtremely individual pleasant website Tremendous information offered on few clicks onnba 2k16 mt glitch november httpnba2k16coinsguidekinjacomthesmartestcsgoskinsmarket1769532341
-imported: true
 ---
 
 I have a confession to make. In my ignorance, I know practically nothing about Arthur Miller. Arguably one of the greatest playwrights of the twentieth century, at least a superficial understanding of Miller’s work should probably be expected from me, but not even that can I offer. Clueless, but with great anticipation, it was in this mind-set that I walked into the __Wyndham’s Theatre__ for their production of _A View from the Bridge_.

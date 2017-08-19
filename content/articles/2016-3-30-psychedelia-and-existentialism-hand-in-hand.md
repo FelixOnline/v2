@@ -4,16 +4,23 @@ title: >
 subtitle: >
   NT's re-run of Duncan Macmillan's play about addiction is not to be missed.
 date: "2016-03-30 18:43:15 +0100"
+
 # Attributes from Felix Online V1
 id: "6083"
 old_path: /arts/6083/psychedelia-and-existentialism-hand-in-hand
 aliases:
  - /arts/6083/psychedelia-and-existentialism-hand-in-hand
+imported: true
+comments:
+ - hubuBW  skburbwffaro urlhttpkhqqrbjzmxngcomkhqqrbjzmxngurl linkhttppqkyxloatjepcompqkyxloatjeplink httpqhsfesaeiagvcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - hubuBW  skburbwffaro urlhttpkhqqrbjzmxngcomkhqqrbjzmxngurl linkhttppqkyxloatjepcompqkyxloatjeplink httpqhsfesaeiagvcom
-imported: true
 ---
 
 As I sat placidly in my seat waiting for the play to start, the announcement to turn off our mobile phones was played. That was all expected. But then the announcement repeated itself, and it seemed that a thousand voices were echoing it at the same time, louder and louder and reaching a mad climax – then in a snap the theatre went dark and a scene from _The Seagull_ appeared before us.

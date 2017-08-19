@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC Taekwondo in medal haul at the WTF London International open
 date: "2012-02-16 23:26:48 +0000"
+
 # Attributes from Felix Online V1
 id: "2220"
 old_path: /sport/2220/kicking-up-a-storm-
 aliases:
  - /sport/2220/kicking-up-a-storm-
+imported: true
+comments:
+ - When someone is proud of being a semiilliterate moron and cant stand it bsacuee someone else is not Even worse is when they are too cowardly to use their own nameare you going to be back on FuckedHard18 your past three scenes were quite enoyajble do you have a formspring or tumblr too are you in a relationship or single just asking thanks  machine than   most common   autom insurance rates   buy viagra on line
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - When someone is proud of being a semiilliterate moron and cant stand it bsacuee someone else is not Even worse is when they are too cowardly to use their own nameare you going to be back on FuckedHard18 your past three scenes were quite enoyajble do you have a formspring or tumblr too are you in a relationship or single just asking thanks  machine than   most common   autom insurance rates   buy viagra on line
-imported: true
 ---
 
 Imperial College TaeKwonDo (ICUTKD) has returned to its [World Taekwondo Federation](http://www.wtf.org/) (WTF) roots this year, and recently entered its first WTF competition in a long time. On Sunday 5th February, Brentford Leisure Centre was host to the Taekwondo London International Open 2012, with competitors from all over the world – notably a team of specialists, which included an Olympic athlete from Korea (the home of the exciting sport.) ICUTKD put forward a team of six fighters for the intermediate level sparring category, and came back strong with a six medal haul.

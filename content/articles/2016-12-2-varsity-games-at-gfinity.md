@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Saad Ahmed gives the coverage on Varsity Games’ action packed, interuniversity DOTA tournament
 date: "2016-12-02 15:18:03 +0000"
+
 # Attributes from Felix Online V1
 id: "6543"
 old_path: /games/6543/varsity-games-at-gfinity
 aliases:
  - /games/6543/varsity-games-at-gfinity
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Esports have rapidly been gaining popularity recently and have been making a name for themselves across the gaming community. However, despite this spike in popularity, they have yet to be taken seriously or started building a community, bringing like-minded people together. An organisation called Varsity Games is the first to aim at rectifying this injustice and it’s began with an all-out DOTA 2 tournament which took place last Saturday on the 26th of November.

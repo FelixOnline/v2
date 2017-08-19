@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Professor Robert Winston talks to James Bezer about the vote to allow ‘three-parent babies’
 date: "2015-03-09 19:16:04 +0000"
+
 # Attributes from Felix Online V1
 id: "5379"
 old_path: /science/5379/this-does-not-threaten-the-fabric-of-our-society
 aliases:
  - /science/5379/this-does-not-threaten-the-fabric-of-our-society
+imported: true
+comments:
+ - No es que ese nuevo fascista de Berlusconi haya ocupado el podersino es que se rie se sus bracdbonauas y si le dejan se perpetuara en el poder y mientras los italianos sean de derechas o no miran para otro ladola verdad es que si que da miedo Italiaun saludo
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - No es que ese nuevo fascista de Berlusconi haya ocupado el podersino es que se rie se sus bracdbonauas y si le dejan se perpetuara en el poder y mientras los italianos sean de derechas o no miran para otro ladola verdad es que si que da miedo Italiaun saludo
-imported: true
 ---
 
 “This does not threaten the fabric of our society in any way whatsoever: it’s an individual choice for someone who’s watched a child die of a horrible disease”.

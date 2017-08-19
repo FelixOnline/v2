@@ -4,16 +4,24 @@ title: >
 subtitle: >
   National walkout to hit Imperial unless pensions dispute is resolved
 date: "2011-03-10 19:26:55 +0000"
+
 # Attributes from Felix Online V1
 id: "1051"
 old_path: /news/1051/lecturers-to-strike
 aliases:
  - /news/1051/lecturers-to-strike
+imported: true
+comments:
+ - There is a difference between being represented for collective bargaining purposes and being a signedup member of the UnionThis article totally blows man Where are all the naked chicks waving placards Sort it out ladsWell done to those lecturers who do choose to go to work Millions across the country and the world dont have that choiceThe UCU represents thousands of Imperial staff but according to the College the 520 UCU members at Imperialwut
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - There is a difference between being represented for collective bargaining purposes and being a signedup member of the UnionThis article totally blows man Where are all the naked chicks waving placards Sort it out ladsWell done to those lecturers who do choose to go to work Millions across the country and the world dont have that choiceThe UCU represents thousands of Imperial staff but according to the College the 520 UCU members at Imperialwut
-imported: true
 ---
 
 The University and College Union (UCU) has [scheduled strikes](http://www.ucu.org.uk/index.cfm?articleid=5371) over changes to pension schemes of university staff, with English universities due to be affected on the 22nd and 24th of March. Falling in the last week of term, the strikes could have a damaging effect on lecture courses across many departments, if employers and unions don’t come to an agreement.

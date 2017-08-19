@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Guerrilla girls going ape
 date: "2013-06-05 18:22:00 +0100"
+
 # Attributes from Felix Online V1
 id: "3660"
 old_path: /arts/3660/where-are-the-female-artists
 aliases:
  - /arts/3660/where-are-the-female-artists
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 From Nick Ross’ recent comments about rape, to the on-going campaign against ‘Page 3’, it seems that barely a day goes past without a reminder of the constant need for feminism. A couple of months ago a new website was started that provides yet more evidence for feminism’s role in society. ‘100% Men’ aims to reveal ‘corners of the world where women have yet to tread’, exposing places where female representation is sorely lacking. However, while it may not seem surprising that there has never been a female president of the Royal Society, or that male MPs outnumber female ones 4:1, under representation of women extends far into some surprising facets of life.

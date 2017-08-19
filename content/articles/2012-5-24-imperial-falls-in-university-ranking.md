@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Controversy over drop from 10th to 13th in latest Guardian tables
 date: "2012-05-24 22:44:38 +0100"
+
 # Attributes from Felix Online V1
 id: "2482"
 old_path: /news/2482/imperial-falls-in-university-ranking
 aliases:
  - /news/2482/imperial-falls-in-university-ranking
+imported: true
+comments:
+ - It is unfortunate that these league tables get much credence even the ones which rank us highly The methodologies are all remarkably arbitrary a consequence of trying to measure something qualitative and failingAs far as NSS goes I suspect the College would do better if they focused a little less on running the College as a business and putting business interests before student interestsTheres not much we can do about the value added score but student satisfaction is an area that needs dramatic improvementJason ParmarSeveral people seem to be assuming the NSS is a perfect measure of student experienceTo clarify its absolutely unquestionable that the student experience at Imperial College needs to be radically improvedWe study at a worldclass university and we deserve to be truly worldclass in everything we do not just researchIt was excellent to see the Rector set the number 1 priority of this academic year to improve the student experience It resonated around the coll
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - It is unfortunate that these league tables get much credence even the ones which rank us highly The methodologies are all remarkably arbitrary a consequence of trying to measure something qualitative and failingAs far as NSS goes I suspect the College would do better if they focused a little less on running the College as a business and putting business interests before student interestsTheres not much we can do about the value added score but student satisfaction is an area that needs dramatic improvementJason ParmarSeveral people seem to be assuming the NSS is a perfect measure of student experienceTo clarify its absolutely unquestionable that the student experience at Imperial College needs to be radically improvedWe study at a worldclass university and we deserve to be truly worldclass in everything we do not just researchIt was excellent to see the Rector set the number 1 priority of this academic year to improve the student experience It resonated around the coll
-imported: true
 ---
 
 Imperial has dropped from 10th to 13th place in the [_Guardian_ University Guide 2013](http://www.guardian.co.uk/education/universityguide), the results of which were published on Monday 21 May. The guide, which ranks universities across the United Kingdom, saw institutions ranked across various areas, including results from the [National Student Survey](http://www.thestudentsurvey.com/), expenditure per student, and the student to staff ratio.

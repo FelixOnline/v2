@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park scrutinizes a film with one to many Ms
 date: "2012-01-26 22:10:47 +0000"
+
 # Attributes from Felix Online V1
 id: "2054"
 old_path: /film/2054/mysterious-magnetic-monstrous-maddening
 aliases:
  - /film/2054/mysterious-magnetic-monstrous-maddening
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 ###  Martha Marcy May Marlene

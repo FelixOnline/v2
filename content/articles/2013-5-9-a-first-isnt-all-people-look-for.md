@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lord Winston wants other human values as well as a first
 date: "2013-05-09 12:11:41 +0100"
+
 # Attributes from Felix Online V1
 id: "3560"
 old_path: /news/3560/a-first-isnt-all-people-look-for
 aliases:
  - /news/3560/a-first-isnt-all-people-look-for
+imported: true
+comments:
+ - I love this guy What a G Professor Robert Lord Winston
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I love this guy What a G Professor Robert Lord Winston
-imported: true
 ---
 
 It’s exam season. Everyone at Imperial is slaving away behind a desk, energy drink of choice in hand. It’s the time of year when finding a spare computer in the Library is enough to make you ecstatic, and noticing it’s not free and someone is using the classic penny in the arrow key trick will send you into despair. So perhaps it’s not the best time to betold that getting a first isn’t all there is to life.

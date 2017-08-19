@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The U.K. need not worry about its deficit
 date: "2010-12-12 14:30:04 +0000"
+
 # Attributes from Felix Online V1
 id: "553"
 old_path: /politics/553/printing-money-to-pay-debt-
 aliases:
  - /politics/553/printing-money-to-pay-debt-
+imported: true
+comments:
+ - If UK expand its monetary base by quantitative easingQE the value of the UK pound goes down compared with other countries The devaluation will make the country competitive in term of export GDP of a country consists mainly of 4 section consumption investment net export and governmental spending Therefore if export increases growth of GDP is expected which will contribute to reduction of the nations debt For basically a governmental debt is expressed as the ratio to the countrys GDP   Actually Iceland whose banks had filed for bankruptocy in the US financial crisis 2008 has had a high inflation since the credit crisis However thanks to the devaluation of Iceland krona the country made the current account balance in surplus in 2009 Joseph Stiglitz the Nobel laureate who predicted the US financial crisis says that the austerity measures by the ruling coalition will take the UK deeper into recession and hit millions  poorest  badly Prof Stiglitz strongly criticizes George Osbornes
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - TM1510
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "TM1510"
 author_name: "Tomokazu Miyamoto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If UK expand its monetary base by quantitative easingQE the value of the UK pound goes down compared with other countries The devaluation will make the country competitive in term of export GDP of a country consists mainly of 4 section consumption investment net export and governmental spending Therefore if export increases growth of GDP is expected which will contribute to reduction of the nations debt For basically a governmental debt is expressed as the ratio to the countrys GDP   Actually Iceland whose banks had filed for bankruptocy in the US financial crisis 2008 has had a high inflation since the credit crisis However thanks to the devaluation of Iceland krona the country made the current account balance in surplus in 2009 Joseph Stiglitz the Nobel laureate who predicted the US financial crisis says that the austerity measures by the ruling coalition will take the UK deeper into recession and hit millions  poorest  badly Prof Stiglitz strongly criticizes George Osbornes
-imported: true
 ---
 
 This year will be the toughest year for the eurozone ever. Since the financial crisis in 2008, the US and Europe have suffered from a serious recession. In fact, the PIIGS (Portugal, Ireland, Italy, Greece and Spain), especially Greece and Ireland, are now at the fiscal brink, and they have called for a bailout from the EU and the International Monetary Fund (IMF).

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ben Howitt lets us know why he loves mental health musical Next To Normal
 date: "2015-03-06 13:27:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5351"
 old_path: /arts/5351/my-favourite-musical--next-to-normal
 aliases:
  - /arts/5351/my-favourite-musical--next-to-normal
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _N__ext to Normal_, with book and lyrics by Brian Yorkey and music by Tom Kitt, follows Diana, a bipolar depressive with a dead son, a rock star psychiatrist, a daughter she describes as “a freak” (and her stoner boyfriend)... and Dan, her husband.

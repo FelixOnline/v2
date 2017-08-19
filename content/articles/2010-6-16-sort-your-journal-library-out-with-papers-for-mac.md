@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Looking at the iTunes of journal articles, Papers for Mac and iPhone/iPad
 date: "2010-06-16 19:44:28 +0100"
+
 # Attributes from Felix Online V1
 id: "146"
 old_path: /tech/146/sort-your-journal-library-out-with-papers-for-mac
 aliases:
  - /tech/146/sort-your-journal-library-out-with-papers-for-mac
+imported: true
+comments:
+ -   6028887355retainmentjohnsm  google                           90    sexy                30           180
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
- -   6028887355retainmentjohnsm  google                           90    sexy                30           180
-imported: true
 ---
 
 Reading peer-reviewed journal articles is one of the most crucial parts of studying science. Whether you’re an undergraduate trying to write a literature review or a researcher trying to find a new method, journals are the primary way of sharing new information on research topics with both specialists and generalists. Most, if not all journal articles are published online for download in PDF format ahead of their print debut. If you or your institution have a subscription to the journal, or it’s an open journal like the PLOS series, then you can easily find and download the article with PubMed or another peer-reviewed journal index. Once you’ve got the journal of course it’s a simple matter of just loading up your PDF reader of choice to read it. For one article that’s fine, but imagine you read several articles a day and end up a library of journal articles totalling into the hundreds, how do you keep them organised?

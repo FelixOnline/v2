@@ -4,16 +4,23 @@ title: >
 subtitle: >
   They don’t suffer like you after a long flight, Fiona Hartley explains
 date: "2013-10-18 21:16:47 +0100"
+
 # Attributes from Felix Online V1
 id: "3890"
 old_path: /science/3890/jet-lag-resistance-in-mice
 aliases:
  - /science/3890/jet-lag-resistance-in-mice
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Jet lag is one of those annoyances that stems from living in the modern era. Anyone who has flown to Asia or come home to the UK after an American holiday recognises its unpleasantness. You just have to wait for your body to adjust to the new time zone. When evolution was working on humans, it had no foresight regarding the development of the aeroplane, or that it would play havoc with our body clock by enabling us to travel across the planet in one or two journeys.

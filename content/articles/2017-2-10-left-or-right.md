@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Saad Ahmed talks about how much choice there is in video games and how they add to the overall experience and immersion
 date: "2017-02-10 16:06:39 +0000"
+
 # Attributes from Felix Online V1
 id: "6770"
 old_path: /games/6770/left-or-right
 aliases:
  - /games/6770/left-or-right
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Video games are unique from TV shows and movies due to the sense of immersion they give players. Having the ability to make choices plays a large part in this. It’s not just any old story you get to experience, it’s one chosen and defined by you and that’s what makes it all the more intimate.

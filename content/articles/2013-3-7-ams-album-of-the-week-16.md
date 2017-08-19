@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Youth Lagoon: Wondrous Bughouse
 date: "2013-03-07 22:07:58 +0000"
+
 # Attributes from Felix Online V1
 id: "3440"
 old_path: /music/3440/ams-album-of-the-week-16
 aliases:
  - /music/3440/ams-album-of-the-week-16
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Youth Lagoon consists of a single 23 year old man: Trevor Powers. His debut, The Year of Hibernation, was released back in 2011 and still stands as by far my favourite album to emerge from the stampede of lo-fi singer songwriters of recent years. Rarely going beyond a minimalist combination of reverb drenched keyboards, processed beats and dreamy vocals it was a haunting, beautiful, perfectly formed slice of dream pop. Wondrous Bughouse is a far more complicated beast. Here you’ll find layers, textures and a wide variety of influences. It’s an exciting development and makes for a fascinating listen.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   New meteorite in Western Australia’s Nullarbor Desert
 date: "2011-01-20 19:20:31 +0000"
+
 # Attributes from Felix Online V1
 id: "603"
 old_path: /science/603/shooting-the-stars-to-find-meteorites-
 aliases:
  - /science/603/shooting-the-stars-to-find-meteorites-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 The finding of a new meteorite in Western Australia’s Nullarbor Desert has been announced by an international group of scientists, led by Imperial’s Dr Philip Bland. This was achieved using the Desert Fireball Network, a project involving the Onarejov Observatory in the Czech Republic, the Western Australia Museum, Curtin University, Perth, as well as Imperial College. The Network consists of a number of film based cameras, used because the available digital cameras do not have a good enough resolution, spread out over several thousand square kilometres of the desert. Each takes time lapse photographs of the night sky, the film of which is sent by local farmers back to the researchers to be developed and studied. The clear Australian sky allows useful photos to be taken almost every night. If a meteorite fireball appears in more than one picture the scientists are able to calculate not only its previous orbit, but, using climate models, also where it landed. The system is so accurate that the position of the latest find was calculated to be just 150m from its true location.

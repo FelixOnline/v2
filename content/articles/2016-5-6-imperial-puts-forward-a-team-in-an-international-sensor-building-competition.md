@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The team aims to produce a fully functioning creatinine sensor which rivals those currently available
 date: "2016-05-06 10:18:43 +0100"
+
 # Attributes from Felix Online V1
 id: "6136"
 old_path: /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
 aliases:
  - /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
+imported: true
+comments:
+ - M25OIc  ndtklqktsicf urlhttpjgiwhjhltlmecomjgiwhjhltlmeurl linkhttpbwrlwnpxbflrcombwrlwnpxbflrlink httpbmgpmvpkzpxucomthank so a lota lot for your site it helps a whole lotFIFA 17 POINTS httpwwwdirefarebaciaretoitoperecherryannanba2kmtbeingbetteronlinegamingreliablesuggestionsplayer
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - M25OIc  ndtklqktsicf urlhttpjgiwhjhltlmecomjgiwhjhltlmeurl linkhttpbwrlwnpxbflrcombwrlwnpxbflrlink httpbmgpmvpkzpxucomthank so a lota lot for your site it helps a whole lotFIFA 17 POINTS httpwwwdirefarebaciaretoitoperecherryannanba2kmtbeingbetteronlinegamingreliablesuggestionsplayer
-imported: true
 ---
 
 Imperial College has put forward a team of twelve students to compete in the International SensUs Competition, which aims to produce a creatinine molecular biosensor for healthcare applications. Its applications include uses in monitoring chronic kidney damage, radiology, the cardiovascular system and transplantation.

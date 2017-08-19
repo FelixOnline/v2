@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Have you ever looked at a balloon and thought “I would”? Well you know what they say. You haven’t really played until you’ve played with a 16-inch balloon. And by they I mean looners.
 date: "2017-02-24 15:30:15 +0000"
+
 # Attributes from Felix Online V1
 id: "6830"
 old_path: /sex/6830/enter-the-kink--looning-
 aliases:
  - /sex/6830/enter-the-kink--looning-
+imported: true
+comments:
+ - Thought it wounldt to give it a shot I was right
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thought it wounldt to give it a shot I was right
-imported: true
 ---
 
 Dan got into the shower, washing himself. Holly said she would clear up the mess they had made after the pump-to-pop in the sleeping bag. He still couldn't believe what Holly did for his birthday. They had had a few sessions with balloons before but nothing like this. Last time they had a blow-to-pop race with twelve inches, it was fun but Dan didn't know Holly would get into it, she must have been practicing. After a few minutes Holly enters the bathroom, completely naked, holding a red balloon. It’s deflated but looks like a 16-inch.

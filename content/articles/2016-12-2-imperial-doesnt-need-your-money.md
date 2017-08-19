@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Alexandre Adler explains why we should fight tuition fees at Imperial
 date: "2016-12-02 13:56:28 +0000"
+
 # Attributes from Felix Online V1
 id: "6525"
 old_path: /comment/6525/imperial-doesnt-need-your-money
 aliases:
  - /comment/6525/imperial-doesnt-need-your-money
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A spectre is haunting Imperial: the spectre of tuition fees. Six years ago now, the conservative-led government tripled fees, expanding on a policy started by New Labour. Students around the country rose up in protest, but to no avail. Since then, young Britons have depended on government loans, meaning that they start their professional life in debt. The poorest students have meagre grants, and EU citizens just have to spit out the cash. Overseas students, some coming from less affluent parts of the world, naturally have to pay two to three times the price.

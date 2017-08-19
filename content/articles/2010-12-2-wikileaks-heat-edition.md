@@ -4,16 +4,23 @@ title: >
 subtitle: >
   “The released communiqués read more like a political edition of Heat magazine”
 date: "2010-12-02 20:10:29 +0000"
+
 # Attributes from Felix Online V1
 id: "459"
 old_path: /tech/459/wikileaks-heat-edition
 aliases:
  - /tech/459/wikileaks-heat-edition
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - mas03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mas03"
 author_name: "Marcus A Shepheard"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Whether you regard Julian Assange as a [feckless self-aggrandiser](http://www.telegraph.co.uk/news/newstopics/politics/8175921/WikiLeaks-Why-is-Julian-Assange-picking-on-the-United-States.html) or a [champion](http://www.slate.com/id/2276312/) of much needed disclosure, few can dispute that he has a knack for getting attention.

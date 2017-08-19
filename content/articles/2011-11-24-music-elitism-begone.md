@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emily Beech thinks Felix Music needs more Wham!
 date: "2011-11-24 21:32:15 +0000"
+
 # Attributes from Felix Online V1
 id: "1822"
 old_path: /music/1822/music-elitism-begone
 aliases:
  - /music/1822/music-elitism-begone
+imported: true
+comments:
+ - HiI am one of the Music Editors and I thought I should address some of your commentsFirstly I acknowledge that the music we cover is almost exclusively underground and this is clearly a problem There are reasons for this bias1 Gig reviews are usually written for gigs that we can get press tickets to Because we are a small newspaper we arent able to get tickets to see more popular musicians and so only the more obscure artists get reviewed in Felix 2 For whatever reason the nongig articles we get sent by students are mainly about obscure albumsbands very rarely do we receive articles about mainstream music Therefore we necessarily print obscure articles As the Music section prints obscure articles we ostracise those with more mainstream tastes which means only those people who like underground music send us articles In other words we are stuck in a vicious cycle which entrenches obscurity in the sectionEvidently there is some annoyance amongst the student body about
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - HiI am one of the Music Editors and I thought I should address some of your commentsFirstly I acknowledge that the music we cover is almost exclusively underground and this is clearly a problem There are reasons for this bias1 Gig reviews are usually written for gigs that we can get press tickets to Because we are a small newspaper we arent able to get tickets to see more popular musicians and so only the more obscure artists get reviewed in Felix 2 For whatever reason the nongig articles we get sent by students are mainly about obscure albumsbands very rarely do we receive articles about mainstream music Therefore we necessarily print obscure articles As the Music section prints obscure articles we ostracise those with more mainstream tastes which means only those people who like underground music send us articles In other words we are stuck in a vicious cycle which entrenches obscurity in the sectionEvidently there is some annoyance amongst the student body about
-imported: true
 ---
 
 What does your CD collection consist of? Oh, wait a second, I remember now. Nobody buys those things anymore… it’s all about the Internet nowadays.

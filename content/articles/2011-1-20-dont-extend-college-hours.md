@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jovan Nedic argues that the proposed timetable changes would adversely affect Imperial’s sports teams
 date: "2011-01-20 19:49:44 +0000"
+
 # Attributes from Felix Online V1
 id: "615"
 old_path: /sport/615/dont-extend-college-hours
 aliases:
  - /sport/615/dont-extend-college-hours
+imported: true
+comments:
+ - The New York Rangers made an incredible ccbomaek lastnight only to give the game away because they gave up in the last ten minutes of the game Clearly the Devils wanted it more and they clearly demonstrated the will to win The Rangers had plenty of chances especially Gaborik blew a perfect opportunity in front of the net earlier in the game That should of been a goal and Callahans near miss was so close inches from going in the net If the Rangers are going to ccbomaek and win this series their defense has to step up and play mistake free hockey These careless turnovers must come to an end Henrik must become a brick wall for the rest of the series The offense must play the whole game like they played the 2nd period The effort they displayed was missing from the whole 2012 playoffs Where has that display of offensive power beenI have also uploaded the crroected Senior Men and Ladies Team Results each club only listed once and made a correction to the Senior Me
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The New York Rangers made an incredible ccbomaek lastnight only to give the game away because they gave up in the last ten minutes of the game Clearly the Devils wanted it more and they clearly demonstrated the will to win The Rangers had plenty of chances especially Gaborik blew a perfect opportunity in front of the net earlier in the game That should of been a goal and Callahans near miss was so close inches from going in the net If the Rangers are going to ccbomaek and win this series their defense has to step up and play mistake free hockey These careless turnovers must come to an end Henrik must become a brick wall for the rest of the series The offense must play the whole game like they played the 2nd period The effort they displayed was missing from the whole 2012 playoffs Where has that display of offensive power beenI have also uploaded the crroected Senior Men and Ladies Team Results each club only listed once and made a correction to the Senior Me
-imported: true
 ---
 
 It appears that the College has yet again taken a somewhat narrow-minded view on their latest venture, extending the working day for not only the students, but the staff as well. Forget the fact that they will have to ask staff to work longer hours, which might be a whole other bag of problems, but the change to the timetable would eat into the already limited hours available for extra-curricular activities, in particular sports.

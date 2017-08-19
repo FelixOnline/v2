@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Why you should take the sausage hostage
 date: "2016-11-25 14:46:59 +0000"
+
 # Attributes from Felix Online V1
 id: "6516"
 old_path: /sex/6516/masturbation
 aliases:
  - /sex/6516/masturbation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 TODO: image from

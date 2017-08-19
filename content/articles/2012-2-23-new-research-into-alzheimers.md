@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What tau proteins can tell us
 date: "2012-02-23 20:58:40 +0000"
+
 # Attributes from Felix Online V1
 id: "2249"
 old_path: /science/2249/new-research-into-alzheimers-
 aliases:
  - /science/2249/new-research-into-alzheimers-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 [Alzheimer’s disease](http://alzheimers.org.uk/site/scripts/documents_info.php?documentID=100) affects almost 30 million people around the world but it remains a poorly understood condition with no cure and few effective treatments. However, recent studies by scientists at Columbia and Harvard universities provide tantalising evidence of how the disease spreads through the brain and even offer hope of way to stop it in its tracks.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Giri Kesavan shares highlights from Imperial’s first ever CSR conference
 date: "2012-12-07 02:16:01 +0000"
+
 # Attributes from Felix Online V1
 id: "3045"
 old_path: /biz/3045/students-projects-given-chance-to-shine
 aliases:
  - /biz/3045/students-projects-given-chance-to-shine
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Think social responsibility and you don’t normally think of banks. Discovering social enterprise, learning business skills, pitching for sponsorship and inspiring volunteering were just some of the themes explored in the[ Imperial College Finance Society (ICFS](https://www.union.ic.ac.uk/scc/finance/)) led Corporate Citizenship conference on Wednesday. A pilot event for the society and run in collaboration with[ Imperial Hub](http://www.imperialhub.org/xwiki/bin/view/Imperial+Hub/) & The Student Led Projects symposium, the conference brought together senior business leaders from investment banks, start up social entrepreneurs and student projects – with a series of speeches, workshops and a sponsorship pitching session with £750 up for grabs.

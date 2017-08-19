@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles has an ambivalent experience at Electric Brixton
 date: "2013-10-25 00:30:52 +0100"
+
 # Attributes from Felix Online V1
 id: "3931"
 old_path: /music/3931/live-review---london-grammar
 aliases:
  - /music/3931/live-review---london-grammar
+imported: true
+comments:
+ - robertlula007voniucii ty vseze ruskii pdoonok ty by lucshe zanyalsa delom kretin a ne komentiroval  polskih idiotov  Mudilo izza takih kak tyVAS TAKIH GADOV NAZI 1 V RASIJI VSEGO   zlostnyh hamov nevozmozno vostanovit horoshih otnoshenii ezdu narodami gadenyshy sdelayut vse ctoby byla rozn eto vam nuzno kak vozduh bez etogo  velikorusy nazisty i drugaya pohozaya SVOLOC davno peredtala by sushestvovat Ponyal suka Well at least the scruff baleacns out Andys face and makes him look more like a fan especially when he was waving his arms up and down on the side lines on Sunday  For once he really seemed to be into the game and enjoying himself maybe even understanding what all us fans were going throughActually though it really is just a big marketing ploy by Jeff Laurie  He wasnt selling enough Eagles merchandise so when the playoff and hopefully even the SuperBowl run is over the Eagles proshop is going to be stocked with Eagles emblem
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - robertlula007voniucii ty vseze ruskii pdoonok ty by lucshe zanyalsa delom kretin a ne komentiroval  polskih idiotov  Mudilo izza takih kak tyVAS TAKIH GADOV NAZI 1 V RASIJI VSEGO   zlostnyh hamov nevozmozno vostanovit horoshih otnoshenii ezdu narodami gadenyshy sdelayut vse ctoby byla rozn eto vam nuzno kak vozduh bez etogo  velikorusy nazisty i drugaya pohozaya SVOLOC davno peredtala by sushestvovat Ponyal suka Well at least the scruff baleacns out Andys face and makes him look more like a fan especially when he was waving his arms up and down on the side lines on Sunday  For once he really seemed to be into the game and enjoying himself maybe even understanding what all us fans were going throughActually though it really is just a big marketing ploy by Jeff Laurie  He wasnt selling enough Eagles merchandise so when the playoff and hopefully even the SuperBowl run is over the Eagles proshop is going to be stocked with Eagles emblem
-imported: true
 ---
 
 As they play, the screens behind London Grammar display visuals of flocks of birds, and wisps of smoke; these are perhaps perfect representations of their music. Transient and fleeting, most of the tracks on their debut album If You Wait begin minimally, swelling to a crescendo as the different elements come together, before ending as quickly and quietly as it began.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charles Titmuss explains why Putin is probably ecstatic right now
 date: "2017-02-17 14:46:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6787"
 old_path: /comment/6787/putin-has-a-huge-power-hard-on
 aliases:
  - /comment/6787/putin-has-a-huge-power-hard-on
+imported: true
+comments:
+ - SqAvxF  hqkaaunrjlze urlhttpnkvuuwdyaalmcomnkvuuwdyaalmurl linkhttpcmommhesukiecomcmommhesukielink httpfxgedlcjxiqicomhmmyou westerners either due to a malicious intents or as practical joke or due to naivete are blowing things out of proportions in your thinking about russian international postureunlike america which is trying to play a role of the worlds policeman why else would it stations its troops in 147 countriesnor russia does want to conquer the world nor do we have such a capacity in the first place  so all your talk about how aggressive russia and whatnot is off the markwhat we as a great power and we are great by definition sheer size largest nuclear arsenal a seat on the UNSC want is be secure and ensure security of our legitimate peripherythus what is happening near russian borders should NOT be any of americans who live on another continent business
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - SqAvxF  hqkaaunrjlze urlhttpnkvuuwdyaalmcomnkvuuwdyaalmurl linkhttpcmommhesukiecomcmommhesukielink httpfxgedlcjxiqicomhmmyou westerners either due to a malicious intents or as practical joke or due to naivete are blowing things out of proportions in your thinking about russian international postureunlike america which is trying to play a role of the worlds policeman why else would it stations its troops in 147 countriesnor russia does want to conquer the world nor do we have such a capacity in the first place  so all your talk about how aggressive russia and whatnot is off the markwhat we as a great power and we are great by definition sheer size largest nuclear arsenal a seat on the UNSC want is be secure and ensure security of our legitimate peripherythus what is happening near russian borders should NOT be any of americans who live on another continent business
-imported: true
 ---
 
 From his images in National Media (and yes, those do require capital letters), it’s clear that Vladimir Vladimirovich Putin has a hard on for one man: himself. Whether he’s shirtless fishing, riding a horse, or killing a bear with his bare hands, Putin’s got a thing for being the manliest manly Russian man around. And right now he has the added advantage of being the shrewdest and luckiest foreign policy operator in the world.

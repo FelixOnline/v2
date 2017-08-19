@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We should pay for our own education – and our parents should have paid for theirs
 date: "2012-11-23 00:01:29 +0000"
+
 # Attributes from Felix Online V1
 id: "2954"
 old_path: /comment/2954/all-i-wanna-do-is-ching-and-take-your-money
 aliases:
  - /comment/2954/all-i-wanna-do-is-ching-and-take-your-money
+imported: true
+comments:
+ - If you want serious thought on the future of Britains youth Id go to a daycare centre before I went anywhere near the NUSBrilliantThanks for everyones commentsYakov the important point is that primary and secondary education should be universal and so its a case of practicality that everyone contributes We do pay for childrens education through tax University is not universal though Everyone should be able to apply and compete for it and this is where the government must support the poorer it doesnt mean we shouldnt pay for it post graduation thoughObviously within each generation some are better off than others But my generations poorest will be poorer than my parents my generations middle class will be poorer than my parents Borrowing from your children is a viscous cycle which should stopI agree that inequality is a problem I think there is a debate to be had on how to do it but tax the rich more is an old solution which doesnt work and never has done Ho
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If you want serious thought on the future of Britains youth Id go to a daycare centre before I went anywhere near the NUSBrilliantThanks for everyones commentsYakov the important point is that primary and secondary education should be universal and so its a case of practicality that everyone contributes We do pay for childrens education through tax University is not universal though Everyone should be able to apply and compete for it and this is where the government must support the poorer it doesnt mean we shouldnt pay for it post graduation thoughObviously within each generation some are better off than others But my generations poorest will be poorer than my parents my generations middle class will be poorer than my parents Borrowing from your children is a viscous cycle which should stopI agree that inequality is a problem I think there is a debate to be had on how to do it but tax the rich more is an old solution which doesnt work and never has done Ho
-imported: true
 ---
 
 Right now the NUS is congratulating itself on a job well done. Despite the rain it got ten thousand students out on the street, fights didn’t break out, there were enough placards to go around and the biggest cock up was when the President, Liam Burns, was egged and suffered a stage invasion by those who don’t like the NUS’s ‘moderate’ position. I’ll get to that in a minute.

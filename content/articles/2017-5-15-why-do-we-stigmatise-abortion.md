@@ -4,16 +4,23 @@ title: >
 subtitle: >
   One in three women will have an abortion. So where are they?
 date: "2017-05-15 17:42:54 +0100"
+
 # Attributes from Felix Online V1
 id: "6968"
 old_path: /features/6968/why-do-we-stigmatise-abortion
 aliases:
  - /features/6968/why-do-we-stigmatise-abortion
+imported: true
+comments:
+ - I would argue that it is not so much stigma so much as ensuring that we do not trivialise the ethically delicate area of how we treat life potential life and at what point life exists The fact that many women receive abortions does not change these underlying issues
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I would argue that it is not so much stigma so much as ensuring that we do not trivialise the ethically delicate area of how we treat life potential life and at what point life exists The fact that many women receive abortions does not change these underlying issues
-imported: true
 ---
 
 I haven’t had an abortion. In fact, I only know two people who have and they personally told me of it. One was a girl I went to school with, who had an abortion aged 15, and lost a lot of friends who had never realised they were pro-life until that moment. The other is my mother, who speaks about it with the same straightforward frankness with which she talks about close family deaths: as something sad that mights have been traumatic or difficult at the time, but ultimately is normal and a standard part of life.

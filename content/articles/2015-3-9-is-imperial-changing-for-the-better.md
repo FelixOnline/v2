@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tessa Davey looks back on seven years of Imperial and Felix
 date: "2015-03-09 18:18:04 +0000"
+
 # Attributes from Felix Online V1
 id: "5371"
 old_path: /comment/5371/is-imperial-changing-for-the-better
 aliases:
  - /comment/5371/is-imperial-changing-for-the-better
+imported: true
+comments:
+ - fit flop shoefitflops on sale australia httpaustraliafitflopsiemillernetchristian laboutinchristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcomIt is generally recommended that HAART therapy be continued in pregnant  patients with HIVIn addition to activating TLR ssRNA viruses and in vitro transcribed ssRNA can activate TLR through doublestranded ds replication intermediates or through the formation of ds secondary structures respectively viagra region in the cochlea that contains  auditory receptorsSupport Groups Wilsons disease support groups can be found at www buyrealviagraonlihenoperscription et alChapter   Optics  FIGURETherefore perform surveillance esophagoscopy to detect the tumor at an early stageSupport Groups The American Association for Klinefelter Syndrome Information and Support AAKSIS  www sildenafil 100mg Many parents become worried if their children are shorter than most or all of the children around themThe ecological part reminds us about t
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flop shoefitflops on sale australia httpaustraliafitflopsiemillernetchristian laboutinchristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcomIt is generally recommended that HAART therapy be continued in pregnant  patients with HIVIn addition to activating TLR ssRNA viruses and in vitro transcribed ssRNA can activate TLR through doublestranded ds replication intermediates or through the formation of ds secondary structures respectively viagra region in the cochlea that contains  auditory receptorsSupport Groups Wilsons disease support groups can be found at www buyrealviagraonlihenoperscription et alChapter   Optics  FIGURETherefore perform surveillance esophagoscopy to detect the tumor at an early stageSupport Groups The American Association for Klinefelter Syndrome Information and Support AAKSIS  www sildenafil 100mg Many parents become worried if their children are shorter than most or all of the children around themThe ecological part reminds us about t
-imported: true
 ---
 
 I’ve been at Imperial for seven years, which is quite a long time – longer than most. In that time, I’ve seen a lot of change. Some of these changes are ones I never imagined happening, like the loss of Evelyn Gardens, which was my home as a fresher, but they’re mostly overwhelmingly positive.

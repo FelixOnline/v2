@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix explores the effect that raising the tuition fee cap will have on international students
 date: "2010-11-18 21:41:11 +0000"
+
 # Attributes from Felix Online V1
 id: "407"
 old_path: /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
 aliases:
  - /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
+imported: true
+comments:
+ - Back in 2008 it costs 15500 a year for my tuition fees and within 2 years it has risen from that amount to almost 200000 A whopping 30 increase Is this increase justified No one can really tell but we can be sure about one thing international fees will always go up never down  A lot of US universities may be more expensive than home tuition fees but at least they dont financially discriminate against international students by charging them 7x more than US students
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Back in 2008 it costs 15500 a year for my tuition fees and within 2 years it has risen from that amount to almost 200000 A whopping 30 increase Is this increase justified No one can really tell but we can be sure about one thing international fees will always go up never down  A lot of US universities may be more expensive than home tuition fees but at least they dont financially discriminate against international students by charging them 7x more than US students
-imported: true
 ---
 
 Proposals to increase the tuition fee cap to £9000 per year for EU and home students were attacked by over 50,000 students protesting on the streets of London last week. However, the opinions of one particular group of students who also have a stake in this matter have mostly been ignored..

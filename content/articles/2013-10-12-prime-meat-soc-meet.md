@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Helen Pennington with a meaty (groan!) review
 date: "2013-10-12 19:57:07 +0100"
+
 # Attributes from Felix Online V1
 id: "3861"
 old_path: /food/3861/prime-meat-soc-meet
 aliases:
  - /food/3861/prime-meat-soc-meet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 On Tuesday Oct 1, Meat Soc held its primary trip this academic year to the Green Door Steakhouse, on Gloucester Road. It was great to meat new members, and to ketchup with some of our older ones. We felt that we should begin in style, dining on really good food.

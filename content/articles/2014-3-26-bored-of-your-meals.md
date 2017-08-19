@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Food is here with tips to avoid being in a food rut
 date: "2014-03-26 14:03:14 +0000"
+
 # Attributes from Felix Online V1
 id: "4506"
 old_path: /food/4506/bored-of-your-meals
 aliases:
  - /food/4506/bored-of-your-meals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __As students, our food budgets might be limited, but this does not mean our diets are boring! Eating out or ordering takeaway is neither cheap nor healthy most of the time, but not only can you control the cost and what goes into your food when you cook yourself, we guarantee you will find it enjoyable and an easy (and tasteful) way to de-stress! Both of us, your food editors at Felix, cook regularly; here is how we avoid being in a food rut i.e. eating the same food every day.__

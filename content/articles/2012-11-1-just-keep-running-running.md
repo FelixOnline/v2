@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A certain fresher (who shall remain nameless) really showed how well he will fit in with the club!
 date: "2012-11-01 23:15:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2819"
 old_path: /sport/2819/just-keep-running-running
 aliases:
  - /sport/2819/just-keep-running-running
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Wednesday 17th October saw 42 runners from Imperial College make the journey to north London to take on the “mountains” of Hampstead Heath. This marked the start of the annual London Colleges Cross Country League, with six races taking place around London over two terms.

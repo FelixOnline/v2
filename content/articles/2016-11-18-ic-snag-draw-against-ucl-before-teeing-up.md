@@ -4,16 +4,22 @@ title: >
 subtitle: >
   There was heavy breathing
 date: "2016-11-18 17:06:08 +0000"
+
 # Attributes from Felix Online V1
 id: "6487"
 old_path: /sport/6487/ic-snag-draw-against-ucl-before-teeing-up-
 aliases:
  - /sport/6487/ic-snag-draw-against-ucl-before-teeing-up-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The 9th of November saw the rugby 1st XV arrive at their ever windy fortress Harlington to face UCL. After a brief hiatus during the warm-up, the team were out for a few minutes before heading back into the changing room to slide on their ‘mysteriously moist’ playing shirts.

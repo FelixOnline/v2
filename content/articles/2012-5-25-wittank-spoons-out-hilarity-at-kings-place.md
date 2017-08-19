@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Taking the Edinburgh Fringe Festival head on
 date: "2012-05-25 18:30:37 +0100"
+
 # Attributes from Felix Online V1
 id: "2499"
 old_path: /arts/2499/wittank-spoons-out-hilarity-at-kings-place
 aliases:
  - /arts/2499/wittank-spoons-out-hilarity-at-kings-place
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Having first seen comedy group [WitTank](http://www.wittank.com/) two years ago at the __Edinburgh Fringe__ on the recommendation of a friend, I’ve been coming back for more at every opportunity. These are the guys who compete against some other 2500 shows for an audience at the Fringe every year and still manage to pack the house for every performance.

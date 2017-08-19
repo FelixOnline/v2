@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Eimear McBride’s astonishing novel is transformed into an empowering performance
 date: "2016-02-26 12:00:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5980"
 old_path: /arts/5980/the-unflinching-inner-life-of-a-girl-growing-up
 aliases:
  - /arts/5980/the-unflinching-inner-life-of-a-girl-growing-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The audience sits calmly, unaware of the storm that is poised to strike.

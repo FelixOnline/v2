@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Eleftherios Apostolakis reports from Sunday’s talk
 date: "2014-03-24 03:27:51 +0000"
+
 # Attributes from Felix Online V1
 id: "4492"
 old_path: /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
 aliases:
  - /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
+imported: true
+comments:
+ - You are absolutely right mr apostolidis and of course this is absolutely clear from that quote you have isolated from my article  Your logic is impecable and as a scientist I wouldnt even dare refute it If you actually read the article though you wouldl see that I took it upon myself to record what happened subjectively If youd like a testimony to my behaviour there is video of the whole talk and Im sure a man as resourceful as your self wouldnt have a problem locating And as we doimg this childish name calling  youre a clown who wouldnt understand logic or democracy if they slapped you in the face Enjoy your narrow mindnessMr ApostolakisUsing your words In the front sit the members of the Society responsible for organising the event and those who are in agreement with the whole idea In the back are those unhappy with this initiative I will tell you that if you were been unhappy with this initiative the best thing to do was not to participate But from the writings is easy to conclude
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - You are absolutely right mr apostolidis and of course this is absolutely clear from that quote you have isolated from my article  Your logic is impecable and as a scientist I wouldnt even dare refute it If you actually read the article though you wouldl see that I took it upon myself to record what happened subjectively If youd like a testimony to my behaviour there is video of the whole talk and Im sure a man as resourceful as your self wouldnt have a problem locating And as we doimg this childish name calling  youre a clown who wouldnt understand logic or democracy if they slapped you in the face Enjoy your narrow mindnessMr ApostolakisUsing your words In the front sit the members of the Society responsible for organising the event and those who are in agreement with the whole idea In the back are those unhappy with this initiative I will tell you that if you were been unhappy with this initiative the best thing to do was not to participate But from the writings is easy to conclude
-imported: true
 ---
 
 Last Sunday the College was visited by Adonis Georgiadis, the Greek Health Minister. The event – organised by the Imperial College Hellenic Society and held in the Clore Lecture Theatre – both from College and outside. One Imperial student gives his perspective:

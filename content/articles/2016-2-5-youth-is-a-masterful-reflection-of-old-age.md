@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Paolo Sorrentino’s touching tragicomedy deserves more praise than it has recieved
 date: "2016-02-05 12:25:17 +0000"
+
 # Attributes from Felix Online V1
 id: "5875"
 old_path: /film/5875/youth-is-a-masterful-reflection-of-old-age
 aliases:
  - /film/5875/youth-is-a-masterful-reflection-of-old-age
+imported: true
+comments:
+ - httpprednisoneorder20mgcom  10 Mg Prednisone Cheapviagracom httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20 Mg Cost For Viagra Without Insurance 283 httpcialis5mg20mgcomLovely Site Stick to the useful job Thanksnba 2k17 mt httpslynchclanscomindexphprouteforumforumviewpost_id517forum_id19Incredibly user pleasant website Enormous information available on few clicks onnhl 17 coins httpwwwbravoplblog2k16mtcoins10videogameprotectionprinciplesforparentsids343030ida1189572Wow cuz this is extremely goodexcellent work Congrats and keep it uppokemongo httpcsgolearnsmartlogdkdiscountfifa17pointsoverallgamecomputersormakingitpost1547218
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpprednisoneorder20mgcom  10 Mg Prednisone Cheapviagracom httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone 20 Mg Cost For Viagra Without Insurance 283 httpcialis5mg20mgcomLovely Site Stick to the useful job Thanksnba 2k17 mt httpslynchclanscomindexphprouteforumforumviewpost_id517forum_id19Incredibly user pleasant website Enormous information available on few clicks onnhl 17 coins httpwwwbravoplblog2k16mtcoins10videogameprotectionprinciplesforparentsids343030ida1189572Wow cuz this is extremely goodexcellent work Congrats and keep it uppokemongo httpcsgolearnsmartlogdkdiscountfifa17pointsoverallgamecomputersormakingitpost1547218
-imported: true
 ---
 
 L_a Grande Bellezza_ (_The Great Beauty_), was undoubtedly a masterpiece. Filled with art and symbolism, it left us in awe, as Italian director Paolo Sorrentino reflected upon life and death. This is partly why _Youth_ is so widely anticipated, and also why it has received merely good or average reviews. _Youth_, however, although contemplating similar themes, is different in the sense that it was never intended to be as extravagant. Instead, Sorrentino aims for a lighter, more straight-forward, simple film. And that’s what most have failed to realise. In the end, Sorrentino’s touching tragicomedy, accompanied by virtuoso acting, deserves more praise than it has thus far received.

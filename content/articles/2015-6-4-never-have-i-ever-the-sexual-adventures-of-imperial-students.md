@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman rounds up your more titillating sex survey responses
 date: "2015-06-04 23:36:13 +0100"
+
 # Attributes from Felix Online V1
 id: "5601"
 old_path: /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
 aliases:
  - /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
+imported: true
+comments:
+ - birkenstock shoesbirkenstock arizona sandals httpbirkenstocksaleaustraliablogspotcomchristian louboutin red bottomsbuy christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomI just bought often the PDFePub fake type yesterday evening often the ELECTRONICO features a builtin website link in which goes to your obtain site for the videos articlesCheap Gucci httpwwwcharopfcomguccioutletMany thanks very handy Will share site with my friendsnba 2k16 mt coins cheap httpjanice1101livejournalcom34172htmlThanks regarding offering these kinds of good infocs go skins hack httpcsgoskinspointsgratisblogbiz20160405nba2k16coinsspoofofhbosgameofthronesstarringlordkupchakThanks a lot for sharing your superb websitesFIFA 17 Points for PS4 httpspioneadeptpresscomforumcommentsphpDiscussionID19303Youre a very useful web site could not make it without yanhl 17 coins httphomylinecomevent1437Sustain the remarkable
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock shoesbirkenstock arizona sandals httpbirkenstocksaleaustraliablogspotcomchristian louboutin red bottomsbuy christian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomI just bought often the PDFePub fake type yesterday evening often the ELECTRONICO features a builtin website link in which goes to your obtain site for the videos articlesCheap Gucci httpwwwcharopfcomguccioutletMany thanks very handy Will share site with my friendsnba 2k16 mt coins cheap httpjanice1101livejournalcom34172htmlThanks regarding offering these kinds of good infocs go skins hack httpcsgoskinspointsgratisblogbiz20160405nba2k16coinsspoofofhbosgameofthronesstarringlordkupchakThanks a lot for sharing your superb websitesFIFA 17 Points for PS4 httpspioneadeptpresscomforumcommentsphpDiscussionID19303Youre a very useful web site could not make it without yanhl 17 coins httphomylinecomevent1437Sustain the remarkable
-imported: true
 ---
 
 The perennially popular drinking game gets easier with the arrival of the sex survey. If you’re looking for an easy way to get people to drink, look no further than the old classics: fuck buddies, and one night stands.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A report on the ongoing London protests, by Luke Seldon
 date: "2011-10-20 21:52:10 +0100"
+
 # Attributes from Felix Online V1
 id: "1566"
 old_path: /politics/1566/gazing-into-the-soul-of-the-99
 aliases:
  - /politics/1566/gazing-into-the-soul-of-the-99
+imported: true
+comments:
+ - Thanks for covering thisIts been said the eatsmite from the police helicopter was 70000 but they were told they could only say 35000Plebgate seems to be a complex scam aimed at dispiriting the police during the  festive season Christmas for coppers often means no time with the family a heavy workload dealing with stupid drunks and an increase in fatal road traffic collisionsLife is simple if you dont look too deep
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thanks for covering thisIts been said the eatsmite from the police helicopter was 70000 but they were told they could only say 35000Plebgate seems to be a complex scam aimed at dispiriting the police during the  festive season Christmas for coppers often means no time with the family a heavy workload dealing with stupid drunks and an increase in fatal road traffic collisionsLife is simple if you dont look too deep
-imported: true
 ---
 
 Saturday saw a [global day of occupation and protest in 951 cities across 82 countries](http://newsfeed.time.com/2011/10/17/solidarity-saturday-occupy-wall-street-goes-global/), making this day one of the most widespread days of resistance ever seen. Apart from Rome, they were also entirely peaceful. This was no random event but part of a global tide of uprising that began in the Arab spring and has swept across Europe and America. Although you may question the link between the protests in the Middle East and apparent Western democracies two common features have ran through them all: high unemployment combined with increasing difficulty to live on low wages and a feeling that the general public have no control over their governance.

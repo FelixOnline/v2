@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Gil Scott-Heron gets the blues with Tytus Murphy, on a gloomy Sunday in The Brixton Academy
 date: "2010-11-25 20:58:50 +0000"
+
 # Attributes from Felix Online V1
 id: "436"
 old_path: /music/436/a-sublime-evening-with-gil-scott-heron
 aliases:
  - /music/436/a-sublime-evening-with-gil-scott-heron
+imported: true
+comments:
+ - Very good description of gils reapearance as the minister for informationthe set as stated by young mr murphy was very staid in comparison with a full band but none the less very proffessionally performed the procussion solo dragged on a bit in my mind but thats showbizWell must gogot to go and collect some coaldododododooo d do doGIL SCOTTHERON  27052011Genuinely stunned and saddened by the news of the passing of Gil ScottHeronI saw him perform on many occasions at venues such as the JAZZ CAFE and similar to Kevin and Margaret I would play his backcatalogue through to the early hours of the morningThe most memorable set at for me was when Brian Jackson performed with him again at the JAZZ CAFEIll certainly miss him being on this earthA true artist and what a legacy he has leftRIPGIL SCOTTHERON  27052011Genuinely stunned and saddened by the news of the passing of Gil ScottHeronI saw him perform on many occasions at venues such
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Very good description of gils reapearance as the minister for informationthe set as stated by young mr murphy was very staid in comparison with a full band but none the less very proffessionally performed the procussion solo dragged on a bit in my mind but thats showbizWell must gogot to go and collect some coaldododododooo d do doGIL SCOTTHERON  27052011Genuinely stunned and saddened by the news of the passing of Gil ScottHeronI saw him perform on many occasions at venues such as the JAZZ CAFE and similar to Kevin and Margaret I would play his backcatalogue through to the early hours of the morningThe most memorable set at for me was when Brian Jackson performed with him again at the JAZZ CAFEIll certainly miss him being on this earthA true artist and what a legacy he has leftRIPGIL SCOTTHERON  27052011Genuinely stunned and saddened by the news of the passing of Gil ScottHeronI saw him perform on many occasions at venues such
-imported: true
 ---
 
 Gil Scott-Heron has entered the musical consciousness of 2010 with the release of his comeback LP ‘I’m new here’.He entered mine as a young boy of 10 years when my parents played his records on that beloved turntable that span at 33rpm.

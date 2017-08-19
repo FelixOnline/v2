@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Trouble at Metric launch forces security re-think at Union
 date: "2010-11-26 07:22:56 +0000"
+
 # Attributes from Felix Online V1
 id: "450"
 old_path: /news/450/major-changes-to-security-staff-after-metric-launch-violence-
 aliases:
  - /news/450/major-changes-to-security-staff-after-metric-launch-violence-
+imported: true
+comments:
+ - What on earth does an overzealous removal mean Youre a student paper you dont have to be totally euphemistic Surely your photographer was there  what happenedPoor form
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - What on earth does an overzealous removal mean Youre a student paper you dont have to be totally euphemistic Surely your photographer was there  what happenedPoor form
-imported: true
 ---
 
 The otherwise trouble-free opening night of Metric was tainted by violence after a student was forcibly ejected by stewards and a member of security staff who the Union have said "will not work at the Union again".

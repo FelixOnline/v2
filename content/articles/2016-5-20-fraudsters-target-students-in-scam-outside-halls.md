@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Conmen drove the student to a cash point after meeting him near Beit
 date: "2016-05-20 08:49:23 +0100"
+
 # Attributes from Felix Online V1
 id: "6174"
 old_path: /news/6174/fraudsters-target-students-in-scam-outside-halls
 aliases:
  - /news/6174/fraudsters-target-students-in-scam-outside-halls
+imported: true
+comments:
+ - httpswwwyoutubecomwatchvsdi6EqzS1c
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpswwwyoutubecomwatchvsdi6EqzS1c
-imported: true
 ---
 
 This week, a student was conned into handing over cash to fraudsters on Prince Consort Road.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emiel de Lange revels in life’s big questions at the National’s new production
 date: "2015-03-25 13:19:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5448"
 old_path: /arts/5448/man-and-superman-comedy-and-philosophy
 aliases:
  - /arts/5448/man-and-superman-comedy-and-philosophy
+imported: true
+comments:
+ - fit flop shoefitflops cheapest httpfitflopsaublogspotcombirkenstock online outletbirkenstock shoes httpbirkenstockaustraliablogspotcomchristian louboutin bianca shoescheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcomchristian louboutin salecheap christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flop shoefitflops cheapest httpfitflopsaublogspotcombirkenstock online outletbirkenstock shoes httpbirkenstockaustraliablogspotcomchristian louboutin bianca shoescheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcomchristian louboutin salecheap christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 _M__an and Superman_ is at once both funny and serious. Billed as a “comedy and a philosophy”, this dual nature has posed problems in the past and at first Bernard Shaw staged these parts separately.

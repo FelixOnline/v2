@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Head over to the Sherfield building for a fantastic exhibition
 date: "2012-02-23 19:50:32 +0000"
+
 # Attributes from Felix Online V1
 id: "2226"
 old_path: /arts/2226/twisted-exhibiton-gets-us-all-strung-up-
 aliases:
  - /arts/2226/twisted-exhibiton-gets-us-all-strung-up-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you go down to the woods tonight you’ll be in for a surprise, as there will be a teddy bear’s picnic. Alternatively, if you go to the [Blyth Gallery](http://www3.imperial.ac.uk/arts/visualart/blythgallery) (fifth floor of Sherfield) you will find another surprise. It’s a shocking day for you, isn’t it.

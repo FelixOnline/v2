@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an entertaining and interesting event
 date: "2013-10-04 02:03:16 +0100"
+
 # Attributes from Felix Online V1
 id: "3808"
 old_path: /books/3808/soho-literary-festival
 aliases:
  - /books/3808/soho-literary-festival
+imported: true
+comments:
+ - hi everybody I need your helpIm a big fan of Rob but I live in Mexico and is very unifar that here on Itunes still does not allow the download the movie of summer house you could not post it on his blog to view it they are infinitely agradeceria  if not possible no matter what I resign but at least Explain to me because I leave my email keroppiiranahotmailcomExcelente Big como lo comente9 anemtiorrente esta vieja me encanta no mames ese culito perquef1o pero perfecto esas tetas que armonizan perfectamente con esa carita de puta golosa uffff  nome1s de imaginarme rellene1ndole el cf3lon con mi leche calientita aaaahhhh Vientos Big gracias por ponerla y espero le guste a la banda chaqueteraAtte El Chile Desflemado
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - hi everybody I need your helpIm a big fan of Rob but I live in Mexico and is very unifar that here on Itunes still does not allow the download the movie of summer house you could not post it on his blog to view it they are infinitely agradeceria  if not possible no matter what I resign but at least Explain to me because I leave my email keroppiiranahotmailcomExcelente Big como lo comente9 anemtiorrente esta vieja me encanta no mames ese culito perquef1o pero perfecto esas tetas que armonizan perfectamente con esa carita de puta golosa uffff  nome1s de imaginarme rellene1ndole el cf3lon con mi leche calientita aaaahhhh Vientos Big gracias por ponerla y espero le guste a la banda chaqueteraAtte El Chile Desflemado
-imported: true
 ---
 
 ###  Notes from my first literary festival

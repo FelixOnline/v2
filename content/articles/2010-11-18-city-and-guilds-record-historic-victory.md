@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Engineers defeat Miners for first time in 17 years. By Ed Labinski
 date: "2010-11-18 21:10:08 +0000"
+
 # Attributes from Felix Online V1
 id: "402"
 old_path: /sport/402/city-and-guilds-record-historic-victory
 aliases:
  - /sport/402/city-and-guilds-record-historic-victory
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Sunday was not only for remembering those lost, but also for creating new history. The day for mourning was earmarked for the battle between two past greats; it was time for the annual C&G vs. RSM grudge match. A gloomy start saw both teams arrive an hour after the scheduled kick-off time due to the ever reliable London Transport Network.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Road safety continues to be a concern around South Kensington
 date: "2012-02-03 12:01:28 +0000"
+
 # Attributes from Felix Online V1
 id: "2133"
 old_path: /comment/2133/elephants-cant-hide-exhibition-road-worries
 aliases:
  - /comment/2133/elephants-cant-hide-exhibition-road-worries
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The newly redesigned Exhibition Road saw its [grand opening take place last Wednesday](http://felixonline.co.uk/news/2121/exhibition-road-closes-for-grand-opening-/). Away from the usual buffoonery (read: metal elephants that Felix still doesn’t quite comprehend perfectly) and tussles for photo opportunities that accompany any form of visit from the current Mayor of London the fact remains that the redesign cost £30m, and while the visual changes are plain to see, the reasoning behind them is somewhat muddier.

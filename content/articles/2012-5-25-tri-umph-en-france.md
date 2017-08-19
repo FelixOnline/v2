@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC Synchronised Swimming take third place out of all French university teams, reports Delphine Rolando
 date: "2012-05-25 17:45:21 +0100"
+
 # Attributes from Felix Online V1
 id: "2495"
 old_path: /sport/2495/tri-umph-en-france
 aliases:
  - /sport/2495/tri-umph-en-france
+imported: true
+comments:
+ - I decided to get a brsaet reduction when I had constant back pain and problems It was one of the best choices I have ever made My body looks proportionate and I feel like I can go back to doing normal activities I dont know what area you are from but I highly suggest Dr Robert Heck from Ohio  Was this answer helpfuldit Tre8s bonne pre9sentation merci e0 toi Je suis vraiment de9e7u que lapplication soit denevu payante Je vais surement lacheter tout de meame car je9tais vraiment tre8s content de la pre9ce9dente version Mais jespe8re vraiment comme tu le dis que les mises e0 jour seront plus fre9quentes  automobile insurance mass   seekers   being formed   auto insurance
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I decided to get a brsaet reduction when I had constant back pain and problems It was one of the best choices I have ever made My body looks proportionate and I feel like I can go back to doing normal activities I dont know what area you are from but I highly suggest Dr Robert Heck from Ohio  Was this answer helpfuldit Tre8s bonne pre9sentation merci e0 toi Je suis vraiment de9e7u que lapplication soit denevu payante Je vais surement lacheter tout de meame car je9tais vraiment tre8s content de la pre9ce9dente version Mais jespe8re vraiment comme tu le dis que les mises e0 jour seront plus fre9quentes  automobile insurance mass   seekers   being formed   auto insurance
-imported: true
 ---
 
 We already knew London was the sixth French city, now it also has a synchronized swimming team ranked third in the French University Championship (the French equivalent of BUCS). With its five keen members and two amazing coaches, it was no mean feat for Imperial College Synchronised Swimming team to just to participate to this competition. Being the only university team in the UK, they had no choice but to try to compete abroad.

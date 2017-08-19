@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A select group of fashion obsessives are bringing fashion to the masses: Fashion Editor Saskia Verhagen explores the burgeoning online world of fashion blogging
 date: "2010-12-02 20:10:32 +0000"
+
 # Attributes from Felix Online V1
 id: "460"
 old_path: /fashion/460/the-rise-and-rise-of-the-fashion-blog-
 aliases:
  - /fashion/460/the-rise-and-rise-of-the-fashion-blog-
+imported: true
+comments:
+ - qudvyttcgsoinnchgdqd wnjygkzzbb  urlhttpwwwdfgrbwcvricomypzwjsijieurl httpwwwgffaiytvencom wnjygkzzbbozwtyqapkiwkhfonebcp zesbtazlgg With the bases loaded you sutcrk us out with that answerTBFH8f  oanwjlosxqkx cialis hjtqu billig generisk cialis   propecia  vardenafil levitra online xrhrrv prednisone tablets vmv
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - stv07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "stv07"
 author_name: "Saskia Verhagen"
-author_image_path: "img/upload/201303072218-sjw209-saskia.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201303072218-sjw209-saskia.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - qudvyttcgsoinnchgdqd wnjygkzzbb  urlhttpwwwdfgrbwcvricomypzwjsijieurl httpwwwgffaiytvencom wnjygkzzbbozwtyqapkiwkhfonebcp zesbtazlgg With the bases loaded you sutcrk us out with that answerTBFH8f  oanwjlosxqkx cialis hjtqu billig generisk cialis   propecia  vardenafil levitra online xrhrrv prednisone tablets vmv
-imported: true
 ---
 
 The fashion industry has always been deemed inaccessible, elitist and perhaps slightly indimidating by general consensus. It seems only natural, then, for people to start taking fashion into their own hands, and out of the perfectly manicured talons of the fashion editrixes at Vogue and the like. Such is the world of fashion blogging. Now very popular, just a few have gained a loyal following, and even fewer have earned endorsements from the heavy-hitters in the fashion world – PRs and designers alike – gaining entry into runway shows and press days alongside the very editors who have always held fashion at arms reach, on the page of a magazine, on the body of a supermodel.

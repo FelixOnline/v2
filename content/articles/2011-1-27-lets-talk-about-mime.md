@@ -4,16 +4,23 @@ title: >
 subtitle: >
   London’s annual International mime festival lands once again, showcasing physical theatre from all over the world. We tried just a couple to get a taste of what’s been going on
 date: "2011-01-27 19:50:53 +0000"
+
 # Attributes from Felix Online V1
 id: "678"
 old_path: /arts/678/lets-talk-about-mime
 aliases:
  - /arts/678/lets-talk-about-mime
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Flesh and Blood & Fish and Fowl (The Barbican)

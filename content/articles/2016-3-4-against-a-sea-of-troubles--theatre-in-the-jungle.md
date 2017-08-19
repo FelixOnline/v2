@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Good Chance Theatre is aiming to offer escapism to refugees across the camp
 date: "2016-03-04 11:47:07 +0000"
+
 # Attributes from Felix Online V1
 id: "6008"
 old_path: /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
 aliases:
  - /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
+imported: true
+comments:
+ - ixxjYv  qjvmdpuczjzu urlhttpifgpytmuvpfgcomifgpytmuvpfgurl linkhttppcckgsuiksgzcompcckgsuiksgzlink httpqivhjrexdguxcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - ixxjYv  qjvmdpuczjzu urlhttpifgpytmuvpfgcomifgpytmuvpfgurl linkhttppcckgsuiksgzcompcckgsuiksgzlink httpqivhjrexdguxcom
-imported: true
 ---
 
 The question of whether the arts are a luxury or a necessity has become one of the issues surrounding the ‘Jungle’ refugee camp just outside Calais.

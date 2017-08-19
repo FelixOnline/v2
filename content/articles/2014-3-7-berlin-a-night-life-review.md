@@ -4,16 +4,24 @@ title: >
 subtitle: >
   People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot.
 date: "2014-03-07 04:53:10 +0000"
+
 # Attributes from Felix Online V1
 id: "4459"
 old_path: /comment/4459/berlin-a-night-life-review
 aliases:
  - /comment/4459/berlin-a-night-life-review
+imported: true
+comments:
+ - Thank you for censoring the juicy bits making the article borderline incomprehensible It turns out that hating on fascism and genocide is in stark opposition to the party line and definitely ever so politically incorrect Oh and the proverbial pissy biscuit is taken by the title alteration its supposed to be  Berlin fucks you sideways The level of censorship is astounding  words like gringo in no negative context are changed to office men fucks you sideways to loves you sideways YES fucking is loving according to the Felix bonzos Even names of clubs are cut out Freedom of speech and expression should be universally honoured  especially in student publications who pride themselves on lack of censorship Unreal malarkey its pretty bad also you didnt make it into berghain no siree
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Thank you for censoring the juicy bits making the article borderline incomprehensible It turns out that hating on fascism and genocide is in stark opposition to the party line and definitely ever so politically incorrect Oh and the proverbial pissy biscuit is taken by the title alteration its supposed to be  Berlin fucks you sideways The level of censorship is astounding  words like gringo in no negative context are changed to office men fucks you sideways to loves you sideways YES fucking is loving according to the Felix bonzos Even names of clubs are cut out Freedom of speech and expression should be universally honoured  especially in student publications who pride themselves on lack of censorship Unreal malarkey its pretty bad also you didnt make it into berghain no siree
-imported: true
 ---
 
 People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot. Maybe, if luck will have it, you manage to make love sideways to the rhythm of Mandy and Stella Artoorhys in Dalston or Metric. But sadly, London can be a bit of a ‘les incompetents’ in this department. It can fail to deliver the goods.

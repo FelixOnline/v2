@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Impress, intimidate, then lose your friends (and get some better ones), by being a total git about The Arts (capitalised, don’t you know?)
 date: "2010-10-01 21:17:28 +0100"
+
 # Attributes from Felix Online V1
 id: "160"
 old_path: /arts/160/the-bluffers-guide-to-being-cultured
 aliases:
  - /arts/160/the-bluffers-guide-to-being-cultured
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __1: Confidence__

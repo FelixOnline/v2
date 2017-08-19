@@ -4,16 +4,22 @@ title: >
 subtitle: >
   So long and thank you for all the fish
 date: "2017-05-12 15:34:39 +0100"
+
 # Attributes from Felix Online V1
 id: "6932"
 old_path: /news/6932/relieved-postgrads-finally-graduate
 aliases:
  - /news/6932/relieved-postgrads-finally-graduate
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Wednesday marked the day of the largest graduation  ceremony at Imperial where more than 3000 doctors, engineers, scientist and “future business leaders” from 93 countries graduated.

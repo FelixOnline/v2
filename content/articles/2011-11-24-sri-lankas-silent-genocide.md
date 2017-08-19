@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Oppression in Sri Lanka may lead on to more uprisings
 date: "2011-11-24 22:43:42 +0000"
+
 # Attributes from Felix Online V1
 id: "1840"
 old_path: /comment/1840/sri-lankas-silent-genocide-
 aliases:
  - /comment/1840/sri-lankas-silent-genocide-
+imported: true
+comments:
+ - Dear Anonymous I understand your point However the LTTE has been eliminated and so it is no longer a threat to any civilians from either side of the ethnic divide in Sri Lanka On the other hand the government is still assassinating journalists arresting people without trial and conducting white van abductions The Sri Lankan military too have been terrorising communities via grease devils I reference this article from tamilnet httpwwwtamilnetcomarthtmlcatid13artid34338 Furthermore an independent investigation into war crimes will reveal what crimes if any were comitted by the LTTE as well as the Sri Lankan Armed Forces This is why it is so important the UN conduct this inquiry and soonThank you for your comment and I hope this has answered your question It is disgusting that humans are willing to commit such actions I genuinely hope those responsible have to account for their actions Please sign the petition peopleIt is truly shameful what the sinhalese go
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Dear Anonymous I understand your point However the LTTE has been eliminated and so it is no longer a threat to any civilians from either side of the ethnic divide in Sri Lanka On the other hand the government is still assassinating journalists arresting people without trial and conducting white van abductions The Sri Lankan military too have been terrorising communities via grease devils I reference this article from tamilnet httpwwwtamilnetcomarthtmlcatid13artid34338 Furthermore an independent investigation into war crimes will reveal what crimes if any were comitted by the LTTE as well as the Sri Lankan Armed Forces This is why it is so important the UN conduct this inquiry and soonThank you for your comment and I hope this has answered your question It is disgusting that humans are willing to commit such actions I genuinely hope those responsible have to account for their actions Please sign the petition peopleIt is truly shameful what the sinhalese go
-imported: true
 ---
 
 On Monday 21st November and Tuesday 22nd November Imperial’s International Tamil Society organised and ran a successful Breaking the Silence Campaign. They are one of eight different universities in London participating in the campaign. Their stalls quickly became overwhelmed with inquisitive passers-by, who were interested and, more often than not, shocked and infuriated at what they learnt at the stall. There was also a Krispy Kreme sale which helped raise £150 and will go towards those caught up in the final days of the war in 2009. For those of you who weren’t able to attend, or those who are further interested, this article details the message that Breaking the Silence is trying to convey.

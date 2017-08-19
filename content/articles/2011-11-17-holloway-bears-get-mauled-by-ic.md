@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mike Peacock reports on the latest American Football results
 date: "2011-11-17 23:01:15 +0000"
+
 # Attributes from Felix Online V1
 id: "1796"
 old_path: /sport/1796/holloway-bears-get-mauled-by-ic
 aliases:
  - /sport/1796/holloway-bears-get-mauled-by-ic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Imperial Immortals American Football team stormed through for another victory this Sunday with a hard fought battle against the Royal Holloway Bears. At their last meeting the Bears had won by the closest of margins (scoring a field goal in 3rd overtime) so the Immortals stepped on the field with something to prove. With the momentum of last weeks win behind them the Immortals finished the game with their first shut-out of the season and a well earned 19 points.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Fred Fyles recommends the best films for some indulgent viewing. From New York-based comedies, to Cantonese stories of unrequited love, these four films should leave anyone feeling a bit better after a couple of hours. So go on – treat yo’self!
 date: "2017-03-10 13:41:15 +0000"
+
 # Attributes from Felix Online V1
 id: "6873"
 old_path: /film/6873/the-best-picks-for-some-cinematic-self-care
 aliases:
  - /film/6873/the-best-picks-for-some-cinematic-self-care
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Frances Ha (2012)

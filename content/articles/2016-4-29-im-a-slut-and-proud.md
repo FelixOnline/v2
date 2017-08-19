@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We need to end the trope that women make love, and accept that they like sex
 date: "2016-04-29 10:45:18 +0100"
+
 # Attributes from Felix Online V1
 id: "6103"
 old_path: /features/6103/im-a-slut-and-proud
 aliases:
  - /features/6103/im-a-slut-and-proud
+imported: true
+comments:
+ - If youre proud then why did you not put your name on the article Seems a bit hypocritical to meSociety needs functioning families If all women become whores in the image of the anonymous author of this article the elementary unit of our society  the family  breaks down It is not about empowerment It is about discipline Society as a whole suffers from promiscuity It destroys civil society No selfrespecting man wants a steady relationship with a slut No man needs to pursue a steady relationship with a woman if he gets sex for free This mode of thinking is why marriage is in decline and ultimately it are children that are paying the price Since women bear the main cost of extramarital child birth they have acquired the role of the chooser in our society and in nature Courtship is the males responsibility I am not sure why anyone would consider changing that centuries old natural arrangement modern or healthy for society as a wholeOf course women enjoy sex As do men That
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If youre proud then why did you not put your name on the article Seems a bit hypocritical to meSociety needs functioning families If all women become whores in the image of the anonymous author of this article the elementary unit of our society  the family  breaks down It is not about empowerment It is about discipline Society as a whole suffers from promiscuity It destroys civil society No selfrespecting man wants a steady relationship with a slut No man needs to pursue a steady relationship with a woman if he gets sex for free This mode of thinking is why marriage is in decline and ultimately it are children that are paying the price Since women bear the main cost of extramarital child birth they have acquired the role of the chooser in our society and in nature Courtship is the males responsibility I am not sure why anyone would consider changing that centuries old natural arrangement modern or healthy for society as a wholeOf course women enjoy sex As do men That
-imported: true
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

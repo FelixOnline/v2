@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Chilean director Pablo Larraín makes his English-language debut with Jackie, a simmering biopic of first lady Jackie Kennedy, played masterfully by Natalie Portman, in the days following her husband’s assassination
 date: "2017-01-27 16:44:19 +0000"
+
 # Attributes from Felix Online V1
 id: "6695"
 old_path: /film/6695/there-will-never-be-another-camelot
 aliases:
  - /film/6695/there-will-never-be-another-camelot
+imported: true
+comments:
+ - Last one to utiizle this is a rotten egg
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Last one to utiizle this is a rotten egg
-imported: true
 ---
 
 The first feeling I had when viewing the trailer for Jackie was a familiar weariness: here was a story that sounded interesting, but was to be packaged in a three-hour-long portentous montage of shots of Natalie Portman looking sad out of windows. What I am happy to report, however, is that Jackie – the first english-language film by Chilean director Pablo Larraín, probably best known in the UK for his Gael García Bernal-starring 2012 film NO – is a wrought, tense, and immensely powerful drama, one that has not left my mind for days.

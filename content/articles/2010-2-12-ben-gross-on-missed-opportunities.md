@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ...the Holocaust can in no way be compared with the situation in Gaza
 date: "2010-02-12 02:07:10 +0000"
+
 # Attributes from Felix Online V1
 id: "87"
 old_path: /comment/87/ben-gross-on-missed-opportunities
 aliases:
  - /comment/87/ben-gross-on-missed-opportunities
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last year the lives of the people of Gaza changed dramatically for the worse. 1400 were killed, many more homeless and desperate with short supplies. Last week, Imperial College was educated about Gaza. The aim of ‘Gaza Week’ was to inform us (Joe Public) of the importance of supporting the people of Gaza who are in need of our support. The AhlulBayt society took it upon themselves to promote this worthy cause.

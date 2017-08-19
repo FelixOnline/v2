@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Email said "it is not our role to tell people how to vote" but mentioned pro-EU position
 date: "2016-05-20 08:43:13 +0100"
+
 # Attributes from Felix Online V1
 id: "6169"
 old_path: /news/6169/imperial-president-sends-mass-email-on-eu-stance
 aliases:
  - /news/6169/imperial-president-sends-mass-email-on-eu-stance
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Monday, Imperial President, Alice Gast,  and Provost, James Stirling, sent an email to all staff and students, encouraging us to vote and reminding us of their stance on the EU.

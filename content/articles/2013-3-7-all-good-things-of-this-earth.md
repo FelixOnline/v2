@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Andrew Ryan fears the strength of the majority vote. Should you?
 date: "2013-03-07 21:57:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3434"
 old_path: /games/3434/all-good-things-of-this-earth
 aliases:
  - /games/3434/all-good-things-of-this-earth
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Staff and students of Imperial College London, my name is Andrew Ryan. No doubt many of you have heard of the city built upon free enterprise and thought - my city of Rapture.

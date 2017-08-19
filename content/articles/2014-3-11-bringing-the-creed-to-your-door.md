@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game.
 date: "2014-03-11 18:18:00 +0000"
+
 # Attributes from Felix Online V1
 id: "4482"
 old_path: /games/4482/bringing-the-creed-to-your-door
 aliases:
  - /games/4482/bringing-the-creed-to-your-door
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game. For those who don’t know, it is a game of adventure, deception and a thirst for blood and treasures. There’s two parts to this review, the Story Campaign and Multiplayer Mode.

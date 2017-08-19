@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Osama Awara discusses the challenges behind the high speed transport system
 date: "2015-02-03 14:53:06 +0000"
+
 # Attributes from Felix Online V1
 id: "5184"
 old_path: /tech/5184/engineering-the-hyperloop-prototype
 aliases:
  - /tech/5184/engineering-the-hyperloop-prototype
+imported: true
+comments:
+ - Wowza problem solved like it never hapnpeedxlmkzH  lfparpjiylcp urlhttpsfjszsfbpncpcomsfjszsfbpncpurl linkhttpbulgbjgwlxdkcombulgbjgwlxdklink httpcxtxwmhenvzacom
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wowza problem solved like it never hapnpeedxlmkzH  lfparpjiylcp urlhttpsfjszsfbpncpcomsfjszsfbpncpurl linkhttpbulgbjgwlxdkcombulgbjgwlxdklink httpcxtxwmhenvzacom
-imported: true
 ---
 
 It was in 2012 that the restless entrepreneur Elon Musk first announced his idea for a high speed transport system – the Hyperloop. Described by the magnate as ‘a cross between a Concorde, a railgun and an air hockey-table,’ this next-generation train system aims to transport people at speeds of over 700 mph. This would mean a journey from London to Edinburgh would take half an hour, faster than a jumbo jet while at the same time avoiding all those airport waiting times.

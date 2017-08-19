@@ -4,16 +4,24 @@ title: >
 subtitle: >
   For the past two terms, Games Editor Simon Worthington has been exploring the untamed world of online gaming and bringing back the best for your enjoyment. We've brought them all together here but be warned, they are extremely fun, addictive and time-consuming. Happy procrastination Imperial!
 date: "2011-03-22 16:33:03 +0000"
+
 # Attributes from Felix Online V1
 id: "1126"
 old_path: /games/1126/28-games-to-help-you-avoid-revision
 aliases:
  - /games/1126/28-games-to-help-you-avoid-revision
+imported: true
+comments:
+ - Tcouhdwon Thats a really cool way of putting it8wvhoA  urlhttpouqmegaxltgqcomouqmegaxltgqurl linkhttpoevvqnszasyrcomoevvqnszasyrlink httpksvrzeliznxucom
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Tcouhdwon Thats a really cool way of putting it8wvhoA  urlhttpouqmegaxltgqcomouqmegaxltgqurl linkhttpoevvqnszasyrcomoevvqnszasyrlink httpksvrzeliznxucom
-imported: true
 ---
 
 __Nanaca Crash__

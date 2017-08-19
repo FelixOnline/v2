@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The results are announced tonight
 date: "2015-11-20 09:35:03 +0000"
+
 # Attributes from Felix Online V1
 id: "5758"
 old_path: /music/5758/felixs-mercury-prize-picks
 aliases:
  - /music/5758/felixs-mercury-prize-picks
+imported: true
+comments:
+ - What does rifffilled thrash pop hell meanCan you really call yourself musicfan if you dont know what that meansReally this is a helpful webpageNBA2K16 httpmoban305win8wwwcncommenthtmlindexphppage1id17278bKAJ1V  eszevyumhnqo urlhttpfgvimvynlvtkcomfgvimvynlvtkurl linkhttpabtzxzbvfgcacomabtzxzbvfgcalink httpjtorqgkknyabcomthanks towards this great edifying website living up the massive jobless check out this online casino offers     buy sex toys
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cet13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cet13"
 author_name: "Cale E Tilford"
-author_image_path: "img/upload/201610151549-cet13-cet13.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201610151549-cet13-cet13.png"
 author_twitter: "tlfrd"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What does rifffilled thrash pop hell meanCan you really call yourself musicfan if you dont know what that meansReally this is a helpful webpageNBA2K16 httpmoban305win8wwwcncommenthtmlindexphppage1id17278bKAJ1V  eszevyumhnqo urlhttpfgvimvynlvtkcomfgvimvynlvtkurl linkhttpabtzxzbvfgcacomabtzxzbvfgcalink httpjtorqgkknyabcomthanks towards this great edifying website living up the massive jobless check out this online casino offers     buy sex toys
-imported: true
 ---
 
 #### _In Colour___Jamie xx__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Coming to a leacture theatre near you
 date: "2014-11-10 22:55:06 +0000"
+
 # Attributes from Felix Online V1
 id: "4851"
 old_path: /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
 aliases:
  - /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
+imported: true
+comments:
+ - httpprednisoneorder20mgcom  Prednisone 10 Mg Without Perscription Viagra Sad Experience httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Viagra Sad Experience httpcialis5mg20mgcomhttp20mgprednisoneonlineorg  Prednisone Lowest Price For Generic Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Without A Prescription Generic Viagra Buy httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Buy Prednisone Without Prescription Viagra 100mg httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Viagra httpcialis20mg5mgnethttpdapoxetineonlinepriligynet  dapoxetineonlinepriligynetankor ventolinsalbutamolbuyorgankor httpventolinsalbutamolbuyorghttpdapoxetineonlinepriligynet  dapoxetineonlinepriligynetankor ventolinsalbutamolbuyorgankor httpventolinsalbutamolbuyorghttpdapoxetineonlinepriligynet  dapoxetineonlinepriligynetankor ventolinsalbutamolbuyorgankor http
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpprednisoneorder20mgcom  Prednisone 10 Mg Without Perscription Viagra Sad Experience httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Viagra Sad Experience httpcialis5mg20mgcomhttp20mgprednisoneonlineorg  Prednisone Lowest Price For Generic Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Without A Prescription Generic Viagra Buy httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Buy Prednisone Without Prescription Viagra 100mg httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Viagra httpcialis20mg5mgnethttpdapoxetineonlinepriligynet  dapoxetineonlinepriligynetankor ventolinsalbutamolbuyorgankor httpventolinsalbutamolbuyorghttpdapoxetineonlinepriligynet  dapoxetineonlinepriligynetankor ventolinsalbutamolbuyorgankor httpventolinsalbutamolbuyorghttpdapoxetineonlinepriligynet  dapoxetineonlinepriligynetankor ventolinsalbutamolbuyorgankor http
-imported: true
 ---
 
 Freshers’ Week for most is a time full of new experiences, stepping out of your usual comfort zone and meeting more new people than you could hope to remember. There are very few instances in your life that you will speak to as many strangers in such a short period of time, turning awkward conversations into friendships and introducing yourself so many times that you start to wonder who you are anymore. So with your luggage unpacked and the excitement building, you hold many expectations for the week to come. However, the anticipated roller-coaster adventure that is your first few weeks at University is also likely to bring with it Freshers’ Flu.

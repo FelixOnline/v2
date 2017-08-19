@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It was a term to remember for the Imperial mints, as membership rocketed and records tumbled, in what was a fantastic ending to a difficult year.
 date: "2014-01-17 04:37:10 +0000"
+
 # Attributes from Felix Online V1
 id: "4260"
 old_path: /sport/4260/snooker-and-pool-the-year-so-far
 aliases:
  - /sport/4260/snooker-and-pool-the-year-so-far
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It was a term to remember for the Imperial mints, as membership rocketed and records tumbled, in what was a fantastic ending to a difficult year.

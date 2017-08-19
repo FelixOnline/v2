@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Film runs down the biggest successes to ever hit the screens
 date: "2013-05-23 21:43:39 +0100"
+
 # Attributes from Felix Online V1
 id: "3604"
 old_path: /film/3604/the-billion-dollar-babies
 aliases:
  - /film/3604/the-billion-dollar-babies
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Congratulations are in order for Iron Man 3 and its associated Marvel Universe, as within 3 weeks of its international release date, the third Tony Stark picture has already generated more than one billion dollars at the worldwide box office. Robert Downey Jr.’s latest effort joins a surprisingly long list of films that have already done so, although to his credit, a lot of the films on the list reached the milestone near the end of their box office runs. Given Iron Man 3 still has a long way to go before it is pulled from the theatres, we can expect the film to keep moving up in its total gross. And although Downey Jr.’s return for a possible fourth adaptation remains in doubt, Marvel Studios president Kevin Feige expects the Iron Man franchise to remain “as evergreen as James Bond.”

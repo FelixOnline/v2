@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A noteworthy cinematic achievement but will probably miss out on an Oscar
 date: "2011-01-20 19:48:46 +0000"
+
 # Attributes from Felix Online V1
 id: "614"
 old_path: /film/614/james-franco-gives-his-right-arm-to-127-hours-
 aliases:
  - /film/614/james-franco-gives-his-right-arm-to-127-hours-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Based on the book Between a Rock and a Hard Place, 127 Hours is the true story of Aron Ralston, an outdoorsman in his late 20s with a passion for mountaineering. While canyoning one sunny afternoon in Utah, he misjudged a boulder and took a fall. This would not have been so bad – he is an experienced climber after all – except that his right arm is pinned under the boulder and he is trapped 100ft inside a canyon in the middle of the great wilderness. The film charts the tale of Aron Ralston’s struggle to stay alive and is is certainly not for the faint-hearted.

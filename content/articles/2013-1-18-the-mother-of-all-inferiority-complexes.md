@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial is a world-leading university: we should all stop moaning about Oxbridge, says George Butcher
 date: "2013-01-18 00:29:16 +0000"
+
 # Attributes from Felix Online V1
 id: "3134"
 old_path: /comment/3134/the-mother-of-all-inferiority-complexes
 aliases:
  - /comment/3134/the-mother-of-all-inferiority-complexes
+imported: true
+comments:
+ - For the record not all Imperial students are Oxbridge rejects I had the grades do an equivalent course at Oxbridge and instead made Imperial my first choice Its easy for students from less privileged backgrounds to be put off Cambridge and particularly Oxford on the grounds that they would never feel welcome or comfortable in those kinds of settings Imperial offers courses of roughly equivalent quality to Oxford and Cambridge but for those from less privileged backgrounds is a far less intimidating place to attend and thats something Imperial CAN be proud of
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - For the record not all Imperial students are Oxbridge rejects I had the grades do an equivalent course at Oxbridge and instead made Imperial my first choice Its easy for students from less privileged backgrounds to be put off Cambridge and particularly Oxford on the grounds that they would never feel welcome or comfortable in those kinds of settings Imperial offers courses of roughly equivalent quality to Oxford and Cambridge but for those from less privileged backgrounds is a far less intimidating place to attend and thats something Imperial CAN be proud of
-imported: true
 ---
 
 Last week Felix published an article discussing the differences in workload between Oxbridge and Imperial. ‘Who works harder?’ seemed to be the question it was asking. It threw lots of figures at the reader and seemed to suggest that Oxbridge gives students more contact hours and was much better value for money. The comments online erupted. Imperial’s longer terms were pointed out as an explanation for reduced contact times and there were debates on the quality of the course content, particularly amongst the physicists.

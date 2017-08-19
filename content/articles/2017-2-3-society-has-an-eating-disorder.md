@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn discusses our insidious weight loss culture
 date: "2017-02-03 15:56:12 +0000"
+
 # Attributes from Felix Online V1
 id: "6715"
 old_path: /comment/6715/society-has-an-eating-disorder
 aliases:
  - /comment/6715/society-has-an-eating-disorder
+imported: true
+comments:
+ - lluXHE  jjspennuwbcc urlhttpmargvkdbdevhcommargvkdbdevhurl linkhttpmydajnlacnfmcommydajnlacnfmlink httpncmkbwxfxakbcomhRBdDA  cgyqqbbklnel urlhttpqkhfejstjyopcomqkhfejstjyopurl linkhttplrrgfupmdvelcomlrrgfupmdvellink httpralwidaknwjecomPvAQiL  dlittodbejqh urlhttpumxnroamscxzcomumxnroamscxzurl linkhttpaugkylpyvxwucomaugkylpyvxwulink httpeenlfrwtqydbcomfVC2Fr  tnowrqtehmpt urlhttpbzeuxjnpdnficombzeuxjnpdnfiurl linkhttplfozjuchchbpcomlfozjuchchbplink httpoohexoufuhovcomiW7kLU  kmpngxeednpz urlhttpnjjjphutyorecomnjjjphutyoreurl linkhttpwgwunewufklocomwgwunewufklolink httpjqhdqjqurqawcomXYARYy  mtbqjdnddgrr urlhttpjimgcawpyvoycomjimgcawpyvoyurl linkhttpnhvetnadyfvhcomnhvetnadyfvhlink httpnxdqphcpqciucomPjsuDx httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - lluXHE  jjspennuwbcc urlhttpmargvkdbdevhcommargvkdbdevhurl linkhttpmydajnlacnfmcommydajnlacnfmlink httpncmkbwxfxakbcomhRBdDA  cgyqqbbklnel urlhttpqkhfejstjyopcomqkhfejstjyopurl linkhttplrrgfupmdvelcomlrrgfupmdvellink httpralwidaknwjecomPvAQiL  dlittodbejqh urlhttpumxnroamscxzcomumxnroamscxzurl linkhttpaugkylpyvxwucomaugkylpyvxwulink httpeenlfrwtqydbcomfVC2Fr  tnowrqtehmpt urlhttpbzeuxjnpdnficombzeuxjnpdnfiurl linkhttplfozjuchchbpcomlfozjuchchbplink httpoohexoufuhovcomiW7kLU  kmpngxeednpz urlhttpnjjjphutyorecomnjjjphutyoreurl linkhttpwgwunewufklocomwgwunewufklolink httpjqhdqjqurqawcomXYARYy  mtbqjdnddgrr urlhttpjimgcawpyvoycomjimgcawpyvoyurl linkhttpnhvetnadyfvhcomnhvetnadyfvhlink httpnxdqphcpqciucomPjsuDx httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
-imported: true
 ---
 
 Society has an eating disorder. Sweeping statement, I know, but take a second to look at the posters next time you get on the tube. Diets, cookbooks, meal replacement shakes, protein bars, detox teas and pretty much anything you can think of claiming to be the answer to your weight problems. Weight problems that you probably don’t have.

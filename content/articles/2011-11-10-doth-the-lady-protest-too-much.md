@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Why protest is important and what it tries to achieve
 date: "2011-11-10 20:24:09 +0000"
+
 # Attributes from Felix Online V1
 id: "1711"
 old_path: /comment/1711/doth-the-lady-protest-too-much
 aliases:
  - /comment/1711/doth-the-lady-protest-too-much
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s that time of year again. The placards will be waved and students will rapidly get bored of chanting, “No ifs. No buts. No education cuts.” Two student demonstrations are planned for November, with [the first](http://felixonline.co.uk/news/1708/students-take-to-the-streets/) happening on the Wednesday just gone. However, this year, the fight is against the rapid increase in privatisation of universities discussed in the Government’s higher education white paper. After a full blown attack on the proposal of rising fees last winter (that had little effect on a government unwilling to listen) questions are being posed, such as: Why do we protest? What does it aim to achieve?

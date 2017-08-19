@@ -4,16 +4,23 @@ title: >
 subtitle: >
   IC Football win, but it's not as big a victory as the title may suggest
 date: "2013-03-15 02:01:05 +0000"
+
 # Attributes from Felix Online V1
 id: "3482"
 old_path: /sport/3482/icuafc-dominate-just-like-the-1sts
 aliases:
  - /sport/3482/icuafc-dominate-just-like-the-1sts
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Saturday morning began with one of the most eventful player crises in recent memory. With many regulars seemingly sidelined, ICUAFC 2nd team skipper Dr. “LOVE” Wright took some time out of his busy morning Frank Ocean-induced sex coma to gather the remaining troops for their battle with fierce rivals Imperial Medic 1st team. The 12 valliant warriors were almost dealt the most bitter of early blows when their chariot of fire (Tellings & Miller coach) proceeded to limp to the Union 20 minutes late. Tim Beasley was close to tears, as the one time he managed to get Jonny Hill out of bed within half an hour of departure time proved futile, and will no doubt never be witnessed again (#TBtillidie). There were no more unwanted surprises, although there was a feeling of loss in the changing room when it became apparent that Thom Samas would not be making an appearance.

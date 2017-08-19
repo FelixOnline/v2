@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett on the ice caps leaking iron into the ocean
 date: "2014-05-23 13:46:04 +0100"
+
 # Attributes from Felix Online V1
 id: "4618"
 old_path: /science/4618/a-cast-iron-case-for-climate-sceptics
 aliases:
  - /science/4618/a-cast-iron-case-for-climate-sceptics
+imported: true
+comments:
+ - Global substitute true believer for skeptic and youve got an article with at least as much validityRelease of iron by a German team off the West coast of SAmerica did cause the growth of phytoplankton which was promptly eaten by zooplankton and so on  Good for fish stocks good for usStability of tundra and edges of continental shelf around the Arctic and stability of Eastern Antarctic ice are even bigger worriesThe global warming sceptics are akin to the audience of Jerry Springer fans Living in Canada I see and read about the effects of global warming every weekThe anticlimate groups and those who believe them need to choose which side of the following argument they are on Artificial Intelligence is no march for Natural StupidityThe fact of global warming is undeniable the evidence is everywhere and there is no doubt that we are to blame but there can be no more damning indictment of a theory than to have to resort to consensus to justify it and no selfrespecting s
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Global substitute true believer for skeptic and youve got an article with at least as much validityRelease of iron by a German team off the West coast of SAmerica did cause the growth of phytoplankton which was promptly eaten by zooplankton and so on  Good for fish stocks good for usStability of tundra and edges of continental shelf around the Arctic and stability of Eastern Antarctic ice are even bigger worriesThe global warming sceptics are akin to the audience of Jerry Springer fans Living in Canada I see and read about the effects of global warming every weekThe anticlimate groups and those who believe them need to choose which side of the following argument they are on Artificial Intelligence is no march for Natural StupidityThe fact of global warming is undeniable the evidence is everywhere and there is no doubt that we are to blame but there can be no more damning indictment of a theory than to have to resort to consensus to justify it and no selfrespecting s
-imported: true
 ---
 
 Climate change sceptics were thrown a cast-iron lifeline this week when it was revealed that the melting of ice caps containing iron could potentially be biologically beneficial. However, with some predicting that the iron equivalent of of 3,000 Boeing 747s may be leaked into the oceans per year, how exactly could this be seen to be environmentally advantageous?

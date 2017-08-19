@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Bond is most definitely back
 date: "2012-11-01 23:00:33 +0000"
+
 # Attributes from Felix Online V1
 id: "2804"
 old_path: /film/2804/bond-23-the-skyfall-of-m
 aliases:
  - /film/2804/bond-23-the-skyfall-of-m
+imported: true
+comments:
+ - Great review The films a fantastic and fitting tribute to 50 years of Bond on the silver screenwhy are you hating what the fuck has him aksnig people to add him on facebook got to do with you faggot shut up and go find someone else to bully you cunt
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great review The films a fantastic and fitting tribute to 50 years of Bond on the silver screenwhy are you hating what the fuck has him aksnig people to add him on facebook got to do with you faggot shut up and go find someone else to bully you cunt
-imported: true
 ---
 
 Practically every Bond film in the last 50 years has the same final promise before the credits roll: “James Bond will be back”. But that’s all we ever know – and the expectation surrounding this latest 007 endeavour was at an all-time high before its release last Friday. Sure – we knew it was Daniel Craig, and we knew what the baddie looked like, and the ever-present Bond girls, and the new geeky Q... but that tells us nothing really. And after the slight disappointment of _Quantum of Solace_ (probably not helped by the brilliance of _Casino Royale_, nor by the competition of Nolan’s excellent _The Dark Knight_), _Skyfall_ needed to be something spectacular.

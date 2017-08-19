@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Baroness Eliza Manningham-Buller questions current status of UK cannabis legalisation
 date: "2011-11-24 22:15:02 +0000"
+
 # Attributes from Felix Online V1
 id: "1829"
 old_path: /news/1829/council-chairman-calls-on-government-to-reconsider-drug-policy
 aliases:
  - /news/1829/council-chairman-calls-on-government-to-reconsider-drug-policy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Council Chairman of Imperial College, [Baroness Eliza Manningham-Buller](http://felixonline.co.uk/news/1507/interview-eliza-manningham-buller/), has called on the government to reconsider its current drugs policy following the ongoing expense of the “War on Drugs”. Speaking at a meeting held by the All Party Parliamentary Group on Drug Policy Reform, the ex-Director General of MI5 and crossbench life peer raised potential points of consideration in a speech, including regulation of cannabis and a focus on drugs as an issue of health rather than of crime.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Bastions – Bedfellows Part 2: The Forgotten Daughter
 date: "2014-02-07 04:38:38 +0000"
+
 # Attributes from Felix Online V1
 id: "4339"
 old_path: /music/4339/ams-album-of-the-week
 aliases:
  - /music/4339/ams-album-of-the-week
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Ed: OK, so technically this week it’s EP of the week rather than album. Sorry.

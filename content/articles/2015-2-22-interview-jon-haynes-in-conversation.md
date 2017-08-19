@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The co-artistic director of renowned theatre company Ridiculusmus speaks to Max Falkenberg about schizophrenia, the creative process, the brutality of arts funding and throwing tomatoes at comedians.
 date: "2015-02-22 17:35:06 +0000"
+
 # Attributes from Felix Online V1
 id: "5302"
 old_path: /arts/5302/interview-jon-haynes-in-conversation
 aliases:
  - /arts/5302/interview-jon-haynes-in-conversation
+imported: true
+comments:
+ - If some one wishes to be updated with most recent technologies after that he must be pay a visit this website and be up to date everydaycanada goose zomerjas dames 50 httpwwwmetskinderschoenennlnlcanadagoosezomerjasdames507833htmlKeep on working great jobugg girl boots httpcrownmodelscomusaugggirlboots977html
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If some one wishes to be updated with most recent technologies after that he must be pay a visit this website and be up to date everydaycanada goose zomerjas dames 50 httpwwwmetskinderschoenennlnlcanadagoosezomerjasdames507833htmlKeep on working great jobugg girl boots httpcrownmodelscomusaugggirlboots977html
-imported: true
 ---
 
 The afternoon I meet Jon Haynes on Bond Street, I really should have better things to be doing. With a lab report due in 24 hours and a rehearsal to plan for later in the day, this interview couldn’t come at a much worse time. But this opportunity is too good to miss. With numerous awards and an enviable reputation as the pioneers of “seriously funny theatre”, __Ridiculusmus__ is at the forefront of British fringe theatre and I’m chatting to the man behind half of their creative vision. Gaunt and serious looking, Jon has something ominous about him. As their website tells us, Jon won awards at school for speaking Greek verse; and after taking drugs at university and having a nervous breakdown, Jon founded Ridiculusmus with his partner David Woods. Somehow I get the feeling that Jon is the serious part of their “seriously funny” dynamic. That said, he strikes me as a pretty good guy.

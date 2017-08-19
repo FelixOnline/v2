@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Action must always be taken, yet the university ranking system is not perfect
 date: "2011-10-07 10:06:32 +0100"
+
 # Attributes from Felix Online V1
 id: "1483"
 old_path: /comment/1483/just-how-important-are-league-tables
 aliases:
  - /comment/1483/just-how-important-are-league-tables
+imported: true
+comments:
+ - Chances are when they make those coffee taelbs they make an  X amount   discountinue them So its very hard to find a replacement However you can go into any glass shop   have one custom made if your set is worth the money If not it might be cheaper to get a new set Good luckGet the measurements of the table or bring the table with you to a glass shop that cuts glass  They will be able to reaplce it that way  I had to do that once and it was very inexpensive and it worked great Peace  size   prednisone   viagra online without prescription   put lots   car insurance quotes brevard county fl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Chances are when they make those coffee taelbs they make an  X amount   discountinue them So its very hard to find a replacement However you can go into any glass shop   have one custom made if your set is worth the money If not it might be cheaper to get a new set Good luckGet the measurements of the table or bring the table with you to a glass shop that cuts glass  They will be able to reaplce it that way  I had to do that once and it was very inexpensive and it worked great Peace  size   prednisone   viagra online without prescription   put lots   car insurance quotes brevard county fl
-imported: true
 ---
 
 Earlier this month it was revealed that [Imperial College London had slipped eleven places in the Sunday Times University League Table for 2012](http://felixonline.co.uk/news/1467/student-satisfaction-hits-tables/). With such a dramatic fall from third to fourteenth position nationally, this is undoubtedly a cause for concern.

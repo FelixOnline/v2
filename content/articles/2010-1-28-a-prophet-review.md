@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stefan Zeeman takes a plunge into the seedy world of French prison-life.
 date: "2010-01-28 15:52:46 +0000"
+
 # Attributes from Felix Online V1
 id: "57"
 old_path: /film/57/a-prophet-review
 aliases:
  - /film/57/a-prophet-review
+imported: true
+comments:
+ -  cash for tramadol  chats    soma cod orders  Hanover    soma no prescription  sw    prescription cialis  pproftjuno    overnight tramadol  Everybody    buy Tramadol cash on delivery  Walter    buy cheap fedex Doxycycline  clerks    buy xanax  Activity    online Prednisone cod  pnBackupPengenalan    us soma  Gerasdorf    cheap soma  ajukan    tramadol with
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - egk08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -  cash for tramadol  chats    soma cod orders  Hanover    soma no prescription  sw    prescription cialis  pproftjuno    overnight tramadol  Everybody    buy Tramadol cash on delivery  Walter    buy cheap fedex Doxycycline  clerks    buy xanax  Activity    online Prednisone cod  pnBackupPengenalan    us soma  Gerasdorf    cheap soma  ajukan    tramadol with
-imported: true
 ---
 
 Reviewed by Stefan Zeeman

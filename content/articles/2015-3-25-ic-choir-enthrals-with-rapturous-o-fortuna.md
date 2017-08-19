@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kamil McClelland heads over to the IC Choir's Spring Concert
 date: "2015-03-25 13:21:15 +0000"
+
 # Attributes from Felix Online V1
 id: "5449"
 old_path: /music/5449/ic-choir-enthrals-with-rapturous-o-fortuna
 aliases:
  - /music/5449/ic-choir-enthrals-with-rapturous-o-fortuna
+imported: true
+comments:
+ - For startersHIGH DEFINITION OPTICS HDO gives you unbeatable clarity and precise accurate visionurlhttpwwwyeezyboost350orgadidasoriginalssuperstar80sadidassuperstar80sunisexc1_3htmlAdidas Superstar 80s Unisexurl Adidas Superstar 80s UnisexHe failed to complyNike Roshe Run Sale httpwwwemoamutuellecom440They are sold all over the world and are incredibly popularbuy jordan shoes httpwwwemoamutuellecom116Why Because youre going to own a glamorous pair of shades which will ensure everlasting protection for your eyesurlhttpwwwyeezyboost350orgadidasyeezyboostwomensadidasyeezyboost350c11_14htmlWomens Adidas Yeezy Boost 350url Womens Adidas Yeezy Boost 350Reflections one is the most ruled out and other horizontally polarized lighting search an individual clogged up by the polarized filteringnike free 40 mens httpwwwintegrateazcom047Split Jacket provides interchangeable lensesurlhttpwwwyeezyboost350orgadidasorigi
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - For startersHIGH DEFINITION OPTICS HDO gives you unbeatable clarity and precise accurate visionurlhttpwwwyeezyboost350orgadidasoriginalssuperstar80sadidassuperstar80sunisexc1_3htmlAdidas Superstar 80s Unisexurl Adidas Superstar 80s UnisexHe failed to complyNike Roshe Run Sale httpwwwemoamutuellecom440They are sold all over the world and are incredibly popularbuy jordan shoes httpwwwemoamutuellecom116Why Because youre going to own a glamorous pair of shades which will ensure everlasting protection for your eyesurlhttpwwwyeezyboost350orgadidasyeezyboostwomensadidasyeezyboost350c11_14htmlWomens Adidas Yeezy Boost 350url Womens Adidas Yeezy Boost 350Reflections one is the most ruled out and other horizontally polarized lighting search an individual clogged up by the polarized filteringnike free 40 mens httpwwwintegrateazcom047Split Jacket provides interchangeable lensesurlhttpwwwyeezyboost350orgadidasorigi
-imported: true
 ---
 
 _C__armina Burana_ is a piece almost every person recognises, if not in name then for the monumental ‘O Fortuna’, used countless times in popular culture. This could very well have been why the IC Choir chose to perform it in their Spring Concert, alongside Bob Chilcott’s ‘Songs and Cries of London Town’. However, I often find that, because audiences approach performances of well-known pieces with a great deal of knowledge, expectations are inevitably higher and this all too commonly results in the anticlimactic results.

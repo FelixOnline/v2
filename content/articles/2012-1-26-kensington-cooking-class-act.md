@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yiango Mavrocostanti attended a free cooking session at the Whole Foods Market
 date: "2012-01-26 21:53:27 +0000"
+
 # Attributes from Felix Online V1
 id: "2046"
 old_path: /food/2046/kensington-cooking-class-act
 aliases:
  - /food/2046/kensington-cooking-class-act
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Whole Foods Market is well known for organising great events for food lovers like me. Last week, I discovered that every Wednesday in January they have free cooking sessions. Without thinking it twice, I immediately sent an email to book a place for the January 18 class. Lucky me, I found two places, one for me and one for my friend.

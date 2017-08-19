@@ -4,16 +4,23 @@ title: >
 subtitle: >
   More optimistic than you getting a 2:1 degree?
 date: "2017-01-27 14:19:55 +0000"
+
 # Attributes from Felix Online V1
 id: "6684"
 old_path: /features/6684/beep-beep-beep--brexit-update
 aliases:
  - /features/6684/beep-beep-beep--brexit-update
+imported: true
+comments:
+ - cartierbraceletlove Hi webmaster commenters and everyone else  The blog was absolutely fantastic Plenty of remarkable information and inspiration both of which we all need Maintain them coming You all do such a incredible job at such Concepts cant tell you just how much I for one appreciate all you do yqyipnsuharlkgsvmxhflivqtmtctushmjuMr Payday Simple Loans Inc van cleef alhambra collana 20 motif replica urlhttpwwwmigliorecollananettagvancleefarpelscollanaclovervan cleef alhambra collana 20 motif replicaurl
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cartierbraceletlove Hi webmaster commenters and everyone else  The blog was absolutely fantastic Plenty of remarkable information and inspiration both of which we all need Maintain them coming You all do such a incredible job at such Concepts cant tell you just how much I for one appreciate all you do yqyipnsuharlkgsvmxhflivqtmtctushmjuMr Payday Simple Loans Inc van cleef alhambra collana 20 motif replica urlhttpwwwmigliorecollananettagvancleefarpelscollanaclovervan cleef alhambra collana 20 motif replicaurl
-imported: true
 ---
 
 The sun keeps on rising, the world keeps on spinning and the Brexit debate rages on. Last week Theresa May made a speech at Lancaster House which outlined her twelve point plan for the UK’s negotiation plan as she looks to trigger Article 50 and leave the European Union for good.

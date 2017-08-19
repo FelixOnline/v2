@@ -4,16 +4,25 @@ title: >
 subtitle: >
   Laura Kor finds the link between bees, pesticides, and people waving dusters at trees
 date: "2013-05-16 18:09:02 +0100"
+
 # Attributes from Felix Online V1
 id: "3578"
 old_path: /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
 aliases:
  - /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
+imported: true
+comments:
+ - Since no one is 100 sure what is causing this bee decline it only makes sense to start eliminating some of the causes and the best place to start is on the man made ones like neonicotinoids Tonio Borg is exactly rightIt seems like common sense to preserve the source of crop pollination Thanks Laura for highlighting the impact
+ - value of bees
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,16 +39,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Since no one is 100 sure what is causing this bee decline it only makes sense to start eliminating some of the causes and the best place to start is on the man made ones like neonicotinoids Tonio Borg is exactly rightIt seems like common sense to preserve the source of crop pollination Thanks Laura for highlighting the impact
- - value of bees
-imported: true
 ---
 
 The European Union has voted in favour of a ban on neonicotinoids, the most widely used pesticide in the world. However, with fierce behind-the-scenes campaigns and passionate lobbying from all parties involved, this result was by no means easily decided. So why have neonicotinoids been banned? How much will this help honey bee populations? And why does it matter to us?

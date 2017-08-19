@@ -4,16 +4,22 @@ title: >
 subtitle: >
   art is a way of speaking up
 date: "2016-11-25 14:08:04 +0000"
+
 # Attributes from Felix Online V1
 id: "6508"
 old_path: /arts/6508/breaking-the-walls-of-the-pre-invented-world
 aliases:
  - /arts/6508/breaking-the-walls-of-the-pre-invented-world
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In an interview with The Paris Review Joan Didion describes the act of writing as "hostile", explaining further: "you’re trying to make somebody see something the way you see it...wrench around someone else’s mind". The same can be said of any form of art. Truly meaningful art can confront the viewer with things they don’t want to hear, ideas they didn’t know even existed – it can be a painful process. As Didion puts it: "you want to tell somebody your dream, your nightmare. Well nobody wants to hear it, nobody wants to walk around with it."

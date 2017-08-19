@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Riaz Agahi speaks to duo and Ambarchi collaborators
 date: "2013-06-13 23:02:25 +0100"
+
 # Attributes from Felix Online V1
 id: "3686"
 old_path: /music/3686/this-week-at-oto-rushford--talia
 aliases:
  - /music/3686/this-week-at-oto-rushford--talia
+imported: true
+comments:
+ - Omg you are so funny and a little to darn bbulby for this early in the morning for me oo  LOLHope everything goes well with your surgery I love having gum around for the times I go out in this Las Vegas heat I chew gum all the time and I love gumballs so of course I have glass candy jars filled with gumballs because I love sniffing them when I open the jar yes I am weird like that PI didnt know they made those frozen popsicles in soda flavor either and what a steal That was a great find As for me I found out that my rats love the Gerber Graduates Banana cookies They are made with real bananas so they are good for them and are less expensive than treats made especially for rats yeah for them and yeah for me I bought a few more Gerber Graduates toddler foods and found that my rats love them and I paid so much less for those treats than for treats made especially for rats that i thought I would share the info with other rat mom and wrote an article that got published
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Omg you are so funny and a little to darn bbulby for this early in the morning for me oo  LOLHope everything goes well with your surgery I love having gum around for the times I go out in this Las Vegas heat I chew gum all the time and I love gumballs so of course I have glass candy jars filled with gumballs because I love sniffing them when I open the jar yes I am weird like that PI didnt know they made those frozen popsicles in soda flavor either and what a steal That was a great find As for me I found out that my rats love the Gerber Graduates Banana cookies They are made with real bananas so they are good for them and are less expensive than treats made especially for rats yeah for them and yeah for me I bought a few more Gerber Graduates toddler foods and found that my rats love them and I paid so much less for those treats than for treats made especially for rats that i thought I would share the info with other rat mom and wrote an article that got published
-imported: true
 ---
 
 Between a live date in Oto as a duo and another in a large ensemble with Oren Ambarchi, I was able to grab an interview with Australian musucians James Rushford and Joe Talia. Aside from my aiming for an inside scoop about the night’s rendition of ‘Knots’ (from Ambarchi’s Audience Of One), we primarily discuss their work as a duo. and especially their 2013 album Manhunter.

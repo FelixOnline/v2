@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jane Courtnell reports on research into alternative energy sources
 date: "2015-03-20 00:49:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5417"
 old_path: /science/5417/whats-your-angle-willows-and-biofuels
 aliases:
  - /science/5417/whats-your-angle-willows-and-biofuels
+imported: true
+comments:
+ - cheap christian louboutin canadachristian louboutin outlet canada httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheap christian louboutin canadachristian louboutin outlet canada httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 The true scale of climate change and its impacts on our planet has escalated in the last 50 years. Scientific advancement has been at the forefront in efforts to achieve a more stable climatic future. Biofuel development symbolises a significant movement towards this future. However, growing evidence indicates that this supposedly sustainable, green solution is not quite as great as people hoped.

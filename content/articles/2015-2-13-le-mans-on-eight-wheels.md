@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lizzie Campbell on IC Skate Soc's first speed skate training session.
 date: "2015-02-13 14:27:29 +0000"
+
 # Attributes from Felix Online V1
 id: "5251"
 old_path: /cands/5251/le-mans-on-eight-wheels
 aliases:
  - /cands/5251/le-mans-on-eight-wheels
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It was an inauspicious start to last year’s Le Mans 24 hour roller relay. One seventh of the team had missed the train and there had been one injury before the race had even started; our team shirts were homemade with sharpies on the Eurostar and the rain was practically biblical.

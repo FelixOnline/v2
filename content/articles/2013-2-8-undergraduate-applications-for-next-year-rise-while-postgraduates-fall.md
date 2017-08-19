@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-08 01:09:13 +0000"
+
 # Attributes from Felix Online V1
 id: "3284"
 old_path: /news/3284/undergraduate-applications-for-next-year-rise-while-postgraduates-fall
 aliases:
  - /news/3284/undergraduate-applications-for-next-year-rise-while-postgraduates-fall
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A paper from the College Secretary reveals that Imperial College’s undergraduate application rate has increased on last year against a backdrop of falling applicant rates to UK universities across the board. Postgraduate application numbers, however, are at present lower than last year.

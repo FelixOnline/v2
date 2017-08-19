@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Bridging the gap between modern Westerns, Bone Tomahawk shines through
 date: "2016-02-26 11:42:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5969"
 old_path: /film/5969/the-good-the-bad-and-the-cannibalistic
 aliases:
  - /film/5969/the-good-the-bad-and-the-cannibalistic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Typical. You spend ages waiting for a blood-spattered neo-Western film, and then three come along at once. In the past few months Quentin Tarantino made a welcome return with his potboiler gore-fest _The Hateful Eight_, Leonardo DiCaprio dragged himself through miles of wilderness in _The Revenant_, and now we have _Bone Tomahawk_, a horrific traipse through cannibal-infested deserts, directed by screenwriter and author S. Craig Zahler. Midway between them, _Bone Tomahawk_ manages to be more inventive and memorable than either.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Times Higher Education findings
 date: "2015-06-11 22:10:39 +0100"
+
 # Attributes from Felix Online V1
 id: "5609"
 old_path: /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
 aliases:
  - /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
+imported: true
+comments:
+ - I do not care about this i am making average 5000 a month There is useful way i found on the internet If you want to learn it too just search in google for Kjolarkarrs guideI was wondering if after work we could grab a cup of coffeeblade  soul gold httpmymmositecom5071776blogitemblade_and_soul_number_of_ideas_for_trovehtmlProud of you go to web design httpwwwligoniertechcomtipsforeffectivewebsitenavigationdesigni like this site a lotnovage communicationsno follow httpecommerceplatformscomarticles7provenwaystoboostyourshoppingcartconversionrateMy way or the highwayresponsive web design httpdesigneuscomwhatisresponsivedesignNo I knowFIFA 15 Coins httpfifa15coinsfutinubecomblog4277295surprisekierangibbswilljoinfifa15totwYou are nothing like us buy Madden 16 Coins httpradiusnyccomprofilesblogspresentationmadden16detailslivingworldsThanks very useful Will share website with my palscs go skins cs 16 h
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I do not care about this i am making average 5000 a month There is useful way i found on the internet If you want to learn it too just search in google for Kjolarkarrs guideI was wondering if after work we could grab a cup of coffeeblade  soul gold httpmymmositecom5071776blogitemblade_and_soul_number_of_ideas_for_trovehtmlProud of you go to web design httpwwwligoniertechcomtipsforeffectivewebsitenavigationdesigni like this site a lotnovage communicationsno follow httpecommerceplatformscomarticles7provenwaystoboostyourshoppingcartconversionrateMy way or the highwayresponsive web design httpdesigneuscomwhatisresponsivedesignNo I knowFIFA 15 Coins httpfifa15coinsfutinubecomblog4277295surprisekierangibbswilljoinfifa15totwYou are nothing like us buy Madden 16 Coins httpradiusnyccomprofilesblogspresentationmadden16detailslivingworldsThanks very useful Will share website with my palscs go skins cs 16 h
-imported: true
 ---
 
 A Freedom of Information request by _Times Higher Education_ (THE) has revealed that Imperial College London is among around one in six universities in the UK to set targets for the amount of grant money brought in by its academics.

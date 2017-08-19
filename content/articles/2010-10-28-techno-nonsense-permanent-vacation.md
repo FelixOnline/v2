@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The first in Simon Hunter’s new series introducing the best electronic dance labels
 date: "2010-10-28 19:36:02 +0100"
+
 # Attributes from Felix Online V1
 id: "267"
 old_path: /music/267/techno-nonsense-permanent-vacation
 aliases:
  - /music/267/techno-nonsense-permanent-vacation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Over the coming issues of Felix I will embark on a quest to dispel the popular belief that electronic dance music begins with Tiesto and finishes with David Guetta. I will try and dip into as many genres as possible; highlighting what’s big at the moment, what was big 20 years ago and just generally stuff that I’m into at the date of publication.

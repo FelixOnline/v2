@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The mainstream media is not respecting the enlightenment of society
 date: "2015-01-23 01:35:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5130"
 old_path: /comment/5130/we-are-not-standing-up-for-free-speech
 aliases:
  - /comment/5130/we-are-not-standing-up-for-free-speech
+imported: true
+comments:
+ - His one downside is that like McFadden he sometimes displays problem with fumbles Gonzalez went the full 90 from a 21 loss to El Salvador You can watch soccer all day long if that is what you choose to dofifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - His one downside is that like McFadden he sometimes displays problem with fumbles Gonzalez went the full 90 from a 21 loss to El Salvador You can watch soccer all day long if that is what you choose to dofifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 The Comment section of last week’s _Felix_ made for interesting reading, unsurprisingly, the writers for the most part choosing to focus on the _Charlie Hebdo_ massacre, which has been dominating headlines these past weeks. I’ll start by saying that there were good ideas expressed in those articles, and in the centre-left’s media response as a whole, however, I believe that _Felix _and the rest of the mainstream media is wrong not to stand up for freedom of expression and publish the cartoons.

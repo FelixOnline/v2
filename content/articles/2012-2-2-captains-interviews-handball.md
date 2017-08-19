@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Indy Leclercq breaks down the wall of silence to have a chat with Handball's Annabelle and Stefan
 date: "2012-02-02 22:59:09 +0000"
+
 # Attributes from Felix Online V1
 id: "2104"
 old_path: /sport/2104/captains-interviews-handball
 aliases:
  - /sport/2104/captains-interviews-handball
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ladies and Gentlemen, I hope you’re having a good Friday afternoon (I won’t, I have lectures till 6). Sport editor gripes aside, I am pleased to present this week’s interviewees: the lovely Annabelle Mayers, handball women’s captain, and the dashing Stefan Bauer – goalkeeper extraordinaire and a founding member of the club. As we sit down in 568 over a pint I get cracking staright away: if he is a founding member, how is he still here?

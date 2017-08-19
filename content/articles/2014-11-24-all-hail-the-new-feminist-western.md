@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park reviews this modern take on a classic film genre
 date: "2014-11-24 12:49:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4945"
 old_path: /film/4945/all-hail-the-new-feminist-western
 aliases:
  - /film/4945/all-hail-the-new-feminist-western
+imported: true
+comments:
+ - Greetings good internet site youve gotten right nownba 2k17 coins httpwwwlatinadreamcommemberblog_post_viewphppostId19219
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Greetings good internet site youve gotten right nownba 2k17 coins httpwwwlatinadreamcommemberblog_post_viewphppostId19219
-imported: true
 ---
 
 __Director: __Tommy Lee Jones

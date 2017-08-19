@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Photobooth damage has angered hiring company
 date: "2015-01-16 12:50:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5088"
 old_path: /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
 aliases:
  - /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
+imported: true
+comments:
+ - httpwwwcoachoutletstorescc  coach outlet online    httpwwwoutletsmichaelkorsnet  michael kors outlet online    httpwww2015cheapoakleyscom  cheap oakley sunglasses    httpraybansjonmcmeencom  cheap ray bans   oakley outlet httpwwwoakleysunglassnamehttpwwwcoachofficialstorenet  coach factory outlet online    httpwwwraybanoutletsscom  ray ban aviators sale    httpwwwraybanoutletname  ray ban sunglasses outlet    httpwwwcheapraybansxyz  cheap ray ban sunglasses   ray ban sunglasses httpwwwrboutlet2015nethttpwwwoutletcoachcc  coach outlet online    httpwwwcheapraybansalesnet  discount ray bans    httpoakleyoutletstoreuscom  cheap oakley sunglasses    httpwwwraybansunglassesxyz  cheap ray ban sunglasses   coach outlet online httpwwwcoachfactoryoutletxyzhttpwwwoutletscoachuscom  coach factory    httpwwwraybanussalescom  ray bans on sale    httpwwwcheapraybansalesn
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpwwwcoachoutletstorescc  coach outlet online    httpwwwoutletsmichaelkorsnet  michael kors outlet online    httpwww2015cheapoakleyscom  cheap oakley sunglasses    httpraybansjonmcmeencom  cheap ray bans   oakley outlet httpwwwoakleysunglassnamehttpwwwcoachofficialstorenet  coach factory outlet online    httpwwwraybanoutletsscom  ray ban aviators sale    httpwwwraybanoutletname  ray ban sunglasses outlet    httpwwwcheapraybansxyz  cheap ray ban sunglasses   ray ban sunglasses httpwwwrboutlet2015nethttpwwwoutletcoachcc  coach outlet online    httpwwwcheapraybansalesnet  discount ray bans    httpoakleyoutletstoreuscom  cheap oakley sunglasses    httpwwwraybansunglassesxyz  cheap ray ban sunglasses   coach outlet online httpwwwcoachfactoryoutletxyzhttpwwwoutletscoachuscom  coach factory    httpwwwraybanussalescom  ray bans on sale    httpwwwcheapraybansalesn
-imported: true
 ---
 
 A photo booth hire service is considering further legal action after incurring damages to its equipment during the joint RCSU-CGCU Winter Ball in early December last year.

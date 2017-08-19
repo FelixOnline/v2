@@ -4,16 +4,24 @@ title: >
 subtitle: >
   KPMG are sponsoring a big data suite that will visualise data for businesses, scientists and students
 date: "2015-11-13 14:21:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5720"
 old_path: /news/5720/new-observatory-keeps-any-eye-on-big-data
 aliases:
  - /news/5720/new-observatory-keeps-any-eye-on-big-data
+imported: true
+comments:
+ - I intended to put you this bit of observation to finally thank you over again for the pleasant things youve discussed at this time It has been quite strangely openhanded with people like you to give easily all some people could possibly have marketed as an ebook in making some dough for their own end principally now that you might have done it if you ever wanted Those basics likewise served as the great way to understand that other people online have a similar interest really like my personal own to realize a little more around this condition Im sure there are several more pleasurable times up front for folks who read through your blog postwholesale winter hats httpwwwtwofangtucnbeaniehatsPassion the website really individual pleasant and whole lots to seenba 2k16 mt cheat httpforumstrinityhomeorgviewtopicphpf15t19356p27432p27432httpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianethttpbu
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I intended to put you this bit of observation to finally thank you over again for the pleasant things youve discussed at this time It has been quite strangely openhanded with people like you to give easily all some people could possibly have marketed as an ebook in making some dough for their own end principally now that you might have done it if you ever wanted Those basics likewise served as the great way to understand that other people online have a similar interest really like my personal own to realize a little more around this condition Im sure there are several more pleasurable times up front for folks who read through your blog postwholesale winter hats httpwwwtwofangtucnbeaniehatsPassion the website really individual pleasant and whole lots to seenba 2k16 mt cheat httpforumstrinityhomeorgviewtopicphpf15t19356p27432p27432httpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianethttpbu
-imported: true
 ---
 
 Last week, the KPMG Data Observatory was launched as part of Imperial’s Data Science Institute. The purpose of the observatory is to enable the analysis and visualisation of data, particularly useful for large corporations that collect massive amounts of it.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tom Rivlin on cancellations and claims of ruined childhoods
 date: "2014-11-20 21:48:10 +0000"
+
 # Attributes from Felix Online V1
 id: "4920"
 old_path: /tv/4920/cartoon-corner--teen-titans-go
 aliases:
  - /tv/4920/cartoon-corner--teen-titans-go
+imported: true
+comments:
+ - Pretty sure the author is using entitlement in the wrong context I think he means  false sense of entitlement Regardless pandering to Young Justice fans means the boycott of teen titans go seems to be working Kudos to the fansHe used it correctly They believe that it is their god given right for them to get what they want Its not working its just a way to get them to shut up and stop whiningTeen Titans Go still sucks cheap fitflopfitflop shoes singapore httpfitflopsalesingapore2blogspotcomfitflops clearance salefitflop in australia httpaustraliafitflopsblogspotcombirkenstocks sydneybirkenstock buy online httpbirkenstocksaleaustraliablogspotcomlouboutin bianca canadachristian louboutin sale httpcanadachristianlouboutinblogspotcomNg0SRZ httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThanks this site is extremely practicalfifa 17 httprsdseriescomcommunityforumuser1915skillnba2k17No it doesnt you bastard
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Pretty sure the author is using entitlement in the wrong context I think he means  false sense of entitlement Regardless pandering to Young Justice fans means the boycott of teen titans go seems to be working Kudos to the fansHe used it correctly They believe that it is their god given right for them to get what they want Its not working its just a way to get them to shut up and stop whiningTeen Titans Go still sucks cheap fitflopfitflop shoes singapore httpfitflopsalesingapore2blogspotcomfitflops clearance salefitflop in australia httpaustraliafitflopsblogspotcombirkenstocks sydneybirkenstock buy online httpbirkenstocksaleaustraliablogspotcomlouboutin bianca canadachristian louboutin sale httpcanadachristianlouboutinblogspotcomNg0SRZ httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThanks this site is extremely practicalfifa 17 httprsdseriescomcommunityforumuser1915skillnba2k17No it doesnt you bastard
-imported: true
 ---
 
 Fandoms can be weird places sometimes. Let me explain...

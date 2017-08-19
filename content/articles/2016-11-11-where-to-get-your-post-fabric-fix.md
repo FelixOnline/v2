@@ -4,16 +4,22 @@ title: >
 subtitle: >
   After fabric’s tragic closure at the end of October, many of us are left frantically searching for a substitute to tide us over until the appeal on 28th November. Fear not, felix has you covered! Take a look at these great venues...
 date: "2016-11-11 18:36:11 +0000"
+
 # Attributes from Felix Online V1
 id: "6444"
 old_path: /music/6444/where-to-get-your-post-fabric-fix
 aliases:
  - /music/6444/where-to-get-your-post-fabric-fix
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Corsica Studios

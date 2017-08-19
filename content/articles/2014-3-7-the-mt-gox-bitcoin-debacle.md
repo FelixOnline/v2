@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yong Wen Chua, on the dangers of trusting an online currency
 date: "2014-03-07 06:03:25 +0000"
+
 # Attributes from Felix Online V1
 id: "4473"
 old_path: /tech/4473/the-mt-gox-bitcoin-debacle
 aliases:
  - /tech/4473/the-mt-gox-bitcoin-debacle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The fledgling cryptocurrency Bitcoin suffered one of its biggest setbacks this past week when the (formerly) largest exchange Mt. Gox filed for bankruptcy protection. The beleaguered exchange has been marred by a string of management problems before it filed for bankruptcy protection. Yet, the currency has been relatively stable amidst all of these: after briefly falling to US Dollars (USD) 400 per Bitcoin after the news broke, it has now recovered up to a steady state of around USD 650 at press time.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In honour of International Women’s Day we celebrate the female artists who inspire us
 date: "2016-03-11 12:04:24 +0000"
+
 # Attributes from Felix Online V1
 id: "6042"
 old_path: /arts/6042/the-boys-wanna-be-her-
 aliases:
  - /arts/6042/the-boys-wanna-be-her-
+imported: true
+comments:
+ - i can discover many good solutions basically have any difficultyurlhttpaeytimescomideas80073Movement_In_Blade__Soul_Is_Extremely_CoolCheap BNS GoldurlHold iturlhttpsisakettodaycomwebboardviewtopicphpf32t56181Blade  Soul GoldurlToday looks great urlhttpr4pgkinjacomr4pgurlIll fix iturlhttpwwwscoopituaosilveraosilverurlJozz0O  ldeaoeyujmaq urlhttpwvoaahqmgfbrcomwvoaahqmgfbrurl linkhttpswmpxwzifngocomswmpxwzifngolink httpajwrkoytyxrxcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - i can discover many good solutions basically have any difficultyurlhttpaeytimescomideas80073Movement_In_Blade__Soul_Is_Extremely_CoolCheap BNS GoldurlHold iturlhttpsisakettodaycomwebboardviewtopicphpf32t56181Blade  Soul GoldurlToday looks great urlhttpr4pgkinjacomr4pgurlIll fix iturlhttpwwwscoopituaosilveraosilverurlJozz0O  ldeaoeyujmaq urlhttpwvoaahqmgfbrcomwvoaahqmgfbrurl linkhttpswmpxwzifngocomswmpxwzifngolink httpajwrkoytyxrxcom
-imported: true
 ---
 
 **Judith Leyster**

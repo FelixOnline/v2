@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We should accept the Browne Review, it is only fair that students should pay for the benefits of their education
 date: "2010-10-21 18:53:49 +0100"
+
 # Attributes from Felix Online V1
 id: "225"
 old_path: /comment/225/the-review-is-right-
 aliases:
  - /comment/225/the-review-is-right-
+imported: true
+comments:
+ - This forum needed skhaing up and youve just done that Great posthCITrK  urlhttpqlftbfigrtmwcomqlftbfigrtmwurl linkhttpbzvmpfnyloewcombzvmpfnyloewlink httpfgnusijfehtucom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - This forum needed skhaing up and youve just done that Great posthCITrK  urlhttpqlftbfigrtmwcomqlftbfigrtmwurl linkhttpbzvmpfnyloewcombzvmpfnyloewlink httpfgnusijfehtucom
-imported: true
 ---
 
 The Browne Review aims to advise the Government on changes to the system of Higher Education Funding. Although the headline proposal has been to allow universities to set their own fees, the proposals in the review would, if enacted, mean that anyone could go to university regardless of wealth. It would provide more money for students to live on whilst at university. It would also mean that no one would have to start paying off their loan until they were earning £21,000, and that until then, there would be no interest on it. Why are the NUS against these proposals? For one reason: perception.

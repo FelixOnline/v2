@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The opening of the Union’s new club Metric goes off with a bang
 date: "2010-11-26 07:24:37 +0000"
+
 # Attributes from Felix Online V1
 id: "451"
 old_path: /news/451/a-night-to-remember
 aliases:
  - /news/451/a-night-to-remember
+imported: true
+comments:
+ - twas a messy night indeed
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
- - twas a messy night indeed
-imported: true
 ---
 
 Well, finally [Metric](http://www.imperialcollegeunion.org/metric) is at long last open and to answer your question, yes, it definitely was worth the wait.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Get it?
 date: "2017-02-17 16:24:46 +0000"
+
 # Attributes from Felix Online V1
 id: "6804"
 old_path: /sport/6804/it-aint-easy-being-green
 aliases:
  - /sport/6804/it-aint-easy-being-green
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Have you ever said to yourself “I love basketball, football and rugby with a passion but it would be a dream to play them all at once” ? Well then I have just the thing for you. A sport for those who fancy carrying the ball like rugby, but prefer a rounder shape. For those who fancy bouncing it every now and again, but also want the luxury of booting it into the net. A sport played with enormous teams but on suitably large pitches. I give you, Gaelic football.

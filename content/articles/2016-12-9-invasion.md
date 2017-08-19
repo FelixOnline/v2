@@ -4,16 +4,22 @@ title: >
 subtitle: >
    The real fun is in seeing the different characters interact
 date: "2016-12-09 15:45:49 +0000"
+
 # Attributes from Felix Online V1
 id: "6580"
 old_path: /tv/6580/invasion
 aliases:
  - /tv/6580/invasion
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Having four shows set in a shared universe and on the same channel meant a crossover was inevitable. It was certainly ambitious, especially on a TV network budget, but I’m glad to say they were able to pull it off.

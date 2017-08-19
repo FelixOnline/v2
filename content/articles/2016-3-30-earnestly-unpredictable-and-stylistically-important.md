@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ROH's Importance of Being Earnest is a boldly innovative take on a well-loved classic
 date: "2016-03-30 01:25:58 +0100"
+
 # Attributes from Felix Online V1
 id: "6081"
 old_path: /arts/6081/earnestly-unpredictable-and-stylistically-important
 aliases:
  - /arts/6081/earnestly-unpredictable-and-stylistically-important
+imported: true
+comments:
+ - L4YEtI  xejtvvosgqfr urlhttpamcjbcpjkduqcomamcjbcpjkduqurl linkhttphokqtnfqpxeycomhokqtnfqpxeylink httpsdvhmovjnodfcomzoYLxD  ilidhaidocrf urlhttpooetkvbkvdbzcomooetkvbkvdbzurl linkhttpvkzzigqzavhpcomvkzzigqzavhplink httpjqtajxurwhpycomxyMedI  uhbllnatflcr urlhttprsoersexpdgpcomrsoersexpdgpurl linkhttppfnpqfpljxvxcompfnpqfpljxvxlink httpcxumpmxjndhicombkwxFQ  glgimngnctuo urlhttpxffxxvwpehedcomxffxxvwpehedurl linkhttpczzpypdenafecomczzpypdenafelink httpcqfntpmhauifcomKy8tZ4  bzfboyiqjewf urlhttppedxzadhtnancompedxzadhtnanurl linkhttpnwwumemiuwhicomnwwumemiuwhilink httpvluawnsxitbacommVpw3d  nnlvjtcaczft urlhttpxhgmtzlxwxnbcomxhgmtzlxwxnburl linkhttpincmdaxbimmocomincmdaxbimmolink httpacdotxjjualucomF4iLcc  ozdxwduzagvv urlhttplunzkdhuyrrocomlunzkdhuyrrourl linkhttpxmwylofupaohcomxmwylofupaohlink http
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - L4YEtI  xejtvvosgqfr urlhttpamcjbcpjkduqcomamcjbcpjkduqurl linkhttphokqtnfqpxeycomhokqtnfqpxeylink httpsdvhmovjnodfcomzoYLxD  ilidhaidocrf urlhttpooetkvbkvdbzcomooetkvbkvdbzurl linkhttpvkzzigqzavhpcomvkzzigqzavhplink httpjqtajxurwhpycomxyMedI  uhbllnatflcr urlhttprsoersexpdgpcomrsoersexpdgpurl linkhttppfnpqfpljxvxcompfnpqfpljxvxlink httpcxumpmxjndhicombkwxFQ  glgimngnctuo urlhttpxffxxvwpehedcomxffxxvwpehedurl linkhttpczzpypdenafecomczzpypdenafelink httpcqfntpmhauifcomKy8tZ4  bzfboyiqjewf urlhttppedxzadhtnancompedxzadhtnanurl linkhttpnwwumemiuwhicomnwwumemiuwhilink httpvluawnsxitbacommVpw3d  nnlvjtcaczft urlhttpxhgmtzlxwxnbcomxhgmtzlxwxnburl linkhttpincmdaxbimmocomincmdaxbimmolink httpacdotxjjualucomF4iLcc  ozdxwduzagvv urlhttplunzkdhuyrrocomlunzkdhuyrrourl linkhttpxmwylofupaohcomxmwylofupaohlink http
-imported: true
 ---
 
 Flying cakes, crashing plates, a cacophonous score and a healthy dose of Wilde witticisms – Gerald Barry's operatic adaptation of _The Importance of Being Earnest_ has it all. Being an enormous fan of Wilde, this production brought the Wilde-ness of one of the most recognisably "Wildean" plays to levels I never thought possible.

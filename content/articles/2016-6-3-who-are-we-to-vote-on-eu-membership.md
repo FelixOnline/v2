@@ -4,16 +4,22 @@ title: >
 subtitle: >
   To be honest, we don't really know what we're talking about
 date: "2016-06-03 09:02:34 +0100"
+
 # Attributes from Felix Online V1
 id: "6230"
 old_path: /comment/6230/who-are-we-to-vote-on-eu-membership
 aliases:
  - /comment/6230/who-are-we-to-vote-on-eu-membership
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As the date of the EU referendum approaches, we are being flooded with Remain vs Exit articles on all media. However, this is NOT going to be another advocating piece. In fact, I am wondering why one even gets to vote on such an issue at all.

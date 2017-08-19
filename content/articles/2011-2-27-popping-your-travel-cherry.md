@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dylan Lowe and Christopher Richardson offer nuggets of advice to would-be travellers
 date: "2011-02-27 19:43:20 +0000"
+
 # Attributes from Felix Online V1
 id: "918"
 old_path: /travel/918/popping-your-travel-cherry
 aliases:
  - /travel/918/popping-your-travel-cherry
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Jetting off around the world can be a little, well, daunting. That’s why the Felix Travel team have gotten together for The Daily Felix to help you plan that life-changing trip. Over the coming days we’ll be giving you the low-down on some of the more popular travel destinations, but for starters we’ll be covering the basics of backpacking: everything from what to bring, what to do, and getting there in the first place. Word-of-mouth is a traveller’s accomplice, and we hope you find this advice useful if and when you decide to plan that big trip.

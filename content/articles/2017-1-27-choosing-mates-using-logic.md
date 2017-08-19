@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ipsita Herlekar explains how fruit flies have been found to use logical reasoning when choosing partners
 date: "2017-01-27 16:34:19 +0000"
+
 # Attributes from Felix Online V1
 id: "6694"
 old_path: /science/6694/choosing-mates-using-logic
 aliases:
  - /science/6694/choosing-mates-using-logic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A new study has discovered that fruit flies (Drosophila melanogaster), unlike many of us make rational decisions while choosing partners.

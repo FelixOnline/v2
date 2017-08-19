@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Elizabeth Crouch takes a look at the new social network that argues fewer friends leads to more meaningful relationships
 date: "2011-01-20 19:23:12 +0000"
+
 # Attributes from Felix Online V1
 id: "604"
 old_path: /tech/604/an-anti-social-path
 aliases:
  - /tech/604/an-anti-social-path
+imported: true
+comments:
+ - Heres a link to the website with accompanying saccharine video httpwwwpathcomhomehtmlusers are restricted to sharing pictures and videos with 50 friends they will be encouraged to share more personal momentsSurely this would be better achieved with a limit on the number of posts per day That way people would tell you about the cool things they do and wouldnt wast their posts telling you about the shit they just took and the flan theyre about to eatHaving loads of friends on Facebook isnt a problem If they sit there idly theyre hardly causing harm and you still get to bombard them with links to your latest Felix article
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ec610
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ec610"
 author_name: "Elizabeth Crouch"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Heres a link to the website with accompanying saccharine video httpwwwpathcomhomehtmlusers are restricted to sharing pictures and videos with 50 friends they will be encouraged to share more personal momentsSurely this would be better achieved with a limit on the number of posts per day That way people would tell you about the cool things they do and wouldnt wast their posts telling you about the shit they just took and the flan theyre about to eatHaving loads of friends on Facebook isnt a problem If they sit there idly theyre hardly causing harm and you still get to bombard them with links to your latest Felix article
-imported: true
 ---
 
 In November last year the latest in a seemingly never-ending string of social networks launched. ‘[Path](http://www.path.com/home.html)’ was hyped as a new way to socialise online and claimed to be founded on scientific principles. Its creators call it ‘a personal network’ where users can augment existing relationships instead of replacing them. Uniquely, on this social network you are limited to 50 friends. So what are these scientific principles, and what questions does this new network raise about our ability to manage our online relationships?

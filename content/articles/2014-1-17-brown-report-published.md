@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Examining the recommendations of the Brown Report...
 date: "2014-01-17 03:17:14 +0000"
+
 # Attributes from Felix Online V1
 id: "4229"
 old_path: /news/4229/brown-report-published
 aliases:
  - /news/4229/brown-report-published
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 On 14th April 2013 the British Union for the Abolition of Vivisection (BUAV) presented Imperial College London with a report that accumulated a list of various allegations of misconduct concerning animal experimentation. The report contained a video produced by the undercover investigator, which BUAV released to the public, which purported to demonstrate a number of instances of poor animal welfare practices. As a result Imperial College came under national scrutiny, which can be seen on the comments on College’s social media pages. The public outcry, included Morrissey and Brian May, called for an immediate independent inquiry.

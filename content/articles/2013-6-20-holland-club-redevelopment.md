@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This year the Holland Club was closed, much to the annoyance of many staff and postgraduates. I take a tour of the redevelopment
 date: "2013-06-20 23:47:36 +0100"
+
 # Attributes from Felix Online V1
 id: "3727"
 old_path: /news/3727/holland-club-redevelopment
 aliases:
  - /news/3727/holland-club-redevelopment
+imported: true
+comments:
+ - What I cant understand is why Imperial didnt open up the design process to the postgraduate community  Ask pgs to submit design briefsproposals that could then be vetted by an Estates team  Judged by a panel that included College management as well as student and staff repsSeen it work really well where a University has redesigned a space for the use of ugs and has actively encouraged them to be part of the design processhttpcreateyourcampussotonacukindexphpFrom the plans it looks like 568 mark II  a utility space with no character the antithesis of what the Holland Club once was Roll on the commercialisation Im guessing that the dividing wall is going to be used in the early evening when the catering area will be open to undergraduates  Looks like its going to be dreadful Stale functional corporate soulless Well done ImperialA dividing area says it allRubbish thats all I can say
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - What I cant understand is why Imperial didnt open up the design process to the postgraduate community  Ask pgs to submit design briefsproposals that could then be vetted by an Estates team  Judged by a panel that included College management as well as student and staff repsSeen it work really well where a University has redesigned a space for the use of ugs and has actively encouraged them to be part of the design processhttpcreateyourcampussotonacukindexphpFrom the plans it looks like 568 mark II  a utility space with no character the antithesis of what the Holland Club once was Roll on the commercialisation Im guessing that the dividing wall is going to be used in the early evening when the catering area will be open to undergraduates  Looks like its going to be dreadful Stale functional corporate soulless Well done ImperialA dividing area says it allRubbish thats all I can say
-imported: true
 ---
 
 On Wednesday I had a tour of the area that [used to be the Holland Club](http://felixonline.co.uk/news/2931/holland-club-closed/). The space is called Level 0. At the moment, extensive work is still going on, and there is much left to do. It is definitely, for all intents and purposes, a building site; you have to sign in and out and wear a high vis jacket and a hard hat.

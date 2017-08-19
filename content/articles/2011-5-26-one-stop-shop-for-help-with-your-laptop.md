@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The ICT Service Desk on Sherfield Level Four is there for all your laptop needs
 date: "2011-05-26 19:10:38 +0100"
+
 # Attributes from Felix Online V1
 id: "1255"
 old_path: /tech/1255/one-stop-shop-for-help-with-your-laptop
 aliases:
  - /tech/1255/one-stop-shop-for-help-with-your-laptop
+imported: true
+comments:
+ - Fell out of bed feeling down This has brihegtend my day
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
- - Fell out of bed feeling down This has brihegtend my day
-imported: true
 ---
 
 The ICT Service Desk over on Level 4 Sherfield is a busy place. In fact it’s where all of Imperial’s students and staff get assistance with IT and the small but efficient team that is the Service Desk handle over 6000 requests per month to keep everyone working.

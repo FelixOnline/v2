@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Max Falkenburg heads to Southwark to check out their cult musical revival
 date: "2015-01-31 19:16:47 +0000"
+
 # Attributes from Felix Online V1
 id: "5171"
 old_path: /arts/5171/bonkers-but-not-brilliant---bat-boy-the-musical
 aliases:
  - /arts/5171/bonkers-but-not-brilliant---bat-boy-the-musical
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I am not a fan of musicals. There, I’ve said it. When you grow up spending every waking moment with ‘theatrical types’ who sit around reciting ballads from _Les Miserables_, musicals can make you hate them. Listening to song after whiny song which all fail to add any story to the show, and with music which is at best a notch above mediocre, for me, musical theatre is a curse.

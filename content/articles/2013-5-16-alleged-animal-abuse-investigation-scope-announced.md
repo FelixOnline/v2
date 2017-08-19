@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial release news of the investigation
 date: "2013-05-16 20:47:44 +0100"
+
 # Attributes from Felix Online V1
 id: "3593"
 old_path: /news/3593/alleged-animal-abuse-investigation-scope-announced
 aliases:
  - /news/3593/alleged-animal-abuse-investigation-scope-announced
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College London have announced the makeup of the committee and the areas of the [allegations of animal cruelty](http://felixonline.co.uk/news/3539/alleged-animal-abuse/) that they will be investigating. The committee, lead by Professor Steve Brown, will investigate and assess the culture and approach to animal care and welfare at College. The Home Office are also investigating specific allegations, which the College say they are “working closely” with them.

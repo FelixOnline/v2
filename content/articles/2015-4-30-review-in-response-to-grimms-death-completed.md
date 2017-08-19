@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Results criticised by external academics: “Imperial doesn’t get it.”
 date: "2015-04-30 23:09:03 +0100"
+
 # Attributes from Felix Online V1
 id: "5475"
 old_path: /news/5475/review-in-response-to-grimms-death-completed
 aliases:
  - /news/5475/review-in-response-to-grimms-death-completed
+imported: true
+comments:
+ - Congratulations on publishing this unlike Alice Gast you come across as responsible and humane She should of course be sacked httpbuydiflucanonlineorg  Diflucan Online Pharmacy Online http40mglasixbuycomhttpbuydiflucanonlineorg  Buy Diflucan Canada Pharmacy Online http40mglasixbuycomhttpbuydiflucanonlineorg  Diflucan Canadian Pharmacy Levitra http40mglasixbuycomhttpbuydiflucanonlineorg  Buy Fluconazole Pharmacy Online http40mglasixbuycomhttpbuydiflucanonlineorg  Diflucan Without A Prescription Canadian Pharmacy http40mglasixbuycomhttpbuydiflucanonlineorg  Diflucan Without Prescription Online Pharmacy http40mglasixbuycomsgYxZV  xyztagdixzpg urlhttpkzjfgoilrgsvcomkzjfgoilrgsvurl linkhttpyvuxapdzglndcomyvuxapdzglndlink httpviybpgtzuwcwcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that y
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Congratulations on publishing this unlike Alice Gast you come across as responsible and humane She should of course be sacked httpbuydiflucanonlineorg  Diflucan Online Pharmacy Online http40mglasixbuycomhttpbuydiflucanonlineorg  Buy Diflucan Canada Pharmacy Online http40mglasixbuycomhttpbuydiflucanonlineorg  Diflucan Canadian Pharmacy Levitra http40mglasixbuycomhttpbuydiflucanonlineorg  Buy Fluconazole Pharmacy Online http40mglasixbuycomhttpbuydiflucanonlineorg  Diflucan Without A Prescription Canadian Pharmacy http40mglasixbuycomhttpbuydiflucanonlineorg  Diflucan Without Prescription Online Pharmacy http40mglasixbuycomsgYxZV  xyztagdixzpg urlhttpkzjfgoilrgsvcomkzjfgoilrgsvurl linkhttpyvuxapdzglndcomyvuxapdzglndlink httpviybpgtzuwcwcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that y
-imported: true
 ---
 
 The inquest into the death of Professor of toxicology Stefan Grimm, 51, took place last month, six months after he was found dead in his own home in Northwood, Middlesex.

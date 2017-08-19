@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Navid Nabijou argues that you can’t claim the revolutions for Islam
 date: "2011-03-10 20:09:47 +0000"
+
 # Attributes from Felix Online V1
 id: "1063"
 old_path: /politics/1063/the-middle-east-protests-are-secular
 aliases:
  - /politics/1063/the-middle-east-protests-are-secular
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Thursday, the [Muslim Student Council](http://muslimstudentcouncil.org/) hosted an event entitled: “Middle East: Revolution, Democratisation, and the End of U.S. Hegemony.” The evening featured four invited speakers, talking about recent events in their home countries: Saeed Shehabi from Bahrain, Monjia Abidi from Tunisia, Kamal El-Helbawy from Egypt and Guma El-Gamaty from Libya.

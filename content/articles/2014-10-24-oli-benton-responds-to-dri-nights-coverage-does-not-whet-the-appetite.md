@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I feel that the article may have been slightly misinterpreted.
 date: "2014-10-24 13:57:59 +0100"
+
 # Attributes from Felix Online V1
 id: "4753"
 old_path: /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
 aliases:
  - /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
+imported: true
+comments:
+ - Our Promisescheap air jordans httpwwwcheapjordansrealscomBring vitality dress Air Jordan 6 Low Insignia Blue inkind figure reward clear blue and white hit color rendering detail injection ghost green embellishment provoke visual highlightscheap jordans online httpwwwjazzoklahomacomdiscount fitflopsfitflop shoes sale httpaustraliafitflopsblogspotcomfitflops salefitflop online sales httpaustraliafitflopsblogspotcomfitflop sale clearancefitflops on sale australia httpfitflopsaublogspotcomFirst sale in 1991 Air Jordan 6 Maroon white dress shoes eyecatching red dotted injection combined with Joe closer affinity with the feet both add a lot of things to watch for the current concern is also quite impressive httpwwwacheapjordanscom httpwwwacheapjordanscomFrench blue dress Air Jordan 12 French Blue will be held March 26 2016 engraved return First sale in January 2005 this French blue color with white leather shoes are complemented by blue so
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Our Promisescheap air jordans httpwwwcheapjordansrealscomBring vitality dress Air Jordan 6 Low Insignia Blue inkind figure reward clear blue and white hit color rendering detail injection ghost green embellishment provoke visual highlightscheap jordans online httpwwwjazzoklahomacomdiscount fitflopsfitflop shoes sale httpaustraliafitflopsblogspotcomfitflops salefitflop online sales httpaustraliafitflopsblogspotcomfitflop sale clearancefitflops on sale australia httpfitflopsaublogspotcomFirst sale in 1991 Air Jordan 6 Maroon white dress shoes eyecatching red dotted injection combined with Joe closer affinity with the feet both add a lot of things to watch for the current concern is also quite impressive httpwwwacheapjordanscom httpwwwacheapjordanscomFrench blue dress Air Jordan 12 French Blue will be held March 26 2016 engraved return First sale in January 2005 this French blue color with white leather shoes are complemented by blue so
-imported: true
 ---
 
 Thanks for the response; I’m glad at least somebody, other than the Union staff and Sabbs that ‘checked over it’, actually read the article.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   FELIX explores the secret eats in this charming neighbourhood
 date: "2016-06-10 08:37:07 +0100"
+
 # Attributes from Felix Online V1
 id: "6267"
 old_path: /food/6267/a-food-journey-in-notting-hill
 aliases:
  - /food/6267/a-food-journey-in-notting-hill
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As much as I regret moving to somewhere in the middle of Holland Park and Shepherd’s Bush for second year,living in close proximity to the beautiful neighborhood of Notting Hill definitely made up for the daily power walk sessions to catch the Circle line to college. Here are a few of my favourite places I return to ever so often and never get tired of. Every place is conveniently a few minutes’ walk off Portobello Road, the main road that stretches all the way from Notting Hill Gate tube station right up past the A40 Westway. Trust me, there’s much more to Notting Hill than the movies and a few cracked pots at the antiques market.

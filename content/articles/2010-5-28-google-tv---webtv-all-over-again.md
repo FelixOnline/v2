@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Google's launched it's attempt to shoehorn the web into the living room, but will it succeed?
 date: "2010-05-28 10:48:44 +0100"
+
 # Attributes from Felix Online V1
 id: "141"
 old_path: /tech/141/google-tv---webtv-all-over-again
 aliases:
  - /tech/141/google-tv---webtv-all-over-again
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
-imported: true
 ---
 
 If you haven't heard, Google launched its attempt to infiltrate the TV space with internet content this week. The Android based Google TV aims to bring not only video, but the whole internet onto the small screen. The search giant isn't the first to attempt to do so however, as Microsoft tried and failed to do the same thing many years ago with its WebTV. The big G thinks the failures of the past have been due to poor implementation, but I beg to differ.

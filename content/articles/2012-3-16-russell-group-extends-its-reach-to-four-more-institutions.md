@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Durham, Exeter, Queen Mary and York join Imperial
 date: "2012-03-16 01:54:05 +0000"
+
 # Attributes from Felix Online V1
 id: "2403"
 old_path: /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
 aliases:
  - /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
+imported: true
+comments:
+ - MISTAKE York and QMUL are toilets Durham is severely complexed about its academic inferiority and northern locale despite pretty buildingsHOWEVER Exeter is allowed because its full of beautiful girls is close to the seaside and I hear everyone who has ever been there has had 34 years of great chat and sexQMUL is as much of an architectural toilet as ImperialGrow up 1 Were lucky to go to a superb university but the research produced by York  and even QMUL and Durham  is excellent Theyre more than qualified for the Russell group I was just suprised that they werent already in itPity Exeters Research record is so dismalHow did they think Exeter should join  The only possible rationale that I can guess is that Exeter finds itself oversubscribed for its undergradautes courses probably something to do with chompings remarks and hence was included to assuage the AAb argumentThose posh gits in Exeter are just not Russell Group materialMany thanks for sharing this
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - MISTAKE York and QMUL are toilets Durham is severely complexed about its academic inferiority and northern locale despite pretty buildingsHOWEVER Exeter is allowed because its full of beautiful girls is close to the seaside and I hear everyone who has ever been there has had 34 years of great chat and sexQMUL is as much of an architectural toilet as ImperialGrow up 1 Were lucky to go to a superb university but the research produced by York  and even QMUL and Durham  is excellent Theyre more than qualified for the Russell group I was just suprised that they werent already in itPity Exeters Research record is so dismalHow did they think Exeter should join  The only possible rationale that I can guess is that Exeter finds itself oversubscribed for its undergradautes courses probably something to do with chompings remarks and hence was included to assuage the AAb argumentThose posh gits in Exeter are just not Russell Group materialMany thanks for sharing this
-imported: true
 ---
 
 [The Russell Group](http://www.russellgroup.ac.uk/) has agreed to extend its membership to four more universities. Durham, Exeter, Queen Mary and York are the four institutions that will join the traditionally 20-strong association of public research universities, of which Imperial College London is a member.

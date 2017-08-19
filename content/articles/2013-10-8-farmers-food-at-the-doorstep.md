@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Daas Kaluvan proves that quality food exists outside supermarkets
 date: "2013-10-08 11:46:29 +0100"
+
 # Attributes from Felix Online V1
 id: "3819"
 old_path: /food/3819/farmers-food-at-the-doorstep
 aliases:
  - /food/3819/farmers-food-at-the-doorstep
+imported: true
+comments:
+ - Hello There I discovered your weblog the usage of msn This is an extremely neatly written article I will make sure to bookmark it and return to read more of your helpful info Thanks for the post Ill certainly returnI think Ray was described as a seanosal ranger which I understand is someone who is not there full time but only a few months out of the year Both Anna and her boss were new to the park so neither of them would know RaySteve Also he spent most of the time in the remote cabin where no one who knew the real Ray would run into him  acutane   liability accidents   kings could   effort before   acne any
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Hello There I discovered your weblog the usage of msn This is an extremely neatly written article I will make sure to bookmark it and return to read more of your helpful info Thanks for the post Ill certainly returnI think Ray was described as a seanosal ranger which I understand is someone who is not there full time but only a few months out of the year Both Anna and her boss were new to the park so neither of them would know RaySteve Also he spent most of the time in the remote cabin where no one who knew the real Ray would run into him  acutane   liability accidents   kings could   effort before   acne any
-imported: true
 ---
 
 You might have seen the signs around campus already – there is a new farmers market on Queens Lawn every Tuesday. You will be surprised by how much fresh vegetables and fruits this is. Apart from the expected English strawberries, raspberries, blueberries, plums, apples and pears, there are also Downland Pigs famous free range hog roast, Brambletye Farm’s organic eggs and sweet and savoury goodies from Queen of Cakes. None of which you will be able to get from your local Sainsbury’s.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   My name came up and in a matter of seconds I was holding the biggest heart-shaped card
 date: "2011-02-10 21:04:34 +0000"
+
 # Attributes from Felix Online V1
 id: "793"
 old_path: /comment/793/puppy-love-no-not-that-kind
 aliases:
  - /comment/793/puppy-love-no-not-that-kind
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Before even thinking about the ‘special’ Valentine’s Day edition of Felix I can, with a certainty of about 99.99% say that we will be reading loads of complaints about it being just another one of those capitalist holidays. I both agree and disagree with this – Valentine’s Day shouldn’t be a ‘holiday’ – especially since I happen to dislike chocolates. You should show the people you care for that you do so every day of the year.

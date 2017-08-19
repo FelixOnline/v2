@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sina Ataherian reports on the 5-year sentence that Imperial College benefactor Gary Tanaka faces this week
 date: "2010-02-12 01:45:34 +0000"
+
 # Attributes from Felix Online V1
 id: "83"
 old_path: /news/83/business-schools-tanaka-imprisoned
 aliases:
  - /news/83/business-schools-tanaka-imprisoned
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you are in second year or above, you may remember the halcyon days when Imperial College Business School was called the Tanaka Business School. The name came from Gary Tanaka, a Japanese-American fund manager who did a PhD in Mathematics at Imperial. He pledged £27 million to the College, who thanked him by naming the new Business School in his honour. In 2004, the Queen thanked him for his generosity during the ceremony in which she opened the new Business School building.

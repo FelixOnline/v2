@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hockey Women’s 1s post another win to remain undefeated and go top of BUCS league
 date: "2012-02-09 23:02:01 +0000"
+
 # Attributes from Felix Online V1
 id: "2168"
 old_path: /sport/2168/winning-ways-
 aliases:
  - /sport/2168/winning-ways-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Undefeated so far this season (with only one draw to compliment our string of wins), we arrived at the Staines pitch in high spirits, despite the freezing temperatures and remains of snow on the sidelines. One rapid warm-up later, and we were underway.

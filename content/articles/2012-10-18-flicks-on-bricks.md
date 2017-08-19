@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emilie Beauchamp introduces you to an evening of cutting edge video art
 date: "2012-10-18 20:57:50 +0100"
+
 # Attributes from Felix Online V1
 id: "2685"
 old_path: /arts/2685/flicks-on-bricks
 aliases:
  - /arts/2685/flicks-on-bricks
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week from October 11th to 14th, the Bargehouse of Oxo Tower Wharf hosted the annual Moving Image fair, London’s only fair solely dedicated to moving image and contemporary video art. This meant four floors celebrating the video installations, projections and other forms of moving pictures of 35 artists from 15 different countries. With the easy access to digital technologies, video art is a still offbeat yet increasingly popular form of art – which should not be confused with experimental film!

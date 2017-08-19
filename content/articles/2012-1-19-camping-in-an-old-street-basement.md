@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Don't judge a place by its handle
 date: "2012-01-19 21:03:54 +0000"
+
 # Attributes from Felix Online V1
 id: "2025"
 old_path: /music/2025/camping-in-an-old-street-basement
 aliases:
  - /music/2025/camping-in-an-old-street-basement
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 As acronyms go, the one belonging to the _City Arts & Music Project _is a bit awkward. The same goes for the name of its nightclub: _CAMP Basement_.

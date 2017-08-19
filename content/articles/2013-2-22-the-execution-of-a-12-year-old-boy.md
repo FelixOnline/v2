@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It is vital that the international community acknowledge the realities of the war in Sri Lanka, argues Visakan Balakumar
 date: "2013-02-22 10:34:48 +0000"
+
 # Attributes from Felix Online V1
 id: "3379"
 old_path: /comment/3379/the-execution-of-a-12-year-old-boy
 aliases:
  - /comment/3379/the-execution-of-a-12-year-old-boy
+imported: true
+comments:
+ - Firstly I would like to point out that I have mentioned that there were war crimes committed on both sides The reason I havent described them specifically is because whilst there has been documented evidence of government soldiers summarily executing unarmed people and sexually abusing women there is no such evidence to corroborate allegations against the LTTE Its not hard to realise why this is the case the reason is that the Sri Lankan government didnt allow journalists into the war zone so that they could cover up their own litany of war crimes Therefore the logical way to move forward and achieve justice and accountability which is a prerequisite to any reconciliation is to conduct an independent investigation into allegations based on the final stage of the armed period of the conflict Secondly the armies of sovereign states should be held to a higher level of responsibility and conduct than rebel groups Finally Id like to point out that the LTTE is no longer a functioning entity Howev
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Firstly I would like to point out that I have mentioned that there were war crimes committed on both sides The reason I havent described them specifically is because whilst there has been documented evidence of government soldiers summarily executing unarmed people and sexually abusing women there is no such evidence to corroborate allegations against the LTTE Its not hard to realise why this is the case the reason is that the Sri Lankan government didnt allow journalists into the war zone so that they could cover up their own litany of war crimes Therefore the logical way to move forward and achieve justice and accountability which is a prerequisite to any reconciliation is to conduct an independent investigation into allegations based on the final stage of the armed period of the conflict Secondly the armies of sovereign states should be held to a higher level of responsibility and conduct than rebel groups Finally Id like to point out that the LTTE is no longer a functioning entity Howev
-imported: true
 ---
 
 It is a war that has produced some of humanity’s most shocking and depraved images. But the new photographic evidence, released by Channel 4 News last Monday, is perhaps the most disturbing yet. The first photo shows Balachandran Prabakaran, the 12-year-old son of a Tamil Tiger, being held captive by the Sri Lankan army and looking up anxiously from a fortified bunker. A second photo shows him nervously eating a snack, whilst being watched by a government soldier. Less than two hours later, he will be taken, executed at gun point – and then photographed a third time.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An exciting virtual trading game for university students
 date: "2012-03-01 22:46:41 +0000"
+
 # Attributes from Felix Online V1
 id: "2291"
 old_path: /biz/2291/stay-ahead-of-the-game-with-traderversity
 aliases:
  - /biz/2291/stay-ahead-of-the-game-with-traderversity
+imported: true
+comments:
+ - Did your editor know you were providing free advertising adding no new content to a press releaseIs it plagiarism when an article such as this one is copied wordforword from an earlier article 270112httpwwweasiercom98760studentsstayaheadgametraderversityhtml Its a press release and I had full acknowledgment from Chris hobcroft one of the guys behind making traderversity and its owner company copper dimeYes I informed them it was a press release So it was completely up to the editor to post this article and clearly they thought it was fit for the section in felixI hope Felix got paid for this article
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Did your editor know you were providing free advertising adding no new content to a press releaseIs it plagiarism when an article such as this one is copied wordforword from an earlier article 270112httpwwweasiercom98760studentsstayaheadgametraderversityhtml Its a press release and I had full acknowledgment from Chris hobcroft one of the guys behind making traderversity and its owner company copper dimeYes I informed them it was a press release So it was completely up to the editor to post this article and clearly they thought it was fit for the section in felixI hope Felix got paid for this article
-imported: true
 ---
 
 Traderversity is an exciting new, free, virtual trading game designed exclusively for UK university students. The interactive online game at [www.traderversity.com](http://www.traderversity.com) lets students try their hand at trading with real-time access to the stock market without investing any real money. Creating healthy competition, players can get to grips with the basics of trading, interact with other student traders and be in with the chance to win a share of the £5,000 monthly prize fund!

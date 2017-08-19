@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ka-ching!
 date: "2017-05-12 16:48:54 +0100"
+
 # Attributes from Felix Online V1
 id: "6941"
 old_path: /news/6941/union-reels-in-34000-from-postgrad-graduation-day
 aliases:
  - /news/6941/union-reels-in-34000-from-postgrad-graduation-day
+imported: true
+comments:
+ - Tbf to College and I am not one to normally praise them although this article insinuates theyre doing something wrong with their ticket pricing etc I think wed all agree that wed prefer to graduate in the RAH than a dusty lecture hall Free graduations  dusty lecture hall Slightly pricey graduation  Royal Albert Hall I choose the latter and fake newsclickbait headlines sorry Felix P should never detract from that fact
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Tbf to College and I am not one to normally praise them although this article insinuates theyre doing something wrong with their ticket pricing etc I think wed all agree that wed prefer to graduate in the RAH than a dusty lecture hall Free graduations  dusty lecture hall Slightly pricey graduation  Royal Albert Hall I choose the latter and fake newsclickbait headlines sorry Felix P should never detract from that fact
-imported: true
 ---
 
 Remember last week’s postgrad graduation day? It made the Union of ton of dough. The largest graduation ceremony to date which saw a record of 9,400 guests attend, brought Union shops and outlets a total of £34,715. That’s about 13 grand more than last year and eight grand more than the record year of 2015.

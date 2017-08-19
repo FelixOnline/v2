@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Trust 'furious' over reports suggesting site closures at Paddington and Charing Cross Hospital
 date: "2011-09-10 15:40:50 +0100"
+
 # Attributes from Felix Online V1
 id: "1455"
 old_path: /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
 aliases:
  - /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
+imported: true
+comments:
+ - Nah we arent undoubtedly worried about these developments There isnt really anything to be worried about After all ICH is far from the only NHS trust thats in debt Jam your sensationalist hype
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Nah we arent undoubtedly worried about these developments There isnt really anything to be worried about After all ICH is far from the only NHS trust thats in debt Jam your sensationalist hype
-imported: true
 ---
 
 A heated exchange has broken out between Imperial College Healthcare NHS Trust and _The Independent_ newspaper, amid fears that St Mary’s Hospital, based at Paddington, will be closed and sold for housing.

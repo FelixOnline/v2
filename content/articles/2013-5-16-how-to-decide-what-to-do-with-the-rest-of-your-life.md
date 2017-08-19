@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Mark Frederick gives you some tips on how to decide what you want to do post Imperial
 date: "2013-05-16 18:49:05 +0100"
+
 # Attributes from Felix Online V1
 id: "3586"
 old_path: /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
 aliases:
  - /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
+imported: true
+comments:
+ - Wonderful priutces Meghan Diesel is such a snow dog   I love the priutces of him waiting for Casey and the  Diesel sandwich  Once again its hard for me to pick my favorites since all of your shots are lovely I enjoy seeing your priutces of the snow on the branches and plants   those scenes always take me back to being a kid in Pittsburgh and playing in the snow on an unscheduled day off from school I love seeing snow on evergreens Hope you keep warm while you play in the snow some more You just know that Diesel will want to go back out and catch some more snowballsJust incredible you guys we have been wnoierdng how you were in this snow storm  looks like you are going to be as cold as we are here in Vermont and with a lot more snow    Looks like you are enjoying this rare occasion  Love the photos  Have funLove from Vermont xoxo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wonderful priutces Meghan Diesel is such a snow dog   I love the priutces of him waiting for Casey and the  Diesel sandwich  Once again its hard for me to pick my favorites since all of your shots are lovely I enjoy seeing your priutces of the snow on the branches and plants   those scenes always take me back to being a kid in Pittsburgh and playing in the snow on an unscheduled day off from school I love seeing snow on evergreens Hope you keep warm while you play in the snow some more You just know that Diesel will want to go back out and catch some more snowballsJust incredible you guys we have been wnoierdng how you were in this snow storm  looks like you are going to be as cold as we are here in Vermont and with a lot more snow    Looks like you are enjoying this rare occasion  Love the photos  Have funLove from Vermont xoxo
-imported: true
 ---
 
 Deciding what to do with ‘the rest of your life’ after graduation can be a daunting prospect. If you feel you have become pigeon-holed with too few opportunities available to you, or that you are capable of doing anything but don’t know how to choose which road to take, then this article is for you What follows should give you some perspective and suggest some simple steps towards getting a job after graduation, moving on to further studies or even doing something completely different.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Two Alexs go head-to-head over new degree proposals
 date: "2011-10-20 22:59:18 +0100"
+
 # Attributes from Felix Online V1
 id: "1577"
 old_path: /comment/1577/could-the-american-university-system-work-here
 aliases:
  - /comment/1577/could-the-american-university-system-work-here
+imported: true
+comments:
+ - I find the system of averaging out of 40 quite peculiar as well and I agree it does appear some alternative where marks are still representative could be beneficial At Imperial people can and do change courses but only very occasionallyAlex Nowbar Your argument for the No side barely even address the question of whether GPAs should be implemented in the UK Your entire piece seemed to be an ill informed argument as to why British students should not study in the USA not whether the UK should implement GPA scoringAnd in response to the comment At Imperial people can and do change courses but only very occasionallyThis isnt always true I studied at Imperial and I tried to change course after my first year I was told I could not despite the course I wanted to move to having identical entry requirements and me having a good grade for my first year The only option I was given was to quit the college and reapply the next year which I obviously didnt do This res
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I find the system of averaging out of 40 quite peculiar as well and I agree it does appear some alternative where marks are still representative could be beneficial At Imperial people can and do change courses but only very occasionallyAlex Nowbar Your argument for the No side barely even address the question of whether GPAs should be implemented in the UK Your entire piece seemed to be an ill informed argument as to why British students should not study in the USA not whether the UK should implement GPA scoringAnd in response to the comment At Imperial people can and do change courses but only very occasionallyThis isnt always true I studied at Imperial and I tried to change course after my first year I was told I could not despite the course I wanted to move to having identical entry requirements and me having a good grade for my first year The only option I was given was to quit the college and reapply the next year which I obviously didnt do This res
-imported: true
 ---
 
 __Yes - Alexander Karapetian__

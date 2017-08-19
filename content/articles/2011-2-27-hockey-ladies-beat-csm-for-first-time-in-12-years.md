@@ -4,16 +4,24 @@ title: >
 subtitle: >
   But the men have to wait another year to regain the Sharpley Cup
 date: "2011-02-27 19:54:46 +0000"
+
 # Attributes from Felix Online V1
 id: "922"
 old_path: /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
 aliases:
  - /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
+imported: true
+comments:
+ - When I saw the name of the music my first thought was about that music from the game Okami  Sun Rises   that theme is ratehr epicWell besides the name these musics have nothing in common lolThe release of the disc is set for today rightIs kind of weird to see Garanhuns in this way  Feels more dramatic and beautifulI have had around 30 tdears so far on several demo accounts with Forex MegaDroid and  until now all of them where profitableToday I started to use Forex MegaDroid on my Easy Forex  Live account It took 2 tdears both winners So far so good  patch   cheap auto insutance   online cialis   insurance apply   california car insurance how it works
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - When I saw the name of the music my first thought was about that music from the game Okami  Sun Rises   that theme is ratehr epicWell besides the name these musics have nothing in common lolThe release of the disc is set for today rightIs kind of weird to see Garanhuns in this way  Feels more dramatic and beautifulI have had around 30 tdears so far on several demo accounts with Forex MegaDroid and  until now all of them where profitableToday I started to use Forex MegaDroid on my Easy Forex  Live account It took 2 tdears both winners So far so good  patch   cheap auto insutance   online cialis   insurance apply   california car insurance how it works
-imported: true
 ---
 
 It may have been 09:00 on a cold, rainy Saturday morning but the spectators for the ladies hockey were in for a treat.

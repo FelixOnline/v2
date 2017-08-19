@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Malia Bouattia needs to accept that some will disagree with her
 date: "2016-04-29 10:19:01 +0100"
+
 # Attributes from Felix Online V1
 id: "6095"
 old_path: /comment/6095/the-nus-doesnt-represent-jewish-students
 aliases:
  - /comment/6095/the-nus-doesnt-represent-jewish-students
+imported: true
+comments:
+ - Im sure shed be furious if a recent Presidentelect suggested that Mecca should be taken away from the MuslimsSo why this double standard for those of the Jewish faithWouldnt be at all surprised if we see her on an ISIS recruitment video in a few years timeAnd maybe youll appear in West Bank settlements advocacy campaigns tooNot even remotely the same type of thingFelix censoring their comments again Only willing to publish comments that fit in with your agenda Good practice for real world journalism I suppose But not exactly encouraging healthy debateZa2yjv  kavwvzwmmfyr urlhttpggptpfrjoojdcomggptpfrjoojdurl linkhttpxkveqpxxbojlcomxkveqpxxbojllink httpqdnbsouhlxxacomvaamBp httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomWQfDW1  fktuppnnuwqk urlhttpmyzgbvwbgkqgcommyzgbvwbgkqgurl linkhttptjtuxogpbudkcomtjtuxogpbudklink httpgwcbqwqfxaqjcomhttpflagylantibioticmetronidazolenet  Flagyl Cialis httplevitra20mgpricescom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im sure shed be furious if a recent Presidentelect suggested that Mecca should be taken away from the MuslimsSo why this double standard for those of the Jewish faithWouldnt be at all surprised if we see her on an ISIS recruitment video in a few years timeAnd maybe youll appear in West Bank settlements advocacy campaigns tooNot even remotely the same type of thingFelix censoring their comments again Only willing to publish comments that fit in with your agenda Good practice for real world journalism I suppose But not exactly encouraging healthy debateZa2yjv  kavwvzwmmfyr urlhttpggptpfrjoojdcomggptpfrjoojdurl linkhttpxkveqpxxbojlcomxkveqpxxbojllink httpqdnbsouhlxxacomvaamBp httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomWQfDW1  fktuppnnuwqk urlhttpmyzgbvwbgkqgcommyzgbvwbgkqgurl linkhttptjtuxogpbudkcomtjtuxogpbudklink httpgwcbqwqfxaqjcomhttpflagylantibioticmetronidazolenet  Flagyl Cialis httplevitra20mgpricescom
-imported: true
 ---
 
 On Wednesday 20th April, the NUS voted in Malia Bouattia as the first female black Muslim president. It is great that at a time when Islamophobia is increasing and London mayoral candidate Sadiq Khan is pettily attacked over past acquaintances, the largest student body stands together with it’s minorities by celebrating diversity, voting in someone with immense life experience in wartime troubles.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Imperial discDoctors swan through nationals
 date: "2016-05-06 10:22:54 +0100"
+
 # Attributes from Felix Online V1
 id: "6138"
 old_path: /sport/6138/flying-high-with-imperial-frisbee
 aliases:
  - /sport/6138/flying-high-with-imperial-frisbee
+imported: true
+comments:
+ - Great looking site Think you did a whole lot of your ownyour very own codingfifa coins httpavalancheesportscoukforumsintroductions7161fifa17coinsletyoubecapableThe youre really talented urlhttpswwwdiigocomuserokaymmookaymmourlThank you for your helping handbuy cheap NBA 2K17 MT httpchivueplanetcomprofilesblogaspbid257344You started it fifa 17 android coins httpwwwcncseriescomforum32483I thought I should give it a shotUPAlbion httpalbiononlineblogpl20160520playingthealbiongameonatabletthis is a very useful web sitebuy Dofus Touch Kamas httpadvertiserhodeislandcomeventsdofustouchbuyingreliablekamasherehtmlYou fall for it every timecheap Dofus Touch Kamas for sale httpdofustouchwordpressypl20161219dofustouchkamaspromotioncheapestdofustouchkamasThat makes two of ustextile testing instruments httpwwwescolapaidoscomwikipaidosindexphptitleUserAbramsonRodman277
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great looking site Think you did a whole lot of your ownyour very own codingfifa coins httpavalancheesportscoukforumsintroductions7161fifa17coinsletyoubecapableThe youre really talented urlhttpswwwdiigocomuserokaymmookaymmourlThank you for your helping handbuy cheap NBA 2K17 MT httpchivueplanetcomprofilesblogaspbid257344You started it fifa 17 android coins httpwwwcncseriescomforum32483I thought I should give it a shotUPAlbion httpalbiononlineblogpl20160520playingthealbiongameonatabletthis is a very useful web sitebuy Dofus Touch Kamas httpadvertiserhodeislandcomeventsdofustouchbuyingreliablekamasherehtmlYou fall for it every timecheap Dofus Touch Kamas for sale httpdofustouchwordpressypl20161219dofustouchkamaspromotioncheapestdofustouchkamasThat makes two of ustextile testing instruments httpwwwescolapaidoscomwikipaidosindexphptitleUserAbramsonRodman277
-imported: true
 ---
 
 Imperial’s Ultimate Frisbee club, more commonly known as the discDoctors (or dD) were in a position to bring both a women’s team and a men’s team to nationals for the first time ever, with the men having qualified in the league throughout the season, and the women finishing highly at Outdoor Regionals qualifier back in March.

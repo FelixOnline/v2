@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An all authentic Korean food experience
 date: "2010-12-09 19:55:56 +0000"
+
 # Attributes from Felix Online V1
 id: "512"
 old_path: /food/512/no-missiles-at-assa
 aliases:
  - /food/512/no-missiles-at-assa
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Assa is a humble little establishment in the Little Korea of Soho, a short stretch of shops with a conspicuously significant numbers of Korean eateries. The best sign of culinary authenticity is the presence of actual Koreans in a Korean restaurant and on this front Assa did amazingly well. The place was bustling with Koreans and it was reassuring to see them tucking into bubbling pots of kimchi stews and hearing the sounds of the dolsot bibimbap sizzling away. Seriously though, do you see the Japanese in Yo-Sushi, or Italians in Pizza Hut?

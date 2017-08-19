@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Whistleblower is truly an on-screen gem - shame it missed out on a box office run
 date: "2012-01-12 22:38:38 +0000"
+
 # Attributes from Felix Online V1
 id: "1987"
 old_path: /film/1987/overlooked-dvd-of-the-week-13-january
 aliases:
  - /film/1987/overlooked-dvd-of-the-week-13-january
+imported: true
+comments:
+ - Great post I was checking cosnotuiunly this blog and Im impressed Extremely useful info particularly the last part   I care for such info a lot I was looking for this particular information for a long time Thank you and best of luckI am not sure where you are getting your info but great topic I needs to spend some time lnnarieg more or understanding more Thanks for magnificent info I was looking for this information for my mission
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - Great post I was checking cosnotuiunly this blog and Im impressed Extremely useful info particularly the last part   I care for such info a lot I was looking for this particular information for a long time Thank you and best of luckI am not sure where you are getting your info but great topic I needs to spend some time lnnarieg more or understanding more Thanks for magnificent info I was looking for this information for my mission
-imported: true
 ---
 
 ###  The Whistleblower

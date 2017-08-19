@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Awesome night of Felix-approved music coming to you Union
 date: "2011-01-20 20:04:07 +0000"
+
 # Attributes from Felix Online V1
 id: "622"
 old_path: /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
 aliases:
  - /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
+imported: true
+comments:
+ - you are mentioning a good point web enabling is definitely required for this work
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - you are mentioning a good point web enabling is definitely required for this work
-imported: true
 ---
 
 Students of Imperial College, UNITE! Sorry, I’ve always wanted to say that.

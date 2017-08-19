@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Six months to leave the space after lease is rescinded Opticians told a catering facility will replace them
 date: "2013-06-13 23:16:44 +0100"
+
 # Attributes from Felix Online V1
 id: "3691"
 old_path: /news/3691/opticians-on-walkway-shutting-down
 aliases:
  - /news/3691/opticians-on-walkway-shutting-down
+imported: true
+comments:
+ - If it doesnt get used enough then I think its fair However I wouldnt agree that another catering outlet is what we need But we need more salad bars on campusMore weak watery coffee shortdated petrol station sandwiches and stale soggy baguettes  Supposedly this will improve the student experience and move us another point up the league tables so thats all right thenThe unbelievably large number of catering facilities on campus is very worrying  Study space  nahbaguettes  Teaching space nahbaguettes  Maintain good eye care nahbaguettes  Imperial Westfield shopping experiencebaguettes baguettes get em while theyre soggy theyre luvvly hails the recotor over the Queens LawnIs this really what college deems to be a good student experience the oft touted excuse for cultural vandalism  I dont think so  Theres a very good reason such announcements are made during exam time and end of term  Student body too preoccupied to see whats going on and Felix off air
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If it doesnt get used enough then I think its fair However I wouldnt agree that another catering outlet is what we need But we need more salad bars on campusMore weak watery coffee shortdated petrol station sandwiches and stale soggy baguettes  Supposedly this will improve the student experience and move us another point up the league tables so thats all right thenThe unbelievably large number of catering facilities on campus is very worrying  Study space  nahbaguettes  Teaching space nahbaguettes  Maintain good eye care nahbaguettes  Imperial Westfield shopping experiencebaguettes baguettes get em while theyre soggy theyre luvvly hails the recotor over the Queens LawnIs this really what college deems to be a good student experience the oft touted excuse for cultural vandalism  I dont think so  Theres a very good reason such announcements are made during exam time and end of term  Student body too preoccupied to see whats going on and Felix off air
-imported: true
 ---
 
 The optician on the Sherfield Walkway is set to close. Just before Easter, the optician was called and told that the lease is being rescinded and that they have six months to leave – serving them notice is in the provisions of the lease. They will be gone by September and have been told that a new catering facility will be in their place.

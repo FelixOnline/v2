@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Can't sit through three hours of Spaghetti Western? Try these on for size instead...
 date: "2015-12-06 14:35:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5806"
 old_path: /film/5806/the-top-western-films-that-arent-the-good-the-bad-and-the-ugly
 aliases:
  - /film/5806/the-top-western-films-that-arent-the-good-the-bad-and-the-ugly
+imported: true
+comments:
+ - cherap fake nfl jerseys Chiocago Beaars Jersey cheap fake nfl jerseysUGGS factory outlet store online cheap nfl jerseys usa UGGS factory outlet sgore onlinewwwcoachoutletcom Loss Angeles Kings wwwcoachoutletcomuggvs outlet store online discount uggs saleuggs outlet store onlline chinese wholesale nhl jerseys UGGS factory outlet store onlineThe wholesale jerseys outlet sale right now wholesale fashionable sports nike NFL jerseys from China are sellingwe offer fast shipment  good quality to youcheck us out More From wwwwholesalejerseyschinacomUGGS factory outlet store online nffl wholesale jerseys uggs outlet store onlinecheap fake nnfl jerseeys Cleveland Browns Jersey cheap fake nfl jerseysdiscount uggs sale cheap nhl jerseys china authentic discount uggs saleuggs otlet store online wwwuggsoutletgoodscom cheap nfl jerseys for sale uggs outlet store onlineThe wholesale jerseys outlet sale right now wholesale fashionable sports nike NFL jerseys from China are selling we o
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cherap fake nfl jerseys Chiocago Beaars Jersey cheap fake nfl jerseysUGGS factory outlet store online cheap nfl jerseys usa UGGS factory outlet sgore onlinewwwcoachoutletcom Loss Angeles Kings wwwcoachoutletcomuggvs outlet store online discount uggs saleuggs outlet store onlline chinese wholesale nhl jerseys UGGS factory outlet store onlineThe wholesale jerseys outlet sale right now wholesale fashionable sports nike NFL jerseys from China are sellingwe offer fast shipment  good quality to youcheck us out More From wwwwholesalejerseyschinacomUGGS factory outlet store online nffl wholesale jerseys uggs outlet store onlinecheap fake nnfl jerseeys Cleveland Browns Jersey cheap fake nfl jerseysdiscount uggs sale cheap nhl jerseys china authentic discount uggs saleuggs otlet store online wwwuggsoutletgoodscom cheap nfl jerseys for sale uggs outlet store onlineThe wholesale jerseys outlet sale right now wholesale fashionable sports nike NFL jerseys from China are selling we o
-imported: true
 ---
 
 **The Top Western films that aren’t _The Good, the Bad, and the Ugly_**

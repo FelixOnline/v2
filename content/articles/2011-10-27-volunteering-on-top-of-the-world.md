@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Canoeing with crocodiles, bamboo bungee-jumping and mad motorists – Luke Sanders on an exhilarating Nepalese adventure
 date: "2011-10-27 23:16:21 +0100"
+
 # Attributes from Felix Online V1
 id: "1620"
 old_path: /travel/1620/volunteering-on-top-of-the-world
 aliases:
  - /travel/1620/volunteering-on-top-of-the-world
+imported: true
+comments:
+ - great article on volunteering in Nepal coincidentally we have just set up a new international volunteering project at Imperial Project NepalCheck out more details here if youre interestedhttpwwwfacebookcomgroupsprojectnepal
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - great article on volunteering in Nepal coincidentally we have just set up a new international volunteering project at Imperial Project NepalCheck out more details here if youre interestedhttpwwwfacebookcomgroupsprojectnepal
-imported: true
 ---
 
 Nepal provided me with one of the most surreal experiences of my life; from the touchy landing on the pothole-ridden runway, to the ‘seductive’ dancing policeman in one of the local bars. Looking for an experience of a lifetime, I wasn’t disappointed.

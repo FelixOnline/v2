@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Discussing the Imperial College's carbon footprint!
 date: "2014-06-12 17:54:36 +0100"
+
 # Attributes from Felix Online V1
 id: "4687"
 old_path: /features/4687/energy-efficiency-at-imperial--how-green-are-we
 aliases:
  - /features/4687/energy-efficiency-at-imperial--how-green-are-we
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial is a big organisation. Fifteen thousand students, six thousand members of staff, nine campus areas and a billion pound annual budget. By account of its sheer size, the College consumes a great deal of resources: energy, plastics, water, lavatory paper, and it all stacks up. Fortunately, Imperial’s commitment to reducing waste and increasing energy efficiency was enhanced in 2008 with a commitment to cut the College’s carbon emissions by 2014. We’ll learn early next year if we’ve hit the target, but the signs are promising.

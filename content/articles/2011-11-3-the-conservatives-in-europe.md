@@ -4,16 +4,23 @@ title: >
 subtitle: >
   David Cameron is still feeling blue about events on the continent
 date: "2011-11-03 20:07:10 +0000"
+
 # Attributes from Felix Online V1
 id: "1662"
 old_path: /politics/1662/the-conservatives-in-europe
 aliases:
  - /politics/1662/the-conservatives-in-europe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week was a particularly brutal one for David Cameron and his policy on Europe. First the French president Nicholas Sarkozy told him to “shut up” over unhelpful criticisms over the Euro. To make matters worse, on his return, Mr Cameron faced an 81 member backbench rebellion over a proposed referendum on whether Britain should remain in the EU, withdraw, or take certain powers back from Brussels. This rebellion came despite a three line whip.

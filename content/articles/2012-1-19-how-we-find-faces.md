@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Our face is one of the main things that identifies us as an individual.
 date: "2012-01-19 20:13:08 +0000"
+
 # Attributes from Felix Online V1
 id: "2009"
 old_path: /science/2009/how-we-find-faces
 aliases:
  - /science/2009/how-we-find-faces
+imported: true
+comments:
+ - Etc Etc Interesting point I dont know how it is with other brain scientists but in the case of Zeki his book retclefs deeply on Plato and Schopenhauer and connects them to the new brain science In my exchanges with Zeki he seems to value many lines of inquiry and he emphasizes that the science of visual perception and visual cognition are very much in their infancy so theres room for many new theoretical frameworksSam thanks for that really illuminating story By understanding how we think and how we see we can definitely draw and paint better Betty Edwards has been a great contributor to this ideaAnonymous Ive mentioned animals studies in the field of eyetracking and there are certainly primate studies on mirror neurons and such Again thats an area where theres much more to learnAnon 1 Not familiar with that show Is it on YouTubeMdMattin Ive heard of those studies on direction of gaze vs cognition Do you have linksLadiesFor men sexual atoaictrtn
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Etc Etc Interesting point I dont know how it is with other brain scientists but in the case of Zeki his book retclefs deeply on Plato and Schopenhauer and connects them to the new brain science In my exchanges with Zeki he seems to value many lines of inquiry and he emphasizes that the science of visual perception and visual cognition are very much in their infancy so theres room for many new theoretical frameworksSam thanks for that really illuminating story By understanding how we think and how we see we can definitely draw and paint better Betty Edwards has been a great contributor to this ideaAnonymous Ive mentioned animals studies in the field of eyetracking and there are certainly primate studies on mirror neurons and such Again thats an area where theres much more to learnAnon 1 Not familiar with that show Is it on YouTubeMdMattin Ive heard of those studies on direction of gaze vs cognition Do you have linksLadiesFor men sexual atoaictrtn
-imported: true
 ---
 
 Babies have a tendency to attend to face and “face-like” stimuli (such as a triangle on a point as opposed to on a base). With faces practically hard-wired into our systems from a young age, it makes sense that there is a part of the brain dedicated to recognising faces in opposition to non faces – the fusiform gyrus.

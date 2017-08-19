@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Butcher says students and sabbs need to start engaging more
 date: "2014-12-11 19:59:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5024"
 old_path: /comment/5024/just-how-divided-is-our-union
 aliases:
  - /comment/5024/just-how-divided-is-our-union
+imported: true
+comments:
+ - Completely agreeWhile the dishonesty from the rugby club was in hindsight not the best course of action it was done out of fear that the Union would work against them as agents who dish punishment it was in many peoples minds it was the rugby club vs the Union This is an absurd position to be inCurrently loyalties of club members are to their club then their management group weak then to the Union even weaker Clubs dont see themselves as part of the Union its viewed as a pot of money and the fun police The Union does enable good new stuff to happen unfortunately this is far too often overshadowed by the negatives things like the attempted ban on drinking games despite some overzealous barstaff students are still drinking pints sometimes quickly in our bars So how to go about correcting this How to get Clubs to buy in to the Union I think Georges idea of having a Sabb adopted by teams for one night is a good one  though not many would do it willingly feeling that B
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Completely agreeWhile the dishonesty from the rugby club was in hindsight not the best course of action it was done out of fear that the Union would work against them as agents who dish punishment it was in many peoples minds it was the rugby club vs the Union This is an absurd position to be inCurrently loyalties of club members are to their club then their management group weak then to the Union even weaker Clubs dont see themselves as part of the Union its viewed as a pot of money and the fun police The Union does enable good new stuff to happen unfortunately this is far too often overshadowed by the negatives things like the attempted ban on drinking games despite some overzealous barstaff students are still drinking pints sometimes quickly in our bars So how to go about correcting this How to get Clubs to buy in to the Union I think Georges idea of having a Sabb adopted by teams for one night is a good one  though not many would do it willingly feeling that B
-imported: true
 ---
 
 Imperial College Union is vast. It has 344 different societies, and every year they collectively turn over £2 million. The entire Union turns over £7 million. There are 3000 different society committee positions and 40% of undergraduate students are a member of at least one club or society.

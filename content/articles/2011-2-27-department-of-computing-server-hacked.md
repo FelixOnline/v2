@@ -4,16 +4,24 @@ title: >
 subtitle: >
   ICT tells computing students to change their passwords
 date: "2011-02-27 11:47:44 +0000"
+
 # Attributes from Felix Online V1
 id: "896"
 old_path: /news/896/department-of-computing-server-hacked
 aliases:
  - /news/896/department-of-computing-server-hacked
+imported: true
+comments:
+ - Actually its not so unreasonable to complain about the integrity of our files potentially including private keys to access other servers being compromised nor being unable to use SVN over SSH Unless Im missing a workaround somebody please tell me if I am this ban forces anyone using SVN to push changes from a DoC machine or the ICDoC wireless network It has brought work on my final year project to a halt as I have deltas to push from my home desktop Cue people telling me I should have used gitAnyway its more of an inconvenience than just needing to go into labs to workYes I previously tested the FireSheep tool in the department and reported on the findings but they were not at fault there The wireless network is intentionally unprotected and students are advised to use the WPA enabled Imperial wireless In this case however information is critical indeed and I will be further investigating what is being done and the causes over the weekThats outrageous noone else was told the
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Actually its not so unreasonable to complain about the integrity of our files potentially including private keys to access other servers being compromised nor being unable to use SVN over SSH Unless Im missing a workaround somebody please tell me if I am this ban forces anyone using SVN to push changes from a DoC machine or the ICDoC wireless network It has brought work on my final year project to a halt as I have deltas to push from my home desktop Cue people telling me I should have used gitAnyway its more of an inconvenience than just needing to go into labs to workYes I previously tested the FireSheep tool in the department and reported on the findings but they were not at fault there The wireless network is intentionally unprotected and students are advised to use the WPA enabled Imperial wireless In this case however information is critical indeed and I will be further investigating what is being done and the causes over the weekThats outrageous noone else was told the
-imported: true
 ---
 
 The Department of Computing (DoC) has suffered a [security breach](http://www.doc.ic.ac.uk/csg/about) on their main [shell server](http://en.wikipedia.org/wiki/Secure_Shell), named shell1, which provides secure shell access to the lab machines from outside the department. On the 24th of February, the College’s ICT Service Desk issued an email to DoC students informing them of a “security compromise” which was discovered on shell1, which affects a significant number of commonly used DoC systems. The email described the compromise as “root level”, indicating the breach made way for malicious activity under administrative privileges.

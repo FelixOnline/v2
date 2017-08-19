@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Peter Sarvari heads along to the Yard Theatre, where treacle meets tragedy
 date: "2014-12-18 16:09:34 +0000"
+
 # Attributes from Felix Online V1
 id: "5069"
 old_path: /arts/5069/stink-foot-greek-theatre-reimagined
 aliases:
  - /arts/5069/stink-foot-greek-theatre-reimagined
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two men fight half-naked in a puddle of golden syrup. One has a magic bow in his hand and the other tries to avoid him shooting down the lady playing Odysseus. The shadows on the wall reflect the play on the stage. An innovative performance, such that you have never seen before, at student friendly prices. A must-see.

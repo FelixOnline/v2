@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The latest from the Coen brothers is solid filmmaking, but lacks a sense of energy
 date: "2016-03-11 11:51:35 +0000"
+
 # Attributes from Felix Online V1
 id: "6035"
 old_path: /film/6035/not-all-roads-lead-to-rome
 aliases:
  - /film/6035/not-all-roads-lead-to-rome
+imported: true
+comments:
+ - Wow because this is great work Congrats and keep it upcsgo skins addon httpastridsnackwsblognflcoinshtmlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keyw
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow because this is great work Congrats and keep it upcsgo skins addon httpastridsnackwsblognflcoinshtmlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keyw
-imported: true
 ---
 
 Old Hollywood’ is a hell of a drug. In an age of social media saturation and online engagement, we long for the halcyon days of the glamourous star, as perfect and distant as a far-flung constellation. No matter how much dirt is unearthed on the horror of the old studio system – which includes forced marriages, arranged murders, and dodgy mob connections – there’s still an aching for a time long past; a willingness to swap enlightened debates about gender and race for just one more Rita Hayworth flick. _Hail, Caesar!_, the latest from the Coen brothers, takes aim at our love for nostalgia, throwing us into the wheelings and dealings of the chaotic world of Hollywood, communist tap dancers and all.

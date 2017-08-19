@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews the new Pro-Rector (Education) Debra Humphris
 date: "2013-01-18 00:06:09 +0000"
+
 # Attributes from Felix Online V1
 id: "3126"
 old_path: /news/3126/a-long-term-strategist
 aliases:
  - /news/3126/a-long-term-strategist
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Tim Arbabzadah: Does your background help you in your current role? Did you gain – I hate this word – transferrable skills?__

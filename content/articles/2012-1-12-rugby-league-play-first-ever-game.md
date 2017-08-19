@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Woking 54-22 Imperial
 date: "2012-01-12 20:10:26 +0000"
+
 # Attributes from Felix Online V1
 id: "1964"
 old_path: /sport/1964/rugby-league-play-first-ever-game
 aliases:
  - /sport/1964/rugby-league-play-first-ever-game
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 Imperial played their first competitive fixture of the season against Woking College in what was a development fixture for both sides. Woking won 54-22 but it proved a fantastic experience for the new Imperial team.

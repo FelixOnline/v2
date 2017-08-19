@@ -4,16 +4,23 @@ title: >
 subtitle: >
   #ImperialWomen can
 date: "2016-03-11 11:21:24 +0000"
+
 # Attributes from Felix Online V1
 id: "6018"
 old_path: /news/6018/international-womens-day-at-imperial
 aliases:
  - /news/6018/international-womens-day-at-imperial
+imported: true
+comments:
+ - Good Cool I love your this bolgurlhttptgehiphopcomprofilesblogssomebasictipsforbladesoulBlade  Soul ItemsurlYour company is very impressive urlhttpsportstforumcitycomviewtopicphpt6759Buy Blade And Soul GoldurlToday looks great urlhttpfifa16tipstumblrcomr4pgurl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good Cool I love your this bolgurlhttptgehiphopcomprofilesblogssomebasictipsforbladesoulBlade  Soul ItemsurlYour company is very impressive urlhttpsportstforumcitycomviewtopicphpt6759Buy Blade And Soul GoldurlToday looks great urlhttpfifa16tipstumblrcomr4pgurl
-imported: true
 ---
 
 International Women’s Day on Tuesday was marked by college’s ‘Women@Imperial’ week.

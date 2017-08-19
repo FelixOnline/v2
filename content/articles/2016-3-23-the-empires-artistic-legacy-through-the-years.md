@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Tate's exhibition on Art and the Empire more of the same.
 date: "2016-03-23 14:27:56 +0000"
+
 # Attributes from Felix Online V1
 id: "6079"
 old_path: /arts/6079/the-empires-artistic-legacy-through-the-years
 aliases:
  - /arts/6079/the-empires-artistic-legacy-through-the-years
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The power of Empire has been increasingly on my mind since moving to London; wandering around this beautiful city I can’t help but wonder how many of the buildings were funded by the spoils of Empire, and how much of that money was acquired at the expense of others. I was intrigued, therefore,when I heard about the Artist and Empire exhibition at the Tate Britain, which promised a view of Empire through a new lens: that of the artist.

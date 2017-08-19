@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The perils of the supermarket take their toll
 date: "2012-05-24 23:16:39 +0100"
+
 # Attributes from Felix Online V1
 id: "2487"
 old_path: /comment/2487/the-tale-of-why-i-hate-food-shopping
 aliases:
  - /comment/2487/the-tale-of-why-i-hate-food-shopping
+imported: true
+comments:
+ - Goodness me shopping is awkward isnt it I feel Ive found a kindred spirit
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Goodness me shopping is awkward isnt it I feel Ive found a kindred spirit
-imported: true
 ---
 
 Say you’re on your way home from college, and you need to pop into the supermarket for a cheeky bit of grocery shopping, even dropping by the reduced section to buy a whole cheesecake that not only you’re never going to finish before it goes off but you end up paying more per unit of cheesecake eaten despite the reduction, but you buy it anyway because it has a yellow sticker and you grab it like a magpie in a jewellery shop. There’s also that sense of accomplishment that you’ve ‘beaten’ the supermarket by not paying full price, even though you’re probably playing straight into their hands.

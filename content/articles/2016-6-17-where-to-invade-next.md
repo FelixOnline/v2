@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-17 09:38:52 +0100"
+
 # Attributes from Felix Online V1
 id: "6290"
 old_path: /film/6290/where-to-invade-next
 aliases:
  - /film/6290/where-to-invade-next
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Michael Moore is back. After an absence of seven years, the agent provocateur of American documentary filmmaking returns to our cinemas with his latest, _Where to Invade Next?_, a light-hearted look at the benefits of European-style socialism, which Moore hopes to import as a solution for the problems in his home country.

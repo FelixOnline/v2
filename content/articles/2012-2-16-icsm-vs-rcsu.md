@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The RCSU is challenging ICSMSU at the Tuesday Quiz Night on February 28 in FiveSixEight. Ahead of this, the Comment pages of Felix are taken over to see which is better.
 date: "2012-02-16 22:15:58 +0000"
+
 # Attributes from Felix Online V1
 id: "2210"
 old_path: /comment/2210/icsm-vs-rcsu
 aliases:
  - /comment/2210/icsm-vs-rcsu
+imported: true
+comments:
+ - Thanks for sharing Whit The first time Noah got sick he was 6 mohnts old and I rushed him to Riverside Hospital lol They gently sent me home and told me to call my pediatricianSivan just recently has been saying her back hurts for no reason after an xray ultrasound and blood work shes fine But that week of testing and holding my breath Forget it I have a whole new found thankfulness in my childrens healthWhen Craig was in 3rd grade he had a syncope epoisde like u have describe  Scary indeed and then the vagueness of the explainations and the cost of the testing u r left wondering  Well if its any comfort he is now 27 and I still wonder if it will happen again  Motherhood never ends in ur life time
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Thanks for sharing Whit The first time Noah got sick he was 6 mohnts old and I rushed him to Riverside Hospital lol They gently sent me home and told me to call my pediatricianSivan just recently has been saying her back hurts for no reason after an xray ultrasound and blood work shes fine But that week of testing and holding my breath Forget it I have a whole new found thankfulness in my childrens healthWhen Craig was in 3rd grade he had a syncope epoisde like u have describe  Scary indeed and then the vagueness of the explainations and the cost of the testing u r left wondering  Well if its any comfort he is now 27 and I still wonder if it will happen again  Motherhood never ends in ur life time
-imported: true
 ---
 
 ___Disclaimer: __If you read this as anything other than a bit of banterous free advertising for our joint event, then you read too hard._

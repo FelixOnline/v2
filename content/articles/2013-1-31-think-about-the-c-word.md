@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kate Pumphrey wants you to remember cancer awareness day
 date: "2013-01-31 23:12:51 +0000"
+
 # Attributes from Felix Online V1
 id: "3205"
 old_path: /news/3205/think-about-the-c-word
 aliases:
  - /news/3205/think-about-the-c-word
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Monday 4th February is National Cancer Awareness Day ](http://www.worldcancerday.org/)and the ten-month-and-twenty-seven day anniversary of my father’s death from – I need hardly say it – cancer.

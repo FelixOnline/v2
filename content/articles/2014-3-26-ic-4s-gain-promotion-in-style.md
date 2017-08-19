@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Saturday 15th March. A date all members of the 4th team had pencilled in their diary for a long time. The season decider awaited. A win would guarantee promotion. Anything else was unimaginable.
 date: "2014-03-26 15:29:45 +0000"
+
 # Attributes from Felix Online V1
 id: "4508"
 old_path: /sport/4508/ic-4s-gain-promotion-in-style
 aliases:
  - /sport/4508/ic-4s-gain-promotion-in-style
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Saturday 15th March. A date all members of the 4th team had pencilled in their diary for a long time. The season decider awaited. A win would guarantee promotion. Anything else was unimaginable. Fogo had consumed his handful of blueberries and bowl of porridge in order to increase his concentration levels by 15%. A pack of twisters had been gleefully destroyed by the team to obtain optimal glucose levels for the match. Before beginning our journey to #FortressHarlington, we had to wait for the arrival of the tardy Guy Frankel and Alex Cravingdale, who decided they would be even tardier and take about half an hour to grab some food from the library Café. Apparently an ABC (Avocado Bacon Chicken) was key to his recovery from a seemingly traumatic and exhausting two nights out, which included drinking one whole beer on Friday. Such is Cravingdale’s 90210-esque lifestyle.

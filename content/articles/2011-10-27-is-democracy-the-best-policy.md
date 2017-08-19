@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Investigating groups that oppose democracy
 date: "2011-10-27 22:57:30 +0100"
+
 # Attributes from Felix Online V1
 id: "1619"
 old_path: /politics/1619/is-democracy-the-best-policy
 aliases:
  - /politics/1619/is-democracy-the-best-policy
+imported: true
+comments:
+ - It is not hard to imagine what kind of morallysound decisions AbdurRaheem is thinking ofAs a muslim i mastered the art of reading between such lines b it is indeed very easy to imagine cutting hands of theives and stoning thats what your implying ehbut no it is very difficult to know what in fact he is talking about unless you look deeply into the matterand it is important to note that there is not a single country that exists right now neither Saudi nor Iran who are in fact following the islamic system that is decreed upon muslims I grew up studying sharia and islamic history since i was smallAnd as i live in lebanon a country which had been forced to have a democratic gov with christian presidentI tell you how lebanon has degraded since the fall of islamic ruling dont base ur knowledge on what uve been toldif you sincerely care to know youd consult sources not imaginationAddress Regents park mosque library first floor
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - It is not hard to imagine what kind of morallysound decisions AbdurRaheem is thinking ofAs a muslim i mastered the art of reading between such lines b it is indeed very easy to imagine cutting hands of theives and stoning thats what your implying ehbut no it is very difficult to know what in fact he is talking about unless you look deeply into the matterand it is important to note that there is not a single country that exists right now neither Saudi nor Iran who are in fact following the islamic system that is decreed upon muslims I grew up studying sharia and islamic history since i was smallAnd as i live in lebanon a country which had been forced to have a democratic gov with christian presidentI tell you how lebanon has degraded since the fall of islamic ruling dont base ur knowledge on what uve been toldif you sincerely care to know youd consult sources not imaginationAddress Regents park mosque library first floor
-imported: true
 ---
 
 Many people have argued that democracy is actually one of the most radical ideas in political history. To treat people as equals with equal votes sits well with most people today. We can also see the effects of ideas like these in the West in the last 300 years or so with mass education, rising standards of living, and the abolition of slavery, infanticide, child labour, serfdom and feudalism. There has also been greatly reduced infant mortality, religious persecution, racism, misogyny, superstition and war. The few wars that do occur tend to be tremendously more violent, but it is also a long-term trend that they are getting rarer.

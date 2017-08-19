@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICL women table tennis team battles to the top
 date: "2011-01-27 20:52:20 +0000"
+
 # Attributes from Felix Online V1
 id: "702"
 old_path: /sport/702/ladies-have-a-hot-first-term
 aliases:
  - /sport/702/ladies-have-a-hot-first-term
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 The Imperial Womens team are back and we are stronger than ever! After a frustrating couple of years trying to drum up interest amongst our female players, finally things have clicked into place. Nan and I were back after some busy times (we combined to win the BUCS Womens doubles bronze medal in 2007). We also welcomed Trang to the team, who was a mixed doubles bronze medallist for Cambridge University in the same year.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kanye West causes tidal waves with his eighth album
 date: "2016-02-19 12:19:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5942"
 old_path: /music/5942/the-life-of-pablo
 aliases:
  - /music/5942/the-life-of-pablo
+imported: true
+comments:
+ - Great looking website Presume you did a lot of your very own html codingBuy 2k15 VC Coins httpforumtronsmartcomforumvegas952068northropgrummanlandsusafdealforbrandnewlon11273Love the site really user friendly and lots to seebuy mt nba 2k16 httpwwwgamedesirecomdd16n2playercoinsbestshow_blog2555358viewblog_newI benefit from perusing your internet site Thanks for your timecs go skins paypal httpkoolfriendscomforumstopic36261the2kvintagefeaturesofcheapviewpost_id36873Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your key
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great looking website Presume you did a lot of your very own html codingBuy 2k15 VC Coins httpforumtronsmartcomforumvegas952068northropgrummanlandsusafdealforbrandnewlon11273Love the site really user friendly and lots to seebuy mt nba 2k16 httpwwwgamedesirecomdd16n2playercoinsbestshow_blog2555358viewblog_newI benefit from perusing your internet site Thanks for your timecs go skins paypal httpkoolfriendscomforumstopic36261the2kvintagefeaturesofcheapviewpost_id36873Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your key
-imported: true
 ---
 
 For those of us who have been following the run-up to _The Life of Pablo_ album, it’s been a ride. The release cycle was so messy at times many people began to expect disappointment. Four album names and endless delays later however, **Kanye West**’s seventh studio album has finally dropped. And, despite all the drama, _The Life of Pablo_ is absolutely phenomenal.

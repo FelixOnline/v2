@@ -4,16 +4,23 @@ title: >
 subtitle: >
   All you need is an internet connection and a subsciption and you’re ready to go
 date: "2016-02-05 12:49:47 +0000"
+
 # Attributes from Felix Online V1
 id: "5885"
 old_path: /tv/5885/rise-of-netflix-fall-of-cable
 aliases:
  - /tv/5885/rise-of-netflix-fall-of-cable
+imported: true
+comments:
+ - Forrestal also predicted the beginning of the Korean war almost 18 months before it hap27nedp16Oute the truth about the False FlagInside Job  job of 911Some have been trying but when Zionist owned Jewish media outlets dominate 96 of what Americans see and hear its going to be a long struggleWe dont even know all about JFKs murder since the government hasnt released all of its docsAnd that happened 49 years ago
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Forrestal also predicted the beginning of the Korean war almost 18 months before it hap27nedp16Oute the truth about the False FlagInside Job  job of 911Some have been trying but when Zionist owned Jewish media outlets dominate 96 of what Americans see and hear its going to be a long struggleWe dont even know all about JFKs murder since the government hasnt released all of its docsAnd that happened 49 years ago
-imported: true
 ---
 
 These past few years, we’ve seen a sudden shift in popularity of several online streaming sites with Netflix, Hulu and Amazon Prime being the most popular of the bunch. They’ve added competition into the television market and are growing in popularity by the day. Netflix have also been expanding their reach, now present in most countries around the world. With all this growth, it begs the question, can these online streaming sites replace live cable TV altogether?

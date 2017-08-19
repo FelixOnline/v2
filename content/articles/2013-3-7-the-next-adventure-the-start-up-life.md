@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Natasha Hodgson presents the benefits of an alternative career path
 date: "2013-03-07 21:08:01 +0000"
+
 # Attributes from Felix Online V1
 id: "3421"
 old_path: /biz/3421/the-next-adventure-the-start-up-life
 aliases:
  - /biz/3421/the-next-adventure-the-start-up-life
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The Next Adventure: Why The Start-Up Life Might Be For You.

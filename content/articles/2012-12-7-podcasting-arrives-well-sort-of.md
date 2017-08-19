@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Some have it, some don't
 date: "2012-12-07 00:53:50 +0000"
+
 # Attributes from Felix Online V1
 id: "3027"
 old_path: /news/3027/podcasting-arrives-well-sort-of
 aliases:
  - /news/3027/podcasting-arrives-well-sort-of
+imported: true
+comments:
+ - The comment about being able to catch up on lectures missed due to illness or job interviews is a valid one With students vying for industrial work placements having to miss multiple lectures it will be invaluablecan they please hurry up with this for those of us living at home with parents travelling 4560 minutes each way for one or 2 lectures sometimes isnt worth it not everyone can afford to live out and this would save a lot of time
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The comment about being able to catch up on lectures missed due to illness or job interviews is a valid one With students vying for industrial work placements having to miss multiple lectures it will be invaluablecan they please hurry up with this for those of us living at home with parents travelling 4560 minutes each way for one or 2 lectures sometimes isnt worth it not everyone can afford to live out and this would save a lot of time
-imported: true
 ---
 
 The implementationof video lecture recordings across the College has been a hot topic for discussion of late. Although video lectures have been piloted in Imperial for certain years in certain departments, the scheme is not yet available to all students.

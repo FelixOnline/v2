@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nine students take leading positions
 date: "2012-02-03 00:34:29 +0000"
+
 # Attributes from Felix Online V1
 id: "2122"
 old_path: /news/2122/imperial-storm-bp-semi-finals
 aliases:
  - /news/2122/imperial-storm-bp-semi-finals
+imported: true
+comments:
+ - I just want to tell you that I am newbie to blogs and aclultay loved your blog site Almost certainly Im likely to bookmark your blog post  You definitely come with fabulous stories Bless you for sharing with us your websiteThat it is foolhardy arlcite or provision of a dependent person in the family Ive been through it all it was hell for me then nebylo knowledge I now have the knowledge and my experience and I live happily ever after
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I just want to tell you that I am newbie to blogs and aclultay loved your blog site Almost certainly Im likely to bookmark your blog post  You definitely come with fabulous stories Bless you for sharing with us your websiteThat it is foolhardy arlcite or provision of a dependent person in the family Ive been through it all it was hell for me then nebylo knowledge I now have the knowledge and my experience and I live happily ever after
-imported: true
 ---
 
 The [BP Ultimate Field Trip](http://www.bp.com/fieldtrip) semi-finalists have been revealed, and include nine Imperial students. They will compete in the regional semi-final that will take place towards the end of February for the prize of a 6-8 week internship in Trinidad and Tobago in the Gulf of Mexico.

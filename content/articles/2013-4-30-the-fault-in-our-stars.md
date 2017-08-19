@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco on a profoundly excellent read
 date: "2013-04-30 14:49:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3506"
 old_path: /books/3506/the-fault-in-our-stars
 aliases:
  - /books/3506/the-fault-in-our-stars
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Freud was the first to identify the dualistic principle of Love and Death, personified in the Greek gods Eros and Thanatos, as a key component of the human psyche. In his description, the first is the drive for reproduction, the positive instinct of preservation and creation of life; but human beings also display an opposed destructive instinct towards others and sometimes themselves. Attempting to explain our every actions in these terms may be reductive; but in John Green’s fourth novel, The Fault In Our Stars, love and death become real forces, and their painful clash is the central theme of the book.

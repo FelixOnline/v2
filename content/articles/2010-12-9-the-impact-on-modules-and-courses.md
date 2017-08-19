@@ -4,16 +4,23 @@ title: >
 subtitle: >
   cuts to staff will not affect teaching
 date: "2010-12-09 21:27:40 +0000"
+
 # Attributes from Felix Online V1
 id: "534"
 old_path: /news/534/the-impact-on-modules-and-courses-
 aliases:
  - /news/534/the-impact-on-modules-and-courses-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - dr910
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "dr910"
 author_name: "Dakshaa Rai"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 While the Department of Life Sciences maintain that their courses will retain the current ìdepth and breadthî despite the proposed changes, information has surfaced which claims that the number of staff involved in teaching is to be severely reduced, including those convening certain courses.

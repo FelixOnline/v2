@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Demon Barber of Fleet Street takes a turn on Exhibition Road
 date: "2016-02-26 12:12:02 +0000"
+
 # Attributes from Felix Online V1
 id: "5989"
 old_path: /cands/5989/icu-mtsoc-presents-sweeney-todd
 aliases:
  - /cands/5989/icu-mtsoc-presents-sweeney-todd
+imported: true
+comments:
+ - Never would have thunk I would find this so insaepensibldExtremely informative look forwards to coming back againNHL 17 httpwwwneighbour123comblogshownhlcoins3wideneighborhoodbullieswhileinfameshockeyhallGreat looking website Think you did a whole lot of your ownyour very own html codingnba 2k17 coins httpwwwcamerestudentiitbari1256_nba_2k17_coins_plus_one_of_dukenukem_foreverFitoSpray      httpfitosprayspbru
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Never would have thunk I would find this so insaepensibldExtremely informative look forwards to coming back againNHL 17 httpwwwneighbour123comblogshownhlcoins3wideneighborhoodbullieswhileinfameshockeyhallGreat looking website Think you did a whole lot of your ownyour very own html codingnba 2k17 coins httpwwwcamerestudentiitbari1256_nba_2k17_coins_plus_one_of_dukenukem_foreverFitoSpray      httpfitosprayspbru
-imported: true
 ---
 
 Isuppose you can never really tell which of your friends would make the most convincing serial killer. When auditions were running for MTSoc’s production of Sweeney Todd back in December, the titular role of the murderous barber was hotly contested with auditionees flocking in from as far afield as King’s College to throw their hat into the ring. So when 2nd-year physicist Nick Bradley secured the part of Sweeney - undoubtedly one of the most coveted characters in all of musical theatre, and in his debut performance with the society no less – quite a few people were surprised.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Utsav Radia discusses new research on study drugs, and the problems they pose
 date: "2014-05-09 02:05:50 +0100"
+
 # Attributes from Felix Online V1
 id: "4572"
 old_path: /science/4572/boosting-your-brainpower
 aliases:
  - /science/4572/boosting-your-brainpower
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The London 2012 Olympics was not just a very fruitful and lucrative opportunity for the UK economy, which benefitted from a £9.9bn boost in trade and investment. It also placed a huge responsibility on the analytical chemists who had the job of identifying the drug cheats and keeping the Games fair.

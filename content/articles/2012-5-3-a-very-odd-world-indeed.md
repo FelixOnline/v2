@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laurence Pope on how Oddworld’s rampant industrialisation makes for a pretty cracking game series
 date: "2012-05-03 18:45:52 +0100"
+
 # Attributes from Felix Online V1
 id: "2417"
 old_path: /games/2417/a-very-odd-world-indeed
 aliases:
  - /games/2417/a-very-odd-world-indeed
+imported: true
+comments:
+ - Its 2 and its truly worth every pennyhttpstoresteampoweredcomapp15700I downloaded it and played it over Christmas and even though I admittedly didnt complete it I thoroughly enjoyed the game Its properly difficult and makes you think more than pretty much all games Ive played in the last 23 years bar Portal and Limbo3One of my favourite games of all time I must play either Oddysee or Exoddus at least once a year Aside from the gameplay which is just stunning the thing I loved about these games the most was the atmosphere they created and the sheer loneliness I suppose that you felt whilst playing A great escapist pleasure
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its 2 and its truly worth every pennyhttpstoresteampoweredcomapp15700I downloaded it and played it over Christmas and even though I admittedly didnt complete it I thoroughly enjoyed the game Its properly difficult and makes you think more than pretty much all games Ive played in the last 23 years bar Portal and Limbo3One of my favourite games of all time I must play either Oddysee or Exoddus at least once a year Aside from the gameplay which is just stunning the thing I loved about these games the most was the atmosphere they created and the sheer loneliness I suppose that you felt whilst playing A great escapist pleasure
-imported: true
 ---
 
 It’s a shame Oddworld Inhabitants, an American game company founded way back when I was just knee-high to a grasshopper, stopped making games. Why? Because they made some pretty kick-ass stuff, that’s why. So kick-ass in fact that many modern-day game developers could learn a thing or two from them. They won’t, obviously — until reading this piece, that is. Maybe.

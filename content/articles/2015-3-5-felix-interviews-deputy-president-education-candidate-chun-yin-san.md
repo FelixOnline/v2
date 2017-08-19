@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:50:10 +0000"
+
 # Attributes from Felix Online V1
 id: "5348"
 old_path: /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
 aliases:
  - /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
+imported: true
+comments:
+ - fit flopsfitflops online httpfitflopsaublogspotcomfitflop australia salefitflop shops httpaustraliafitflopsiemillernetchristian louboutin biancachristian louboutin shoes httpcanadachristianlouboutinoutletblogspotcomGet the best anti aging skin care now in stock around and at the best pricehttpacheterciajispaschercom cialis httpprezzocia1isgenericocom cialis httpprixciajisgeneriquecom cialis achat httpcomprarcia1isgenericobaratonet precio cialis httpcomprargenericociajisespanacom cialiszXdpsY httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomBJzKVh httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomcialis sans ordonnance cialis achat cialis cialis achat cialis vente cialis cialis sin receta comprar cialis comprar cialis  cialis
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flopsfitflops online httpfitflopsaublogspotcomfitflop australia salefitflop shops httpaustraliafitflopsiemillernetchristian louboutin biancachristian louboutin shoes httpcanadachristianlouboutinoutletblogspotcomGet the best anti aging skin care now in stock around and at the best pricehttpacheterciajispaschercom cialis httpprezzocia1isgenericocom cialis httpprixciajisgeneriquecom cialis achat httpcomprarcia1isgenericobaratonet precio cialis httpcomprargenericociajisespanacom cialiszXdpsY httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomBJzKVh httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomcialis sans ordonnance cialis achat cialis cialis achat cialis vente cialis cialis sin receta comprar cialis comprar cialis  cialis
-imported: true
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

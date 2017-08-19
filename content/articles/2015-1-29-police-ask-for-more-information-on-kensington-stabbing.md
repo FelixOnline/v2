@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stabbing took place last Monday
 date: "2015-01-29 23:40:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5155"
 old_path: /news/5155/police-ask-for-more-information-on-kensington-stabbing
 aliases:
  - /news/5155/police-ask-for-more-information-on-kensington-stabbing
+imported: true
+comments:
+ - fitflops sale onlinefitflops cheap httpaustraliafitflopsiemillernetbirkenstocks australiagizeh birkenstock httpbirkenstockaustraliablogspotcomlouboutin pointed toechristian louboutin outlet store httpchristianlouboutincanadaoutletblogspotcomlouboutin flatschristian louboutin shoes online httpcanadachristianlouboutinblogspotcomcheap louboutinchristian louboutin canada sale httpcanadachristianlouboutinblogspotcomI love reading your site Thanks a toncsgo skins for sale httpwwwgameurzfrcommunityblogs2587rSNB5O  hawctentpnae urlhttprjrqyhylhjodcomrjrqyhylhjodurl linkhttppfiipmadyytzcompfiipmadyytzlink httpvvekokpdmzuxcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops sale onlinefitflops cheap httpaustraliafitflopsiemillernetbirkenstocks australiagizeh birkenstock httpbirkenstockaustraliablogspotcomlouboutin pointed toechristian louboutin outlet store httpchristianlouboutincanadaoutletblogspotcomlouboutin flatschristian louboutin shoes online httpcanadachristianlouboutinblogspotcomcheap louboutinchristian louboutin canada sale httpcanadachristianlouboutinblogspotcomI love reading your site Thanks a toncsgo skins for sale httpwwwgameurzfrcommunityblogs2587rSNB5O  hawctentpnae urlhttprjrqyhylhjodcomrjrqyhylhjodurl linkhttppfiipmadyytzcompfiipmadyytzlink httpvvekokpdmzuxcom
-imported: true
 ---
 
 Two men in their mid-20s were taken to hospital after a stabbing near Notting Hill Gate station in the early hours of Monday morning. They are both said to be in stable condition, but the first was described as serious and the second as critical.

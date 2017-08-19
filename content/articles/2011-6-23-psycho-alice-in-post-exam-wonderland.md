@@ -4,16 +4,24 @@ title: >
 subtitle: >
   DramSoc’s free re-imagining of the intoxicating tale goes on the rampage on the Queen’s Lawn
 date: "2011-06-23 21:01:05 +0100"
+
 # Attributes from Felix Online V1
 id: "1431"
 old_path: /arts/1431/psycho-alice-in-post-exam-wonderland
 aliases:
  - /arts/1431/psycho-alice-in-post-exam-wonderland
+imported: true
+comments:
+ - Come and see Alice tonight  last chance 630pm on the lawn unless it rains in which case well move to the union Then join us for drinks afterwardsMore info here httpwwwfacebookcomeventphpeid135225219887091
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
- - Come and see Alice tonight  last chance 630pm on the lawn unless it rains in which case well move to the union Then join us for drinks afterwardsMore info here httpwwwfacebookcomeventphpeid135225219887091
-imported: true
 ---
 
 Staring at a pile of Civ Eng textbooks proved too much for one Imperial student today, as Alice Liddell was reportedly seen wandering around the Queen’s Lawn talking to flowers. A friend told Felix that Alice had had “a bit of a Donnie Darko moment” earlier in the library and had since been behaving extremely irrationally. “She started following me around earlier,” reported Union Fellow Tosin Ajayi “I was running really late and I’d lost my gloves or I would have stayed to help.”

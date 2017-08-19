@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial Judo win trophy for the first time in four years
 date: "2010-02-25 18:55:55 +0000"
+
 # Attributes from Felix Online V1
 id: "107"
 old_path: /sport/107/four-year-trophy-wait-for-judo
 aliases:
  - /sport/107/four-year-trophy-wait-for-judo
+imported: true
+comments:
+ -                                                      Warning imagepng functionimagepng Unable to open  cache30579b62508e87311d0ab6991ae817ecpng for wrtinig Permission denied in homepublic_htmlwpcontentthemesLondonLivethumbphp on line 343          Fatal error Allowed memory size of 33554432 bytes exhausted tried to allocate 363032 bytes in homepublic_htmlwpadminnavmenusphp on line 16
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mb506
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -                                                      Warning imagepng functionimagepng Unable to open  cache30579b62508e87311d0ab6991ae817ecpng for wrtinig Permission denied in homepublic_htmlwpcontentthemesLondonLivethumbphp on line 343          Fatal error Allowed memory size of 33554432 bytes exhausted tried to allocate 363032 bytes in homepublic_htmlwpadminnavmenusphp on line 16
-imported: true
 ---
 
 Last weekend, three London teams entered the 18th edition of Sheffield USIST, the biggest international student judo tournament held in the UK.

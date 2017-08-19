@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The 1sts Football team are knocked out by Reading
 date: "2010-01-22 13:18:32 +0000"
+
 # Attributes from Felix Online V1
 id: "47"
 old_path: /sport/47/bucs-cup-over-for-football-1sts
 aliases:
  - /sport/47/bucs-cup-over-for-football-1sts
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 The 3rd round of the BUCS brought a mouthwatering tie between the flagship footballing sides of Imperial and Reading University. With both ties securing promising results in BUCS it was set to be hard fought game.

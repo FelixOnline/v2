@@ -4,16 +4,22 @@ title: >
 subtitle: >
   He's beloved by the public, he's very prolific, but do his paintings stand up to scrutiny?
 date: "2016-06-10 08:34:21 +0100"
+
 # Attributes from Felix Online V1
 id: "6264"
 old_path: /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
 aliases:
  - /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Soon, London art galleries will be in the throes of a David Hockney takeover. Starting from July, the **Royal Academy** will showcase  ‘82 portraits and one still life’, and beginning in February next year, the **Tate** will host a comprehensive retrospective spanning decades of the artist’s work. It should come as no surprise that the capital’s major art institutions are falling over themselves to get a slice of the Hockney pie; for most of his 50 plus year long career he has been an imminently popular artist, far outstripping his Brit Pop contemporaries from the Royal College of Art in the race for public recognition.

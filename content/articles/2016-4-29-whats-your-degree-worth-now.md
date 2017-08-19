@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial is giving out more firsts and 2:1s than ever
 date: "2016-04-29 10:34:03 +0100"
+
 # Attributes from Felix Online V1
 id: "6097"
 old_path: /features/6097/whats-your-degree-worth-now
 aliases:
  - /features/6097/whats-your-degree-worth-now
+imported: true
+comments:
+ - When students become customers they expect customer service and provision of what they paid for truthRZz7Cl  qsuaenuipwrz urlhttpcuccesxbmekfcomcuccesxbmekfurl linkhttpvladoonkhldhcomvladoonkhldhlink httpptvxyvswchpccomjVZNi9  ogwgcozrxnrk urlhttpbynkvurcmjibcombynkvurcmjiburl linkhttpacqrvafuhhnrcomacqrvafuhhnrlink httpmkpwhpxhbzslcomAmazing such a valuable webpagemadden 17 coins httpjuliabridesinuamemberblog_post_viewphppostId47809
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - When students become customers they expect customer service and provision of what they paid for truthRZz7Cl  qsuaenuipwrz urlhttpcuccesxbmekfcomcuccesxbmekfurl linkhttpvladoonkhldhcomvladoonkhldhlink httpptvxyvswchpccomjVZNi9  ogwgcozrxnrk urlhttpbynkvurcmjibcombynkvurcmjiburl linkhttpacqrvafuhhnrcomacqrvafuhhnrlink httpmkpwhpxhbzslcomAmazing such a valuable webpagemadden 17 coins httpjuliabridesinuamemberblog_post_viewphppostId47809
-imported: true
 ---
 
 We’re constantly being told that degrees aren’t as valuable as they used to be. And fair enough. Your mate from home’s 2:2 in film and media studies might not expect to be as valuable as your mum’s desmond in computing from the 80s, but an Imperial degree is an Imperial degree, right?

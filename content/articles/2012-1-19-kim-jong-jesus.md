@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Exploring the idea of a be-all-end-all being
 date: "2012-01-19 20:49:24 +0000"
+
 # Attributes from Felix Online V1
 id: "2022"
 old_path: /comment/2022/kim-jong-jesus
 aliases:
  - /comment/2022/kim-jong-jesus
+imported: true
+comments:
+ - This is a deeply insightful and interesting philosophical comment piece It truly engages with the complex theological questions of our existence showing a power of thinking well beyond prep school level I am proud to have you in my GCSE religious studies class For future essays try to provide a more coherent argument I am certain that by the end of next year you will be on track for a B or aboveMr Davids 20120223 1550     I was wondering if you ever csiondered changing the layout of your blog  Its very well written I love what youve got to say  But maybe you could a little more in the way of content so people could connect with it better  Youve got an awful lot of text for only having one or two images  Maybe you could space it out better
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - This is a deeply insightful and interesting philosophical comment piece It truly engages with the complex theological questions of our existence showing a power of thinking well beyond prep school level I am proud to have you in my GCSE religious studies class For future essays try to provide a more coherent argument I am certain that by the end of next year you will be on track for a B or aboveMr Davids 20120223 1550     I was wondering if you ever csiondered changing the layout of your blog  Its very well written I love what youve got to say  But maybe you could a little more in the way of content so people could connect with it better  Youve got an awful lot of text for only having one or two images  Maybe you could space it out better
-imported: true
 ---
 
 "Everyone ought to love, serve, even worship me above all else.” What a sinister, egotistic and deranged thing to say! If you met someone who really believed that about themselves, you would probably not want to meet them a second time. But isn’t that what Christians believe about God? When Jesus was asked which commandment was most important, he answered: “You shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.” Doesn’t that prove the point? Like a North Korean dictator, God seems to demand nothing less than wall-to-wall adoration!

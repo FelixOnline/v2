@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We have an obsession with cars – it needs to stop
 date: "2011-11-17 21:37:33 +0000"
+
 # Attributes from Felix Online V1
 id: "1781"
 old_path: /comment/1781/car-sick-why-we-need-to-reclaim-our-streets
 aliases:
  - /comment/1781/car-sick-why-we-need-to-reclaim-our-streets
+imported: true
+comments:
+ - HelloWe will take any car running or not We have a mianchec on grounds and an auto shop The residents here at Arrowhead learn how to fix simple things on the vehicles They do not do major work on the vehicles We sell all vehicles  As Is  at our auctions We do pick up vehicles Call Liz at 3097997044 ext 225 to set up an appointmentCricketer from early 1980 s represented Delhi Under 19 s for a coplue of years Played in the DDCA Div A League for many years and university cricket for St Stephens College I now live in England play occasionally in the local village league am a qualified ECB Level 1 Coach Assit with coaching youngsters when not playing watching writing reading cricket Business consultant by profession Favourite teams India and England with opinions on anything cricket  cialis   best prices for cialis online   viagra vs cialis   impotence problem   viagra online
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - HelloWe will take any car running or not We have a mianchec on grounds and an auto shop The residents here at Arrowhead learn how to fix simple things on the vehicles They do not do major work on the vehicles We sell all vehicles  As Is  at our auctions We do pick up vehicles Call Liz at 3097997044 ext 225 to set up an appointmentCricketer from early 1980 s represented Delhi Under 19 s for a coplue of years Played in the DDCA Div A League for many years and university cricket for St Stephens College I now live in England play occasionally in the local village league am a qualified ECB Level 1 Coach Assit with coaching youngsters when not playing watching writing reading cricket Business consultant by profession Favourite teams India and England with opinions on anything cricket  cialis   best prices for cialis online   viagra vs cialis   impotence problem   viagra online
-imported: true
 ---
 
 Our streets are currently being occupied by aggressive, murderous, polluting inhabitants: cars. They are effectively environmental squatters. Unfortunately, whereas the criminalisation of squatting, [which was voted through the Commons the other week](http://www.insidehousing.co.uk/tenancies/govt-releases-plans-to-criminalise-squatting/6518624.article), will throw thousands of the most vulnerable in our society onto the street, it will do nothing to solve the environmental and social ills of cars. However, as it’s [Green Week](http://www.imperialcollegeunion.org/news/green-week-2011,424,ICUNS.html) and all, I’m taking this opportunity to explain why we don’t need them (which hopefully won’t be too difficult as west London is the most congested area of London I cycle through).

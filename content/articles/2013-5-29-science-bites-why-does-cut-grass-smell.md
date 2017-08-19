@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It may smell great, but did you know it’s actually a plant’s distress call? You’re chopping it to smithereens, what did you expect it to do?
 date: "2013-05-29 17:30:17 +0100"
+
 # Attributes from Felix Online V1
 id: "3638"
 old_path: /science/3638/science-bites-why-does-cut-grass-smell
 aliases:
  - /science/3638/science-bites-why-does-cut-grass-smell
+imported: true
+comments:
+ - Was reading about this today Not sure about grass but the volatile compounds released by plants such as cotton are surprisingly sophisticated in that the parasitoid wasps they attract can differentiate between plants being attacked by their host insect and those that arent Its thought that herbivore secretions are detected by the plant initiating this defensive response Long story short the paper claimed that purely mechanical damage lawnmower wouldnt cause a defensive response in terms of attracting parasitoids or predators My contrariwise 2 cents
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Was reading about this today Not sure about grass but the volatile compounds released by plants such as cotton are surprisingly sophisticated in that the parasitoid wasps they attract can differentiate between plants being attacked by their host insect and those that arent Its thought that herbivore secretions are detected by the plant initiating this defensive response Long story short the paper claimed that purely mechanical damage lawnmower wouldnt cause a defensive response in terms of attracting parasitoids or predators My contrariwise 2 cents
-imported: true
 ---
 
 Causing tissue damage to grass by cutting it causes it to release volatile organic compounds, collectively known as green leaf volatiles (GLVs). One effect of GLV release is to attract predatory insects to defend the plant, though how effective they’d be against a lawnmower is another question.

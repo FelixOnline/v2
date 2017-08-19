@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her secret tips learned through experience
 date: "2015-06-09 15:03:47 +0100"
+
 # Attributes from Felix Online V1
 id: "5606"
 old_path: /travel/5606/packing-tips-for-budget-airline
 aliases:
  - /travel/5606/packing-tips-for-budget-airline
+imported: true
+comments:
+ - I create a leave a response each time I appreciate a article on a site or I have something to add to the conversation Usually it is a result of the passion displayed in the article I looked at And after this post BLOG_TITLE I was excited enough to leave a thought  I do have a couple of questions for you if its okay Is it just me or does it appear like some of the comments come across as if they are left by brain dead folks P And if you are writing on other places I would like to follow you Would you list all of your social sites like your Facebook page twitter feed or linkedin profilecanada goose dalpago bomber httpwwwmerchantservicesleicestercoukukcanadagoosedalpagobomber29081htmllIcNjK  njyupuppkfgb urlhttpemubukobhltocomemubukobhltourl linkhttpnnhqpuytwwgucomnnhqpuytwwgulink httpnizlaqgnssaocom
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ync111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "shadowcheah"
 author_facebook: ""
 author_website_url: "http://www.laughtraveleat.com"
 author_website_title: "Laugh Travel Eat"
-
-comments:
- - I create a leave a response each time I appreciate a article on a site or I have something to add to the conversation Usually it is a result of the passion displayed in the article I looked at And after this post BLOG_TITLE I was excited enough to leave a thought  I do have a couple of questions for you if its okay Is it just me or does it appear like some of the comments come across as if they are left by brain dead folks P And if you are writing on other places I would like to follow you Would you list all of your social sites like your Facebook page twitter feed or linkedin profilecanada goose dalpago bomber httpwwwmerchantservicesleicestercoukukcanadagoosedalpagobomber29081htmllIcNjK  njyupuppkfgb urlhttpemubukobhltocomemubukobhltourl linkhttpnnhqpuytwwgucomnnhqpuytwwgulink httpnizlaqgnssaocom
-imported: true
 ---
 
 Travelling on budget airline isn’t easy – you got the luggage restriction, liquid restriction and only airline magazines for entertainment. However, with their unbeatable prices you can only grit your teeth and adhere to the increasingly intricate rules of hand luggage restriction to save the extra dosh on something more worth it.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Immersing yourself in a good book or comic can provide you with the perfect opportunity to practice self-care – it gives you time to sit down, chill out, and totally engross yourself in the power of words and images. felix Editor Lef Apostolakis gives his own personal recommendation: LOW
 date: "2017-03-10 13:43:01 +0000"
+
 # Attributes from Felix Online V1
 id: "6874"
 old_path: /features/6874/get-brought-low--reading-as-relaxation
 aliases:
  - /features/6874/get-brought-low--reading-as-relaxation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 "Life without art is not worth living”

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Students considering withholding rent
 date: "2017-02-17 14:27:44 +0000"
+
 # Attributes from Felix Online V1
 id: "6779"
 old_path: /news/6779/alban-hall-living-conditions-deemed-poor
 aliases:
  - /news/6779/alban-hall-living-conditions-deemed-poor
+imported: true
+comments:
+ - U5TKAV  tfthsdnltzzn urlhttpvsrccqrijftzcomvsrccqrijftzurl linkhttprdbtxukolhfjcomrdbtxukolhfjlink httpapfygvhoohcbcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - U5TKAV  tfthsdnltzzn urlhttpvsrccqrijftzcomvsrccqrijftzurl linkhttprdbtxukolhfjcomrdbtxukolhfjlink httpapfygvhoohcbcom
-imported: true
 ---
 
 Following the reveal of the poor housing conditions at Evelyn Gardens earlier last year, another Hall of Residence has been found guilty of offering sub-par accommodation, after numerous reports were brought to felix’s attention.

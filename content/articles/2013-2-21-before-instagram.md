@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles tells us about the exhibition of portraits by Man Ray
 date: "2013-02-21 20:59:36 +0000"
+
 # Attributes from Felix Online V1
 id: "3345"
 old_path: /arts/3345/before-instagram-
 aliases:
  - /arts/3345/before-instagram-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It can be said that photography is a method of preserving time. A moment is captured and immortalised in a 35mm negative, retained and treasured. The years may march on, but the picture will remain the same, retaining the ability to transport the viewer instantaneously to a certain time and place. If this is the case, then the exhibition of portraits by Man Ray, currently on display at the National Portrait Gallery, have captured not just a moment but an era.

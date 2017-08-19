@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maya Kaushik interviews Anita from Britain and Ireland’s Next Top Model
 date: "2012-12-07 02:41:15 +0000"
+
 # Attributes from Felix Online V1
 id: "3053"
 old_path: /tv/3053/models-bring-sexy-back
 aliases:
  - /tv/3053/models-bring-sexy-back
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This summer, cycle 8 of Britain and Ireland’s Next Top Model aired on Sky Living, featuring many exciting challenges and photo shoots, including a shoot with tarantulas, walking on CN tower, and posing with naked male models. During the series, twenty contestants were whittled down to one winner. Anita Kaushik was the contestant labelled as the dark horse of the competition, starting off weakly but improving rapidly every week, gaining approval from the judges, and finally reaching the final episode, coming third place. I spoke to Anita to find out her views on the competition, modelling and the fashion world.

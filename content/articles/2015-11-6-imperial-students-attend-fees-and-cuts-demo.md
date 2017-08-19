@@ -4,16 +4,24 @@ title: >
 subtitle: >
   They joined 10,000 others protesting against cuts to maintenance grants
 date: "2015-11-06 13:32:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5696"
 old_path: /news/5696/imperial-students-attend-fees-and-cuts-demo
 aliases:
  - /news/5696/imperial-students-attend-fees-and-cuts-demo
+imported: true
+comments:
+ - Student pinkos demand handouts not exactly headline news is itThanks for being on point and on taergt
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Student pinkos demand handouts not exactly headline news is itThanks for being on point and on taergt
-imported: true
 ---
 
 Wednesday saw 10,000 students, including several from Imperial, march for free education. The protest was organised by the National Campaign Against Fees and Cuts. Kieran Ryan (pictured) organised the Imperial bloc, which included the union’s elected Deputy President of Welfare and campaigns officer.

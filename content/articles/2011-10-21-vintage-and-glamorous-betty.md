@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Michael Krestas reviews Betty Blythe
 date: "2011-10-21 12:06:10 +0100"
+
 # Attributes from Felix Online V1
 id: "1605"
 old_path: /food/1605/vintage-and-glamorous-betty
 aliases:
  - /food/1605/vintage-and-glamorous-betty
+imported: true
+comments:
+ - I had not read that he was not under the influence of drugs or ETOH but I was not trynig to state that it was a fact he was drunk Toxicology screenings also cannot pick up designer drugs such as synthetic marijuana or  bath salts  both of which are possible to have caused increased bleeding and swelling to the brain due to hyperthermia I am by no means an expert on the case or the man that died I was just trynig to give a little medical incite
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - I had not read that he was not under the influence of drugs or ETOH but I was not trynig to state that it was a fact he was drunk Toxicology screenings also cannot pick up designer drugs such as synthetic marijuana or  bath salts  both of which are possible to have caused increased bleeding and swelling to the brain due to hyperthermia I am by no means an expert on the case or the man that died I was just trynig to give a little medical incite
-imported: true
 ---
 
 London is filled with loads of cafés, which, let’s face it, look almost the same and offer very similar products. That’s why it’s completely OK to feel sick of them. There is, however, a place in London where you can have your coffee or tea like you’ve never have before. It’s small, it’s cozy, it’s friendly, it’s “Betty Blythe”. Named after the Hollywood starlet, “Betty Blythe” is a beautiful, vintage teashop and fine food pantry in west London – just 10 minutes walking from Hammersmith Station.

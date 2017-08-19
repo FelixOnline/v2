@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-03-18 12:02:48 +0000"
+
 # Attributes from Felix Online V1
 id: "6074"
 old_path: /tv/6074/cartoon-corner-spectacular-spider-man
 aliases:
  - /tv/6074/cartoon-corner-spectacular-spider-man
+imported: true
+comments:
+ - Do you have more great arectlis like this onePassion the site very user pleasant and great deals to seenhl 17 coins httpudebatenetforumtopic1135Youve gotten amazing info on this websitefifa 17 coins httpkulespacecomforum_topicphpforum_id4topic_id1992I enjoy looking through your website Regardsnba 2k17 httprumodelscommodelsforumtopic14809
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Do you have more great arectlis like this onePassion the site very user pleasant and great deals to seenhl 17 coins httpudebatenetforumtopic1135Youve gotten amazing info on this websitefifa 17 coins httpkulespacecomforum_topicphpforum_id4topic_id1992I enjoy looking through your website Regardsnba 2k17 httprumodelscommodelsforumtopic14809
-imported: true
 ---
 
 Airing for only two seasons, _The Spectacular Spider-Man_ animated series is one of the numerous shows cancelled before its time. With characterisation true to the spirit of the comics, intelligent storytelling, and superb action, this is one of the greatest portrayals of everyone’s favorite wall-crawling superhero and the strongest in any medium outside of comic books. This is the type of series that proves both the strength of the character of Spider-Man and the unique strengths of animated series in the realm of superheroes.

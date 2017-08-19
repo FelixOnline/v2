@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kamil McClelland reports on the Royal Court’s new play
 date: "2015-01-31 19:02:54 +0000"
+
 # Attributes from Felix Online V1
 id: "5169"
 old_path: /arts/5169/revealing-the-costs-of-war
 aliases:
  - /arts/5169/revealing-the-costs-of-war
+imported: true
+comments:
+ - helloI really like your writing very so much share we keep up a correspondence extra approximately your post on AOL I need an expert on this house to resolve my problem May be that is you Taking a look forward to peer youmoncler baby us httptestnegrifirmancomitmonclerbabyus9242htmlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - helloI really like your writing very so much share we keep up a correspondence extra approximately your post on AOL I need an expert on this house to resolve my problem May be that is you Taking a look forward to peer youmoncler baby us httptestnegrifirmancomitmonclerbabyus9242htmlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread
-imported: true
 ---
 
 The debut work of 31-year-old playwright Diana Nneka Atuona, _Liberian Girl _has already made an impact, performing at the Global Summit to End Sexual Violence in Conflict last year and winning Atuona the Alfred Fagon Award for Best New Play of the Year in 2013. So what is all the commotion about?

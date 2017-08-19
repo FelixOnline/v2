@@ -4,16 +4,24 @@ title: >
 subtitle: >
   40 years of comic book trippyness
 date: "2013-03-07 23:50:53 +0000"
+
 # Attributes from Felix Online V1
 id: "3447"
 old_path: /arts/3447/getting-to-the-points-of-lichtenstein
 aliases:
  - /arts/3447/getting-to-the-points-of-lichtenstein
+imported: true
+comments:
+ - Well this is embarrassing Apparently nobody gets puns any more  Lichtenstein was famous for making use of Pointillism Points get it A joke so stealthy it flies under the radar of humorAt least get the spelling right in the title so i actually fell like reading the articlefeel hahaYoure the hero Felix needs not the one it deservesAbove comment is aimed at you Charles Thomas
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well this is embarrassing Apparently nobody gets puns any more  Lichtenstein was famous for making use of Pointillism Points get it A joke so stealthy it flies under the radar of humorAt least get the spelling right in the title so i actually fell like reading the articlefeel hahaYoure the hero Felix needs not the one it deservesAbove comment is aimed at you Charles Thomas
-imported: true
 ---
 
 “Whaam!” is probably one of the most reproduced pieces of art on the planet. That bold comic style, that distinctive script, the perfect coloured dots... The piece is so distinctively Lichtenstein that it has perhaps come to define him as an artist. However as this retrospective shows, Roy Lichtenstein is so much more than that.

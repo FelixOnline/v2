@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The veteran playwright packs a punch with a powerful and lyrical indictment of modernity
 date: "2016-02-05 12:12:44 +0000"
+
 # Attributes from Felix Online V1
 id: "5872"
 old_path: /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
 aliases:
  - /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
+imported: true
+comments:
+ - LA MELATONINA ES UN MEDICAMENTO SEGURO PARA EL HIGADO bague bulgari bzero or blanc urlhttpwwwbzerocnfrbvlgaribzero11bandebagueenorrose18caratsp215htmlbague bulgari bzero or blancurlcartierbraceletlove Cunha ladeira abaixo Assim espero bracciale love cartier imitazione prezzo urlhttpwwwbestlevecomitbracciale love cartier imitazione prezzourlMake sure to demonstrate the proper etiquette telling the group playing through to have a great round What if you have to let more than one group play through So what you are out here to have fun and the longer time spent having fun the better rightMistake 7 Staying Too LongThis one takes a little observation and feel kind of like the game of golf itselfDebts assortment companies could possibly be the most difficult a part of a poor credit ratingOzil also maintains he is not affected by criticism from the media Some credit services are only individuals looking to fraud you Good luck and enjoy your free golf
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LA MELATONINA ES UN MEDICAMENTO SEGURO PARA EL HIGADO bague bulgari bzero or blanc urlhttpwwwbzerocnfrbvlgaribzero11bandebagueenorrose18caratsp215htmlbague bulgari bzero or blancurlcartierbraceletlove Cunha ladeira abaixo Assim espero bracciale love cartier imitazione prezzo urlhttpwwwbestlevecomitbracciale love cartier imitazione prezzourlMake sure to demonstrate the proper etiquette telling the group playing through to have a great round What if you have to let more than one group play through So what you are out here to have fun and the longer time spent having fun the better rightMistake 7 Staying Too LongThis one takes a little observation and feel kind of like the game of golf itselfDebts assortment companies could possibly be the most difficult a part of a poor credit ratingOzil also maintains he is not affected by criticism from the media Some credit services are only individuals looking to fraud you Good luck and enjoy your free golf
-imported: true
 ---
 
 Maybe Caryl Churchill should be worried. The past 14 months have seen a mass excavation of her earlier work, with four of her works being produced in the UK. From Maxine Peake’s tongue-twisting turn in _The Skriker_, a highlight of the Manchester International Festival, to the National Theatre’s double bill of _Light Shining in Buckinghamshire_ and _Here We Go_, Churchill’s work has been granted an attention normally reserved for the recently deceased.

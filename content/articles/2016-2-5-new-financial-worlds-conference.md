@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Those who impress may even secure internships
 date: "2016-02-05 12:53:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5888"
 old_path: /cands/5888/new-financial-worlds-conference-
 aliases:
  - /cands/5888/new-financial-worlds-conference-
+imported: true
+comments:
+ - Kidney Disease holistic therapy seen to assist dialysis patients  why arent our medical professionals telling us this httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygive
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Kidney Disease holistic therapy seen to assist dialysis patients  why arent our medical professionals telling us this httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygive
-imported: true
 ---
 
 The Imperial College Finance Society proudly presents the 5th annual New Financial Worlds Conference 2016, which is set to take place on the 17th February at the prestigious Bloomberg Auditorium in London. This year will mark the first conference in several years and will focus on two key themes of Investment Banking and Global Markets. The conference is aimed at providing students with a strong insight into the most cutting-edge and relevant topics in finance in a medium that is far beyond what they can learn from just reading the Financial Times.

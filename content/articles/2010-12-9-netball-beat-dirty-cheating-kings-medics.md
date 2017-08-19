@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Netball trumps GKT. By Bernice Marie Cutler
 date: "2010-12-09 20:15:32 +0000"
+
 # Attributes from Felix Online V1
 id: "519"
 old_path: /sport/519/netball-beat-dirty-cheating-kings-medics
 aliases:
  - /sport/519/netball-beat-dirty-cheating-kings-medics
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ac1507
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Taking on medics at netball is always a daunting task and coming up against King’s Medics was no different to the norm. Tensions were high amongst the girls before the game had even got underway due to the umpires running late however, the team soon found thir rhythm once the match began.

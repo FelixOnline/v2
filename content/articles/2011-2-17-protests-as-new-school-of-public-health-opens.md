@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Demonstration outside Sherfield as Health minister Andrew Lansley marks launch of new school
 date: "2011-02-17 19:32:06 +0000"
+
 # Attributes from Felix Online V1
 id: "819"
 old_path: /news/819/protests-as-new-school-of-public-health-opens
 aliases:
  - /news/819/protests-as-new-school-of-public-health-opens
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This Monday, Imperial celebrated the opening of the new [School of Public Health](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_14-2-2011-11-18-4). The school will focus on both teaching and, according to its director, Professor Elio Riboli, research aimed at providing “the evidence that will help societies understand the causes of diseases and how to prevent them”. Visitors to the opening event, taking place in the Great Hall and featuring Health Secretary Andrew Lansley, were, however, met by a group of over twenty demonstrators, part of the ‘[Big Society NHS](http://www.facebook.com/BigSocietyNHS)’ campaign against the government’s planned NHS reforms. Although they were not allowed into the Sherfield building’s entrance foyer, the group stood outside, handing out leaflets and shouting the slogans “public health not private wealth” and “Lansley, Lansley don’t be a fool – you’re making me quit medical school”.

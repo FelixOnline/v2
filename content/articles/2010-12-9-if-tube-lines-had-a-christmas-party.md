@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A bizarre world where tube lines celebrate Christmas
 date: "2010-12-09 21:45:32 +0000"
+
 # Attributes from Felix Online V1
 id: "542"
 old_path: /comment/542/if-tube-lines-had-a-christmas-party
 aliases:
  - /comment/542/if-tube-lines-had-a-christmas-party
+imported: true
+comments:
+ - If you are searching for a BIG City venue then there is only really one option Conference Venues   birmingham conference centres size location and flexibility make it the No 1 choice for large City parties in LondonThats 2 cveler by half and 2x2 clever 4 me Thanks apothecure and colchicine and 8 online pharmacy without rx for valtrex jmq purchase cialis watloy
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - va208
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "va208"
 author_name: "Veli Akiner"
-author_image_path: "img/upload/201102172002-ks607-silhouet.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102172002-ks607-silhouet.jpg"
 author_twitter: "VeliAkiner"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If you are searching for a BIG City venue then there is only really one option Conference Venues   birmingham conference centres size location and flexibility make it the No 1 choice for large City parties in LondonThats 2 cveler by half and 2x2 clever 4 me Thanks apothecure and colchicine and 8 online pharmacy without rx for valtrex jmq purchase cialis watloy
-imported: true
 ---
 
 You know that friend of yours who's always busy on weekends when you ask her to come out? She recently left a relationship that was just going round and round. Welcome to the Circle Line.

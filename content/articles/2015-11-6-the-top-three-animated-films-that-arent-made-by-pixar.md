@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-06 14:11:25 +0000"
+
 # Attributes from Felix Online V1
 id: "5707"
 old_path: /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
 aliases:
  - /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
+imported: true
+comments:
+ - These are very cool I usually have a sense that Star Wars mbieraomlia is a bit  done The same evocation as 40yearolds wearing skater jeans or businessmen riding micro scooters but this is something different I think its fitting with the sarcastic nature of modern pop culture I can see this sitting more appropriately above a fireplace among tankards and rifles than in amongst action figures and DVDsThumbs up
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - These are very cool I usually have a sense that Star Wars mbieraomlia is a bit  done The same evocation as 40yearolds wearing skater jeans or businessmen riding micro scooters but this is something different I think its fitting with the sarcastic nature of modern pop culture I can see this sitting more appropriately above a fireplace among tankards and rifles than in amongst action figures and DVDsThumbs up
-imported: true
 ---
 
 I love Pixar. Chances are you love Pixar. too. In all honesty, I’d hazard a guess that the vast majority of sane people on earth love them. Their films are iconic and have set the precedent for animated films that both children, adolescents and their parents can enjoy. But instead of watching Finding Nemo for the eleventh time, why not give some other storytellers a chance to wow you?

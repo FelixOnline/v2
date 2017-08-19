@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Husain Al-Jabir gives his first-hand opinion of Grammar schools
 date: "2016-11-18 14:32:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6458"
 old_path: /comment/6458/grammar-schools-are-not-the-answer-
 aliases:
  - /comment/6458/grammar-schools-are-not-the-answer-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Disclaimer: I’m an alumnus of a well-known North London grammar school, having joined in the sixth form from a high achieving comprehensive school. I’ve studied under both school systems, coming out the other side with insights into each. No-one could accuse me of not being qualified enough to speak about the virtues and pitfalls of the grammar system. A significant number of Imperial students attended grammars and most likely support the grammar system, either vociferously or nonchalantly; however, I wonder if from the privilege of your educational bubble, you have ever looked outside?

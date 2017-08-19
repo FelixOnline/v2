@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A shoutout to all so-called ‘science lovers’: go hard or go home.
 date: "2013-01-25 01:38:07 +0000"
+
 # Attributes from Felix Online V1
 id: "3182"
 old_path: /comment/3182/but-are-you-are-scientist-doe
 aliases:
  - /comment/3182/but-are-you-are-scientist-doe
+imported: true
+comments:
+ - Interesting article though I disagree with evolution by natural selection being the most scientific well known example Its fairly difficult to falsify despite Richard Dawkins insistence which is a pity given how fundamental it is to the biological sciencesI think this may well be the most pretentious uppity patronising article I have yet seen within the pages of Felix Congratulations
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Interesting article though I disagree with evolution by natural selection being the most scientific well known example Its fairly difficult to falsify despite Richard Dawkins insistence which is a pity given how fundamental it is to the biological sciencesI think this may well be the most pretentious uppity patronising article I have yet seen within the pages of Felix Congratulations
-imported: true
 ---
 
 It’s happened: geek is chic, nerds are sexy, and everyone and their dog is ready to debate with creationists. Like Brian Cox’s smiling, wistful face, science itself is increasingly entering the public consciousness. Every haunt of internet culture – Reddit, 4chan, your Facebook friends, etc. – discusses and valiantly defends science against the evils of false belief.

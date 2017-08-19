@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An introduction to STOIC
 date: "2013-10-12 20:17:58 +0100"
+
 # Attributes from Felix Online V1
 id: "3866"
 old_path: /features/3866/stoic-imperials-student-run-tv-station
 aliases:
  - /features/3866/stoic-imperials-student-run-tv-station
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 “STOIC, you’re the philosophy society right?” Is a question I receive many times throughout the course of the year. The latest being at Freshers’ Fair while standing in front of a large AutoCue, professional video camera and a TV playing a showreel of our best bits. While I do have a particular love of 3rd century BCE philosophy that isn’t what the club is about. STOIC in fact is an acronym of Student Television of Imperial College, and that’s exactly who we are. From our studios in the West Basement of Beit Quad we write, film, present and produce a wide variety of television shows that get broadcast online.

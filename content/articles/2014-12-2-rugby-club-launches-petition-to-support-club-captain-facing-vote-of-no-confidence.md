@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Over 500 students have signed to show solidarity and oppose the motion to remove the Club Captain
 date: "2014-12-02 15:25:08 +0000"
+
 # Attributes from Felix Online V1
 id: "4981"
 old_path: /news/4981/rugby-club-launches-petition-to-support-club-captain-facing-vote-of-no-confidence
 aliases:
  - /news/4981/rugby-club-launches-petition-to-support-club-captain-facing-vote-of-no-confidence
+imported: true
+comments:
+ - Perhaps Hobsons decision to protect his own club members and the fact that all ACC Club Captains have supported him in this is a product of the complete lack of trust that the majority of students have in the Union Club Captains would rather protect their own club members themselves than trust Wheeler and Co to do it for them Can you blame Hobson Does anyone have any faith in the Union to do anything anymore The very fact that Hobson feels he can get away with this disgraceful behaviour says it all  The nerve to launch a petition he should do everyone a favour and resign  His club and in particular his actions have led to further damage to the rugby teams reputation and to imperial college in general  The antics of the team deserve full punishment and I hope they throw the book at Hobson and the rugby ladsHow I wonder what the consequences would have been had there been no internet To the commenter above who feels this was disgraceful behaviour I refer you to the majority  of comments on
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Perhaps Hobsons decision to protect his own club members and the fact that all ACC Club Captains have supported him in this is a product of the complete lack of trust that the majority of students have in the Union Club Captains would rather protect their own club members themselves than trust Wheeler and Co to do it for them Can you blame Hobson Does anyone have any faith in the Union to do anything anymore The very fact that Hobson feels he can get away with this disgraceful behaviour says it all  The nerve to launch a petition he should do everyone a favour and resign  His club and in particular his actions have led to further damage to the rugby teams reputation and to imperial college in general  The antics of the team deserve full punishment and I hope they throw the book at Hobson and the rugby ladsHow I wonder what the consequences would have been had there been no internet To the commenter above who feels this was disgraceful behaviour I refer you to the majority  of comments on
-imported: true
 ---
 
 ICURFC have launched an online petition that has already amassed 500 signatures at the time of press. The petition, to show support for the Club Captain, Thomas Hobson, who currently at risk of losing his position, was launched yesterday and has been signed by students and clubs and societies as a whole.

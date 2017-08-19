@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A glorious transformation from culinary newbie to master chef
 date: "2011-11-03 21:29:40 +0000"
+
 # Attributes from Felix Online V1
 id: "1687"
 old_path: /comment/1687/the-portrait-of-the-cook-as-a-young-man-
 aliases:
  - /comment/1687/the-portrait-of-the-cook-as-a-young-man-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Looking back with the aged eyes of a fourth year, I can reflect on my experiences here and divise a pattern, common to all who pass through these halls. As a child, food was just food. Food was also delicious. In university, food is still delicious but it is suddenly so much more complicated. For the first time in my life, I am responsible for my own sustenance. With a few mistakes made along the way, I am somehow still alive. There seem to be several distinct stages that a student will pass through during their time here.

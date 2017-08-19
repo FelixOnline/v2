@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial triumphs in University Challenge quarter-finals
 date: "2016-02-05 11:47:50 +0000"
+
 # Attributes from Felix Online V1
 id: "5862"
 old_path: /news/5862/nuffield-said
 aliases:
  - /news/5862/nuffield-said
+imported: true
+comments:
+ - I hope you guys normally proof read because Nuffield is not a Cambridge College its been published on FelixwE r Disparetly shert of copy editors plis cum nd halp us evry thursday to cary out this impurtinant jobI like perusing your websites Thanks for your timeCheap NBA 2k16 MT httpfreepressreleasedbcomprcsgoskinsshopSettingPR29186Wow lovely website Thnx cs go skins market httpwwwdelicacatraderindexphpl300_starwagon2140_NBA_2K16_On_The_App_Storesay thanks to so mucha lot for your web site it aids a lotNFL 17 coins httpdiduknowallrhcomblogspost25377Appreciate it It is definitely an outstanding web pageHarry Kewell httpoctaviasalomeexteencom20160930cheapmadden17coinsacompleteinformationonmadden17
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I hope you guys normally proof read because Nuffield is not a Cambridge College its been published on FelixwE r Disparetly shert of copy editors plis cum nd halp us evry thursday to cary out this impurtinant jobI like perusing your websites Thanks for your timeCheap NBA 2k16 MT httpfreepressreleasedbcomprcsgoskinsshopSettingPR29186Wow lovely website Thnx cs go skins market httpwwwdelicacatraderindexphpl300_starwagon2140_NBA_2K16_On_The_App_Storesay thanks to so mucha lot for your web site it aids a lotNFL 17 coins httpdiduknowallrhcomblogspost25377Appreciate it It is definitely an outstanding web pageHarry Kewell httpoctaviasalomeexteencom20160930cheapmadden17coinsacompleteinformationonmadden17
-imported: true
 ---
 
 Monday evening saw the first outing of the new term for the seemingly unstoppable University Challenge team that is Ben Fernando, Ashwin Braude, Onur Teymur and their captain James Bezer. The team were riding high on the back of their 305-75 demolition of Sidney Sussex, Cambridge, but as we all know, there are no easy games in this league.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The formation of a “small lake” on the track didn’t stop Imperial Triathalon Club
 date: "2016-02-05 12:57:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5890"
 old_path: /sport/5890/drenched-duathletes-dominate-gravesend
 aliases:
  - /sport/5890/drenched-duathletes-dominate-gravesend
+imported: true
+comments:
+ - Clinical studies prove NoDIALYSIS treatment method efficient reducing GFR in KIDNEY DISEASE sufferers httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygiveI really wish there were more arciltes like this on the web
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Clinical studies prove NoDIALYSIS treatment method efficient reducing GFR in KIDNEY DISEASE sufferers httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygiveI really wish there were more arciltes like this on the web
-imported: true
 ---
 
 As the first month of 2016 came to a close, eleven duathletes from Imperial College London battled against the elements to achieve an impressive tally of podium finishes at the Gravesend Winter Duathlon.

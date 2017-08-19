@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
+
 # Attributes from Felix Online V1
 id: "633"
 old_path: /news/633/feasibility-of-longer-day-called-into-question-
 aliases:
  - /news/633/feasibility-of-longer-day-called-into-question-
+imported: true
+comments:
+ - Its so typical that civ eng is supporting this In first year language students dont always get a lunch break not even 1 hour A 2 hour break is a luxury And it wouldnt surprise me if they wanted to start scheduling lectures until 7pmJust a piece of advice Stop ciselling away at the humanities every single year I know it may sound strange for some but a lot of my fellow students ended up choosing Imperial because of them at the end of the daylets be serious nobody chooses Imperial for the Humanities coursesit may sound strange told you
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its so typical that civ eng is supporting this In first year language students dont always get a lunch break not even 1 hour A 2 hour break is a luxury And it wouldnt surprise me if they wanted to start scheduling lectures until 7pmJust a piece of advice Stop ciselling away at the humanities every single year I know it may sound strange for some but a lot of my fellow students ended up choosing Imperial because of them at the end of the daylets be serious nobody chooses Imperial for the Humanities coursesit may sound strange told you
-imported: true
 ---
 
 It came as a shock to many last week when [Felix reported](http://felixonline.co.uk/?article=594) that a College committee is investigating changes to the length of the College day. The proposals, which include extending the day to 8am until 7pm for undergraduates and until 8pm for postgraduates, on Mondays and Thursdays, are still under consideration but they have been treated with apprehension by students and members of staff alike, many of whom were not officially informed of the proposals. The first meeting of the committee on Monday 17th January was cancelled at short notice for unknown reasons.

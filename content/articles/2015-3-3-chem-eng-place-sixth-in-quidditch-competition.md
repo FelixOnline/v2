@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Engineering students prove they are smart and sporty
 date: "2015-03-03 14:51:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5325"
 old_path: /cands/5325/chem-eng-place-sixth-in-quidditch-competition
 aliases:
  - /cands/5325/chem-eng-place-sixth-in-quidditch-competition
+imported: true
+comments:
+ - Howdy I think your blog might be having internet browser compatibility issues Whenever I look at your blog in Safari it looks fine however when opening in IE its got some overlapping issues I simply wanted to provide you with a quick heads up Other than that great websitenike structure  17 heren httpwwwmymotionnlnlnikestructure17heren18835htmlHello I enjoy reading through your article post I like to write a little comment to support youmoncler bambino forte dei marmi httpwwwtargettisportingclubititmonclerbambinofortedeimarmi8394htmlThis has made my day I wish all posgnits were this goodHighly beneficial look forward to visiting againnba 2k16 mt cheat httpcsgoknivesjimdocom20160328ididsoperhapsnotknowthattoptencheapnba2k16mtcoins
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Howdy I think your blog might be having internet browser compatibility issues Whenever I look at your blog in Safari it looks fine however when opening in IE its got some overlapping issues I simply wanted to provide you with a quick heads up Other than that great websitenike structure  17 heren httpwwwmymotionnlnlnikestructure17heren18835htmlHello I enjoy reading through your article post I like to write a little comment to support youmoncler bambino forte dei marmi httpwwwtargettisportingclubititmonclerbambinofortedeimarmi8394htmlThis has made my day I wish all posgnits were this goodHighly beneficial look forward to visiting againnba 2k16 mt cheat httpcsgoknivesjimdocom20160328ididsoperhapsnotknowthattoptencheapnba2k16mtcoins
-imported: true
 ---
 
 4am on a weekday morning is rarely a time you see students trooping into College, far less seemingly excited about the prospect of doing so. Yet this was the scene on Tuesday 17th February, as 150 Chemical Engineering students set off to Birmingham to compete in their annual sports competition – Frank Morton’s.

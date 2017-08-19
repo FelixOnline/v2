@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The director tells us about their very unusual interpretation of a seasonal favourite
 date: "2010-10-14 19:20:17 +0100"
+
 # Attributes from Felix Online V1
 id: "203"
 old_path: /arts/203/-imperial-students-make-their-last-panto
 aliases:
  - /arts/203/-imperial-students-make-their-last-panto
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Over the last couple of years I have had the pleasure of putting on three little known, but well received, performances of what was codenamed ‘Panto’. In two weeks time we’ll stage the final Panto Show, laying the series to rest once and for all.

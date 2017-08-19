@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles explores the complex morals of photojournalism
 date: "2014-11-14 20:55:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4881"
 old_path: /arts/4881/the-ethics-of-war-photography
 aliases:
  - /arts/4881/the-ethics-of-war-photography
+imported: true
+comments:
+ - Wow beautiful website Thnx fifa 17 coins httpwwwfriendforrentcommemberblog_post_viewphppostId120844
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow beautiful website Thnx fifa 17 coins httpwwwfriendforrentcommemberblog_post_viewphppostId120844
-imported: true
 ---
 
 On 11th June 1963, a Vietnamese Buddhist monk, Thích Quang Đúc, sat down at a busy intersection in Saigon, was covered in gasoline, and set himself alive. Protesting against the persecution of Buddhists by the South Vietnamese government, he burned for 10 minutes before collapsing backwards. The act was captured by Malcolm Wilde Browne, a 32 year old photographer, who was working for the Associated Press, and the rest, as they say, is history.

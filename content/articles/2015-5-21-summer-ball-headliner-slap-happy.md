@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An anonymous student asks why the Union hired an unapologetic thug
 date: "2015-05-21 23:03:46 +0100"
+
 # Attributes from Felix Online V1
 id: "5555"
 old_path: /comment/5555/summer-ball-headliner-slap-happy
 aliases:
  - /comment/5555/summer-ball-headliner-slap-happy
+imported: true
+comments:
+ - I think my biggest problem with the choice of headliner is that hes just not relevant at the moment When did he last release something a couple of years ago wasnt it I havent seen him do much in a while apart from appear on Celebrity Juice and hang around with his Made In Chelsea girlfriend  might as well have hired Joey Essex to headline Look its a well known fact that hes a bit of a ct the example you gave is just one of many but if theyre entertaining then so what My issue however is that I really dont see him being that entertaining rap over soft guitars dont see it getting everyone HYPEDfitflop pietra cheapfitflop sandals httpfitflopsalesingapore2blogspotcomHi there  Youve done a fantastic job I will certainly digg it and personally recommend to my friends I am confident theyll be benefited from this websitenike huarache zwart wit rusland httpwwwblosrtvnlnlnikehuarachezwartwitrusland21209htmlIts in fact very difficult in this full of activity life
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think my biggest problem with the choice of headliner is that hes just not relevant at the moment When did he last release something a couple of years ago wasnt it I havent seen him do much in a while apart from appear on Celebrity Juice and hang around with his Made In Chelsea girlfriend  might as well have hired Joey Essex to headline Look its a well known fact that hes a bit of a ct the example you gave is just one of many but if theyre entertaining then so what My issue however is that I really dont see him being that entertaining rap over soft guitars dont see it getting everyone HYPEDfitflop pietra cheapfitflop sandals httpfitflopsalesingapore2blogspotcomHi there  Youve done a fantastic job I will certainly digg it and personally recommend to my friends I am confident theyll be benefited from this websitenike huarache zwart wit rusland httpwwwblosrtvnlnlnikehuarachezwartwitrusland21209htmlIts in fact very difficult in this full of activity life
-imported: true
 ---
 
 This year’s Summer Ball headliner was announced a couple of weeks ago, via the somewhat protracted method of a quiz – where the first letter of five somewhat transparently James Bond themed questions allowed students to spell out the artist’s name.

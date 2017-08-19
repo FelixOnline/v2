@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sit-down formal dinner back on the menu for this year’s event
 date: "2012-02-16 22:08:41 +0000"
+
 # Attributes from Felix Online V1
 id: "2209"
 old_path: /news/2209/black-tie-for-summer-ball
 aliases:
  - /news/2209/black-tie-for-summer-ball
+imported: true
+comments:
+ - An excellent plan but without the usual college 20000 subvention in the event the ticket price is set to rise significantly past the 30 initially suggested Perhaps people consider 35 or more entsonly tickets to be excessive for a cutback summer ball YayId gladly pay up to 100110 for dinner and ents if the acts were truly awesome
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - An excellent plan but without the usual college 20000 subvention in the event the ticket price is set to rise significantly past the 30 initially suggested Perhaps people consider 35 or more entsonly tickets to be excessive for a cutback summer ball YayId gladly pay up to 100110 for dinner and ents if the acts were truly awesome
-imported: true
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/summer-ball-2012-plan-3966.pdf) brought to Imperial College Union Council last Monday (February 13) Deputy President (Finance & Services) Michael Foster outlined plans for this year’s Summer Ball, which will see the return of black-tie and a formal dinner.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Harley Quinn's first live-action moments on screen
 date: "2015-05-08 12:50:21 +0100"
+
 # Attributes from Felix Online V1
 id: "5507"
 old_path: /film/5507/this-week-in-film-suicide-squad
 aliases:
  - /film/5507/this-week-in-film-suicide-squad
+imported: true
+comments:
+ - birkenstock gizehbirkenstock shoes online httpbirkenstockaustraliamallscomchristian louboutin biancachristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomWow because this is great work Congrats and keep it upcs go skins analyst httpsgroupsdiigocomgroupnba2k16mtdelivercontentnba2k16guidelinesfromprofessionals14944492Wow because this is really excellentexcellent job Congrats and keep it upbuying csgo keys httpmadden15coinsexteencom20160517newdetailedplanfornba2k16coinsGood day tidy web page you have going herefifa 17 coins httpwwwseitlovaczkunena5generaldiscussion14899buyfifacoinsdiablo3authorized14905say thanks to so mucha lot for your internet site it aids a whole lotfifa 17 coins httpgamerzinternationalcomforumannouncements1019buynba2k17coinsgreenbaybasedcdshopsellsmoviegamesThanks pertaining to offering this kind of superb postingfifa 17 httprumodelscommodelsforumtopic14801Lov
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock gizehbirkenstock shoes online httpbirkenstockaustraliamallscomchristian louboutin biancachristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomWow because this is great work Congrats and keep it upcs go skins analyst httpsgroupsdiigocomgroupnba2k16mtdelivercontentnba2k16guidelinesfromprofessionals14944492Wow because this is really excellentexcellent job Congrats and keep it upbuying csgo keys httpmadden15coinsexteencom20160517newdetailedplanfornba2k16coinsGood day tidy web page you have going herefifa 17 coins httpwwwseitlovaczkunena5generaldiscussion14899buyfifacoinsdiablo3authorized14905say thanks to so mucha lot for your internet site it aids a whole lotfifa 17 coins httpgamerzinternationalcomforumannouncements1019buynba2k17coinsgreenbaybasedcdshopsellsmoviegamesThanks pertaining to offering this kind of superb postingfifa 17 httprumodelscommodelsforumtopic14801Lov
-imported: true
 ---
 
 In the face of Marvel’s continued success with their Cinematic Universe, DC have begun throwing out early glimpses of their upcoming slate, kicking off with a trailer for _Batman vs Superman: Dawn of Justice_*, and now the first image of the Suicide Squad all together.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   College submits planning application to Westminster Council for cooling plant on roof of Sherfield Building
 date: "2014-05-09 01:56:19 +0100"
+
 # Attributes from Felix Online V1
 id: "4565"
 old_path: /news/4565/library-inches-closer-towards-air-conditioning
 aliases:
  - /news/4565/library-inches-closer-towards-air-conditioning
+imported: true
+comments:
+ - Marissa put the pun down and back away slowlyIm not sure why College didnt mention the real reason this hasnt happened before and are still the biggest barrier to it happening again the residents of Alexandra Court the flats behind the library on Queens Gate They even shot down plans to merely put solar shading on the windows httplivecgcunetnews1473If you wish to submit a comment to the application onlinehttpidoxpawestminstergovukonlineapplicationsapplicationDetailsdoactiveTabmakeCommentkeyValN4HRFLRPM2U00
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Marissa put the pun down and back away slowlyIm not sure why College didnt mention the real reason this hasnt happened before and are still the biggest barrier to it happening again the residents of Alexandra Court the flats behind the library on Queens Gate They even shot down plans to merely put solar shading on the windows httplivecgcunetnews1473If you wish to submit a comment to the application onlinehttpidoxpawestminstergovukonlineapplicationsapplicationDetailsdoactiveTabmakeCommentkeyValN4HRFLRPM2U00
-imported: true
 ---
 
 After many years of complaints from students regarding the sweltering heat on the top floors of the Central Library, Felix is happy to announce that College has finally responded by providing air conditioning in the library.

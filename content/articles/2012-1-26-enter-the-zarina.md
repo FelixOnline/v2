@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emotions run high at film artist and photographer Zarina Bhimji’s retrospective at Whitechapel
 date: "2012-01-26 22:19:28 +0000"
+
 # Attributes from Felix Online V1
 id: "2059"
 old_path: /arts/2059/enter-the-zarina
 aliases:
  - /arts/2059/enter-the-zarina
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 To coincide with the world premiere of her latest film installation ‘Yellow Patch’, the [__Whitechapel Gallery__](http://www.whitechapelgallery.org/exhibitions/zarina-bhimji) in East London is currently showing the first major retrospective of the artwork of Zarina Bhimji. Born in Uganda to Indian parents, Bhimji left for Britain in the early 1970s to escape the brutal regime of Idi Amin. This complex cultural history cannot help but heavily influence her work, and partly explains her passionate focus on themes of loss, pain, and human displacement.

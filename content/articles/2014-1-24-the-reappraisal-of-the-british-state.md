@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Why the Coalition Government should tread carefully
 date: "2014-01-24 09:51:21 +0000"
+
 # Attributes from Felix Online V1
 id: "4280"
 old_path: /comment/4280/the-reappraisal-of-the-british-state
 aliases:
  - /comment/4280/the-reappraisal-of-the-british-state
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __O__n January 20th European tensions, sparked by Prime Minister Cameron’s utilisation of migration as a political chess piece, came to a head. The tone of UK-Europe relations were reflected in the words of German Foreign Minister (and Social Democrat), Walter Steinmeier.

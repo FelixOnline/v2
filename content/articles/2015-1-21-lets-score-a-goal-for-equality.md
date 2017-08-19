@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial's LGBT Officer, Kyle Hellemans wants to know about your experience in sport
 date: "2015-01-21 11:54:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5105"
 old_path: /welfare/5105/lets-score-a-goal-for-equality
 aliases:
  - /welfare/5105/lets-score-a-goal-for-equality
+imported: true
+comments:
+ - m49xXt httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - m49xXt httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 In 1990, Justin Fashanu was the first English professional footballer to come out as gay. Throughout this, he faced abuse from his teammates, fellow players and even his manager. He committed suicide just eight years later.

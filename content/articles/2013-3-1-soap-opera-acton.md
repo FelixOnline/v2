@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An editorial on Acton, and a bit on the Translation Studies Unit – the line from College is rather vague at the moment
 date: "2013-03-01 00:58:00 +0000"
+
 # Attributes from Felix Online V1
 id: "3413"
 old_path: /comment/3413/soap-opera-acton
 aliases:
  - /comment/3413/soap-opera-acton
+imported: true
+comments:
+ - I entirely agree that College should keep Evelyn Gardens open until the end of the lease The halls are not in particularly bad condition with the exception of Fisher and would therefore not need a massive amount of investment over the next 32 yearsYour argument regarding the lease extension is however misguided Indeed the way a leasehold typically works is that you pay a large amount of money upfront to purchase the leasehold every year you pay ground rent which is set at the time of the purchase and normally doesnt increase muchat all after that and at the end of the lease youre left with nothing Because the ground rent will have been set many decades ago College could be paying ground rent of a few hundred pounds per year essentially nothing You claim that College could easily negotiate an extension of the lease and Im sure thats true but the costs would be staggering given the location were talking 89 figures for a reasonable extension
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I entirely agree that College should keep Evelyn Gardens open until the end of the lease The halls are not in particularly bad condition with the exception of Fisher and would therefore not need a massive amount of investment over the next 32 yearsYour argument regarding the lease extension is however misguided Indeed the way a leasehold typically works is that you pay a large amount of money upfront to purchase the leasehold every year you pay ground rent which is set at the time of the purchase and normally doesnt increase muchat all after that and at the end of the lease youre left with nothing Because the ground rent will have been set many decades ago College could be paying ground rent of a few hundred pounds per year essentially nothing You claim that College could easily negotiate an extension of the lease and Im sure thats true but the costs would be staggering given the location were talking 89 figures for a reasonable extension
-imported: true
 ---
 
 [The new halls saga continues](http://felixonline.co.uk/arts/3417/pressure-continues-over-acton/).

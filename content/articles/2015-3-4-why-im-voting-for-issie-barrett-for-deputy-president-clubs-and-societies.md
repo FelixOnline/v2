@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emiel de Lange explains why he thinks Issie deserves your vote
 date: "2015-03-04 13:58:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5333"
 old_path: /comment/5333/why-im-voting-for-issie-barrett-for-deputy-president-clubs-and-societies
 aliases:
  - /comment/5333/why-im-voting-for-issie-barrett-for-deputy-president-clubs-and-societies
+imported: true
+comments:
+ - fitflops cheapestfitflops australia sale httpaustraliafitflopsblogspotcomchristian loboutinchristian louboutin online httpchristianlouboutincanadaoutletblogspotcomlouboutin cheapchristian louboutin online httpchristianlouboutincanadaoutletblogspotcomHi guysI launched my business The Raw Food Kitchen this year and its been a fantastic start so far but I really want to take it to the next level next year I want to grow my business and to really stand out in the market place I want my clients to think of The Raw Food Kitchen as the go to place for all things raw whether it be classes eBooks or video content and more Any training and education episceally when it comes to marketing I can get on this would help me greatly  Amanda
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops cheapestfitflops australia sale httpaustraliafitflopsblogspotcomchristian loboutinchristian louboutin online httpchristianlouboutincanadaoutletblogspotcomlouboutin cheapchristian louboutin online httpchristianlouboutincanadaoutletblogspotcomHi guysI launched my business The Raw Food Kitchen this year and its been a fantastic start so far but I really want to take it to the next level next year I want to grow my business and to really stand out in the market place I want my clients to think of The Raw Food Kitchen as the go to place for all things raw whether it be classes eBooks or video content and more Any training and education episceally when it comes to marketing I can get on this would help me greatly  Amanda
-imported: true
 ---
 
 Clubs and societies needs someone who cares about them, and no one cares more than Issie. Clubs are where people make friends, try new things and do the things they love, and without them university life would be much poorer.

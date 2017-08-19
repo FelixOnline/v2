@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Teams have been suspended and made to miss key matches
 date: "2014-11-14 19:58:53 +0000"
+
 # Attributes from Felix Online V1
 id: "4862"
 old_path: /news/4862/penalties-for-rugby-teams-announced-
 aliases:
  - /news/4862/penalties-for-rugby-teams-announced-
+imported: true
+comments:
+ - What is Paul Beaumont still doing around he was at least a year above me and I left yonks agoAnon PhD according to ExchangeThe hippest sport regarding world  there is no doubt in it  is association sports There are 193 independent states in the world and several 208 mens national football teams affiliated to Fifa This is not surprisingly due into the fact that some territories are not separate states but nevertheless have personal football teams  England Scotland Wales and Northern Ireland are perfect examplescredits fut rapidement httpcreditsfutcomI treasure the knowledge on your web sites Thanks a lotFIFA 17 httpturkomaniaruviewtopicphpf17t84700I appreciate reading through your website thnxfifa 17 http214774homepagemodulesdet573627f11777830cheapnbakvcofalternativehtmlmsg8009066
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What is Paul Beaumont still doing around he was at least a year above me and I left yonks agoAnon PhD according to ExchangeThe hippest sport regarding world  there is no doubt in it  is association sports There are 193 independent states in the world and several 208 mens national football teams affiliated to Fifa This is not surprisingly due into the fact that some territories are not separate states but nevertheless have personal football teams  England Scotland Wales and Northern Ireland are perfect examplescredits fut rapidement httpcreditsfutcomI treasure the knowledge on your web sites Thanks a lotFIFA 17 httpturkomaniaruviewtopicphpf17t84700I appreciate reading through your website thnxfifa 17 http214774homepagemodulesdet573627f11777830cheapnbakvcofalternativehtmlmsg8009066
-imported: true
 ---
 
 Earlier this week, in light of the recent incidents concerning anti-social behaviour, Imperial College Union released the penalties that will be held against both Imperial College Union Rugby Football Club (ICURFC) and Imperial Medicals Rugby Football Club.

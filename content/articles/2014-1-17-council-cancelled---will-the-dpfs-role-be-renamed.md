@@ -4,16 +4,23 @@ title: >
 subtitle: >
   After a low turnout at Tuesday’s Council meeting, the session was abandoned since they lacked the quorum level of attendance required for binding votes.
 date: "2014-01-17 03:03:58 +0000"
+
 # Attributes from Felix Online V1
 id: "4223"
 old_path: /news/4223/council-cancelled---will-the-dpfs-role-be-renamed
 aliases:
  - /news/4223/council-cancelled---will-the-dpfs-role-be-renamed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 After a low turnout at Tuesday’s Council meeting, the session was abandoned since they lacked the quorum level of attendance required for binding votes.

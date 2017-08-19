@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The future is here and you’ll look like a fool wearing it
 date: "2016-02-05 12:42:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5881"
 old_path: /games/5881/felix-reacts-to-virtual-reality
 aliases:
  - /games/5881/felix-reacts-to-virtual-reality
+imported: true
+comments:
+ - Kick the tires and light the fires problem ofiflialcy solved
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Kick the tires and light the fires problem ofiflialcy solved
-imported: true
 ---
 
 The year of virtual reality is finally upon us. This week, the FELIX team tried Gear VR, Samsung’s mobile virtual reality headset.

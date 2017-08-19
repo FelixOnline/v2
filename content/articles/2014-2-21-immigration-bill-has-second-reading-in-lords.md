@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The second reading of the Immigration Bill took place in the House of Lords last Monday. The reading stretched over a seven-hour period during which the Peers discussed several aspects of the bill, including a lengthy discussion about the prospective problems facing overseas students due to the bill
 date: "2014-02-21 02:52:01 +0000"
+
 # Attributes from Felix Online V1
 id: "4410"
 old_path: /news/4410/immigration-bill-has-second-reading-in-lords
 aliases:
  - /news/4410/immigration-bill-has-second-reading-in-lords
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The second reading of the Immigration Bill took place in the House of Lords last Monday. The reading stretched over a seven-hour period during which the Peers discussed several aspects of the bill, including a lengthy discussion about the prospective problems facing overseas students due to the bill.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Frisbee is taking over felix
 date: "2016-11-18 17:04:12 +0000"
+
 # Attributes from Felix Online V1
 id: "6486"
 old_path: /sport/6486/golden-weekend-for-ic-frisbee-at-regionals
 aliases:
  - /sport/6486/golden-weekend-for-ic-frisbee-at-regionals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The indoor frisbee season has well and truly got underway, and the Imperial disc Doctors (dD) were able to send three teams to the men’s indoor regionals, one of only two teams in the region to be able to do so. Having won this competition last year, expectations were high, but the team wanted to take a steady approach for continued success.

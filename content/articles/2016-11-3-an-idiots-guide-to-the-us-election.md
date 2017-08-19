@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Not to say you’re an idiot, but at least one of the candidates is
 date: "2016-11-03 23:14:44 +0000"
+
 # Attributes from Felix Online V1
 id: "6379"
 old_path: /news/6379/an-idiots-guide-to-the-us-election
 aliases:
  - /news/6379/an-idiots-guide-to-the-us-election
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Remember 2012? The London Olympics, (almost) the end of the world and the last US presidential election? Well fast forward four years and we’ve had another set of Olympics, another election cycle is coming to a climax and, if you believe everything people are saying on Twitter, the world is coming to its end if either of the frontrunning candidates wins the race to the White House.

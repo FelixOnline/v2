@@ -4,16 +4,24 @@ title: >
 subtitle: >
   According to recent information the halls are set to close in 2015, either for refurbishment or permanently.
 date: "2014-03-27 11:49:49 +0000"
+
 # Attributes from Felix Online V1
 id: "4513"
 old_path: /news/4513/evelyn-gardens-set-to-close-in-2015
 aliases:
  - /news/4513/evelyn-gardens-set-to-close-in-2015
+imported: true
+comments:
+ - httpwwwfimperialacukimediacontentview376 around 1 minute 20 seconds inIf were going to bring students from around the World to study at Imperial College then weve got to make sure that we can accommodate those students close to the university so they actually live on the campus That is so important to us  Sir Richard Sykes RECTOR in 2005So dear College whats changedTHE HALLS WILL CLOSE ONCE THE STUDENTS WHO ONCE WENT THERE HAVE GONE THE COLLEGE KNOWS THEY ARE THE ONLY PEOPLE WHO WILL CAMPAIGN AGAINST SUCH CLOSURES COLLEGE DOES NOT GIVE A DAMN THE POSTULATION OF REFURBISHMENT IS NONSENSE AN EMPTY MEANINGLESS PROMISE NO REFURBISHMENT WILL HALLE CLOSURE ONCE THE STUDENTS WHO ONCE LEFT THERE IS WHAT WILL HAPPEN CAPS ARE truth and stuffIt is about time the standard of accommodation in Evelyn Gardens be brought in line with the rest of Imperial or to what most student would expect  It is important that the price be kept as low as possible to allow access to th
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - httpwwwfimperialacukimediacontentview376 around 1 minute 20 seconds inIf were going to bring students from around the World to study at Imperial College then weve got to make sure that we can accommodate those students close to the university so they actually live on the campus That is so important to us  Sir Richard Sykes RECTOR in 2005So dear College whats changedTHE HALLS WILL CLOSE ONCE THE STUDENTS WHO ONCE WENT THERE HAVE GONE THE COLLEGE KNOWS THEY ARE THE ONLY PEOPLE WHO WILL CAMPAIGN AGAINST SUCH CLOSURES COLLEGE DOES NOT GIVE A DAMN THE POSTULATION OF REFURBISHMENT IS NONSENSE AN EMPTY MEANINGLESS PROMISE NO REFURBISHMENT WILL HALLE CLOSURE ONCE THE STUDENTS WHO ONCE LEFT THERE IS WHAT WILL HAPPEN CAPS ARE truth and stuffIt is about time the standard of accommodation in Evelyn Gardens be brought in line with the rest of Imperial or to what most student would expect  It is important that the price be kept as low as possible to allow access to th
-imported: true
 ---
 
 According to anonymous sources, the entire network of halls in Evelyn Gardens (providing accommodation for a total of 613 students), is set to close in 2015, with student accommodation spaces being transferred to the accommodation in Acton that is under current development.

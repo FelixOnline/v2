@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eva Rosenthal goes all Art Attack
 date: "2013-02-13 17:00:05 +0000"
+
 # Attributes from Felix Online V1
 id: "3313"
 old_path: /arts/3313/back-to-collage
 aliases:
  - /arts/3313/back-to-collage
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Kurt Schwitters](http://en.wikipedia.org/wiki/Kurt_Schwitters) was a key influence on the development of pop-art, one of the most important movements of the 20th century, but if you have never heard his name before, do not fear. Tate Britain is having a major retrospective of his work and, in any case, it is a catchy name, with a tingling ring to it that sticks delightfully to your brain walls so that you could find yourself Schwittering (muttering Schwitters to yourself whilst trying to look sane) around the sweltering rooms the Tate Britian.

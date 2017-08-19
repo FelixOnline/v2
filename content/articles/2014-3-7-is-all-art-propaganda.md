@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Art should comfort the disturbed and disturb the comfortable. It’s an instantly quotable adage from Banksy, but what does it actually mean? Can a line be drawn between outright political propaganda and the canvases hanging in every hip gallery in London?
 date: "2014-03-07 04:56:49 +0000"
+
 # Attributes from Felix Online V1
 id: "4461"
 old_path: /arts/4461/is-all-art-propaganda
 aliases:
  - /arts/4461/is-all-art-propaganda
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Art should comfort the disturbed and disturb the comfortable. It’s an instantly quotable adage from Banksy, but what does it actually mean? Can a line be drawn between outright political propaganda and the canvases hanging in every hip gallery in London? Or is all art propaganda, as the title of George Orwell’s collection of critical essays claims? Visual media has the unique ability to reach the masses and influence thought and perception. Does linking this to political ideology threaten the integrity of the artist and the artwork itself, or is the art informed and heightened by this social and political context?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken interviews Brandon Brown about his new book and the state of science communication around the world
 date: "2015-06-17 22:44:55 +0100"
+
 # Attributes from Felix Online V1
 id: "5626"
 old_path: /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
 aliases:
  - /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
+imported: true
+comments:
+ - I have been exploring for a little bit for any high quality articles or blog posts in this sort of area  Exploring in Yahoo I ultimately stumbled upon this web site Reading this information So i am glad to exhibit that Ive a very excellent uncanny feeling I discovered just what I needed I so much definitely will make sure to do not disregard this website and give it a glance on a relentless basiswholesale new era fitted hats httpwwwtwofangtucnfittedhatsgizeh birkenstockbirkenstock shoes sale httpbirkenstockaustraliablogspotcomblack christian louboutinchristian louboutin shoes httpchristianlouboutincanadaoutletblogspotcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed t
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have been exploring for a little bit for any high quality articles or blog posts in this sort of area  Exploring in Yahoo I ultimately stumbled upon this web site Reading this information So i am glad to exhibit that Ive a very excellent uncanny feeling I discovered just what I needed I so much definitely will make sure to do not disregard this website and give it a glance on a relentless basiswholesale new era fitted hats httpwwwtwofangtucnfittedhatsgizeh birkenstockbirkenstock shoes sale httpbirkenstockaustraliablogspotcomblack christian louboutinchristian louboutin shoes httpchristianlouboutincanadaoutletblogspotcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed t
-imported: true
 ---
 
 <a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>Brandon Brown has spent his career teaching Physics. Starting off as physics graduate from Rice University, Brandon got his PhD from Oregon State University and later attained a certificate in Science Communication at the University of Califronia, Santa Cruz. Now a professor at the University of San Francisco, Brandon’s research focus has shifted to sensory biophysics and high-temperature superconductivity. Research students at his laboratory have explored the electric and magnetic sensory abilities of a variety of creatures.

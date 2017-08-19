@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Exploring 'tibits', the Regent Street Veggie Paradise
 date: "2012-01-26 21:47:42 +0000"
+
 # Attributes from Felix Online V1
 id: "2045"
 old_path: /food/2045/food-that-loves-you-back
 aliases:
  - /food/2045/food-that-loves-you-back
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ae1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ae1409"
 author_name: "Anastasia Eleftheriou"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Finally, there’s a place in London where vegetarians can completely be themselves. As soon as you enter tibits a warm welcome from the staff, accompanied with a high-class atmosphere and tempting smells coming from the buffet are enough to set up the scene of an exceptional breakfast, lunch or dinner.

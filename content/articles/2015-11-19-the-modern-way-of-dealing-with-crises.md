@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Facebook’s ‘I’m safe’ button and French flag filters have divided critics
 date: "2015-11-19 22:43:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5747"
 old_path: /comment/5747/the-modern-way-of-dealing-with-crises-
 aliases:
  - /comment/5747/the-modern-way-of-dealing-with-crises-
+imported: true
+comments:
+ - Schmids career record in Open Cup play is 1571 Possess chosen to feature Clive Tyldesley from ITV along with the UK announcer Andy Townsend In the event you cant just search online for famous teams and expertsfifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Schmids career record in Open Cup play is 1571 Possess chosen to feature Clive Tyldesley from ITV along with the UK announcer Andy Townsend In the event you cant just search online for famous teams and expertsfifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 In the deadliest attack on French soil since WWII, panic and chaos unfolded in the French capital this week. Many people were left worried that their relatives, family and friends had been amongst those murdered or injured.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Fountain asks, "Why does Dawkins refuse to debate Craig?"
 date: "2011-11-03 21:51:14 +0000"
+
 # Attributes from Felix Online V1
 id: "1693"
 old_path: /comment/1693/theres-probably-no-dawkins
 aliases:
  - /comment/1693/theres-probably-no-dawkins
+imported: true
+comments:
+ - Yeah wasnt this written by Josh Fountain Here is William Lane Craig explaining that murder is morally obligatory if his god commands it and not even murderHow does Craigs theology differ from that of the late Osama bin LadensCRAIG Rather since our moral duties are determined by Gods commands it is commanding someone to do something which in the absence of a divine command would have been murder The act was morally obligatory for the Israeli soldiers in virtue of Gods command even though had they undertaken it on their on initiative it would have been wrongOn divine command theory then God has the right to command an act which in the absence of a divine command would have been sin but which is now morally obligatory in virtue of that commandHere is Craig in Oxford explaining that children should be killed for their own goodCRAIGIf you believe in the salvation as I do of children who die what that meant is that the death of these children mean
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Yeah wasnt this written by Josh Fountain Here is William Lane Craig explaining that murder is morally obligatory if his god commands it and not even murderHow does Craigs theology differ from that of the late Osama bin LadensCRAIG Rather since our moral duties are determined by Gods commands it is commanding someone to do something which in the absence of a divine command would have been murder The act was morally obligatory for the Israeli soldiers in virtue of Gods command even though had they undertaken it on their on initiative it would have been wrongOn divine command theory then God has the right to command an act which in the absence of a divine command would have been sin but which is now morally obligatory in virtue of that commandHere is Craig in Oxford explaining that children should be killed for their own goodCRAIGIf you believe in the salvation as I do of children who die what that meant is that the death of these children mean
-imported: true
 ---
 
 In 2006, with the publication of Richard Dawkins’ “The God Delusion”, modern atheism found a new vigour. The book has sold over 2 million copies worldwide and is highly regarded by many as being a powerful rational argument against belief in God. Dawkins, described by many as being “evangelistic” or even “militant”, has come to be seen as one of the leaders of “New Atheism” and regards himself as being a patron of intelligent thought, one who follows the evidence to the conclusion that God does not exist.

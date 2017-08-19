@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Game of Thrones doesn’t deserve all the hate, argues Cecily Johnson
 date: "2015-05-21 22:56:54 +0100"
+
 # Attributes from Felix Online V1
 id: "5552"
 old_path: /comment/5552/why-is-televised-rape-so-controversial
 aliases:
  - /comment/5552/why-is-televised-rape-so-controversial
+imported: true
+comments:
+ - Thanks for expressing your ideas with this blog Furthermore a delusion regarding the banks intentions when talking about foreclosed is that the loan company will not take my installments There is a specific amount of time that the bank will take payments every now and then If you are also deep inside hole they should commonly desire that you pay that payment in full However that doesnt mean that they will not take any sort of payments at all In case you and the loan company can have the ability to work a thing out a foreclosure approach may stop However should you continue to neglect payments under the new strategy the property foreclosures process can pick up where it was left offwholesale beanies httpwwwtwofangtucnbeaniehatsfitflops singapore sale 2014fitflop singapore outlets httpfitflopssalesingaporeblogspotcomWow awesome blog format How lengthy have you ever been running a blog for you made running a blog glance easy The total glance of your web site is fantastic let
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for expressing your ideas with this blog Furthermore a delusion regarding the banks intentions when talking about foreclosed is that the loan company will not take my installments There is a specific amount of time that the bank will take payments every now and then If you are also deep inside hole they should commonly desire that you pay that payment in full However that doesnt mean that they will not take any sort of payments at all In case you and the loan company can have the ability to work a thing out a foreclosure approach may stop However should you continue to neglect payments under the new strategy the property foreclosures process can pick up where it was left offwholesale beanies httpwwwtwofangtucnbeaniehatsfitflops singapore sale 2014fitflop singapore outlets httpfitflopssalesingaporeblogspotcomWow awesome blog format How lengthy have you ever been running a blog for you made running a blog glance easy The total glance of your web site is fantastic let
-imported: true
 ---
 
 _[Spoiler warning: this comment piece contains spoilers for all released episodes of Game of Thrones, as well as descriptions of the changes made from its source material, the A Song of Ice and Fire book series.]_

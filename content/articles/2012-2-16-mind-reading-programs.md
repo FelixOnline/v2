@@ -4,16 +4,24 @@ title: >
 subtitle: >
   New insight into the language-processing functions of the brain
 date: "2012-02-16 21:43:57 +0000"
+
 # Attributes from Felix Online V1
 id: "2195"
 old_path: /science/2195/mind-reading-programs
 aliases:
  - /science/2195/mind-reading-programs
+imported: true
+comments:
+ - The first community rsouerce I found that helps people with special needs was the Fairbanks Resource Agency or FRA The FRA is a nonprofit organization that helps out children and adults They help promote independence and give people with special needs the Opportunity to be fully integrated into the community where education employment housing recreation and family support services are offered to them the same as any other individual  The FRA was originally called Fairbanks Rehabilitation Association when it was first created in 1967 but changed its name in 1987The FRA has over 300 employees that provide care to the residents with special needs in the interior Alaska The FRA is located in Fairbanks AK at 805 Airport Way  You can call 907 4568901 for more information regarding the Fairbanks Resource AgencyI also found a similar community rsouerce that started in Anchorage in 1983 but has expanded to Fairbanks and the MatanuskaSusitna Valley areas The private nonprofit organization is
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - The first community rsouerce I found that helps people with special needs was the Fairbanks Resource Agency or FRA The FRA is a nonprofit organization that helps out children and adults They help promote independence and give people with special needs the Opportunity to be fully integrated into the community where education employment housing recreation and family support services are offered to them the same as any other individual  The FRA was originally called Fairbanks Rehabilitation Association when it was first created in 1967 but changed its name in 1987The FRA has over 300 employees that provide care to the residents with special needs in the interior Alaska The FRA is located in Fairbanks AK at 805 Airport Way  You can call 907 4568901 for more information regarding the Fairbanks Resource AgencyI also found a similar community rsouerce that started in Anchorage in 1983 but has expanded to Fairbanks and the MatanuskaSusitna Valley areas The private nonprofit organization is
-imported: true
 ---
 
 Scientists from the University of California, Berkley, have been able to successfully determine fragments of people’s thoughts by decoding brain activity caused by words they hear.

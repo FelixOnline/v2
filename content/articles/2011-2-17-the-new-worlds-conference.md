@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Marco Aliprandi and Henri Sartorius share with Felix an attendant’s first-hand view of the Finance Society’s conference and flagship event of the year.
 date: "2011-02-17 19:07:58 +0000"
+
 # Attributes from Felix Online V1
 id: "813"
 old_path: /biz/813/the-new-worlds-conference-
 aliases:
  - /biz/813/the-new-worlds-conference-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Saturday 5th February, the Imperial College Finance Society organised a landmark event – the first financial conference in its history. The aim of this conference was to present students with the opportunity to listen to experienced industry professionals about issues that have concerned the financial markets in the recent and not-so-recent past, as well as to provide them with a set of insights into the much debated world of finance; hopefully enabling them to make up their own mind as to where the industry is heading. This, along with the networking opportunities available during the breaks with the Finance Society’s illustrious list of sponsors represented a unique experience for all students, many of whom are looking to enter a career in the financial markets and the banking industry in general. The conference has been fathered and nurtured by Vishnu Aggarwal, whom we wish to thank and congratulate with particular emphasis; its success is a direct result of his professionalism, leadership and organisational skills and of the motivation and attention to detail of the team that supported and surrounded him. The marketing and advertising of the event was crucial as the attendance was the gauge by which the success or failure of this first conference would be measured. A very dedicated marketing team did a fantastic job, which included setting up a website, sifting through dozens and dozens of CVs and applications as well as actively spamming and hunting down the chosen few in order to get them to pay the £24 fee sooner rather than later (we would like to stress that it is a very reasonable price tag considering that other conferences charge upwards of £75). The efforts of the marketing team did not go unanswered and many of the 250 delegates were drafted from a wide range of top universities such as LSE, Warwick, UCL and Imperial College itself.

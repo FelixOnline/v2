@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park sets the scene for this year's Oscar Race
 date: "2014-12-04 19:39:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5001"
 old_path: /film/5001/and-the-oscar-goes-to
 aliases:
  - /film/5001/and-the-oscar-goes-to
+imported: true
+comments:
+ - A person necessarily assist to make seriously articles Id state This is the very first time I frequented your website page and up to now I surprised with the analysis you made to make this particular publish extraordinary Fantastic processray ban aviators gold frame pink lens httpwwwsanctus1coukukraybanaviatorsgoldframepinklens21401htmlDifficulties features might be PSP can interact with PS3 in the event you have WiFi connection Theyd to hire business outsourcing agents throughout the course of the fifa securityfifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A person necessarily assist to make seriously articles Id state This is the very first time I frequented your website page and up to now I surprised with the analysis you made to make this particular publish extraordinary Fantastic processray ban aviators gold frame pink lens httpwwwsanctus1coukukraybanaviatorsgoldframepinklens21401htmlDifficulties features might be PSP can interact with PS3 in the event you have WiFi connection Theyd to hire business outsourcing agents throughout the course of the fifa securityfifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 It’s December, which means only one thing. The Oscar Race has officially begun. The New York Film Critics Circle has announced their winners, the Gotham Awards have given out their trophies to the independent films worthy of recognition, the National Board of Review have also announced, the Los Angeles Critics will soon follow, building up the excitement surrounding some of this year’s best films.

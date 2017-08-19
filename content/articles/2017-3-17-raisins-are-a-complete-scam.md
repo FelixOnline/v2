@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Monathan Jasters hates raisins for reasons logical, physical and romantic
 date: "2017-03-17 16:57:16 +0000"
+
 # Attributes from Felix Online V1
 id: "6907"
 old_path: /comment/6907/raisins-are-a-complete-scam
 aliases:
  - /comment/6907/raisins-are-a-complete-scam
+imported: true
+comments:
+ - Now you tell me shes not a knockoutbuy cheap albion online gold httpwwwpetsdatingcomblog14321recapconnectedwiththeintroductionofalbionandbiomeplacesYou re so smartcheapest madden coins mobile for sale httpwwwmaddenstorecomTo hell with that bitchcheap pokemon go rare pokemon for sale pokemonbux httpwwwpokemonbuxcomNo I knowdofus touch kamas httpfarikogamingcomdofustouchblog809dofustouchkamasovercomeleastexpensivedofustouchkamaspurchaseThats not the pointcheap Albion Online gold httpwwwterapowerlevelingnetalbiononlinechangesinhellgates
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Now you tell me shes not a knockoutbuy cheap albion online gold httpwwwpetsdatingcomblog14321recapconnectedwiththeintroductionofalbionandbiomeplacesYou re so smartcheapest madden coins mobile for sale httpwwwmaddenstorecomTo hell with that bitchcheap pokemon go rare pokemon for sale pokemonbux httpwwwpokemonbuxcomNo I knowdofus touch kamas httpfarikogamingcomdofustouchblog809dofustouchkamasovercomeleastexpensivedofustouchkamaspurchaseThats not the pointcheap Albion Online gold httpwwwterapowerlevelingnetalbiononlinechangesinhellgates
-imported: true
 ---
 
 Raisins – also known as dried grapes – represent everything wrong with our civilisation and they seek to disrupt the foundations upon which this very nation stands, and this ingrate, Mr Ma, has the audacity to suggest that we need more raisins in Imperial in order to make his breakfast better. It makes me sick. I will be honest with you, dear readers, that I voted to remain in the EU referendum, but if Brexit means breakfast, and hence means less of this raisin loving coming to this country to dilute British culture (I bet half the raisins you eat aren't even grown in the UK), then hand me a copy of the Daily Mail.

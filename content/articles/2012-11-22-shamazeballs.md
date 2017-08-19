@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lucia Podhorska thinks it was more of a shambles
 date: "2012-11-22 23:02:44 +0000"
+
 # Attributes from Felix Online V1
 id: "2938"
 old_path: /tv/2938/shamazeballs-
 aliases:
  - /tv/2938/shamazeballs-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With it being ‘Guilty Pleasures’ week on The X-Factor, I thought it oddly fitting to finally share my thoughts on the current season of one of the world’s most famous ‘talent’ shows.

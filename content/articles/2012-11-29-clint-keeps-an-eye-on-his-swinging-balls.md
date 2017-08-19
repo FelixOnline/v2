@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Starring: Clint Eastwood, Amy Adams, Justin Timberlake
 date: "2012-11-29 23:03:09 +0000"
+
 # Attributes from Felix Online V1
 id: "2999"
 old_path: /film/2999/clint-keeps-an-eye-on-his-swinging-balls
 aliases:
  - /film/2999/clint-keeps-an-eye-on-his-swinging-balls
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Aren’t you tired of this same old formula? Once again, we get an underdog sports movie (baseball…yawn…) that carves out its path the minute the lead character is introduced. Once again, we see the ageing Clint Eastwood playing a grumpy man with snarky outbursts and failing health or to put more simply, channelling what he did in Gran Torino. Once again, Amy Adams fills the role of a charming, adorable female, this time as Eastwood’s daughter. Once again, singer-turned-serious-actor Justin Timberlake eases into the role of a cheeky young love interest.

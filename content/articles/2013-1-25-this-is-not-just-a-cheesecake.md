@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This is a Yiango Mavrocostanti cheesecake...
 date: "2013-01-25 01:33:42 +0000"
+
 # Attributes from Felix Online V1
 id: "3180"
 old_path: /food/3180/this-is-not-just-a-cheesecake
 aliases:
  - /food/3180/this-is-not-just-a-cheesecake
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cooking. Some of you might hate it. Maybe it is time you started seeing cooking and food a bit differently? I believe food is not just something you need to survive. It is much more than that as it creates memories and brings people together!

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Technically speaking: Fresher tech guide
 date: "2012-10-09 10:21:31 +0100"
+
 # Attributes from Felix Online V1
 id: "2637"
 old_path: /tech/2637/freshers-introduction-to-tech
 aliases:
  - /tech/2637/freshers-introduction-to-tech
+imported: true
+comments:
+ - Hey just for fun here are some things vsilbie in the room 1 My book sculptures top shelf2 A plastic owl3 Longboard skateboard4 Framed pages from  Fantastic Four the trial of Galactus  by John Byrne which is the first comic I ever bought5 Quebec flag on wall reminds me to think or read in French now and then6 Double keyboard stand for videogamey music7 Rubberelectronic drum kit which is often played at Inuvik Legion
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
- - Hey just for fun here are some things vsilbie in the room 1 My book sculptures top shelf2 A plastic owl3 Longboard skateboard4 Framed pages from  Fantastic Four the trial of Galactus  by John Byrne which is the first comic I ever bought5 Quebec flag on wall reminds me to think or read in French now and then6 Double keyboard stand for videogamey music7 Rubberelectronic drum kit which is often played at Inuvik Legion
-imported: true
 ---
 
 __General Productivity__

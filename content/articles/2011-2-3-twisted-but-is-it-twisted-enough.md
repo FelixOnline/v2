@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The twisted tales by Roald Dahl
 date: "2011-02-03 19:34:55 +0000"
+
 # Attributes from Felix Online V1
 id: "718"
 old_path: /arts/718/twisted-but-is-it-twisted-enough
 aliases:
  - /arts/718/twisted-but-is-it-twisted-enough
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Roald Dahl. Aside from traumatic experiences in chocolate factories and child eating giants, surely that kindly figure looking out from the back of his books was as child friendly as they get? Short answer: he wasn’t. There was another side that many are less aware of, his anthologies of short stories directed towards a far more adult audience. Some of these stories have now been adapted for the stage in [Roald Dahl’s Twisted Tales](http://www.lyric.co.uk/production-archive/entry/roald-dahls-twisted-tales/). Gone are the Oompa-Loompas, and all that’s left are tales of revenge and a disembodied optic nerve.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The white crystalline powder that really drives us mad
 date: "2017-02-03 18:13:22 +0000"
+
 # Attributes from Felix Online V1
 id: "6739"
 old_path: /millennials/6739/that-moment-youre-rushing-on-sugar
 aliases:
  - /millennials/6739/that-moment-youre-rushing-on-sugar
+imported: true
+comments:
+ - Mrgroingtime22Serpge clooney is a scum bag cowardwith charleton heston dying of alzheimers he made fum of himheston was a great american and actor and was president of the NRAfor a time clooney was born with a silver spoon in his mouth how low can you go making fun of someone for having a terminal diseaseThis man is sick
 
 # Article Taxonomies
 categories:
  - millennials
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Mrgroingtime22Serpge clooney is a scum bag cowardwith charleton heston dying of alzheimers he made fum of himheston was a great american and actor and was president of the NRAfor a time clooney was born with a silver spoon in his mouth how low can you go making fun of someone for having a terminal diseaseThis man is sick
-imported: true
 ---
 
 The dictionary definition of a drug is either “A medicine or other substance which has a physiological effect when ingested or otherwise introduced to the body” or “A substance taken for its narcotic or stimulant effects”. Each of these definitions are perfectly valid, and classify drugs as having either a medicinal or recreational purpose. This is all well and good, but what happens when the lines are blurred? Ingesting caffeine results in stimulation, leading many to take coffee frequently as their opium, yet society views only one of these addictions to be harmful (bet you can’t guess which one).

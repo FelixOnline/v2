@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Riaz Agahi reviews Nordic trumpetist Arve Henriksen’s latest effort
 date: "2014-03-26 16:49:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4512"
 old_path: /music/4512/henriksens-cosmic-creation
 aliases:
  - /music/4512/henriksens-cosmic-creation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 This week, I’ve set out on a factfinding mission to discover whether the latest effort by __Arve Henriksen__, entitled _Cosmic Creation,_ lives up to its grandiose title. Despite the obvious spoiler of my review, I can tell you that my conclusion was that it does indeed live up to the title. Aside from not being the space rock odyssey that it sounds like, the album succeeds in not only being really good but also having a pretty ethereal – some might even say cosmic – air to it.

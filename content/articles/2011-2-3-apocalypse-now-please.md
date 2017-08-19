@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The end of the world is no time to start developing bad habits
 date: "2011-02-03 20:17:27 +0000"
+
 # Attributes from Felix Online V1
 id: "741"
 old_path: /comment/741/apocalypse-now-please-
 aliases:
  - /comment/741/apocalypse-now-please-
+imported: true
+comments:
+ -  20120217 0822     I enjoy you because of all of your eftfros on this internet site Kim take interest in obtaining into investigations and it really is easy to see why We know all concerning the dynamic mode you produce priceless concepts by means with the internet blog and as effectively as recommend participation from some other folks on this region then our own daughter is certainly becoming educated lots of points Take pleasure inside the remaining portion of the year Youre carrying out a splendid job 20120222 1352     I didnt had a good read by a long time Definitely happy I found this on digg I was speaking teetohgr with my buddies two nights ago allaround this particular issue and also I have to express you make issues really crystal clear for me Thank you and good luck  public liability insurance electrician   cheapest insurance in california coustomers say   plans insurance automobile   impatient behavior   monavie number
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- -  20120217 0822     I enjoy you because of all of your eftfros on this internet site Kim take interest in obtaining into investigations and it really is easy to see why We know all concerning the dynamic mode you produce priceless concepts by means with the internet blog and as effectively as recommend participation from some other folks on this region then our own daughter is certainly becoming educated lots of points Take pleasure inside the remaining portion of the year Youre carrying out a splendid job 20120222 1352     I didnt had a good read by a long time Definitely happy I found this on digg I was speaking teetohgr with my buddies two nights ago allaround this particular issue and also I have to express you make issues really crystal clear for me Thank you and good luck  public liability insurance electrician   cheapest insurance in california coustomers say   plans insurance automobile   impatient behavior   monavie number
-imported: true
 ---
 
 If popular culture has taught me anything (and I like to think it has), it is that we are most likely to perish as a species in a thermonuclear fire-storm or a zombie pandemic. Though radically different, these apocalypses involve a great deal of mass panic before the dying starts. As such, there are themes common to both that may just dissuade booking any long-term holidays.

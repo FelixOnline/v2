@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Becky Lane tells of the issues with ephemeral initiatives
 date: "2012-10-26 02:33:50 +0100"
+
 # Attributes from Felix Online V1
 id: "2748"
 old_path: /comment/2748/the-problem-with-green-week
 aliases:
  - /comment/2748/the-problem-with-green-week
+imported: true
+comments:
+ - Keen Green Bean I am personally not bothered whether I seem like I am making a difference  I would rather just make one The point of this article is not merely about Green issues but the role that I think a Students Union should play in amplifying the student voice over any issue they feel passionately about I would urge you to come to the Green Forum and to air your opinions I would really like to talk more about your thoughts about the attitude of College I dont pretend to be an expert on anything Green just an interested person who realises I can gain a lot more from talking to students with strong views about sustainability as opposed to sitting in my office and dictating what I feel I should be doing on behalf of students with green interests There are a few small things you could do like putting more recycling bins around campus or changing the heating in the Library Im sure the College will be happy to liaise with you and come to a mutually satisfactory conclusion which makes them seem
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Keen Green Bean I am personally not bothered whether I seem like I am making a difference  I would rather just make one The point of this article is not merely about Green issues but the role that I think a Students Union should play in amplifying the student voice over any issue they feel passionately about I would urge you to come to the Green Forum and to air your opinions I would really like to talk more about your thoughts about the attitude of College I dont pretend to be an expert on anything Green just an interested person who realises I can gain a lot more from talking to students with strong views about sustainability as opposed to sitting in my office and dictating what I feel I should be doing on behalf of students with green interests There are a few small things you could do like putting more recycling bins around campus or changing the heating in the Library Im sure the College will be happy to liaise with you and come to a mutually satisfactory conclusion which makes them seem
-imported: true
 ---
 
 We are all guilty of not being as green as we could be. I know for one that I am guilty of chucking recyclables in my little desk bin at times when the journey to the recycling bin (just outside of my office) seems too far. Yet I just can’t help but feel that hosting a Green Week is not the way to combat these behaviours.

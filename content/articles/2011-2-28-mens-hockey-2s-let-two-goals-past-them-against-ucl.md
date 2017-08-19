@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Uncharacteristic result for Imperial but team put on a good show
 date: "2011-02-28 21:08:26 +0000"
+
 # Attributes from Felix Online V1
 id: "940"
 old_path: /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
 aliases:
  - /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
+imported: true
+comments:
+ - Thibaut  Great job you two It keeps the fundamentals that I liked from the preuvois version but brings a new touch that is really pleasant And nice tweaks in the logo also  Congrats June 19 2012   859 amChomsky has pretty much lost pepcvestire in the last couple of yearsIm from the Middle East and I can assure you Iran doesnt give a flying  about Palestine Theyre trying to exert their influence on the Arab Shiite populations expansionism in the Gulf turning Lebanon into a theocracy through their proxy party Hezbollah and above all a threat to its own peopleIsrael isnt exempt either Just please do not always change the subject to Israel whenever Iran comes up
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thibaut  Great job you two It keeps the fundamentals that I liked from the preuvois version but brings a new touch that is really pleasant And nice tweaks in the logo also  Congrats June 19 2012   859 amChomsky has pretty much lost pepcvestire in the last couple of yearsIm from the Middle East and I can assure you Iran doesnt give a flying  about Palestine Theyre trying to exert their influence on the Arab Shiite populations expansionism in the Gulf turning Lebanon into a theocracy through their proxy party Hezbollah and above all a threat to its own peopleIsrael isnt exempt either Just please do not always change the subject to Israel whenever Iran comes up
-imported: true
 ---
 
 On a rainy Sunday afternoon, the Imperial College Hockey Club Men’s 2nd XI wearily approached the UCL hockey ground late after a tiring morning of push starting a seriously defective Union minibus.

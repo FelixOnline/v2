@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The John Innes Centre declares opposition to the Life Sciences cuts
 date: "2010-12-11 15:16:32 +0000"
+
 # Attributes from Felix Online V1
 id: "547"
 old_path: /news/547/opposition-to-life-sciences-cuts-grows
 aliases:
  - /news/547/opposition-to-life-sciences-cuts-grows
+imported: true
+comments:
+ - Well done Felix  your coverage has been consistently brilliant and fair I am also very impressed by the activities of the Imperial College Union an emerging force clearly to be reckoned withIve made a Freedom of Information request for some of the missing informationhttpwwwwhatdotheyknowcomrequestimperial_college_department_of_lI think one of the many underlying problems here might be a mismatch occurring over time between the departments research and teaching so ICUs call for the proposals to be put onhold pending a teaching review appears sensible to me Ive written an article on my viewshttpwwwrtaylorcoukimperiallifesciencesrestructuringhtml I dont know if it happens already but the department may save itself if there is an arrangement between the faculty and the schoolsuch that if research done at the school results in a commercially successful producta druga therapy etcthe school gets a cut of the profit That would be up to the professors to
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Well done Felix  your coverage has been consistently brilliant and fair I am also very impressed by the activities of the Imperial College Union an emerging force clearly to be reckoned withIve made a Freedom of Information request for some of the missing informationhttpwwwwhatdotheyknowcomrequestimperial_college_department_of_lI think one of the many underlying problems here might be a mismatch occurring over time between the departments research and teaching so ICUs call for the proposals to be put onhold pending a teaching review appears sensible to me Ive written an article on my viewshttpwwwrtaylorcoukimperiallifesciencesrestructuringhtml I dont know if it happens already but the department may save itself if there is an arrangement between the faculty and the schoolsuch that if research done at the school results in a commercially successful producta druga therapy etcthe school gets a cut of the profit That would be up to the professors to
-imported: true
 ---
 
 The Department of Life Sciences came under further pressure as the Director of the influential [John Innes Centre](http://www.jic.ac.uk/corporate/index.htm) (JIC), a plant science and microbiology research institute, called the changes "misguided". It also been revealed that the College's annual surplus, or the profit, has almost trebled to [£41.3 million](http://www.imperial.ac.uk/workspace/finance/Public/annual_report/annual_report_09_10.pdf) for 2009-10.

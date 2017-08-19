@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Charlie Stephens reports on games against RVC and rivals UCL
 date: "2014-11-06 19:52:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4784"
 old_path: /sport/4784/positive-start-to-the-season-for-womens-rugby
 aliases:
  - /sport/4784/positive-start-to-the-season-for-womens-rugby
+imported: true
+comments:
+ - Passion the website extremely individual pleasant and whole lots to seeNBA 2K17 MT httpwwwcollaborativemotherhoodcomblogspost15818Great internet site It looks extremely expert Sustain the helpful worknba 2k17 httpinergyflocomblogspost3124max                                            can you stop others from sharing your cover photo  it seems whenever i upload something cool some one from my friends lists steals it by 8r0sha2ing28221
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Passion the website extremely individual pleasant and whole lots to seeNBA 2K17 MT httpwwwcollaborativemotherhoodcomblogspost15818Great internet site It looks extremely expert Sustain the helpful worknba 2k17 httpinergyflocomblogspost3124max                                            can you stop others from sharing your cover photo  it seems whenever i upload something cool some one from my friends lists steals it by 8r0sha2ing28221
-imported: true
 ---
 
 With the graduation of so many of our senior girls last year, this season was always going to be about rebuilding and bringing new players into the squad. With that in mind we thought it important to get a new coach. We were pleased that we hired Stewart Mcguire who, with age grade international caps for Wales and Ireland and currently playing for London Scottish, has brought enthusiasm and a lot of fun to training.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   avant-garde America
 date: "2012-11-09 14:20:02 +0000"
+
 # Attributes from Felix Online V1
 id: "2870"
 old_path: /music/2870/you-dont-have-to-call-it-music-5
 aliases:
  - /music/2870/you-dont-have-to-call-it-music-5
+imported: true
+comments:
+ - Great ingtihs Relieved Im on the same side as youI recokn you are quite dead on with that
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - im808
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
-
-comments:
- - Great ingtihs Relieved Im on the same side as youI recokn you are quite dead on with that
-imported: true
 ---
 
 _or: ears make music too, you know?_

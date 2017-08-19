@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Reverse-searing is the the most impressive way to cook a steak on a student budget
 date: "2015-10-23 11:31:49 +0100"
+
 # Attributes from Felix Online V1
 id: "5665"
 old_path: /food/5665/how-to-cook-meat
 aliases:
  - /food/5665/how-to-cook-meat
+imported: true
+comments:
+ - Apciperation for this information is over 9000thank youTerence Newman is nice on one side however the other been recently a sore spot All my time wasting on Twitter isnt in vain thanks to Associated Content and ACnews Everything from the world to the leveling been recently expandedcrdits fut rapidement httpcreditsfutcomHjgpCK  ehwtxjgoyyba urlhttphnsejcofpomrcomhnsejcofpomrurl linkhttpihzintuwinmpcomihzintuwinmplink httpcdgkbqzqborocom
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Apciperation for this information is over 9000thank youTerence Newman is nice on one side however the other been recently a sore spot All my time wasting on Twitter isnt in vain thanks to Associated Content and ACnews Everything from the world to the leveling been recently expandedcrdits fut rapidement httpcreditsfutcomHjgpCK  ehwtxjgoyyba urlhttphnsejcofpomrcomhnsejcofpomrurl linkhttpihzintuwinmpcomihzintuwinmplink httpcdgkbqzqborocom
-imported: true
 ---
 
 The next time you get the family come to London and take you out for a meal, pause for a second before you order the steak. I mean, fine, it’s not your credit card, and it’s typically the most expensive item on the menu, so surely you’re getting your money’s worth? You certainly wouldn’t pay that much when you go out on a cheeky date to Nando’s, but that’s different; this is a time to treat yourself. It’s not like you’re missing out on anything else on the menu – who really knows what half of it is anyhow? Foams, airs, deconstructions: all are meaningless when you know exactly how juicy, meaty and delicious that steak will be. It’s a safe choice. But, ask yourself - what am I really getting that I can’t do myself?

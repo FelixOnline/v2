@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Feminist Society and why it might not be what you think it is
 date: "2012-10-11 21:25:49 +0100"
+
 # Attributes from Felix Online V1
 id: "2676"
 old_path: /comment/2676/mandatory-castrations-for-all
 aliases:
  - /comment/2676/mandatory-castrations-for-all
+imported: true
+comments:
+ - To start from the basics to be cisgendered is where your gender and biological sex match Gender being whether you feel malefemaleother Judith Butler has written an excellent book on why biological sex cannot be defined if youre interestedIm cisgendered and you probably are too although these are just labels and because of this you can go about your life as you usually would In an ideal world transgendered people would be able also but in reality this isnt always the case This is cisprivilege that cisgendered people have the privilege of doing things that transgendered people cannotHi there social justice warrior You might have noticed that we have pretty much the same beliefs and are fighting for the same causes but I dont have a fanatic determination to attack people who are essentially on my sideIf you read closely youll notice that Ive been careful to use constructions such as all genders to avoid a binary which youve blithely ignored in favour of a single slipup wh
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - AR3310
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "AR3310"
 author_name: "Aemun Reza"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - To start from the basics to be cisgendered is where your gender and biological sex match Gender being whether you feel malefemaleother Judith Butler has written an excellent book on why biological sex cannot be defined if youre interestedIm cisgendered and you probably are too although these are just labels and because of this you can go about your life as you usually would In an ideal world transgendered people would be able also but in reality this isnt always the case This is cisprivilege that cisgendered people have the privilege of doing things that transgendered people cannotHi there social justice warrior You might have noticed that we have pretty much the same beliefs and are fighting for the same causes but I dont have a fanatic determination to attack people who are essentially on my sideIf you read closely youll notice that Ive been careful to use constructions such as all genders to avoid a binary which youve blithely ignored in favour of a single slipup wh
-imported: true
 ---
 
 Because that’s what feminism’s all about, right? Right? Wrong, but from the incredulous looks, comments and questions we got at Freshers’ Fair, it seems like a lot of you really believe that the goals of feminism are to overthrow and subjugate men and introduce a gynocratic fempire. Consider your entrance to Imperial and this article your welcome to reality. You’re in the real world now, and you’re here to learn. So, get learning:

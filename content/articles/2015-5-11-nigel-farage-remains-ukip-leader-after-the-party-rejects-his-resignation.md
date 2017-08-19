@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Honestly, you couldn't make this stuff up.
 date: "2015-05-11 17:50:32 +0100"
+
 # Attributes from Felix Online V1
 id: "5510"
 old_path: /news/5510/nigel-farage-remains-ukip-leader-after-the-party-rejects-his-resignation
 aliases:
  - /news/5510/nigel-farage-remains-ukip-leader-after-the-party-rejects-his-resignation
+imported: true
+comments:
+ - That saves me Thanks for being so seebisln
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - That saves me Thanks for being so seebisln
-imported: true
 ---
 
 Love him or hate him, you’ll be seeing even more of Nigel Farage in the near future.

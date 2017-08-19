@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An editorial on tiredness, phones and their tenuous link to commentary, and the Imperial College Healthcare Trust
 date: "2012-10-05 18:05:25 +0100"
+
 # Attributes from Felix Online V1
 id: "2636"
 old_path: /comment/2636/oh-so-tired
 aliases:
  - /comment/2636/oh-so-tired
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Sleepless Nights__

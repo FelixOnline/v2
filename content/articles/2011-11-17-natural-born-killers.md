@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pavitar Devgon on what makes some people become psychopaths
 date: "2011-11-17 20:27:24 +0000"
+
 # Attributes from Felix Online V1
 id: "1758"
 old_path: /science/1758/natural-born-killers
 aliases:
  - /science/1758/natural-born-killers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We can all name famous psychopaths, be they the fictional Hannibal Lecter or real life Jack the Ripper. They can cause fear or uneasiness in even the most hardy of us. But what really makes a serial killer? Why are psychopaths so different from ‘us’?

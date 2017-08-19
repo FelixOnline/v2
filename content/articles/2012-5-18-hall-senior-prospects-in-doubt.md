@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Frustration for future of Wilsonites
 date: "2012-05-18 05:56:33 +0100"
+
 # Attributes from Felix Online V1
 id: "2454"
 old_path: /news/2454/hall-senior-prospects-in-doubt
 aliases:
  - /news/2454/hall-senior-prospects-in-doubt
+imported: true
+comments:
+ - The student was also keen to stress the fact that Hall Seniors now have to pay for their accommodation like any other hallbased resident and so do not take on the role for any financial gain Now have toIt was my understanding that has always been the case The benefit is clearly living in halls and generally within walking distance to uniAt one point seniors payed a lower rent than students as a way of financial reimbursement Now though they pay the same rent Thats what the article is talking aboutThe situation is much worse than your article depicts the most dire consequence of closing Wilson and replacing it with a hall of residence run entirely by private contractors is that many of the staff working here are being fired  some of them after many years of service to the collegeAs a resident of Wilson I know first hand how tirelessly the staff work to provide an excellent service of accommodation despite the problems with the building itself and for the college to just discard
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The student was also keen to stress the fact that Hall Seniors now have to pay for their accommodation like any other hallbased resident and so do not take on the role for any financial gain Now have toIt was my understanding that has always been the case The benefit is clearly living in halls and generally within walking distance to uniAt one point seniors payed a lower rent than students as a way of financial reimbursement Now though they pay the same rent Thats what the article is talking aboutThe situation is much worse than your article depicts the most dire consequence of closing Wilson and replacing it with a hall of residence run entirely by private contractors is that many of the staff working here are being fired  some of them after many years of service to the collegeAs a resident of Wilson I know first hand how tirelessly the staff work to provide an excellent service of accommodation despite the problems with the building itself and for the college to just discard
-imported: true
 ---
 
 Hall seniors at Wilson House have been left questioning the future of their traditionally guaranteed accommodation.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tessa Davey takes us through the multitude of joys that is TayTay
 date: "2015-03-25 11:49:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5421"
 old_path: /music/5421/my-favourite-musician-taylor-swift
 aliases:
  - /music/5421/my-favourite-musician-taylor-swift
+imported: true
+comments:
+ - Magic had Kareem Worthy Cooper and Scott as he won his championships Rondo had Allen Garnett and Pierce couple of years ago What dominant point guard besides Magic has ever carried his team to a championship And would the Lakers have won those battles in the Celtics and 76ers without other star players wing players and big menfifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Magic had Kareem Worthy Cooper and Scott as he won his championships Rondo had Allen Garnett and Pierce couple of years ago What dominant point guard besides Magic has ever carried his team to a championship And would the Lakers have won those battles in the Celtics and 76ers without other star players wing players and big menfifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 Anyone who knows me will know that I have a particular penchant for Taylor Swift.

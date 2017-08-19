@@ -4,16 +4,22 @@ title: >
 subtitle: >
   All the classic Scorsese hallmarks are also here
 date: "2016-02-26 11:55:31 +0000"
+
 # Attributes from Felix Online V1
 id: "5976"
 old_path: /tv/5976/-vinyl-grooves
 aliases:
  - /tv/5976/-vinyl-grooves
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This show really snuck up on me. HBO seems to have pushed it out without the sort of fanfare one would expect; especially given the names attached to this project. When Martin Scorsese and Mick Jagger say they’re doing something together, you pay attention. So, I decided to give the two hour premiere (directed by Scorsese himself) a chance.

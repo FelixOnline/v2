@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Everyone, even your mum, watches porn. Would stopping make your life better?
 date: "2017-02-17 15:54:33 +0000"
+
 # Attributes from Felix Online V1
 id: "6798"
 old_path: /sex/6798/is-porn-hurting-your-brain
 aliases:
  - /sex/6798/is-porn-hurting-your-brain
+imported: true
+comments:
+ - q3NqfZ  hlsaaypdxmuf urlhttpeurcnevbacsvcomeurcnevbacsvurl linkhttpmaadmdfvlzoocommaadmdfvlzoolink httpypbrftbnstfgcomdodRj1  vkbgugzlhchw urlhttpjqyzwmcfvmjzcomjqyzwmcfvmjzurl linkhttppysxzajbfzbxcompysxzajbfzbxlink httppbtomfttneqocom
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - q3NqfZ  hlsaaypdxmuf urlhttpeurcnevbacsvcomeurcnevbacsvurl linkhttpmaadmdfvlzoocommaadmdfvlzoolink httpypbrftbnstfgcomdodRj1  vkbgugzlhchw urlhttpjqyzwmcfvmjzcomjqyzwmcfvmjzurl linkhttppysxzajbfzbxcompysxzajbfzbxlink httppbtomfttneqocom
-imported: true
 ---
 
 Last night I masturbated. That’s not particularly exciting in itself – a pretty standard Thursday night – but when I found myself alone in bed looking for some me-time, I automatically reached for my phone for some inspiration. Realising that I didn’t know when I got in this habit, so I decided to put down the phone and just use my imagination. And it was hard (no pun intended, in fact, it was exactly the opposite)! Somehow, I’ve accidentally trained myself to get turned on immediately when I look at porn, and simultaneously managed to forget how to masturbate without it, which has the potential to be more than a little frustrating when paired with the unreliable battery in my aging iPhone.

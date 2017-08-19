@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A new clinical trial from joint research with Imperial College and King’s College could bring an end to the summer sneezing
 date: "2012-10-22 12:18:16 +0100"
+
 # Attributes from Felix Online V1
 id: "2728"
 old_path: /science/2728/suffer-from-hayfever-a-solution-may-be-at-hand
 aliases:
  - /science/2728/suffer-from-hayfever-a-solution-may-be-at-hand
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## What is hayfever?

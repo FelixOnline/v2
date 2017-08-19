@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maybe it isn’t good to compare myself to them, but I do
 date: "2015-01-23 01:29:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5125"
 old_path: /comment/5125/i-want-to-say-thank-you-to-the-bad-people
 aliases:
  - /comment/5125/i-want-to-say-thank-you-to-the-bad-people
+imported: true
+comments:
+ - fitflop positano salefitflop sale free shipping httpfitflopssalesingaporeblogspotcomfitflop shoes and bootsfitflop shops httpfitflopsaublogspotcomcheap birkenstockbirkenstock sale sandals httpbirkenstocksaleaustraliablogspotcomlouboutin worldchristian louboutin online outlet httpchristianlouboutincanadaoutletblogspotcomhttp20mgprednisoneonlineorg  Prednisone Without A Prescription Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Viagra 100mg httpcialis20mg5mgnethttp20mgprednisoneonlineorg  No Prescription Prednisone Generic Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone 20 Mg Generic Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Order Prednisone Online Generic Viagra httpcialis20mg5mgnethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegeneric
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop positano salefitflop sale free shipping httpfitflopssalesingaporeblogspotcomfitflop shoes and bootsfitflop shops httpfitflopsaublogspotcomcheap birkenstockbirkenstock sale sandals httpbirkenstocksaleaustraliablogspotcomlouboutin worldchristian louboutin online outlet httpchristianlouboutincanadaoutletblogspotcomhttp20mgprednisoneonlineorg  Prednisone Without A Prescription Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Viagra 100mg httpcialis20mg5mgnethttp20mgprednisoneonlineorg  No Prescription Prednisone Generic Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone 20 Mg Generic Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone Viagra httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Order Prednisone Online Generic Viagra httpcialis20mg5mgnethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegeneric
-imported: true
 ---
 
 This goes out to all the bad people. This is for the terrorists and the murderers; for those who are violent and bigoted, or ignorant and entitled; for the unscrupulous businessmen and the hypocritical prigs; for the unrepentant criminals and the self-righteous moralisers. To you, I wanna say thank you.

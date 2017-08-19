@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Clarification sought over joint university venture
 date: "2012-03-02 01:03:55 +0000"
+
 # Attributes from Felix Online V1
 id: "2301"
 old_path: /news/2301/confusion-over-event-success
 aliases:
  - /news/2301/confusion-over-event-success
+imported: true
+comments:
+ - To be clear this article is sayingThere was a launch event it was a success it made 4548Heather Jones is unable to predict what ticket sales are until ticket sales are publishedThe event cost somewhere near 23473The expected gain was 78893Ticket sales are not yet accounted forThe article is cowritten by a candidate felix editor Can we expect similairly insightful articles next year and a former DPFS Dare I mention the Summer BallGreat stuff guysThe article is purely factual It does not speculate either way on the success of the event Felix wishes the best for any events affiliated with Imperial College and the IC brand To suggest we hoped for the failure of an event created to raise money for charity is unsubstantiated and ridiculous at best Fusion even received heavily discounted advertising rates in the paper for the entire term Accusations without facts are just unsubstantiated rumoursIt was planned to report on the relative success of the even
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - To be clear this article is sayingThere was a launch event it was a success it made 4548Heather Jones is unable to predict what ticket sales are until ticket sales are publishedThe event cost somewhere near 23473The expected gain was 78893Ticket sales are not yet accounted forThe article is cowritten by a candidate felix editor Can we expect similairly insightful articles next year and a former DPFS Dare I mention the Summer BallGreat stuff guysThe article is purely factual It does not speculate either way on the success of the event Felix wishes the best for any events affiliated with Imperial College and the IC brand To suggest we hoped for the failure of an event created to raise money for charity is unsubstantiated and ridiculous at best Fusion even received heavily discounted advertising rates in the paper for the entire term Accusations without facts are just unsubstantiated rumoursIt was planned to report on the relative success of the even
-imported: true
 ---
 
 This past weekend saw [Fusion@London](http://fusionatlondon.com/), an event budgeted to raise £78,897.50 in aid of the charity [Cancer Research UK](http://www.cancerresearchuk.org/), take place. The main aim of the event was “to foster a closer relationship between the capital’s student population“. However, the success of the event is yet to be established. It remains to be revealed the exact gain or loss from the event, which was a joint student venture between the unions of Imperial College London, King’s College London, and University College London.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anand Jagatia takes a look at prions, the bad behaving proteins
 date: "2014-01-31 17:38:56 +0000"
+
 # Attributes from Felix Online V1
 id: "4318"
 old_path: /science/4318/do-you-want-brains-with-that
 aliases:
  - /science/4318/do-you-want-brains-with-that
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Prions (rhymes with “neons”) are really interesting proteins. They can also be very dangerous. The name is a derivative of the words “PROtein” and “INfectious”, and as the etymology suggests, they cause a group of infectious illnesses, called “transmissible spongiform encephalopathies” (TSEs).

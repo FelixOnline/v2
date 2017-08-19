@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Another way that we're better than that other London university
 date: "2013-03-15 02:03:04 +0000"
+
 # Attributes from Felix Online V1
 id: "3483"
 old_path: /sport/3483/ic-womens-rugby-topple-ucl
 aliases:
  - /sport/3483/ic-womens-rugby-topple-ucl
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial has gone from strength to strength this year, currently holding the top position in the BUCS South Eastern 2A division and only having dropped one game this season. Despite winning recent games by impressive margins, Imperial approached their final LUSL fixture of the year against the strong and talented UCL with a certain degree of trepidation, knowing it would be the true test of how far they have come. In recent years UCL have ardently beaten Imperial, a point highlighted by their status two BUCS divisions above us, and this certainly made it a fixture we were looking forward to.

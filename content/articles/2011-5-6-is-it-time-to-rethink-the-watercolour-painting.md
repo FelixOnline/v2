@@ -4,16 +4,24 @@ title: >
 subtitle: >
   New Tate Britain exhibition challenges preconceptions about watercolour as a medium
 date: "2011-05-06 08:54:11 +0100"
+
 # Attributes from Felix Online V1
 id: "1164"
 old_path: /arts/1164/is-it-time-to-rethink-the-watercolour-painting
 aliases:
  - /arts/1164/is-it-time-to-rethink-the-watercolour-painting
+imported: true
+comments:
+ - Thank you for your comment we have corrected the spelling errorAround the dimensions of a piece of paper   How long IS a piece of string Watercolour is NOT associated with amateurship and spinsters trying to show off their artistic talent except by arrogant narrowminded and illeducated persons of a certain age that is under 25 or so Elizabeth Blackadder David Hockney Craigie Aichison and almost any graphic artist of any note use watercolour for its translucency and delicacy its glowing colour values and its immediacyIt would be good to see reviews written by practitioners rather than poorly educated amateurs in the art section of this magazine Proof read for spelling too Couloursarrogant narrowminded and illeducated persons of a certain age that is under 25 or soHmm Id call that a pretty narrowminded illeducated opinion there boy
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thank you for your comment we have corrected the spelling errorAround the dimensions of a piece of paper   How long IS a piece of string Watercolour is NOT associated with amateurship and spinsters trying to show off their artistic talent except by arrogant narrowminded and illeducated persons of a certain age that is under 25 or so Elizabeth Blackadder David Hockney Craigie Aichison and almost any graphic artist of any note use watercolour for its translucency and delicacy its glowing colour values and its immediacyIt would be good to see reviews written by practitioners rather than poorly educated amateurs in the art section of this magazine Proof read for spelling too Couloursarrogant narrowminded and illeducated persons of a certain age that is under 25 or soHmm Id call that a pretty narrowminded illeducated opinion there boy
-imported: true
 ---
 
 Tate’s attempt at redefining our vision of a medium, watercolour, so commonly associated with amateurship and spinsters trying to show off their artistic talent is definitely successful. After viewing this exhibit your conception of what can be done with watercolours will have drastically changed, and you may leave with a feeling of greater respect towards what may seem at first an easy medium to master.

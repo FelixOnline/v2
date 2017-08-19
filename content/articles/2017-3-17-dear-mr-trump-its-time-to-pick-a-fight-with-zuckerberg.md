@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Facebook being Facebook, with its monopoly of a network of two billion people, is arguably the most powerful company in the world
 date: "2017-03-17 15:12:28 +0000"
+
 # Attributes from Felix Online V1
 id: "6904"
 old_path: /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
 aliases:
  - /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
+imported: true
+comments:
+ - httpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor ht
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpwithoutprescriptionbuyretinanet  withoutprescriptionbuyretinanetankor doxycycline100mgbuycomankor httpcialistadalafillowestpricenethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor ht
-imported: true
 ---
 
 Dear Mr Trump: It is well known that you’re a regular reader of felix, so I sincerely hope you get to read this.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett recaps the Rosetta mission and the future of Philae
 date: "2014-11-20 20:42:41 +0000"
+
 # Attributes from Felix Online V1
 id: "4909"
 old_path: /science/4909/shh-philae-is-fast-asleep
 aliases:
  - /science/4909/shh-philae-is-fast-asleep
+imported: true
+comments:
+ - Short answer is noThats a very long bow to draw Jupiters gitarvy would have to change by an enormous amount to come even remotely close to the scenario you suggestThe object that caused this dark spot on Jupiter was probably only about 1 km in diameter  Now if such an object were to strike the Earth that would cause some significant changes in climate
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Short answer is noThats a very long bow to draw Jupiters gitarvy would have to change by an enormous amount to come even remotely close to the scenario you suggestThe object that caused this dark spot on Jupiter was probably only about 1 km in diameter  Now if such an object were to strike the Earth that would cause some significant changes in climate
-imported: true
 ---
 
 It’s the space mission that has had both scientists and members of the wider public waiting with baited breath. The Rosetta mission has been a nail-biter of a ride since the awakening of the craft back in January, and has left news rooms and control rooms alike buzzing all through summer as the craft approached its final destination that it’s taken ten years to reach.

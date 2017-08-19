@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of what you need to know about the SNP before heading to the polling station in May
 date: "2015-03-29 23:06:37 +0100"
+
 # Attributes from Felix Online V1
 id: "5458"
 old_path: /politics/5458/the-scottish-national-party-what-you-need-to-know
 aliases:
  - /politics/5458/the-scottish-national-party-what-you-need-to-know
+imported: true
+comments:
+ - Excellent way of describing and nice article to obtain facts about my presentation subject matter which i am going to convey in collegeray ban carbon fiber aviator httpwwwpolitica2ceroesesraybancarbonfiberaviator13997htmlWe are a professional and reliable online shopping center providing a variety of hot selling products at reasonable prices and shipping them globally As a global online store likecheapjordanscom has developed long lasting ties with factories distributors and warehouses throughout the wholesale community Eliminating unnecessary costs and delivering the lowest possible prices to customers worldwide our aim is to make every one of our customers can access to their favorite products with the lowest price We understand every customers have different needs about the prices and the quality of the products so the prices of our products are set are based on the different quality of our products We are committed to making every customers are able to buy what they really nee
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Excellent way of describing and nice article to obtain facts about my presentation subject matter which i am going to convey in collegeray ban carbon fiber aviator httpwwwpolitica2ceroesesraybancarbonfiberaviator13997htmlWe are a professional and reliable online shopping center providing a variety of hot selling products at reasonable prices and shipping them globally As a global online store likecheapjordanscom has developed long lasting ties with factories distributors and warehouses throughout the wholesale community Eliminating unnecessary costs and delivering the lowest possible prices to customers worldwide our aim is to make every one of our customers can access to their favorite products with the lowest price We understand every customers have different needs about the prices and the quality of the products so the prices of our products are set are based on the different quality of our products We are committed to making every customers are able to buy what they really nee
-imported: true
 ---
 
 You’ve probably heard by now that the upcoming General Election is the most unpredictable and arguably one of the most important in recent UK political history. Minor parties are winning a large number of votes, diminishing the chances of an outright single-party majority in the process.

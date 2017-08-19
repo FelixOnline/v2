@@ -4,16 +4,23 @@ title: >
 subtitle: >
   College ignores the fact that many students struggle to afford rented accommodation
 date: "2016-03-04 11:33:02 +0000"
+
 # Attributes from Felix Online V1
 id: "6001"
 old_path: /comment/6001/the-rent-guarantor-trap
 aliases:
  - /comment/6001/the-rent-guarantor-trap
+imported: true
+comments:
+ - Because Imperial doesnt give a shit about low income students preferring to cater primarily to the richBecause Imperial doesnt give a shit about low income students Have you ever heard of the imperial bursaryBe goodurlhttpwhoznetcomblog52142bladesoulhorribleperformanceBuy Blade And Soul GoldurlIf I have the guts to quit my job urlhttpsalaryitiscomblogs60980175493ineedadvicefrombnsveteransBNS Goldurlyou have a good sense of humorurlhttpimgfavecomr4pgcollectionsr4pgurlWhere were weurlhttpwwwfolkdcomuserr4pgvipr4pgurlIm all yoursurlhttpsdeliciouscomr4pgr4pgurlIm all yoursurlhttpswwwtrustpilotcomreviewwwwr4pgcomr4pgurlToo bad we have to return them urlhttpwwwaboutuscomR4pgr4pgurlYour company is very impressive urlhttpwwwmmorpgcomblogsr4pgr4pgurlHow do you work here urlhttptosgoldkinjacomwelcometotosgoldcom1759827547rev1455785277109tosgol
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Because Imperial doesnt give a shit about low income students preferring to cater primarily to the richBecause Imperial doesnt give a shit about low income students Have you ever heard of the imperial bursaryBe goodurlhttpwhoznetcomblog52142bladesoulhorribleperformanceBuy Blade And Soul GoldurlIf I have the guts to quit my job urlhttpsalaryitiscomblogs60980175493ineedadvicefrombnsveteransBNS Goldurlyou have a good sense of humorurlhttpimgfavecomr4pgcollectionsr4pgurlWhere were weurlhttpwwwfolkdcomuserr4pgvipr4pgurlIm all yoursurlhttpsdeliciouscomr4pgr4pgurlIm all yoursurlhttpswwwtrustpilotcomreviewwwwr4pgcomr4pgurlToo bad we have to return them urlhttpwwwaboutuscomR4pgr4pgurlYour company is very impressive urlhttpwwwmmorpgcomblogsr4pgr4pgurlHow do you work here urlhttptosgoldkinjacomwelcometotosgoldcom1759827547rev1455785277109tosgol
-imported: true
 ---
 
 Unknown to many home students, there is an unholy pitfall for those trying to find accommodation without a guarantor.

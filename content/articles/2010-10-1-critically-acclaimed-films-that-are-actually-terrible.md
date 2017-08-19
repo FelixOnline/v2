@@ -4,16 +4,23 @@ title: >
 subtitle: >
   At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious
 date: "2010-10-01 22:56:22 +0100"
+
 # Attributes from Felix Online V1
 id: "167"
 old_path: /film/167/critically-acclaimed-films-that-are-actually-terrible
 aliases:
  - /film/167/critically-acclaimed-films-that-are-actually-terrible
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We all know the importance of conversation while making friends in your first week, especially the pit-falls of trying to not to sound lame. However, in spite of your best efforts to be cool, some pretentious knobber will always have something smart to say in response to your movie opinions, usually by knocking whatever you say. Let’s call him [Mr Knock](http://www.felixonline.co.uk/?user=egk08), for example. Well, fear not Freshers, I have produced a cut-out-and-keep guide to four really powerful movie opinions that will leave you the winner in any conversation with Mr Knock.

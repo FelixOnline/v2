@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But for all you are is but a King
 date: "2012-06-14 20:55:31 +0100"
+
 # Attributes from Felix Online V1
 id: "2572"
 old_path: /phoenix/2572/but-for-all-you-are-is-but-a-king-
 aliases:
  - /phoenix/2572/but-for-all-you-are-is-but-a-king-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 But for all you are is but a King,

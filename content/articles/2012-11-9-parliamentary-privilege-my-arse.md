@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Politicians have legal immunity for a reason. We should call them out when they abuse it
 date: "2012-11-09 11:51:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2842"
 old_path: /comment/2842/parliamentary-privilege-my-arse
 aliases:
  - /comment/2842/parliamentary-privilege-my-arse
+imported: true
+comments:
+ - what a digusting man europhile to the last and a sponge too Shame he resigned before he was suspended  he still gets his golden goodbye
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - what a digusting man europhile to the last and a sponge too Shame he resigned before he was suspended  he still gets his golden goodbye
-imported: true
 ---
 
 When the expenses scandal originally broke in 2009, my opinion was succinctly summarised by a Guardian feature wherein an MP of the time described the story as a “wonderful moment of British fiddling, but more on a Dad’s Army scale than the real corruption of politics.” Yes, the MPs had decided against buying their own hobnobs/tampons/moats but MP pay is poor for a thankless, gruelling job and I envisioned the majority of expenses as a deserved bonus. Not to mention the whole thing was worth it to officially see that toilet seats were not designed to support John Prescott.

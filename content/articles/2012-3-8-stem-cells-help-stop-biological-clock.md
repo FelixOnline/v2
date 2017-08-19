@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The female reproductive system may contain a mechanism continuously producing egg cells
 date: "2012-03-08 20:07:45 +0000"
+
 # Attributes from Felix Online V1
 id: "2311"
 old_path: /science/2311/stem-cells-help-stop-biological-clock
 aliases:
  - /science/2311/stem-cells-help-stop-biological-clock
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Most women will at some point in their lives encounter the ticking biological clock: the realisation that their fertile years are limited, and if they wish to start a family, they cannot wait much longer. This is because we have only the supply of oocytes or egg cells we are born with, and when they’re gone, they’re gone. At least that is the conventional view of how the female reproductive system works. But research published recently in _Nature Medicine_ suggests that there may be more going on than we had previously realised.

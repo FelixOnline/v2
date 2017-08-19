@@ -4,16 +4,23 @@ title: >
 subtitle: >
   His talk wasn't attended by "plebs"
 date: "2015-01-23 01:16:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5119"
 old_path: /news/5119/andrew-mitchell-mp-speaks-at-imperial
 aliases:
  - /news/5119/andrew-mitchell-mp-speaks-at-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 Former cabinet minister and current MP for Sutton Coldfield, Andrew Mitchell spoke to students this week about the importance of aid and charity in improving the lives of people in the developing world.

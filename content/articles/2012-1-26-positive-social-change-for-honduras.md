@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Re-live Ruby Ramjan’s experience of last year’s Global Brigades
 date: "2012-01-26 22:06:28 +0000"
+
 # Attributes from Felix Online V1
 id: "2052"
 old_path: /travel/2052/positive-social-change-for-honduras
 aliases:
  - /travel/2052/positive-social-change-for-honduras
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 September 1, 2011 was the day that I became a Global Brigader, and 11 am was the time that I looked out onto the beautiful landscape of an undiscovered country and fell in love. I must admit that I joined Global Brigades because I thought it would be a fun summer trip and, undeniably, it was a fun summer trip! However, upon landing in Honduras, I swiftly realised that Global Brigades would be so much more.

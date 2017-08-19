@@ -4,16 +4,23 @@ title: >
 subtitle: >
   New York duo Ms Mr took to the stage of Shepherd’s Bush Empire before a crowd of excited fans before fulfilling all expectations and pleasing their audience.
 date: "2013-11-15 18:09:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4081"
 old_path: /music/4081/ms-mr-at-the-shepherds-bush-empire
 aliases:
  - /music/4081/ms-mr-at-the-shepherds-bush-empire
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 New York duo Ms Mr took to the stage of Shepherd’s Bush Empire before a crowd of excited fans before fulfilling all expectations and pleasing their audience.

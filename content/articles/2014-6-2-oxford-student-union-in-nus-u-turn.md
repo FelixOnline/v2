@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Oxford Union (OUSU) has declared last week’s vote on whether to continue to affiliate with the National Union Students void amid controversy over “ballot stuffing”.
 date: "2014-06-02 12:41:30 +0100"
+
 # Attributes from Felix Online V1
 id: "4637"
 old_path: /news/4637/oxford-student-union-in-nus-u-turn
 aliases:
  - /news/4637/oxford-student-union-in-nus-u-turn
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Oxford Union (OUSU) has declared last week’s vote on whether to continue to affiliate with the National Union Students void amid controversy over “ballot stuffing”. The ‘no’ vote had won the referendum by a slender 128 votes last week, but it has since emerged that more than 1000 votes for ‘no’ were submitted from the same IP address, in batches, with unique voter codes that hadn’t yet been assigned to any members of the union.

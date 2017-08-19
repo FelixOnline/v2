@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Move could cost government £2.5 billion a year
 date: "2015-02-05 23:43:43 +0000"
+
 # Attributes from Felix Online V1
 id: "5196"
 old_path: /news/5196/universities-dismiss-milibands-tuition-fee-policy
 aliases:
  - /news/5196/universities-dismiss-milibands-tuition-fee-policy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ed Milliband, Labour party leader, has promised to decrease tuition fees to £6,000. However vice-chancellors of the Russell group universities have said this is “implausible” as it would leave a £10 billion hole in University Revenue and could lead to “cuts to universities that would damage the economy, affect the quality of students’ education, and set back work on widening access to higher education”. The policy could also potentially cost the government £2.5bn a year.

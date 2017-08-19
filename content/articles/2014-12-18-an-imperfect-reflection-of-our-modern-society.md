@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles takes a glance at the new MIRRORCITY exhibition
 date: "2014-12-18 15:41:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5058"
 old_path: /arts/5058/an-imperfect-reflection-of-our-modern-society
 aliases:
  - /arts/5058/an-imperfect-reflection-of-our-modern-society
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 To say that J. G. Ballard was only a writer is to do him a disservice. The late British modernist, whose oeuvre included novels, essays, and short fiction, was more of a prophet than an author: seemingly predicting the brutal modernisation that would descend upon the UK during the second half of the 20th Century, as well as the accompanying social stagnation it would bring. Ballard has the honor of having his name as an adjective: Ballardian, which Collins English Dictionary describes as “dystopian modernity, bleak man-made landscapes, and the psychological effects of technological progress”.

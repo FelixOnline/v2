@@ -4,16 +4,23 @@ title: >
 subtitle: >
   When Marc Jacobs said that clothes mean nothing until someone lives in them, he probably wasn’t thinking of all the clothes that end up in the Great Pacific garbage patch or the carbon emissions the industry is responsible for. Eloise Hunt talks about the need for sustainability and discusses ways t
 date: "2017-02-17 15:47:22 +0000"
+
 # Attributes from Felix Online V1
 id: "6796"
 old_path: /features/6796/are-we-killing-the-planet-in-style--sustainable-fashion
 aliases:
  - /features/6796/are-we-killing-the-planet-in-style--sustainable-fashion
+imported: true
+comments:
+ - Some great facts in here Eloise Thank you so much for sharing We need to keep spreading the word and educating Ill be sure to share your story with my friends and followersLoved this read a good intro for someone wanting a rundown of the current problems Personally I think the first step towards sustainability is thrifting Making the clothes we already have last longer rather than purchasing a new garment in the same style Hi Eloise thank you for the insightful article The uneasy conflict between civilisations need for progress and our attempts to balance it in the face of wanton environmental destruction is one of the central problems everyone in the developed world struggle with today Will love to read more about this topic from you 5VWLh1  dffdixlvkqwa urlhttpnwouoktpmobecomnwouoktpmobeurl linkhttpyclnzutzxfzmcomyclnzutzxfzmlink httpsauhdmwqhtyecomThnkiing like that shows an experts touch
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Some great facts in here Eloise Thank you so much for sharing We need to keep spreading the word and educating Ill be sure to share your story with my friends and followersLoved this read a good intro for someone wanting a rundown of the current problems Personally I think the first step towards sustainability is thrifting Making the clothes we already have last longer rather than purchasing a new garment in the same style Hi Eloise thank you for the insightful article The uneasy conflict between civilisations need for progress and our attempts to balance it in the face of wanton environmental destruction is one of the central problems everyone in the developed world struggle with today Will love to read more about this topic from you 5VWLh1  dffdixlvkqwa urlhttpnwouoktpmobecomnwouoktpmobeurl linkhttpyclnzutzxfzmcomyclnzutzxfzmlink httpsauhdmwqhtyecomThnkiing like that shows an experts touch
-imported: true
 ---
 
 At the thought of pollution, we imagine raw sewage pumped into rivers, open-caste mines and oil spills. We don’t often think of our fluffy unicorn slippers or plaid shirts. But the overall impact the fashion industry has on our planet is shocking. The production of clothing has been estimated to account for 10% of total carbon impact. The fashion industry is arguably the second greatest polluter in the world, second only to oil. Even ignoring the human rights abuses and animal suffering, the impact of our disposable dress is dire. People need to be taking fashion more seriously, not less.

@@ -4,16 +4,25 @@ title: >
 subtitle: >
   Don't let Greece's politico-economic situation put you off its cuisine!
 date: "2012-03-01 21:52:06 +0000"
+
 # Attributes from Felix Online V1
 id: "2281"
 old_path: /food/2281/the-big-fat-real-greek
 aliases:
  - /food/2281/the-big-fat-real-greek
+imported: true
+comments:
+ - Mammoth  I should be able to post my prepepr and bug out bag guides this weekend  The list anon posted has some good sourcesI like blacklistednewscom  prepepr delighteconomicpolicyjournalcom  gloomy stuffcheaperthandirtcom Nearly everything you needsportsmansguidecom lots of military stuff tooemergencyessentialscom food and moreefoodscom   food and more foodcostcocom  very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I compiled some basic stuff to share with SD readersThere were times when i voted for euro but today i would like to have our old money cos with euro everything is much more evcenpixe
+ - Greece is not the only one our country is long gone there also if you ask me but the goverment is denying it
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,16 +39,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Mammoth  I should be able to post my prepepr and bug out bag guides this weekend  The list anon posted has some good sourcesI like blacklistednewscom  prepepr delighteconomicpolicyjournalcom  gloomy stuffcheaperthandirtcom Nearly everything you needsportsmansguidecom lots of military stuff tooemergencyessentialscom food and moreefoodscom   food and more foodcostcocom  very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I compiled some basic stuff to share with SD readersThere were times when i voted for euro but today i would like to have our old money cos with euro everything is much more evcenpixe
- - Greece is not the only one our country is long gone there also if you ask me but the goverment is denying it
-imported: true
 ---
 
 _Many of you may feel a bit unwilling to visit a Greek restaurant because of Greece’s absurd and unjustifiable dealing of its politico-economic crisis. Besides, it is a fact, especially for those studying economics, that a country so small as Greece and with such a small and limited economy, can easily drag down healthy(?) economies such as America’s, the UK’s and Europe’s. However, we suggest you try to forget for a moment that all our problems’ source is Greece and enjoy some delicious food!_

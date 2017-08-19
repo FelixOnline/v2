@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yong Wen Chua tries to decide if Windows 8 is a good thing or not
 date: "2012-10-26 02:25:06 +0100"
+
 # Attributes from Felix Online V1
 id: "2742"
 old_path: /tech/2742/will-w8-cause-us-grief
 aliases:
  - /tech/2742/will-w8-cause-us-grief
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
-imported: true
 ---
 
 Some of us are not normal people (but then again, we are Imperial students). We live on the bleeding edge of technology where we thrive on using the latest and greatest of gadgets and software. We readily consume new technology and are willing to learn and adapt. In case of an interface paradigm change, it’s probably true, more often than not, that after a short period of lower productivity whilst getting used to the new UI, it will become second nature. We are also prepared to deal with rough edges in the latest software and we grow acclimatised to their quirks and oddities.

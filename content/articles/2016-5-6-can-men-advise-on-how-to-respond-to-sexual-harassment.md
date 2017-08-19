@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Come back to me when you’ve had years of practice
 date: "2016-05-06 09:51:14 +0100"
+
 # Attributes from Felix Online V1
 id: "6120"
 old_path: /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
 aliases:
  - /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
+imported: true
+comments:
+ - This article is really interesting and well written
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article is really interesting and well written
-imported: true
 ---
 
 Picture the scene: A friend of yours has just told you about an experience of theirs, one in which they experienced discrimination, and they’re pissed off.  Why did they tell you? So you could explain to them how their reaction to the situation was wrong, right?

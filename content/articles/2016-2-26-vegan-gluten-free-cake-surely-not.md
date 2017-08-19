@@ -4,16 +4,23 @@ title: >
 subtitle: >
   FELIX presents the birthday cake for your “friends” with challenging needs
 date: "2016-02-26 12:05:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5984"
 old_path: /food/5984/vegan-gluten-free-cake-surely-not
 aliases:
  - /food/5984/vegan-gluten-free-cake-surely-not
+imported: true
+comments:
+ - ODqI5S  rcwpuqqvrnvg urlhttphkthwpmhollacomhkthwpmhollaurl linkhttpkzywacdtkgyxcomkzywacdtkgyxlink httpcjtbtcblygtecomThe Amazing Three Days nya Yessy Muchtar dengan Bukan Cuma Sebuah Pertemuan Ade Susanti dengan Blog yang teaapurkln Lady Clara dengan
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - ODqI5S  rcwpuqqvrnvg urlhttphkthwpmhollacomhkthwpmhollaurl linkhttpkzywacdtkgyxcomkzywacdtkgyxlink httpcjtbtcblygtecomThe Amazing Three Days nya Yessy Muchtar dengan Bukan Cuma Sebuah Pertemuan Ade Susanti dengan Blog yang teaapurkln Lady Clara dengan
-imported: true
 ---
 
 Cakes as birthday presents are great – so quick, cheap and the effort everyone knows you went to means that even if you mess it up, people will pretend it tastes good. Fortunately, this recipe is virtually idiot-proof. Go ahead, test that statement.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   If we cut spending on the royals, the money could be better spent elsewhere
 date: "2016-01-25 14:28:57 +0000"
+
 # Attributes from Felix Online V1
 id: "5832"
 old_path: /comment/5832/the-royals-should-pay-for-themselves
 aliases:
  - /comment/5832/the-royals-should-pay-for-themselves
+imported: true
+comments:
+ - l0WsvD  mkimlljmijsg urlhttpwviiidswnlshcomwviiidswnlshurl linkhttpjkwnblcbdappcomjkwnblcbdapplink httpcurwykmkgxlbcomVery interesting article on Royals However you could do worse than investigate the massive waste of departments such as MOD DWP Defra HMRC 35bn wasted on scrapping projects such as Nimrod Royals will always be an easy target Government has wasted trillions over last 3040 years And the you have the EU which has been responsible for our emptied fisheries mass immigration and food mountains For every 10 we pay in we get 5 back from EU We are now 15 trillion in debt Not decorating the palace makes no differenceVery interesting articleWondering how Princesses Beatrice  Eugene manages their 16th holiday in 13 monthsI think their all out skiing in Verbier at their 15 million pound chalet that Prince Andrew their Dad boughtPrince Andrew our Grand Old Duke of YorkDid he visit his Dukedom to see how his Royals subjects coped with recent floods
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - l0WsvD  mkimlljmijsg urlhttpwviiidswnlshcomwviiidswnlshurl linkhttpjkwnblcbdappcomjkwnblcbdapplink httpcurwykmkgxlbcomVery interesting article on Royals However you could do worse than investigate the massive waste of departments such as MOD DWP Defra HMRC 35bn wasted on scrapping projects such as Nimrod Royals will always be an easy target Government has wasted trillions over last 3040 years And the you have the EU which has been responsible for our emptied fisheries mass immigration and food mountains For every 10 we pay in we get 5 back from EU We are now 15 trillion in debt Not decorating the palace makes no differenceVery interesting articleWondering how Princesses Beatrice  Eugene manages their 16th holiday in 13 monthsI think their all out skiing in Verbier at their 15 million pound chalet that Prince Andrew their Dad boughtPrince Andrew our Grand Old Duke of YorkDid he visit his Dukedom to see how his Royals subjects coped with recent floods
-imported: true
 ---
 
 For a long time, the UK has been wading through an era of cuts, cuts and more cuts. The NHS is expected to shave off £20bn in costs by 2021, schools are preparing for 16% cuts over the next three years, and controversial plans to reduce working tax credits have been in the public eye recently. Despite there being some overly optimistic murmurs of an end to austerity, it’s looking unlikely that George Osborne is going to start splashing the cash any time soon. It’s a sticky situation that, supposedly, we’re all in together.

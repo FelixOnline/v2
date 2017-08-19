@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Is the dream finally coming true?
 date: "2017-01-20 14:54:11 +0000"
+
 # Attributes from Felix Online V1
 id: "6657"
 old_path: /news/6657/central-library-to-get-air-con
 aliases:
  - /news/6657/central-library-to-get-air-con
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Happy days. Imperial College will finally be taking steps to solve issues with temperature regulation at the Central Library. Probably.

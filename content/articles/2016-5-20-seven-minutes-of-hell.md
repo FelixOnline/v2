@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We talk exercise
 date: "2016-05-20 09:05:30 +0100"
+
 # Attributes from Felix Online V1
 id: "6181"
 old_path: /science/6181/seven-minutes-of-hell
 aliases:
  - /science/6181/seven-minutes-of-hell
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With exams drawing near, many think setting aside time for a dedicated workout is simply not worth it. The mere idea of walking to Ethos makes you die a little inside. Long-drawn lectures and revision means the treadmill is off the agenda on weekdays, so you settle for that walk to the library, the occasional sprint to the toilet. 30-minute run? Forget it – that would mean a shower, makeup (hear hear, females), and that would be your weekday or weekend evening gone. Friends, there is a small saving grace.

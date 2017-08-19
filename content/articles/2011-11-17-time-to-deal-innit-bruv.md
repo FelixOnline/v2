@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Top Boy is top stuff, blud
 date: "2011-11-17 21:49:00 +0000"
+
 # Attributes from Felix Online V1
 id: "1787"
 old_path: /tv/1787/time-to-deal-innit-bruv-
 aliases:
  - /tv/1787/time-to-deal-innit-bruv-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Welcome to Summerhouse, fam. Here, food (the kind you smoke) is sold on the streets by 10-year olds, snakes (traitors) get stabbed and adults run farms (not the kind that grow fruit and veg). In the shadow of the mighty Canary Wharf, this Hackney estate is the centre of Dushane and Sully’s drug dealing business. And they are expanding. Ra’Nell is a local 13-year old who has to live alone and fend for himself whilst his mother is in a mental hospital. With his friend Gem, they get sucked into the gangs and violence of the streets.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Caroline Wood says: the hottest student debate is coming to London
 date: "2012-10-26 02:07:54 +0100"
+
 # Attributes from Felix Online V1
 id: "2734"
 old_path: /news/2734/the-london-climate-forum-2012-
 aliases:
  - /news/2734/the-london-climate-forum-2012-
+imported: true
+comments:
+ - This is a really shit troll whoever it isWhos lame enough to pretend to be James get a life and get over yourself
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a really shit troll whoever it isWhos lame enough to pretend to be James get a life and get over yourself
-imported: true
 ---
 
 The [London Climate Forum](http://www.londonclimateforum.org/) is the UK’s largest student led conference on climate change and sustainability. Bringing together leading thinkers from politics, business, campaigning, media, science and engineering, it will be a chance for young people and students to find out how they can be part of creating a more sustainable future.

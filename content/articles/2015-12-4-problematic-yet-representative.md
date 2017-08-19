@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Anywhere else, there would be wild uproar, but Imperial has a different demographic
 date: "2015-12-04 15:15:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5794"
 old_path: /comment/5794/problematic-yet-representative
 aliases:
  - /comment/5794/problematic-yet-representative
+imported: true
+comments:
+ - Its pretty embarrassing that our elected president could hold such contentious views Lets hope its just ignorance rather than something more sinisterAlso  httpswwwyoutubecomwatchvhsq3H_6XuFAElected is a very loose term considering she was basically unopposed Her political views dont interest me what does is the long length of time she takes to reply to emails and the fact Ive literally never seen her Where is she What does she do all day Is she too busy trying to get a name for herself to actually do her job Compare with last year and its a travestySo what The Union officers only real role is to run our bars keep the clubs  societies ticking over nicely and so on Theyre supposed to represent student interests not student political opinionIm not a fan of her views they seem pretty ugly but Im more irritated at how the sabbs are so unaccountable for their lack of actions They seem to just waltz in shake the hand of some important dignity and do jack shit for the
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its pretty embarrassing that our elected president could hold such contentious views Lets hope its just ignorance rather than something more sinisterAlso  httpswwwyoutubecomwatchvhsq3H_6XuFAElected is a very loose term considering she was basically unopposed Her political views dont interest me what does is the long length of time she takes to reply to emails and the fact Ive literally never seen her Where is she What does she do all day Is she too busy trying to get a name for herself to actually do her job Compare with last year and its a travestySo what The Union officers only real role is to run our bars keep the clubs  societies ticking over nicely and so on Theyre supposed to represent student interests not student political opinionIm not a fan of her views they seem pretty ugly but Im more irritated at how the sabbs are so unaccountable for their lack of actions They seem to just waltz in shake the hand of some important dignity and do jack shit for the
-imported: true
 ---
 
 In an interview on IC Radio two weeks ago, our union president revealed a number of potentially problematic views. We all say things we later go on to regret; it’s symptomatic of the social media age. But, our union president chose to defend her contentious tweets, including one which some Imperial students might find offensive.

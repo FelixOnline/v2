@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It was written by an Imperial Alumnus, but is it any good?
 date: "2010-12-02 20:06:49 +0000"
+
 # Attributes from Felix Online V1
 id: "458"
 old_path: /arts/458/the-looking-glass-club-reviewed
 aliases:
  - /arts/458/the-looking-glass-club-reviewed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - lm08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lm08"
 author_name: "Louise Murphy"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ‘[The Looking Glass Club](http://www.thelookingglassclub.com/)’ tells the story of a rather elusive Union society – a society without a stall at the Freshers’ fair anyway; a society which convenes in a dark and dank room somewhere underneath South Kensington, accessible only through a secret tunnel with the membership list kept a closely guarded secret. It is the story of Zeke, an otherwise normal Physics student, that is until he was approached and befriended by a PhD student; in the midst of developing a, to put it lightly, mind altering drug, who persuaded him to come along to a club meeting.

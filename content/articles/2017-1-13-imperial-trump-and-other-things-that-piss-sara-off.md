@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Sara Hamilton is angry about the environment. Again.
 date: "2017-01-13 14:02:19 +0000"
+
 # Attributes from Felix Online V1
 id: "6636"
 old_path: /comment/6636/imperial-trump-and-other-things-that-piss-sara-off
 aliases:
  - /comment/6636/imperial-trump-and-other-things-that-piss-sara-off
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 One of my 2017 felix-related resolutions was to diversify my activist feelings away from the environment. Not that I’m bored about talking about it – not at all. Every week there seems to be some lab somewhere making breakthroughs on green energies, new legislation about restricting urban transport, or an international agreement to reduce our carbon emissions. And if that’s not the case, there’s always Trump sharing his insightful thoughts about how we’re all making this greenhouse gas stuff up after all.  Anyway the point was that there’s a thousand other causes that are also worth protesting weekly about, but Lef asked me to write about climate change, so blame him.

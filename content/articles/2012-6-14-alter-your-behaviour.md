@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Heather Jones on how public behaviour by a few individuals can negatively influence a whole range of unrelated social interactions
 date: "2012-06-14 19:28:44 +0100"
+
 # Attributes from Felix Online V1
 id: "2547"
 old_path: /comment/2547/alter-your-behaviour
 aliases:
  - /comment/2547/alter-your-behaviour
+imported: true
+comments:
+ - Perhaps if more of us showed our disapproval This Too often its easier to just ignore behavior like thisAgreed the title is a bit misdirected but certainly Heather feels things need to change But perhaps she needs to realise that these individuals are only a minority and there are ways of dealing with it that are simple and effective If you are on a train perhaps you can just find another carriage to sit inI think you are right to show disapproval but dont count on that being able to change them  there will always be a few weirdos in the worldYou seem to have been unlucky I travel quite a bit on my own and while this happens to me too Im also a woman it doesnt happen often enough to make me expect itWho came up with the title Its very offensive Stand up for yourself People dont typically interact with people that dont want to be interacted with I like how you can tell the anonymous world how you feel about people wanting to get closer to you physically but cant tell th
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Perhaps if more of us showed our disapproval This Too often its easier to just ignore behavior like thisAgreed the title is a bit misdirected but certainly Heather feels things need to change But perhaps she needs to realise that these individuals are only a minority and there are ways of dealing with it that are simple and effective If you are on a train perhaps you can just find another carriage to sit inI think you are right to show disapproval but dont count on that being able to change them  there will always be a few weirdos in the worldYou seem to have been unlucky I travel quite a bit on my own and while this happens to me too Im also a woman it doesnt happen often enough to make me expect itWho came up with the title Its very offensive Stand up for yourself People dont typically interact with people that dont want to be interacted with I like how you can tell the anonymous world how you feel about people wanting to get closer to you physically but cant tell th
-imported: true
 ---
 
 This morning I realised that something has fundamentally gone wrong. Having finished exams I was wandering around in Hyde Park after a delicious coffee with a friend and noticed the horses from the Hyde Park barracks practicing. I went over to watch and was being impressed by their formation horsing when a gentleman with a huge smile came up and asked me what they were doing. My reaction was a sinking feeling wondering how to extricate myself.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   College confirm that they have not yet discussed switching
 date: "2013-06-13 23:07:38 +0100"
+
 # Attributes from Felix Online V1
 id: "3689"
 old_path: /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
 aliases:
  - /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
+imported: true
+comments:
+ - Wow the union getting in on an issue and expressing their opinion before college have made their decision and decided they dont care what we think Good work
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow the union getting in on an issue and expressing their opinion before college have made their decision and decided they dont care what we think Good work
-imported: true
 ---
 
 The Union Council this week unanimously passed a paper opposing plans by a number of UK universities to replace the current system of degree classification with US style grade point averages (GPA). The group of twelve universities – including King’s College London and UCL, but not Imperial – first published their plans in June 2011. The new system would involve students being assigned letter grades for each piece of assessment. Each grade would be assigned a numerical value between 0.00 and 4.25 with the final grade being a weighted average of these numerical values.

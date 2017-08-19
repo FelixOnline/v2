@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Oxford University’s Students Union (OUSU), not to be confused with the Oxford Union, a debating society, narrowly voted to disaffiliate from the National Union of Students (NUS) in a referendum that concluded on Wednesday.
 date: "2014-05-23 14:22:04 +0100"
+
 # Attributes from Felix Online V1
 id: "4627"
 old_path: /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
 aliases:
  - /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
+imported: true
+comments:
+ - Errrr nope  looks like Oxfords still inhttpoxfordtabcouk201405241000tamperedvotesreportedlycastinnusreferendumI thought the vote was invalidated under allegations that people had been able to vote more than onceThis is true the article was not published timely on the websiteAs in the article stating that the vote was invalidated
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Errrr nope  looks like Oxfords still inhttpoxfordtabcouk201405241000tamperedvotesreportedlycastinnusreferendumI thought the vote was invalidated under allegations that people had been able to vote more than onceThis is true the article was not published timely on the websiteAs in the article stating that the vote was invalidated
-imported: true
 ---
 
 Oxford University’s Students Union (OUSU), not to be confused with the Oxford Union, a debating society, narrowly voted to disaffiliate from the National Union of Students (NUS) in a referendum that concluded on Wednesday.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Utsav Radia on Imperial research that could lead to the first vaccine
 date: "2015-03-06 17:07:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5364"
 old_path: /science/5364/new-antibodies-could-treat-dengue-fever
 aliases:
  - /science/5364/new-antibodies-could-treat-dengue-fever
+imported: true
+comments:
+ - louboutin shoes salediscount christian louboutin httpcanadachristianlouboutinoutletblogspotcomNAuIc4 httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - louboutin shoes salediscount christian louboutin httpcanadachristianlouboutinoutletblogspotcomNAuIc4 httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Researchers from the Department of Medicine at Imperial have identified a new class of antibodies that is effective against the virus that causes dengue fever.

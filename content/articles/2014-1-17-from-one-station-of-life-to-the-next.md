@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It’s an unbelievably touching story of human survival, love, and forgiveness.
 date: "2014-01-17 04:09:33 +0000"
+
 # Attributes from Felix Online V1
 id: "4251"
 old_path: /film/4251/from-one-station-of-life-to-the-next
 aliases:
  - /film/4251/from-one-station-of-life-to-the-next
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jgp09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jgp09"
 author_name: "John G Park"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __The Railway Man__

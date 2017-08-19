@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Andrew Purcell queries claims that decreasing solar activity will trigger an ‘ice age’
 date: "2011-06-23 20:04:32 +0100"
+
 # Attributes from Felix Online V1
 id: "1420"
 old_path: /science/1420/global-cooling
 aliases:
  - /science/1420/global-cooling
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The last week has seen a flurry of excitement over reports that solar activity may be set to decrease. Climate change deniers have sprung upon this news, with prominent Daily Telegraph blogger, James Delingpole, advocating that we increase greenhouse gas production, in order to mitigate any cooling associated with this decrease in solar activity. In an article, which opens with the words “[It’s official: a new Ice Age is on its way](http://blogs.telegraph.co.uk/news/jamesdelingpole/100092280/10-reasons-to-be-cheerful-about-the-coming-new-ice-age/)”, Mr Delingpole goes on to claim that the news “makes global cooling a much more plausible prospect in the next few decades than global warming”. Mr Delingpole isn’t alone. The Register [was also quick to pounce on this news](http://www.theregister.co.uk/2011/06/14/ice_age/), as was Daily Mail columnist, Richard Littlejohn, who claimed “[the world has actually been getting cooler in recent years](http://www.dailymail.co.uk/debate/article-2004463/Cooler-Earth-The-Ice-Age-coming--dont-panic.html)”.

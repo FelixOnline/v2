@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Last Saturday, fundraising totals were announced for Charity Week 2013 (CW) at the annual round-off dinner, with Imperial College students raising just under a staggering £70,000 in one week.
 date: "2013-12-03 15:41:29 +0000"
+
 # Attributes from Felix Online V1
 id: "4174"
 old_path: /news/4174/charity-week-success---70000-raised-for-orphans
 aliases:
  - /news/4174/charity-week-success---70000-raised-for-orphans
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Last Saturday, fundraising totals were announced for Charity Week 2013 (CW) at the annual round-off dinner, with Imperial College students raising just under a staggering £70,000 in one week.

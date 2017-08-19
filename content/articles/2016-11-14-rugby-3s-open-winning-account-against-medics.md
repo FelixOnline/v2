@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Though three is a crowd
 date: "2016-11-14 14:23:28 +0000"
+
 # Attributes from Felix Online V1
 id: "6452"
 old_path: /sport/6452/rugby-3s-open-winning-account-against-medics
 aliases:
  - /sport/6452/rugby-3s-open-winning-account-against-medics
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The IC third XV faced the medics at the fortress of Harlington, hoping to follow in the footsteps of the varsity whitewash last year. Falling on the same day as the much-anticipated RVC night, this game could very well go down as one of the most important of the season for the 3s.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   From the UDH to the green fields of Harlington, Jovan Nedic moves onto rugby
 date: "2010-04-18 17:09:11 +0100"
+
 # Attributes from Felix Online V1
 id: "127"
 old_path: /sport/127/sports-of-yesteryear-sparkes-cup
 aliases:
  - /sport/127/sports-of-yesteryear-sparkes-cup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jn104
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Everyone knows, or at least will know by within the next few weeks, that every year the Imperial School of Medicine take on the rest of the College in the annual Varsity Matches, with the culmination being the JPR Williams Cup between the two 1st XV sides in front of a packed crowd. For the rugby clubs at least, this is one of their biggest matches and the recent score lines will testify to it, but what was it like before the JPR Williams Cup for the Club. The simple answer is the Sparkes Cup.

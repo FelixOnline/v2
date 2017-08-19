@@ -4,16 +4,23 @@ title: >
 subtitle: >
   There is a whole lot of STUFF worth seeing at the Art Fair. Not all of it is Art
 date: "2011-10-16 14:31:56 +0100"
+
 # Attributes from Felix Online V1
 id: "1547"
 old_path: /arts/1547/frieze-a-preview-of-the-madness
 aliases:
  - /arts/1547/frieze-a-preview-of-the-madness
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The talk of the day at [Frieze Art Fair](http://www.friezeartfair.com/), from some grasped snippets of conversation, was a Yacht. It was, quite literally just a yacht that the artist Christian Jankowski was going to sign. Apparently this sort of thing is called “ready made art” and “the viewer gets to decide onwhether or not to consider it art”. How lucky for “the viewer” right? It is necessary to have a vast amount of cheek in order to get away with it. I was not convinced although, as someone very kindly put it, “Yeah… but you get the signature!”.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stephen Fry’s claim, that women don’t cruise because they are uninterested in sex, outraged feminist groups
 date: "2010-11-11 21:41:50 +0000"
+
 # Attributes from Felix Online V1
 id: "366"
 old_path: /comment/366/is-stephen-fry-right-about-womens-sexuality
 aliases:
  - /comment/366/is-stephen-fry-right-about-womens-sexuality
+imported: true
+comments:
+ -  AnnaYou and your friends might not talk about guys as much as people believe But guys sure as hell spend 80 of their time talking about girlsStephen frys comments are clearly ludicrous Half the girls I know are more interested in sex and filthier than I amBut guys sure as hell spend 80 of their time talking about girlsWell as a guy who works in a factory that is news to me Ive just finished an 8 hour shift on a pretty slow day and in all that time women were only mentioned once and that was a joke about how Prince William is batting above his average with Kate Middleton  Hardly 80 of our time
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- -  AnnaYou and your friends might not talk about guys as much as people believe But guys sure as hell spend 80 of their time talking about girlsStephen frys comments are clearly ludicrous Half the girls I know are more interested in sex and filthier than I amBut guys sure as hell spend 80 of their time talking about girlsWell as a guy who works in a factory that is news to me Ive just finished an 8 hour shift on a pretty slow day and in all that time women were only mentioned once and that was a joke about how Prince William is batting above his average with Kate Middleton  Hardly 80 of our time
-imported: true
 ---
 
 Thou shalt not question Stephen Fry? Oh dear, I may as well go watch Hollyoaks and eat a Kit Kat. While we’re at it, the Beatles aren’t just a band – they are a way of life.

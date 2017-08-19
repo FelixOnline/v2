@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In HBO’s latest documentary film we follow the Eagles of Death Metal as they return to Paris following the attack on the Bataclan.
 date: "2017-02-24 15:12:21 +0000"
+
 # Attributes from Felix Online V1
 id: "6825"
 old_path: /tv/6825/peace-love-and-death-metal--nos-amis
 aliases:
  - /tv/6825/peace-love-and-death-metal--nos-amis
+imported: true
+comments:
+ - Thank you for your review  I enjoyed how you characterized the pool party scene in terms of guilt and responsibilityHowever one correction if I may this is not Colin Hanks first feature doc  That would be All Things Must Pass about the rise and fall of Tower Records
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you for your review  I enjoyed how you characterized the pool party scene in terms of guilt and responsibilityHowever one correction if I may this is not Colin Hanks first feature doc  That would be All Things Must Pass about the rise and fall of Tower Records
-imported: true
 ---
 
 Colin Hanks’ directorial debut, Nos Amis, is a powerful albeit atypical music documentary. Opting to focus on the humanity of its subjects far more than their music, this HBO production follows the band Eagles of Death Metal as they attempt to recover from their ordeal at the Bataclan. An impactful cold open shows us the beginnings of the concert as the energy and life seen juxtaposes with the foregone conclusion already simmering in the viewer’s mind. But the footage ends abruptly, long before the tragedy would occur. The spectre of dread this evokes, however, hangs over the rest of the feature.

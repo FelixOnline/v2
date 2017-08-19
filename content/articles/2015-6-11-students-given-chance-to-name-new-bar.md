@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports as voting opens for new Woodward bar
 date: "2015-06-11 22:17:15 +0100"
+
 # Attributes from Felix Online V1
 id: "5613"
 old_path: /news/5613/students-given-chance-to-name-new-bar
 aliases:
  - /news/5613/students-given-chance-to-name-new-bar
+imported: true
+comments:
+ - Whats with Philippa Sketts lust for  obsession with Chris Kaye Its getting really creepy now Also he doesnt deserve the 35000 or so that the Unions going to have spent on him let alone have a bar named in his honour Perhaps Ill change my mind if he proves to be capable of doing more in one year than sending a single email asking for tampons to be sold at costprice and Ill be damned if he came up with that idea himself I refuse to buy the Koolaid Kayelaid distributed by Skett The man isnt a feminist welfare hero hes a sexist waste of money Thankfully hes been too useless to propose the removal of his own job as he suggested hed do last yearHey AliceThanks for trying Sadly youll never be as much of  BNOC as ChrisWoodward Bar is never going to be called Edwards Suck it upPs you dont even go herestill think worlds end is the best namebirkenstock sandals salebuy birkenstocks httpbirkenstockaustraliablogspotcomchristian loubitonchristian loubo
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Whats with Philippa Sketts lust for  obsession with Chris Kaye Its getting really creepy now Also he doesnt deserve the 35000 or so that the Unions going to have spent on him let alone have a bar named in his honour Perhaps Ill change my mind if he proves to be capable of doing more in one year than sending a single email asking for tampons to be sold at costprice and Ill be damned if he came up with that idea himself I refuse to buy the Koolaid Kayelaid distributed by Skett The man isnt a feminist welfare hero hes a sexist waste of money Thankfully hes been too useless to propose the removal of his own job as he suggested hed do last yearHey AliceThanks for trying Sadly youll never be as much of  BNOC as ChrisWoodward Bar is never going to be called Edwards Suck it upPs you dont even go herestill think worlds end is the best namebirkenstock sandals salebuy birkenstocks httpbirkenstockaustraliablogspotcomchristian loubitonchristian loubo
-imported: true
 ---
 
 Imperial College Union are running a poll to name the new student bar out in Acton, located on the site of the new Woodward hall.

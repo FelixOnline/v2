@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The second installment of Eoghan Totten’s short story
 date: "2013-12-02 22:11:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4166"
 old_path: /books/4166/raw-words-part-two
 aliases:
  - /books/4166/raw-words-part-two
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The years continued to roll on, expanding until my childhood reverie waned.

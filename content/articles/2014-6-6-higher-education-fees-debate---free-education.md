@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The debate about higher education funding is not about what the country can or cannot afford. The current forecasts suggest that 45% of student loan income will be written off.
 date: "2014-06-06 02:44:26 +0100"
+
 # Attributes from Felix Online V1
 id: "4661"
 old_path: /comment/4661/higher-education-fees-debate---free-education
 aliases:
  - /comment/4661/higher-education-fees-debate---free-education
+imported: true
+comments:
+ - We also facing the same issue here in South Africa
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - We also facing the same issue here in South Africa
-imported: true
 ---
 
 The debate about higher education funding is not about what the country can or cannot afford. The current forecasts suggest that 45% of student loan income will be written off. This is rapidly approaching the figure of 48.6%, where the current tuition fees system will cost the state more than it did four years ago, before tuition fees were trebled. So let’s be clear: this is an ideological debate about what universities are, and who they should serve.

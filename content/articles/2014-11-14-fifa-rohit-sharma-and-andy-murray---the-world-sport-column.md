@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle tells you what you may have missed out on during a busy week of sport around the globe
 date: "2014-11-14 21:13:46 +0000"
+
 # Attributes from Felix Online V1
 id: "4891"
 old_path: /sport/4891/fifa-rohit-sharma-and-andy-murray---the-world-sport-column
 aliases:
  - /sport/4891/fifa-rohit-sharma-and-andy-murray---the-world-sport-column
+imported: true
+comments:
+ -
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -
-imported: true
 ---
 
 FIFA has released the results of its inquiry into corruption and the World Cup bidding saga. In a shocking turn of events, the document claims that Qatar was totally innocent in the bid, and criticises the FA for its part in the matter. The lawyer who wrote the document and sent it to FIFA has said that the final version contains “numerous materially incomplete and erroneous representations of the facts.”

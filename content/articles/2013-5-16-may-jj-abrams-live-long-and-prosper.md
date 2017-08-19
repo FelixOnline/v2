@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Star Trek: Into Darkness review
 date: "2013-05-16 18:21:13 +0100"
+
 # Attributes from Felix Online V1
 id: "3583"
 old_path: /film/3583/may-jj-abrams-live-long-and-prosper
 aliases:
  - /film/3583/may-jj-abrams-live-long-and-prosper
+imported: true
+comments:
+ - This movie was overall pretty poor unoriginal and an example of really lazy story tellingOnly one good thing about this movie is Zachary Quinto who completely outshines everyone elseSPOILER WARNINGThis movie had so much potential but played it far too safe with too much fan service  First half had potential but the second half  plugged every plot hole with bits of Wrath of Khan which is a much better movie  dont waste 15 on this  Introduced the KIingons who looked impressive but after one fight scene they did NOTHING with them  Despite Cumberbatchs character completely annihilating a squadron of Klingons he later loses in a fucking fist fight with Spock Also the admirals daughter character was completely pointless except from being spank material This is just the tip of the iceberg  This film is awfulIf youre brain dead and like glossy sleek and gleaming piles of shit youll like this This series deserved betterI think Cumberbatchs stock will have w
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This movie was overall pretty poor unoriginal and an example of really lazy story tellingOnly one good thing about this movie is Zachary Quinto who completely outshines everyone elseSPOILER WARNINGThis movie had so much potential but played it far too safe with too much fan service  First half had potential but the second half  plugged every plot hole with bits of Wrath of Khan which is a much better movie  dont waste 15 on this  Introduced the KIingons who looked impressive but after one fight scene they did NOTHING with them  Despite Cumberbatchs character completely annihilating a squadron of Klingons he later loses in a fucking fist fight with Spock Also the admirals daughter character was completely pointless except from being spank material This is just the tip of the iceberg  This film is awfulIf youre brain dead and like glossy sleek and gleaming piles of shit youll like this This series deserved betterI think Cumberbatchs stock will have w
-imported: true
 ---
 
 Director J. J. Abrams no doubt reignited the dying Star Trek franchise and this follow-up to his 2009 reboot further cements his reputation as a director capable of delivering plenty of fun as well as a more than adequate plot and heart.

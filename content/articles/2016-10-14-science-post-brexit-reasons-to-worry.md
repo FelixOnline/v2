@@ -4,16 +4,22 @@ title: >
 subtitle: >
   With less opportunities to work with neighbouring countries and the significant issue that is the loss of EU funding, scientists all over the UK are wondering what other ramifications are yet to come.
 date: "2016-10-14 10:12:01 +0100"
+
 # Attributes from Felix Online V1
 id: "6333"
 old_path: /science/6333/science-post-brexit-reasons-to-worry
 aliases:
  - /science/6333/science-post-brexit-reasons-to-worry
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Angry academics losing their funding, sudden doubts about why we EU students left our lovely countries in the first place, and a vague notion that we should all just emigrate to Canada are the thoughts that often spring to mind when hearing the scary words ‘science’ and ‘Brexit’ put together. Is the future all doom and gloom for the UK scientific community in an uncertain post-Brexit future? Dr. Mike Galsworthy, director of Scientists for the EU, attempted to answer this in his talk “Brexit &amp; Science: where now?” for the London Forum for science policy and concludes that, yes, it might well be. But, *sigh of relief* it is not yet too late to prevent all the UK science infrastructure falling to pieces.

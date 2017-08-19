@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Unsecured Department of Computing network at hijacking app FireSheep’s mercy
 date: "2010-11-04 19:00:49 +0000"
+
 # Attributes from Felix Online V1
 id: "322"
 old_path: /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
 aliases:
  - /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
+imported: true
+comments:
+ - Its a shame ImperialWPA coverage in DoC is so poor I hate using ICDoC but dont really have a choice It is scary how easy this addon makes session hijacking Facebook is now blocked on ICDoC phttpswwwfacebookcom simplesItd be nice if that link kept its SSL not great needing to copy link location and add an s for each clickI hope SSL equivalents become more widespread yeahzomg  unsecure network isnt secure11eoenIf you want your data to be private its your responsibility to ensure this is so The argument that its more convenient to use the DoC wifi than ImperialWPA is silly Thats equivalent to saying that sex without a condom is more convenient Possibly true but you should know the consequencesIn both cases  Have Fun Play SafeI bow down humbly in the persecne of such greatness
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its a shame ImperialWPA coverage in DoC is so poor I hate using ICDoC but dont really have a choice It is scary how easy this addon makes session hijacking Facebook is now blocked on ICDoC phttpswwwfacebookcom simplesItd be nice if that link kept its SSL not great needing to copy link location and add an s for each clickI hope SSL equivalents become more widespread yeahzomg  unsecure network isnt secure11eoenIf you want your data to be private its your responsibility to ensure this is so The argument that its more convenient to use the DoC wifi than ImperialWPA is silly Thats equivalent to saying that sex without a condom is more convenient Possibly true but you should know the consequencesIn both cases  Have Fun Play SafeI bow down humbly in the persecne of such greatness
-imported: true
 ---
 
 Wireless network security has very often been the subject of criticism, and a proof of concept tool released two weeks ago called [FireSheep](http://codebutler.github.com/firesheep/) outlined how a combination of security problems on websites and wireless networks can result in the disclosure of personal information. Felix was able to use FireSheep in certain areas on campus to gain access to over twenty unsuspecting users’ Facebook, Twitter, Flickr, Tumblr and Gmail accounts.

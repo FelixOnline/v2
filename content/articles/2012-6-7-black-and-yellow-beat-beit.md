@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Southwell and Bernard Sunley Hornets FC conquer Beit FC to lift the Interhall Football Championship trophy. Rob Hollinshead and Mateusz Zarucki report on a Harlington showdown
 date: "2012-06-07 19:23:40 +0100"
+
 # Attributes from Felix Online V1
 id: "2531"
 old_path: /sport/2531/black-and-yellow-beat-beit
 aliases:
  - /sport/2531/black-and-yellow-beat-beit
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Yeah, uh huh, you know what it is… BLACK ‘N YELLOW, BLACK ‘N YELLOW, BLACK ‘N YELLOW, BLACK ‘N YELLOW!

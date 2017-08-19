@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Somewhere in the imposing tome, Less than Nothing, author Slavoj Žižek relates an anecdote about the attitudes taken by Bertolt Brecht and Dashiell Hammett in their respective McCarthy-inspired HUAC trials.
 date: "2013-11-15 02:29:00 +0000"
+
 # Attributes from Felix Online V1
 id: "4071"
 old_path: /comment/4071/grub-first-then-ethics
 aliases:
  - /comment/4071/grub-first-then-ethics
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Somewhere in the imposing tome, Less than Nothing, author Slavoj Žižek relates an anecdote about the attitudes taken by Bertolt Brecht and Dashiell Hammett in their respective McCarthy-inspired HUAC trials. Brecht tells the factual truth but phrases answers in such a way to suggest that he is nothing more than an anti-fascist agitator. Hammett, on the other hand, is accused of managing communist organizations funds – of which he knows nothing. Despite this Hammett refuses to answer questions and is subsequently sent to prison.

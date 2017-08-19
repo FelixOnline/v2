@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular nutrition column
 date: "2016-05-06 09:56:57 +0100"
+
 # Attributes from Felix Online V1
 id: "6125"
 old_path: /science/6125/is-it-time-for-a-move-to-frozen-foods
 aliases:
  - /science/6125/is-it-time-for-a-move-to-frozen-foods
+imported: true
+comments:
+ - The piece fanfare for the common man written for the soldiers and the sailors going out to war Copland lived between 1900 and 1990 in new york He wrote this piece during world war II which is now commonly hears in many places The piece in intense in the beginning but at the end there is less brass making it lesss intense This piece only has brass and peciussron making it very loud and intense hence the theem of the war Now being playeed in the ol ympics since world  war II it has been recognized for its unique soundI appreciate the content on your website Appreciate itlook at these guys  Full Post  helpful site  this link  Suggested Site  made a post  just click the following page  click to investigate  please click the following article  just click the up coming post  mouse click the next internet page  visit the next document  source for this article  More Tips  our website  content  Get Source  Read A lot more  resources  Going In this article  source website
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The piece fanfare for the common man written for the soldiers and the sailors going out to war Copland lived between 1900 and 1990 in new york He wrote this piece during world war II which is now commonly hears in many places The piece in intense in the beginning but at the end there is less brass making it lesss intense This piece only has brass and peciussron making it very loud and intense hence the theem of the war Now being playeed in the ol ympics since world  war II it has been recognized for its unique soundI appreciate the content on your website Appreciate itlook at these guys  Full Post  helpful site  this link  Suggested Site  made a post  just click the following page  click to investigate  please click the following article  just click the up coming post  mouse click the next internet page  visit the next document  source for this article  More Tips  our website  content  Get Source  Read A lot more  resources  Going In this article  source website
-imported: true
 ---
 
 Breakfast this morning got me thinking. It merely involved microwaving frozen bread prior to making French toast, but the nonchalant routine reminded me to extol the virtues of frozen food, something I think many of us tend to overlook.

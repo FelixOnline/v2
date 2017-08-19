@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jonathan Ross hosts latest press conference on the Nintendo 3DS
 date: "2011-01-20 20:04:37 +0000"
+
 # Attributes from Felix Online V1
 id: "623"
 old_path: /games/623/wossy-reveals-nintendo-3ds-details-
 aliases:
  - /games/623/wossy-reveals-nintendo-3ds-details-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Although Nintendo let their big bosses have the honour of announcing the Nintendo 3DS, the successor to their current range of handheld consoles, the task apparently fell to Jonathan Ross to host the latest press conference on the upcoming device.

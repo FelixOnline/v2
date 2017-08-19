@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Giulia Gabrielli on why The Mindy Project deserves to be taken seriously
 date: "2014-11-17 18:18:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4903"
 old_path: /tv/4903/is-mindy-kaling-too-ugly-or-are-you-just-too-rude
 aliases:
  - /tv/4903/is-mindy-kaling-too-ugly-or-are-you-just-too-rude
+imported: true
+comments:
+ - Sporting what your team colours is a good way to show your support At this point it develops when you finally know who got it all your favorite team or the rival of your team Hell almost add another feather to his limitationcrdits fut rapidement httpcreditsfutcomIf She is not ugly I don know what is I think most americans after 911 really have no desire to see another muslimarab and especially a butt ugly one bank roll a tv series to try to get their face out there to the world she is not even attractive personality wise like ugly betty was and significantly more ulgy  There seems to be a media push today for one of 3 genres and honestly its getting old1 MuslimArabAfghani stars with darker skin living life in wealth and happiness celebrating the rewards of their religion one which felt it was ok to target americans who had no hatred to them whatsoever on 9112 BlackWhite originally dubbed shock value relationships dating back to the 80s which psychologically are usually c
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sporting what your team colours is a good way to show your support At this point it develops when you finally know who got it all your favorite team or the rival of your team Hell almost add another feather to his limitationcrdits fut rapidement httpcreditsfutcomIf She is not ugly I don know what is I think most americans after 911 really have no desire to see another muslimarab and especially a butt ugly one bank roll a tv series to try to get their face out there to the world she is not even attractive personality wise like ugly betty was and significantly more ulgy  There seems to be a media push today for one of 3 genres and honestly its getting old1 MuslimArabAfghani stars with darker skin living life in wealth and happiness celebrating the rewards of their religion one which felt it was ok to target americans who had no hatred to them whatsoever on 9112 BlackWhite originally dubbed shock value relationships dating back to the 80s which psychologically are usually c
-imported: true
 ---
 
 After an incredibly well received debut, praised by viewers and critics alike, what is happening with _The Mindy Project_? After a bumpy second season that brought threats of cancellations, the Fox Network decided to renew the sitcom for another series.

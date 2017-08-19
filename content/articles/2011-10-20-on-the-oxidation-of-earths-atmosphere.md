@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pavitar Devgon delves into the murky past of oxygen
 date: "2011-10-20 21:07:37 +0100"
+
 # Attributes from Felix Online V1
 id: "1560"
 old_path: /science/1560/on-the-oxidation-of-earths-atmosphere
 aliases:
  - /science/1560/on-the-oxidation-of-earths-atmosphere
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Making up roughly 20% of the air we breathe in, oxygen is one of the most abundant elements on Earth. It is used by all forms of life for respiration, which provides the energy organisms use to grow, repair and live. However, it has not always been in such plentiful supply.

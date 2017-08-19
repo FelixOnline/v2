@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Diana Lucaci and Alexander Morton talk to Lord Dobbs, creator of the House of Cards series
 date: "2014-03-24 03:36:50 +0000"
+
 # Attributes from Felix Online V1
 id: "4495"
 old_path: /features/4495/house-of-cards-from-the-house-of-lords
 aliases:
  - /features/4495/house-of-cards-from-the-house-of-lords
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __How has your life changed as a result of writing House of Cards?__

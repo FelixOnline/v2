@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Webster asks “Will you be my player 2?”
 date: "2013-02-07 23:37:51 +0000"
+
 # Attributes from Felix Online V1
 id: "3265"
 old_path: /games/3265/aim-for-the-heart-and-try-not-to-miss
 aliases:
  - /games/3265/aim-for-the-heart-and-try-not-to-miss
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Unsurprisingly, the sequel to the 2005 tactical shooter Sniper Elite, Sniper Elite V2 sees you ripping your way through Berlin, and anyone who looks at you slightly odd. The campaign co-op plays as you would expect – both players are identical in gameplay terms. You’ll look different, and you can choose different weapon loadouts atthe start of each mission, but that’s about as far as your individuality gets.

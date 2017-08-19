@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs tell us the story of a new kind of ‘gang warfare’ within the Social Media, and how it is bettering the work of young entrepreneurs
 date: "2011-12-08 20:32:43 +0000"
+
 # Attributes from Felix Online V1
 id: "1914"
 old_path: /biz/1914/are-you-a-gangster
 aliases:
  - /biz/1914/are-you-a-gangster
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 Walking up towards the exit from the SAF lecture theatre I saw two people approach me who asked that exact question. “Are you a gangster?” Unsurprisingly, it made a few other people turn their heads around in wonder, as they were also leaving the lecture hall after a presentation on social economy.

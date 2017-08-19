@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In the aftermath of one of the most poetic endings to the Six Nations yet, familiar foes Jonny Pratt and Tessa Davey give their verdict on the best, and worst, of the Six Nations
 date: "2014-03-26 15:33:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4510"
 old_path: /sport/4510/six-nations-round-up
 aliases:
  - /sport/4510/six-nations-round-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 ### __Six Nations: The Verdict__

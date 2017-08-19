@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We are all responsible for demanding action on climate change
 date: "2015-12-04 15:19:06 +0000"
+
 # Attributes from Felix Online V1
 id: "5795"
 old_path: /comment/5795/dont-turn-your-back-on-cop21
 aliases:
  - /comment/5795/dont-turn-your-back-on-cop21
+imported: true
+comments:
+ - Hey I know this is off topic but I was wondering if you knew of any widgets I could add to my blog that automatically tweet my newest twitter updates Ive been looking for a plugin like this for quite some time and was hoping maybe you would have some experience with something like this Please let me know if you run into anything I truly enjoy reading your blog and I look forward to your new updatescanada goose jassen utrecht 30 httpskeknlnlcanadagoosejassenutrecht306512htmlSaved as a favorite I love your blogstivali scontati httpwwwbesimpleititstivaliscontati5227htmlI like the helpful information you provide in your articles Ill bookmark your weblog and check again here regularly Im quite certain Ill learn plenty of new stuff right here Best of luck for the nextoutlet moncler online httpwwwthegrandpavilioncoukukoutletmoncleronline16876htmliQ0CVE httpbrothosonkonlonwonru
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hey I know this is off topic but I was wondering if you knew of any widgets I could add to my blog that automatically tweet my newest twitter updates Ive been looking for a plugin like this for quite some time and was hoping maybe you would have some experience with something like this Please let me know if you run into anything I truly enjoy reading your blog and I look forward to your new updatescanada goose jassen utrecht 30 httpskeknlnlcanadagoosejassenutrecht306512htmlSaved as a favorite I love your blogstivali scontati httpwwwbesimpleititstivaliscontati5227htmlI like the helpful information you provide in your articles Ill bookmark your weblog and check again here regularly Im quite certain Ill learn plenty of new stuff right here Best of luck for the nextoutlet moncler online httpwwwthegrandpavilioncoukukoutletmoncleronline16876htmliQ0CVE httpbrothosonkonlonwonru
-imported: true
 ---
 
 On Monday, 25,000 official delegates from 150 countries descended on Paris for the COP21 Climate Talks. Of all the talks we have seen to date, they are the best organised international talks, with the most potential. The biggest progress is that they are focussed around the climate action targets that countries have agreed meet by 2020, called Intended Nationally Determined Contributions or INDCs. They are also set to acknowledge at least some of the great potential of local and grassroots action on climate change by emphasising the role of individual cities, like London, in setting their own targets and actions.

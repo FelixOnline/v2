@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We sit down to chat with singer-songwriter/actor Michael Malarkey, following his performance in London this week
 date: "2015-01-11 11:55:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5087"
 old_path: /music/5087/interview-with-a-vampire
 aliases:
  - /music/5087/interview-with-a-vampire
+imported: true
+comments:
+ - Michael Malarkey is a breath of FRESH Air both in the music industry  on TV Hes REAL  you can seefeel the realness in his songs he writes He truly breaks through any boundaries to raise the bar for greatness Keep following his music  acting careers because hes AMAZING Just everything that Kelly said Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you s
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Michael Malarkey is a breath of FRESH Air both in the music industry  on TV Hes REAL  you can seefeel the realness in his songs he writes He truly breaks through any boundaries to raise the bar for greatness Keep following his music  acting careers because hes AMAZING Just everything that Kelly said Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you s
-imported: true
 ---
 
 Tucked just off Cable Street, a short walk from the hustle and bustle of Aldgate, __Wilton’s Music Hall__ is one of the hidden treasures of London’s East End. Positively steeped in history and tradition, it is one of the capital’s oldest music halls, and one of the very few surviving ones that retains its original features. With such an illustrious legacy, it is understandable that some musicians may feel nervous when they emerge onto the stage; however, last week saw the London debut of a performer who is no stranger to treading the boards, and commanded the audience with poise and grace.

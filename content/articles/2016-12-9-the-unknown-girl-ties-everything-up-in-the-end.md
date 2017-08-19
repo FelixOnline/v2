@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Dardenne brothers tie together multiple plot lines like a beautiful bow on a Christmas present
 date: "2016-12-09 15:53:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6585"
 old_path: /film/6585/the-unknown-girl-ties-everything-up-in-the-end
 aliases:
  - /film/6585/the-unknown-girl-ties-everything-up-in-the-end
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For about the first 90 minutes of The Unknown Girl, I sat rather unimpressed in my leather chair in one of the small theaters at Soho Screening Rooms. Then, as the last half hour unfolded, directors Jean-Pierre and Luc Dardenne tied together multiple plot lines like a beautiful bow on a Christmas present.

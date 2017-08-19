@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hours after the announcement a protest was held outside the Department of Health
 date: "2016-02-12 11:09:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5894"
 old_path: /news/5894/junior-doctor-contracts-to-be-imposed-by-government
 aliases:
  - /news/5894/junior-doctor-contracts-to-be-imposed-by-government
+imported: true
+comments:
+ - cheap nfl jerseys china wholesale mlb shop cyber monday clearance replica super bowl rings mlb shoppromo code nhl shop cyber monday nhl shop promotional code authentic sports jerseys cheapnhl shop coupon code nhl shop black fridy promotional codes black friday nhl shop promotional code mobileet128comnba shop promo code nfl shop coupons wholesale chinaa cheap jerseysWhy Wholesale NFL Jerseys From China Warehouse Full selection for great cheap NCAA JerseysNBA JerseysNHL JerseysSuper Bowl JerseysMLB Jerseys in lowest price onlinefree shippingMore Wholesale Jerseys Chinacyber monday nba shop promotional codes nhl shop 10 off code wholesale mlb jerseys from chinacoupons nba shop coupons for nba shop cheap nfl hats frrom chinaThe fantastic cheap jerseys free shipping from China hot sale onlinechoose your like sports NFL jerseys from us Place order with us get big deal  fast shipment More at cheap jerseys free shipping8B1FLD  wkufvtnuzvot urlhttpojnxcxlqtnsvcomojnxcxl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheap nfl jerseys china wholesale mlb shop cyber monday clearance replica super bowl rings mlb shoppromo code nhl shop cyber monday nhl shop promotional code authentic sports jerseys cheapnhl shop coupon code nhl shop black fridy promotional codes black friday nhl shop promotional code mobileet128comnba shop promo code nfl shop coupons wholesale chinaa cheap jerseysWhy Wholesale NFL Jerseys From China Warehouse Full selection for great cheap NCAA JerseysNBA JerseysNHL JerseysSuper Bowl JerseysMLB Jerseys in lowest price onlinefree shippingMore Wholesale Jerseys Chinacyber monday nba shop promotional codes nhl shop 10 off code wholesale mlb jerseys from chinacoupons nba shop coupons for nba shop cheap nfl hats frrom chinaThe fantastic cheap jerseys free shipping from China hot sale onlinechoose your like sports NFL jerseys from us Place order with us get big deal  fast shipment More at cheap jerseys free shipping8B1FLD  wkufvtnuzvot urlhttpojnxcxlqtnsvcomojnxcxl
-imported: true
 ---
 
 After further talks and a 24 hour strike this week, Jeremy Hunt has announced that controversial new junior doctor contracts will be imposed on medics.

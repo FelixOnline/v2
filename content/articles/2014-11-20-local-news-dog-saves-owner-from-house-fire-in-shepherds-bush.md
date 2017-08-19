@@ -4,16 +4,24 @@ title: >
 subtitle: >
   "Moo" saved the day after a disastrous smoke alarm failure
 date: "2014-11-20 20:22:42 +0000"
+
 # Attributes from Felix Online V1
 id: "4906"
 old_path: /news/4906/local-news-dog-saves-owner-from-house-fire-in-shepherds-bush
 aliases:
  - /news/4906/local-news-dog-saves-owner-from-house-fire-in-shepherds-bush
+imported: true
+comments:
+ - Omg  thxs for posting dis it rlly helped mewow this is unbelievable I know   Shephard
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Omg  thxs for posting dis it rlly helped mewow this is unbelievable I know   Shephard
-imported: true
 ---
 
 A dog saved its owners from a fire after the smoke alarm failed. ‘Smokey’ the dog, as nicknamed by the firemen who rescued the family, woke the rest of the house when smoke began to fill the ground floor property, located on Stanlake Road in Shepherd’s Bush.

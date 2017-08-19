@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Umar Nasser, Chair of IC Ahmadiyya Muslim Students Association, argues that extremists have masked the true meaning of Islam
 date: "2014-12-04 18:44:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4988"
 old_path: /comment/4988/true-caliphate-promotes-peace-not-terror
 aliases:
  - /comment/4988/true-caliphate-promotes-peace-not-terror
+imported: true
+comments:
+ - What this article or the author fails to mention is that he and his views of the Caliphate are from a heterodox offshoot sect of Islam called Ahmadis however unlike ISIS they are non violent albeit a cult Another extreme heterodox offshoot of Islam is ISIS  the author is right that ISIS do not represent a genuine  Caliphate  but wrong and heterodox against both the Sunni and Shia consensus that the Caliphate is a political entity  with an elected leader of a United States of Islam a bit like a cross between the EU and the USA uniting the Arab and Muslim States from West Africa to Pakistan up to Uzbekistan in the north and Sudan or Somalia in the south in a peaceful way Claims of knowing the truth  about islam and its beliefs should be caveated with which true interpretation you represent especially if you belong to a heterodox cult like this author Your protest is slightly ridiculous even on a superficial level given the intro line of the author Apart from that how disappointing that on
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What this article or the author fails to mention is that he and his views of the Caliphate are from a heterodox offshoot sect of Islam called Ahmadis however unlike ISIS they are non violent albeit a cult Another extreme heterodox offshoot of Islam is ISIS  the author is right that ISIS do not represent a genuine  Caliphate  but wrong and heterodox against both the Sunni and Shia consensus that the Caliphate is a political entity  with an elected leader of a United States of Islam a bit like a cross between the EU and the USA uniting the Arab and Muslim States from West Africa to Pakistan up to Uzbekistan in the north and Sudan or Somalia in the south in a peaceful way Claims of knowing the truth  about islam and its beliefs should be caveated with which true interpretation you represent especially if you belong to a heterodox cult like this author Your protest is slightly ridiculous even on a superficial level given the intro line of the author Apart from that how disappointing that on
-imported: true
 ---
 
 This year, the true face of Islamic Caliphate has been obscured by the smoke rising from Iraq. Kindled by the horrific actions of militant extremist group ISIS, the conflict there has not only scorched the lands of Syria and Iraq, but has left in cinders the very principles on which the extremists claim to stand. True Caliphate is a spiritual leadership to promote peace, not political leadership to impose power. Understanding how and why extremists twist Islam to meet their own ends is vital in the ongoing fight against extremism.

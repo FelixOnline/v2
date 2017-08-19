@@ -4,16 +4,23 @@ title: >
 subtitle: >
   DJ Niceberg on his neo-rave madness
 date: "2011-06-12 16:06:04 +0100"
+
 # Attributes from Felix Online V1
 id: "1366"
 old_path: /music/1366/bloops-razzes-and-buzzes
 aliases:
  - /music/1366/bloops-razzes-and-buzzes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You are an Imperial student. Your brain and body require intense stimulation. Thanks to exams, you now have free time and money, are still in the vicinity of Metric, and are dying – craving, praying – for a chance to have your jiving, drunken body pounded with bass-heavy, cutting-edge dance music. Your prayers have been answered. This Saturday, I’ll be running the gamut from garage and dubstep to full-on neo-rave frenzy, dropping in 8-bit chipstep treats throughout.

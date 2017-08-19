@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Medical School may have to move, and all could happen in three years
 date: "2013-01-10 22:50:29 +0000"
+
 # Attributes from Felix Online V1
 id: "3095"
 old_path: /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
 aliases:
  - /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
+imported: true
+comments:
+ - The college should regret giving its name to the trust I quite often have to explain to people pointing the finger guilt by association you see that we   the college are in no way responsible for the trusts machinations The college does enough things which are difficult to excuse without taking on the NHSsWhen the predictable and hysterical knee jerk reaction has passed this decision will be seen in a far better light Centralising specialist care allows the limited amount of funds to be directed in the most efficient way which everyone benefits from  better to have one excellent hospital which is hardly far away than two poor onesDont for a moment think that quote Youll get better treatment when you get there is true They should be saying Youll get better treatment IF you get there In Thanet Margate Ramsgate Broadstairs and outlying villages we are due to lose our 24hour status putting everybody living or visiting the seaside outside the time specified by the Royal College
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The college should regret giving its name to the trust I quite often have to explain to people pointing the finger guilt by association you see that we   the college are in no way responsible for the trusts machinations The college does enough things which are difficult to excuse without taking on the NHSsWhen the predictable and hysterical knee jerk reaction has passed this decision will be seen in a far better light Centralising specialist care allows the limited amount of funds to be directed in the most efficient way which everyone benefits from  better to have one excellent hospital which is hardly far away than two poor onesDont for a moment think that quote Youll get better treatment when you get there is true They should be saying Youll get better treatment IF you get there In Thanet Margate Ramsgate Broadstairs and outlying villages we are due to lose our 24hour status putting everybody living or visiting the seaside outside the time specified by the Royal College
-imported: true
 ---
 
 Charing Cross and Hammersmith A&E departments are going to be closed.

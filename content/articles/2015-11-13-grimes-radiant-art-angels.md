@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Claire Boucher's latest album is full of bangers
 date: "2015-11-13 14:35:31 +0000"
+
 # Attributes from Felix Online V1
 id: "5728"
 old_path: /music/5728/grimes-radiant-art-angels
 aliases:
  - /music/5728/grimes-radiant-art-angels
+imported: true
+comments:
+ - say thanks to so a lota lot for your site it helps a whole lotmadden 17 httphundetreffhunde4umcomt1568f2015NFLcoinsGetTheTrialForMaddenhtmlmsg2193
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cet13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cet13"
 author_name: "Cale E Tilford"
-author_image_path: "img/upload/201610151549-cet13-cet13.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201610151549-cet13-cet13.png"
 author_twitter: "tlfrd"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - say thanks to so a lota lot for your site it helps a whole lotmadden 17 httphundetreffhunde4umcomt1568f2015NFLcoinsGetTheTrialForMaddenhtmlmsg2193
-imported: true
 ---
 
 With Visions, Grimes (the stage name of Claire Boucher) gave us an album that combined the danceable sound of synthpop with introspection and sorrow of dark-wave. One of the defining albums of 2012, it was celebrated and adored by many including myself.

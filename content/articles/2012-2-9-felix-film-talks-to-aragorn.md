@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lucy Wiles interviews Viggo Mortensen, the star of A Dangerous Method
 date: "2012-02-09 23:53:18 +0000"
+
 # Attributes from Felix Online V1
 id: "2178"
 old_path: /film/2178/felix-film-talks-to-aragorn
 aliases:
  - /film/2178/felix-film-talks-to-aragorn
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week, Felix Film was lucky enough to wangle a seat in a round-table interview with Viggo Mortensen – yes, an actual real actor – who played Freud quite brilliantly in [_A Dangerous Method_](http://felixonline.co.uk/film/2176/witness-the-birth-of-psychoanalysis/). The interview took place at Freud’s old London house (which is now the quaint and interesting Freud Museum, hidden in a residential area of North London) in Freud’s drawing room, around Freud’s table… it was all rather strange, actually. You feel a little bit intrusive – Mortensen describes our ability to wander round Freud’s house and touch his things as “perhaps wrong… maybe tacky,” although he later laughs that he got over it when researching his character. It is clear that Viggo Mortensen is a very polite, very considered man, who has clearly spent a great deal of time studying Freud for this role, and seemed happy to have a conversation with us about it all.

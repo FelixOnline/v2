@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton on gender at Imperial College
 date: "2013-10-04 01:03:18 +0100"
+
 # Attributes from Felix Online V1
 id: "3805"
 old_path: /comment/3805/imperial-men-how-to-talk-about-gender
 aliases:
  - /comment/3805/imperial-men-how-to-talk-about-gender
+imported: true
+comments:
+ - httpwwwyoutubecomwatchv3GRSbr0EYYUcats and their bedsi remebmer my Dad once spent ages I dont remebmer quite why making a bed for our cat then got REALLY UPSET when she failed to sleep in it she always had at least three on the go at any one time and rotated themcouldnt get the video to run bloody connection will have to come back for that laterhope everythings fine with you                                      b2  b2b0  b3b0 b0   b3
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - httpwwwyoutubecomwatchv3GRSbr0EYYUcats and their bedsi remebmer my Dad once spent ages I dont remebmer quite why making a bed for our cat then got REALLY UPSET when she failed to sleep in it she always had at least three on the go at any one time and rotated themcouldnt get the video to run bloody connection will have to come back for that laterhope everythings fine with you                                      b2  b2b0  b3b0 b0   b3
-imported: true
 ---
 
 Most students at Imperial are men. I don’t imagine this comes as much of a surprise to most Felix readers. While this gender imbalance is obvious from the first day of Freshers Week, what it means and how to talk about it can be more challenging. Whispered remarks about “The Ratio” can be heard on most courses and jokes abound about the sexual frustration of Imperial’s males; the straight ones at least. But beyond this, any serious discussion of gender among students can often be dismissed. We can be pretty poor at talking gender and it’s we men who seem to do it worst.

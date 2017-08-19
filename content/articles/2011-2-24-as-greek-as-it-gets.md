@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anastasia Eleftheriou reckons this is the real Greek deal
 date: "2011-02-24 19:34:06 +0000"
+
 # Attributes from Felix Online V1
 id: "862"
 old_path: /food/862/as-greek-as-it-gets
 aliases:
  - /food/862/as-greek-as-it-gets
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There are many students in Imperial that love Greek food and I am not talking solely about the Greeks! Traditional Greek cuisine is full of incredible smells and tastes: from the salty feta cheese; the tempting meat meze with the refreshing tzatziki; the thick pita bread and the skewers, the unique mousaka and many many more traditional and attractive dishes.

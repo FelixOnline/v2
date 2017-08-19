@@ -4,16 +4,23 @@ title: >
 subtitle: >
   MRSA could be used to fight cancer
 date: "2010-11-11 21:02:54 +0000"
+
 # Attributes from Felix Online V1
 id: "351"
 old_path: /science/351/deadly-bacteria-found-to-kill-cancer
 aliases:
  - /science/351/deadly-bacteria-found-to-kill-cancer
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - as2710
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "as2710"
 author_name: "Amberley Stephens"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With MRSA recently becoming a bigger killer than HIV/AIDS in America, it’s no wonder bacteria are often viewed in a bad light. However, an interest is growing in using some bacteria as anticancer agents due to the remarkable tendency of some species to preferentially infect tumour cells over normal tissue, and the multiple ways they can be manipulated to deliver drugs or cause targeted immune responses.

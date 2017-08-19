@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial College Design Collective talk to you about talks....
 date: "2012-11-01 22:26:19 +0000"
+
 # Attributes from Felix Online V1
 id: "2782"
 old_path: /news/2782/tantalising-talks
 aliases:
  - /news/2782/tantalising-talks
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As term really kicks off and we all start getting stuck in our routine, ICDC are coming at you with more projects and talks than you can shake multiple sticks at to get into a creative state of mind.

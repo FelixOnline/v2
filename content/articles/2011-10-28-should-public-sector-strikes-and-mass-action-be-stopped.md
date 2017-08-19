@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In this IC Debating Society head-to-head, James Clough and Ed Middleton argue over the implications of mass public sector protest
 date: "2011-10-28 00:44:47 +0100"
+
 # Attributes from Felix Online V1
 id: "1633"
 old_path: /comment/1633/should-public-sector-strikes-and-mass-action-be-stopped
 aliases:
  - /comment/1633/should-public-sector-strikes-and-mass-action-be-stopped
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Yes - James Clough__

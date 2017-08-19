@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tech Editor Osama Awara on the Silk Road Marketplace
 date: "2013-10-25 00:59:42 +0100"
+
 # Attributes from Felix Online V1
 id: "3945"
 old_path: /tech/3945/cyber-black-market-is-no-more
 aliases:
  - /tech/3945/cyber-black-market-is-no-more
+imported: true
+comments:
+ - jirgee tiim shuu mongol buuhuicgusd goo uzesgelentein deer mas chadwarlag bolj bnbatjargal bayrlalaa amjilt blogoo suuliin ued shinechilj chadahgui bgaadaa hultsel uchiiVisionary sn uu tiimee shan ch busgui awyastai uhaantai chadwartai zorilgotoi sn busgui bn leeLets wait till this thing settles downNo probelm Surveysan I made my point You and Usha are of course right Already I have rejected many further comments in this connectionWhat provoked me was the way this Osai Chella went about dictating to me He wrote a blog post on me referring to me by name and when I gave a decet comment he not only rejected it but also referred to it in a hectoring     manner in his further comments in that blog post He tried to order me about and this I cannot tolerate Again his latest blog post about me is full of contempt for me Let me hasten to add that the feeling of contempt is mutualWhen I was fighting a lone battle against this Moorthi
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - jirgee tiim shuu mongol buuhuicgusd goo uzesgelentein deer mas chadwarlag bolj bnbatjargal bayrlalaa amjilt blogoo suuliin ued shinechilj chadahgui bgaadaa hultsel uchiiVisionary sn uu tiimee shan ch busgui awyastai uhaantai chadwartai zorilgotoi sn busgui bn leeLets wait till this thing settles downNo probelm Surveysan I made my point You and Usha are of course right Already I have rejected many further comments in this connectionWhat provoked me was the way this Osai Chella went about dictating to me He wrote a blog post on me referring to me by name and when I gave a decet comment he not only rejected it but also referred to it in a hectoring     manner in his further comments in that blog post He tried to order me about and this I cannot tolerate Again his latest blog post about me is full of contempt for me Let me hasten to add that the feeling of contempt is mutualWhen I was fighting a lone battle against this Moorthi
-imported: true
 ---
 
 Known and loved by its many users and advocates as the Silk Road Marketplace, this underground website dubbed as the ‘amazon.com’ and ‘e-bay’ of illegal drugs has officially been shut down by the FBI. Seizing what is believed to be $3.6 million dollars in bitcoins, a small fraction of their $80 million profits, during the online raid, the FBI also managed to claim hold of the sites ‘digital wallets’, used to store some of the marketplace’s virtual assets.

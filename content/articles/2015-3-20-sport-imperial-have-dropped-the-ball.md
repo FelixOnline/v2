@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Editorial: Why I am so pissed off with what happened at Varsity
 date: "2015-03-20 14:18:24 +0000"
+
 # Attributes from Felix Online V1
 id: "5419"
 old_path: /comment/5419/sport-imperial-have-dropped-the-ball
 aliases:
  - /comment/5419/sport-imperial-have-dropped-the-ball
+imported: true
+comments:
+ - cheap christian louboutin peep toes shoeschristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomthere is an actual extension out there that does this try googling magento admin permissions or something similar bvlgari bzero1 ring women imitation urlhttpwwwtopbulgaricnfakebulgariringc139bvlgari bzero1 ring women imitationurlWOW just what I was looking for Came here by searching for utalentowany how much does wholesale rolex ladies steel and yellow gold watch urlhttpwwwoystermontrerurolexdatejustwomenwatchc22how much does wholesale rolex ladies steel and yellow gold watchurl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheap christian louboutin peep toes shoeschristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomthere is an actual extension out there that does this try googling magento admin permissions or something similar bvlgari bzero1 ring women imitation urlhttpwwwtopbulgaricnfakebulgariringc139bvlgari bzero1 ring women imitationurlWOW just what I was looking for Came here by searching for utalentowany how much does wholesale rolex ladies steel and yellow gold watch urlhttpwwwoystermontrerurolexdatejustwomenwatchc22how much does wholesale rolex ladies steel and yellow gold watchurl
-imported: true
 ---
 
 This week was meant to be a celebration of women at Imperial, as the women’s rugby team was set to headline Varsity for the very first time. The evening was meant to pay homage to the incredible progression of women’s sport and in fact women at Imperial in general, but in reality, due to the thoughtlessness of the staff of Sport Imperial, it fell flat on its face.

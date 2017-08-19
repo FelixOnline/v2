@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our writers and editors (as well as FilmSoc) choose their favourite films of the last twelve months, from big hitters to those that may have slipped under the radar...
 date: "2016-12-16 14:45:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6605"
 old_path: /features/6605/your-favourite-films-of-2016
 aliases:
  - /features/6605/your-favourite-films-of-2016
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Alex Heib, Max Lewis-Clarke and Meryl Anil

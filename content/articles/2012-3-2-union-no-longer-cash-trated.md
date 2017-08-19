@@ -4,16 +4,24 @@ title: >
 subtitle: >
   New cash machine installed in Union building
 date: "2012-03-02 01:11:10 +0000"
+
 # Attributes from Felix Online V1
 id: "2303"
 old_path: /news/2303/union-no-longer-cash-trated
 aliases:
  - /news/2303/union-no-longer-cash-trated
+imported: true
+comments:
+ - Theres one in Mech Eng foyer too They do look like those really dodgey ones that charge you through the nose Where did ICU get this from Yknow just so were sure its not cloning cards
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Theres one in Mech Eng foyer too They do look like those really dodgey ones that charge you through the nose Where did ICU get this from Yknow just so were sure its not cloning cards
-imported: true
 ---
 
 As many happy sober (or otherwise) students may have noticed, there is now a cash machine in the Union.

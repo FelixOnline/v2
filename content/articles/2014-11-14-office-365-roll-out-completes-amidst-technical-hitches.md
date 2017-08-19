@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Thomas Lim on the email move that's been causing a few headaches, but bigger and better mailboxes are now in the hands of the masses.
 date: "2014-11-14 19:58:01 +0000"
+
 # Attributes from Felix Online V1
 id: "4861"
 old_path: /news/4861/office-365-roll-out-completes-amidst-technical-hitches
 aliases:
  - /news/4861/office-365-roll-out-completes-amidst-technical-hitches
+imported: true
+comments:
+ - fitflop in australiafitflops buy httpfitflopsaublogspotcomchristian loubotinchristian louboutin shoes httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pigalle 120christian louboutin outlet canada httpcanadachristianlouboutinoutletblogspotcomReally delicious I didnt have the dip ingredients so I just cooked the zucchinni and had hot sauce with it replica Bulgari serpente urlhttpwwwbzero1jewelrynetitreplica Bulgari serpenteurlcartierbraceletlove This is a topic that is near to my heart Cheers Exactly where are your contact details though replique tank solo urlhttpwwworologipopolarinetfrcartiertanksolowatchc99_119replique tank solourlcartierlovejesduas Hablan tanta M y no dejan hacer verdaderamente el que quiere cambio trabaja no critica el que quiere cambio debate con argumentos no diciendo lo primero que se le viene a la mente El cmdte Ortega al frente de esta Buen Gobierno SANDINISTA ha logrado mucho mas que lo qu
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop in australiafitflops buy httpfitflopsaublogspotcomchristian loubotinchristian louboutin shoes httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pigalle 120christian louboutin outlet canada httpcanadachristianlouboutinoutletblogspotcomReally delicious I didnt have the dip ingredients so I just cooked the zucchinni and had hot sauce with it replica Bulgari serpente urlhttpwwwbzero1jewelrynetitreplica Bulgari serpenteurlcartierbraceletlove This is a topic that is near to my heart Cheers Exactly where are your contact details though replique tank solo urlhttpwwworologipopolarinetfrcartiertanksolowatchc99_119replique tank solourlcartierlovejesduas Hablan tanta M y no dejan hacer verdaderamente el que quiere cambio trabaja no critica el que quiere cambio debate con argumentos no diciendo lo primero que se le viene a la mente El cmdte Ortega al frente de esta Buen Gobierno SANDINISTA ha logrado mucho mas que lo qu
-imported: true
 ---
 
 A scheme which will move all undergraduate email accounts from the College’s data centre to Microsoft Office 365 will conclude today. On completion, every Undergraduate’s mailbox will be hosted in a Microsoft data centre, as part of their Office 365 product. The move promises a range of benefits, including a mailbox fifty times larger than what is currently offered, as well near unlimited file storage and much improved collaboration of Office documents.

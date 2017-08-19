@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rishi Mistry and KOP/RAG’s army of Santas want you to join them
 date: "2012-11-22 22:49:45 +0000"
+
 # Attributes from Felix Online V1
 id: "2933"
 old_path: /news/2933/run-santa-run
 aliases:
  - /news/2933/run-santa-run
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Sunday 2nd December an army of Santa Clauses will be taking to the streets of London. They will be marching from East to West and they’re not alone. Santas will be doing this all over other university cities too: Bristol, Nottingham, Cambridge, Bath, York, Oxford, Durham… and even New York!

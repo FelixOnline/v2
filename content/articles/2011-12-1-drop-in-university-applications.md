@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Latest figures reveal further lack of interest in UK university applications
 date: "2011-12-01 21:16:05 +0000"
+
 # Attributes from Felix Online V1
 id: "1885"
 old_path: /news/1885/drop-in-university-applications
 aliases:
  - /news/1885/drop-in-university-applications
+imported: true
+comments:
+ - The actual figures are not too worrying we are up on Oversea students and EU applications seem fairly steady although slightly downAlthough home student applications are down Imperial is doing well compared to the sector averageI also suspect that more applicants this year will take gap years compared to last year  because of the fee changeInterestingly on Admissions people might want to read Scotts blog on postqualification admissions massive plug httpswwwunionicacukblogs20111114postqualificationadmissionspqas
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The actual figures are not too worrying we are up on Oversea students and EU applications seem fairly steady although slightly downAlthough home student applications are down Imperial is doing well compared to the sector averageI also suspect that more applicants this year will take gap years compared to last year  because of the fee changeInterestingly on Admissions people might want to read Scotts blog on postqualification admissions massive plug httpswwwunionicacukblogs20111114postqualificationadmissionspqas
-imported: true
 ---
 
 The gap between the number of applicants to UK universities this year compared to last has widened. The [latest figures](http://www.ucas.com/about_us/media_enquiries/media_releases/2011/20111128) from the [Universities and Colleges Admissions Service](http://www.ucas.com/) (UCAS) reveal that the number of applicants for higher education courses has fallen by 12.9%, corresponding to over 23,000 people, compared to this time last year. Last month’s figures indicated a drop of only 9.0%.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The great ideological battle of these years of the long 21st Century is not between the liberal West and the fundamentalist Muslims. It is between the vast majority of peaceful Muslims and a small but ever-expanding radical fringe.
 date: "2010-01-14 17:46:23 +0000"
+
 # Attributes from Felix Online V1
 id: "34"
 old_path: /comment/34/moderates-must-make-their-voices-heard
 aliases:
  - /comment/34/moderates-must-make-their-voices-heard
+imported: true
+comments:
+ - Muslims are the biggest victims of the definition of the word terrorismcheck Noam Chomskys war on terror articleThe majority of muslims in muslim lands especially are under a threat of being thrown into jails just for having a beard or for holding islamic circles at their houses When my bearded 14 year old neighbour was chucked in prison for 5 years  later to be found innocent When you see the world biggest terrorists in Israel and the united states putting down the rules of who is a terrorist and who is not with their left hand while holding a gun to shoot a palestinian child with the rightcheck Martin Kramer on genocide to curb births When the quotwar on terrorquot is conducted by terrorists one might be confused what is going onquotmoderatequot muslims would be delighted to ensure the world is a safe place but we are busy with the wounds by western oppression but dont worry the Quran is there to make sure muslims bethat muslims be just to
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - gda07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Muslims are the biggest victims of the definition of the word terrorismcheck Noam Chomskys war on terror articleThe majority of muslims in muslim lands especially are under a threat of being thrown into jails just for having a beard or for holding islamic circles at their houses When my bearded 14 year old neighbour was chucked in prison for 5 years  later to be found innocent When you see the world biggest terrorists in Israel and the united states putting down the rules of who is a terrorist and who is not with their left hand while holding a gun to shoot a palestinian child with the rightcheck Martin Kramer on genocide to curb births When the quotwar on terrorquot is conducted by terrorists one might be confused what is going onquotmoderatequot muslims would be delighted to ensure the world is a safe place but we are busy with the wounds by western oppression but dont worry the Quran is there to make sure muslims bethat muslims be just to
-imported: true
 ---
 
 It’s good to see that all of you have safely made it back to college. Whether by plane, train, sleigh or snowplough, or thanks to having hitched a ride on the back of a frisky reindeer, you’ve finally made it back to the warm embracing arms of college. Some of you have had to fight snow and ice, cancelled flights and endless news reports about snow and ice, while others have had to suffer through heightened security at airports following the attempted terrorism on a flight bound for Detroit on Christmas Day.

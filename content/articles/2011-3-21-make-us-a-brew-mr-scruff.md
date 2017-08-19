@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mr Scruff brings tea stands and more to Koko
 date: "2011-03-21 12:13:34 +0000"
+
 # Attributes from Felix Online V1
 id: "1124"
 old_path: /music/1124/make-us-a-brew-mr-scruff
 aliases:
  - /music/1124/make-us-a-brew-mr-scruff
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “Two teas please.” Not the usual order one makes at a bar, however this is not a ‘usual’ gig. [Mr. Scruff](http://www.mrscruff.com/showscreen.php?site_id=9&screentype=site&screenid=9) is not only famous for his random, yet surprisingly popular tea stands though. You can expect a full six hour DJ set from the man himself. A medley of hip-hop, jazz, swing and dubstep keep the tunes fresh and the crowd on the dance floor. At Camden’s impressive [KOKO](http://www.koko.uk.com/), a former theatre, Mr. Scruff’s tunes were accompanied by two large screens at either side of the turn table. Home-made animations and messages such as “incoming bass alert” flashed on the screen, much to the amusement of the bouncing crowd.

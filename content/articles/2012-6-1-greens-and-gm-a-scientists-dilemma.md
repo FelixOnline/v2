@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Despite recent faults, the Green Party is the lesser of four evils
 date: "2012-06-01 12:43:40 +0100"
+
 # Attributes from Felix Online V1
 id: "2512"
 old_path: /comment/2512/greens-and-gm-a-scientists-dilemma
 aliases:
  - /comment/2512/greens-and-gm-a-scientists-dilemma
+imported: true
+comments:
+ - Hello I suspect we arent going to agree on much but nonethelessWith respect to companies and social justice in GM see this httpenwikipediaorgwikiMonsantoAs_plaintiffA companys first duty by law usually is to its shareholders which almost always prohibits social justice from taking placeOn your next point perhaps highlyeducated people would be better than scientists given that the Greens Party has by far the highest proportion of PhDs amongst its members Moreover scientists tend to be very aware of the importance of combating climate change hence more likely to vote GreenOn your next point I was referring to people who had voted Green in the recent local elections but decided to not vote Green in future because of the GM debacle So presumably they are at least to some extent socialistsFirstly Stephen it is always a pleasure to read your writing because it is so readable You point out that Shell has had a terrible track record on Human Rights
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello I suspect we arent going to agree on much but nonethelessWith respect to companies and social justice in GM see this httpenwikipediaorgwikiMonsantoAs_plaintiffA companys first duty by law usually is to its shareholders which almost always prohibits social justice from taking placeOn your next point perhaps highlyeducated people would be better than scientists given that the Greens Party has by far the highest proportion of PhDs amongst its members Moreover scientists tend to be very aware of the importance of combating climate change hence more likely to vote GreenOn your next point I was referring to people who had voted Green in the recent local elections but decided to not vote Green in future because of the GM debacle So presumably they are at least to some extent socialistsFirstly Stephen it is always a pleasure to read your writing because it is so readable You point out that Shell has had a terrible track record on Human Rights
-imported: true
 ---
 
 I like the Green Party. I voted for them in May, on all three ballots, and I would vote for them again if there were a General Election tomorrow. But, as with most friends, they often disappoint me. While I was severely depressed by their pledge to offer homeopathic “medicine” on the NHS, and their plans to implement a health service for pets, the recent news about their opposition to genetically modified crops has been the most disappointing thing of all.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Will recognition affect the TEF ratings this June?
 date: "2017-05-12 16:16:56 +0100"
+
 # Attributes from Felix Online V1
 id: "6936"
 old_path: /news/6936/imperial-bags-distinctions-over-break
 aliases:
  - /news/6936/imperial-bags-distinctions-over-break
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Over the Easter break, Imperial has shockingly managed to bag not one but two distinctions leaving students to wonder whether this was an April Fool’s joke. First IC won the Student Experience prize at the Guardian University Awards 2017 and shortly after, it got recognised as a centre of excellence in cyber security research.

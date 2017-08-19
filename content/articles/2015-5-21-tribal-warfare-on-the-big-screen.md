@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles is hooked by a brutal piece of cinema from Ukraine
 date: "2015-05-21 23:09:29 +0100"
+
 # Attributes from Felix Online V1
 id: "5556"
 old_path: /film/5556/tribal-warfare-on-the-big-screen
 aliases:
  - /film/5556/tribal-warfare-on-the-big-screen
+imported: true
+comments:
+ - mont blanc pen refills canada mont blanc pens in delhi montblanc meisterstuck gold ballpoint pen michael kors t shirts cheap junior ugg boots how can you tell if ugg boots are real red high heels boots michael kors 10k michael kors chelsea tote michael kors keychain michael kors wristlet sale mont blanc fountain pens amazon mont blanc rollerball refill review replica montblanc pen paypal cheapest mont blanc pens uk replica mont blanc pens uk discount uggs classic tall genuine ugg bailey button boots michael kors black friday sales michael kors white handbagmontblanc meisterstuck gold  plated black httplicitacionlaspalmasgcespdcLPGCcontractNoticemontblancmeisterstuckgoldplatedblackh9193jspmont blanc le grand vs classique mont blanc pens goldsmiths montblanc virginia woolf limited edition ballpoint pen bolsa michael kors cheap ugg boots bailey bow discount ugg boots from china ugg australia adirondack ii boots bolsas michael kors replicas michael kors jet set saffi
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mont blanc pen refills canada mont blanc pens in delhi montblanc meisterstuck gold ballpoint pen michael kors t shirts cheap junior ugg boots how can you tell if ugg boots are real red high heels boots michael kors 10k michael kors chelsea tote michael kors keychain michael kors wristlet sale mont blanc fountain pens amazon mont blanc rollerball refill review replica montblanc pen paypal cheapest mont blanc pens uk replica mont blanc pens uk discount uggs classic tall genuine ugg bailey button boots michael kors black friday sales michael kors white handbagmontblanc meisterstuck gold  plated black httplicitacionlaspalmasgcespdcLPGCcontractNoticemontblancmeisterstuckgoldplatedblackh9193jspmont blanc le grand vs classique mont blanc pens goldsmiths montblanc virginia woolf limited edition ballpoint pen bolsa michael kors cheap ugg boots bailey bow discount ugg boots from china ugg australia adirondack ii boots bolsas michael kors replicas michael kors jet set saffi
-imported: true
 ---
 
 It’s difficult to describe the Ukrainian film _The Tribe_ in a way that doesn’t make it sound like an ‘Elevator Pitch’, one of those nebulous phrases taught in business schools that’s supposed to ensure a product’s marketability. A film set in a school for deaf children, _The Tribe_ is conducted entirely through sign language, with no spoken dialogue, no subtitles, and no explanation.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An Editorial on the Life-Sciences Restructure
 date: "2010-10-08 07:05:59 +0100"
+
 # Attributes from Felix Online V1
 id: "186"
 old_path: /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
 aliases:
  - /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
+imported: true
+comments:
+ - Never seen a btteer post ICOCBWdbLsKt  yqokhtbiujwb online auto insurance quotes 8 auto insurance adyxhb
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Never seen a btteer post ICOCBWdbLsKt  yqokhtbiujwb online auto insurance quotes 8 auto insurance adyxhb
-imported: true
 ---
 
 There is no question that the proposed restructure will adversely affect the students in the short-term. Academics will have to adapt themselves to new areas of research or be let go, researchers in the plant sciences will be less able to follow programmes here, and the breadth of an undergraduate biology degree will be under threat.

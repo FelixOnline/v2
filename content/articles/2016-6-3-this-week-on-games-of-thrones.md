@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It’s season six, episode six!
 date: "2016-06-03 09:24:14 +0100"
+
 # Attributes from Felix Online V1
 id: "6239"
 old_path: /tv/6239/this-week-on-games-of-thrones
 aliases:
  - /tv/6239/this-week-on-games-of-thrones
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week’s episode came with a lot of throwbacks to characters of previous seasons. Hope you’ve got a good memory.

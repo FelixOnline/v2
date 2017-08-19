@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Outside the world top 200 but still inside our hearts
 date: "2016-11-18 17:07:45 +0000"
+
 # Attributes from Felix Online V1
 id: "6488"
 old_path: /sport/6488/top-of-the-peck-ing-order
 aliases:
  - /sport/6488/top-of-the-peck-ing-order
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last weekend, fresher Harry Peck competed at the Irish Open, an international men’s épée tournament in Dublin. Although he has fenced regularly at an international level for both the cadet under-17s and junior under-20s, it was Harry’s first senior international event. Starting the day with no ranking Harry ended up in poule one, where he achieved five victories out of a possible six, losing only to Giannotte from Luxembourg whilst defeating fencers from Ireland, Australia, Slovakia and Germany.

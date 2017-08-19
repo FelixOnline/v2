@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Russian standup and sketches impress to become United Kingdom’s top group
 date: "2012-03-15 21:14:06 +0000"
+
 # Attributes from Felix Online V1
 id: "2374"
 old_path: /news/2374/imperial-kvn-team-take-comedy-crown-
 aliases:
  - /news/2374/imperial-kvn-team-take-comedy-crown-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ig711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Sunday, Imperial College KVN Team “IMPACT” became the UK League Champions, beating 17 other teams from other universities and combined team all over the UK for this title.

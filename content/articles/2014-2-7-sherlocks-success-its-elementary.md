@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emily Fulham considers a competitor to Sherlock’s crown
 date: "2014-02-07 04:45:23 +0000"
+
 # Attributes from Felix Online V1
 id: "4344"
 old_path: /tv/4344/sherlocks-success-its-elementary
 aliases:
  - /tv/4344/sherlocks-success-its-elementary
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Sherlock’s third series debuted on New Year’s Day to tremendous hype. After two years of being off-air, fans were hoping that it would match their high expectations. Now that the dust has settled on the last of the three episodes, what was the final verdict?

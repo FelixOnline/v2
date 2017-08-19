@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Steve Bohnel is opinionated about fake news
 date: "2016-12-09 15:38:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6574"
 old_path: /comment/6574/fake-news-you-wont-believe-what-i-think
 aliases:
  - /comment/6574/fake-news-you-wont-believe-what-i-think
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you’ve read my comment pieces in this paper around the time of the American election, then you know two facts: first, I’m American, and second, I’m pretty opinionated about our political landscape and how polarized it’s seemingly become.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A long weekend of artistic pleasures and historical delights: the perfect European city getaway
 date: "2011-10-13 23:34:59 +0100"
+
 # Attributes from Felix Online V1
 id: "1525"
 old_path: /travel/1525/bustling-in-vibrant-berlin
 aliases:
  - /travel/1525/bustling-in-vibrant-berlin
+imported: true
+comments:
+ - The redwoods are crazy cool and I relaly like the photos of them you posted here and San Fran is a pretty neat place to hangout for a whileI just found out that you are back playing the music you can still enjoy lesniting to and go away singing to I am like others and wish you were on seven days a week I listened to you when there was KQUE there was also a morning DJ that was real good I had the honor and pleasure of dancing at your club many times Also the honor of meeting you when you brought John Gary to town Now that I know you are back I will be lesniting again I was excited when I did the search while lesniting to John Gary and found you againRita Dupree  viagra sale   accutane online   simple options   auto insurance reviews for florida   another major   necessarily quote   superb outcomes   viagra online without prescription   medical fixes
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The redwoods are crazy cool and I relaly like the photos of them you posted here and San Fran is a pretty neat place to hangout for a whileI just found out that you are back playing the music you can still enjoy lesniting to and go away singing to I am like others and wish you were on seven days a week I listened to you when there was KQUE there was also a morning DJ that was real good I had the honor and pleasure of dancing at your club many times Also the honor of meeting you when you brought John Gary to town Now that I know you are back I will be lesniting again I was excited when I did the search while lesniting to John Gary and found you againRita Dupree  viagra sale   accutane online   simple options   auto insurance reviews for florida   another major   necessarily quote   superb outcomes   viagra online without prescription   medical fixes
-imported: true
 ---
 
 Having been bitten by the travel bug severely this summer, and with just enough time and money (for once!), I wanted to book a holiday somewhere remote and unexplored. I wanted to discover the sights, sounds and smells of a foreign land for myself without feeling obligated to visit all the suggested attractions in a travel guide. However, after realising a return flight to anywhere “remote and unexplored” would involve spending at least a month’s rent, I felt that ignoring Ryanair’s mid-season sale would just be cutting off my nose to spite my face – a city break in Berlin it was.

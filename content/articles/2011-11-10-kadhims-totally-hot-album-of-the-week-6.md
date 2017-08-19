@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Real Estate – Days (2011)
 date: "2011-11-10 20:33:33 +0000"
+
 # Attributes from Felix Online V1
 id: "1715"
 old_path: /music/1715/kadhims-totally-hot-album-of-the-week-6
 aliases:
  - /music/1715/kadhims-totally-hot-album-of-the-week-6
+imported: true
+comments:
+ - verbalizeNOverbalise
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - verbalizeNOverbalise
-imported: true
 ---
 
 It was cold this morning, wasn’t it? Like most students, myself included, you’re probably a bit suspicious of the thermostat and slightly paranoid that if you turn the heating on your next gas bill will be enough to bankrupt you. (I’m not talking about you, “1%” students; [you know who you are](http://felixonline.co.uk/comment/1714/protest-is-sacred-hypocrisy-is-really-not/)…)

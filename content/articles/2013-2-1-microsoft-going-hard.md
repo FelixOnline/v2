@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jason Parmar looks at Microsoft’s new philosophy: go hard and soft
 date: "2013-02-01 01:07:47 +0000"
+
 # Attributes from Felix Online V1
 id: "3240"
 old_path: /tech/3240/microsoft-going-hard-
 aliases:
  - /tech/3240/microsoft-going-hard-
+imported: true
+comments:
+ - omg loooolI have seen this so many timesI thought everyone had gotten wise by nowpretty sure it was a joke hahaWhy do they call it the Xbox 360 Because when you see it you turn 360 degrees and walk awayBecause when you see it you turn 360 degrees and walk awayErr not sure you thought that one throughJonas Just because its an internet meme does not make it funny or worth listening to
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
- - omg loooolI have seen this so many timesI thought everyone had gotten wise by nowpretty sure it was a joke hahaWhy do they call it the Xbox 360 Because when you see it you turn 360 degrees and walk awayBecause when you see it you turn 360 degrees and walk awayErr not sure you thought that one throughJonas Just because its an internet meme does not make it funny or worth listening to
-imported: true
 ---
 
 It’s not unfair to call Microsoft a reactive company, i.e. they follow trends and build on others innovations, it’s in their history.

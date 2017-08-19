@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Glaciers move more slowly than expected – but they're not slowing down either
 date: "2012-05-10 20:37:52 +0100"
+
 # Attributes from Felix Online V1
 id: "2452"
 old_path: /science/2452/glaciers-go-slow-but-they-might-not-stop
 aliases:
  - /science/2452/glaciers-go-slow-but-they-might-not-stop
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A well-known consequence of global warming is rising sea levels, caused by the melting of polar ice as the Earth heats up. Now, scientists have found evidence that sea level rise this century will fall short of the expected worse case scenario. A team at the University of Washington have found glacial flow in Greenland to differ from that of previous expectations. This latest research results in two main findings: that glaciers are moving a lot slower and that this movement is not likely to slow down.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We aren’t living in the Orwellian police state as some would have you believe
 date: "2016-02-05 11:57:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5866"
 old_path: /comment/5866/the-left-has-no-problem-with-free-speech
 aliases:
  - /comment/5866/the-left-has-no-problem-with-free-speech
+imported: true
+comments:
+ - The modern left doesnt reject discussion it rejects the idea that we should have to put up with hate in our political systemThis is essentially meaningless when the left simply brands any viewpoint it disagrees with as hateful This is merely cultural censorship by another name Free speech does not must not mean free speech of opinions we consider palatable You mention Trump did you forget how Labour MPs wasted hours of Commons time trying to have him banned from the country because they didnt like his views It seems pretty clear to me that the left has no problem with attempting to silence opinions that they dont likeI agree with Jasper Too many people want to put limits on freedom of speech due to offense and once you limit free speech you make ignorant ideas taboo and exciting The left have been doing lots of this recentlysFOea4  iddyhcitdbfr urlhttpikcafufyjylmcomikcafufyjylmurl linkhttpyndampbghphbcomyndampbghphblink httpzykhvmwnvzyjcom3WynOZ htt
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The modern left doesnt reject discussion it rejects the idea that we should have to put up with hate in our political systemThis is essentially meaningless when the left simply brands any viewpoint it disagrees with as hateful This is merely cultural censorship by another name Free speech does not must not mean free speech of opinions we consider palatable You mention Trump did you forget how Labour MPs wasted hours of Commons time trying to have him banned from the country because they didnt like his views It seems pretty clear to me that the left has no problem with attempting to silence opinions that they dont likeI agree with Jasper Too many people want to put limits on freedom of speech due to offense and once you limit free speech you make ignorant ideas taboo and exciting The left have been doing lots of this recentlysFOea4  iddyhcitdbfr urlhttpikcafufyjylmcomikcafufyjylmurl linkhttpyndampbghphbcomyndampbghphblink httpzykhvmwnvzyjcom3WynOZ htt
-imported: true
 ---
 
 Freedom of speech is the right to speak without censorship or restraint by the government.  At least, that’s what Google says. How does the British establishment fare when we look at restrictions on freedom of speech?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Grace Rahman tells us all about her favourite comic – a cheeky superhero romp
 date: "2015-03-08 16:56:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5366"
 old_path: /arts/5366/my-favourite-comic--sex-criminals
 aliases:
  - /arts/5366/my-favourite-comic--sex-criminals
+imported: true
+comments:
+ - Whats happening great webpage youve got heremadden 17 coins httpwwwkanyachristalwayscomitem3398Thanks regarding delivering these kinds of well put together infomadden 17 httphundetreffhunde4umcomt1569f2015buyNFLcoinsMaddenTeamshtmlmsg2194
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Whats happening great webpage youve got heremadden 17 coins httpwwwkanyachristalwayscomitem3398Thanks regarding delivering these kinds of well put together infomadden 17 httphundetreffhunde4umcomt1569f2015buyNFLcoinsMaddenTeamshtmlmsg2194
-imported: true
 ---
 
 I won’t lie, I don’t know shit about comics. I only started frequenting Soho’s GOSH! Comics for the sexy men and proximity to good record stores. Before I started lurking in the graphic novel section of Waterstones, I thought comics simply provided fuel for Marvel Studios to re-hash into a new blockbuster every summer. Don’t get me wrong, I know my Aquaman from my Iron Man, but beyond the necessary general knowledge to get me through a rogue DC/Marvel question during Mastermind, I just wasn’t interested. And I’m still not interested in the world of superhero comics, despite recent expansion from the cis white male template that the genre traditionally serves so well. The latest incarnation of Ms Marvel, written by a female Muslim convert, is a teenage Pakistani living in New York. Her parents are terrified she’ll have sex or not become a doctor.

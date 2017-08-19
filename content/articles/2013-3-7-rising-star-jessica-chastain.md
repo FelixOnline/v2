@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mama Review
 date: "2013-03-07 23:59:57 +0000"
+
 # Attributes from Felix Online V1
 id: "3451"
 old_path: /film/3451/rising-star-jessica-chastain
 aliases:
  - /film/3451/rising-star-jessica-chastain
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Around 5 years ago, Spanish director Andrés Muschietti released a short film entitled Mamá, in which two young girls are pursued through a dark house by a demonic mother figure. At less than three minutes long, the short is snappy, horrifying, and crackles with an energy rarely found in horror films; Muschietti took a scalpel to the genre, leaving it with only the bare bones of a psychological horror flick. This restraint gave the film its tense atmosphere, and unfortunately drew it to the attention of Guillermo del Toro, who has now added it to his growing rostra of films labelled ‘Guillermo del Toro Presents…’. Del Toro has taken the premise of the short, and stretched it out over 100 minutes, transforming the elegant skeleton of Muschietti’s original into a bloated, sagging cadaver, buckling under the weight of clichés contained within.

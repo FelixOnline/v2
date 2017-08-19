@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joseph Henderson talks about the popular Picocon 31 guest
 date: "2014-02-21 03:20:37 +0000"
+
 # Attributes from Felix Online V1
 id: "4424"
 old_path: /books/4424/charles-stross
 aliases:
  - /books/4424/charles-stross
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 <a name="OLE_LINK8"></a><a name="OLE_LINK7"></a><a name="OLE_LINK6"></a><a name="OLE_LINK5"></a><a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>I am writing about Charles Stross because of the upcoming Picocon science fiction convention, which he will be attending as one of the Guests of Honour. He has contributed to the Science Fiction and Fantasy field with his novels, his blogging, and his roleplaying work.

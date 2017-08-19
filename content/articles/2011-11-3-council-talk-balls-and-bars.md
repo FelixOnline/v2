@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Independent Summer Ball investigation to be launched
 date: "2011-11-03 19:36:40 +0000"
+
 # Attributes from Felix Online V1
 id: "1653"
 old_path: /news/1653/council-talk-balls-and-bars
 aliases:
  - /news/1653/council-talk-balls-and-bars
+imported: true
+comments:
+ - There are a couple of factual errors here Firstly the proposed amendment on using College ID was passed despite this being in breach of the lawSecondly a twothirds majority was not required to award Honorary Life Memberships  it was only required to make it a secret ballot The HLM voting itself required only a simple majorityThe section on attendance to the formal dinner is misleading I was at both dinners and if I recall correctly while the 2007 dinner was held in the Queens Lawn Marquee the 2010 dinner was held in the Queens Tower Rooms which is a considerably smaller space It was also subject to a price hike over previous yearsIts not surprising that fewer people turned upThats a very good point The debrief presented to the council didnt mention this nor did it provide any other explanation about why the dinner attendance has been going downIts still an interesting report though You can read through it at httpwwwimperialcollegeunionorgdatafilessummerball2011
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - There are a couple of factual errors here Firstly the proposed amendment on using College ID was passed despite this being in breach of the lawSecondly a twothirds majority was not required to award Honorary Life Memberships  it was only required to make it a secret ballot The HLM voting itself required only a simple majorityThe section on attendance to the formal dinner is misleading I was at both dinners and if I recall correctly while the 2007 dinner was held in the Queens Lawn Marquee the 2010 dinner was held in the Queens Tower Rooms which is a considerably smaller space It was also subject to a price hike over previous yearsIts not surprising that fewer people turned upThats a very good point The debrief presented to the council didnt mention this nor did it provide any other explanation about why the dinner attendance has been going downIts still an interesting report though You can read through it at httpwwwimperialcollegeunionorgdatafilessummerball2011
-imported: true
 ---
 
 Imperial College Union held its second Council meeting of the term on Monday 31 October, with all full members of Council attending for the first time. A variety of papers revolving around ongoing issues were brought forward with resolution reached for some.

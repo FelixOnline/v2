@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Being a hipster is not a black and white situation
 date: "2012-05-10 20:10:44 +0100"
+
 # Attributes from Felix Online V1
 id: "2443"
 old_path: /comment/2443/i-am-not-a-hipster--its-too-mainstream
 aliases:
  - /comment/2443/i-am-not-a-hipster--its-too-mainstream
+imported: true
+comments:
+ - I know that but I want people to like the things I likeThe fact youre honest about this is the only thing in the entire comment piece that would convince me that youre not a hipster Hipsters are most annoying when trying to introduce you to something by dismissing it in fromt of your face And denying that theyre hipstersYou start off reasonably well Yes the act of doing something only BECAUSE it is out of the ordinary is stupidYou then go on to explain that you just happen to diverge from the mainstream but dont do so intentionally Sure why not I can only agree with that it seems like the most reasonable position to holdIts when you dedicate 4 paragraphs to your inane qualms with the lowestcommondenominator excuses for popular entertainment that you lose meDo you seriously think that not liking Harry Potter qualifies as fighting against the currentDo you think theres anything venerable in simply shrugging your shoulders and going meh and not reading  watching any
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I know that but I want people to like the things I likeThe fact youre honest about this is the only thing in the entire comment piece that would convince me that youre not a hipster Hipsters are most annoying when trying to introduce you to something by dismissing it in fromt of your face And denying that theyre hipstersYou start off reasonably well Yes the act of doing something only BECAUSE it is out of the ordinary is stupidYou then go on to explain that you just happen to diverge from the mainstream but dont do so intentionally Sure why not I can only agree with that it seems like the most reasonable position to holdIts when you dedicate 4 paragraphs to your inane qualms with the lowestcommondenominator excuses for popular entertainment that you lose meDo you seriously think that not liking Harry Potter qualifies as fighting against the currentDo you think theres anything venerable in simply shrugging your shoulders and going meh and not reading  watching any
-imported: true
 ---
 
 Firstly, let me clarify – I am not a hipster.

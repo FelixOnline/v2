@@ -4,16 +4,23 @@ title: >
 subtitle: >
   No Grimm faces at Shamini Bundell’s latest MTSoc offering
 date: "2011-12-01 20:26:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1870"
 old_path: /arts/1870/a-fairytale-shredding
 aliases:
  - /arts/1870/a-fairytale-shredding
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College’s very own Musical Theatre Society consistently puts on hilarity filled shows that mix wild humour, a flair for the outrageous and an almost tangible passion for performance. The first term revue of late has progressively developed into something more elaborate. While still based around a collection of well-known show tunes, the plot element and staging of these performances has become ever more ambitious. The sheer scale of this term’s production meant that, attending my preview, I was terrified that perhaps in an attempt to outdo last year’s exquisite Imperial Collage, the well-meaning folk of one of Imperial’s most vibrant and active societies had completely over-reached themselves.

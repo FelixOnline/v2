@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Simon Hunter reviews Nicholas Jaarʼs Barbican Spectacular
 date: "2013-10-12 00:31:45 +0100"
+
 # Attributes from Felix Online V1
 id: "3838"
 old_path: /music/3838/armchair-techno
 aliases:
  - /music/3838/armchair-techno
+imported: true
+comments:
+ - Hello I just realise that I found pcferet images for my dissertation Would you mind if I use this images for my Phd dissertation I will mentioned on the dissertation who took this images Also the date on the images 04102010 is that Rons writing or yours If you could help me on this it will be great Thank you very muchSuaHello I just realise that I found pecefrt images for my dissertation Would you mind if I use this images for my Phd dissertation I will mentioned on the dissertation who took this images Also the date on the images 04102010 is that Rons writing or yours If you could help me on this it will be great Thank you very muchSua
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Hello I just realise that I found pcferet images for my dissertation Would you mind if I use this images for my Phd dissertation I will mentioned on the dissertation who took this images Also the date on the images 04102010 is that Rons writing or yours If you could help me on this it will be great Thank you very muchSuaHello I just realise that I found pecefrt images for my dissertation Would you mind if I use this images for my Phd dissertation I will mentioned on the dissertation who took this images Also the date on the images 04102010 is that Rons writing or yours If you could help me on this it will be great Thank you very muchSua
-imported: true
 ---
 
 For a guy who has had such a spectacular rise to musical prominence, __Nicolas Jaar’s__ choice of the Barbican as the venue for a one off gig last weekend should perhaps not be too surprising. In many ways the concert hall is perfectly suited to Jaar’s delicate, jazz-infused melodies and masterful productions. Indeed, the Barbican is no stranger to hosting musicians strongly rooted in the electronic music sphere; the night before had seen __Pantha du Prince__ grace the stage. I was expecting an evening of Jaar’s more laid-back music, hopefully with some guest musicians to fill the acoustic slots from Space is only Noise. For these regions, along with the promise of a trippy accompanying light show, I was hyped.

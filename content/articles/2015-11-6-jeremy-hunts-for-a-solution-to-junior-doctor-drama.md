@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An 11% rise in basic pay might not be enough
 date: "2015-11-06 13:29:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5695"
 old_path: /news/5695/jeremy-hunts-for-a-solution-to-junior-doctor-drama
 aliases:
  - /news/5695/jeremy-hunts-for-a-solution-to-junior-doctor-drama
+imported: true
+comments:
+ - Doh has such a lack of insight  I m a doctor and  Hunt wants to pay me the same if i work on Saturday 8pm as another doctor who works for example Tuesday 10am Mr Hunt you re welcome to impose such deal to MPs or school teachers and see if they agree We have not had a rise in our salary for over 4 years and what do we getthreat of cutting our pay by 30 Thank you very much Mr  Hunt for being so generousI know this if off topic but Im looking into starting my own blog and was wondering what all is required to get set up Im assuming having a blog like yours would cost a pretty penny Im not very internet smart so Im not 100 certain Any recommendations or advice would be greatly appreciated Thankscheap new era hats httpwwwtwofangtucnsnapbackhatsSouth Africa is extracting all the stops to do this event This group is definitely one of the interesting groups in the South African World Cup tournament Other agency simply using the conventional SEO hintscrdits fifa gratuit http
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Doh has such a lack of insight  I m a doctor and  Hunt wants to pay me the same if i work on Saturday 8pm as another doctor who works for example Tuesday 10am Mr Hunt you re welcome to impose such deal to MPs or school teachers and see if they agree We have not had a rise in our salary for over 4 years and what do we getthreat of cutting our pay by 30 Thank you very much Mr  Hunt for being so generousI know this if off topic but Im looking into starting my own blog and was wondering what all is required to get set up Im assuming having a blog like yours would cost a pretty penny Im not very internet smart so Im not 100 certain Any recommendations or advice would be greatly appreciated Thankscheap new era hats httpwwwtwofangtucnsnapbackhatsSouth Africa is extracting all the stops to do this event This group is definitely one of the interesting groups in the South African World Cup tournament Other agency simply using the conventional SEO hintscrdits fifa gratuit http
-imported: true
 ---
 
 Health Secretary Jeremy Hunt has offered junior doctors an 11% basic pay rise, having cut the hours classified as 'unsociable' meaning that some will actually get a pay cut of as much as 15%. In an attempt to convince junior doctors not to take strike action, he’s conveying the message via a letter to be sent to all 50,000 junior doctors in England via their medical schools.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Alic Rowlands on the propsed campus wide smoking ban.
 date: "2010-02-01 16:43:18 +0000"
+
 # Attributes from Felix Online V1
 id: "60"
 old_path: /news/60/smoking-stubbed-out-on-campus
 aliases:
  - /news/60/smoking-stubbed-out-on-campus
+imported: true
+comments:
+ - This screams of being very ilthought out The paper argued for banning smoking in the interests of student health and welfare For starters it is not the unions place to dictate our lifestyle shoices Further I doubt that not being able to smoke in the quad will convince anyone to give up only to give up going to the union Most importantly moving smoking from the bar side of the quad to a concentrated area on Prince Consort Road will bring loud possibly drunk people much closer to Beit bedrooms til the early hours This would increase the disturbance already experienced by them and would also introduce the roadside residents to the kinds of disturbance experienced by the quadside residentsImposing a ban would actually lead to a net reduction on student quality of life whilst increasing the workload on union staff Dont let it go through I agree with every word What was JJ thinkingThis is an example of the insatiable desire of people in power to make some sort of change regardless of w
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This screams of being very ilthought out The paper argued for banning smoking in the interests of student health and welfare For starters it is not the unions place to dictate our lifestyle shoices Further I doubt that not being able to smoke in the quad will convince anyone to give up only to give up going to the union Most importantly moving smoking from the bar side of the quad to a concentrated area on Prince Consort Road will bring loud possibly drunk people much closer to Beit bedrooms til the early hours This would increase the disturbance already experienced by them and would also introduce the roadside residents to the kinds of disturbance experienced by the quadside residentsImposing a ban would actually lead to a net reduction on student quality of life whilst increasing the workload on union staff Dont let it go through I agree with every word What was JJ thinkingThis is an example of the insatiable desire of people in power to make some sort of change regardless of w
-imported: true
 ---
 
 John James, Deputy President (Welfare), presented a controversial paper to central Union's Representation and Welfare Board (RWB) last Thursday, calling for a ban on smoking on all Union premises, including Beit Quad. The paper asks the Union to: Implement a ban on smoking in any part of Union premises and a ban on the sale of tobacco by the Union and to lobby college to implement a smoke free campus.

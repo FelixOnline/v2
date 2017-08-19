@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I suppose I’m just a traditionalist. Where the tradition is dying young and leaving a bloated corpse
 date: "2010-10-21 18:55:25 +0100"
+
 # Attributes from Felix Online V1
 id: "226"
 old_path: /comment/226/my-body-is-a-temple-to-laziness-
 aliases:
  - /comment/226/my-body-is-a-temple-to-laziness-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A body like this doesn’t just happen by accident, you know. I’m gesturing at my midriff here, you can’t see from where you’re sitting, obviously. No, I work hard to maintain my physique, a bristling thirteen stone of organic matter. Here’s my routine for you – seven a.m., wake up. Eight a.m., wake up again. Sometimes I wake up again at nine just for the sheer hell of it, and also because I forget to set my alarm on Sunday evenings.

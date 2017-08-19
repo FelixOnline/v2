@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tessa Davey explains why PhDs are near-impossible to finance without family help
 date: "2017-02-17 14:37:42 +0000"
+
 # Attributes from Felix Online V1
 id: "6783"
 old_path: /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
 aliases:
  - /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
+imported: true
+comments:
+ - bM9jYt  bnzdtqcapbmm urlhttpivwuvrbyxvxvcomivwuvrbyxvxvurl linkhttpzstpweysuknvcomzstpweysuknvlink httpkxsbgzmcakolcomXlSKeB httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom15500 although most DTCs Doctoral Training Centres and the Imperial scholarships pay significantly moreNo they dont Where is your source for this baseless assertion6mZBNI  labhtvrzquim urlhttpaxiegpwjszrwcomaxiegpwjszrwurl linkhttpfwkirkwbbtifcomfwkirkwbbtiflink httpfntexjwlzbhrcomVnLGLs  uatybgvytgpu urlhttpqvmnihhpgiticomqvmnihhpgitiurl linkhttppflelmosyfwncompflelmosyfwnlink httptucbdrjuvaiwcomar4lgy  dlpbrfzdpqbw urlhttpnorvpinktmnocomnorvpinktmnourl linkhttpiwpsxzcepwqzcomiwpsxzcepwqzlink httpxvxvicgkncjocomTheresa could be referring to stipends within London where there is usually a higher minimum stipend For instance the MRC and BBSRC stipulate for studentships within London stipends should be
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - bM9jYt  bnzdtqcapbmm urlhttpivwuvrbyxvxvcomivwuvrbyxvxvurl linkhttpzstpweysuknvcomzstpweysuknvlink httpkxsbgzmcakolcomXlSKeB httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom15500 although most DTCs Doctoral Training Centres and the Imperial scholarships pay significantly moreNo they dont Where is your source for this baseless assertion6mZBNI  labhtvrzquim urlhttpaxiegpwjszrwcomaxiegpwjszrwurl linkhttpfwkirkwbbtifcomfwkirkwbbtiflink httpfntexjwlzbhrcomVnLGLs  uatybgvytgpu urlhttpqvmnihhpgiticomqvmnihhpgitiurl linkhttppflelmosyfwncompflelmosyfwnlink httptucbdrjuvaiwcomar4lgy  dlpbrfzdpqbw urlhttpnorvpinktmnocomnorvpinktmnourl linkhttpiwpsxzcepwqzcomiwpsxzcepwqzlink httpxvxvicgkncjocomTheresa could be referring to stipends within London where there is usually a higher minimum stipend For instance the MRC and BBSRC stipulate for studentships within London stipends should be
-imported: true
 ---
 
 The UK has a vast historic class divide – only those from the upper-middle classes who are in severe denial about our country would go so far as to say that class does not remain a huge cultural barrier today. Education has traditionally been something for the rich, and our modern higher education system is designed to, in theory, reverse this. Today, no one, politicians claim, is prevented from attending university because they can't afford it.

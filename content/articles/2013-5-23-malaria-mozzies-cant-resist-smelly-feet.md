@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yum yum.
 date: "2013-05-23 22:05:55 +0100"
+
 # Attributes from Felix Online V1
 id: "3607"
 old_path: /science/3607/malaria-mozzies-cant-resist-smelly-feet
 aliases:
  - /science/3607/malaria-mozzies-cant-resist-smelly-feet
+imported: true
+comments:
+ - Mosquito love me too Gwilym  if there is one within a mile he will find me out   I do agree about care in the third world  click on my link to noma in Africa to see the apilnlpag disfigurement to children through malnutrition and lack of anti biotics  shamefulIncidentally if you have time please read my recent RS Thomas blog  I would be interested in your comments     I just want to mention I am bneniger to blogging and really savored youre web page More than likely Im going to bookmark your website  You absolutely come with fabulous articles With thanks for sharing with us your web site  hypothalamus where   cheapest car insurance   minoxidil preparation   pressure dizziness   visionloss
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Mosquito love me too Gwilym  if there is one within a mile he will find me out   I do agree about care in the third world  click on my link to noma in Africa to see the apilnlpag disfigurement to children through malnutrition and lack of anti biotics  shamefulIncidentally if you have time please read my recent RS Thomas blog  I would be interested in your comments     I just want to mention I am bneniger to blogging and really savored youre web page More than likely Im going to bookmark your website  You absolutely come with fabulous articles With thanks for sharing with us your web site  hypothalamus where   cheapest car insurance   minoxidil preparation   pressure dizziness   visionloss
-imported: true
 ---
 
 Compared to uninfected mosquitoes malaria parasite-containing mosquitoes are approximately three times more attracted to the smell of humans, a study shows.

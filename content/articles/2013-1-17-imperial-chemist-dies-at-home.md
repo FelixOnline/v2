@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joachim H. G. Steinke died suddenly last Tuesday
 date: "2013-01-17 23:42:34 +0000"
+
 # Attributes from Felix Online V1
 id: "3117"
 old_path: /news/3117/imperial-chemist-dies-at-home
 aliases:
  - /news/3117/imperial-chemist-dies-at-home
+imported: true
+comments:
+ - RIP Dr Steinke such a moving tribute to a huge character who will be missedRIP Joachim  You will be missed Dr Steinke was a brilliant teacher I am honoured to have been one of the last of his pupils I still have some pieces of selfhealing polymer that he gave me after one of his lecturesMein Beileid seiner Familie und denen die ihm nahe standenthank you rob  our door is always open for you as you know  i am so grateful that joachim could rely on you as his friend during and after his life time heart felt thank you and all the best norbert
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - RIP Dr Steinke such a moving tribute to a huge character who will be missedRIP Joachim  You will be missed Dr Steinke was a brilliant teacher I am honoured to have been one of the last of his pupils I still have some pieces of selfhealing polymer that he gave me after one of his lecturesMein Beileid seiner Familie und denen die ihm nahe standenthank you rob  our door is always open for you as you know  i am so grateful that joachim could rely on you as his friend during and after his life time heart felt thank you and all the best norbert
-imported: true
 ---
 
 I knew Joachim for the last 23 years having done our PhD’s together at the University of Strathclyde under Professor David’s Sherrington’s fine leadership.

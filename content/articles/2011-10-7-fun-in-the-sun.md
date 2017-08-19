@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Reflections on an annual form of torture...
 date: "2011-10-07 01:43:47 +0100"
+
 # Attributes from Felix Online V1
 id: "1475"
 old_path: /comment/1475/fun-in-the-sun
 aliases:
  - /comment/1475/fun-in-the-sun
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Did you have a nice summer? You did? That’s nice.

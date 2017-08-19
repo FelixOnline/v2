@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It’s already revolutionised your social life, but where does Facebook go from here?
 date: "2010-10-21 18:56:21 +0100"
+
 # Attributes from Felix Online V1
 id: "227"
 old_path: /tech/227/facebook-whats-next
 aliases:
  - /tech/227/facebook-whats-next
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Google, the Mecca of top minds in computing, the dream workplace of fresh-grad software engineers, is shaken by a tremor of brain drain. Or rather, a brain haemorrhage. And it is Facebook who struck the blow. It started with Sheryl Sandberg, once Google’s Vice President of Global Online Sales and Operations, now Facebook’s first Chief Operating Officer. Then Erik Tseng, a high level product manager of Google’s Android hopped on to Facebook to lead its mobile strategy. Trailing along was Google’s ‘rockstar’ developer and head of the Chrome OS project, Matthew Papakipos. He went to Facebook right before the completion of Chrome OS.

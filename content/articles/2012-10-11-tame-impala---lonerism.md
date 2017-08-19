@@ -4,16 +4,23 @@ title: >
 subtitle: >
   AMS’ album of the week
 date: "2012-10-11 21:29:57 +0100"
+
 # Attributes from Felix Online V1
 id: "2680"
 old_path: /music/2680/tame-impala---lonerism
 aliases:
  - /music/2680/tame-impala---lonerism
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Tame Impala released their debut album, Innerspeaker, in 2010. A 60s throwback made of fuzzy guitar and big psychedelic hooks, it was filled with catchy pop songs and hum-along melodies. Their new album is a much more complicated affair. Lonerism is the classic sophomore album. It’s a band maturing, diversifying, experimenting, but ultimately, running out of hits.

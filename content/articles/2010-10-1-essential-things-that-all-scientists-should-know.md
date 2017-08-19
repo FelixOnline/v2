@@ -4,16 +4,23 @@ title: >
 subtitle: >
   How did you ever survive without this 'indispensable' knowledge?
 date: "2010-10-01 21:38:15 +0100"
+
 # Attributes from Felix Online V1
 id: "161"
 old_path: /science/161/essential-things-that-all-scientists-should-know
 aliases:
  - /science/161/essential-things-that-all-scientists-should-know
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Five Awesome Science Chat-up Lines__

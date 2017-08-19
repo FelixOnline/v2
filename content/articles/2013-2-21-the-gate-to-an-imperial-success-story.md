@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pedro Pereira interviews the UK country manager from tech startup ‘GateMe'
 date: "2013-02-21 13:21:28 +0000"
+
 # Attributes from Felix Online V1
 id: "3338"
 old_path: /biz/3338/the-gate-to-an-imperial-success-story
 aliases:
  - /biz/3338/the-gate-to-an-imperial-success-story
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Exams… Library, presentations… Library, coursework... Library. Being an Imperial College student is usually associated with the “nerdiness” stigma. If you weren’t already one when you got in, the general idea is that by the time you leave, you will have become a super studying sleepless monkey.

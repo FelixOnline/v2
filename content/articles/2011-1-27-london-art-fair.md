@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The huge art sale is still a good show
 date: "2011-01-27 19:44:35 +0000"
+
 # Attributes from Felix Online V1
 id: "675"
 old_path: /arts/675/london-art-fair
 aliases:
  - /arts/675/london-art-fair
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jj1909
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jj1909"
 author_name: "Jack Jelfs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Jaw-dropping prices, gallery owners hovering like buzzards around the fat-of-wallet and pretentious conversations carrying through the air: “This is Christophe’s latest work, he’s currently juxtaposing renaissance frescos with imagery from Countdown.” A a entitled “Profane Impossibility of Diametric Neurosis” (it’s not pretentious because it’s, like, obviously ironically pretentious, you know?) and a gallery called Pratt Contemporary... It can all mean only one thing – the London Art Fair (LAF) has rolled into town for another year, bringing with it all that is both bad and good in UK art.

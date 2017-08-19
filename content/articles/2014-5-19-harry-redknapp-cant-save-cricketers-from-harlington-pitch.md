@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Zain Rizvi describes the action from a rain-sodden Harlington pitch as Imperial fail to defend 79
 date: "2014-05-19 13:21:32 +0100"
+
 # Attributes from Felix Online V1
 id: "4606"
 old_path: /sport/4606/harry-redknapp-cant-save-cricketers-from-harlington-pitch
 aliases:
  - /sport/4606/harry-redknapp-cant-save-cricketers-from-harlington-pitch
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 On Sunday 11th May Imperial 1st XI played at home against Royal Holloway 1st XI in a LUSL fixture.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topics that are not openly discussed
 date: "2012-05-10 19:59:29 +0100"
+
 # Attributes from Felix Online V1
 id: "2437"
 old_path: /news/2437/unseen-imperial
 aliases:
  - /news/2437/unseen-imperial
+imported: true
+comments:
+ - My respect to people fighting with depression  dont give up you will make it through
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My respect to people fighting with depression  dont give up you will make it through
-imported: true
 ---
 
 Once again, thank you to those who have submitted accounts on the aspects of our lives that we just don’t talk about

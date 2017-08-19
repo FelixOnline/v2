@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It is time to acknowledge the existence of a rape culture
 date: "2012-03-15 21:49:05 +0000"
+
 # Attributes from Felix Online V1
 id: "2394"
 old_path: /comment/2394/just-a-joke
 aliases:
  - /comment/2394/just-a-joke
+imported: true
+comments:
+ - I think the problem is that rape statistics are highly variable due to their under reported nature Admittedly I dont know where Keir got his figures from but estimates of the prevalence of rape can go as high as 1 in 4 women in the UK cwasuorg or 1 in 3 worldwide UN The NUS recently did a survey which found 1 in 7 female students were victims of sexual assault or violence whilst at university meaning if you know seven women at Imperial from those statistics you can say one of them is likely to have experienced sexual assault or violence whilst at college Also I think you ignored the part of the article which said Of children aged 13 to 18 33 of girls and 16 of boys have suffered from some form of sexual abuse considering most students here are over the age of 18 it means many of them are coming to university with past experiences which I dont think youve factored in as you seem to just assume most women are raped in early to mid adulthoodcontStill I dont really think
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think the problem is that rape statistics are highly variable due to their under reported nature Admittedly I dont know where Keir got his figures from but estimates of the prevalence of rape can go as high as 1 in 4 women in the UK cwasuorg or 1 in 3 worldwide UN The NUS recently did a survey which found 1 in 7 female students were victims of sexual assault or violence whilst at university meaning if you know seven women at Imperial from those statistics you can say one of them is likely to have experienced sexual assault or violence whilst at college Also I think you ignored the part of the article which said Of children aged 13 to 18 33 of girls and 16 of boys have suffered from some form of sexual abuse considering most students here are over the age of 18 it means many of them are coming to university with past experiences which I dont think youve factored in as you seem to just assume most women are raped in early to mid adulthoodcontStill I dont really think
-imported: true
 ---
 
 Let me ask: what have you personally done to prevent rape recently? If you’re a man, the answer is hopefully “not raped anyone.” If you’re a woman, the answers will be many: avoiding dark places at night, avoiding walking alone, taking a taxi rather than public transport, not making eye contact with people in the street, keeping away from groups of men or calling a friend to make sure that they got home safely. This is only considering the relatively rare case of people being raped by strangers in the street, compared to the much more common crime of being raped by someone you know or someone you’ve just met in a social situation, which requires its own preventions: not getting too drunk, not taking drugs at a party, watching one’s drink, and avoiding going to social events without close friends. Men reading this might be shocked at such measures: surely all of that’s not necessary?

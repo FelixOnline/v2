@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anastasia Eleftheriou grills Ben Ebbrell, head chef at online recipe website SORTED, about bringing some banter to the kitchen
 date: "2012-02-02 21:11:54 +0000"
+
 # Attributes from Felix Online V1
 id: "2101"
 old_path: /food/2101/get-your-food-life-sorted
 aliases:
  - /food/2101/get-your-food-life-sorted
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __What is SORTED in one sentence?__

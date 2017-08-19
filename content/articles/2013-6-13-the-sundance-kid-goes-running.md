@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Company You Keep review
 date: "2013-06-13 23:37:23 +0100"
+
 # Attributes from Felix Online V1
 id: "3696"
 old_path: /film/3696/the-sundance-kid-goes-running
 aliases:
  - /film/3696/the-sundance-kid-goes-running
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Robert Redford’s standing in Hollywood must be a good one for him to have attracted so much star power and talent for his latest directorial effort that is at best, distinctly average. Marketed as a clever political thriller, it shows a lot of promise from its opening scenes, but what we find is a gradual dip in quality as it becomes clear the film doesn’t have too much to say for itself.

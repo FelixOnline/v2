@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Union President stays away from protest saying he doesn’t believe in its motive
 date: "2010-11-11 22:08:08 +0000"
+
 # Attributes from Felix Online V1
 id: "373"
 old_path: /news/373/-50000-students-march-against-cuts-and-higher-fees
 aliases:
  - /news/373/-50000-students-march-against-cuts-and-higher-fees
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 50,000 students and lecturers from across the country marched on Parliament [[more photos](http://felixonline.co.uk/media/photo/2/nus-march/)] on Wednesday in protest of government plans to cut funding to universities and increase tuition fees to anywhere up to £9,000.

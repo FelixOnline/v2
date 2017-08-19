@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Nice Guys is a send-up of genre flicks that's in on the joke
 date: "2016-06-10 08:30:52 +0100"
+
 # Attributes from Felix Online V1
 id: "6260"
 old_path: /film/6260/neo-noir-shadows-and-californian-sun
 aliases:
  - /film/6260/neo-noir-shadows-and-californian-sun
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 While it is hard enough to make a straight-forward genre film, it is much more difficult for a director to attempt to send that genre up: make it too broad, and it descends into an unamusing mess; too narrow, and it becomes a smug attempt to show off the creator’s smarts. With this in mind, you would be forgiven for having a shudder of apprehension before seeing _The Nice Guys_, the latest work from director and writer Shane Black, which attempts to skewer neo-noir films, buddy comedies, and the 1970s simultaneously. But Black manages to pull it off, supported by the strong cast, to make _The Nice Guys_ a light, buoyant piece of entertainment.

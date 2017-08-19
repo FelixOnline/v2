@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The newly discovered dwarf planet 2012 VP113 was discovered by astronomers at the Carnegie Institution of Science, Washington last week.
 date: "2014-04-02 11:14:20 +0100"
+
 # Attributes from Felix Online V1
 id: "4518"
 old_path: /science/4518/scientists-discover-dwarf-planet
 aliases:
  - /science/4518/scientists-discover-dwarf-planet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The newly discovered dwarf planet __2012 VP____113__ was discovered by astronomers at the Carnegie Institution of Science, Washington last week.

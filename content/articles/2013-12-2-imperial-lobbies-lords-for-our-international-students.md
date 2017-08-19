@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There are two proposals in the Immigration Bill in particular which affect international students...
 date: "2013-12-02 12:24:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4143"
 old_path: /news/4143/imperial-lobbies-lords-for-our-international-students
 aliases:
  - /news/4143/imperial-lobbies-lords-for-our-international-students
+imported: true
+comments:
+ - The immigration bill needs to be debated in two parts We should definitely oppose the 200 NHS levy but seriously the ID check on tenants is not a bad thing by any means We can definitely work our way around that by making sure that students are not penalized when this is implementedCan we not do the NUSish student bullst where we oppose any kind of change and anything that is of slifght inconvenience Have these people not heard of the word compromise Its all well and good to say you oppose something but whats valuable here is a solution rather than some constant bickeringAnd people wonder why no one listens to students
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - The immigration bill needs to be debated in two parts We should definitely oppose the 200 NHS levy but seriously the ID check on tenants is not a bad thing by any means We can definitely work our way around that by making sure that students are not penalized when this is implementedCan we not do the NUSish student bullst where we oppose any kind of change and anything that is of slifght inconvenience Have these people not heard of the word compromise Its all well and good to say you oppose something but whats valuable here is a solution rather than some constant bickeringAnd people wonder why no one listens to students
-imported: true
 ---
 
 There are two proposals in the Immigration Bill in particular which affect international students – the first is the introduction of an NHS fee of up to £200 per year of study, paid before entry into the country. For doctoral research students with families, this could add up to £3000 to their costs of studying in the UK. Although there is a persistent stereotype that all international students are rich, 51% of students claimed it would be a financial struggle to pay this levy.

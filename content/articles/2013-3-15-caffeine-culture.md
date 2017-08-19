@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kate Pumphrey takes you on a tour of coffee
 date: "2013-03-15 03:15:17 +0000"
+
 # Attributes from Felix Online V1
 id: "3495"
 old_path: /news/3495/caffeine-culture
 aliases:
  - /news/3495/caffeine-culture
+imported: true
+comments:
+ - This is the best written thing Ive read in Felix in about a yearIf you want foam art at Imperial go to the Chemistry Cafe  The tall barista there won the college barista competition and makes very pretty coffeeThe SAF Cafe does great coffee  their machine lattes are just like those you get in MilanThanks for the words of support Pippa  Will definitely check out the Chemistry Cafe and totally agree with your recommendations Phil  Might add Flat White Kaffeine Lantana Nordic Bakery the list could go onI am a wine snob and I totally agree that coffee has just as much going for it I make my own espresso at home as there is nothing drinkable in the vicinity of Imperial I agree Fernandez  Wells is where I go if I have run out of beans and have an urge for espresso I dont take a great liking to their beans over roasted and you are correct that they draw the espresso slightly to short giving it a sour edge oh and it is the most expensive espresso everTry Notes and
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is the best written thing Ive read in Felix in about a yearIf you want foam art at Imperial go to the Chemistry Cafe  The tall barista there won the college barista competition and makes very pretty coffeeThe SAF Cafe does great coffee  their machine lattes are just like those you get in MilanThanks for the words of support Pippa  Will definitely check out the Chemistry Cafe and totally agree with your recommendations Phil  Might add Flat White Kaffeine Lantana Nordic Bakery the list could go onI am a wine snob and I totally agree that coffee has just as much going for it I make my own espresso at home as there is nothing drinkable in the vicinity of Imperial I agree Fernandez  Wells is where I go if I have run out of beans and have an urge for espresso I dont take a great liking to their beans over roasted and you are correct that they draw the espresso slightly to short giving it a sour edge oh and it is the most expensive espresso everTry Notes and
-imported: true
 ---
 
 There are prices you pay for obsessions, and mine is a small, daily coronary. This occurs at some point between the hours of 10.40 and 11.30am and, like most heart conditions, is usually triggered by anxiety, stress and/or over-indulgence.

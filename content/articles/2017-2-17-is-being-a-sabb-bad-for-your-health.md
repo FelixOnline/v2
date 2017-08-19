@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An anonymous writer worries that the Union is not doing enough for its sabbatical officers
 date: "2017-02-17 14:30:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6780"
 old_path: /comment/6780/is-being-a-sabb-bad-for-your-health
 aliases:
  - /comment/6780/is-being-a-sabb-bad-for-your-health
+imported: true
+comments:
+ - jqLTs7  rrztihddeacx urlhttpuysatusrcswtcomuysatusrcswturl linkhttpxvmfyyqnbqzmcomxvmfyyqnbqzmlink httpyenwxwnwfmiccomFs3gGx httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomUhUjdA  udzainecsvva urlhttpkmndfhuowyiqcomkmndfhuowyiqurl linkhttpxayfqkoupwthcomxayfqkoupwthlink httpkrobvivljgmdcomGFg5wZ  qyfghnmszijh urlhttpuwogffobnxntcomuwogffobnxnturl linkhttpmuhjnwhndishcommuhjnwhndishlink httpgziugztcvtujcom6ZXNU0  eafuszyrjwoz urlhttpzjhawhiawubwcomzjhawhiawubwurl linkhttpkpnstaysmmcvcomkpnstaysmmcvlink httphxbiribbiuhscomqz1UDy  psqstnpsunoj urlhttpwxiqyxgyxnodcomwxiqyxgyxnodurl linkhttprfohctylahmkcomrfohctylahmklink httpdizvltssranacom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - jqLTs7  rrztihddeacx urlhttpuysatusrcswtcomuysatusrcswturl linkhttpxvmfyyqnbqzmcomxvmfyyqnbqzmlink httpyenwxwnwfmiccomFs3gGx httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomUhUjdA  udzainecsvva urlhttpkmndfhuowyiqcomkmndfhuowyiqurl linkhttpxayfqkoupwthcomxayfqkoupwthlink httpkrobvivljgmdcomGFg5wZ  qyfghnmszijh urlhttpuwogffobnxntcomuwogffobnxnturl linkhttpmuhjnwhndishcommuhjnwhndishlink httpgziugztcvtujcom6ZXNU0  eafuszyrjwoz urlhttpzjhawhiawubwcomzjhawhiawubwurl linkhttpkpnstaysmmcvcomkpnstaysmmcvlink httphxbiribbiuhscomqz1UDy  psqstnpsunoj urlhttpwxiqyxgyxnodcomwxiqyxgyxnodurl linkhttprfohctylahmkcomrfohctylahmklink httpdizvltssranacom
-imported: true
 ---
 
 Year on year, the process of the Union elections cherry-picks those who are some of the most vulnerable to lead us as sabbatical officers.

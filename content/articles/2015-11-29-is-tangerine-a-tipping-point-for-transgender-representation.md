@@ -4,16 +4,24 @@ title: >
 subtitle: >
   As transgender rights become more prominent in popular culture, we are seeing an increasing momentum for films that break the binary
 date: "2015-11-29 17:00:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5786"
 old_path: /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
 aliases:
  - /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
+imported: true
+comments:
+ - Im now not certain the place youre getting your info however good topic I needs to spend some time learning much more or figuring out more Thanks for magnificent info I used to be in search of this information for my missionmoncler jas arnhem zuid httpwwwblosrtvnlnlmonclerjasarnhemzuid13624htmlThese are genuinely fantastic ideas in about blogging You have touched some good points here Any way keep up wrintingpeuterey 722 uomo httptestnegrifirmancomitpeuterey722uomo11107htmlYoure a very valuable internet site couldnt make it without ya2k15 MT Points httpfubarcomcsgoskinsshoponlinegamesarticlesb3638301306953Wow cuz this is very greatexcellent job Congrats and keep it upnhl 17 coins httpwwwpeaceforearthorgbarteritem2376I appreciate the information on your internet site Thank younba 2k17 coins httpwwwpostanadscomadsfifacoinsthebestkinectgamesin2011I enjoy this website  its so usefull and helpfullpokemongo httpsac
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im now not certain the place youre getting your info however good topic I needs to spend some time learning much more or figuring out more Thanks for magnificent info I used to be in search of this information for my missionmoncler jas arnhem zuid httpwwwblosrtvnlnlmonclerjasarnhemzuid13624htmlThese are genuinely fantastic ideas in about blogging You have touched some good points here Any way keep up wrintingpeuterey 722 uomo httptestnegrifirmancomitpeuterey722uomo11107htmlYoure a very valuable internet site couldnt make it without ya2k15 MT Points httpfubarcomcsgoskinsshoponlinegamesarticlesb3638301306953Wow cuz this is very greatexcellent job Congrats and keep it upnhl 17 coins httpwwwpeaceforearthorgbarteritem2376I appreciate the information on your internet site Thank younba 2k17 coins httpwwwpostanadscomadsfifacoinsthebestkinectgamesin2011I enjoy this website  its so usefull and helpfullpokemongo httpsac
-imported: true
 ---
 
 On 9th June 2014, American actor Laverne Cox became the first transgender person to appear on the cover of _Time _magazine. Statuesque in a deep blue dress, Cox’s face, framed by flowing tresses, stares deep into the viewer’s eyes; to her left, the title of the lead article is written – _The Transgender Tipping Point: America’s Next Civil Rights Frontier_; it is a direct challenge, a confrontation for those who stand in the way of trans rights.

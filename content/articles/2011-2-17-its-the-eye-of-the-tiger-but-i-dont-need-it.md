@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Do you know how Omar Hafeez-Bore got those abs? By playing video games!
 date: "2011-02-17 20:02:44 +0000"
+
 # Attributes from Felix Online V1
 id: "831"
 old_path: /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
 aliases:
  - /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
+imported: true
+comments:
+ - Gosh I wish I could censor this pictureAnd for that matter all those degrading images that objectify women Tomb raider Street fighter or whatever elseI object to it Its disgusting and cheapens women to the degree of making it seem alright even to little kids as well as grown men to see and WANT to see  parts of a woman in such detail as is frankly vulgar to describe Even if it is a drawing Its sick
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - oh106
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "oh106"
 author_name: "Omar Hafeez-Bore"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Gosh I wish I could censor this pictureAnd for that matter all those degrading images that objectify women Tomb raider Street fighter or whatever elseI object to it Its disgusting and cheapens women to the degree of making it seem alright even to little kids as well as grown men to see and WANT to see  parts of a woman in such detail as is frankly vulgar to describe Even if it is a drawing Its sick
-imported: true
 ---
 
 Is Survivor’s 80s classic ‘Eye of the Tiger’ the sweatiest song of all time? Whilst Elvis can take credit for millions of broken teenage hearts, and Barry White for millions of unplanned children, Survivor can take pride in being responsible for a sea of sweat lost by inspired gym-goers since _Rocky III_ in 1982. Did you ever wonder why the Pacific Ocean only appears on maps made since the 1990s (maybe a lie)? Well, now you know where it came from.

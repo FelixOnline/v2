@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Female students could get £25,000 off their fees
 date: "2016-06-03 08:36:42 +0100"
+
 # Attributes from Felix Online V1
 id: "6225"
 old_path: /news/6225/imperial-to-offer-womens-only-mba-scholarships
 aliases:
  - /news/6225/imperial-to-offer-womens-only-mba-scholarships
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial’s Business School has teamed up with the Forté Foundation to introduce several women-only scholarships worth £22,500 for its Masters of Business Administration (MBA) programme.

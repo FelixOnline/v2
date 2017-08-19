@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Arianna Sorba finds bad acting deflates Harajuku Girl’s fine script
 date: "2015-03-25 13:02:42 +0000"
+
 # Attributes from Felix Online V1
 id: "5443"
 old_path: /arts/5443/tokyo-no-go-when-acting-goes-wrong
 aliases:
  - /arts/5443/tokyo-no-go-when-acting-goes-wrong
+imported: true
+comments:
+ - Howdy I could have sworn Ive been to this web site before but after looking at many of the articles I realized its new to me Nonetheless Im definitely delighted I discovered it and Ill be bookmarking it and checking back frequentlyugg boots elle httpwwwbesimpleitituggbootselle1765htmlToday I went to the beach with my children I found a sea shell and gave it to my 4 year old daughter and said You can hear the ocean if you put this to your ear She placed the shell to her ear and screamed There was a hermit crab inside and it pinched her ear She never wants to go back LoL I know this is totally off topic but I had to tell someonemoncler outlet online switzerland 2015 httpwwwmetskinderschoenennlnlmoncleroutletonlineswitzerland201514974htmlThank you for sharing your superb web siteNHL 17 httpwwwdiygeocomcontentbuynba2k17vcgamblingvisitingmovietheaterchairnearyouMany thanks this site is really helpfulnhl 17 coins httpbestnba2k16coinsactiv
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Howdy I could have sworn Ive been to this web site before but after looking at many of the articles I realized its new to me Nonetheless Im definitely delighted I discovered it and Ill be bookmarking it and checking back frequentlyugg boots elle httpwwwbesimpleitituggbootselle1765htmlToday I went to the beach with my children I found a sea shell and gave it to my 4 year old daughter and said You can hear the ocean if you put this to your ear She placed the shell to her ear and screamed There was a hermit crab inside and it pinched her ear She never wants to go back LoL I know this is totally off topic but I had to tell someonemoncler outlet online switzerland 2015 httpwwwmetskinderschoenennlnlmoncleroutletonlineswitzerland201514974htmlThank you for sharing your superb web siteNHL 17 httpwwwdiygeocomcontentbuynba2k17vcgamblingvisitingmovietheaterchairnearyouMany thanks this site is really helpfulnhl 17 coins httpbestnba2k16coinsactiv
-imported: true
 ---
 
 I’m pretty obsessed with Japanese culture. I’m also an ardent feminist, and I’m constantly moaning to anyone who’ll listen about the lack of interesting female characters in modern literature. So I was more than ready to love _Harajuku Girls_, a new play about three women growing up in modern day Tokyo, treading the line between empowerment and victimhood as they take up work in Tokyo’s notorious red light district. Heck, they even gave me a free pint with my press ticket. When I settled in to my excellent seat at the __Finborough Theatre__, a tiny venue above a pub, I was already glowing with admiration for the whole thing.

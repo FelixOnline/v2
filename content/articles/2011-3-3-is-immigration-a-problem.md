@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With David Cameron attacking “state multiculturalism” and introducing an immigration quota, Felix asks if there's actually any problem at all?
 date: "2011-03-03 20:45:31 +0000"
+
 # Attributes from Felix Online V1
 id: "1014"
 old_path: /politics/1014/is-immigration-a-problem
 aliases:
  - /politics/1014/is-immigration-a-problem
+imported: true
+comments:
+ - Cameron in a slightly confusing speech in must be said was talking about how some groups of immigrants tend to separate themselves completely from British society and the state hasnt done enough to promote a vision of British society for them to be a part of which is a fair comment and something that always gets repeated There isnt really much of a sense of British national identity shared by all inhabitants like in the USA so the human rights values he spoke of are rightly things the state should be promoting and enforcing and hence why the Liberty spokeswoman lauded the speechim just a working class idiot i see this country going bankrupt it cannot sustain this   amount of people one immigrant working ten creaming the system true fact i live in the  middle of it all millions of people have died for us to be free including immigrants so why cant they stay in there own country well come back to handouts thats why there here until theyve drained the system by the way france is sick of this c
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Cameron in a slightly confusing speech in must be said was talking about how some groups of immigrants tend to separate themselves completely from British society and the state hasnt done enough to promote a vision of British society for them to be a part of which is a fair comment and something that always gets repeated There isnt really much of a sense of British national identity shared by all inhabitants like in the USA so the human rights values he spoke of are rightly things the state should be promoting and enforcing and hence why the Liberty spokeswoman lauded the speechim just a working class idiot i see this country going bankrupt it cannot sustain this   amount of people one immigrant working ten creaming the system true fact i live in the  middle of it all millions of people have died for us to be free including immigrants so why cant they stay in there own country well come back to handouts thats why there here until theyve drained the system by the way france is sick of this c
-imported: true
 ---
 
 __Yes – Haralambos Dayantis__

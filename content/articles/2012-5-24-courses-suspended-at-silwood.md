@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Staff depart natural science campus as select courses are suspended
 date: "2012-05-24 22:36:27 +0100"
+
 # Attributes from Felix Online V1
 id: "2481"
 old_path: /news/2481/courses-suspended-at-silwood
 aliases:
  - /news/2481/courses-suspended-at-silwood
+imported: true
+comments:
+ - With courses like plant conservation this is no enigma As far as Im aware theres no basis for any claim of there being low demand  I have plenty of friends who wanted to do those courses The staff are going where their excellence will be recognised  and who can blame them A slight correction the Plant Science and Biotechnology MSc was suspended last year and was held at the South Kensington campusRegarding low demand the Applied Ecology courses this year have the most students they have had in the last 10 years  I am afraid that I do not feel therefore that is a significant factor in them leavingI tried to get on the Entomology course paying for myselfI dont have a biology degree but Urban Pest Management with University of Birmingham then 8 years of experience in pest control not entry levelWasnt even consideredWhy no entomology courses or part time studyOpen University seem to consider it a dead subjectMy experience makes me belive that they only wanted academics
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - With courses like plant conservation this is no enigma As far as Im aware theres no basis for any claim of there being low demand  I have plenty of friends who wanted to do those courses The staff are going where their excellence will be recognised  and who can blame them A slight correction the Plant Science and Biotechnology MSc was suspended last year and was held at the South Kensington campusRegarding low demand the Applied Ecology courses this year have the most students they have had in the last 10 years  I am afraid that I do not feel therefore that is a significant factor in them leavingI tried to get on the Entomology course paying for myselfI dont have a biology degree but Urban Pest Management with University of Birmingham then 8 years of experience in pest control not entry levelWasnt even consideredWhy no entomology courses or part time studyOpen University seem to consider it a dead subjectMy experience makes me belive that they only wanted academics
-imported: true
 ---
 
 Concerns regarding staff shortages have risen as entry to postgraduate courses in the Department of Life Sciences has been suspended. Courses such as the Entomology MRes and MSc and Integrated Pest Management MSc, held in [Silwood Park](http://www3.imperial.ac.uk/silwoodparkcampus), and Plant Science and Biotechnology MSc, held in South Kensington, are marked on the postgraduate online course list as ‘’suspended for 2012-2013 entry’’.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC 1st 53-7 St. Mary’s 2nd. By David Wilson
 date: "2011-02-27 20:01:40 +0000"
+
 # Attributes from Felix Online V1
 id: "926"
 old_path: /sport/926/rugby-first-xv-put-50-past-st-marys
 aliases:
  - /sport/926/rugby-first-xv-put-50-past-st-marys
+imported: true
+comments:
+ - Youre so cool I dont suppose Ive learn sneothimg like this before So good to search out someone with some original thoughts on this subject realy thanks for starting this up this website is sneothimg that is wanted on the internet somebody with a bit originality useful job for bringing sneothimg new to the internetDear SusanMany thanks for this reeivw of my novel Im glad you took a chance on it and enjoyed it as much as you did The sequel will be out shortly and if youd like a copy Id be happy to send it to you CheersJay Ridler  been limited   those quote   propecia without prescription   hormonal drugs   insurance deals auto
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Youre so cool I dont suppose Ive learn sneothimg like this before So good to search out someone with some original thoughts on this subject realy thanks for starting this up this website is sneothimg that is wanted on the internet somebody with a bit originality useful job for bringing sneothimg new to the internetDear SusanMany thanks for this reeivw of my novel Im glad you took a chance on it and enjoyed it as much as you did The sequel will be out shortly and if youd like a copy Id be happy to send it to you CheersJay Ridler  been limited   those quote   propecia without prescription   hormonal drugs   insurance deals auto
-imported: true
 ---
 
 Following the fifteen’s crushing victory over Portsmouth the previous week, Imperial again showed impressive away from, turning over St Mary’s seconds by a massive score.

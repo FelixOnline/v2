@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tom Rivlin explores one of Charles Stross’ most popular novels.
 date: "2014-02-21 03:23:10 +0000"
+
 # Attributes from Felix Online V1
 id: "4425"
 old_path: /books/4425/singularity-sky
 aliases:
  - /books/4425/singularity-sky
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 <a name="OLE_LINK10"></a><a name="OLE_LINK9"></a><a name="OLE_LINK8"></a><a name="OLE_LINK7"></a><a name="OLE_LINK6"></a><a name="OLE_LINK5"></a><a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>It’s hard to decide whether S_ingularity Sky_ is hard or soft sci-fi. Inherent to the setting of the book is faster-than-light (FTL) travel and an omnipotent, post-singularity AI. However that stuff is all really just a backdrop to incredibly nerdy (and delightful) discussions of spaceship-to-spaceship combat at relativistic velocities, and a gleeful dissection of how FTL travel inherently leads to time travel. (The word “light-cone” is thrown around a lot.)

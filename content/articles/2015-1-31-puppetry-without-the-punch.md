@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles gets a look at Basil Twist's Japanese-inspired production of Dogugaeshi at the Barbican Centre
 date: "2015-01-31 17:25:44 +0000"
+
 # Attributes from Felix Online V1
 id: "5163"
 old_path: /arts/5163/puppetry-without-the-punch
 aliases:
  - /arts/5163/puppetry-without-the-punch
+imported: true
+comments:
+ - I think its great youre writing about puppetry in general and Basil Twist  who is a fantastic and important American theatre artist in particular but you article makes some wildly inaccurate pronouncements like puppetry is a dying artPuppetry is most certainly not especially in the United Kingdom and the United States today There is absolutely no evidence for this You just made that up based on a series of false assumptionsWhile it is certainly true that some very culturally specific forms like Dogugaeshi are threatened in places like Awaji puppet theatre as a whole has probably never been more widely seen at any time in the past century than it is today Puppet theatre festivals are growing and multiplying around the world especially in Europe and puppet theatre attracts more serious attention in the press and from theatre critics most especially in the United Kingdom Are Tony Awards for shows like War Horse The Lion King and Avenue Q evidence of your claim about how far the
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think its great youre writing about puppetry in general and Basil Twist  who is a fantastic and important American theatre artist in particular but you article makes some wildly inaccurate pronouncements like puppetry is a dying artPuppetry is most certainly not especially in the United Kingdom and the United States today There is absolutely no evidence for this You just made that up based on a series of false assumptionsWhile it is certainly true that some very culturally specific forms like Dogugaeshi are threatened in places like Awaji puppet theatre as a whole has probably never been more widely seen at any time in the past century than it is today Puppet theatre festivals are growing and multiplying around the world especially in Europe and puppet theatre attracts more serious attention in the press and from theatre critics most especially in the United Kingdom Are Tony Awards for shows like War Horse The Lion King and Avenue Q evidence of your claim about how far the
-imported: true
 ---
 
 Puppetry is a dying art. It may not attract the same kind of think-pieces that occur when we fear that e-books may replace the comforting rustle of pages, or when small theatre companies are snuffed out one-by-one due to lack of funds, but the fate facing the puppeteer is no less uncertain. _Dogugaeshi_ at the Barbican Centre makes us aware of both how far the art form has slipped from popular opinion, and displays the work of a puppeteer who has - to the extent that puppeteers can - made it big.

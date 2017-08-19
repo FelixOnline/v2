@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix takes a quick look at the newly released strategy document
 date: "2013-11-01 09:26:29 +0000"
+
 # Attributes from Felix Online V1
 id: "3969"
 old_path: /features/3969/looking-at-the-education-and-student-strategy
 aliases:
  - /features/3969/looking-at-the-education-and-student-strategy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 College has released a new Education and Student Strategy this week which “sets out our vision, aims and priorities for education and the student experience.” The scope of the document is a guide for the development of the education system and student experience over the next five years, providing a strong framework for improvements that students will hopefully benefit from over this period of time.

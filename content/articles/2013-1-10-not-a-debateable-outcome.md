@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Niall Jeffrey gets arguing with everyone in sight at the World Universities Debating Championships
 date: "2013-01-10 22:03:46 +0000"
+
 # Attributes from Felix Online V1
 id: "3077"
 old_path: /news/3077/not-a-debateable-outcome
 aliases:
  - /news/3077/not-a-debateable-outcome
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For the first time in living memory, Imperial College has been represented at the annual [World Universities Debating Championships](http://www.wudc.info/). This year’s WUDC competition was hosted by the Berlin Debating Union in Technische Universität Berlin from the December 27th until the January 4th.

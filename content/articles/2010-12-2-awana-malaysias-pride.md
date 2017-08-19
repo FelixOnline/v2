@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The best (roti) tissue you’ll find in London
 date: "2010-12-02 20:58:48 +0000"
+
 # Attributes from Felix Online V1
 id: "482"
 old_path: /food/482/awana-malaysias-pride
 aliases:
  - /food/482/awana-malaysias-pride
+imported: true
+comments:
+ - I simply wenatd to compose a  word to be able to express gratitude to you for those nice tips and hints you are giving out at this website My time intensive internet lookup has at the end of the day been compensated with extremely good suggestions to share with my partners I would tell you that most of us website visitors actually are undoubtedly blessed to exist in a fabulous community with so many wonderful individuals with beneficial concepts I feel rather lucky to have encountered your webpage and look forward to really more fabulous minutes reading here Thanks once again for everything nora Thank you for the encouragement and the freihdsnip  Kenny lisa Claudia doggybloggy girlichef Pavithra Rebecca TasteHongKong Parita The Little Teochew 5 Star Foodie you guys are so kindCookin Canuck yes I think the satay could go with almost all the ingredients  Katy oh really So does that mean that you cant eat seafood at al
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - dhl106
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "dhl106"
 author_name: "Dana Li"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I simply wenatd to compose a  word to be able to express gratitude to you for those nice tips and hints you are giving out at this website My time intensive internet lookup has at the end of the day been compensated with extremely good suggestions to share with my partners I would tell you that most of us website visitors actually are undoubtedly blessed to exist in a fabulous community with so many wonderful individuals with beneficial concepts I feel rather lucky to have encountered your webpage and look forward to really more fabulous minutes reading here Thanks once again for everything nora Thank you for the encouragement and the freihdsnip  Kenny lisa Claudia doggybloggy girlichef Pavithra Rebecca TasteHongKong Parita The Little Teochew 5 Star Foodie you guys are so kindCookin Canuck yes I think the satay could go with almost all the ingredients  Katy oh really So does that mean that you cant eat seafood at al
-imported: true
 ---
 
 People tell me a job as a food critic would get boring. Good food, VIP treatment and food babies (don’t pretend like you don’t know what I mean) – it’s a hard life, isn’t it?

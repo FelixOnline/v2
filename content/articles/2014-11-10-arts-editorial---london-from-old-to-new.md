@@ -4,16 +4,23 @@ title: >
 subtitle: >
   London: the cultural centre
 date: "2014-11-10 21:20:53 +0000"
+
 # Attributes from Felix Online V1
 id: "4818"
 old_path: /arts/4818/arts-editorial---london-from-old-to-new
 aliases:
  - /arts/4818/arts-editorial---london-from-old-to-new
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week feels like an homage to the greatness of London as a cultural centre. In what other city do you have such a wide variety of art on offer, whatever your taste? First of all, we have Dara’s _My Art_ article, where she professes her undying love for the Barbican Centre, so often derided as a brutalist monstrosity that weighs heavy on the city’s skyline. Hopefully, her article will help convert some to the way of 60’s architecture.

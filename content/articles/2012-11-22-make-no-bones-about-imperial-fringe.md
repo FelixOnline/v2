@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The second of the new science festivals is coming back to Imperial
 date: "2012-11-22 22:03:49 +0000"
+
 # Attributes from Felix Online V1
 id: "2924"
 old_path: /news/2924/make-no-bones-about-imperial-fringe
 aliases:
  - /news/2924/make-no-bones-about-imperial-fringe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Bad puns aside[ Imperial Fringe ](http://www3.imperial.ac.uk/festival/fringe)this month is all set to put bones under microscope in an evening of skeletal debauchery on the Thursday the 29th of November.

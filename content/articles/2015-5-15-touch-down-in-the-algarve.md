@@ -4,16 +4,24 @@ title: >
 subtitle: >
   José Videira dives straight into IC Skydiving’s week long Spring Tour to Portugal
 date: "2015-05-15 12:50:14 +0100"
+
 # Attributes from Felix Online V1
 id: "5537"
 old_path: /cands/5537/touch-down-in-the-algarve
 aliases:
  - /cands/5537/touch-down-in-the-algarve
+imported: true
+comments:
+ - I have no idea what you have saidbuy fifa ultimate team coins httpwwwkiwiboxcomjamesbondsblogentry134507435youmaybelieveinhandicapinfifa16pPage0were so proud of youcheap mut 16 coins ps3 for sale httpwwwmaddenstorecommaddennfl16PS32188THX thats a great anrwseI think I should give it a shotbuy Madden 16 Coins httpforuminktrailscomindexphpblog161entry905doingeasystufftogetmadden16coinsI made a fool of myselfbuy cheapest runescape 2007 gold httpwwwrunescapegold2007comrs2007buyrunescape2007goldYou have a good tastecheap nba 2k mt coins supplier httpwwwu4nbacomI do not have a clue buy cheap Final Fantasy XIV Gil at ffxiv4gilcom httpwwwlolboostingguidescomffxivcanfinallyexpanditshorizonstoxbox
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have no idea what you have saidbuy fifa ultimate team coins httpwwwkiwiboxcomjamesbondsblogentry134507435youmaybelieveinhandicapinfifa16pPage0were so proud of youcheap mut 16 coins ps3 for sale httpwwwmaddenstorecommaddennfl16PS32188THX thats a great anrwseI think I should give it a shotbuy Madden 16 Coins httpforuminktrailscomindexphpblog161entry905doingeasystufftogetmadden16coinsI made a fool of myselfbuy cheapest runescape 2007 gold httpwwwrunescapegold2007comrs2007buyrunescape2007goldYou have a good tastecheap nba 2k mt coins supplier httpwwwu4nbacomI do not have a clue buy cheap Final Fantasy XIV Gil at ffxiv4gilcom httpwwwlolboostingguidescomffxivcanfinallyexpanditshorizonstoxbox
-imported: true
 ---
 
 A skydiver’s greatest enemy, especially in the UK, is inclement weather. So for the first ever international tour of IC Skydiving we followed the sun to Skydive Algarve in Portugal, which like our own club has recently expanded to new levels of successful operation with the acquirement of a new plane and procurement of a new team of world expert instructors and dropzone managers.

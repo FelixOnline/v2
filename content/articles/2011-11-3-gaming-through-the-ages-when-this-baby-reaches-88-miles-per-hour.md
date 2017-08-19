@@ -4,16 +4,24 @@ title: >
 subtitle: >
   With a combination of persuasive power, begging and bribery we’ve managed to get together three of Gaming section’s biggest writers to talk about videogaming through the ages, as well as what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 20:28:34 +0000"
+
 # Attributes from Felix Online V1
 id: "1667"
 old_path: /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
 aliases:
  - /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
+imported: true
+comments:
+ - I work in a school ceupmtor lab and this is what I know in general   Macs seem to be the better bet if youre into things like graphics movies music Im not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for I am fine today thanks for askingIf you use the aopaicltipns that a Mac comes with then get a Mac The cost of aopaicltipns alone can pay for the MacPCs especially homebuilt ones give you much for powerful hardware for the money and games are more widely compatible with Windows not necessarily the actual computer itself
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I work in a school ceupmtor lab and this is what I know in general   Macs seem to be the better bet if youre into things like graphics movies music Im not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for I am fine today thanks for askingIf you use the aopaicltipns that a Mac comes with then get a Mac The cost of aopaicltipns alone can pay for the MacPCs especially homebuilt ones give you much for powerful hardware for the money and games are more widely compatible with Windows not necessarily the actual computer itself
-imported: true
 ---
 
 _Interested in what our writers think of the future of gaming? [See the companion article here!](http://felixonline.co.uk/games/1678/the-future-of-gaming/)_

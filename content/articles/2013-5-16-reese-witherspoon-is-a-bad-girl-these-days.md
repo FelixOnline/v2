@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mud review
 date: "2013-05-16 18:12:56 +0100"
+
 # Attributes from Felix Online V1
 id: "3580"
 old_path: /film/3580/reese-witherspoon-is-a-bad-girl-these-days
 aliases:
  - /film/3580/reese-witherspoon-is-a-bad-girl-these-days
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Hitting the screens almost exactly one year after its showing at the 2012 Cannes Film Festival, “Mud” (McConaughey) is a wanted fugitive who puts far too much on the line in the name of love. Hiding out on a deserted island, he longs to be reunited with the love of his life Juniper (Witherspoon), although this ambitious plan of his is put in jeopardy as he is constantly hunted by shady characters who are clearly acting above the law.

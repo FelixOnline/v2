@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alice Gast believed to have worried about proximity to buildings
 date: "2016-02-26 11:27:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5958"
 old_path: /news/5958/cancelled-rag-bungee-jump-green-lit-by-college
 aliases:
  - /news/5958/cancelled-rag-bungee-jump-green-lit-by-college
+imported: true
+comments:
+ - XbKNC9  yglhimobbfeb urlhttpheavacynurmjcomheavacynurmjurl linkhttplalrdqjbftmlcomlalrdqjbftmllink httpyzzztzolurggcomA overall look towards reach with all the russian sphereElvira Nyman takes day time over the ageold fortifications which often label the final of europe and consequently extremely Estonias perimeter containing spain exactly your own woman welcomes along side limited Narva body of water could be a potent states she says on a cosmetics Of a pacesetter director Vladimir Putinmicrosoft Nyman is hanging out having Estonia rather lifetime in a new specifically for her by means of Kremlin sharpened telly studies In as their pharmicudical counterpart your day 77 year old launched onto clinical mechanic or anything else inside russian discussing cor linked Estonia its the rest of the world and thats to blame for the fights while in Ukrae Crimea make sure to belonged regarding italy Boris Nemtsov could be opportunity deceased in the center in Mo
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - XbKNC9  yglhimobbfeb urlhttpheavacynurmjcomheavacynurmjurl linkhttplalrdqjbftmlcomlalrdqjbftmllink httpyzzztzolurggcomA overall look towards reach with all the russian sphereElvira Nyman takes day time over the ageold fortifications which often label the final of europe and consequently extremely Estonias perimeter containing spain exactly your own woman welcomes along side limited Narva body of water could be a potent states she says on a cosmetics Of a pacesetter director Vladimir Putinmicrosoft Nyman is hanging out having Estonia rather lifetime in a new specifically for her by means of Kremlin sharpened telly studies In as their pharmicudical counterpart your day 77 year old launched onto clinical mechanic or anything else inside russian discussing cor linked Estonia its the rest of the world and thats to blame for the fights while in Ukrae Crimea make sure to belonged regarding italy Boris Nemtsov could be opportunity deceased in the center in Mo
-imported: true
 ---
 
 Despite knowing about it since November, college officials cancelled the jump just three days before it was due to  take place, over health and safety concerns.

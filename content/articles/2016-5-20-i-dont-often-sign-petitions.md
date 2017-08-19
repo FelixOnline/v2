@@ -4,16 +4,22 @@ title: >
 subtitle: >
   ...but when I do, they're about food – specifically the destruction of the BBC's recipe archive
 date: "2016-05-20 08:57:42 +0100"
+
 # Attributes from Felix Online V1
 id: "6178"
 old_path: /comment/6178/i-dont-often-sign-petitions
 aliases:
  - /comment/6178/i-dont-often-sign-petitions
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I don’t often sign petitions. Most people wouldn’t consider me particularly politically active - while I exercise my right to vote, I am far too often happy to read the news, bitch about the state of governance in this country (or the US – it’s really fucked up over there), and then leave it, whilst inwardly contemplating moving to Scotland. To be frank, I already have an excess of friends of Facebook who share pseudo-libertarian/communist/new labour/mildly xenophobic small-c conservative updates, be they attacking/defending the vicious malingerer/second messiah that is David Cameron/Jeremy Corbyn (delete as appropriate). I don’t want to become another person to unfollow.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Missing Women, Synchronised Toilet Flush, Train Wreck
 date: "2012-10-11 20:53:46 +0100"
+
 # Attributes from Felix Online V1
 id: "2657"
 old_path: /politics/2657/short-stories-of-the-week-
 aliases:
  - /politics/2657/short-stories-of-the-week-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Missing Women__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The DPCS speaks on Freshers' Fair and the challenges of having responsibility for over 300 Clubs, Societies & Projects
 date: "2012-02-16 23:08:48 +0000"
+
 # Attributes from Felix Online V1
 id: "2218"
 old_path: /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
 aliases:
  - /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
+imported: true
+comments:
+ - As far as I can see this whole job is simply a glorified administrator Applicants need only be vacant minded absent of respect to clubs including gender equality and part of the usual inbred chosen few pushed forward for the job With recent hires of 2 additional members of staff to assist in this role the union effectively now has 4 members of staff not to be named publicly all doing the same job
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - As far as I can see this whole job is simply a glorified administrator Applicants need only be vacant minded absent of respect to clubs including gender equality and part of the usual inbred chosen few pushed forward for the job With recent hires of 2 additional members of staff to assist in this role the union effectively now has 4 members of staff not to be named publicly all doing the same job
-imported: true
 ---
 
 __What have you enjoyed most?__

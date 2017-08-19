@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joshua Renken comments on the relationship between the West and Saudi Arabia
 date: "2015-03-13 01:30:42 +0000"
+
 # Attributes from Felix Online V1
 id: "5395"
 old_path: /politics/5395/oh-oil-is-there-nothing-you-cant-do
 aliases:
  - /politics/5395/oh-oil-is-there-nothing-you-cant-do
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In the last two decades the Middle East has experienced Sunni and Shia suppression, the toppling of dictators, Western intervention, Western withdrawal and the spread of fundamentalist terrorism.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Proposed changes would give departments flexibility to set classes during lunchtime
 date: "2011-05-26 18:42:38 +0100"
+
 # Attributes from Felix Online V1
 id: "1251"
 old_path: /news/1251/two-hour-lunchtime-could-be-abolished
 aliases:
  - /news/1251/two-hour-lunchtime-could-be-abolished
+imported: true
+comments:
+ - Too often ive been annoyed at how long the lunch break is There is nothing more annoying than having a day with only a few hours of lectures split by a two hour break This proposal sounds perfectly reasonable and i welcome it although i wont be around to see it implementedIf it aint broke dont fix it
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Too often ive been annoyed at how long the lunch break is There is nothing more annoying than having a day with only a few hours of lectures split by a two hour break This proposal sounds perfectly reasonable and i welcome it although i wont be around to see it implementedIf it aint broke dont fix it
-imported: true
 ---
 
 The current two-hour lunch break could be abolished to allow departments more flexibility in scheduling classes, according to proposals from the College Day Working Party. The Chair of the working party, Professor Dorothy Griffiths, said that departments would still be expected to schedule a one-hour lunch break.

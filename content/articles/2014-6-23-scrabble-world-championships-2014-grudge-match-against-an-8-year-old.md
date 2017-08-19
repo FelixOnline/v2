@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins.
 date: "2014-06-23 13:05:14 +0100"
+
 # Attributes from Felix Online V1
 id: "4705"
 old_path: /features/4705/scrabble-world-championships-2014-grudge-match-against-an-8-year-old
 aliases:
  - /features/4705/scrabble-world-championships-2014-grudge-match-against-an-8-year-old
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins. What sets him out from the rest of the crowd is that, being aged 8, he’s at least a decade younger than anyone else here. Learning from my failures in adopting the direct approach with Nigel, I managed to convince him have a chat with me over a game the following day.__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Changes to university funding require Imperial to act fast
 date: "2010-11-11 21:50:35 +0000"
+
 # Attributes from Felix Online V1
 id: "368"
 old_path: /biz/368/imperial-needs-to-start-raising-serious-money-
 aliases:
  - /biz/368/imperial-needs-to-start-raising-serious-money-
+imported: true
+comments:
+ - Matt I think youve hit the nail on the headIf the College wants money from us when we graduate theyre going to have to do something about their student satisfaction
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Matt I think youve hit the nail on the headIf the College wants money from us when we graduate theyre going to have to do something about their student satisfaction
-imported: true
 ---
 
 Imperial College has long wished and pledged to be among the world’s elite of academia, continuously making the assertion that it can stack up proudly against the financial mammoths that are the top American universities, Oxford, and Cambridge. [Its literature certainly highlights the](http://www3.imperial.ac.uk/prospectivestudents) College’s prominent and ubiquitous presence in national and international rankings of universities. Already on-going is a race to the top, and with the myriad of proposed changes to universities’ funding models, it is bound to become more ferocious.

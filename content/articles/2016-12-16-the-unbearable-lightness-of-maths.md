@@ -4,16 +4,22 @@ title: >
 subtitle: >
   From salesmen to sailors, from aircraft engineers to bankers, and from gamblers to garden designers, this gallery is a flight over 400 years of human ingenuity
 date: "2016-12-16 15:00:04 +0000"
+
 # Attributes from Felix Online V1
 id: "6609"
 old_path: /arts/6609/the-unbearable-lightness-of-maths
 aliases:
  - /arts/6609/the-unbearable-lightness-of-maths
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Winton Gallery is all about shape. It explores how  mathematics shape  every aspect of our lives The stunning new permanent gallery space, unveiled last week at the Science Museum, was designed by Zaha Hadid and her team. Its main aim is unravelling the fundamental role mathematicians have played in the development of civilization.

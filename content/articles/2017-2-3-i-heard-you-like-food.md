@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We get down and dirty to get you the messy details in ‘Wet and Messy’
 date: "2017-02-03 18:11:26 +0000"
+
 # Attributes from Felix Online V1
 id: "6738"
 old_path: /sex/6738/i-heard-you-like-food
 aliases:
  - /sex/6738/i-heard-you-like-food
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Have you ever found yourself aroused by the thought of having a cream pie pushed into your face or cracking eggs over someone’s chest? Of course you have. Well, you’re not alone. This fringe phenomenon is called ‘Wet and Messy Fetishism’, often abbreviated to WAM or simply called sploshing. Fans of WAM enjoy the sensation of wet or messy substances being rubbed or poured on their bodies. These can include cream, custard, eggs, milk, beer and non-food substances such as paint, gunge, oil, mud or lotion. People involved in WAM often like to stress that bodily fluids are not included in the list.

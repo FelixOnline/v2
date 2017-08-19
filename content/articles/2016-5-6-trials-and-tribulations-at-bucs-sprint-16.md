@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Missing athletes, lost bikes and misdirection from marshalls
 date: "2016-05-06 10:24:06 +0100"
+
 # Attributes from Felix Online V1
 id: "6139"
 old_path: /sport/6139/trials-and-tribulations-at-bucs-sprint-16
 aliases:
  - /sport/6139/trials-and-tribulations-at-bucs-sprint-16
+imported: true
+comments:
+ - nURNZk httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomOJmdzf httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomTeyEFz httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomGreat internet sitewebsite It looks extremely expert Sustain the great workNHL 17 httpwwwmadsacozaoxwallevent24244Z2cDE httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom3KomfN httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomWo69XV httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom8dq0Yj httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomwzR1pT  jobclwpivdsi urlhttpuoovuxkcaymscomuoovuxkcaymsurl linkhttpjyatdvumxeehcomjyatdvumxeehlink httpissmeznmnnqecomYou did a good job cheap nba 2k17 mt seller httpwwwu4nbacomthis can be a very useful websiteCheap NBA 2K17 MT for Sale httpcarpetarotacomblogs37847149696nba2k17playablecharacterthierryhenryarrivesinnba2k17No I knowcheap fifa coins httpallgamersclubforumtopic32914iNjDM httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomit
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - nURNZk httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomOJmdzf httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomTeyEFz httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomGreat internet sitewebsite It looks extremely expert Sustain the great workNHL 17 httpwwwmadsacozaoxwallevent24244Z2cDE httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom3KomfN httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomWo69XV httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom8dq0Yj httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomwzR1pT  jobclwpivdsi urlhttpuoovuxkcaymscomuoovuxkcaymsurl linkhttpjyatdvumxeehcomjyatdvumxeehlink httpissmeznmnnqecomYou did a good job cheap nba 2k17 mt seller httpwwwu4nbacomthis can be a very useful websiteCheap NBA 2K17 MT for Sale httpcarpetarotacomblogs37847149696nba2k17playablecharacterthierryhenryarrivesinnba2k17No I knowcheap fifa coins httpallgamersclubforumtopic32914iNjDM httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomit
-imported: true
 ---
 
 On Sunday 1st May, seventeen of Imperial’s bravest triathletes descended upon the sleepy town of Calne, Wiltshire to compete in the 2016 BUCS Sprint Triathlon. Gathered outside SAF at the ungodly hour of 5:45am, some quick Imperial brains spotted that there were actually only sixteen recruits present; we were missing our secret weapon, scholarship athlete Alistair Wallace. A few panicked phone calls later and it became clear that he had slept through his alarm and was not going to make the rendez-vous. We departed one man down, hoping that he would be able to make his own way to the race.

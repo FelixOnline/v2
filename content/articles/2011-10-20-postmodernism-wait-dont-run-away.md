@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Trying to define this art movement is Indy Leclercq's greatest challenge yet
 date: "2011-10-20 22:27:23 +0100"
+
 # Attributes from Felix Online V1
 id: "1569"
 old_path: /comment/1569/postmodernism-wait-dont-run-away
 aliases:
  - /comment/1569/postmodernism-wait-dont-run-away
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I don’t know if you’ve heard, but there’s [an exhibition on](http://www.vam.ac.uk/content/exhibitions/postmodernism/) at the V&A at the moment. You know, that nice building on the other side of Exhibition Road – the one that has “art” and “design” in it. If you’re a fresher, and you haven’t paid it a visit yet, that’s fair enough. I do suggest you go at some point in your next three (or four) years – it’s just across the street, and you’d be surprised at how refreshing a bit of “something that isn’t science” can be. If you’re not a fresher, and you haven’t been yet, go – if only to ogle at/try and chat up one of the fit art students taking notes at the latest exhibition (also it’s a refreshing change from Imperial).

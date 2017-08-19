@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rhys Davies just can't argue with trees
 date: "2010-02-27 17:02:27 +0000"
+
 # Attributes from Felix Online V1
 id: "110"
 old_path: /comment/110/rhys-davies-just-cant-argue-with-trees
 aliases:
  - /comment/110/rhys-davies-just-cant-argue-with-trees
+imported: true
+comments:
+ - david jones torebki torebki online tanie torebki torebki    torebki damskie sklep internetowy torebki 2011 torebki wizytowe   tanie torebki torebki kazar torebka kuferek torebki skrzane torebki damskie woskie david jones torebki       torebki damskie sklep internetowy kazar  torebki damskie
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - david jones torebki torebki online tanie torebki torebki    torebki damskie sklep internetowy torebki 2011 torebki wizytowe   tanie torebki torebki kazar torebka kuferek torebki skrzane torebki damskie woskie david jones torebki       torebki damskie sklep internetowy kazar  torebki damskie
-imported: true
 ---
 
 Whilst walking through Hyde Park one day, I came across a very peculiar sight.

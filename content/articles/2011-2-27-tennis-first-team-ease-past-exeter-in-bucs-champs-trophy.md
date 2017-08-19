@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A pivotal day in the history of IC tennis
 date: "2011-02-27 19:50:49 +0000"
+
 # Attributes from Felix Online V1
 id: "920"
 old_path: /sport/920/tennis-first-team-ease-past-exeter-in-bucs-champs-trophy
 aliases:
  - /sport/920/tennis-first-team-ease-past-exeter-in-bucs-champs-trophy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Wednesday proved to be a pivotal day in the history of IC tennis. A distraught Exeter 1st team saw themselves humbled at the hands of our valiant 1st team.

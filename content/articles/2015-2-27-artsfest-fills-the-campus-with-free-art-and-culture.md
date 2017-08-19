@@ -4,16 +4,23 @@ title: >
 subtitle: >
   From music to films; choir to books, there was something for everyone at ArtsFest
 date: "2015-02-27 00:14:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5310"
 old_path: /news/5310/artsfest-fills-the-campus-with-free-art-and-culture
 aliases:
  - /news/5310/artsfest-fills-the-campus-with-free-art-and-culture
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week, the Arts and Entertainments Board of Imperial College Union put on ArtsFest, a week-long celebration of the arts in association with Arts Imperial.

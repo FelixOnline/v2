@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Divyen Vanniasegaram believes Cecil Rhodes is just a product of his time
 date: "2017-01-13 13:59:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6632"
 old_path: /comment/6632/rhodes-must-stay
 aliases:
  - /comment/6632/rhodes-must-stay
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In recent months, the ‘Rhodes Must Fall’ campaign has gained significant traction not only at Oriel college, Oxford but at several institutions in the UK and abroad. The campaign has attempted to have the statue of Cecil Rhodes removed due to his strong support for the apartheid movement in South Africa.

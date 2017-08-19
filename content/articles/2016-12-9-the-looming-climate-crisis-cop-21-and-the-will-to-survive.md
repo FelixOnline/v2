@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Jawaad Farooq looks to the future of combatting climate change.
 date: "2016-12-09 15:37:23 +0000"
+
 # Attributes from Felix Online V1
 id: "6573"
 old_path: /comment/6573/the-looming-climate-crisis-cop-21-and-the-will-to-survive
 aliases:
  - /comment/6573/the-looming-climate-crisis-cop-21-and-the-will-to-survive
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week a positive 20°C air temperature anomaly has been recorded over the Arctic Ocean. With sea temperatures averaging around 4°C higher than is usual for October and November, it looks like we are set to see more extreme effects of climate change in the near future.

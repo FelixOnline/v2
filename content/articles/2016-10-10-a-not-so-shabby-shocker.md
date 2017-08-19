@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Reviewing Puccini's Tosca at the London Coliseum
 date: "2016-10-10 14:40:45 +0100"
+
 # Attributes from Felix Online V1
 id: "6325"
 old_path: /arts/6325/a-not-so-shabby-shocker
 aliases:
  - /arts/6325/a-not-so-shabby-shocker
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Puccini’s _Tosca_ is well-known for being a melodramatic opera. After its premiere in 1900, it received mixed reviews from critics despite its popularity with the public - the musicologist Joseph Kerman famously dismissed it as “a shabby little shocker”.

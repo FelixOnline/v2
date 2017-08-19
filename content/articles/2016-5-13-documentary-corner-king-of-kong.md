@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-13 09:09:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6159"
 old_path: /film/6159/documentary-corner-king-of-kong
 aliases:
  - /film/6159/documentary-corner-king-of-kong
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As this will be my last Documentary Corner feature of the year, I thought it fitting to end on a high note, with my favourite documentary of all time – _King of Kong: A Fistful of Quarters_. It works in every way a documentary should, and then some. Director Seth Gordon was able to create a suspenseful, exciting, and completely engrossing film about one of the strangest and most niche topics imaginable – competitive Donkey Kong.

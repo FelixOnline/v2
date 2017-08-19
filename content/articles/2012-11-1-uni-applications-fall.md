@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Applications peaked in 2011 and now fall. Warning over shortage of engineers
 date: "2012-11-01 23:20:41 +0000"
+
 # Attributes from Felix Online V1
 id: "2825"
 old_path: /news/2825/uni-applications-fall
 aliases:
  - /news/2825/uni-applications-fall
+imported: true
+comments:
+ - well if you transfer from the cimnumoty college to the 4year institution it should not really affect you since you did obtain a degree from the higher institution Just know that when you do transfer the 4yr school will be much more rigorous and also make sure if you go to the cc that you get advice from the 4yr institution you want to go to to see what classes will transfer and the classes you need to take for whatever degree you are pursuing I have some friends that took courses that did not transfer to certain degrees ie art history for an engineering degreePersonally I think the 4yr institution will serve you better in the long run so there is no shock when you transfer and see how much harder it is I go to UTAustin during the year and do my basics history govt english etc in the summer and I can say they are much more watered down compared to the coursework I do at UT To answer your question if you only got an associates degree from a cc it would not look too good but if you trans
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - well if you transfer from the cimnumoty college to the 4year institution it should not really affect you since you did obtain a degree from the higher institution Just know that when you do transfer the 4yr school will be much more rigorous and also make sure if you go to the cc that you get advice from the 4yr institution you want to go to to see what classes will transfer and the classes you need to take for whatever degree you are pursuing I have some friends that took courses that did not transfer to certain degrees ie art history for an engineering degreePersonally I think the 4yr institution will serve you better in the long run so there is no shock when you transfer and see how much harder it is I go to UTAustin during the year and do my basics history govt english etc in the summer and I can say they are much more watered down compared to the coursework I do at UT To answer your question if you only got an associates degree from a cc it would not look too good but if you trans
-imported: true
 ---
 
 Figures released by UCAS (Universities and Colleges Admissions Service) over the summer show that almost 44,000 less home students applied to study at UK universities for 2012 entry than did for 2011 entry, representing a drop of 8.7%. UCAS analysis suggests that, accounting for changes in population size and long term application patterns, 15,000 less individuals have applied than had been expected to.

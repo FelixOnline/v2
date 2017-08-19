@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Veli Akiner ventures to northern Finland in search of snow, and finds braised reindeer, dubiously advertised toys, and long nights along the way
 date: "2012-02-09 22:47:54 +0000"
+
 # Attributes from Felix Online V1
 id: "2162"
 old_path: /travel/2162/things-to-do-in-saariselk
 aliases:
  - /travel/2162/things-to-do-in-saariselk
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Saariselkä is a small tourist village in mountainous northern Finland which offers a beautiful landscape, various snow-based activities to get involved in and, of course, an opportunity to see the Northern Lights.

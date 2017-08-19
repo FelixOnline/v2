@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The handout will no longer be distributed after union tells RAG it's "an unacceptable personal attack"
 date: "2016-02-05 11:43:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5860"
 old_path: /news/5860/rag-mag-accused-of-harassment-and-bullying
 aliases:
  - /news/5860/rag-mag-accused-of-harassment-and-bullying
+imported: true
+comments:
+ - Does anyone know where we can get the uncensored versionThere are loads in SAF Its pretty bad bantercheap mlb jerseys Soccer Club cheap jerseyscheap jerseys us cheap wholesale nba jerseys cheap jerseyDo they genuinely print one every year First Ive heard of itthat was me brocheap kory lichtensteiger jerseys Seattle Seahawks Closeout Collectibles cheap demario dasvis jerseyscheap nhl jerseygs Los Angeles Angels Jersey wholesale mlb jerseyswholesale jerseys Tennessee Titanms cheap nfl jerseysThis is a blatant attack on free speech It is so easy for people to defend free speech that is respectful and reverential but it takes true courage to defend speech that is intentionally mocking and satirical it is a shame that so many people dont understand this basic concept It seems that when we in Britain say that there exists a free press we are only speaking platitudes and are ignoring the reality Free speech doesnt carry the caveat of the right to not be offendedSo your saying it was actually
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Does anyone know where we can get the uncensored versionThere are loads in SAF Its pretty bad bantercheap mlb jerseys Soccer Club cheap jerseyscheap jerseys us cheap wholesale nba jerseys cheap jerseyDo they genuinely print one every year First Ive heard of itthat was me brocheap kory lichtensteiger jerseys Seattle Seahawks Closeout Collectibles cheap demario dasvis jerseyscheap nhl jerseygs Los Angeles Angels Jersey wholesale mlb jerseyswholesale jerseys Tennessee Titanms cheap nfl jerseysThis is a blatant attack on free speech It is so easy for people to defend free speech that is respectful and reverential but it takes true courage to defend speech that is intentionally mocking and satirical it is a shame that so many people dont understand this basic concept It seems that when we in Britain say that there exists a free press we are only speaking platitudes and are ignoring the reality Free speech doesnt carry the caveat of the right to not be offendedSo your saying it was actually
-imported: true
 ---
 
 Yesterday the union told RAG its magazine of adverts and satire was “beyond the acceptable bounds of satire or mockery”. RAG were also warned that the individuals involved in writing it could be faced with serious consequences from the college if they continued to distribute the magazine as this would be considered “elevated harassment”.

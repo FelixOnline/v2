@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our picks for the Academy Awards
 date: "2016-02-26 11:48:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5970"
 old_path: /film/5970/felix-steps-out-onto-the-red-carpet
 aliases:
  - /film/5970/felix-steps-out-onto-the-red-carpet
+imported: true
+comments:
+ - thnx for sharing this great sitecs go skins changer httpfingerlakesunpluggedcomusersgame2k15mtblogslistcounterstrikeskinsgamblingwebsites
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - thnx for sharing this great sitecs go skins changer httpfingerlakesunpluggedcomusersgame2k15mtblogslistcounterstrikeskinsgamblingwebsites
-imported: true
 ---
 
 Best Picture

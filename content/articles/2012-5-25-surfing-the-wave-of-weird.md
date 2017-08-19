@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Whirring and beeping in Battersea
 date: "2012-05-25 18:26:35 +0100"
+
 # Attributes from Felix Online V1
 id: "2498"
 old_path: /arts/2498/surfing-the-wave-of-weird-
 aliases:
  - /arts/2498/surfing-the-wave-of-weird-
+imported: true
+comments:
+ - So flawlessly written Brilliantly done Iain brilliantly done
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - So flawlessly written Brilliantly done Iain brilliantly done
-imported: true
 ---
 
 I was in two minds on how to write this. On the one hand as a stalwart Imperialist (person of Imperial College) with a thorough grounding in scientific lore, the word ether when referring to waves conjures up memories of an as-of-1887 defunct theory of a medium said to transmit light through space. On the other, after having spent Easter in a less than scientific family in a less than scientific country, something inside me says possibly the importance of something doesn’t always lie in whether it is true or not. It is this that leads to my somewhat Jekyll and Hyde opinion of the [Ethometric Museum](http://www.ocmevents.org/ocm/events/Ethometricmuseum).

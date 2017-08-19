@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A look at the SAFE Project, two years from its start
 date: "2012-06-25 23:52:33 +0100"
+
 # Attributes from Felix Online V1
 id: "2583"
 old_path: /science/2583/ecology-on-a-massive-scale
 aliases:
  - /science/2583/ecology-on-a-massive-scale
+imported: true
+comments:
+ - Plant Conservation has to be the biggest waste of a Course Imperial offeredhttpi0kymcdncomphotosimagesnewsfeed000200420BRTkyjpg1321408042
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Plant Conservation has to be the biggest waste of a Course Imperial offeredhttpi0kymcdncomphotosimagesnewsfeed000200420BRTkyjpg1321408042
-imported: true
 ---
 
 On the first day, as we drove to plot ‘D’, I thought it would be simple. I had worked in tropical rainforests before; they had been easy to walk in, an open understory with sparse seedlings caused by the intense shading of the canopy. This forest however, as I discovered after hours of tripping, slipping and ducking under rotting vegetation, was different. We were in the [SAFE Project](http://www.safeproject.net/) (Stability of Altered Forest Ecosystems), the biggest ecological experiment in the world. The entire site, more than 7000 hectares, has been logged twice, most of the trees extracted, cut up and sold. It joins onto thousands of hectares more of logged forest, joining two of the most important conservation areas of South East Asia, the virgin forests of Maliau Basin and Danum Valley.

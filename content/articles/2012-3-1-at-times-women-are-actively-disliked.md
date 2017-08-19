@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Just because sexism doesn't take the same form doesn't mean it is no longer real
 date: "2012-03-01 22:54:03 +0000"
+
 # Attributes from Felix Online V1
 id: "2293"
 old_path: /comment/2293/at-times-women-are-actively-disliked
 aliases:
  - /comment/2293/at-times-women-are-actively-disliked
+imported: true
+comments:
+ -  20120215 2051     Howdy would you mind letting me know which wehsobt youre utilizing Ive loaded your blog in 3 different web browsers and I must say this blog loads a lot faster then most Can you recommend a good hosting provider at a fair price Many thanks I appreciate itThats a sensible answer to a chgenllaing question
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- -  20120215 2051     Howdy would you mind letting me know which wehsobt youre utilizing Ive loaded your blog in 3 different web browsers and I must say this blog loads a lot faster then most Can you recommend a good hosting provider at a fair price Many thanks I appreciate itThats a sensible answer to a chgenllaing question
-imported: true
 ---
 
 It might be hard to believe, but I actually started this article before Stephen Smith’s excellent article on sexism at Imperial and the superb piece on feminism by Veronica Gouvea. Stephen explored particular issues at Imperial and Veronica explained why feminism is important. I feel this piece is now a synthesis of the two including a reminder of what women face in society at large.

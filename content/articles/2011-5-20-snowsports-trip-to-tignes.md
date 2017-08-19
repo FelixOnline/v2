@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Playing the claim game
 date: "2011-05-20 03:09:08 +0100"
+
 # Attributes from Felix Online V1
 id: "1214"
 old_path: /sport/1214/snowsports-trip-to-tignes
 aliases:
  - /sport/1214/snowsports-trip-to-tignes
+imported: true
+comments:
+ - Haha Tignes not Ignes Having looked at ski ststiatics such as they are for many years I doubt that France ever attracted anything approaching 500000 skiers and snowboarders from the UK This figure almost certainly represents a wild over estimation of the number of independent travellers Austria at one time had a bigger share of the market than France but lost its preeminence partly because British skiers wanted bigger ski areas at higher altitudes and partly because Austrian resorts made complacent by the huge German market on their doorstep failed to respond adequately to a weakening of sterling Austria has always had higher quality accommodation and   I would argue   a better average standard of resort and slopeside restaurant cooking Maybe their comeback is down to that Maybe its because the Brits are becoming less obsessed with size and height Maybe its tales of occasionally ridiculous prices in French resorts Or most likely a combination of all three
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Haha Tignes not Ignes Having looked at ski ststiatics such as they are for many years I doubt that France ever attracted anything approaching 500000 skiers and snowboarders from the UK This figure almost certainly represents a wild over estimation of the number of independent travellers Austria at one time had a bigger share of the market than France but lost its preeminence partly because British skiers wanted bigger ski areas at higher altitudes and partly because Austrian resorts made complacent by the huge German market on their doorstep failed to respond adequately to a weakening of sterling Austria has always had higher quality accommodation and   I would argue   a better average standard of resort and slopeside restaurant cooking Maybe their comeback is down to that Maybe its because the Brits are becoming less obsessed with size and height Maybe its tales of occasionally ridiculous prices in French resorts Or most likely a combination of all three
-imported: true
 ---
 
 Give me your clothes, your boots, and your dignity – a common cry across the land as 40 eager Imperialites joined hundreds of students from around the country in preparation for the British Universities Snowsports Council (BUSC) Main event 2011. The stench of sweaty ski/board boots filled the air as old gear was dug out from the back of cupboards and chucked on coaches for the 24-hour drive to Tignes, during which our star snowboard freestyler Luke Bridgestock became a much loathed mini-celebrity among Bristol University students for his embarrassingly loud “the first time I ever...” life recollections at 5am.

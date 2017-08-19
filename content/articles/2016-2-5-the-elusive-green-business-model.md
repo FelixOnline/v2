@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Why is it taking so long for businesses to adopt greener strategies?
 date: "2016-02-05 12:08:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5870"
 old_path: /science/5870/the-elusive-green-business-model
 aliases:
  - /science/5870/the-elusive-green-business-model
+imported: true
+comments:
+ - it is all about details One for all is the bicycle van cleef arpels bangle emerald imitation urlhttpwwwvancleefalhambracomcheapfakesweetalhambrabraceletbutterflyvcarf80400p294htmlvan cleef arpels bangle emerald imitationurl
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - it is all about details One for all is the bicycle van cleef arpels bangle emerald imitation urlhttpwwwvancleefalhambracomcheapfakesweetalhambrabraceletbutterflyvcarf80400p294htmlvan cleef arpels bangle emerald imitationurl
-imported: true
 ---
 
 Business sustainability as a concept came about in the early 70s, with controversial publications such as The Limits to Growth, addressing environmental and social consequences of economic growth.  Since the ‘green business’ model began to establish its domain, little attention was paid to the discipline until the last 7-8 years. We can now see an exponential growth in the number of businesses and organisations looking to minimise their local and global harm to the environment, community, and society – aiming to make profits without compromising future generations.

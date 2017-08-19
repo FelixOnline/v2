@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Rugby take on everyone in the hip-hop world of Eastbourne
 date: "2013-01-24 20:52:05 +0000"
+
 # Attributes from Felix Online V1
 id: "3154"
 old_path: /sport/3154/icurfc-smash-brighton
 aliases:
  - /sport/3154/icurfc-smash-brighton
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It has been well over 8 weeks since ICURFC have taken the field. This winter the bitter English weather has been brutal but this gave the team time to heal up and, in some cases, fatten up. A very strong squad took the two hour trip to Eastbourne, home of sun seeking pensioners and apparently Brighton rugby. We travelled through rain and snow to be greeted by a pitch that had seen better days.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Scientists have developed a promising new method of fixing biological molecules to each other
 date: "2012-03-08 19:20:50 +0000"
+
 # Attributes from Felix Online V1
 id: "2310"
 old_path: /science/2310/stuck-like-superglue
 aliases:
  - /science/2310/stuck-like-superglue
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Scientists at the University of Oxford have developed a pair of protein fragments dubbed ‘SpyTag’ and ‘SpyCatcher’ that form an incredibly strong bond. Within minutes of being brought into contact the protein fragments form a covalent bond so strong that when put under pressure, the protein breaks away from the apparatus before the bond breaks. It is effectively a biomolecular superglue – except, due to its good specificity, without the possibility of accidentally sticking to the edge of the test tube or other unwanted molecules.

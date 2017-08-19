@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Union's neutrality makes them different
 date: "2011-12-01 21:17:43 +0000"
+
 # Attributes from Felix Online V1
 id: "1887"
 old_path: /comment/1887/imperial-is-unique-rather-than-active
 aliases:
  - /comment/1887/imperial-is-unique-rather-than-active
+imported: true
+comments:
+ - I admit that the piece could have been clearer though it is expressly mentioned that for the most part the Union takes a neutral view on issues such as the ongoing campus strike action in other parts of the country This piece was inspired by the recent strikes and protests and focuses on the contrast between sabbatical officers from other universities and those from Imperialgood editothumbs upWhat a pile of rubbish Our Union isnt neutral it voted to support uncapped feesYou cant hide behind for the most part when the political stance they took was on the topic that youre claiming theyre neutral aboutYou call it neutral and unique Others may call it idleOthers may call it idlecertainly not meTheres a difference between being neutral and actively hindering other students efforts to voice their concerns
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I admit that the piece could have been clearer though it is expressly mentioned that for the most part the Union takes a neutral view on issues such as the ongoing campus strike action in other parts of the country This piece was inspired by the recent strikes and protests and focuses on the contrast between sabbatical officers from other universities and those from Imperialgood editothumbs upWhat a pile of rubbish Our Union isnt neutral it voted to support uncapped feesYou cant hide behind for the most part when the political stance they took was on the topic that youre claiming theyre neutral aboutYou call it neutral and unique Others may call it idleOthers may call it idlecertainly not meTheres a difference between being neutral and actively hindering other students efforts to voice their concerns
-imported: true
 ---
 
 Following the sudden impact of the first wave of student protests last year, this week’s pension protests almost seem part of a natural occurrence, but one, nonetheless, that continues to demonstrate the ever-changing nature of political activism. Imperial, however, remains an anomaly amongst institutions as protests continue on (as demonstrated by limited campus action on Wednesday). This is by no means a negative aspect.

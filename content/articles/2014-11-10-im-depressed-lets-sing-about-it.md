@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk dissects The Anatomy of Melancholy
 date: "2014-11-10 21:16:07 +0000"
+
 # Attributes from Felix Online V1
 id: "4816"
 old_path: /arts/4816/im-depressed-lets-sing-about-it
 aliases:
  - /arts/4816/im-depressed-lets-sing-about-it
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Why am I depressed? What is the cause of my depression?” aren’t exactly questions easily remedied by ringing up NHS Direct and asking. This opera, though, strives to find answers.

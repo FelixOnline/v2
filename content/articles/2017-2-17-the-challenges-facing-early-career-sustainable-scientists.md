@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alexandra Hicken talks to colleagues from the Network of Sustainable Scientists about the challenges that complicate a career in sustainable science.
 date: "2017-02-17 15:05:22 +0000"
+
 # Attributes from Felix Online V1
 id: "6788"
 old_path: /science/6788/the-challenges-facing-early-career-sustainable-scientists
 aliases:
  - /science/6788/the-challenges-facing-early-career-sustainable-scientists
+imported: true
+comments:
+ - IT MUST BE A VERY DIFFICULT MOMENT WHEN THEY DO NOT LIKE WHAT YOU HAVE DONE ON THE DAY OF THE EVENTSO FIRST I SAY I HEAR YOU THEN DO WHAT EVER IT TAKES TO LESSEN THEIR UNHAPPINESS AND THEN SOMEI AM SURE THAT YOU HAVE EATEN YOUR PROFITS MANY TIMES OVER FROM THING SUCH AS THXI8230XSOOMELISSA
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - IT MUST BE A VERY DIFFICULT MOMENT WHEN THEY DO NOT LIKE WHAT YOU HAVE DONE ON THE DAY OF THE EVENTSO FIRST I SAY I HEAR YOU THEN DO WHAT EVER IT TAKES TO LESSEN THEIR UNHAPPINESS AND THEN SOMEI AM SURE THAT YOU HAVE EATEN YOUR PROFITS MANY TIMES OVER FROM THING SUCH AS THXI8230XSOOMELISSA
-imported: true
 ---
 
 As a director on the executive board of the Network of Sustainable Scientists and Engineers (NESSE) and a PhD student in the Chemistry Department funded via the Grantham Institute, it may appear as though my future career path in sustainable science is all but decided. This, however, is far from true.

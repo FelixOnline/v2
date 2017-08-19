@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle thinks that a gesture is due to those of us who care
 date: "2015-03-09 19:01:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5374"
 old_path: /comment/5374/its-time-for-football-fans-to-reap-the-benefits
 aliases:
  - /comment/5374/its-time-for-football-fans-to-reap-the-benefits
+imported: true
+comments:
+ - mont blanc fountain pen australia mont blanc pens pluma montblanc starwalker original michael kors book bag cheap junior ugg boots john lewis ugg slippers mens uggs bloomingdales uggs on sale classic short michael kors brown handbag michael kors kempton small tote red michael kors mont blanc pens gold montblanc meisterstuck classique fountain pen review montblanc platinum line classique kugelschreiber montblanc fountain pen repair michael kors fulton purse cheap ugg boots classic tall ugg boots youth size 5 michael kors cynthia satchel montblanc pens outlet ukmont blanc pens cost http1963711159scriptidmontblancpenscostq10943phpmont blanc meisterstuck fountain pens mont blanc pens usa refill for montblanc rollerball michael kors fulton crossbody bag michael kors used handbags cheap uggs england price of ugg boots in america uggs outlet store online michael kors girls boots michael kors official outlet website michael kors wristlet cheap mont blanc john lennon ball
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mont blanc fountain pen australia mont blanc pens pluma montblanc starwalker original michael kors book bag cheap junior ugg boots john lewis ugg slippers mens uggs bloomingdales uggs on sale classic short michael kors brown handbag michael kors kempton small tote red michael kors mont blanc pens gold montblanc meisterstuck classique fountain pen review montblanc platinum line classique kugelschreiber montblanc fountain pen repair michael kors fulton purse cheap ugg boots classic tall ugg boots youth size 5 michael kors cynthia satchel montblanc pens outlet ukmont blanc pens cost http1963711159scriptidmontblancpenscostq10943phpmont blanc meisterstuck fountain pens mont blanc pens usa refill for montblanc rollerball michael kors fulton crossbody bag michael kors used handbags cheap uggs england price of ugg boots in america uggs outlet store online michael kors girls boots michael kors official outlet website michael kors wristlet cheap mont blanc john lennon ball
-imported: true
 ---
 
 A

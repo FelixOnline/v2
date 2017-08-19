@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Safe sex should be something to shout about
 date: "2016-03-18 11:46:12 +0000"
+
 # Attributes from Felix Online V1
 id: "6057"
 old_path: /features/6057/we-need-to-talk-about-contraception
 aliases:
  - /features/6057/we-need-to-talk-about-contraception
+imported: true
+comments:
+ - I value the knowledge on your web sites Thanks a bunchnba 2k16 mt coins cheap httpiazeemicommembersmrnbaactivity60669Excellent Webpage Stick to the wonderful job Appreciate itcs go skins chart httpnba2k16mttradeweeblycom2133823458nba2k16tipsfromexpertsJust simply desired to point out I am just delighted that i came onto your pagenba 2k16 my player prices httpsaltheaevelyncarbonmadecomprojects6016975Wow gorgeous portal Thnx nba 2k16 mt cheat engine httpwwwezegacomCommunitiesBlogsShowBlogDetailsaspxId62153And I was just woenrding about that tooI delight in the knowledge on your website Thanks a lotnba 2k16 mt ps4 httpsmartfoxcomesforumthread449csgoskinsanillegitimatebottingprogramyou have a good sense of humorRunescape Gold httprunescapegoldstlivejournalcom665htmlYoure very professionalbuy fifa 17 points httpsdiigocom08l9pxI let myself become a fool cheapest nba 2k16 coins xbox one store httpwwwn
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I value the knowledge on your web sites Thanks a bunchnba 2k16 mt coins cheap httpiazeemicommembersmrnbaactivity60669Excellent Webpage Stick to the wonderful job Appreciate itcs go skins chart httpnba2k16mttradeweeblycom2133823458nba2k16tipsfromexpertsJust simply desired to point out I am just delighted that i came onto your pagenba 2k16 my player prices httpsaltheaevelyncarbonmadecomprojects6016975Wow gorgeous portal Thnx nba 2k16 mt cheat engine httpwwwezegacomCommunitiesBlogsShowBlogDetailsaspxId62153And I was just woenrding about that tooI delight in the knowledge on your website Thanks a lotnba 2k16 mt ps4 httpsmartfoxcomesforumthread449csgoskinsanillegitimatebottingprogramyou have a good sense of humorRunescape Gold httprunescapegoldstlivejournalcom665htmlYoure very professionalbuy fifa 17 points httpsdiigocom08l9pxI let myself become a fool cheapest nba 2k16 coins xbox one store httpwwwn
-imported: true
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

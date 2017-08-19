@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Circle Line changes will see drinking swapped for good deeds
 date: "2016-02-05 11:45:34 +0000"
+
 # Attributes from Felix Online V1
 id: "5861"
 old_path: /news/5861/medics-circle-line-will-be-alcohol-free-
 aliases:
  - /news/5861/medics-circle-line-will-be-alcohol-free-
+imported: true
+comments:
+ -                         HD17RU                        HD17RU                        GOHD17RU
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -                         HD17RU                        HD17RU                        GOHD17RU
-imported: true
 ---
 
 The ICSM Student Union has been forced to reign in its plans for RAG week, due to growing pressure from the college over recent alcohol-fuelled bad behaviour.

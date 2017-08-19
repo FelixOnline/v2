@@ -4,16 +4,23 @@ title: >
 subtitle: >
   SIFE’s Insight Into Business Program aims to teach kids through hands-on experience writes Michael Xiao
 date: "2012-03-15 19:46:43 +0000"
+
 # Attributes from Felix Online V1
 id: "2349"
 old_path: /biz/2349/graduates-from-the-university-of-sife
 aliases:
  - /biz/2349/graduates-from-the-university-of-sife
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The [Insight Into Business](http://www.sifeuk.org/index.html?mod=universities&id=7) Program (IIB) works closely with secondary schools throughout London to improve the financial literacy and business acumen of young students today.

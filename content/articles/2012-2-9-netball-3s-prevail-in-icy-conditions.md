@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Women's team comfortably defeat the University of West London
 date: "2012-02-09 23:09:12 +0000"
+
 # Attributes from Felix Online V1
 id: "2170"
 old_path: /sport/2170/netball-3s-prevail-in-icy-conditions
 aliases:
  - /sport/2170/netball-3s-prevail-in-icy-conditions
+imported: true
+comments:
+ - We waz robbed that goal should not have been allowed it was offside if the referee had not allowed that goal we could have won
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - We waz robbed that goal should not have been allowed it was offside if the referee had not allowed that goal we could have won
-imported: true
 ---
 
 Despite the sub-zero temperatures for this outdoor fixture in Chiswick, both teams came out ready for a fight and the match started off as an end-to-end struggle. UWL opened the scoring; a clinical finish despite some sloppy play around the D.

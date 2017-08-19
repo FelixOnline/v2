@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philip Kurukgy looks into the research that earned them the recognition
 date: "2015-05-21 20:15:38 +0100"
+
 # Attributes from Felix Online V1
 id: "5549"
 old_path: /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
 aliases:
  - /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
+imported: true
+comments:
+ - birkenstock sydneybirkenstock arizona sandals httpbirkenstockaustraliamallscomchristian louboutin wedges shoeschristian louboutin outlet store httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - birkenstock sydneybirkenstock arizona sandals httpbirkenstockaustraliamallscomchristian louboutin wedges shoeschristian louboutin outlet store httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 The Royal Society of Chemistry has recognised two Imperial professors for their world-leading research. Professor Sergei Kazarian from the Department of Chemical Engineering and Professor Elaine Holmes from the Department of Surgery and Cancer have received the awards in the light of new discoveries in the field of concentration measurement, which will improve the effectiveness of pharmaceuticals and medicine.

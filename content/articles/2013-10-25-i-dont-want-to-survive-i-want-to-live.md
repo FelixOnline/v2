@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park reviews 12 Years a Slave
 date: "2013-10-25 00:46:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3937"
 old_path: /film/3937/i-dont-want-to-survive-i-want-to-live
 aliases:
  - /film/3937/i-dont-want-to-survive-i-want-to-live
+imported: true
+comments:
+ -  he had a great run But I know reilaty when reilaty when I see it  Oh Gran Torino  Oh Invictus Oscars for everybody  Oh oh oh J Edgar  I never fell for any of that bunk  We could almost tell from the publicity stills that those would be awfulRemember how excited the internet got about Eastwoods potential Best Actor Oscar for Trouble with the Curve Yes lets look at the past decade  Lets look at the most recent 7 years of the past decade  Its a decline  His last great peak is behind him   assuming you think Million Dollar Baby is a peak which I dont   Unforgiven will always be one of my alltime favorite westerns  If Eastwoods only movie was Letters From Iwo Jima then his legacy would be formidable  But I have a strong feeling that hell never reach those heights again   Hes human  Hes not the Energizer BunnyFair enough  And it was not my itennt to suggest that you had ignored his record even if my wording did not make that clear  Yes he
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- -  he had a great run But I know reilaty when reilaty when I see it  Oh Gran Torino  Oh Invictus Oscars for everybody  Oh oh oh J Edgar  I never fell for any of that bunk  We could almost tell from the publicity stills that those would be awfulRemember how excited the internet got about Eastwoods potential Best Actor Oscar for Trouble with the Curve Yes lets look at the past decade  Lets look at the most recent 7 years of the past decade  Its a decline  His last great peak is behind him   assuming you think Million Dollar Baby is a peak which I dont   Unforgiven will always be one of my alltime favorite westerns  If Eastwoods only movie was Letters From Iwo Jima then his legacy would be formidable  But I have a strong feeling that hell never reach those heights again   Hes human  Hes not the Energizer BunnyFair enough  And it was not my itennt to suggest that you had ignored his record even if my wording did not make that clear  Yes he
-imported: true
 ---
 
 12 Years a Slave

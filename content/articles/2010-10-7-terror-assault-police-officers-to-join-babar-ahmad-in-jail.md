@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Police Officers to face prosecution for Babar Ahmad attack
 date: "2010-10-07 22:03:12 +0100"
+
 # Attributes from Felix Online V1
 id: "173"
 old_path: /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
 aliases:
  - /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
+imported: true
+comments:
+ - Seems like justice has been done and not before time Mr Ahmed goes back to prison and the officers are probably out this evening celebratingFantastic result and congratulations to the legal team and Officers involvedwhy are some people saying that muslims are terrorists when they dont even know any thing about themyou cant just go up 2 a muslim and say to them that you are a terrorist
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Seems like justice has been done and not before time Mr Ahmed goes back to prison and the officers are probably out this evening celebratingFantastic result and congratulations to the legal team and Officers involvedwhy are some people saying that muslims are terrorists when they dont even know any thing about themyou cant just go up 2 a muslim and say to them that you are a terrorist
-imported: true
 ---
 
 A group of police officers accused of attacking former employee of Imperial College and terrorist suspect Babar Ahmad appeared in court last month. Police Constables Mark Jones, 43, Roderick James-Bowen, 40, Nigel Cowley, 33, and Detective Constable John Donohue, 36, appeared at City of Westminster Magistrates’ Court, intending to plead not guilty. The case has been committed to Southwark Crown Court for October 29th.

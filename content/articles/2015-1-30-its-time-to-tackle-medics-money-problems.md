@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jennifer Watson asks whether the College offer enough support
 date: "2015-01-30 00:03:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5161"
 old_path: /comment/5161/its-time-to-tackle-medics-money-problems
 aliases:
  - /comment/5161/its-time-to-tackle-medics-money-problems
+imported: true
+comments:
+ - Some poor medics who wish not to be named even had to work at iceland to make ends meetIf that isnt cause for some kind of lottery funding I dont know what isHow ridiculous their financial hardship is not that great from personal experience and from reading this and other articles please do not compare what a medical student goes through to students as a whole Job security great wages  the ability to have the NHS pay your final years fees and then instantly go and work privately How can ICSM Union be looking for ways to keep living costs down for students that doesnt sound rights surely all unions should try to do that or none should  Yet another example of ICSM attempting to separate even further if possible from ICJob security British banks do not provide professional study loans to clinical medical students anymore and havent since 20089  I know because I signed up to RBS to be eligible for them only for the facility to be withdrawn the following year My job will be secur
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Some poor medics who wish not to be named even had to work at iceland to make ends meetIf that isnt cause for some kind of lottery funding I dont know what isHow ridiculous their financial hardship is not that great from personal experience and from reading this and other articles please do not compare what a medical student goes through to students as a whole Job security great wages  the ability to have the NHS pay your final years fees and then instantly go and work privately How can ICSM Union be looking for ways to keep living costs down for students that doesnt sound rights surely all unions should try to do that or none should  Yet another example of ICSM attempting to separate even further if possible from ICJob security British banks do not provide professional study loans to clinical medical students anymore and havent since 20089  I know because I signed up to RBS to be eligible for them only for the facility to be withdrawn the following year My job will be secur
-imported: true
 ---
 
 Imperial College isn’t well known for their regard for the wellbeing of undergraduate students; and there are many at Charing Cross who would argue that College high-ups give even less of a toss about medics. Either way, sitting back and watching students, medic or otherwise, fall into such severe financial difficulty, as illustrated in the recent survey, is an abandonment of their duty of care. It is not a new phenomenon that medics take a massive cut in funding after fourth year. As far as I can tell, this is the first time anyone has tried to tackle the monetary troubles faced by fifth and final year medics.

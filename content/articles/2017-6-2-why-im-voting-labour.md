@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Abhijay Sood tells us all about why he's in love with labour
 date: "2017-06-02 14:16:12 +0100"
+
 # Attributes from Felix Online V1
 id: "7003"
 old_path: /comment/7003/why-im-voting-labour-
 aliases:
  - /comment/7003/why-im-voting-labour-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Soft on security, denying the deficit, and incapable of addressing concerns over immigration. These sound like the sort of accusations the Conservatives levelled at the last Labour government not too long ago, and yet after seven years in government, these are all areas in which the Conservative party have failed by their own metrics.

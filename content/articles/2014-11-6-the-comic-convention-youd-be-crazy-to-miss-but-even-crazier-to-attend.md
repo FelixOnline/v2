@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Comic Convention 2014
 date: "2014-11-06 19:12:21 +0000"
+
 # Attributes from Felix Online V1
 id: "4774"
 old_path: /features/4774/the-comic-convention-youd-be-crazy-to-miss-but-even-crazier-to-attend
 aliases:
  - /features/4774/the-comic-convention-youd-be-crazy-to-miss-but-even-crazier-to-attend
+imported: true
+comments:
+ - Thanks meant for providing many of these terrific subject mattercs go skins exterior httpmildredarleneqsitedkWow cuz this is excellent job Congrats and keep it upnba 2k16 my arena httpfifaplayblognetme20160328counterstrikeskinswaytogetyourgrubbypalmsonsomeYouve gotten probably the greatest web sitesnba 2k16 mtdb httparmyadvicecomblogscheapnbamtcoinarchive20160401csgoskinsnomeanshadanopportunitytogetaspxThank you so much for sharing your good webpagecs go skins are a waste of money httpmyturnondemandcomoxwallblogspost156599
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks meant for providing many of these terrific subject mattercs go skins exterior httpmildredarleneqsitedkWow cuz this is excellent job Congrats and keep it upnba 2k16 my arena httpfifaplayblognetme20160328counterstrikeskinswaytogetyourgrubbypalmsonsomeYouve gotten probably the greatest web sitesnba 2k16 mtdb httparmyadvicecomblogscheapnbamtcoinarchive20160401csgoskinsnomeanshadanopportunitytogetaspxThank you so much for sharing your good webpagecs go skins are a waste of money httpmyturnondemandcomoxwallblogspost156599
-imported: true
 ---
 
 Why would someone with no knowledge of any anime, comic books, and video games attend an event aimed at bringing these people together? Curiosity, that’s why.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   4 Imperial students smash the competitions @ HackKings
 date: "2014-02-28 07:10:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4440"
 old_path: /news/4440/imperial-students-win-inter-university-hackathon
 aliases:
  - /news/4440/imperial-students-win-inter-university-hackathon
+imported: true
+comments:
+ - Correct link is httplivmaphackappspotcom btw
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Correct link is httplivmaphackappspotcom btw
-imported: true
 ---
 
 A team of 4 Imperial students last week’s student hackathon hosted at Kings University. The 4 computing students, Andrei-Loan Cioara, Nandor Licker, Tomas Virgl and Patrick Chilton took first place in the UK’s first inter-university hackathon, HackKings, where they triumphed over teams from Cambridge, UCL, Durham and Oxford.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   What’s in store for the rest of the scientific world?
 date: "2016-11-11 15:54:20 +0000"
+
 # Attributes from Felix Online V1
 id: "6428"
 old_path: /science/6428/the-fate-of-american-science
 aliases:
  - /science/6428/the-fate-of-american-science
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The 9th of November saw tears, despair and a whole lot of memes as the results of the 2016 presidential election rolled in. As I woke up to BBC alerts of Trump’s win on my phone, I found myself reliving that fateful Friday morning in June – closing my eyes, telling myself it was all a dream and everything would return to ‘the expected’ when I checked again. However, something is different. What Brexit would mean to science was, and still remains, quite uncertain, but Trump’s science policies are quite clear cut and, with Congress backing, likely to be implemented. Whether we’ll see a wall built with the Mexico border is still to be seen, but that we’ll live through incredible changes in American science policy is almost guaranteed.

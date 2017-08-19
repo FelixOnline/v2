@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An editorial about the proposal to close the Translation Unit
 date: "2013-01-25 00:52:37 +0000"
+
 # Attributes from Felix Online V1
 id: "3172"
 old_path: /comment/3172/lost-in-translation
 aliases:
  - /comment/3172/lost-in-translation
+imported: true
+comments:
+ - The college never consults with people  It consults to themIf the Translation Unit is not in line with College strategy why are they not closing the Business School as well then Oh right because it receives sponsorship money from big multinational companies such as McKinsey  Company Shell and Morgan StanleyDeadly accurate answer Youve hit the buleesyl
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The college never consults with people  It consults to themIf the Translation Unit is not in line with College strategy why are they not closing the Business School as well then Oh right because it receives sponsorship money from big multinational companies such as McKinsey  Company Shell and Morgan StanleyDeadly accurate answer Youve hit the buleesyl
-imported: true
 ---
 
 [The Translation Unit of Imperial is under threat.](http://felixonline.co.uk/news/3173/translation-unit-under-threat/) There is currently a “consultation period” going on. This will decide the fate of the Unit. The idea being that it doesn’t fit with College’s strategy. Maybe it doesn’t, but how is anyone supposed to know given that when you ask them they refuse to say what that even means.

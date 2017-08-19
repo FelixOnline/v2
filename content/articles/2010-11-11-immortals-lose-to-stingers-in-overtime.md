@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Neil Chordia reports on Imperial Immortals' narrow loss to Surrey Stingers
 date: "2010-11-11 20:43:44 +0000"
+
 # Attributes from Felix Online V1
 id: "342"
 old_path: /sport/342/immortals-lose-to-stingers-in-overtime
 aliases:
  - /sport/342/immortals-lose-to-stingers-in-overtime
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 The BUAFL season got off to a flying start this Sunday as the Imperial Immortals narrowly lost a nail-biting thriller on an overtime field goal to their Thames Valley Conference rivals, the Surrey Stingers. The two teams last met in March when Surrey managed an 18-8 win and the Immortals were out to avenge last season’s loss.

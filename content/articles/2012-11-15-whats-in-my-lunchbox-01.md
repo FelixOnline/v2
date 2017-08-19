@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Carol Ann Cheah ponders “ladies who (liquid) lunch” this winter
 date: "2012-11-15 22:00:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2907"
 old_path: /food/2907/whats-in-my-lunchbox-01
 aliases:
  - /food/2907/whats-in-my-lunchbox-01
+imported: true
+comments:
+ - Ah were well aware of this when we sent this piece off  as foodies were not entirely lacking in basic chem lingo knowhow Wouldve loved to have thought of something else except our suspension to the problem wouldnt have had the same sense to itThat said ta muchly for pointing it out to the uninitiated anyway Ah were well aware of this when we sent this piece off  as foodies were not entirely lacking in basic chem lingo knowhow Wouldve loved to have thought of something else except our suspension to the problem wouldnt have had the same sense to itThat said ta muchly for pointing it out to the uninitiated anyway Yo Soz but your pun doesnt quite work Soup is more a suspension than a solution because most of the solids arent really dissolved in solvated by the solventSounds tasty though
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - Ah were well aware of this when we sent this piece off  as foodies were not entirely lacking in basic chem lingo knowhow Wouldve loved to have thought of something else except our suspension to the problem wouldnt have had the same sense to itThat said ta muchly for pointing it out to the uninitiated anyway Ah were well aware of this when we sent this piece off  as foodies were not entirely lacking in basic chem lingo knowhow Wouldve loved to have thought of something else except our suspension to the problem wouldnt have had the same sense to itThat said ta muchly for pointing it out to the uninitiated anyway Yo Soz but your pun doesnt quite work Soup is more a suspension than a solution because most of the solids arent really dissolved in solvated by the solventSounds tasty though
-imported: true
 ---
 
 Ah, winter. The season when just about everything seems to drop: temperatures, number of daylight hours, moods, hemlines (well, depending.) It’s around this time of the year when us Food Editors face a dilemma when packing our lunches – we need more warm/hot sustenance, so our fallback of sarnies and salads just won’t do, even with a cuppa after. At the same time though, QTR/FiveSixEight/Eastside Bar meals can add up, and we’re really not about to give up the packed lunch habit yet.

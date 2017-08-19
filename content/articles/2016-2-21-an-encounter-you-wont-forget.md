@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Simon McBurney’s masterpiece is timeless in nature.
 date: "2016-02-21 13:01:47 +0000"
+
 # Attributes from Felix Online V1
 id: "5950"
 old_path: /arts/5950/an-encounter-you-wont-forget
 aliases:
  - /arts/5950/an-encounter-you-wont-forget
+imported: true
+comments:
+ - Rather enlightening looking onward to coming back againnba 2k16 my account expired httpwwwtransgender4lifecombazaarindexphpitem1333Wow beautiful portal Thnx nba 2k16 mt for sale reddit httpmoonfacedcomblogs224285csgoskinsfirstyoustartwiththebankspreadYou have the best internet websitescsgo skins cashout httpmyworldcirclecomclassifieds874551csgoskinsseemedtohappentobedropped
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Rather enlightening looking onward to coming back againnba 2k16 my account expired httpwwwtransgender4lifecombazaarindexphpitem1333Wow beautiful portal Thnx nba 2k16 mt for sale reddit httpmoonfacedcomblogs224285csgoskinsfirstyoustartwiththebankspreadYou have the best internet websitescsgo skins cashout httpmyworldcirclecomclassifieds874551csgoskinsseemedtohappentobedropped
-imported: true
 ---
 
 _McBurney’s performance recounts the story of Loren McIntyre– an American photographer who travels into the Amazon rainforest to attempt to capture on film an elusive, indigenous people called the Mayoruna. It quickly becomes apparent however that this story did not happen in the past alone, but is also happening in the present. This is uniquely done through the engaging auditory experience._

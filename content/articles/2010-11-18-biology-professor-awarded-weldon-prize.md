@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Professor Russell S. Lande receives prestigious prize
 date: "2010-11-18 21:54:00 +0000"
+
 # Attributes from Felix Online V1
 id: "414"
 old_path: /news/414/biology-professor-awarded-weldon-prize
 aliases:
  - /news/414/biology-professor-awarded-weldon-prize
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Professor Russell S. Lande, a Royal Society researcher from the Division of Biology at Imperial, has been awarded the [Weldon Memorial Prize](http://en.wikipedia.org/wiki/Weldon_Memorial_Prize) for 2010. The prize, known as the Weldon Memorial Prize and Medal, is awarded annually by the University of Oxford and is named in honor of Walter Frank Raphael Weldon, a former professor of Zoology at Oxford.

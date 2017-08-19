@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson on the stories behind your relationship statuses
 date: "2015-06-04 23:33:48 +0100"
+
 # Attributes from Felix Online V1
 id: "5600"
 old_path: /features/5600/love-and-relationships-at-imperial-college-london
 aliases:
  - /features/5600/love-and-relationships-at-imperial-college-london
+imported: true
+comments:
+ - fitflop butterfly flower singaporefitflop online sale singapore httpsingaporeasalefitflopsblogspotcomfit flops discountfitflops shops httpaustraliafitflopsiemillernetcheap birkenstockbirkenstock shoes clearance httpbirkenstockaustraliablogspotcomchristian loubitonchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomhttponlinediflucanfluconazolenet  Diflucan Viagra Pharmacy Usa httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Buy Fluconazole Canadian Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan For Oral Thrush Us Cialis Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan No Prescription Pharmacy Online httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Tadalafil 10mg Uk Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanflucon
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop butterfly flower singaporefitflop online sale singapore httpsingaporeasalefitflopsblogspotcomfit flops discountfitflops shops httpaustraliafitflopsiemillernetcheap birkenstockbirkenstock shoes clearance httpbirkenstockaustraliablogspotcomchristian loubitonchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomhttponlinediflucanfluconazolenet  Diflucan Viagra Pharmacy Usa httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Buy Fluconazole Canadian Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan For Oral Thrush Us Cialis Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan No Prescription Pharmacy Online httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Tadalafil 10mg Uk Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanflucon
-imported: true
 ---
 
 According to this year’s survey data, just 41% of Imperial students are single or “not seeing anyone” exclusively. A surprisingly high 46% of you are in an exclusive relationship at the moment, and 8% are seeing someone but “non-exclusively”.

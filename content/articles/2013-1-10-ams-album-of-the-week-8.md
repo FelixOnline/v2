@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Big Boi: Vicious Lies and Dangerous Rumours
 date: "2013-01-10 22:53:00 +0000"
+
 # Attributes from Felix Online V1
 id: "3097"
 old_path: /music/3097/ams-album-of-the-week-8
 aliases:
  - /music/3097/ams-album-of-the-week-8
+imported: true
+comments:
+ - Big Boys first album is pretty awesome Hes good live too
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Big Boys first album is pretty awesome Hes good live too
-imported: true
 ---
 
 Big Boi, or the other guy in OutKast, has always been a bit lost in the shadow of Andre 3000. Andre was the crazy experimentalist and Big Boi was just a really good rapper. Big Boi’s excellent debut solo album, Sir Lucious Left Foot, blurred that idea a little. There were big pop hits as well as great hip hop tracks. His second album sees him taking the experimental crown and just running with it. Vicious Lies and Dangerous Rumours is an incredibly diverse and ultimately very difficult record.

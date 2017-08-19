@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Calum reviews the latest game from indie developers Relevo
 date: "2015-02-09 15:12:30 +0000"
+
 # Attributes from Felix Online V1
 id: "5212"
 old_path: /games/5212/baboon-its-not-just-monkeying-around
 aliases:
  - /games/5212/baboon-its-not-just-monkeying-around
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The games section here at Felix periodically get free games in to review. In the past, these have included such greats as Euro Bus Simulator 2 (see my past review). While these simulator games are fun to review I was very pleased when the opportunity arose to play upcoming PSVita game Baboon, as puzzle games are something I know more about. The game did not disappoint and I hope that this review will reveal why.

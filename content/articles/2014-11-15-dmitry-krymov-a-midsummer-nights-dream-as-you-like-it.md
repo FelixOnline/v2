@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles reviews the latest piece at the Barbican Theatre
 date: "2014-11-15 01:18:07 +0000"
+
 # Attributes from Felix Online V1
 id: "4897"
 old_path: /arts/4897/dmitry-krymov-a-midsummer-nights-dream-as-you-like-it-
 aliases:
  - /arts/4897/dmitry-krymov-a-midsummer-nights-dream-as-you-like-it-
+imported: true
+comments:
+ - Youve got one of the best web sitesnba 2k16 mt prices httpapnayadsmcarelimitedcomitem4687
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youve got one of the best web sitesnba 2k16 mt prices httpapnayadsmcarelimitedcomitem4687
-imported: true
 ---
 
 Given Dmitry Krymov’s background, you would be forgiven for being disappointed when entering the Barbican Theatre to see this production of A Midsummer Night’s Dream; trained as a set designer, he created hundreds of pieces throughout the 1970s and 80s, before starting his own theatre group, the Dmitry Krymov Lab, in 2004. With such an illustrious career behind him, one would expect the set for this production to be phenomenal – an idyllic forest scene, perhaps, that takes us to the site of Hermia’s enchantment; or perhaps the bank described by Oberon, where ‘_oxlips and the nodding violet grows / Quite over-canopied with luscious woodbine_’ . And so upon entering, the stage, which is little more than a blank wooden square, covered in a plastic sheet, may be a little anti-climactic.

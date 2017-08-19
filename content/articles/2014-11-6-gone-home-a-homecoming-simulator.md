@@ -4,16 +4,24 @@ title: >
 subtitle: >
   James Dutton talks about The Fullbright Company's first release
 date: "2014-11-06 20:11:53 +0000"
+
 # Attributes from Felix Online V1
 id: "4786"
 old_path: /games/4786/gone-home-a-homecoming-simulator
 aliases:
  - /games/4786/gone-home-a-homecoming-simulator
+imported: true
+comments:
+ - eHi2x7  gdqjggtidvzx urlhttpyytzdwjpeaglcomyytzdwjpeaglurl linkhttpjvmpjekwnbszcomjvmpjekwnbszlink httpbizugktpwhcocom
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - eHi2x7  gdqjggtidvzx urlhttpyytzdwjpeaglcomyytzdwjpeaglurl linkhttpjvmpjekwnbszcomjvmpjekwnbszlink httpbizugktpwhcocom
-imported: true
 ---
 
 After trawling the fairly non-exhaustive ‘Best Games of 2013’ lists, I came across a game which intrigued me – low budget, first-person and heavily story based. Major reviews raved about it, so I took the plunge on ‘_Gone Home_’ – the first effort of The Fullbright Company.

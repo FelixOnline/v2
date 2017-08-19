@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial Cross Country and Athletics Club take on other London Colleges and come out on top
 date: "2014-11-10 22:01:21 +0000"
+
 # Attributes from Felix Online V1
 id: "4834"
 old_path: /sport/4834/early-victory-for-imperial
 aliases:
  - /sport/4834/early-victory-for-imperial
+imported: true
+comments:
+ - Dvate ako kritrium vzdialenos do prce ktor si vek vina zvoli neme ale konkrtny druh dopravy no altuorotejbus bicykel peo a toto sa bodovo nezohaduje A i ke rozumiem filozofii preo nie pri finlnom hodnoten by pri rovnosti bodov mohol by zvhodnen saiaci ktor sa v najvej miere prepravoval sm Na tie km sa niekto me pozera aj cez optiku e ekologickej je predsa ten kto m prcu bliie a minie na presun menej energie
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Dvate ako kritrium vzdialenos do prce ktor si vek vina zvoli neme ale konkrtny druh dopravy no altuorotejbus bicykel peo a toto sa bodovo nezohaduje A i ke rozumiem filozofii preo nie pri finlnom hodnoten by pri rovnosti bodov mohol by zvhodnen saiaci ktor sa v najvej miere prepravoval sm Na tie km sa niekto me pozera aj cez optiku e ekologickej je predsa ten kto m prcu bliie a minie na presun menej energie
-imported: true
 ---
 
 It was cold and windy last Wednesday afternoon when 25 members of the Imperial Cross Country and Athletics Club arrived at Hampstead Heath to take on the other London Colleges in the first Cross Country race of the season: Parliament Hill.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Try to express your sensitive side – or, if missing, fake one
 date: "2011-02-10 21:16:19 +0000"
+
 # Attributes from Felix Online V1
 id: "798"
 old_path: /comment/798/dating-tips-from-this-guy
 aliases:
  - /comment/798/dating-tips-from-this-guy
+imported: true
+comments:
+ - Thanks for sharing Awlays good to find a real expertI2NgkW  tcojvevchehl 2012038 0923     Magnificent items from you man Ive keep in mind your stuff previous to and you are just too wodefrnul I really like what you have got here really like what youre saying and the way in which in which you are saying it You are making it entertaining and you still take care of to stay it smart I cant wait to learn much more from you This is really a great websiteRe Patient Feedback   Miss Hall Gladstone Medical CentreDate 91111I Miss Hall write in regards to the eeleclxnt service of care provided by the Gladstone Medical Centre All members of staff provide a warm welcoming atmosphere allowing patients to feel relaxed and confident in their service at all timesAll patient queries are answered efficiently and professionally information regarding various medical issues are always available to patients upon request and at
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thanks for sharing Awlays good to find a real expertI2NgkW  tcojvevchehl 2012038 0923     Magnificent items from you man Ive keep in mind your stuff previous to and you are just too wodefrnul I really like what you have got here really like what youre saying and the way in which in which you are saying it You are making it entertaining and you still take care of to stay it smart I cant wait to learn much more from you This is really a great websiteRe Patient Feedback   Miss Hall Gladstone Medical CentreDate 91111I Miss Hall write in regards to the eeleclxnt service of care provided by the Gladstone Medical Centre All members of staff provide a warm welcoming atmosphere allowing patients to feel relaxed and confident in their service at all timesAll patient queries are answered efficiently and professionally information regarding various medical issues are always available to patients upon request and at
-imported: true
 ---
 
 Of all the highlights that come with every lap the Earth makes around the Sun, Valentine’s Day I think is the trickiest. For some, it’s plain tiresome, as all media seem to gravitate around hearts and puppies and little naked children with wings. On any other day, these things would rarely feature among your top interests, unless you’re a veterinary cardiologist...or a paedophile. But for those you for whom it has become important, it is on a par with the worst Lovecraftian nightmare: finding that special someone (for 24 hours at least), making reservations, rehearsing with painstaking precision your spontaneous wit for the evening, practising dance moves that suggest a basic understanding of rhythm, and at last, at the end of evening, scouring the whole of west London for a place that sells...a puncture repair kit.

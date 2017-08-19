@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Speeches from the Conservative Party Conference
 date: "2012-10-11 21:14:01 +0100"
+
 # Attributes from Felix Online V1
 id: "2666"
 old_path: /politics/2666/abortion-debate-resurfaces
 aliases:
  - /politics/2666/abortion-debate-resurfaces
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 One of the central features of David Cameron’s reinvention of the Conservative party going in to the 2010 election was the pull to the centre; dressed in the vocabulary of the Big Society and Green Conservatism, they sought to shed the old-fashioned, right-wing image. ‘Backbench’ MPs may have been unhappy, but the promise of government and a Tory majority kept them at bay.

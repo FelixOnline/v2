@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ben Smith on the road to Trakai...
 date: "2012-10-11 21:28:02 +0100"
+
 # Attributes from Felix Online V1
 id: "2678"
 old_path: /sport/2678/ic-rowers-take-on-world-u23s-in-trakai-
 aliases:
  - /sport/2678/ic-rowers-take-on-world-u23s-in-trakai-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Under-23 World Championships were held in Trakai, Lithuania between 11th- 15th July. This year medic Tim Richards and biochemist Wilf Kimberley donned the triple hooped vests to represent their country and defend Imperial’s honour which they did in style.

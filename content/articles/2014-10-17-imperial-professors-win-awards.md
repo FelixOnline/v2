@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Phil Kent reports
 date: "2014-10-17 15:19:30 +0100"
+
 # Attributes from Felix Online V1
 id: "4739"
 old_path: /news/4739/imperial-professors-win-awards
 aliases:
  - /news/4739/imperial-professors-win-awards
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two Imperial College academics have recently been awarded honours by their professional bodies, recognising outstanding achievement in their fields. Honorary Fellowship of the Institute of Physics (IoP) has been awarded to Professor Sir Peter Knight, an Emeritus Professor in Physics, while Professor Chris Toumazou has been awarded with the Faraday Medal. Sir Peter’s award has been made in recognition of his contributions to Physics throughout his career. His research has focused on quantum physics; specifically optics and information science. The Fellowship was also made in recognition of both his work with the IoP, and also a number of other responsibilities he has held.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Chris Richardson on this year's BioSoc debate, which included panellists from The Times and the BBC
 date: "2011-03-03 20:30:34 +0000"
+
 # Attributes from Felix Online V1
 id: "1010"
 old_path: /science/1010/has-the-media-failed-science
 aliases:
  - /science/1010/has-the-media-failed-science
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This year’s BioSoc debate, held last Thursday in the Sir Alexander Fleming Building, turned out a huge success. The provocative debate title ‘[Has the Media failed Science?](http://www.imperialcollegeunion.org/whats-on/biosoc-debate-2011,1401,EV.html)’, albeit a little misleading to the speakers who were expecting some fierce opposition, was always going to invoke some great input from the audience and speakers alike.

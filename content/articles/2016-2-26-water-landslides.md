@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Landslides aren't just dirt
 date: "2016-02-26 11:32:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5961"
 old_path: /science/5961/water-landslides
 aliases:
  - /science/5961/water-landslides
+imported: true
+comments:
+ - Did you just create your new Facebook page Do you want your page to look a little more established I found a service that can help you with that They can send organic and 100 real likes and followers to your social pages and you can try before you buy with their free trial Their service is completely safe and they send all likes to your page naturally and over time so nobody will suspect that you bought them Try their service for free here httpgaryeco10xI came across your Water landslides  Science  Felix Online website and wanted to let you know that we have decided to open our POWERFUL and PRIVATE website traffic system to the public for a limited time You can sign up for our targeted traffic network with a free trial as we make this offer available again If you need targeted traffic that is interested in your subject matter or products start your free trial today httppriscilarodriguescombrurlvUnsubscribe here httpacortarurles97This is a message to the W
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Did you just create your new Facebook page Do you want your page to look a little more established I found a service that can help you with that They can send organic and 100 real likes and followers to your social pages and you can try before you buy with their free trial Their service is completely safe and they send all likes to your page naturally and over time so nobody will suspect that you bought them Try their service for free here httpgaryeco10xI came across your Water landslides  Science  Felix Online website and wanted to let you know that we have decided to open our POWERFUL and PRIVATE website traffic system to the public for a limited time You can sign up for our targeted traffic network with a free trial as we make this offer available again If you need targeted traffic that is interested in your subject matter or products start your free trial today httppriscilarodriguescombrurlvUnsubscribe here httpacortarurles97This is a message to the W
-imported: true
 ---
 
 We are all familiar with the catastrophic consequences a landslide can have. Only last week, 250 people were trapped in their hometown in Idaho, USA,  as a result of a massive landslide blocking the highway connecting them to the rest of the world. This week, one man died and another two were injured during a minor landslide in Ara Damansara, Malaysia, and five villages were covered in dust and debris threatening residents with suffocation, as a result of a dry landslide at Myagdi, a popular tourist destination in Nepal.

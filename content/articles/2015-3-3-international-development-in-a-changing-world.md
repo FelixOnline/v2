@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Marcus Bishop reviews the key themes and outcomes of the London International Development Conference
 date: "2015-03-03 14:31:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5323"
 old_path: /cands/5323/international-development-in-a-changing-world
 aliases:
  - /cands/5323/international-development-in-a-changing-world
+imported: true
+comments:
+ - thought provoking but it doesnt answer some of the critical questions posed  httpacheterciajispaschercom cialis httpprezzocia1isgenericocom acquistare cialis httpprixciajisgeneriquecom cialis httpcomprarcia1isgenericobaratonet cialis generico httpcomprargenericociajisespanacom comprar cialishttpacheterciajispaschercom cialis generique httpprezzocia1isgenericocom acquistare cialis httpprixciajisgeneriquecom cialis sans ordonnance httpcomprarcia1isgenericobaratonet cialis sin receta httpcomprargenericociajisespanacom comprar cialisachat cialis cialis achat cialis acquisto cialis vente cialis vente cialis cialis cialis generico cialis  cialis genericocialis achat vente cialis cialis acquisto comprare cialis vente cialis vente cialis precio cialis precio cialis comprar cialis  comprar cialis
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - thought provoking but it doesnt answer some of the critical questions posed  httpacheterciajispaschercom cialis httpprezzocia1isgenericocom acquistare cialis httpprixciajisgeneriquecom cialis httpcomprarcia1isgenericobaratonet cialis generico httpcomprargenericociajisespanacom comprar cialishttpacheterciajispaschercom cialis generique httpprezzocia1isgenericocom acquistare cialis httpprixciajisgeneriquecom cialis sans ordonnance httpcomprarcia1isgenericobaratonet cialis sin receta httpcomprargenericociajisespanacom comprar cialisachat cialis cialis achat cialis acquisto cialis vente cialis vente cialis cialis cialis generico cialis  cialis genericocialis achat vente cialis cialis acquisto comprare cialis vente cialis vente cialis precio cialis precio cialis comprar cialis  comprar cialis
-imported: true
 ---
 
 At the Millennium Summit in September 2000, the largest gathering of world leaders in history adopted the UN Millennium Declaration, committing their nations to a new global partnership to reduce extreme poverty and setting out a series of time-bound targets, with a deadline of 2015, that have become known as the Millennium Development Goals (MDGs). Now we’ve hit 2015, the London International Development Conference (IDC) asked what progress has been made, and more significantly, how can the global development agenda adapt to address a different set of challenges?

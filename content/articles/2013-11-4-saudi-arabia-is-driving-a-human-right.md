@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I’ve always been in love with driving. In school, when I was learning to drive, my Physics teacher told me that he wished that we were in Saudi Arabia, where women are banned from driving, because then at least I’d shut up about it in his lessons.
 date: "2013-11-04 13:43:40 +0000"
+
 # Attributes from Felix Online V1
 id: "3981"
 old_path: /comment/3981/saudi-arabia-is-driving-a-human-right
 aliases:
  - /comment/3981/saudi-arabia-is-driving-a-human-right
+imported: true
+comments:
+ - Who put men in charge anyway  They cant give women the right to drive  Its not theirs to give or refuse  Men and women are equal in terms of rights  If Arabs believe women need to be protected it begs the question from what or from whom  If the answer is from men then clearly the problem is not with the women it with the people who are unable to control themselves thereby placing women in jeopardy  Women are free just as men are from restrictions imposed by men only so long as men are adult enough to own their behaviour and acknowledge women as equals  May I suggest men in areas of the world where freedom for women is arbitrary that they consider what precisely it is they are afraid of
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Who put men in charge anyway  They cant give women the right to drive  Its not theirs to give or refuse  Men and women are equal in terms of rights  If Arabs believe women need to be protected it begs the question from what or from whom  If the answer is from men then clearly the problem is not with the women it with the people who are unable to control themselves thereby placing women in jeopardy  Women are free just as men are from restrictions imposed by men only so long as men are adult enough to own their behaviour and acknowledge women as equals  May I suggest men in areas of the world where freedom for women is arbitrary that they consider what precisely it is they are afraid of
-imported: true
 ---
 
 I’ve always been in love with driving. In school, when I was learning to drive, my Physics teacher told me that he wished that we were in Saudi Arabia, where women are banned from driving, because then at least I’d shut up about it in his lessons. I remember being outraged to learn this, and it’s always stuck with me. While I would abstain from describing driving as a basic human right, it’s certainly not a right that should be awarded based on gender.

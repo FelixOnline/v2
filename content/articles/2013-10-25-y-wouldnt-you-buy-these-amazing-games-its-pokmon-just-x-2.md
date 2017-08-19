@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tech Editor Yong Wen Chua on Pokémon X&Y
 date: "2013-10-25 01:02:29 +0100"
+
 # Attributes from Felix Online V1
 id: "3946"
 old_path: /games/3946/y-wouldnt-you-buy-these-amazing-games-its-pokmon-just-x-2
 aliases:
  - /games/3946/y-wouldnt-you-buy-these-amazing-games-its-pokmon-just-x-2
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 In the 17 years since the first Pokémon games were released, Game Freak have been churning out generations of iterative games, each improving upon their predecessors gradually. Now in its sixth generation of the games, Pokémon X & Y delivers another more-of-the-same but greatly improved game from its predecessor Pokémon Black 2 and White 2. I played Pokémon Y, but the differences between the versions are slight, and do not involve any gameplay mechanics. This review will contain spoilers, although not story related ones.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   When two things of immense beauty combine, strange things can happen. In this case, music and majesty create brilliance
 date: "2010-11-18 20:43:32 +0000"
+
 # Attributes from Felix Online V1
 id: "391"
 old_path: /music/391/cinematic-orchestra
 aliases:
  - /music/391/cinematic-orchestra
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As an Imperial student, the Royal Albert Hall can easily become a mundane and constant feature of our university lives. It’s by no means an ugly building but, after almost three and half years at Imperial, I scarcely give it a cursory glance. Last Sunday, after experiencing The Cinematic Orchestra perform within its circled walls, I found a renewed appreciation for our illustrious neighbour.

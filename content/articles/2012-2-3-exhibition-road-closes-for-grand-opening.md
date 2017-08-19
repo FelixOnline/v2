@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Boris Johnson takes to the streets to inaugurate new layout
 date: "2012-02-03 00:28:44 +0000"
+
 # Attributes from Felix Online V1
 id: "2121"
 old_path: /news/2121/exhibition-road-closes-for-grand-opening-
 aliases:
  - /news/2121/exhibition-road-closes-for-grand-opening-
+imported: true
+comments:
+ - The grand idea behind the road is that without markings or signs to follow drivers will be more careful and more aware of driversSomehow I doubt that whoever came up with this idea has ever driven a car or for that matter crossed a roadTuesday nights vote on ID cards Labour rebels solid opiosption from the Tories and Libdems Labour majority reduced to 25Oh whats this 41 41 jezuz ferkin xmas Tories didnt vote including all 4 leadership candidatesWhat is the point Yet another opportunity to inflict a severe drubbing to Labour and the Tories are so self absorbed they didnt even noticeYAY So happy you guy made it I cannot imiagne the how you feel landing in China After all those months it will be great just to pig out Miss you
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The grand idea behind the road is that without markings or signs to follow drivers will be more careful and more aware of driversSomehow I doubt that whoever came up with this idea has ever driven a car or for that matter crossed a roadTuesday nights vote on ID cards Labour rebels solid opiosption from the Tories and Libdems Labour majority reduced to 25Oh whats this 41 41 jezuz ferkin xmas Tories didnt vote including all 4 leadership candidatesWhat is the point Yet another opportunity to inflict a severe drubbing to Labour and the Tories are so self absorbed they didnt even noticeYAY So happy you guy made it I cannot imiagne the how you feel landing in China After all those months it will be great just to pig out Miss you
-imported: true
 ---
 
 Following two years of construction, Exhibition Road closed last Wednesday for its grand opening led by the Mayor of London, Boris Johnson. ‘No parking’ signs were put up in advance and the event saw a day long closure marking the opening of the brand new signature road running through the “intellectual capital of London”, South Kensington, as described by Prince Albert.

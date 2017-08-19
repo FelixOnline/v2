@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A Victorian Lovecraftian mystery
 date: "2012-01-19 20:15:46 +0000"
+
 # Attributes from Felix Online V1
 id: "2010"
 old_path: /books/2010/holmes-like-youve-never-read-him-before
 aliases:
  - /books/2010/holmes-like-youve-never-read-him-before
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Given the latest upsurge in popularity for Sherlock Holmes, and the recent film and TV adaptations, I think that the time is right for a review of a Holmes story in this section. I’m not a huge fan of Holmes but I have read all of the stories Sir Arthur Conan Doyle wrote about him. It’s hardly a huge achievement – there are sixty of them, and only four of these are novels. However, despite this small number, and Doyle’s clear and engaging writing style, the Holmes tales are very repetitive. After a few dozen one inevitably becomes bored and stories begin to all run together. Therefore, if asked for my favourite work about the great detective, I would have to point to the only story that I have read that really stands out for me, a story not even written by Conan Doyle: Neil Gaiman’s _A Study in Emerald_.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charles Titmuss explains why Labour is doomed – and it's not all Jeremy Corbyn's fault
 date: "2017-03-03 14:40:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6837"
 old_path: /comment/6837/labour-has-a-one-way-ticket-to-switzerland
 aliases:
  - /comment/6837/labour-has-a-one-way-ticket-to-switzerland
+imported: true
+comments:
+ - It is worth noting that the poll given was one of the most generous to labour in recent weeks with some at 24 for labour and 40 for ConservativesI find it remarkable that the author wishes the government to perform poorly With any luck May will make domestic and foreign policy errorsSurely one should always wish for their countrys government to perform well regardless of who they are This sentence betrays an abhorrent view that suggests the author does not care for the wellbeing of the country but in fact only for Labour to be the ruling partyI also find it remarkable that the author wishes the government to perform poorly With any luck May will make domestic and foreign policy errorsSurely one should always wish for their countrys government to perform well regardless of who they are This sentence betrays an abhorrent view that suggests the author does not care for the wellbeing of the country but in fact only for Labour to be the ruling partyDamn I wish I could think of soenihtmg sm
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - It is worth noting that the poll given was one of the most generous to labour in recent weeks with some at 24 for labour and 40 for ConservativesI find it remarkable that the author wishes the government to perform poorly With any luck May will make domestic and foreign policy errorsSurely one should always wish for their countrys government to perform well regardless of who they are This sentence betrays an abhorrent view that suggests the author does not care for the wellbeing of the country but in fact only for Labour to be the ruling partyI also find it remarkable that the author wishes the government to perform poorly With any luck May will make domestic and foreign policy errorsSurely one should always wish for their countrys government to perform well regardless of who they are This sentence betrays an abhorrent view that suggests the author does not care for the wellbeing of the country but in fact only for Labour to be the ruling partyDamn I wish I could think of soenihtmg sm
-imported: true
 ---
 
 T he by-elections in both Stoke and Copeland were both called recently, due to their respective MPs resigning. As I’m sure you are aware, Labour lost the Copeland seat and held on to the Stoke seat, but suffered  a reduction in the proportion of votes compared to 2015. This is viewed by many, myself included, as a crucial test of Labour’s appeal to the general public, particularly at a transformative time in Labour’s history.

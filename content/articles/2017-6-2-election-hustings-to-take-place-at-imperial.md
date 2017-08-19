@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Fun fun fun
 date: "2017-06-02 12:25:50 +0100"
+
 # Attributes from Felix Online V1
 id: "6982"
 old_path: /news/6982/election-hustings-to-take-place-at-imperial
 aliases:
  - /news/6982/election-hustings-to-take-place-at-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial will be hosting general election hustings on the 1st of June, inviting five speakers representing the Conservatives, Labour, UKIP, Lib Dems and Greens. Speakers were selected by picking the constituencies in which the most Imperial students live (Hammersmith, Kensington and the Cities of London and Westminster).

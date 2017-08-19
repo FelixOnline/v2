@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Event to be similar to the 1851 Great Exhibition
 date: "2011-11-17 21:06:25 +0000"
+
 # Attributes from Felix Online V1
 id: "1769"
 old_path: /news/1769/exhibition-road-hosts-festival-to-coincide-with-olympic-games
 aliases:
  - /news/1769/exhibition-road-hosts-festival-to-coincide-with-olympic-games
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For those of you planning a work placement this summer, here’s something that might make you reconsider. The (Exhibition) Road Show, a nine-day street festival being held right on Imperial’s doorstep, is set to be unmissable. Part of the wider celebrations for the 2012 Olympics, the event will be held from July 28 until August 5, coinciding with the beginning of the Games.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Christian Franke talks way too deeply to a stranger about a classic
 date: "2012-11-01 23:01:20 +0000"
+
 # Attributes from Felix Online V1
 id: "2805"
 old_path: /film/2805/fritz-the-cat
 aliases:
  - /film/2805/fritz-the-cat
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It was towards the end of a long, drawn-out evening at a festival during the summer, and totally by chance some good chums and I came across a cinema showing Fritz the Cat. I coincidentally had only read about it a couple of days earlier so I suggested to the cohort that we catch the closing 15 minutes. As we loitered around the back, someone else walked in and asked what the film was about. It seemed appropriate for me to answer the question with the following:

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laurence Pope on how you can get a cancer drug renamed — after you
 date: "2013-01-10 22:15:50 +0000"
+
 # Attributes from Felix Online V1
 id: "3081"
 old_path: /science/3081/fund-cancer-research-gain-immortality-maybe
 aliases:
  - /science/3081/fund-cancer-research-gain-immortality-maybe
+imported: true
+comments:
+ - Hi MaryThe question on the leveas is interesting In the case of Musa as I understand it although the lamina dies the petiole persists to form part of the  stem  so the leaf or part of it remains for quite some timeBut is their a role for the leaf skirt Id assume this is a natural state so there might not be any significance in its persistance but some beneficial roles might be1 Thermal insulation   protecting the  stem  from too much sun or cold for that matter2 Mulch around base to suppress competitionbut Im just guessing This abstract seems to suggest that leaf persistance in Cordyline is linked to insulation from the cold Here in Australia Xanthorrhea Grass trees retain thier leveas and this helps insulates their stems from the heat of fires Ed link no longer viable Ive not been able to find this paper online anywhere else eitherWorking in a nursery about ten years ago I observed a rather interesting leaf skirt in Geranium maderense Its usually biennual and the hypocotyl tend
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi MaryThe question on the leveas is interesting In the case of Musa as I understand it although the lamina dies the petiole persists to form part of the  stem  so the leaf or part of it remains for quite some timeBut is their a role for the leaf skirt Id assume this is a natural state so there might not be any significance in its persistance but some beneficial roles might be1 Thermal insulation   protecting the  stem  from too much sun or cold for that matter2 Mulch around base to suppress competitionbut Im just guessing This abstract seems to suggest that leaf persistance in Cordyline is linked to insulation from the cold Here in Australia Xanthorrhea Grass trees retain thier leveas and this helps insulates their stems from the heat of fires Ed link no longer viable Ive not been able to find this paper online anywhere else eitherWorking in a nursery about ten years ago I observed a rather interesting leaf skirt in Geranium maderense Its usually biennual and the hypocotyl tend
-imported: true
 ---
 
 Ad5[CgA-E1A-miR122]PTD isn’t a catchy name. But, for just one million pounds, Ad5[CgA-E1A-miR122]PTD (Ad5 for short) could be renamed — after you.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hamilton’s coolness disappoints at the National
 date: "2012-11-01 22:48:22 +0000"
+
 # Attributes from Felix Online V1
 id: "2793"
 old_path: /arts/2793/the-naked-truth-about-the-late-works
 aliases:
  - /arts/2793/the-naked-truth-about-the-late-works
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “One of Britain’s most influential artists”, “the father of pop art”, “one of the most innovative and audacious printmakers ofthe age”. These phrases have all been used to describe the late [Richard Hamilton](http://www.nationalgallery.org.uk/whats-on/exhibitions/richard-hamilton-the-late-works), creator of such famous collages as Just what is it that makes today’s homes so modern, so appealing?, widely considered as the first ever example of pop art. You can see, then, why I was so interested to explore his final works, currently on display at [the National Gallery](http://www.nationalgallery.org.uk/).

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ben Sharpless discusses the latest controversy surrounding the new £5 note
 date: "2016-12-02 14:00:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6527"
 old_path: /science/6527/5-for-top-quality-animal-fat
 aliases:
  - /science/6527/5-for-top-quality-animal-fat
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Introduced in September of this year, the revamped £5 bank notes are designed to be more robust and last longer than the previous edition. Already seen in countries like Australia, Canada and Indonesia, these polymer bank notes are designed not to be torn, therefore increasing their lifespan by about 2.5 times, reducing the need to produce more.

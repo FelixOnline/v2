@@ -4,16 +4,23 @@ title: >
 subtitle: >
   There’s something strange about the way we treat emotions; they have become products to be bought and sold. It was crazy American Pentecostal Christianity that first got me thinking about this.
 date: "2014-04-07 13:00:22 +0100"
+
 # Attributes from Felix Online V1
 id: "4528"
 old_path: /comment/4528/hating-headlines-that-tell-you-how-to-feel
 aliases:
  - /comment/4528/hating-headlines-that-tell-you-how-to-feel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 There’s something strange about the way we treat emotions; they have become products to be bought and sold. It was crazy American Pentecostal Christianity that first got me thinking about this. I went to a Pentecostal service in Philadelphia with a family with whom I was staying. The differences between the mass of my Irish Catholic upbringing and this service couldn’t have been starker. I’d never seen anyone roll around the floor speaking in tongues before; soon I’d seen four of them. But more surprising than this was the way that the pastor spoke about Jesus. Jesus, we were told, would make you feel great. You know that feeling when you slurp down a cold Coke on a hot day? Jesus is like that times a thousand. Believing in Him makes you feel just swell; a refreshing, ice cold Diet Christ.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students angered at auction by Westminster School for a one-week internship at Imperial College's Institute of Biomedical Engineering, set up without College's approval
 date: "2013-05-14 10:28:07 +0100"
+
 # Attributes from Felix Online V1
 id: "3565"
 old_path: /news/3565/the-next-lot-an-internship-at-imperial
 aliases:
  - /news/3565/the-next-lot-an-internship-at-imperial
+imported: true
+comments:
+ - Its the institute of Biomedical Engineering not the one of Biomedical Science right in the body wrong in the subtitleImperial also charges 6th form students 30 to apply for work experience in its hospitals I kinda winced at the idea of losing 30 without getting any experience out of it so I imagine people a lot less well off than me may pass up that opportunity tooBut yeah this is not anywhere near the level of this articles subjectWhat might be useful to note is that Imperial College contact had no idea an auction would take place The original plan was to take two students the auction was entirely Westminsters doingI think someone from Imperial College would have known about it Westminster School were hardly going to auction off fictitious internships
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its the institute of Biomedical Engineering not the one of Biomedical Science right in the body wrong in the subtitleImperial also charges 6th form students 30 to apply for work experience in its hospitals I kinda winced at the idea of losing 30 without getting any experience out of it so I imagine people a lot less well off than me may pass up that opportunity tooBut yeah this is not anywhere near the level of this articles subjectWhat might be useful to note is that Imperial College contact had no idea an auction would take place The original plan was to take two students the auction was entirely Westminsters doingI think someone from Imperial College would have known about it Westminster School were hardly going to auction off fictitious internships
-imported: true
 ---
 
 Students and alumni have been outraged to discover the [auctioning of a place at Imperial College for a one-week summer internship at the Institute of Biomedical Engineering](http://auction.westminster.org.uk/lots/one-week-internship-at-the-institute-of-biomedical-engineering-imperial-college-london-for-a-level-students) that appeared on the morning of Wednesday 14 May. This placement had been made available to students of Westminster School, a fee paying school that charges upwards of £7000 per term for tuition, who could bid for the the opportunity using the school's online auctioning service. The auction was pulled during the evening of the same day.

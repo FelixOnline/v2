@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICFS tell us about their exciting upcoming conference
 date: "2013-11-15 11:44:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4087"
 old_path: /features/4087/new-financial-worlds-conference
 aliases:
  - /features/4087/new-financial-worlds-conference
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 March 2011 saw Imperial College Finance Society hold their first ever conference at the highly impressive Bloomberg Headquarters. It was here that the New Financial Worlds Conference was born. With an attendance of over 200 individuals from a diverse range of backgrounds, universities and professions, it was a real opening success for the society. Now in its fourth iteration, the New Financial Conference 2013 will be held in the prestigious Barbican on the 30th November.

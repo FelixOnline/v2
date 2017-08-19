@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The kettling was horrible, unjustified and counter-productive
 date: "2010-12-17 14:20:33 +0000"
+
 # Attributes from Felix Online V1
 id: "561"
 old_path: /comment/561/we-werent-allowed-to-protest-freely
 aliases:
  - /comment/561/we-werent-allowed-to-protest-freely
+imported: true
+comments:
+ - Police did deny people the right to peacefully protest by not allowing them to move on from the violent areas so lumping all the protesters into one cohort And now the MET are now looking to blanket ban student protests so definitely a denial of peaceful protestThe MET have said that many of the arrested were not known to the police previously so I think examining why seemingly average students took to smashing is interesting having been there and seen the violence only occuring after several hours of kettling I still believe that kettling forced people to take to violence I have not said that people shouldnt take responsibility for the damage caused but the MET need to take responsibility for causing a situation where violence flourishes Im sorry you blame the police for causing violence Are you saying that students are fickle enough to abandon the ideals of peaceful protest so easily The police havent denied anything if you want to blame someone for the cause of violence blame peo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Police did deny people the right to peacefully protest by not allowing them to move on from the violent areas so lumping all the protesters into one cohort And now the MET are now looking to blanket ban student protests so definitely a denial of peaceful protestThe MET have said that many of the arrested were not known to the police previously so I think examining why seemingly average students took to smashing is interesting having been there and seen the violence only occuring after several hours of kettling I still believe that kettling forced people to take to violence I have not said that people shouldnt take responsibility for the damage caused but the MET need to take responsibility for causing a situation where violence flourishes Im sorry you blame the police for causing violence Are you saying that students are fickle enough to abandon the ideals of peaceful protest so easily The police havent denied anything if you want to blame someone for the cause of violence blame peo
-imported: true
 ---
 
 On Thursday the 9th of December MPs [voted to raise the tuition fee cap](http://www.felixonline.co.uk/?article=546) to £9000. Unsurprisingly this brought out thousands of students to protest the changes. I had been at the previous protests and while I had only been kettled once momentarily, I went with the expectation that the police were going to kettle us. I took warm clothes, water and I pulled an all-nighter the night before to finish an essay so I was able to submit it before I went on the protest. Isn’t that sad? Sad that I wanted to peacefully protest in Parliament Square and had to prepare for the police to surround the protest and keep it there for hours.

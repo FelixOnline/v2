@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Excellence in teaching awarded
 date: "2013-06-20 23:35:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3723"
 old_path: /news/3723/rectors-awards-announced
 aliases:
  - /news/3723/rectors-awards-announced
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 President & Rector’s 2013 Awards and Medals for Excellence in Teaching, Pastoral Care, Research Student Supervision and Supporting the Student Experience. Apparently brevity wasn’t a concern for him.

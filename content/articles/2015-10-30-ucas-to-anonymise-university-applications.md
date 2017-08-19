@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Graduate employers have also committed to anonymising candidates
 date: "2015-10-30 12:28:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5682"
 old_path: /news/5682/ucas-to-anonymise-university-applications
 aliases:
  - /news/5682/ucas-to-anonymise-university-applications
+imported: true
+comments:
+ - The Left is the faction of the professors the scientists and the scholars the cognitive elite It is the faction of the true ultrarich the old money the Rockefellers and Vanderbilts and Fords and their trustafarian hipster junkie granichdldren It is the faction of the journalists and the bureaucrats the activists and astroturfers  the wielders of power And of course it is the faction of movie stars and other celebrities who for all their flaws have climbed a long greasy pole The closer you get to the top in a democratic society the more pervasive socialism becomesJesus wept
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The Left is the faction of the professors the scientists and the scholars the cognitive elite It is the faction of the true ultrarich the old money the Rockefellers and Vanderbilts and Fords and their trustafarian hipster junkie granichdldren It is the faction of the journalists and the bureaucrats the activists and astroturfers  the wielders of power And of course it is the faction of movie stars and other celebrities who for all their flaws have climbed a long greasy pole The closer you get to the top in a democratic society the more pervasive socialism becomesJesus wept
-imported: true
 ---
 
 This week the government announced plans to remove candidate names from university applications in a move to prevent unconscious bias against ethnic minority candidates.

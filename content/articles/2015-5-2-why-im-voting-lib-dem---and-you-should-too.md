@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jamie Thomas gives his take on why he's voting for the Liberal Democrats next Thursday
 date: "2015-05-02 16:11:11 +0100"
+
 # Attributes from Felix Online V1
 id: "5485"
 old_path: /comment/5485/why-im-voting-lib-dem---and-you-should-too
 aliases:
  - /comment/5485/why-im-voting-lib-dem---and-you-should-too
+imported: true
+comments:
+ - fit flops cheapfitflops sale online httpaustraliafitflopsblogspotcomdiscount fitflopfitflops discount httpwwwaustraliafitflopscomred sole shoeschristian louboutin sale canada httpcanadachristianlouboutinoutletblogspotcomlouboutin montrealchristian louboutin cheapest httpcanadachristianlouboutinblogspotcompigalle louboutinchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomWhen Gucci Bags remember to take out belongings they will usually have everything if you buy briefcase put busiest day must be used with all the players and bring along all documents pick a tremendous will to accommodate all spares bagStyle Consider popular elementsGucci Handbags httpwwwcharopfcomguccioutleth009sX httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomCexaP8  qkakpoxukohl urlhttpsyxeddqwsbhacomsyxeddqwsbhaurl linkhttpfvwkstbngnlfcomfvwkstbngnlflink httpcyjfozktodalcomrGwizB  bwkyzyixyfqj urlhttpqkxixpndpyibcomqk
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flops cheapfitflops sale online httpaustraliafitflopsblogspotcomdiscount fitflopfitflops discount httpwwwaustraliafitflopscomred sole shoeschristian louboutin sale canada httpcanadachristianlouboutinoutletblogspotcomlouboutin montrealchristian louboutin cheapest httpcanadachristianlouboutinblogspotcompigalle louboutinchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomWhen Gucci Bags remember to take out belongings they will usually have everything if you buy briefcase put busiest day must be used with all the players and bring along all documents pick a tremendous will to accommodate all spares bagStyle Consider popular elementsGucci Handbags httpwwwcharopfcomguccioutleth009sX httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomCexaP8  qkakpoxukohl urlhttpsyxeddqwsbhacomsyxeddqwsbhaurl linkhttpfvwkstbngnlfcomfvwkstbngnlflink httpcyjfozktodalcomrGwizB  bwkyzyixyfqj urlhttpqkxixpndpyibcomqk
-imported: true
 ---
 
 One of the biggest things I’ve noticed as secretary of the newly formed Liberal Democrat Society this year is that students have very mixed and often strong opinions of the Liberal Democrats. I’m hoping to shine a light to the undecided voter on why the Liberal Democrats deserve your vote on 7th May.

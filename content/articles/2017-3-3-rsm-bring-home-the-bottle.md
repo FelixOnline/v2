@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Bottle match done
 date: "2017-03-03 16:14:18 +0000"
+
 # Attributes from Felix Online V1
 id: "6855"
 old_path: /sport/6855/rsm-bring-home-the-bottle
 aliases:
  - /sport/6855/rsm-bring-home-the-bottle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On 20th February 2016, a tragedy befell the Royal School of Mines in the dark dingy depths of Falmouth. The Bottle was lost! In the midst of one of the biggest storms the south coast had ever seen, the RSM rugby players fell victim to the CSM scum in the muddy trenches. A year later in the leafy suburbs of Harlington a new mining outfit strode out to make battle, adorned in their new windstopper jackets #stash. It was time for the annual Bottle Match, the world’s 2nd oldest rugby varsity, to commence.

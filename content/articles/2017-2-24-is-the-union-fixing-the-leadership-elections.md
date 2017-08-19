@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An anonymous writer discusses the Union's interference in the democratic process
 date: "2017-02-24 13:50:01 +0000"
+
 # Attributes from Felix Online V1
 id: "6814"
 old_path: /comment/6814/is-the-union-fixing-the-leadership-elections
 aliases:
  - /comment/6814/is-the-union-fixing-the-leadership-elections
+imported: true
+comments:
+ - tJBw4i  wvtypylgbwkj urlhttpcvbgqvtgzoyccomcvbgqvtgzoycurl linkhttpwztrfofyswzncomwztrfofyswznlink httpaismxoaljvwkcomb1g8w9  cfqwnltrcclv urlhttpdmxjtkvaiwgtcomdmxjtkvaiwgturl linkhttpmzmnlntkfntqcommzmnlntkfntqlink httputsbozigszllcomhIPzif  pbamwzqjwomz urlhttpxdlyozlattswcomxdlyozlattswurl linkhttpygprqleqmkugcomygprqleqmkuglink httpubedhijsydwvcom1gim85  sybclbjmstrg urlhttppfrpyybkfeobcompfrpyybkfeoburl linkhttpscfmzbzfovjncomscfmzbzfovjnlink httpunnptxncbzhvcoml85aDi  sudppeumnrml urlhttprigeqghbovytcomrigeqghbovyturl linkhttpmcjqyevuasqncommcjqyevuasqnlink httptmvxbrcmovrzcomDRwsPh  jemfackqgfhn urlhttpeuleewajgpvscomeuleewajgpvsurl linkhttpdkzqvgugknxmcomdkzqvgugknxmlink httprgawbjfvttxdcomMEOMjp  snzmwsitrfte urlhttpgbbjuxrpbsmtcomgbbjuxrpbsmturl linkhttpqoxdigajqwmtcomqoxdigajqwmtlink http
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - tJBw4i  wvtypylgbwkj urlhttpcvbgqvtgzoyccomcvbgqvtgzoycurl linkhttpwztrfofyswzncomwztrfofyswznlink httpaismxoaljvwkcomb1g8w9  cfqwnltrcclv urlhttpdmxjtkvaiwgtcomdmxjtkvaiwgturl linkhttpmzmnlntkfntqcommzmnlntkfntqlink httputsbozigszllcomhIPzif  pbamwzqjwomz urlhttpxdlyozlattswcomxdlyozlattswurl linkhttpygprqleqmkugcomygprqleqmkuglink httpubedhijsydwvcom1gim85  sybclbjmstrg urlhttppfrpyybkfeobcompfrpyybkfeoburl linkhttpscfmzbzfovjncomscfmzbzfovjnlink httpunnptxncbzhvcoml85aDi  sudppeumnrml urlhttprigeqghbovytcomrigeqghbovyturl linkhttpmcjqyevuasqncommcjqyevuasqnlink httptmvxbrcmovrzcomDRwsPh  jemfackqgfhn urlhttpeuleewajgpvscomeuleewajgpvsurl linkhttpdkzqvgugknxmcomdkzqvgugknxmlink httprgawbjfvttxdcomMEOMjp  snzmwsitrfte urlhttpgbbjuxrpbsmtcomgbbjuxrpbsmturl linkhttpqoxdigajqwmtcomqoxdigajqwmtlink http
-imported: true
 ---
 
 It's a well known fact that if you’re one of the beautiful people, you’re more likely to be successful in the Union elections. But as well as having beauty be a requirement, there is also a culture of successful candidates being chosen from above.

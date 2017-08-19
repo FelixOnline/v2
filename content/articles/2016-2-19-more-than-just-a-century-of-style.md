@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Vogue 100: A Century of Style is a celebration of history and what made it beautiful
 date: "2016-02-19 12:11:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5939"
 old_path: /arts/5939/more-than-just-a-century-of-style
 aliases:
  - /arts/5939/more-than-just-a-century-of-style
+imported: true
+comments:
+ - Ho notato solo ora una cosa MERAVIGLIOSASergio con la maglietta di FIREFOXnooooooo la voglio anche iooooooooooooooooooooooo dove lhai presa sullo store di mozillaGRANDE SERGIOciaoPaolo
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ho notato solo ora una cosa MERAVIGLIOSASergio con la maglietta di FIREFOXnooooooo la voglio anche iooooooooooooooooooooooo dove lhai presa sullo store di mozillaGRANDE SERGIOciaoPaolo
-imported: true
 ---
 
 One enters the exhibition through a room with pillars that are kaleidoscopes of _British Vogue_ magazine covers throughout the years, and is instantly transported to a magical world. The films at the end of the entrance corridor act to further set the scene and create that fantasy atmosphere which resonates throughout the show. The films contrast the iconicity of the covers with their whimsical and dreamy air.

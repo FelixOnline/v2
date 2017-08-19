@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Grace Rahman rounds up the controversy surrounding Sir Bob’s latest offering
 date: "2014-11-20 21:43:55 +0000"
+
 # Attributes from Felix Online V1
 id: "4919"
 old_path: /music/4919/band-aid-30-fastest-selling-single-of-2014
 aliases:
  - /music/4919/band-aid-30-fastest-selling-single-of-2014
+imported: true
+comments:
+ - Sustain the exceptional job  Lovin it2k16 vc coins httpgraceellaspruzcomptWhyyoushouldonlygetnbamtcoinsthatare2k16ratherthangeneratethemonyourown452016bloghtmgdDPly httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThe tips is amazingly helpfulfifa 17 coins httpwwwwikibingnetcoindexphpqa11195qa_1buynhlcoinstoplaythesport
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sustain the exceptional job  Lovin it2k16 vc coins httpgraceellaspruzcomptWhyyoushouldonlygetnbamtcoinsthatare2k16ratherthangeneratethemonyourown452016bloghtmgdDPly httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThe tips is amazingly helpfulfifa 17 coins httpwwwwikibingnetcoindexphpqa11195qa_1buynhlcoinstoplaythesport
-imported: true
 ---
 
 The first radio play of the rejuvenated Band Aid single, _Do They Know It’s Christmas?_, happened this week, following a first look at the music video on last Saturday’s _X Factor_. This is the fourth time in thirty years that the charity song has been recorded, but the first time the lyrics have been changed. Bono’s controversial line ‘Well tonight thank God it’s them, instead of you’ has been replaced with ‘Well tonight we’re reaching out and touching you’.

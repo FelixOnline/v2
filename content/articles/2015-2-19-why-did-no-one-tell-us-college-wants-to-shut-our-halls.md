@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett investigates the fallout after the revelation that College wants to shut down Weeks Hall
 date: "2015-02-19 23:51:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5275"
 old_path: /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
 aliases:
  - /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
+imported: true
+comments:
+ - Am I the only one that thinks present Weeks residents arent quite as relevant and necessary as outraged people seem to thinkYes they offer a good perspective on what its like to live in Weeks but thats about it I think we can reasonably accurately predict space is nice great to be close but better price than eastside I dont want to live way out in ActonLets not forget that noone is suggesting closing halls midcontract from under present residentschristian louboutin mens shoes canadachristian louboutin httpcanadachristianlouboutinblogspotcomYoure an extremely beneficial website couldnt make it without yanba 2k16 mt sell httpwwwrailaycomrailaynewsviewtopicphpp2761927619The posts is extremely helpfulcs go skins after match httpgroomingtaxicomadsitem13201
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Am I the only one that thinks present Weeks residents arent quite as relevant and necessary as outraged people seem to thinkYes they offer a good perspective on what its like to live in Weeks but thats about it I think we can reasonably accurately predict space is nice great to be close but better price than eastside I dont want to live way out in ActonLets not forget that noone is suggesting closing halls midcontract from under present residentschristian louboutin mens shoes canadachristian louboutin httpcanadachristianlouboutinblogspotcomYoure an extremely beneficial website couldnt make it without yanba 2k16 mt sell httpwwwrailaycomrailaynewsviewtopicphpp2761927619The posts is extremely helpfulcs go skins after match httpgroomingtaxicomadsitem13201
-imported: true
 ---
 
 Residents of Weeks are infuriated by the College decision to close their hall, and have demanded an emergency Union Council meeting to revote on the decision not to campaign against the closure.

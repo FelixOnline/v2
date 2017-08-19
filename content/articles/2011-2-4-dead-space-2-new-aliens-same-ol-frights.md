@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Dead Space 2 can’t scare me, claims Laurence Pope
 date: "2011-02-04 16:55:20 +0000"
+
 # Attributes from Felix Online V1
 id: "755"
 old_path: /games/755/dead-space-2-new-aliens-same-ol-frights
 aliases:
  - /games/755/dead-space-2-new-aliens-same-ol-frights
+imported: true
+comments:
+ - unlock iphone 4iphone 4 unlockclick herecheck ithow to unlock iphone 4click httpvietnambackpackingcomfmemberphp19784Nebritlynehttpkindenetforummemberlistphpmodeviewprofileu318httptangomessageboardnl9794memberphp6268Nebritlynehttpwwwtladorcomforumsmemberlistphpmodeviewprofileu12923httpwwwcigarhustlercomphpBB3memberlistphpmodeviewprofileu740 Well since two days ago she has been getting a popupscam thing popping up while she surfs the net and she is kinda blaming me on something i done to make this happen i told her time and time Again its a scam to make u think u have virus on ur computer and and there trying to make u buy the virus software to remove It And she wondering how to stop this from happening to pop up  _________________ click here how to crochet a hatcrochet hatcrochet afghan patternsfree crochet hat pattern
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - unlock iphone 4iphone 4 unlockclick herecheck ithow to unlock iphone 4click httpvietnambackpackingcomfmemberphp19784Nebritlynehttpkindenetforummemberlistphpmodeviewprofileu318httptangomessageboardnl9794memberphp6268Nebritlynehttpwwwtladorcomforumsmemberlistphpmodeviewprofileu12923httpwwwcigarhustlercomphpBB3memberlistphpmodeviewprofileu740 Well since two days ago she has been getting a popupscam thing popping up while she surfs the net and she is kinda blaming me on something i done to make this happen i told her time and time Again its a scam to make u think u have virus on ur computer and and there trying to make u buy the virus software to remove It And she wondering how to stop this from happening to pop up  _________________ click here how to crochet a hatcrochet hatcrochet afghan patternsfree crochet hat pattern
-imported: true
 ---
 
 In the immortal words of John McClane: [“How can the same shit happen to the same guy twice?”](http://www.imdb.com/title/tt0099423/quotes?qt0457572) In this case the ‘shit’ is another alien infection and the ‘guy’ is everyone’s favourite space engineer, Isaac Clarke (lose a thousand nerd points if you miss the reference).

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Paul Balaji looks at the Moto 360 which the US firm hopes will turn heads this Christmas
 date: "2014-11-24 12:56:51 +0000"
+
 # Attributes from Felix Online V1
 id: "4946"
 old_path: /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
 aliases:
  - /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
+imported: true
+comments:
+ - Your hoetsny is like a beacon
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your hoetsny is like a beacon
-imported: true
 ---
 
 The Moto 360 is one of the first Android Wear devices to launch this year, amongst the LG G Watch and Samsung Gear variants. Sporting a round face and elegant design, it is one of this year’s most highly desired gadgets. At £199 it’s also one of the more expensive, but the combination of Google’s software and Motorola’s hardware make it the smartwatch to buy.

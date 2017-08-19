@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Signs of wear and tear after refurbishment
 date: "2010-10-28 19:55:21 +0100"
+
 # Attributes from Felix Online V1
 id: "282"
 old_path: /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
 aliases:
  - /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
+imported: true
+comments:
+ - Hahaha Alex Kendall let slip that I chair had been broken when I was talking to him the other night but when I said what was that about a broken chair he managed to cover it up by saying oh no we were worried that one MIGHT get broken because theyre quite niceIll have to watch him Sneaky oDoh I wish Id proofread that comment before postingIts a real shame that the venues not been finished to a high enough standard FiveSixEight has the potential to be an awesome bar Itll be like what Eastside couldve been if it looked better was cheaper and had the longest student bar in Londontesting please ignore sorry for spam8f9zAg  urlhttpuycwhxmpnlmvcomuycwhxmpnlmvurl linkhttpkazlxcffrkfjcomkazlxcffrkfjlink httpmvjkmqvapxfecom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hahaha Alex Kendall let slip that I chair had been broken when I was talking to him the other night but when I said what was that about a broken chair he managed to cover it up by saying oh no we were worried that one MIGHT get broken because theyre quite niceIll have to watch him Sneaky oDoh I wish Id proofread that comment before postingIts a real shame that the venues not been finished to a high enough standard FiveSixEight has the potential to be an awesome bar Itll be like what Eastside couldve been if it looked better was cheaper and had the longest student bar in Londontesting please ignore sorry for spam8f9zAg  urlhttpuycwhxmpnlmvcomuycwhxmpnlmvurl linkhttpkazlxcffrkfjcomkazlxcffrkfjlink httpmvjkmqvapxfecom
-imported: true
 ---
 
 For a moment there, it looked like everything was coming together. FiveSixEight, despite problems and delays, opened to a lively first night. Everyone - even the engineers - seemed to be having a good time.

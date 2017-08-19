@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix reports on the extraordinary Council meeting
 date: "2017-01-20 14:49:27 +0000"
+
 # Attributes from Felix Online V1
 id: "6653"
 old_path: /news/6653/union-to-participate-in-tef-submission
 aliases:
  - /news/6653/union-to-participate-in-tef-submission
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 An extraordinary Union council meeting was held on January 10th with the specific purpose of discussing the response the student body and the Union representing them should adopt with respect to the upcoming Teaching Excellence Framework (TEF).

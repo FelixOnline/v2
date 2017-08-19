@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Two of the Games section's finest writers duke it out
 date: "2011-05-12 19:05:57 +0100"
+
 # Attributes from Felix Online V1
 id: "1202"
 old_path: /games/1202/are-video-games-a-waste-of-time
 aliases:
  - /games/1202/are-video-games-a-waste-of-time
+imported: true
+comments:
+ - Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling She describes games as the most productive thing we can do Highly interesting talk by herehttpwwwtedcomtalksviewlangengid799Good talk though chapslikenice article well writtensome people go to imperial from my old schoolbaiNow I feel situpd Thats cleared it up for meCTzbVq  kszifakccvjd
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling She describes games as the most productive thing we can do Highly interesting talk by herehttpwwwtedcomtalksviewlangengid799Good talk though chapslikenice article well writtensome people go to imperial from my old schoolbaiNow I feel situpd Thats cleared it up for meCTzbVq  kszifakccvjd
-imported: true
 ---
 
 _I guess so_ – __Laurence Pope__

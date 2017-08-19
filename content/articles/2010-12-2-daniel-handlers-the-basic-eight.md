@@ -4,16 +4,24 @@ title: >
 subtitle: >
   If you read nothing else this week...
 date: "2010-12-02 20:18:46 +0000"
+
 # Attributes from Felix Online V1
 id: "466"
 old_path: /arts/466/daniel-handlers-the-basic-eight
 aliases:
  - /arts/466/daniel-handlers-the-basic-eight
+imported: true
+comments:
+ - wow cause thats just soo cool wow there is like no description at ALL so glad i came to this ghetto place for information on this book never gonna come here again THANKS FOR NOTHINGLOL Best comment EVER
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - wow cause thats just soo cool wow there is like no description at ALL so glad i came to this ghetto place for information on this book never gonna come here again THANKS FOR NOTHINGLOL Best comment EVER
-imported: true
 ---
 
 Probably best known under pseudonym Lemony Snicket, author of the popular "[Series of Unfortunate Events](http://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events)" books, Handler's debut novel delves into the lives of a group of close-knit friends at a San Francisco high school with razor sharp precision.

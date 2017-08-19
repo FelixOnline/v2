@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Indira Mallik sees protests as the only way to exact change
 date: "2017-01-27 16:22:15 +0000"
+
 # Attributes from Felix Online V1
 id: "6686"
 old_path: /comment/6686/protest-or-stop-complaining-
 aliases:
  - /comment/6686/protest-or-stop-complaining-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As part of the Women’s March millions of people took to the streets across the world on Saturday; it was a galore of pink home-knitted “pussy hats” and witty signs, but did it mean anything? Will it lead to change?

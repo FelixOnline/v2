@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Helen McCrory thrives in this passionate revival of Rattigan’s masterpiece
 date: "2016-06-17 09:30:12 +0100"
+
 # Attributes from Felix Online V1
 id: "6283"
 old_path: /arts/6283/the-deep-blue-sea-at-the-national
 aliases:
  - /arts/6283/the-deep-blue-sea-at-the-national
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This is the frustrating, and tragic tale of a woman called Hester Collyer. She is, as the title of the play suggests, stuck between a newfound lover and her husband. The play is a strange but intriguing one which explores the difficult relationship the trio shares, centred of course around Hester. The husband, a high-ranking judge, makes matters more complicated because of the stigma attached to divorce. This beautiful play was written by the renowned playwright Terence Rattigan, and has its roots in his own difficult personal experiences. Carrie Cracknell’s direction is brilliant and reveals the complex emotions of Hester and those close to her, the performance is  multidimensional, both in its characters, and even in its scenery.

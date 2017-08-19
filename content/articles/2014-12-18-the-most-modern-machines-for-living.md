@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles checks out the Constructing Worlds at the Barbican Centre
 date: "2014-12-18 15:31:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5054"
 old_path: /arts/5054/the-most-modern-machines-for-living
 aliases:
  - /arts/5054/the-most-modern-machines-for-living
+imported: true
+comments:
+ - Keep up the helpful work and generating the crowdcs go skins giveaway httpwwwairitmodulesphpnameJournalfiledisplayjid111
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Keep up the helpful work and generating the crowdcs go skins giveaway httpwwwairitmodulesphpnameJournalfiledisplayjid111
-imported: true
 ---
 
 The relationship between the architect and the camera is symbiotic: as a uniquely modern medium, photography is perfectly suited to capturing the environments in which we live.

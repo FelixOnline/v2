@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We have a new generation of mourners
 date: "2011-11-18 00:32:21 +0000"
+
 # Attributes from Felix Online V1
 id: "1798"
 old_path: /comment/1798/i-want-an-armstice
 aliases:
  - /comment/1798/i-want-an-armstice
+imported: true
+comments:
+ - Je suis de9finitivement fan de ton site ma che8re Ame9lie  Je suis assez presse9e de pouvoir tetser toutes tes petites recettes  Jaurai voulu savoir comment tu as appris e0 parler japonais  en suivant des cours particuliers  ou peuteatre une fois sur place   Ps Je suis curieuse estce que tu connais a quoi correspond le 2707  D Je te remercie en tout cas pour tout ton site continue vraiment cest tout simplement GENIAL  hihiKisuuuu I lived in London during part of the Vietnam War and knew a coulpe of guys whod left the states because their work visas hadnt protected them from being drafted I think even this country was more civilized during the world wars I believe the soldiers who fought in those earlier wars were brave and patriotic but Ive read enough about the causes and conditions that caused them to remain skeptical about government power plays in general Once upon a time in Canada the warriors whose bravery was recognized on Armistice Day grew o
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Je suis de9finitivement fan de ton site ma che8re Ame9lie  Je suis assez presse9e de pouvoir tetser toutes tes petites recettes  Jaurai voulu savoir comment tu as appris e0 parler japonais  en suivant des cours particuliers  ou peuteatre une fois sur place   Ps Je suis curieuse estce que tu connais a quoi correspond le 2707  D Je te remercie en tout cas pour tout ton site continue vraiment cest tout simplement GENIAL  hihiKisuuuu I lived in London during part of the Vietnam War and knew a coulpe of guys whod left the states because their work visas hadnt protected them from being drafted I think even this country was more civilized during the world wars I believe the soldiers who fought in those earlier wars were brave and patriotic but Ive read enough about the causes and conditions that caused them to remain skeptical about government power plays in general Once upon a time in Canada the warriors whose bravery was recognized on Armistice Day grew o
-imported: true
 ---
 
 Last week, we marked the death of millions of soldiers. They had all died in action at some point in the last 93 years, since the start of the First World War. The eleventh day of the eleventh month has been marked in this way for years. In fact, only a handful of people currently alive today were also alive when it was not. You might think that as those who were there in WWI start to die, the seriousness would start to wane, that the idea would start to lose its punch. Even as children we were all acutely aware of the significance but also the distance from us. But have you noticed recently how the tone has changed?

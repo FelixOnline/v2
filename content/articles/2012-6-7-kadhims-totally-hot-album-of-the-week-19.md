@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kindness – World, You Need A Change of Mind – Polydor – 2012
 date: "2012-06-07 22:18:48 +0100"
+
 # Attributes from Felix Online V1
 id: "2537"
 old_path: /music/2537/kadhims-totally-hot-album-of-the-week-19
 aliases:
  - /music/2537/kadhims-totally-hot-album-of-the-week-19
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Some of you may remember 2009. Those who don’t may want to put their thinking caps on for a moment (and maybe lay off the bath salts for a few face-chewing minutes). 2009 was the earth-shattering year in which the painfully mediocre band Ash decided the album was dead. They went on to prove that the album had kicked the bass and gone to the holy record player in the sky by recording a series of singles that, wait for it, they ended up releasing as a compilation that looked, to the untrained eye, suspiciously like an album. I recount to you this tale of hubris and face-plantingly abject failure because I want to provide a good contrast between the dumbest mutha-whats in modern music, and Adam Bainbridge (__Kindness__), who feels like the smartest mutha-fo in modern music.

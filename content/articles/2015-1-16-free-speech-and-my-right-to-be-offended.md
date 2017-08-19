@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Should my reaction depend on whether others find it funny?
 date: "2015-01-16 13:24:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5098"
 old_path: /comment/5098/free-speech-and-my-right-to-be-offended
 aliases:
  - /comment/5098/free-speech-and-my-right-to-be-offended
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Whilst I’m writing this to help provide a Muslim perspective on the recent _Charlie Hedbo_ attacks, I do wonder how necessary that is. After all, is the Muslim perspective on the murder of over a dozen civilians really going to be different to the universal human perspective? Do you, Imperial College students, really need reassurance that your Muslim colleagues in no way condone such actions? Thankfully, I don’t think you do. When you think of ‘Islam’, your personal experiences and interactions with ‘normal Muslims’ at university can help you overcome the imagery of AK-47 laden, freedom-hating bigotry that Fox News or the Daily Mail would have others believe defines this religion. But not everybody has this counterbalance of personal experience to fight off the recent ignorance-fuelled hatred and fear. It’s only natural, therefore, that us UK-based Muslims feel a sense of apprehension when we see the media frame such incidents as a ‘clash of civilizations’ – the liberty loving West vs. the barbarism of Islam. One more step in what seems to be the inexorable path towards making Muslims ‘the other’.

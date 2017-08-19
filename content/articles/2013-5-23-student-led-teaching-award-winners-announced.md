@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Staff awarded for contribution to the student experience
 date: "2013-05-23 22:27:16 +0100"
+
 # Attributes from Felix Online V1
 id: "3618"
 old_path: /news/3618/student-led-teaching-award-winners-announced
 aliases:
  - /news/3618/student-led-teaching-award-winners-announced
+imported: true
+comments:
+ - Classic DougMore info can be found here httpwww3imperialacuknewsandeventspggrpimperialcollegenewssummarynews_235201310349
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Classic DougMore info can be found here httpwww3imperialacuknewsandeventspggrpimperialcollegenewssummarynews_235201310349
-imported: true
 ---
 
 The winners of Imperial College Union’s first Student Academic Choice Awards have been announced at a ceremony on Tuesday 21 May. Over 150 people attended the event.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It's far better than its scatilogical matter may suggest.
 date: "2016-02-26 11:41:30 +0000"
+
 # Attributes from Felix Online V1
 id: "5968"
 old_path: /film/5968/review--the-smuggler
 aliases:
  - /film/5968/review--the-smuggler
+imported: true
+comments:
+ - I enjoy this website  its so usefull and helpfullmadden 17 coins httpbrianmillscommemberblog_post_viewphppostId37363They betterscootercom httpwwwscamadvisercomcheckwebsitebetterscootercom happen to be soo confortableMy good friend will find keep in mind this witty youll want many of us head to rrndividuals are discontinuing to help focus available at these particular remarkable Smart Balance Wheel httpwwwfashionhoverboardcomI agree your opinion Thank you for your post Your post is very goodurlhttpwwwcrestscomhttpwwwcrestsorgurlurlhttpwwwcrestscomanniversary_wedding_double_crestshtmhttpwwwcrestsorganniversary_wedding_double_crestshtmurlurlhttpwwwcrestscomblazon_of_armshtmhttpwwwcrestsorgblazon_of_armshtmurlurlhttpwwwcrestscomcoat_of_armshtmhttpwwwcrestsorgcoat_of_armshtmurlurlhttpwwwcrestscomcrest_giftshtmhttpwwwcrestsorgcrest_giftshtmurlurlhttpwwwcrestscomcrest_or_coat_of
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I enjoy this website  its so usefull and helpfullmadden 17 coins httpbrianmillscommemberblog_post_viewphppostId37363They betterscootercom httpwwwscamadvisercomcheckwebsitebetterscootercom happen to be soo confortableMy good friend will find keep in mind this witty youll want many of us head to rrndividuals are discontinuing to help focus available at these particular remarkable Smart Balance Wheel httpwwwfashionhoverboardcomI agree your opinion Thank you for your post Your post is very goodurlhttpwwwcrestscomhttpwwwcrestsorgurlurlhttpwwwcrestscomanniversary_wedding_double_crestshtmhttpwwwcrestsorganniversary_wedding_double_crestshtmurlurlhttpwwwcrestscomblazon_of_armshtmhttpwwwcrestsorgblazon_of_armshtmurlurlhttpwwwcrestscomcoat_of_armshtmhttpwwwcrestsorgcoat_of_armshtmurlurlhttpwwwcrestscomcrest_giftshtmhttpwwwcrestsorgcrest_giftshtmurlurlhttpwwwcrestscomcrest_or_coat_of
-imported: true
 ---
 
 Making a film about bowel movements is a tough sell. But that hasn’t stopped Tony Mahony and Angus Simpson, the directorial duo behind Australian crime drama _The Smuggler_, who approach the topic with great vision, but a lack of even-handedness. Set against the backdrop of the 1983 America’s Cup, which saw an Australian yachting team breaking American dominance of the race, _The Smuggler_ tells the tale of Ray Jenkins (Tony Mahony), a young man from the back end of nowhere who spends most of his time repairing televisions, being looked after by his mother, and playing football in his local amateur team. A trip to Thailand for the team is funded by shadowy small-town crime boss Pat (John Noble), and Ray is convinced to smuggle heroin back across the border in his stomach, in order to help out with his parents’ financial troubles. However, he is stopped at the last minute by customs, and detained in a hotel, where – rather than face criminal charges – he opts to try and hold his bowels for the next ten days, at the ire of police agent Croft (Hugo Weaving).

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hodgson comes to London with a heartfelt and hilarious story of growing up, betrayal by professional athletes, and redemption.
 date: "2015-11-12 11:34:57 +0000"
+
 # Attributes from Felix Online V1
 id: "5716"
 old_path: /arts/5716/kieran-hodgson-doping-his-way-to-the-top
 aliases:
  - /arts/5716/kieran-hodgson-doping-his-way-to-the-top
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In 2003 a young, frail lad from West Yorkshire had only one idol, the great Lance Armstrong. Inspired by the serene, omnipotent cyclist come lying bastard, Kieran Hodgson is taking the world by storm with his completely honest, unadulterated, dope-free journey. Fun and easy-going, Hodgson’s set is smooth and simple, effortlessly offering his joyous accounts of cycling’s favourite bad guy.

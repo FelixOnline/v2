@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sam Horti talks to the renowned Christian philosopher about his work
 date: "2011-11-03 21:41:50 +0000"
+
 # Attributes from Felix Online V1
 id: "1691"
 old_path: /news/1691/interview-william-lane-craig
 aliases:
  - /news/1691/interview-william-lane-craig
+imported: true
+comments:
+ - SamYour commentary hit the nail on the head Craig is an excellent speaker but definitely not a beacon for rationality or reason Dawkins tries to debunk his philosophy credentials in his recent piece in the Guardian It seems Craig is not much more than a theologian which of course makes him a master of relatively littleGood stuffWhat a good interview I was a little shocked about the reporters commentary it seemd to paint Dr Craigs statements in the worst possible light eg his reference to internal arguments misinterpreting lightly in reference to internal arguments I have to argee that Dr Craig should ideally clarify his points words like faith and lightly furtherI think an aspect of critical reporting missing is to portray even the arguments that we disagree with in the best possible light before proceeding to disagree with themOther than that I have no complaints Keep up the good reportingGood interview  thanksIf anyones interested  people can see
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - SamYour commentary hit the nail on the head Craig is an excellent speaker but definitely not a beacon for rationality or reason Dawkins tries to debunk his philosophy credentials in his recent piece in the Guardian It seems Craig is not much more than a theologian which of course makes him a master of relatively littleGood stuffWhat a good interview I was a little shocked about the reporters commentary it seemd to paint Dr Craigs statements in the worst possible light eg his reference to internal arguments misinterpreting lightly in reference to internal arguments I have to argee that Dr Craig should ideally clarify his points words like faith and lightly furtherI think an aspect of critical reporting missing is to portray even the arguments that we disagree with in the best possible light before proceeding to disagree with themOther than that I have no complaints Keep up the good reportingGood interview  thanksIf anyones interested  people can see
-imported: true
 ---
 
 _Watch the interview in full below – with thanks to [STOIC TV](http://www.stoictv.com/)_

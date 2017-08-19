@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Money will go to St Mary’s Hospital Paediatric Department
 date: "2011-02-27 12:07:10 +0000"
+
 # Attributes from Felix Online V1
 id: "898"
 old_path: /news/898/medic-rag-week-raises-over-20000-
 aliases:
  - /news/898/medic-rag-week-raises-over-20000-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - klb09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "klb09"
 author_name: "Katherine Bettany"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: "http://www.facebook.com/katy.bettany"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week hundreds of Imperial’s medical students raised £23,000 for St Mary’s Hospital Paediatric Department in a series of events as part of their annual RAG week.

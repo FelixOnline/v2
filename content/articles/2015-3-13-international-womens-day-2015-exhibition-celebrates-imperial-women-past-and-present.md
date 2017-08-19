@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Women@Imperial events taking place this week
 date: "2015-03-13 01:20:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5391"
 old_path: /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
 aliases:
  - /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
+imported: true
+comments:
+ - While there have are many notable alumni those who havent achieved such heights many have also played their part My my mother and aunt chemistry I mathematics and daughter biochemistry have been proud to be part of Imperial As have another  6 male members  of our family over 3 generationssale on fitflopsbuy fitflops online australia httpfitflopsaublogspotcomsold out sneakerschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomcheap christian louboutin shoes canadachristian louboutin canada httpcanadachristianlouboutinblogspotcomqi7k2a httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomJust wanted to express Im thankful that i happened upon your internet pagemadden 17 httpithelpdeskbandbhgcomentries1100858232k17coinsallofityoucannotHeh thanks BrianWP33 will no doubt be another pain point since they are working on give the CSS an overhaul doesnt sound like the design will change but the imlaimentpteon of the design mightw
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - While there have are many notable alumni those who havent achieved such heights many have also played their part My my mother and aunt chemistry I mathematics and daughter biochemistry have been proud to be part of Imperial As have another  6 male members  of our family over 3 generationssale on fitflopsbuy fitflops online australia httpfitflopsaublogspotcomsold out sneakerschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomcheap christian louboutin shoes canadachristian louboutin canada httpcanadachristianlouboutinblogspotcomqi7k2a httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomJust wanted to express Im thankful that i happened upon your internet pagemadden 17 httpithelpdeskbandbhgcomentries1100858232k17coinsallofityoucannotHeh thanks BrianWP33 will no doubt be another pain point since they are working on give the CSS an overhaul doesnt sound like the design will change but the imlaimentpteon of the design mightw
-imported: true
 ---
 
 This week, as part of the Women@Imperial project, the College played host to a number of events celebrating past and present female staff and students of Imperial in honour of International Women’s Day.

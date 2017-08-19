@@ -4,16 +4,24 @@ title: >
 subtitle: >
   You should be more worried about Theresa May’s new Investigatory Powers bill
 date: "2015-11-13 14:29:50 +0000"
+
 # Attributes from Felix Online V1
 id: "5724"
 old_path: /comment/5724/your-internet-history-is-up-for-grabs
 aliases:
  - /comment/5724/your-internet-history-is-up-for-grabs
+imported: true
+comments:
+ - I believe this is one of the most vital info for me And i am satisfied studying your article But should commentary on some common issues The site taste is great the articles is truly great  D Good task cheerswholesale new era fitted hats httpwwwtwofangtucnsnapbackhatsHowdy This is my 1st comment here so I just wanted to give a quick shout out and say I truly enjoy reading through your articles Can you recommend any other blogswebsitesforums that deal with the same subjects Thanks for your timedeportivas nike mujer baratas httpwwwpolitica2ceroesesdeportivasnikemujerbaratas4656htmlIf you desire to take a good deal from this piece of writing then you have to apply these methods to your won blogugg prezzo italia httpwwwokatentcomitituggprezzoitalia68htmlhNRGHy httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomOl Luis ptima sopa uma dvida ser que inoizdutrr as pontas mais tenras do funcho s no final sem ferver ia potenciar o sabor do me
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I believe this is one of the most vital info for me And i am satisfied studying your article But should commentary on some common issues The site taste is great the articles is truly great  D Good task cheerswholesale new era fitted hats httpwwwtwofangtucnsnapbackhatsHowdy This is my 1st comment here so I just wanted to give a quick shout out and say I truly enjoy reading through your articles Can you recommend any other blogswebsitesforums that deal with the same subjects Thanks for your timedeportivas nike mujer baratas httpwwwpolitica2ceroesesdeportivasnikemujerbaratas4656htmlIf you desire to take a good deal from this piece of writing then you have to apply these methods to your won blogugg prezzo italia httpwwwokatentcomitituggprezzoitalia68htmlhNRGHy httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomOl Luis ptima sopa uma dvida ser que inoizdutrr as pontas mais tenras do funcho s no final sem ferver ia potenciar o sabor do me
-imported: true
 ---
 
 Since Edward Snowden’s leaks in 2013, many have compared the British state to The Party from George Orwell’s prophetic Nineteen Eighty-Four. The Party seeks power; not to improve the lives of others, but entirely for its own interests. From the transceiving television sets used to monitor the citizens’ thoughtcrime (the act of socially unacceptable thoughts), there are many areas where Orwell’s fiction now overlaps with the reality of 21st century Britain.

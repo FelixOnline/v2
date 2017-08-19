@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Caz Knight goes to her first Fringe Festival and finds out what happens when women wee and how to achieve enlightenment in 8 steps
 date: "2010-09-01 16:08:28 +0100"
+
 # Attributes from Felix Online V1
 id: "155"
 old_path: /arts/155/the-camden-fringe-festival-2010
 aliases:
  - /arts/155/the-camden-fringe-festival-2010
+imported: true
+comments:
+ - vanessa lopez  These pictures are the most beatfiuul and so creative that Ive ever seen Your work is amazing  Im from WeslacoTx  Ive been looking for a photographer ever since I turned 5 mths and now that Im 2wks away from my due date its been so hard I hope one day u decide to open up a studio closer by bkuz there is nothing like that here Luv ur wrk  Celeste Clatterbuck  Hello I am 7 months prganent and really love your pictures I would love to get some pictures done with you I just need to know how much you charge Thank you
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - vanessa lopez  These pictures are the most beatfiuul and so creative that Ive ever seen Your work is amazing  Im from WeslacoTx  Ive been looking for a photographer ever since I turned 5 mths and now that Im 2wks away from my due date its been so hard I hope one day u decide to open up a studio closer by bkuz there is nothing like that here Luv ur wrk  Celeste Clatterbuck  Hello I am 7 months prganent and really love your pictures I would love to get some pictures done with you I just need to know how much you charge Thank you
-imported: true
 ---
 
 The Camden Fringe, you say? Nestled into nine venues dotted around the already eclectic Camden Town, NW1’s answer to the Edinburgh Fringe gives us veteran and fresh artists alike, in what is an August-long month of theatre and comedy.

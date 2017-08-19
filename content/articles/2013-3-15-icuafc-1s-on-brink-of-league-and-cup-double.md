@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Despite dubious musical choices, they seem to be hitting the big times
 date: "2013-03-15 02:05:48 +0000"
+
 # Attributes from Felix Online V1
 id: "3484"
 old_path: /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
 aliases:
  - /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
+imported: true
+comments:
+ - Im imsdrpsee Youve really raised the bar with thatShe really is the most beuafitul little thing Of course I remember that facebook status and how I knew right away haha Im glad I got in on the secret from the beginning cause it turned out to be SUCH a great one I am trying not to think about Felix right now though because I miss her and you so terribly    cant believe next time I hold her she will be so much bigger
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im imsdrpsee Youve really raised the bar with thatShe really is the most beuafitul little thing Of course I remember that facebook status and how I knew right away haha Im glad I got in on the secret from the beginning cause it turned out to be SUCH a great one I am trying not to think about Felix right now though because I miss her and you so terribly    cant believe next time I hold her she will be so much bigger
-imported: true
 ---
 
 After a long season, ICUAFC 1s were hoping to follow in the footsteps of Dante emerging from the Inferno and Purgatory into the long awaited Heaven (minus a Roman poet as a guide and lasting considerably longer than 66 Cantos). The week beginning 25th February was the definition of make or break, with matches against Hertfordshire 2s—placed 2nd in BUCS—and a LUSL cup semi-final against Kings Medic 2s (GKT [TK MAXX]).

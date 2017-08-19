@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The fiasco surrounding the reopened halls continues
 date: "2015-09-11 19:09:48 +0100"
+
 # Attributes from Felix Online V1
 id: "5652"
 old_path: /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
 aliases:
  - /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
+imported: true
+comments:
+ - This is just proof that college hate students Im fed up of being considered a cash cow this is why student satisfaction is so low I will not be donating as an alumniThis really adds insult to injury I didnt think College could do worse This is  on top of my department  chemistry  not caring about me and the staff just being interested in nominating each other for undeserved Presidents Awards Its disgusting frankly Theyre paying some Vice President to get donations Heres an idea treat students like human beingsKnobsThis is even worse than the life sciences restructure neverforget I heard Daggie Malman tried to sue FelixI heard Daggie Mallman sat next to Debra Humphris on a plane and told her she was pretty Wait so this is the trend First neglect the student consent and try to close down the closest yet affordable hallsEverlyn garden halls then trying to close down Weeks hall without any prior noticeor kind of did but union failed to notify students now moving
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is just proof that college hate students Im fed up of being considered a cash cow this is why student satisfaction is so low I will not be donating as an alumniThis really adds insult to injury I didnt think College could do worse This is  on top of my department  chemistry  not caring about me and the staff just being interested in nominating each other for undeserved Presidents Awards Its disgusting frankly Theyre paying some Vice President to get donations Heres an idea treat students like human beingsKnobsThis is even worse than the life sciences restructure neverforget I heard Daggie Malman tried to sue FelixI heard Daggie Mallman sat next to Debra Humphris on a plane and told her she was pretty Wait so this is the trend First neglect the student consent and try to close down the closest yet affordable hallsEverlyn garden halls then trying to close down Weeks hall without any prior noticeor kind of did but union failed to notify students now moving
-imported: true
 ---
 
 _Felix_ has learnt that at least four Hall Seniors, who had been selected for places at Beit and Prince's Gardens, have been assigned accommodation at the newly re-opened Evelyn Gardens halls without their consent.

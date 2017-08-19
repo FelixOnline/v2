@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A Town Called Panic is (almost) indescribably good
 date: "2010-11-11 20:55:02 +0000"
+
 # Attributes from Felix Online V1
 id: "347"
 old_path: /film/347/comedy-from-the-team-who-made-milk-funny
 aliases:
  - /film/347/comedy-from-the-team-who-made-milk-funny
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Having just watched A Town Called Panic, I am employing every ounce of self-control and the limited reserve of dignity in my body and mind to prevent myself from writing this review in full caps-lock. Words alone cannot describe how much I enjoyed this film. Guttural noises would hardly do it justice either. If you only take one thing from this review, if not even this whole newspaper this year, it is that you should see this film.

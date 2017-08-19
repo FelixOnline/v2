@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cue sports club cooks up a storm at national tournaments
 date: "2013-10-04 02:19:44 +0100"
+
 # Attributes from Felix Online V1
 id: "3812"
 old_path: /sport/3812/breaking-bad-icu-snooker--pool-2012-13
 aliases:
  - /sport/3812/breaking-bad-icu-snooker--pool-2012-13
+imported: true
+comments:
+ - Brilliant
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Brilliant
-imported: true
 ---
 
 The 2012/13 season for ICU Snooker and Pool, which brought about the big name change from ICU Snooker, sparked to life with our annual fun-filled Freshers’ Pool Party at Rileys Victoria. Many new stars burst onto the scene including the ‘Shermanator’ (aka Yi Xuan Zhang), for his ambidextrous snooker prowess, and eventual Internal League runner-up and prolific pool player Rob “Rob-ot” Speller.

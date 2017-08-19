@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A call to arms from the LSFP. Shape science policy, shape the world
 date: "2015-11-13 14:39:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5730"
 old_path: /science/5730/what-can-science-policy-do-for-you
 aliases:
  - /science/5730/what-can-science-policy-do-for-you
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In a university populated by scientists, it can be very easy to lose sight of the world outside. Of course, science is important – we know that; we are studying it. But how many people outside of the science bubble really appreciate what science is telling us, and what it can say on some of the big issues that influence our lives?

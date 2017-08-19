@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Comment sections across a broad variety of newspapers all share a common thread. The bulk of their published material will prove emotive for a sizeable portion of its readership...
 date: "2013-11-24 16:06:28 +0000"
+
 # Attributes from Felix Online V1
 id: "4109"
 old_path: /comment/4109/the-role--responsibility-of-comment
 aliases:
  - /comment/4109/the-role--responsibility-of-comment
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Comment sections across a broad variety of newspapers all share a common thread. The bulk of their published material will prove emotive for a sizeable portion of its readership. Individuals may empathise with views expressed in a given article. Others may be offended. On occasion a given issue may catalyse universal approval or (as one has come to appreciate in the past seven days) disavowal of its material. In context of a parochial University community consisting of a spectrum of nationalities, ideals and beliefs (such as Imperial College London) the margins for error are slight. In light of this I wish to briefly examine the boundaries for the Comment section.

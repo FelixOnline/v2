@@ -4,16 +4,22 @@ title: >
 subtitle: >
    Winning isn’t everything, it’s the only thing
 date: "2017-02-10 16:49:55 +0000"
+
 # Attributes from Felix Online V1
 id: "6776"
 old_path: /sport/6776/patriots-leave-it-late-to-secure-historic-win
 aliases:
  - /sport/6776/patriots-leave-it-late-to-secure-historic-win
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Super bowl came about due to a merger agreement between two of the rival American football leagues the AFL (American Football league) and the NFL (National football league). This became official in 1970 when the NFL we all know and love was created. At that time there were only 26 teams, the rest were added as part of expansion programs (there have been talks of an UK based expansion team with 2022 set as the target date). The first Super bowl was played in Los Angeles Memorial Coliseum with the crème de la crème of the NFL and AFL being the Green Bay Packers and Kansas City Chiefs respectively. Under the coaching of the legendary Vince Lombardi the Green Bay Packers won the game. Quarterback Bart Starr was named Super bowl MVP for his dominant 250 yard, two touchdown performance; impressive in those times. The following year the Packers won again against the Oakland Raiders with the Raiders’ line-backers’ coach being John Madden, who has his name attributed to the long-running Madden NFL video game series. The more you know…

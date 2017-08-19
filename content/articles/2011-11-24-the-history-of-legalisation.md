@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dutch citizens to have restrictions placed on smoking activities
 date: "2011-11-24 22:18:17 +0000"
+
 # Attributes from Felix Online V1
 id: "1831"
 old_path: /news/1831/the-history-of-legalisation
 aliases:
  - /news/1831/the-history-of-legalisation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Originally made illegal in this country in 1928 as part of a international drive to rid the world of opium and other such nasties, the legal status of weed in the Britain depends on where it is classified under the 1971 Misuse of Drugs Act. Up until the early part of the last decade, that was Class B, which comes with a maximum 5 year jail term for possession and 14 years for supply and trafficking. However in an attempt to free up police time the government announced the reclassification of cannabis to a Class C drug. According to some reports, 190,000 police hours were saved the following year because of the reclassification. What didn’t happen, though, was the complete or even partial legalisation of Cannabis.

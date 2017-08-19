@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As opposed to those lovely dead people
 date: "2013-04-30 10:29:15 +0100"
+
 # Attributes from Felix Online V1
 id: "3499"
 old_path: /film/3499/the-return-of-the-evil-dead
 aliases:
  - /film/3499/the-return-of-the-evil-dead
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The original Evil Dead was one of the classic video nasties. Made for $350,000 (1000th of the budget of director Sam Raimi’s later film SpiderMan 3), it has become a cult classic and staple of the horror genre. It’s a splatter-filled mess of black comedy, genuine terror and low-budget creepiness. It still scares and combines over-the-top set pieces with wit, strong characters and the all important shock factor; there’s something about the pre-CGI effects that give it a tangible ickiness.

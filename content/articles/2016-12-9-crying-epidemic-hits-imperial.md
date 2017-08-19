@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Students break down as term nears to an end
 date: "2016-12-09 11:54:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6560"
 old_path: /news/6560/crying-epidemic-hits-imperial
 aliases:
  - /news/6560/crying-epidemic-hits-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial students have finally cracked under the pressure of university life, if the South Kensington mass crying events that have been popping up on facebook are anything to go by.

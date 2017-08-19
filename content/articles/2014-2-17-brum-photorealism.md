@@ -4,16 +4,23 @@ title: >
 subtitle: >
   You’d be forgiven for thinking that London is the place to be for everything arts related...
 date: "2014-02-17 19:36:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4402"
 old_path: /arts/4402/brum-photorealism
 aliases:
  - /arts/4402/brum-photorealism
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __What: __Photorealism

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Founded in 1999 by Paul Jonas and Robert Luis, Tru Thoughts independent record label has been managing leading jazz, funk, soul and hip hop artists for the past ten years. Kadhim Shubber gets in a word with Paul Jonas
 date: "2010-02-01 20:48:40 +0000"
+
 # Attributes from Felix Online V1
 id: "69"
 old_path: /music/69/ten-years-of-independence-tru-thoughts
 aliases:
  - /music/69/ten-years-of-independence-tru-thoughts
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What were your aims when you founded Tru Thoughts? What was the label’s raison d’etre?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rhodri Oliver urges you to reject this "miserable little compromise"
 date: "2011-04-24 11:29:03 +0100"
+
 # Attributes from Felix Online V1
 id: "1137"
 old_path: /comment/1137/reject-the-alternative-vote-av-system
 aliases:
  - /comment/1137/reject-the-alternative-vote-av-system
+imported: true
+comments:
+ - This is so preposterous I wont attempt to debunk the lies instead please see this excellent analysis httpgowerswordpresscom20110420isavbetterthanfptp1 Is never a reason not to do something  Just because something is unpopular does not mean it isnt good or at least better than what we have now  The reason few countries use AV is that most skipped that stage and went straight to PR  Which you Tories didnt want  AV however is the preferred method when electing a single candidate for a postion  All three major parties use it to elect their leaders and Imperial uses it technically STV with oen winner which is equivalent to AV to elect Union positions such as the President Deputy President or say SCC Chair 2 Coalitions work well in most European countries and the negotiations and dealings between the parties help to ensure the party represents a cross section of the nations views not just one portion of the electorate  Giving the government a smaller majority is also a go
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - This is so preposterous I wont attempt to debunk the lies instead please see this excellent analysis httpgowerswordpresscom20110420isavbetterthanfptp1 Is never a reason not to do something  Just because something is unpopular does not mean it isnt good or at least better than what we have now  The reason few countries use AV is that most skipped that stage and went straight to PR  Which you Tories didnt want  AV however is the preferred method when electing a single candidate for a postion  All three major parties use it to elect their leaders and Imperial uses it technically STV with oen winner which is equivalent to AV to elect Union positions such as the President Deputy President or say SCC Chair 2 Coalitions work well in most European countries and the negotiations and dealings between the parties help to ensure the party represents a cross section of the nations views not just one portion of the electorate  Giving the government a smaller majority is also a go
-imported: true
 ---
 
 If you want to make Nick Clegg’s day because he is your favourite politician then vote YES to the Alternative Vote (AV). Or you can choose to reject this "miserable little compromise" (to quote Mr Clegg) as the political stitch-up it is.

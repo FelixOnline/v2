@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philip Power is finally leaving the Union after 16 years of involvement at Imperial College London
 date: "2014-10-24 12:37:10 +0100"
+
 # Attributes from Felix Online V1
 id: "4745"
 old_path: /news/4745/a-powerful-man-moves-from-the-union-to-the-blue-cube
 aliases:
  - /news/4745/a-powerful-man-moves-from-the-union-to-the-blue-cube
+imported: true
+comments:
+ - How cliquey can you guys get No one cares about your stupid injokesfit flops on salefitflops on sale australia httpaustraliafitflopsiemillernetchristian louboutin instagramchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomHouston possesses the top point total and scoring defense in MLS The Dynamo means only 10 goals and have absolute posted eight shutouts It reeled off a clubrecord 11game unbeaten 803 streak from April 19 to June 20 The Dynamo started 022 but rebounded with winning strings of three and five matches to take control of first place from Chivas USA under western culture fifa ultimate team on June 20 Thanks to owning the leagues best point total as of June 22 Dominic Kinnear will coach the MLS AllStars versus Everton on July 30fifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How cliquey can you guys get No one cares about your stupid injokesfit flops on salefitflops on sale australia httpaustraliafitflopsiemillernetchristian louboutin instagramchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomHouston possesses the top point total and scoring defense in MLS The Dynamo means only 10 goals and have absolute posted eight shutouts It reeled off a clubrecord 11game unbeaten 803 streak from April 19 to June 20 The Dynamo started 022 but rebounded with winning strings of three and five matches to take control of first place from Chivas USA under western culture fifa ultimate team on June 20 Thanks to owning the leagues best point total as of June 22 Dominic Kinnear will coach the MLS AllStars versus Everton on July 30fifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 Dr Philip Power is finally leaving the Union after 16 years of involvement at Imperial College London, first as an undergraduate, then a postgraduate and finally as a member of staff for Imperial College Union.

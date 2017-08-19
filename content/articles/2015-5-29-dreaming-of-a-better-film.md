@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Disney's Tomorrowland leaves Jack Steadman feeling disappointed
 date: "2015-05-29 10:42:43 +0100"
+
 # Attributes from Felix Online V1
 id: "5583"
 old_path: /film/5583/dreaming-of-a-better-film
 aliases:
  - /film/5583/dreaming-of-a-better-film
+imported: true
+comments:
+ - You make thigns so clear Thanks for taking the time
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You make thigns so clear Thanks for taking the time
-imported: true
 ---
 
 __Director:__ Brad Bird __Screenplay:__ Damon Lindelof, Brad Bird, Jeff Jensen __Cast:__ George Clooney, Hugh Laurie, Britt Robertson, Raffedy Cassidy, Tim McGraw

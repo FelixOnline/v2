@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Big Wedding is a Big piece of shit.
 date: "2013-05-23 21:37:10 +0100"
+
 # Attributes from Felix Online V1
 id: "3602"
 old_path: /film/3602/big-cast-big-names-big-mess-big-failure
 aliases:
  - /film/3602/big-cast-big-names-big-mess-big-failure
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What’s this? Katherine Heigl in yet another underwhelming romantic comedy? Amanda Seyfried as yet another googly-eyed bride-to-be? Robert de Niro in yet another brainless role? Diane Keaton as yet another neurotic old woman who is unlucky in love? Ben Barnes playing yet another charming but empty shell of a role? And is Robin Williams so out of work that he needs to resort to playing a priest for the second time? (Remember License to Wed? It’s best to forget aboutthat one) Such is the dire concept of this horrible mess of an ensemble comedy, a film that boasts having all these hugely talented stars, but one that doesn’t give any of the actors something interesting to work with.

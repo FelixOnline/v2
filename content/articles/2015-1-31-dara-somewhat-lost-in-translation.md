@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles heads to Hindustan for the National Theatre’s new play
 date: "2015-01-31 18:49:34 +0000"
+
 # Attributes from Felix Online V1
 id: "5167"
 old_path: /arts/5167/dara-somewhat-lost-in-translation
 aliases:
  - /arts/5167/dara-somewhat-lost-in-translation
+imported: true
+comments:
+ - fitflops in storesfitflops sale online australia httpwwwaustraliafitflopscomlouboutin wedges canadacheap christian louboutin httpcanadachristianlouboutinblogspotcomlouboutin for mencheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcomurlhttpprednisoneorder20mgcomPrednisoneurl Viagra httpcialis5mg20mgcomurlhttpprednisoneorder20mgcomPrednisone 20 Mgurl Viagra E Cialis httpcialis5mg20mgcomurlhttpprednisoneorder20mgcomPrednisoneurl Generic Viagra httpcialis5mg20mgcomurlhttpprednisoneorder20mgcomBuy Prednisone Without Prescriptionurl Viagra By Post httpcialis5mg20mgcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops in storesfitflops sale online australia httpwwwaustraliafitflopscomlouboutin wedges canadacheap christian louboutin httpcanadachristianlouboutinblogspotcomlouboutin for mencheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcomurlhttpprednisoneorder20mgcomPrednisoneurl Viagra httpcialis5mg20mgcomurlhttpprednisoneorder20mgcomPrednisone 20 Mgurl Viagra E Cialis httpcialis5mg20mgcomurlhttpprednisoneorder20mgcomPrednisoneurl Generic Viagra httpcialis5mg20mgcomurlhttpprednisoneorder20mgcomBuy Prednisone Without Prescriptionurl Viagra By Post httpcialis5mg20mgcom
-imported: true
 ---
 
 The first challenge that presented itself to writer Tanya Ronder and director Nadia Fall, when planning on bringing a production of Pakistani play _Dara_ to the __National Theatre__, was how to tell a story that is a legend in the Indian subcontinent, but largely unknown in the UK? _Dara_, originally written by Pakistani playwright Shahid Nadeem, had an outing in India a couple of years ago, where most are familiar with the struggle between brothers Dara Shikoh and Emperor Aurangzeb for the throne of the Mughal Empire. While some aspects of the play are translated well, notably the set design and performances, on the whole much of the nuance and drama is lost on its journey to the South Bank.

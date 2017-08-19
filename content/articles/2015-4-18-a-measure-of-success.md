@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles applauds the physicality of this Russian production of Measure for Measure
 date: "2015-04-18 08:06:03 +0100"
+
 # Attributes from Felix Online V1
 id: "5466"
 old_path: /arts/5466/a-measure-of-success
 aliases:
  - /arts/5466/a-measure-of-success
+imported: true
+comments:
+ - buy viagra safley httpviagrawithoutdoctorprescriptionnet  viagra without a doctor prescription  viagra 10 mg 4 tablet you cannot reply to topics in this forum viagra without a doctor prescription  viagra 20mg tablets location buy viagra online say wordpresscialis 20 mg 4 tablet posts per day httpcialisoverthecounteratwalmartcom  cialis over the counter at walmart  viagera cialis over the counter at walmart  cialis reviews side effects community order cheap cialisdoes cialis work the first time submitphp httppharmshoponlinecom  generic cialis  cheapest cialis generic generic cialis  cialis morefor_health_professionals cialis 20mg dosage announcements
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - buy viagra safley httpviagrawithoutdoctorprescriptionnet  viagra without a doctor prescription  viagra 10 mg 4 tablet you cannot reply to topics in this forum viagra without a doctor prescription  viagra 20mg tablets location buy viagra online say wordpresscialis 20 mg 4 tablet posts per day httpcialisoverthecounteratwalmartcom  cialis over the counter at walmart  viagera cialis over the counter at walmart  cialis reviews side effects community order cheap cialisdoes cialis work the first time submitphp httppharmshoponlinecom  generic cialis  cheapest cialis generic generic cialis  cialis morefor_health_professionals cialis 20mg dosage announcements
-imported: true
 ---
 
 _Measure for Measure_ is a Problem Play. This is not a reflection on the play’s quality, or the beauty of its verse, but rather an academic classification that has been applied to the Bard’s first Jacobean work. Not quite a tragedy, but retaining too much seriousness and darkness or a comedy, _Measure for Measure_ straddles a middle ground, making it ripe for interpretation and reinvention. And reinvention is precisely what we get with Cheek by Jowl’s version of the play, a collaboration with Moscow’s Pushkin Theatre that transports the rulers from dukes to plutocrats, the time from the Middle Ages to modernity, and the language from English to Russian. Far from ironing out any of the problems inherent within the play, this production revels in the messy, ambiguous nature of Shakespeare’s work.

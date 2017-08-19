@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emiel de Lange reflects on a season of Pierre Boulez at the Barbican
 date: "2015-05-06 12:36:02 +0100"
+
 # Attributes from Felix Online V1
 id: "5495"
 old_path: /music/5495/pli-selon-pli-unravelling-the-genius-of-the-contemporary-with-the-ensemble-intercontemporain
 aliases:
  - /music/5495/pli-selon-pli-unravelling-the-genius-of-the-contemporary-with-the-ensemble-intercontemporain
+imported: true
+comments:
+ - httprunotescloudnsorgabbaskachatnotysoslovamihtml httprunotescloudnsorgcountingcrowscolorblindskachatnotynafortopianohtml httprunotescloudnsorgleonardcohenhallelujahskachatnotydlyafortepianohtmlI enjoy reading through your site Thanks for your timenba 2k16 mt forum httpsarahulaweeblycom2133823458thesimplestwaytoacquirenba2k16coinsaninstantguide
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - km2612
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "km2612"
 author_name: "Kamil McClelland"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httprunotescloudnsorgabbaskachatnotysoslovamihtml httprunotescloudnsorgcountingcrowscolorblindskachatnotynafortopianohtml httprunotescloudnsorgleonardcohenhallelujahskachatnotydlyafortepianohtmlI enjoy reading through your site Thanks for your timenba 2k16 mt forum httpsarahulaweeblycom2133823458thesimplestwaytoacquirenba2k16coinsaninstantguide
-imported: true
 ---
 
 The __Barbican__ brought their _Boulez at 90_ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain. This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.

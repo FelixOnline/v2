@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Coen brothers’ gun standoffs are superb and stylish.
 date: "2011-02-10 20:40:55 +0000"
+
 # Attributes from Felix Online V1
 id: "780"
 old_path: /film/780/true-grit-is-a-force-to-be-reckoned-with
 aliases:
  - /film/780/true-grit-is-a-force-to-be-reckoned-with
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ghc07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ghc07"
 author_name: "Guo Heng Chin"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 True Grit was truly a surprise at the Golden Globes. Not for any record breaking achievement but rather for its surprising lack of recognition. The film was hailed as one of the racehorses set for a slew of gongs during the awards season, but gasp! The Coen brother’s latest western was not even graced with a single nomination at the Globes.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Howitt on the International singing competition to be hosted at Imperial
 date: "2014-11-28 00:46:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4964"
 old_path: /news/4964/imperial-prepare-to-get-pitch-slapped
 aliases:
  - /news/4964/imperial-prepare-to-get-pitch-slapped
+imported: true
+comments:
+ - fifa 14 Ultimate Team is the subsequent version of fifa sections I am a sports nut any sort of kind so those Trending Topics bore me perfect coma Schmids career record in Open Cup play is 1571crdits fut rapidement httpcreditsfutcomSuperb internet site youve gotten going herenba 2k16 mt glitch january httpashburtopdepartcomcoreedusudpusanarticlesoperationbloodhoundupdatescounterstrikeskins160790html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fifa 14 Ultimate Team is the subsequent version of fifa sections I am a sports nut any sort of kind so those Trending Topics bore me perfect coma Schmids career record in Open Cup play is 1571crdits fut rapidement httpcreditsfutcomSuperb internet site youve gotten going herenba 2k16 mt glitch january httpashburtopdepartcomcoreedusudpusanarticlesoperationbloodhoundupdatescounterstrikeskins160790html
-imported: true
 ---
 
 Imperial College A Cappella Society has been chosen to host the UK semi-finals of the International Championship of Collegiate A Cappella (ICCA), presented by Varsity Vocals. The competition, now in its 20th year, was featured in the 2012 film _Pitch Perfect_, which introduced the world to the now widely known ‘Cups’. The sequel has been confirmed for release in 2015.

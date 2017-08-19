@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A squat in SW3 highlighting the London housing crisis is served eviction papers
 date: "2016-03-11 11:23:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6019"
 old_path: /news/6019/squatting-in-the-shadow-of-harrods
 aliases:
  - /news/6019/squatting-in-the-shadow-of-harrods
+imported: true
+comments:
+ - Do you have a good sense of humor urlhttptamamshamoonlivejournalcom3032htmlBlade  Soul GoldurlNo one can do it better than youurlhttpwwwiphonemodcombrforumbnscrashingwhatshouldidot41486htmlsid8db1e31761ebbcb1a5a3c856642c2b15Blade  Soul Power levelingurlchecked present all disguised  data within web server nevertheless absolutely no htaccess document i dont buy it it is crazy much support required the following all i want to accomplish is definitely have the ability to post add ons with blogger hello there jamesi improvedadvanced by starhub cable tv internet connection 60 mbps for you to fiber braodband 100 mbps u find that fiber is definitely more slowly in comparison with cable tv in addition to becos with the hoopla given through fiber created often the switch and located that new robot router likewise could not use not really compatiblebetter to just remain focussed on cable tv broadbandbest rgdshozefaGucci Outlet httpwwwcharopfcomguccioutletht
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: "https://www.youtube.com/watch?v=Y_X-hL5bhKg&feature=youtu.be"
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Do you have a good sense of humor urlhttptamamshamoonlivejournalcom3032htmlBlade  Soul GoldurlNo one can do it better than youurlhttpwwwiphonemodcombrforumbnscrashingwhatshouldidot41486htmlsid8db1e31761ebbcb1a5a3c856642c2b15Blade  Soul Power levelingurlchecked present all disguised  data within web server nevertheless absolutely no htaccess document i dont buy it it is crazy much support required the following all i want to accomplish is definitely have the ability to post add ons with blogger hello there jamesi improvedadvanced by starhub cable tv internet connection 60 mbps for you to fiber braodband 100 mbps u find that fiber is definitely more slowly in comparison with cable tv in addition to becos with the hoopla given through fiber created often the switch and located that new robot router likewise could not use not really compatiblebetter to just remain focussed on cable tv broadbandbest rgdshozefaGucci Outlet httpwwwcharopfcomguccioutletht
-imported: true
 ---
 
 If you think the squat movement is dead, perhaps you should reconsider because there’s one right on our doorstep, at 221 Brompton Road, just a few streets from Harrods.

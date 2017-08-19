@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ahead of the Academy Awards this weekend, we ask whether or not it’s time to pull the plug on gender-segregated acting awards, in favour of a gender-neutral accolade
 date: "2016-02-26 11:39:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5967"
 old_path: /film/5967/equality-at-the-oscars
 aliases:
  - /film/5967/equality-at-the-oscars
+imported: true
+comments:
+ - Incredibly individual pleasant site Enormous info readily available on few clicksCSGO httpwww0523bxxcomcommenthtmlindexphppage1id14791Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usag
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Incredibly individual pleasant site Enormous info readily available on few clicksCSGO httpwww0523bxxcomcommenthtmlindexphppage1id14791Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usag
-imported: true
 ---
 
 The year that saw the first Academy Awards, 1929, also saw two landmarks in the march for equality: in the UK, the 1929 election was the first one in which women under 30 could vote, leading to it being termed the ‘Flapper Election’; and in Canada, five women led a campaign to change the legislature to recognise women as ‘persons’, meaning they could stand for any role in government. In the nine decades since, we have seen revolutionary strides in sexual equality, and yet Hollywood awards remain a region of segregation: when the Academy Awards are broadcast, the acting categories will still be split along gender lines, as they have been since their inception.

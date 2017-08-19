@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There are questions to be answered about Justice Week
 date: "2010-11-25 21:41:45 +0000"
+
 # Attributes from Felix Online V1
 id: "443"
 old_path: /comment/443/justice-is-a-powerful-word-and-it-must-not-be-misused
 aliases:
  - /comment/443/justice-is-a-powerful-word-and-it-must-not-be-misused
+imported: true
+comments:
+ - Honesty cuts both ways Its just always easier to face the honesty of others misdeed rather than face your ownReading this reflective piece gives me hope that one day there will be reconciliation between the great traditions in the middle east As an someone who just chanced on this article it has restored my faith in British EducationI find it difficult to relate to this editorial Noon can deny the countless violations to human rights and infringements on civil liberties that take place in various Muslim countries However as a Muslin in Britain I hear about these all of the time on the media They are constantly emphasised However we rarely hear about the crimes of the democracies and so called upholders of liberal values being put on trial and if we do it is only in passing How many would regard a report on the malicious nature of Israels domestic policy towards it arab population as serious It would be considered a conspiracy theory by the deluded Muslims Islamic society did well by hig
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Honesty cuts both ways Its just always easier to face the honesty of others misdeed rather than face your ownReading this reflective piece gives me hope that one day there will be reconciliation between the great traditions in the middle east As an someone who just chanced on this article it has restored my faith in British EducationI find it difficult to relate to this editorial Noon can deny the countless violations to human rights and infringements on civil liberties that take place in various Muslim countries However as a Muslin in Britain I hear about these all of the time on the media They are constantly emphasised However we rarely hear about the crimes of the democracies and so called upholders of liberal values being put on trial and if we do it is only in passing How many would regard a report on the malicious nature of Israels domestic policy towards it arab population as serious It would be considered a conspiracy theory by the deluded Muslims Islamic society did well by hig
-imported: true
 ---
 
 Justice is a powerful word. It can transcend borders to liberate the wrongly accused, to rescue the vulnerable and to topple governments. If used cynically, however, it can provide a veneer of respectability where it is not deserved.

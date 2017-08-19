@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman reports back from Hollywood
 date: "2015-01-23 17:29:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5134"
 old_path: /film/5134/everything-is-not-awesome
 aliases:
  - /film/5134/everything-is-not-awesome
+imported: true
+comments:
+ - A turnover on downs 5 minutes later the was over and so was the summer season for New england By analyzing how an individual behaves you might be in theory able to calculate their future actionscrdits fut rapidement httpcreditsfutcomWhoa this is a important web pagecs go skins gambling httppostboardnetevent2006I like checking your website Thank younba 2k16 mt database httpmadden15coinsfreeblogbizp158thank so a lota lot for your site it helps a whole lotnba 2k17 vc httpanimalnameblogspost46811sthashMhpwmjirka4WaqAqdpbsI love the info on your site Thanks a lotnfl 17 news httpwwwchurchofchainscomblogspost1043
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A turnover on downs 5 minutes later the was over and so was the summer season for New england By analyzing how an individual behaves you might be in theory able to calculate their future actionscrdits fut rapidement httpcreditsfutcomWhoa this is a important web pagecs go skins gambling httppostboardnetevent2006I like checking your website Thank younba 2k16 mt database httpmadden15coinsfreeblogbizp158thank so a lota lot for your site it helps a whole lotnba 2k17 vc httpanimalnameblogspost46811sthashMhpwmjirka4WaqAqdpbsI love the info on your site Thanks a lotnfl 17 news httpwwwchurchofchainscomblogspost1043
-imported: true
 ---
 
 You might have noticed there’s been a bit of controversy about the Oscars. _The LEGO Movie_ got completely snubbed for Best Animated Feature, and a lot of people got very angry, very, very quickly. The directors (Phil Lord and Chris Miller) responded in their typically wonderful style, with the former posting a picture of an Oscar statuette made of LEGO, and the latter issuing heart-felt thanks to all involved in the film, as well as noting that “everything [was] not awesome.”

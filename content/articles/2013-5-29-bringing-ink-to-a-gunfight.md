@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sanchit Sharma is showing off his brand new tatts...
 date: "2013-05-29 16:12:45 +0100"
+
 # Attributes from Felix Online V1
 id: "3634"
 old_path: /games/3634/bringing-ink-to-a-gunfight
 aliases:
  - /games/3634/bringing-ink-to-a-gunfight
+imported: true
+comments:
+ - Shame we have to put up with Microsofts desperate sclrmbae for timed exclusivity on yet another great looking game but guys as soon you have this available on PC Im gonna be right there on day one  Looks awesomeI know you cant talk about it but Im assuming like so many other MS Studios coproductions Limbo Braid Joe Danger 2 etc this will find its way to PSN sooner or later  wink wink nudge nudge eh    Just saying cos Id probably double dip if and when it doesNo interest in another Xbox at this stage  Those things couldnt be any less reliable if they were made out of tissue paperSon las sorpresas que da el coimprtamoento humanoO son las estadisticas Quie9n sabeNo todos piensan como tfa   esta lista no se corresponde ni de cof1a con la que tfa imaginas que deberia ser
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Shame we have to put up with Microsofts desperate sclrmbae for timed exclusivity on yet another great looking game but guys as soon you have this available on PC Im gonna be right there on day one  Looks awesomeI know you cant talk about it but Im assuming like so many other MS Studios coproductions Limbo Braid Joe Danger 2 etc this will find its way to PSN sooner or later  wink wink nudge nudge eh    Just saying cos Id probably double dip if and when it doesNo interest in another Xbox at this stage  Those things couldnt be any less reliable if they were made out of tissue paperSon las sorpresas que da el coimprtamoento humanoO son las estadisticas Quie9n sabeNo todos piensan como tfa   esta lista no se corresponde ni de cof1a con la que tfa imaginas que deberia ser
-imported: true
 ---
 
 "Hey. You. Don’t you hear the bell? We need to get out of here, and fast. I’m here to help you. Rule number one: Don’t get me killed. Wait, where’s your sword? Stick to the darkness until you find it. Good thing you were out cold, looks like they don’t know you’re alive. Let’s keep it that way. Now come on, we’ve got to save Master Azai!”

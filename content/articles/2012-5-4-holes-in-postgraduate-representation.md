@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Falling through the net as a Masters student
 date: "2012-05-04 00:17:13 +0100"
+
 # Attributes from Felix Online V1
 id: "2419"
 old_path: /comment/2419/holes-in-postgraduate-representation
 aliases:
  - /comment/2419/holes-in-postgraduate-representation
+imported: true
+comments:
+ - Thanks for writing this Vanessa its fantastic to see someone interested in PG Representation If we had more people like you we wouldnt be in the position where over half the senior PG representation positions had nobody standing at first attemptWe did try very hard this year to get people to run for the positions However as they are student representatives there is no way for us to control the numbers and Im sure there are a long list of reasons as to why people didnt stand many of which may illude us at the momentIm sure you yourself wouldve been perfect for our Academic and Welfare Officer Humanities and its unfortunate you couldnt stand as a UG its actually something we are looking into andor moving our election timetable to postgraduates as it is so different to undergraduatesJust as a note on how do the Sabbatical team represent postgrads this is quite recenthttpwwwunionicacukblogs20120420postgraduateeducationinquiryresponseI imagine that given a
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thanks for writing this Vanessa its fantastic to see someone interested in PG Representation If we had more people like you we wouldnt be in the position where over half the senior PG representation positions had nobody standing at first attemptWe did try very hard this year to get people to run for the positions However as they are student representatives there is no way for us to control the numbers and Im sure there are a long list of reasons as to why people didnt stand many of which may illude us at the momentIm sure you yourself wouldve been perfect for our Academic and Welfare Officer Humanities and its unfortunate you couldnt stand as a UG its actually something we are looking into andor moving our election timetable to postgraduates as it is so different to undergraduatesJust as a note on how do the Sabbatical team represent postgrads this is quite recenthttpwwwunionicacukblogs20120420postgraduateeducationinquiryresponseI imagine that given a
-imported: true
 ---
 
 In the recent elections one of the Union’s main concerns was the lack of postgraduate participation in the voting. However, postgraduate representation at Imperial is pretty poor and it is unsurprising that they were feeling a little uninspired to vote. The focus should have been on getting postgraduates to run and thus improving representation in the first place.

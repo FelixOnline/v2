@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the medical side of the popular clubbing drug
 date: "2014-11-10 21:28:48 +0000"
+
 # Attributes from Felix Online V1
 id: "4820"
 old_path: /science/4820/shifting-attitudes-towards-mdma
 aliases:
  - /science/4820/shifting-attitudes-towards-mdma
+imported: true
+comments:
+ - Wow Finally I got a weblog from where I can really take helpful facts concerning my study and knowledgeugg classic tall in rum raisin httpwwwbesimpleitituggclassictallinrumraisin4493htmlThis hotel is a four  5 star choice located right in the business section Baseball used pertaining to being the reason I woke up within morning Rondos contract also makes him a pretty piececrdits fifa gratuit httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wow Finally I got a weblog from where I can really take helpful facts concerning my study and knowledgeugg classic tall in rum raisin httpwwwbesimpleitituggclassictallinrumraisin4493htmlThis hotel is a four  5 star choice located right in the business section Baseball used pertaining to being the reason I woke up within morning Rondos contract also makes him a pretty piececrdits fifa gratuit httpcreditsfutcom
-imported: true
 ---
 
 MDMA, or for you chemists out there 3,4-methylenedioxmethamphetamne, more recognisably referred to as ecstasy is a prevalent and well-known drug. It’s no state secret that a majority of people who are reading this have encountered it - whether that be through occasional to regular recreational use or simply knowing someone who has taken it.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We all know about the infamous ‘ratio’ at Imperial. Is it about the STEM subjects, just Imperial, or a worldwide issue? Matt Proctor and Eoghan J Totten investigate
 date: "2013-01-31 22:43:42 +0000"
+
 # Attributes from Felix Online V1
 id: "3199"
 old_path: /news/3199/looking-into-the-gender-balance
 aliases:
  - /news/3199/looking-into-the-gender-balance
+imported: true
+comments:
+ - This is a very informative piece I think theres certainly some sexism in universities hiring and admissions but for the most part Engineering Girl has it spot on from the day were born were put into pink or blue clothing Boys play with Lego and Meccano and watch Bob the Builder whereas girls get Barbie and toy kitchen setsOutreach aimed at girls would help but itd certainly have to be preAlevel and preferably even preGCSE choices letting young girls know that science is for everybodyHeres a hilarous example of how not to do it httpswwwyoutubecomwatchvg032MPrSjFASeems like that falls under fair comment rather than libel Its clearly stated as his interpretation seems to have been said in good faith and is a reasonable interpretation of current knowledgeI think the main barrier is that many girls dont take the physics alevel and that you generally need this to study engineeringphysics courses This seems to be a national problem and potentially an international proble
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a very informative piece I think theres certainly some sexism in universities hiring and admissions but for the most part Engineering Girl has it spot on from the day were born were put into pink or blue clothing Boys play with Lego and Meccano and watch Bob the Builder whereas girls get Barbie and toy kitchen setsOutreach aimed at girls would help but itd certainly have to be preAlevel and preferably even preGCSE choices letting young girls know that science is for everybodyHeres a hilarous example of how not to do it httpswwwyoutubecomwatchvg032MPrSjFASeems like that falls under fair comment rather than libel Its clearly stated as his interpretation seems to have been said in good faith and is a reasonable interpretation of current knowledgeI think the main barrier is that many girls dont take the physics alevel and that you generally need this to study engineeringphysics courses This seems to be a national problem and potentially an international proble
-imported: true
 ---
 
 Male undergraduates continue to outnumber females by nearly two to one as revealed by the College Strategic Planning Division. Felix tries to make sense of it all.

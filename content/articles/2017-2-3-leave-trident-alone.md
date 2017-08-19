@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Charles Titmuss defends the UK's renewal of (necessarily) scary nuclear weapons
 date: "2017-02-03 15:54:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6713"
 old_path: /comment/6713/leave-trident-alone
 aliases:
  - /comment/6713/leave-trident-alone
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Trident was announced as the UK’s new deterrent back in 1980, and patrols with the missile began in 1994. The renewal of trident was debated in July 2016, to replace the current submarines with the newer Dreadnought Class by 2028. The estimated cost of the upgraded weapons system is around £31 billion.

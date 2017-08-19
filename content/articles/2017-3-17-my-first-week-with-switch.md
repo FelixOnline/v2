@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Switch made the news for its innovation but is it any good? Cale Tilford dishes on its performance
 date: "2017-03-17 17:31:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6919"
 old_path: /games/6919/my-first-week-with-switch
 aliases:
  - /games/6919/my-first-week-with-switch
+imported: true
+comments:
+ - I dont have a clue best madden 17 coins mobile coins supplier httpwwwmaddenstorecomThat makes two of usbuy pokemon go rare pokemon httpwwwpokemonbuxcomLeave me alone albion online gold httpswwwfollowonecomblog3793albioncraftcreatingprocedureandalsoitemsI let myself become a fool dofus touch kamas httpdofustouchthezenwebcomUsingTheNewYearGiftCodeToGetASnowBowMeowInDofusTouch3838199Proud of you Albion Online Power Leveling httprsmoneysellcomchooseupalbionasthesafestplacetobuycheapalbiononlinegold
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I dont have a clue best madden 17 coins mobile coins supplier httpwwwmaddenstorecomThat makes two of usbuy pokemon go rare pokemon httpwwwpokemonbuxcomLeave me alone albion online gold httpswwwfollowonecomblog3793albioncraftcreatingprocedureandalsoitemsI let myself become a fool dofus touch kamas httpdofustouchthezenwebcomUsingTheNewYearGiftCodeToGetASnowBowMeowInDofusTouch3838199Proud of you Albion Online Power Leveling httprsmoneysellcomchooseupalbionasthesafestplacetobuycheapalbiononlinegold
-imported: true
 ---
 
 The first thing I did after unboxing my Nintendo Switch was to lick the game cartridge. Videos of games and tech journalists doing the same went viral during the week of the Switch’s launch after Jeff Gertsmann of Giant Bomb discovered their bitter aftertaste. However, the taste serves a purpose beyond internet virality: Nintendo coats them with a “bittering agent” to stop young children from accidentally swallowing the micro sized games. The Switch certainly isn’t a console for kids. It’s not foldable, small, and easily carriable like the 3DS and it doesn’t follow playful design of the GameCube, Wii, or even Wii U. The console looks and feels like a device built for adults (unless you buy the garish neon colour option).

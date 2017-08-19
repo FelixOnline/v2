@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I spent the first two-and-a-half weeks of August singing. Well, not constantly, but almost. Now, this was not just a very long rave, although I certainly did have a lot of fun. No, this was perfectionist music making with the National Youth Choir (‘NYC’ amongst friends) where singing a note...
 date: "2013-10-04 02:07:59 +0100"
+
 # Attributes from Felix Online V1
 id: "3810"
 old_path: /music/3810/on-tour-with-the-national-youth-choir
 aliases:
  - /music/3810/on-tour-with-the-national-youth-choir
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 I spent the first two-and-a-half weeks of August singing. Well, not constantly, but almost. Now, this was not just a very long rave, although I certainly did have a lot of fun. No, this was perfectionist music making with the National Youth Choir (‘NYC’ amongst friends) where singing a note with the wrong vowel placement was just as bad as singing the wrong note. I have been involved in this organisation for a long time now, but what was special about this course is that it was truly national. During our 19 days together as a choir of about a hundred, we explored York, Londonderry, Belfast, London, Cardiff, Edinburgh and Suffolk, performing in seven concerts.

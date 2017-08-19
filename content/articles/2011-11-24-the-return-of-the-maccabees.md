@@ -4,16 +4,23 @@ title: >
 subtitle: >
   With a highly anticipated third album on its way, Lily Le explains the history of this five man band
 date: "2011-11-24 22:17:34 +0000"
+
 # Attributes from Felix Online V1
 id: "1830"
 old_path: /music/1830/the-return-of-the-maccabees
 aliases:
  - /music/1830/the-return-of-the-maccabees
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Say “__The Maccabees__”. The response from most people, in order of frequency, would probably be a blank look, “is that something to do with the Jews?”, or one of intense gushing adoration.

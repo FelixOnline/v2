@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A packed crowd criticised plans
 date: "2016-12-02 12:30:48 +0000"
+
 # Attributes from Felix Online V1
 id: "6521"
 old_path: /news/6521/public-meeting-to-save-charing-cross-
 aliases:
  - /news/6521/public-meeting-to-save-charing-cross-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A packed public meeting was attended by hundreds of Hammersmith and Fulham residents this week, in support of the campaign to save Charing Cross Hospital.

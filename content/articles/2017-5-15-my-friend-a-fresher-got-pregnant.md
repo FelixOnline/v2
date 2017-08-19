@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I’d never had to think about my views on reproductive rights before
 date: "2017-05-15 17:41:25 +0100"
+
 # Attributes from Felix Online V1
 id: "6967"
 old_path: /features/6967/my-friend-a-fresher-got-pregnant
 aliases:
  - /features/6967/my-friend-a-fresher-got-pregnant
+imported: true
+comments:
+ - This is more like a self absorbed diary entry than a discussion about reproductive rights There is one small paragraph on this poor girls experience with abortion and the rest is the author saying she was naive It may be a three week long drama for you but this girl will carry it with her a hell of a lot longer You have no right to make someone elses misfortune into an article about yourself
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is more like a self absorbed diary entry than a discussion about reproductive rights There is one small paragraph on this poor girls experience with abortion and the rest is the author saying she was naive It may be a three week long drama for you but this girl will carry it with her a hell of a lot longer You have no right to make someone elses misfortune into an article about yourself
-imported: true
 ---
 
 This is a story about a friend (yes, it is actually about a friend). Just like any good story, it starts with a nice (by British standards anyway) spring day with my best friend telling me that she’s pregnant.

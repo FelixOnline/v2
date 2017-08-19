@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The disgruntled left's great fight back
 date: "2011-10-07 10:02:03 +0100"
+
 # Attributes from Felix Online V1
 id: "1482"
 old_path: /politics/1482/americas-tahrir-square
 aliases:
  - /politics/1482/americas-tahrir-square
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You may not have heard about it, but there is currently a mass protest in New York’s financial district. Named [#OccupyWallStreet](http://occupywallst.org/) after the Twitter hashtag, the protest against the banking industry started on September 17 and is scheduled to last until the protesters’ demands are met. Accusations of police brutality, however, have turned #OccupyWallStreet into a spark that is lighting fires of protest across America and Western Europe. So what are the demands of the protesters? How far will the protests spread? And is this the start of a social revolution?

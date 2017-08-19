@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park looks at the top film nominations in each category at the London Film Festival
 date: "2013-09-29 15:55:06 +0100"
+
 # Attributes from Felix Online V1
 id: "3783"
 old_path: /film/3783/57th-bfi-london-film-festival-categories
 aliases:
  - /film/3783/57th-bfi-london-film-festival-categories
+imported: true
+comments:
+ - I wish    it would be more productive than what I did do The blood bank tech misesd and infiltrated the vein which meant I had a rinseback failure so now Im out for eight weeks instead of two rinseback failures are treated like wholeblood draws under their protocolInstead Im sitting at Epoch coffee house and trying to make sense of the last six or seven months of bills that I didnt keep track of at the time I paid them Which for me is worse than a case of the itchI went to tons of links before this what was I thginink  avoiding diary   viagra for sale   cell wall   counterparts   favor getting
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - I wish    it would be more productive than what I did do The blood bank tech misesd and infiltrated the vein which meant I had a rinseback failure so now Im out for eight weeks instead of two rinseback failures are treated like wholeblood draws under their protocolInstead Im sitting at Epoch coffee house and trying to make sense of the last six or seven months of bills that I didnt keep track of at the time I paid them Which for me is worse than a case of the itchI went to tons of links before this what was I thginink  avoiding diary   viagra for sale   cell wall   counterparts   favor getting
-imported: true
 ---
 
 ####  LOVE

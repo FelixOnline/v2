@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on music as a futile interrogation of the state of the world
 date: "2012-02-03 11:20:29 +0000"
+
 # Attributes from Felix Online V1
 id: "2131"
 old_path: /music/2131/no-exit-from-reality
 aliases:
  - /music/2131/no-exit-from-reality
+imported: true
+comments:
+ - The power of music may be exploited as a platform for propaganda or an enticement into action With a decent enough backing track virtually any message may be forced on the nave or subservient listenerYou are right to highlight this as music from war songs to TV ads melodies has often been a meaning to control and influence human behaviorOutstanding third paragraph As regards pop music this genre if possible to define and fence it is better understood in the context of pop culture popular culture or mass culture and the tensions with philosophy Wise You know what youre talking abouDec21    Thanks for helping me to get new thuhgots about computer systems I also hold the belief that certain of the best ways to keep your laptop in best condition is with a hard plastictype case or shell that suits over the top of ones computer A majority of these protective gear are model specific since they are made to fit perfectly within the natural casing You can buy all of them directl
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The power of music may be exploited as a platform for propaganda or an enticement into action With a decent enough backing track virtually any message may be forced on the nave or subservient listenerYou are right to highlight this as music from war songs to TV ads melodies has often been a meaning to control and influence human behaviorOutstanding third paragraph As regards pop music this genre if possible to define and fence it is better understood in the context of pop culture popular culture or mass culture and the tensions with philosophy Wise You know what youre talking abouDec21    Thanks for helping me to get new thuhgots about computer systems I also hold the belief that certain of the best ways to keep your laptop in best condition is with a hard plastictype case or shell that suits over the top of ones computer A majority of these protective gear are model specific since they are made to fit perfectly within the natural casing You can buy all of them directl
-imported: true
 ---
 
 Music, like all art, is a creative outlet addressing two domains: affronting reality and escaping it. The first can be witnessed in the efforts of the punk movement to criticize the values of modern society, or as a means of raising awareness and capital for charitable causes. The second aims to create an alternative reality, an escape from the mundane, numbing the ferocity of practical life.

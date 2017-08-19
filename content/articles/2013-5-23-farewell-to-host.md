@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Magda Czigány, Librarian from 1986-2000, says goodby to HOST.
 date: "2013-05-23 22:17:19 +0100"
+
 # Attributes from Felix Online V1
 id: "3613"
 old_path: /comment/3613/farewell-to-host
 aliases:
  - /comment/3613/farewell-to-host
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I still cherish the memory of the first meeting of the IC Heads of Departments I attended – it was both educational and amusing.. Having received the invitation, my predecessor immediately tried to dissuade me from accepting it; nobody expected the Librarian to discuss College business, shamefully I would be the odd one out among the Heads.

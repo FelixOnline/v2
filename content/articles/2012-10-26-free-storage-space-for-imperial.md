@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial are FINALLY 3rd in a table
 date: "2012-10-26 01:42:21 +0100"
+
 # Attributes from Felix Online V1
 id: "2731"
 old_path: /news/2731/free-storage-space-for-imperial
 aliases:
  - /news/2731/free-storage-space-for-imperial
+imported: true
+comments:
+ - Loving it DJust an fyi Gb stands for Gigabits You should use GB for Gigabytes Great spot mate ChangedNice spot AlexWhy is Imperial placed 3rd and 26th at the same time on the leaderboard Imperial have two email address domains i think thats what its called There is one which is imperialacuk and a shorter one icacuk Annoyingly Dropbox does not see this as the same university so there are two Imperials on the list Im pretty sure icacuk is the least popular one ranking 26th as Im sure more people at Imperial know about the longer domain than this oneDropbox should probably combine the two together so Imperial have the correct number of points
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Loving it DJust an fyi Gb stands for Gigabits You should use GB for Gigabytes Great spot mate ChangedNice spot AlexWhy is Imperial placed 3rd and 26th at the same time on the leaderboard Imperial have two email address domains i think thats what its called There is one which is imperialacuk and a shorter one icacuk Annoyingly Dropbox does not see this as the same university so there are two Imperials on the list Im pretty sure icacuk is the least popular one ranking 26th as Im sure more people at Imperial know about the longer domain than this oneDropbox should probably combine the two together so Imperial have the correct number of points
-imported: true
 ---
 
 Every student at Imperial can get 8GB worth of free storage on the online website Dropbox. This is part of the Dropbox SpaceRace.

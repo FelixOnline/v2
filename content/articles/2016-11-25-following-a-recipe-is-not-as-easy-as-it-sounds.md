@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Follow Andrada as she tries to follow a recipe, takes a two hour detour and resigns to eating store bought cake while waiting for her pie to cook
 date: "2016-11-25 14:40:45 +0000"
+
 # Attributes from Felix Online V1
 id: "6514"
 old_path: /food/6514/following-a-recipe-is-not-as-easy-as-it-sounds
 aliases:
  - /food/6514/following-a-recipe-is-not-as-easy-as-it-sounds
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The most challenging thing for me is to follow a recipe: I rarely do it, as most of the time I only improvise with what I have in the kitchen or what is given to me (thank you, nice people who stopped eating my food and started bringing their own). So imagine me standing in front of a cookbook, trying to understand how things work – some Chemistry labs have less complicated instructions, I swear!

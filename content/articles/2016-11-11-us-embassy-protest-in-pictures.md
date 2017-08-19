@@ -4,16 +4,22 @@ title: >
 subtitle: >
   London reacts to trump
 date: "2016-11-11 13:30:38 +0000"
+
 # Attributes from Felix Online V1
 id: "6418"
 old_path: /news/6418/us-embassy-protest-in-pictures
 aliases:
  - /news/6418/us-embassy-protest-in-pictures
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We went to the US embassy protest that took place on Wednesday. A picture is a thousand words, so get ready for a 9,000 word essay. Images by Izzat Haziq and Liheng Yao.

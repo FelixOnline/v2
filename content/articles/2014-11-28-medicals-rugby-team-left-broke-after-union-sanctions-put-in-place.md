@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett investigates the financial state of the team after the punishments received for smashed coach window on tour
 date: "2014-11-28 00:42:43 +0000"
+
 # Attributes from Felix Online V1
 id: "4962"
 old_path: /news/4962/medicals-rugby-team-left-broke-after-union-sanctions-put-in-place
 aliases:
  - /news/4962/medicals-rugby-team-left-broke-after-union-sanctions-put-in-place
+imported: true
+comments:
+ - THIS IS RIDICULOUS  The commitee have gone completely over the top with sanctions  Stundents are supposed to have a laugh and let their hair down  Utterly disgracefulBoo hoo Im a medic and I think this whole thing shows how pathetic and afraid of responsibility some of us are Even if the union had done nothing at all the medicals team would STILL be bankrupt  because people were idiots and did almost 8k of damage Should every other team including medic teams be forced to pay for a medics rugby mistake  No They did it they suffer the consequences End ofAlso how can the medical captain say with a straight face they dont encourage drinking They required people to bring port to a rugby game They do drinking initiations Weve all been to Reynolds Thats like saying being a student at Imperial doesnt mean you are encouraged to do science Oh no wait you fucking are thats all you fucking do all day longWe are not in nursery any more People fucked up and got caught Blaming the
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - THIS IS RIDICULOUS  The commitee have gone completely over the top with sanctions  Stundents are supposed to have a laugh and let their hair down  Utterly disgracefulBoo hoo Im a medic and I think this whole thing shows how pathetic and afraid of responsibility some of us are Even if the union had done nothing at all the medicals team would STILL be bankrupt  because people were idiots and did almost 8k of damage Should every other team including medic teams be forced to pay for a medics rugby mistake  No They did it they suffer the consequences End ofAlso how can the medical captain say with a straight face they dont encourage drinking They required people to bring port to a rugby game They do drinking initiations Weve all been to Reynolds Thats like saying being a student at Imperial doesnt mean you are encouraged to do science Oh no wait you fucking are thats all you fucking do all day longWe are not in nursery any more People fucked up and got caught Blaming the
-imported: true
 ---
 
 Imperial Medicals Rugby Football Club, one of the rugby teams suspended earlier this term for smashing a coach window, appealed against the sanctions placed against them last week.

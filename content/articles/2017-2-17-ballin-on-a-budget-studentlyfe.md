@@ -4,16 +4,22 @@ title: >
 subtitle: >
   To get yourself a three-course meal for £13, you might have to do away with tipping, and catch the best deals. But when the food is this good, it’s all worth the effort at Percy and Founders in Fitzrovia.
 date: "2017-02-17 18:25:24 +0000"
+
 # Attributes from Felix Online V1
 id: "6806"
 old_path: /food/6806/ballin-on-a-budget-studentlyfe
 aliases:
  - /food/6806/ballin-on-a-budget-studentlyfe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Location, location, location

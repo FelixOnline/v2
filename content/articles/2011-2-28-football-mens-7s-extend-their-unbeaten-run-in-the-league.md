@@ -4,16 +4,24 @@ title: >
 subtitle: >
   IC 7s 3 - 1 St Bart’s 4s
 date: "2011-02-28 21:41:52 +0000"
+
 # Attributes from Felix Online V1
 id: "952"
 old_path: /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
 aliases:
  - /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
+imported: true
+comments:
+ - Hi CharlesI can see your thinking  We aim to have BuildorPro run in FF IE 7 Safari and Chrome and the brewsor that your using the app in will render whatever CSSHTML it understands first for the new CSS3 rules too but you will be able to edit all code directly through the HTMLCSS viewFor IE 6 you can preview your changes and load them in that brewsor for checking as frequently as you like but we havent done any serious testing in terms of runing the app in IE6Thanks for your interest in BuildorJames
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hi CharlesI can see your thinking  We aim to have BuildorPro run in FF IE 7 Safari and Chrome and the brewsor that your using the app in will render whatever CSSHTML it understands first for the new CSS3 rules too but you will be able to edit all code directly through the HTMLCSS viewFor IE 6 you can preview your changes and load them in that brewsor for checking as frequently as you like but we havent done any serious testing in terms of runing the app in IE6Thanks for your interest in BuildorJames
-imported: true
 ---
 
 Imperial 7s travelled to Chislehurst to play St Bart's 4s away on a pitch that was, for lack of a better word, soupy.

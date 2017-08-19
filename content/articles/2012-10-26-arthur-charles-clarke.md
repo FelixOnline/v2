@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about one of his favourite authors
 date: "2012-10-26 02:44:56 +0100"
+
 # Attributes from Felix Online V1
 id: "2755"
 old_path: /books/2755/arthur-charles-clarke
 aliases:
  - /books/2755/arthur-charles-clarke
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s no secret that Arthur C Clarke is one of my favourite authors of all time. Born in 1917 he is often considered, alongside Isaac Asimov and Robert Heinlein, as one of the Big Three authors of Golden Age science fiction.

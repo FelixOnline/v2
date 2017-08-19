@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The sabbs are a financial drain on college and an emotional drain on everyone around them
 date: "2016-06-17 08:56:34 +0100"
+
 # Attributes from Felix Online V1
 id: "6274"
 old_path: /comment/6274/does-anyone-benefit-from-sabblife
 aliases:
  - /comment/6274/does-anyone-benefit-from-sabblife
+imported: true
+comments:
+ - As an entity spanning beyond their year of service sabb culture is bleak So many of them stay stuck in the Imperial College Union circle forever because they cant exist in the real world because there no one cares what theyre doingLove it I feel like juvenile articles like this devalue the Felix Call me a kill joy but I think we can do better I feel like juvenile comments like this devalue the Felix comments section Call me a kill joy but I think we can do better
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - As an entity spanning beyond their year of service sabb culture is bleak So many of them stay stuck in the Imperial College Union circle forever because they cant exist in the real world because there no one cares what theyre doingLove it I feel like juvenile articles like this devalue the Felix Call me a kill joy but I think we can do better I feel like juvenile comments like this devalue the Felix comments section Call me a kill joy but I think we can do better
-imported: true
 ---
 
 Sabbatical officers at every university are the same. They’re all self-important, egotistical, and narcissistic, with an inflated sense of the importance of their role. They enter this multi-generational circle-jerk of sabbs, stroking each other’s egos and sucking each other’s dicks, both literally and metaphorically.

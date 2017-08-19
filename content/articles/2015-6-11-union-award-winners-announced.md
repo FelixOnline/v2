@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Carol Ann Cheah rounds up the recipients of Colours, Fellowships and more
 date: "2015-06-11 22:18:34 +0100"
+
 # Attributes from Felix Online V1
 id: "5614"
 old_path: /news/5614/union-award-winners-announced
 aliases:
  - /news/5614/union-award-winners-announced
+imported: true
+comments:
+ - Thank you This is an terrific websitecs go skins sale httpsmessagediigocommessagenba2k16coinswithhelpfromfamedmakerspikelee4236646page_num00Whats up tidy web site youve got herenba 2k16 mt generator httpqalivecartcom4359232k16mtforsaleonlyfootballonlinegameobtainableIts like you learn my thoughts You seem to grasp so much about this like you wrote the ebook in it or something I think that you simply can do with some  to pressure the message home a bit however other than that this is fantastic blog An excellent read I will certainly be backurlhttpwwwnikeairmaxczcomnike air maxurlGZdrXe  hxacfqklwxyq urlhttpzxcpcnycxkfacomzxcpcnycxkfaurl linkhttpjkjrqztusdvncomjkjrqztusdvnlink httpijqbxmkepvspcomYou have got among the finest websitesfifa 17 coins httpsocialthegiftedelitecomforumtopic7875So revealing look forth to coming backnba 2k17 vc httpglomirublogspost284What sort of work do you do
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you This is an terrific websitecs go skins sale httpsmessagediigocommessagenba2k16coinswithhelpfromfamedmakerspikelee4236646page_num00Whats up tidy web site youve got herenba 2k16 mt generator httpqalivecartcom4359232k16mtforsaleonlyfootballonlinegameobtainableIts like you learn my thoughts You seem to grasp so much about this like you wrote the ebook in it or something I think that you simply can do with some  to pressure the message home a bit however other than that this is fantastic blog An excellent read I will certainly be backurlhttpwwwnikeairmaxczcomnike air maxurlGZdrXe  hxacfqklwxyq urlhttpzxcpcnycxkfacomzxcpcnycxkfaurl linkhttpjkjrqztusdvncomjkjrqztusdvnlink httpijqbxmkepvspcomYou have got among the finest websitesfifa 17 coins httpsocialthegiftedelitecomforumtopic7875So revealing look forth to coming backnba 2k17 vc httpglomirublogspost284What sort of work do you do
-imported: true
 ---
 
 Imperial College Union Council ratified the list of individual Union Award winners at its meeting on Tuesday 8 June, which sees 156 students out of the 310 who were nominated receiving various accolades. The awards recognise those working across the Union, from clubs and societies to representation, with a belief that ‘those who have gone over and above what is expected of them should be recognised.’

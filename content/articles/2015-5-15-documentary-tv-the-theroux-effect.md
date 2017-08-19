@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jonathan Masters finds himself questioning the aims of TV docs
 date: "2015-05-15 12:28:20 +0100"
+
 # Attributes from Felix Online V1
 id: "5531"
 old_path: /tv/5531/documentary-tv-the-theroux-effect
 aliases:
  - /tv/5531/documentary-tv-the-theroux-effect
+imported: true
+comments:
+ - Of the panoply of website Ive pored over this has the most veiytrca
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Of the panoply of website Ive pored over this has the most veiytrca
-imported: true
 ---
 
 Those of you that have a TV Licence, or have had a look at BBC IPlayer recently (much more likely), will have seen that Louis Theroux – the mild mannered, inherently awkward, bespectacled documentarian – has a new series, of which three episodes have already been broadcast early, due to the Clarkson-shaped hole in BBC Two’s Sunday scheduling. My question is, is it anything more than voyeurism or does he have a genuine positive effect?

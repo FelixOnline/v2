@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laugh out loud* at people who upgraded their phones before uni
 date: "2012-10-05 11:44:27 +0100"
+
 # Attributes from Felix Online V1
 id: "2602"
 old_path: /tech/2602/omg-new-smartphones
 aliases:
  - /tech/2602/omg-new-smartphones
+imported: true
+comments:
+ - Yeah  I kinda ran out of space and had to cut it shortiOS6 Apple Maps made news worldwide with levels of fail not seen since the Sega Dreamcast Couldnt be truerThis is just an iPhone 5 review articleLittle to nothing on Android phones
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
- - Yeah  I kinda ran out of space and had to cut it shortiOS6 Apple Maps made news worldwide with levels of fail not seen since the Sega Dreamcast Couldnt be truerThis is just an iPhone 5 review articleLittle to nothing on Android phones
-imported: true
 ---
 
 Unless you’ve been trapped under a rock or on a ton of last minute holidays the last month before freshers’ week, you’ll be aware that a ton of great new smartphones been announced.

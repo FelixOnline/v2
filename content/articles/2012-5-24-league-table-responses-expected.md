@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yet more league table conundrums
 date: "2012-05-24 23:45:41 +0100"
+
 # Attributes from Felix Online V1
 id: "2491"
 old_path: /comment/2491/league-table-responses-expected
 aliases:
  - /comment/2491/league-table-responses-expected
+imported: true
+comments:
+ - Here here I concurGive it to me baby Er her Er her
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Here here I concurGive it to me baby Er her Er her
-imported: true
 ---
 
 League tables yet again come to the fore this week as Imperial College London saw a drop from 10th to 13th place in the Guardian University Guide 2013. These latest results however caused considerably more controversy than previous league table announcements.

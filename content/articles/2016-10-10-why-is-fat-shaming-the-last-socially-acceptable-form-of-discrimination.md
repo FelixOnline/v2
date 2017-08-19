@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tessa Davey discusses the abuses, challenges, and stigmas faced by fat people in our modern, Western society.
 date: "2016-10-10 11:41:31 +0100"
+
 # Attributes from Felix Online V1
 id: "6317"
 old_path: /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
 aliases:
  - /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
+imported: true
+comments:
+ - Without wishing to deny the stigma around weight particularly for women whose appearances are invariably subject to a greater degree of criticism to call it the last socially acceptable form of discrimination seems a touch hyperbolic Likewise the insistence on classifying it as a phobia drawing arguably spurious parallels to the frontiers of LGBT persecutionstill very much an acceptable form of prejudice in some spheres and for which many still risk being disowned by family even death as 2016 so tragically reminded usWhats more other appearance markers are subject to similar criticism Sufferers of adult acne for example are liable to face assumptions about their personal hygiene and no shortage of patronising suggestions as to their skincare routinefor what may in fact be genetic or hormonal Those who dont adequately attempt to cover up spots and scars are regarded as disgusting such is the imageobsessed society in which we live
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Without wishing to deny the stigma around weight particularly for women whose appearances are invariably subject to a greater degree of criticism to call it the last socially acceptable form of discrimination seems a touch hyperbolic Likewise the insistence on classifying it as a phobia drawing arguably spurious parallels to the frontiers of LGBT persecutionstill very much an acceptable form of prejudice in some spheres and for which many still risk being disowned by family even death as 2016 so tragically reminded usWhats more other appearance markers are subject to similar criticism Sufferers of adult acne for example are liable to face assumptions about their personal hygiene and no shortage of patronising suggestions as to their skincare routinefor what may in fact be genetic or hormonal Those who dont adequately attempt to cover up spots and scars are regarded as disgusting such is the imageobsessed society in which we live
-imported: true
 ---
 
 Being fat is seen as the worst thing that a person can be. Fat is often synonymous with lazy, slovenly, unattractive, and unhealthy, and becomes a reason to deny someone any semblance of humanity – fat people aren’t seen as worthy.

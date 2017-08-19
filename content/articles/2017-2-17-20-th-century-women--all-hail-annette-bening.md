@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Mike Mills’ love letter to the women that raised him has its flaws, but its uncanny evocation of shared nostalgia, and exceptional acting talent, make it a heartfelt piece of emotional cinematic drama
 date: "2017-02-17 15:11:18 +0000"
+
 # Attributes from Felix Online V1
 id: "6790"
 old_path: /film/6790/20-th-century-women--all-hail-annette-bening
 aliases:
  - /film/6790/20-th-century-women--all-hail-annette-bening
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As part of the promotional material for 20th Century Women, director Mike Mills’ latest work, there’s a website called ‘My Mother Before Me’, where users can upload pictures of what their mother looked like before they had children. The shots, which are hazy and saturated, each come with a brief description from the child of what their mother was like; what is noticeable, however, is how superficial these descriptors are. They all seem to center around what the mothers did, or how many children they had, or how they looked – few delve into the emotional life of a mother.

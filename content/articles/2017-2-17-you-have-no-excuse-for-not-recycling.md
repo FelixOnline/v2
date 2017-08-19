@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Giulia Costa gives top tips on how to be a better human being
 date: "2017-02-17 14:36:09 +0000"
+
 # Attributes from Felix Online V1
 id: "6782"
 old_path: /comment/6782/you-have-no-excuse-for-not-recycling
 aliases:
  - /comment/6782/you-have-no-excuse-for-not-recycling
+imported: true
+comments:
+ - urlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutpr
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - urlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutprescriptionbuyretinanetwithoutprescriptionbuyretinanetankorurl doxycycline100mgbuycomankor httpcialistadalafillowestpriceneturlhttpwithoutpr
-imported: true
 ---
 
 Have you ever spent a long time staring at the coloured bins wondering where your everything should go? Wondering if someone is judging your bin choice? Well good, because recycling is important.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix finds evidence implicating the Men’s Hockey XI 2’s team in misogynistic behaviour online
 date: "2014-03-07 04:28:58 +0000"
+
 # Attributes from Felix Online V1
 id: "4450"
 old_path: /news/4450/discovering-miso-gine-soc
 aliases:
  - /news/4450/discovering-miso-gine-soc
+imported: true
+comments:
+ - Its a legitimate alternative spelling of bylaw  Have a look at the Unions is you are boredWhats a byelawpublish the material they they did on social media in a way that potentially excludes the female members of hockey  As far as i can see no material was published as the group in question was private and no mention was made regarding either male or female members of the hockey club am i wrongCant believe this made the front page A group of young students tweeting pornstars Dont see anything wrong with that this is just yellow journalismThe ginesoc was apparently inspired by the YouTube feature metric moments 2 Why has the Felix article not even mentioned the misogynistic and stereotypical behaviour of stoic and Felix in publishing those videos I believe that this constitutes a huge double standard in the usually fair and balanced reporting of Felix  the BUCS regulation cited above includes all university publications too If these allegations have any basis in fact then the ent
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its a legitimate alternative spelling of bylaw  Have a look at the Unions is you are boredWhats a byelawpublish the material they they did on social media in a way that potentially excludes the female members of hockey  As far as i can see no material was published as the group in question was private and no mention was made regarding either male or female members of the hockey club am i wrongCant believe this made the front page A group of young students tweeting pornstars Dont see anything wrong with that this is just yellow journalismThe ginesoc was apparently inspired by the YouTube feature metric moments 2 Why has the Felix article not even mentioned the misogynistic and stereotypical behaviour of stoic and Felix in publishing those videos I believe that this constitutes a huge double standard in the usually fair and balanced reporting of Felix  the BUCS regulation cited above includes all university publications too If these allegations have any basis in fact then the ent
-imported: true
 ---
 
 This week Felix discovered the existence of “GineSoc”, the alter-ego of the Imperial Men’s Hockey XI 2’s team. After discovering a certificate of “Gine” last week on a table outside the FiveSixEight (a bar located on Union premises), we carried out further research. Our investigations revealed the existence of an “@ginesoc” twitter feed (now removed), containing an explicit avatar image and a mixture of tweets to pornographic actresses as well as tweets about hockey matches. Included in the twitter feed were an invitation for a porn actress to visit Imperial College Union on a Wednesday night if she “ever want[ed] a good time in London” and a request for a shout out from Select UK Radio to “ginesoc hockey club, listening on the way back home from a big 4-2 win”

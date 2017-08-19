@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle explains his fears after last week’s final that wasn’t
 date: "2014-11-20 21:35:48 +0000"
+
 # Attributes from Felix Online V1
 id: "4916"
 old_path: /sport/4916/has-the-big-four-become-a-big-two
 aliases:
  - /sport/4916/has-the-big-four-become-a-big-two
+imported: true
+comments:
+ - Stupid article Nadal has clearly had injury struggles this year as has Murray as well as fatigue at the WTF Obviously the two guys in the best form have been Djoker and Fed but the fact remains that Nadal is a 14time Grand Slam champion and that can never be taken away from him plus Murray has two Maiors and the Olympic gold medal When all four are in good form they are so far ahead of the rest and they deserve to belong to that elite group however perhaps its still the Big 35 because although Murray is a double Grand Slam champ this year has thrown a lot of doubt into the air regarding his place in that elite group
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Stupid article Nadal has clearly had injury struggles this year as has Murray as well as fatigue at the WTF Obviously the two guys in the best form have been Djoker and Fed but the fact remains that Nadal is a 14time Grand Slam champion and that can never be taken away from him plus Murray has two Maiors and the Olympic gold medal When all four are in good form they are so far ahead of the rest and they deserve to belong to that elite group however perhaps its still the Big 35 because although Murray is a double Grand Slam champ this year has thrown a lot of doubt into the air regarding his place in that elite group
-imported: true
 ---
 
 Last week Novak Djokovic won his third consecutive ATP World Tour Finals title whilst also in the process securing the World Number One ranking for the year. Apart from a minor (and temporary) blip against Japanese player Kei Nishikori in the semi-final, Djokovic swept aside all those in his way with disdain.

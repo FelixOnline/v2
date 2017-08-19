@@ -4,16 +4,24 @@ title: >
 subtitle: >
   First year Computing student Georg Zänker will be sorely missed
 date: "2015-03-13 01:05:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5389"
 old_path: /news/5389/college-in-mourning-after-first-year-student-passes-away
 aliases:
  - /news/5389/college-in-mourning-after-first-year-student-passes-away
+imported: true
+comments:
+ - did he commit suicide is it okay to know what why he diedMaybe you shouldnt ask about this stuff especially after Felix has done our official storyAnd why exactly do you need to know I think Felix has given enough detail to understand what has happened  a talented and well loved student has passed away Whether or not it was suicide it is still a tragedy for his friends and family as well as the department Please save your curiosity and be more sensitive such comments are not very appropriate at a time like thisActually I think it does matter how a student on college property and over whom college had a duty of care came to die Does this sound inappropriate to askObviously the topic should be dealt with very carefully and sensitively but it remains the role of the media to hold those in positions of responsibility to account when someone dies prematurelyI know no more about the incident than this article contains but surely it is important to determine if anything could and should h
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - did he commit suicide is it okay to know what why he diedMaybe you shouldnt ask about this stuff especially after Felix has done our official storyAnd why exactly do you need to know I think Felix has given enough detail to understand what has happened  a talented and well loved student has passed away Whether or not it was suicide it is still a tragedy for his friends and family as well as the department Please save your curiosity and be more sensitive such comments are not very appropriate at a time like thisActually I think it does matter how a student on college property and over whom college had a duty of care came to die Does this sound inappropriate to askObviously the topic should be dealt with very carefully and sensitively but it remains the role of the media to hold those in positions of responsibility to account when someone dies prematurelyI know no more about the incident than this article contains but surely it is important to determine if anything could and should h
-imported: true
 ---
 
 Students across Imperial have come together to mourn the loss of first year student Georg Zänker, 20, who passed away on Saturday.

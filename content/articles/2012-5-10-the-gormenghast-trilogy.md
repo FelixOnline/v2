@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski looks back at Mervyn Peake’s gothic masterpiece
 date: "2012-05-10 19:46:15 +0100"
+
 # Attributes from Felix Online V1
 id: "2435"
 old_path: /books/2435/the-gormenghast-trilogy
 aliases:
  - /books/2435/the-gormenghast-trilogy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 How do I describe a work like Mervyn Peake’s _Gormenghast Trilogy_? The series, by its very nature, seems to resist description. While often classed as fantasy, and while it is clear that Peake has been a massive inspiration to later fantasy authors like China Miéville, I tend to reject this label. The _Gormenghast _books are a truly unique creation, in a genre of their own – I have never read anything else like them.

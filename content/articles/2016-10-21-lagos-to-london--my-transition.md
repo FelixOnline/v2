@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Daniel Ogbonna shares the many highs and lows of adjusting to London culture
 date: "2016-10-21 10:25:51 +0100"
+
 # Attributes from Felix Online V1
 id: "6341"
 old_path: /comment/6341/lagos-to-london--my-transition
 aliases:
  - /comment/6341/lagos-to-london--my-transition
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I was born and raised in Lagos, the most populated city in Nigeria and in Africa as a whole. On September 30th 2014, less than 3 weeks after my 17th birthday, probably the most defining event in my life so far occurred. I moved to London to attend Imperial College.

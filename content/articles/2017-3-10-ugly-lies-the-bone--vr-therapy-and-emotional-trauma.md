@@ -4,16 +4,23 @@ title: >
 subtitle: >
    Ugly Lies the Bone is on at the National Theatre until 6th June. Tickets from £15
 date: "2017-03-10 13:43:51 +0000"
+
 # Attributes from Felix Online V1
 id: "6875"
 old_path: /arts/6875/ugly-lies-the-bone--vr-therapy-and-emotional-trauma
 aliases:
  - /arts/6875/ugly-lies-the-bone--vr-therapy-and-emotional-trauma
+imported: true
+comments:
+ - Bksqkz httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Bksqkz httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
-imported: true
 ---
 
 Ugly Lies the Bone follows the story of Jess, a young woman returning home following 3 tours in Afghanistan, which have left her with severe burns after an IED. Struggling to fit back into her old life in her declining Florida home town, and struggling to cope with her disability and chronic pain, Jess becomes involved in a virtual reality therapy program. The disembodied voice of a therapist guides her through this experience, helping her create new worlds to overcome her pain and frustration.

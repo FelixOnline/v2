@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Butcher takes a look back on his time at Imperial
 date: "2015-06-12 12:36:31 +0100"
+
 # Attributes from Felix Online V1
 id: "5618"
 old_path: /comment/5618/there-is-always-room-for-improvement
 aliases:
  - /comment/5618/there-is-always-room-for-improvement
+imported: true
+comments:
+ - fitflop oasis discountfitflops buy online httpsingaporeasalefitflopsblogspotcomfitflops australia salefitflop sale australia httpwwwaustraliafitflopscomfitflops slippersfitflops discount httpaustraliafitflopsiemillernetcheap birkenstockbirkenstock shoes httpbirkenstockaustraliablogspotcombirkenstocks clearancebirkenstocks clearance httpbirkenstockaustraliablogspotcombuy christian louboutin shoes canadachristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomlouboutin onlinechristian louboutin canada sale httpcanadachristianlouboutinoutletblogspotcomchristian louboutin mens shoes canadachristian louboutin outlet store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes onlinechristian louboutin shoes online httpcanadachristianlouboutinoutletblogspotcomWithin the exercise efficient putt the main ball impressive it on the bottom on the putters facial area Do you really feel a unexciting fe
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop oasis discountfitflops buy online httpsingaporeasalefitflopsblogspotcomfitflops australia salefitflop sale australia httpwwwaustraliafitflopscomfitflops slippersfitflops discount httpaustraliafitflopsiemillernetcheap birkenstockbirkenstock shoes httpbirkenstockaustraliablogspotcombirkenstocks clearancebirkenstocks clearance httpbirkenstockaustraliablogspotcombuy christian louboutin shoes canadachristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomlouboutin onlinechristian louboutin canada sale httpcanadachristianlouboutinoutletblogspotcomchristian louboutin mens shoes canadachristian louboutin outlet store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes onlinechristian louboutin shoes online httpcanadachristianlouboutinoutletblogspotcomWithin the exercise efficient putt the main ball impressive it on the bottom on the putters facial area Do you really feel a unexciting fe
-imported: true
 ---
 
 This week I finished my degree. “Congratulations, you have completed Mech Eng!” said the figurative game graphic as I answered the last question of my presentation. Somehow I managed to do four years of my degree without failing an exam (hopefully anyway, there’s still chance), and probably getting a 2:1 overall. Thanks for that.

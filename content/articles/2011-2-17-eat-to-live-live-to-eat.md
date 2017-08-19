@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Chinhua Yap implores you to enjoy the finer details of food
 date: "2011-02-17 19:37:06 +0000"
+
 # Attributes from Felix Online V1
 id: "821"
 old_path: /food/821/eat-to-live-live-to-eat
 aliases:
  - /food/821/eat-to-live-live-to-eat
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - chy09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "chy09"
 author_name: "Chin Hua Yap"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There are many reasons why we eat, sometimes we eat to fill that rumbling stomach — a purely physiological requirement, but other times, we eat for our hearts and (corny as can be, I know), our souls. Many of us are rather methodical about food, treating food as an invariant, a necessity to tick off the daily list. I’m not saying that it is wrong to have such a pragmatic view about food, but it is rather a shame; it is untapped potential. No, foodies like us are not food snobs. We appreciate food (sometimes obsessively) but we don’t expect everyone to treat food with as much intimacy as we do. It is extremely unfortunate if we are thoughtless about eating though.

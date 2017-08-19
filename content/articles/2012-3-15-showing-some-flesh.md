@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The National Portrait Gallery Freudian slips into something more...
 date: "2012-03-15 19:58:03 +0000"
+
 # Attributes from Felix Online V1
 id: "2353"
 old_path: /arts/2353/showing-some-flesh
 aliases:
  - /arts/2353/showing-some-flesh
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ig711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [_Lucian Freud Protraits _](http://www.npg.org.uk/freudsite/)is a monumental exhibition, revealing the life-long strive of the artist to capture the mystery of human flesh. Freud, from his beginnings one of the greatest artists of the 20th Century, has struggled with his art, learning and challenging himself up to his death last summer at the age of 88. Until then, he had been working closely with the National Portrait Gallery to prepare this exhibition; one of the painting was left unfinished, its striking incompleteness proof of his energy.

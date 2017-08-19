@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Clara Clark Nevola is surprised by the heart of this new bio-drama
 date: "2015-05-29 12:44:22 +0100"
+
 # Attributes from Felix Online V1
 id: "5590"
 old_path: /arts/5590/mcqueen-a-well-cut-piece-of-theatre
 aliases:
  - /arts/5590/mcqueen-a-well-cut-piece-of-theatre
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 From the title to the timing, _McQueen_ at the __St James’ Theatre__ has all the hallmarks of a cheesy opportunistic bio-drama. But despite the tormented genius stereotype it conforms to, James Philip’s play is a brave, moving, and enchanting portrayal of a person’s struggle with mental health.

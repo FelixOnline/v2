@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Is paradise all it's cracked up to be?
 date: "2011-10-20 22:11:22 +0100"
+
 # Attributes from Felix Online V1
 id: "1568"
 old_path: /comment/1568/the-hell-of-heaven
 aliases:
  - /comment/1568/the-hell-of-heaven
+imported: true
+comments:
+ - Your point on the eventual weariness of infinity is something I mulled over for many years Im a Muslim and came to the conclusion that its only valid if what is available for us to do and experience in the hereafter is limited Islam teaches that the Hereafter is enduring and in Heaven your supply is endless and infinite And since there is always something new to do you will never become bored and your heaven will not become hell If you do begin to wonder how could there be so many new things for you to do well if infinity in time exists in the hereafter then its equally logical to have infinity of new experiences and things to do in itI dont know why people must exert themselves to mention virgins in paradise at the first instance of the mention of Islam but I guess whats always on the mind tends to be spoken most P The highlight of Paradise is mentioned as seeing God since I like talking about this a lot Im going to defy the word limit and continue on a new comment D
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Your point on the eventual weariness of infinity is something I mulled over for many years Im a Muslim and came to the conclusion that its only valid if what is available for us to do and experience in the hereafter is limited Islam teaches that the Hereafter is enduring and in Heaven your supply is endless and infinite And since there is always something new to do you will never become bored and your heaven will not become hell If you do begin to wonder how could there be so many new things for you to do well if infinity in time exists in the hereafter then its equally logical to have infinity of new experiences and things to do in itI dont know why people must exert themselves to mention virgins in paradise at the first instance of the mention of Islam but I guess whats always on the mind tends to be spoken most P The highlight of Paradise is mentioned as seeing God since I like talking about this a lot Im going to defy the word limit and continue on a new comment D
-imported: true
 ---
 
 The question of what happens to us after we die is one that has troubled us as a species for thousands of years, and to this day many among us still wrestle daily with our own doubt and confusion over the matter. The posthumously themed wonderings of religious movements and philosophers alike have produced many weird and wonderful ideas filled with fantasy and creativity. The conspicuously man-made nature of the afterlife as displayed in modern religions isn’t something that I feel it would be worthwhile to investigate at great length, mainly because of the fact that it is so palpable that the term “flogging a dead horse” comes to mind. The grubby fingerprints of mankind are present wherever you look.

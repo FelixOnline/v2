@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Time doesn’t heal all wounds
 date: "2017-03-17 17:04:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6909"
 old_path: /tv/6909/jacks-back--samurai-jack
 aliases:
  - /tv/6909/jacks-back--samurai-jack
+imported: true
+comments:
+ - i can find numerous great solutions basically have difficultycheap madden mobile coins buy httpwwwmaddenstorecomCall it evenpokemonbux pokemon go rare pokemon cheap httpwwwpokemonbuxcomI do not have the slightest ideaalbion online gold httpswwwgopipolcomblogs22252272newalbiononlinetrailertheloreofthekeepersnice goingcheap Dofus Touch Kamas httpmicrovoltshackzpunbbhostingcomviewtopicphppid2030This is really a nice placeAlbion Online Gold httpwwwimfaceplatecomalbionupalbionnoticesalbiononlineplayerstobuysafegold
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - i can find numerous great solutions basically have difficultycheap madden mobile coins buy httpwwwmaddenstorecomCall it evenpokemonbux pokemon go rare pokemon cheap httpwwwpokemonbuxcomI do not have the slightest ideaalbion online gold httpswwwgopipolcomblogs22252272newalbiononlinetrailertheloreofthekeepersnice goingcheap Dofus Touch Kamas httpmicrovoltshackzpunbbhostingcomviewtopicphppid2030This is really a nice placeAlbion Online Gold httpwwwimfaceplatecomalbionupalbionnoticesalbiononlineplayerstobuysafegold
-imported: true
 ---
 
 After an 11 year hiatus, cult-classic Samurai Jack makes a long awaited return to our screens. Wandering samurai Jack is still locked in an uphill battle against the demon Aku, and still stuck in a hellish future spawned from him. Genndy Tartakovsky’s aesthetic delight begins in media res, as had become a staple of the show’s original run. An opening monologue helpfully informs us that 50 years have passed since Jack was thrown into an unfamiliar future, and in that time he has not aged. Not physically, at least.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stuart Masson reviews the recent albums by three of his old favourites
 date: "2014-05-09 14:58:10 +0100"
+
 # Attributes from Felix Online V1
 id: "4581"
 old_path: /music/4581/its-like-its-2009-all-over-again
 aliases:
  - /music/4581/its-like-its-2009-all-over-again
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It may have been just five years ago, but 2009 seems like the distant past. I was still in sixth form, and, more importantly for the context of this review, I had fully immersed myself in the wide world of music. The landfill indie of my teenage years had been put to one side, and I was making the most of my discovery that alternative music meant a hell of a lot more than __The Libertines__. It was a great time to be getting into alternative music as well with __Animal Collective__’s_Merriweather Post Pavilion_, __The Flaming Lips’__ brilliant double album _Embryonic_ and __Grizzly Bear__‘s _Veckatemist _all released in 2009. There were also superb debuts from __Japandroids__, __tUnE-yArDs __and, admittedly in 2008, __Titus Andronicus__.

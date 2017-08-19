@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But will it really manage to make the world a safer place?
 date: "2013-12-02 21:57:41 +0000"
+
 # Attributes from Felix Online V1
 id: "4160"
 old_path: /politics/4160/nuclear-agreement-signed-with-iran
 aliases:
  - /politics/4160/nuclear-agreement-signed-with-iran
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 After months of escalating tensions between Iran and the United States, a nuclear deal has finally been signed. After intense negotiations between the P5+1 nations- the Permanent members of the UN Security Council and Germany- and Iran was signed in Geneva. The agreement is one, which manages to ease the pressure on Iran for a six-month interim period. It’s perhaps a small step towards improving understanding between western states and a rather unpredictable nation.

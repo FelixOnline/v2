@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Hewa Khalilifar dresses up as a superhero, and so should you...
 date: "2013-03-01 00:34:43 +0000"
+
 # Attributes from Felix Online V1
 id: "3405"
 old_path: /news/3405/the-marrowthon
 aliases:
  - /news/3405/the-marrowthon
+imported: true
+comments:
+ - To sign up to the National Bone Marrow Register come to our recruitment event FRIDAY 8th MARCH You can come along just for more information or you can sign up on the day you just have to fill in a form and give us some of your spit We send it off to Anthony Nolan and they analyse it and add you to the register its that simple Friday 8th March  8am  2pm Reynolds Building CX campus HammersmithFriday 8th March  10am  6pm Sir Alexander Fleming Building SK campusTo sign up for the fun run go to wwwanthonynolanorglondonmarrowthonor join our Facebook page Imperial MarrowthonLooking forward to seeing you thereTo sign up to the National Bone Marrow Register come to our recruitment event FRIDAY 8th MARCH You can come along just for more information or you can sign up on the day you just have to fill in a form and give us some of your spit We send it off to Anthony Nolan and they analyse it and add you to the register its that simple Friday 8th March  8am  2pm Reynolds B
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - To sign up to the National Bone Marrow Register come to our recruitment event FRIDAY 8th MARCH You can come along just for more information or you can sign up on the day you just have to fill in a form and give us some of your spit We send it off to Anthony Nolan and they analyse it and add you to the register its that simple Friday 8th March  8am  2pm Reynolds Building CX campus HammersmithFriday 8th March  10am  6pm Sir Alexander Fleming Building SK campusTo sign up for the fun run go to wwwanthonynolanorglondonmarrowthonor join our Facebook page Imperial MarrowthonLooking forward to seeing you thereTo sign up to the National Bone Marrow Register come to our recruitment event FRIDAY 8th MARCH You can come along just for more information or you can sign up on the day you just have to fill in a form and give us some of your spit We send it off to Anthony Nolan and they analyse it and add you to the register its that simple Friday 8th March  8am  2pm Reynolds B
-imported: true
 ---
 
 You may have seen the IC Marrow team at Freshers’ Week sporting the characteristic black t-shirt with bold white print. This resonates with the design scheme of Anthony Nolan, a national blood cancer charity, which surprisingly few people seem to have heard of. A big part of Marrow, a society that exists in 40 universities including Imperial, is to raise awareness regarding the work that Anthony Nolan does to match stem cell or bone marrow donors to blood cancer patients. The ultimate aim of Marrow Societies is to raise funds to support the work of Anthony Nolan, and to encourage people to sign up to be on the donor register.

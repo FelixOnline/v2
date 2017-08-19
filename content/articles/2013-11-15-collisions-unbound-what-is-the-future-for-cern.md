@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Currently, experiments at CERN have halted, giving time for maintenance work and a renovation of its equipment to take place. It is set to continue its experiments in 2015, where the energy intensity of its collisions will be increase from 4 trillion electron-volts to 6.5.
 date: "2013-11-15 02:20:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4064"
 old_path: /science/4064/collisions-unbound-what-is-the-future-for-cern-
 aliases:
  - /science/4064/collisions-unbound-what-is-the-future-for-cern-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Currently, experiments at CERN have halted, giving time for maintenance work and a renovation of its equipment to take place. It is set to continue its experiments in 2015, where the energy intensity of its collisions will be increase from 4 trillion electron-volts to 6.5.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Badminton shuttle towards ultimate domination
 date: "2013-01-24 20:57:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3155"
 old_path: /sport/3155/icsm-badminton-still-unbeaten
 aliases:
  - /sport/3155/icsm-badminton-still-unbeaten
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With the highest number of members in the history of the club, it has been one of the most successful years for ICSM Badminton in both team performance and social events. All of our teams have put on their best performance yet with the women’s and mixed doubles’ team currently taking the top spot in their leagues.

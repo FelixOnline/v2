@@ -4,16 +4,23 @@ title: >
 subtitle: >
   FELIX takes a look at their second offering of the year
 date: "2015-10-23 11:51:43 +0100"
+
 # Attributes from Felix Online V1
 id: "5675"
 old_path: /music/5675/beach-houses-latest-is-dream-popfection
 aliases:
  - /music/5675/beach-houses-latest-is-dream-popfection
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s rare to see bands produce such consistently great music, and the few that do offer substantial evolution of their sound over time. Beach House, on the other hand, have released six albums that all sound very similar, each a slight refinement of the one before. Thank Your Lucky Stars is no different in this respect; it’s a continuation of their sound that presents the dream-poppers at their best.

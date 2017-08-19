@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We're not even part of the NUS
 date: "2017-05-12 16:26:59 +0100"
+
 # Attributes from Felix Online V1
 id: "6938"
 old_path: /news/6938/nus-votes-in-new-president--nas-endorses-candidate
 aliases:
  - /news/6938/nus-votes-in-new-president--nas-endorses-candidate
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Nas Andriopoulos ICU President publicly endorsed Tom Harwood for NUS President. The endorsement was given despite the fact that Imperial College Union is not part of the NUS but also despite Andriopoulos’ track record of avoiding any discussion of his political leanings, particularly his stance on Brexit. “As I have said on previous occasions, no member should be compelled to declare their private political beliefs or past votes as a public record.” Though it’s unclear where that leaves students involved in student politics.

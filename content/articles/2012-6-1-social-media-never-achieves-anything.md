@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The world of social media does not have all-encompassing power
 date: "2012-06-01 12:52:29 +0100"
+
 # Attributes from Felix Online V1
 id: "2514"
 old_path: /comment/2514/social-media-never-achieves-anything
 aliases:
  - /comment/2514/social-media-never-achieves-anything
+imported: true
+comments:
+ - LikeWaitWriting to your MP is even lower impact than social media MPs will only listen to you if they know you have a sizable base of people who agree with youAs much as I hate social media myself you fail to understand its power It played a significant role in mobilising Egypts Revolution recently and this is only one example of many The Arab Spring has a lot to owe to this form of communication I dunno that ICToilets appears to have built up a lot of momentum
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LikeWaitWriting to your MP is even lower impact than social media MPs will only listen to you if they know you have a sizable base of people who agree with youAs much as I hate social media myself you fail to understand its power It played a significant role in mobilising Egypts Revolution recently and this is only one example of many The Arab Spring has a lot to owe to this form of communication I dunno that ICToilets appears to have built up a lot of momentum
-imported: true
 ---
 
 I’ve got a problem. A problem with you. And your friends. The whole lot of you, in fact, and the way in which you all spread your ideas using social media. Basically, over the past couple of years social media has quickly evolved from a novel way of keeping in touch into a way for people to share their passions, problems and grievances – and in doing so I’m of the firm belief that it’s become a useless, vapid place. People seem to think they are making a difference when they click the ‘Like’ button – but they are, unfortunately, kidding themselves.

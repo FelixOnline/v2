@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Despite all of the magic on offer, this production of Shakespeare's play fails to really take off
 date: "2011-11-03 21:39:44 +0000"
+
 # Attributes from Felix Online V1
 id: "1689"
 old_path: /arts/1689/nothing-stormy-about-trevor-nunns-tempest
 aliases:
  - /arts/1689/nothing-stormy-about-trevor-nunns-tempest
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Despite evidence pointing to the contrary, the name Ralph Fiennes is not synonymous with that of Lord Voldemort. Fiennes, who made his name at the Royal Shakespeare Company, is in fact a seasoned Shakespearean actor and proves his worth playing Prospero in Trevor Nunn’s production of The Tempest.

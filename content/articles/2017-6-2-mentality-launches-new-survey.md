@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Last survey was conducted two years ago
 date: "2017-06-02 12:46:00 +0100"
+
 # Attributes from Felix Online V1
 id: "6986"
 old_path: /news/6986/mentality-launches-new-survey
 aliases:
  - /news/6986/mentality-launches-new-survey
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two years after its launch, Mentality is conducting another survey to gain insight into stress and mental health at Imperial. The survey will close at the end of June, with results expected to be published by the end of term. According to Mentality chair Ariana Sadr-Hashemi, the previous report focused on getting Imperial-specific statistics on what mental health issues are most prominent in the student body and measuring general attitudes to mental health.

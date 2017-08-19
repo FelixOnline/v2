@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sam Wills' unique brand of comedy has to been seen to be believed
 date: "2013-01-10 22:34:35 +0000"
+
 # Attributes from Felix Online V1
 id: "3088"
 old_path: /arts/3088/not-a-face-for-radio-
 aliases:
  - /arts/3088/not-a-face-for-radio-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Boy with Tape on his Face aka Sam Wills has been causing something of a splash in recent year. From street performances in Covent Garden he has shot up the comedy league tables with hits at the Fringe, the Melbourne Comedy Festival and, in 2011, the Royal Variety Show. His unique brand of comedy has to been seen to be believed.

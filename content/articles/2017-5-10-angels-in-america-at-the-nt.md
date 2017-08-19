@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Tony Kushner's bold play is an "ode to an unbroken world which is coming", the cast and crew make it soar
 date: "2017-05-10 18:57:52 +0100"
+
 # Attributes from Felix Online V1
 id: "6929"
 old_path: /arts/6929/angels-in-america-at-the-nt
 aliases:
  - /arts/6929/angels-in-america-at-the-nt
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “A gay fantasia on national themes” is the label Tony Kushner gave his play_Angels in America_, which is being staged at the National Theatre for the first time since the 90s, and what a fantasia it is.  Grounded in 1980s New York, the action sprawls across reality and delusion, from Salt Lake City to Washington DC, from Antarctica to Heaven, dancing on the edge of utter madness but never stumbling. Tony Kushner’s writing is bold, profound, and urgent with frequent bright sparks of comedic brilliance. Even on the occasions the script spirals into dense segments of over-arch philosophising, this cast and crew make it soar.

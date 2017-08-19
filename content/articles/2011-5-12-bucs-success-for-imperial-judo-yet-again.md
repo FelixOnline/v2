@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Range of medals for Imperial Judo in Sheffield
 date: "2011-05-12 18:19:39 +0100"
+
 # Attributes from Felix Online V1
 id: "1193"
 old_path: /sport/1193/bucs-success-for-imperial-judo-yet-again
 aliases:
  - /sport/1193/bucs-success-for-imperial-judo-yet-again
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
-imported: true
 ---
 
 On Friday the 18th of March Imperial College judo sent their elite squad of Judoka to fight in the British University Championships. On the journey up to Sheffield there were many hungry and thirsty players in the minibus, hoping to make their weight for the upcoming weekend. Thankfully, everyone made it and could relax after a long slog up the country and a rather large meal.

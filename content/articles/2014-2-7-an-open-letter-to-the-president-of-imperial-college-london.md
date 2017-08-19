@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We are writing to you as staff, students and alumni of Imperial College London, as we are concerned that the university endowment fund is investing heavily in fossil fuels.
 date: "2014-02-07 05:11:05 +0000"
+
 # Attributes from Felix Online V1
 id: "4362"
 old_path: /comment/4362/an-open-letter-to-the-president-of-imperial-college-london
 aliases:
  - /comment/4362/an-open-letter-to-the-president-of-imperial-college-london
+imported: true
+comments:
+ - An open letter Yep thats not going to do anything
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - An open letter Yep thats not going to do anything
-imported: true
 ---
 
 An open letter to the President of Imperial College London

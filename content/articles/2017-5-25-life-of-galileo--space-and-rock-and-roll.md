@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A story of literal and figurative revolution
 date: "2017-05-25 12:42:02 +0100"
+
 # Attributes from Felix Online V1
 id: "6978"
 old_path: /arts/6978/life-of-galileo--space-and-rock-and-roll
 aliases:
  - /arts/6978/life-of-galileo--space-and-rock-and-roll
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Director Joe Wright has pulled out all the stops for the Young Vic’s new staging of Bertolt Brecht’s _Life of Galileo_. Under a huge makeshift planetarium dome actors in modern dress hurtle around the circular stage. Brendan Cowell as the titular man never seems to stop, at one moment stabbing apples to illustrate the concept of gravity, and the next bodily spinning Billy Howle playing Andrea, his pupil to demonstrate the rotation of the earth; he never seems to lower his voice beyond a mid-bellow. That it’s energetic cannot be denied, but at times it gets a little too much.

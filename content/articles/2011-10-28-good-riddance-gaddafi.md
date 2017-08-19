@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The only way for Libya to start afresh was with the death of Gaddafi
 date: "2011-10-28 00:31:29 +0100"
+
 # Attributes from Felix Online V1
 id: "1631"
 old_path: /comment/1631/good-riddance-gaddafi
 aliases:
  - /comment/1631/good-riddance-gaddafi
+imported: true
+comments:
+ - LaurenceYou are quite right that in the case of Gaddafi this kind of vigilante justice is probably excusable However most people are not angry about his death but rather about a wider range of Human Rights abuses performed by the NTC and NATO Amongst them is the claim that Gaddafi was raped with a knife shortly before being killed see paragraph 2 httpgoogle7hev and the racist murder of thousands of black Libyans on the grounds that they must be Gaddafi supporters Gaddafi employed mercenaries from subSaharan Africa Certainly the absence of Gaddafi is a good thing but if the current goingson in Libya as alleged by Amnesty International and Human Rights Watch are anything to go by the new Libyan government will be much worse than the previous oneIt seems that most people dont feel it necessary to comment on an article unless they disagree with it For that reason I thought id show my appreciation for your article I dont think I could agree with you any more well doneB
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - LaurenceYou are quite right that in the case of Gaddafi this kind of vigilante justice is probably excusable However most people are not angry about his death but rather about a wider range of Human Rights abuses performed by the NTC and NATO Amongst them is the claim that Gaddafi was raped with a knife shortly before being killed see paragraph 2 httpgoogle7hev and the racist murder of thousands of black Libyans on the grounds that they must be Gaddafi supporters Gaddafi employed mercenaries from subSaharan Africa Certainly the absence of Gaddafi is a good thing but if the current goingson in Libya as alleged by Amnesty International and Human Rights Watch are anything to go by the new Libyan government will be much worse than the previous oneIt seems that most people dont feel it necessary to comment on an article unless they disagree with it For that reason I thought id show my appreciation for your article I dont think I could agree with you any more well doneB
-imported: true
 ---
 
 Unless you’ve been living under a rock, or hiding out in a sewer for the last week, you’ll know that everyone’s favourite Northern African whack job [Muammar Gaddafi is dead](http://www.bbc.co.uk/news/world-africa-12537524). To this I say – good riddance. I shall miss you about as much as I do my ingrown toenail.

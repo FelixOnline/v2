@@ -4,16 +4,23 @@ title: >
 subtitle: >
   North West London hospitals and institutions set to improve local healthcare
 date: "2011-12-01 22:17:59 +0000"
+
 # Attributes from Felix Online V1
 id: "1901"
 old_path: /news/1901/new-academic-health-science-partnership
 aliases:
  - /news/1901/new-academic-health-science-partnership
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College London is establishing ties with numerous healthcare providers in North West London including approximately eleven NHS Trust hospitals and institutions. The new Academic Health Science Partnership (AHSP), to be launched in April 2012, aims to improve the health and care of the local population of 1.9 million people.

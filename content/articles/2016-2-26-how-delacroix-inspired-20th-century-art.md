@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The National Gallery highlights the old masters’ influence on Impressionists
 date: "2016-02-26 11:58:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5978"
 old_path: /arts/5978/how-delacroix-inspired-20th-century-art
 aliases:
  - /arts/5978/how-delacroix-inspired-20th-century-art
+imported: true
+comments:
+ - say thanks to so mucha lot for your website it aids a lotcsgo skins are black httpblog1deZenobiaRuth3746935TheinfothatyouneedtoknowaboutTomClancyA1AFstheDivisionhtml
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - say thanks to so mucha lot for your website it aids a lotcsgo skins are black httpblog1deZenobiaRuth3746935TheinfothatyouneedtoknowaboutTomClancyA1AFstheDivisionhtml
-imported: true
 ---
 
 Most would not expect the last painter of the grand style to be one of the first modern artists, and so it is quite daring and unique for an exhibition to make such a statement. _Delacroix and the Rise of Modern Art_ sheds light on Delacroix’s overlooked role as being an early modern revolutionary in both his individual style and the influence he had on succeeding modern masters.

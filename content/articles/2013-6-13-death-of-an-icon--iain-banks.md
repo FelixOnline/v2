@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Noted author dies of cancer
 date: "2013-06-13 22:33:33 +0100"
+
 # Attributes from Felix Online V1
 id: "3678"
 old_path: /books/3678/death-of-an-icon--iain-banks-
 aliases:
  - /books/3678/death-of-an-icon--iain-banks-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Noted author Iain Banks has died aged 59. In a message released on Sunday, June 9, his wife said: “Iain died in the early hours this morning. His death was calm and without pain.”

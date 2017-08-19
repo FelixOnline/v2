@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kadhim Shubber interrogates KABLAAM headliner on physics, metaphysics and physicality
 date: "2011-11-03 20:48:27 +0000"
+
 # Attributes from Felix Online V1
 id: "1674"
 old_path: /music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop
 aliases:
  - /music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop
+imported: true
+comments:
+ - The reason this interview didnt come off is that it was rushed and sent via email as Ive already admitted a while ago on Twitter httpstwittercomkadhimshubberstatus133248933429395456 It was meant as a bit of irreverent fun to promote a music nightI think you should have researched more about Mikill Pane before interviewing him the lack of knowledge shows here
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - The reason this interview didnt come off is that it was rushed and sent via email as Ive already admitted a while ago on Twitter httpstwittercomkadhimshubberstatus133248933429395456 It was meant as a bit of irreverent fun to promote a music nightI think you should have researched more about Mikill Pane before interviewing him the lack of knowledge shows here
-imported: true
 ---
 
 __Kadhim Shubber: Your website says you’re “non-existent”; what happened, can we help?__

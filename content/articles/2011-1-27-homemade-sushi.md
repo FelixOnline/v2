@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Source, prepare and make your own sushi, made easy.
 date: "2011-01-27 20:31:56 +0000"
+
 # Attributes from Felix Online V1
 id: "696"
 old_path: /food/696/homemade-sushi
 aliases:
  - /food/696/homemade-sushi
+imported: true
+comments:
+ - Beautiful  And thank you for letting pelpoe know that Sushi is NOT the fish part but the vinegared rice  If you are eating the raw fish only thats called Sashimi  Sashimi on top of sushi rice is called Nigiri Sushi nigiri  shaped by hand  We have other forms of Sushis off course  like Maki Sushi rolls Nama Chirashi Sushi raw fish topped on bowl sushi ricenama  raw chirashi  scattered and Chirashi Sushi sushi rice topped with things other than raw fishtoppings depend on local customPattern LOGO Longchamp Xiang Ma has not been lowkey and accurate giivng widely away from the big create LOGO lawlessness people indeed memorialize Longchamp folding handbag concept are dumplings package deal of wellliked as well as paying duty to the extinct of Michaepopular the seal buttons Longchamp pirated in the sell there is no compared to hundreds of thousands of brands the essential to devote a scarcely any thousand dollars devise have to own a Longchamp ba
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Beautiful  And thank you for letting pelpoe know that Sushi is NOT the fish part but the vinegared rice  If you are eating the raw fish only thats called Sashimi  Sashimi on top of sushi rice is called Nigiri Sushi nigiri  shaped by hand  We have other forms of Sushis off course  like Maki Sushi rolls Nama Chirashi Sushi raw fish topped on bowl sushi ricenama  raw chirashi  scattered and Chirashi Sushi sushi rice topped with things other than raw fishtoppings depend on local customPattern LOGO Longchamp Xiang Ma has not been lowkey and accurate giivng widely away from the big create LOGO lawlessness people indeed memorialize Longchamp folding handbag concept are dumplings package deal of wellliked as well as paying duty to the extinct of Michaepopular the seal buttons Longchamp pirated in the sell there is no compared to hundreds of thousands of brands the essential to devote a scarcely any thousand dollars devise have to own a Longchamp ba
-imported: true
 ---
 
 Japanese food is widely associated with expensive prices and not a lot of food. However that doesn’t always have to be the case. All you need to do is equip yourself with a tube map and a willingness to travel.

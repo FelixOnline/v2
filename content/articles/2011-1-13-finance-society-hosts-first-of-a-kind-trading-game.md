@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Young traders from across the country gather at Imperial
 date: "2011-01-13 19:28:17 +0000"
+
 # Attributes from Felix Online V1
 id: "565"
 old_path: /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
 aliases:
  - /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 On the 29th of November, teams from several universities from all over the UK competed in a never before seen trading simulation. The trading game held at Imperial was part of the national UK Investment Banking Series, a competition initiated in 2010 by the Imperial College Finance Society (ICFS) which has proven to be a great success.

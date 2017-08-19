@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We pick so you won't have to
 date: "2017-01-13 14:37:40 +0000"
+
 # Attributes from Felix Online V1
 id: "6645"
 old_path: /film/6645/spring-term-picks--felixs-film-editors-let-you-know-their-top-films-to-look-out-for-
 aliases:
  - /film/6645/spring-term-picks--felixs-film-editors-let-you-know-their-top-films-to-look-out-for-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Christine | Released 27th January

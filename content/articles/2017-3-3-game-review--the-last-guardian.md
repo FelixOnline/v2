@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Last Guardian is out on the Playstation 4
 date: "2017-03-03 15:54:30 +0000"
+
 # Attributes from Felix Online V1
 id: "6851"
 old_path: /games/6851/game-review--the-last-guardian
 aliases:
  - /games/6851/game-review--the-last-guardian
+imported: true
+comments:
+ - I recently stumbled on your lovely website frome Facebook I did the sight word twister with my little ones I homeschool them and we love fun new ideas to try Thank you for sharing your crtetiviay Happy birthday
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I recently stumbled on your lovely website frome Facebook I did the sight word twister with my little ones I homeschool them and we love fun new ideas to try Thank you for sharing your crtetiviay Happy birthday
-imported: true
 ---
 
 This is, without a doubt, a truly phenomenal game. Created by the minds over at genDESIGN (previously Team ICO), it bears a striking resemblance to both of their previous games, Ico and Shadow of the Colossus. In Ico you played a boy guiding a helpless young girl through a castle in an attempt to escape, while Shadow of the Colossus tasks you with finding and killing 16 monstrous beasts. Despite being so different, the two games seem intrinsically linked and The Last Guardian seems to be a marriage of the two, as you partner with a massive beast to escape a ruined castle.

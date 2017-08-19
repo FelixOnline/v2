@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Paul Beaumont makes the case for altering the Union Constituion
 date: "2012-10-18 21:14:31 +0100"
+
 # Attributes from Felix Online V1
 id: "2695"
 old_path: /comment/2695/changing-the-rules-why-bother
 aliases:
  - /comment/2695/changing-the-rules-why-bother
+imported: true
+comments:
+ - Totally missing the point that virtually noone outside the SU clique cares All the overwhelming majority want from their Student Union which is demonstrated by the dire turnout year after year is a live and let live attitude and maybe an affordable drink in a pleasant atmosphereThey get neitherBoth Pres candidates promise to abolish entry fee Entry fee still existsTurnout in elections for the ubiquitous Officer roles is regularly less than 5No easing of antialcohol policies Just a proliferation of signage telling us how old we need to be to buy it568 starts closing the shutters an hour before closing time  on the busiest nights of the week1 person serving in the Old Union Bar on the rare occasions its openNo option for smokers to buy tobacco in the evening at their student union Unfortunate given reentry which was meant to be abolished see aboveForgive us if we dont get excited about totally inconsequential changes to the constitutionIm sorry you f
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Totally missing the point that virtually noone outside the SU clique cares All the overwhelming majority want from their Student Union which is demonstrated by the dire turnout year after year is a live and let live attitude and maybe an affordable drink in a pleasant atmosphereThey get neitherBoth Pres candidates promise to abolish entry fee Entry fee still existsTurnout in elections for the ubiquitous Officer roles is regularly less than 5No easing of antialcohol policies Just a proliferation of signage telling us how old we need to be to buy it568 starts closing the shutters an hour before closing time  on the busiest nights of the week1 person serving in the Old Union Bar on the rare occasions its openNo option for smokers to buy tobacco in the evening at their student union Unfortunate given reentry which was meant to be abolished see aboveForgive us if we dont get excited about totally inconsequential changes to the constitutionIm sorry you f
-imported: true
 ---
 
 I completely accept that few will care. And, I completely accept, that, at the minute, the changes will affect very few people. Changing the Union’s Constitution is important though – and, as well as explaining why I want to do it, I’ll try and explain what needs changing, a little briefer than the four thousand word ‘guide to the twenty-thousand-word constitution’ I’m proposing.

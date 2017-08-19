@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Their slots had already been cancelled twice in three months without notice
 date: "2016-03-11 11:20:03 +0000"
+
 # Attributes from Felix Online V1
 id: "6017"
 old_path: /news/6017/basketball-team-told-by-ethos-theyre-not-a-commercial-asset
 aliases:
  - /news/6017/basketball-team-told-by-ethos-theyre-not-a-commercial-asset
+imported: true
+comments:
+ - Ill take care of iturlhttpwwwneighbour123comblogshowalbiononlinehandletradeandcraftingAlbion Online SilverurlWhere were weurlhttpmilkdevcomforumviewtopicphpf3t37805Buy Blade And Soul GoldurlWow cuz this is excellent work Congrats and keep it upnba 2k16 mt free httpneedhelporg271812k16coinsallmunicipalaffairshandedovertoyouLori I love these simple summer dishes with BIG flavor Cute skewers too alhambra ring mother of pearl replica urlhttpwwwvancleefalhambracomcheapfakevintagealhambraringdiamondvcara40900p333htmlalhambra ring mother of pearl replicaurlThanks a lot This is definitely an impressive websiteNBA 2K17 httpfujibabacomennode35592
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ill take care of iturlhttpwwwneighbour123comblogshowalbiononlinehandletradeandcraftingAlbion Online SilverurlWhere were weurlhttpmilkdevcomforumviewtopicphpf3t37805Buy Blade And Soul GoldurlWow cuz this is excellent work Congrats and keep it upnba 2k16 mt free httpneedhelporg271812k16coinsallmunicipalaffairshandedovertoyouLori I love these simple summer dishes with BIG flavor Cute skewers too alhambra ring mother of pearl replica urlhttpwwwvancleefalhambracomcheapfakevintagealhambraringdiamondvcara40900p333htmlalhambra ring mother of pearl replicaurlThanks a lot This is definitely an impressive websiteNBA 2K17 httpfujibabacomennode35592
-imported: true
 ---
 
 Last weekend Imperial’s 1st Basketball team were told as they arrived for a tournament they had organised that their court booking had been given away to a birthday party.

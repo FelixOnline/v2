@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Chaos and noise, as Holy Fuck dominate the Electric Ballroom
 date: "2010-12-09 20:26:29 +0000"
+
 # Attributes from Felix Online V1
 id: "522"
 old_path: /music/522/holy-fuck-what-thats-their-name
 aliases:
  - /music/522/holy-fuck-what-thats-their-name
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Holy Fuck are a chaotic band. Every song they play seemingly warrants an additional instrument, and every new musical nuance is brought about by haggard old equipment on the verge of falling apart. One moment in the set sees a band member amplifying film being wrenched off a reel to add to the epic din.

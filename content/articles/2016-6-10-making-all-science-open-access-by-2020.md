@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Should all scientific papers be openly available to anyone?
 date: "2016-06-10 08:24:30 +0100"
+
 # Attributes from Felix Online V1
 id: "6254"
 old_path: /science/6254/making-all-science-open-access-by-2020
 aliases:
  - /science/6254/making-all-science-open-access-by-2020
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The EU Competitiveness Council, a committee including research, science, and industry ministers from all member countries, announced last week that scientific publications should all be open access by 2020. We all wish for this to happen, but is the idea utopian?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This year’s Imperial College Union elections include Faculty Union Presidents in the line-up for the first time. Felix speaks to the outgoing officers
 date: "2012-03-02 01:33:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2305"
 old_path: /news/2305/interviewing-the-faculty-union-presidents
 aliases:
  - /news/2305/interviewing-the-faculty-union-presidents
+imported: true
+comments:
+ - You dont seem to have a clue Producing 1000 handbooks about the CGCU is hardly improving it The CGCU has always produced handbooks Archangel isnt a traditional CGCU event It happened two years ago because ICU wouldnt let Guilds use the bar Oh and competitive rivalry doesnt originate from mascotry Its entirely the other way around Oh well at least you got to meet lots of important peopleAgree with the above commentFunny GSA is a faculty union and even felix doesnt give a tosslulz  the GSA calling themselves a faculty union
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - You dont seem to have a clue Producing 1000 handbooks about the CGCU is hardly improving it The CGCU has always produced handbooks Archangel isnt a traditional CGCU event It happened two years ago because ICU wouldnt let Guilds use the bar Oh and competitive rivalry doesnt originate from mascotry Its entirely the other way around Oh well at least you got to meet lots of important peopleAgree with the above commentFunny GSA is a faculty union and even felix doesnt give a tosslulz  the GSA calling themselves a faculty union
-imported: true
 ---
 
 __LUKE KANCZES – ROYAL COLLEGE OF SCIENCE UNION (RCSU) PRESIDENT__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman reviews the newly released Don Jon, directed by Joseph Gordon-Levitt
 date: "2013-11-15 01:29:26 +0000"
+
 # Attributes from Felix Online V1
 id: "4057"
 old_path: /film/4057/the-comic-success-of-don-jon
 aliases:
  - /film/4057/the-comic-success-of-don-jon
+imported: true
+comments:
+ - Really well written reviewI want to go see Don Jon
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Really well written reviewI want to go see Don Jon
-imported: true
 ---
 
 Joseph Gordon-Levitt’s directorial debut (which he also wrote and stars in – the classic triple threat) opens with a rather unsubtle montage that flicks between credits and the standard examples of society’s objectification of women. It makes a rather obvious point – objectification is everywhere – but the complete absence of context sets the initial tone of the film in a no-man’s-land of taste: is this just another film that uses objectification as part of its draw, or is this one that openly rips into and lays bare the misogyny behind that objectification? (I’m going to spoil things for you here, because if I don’t it completely derails the review, and tell you this is very much the latter. Obviously.)

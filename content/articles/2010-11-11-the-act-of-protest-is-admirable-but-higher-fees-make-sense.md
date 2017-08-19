@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The government's proposals are fair
 date: "2010-11-11 21:36:03 +0000"
+
 # Attributes from Felix Online V1
 id: "364"
 old_path: /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
 aliases:
  - /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
+imported: true
+comments:
+ -       Goldfishka                goldfishkatv     Goldfishka                goldfishkatv      Goldfishka                goldfishkatv
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- -       Goldfishka                goldfishkatv     Goldfishka                goldfishkatv      Goldfishka                goldfishkatv
-imported: true
 ---
 
 It is informative that students, of all the victims of the coalition's cuts, are the first to stand up for themselves, instead of blithely accepting the extreme austerity of the current parliament. The growing sense that older generations have used up all the hot water, so to speak, has created a great sense of injustice amongst young people. Add to this the coming Lib Dem betrayal, of their election pledge to vote against tuition fee increases, and it's easy to understand why 50,000 students marched on Wednesday.

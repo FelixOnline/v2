@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox on why animals are safe for a month thanks to the MS Trust
 date: "2012-02-09 22:51:31 +0000"
+
 # Attributes from Felix Online V1
 id: "2165"
 old_path: /news/2165/say-hello-to-soya-milk-were-going-vegan
 aliases:
  - /news/2165/say-hello-to-soya-milk-were-going-vegan
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imagine living life without the flavour of a juicy hamburger, a quick sushi snack, cheese grated on top of a big bowl of spaghetti bolognese or even milk in your coffee. Throughout our lives, we’ve boasted of loving the uninhibited taste of all foods. We love to challenge ourselves when it comes to our grub, eating basically anything that’s put in front of us. But we think we’re about to undertake the hardest challenge yet when it comes to food. We’re taking the plunge and giving up all the foodstuffs we love so dearly for the [Multiple Sclerosis Trust](http://www.mstrust.org.uk/): we’re going vegan.

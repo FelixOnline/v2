@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emma King reports back from the British Shorinji Kempo Fedoration camp
 date: "2013-10-12 20:21:53 +0100"
+
 # Attributes from Felix Online V1
 id: "3868"
 old_path: /sport/3868/summer-camp-success-for-icu-shorinji-kempo
 aliases:
  - /sport/3868/summer-camp-success-for-icu-shorinji-kempo
+imported: true
+comments:
+ -  Good decription joyful vibe Shes curntrely playing Minko in Hanasaku Iroha She starred as Arashi last fall in Soredemo Machi ga Mawatteiru Her full list of roles is Mindblowing indeed especially to do it with such ease smiling away Ive always liked her seiyuu work but when she uses her deeper voice it has a blunt amateurish quality that many otaku just hate I think shes hilarious in SoreMachi and also in Seitokai Yakuindomo where she plays a side role as the judo club president I see from Japanese Wikipedia that she has several nicknames Chiaki Chiichan Chiakichan called that by Sanpei Yuuko Oomii Omigasu Omigawa by older seiyuu and Omigawakun by Sawashiro Miyuki I like that last one lol especially considering that shes pretty glamorous kun is the suffix used to refer to male students
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- -  Good decription joyful vibe Shes curntrely playing Minko in Hanasaku Iroha She starred as Arashi last fall in Soredemo Machi ga Mawatteiru Her full list of roles is Mindblowing indeed especially to do it with such ease smiling away Ive always liked her seiyuu work but when she uses her deeper voice it has a blunt amateurish quality that many otaku just hate I think shes hilarious in SoreMachi and also in Seitokai Yakuindomo where she plays a side role as the judo club president I see from Japanese Wikipedia that she has several nicknames Chiaki Chiichan Chiakichan called that by Sanpei Yuuko Oomii Omigasu Omigawa by older seiyuu and Omigawakun by Sawashiro Miyuki I like that last one lol especially considering that shes pretty glamorous kun is the suffix used to refer to male students
-imported: true
 ---
 
 A lot of hard work, multiple bruises, a devilish pub quiz and one broken nose...

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Lara Bailey explains why the ‘Vela Supercluster’ could be the reason for why the Milky Way and surrounding galaxies are constantly on the move
 date: "2016-11-25 13:40:07 +0000"
+
 # Attributes from Felix Online V1
 id: "6503"
 old_path: /science/6503/the-galaxys-guide-to-hitchhiking
 aliases:
  - /science/6503/the-galaxys-guide-to-hitchhiking
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It has been known for a long time that galaxies move, and our Milky Way is no exception. The Milky Way and its 50 neighbours, together referred to as the ‘Local Group’, have been moving in a particular direction, and until now it was not known why. A team of researchers from South Africa, Germany, and Australia suggest that a supercluster of galaxies is the reason behind the huge gravitational pull.

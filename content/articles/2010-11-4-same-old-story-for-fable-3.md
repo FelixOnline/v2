@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Welcome back to the Kingdom of Albion! Fable is back!
 date: "2010-11-04 18:25:43 +0000"
+
 # Attributes from Felix Online V1
 id: "296"
 old_path: /games/296/same-old-story-for-fable-3
 aliases:
  - /games/296/same-old-story-for-fable-3
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Welcome back to the Kingdom of Albion! 50 years on from the setting of Fable II, [Fable III](http://lionhead.com/Fable/FableIII/) tells the story of a prince having to overthrow the tyrant king that is his brother. The game takes you through the prince’s role at the head of the revolution having to complete quests in order to convince faction leaders that you are worthy to start the uprising.

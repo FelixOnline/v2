@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A Food editorial on pasta, by Carol Ann Cheah
 date: "2013-03-01 00:05:13 +0000"
+
 # Attributes from Felix Online V1
 id: "3399"
 old_path: /food/3399/so-whats-the-big-deal
 aliases:
  - /food/3399/so-whats-the-big-deal
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s easy to see why [pasta is touted as reliable student grub](http://felixonline.co.uk/food/3398/pasta-la-vista-baby/). It’s relatively cheap, almost foolproof (RTFI, people – we’re Imperialites!) and doesn’t take ages. It’s flexible – you can make it a simple bolognese affair, or slap on a complex sauce and bake it in some mythical way passed down to you from a former mafiosi. Leftovers keep well, so long as you don’t leave them in some black hole in the back of your fridge. And like Elizabeth says, it’s also one of the quickest healthy meals you can prepare so long as you follow a few simple rules (dieters need not toss their heads in disgust. No, really.)

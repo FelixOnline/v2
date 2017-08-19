@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports on the latest finding from the MRC
 date: "2015-04-30 23:03:11 +0100"
+
 # Attributes from Felix Online V1
 id: "5473"
 old_path: /news/5473/ebola-may-increase-cases-of-malaria-
 aliases:
  - /news/5473/ebola-may-increase-cases-of-malaria-
+imported: true
+comments:
+ - fitflop womens walkstar 3buy fitflop online singapore httpfitflopssalesingaporeblogspotcomfit flops trainersfitflop outlet httpwwwaustraliafitflopscombirkenstock sandals salebuy birkenstocks httpbirkenstocksaleaustraliablogspotcomchristian louboutin booties shoesdiscount christian louboutin httpcanadachristianlouboutinblogspotcomI constantly spent my half an hour to read this blogs articles or reviews all the time along with a mug of coffee faux bague cartier or diamant urlhttpwwwbestcaloverufrbestreplicacartierloveringyellowgoldsetsixdiamondsb4032400p776faux bague cartier or diamanturl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop womens walkstar 3buy fitflop online singapore httpfitflopssalesingaporeblogspotcomfit flops trainersfitflop outlet httpwwwaustraliafitflopscombirkenstock sandals salebuy birkenstocks httpbirkenstocksaleaustraliablogspotcomchristian louboutin booties shoesdiscount christian louboutin httpcanadachristianlouboutinblogspotcomI constantly spent my half an hour to read this blogs articles or reviews all the time along with a mug of coffee faux bague cartier or diamant urlhttpwwwbestcaloverufrbestreplicacartierloveringyellowgoldsetsixdiamondsb4032400p776faux bague cartier or diamanturl
-imported: true
 ---
 
 The most recent findings from the Medical Research Council (MRC) Centre for Outbreak Analysis & Modelling has predicted an extra 3.5 million cases of malaria as a result of the epidemic. Researchers based at the Centre have also found that the disease hits those under one year of age hardest, with 90% of those infected dying shortly after.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Autumn Term will see introduction of new scheme
 date: "2012-05-24 22:50:19 +0100"
+
 # Attributes from Felix Online V1
 id: "2483"
 old_path: /news/2483/lecture-podcasting-to-become-reality
 aliases:
  - /news/2483/lecture-podcasting-to-become-reality
+imported: true
+comments:
+ - HahahaYou clearly dont know me if you think I commented about myself on thisthat or you know me really well and are trolling meDamn anonymous commentsColvin  sort it outExcellent Ive been wanting thisJason Parmar has been the best sabbatical this Union has ever had That and he is the few that actually care about the people he represents and is not another bureaucrat CV whoreIts surprised me that Imperial which I believed to be a world leader in technological pioneering has been so slow to catch onto this basic technologyThanks for the comment JasonWe all believed Imperial to be a world leader until we actually got hereFinally great job guysJasonso many people already dont go to lectures especially morning lectures poor lecturers will be lonelyExcellent news Now if I can do labs and sit exams at home too Im all set
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - HahahaYou clearly dont know me if you think I commented about myself on thisthat or you know me really well and are trolling meDamn anonymous commentsColvin  sort it outExcellent Ive been wanting thisJason Parmar has been the best sabbatical this Union has ever had That and he is the few that actually care about the people he represents and is not another bureaucrat CV whoreIts surprised me that Imperial which I believed to be a world leader in technological pioneering has been so slow to catch onto this basic technologyThanks for the comment JasonWe all believed Imperial to be a world leader until we actually got hereFinally great job guysJasonso many people already dont go to lectures especially morning lectures poor lecturers will be lonelyExcellent news Now if I can do labs and sit exams at home too Im all set
-imported: true
 ---
 
 Plans to record lectures are set to finally come to fruition next academic year. College is set to work with video capture platform [Panopto](http://www.panopto.com/) in order to ensure that lectures are made more accessible to students.

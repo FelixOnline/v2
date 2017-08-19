@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Imperial research suggests iron uptake through supplement use may damage cells
 date: "2016-02-12 11:27:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5902"
 old_path: /science/5902/iron-supplement-safety-questioned
 aliases:
  - /science/5902/iron-supplement-safety-questioned
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 An investigation of the genetic mechanisms activated in reaction to the elevated iron concentration, and a subsequent examination of the cells in higher detail, revealed that just within ten minutes, cells treated with the iron solution had activated DNA repair systems, which were still activated six hours later.

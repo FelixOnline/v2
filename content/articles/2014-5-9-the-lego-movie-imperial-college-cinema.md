@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The announcement that a movie based around everyone’s favourite line of construction toys was met with rants about the extent of consumerism in cinema.
 date: "2014-05-09 15:22:44 +0100"
+
 # Attributes from Felix Online V1
 id: "4587"
 old_path: /film/4587/the-lego-movie-imperial-college-cinema
 aliases:
  - /film/4587/the-lego-movie-imperial-college-cinema
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __The Lego Movie__

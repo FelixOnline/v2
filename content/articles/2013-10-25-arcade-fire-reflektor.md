@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stuart Masson previews Arcade Fire’s latest effort.
 date: "2013-10-25 00:39:41 +0100"
+
 # Attributes from Felix Online V1
 id: "3933"
 old_path: /music/3933/arcade-fire-reflektor
 aliases:
  - /music/3933/arcade-fire-reflektor
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 rcade Fire release their new album on October 28th. Reflektor was announced in a reply to a single fan on twitter, it’s been preceded with a viral campaign inspired by Haitian veve drawings (me neither) and a single credited to a fictional band called The Reflektors. The hipster darlings are doing nothing to alleviate accusations of pretensiousness. However, even as a massive fan, much of this has passed me by. I’m finding it really hard to get myself excited about the new album. Back in 2010, when The Suburbs was released, I remember having it pre-ordered from within hours of the release date being announced. I remember it arriving and me listening to nothing else for about 3 days. This time around, I’d forgotten it was even out until a couple of days ago. What went wrong?

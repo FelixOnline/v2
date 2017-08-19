@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A little exercise really does go a long way: Laurence Pope discusses new research on the effects commuting has on the prevention of diabetes.
 date: "2013-08-06 09:36:49 +0100"
+
 # Attributes from Felix Online V1
 id: "3747"
 old_path: /science/3747/commute-your-way-to-good-health
 aliases:
  - /science/3747/commute-your-way-to-good-health
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Who needs Ethos when you’ve got the London Underground? New research from Imperial College London and University College London shows that actively travelling to work (cycling, brisk walking or even using public transport) confers more health benefits than you’d initially suspect.

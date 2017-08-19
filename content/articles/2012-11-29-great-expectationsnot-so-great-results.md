@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Starring: Jeremy Irvine, Ralph Fiennes, Helena Bonham Carter, Holliday Grainger
 date: "2012-11-29 23:00:58 +0000"
+
 # Attributes from Felix Online V1
 id: "2998"
 old_path: /film/2998/great-expectationsnot-so-great-results
 aliases:
  - /film/2998/great-expectationsnot-so-great-results
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The greater the book, the more difficult it is to adapt into film; which is why “from the best-loved story by Charles Dickens” doesn’t exactly cement a vote of confidence to the film due to the enormous challenges it faces. And it’s a story that’s seen the screen many times in the past, once most memorably as a timeless classic in 1946, but the less that is said about the awful 1998 version the better. Newell’s 2012 adaptation can sit quite comfortably between the two in terms of quality: a reliable piece with excellent performances but one that never springs out of its own mediocrity to make a lasting mark.

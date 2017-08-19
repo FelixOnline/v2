@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A game based on a movie based on a game
 date: "2016-05-20 09:17:08 +0100"
+
 # Attributes from Felix Online V1
 id: "6189"
 old_path: /games/6189/thats-so-ratchet
 aliases:
  - /games/6189/thats-so-ratchet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In the 14 years since Ratchet &amp; Clank’s original release on the PS2, the platforming genre has seen a dramatic decline. Nintendo has been the sole torchbearer in a genre which was once the industry’s most successful; it continues to produce quality and innovative platformers while others have almost abandoned the genre completely. Despite the critical (and commercial flops) of recent releases in franchises like Ratchet &amp; Clank, Crash Bandicoot, and Spyro, many still remember these series fondly – even when they are undeserving. Society is so obsessed with nostalgia that we often misremember and ignore flaws. However, in a rare few cases the first games in these franchises are deserving of praise. In these cases we must ask the question: are these games only great when considered within the context of when they were released?

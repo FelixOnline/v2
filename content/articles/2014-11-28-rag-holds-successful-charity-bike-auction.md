@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports from the charity auction
 date: "2014-11-28 00:49:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4966"
 old_path: /news/4966/rag-holds-successful-charity-bike-auction
 aliases:
  - /news/4966/rag-holds-successful-charity-bike-auction
+imported: true
+comments:
+ - I used to be very pleased to seek out this internetsiteI wanted to thanks in your time for this wonderful readcoach factory httpwwwcoachfactorysuscomAn interesting dialogue is worth comment I believe that you must write more on this topic it wont be a taboo subject however usually persons areCoach Factory httpcoachoutletoutletstoreuscomAw this was a really nice post In concept I would like to put in writing like this additionally taking time and actual effort to make an excellent articlebut what can I sayI procrastinate alot and on no account appear to get something doneoakley sunglasses discount httpwwwoakleysalesorgIts extremely helpful for me Massive thumb up for this weblog put upPls try my web page as properly and let me know what you thinkcoach outlet online httpwwwoutletscoachhandbagsorgI positively enjoying every little little bit of it and I have you bookmarked to take a look at new stuff you blog postcoach factory httpcoachoutletsonlin
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I used to be very pleased to seek out this internetsiteI wanted to thanks in your time for this wonderful readcoach factory httpwwwcoachfactorysuscomAn interesting dialogue is worth comment I believe that you must write more on this topic it wont be a taboo subject however usually persons areCoach Factory httpcoachoutletoutletstoreuscomAw this was a really nice post In concept I would like to put in writing like this additionally taking time and actual effort to make an excellent articlebut what can I sayI procrastinate alot and on no account appear to get something doneoakley sunglasses discount httpwwwoakleysalesorgIts extremely helpful for me Massive thumb up for this weblog put upPls try my web page as properly and let me know what you thinkcoach outlet online httpwwwoutletscoachhandbagsorgI positively enjoying every little little bit of it and I have you bookmarked to take a look at new stuff you blog postcoach factory httpcoachoutletsonlin
-imported: true
 ---
 
 RAG held their charity bike auction last Thursday, raising an impressive £4,500 after selling roughly 30 bikes.

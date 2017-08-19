@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Two football club members have also been banned from sports at Imperial
 date: "2011-05-05 23:32:50 +0100"
+
 # Attributes from Felix Online V1
 id: "1146"
 old_path: /news/1146/football-team-fined-after-ulu-cup-fight
 aliases:
  - /news/1146/football-team-fined-after-ulu-cup-fight
+imported: true
+comments:
+ - BANG BANG BANGThe final was won 32 by ImperialAll you need to knowThe final was won 32 by ImperialAll you need to knowI dont see what the problem is Someone was wearing a morph suit which I thought meant you could get away with anythingWhheeeeeeeeeeeeeyyyyIC football bunch of twats massive bunch of twatsbbbrrrrrrrraaaaaaappppppppppppppI am so so proud club loveIm a bellendFootballers arguing over who has the best shoes Faggots
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - BANG BANG BANGThe final was won 32 by ImperialAll you need to knowThe final was won 32 by ImperialAll you need to knowI dont see what the problem is Someone was wearing a morph suit which I thought meant you could get away with anythingWhheeeeeeeeeeeeeyyyyIC football bunch of twats massive bunch of twatsbbbrrrrrrrraaaaaaappppppppppppppI am so so proud club loveIm a bellendFootballers arguing over who has the best shoes Faggots
-imported: true
 ---
 
 The football team has been fined £100 by the Amateur Football Association (AFA) after a fight broke out at the 19th of March ULU Cup Final with UCL. The club was charged with failing to control its supporters, to which they pleaded guilty, and one individual, whose case has yet to be heard, has been charged with assault on a UCL player.

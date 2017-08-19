@@ -4,16 +4,23 @@ title: >
 subtitle: >
   To celebrate the release of Carol, we take a look over some of the best sapphic power-couples on the silver screen
 date: "2015-12-06 14:53:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5809"
 old_path: /film/5809/just-gals-being-pals-a-history-of-lesbian-cinema
 aliases:
  - /film/5809/just-gals-being-pals-a-history-of-lesbian-cinema
+imported: true
+comments:
+ - I love this site  its so usefull and helpfullcs go skins battle scarred httpforumsrootsmagiccomindexphptopic15004problemwithnarativereportMaintain the excellent work and producing in the crowdmadden 17 coins httpwwwlapachatcomblogs1891709fifa17pointsthe5beststrategiestofindinexpensivecdsPGJ5gi httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I love this site  its so usefull and helpfullcs go skins battle scarred httpforumsrootsmagiccomindexphptopic15004problemwithnarativereportMaintain the excellent work and producing in the crowdmadden 17 coins httpwwwlapachatcomblogs1891709fifa17pointsthe5beststrategiestofindinexpensivecdsPGJ5gi httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 **Manuela and Fräulein von Bernburg in _Mädchen in Uniform_ (1931)**

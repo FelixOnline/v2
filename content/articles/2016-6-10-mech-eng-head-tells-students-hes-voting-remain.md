@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Professor Peter Crawley emailed all mech eng students and staff telling them life would be harder after Brexit
 date: "2016-06-10 08:12:05 +0100"
+
 # Attributes from Felix Online V1
 id: "6245"
 old_path: /news/6245/mech-eng-head-tells-students-hes-voting-remain
 aliases:
  - /news/6245/mech-eng-head-tells-students-hes-voting-remain
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Sunday, the head of the department of mechanical engineering sent an email to all of his students and staff, addressing concerns about a post-Brexit fee status for EU students, and telling them that he was “strongly in favour of remaining in the EU” and so would be “voting accordingly”.

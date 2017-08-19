@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Deepka Rana spends 3 hours pretending to write a byline
 date: "2012-10-05 12:39:25 +0100"
+
 # Attributes from Felix Online V1
 id: "2616"
 old_path: /biz/2616/how-to-stop-wasting-time
 aliases:
  - /biz/2616/how-to-stop-wasting-time
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week I met Dr. Magdalena Bak-Maier, a personal development and learning expert, executive coach to top level scientists and entrepreneurs, and author of Get Productive. The premise of the book is simple: instead of feeling overwhelmed by having too much to do, you can learn how to use your brain well and get things done with time to spare. As she currently works at Imperial as a Organisational Developement Consultant, it seemed fitting to ask the productivity expert a few questions to help Imperial students with their studying habits:

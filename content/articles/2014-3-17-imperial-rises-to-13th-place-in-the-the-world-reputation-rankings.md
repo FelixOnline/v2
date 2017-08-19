@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In the recently released Times Higher Education (THE) World Rankings College was ranked one position higher than last year, coming at 13th.
 date: "2014-03-17 17:30:50 +0000"
+
 # Attributes from Felix Online V1
 id: "4485"
 old_path: /news/4485/imperial-rises-to-13th-place-in-the-the-world-reputation-rankings
 aliases:
  - /news/4485/imperial-rises-to-13th-place-in-the-the-world-reputation-rankings
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 In the recently released Times Higher Education (THE) World Rankings College was ranked one position higher than last year, coming at 13th. Imperial received an overall reputation score of 20.9, with a slightly higher score for research than teaching. In terms of UK institutions, Imperial came 3rd in the rankings, behind Cambridge and Oxford, who came 4th and 5th with rankings of 74.9 and 74.3 respectively.

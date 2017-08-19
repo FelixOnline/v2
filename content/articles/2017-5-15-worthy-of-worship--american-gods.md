@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Surreal is the new real
 date: "2017-05-15 17:14:09 +0100"
+
 # Attributes from Felix Online V1
 id: "6959"
 old_path: /tv/6959/worthy-of-worship--american-gods
 aliases:
  - /tv/6959/worthy-of-worship--american-gods
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After a tumultuous five years in development hell, Neil Gaiman’s post-modern blend of Americana and folklore has finally found its way to TV courtesy of Starz and Amazon. American Gods, an adaptation of Gaiman’s 2001 novel by the same name, is at its heart an examination of faith and the ever-changing nature of the altars at which we worship. Being familiar with Gaiman’s Sandman mythos but never having read American Gods myself, I approached the series not quite knowing what to expect. What I’ve experienced in the first two episodes, however, has me keen to see more.

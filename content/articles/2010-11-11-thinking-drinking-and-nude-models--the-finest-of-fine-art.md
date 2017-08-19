@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Head to The Book Club in Shoreditch for an evening of extreme 'artiness'
 date: "2010-11-11 20:20:40 +0000"
+
 # Attributes from Felix Online V1
 id: "332"
 old_path: /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
 aliases:
  - /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Now I know that for most people a night out consists of drinking and dancing followed by some form of fast food and a hangover that could slay a rhino. I must confess that I am all in favor of that plan in that precise order; however it’s taken another night out with the [Leonardo Fine Art Society](http://www.union.ic.ac.uk/arts/leonardo/) to show me that this isn’t necessarily the only way to do it.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sir David Attenborough strikes back, showcasing life at the poles
 date: "2011-11-10 21:59:23 +0000"
+
 # Attributes from Felix Online V1
 id: "1739"
 old_path: /tv/1739/frozen-planet--a-true-masterpiece
 aliases:
  - /tv/1739/frozen-planet--a-true-masterpiece
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The advent of digital satellite broadcasting brought with it a torrent of mind-numbing programs (including certain controversial chat shows…) aimed at an audience with the collective sentient ability of a squashed banana (sorry, I simply couldn’t resist!). So from this seemingly endless stream of drivel, it is rare to find such a veritable gem of broadcasting merit as David Attenborough’s latest offering: [_Frozen Planet_](http://www.bbc.co.uk/programmes/b00mfl7n).

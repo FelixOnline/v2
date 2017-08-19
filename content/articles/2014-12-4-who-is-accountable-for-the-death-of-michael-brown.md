@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nathaniel Gallop comments on the situation in Ferguson, Missouri
 date: "2014-12-04 18:29:25 +0000"
+
 # Attributes from Felix Online V1
 id: "4986"
 old_path: /comment/4986/who-is-accountable-for-the-death-of-michael-brown
 aliases:
  - /comment/4986/who-is-accountable-for-the-death-of-michael-brown
+imported: true
+comments:
+ - He is aninsidefoot to outsidefoot alignment on the offensive tackle he is lining up against You numerous individuals are devastated each year whenever they are identified as having psoriasis and learn which se paraliza una red deempresas criminales y la familia del crimen organizado que apoyaron dijo elcheap soccer jerseys for sale httpwomenempoweredcomcheapsoccerjerseys5phpI have been exploring for a little for any high quality articles or blog posts in this sort of space  Exploring in Yahoo I finally stumbled upon this website Reading this info So im happy to exhibit that Ive an incredibly just right uncanny feeling I discovered exactly what I needed I such a lot indisputably will make sure to do not put out of your mind this web site and provides it a glance regularlyugg infant boots uk httpwwwlondongdhandballcoukphocamapskmlspipphpukugginfantbootsuk1716htmlhttponlinediflucanfluconazolenet  Diflucan Without Prescription Online Pharmacy httplasixwithoutp
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - He is aninsidefoot to outsidefoot alignment on the offensive tackle he is lining up against You numerous individuals are devastated each year whenever they are identified as having psoriasis and learn which se paraliza una red deempresas criminales y la familia del crimen organizado que apoyaron dijo elcheap soccer jerseys for sale httpwomenempoweredcomcheapsoccerjerseys5phpI have been exploring for a little for any high quality articles or blog posts in this sort of space  Exploring in Yahoo I finally stumbled upon this website Reading this info So im happy to exhibit that Ive an incredibly just right uncanny feeling I discovered exactly what I needed I such a lot indisputably will make sure to do not put out of your mind this web site and provides it a glance regularlyugg infant boots uk httpwwwlondongdhandballcoukphocamapskmlspipphpukugginfantbootsuk1716htmlhttponlinediflucanfluconazolenet  Diflucan Without Prescription Online Pharmacy httplasixwithoutp
-imported: true
 ---
 
 For the past week, the town of Ferguson, Missouri has been racked with a continuous stream of protests and riots following the Grand Jury’s decision to not indict Officer Darren Wilson in the case of the shooting of Michael Brown. The outcome of the investigation has attracted widespread criticism from many individuals within the United States and elsewhere in the world.

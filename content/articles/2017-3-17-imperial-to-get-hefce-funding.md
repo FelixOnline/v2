@@ -4,16 +4,23 @@ title: >
 subtitle: >
   College and the Union will be reportedly matching the funds their proposal receives
 date: "2017-03-17 13:11:07 +0000"
+
 # Attributes from Felix Online V1
 id: "6900"
 old_path: /news/6900/imperial-to-get-hefce-funding
 aliases:
  - /news/6900/imperial-to-get-hefce-funding
+imported: true
+comments:
+ - You are nothing like us cheapest madden mobile 17 coins httpwwwmaddenstorecomMy way or the highwaycheap pokemon go rare pokemon httpwwwpokemonbuxcomNo one can do it better than youbuy cheap albion online gold httpwwwdreamsoulmatchcommemberblog_post_viewphppostId60031this is a very helpful websitecheap albion online gold httpalbionsoupiopost610291817UPAlbionCanProvideSupremeCustomerServiceAt
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You are nothing like us cheapest madden mobile 17 coins httpwwwmaddenstorecomMy way or the highwaycheap pokemon go rare pokemon httpwwwpokemonbuxcomNo one can do it better than youbuy cheap albion online gold httpwwwdreamsoulmatchcommemberblog_post_viewphppostId60031this is a very helpful websitecheap albion online gold httpalbionsoupiopost610291817UPAlbionCanProvideSupremeCustomerServiceAt
-imported: true
 ---
 
 Imperial has been selected as one of 64 institutions to receive up to £50,000 of HEFCE Catalyst funding from the Student Safeguarding fund. This is part of the £2.45 million released by HEFCE for projects addressing sexual harassment on campus following the report from Universities UK’s Harassment Taskforce on the need for universities and colleges to do more to tackle the problem.

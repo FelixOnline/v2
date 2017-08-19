@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kadhim Shubber chats with Josh Byrne, head of XVI Records
 date: "2012-06-07 22:22:37 +0100"
+
 # Attributes from Felix Online V1
 id: "2538"
 old_path: /music/2538/xvi-records-take-over-metric
 aliases:
  - /music/2538/xvi-records-take-over-metric
+imported: true
+comments:
+ - Youre my hero Josh
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Youre my hero Josh
-imported: true
 ---
 
 __Hey Josh, how are you doing?__

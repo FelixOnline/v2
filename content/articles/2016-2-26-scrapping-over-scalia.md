@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The death of the conservative judge during the run up to elections means the seat could reain empty for eleven months
 date: "2016-02-26 11:29:15 +0000"
+
 # Attributes from Felix Online V1
 id: "5959"
 old_path: /comment/5959/scrapping-over-scalia
 aliases:
  - /comment/5959/scrapping-over-scalia
+imported: true
+comments:
+ - Why is a UK student newspaper publishing articles about some trivia of US politics This couldnt be less relevantMuch thanks This is definitely an remarkable webpagenba 2k16 my account expired ps4 httpchristinegemmaqsitedk177212BlogI was just looking at your Scrapping over Scalia  Comment  Felix Online website and see that your website has the potential to become very popular I just want to tell you In case you didnt already know There is a website service which already has more than 16 million users and the majority of the users are interested in topics like yours By getting your website on this service you have a chance to get your site more visitors than you can imagine It is free to sign up and you can read more about it here httptodochiapasmxC3jq  Now let me ask you Do you need your site to be successful to maintain your way of life Do you need targeted traffic who are interested in the services and products you offer Are looking for exposure to increase sales a
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Why is a UK student newspaper publishing articles about some trivia of US politics This couldnt be less relevantMuch thanks This is definitely an remarkable webpagenba 2k16 my account expired ps4 httpchristinegemmaqsitedk177212BlogI was just looking at your Scrapping over Scalia  Comment  Felix Online website and see that your website has the potential to become very popular I just want to tell you In case you didnt already know There is a website service which already has more than 16 million users and the majority of the users are interested in topics like yours By getting your website on this service you have a chance to get your site more visitors than you can imagine It is free to sign up and you can read more about it here httptodochiapasmxC3jq  Now let me ask you Do you need your site to be successful to maintain your way of life Do you need targeted traffic who are interested in the services and products you offer Are looking for exposure to increase sales a
-imported: true
 ---
 
 Love him, hate him, agree or disagree with him, it is undeniable that US supreme Court Justice Antonin Scalia was one of the most divisive and outspoken American political figures of this generation. A gifted jurist and bastion of American conservatism, his aggressive style of questioning and acerbic put-downs of opposing opinion made him respectively loved and reviled by Republicans and Democrats of all stripes. His passing, while away at a luxury ranch in Texas, in many ways marks the end of a political era.

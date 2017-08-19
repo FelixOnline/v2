@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Shows should try to be fresh and do something which makes them unique
 date: "2016-03-11 12:05:35 +0000"
+
 # Attributes from Felix Online V1
 id: "6043"
 old_path: /tv/6043/what-makes-an-adaptation
 aliases:
  - /tv/6043/what-makes-an-adaptation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 These days it seems like the most popular medium for TV shows to take inspiration from is the literary one. With several books, graphic novels and comics, sometimes with decades of mythology, it’s hard to see why not. When something works in a medium where scenes are static or left to the imagination, then seeing them in action should be something special. These days, there are a large number of successful shows and series which are, in some shape or form, adaptations. So in this piece, I’ll be examining, what makes a good adaptation and what are the key areas TV show creators end up either nailing or ruining.

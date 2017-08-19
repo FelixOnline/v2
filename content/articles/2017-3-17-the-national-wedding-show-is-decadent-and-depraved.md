@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Has voracious commercialism taken over a traditional expression of property rights? Theo Farah ventures into the heart of matrimonial hype to learn more about creating the perfect day.
 date: "2017-03-17 17:23:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6914"
 old_path: /features/6914/the-national-wedding-show-is-decadent-and-depraved-
 aliases:
  - /features/6914/the-national-wedding-show-is-decadent-and-depraved-
+imported: true
+comments:
+ - If he shows up we stick with himbuy cheap albion online gold httpstarbookcomblogs6764048albiononlinezoomandflaggingdevicesThis is really a nice placeleading madden coins mobile seller httpwwwmaddenstorecomIf I have the guts to quit my job cheap pokemon go rare pokemon store pokemonbux httpwwwpokemonbuxcomIll fix itbuy cheap albion gold httpwwwthysellorgforumviewtopicphpt191029you have a good sense of humorcheap Albion Online gold for sale httprunescape3sellcomthedynamicsofalbiononlinedependentonhowyouperform
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If he shows up we stick with himbuy cheap albion online gold httpstarbookcomblogs6764048albiononlinezoomandflaggingdevicesThis is really a nice placeleading madden coins mobile seller httpwwwmaddenstorecomIf I have the guts to quit my job cheap pokemon go rare pokemon store pokemonbux httpwwwpokemonbuxcomIll fix itbuy cheap albion gold httpwwwthysellorgforumviewtopicphpt191029you have a good sense of humorcheap Albion Online gold for sale httprunescape3sellcomthedynamicsofalbiononlinedependentonhowyouperform
-imported: true
 ---
 
 As I walked along Hammersmith Road to the convention centre, Kensington Olympia, a faltering bundle of nerves, I scanned my brain for excuses not to enter the palatial structure. Fortified by a cocktail of stimulants, I still felt lacking in brass for my foray behind enemy lines. Twenty-one and male, I had been doubly inoculated from the mysterious world of weddings. My only experiences were the odd episode of Bridezilla or Cake Boss, highlight reels of caricatures resplendent in white, crazed by the slightest deviation from plan on their special day.

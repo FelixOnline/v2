@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Get your skates on every week
 date: "2011-12-08 20:48:59 +0000"
+
 # Attributes from Felix Online V1
 id: "1922"
 old_path: /sport/1922/coming-soon-to-a-pavement-near-you-imperial-sb
 aliases:
  - /sport/1922/coming-soon-to-a-pavement-near-you-imperial-sb
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial finally has (or at least very shortly will have) an official Union sanctioned BMX and Skateboard Society, so we introduce to you, Imperial SB!

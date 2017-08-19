@@ -4,16 +4,23 @@ title: >
 subtitle: >
   David Willetts uses visit to Imperial to announce the creation of new Doctoral Training Centres
 date: "2014-01-17 03:02:40 +0000"
+
 # Attributes from Felix Online V1
 id: "4221"
 old_path: /news/4221/minister-announces-new-research-opportunities
 aliases:
  - /news/4221/minister-announces-new-research-opportunities
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 New funding for UK research institutions has been announced by the Minister of State for Universities and Science, David Willetts. During a visit to Imperial College last Friday, Willetts announced the formation of nineteen new Centres for Doctoral Training (CDT) which will be funded through the Engineering and Physical Sciences Research Council (EPSRC) with the money ultimately sourced primarily from industry partners. CDTs are an increasingly common means of providing PhD studentships – with each centre offering a four year course in a particular area of science and engineering, focusing on research but also including taught elements.

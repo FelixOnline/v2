@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A new format, but where's the enthusiasm?
 date: "2012-06-01 12:31:20 +0100"
+
 # Attributes from Felix Online V1
 id: "2510"
 old_path: /comment/2510/the-summer-ball-you-asked-for
 aliases:
  - /comment/2510/the-summer-ball-you-asked-for
+imported: true
+comments:
+ - The menu is very poor and 40 is too expensive for IC catering IC catering from past experiences is not worth half that price You could go to a really good restaurant which offers great food and service for the same price or less Weve had to eat in the JCR Library Cafe Tower Rooms and the SCR for the last 34n years of our lives With no disrespect to the catering teams who I am sure do the best they can to allow them to stay on budget the experience has not exactly been a stellar endorsement of the colleges urge to provide us with pleasant foodDoes the union not understand what else I can do in London for 75 Without having to deal with the shower of arseholes who embody the unions regular clientleThe Unions mistake is assuming that the Summer Ball failing is an indictment of their plans for the ball It is not it is a systematic failing of the college catering and the union over a number of yearsWithout having to deal with the shower of arseholes who embody the unions reg
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The menu is very poor and 40 is too expensive for IC catering IC catering from past experiences is not worth half that price You could go to a really good restaurant which offers great food and service for the same price or less Weve had to eat in the JCR Library Cafe Tower Rooms and the SCR for the last 34n years of our lives With no disrespect to the catering teams who I am sure do the best they can to allow them to stay on budget the experience has not exactly been a stellar endorsement of the colleges urge to provide us with pleasant foodDoes the union not understand what else I can do in London for 75 Without having to deal with the shower of arseholes who embody the unions regular clientleThe Unions mistake is assuming that the Summer Ball failing is an indictment of their plans for the ball It is not it is a systematic failing of the college catering and the union over a number of yearsWithout having to deal with the shower of arseholes who embody the unions reg
-imported: true
 ---
 
 [“The Summer Ball you asked for.”](http://www.union.ic.ac.uk/marketing/summerball/)

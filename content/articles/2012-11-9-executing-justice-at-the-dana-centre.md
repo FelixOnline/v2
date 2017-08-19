@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lethal injection can be more painful than intended
 date: "2012-11-09 12:46:53 +0000"
+
 # Attributes from Felix Online V1
 id: "2852"
 old_path: /science/2852/executing-justice-at-the-dana-centre
 aliases:
  - /science/2852/executing-justice-at-the-dana-centre
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It turned out that 52% of the audience at a recent event at the Dana Centre would prefer to be executed by lethal injection than hanging, electrocution or being shot. This was before they were given information about what exactly occurs when a lethal injection is carried out.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   News from around the world
 date: "2011-01-27 19:27:22 +0000"
+
 # Attributes from Felix Online V1
 id: "669"
 old_path: /politics/669/the-world-beyond-college-walls
 aliases:
  - /politics/669/the-world-beyond-college-walls
+imported: true
+comments:
+ - I accidentally came arscos your website and noticed you are positioned in Juba we are there as well as Entebbe and Nairobi We have the AN28 in EBB as well as some Mi8 helicopters in the area Do you guys have any need for these machines If youre in Entebbe it would be good to link you up with our manager there Andrew Little just to see if theres any synergy between our two companies His email is  Take careMost of the Monster High collection is at my moms house since she has the space to enjoy them I suhold borrow a few at a time and review them great idea  other medical   generic cialis No Prescription   physical distress   powerlifter   especially iron
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I accidentally came arscos your website and noticed you are positioned in Juba we are there as well as Entebbe and Nairobi We have the AN28 in EBB as well as some Mi8 helicopters in the area Do you guys have any need for these machines If youre in Entebbe it would be good to link you up with our manager there Andrew Little just to see if theres any synergy between our two companies His email is  Take careMost of the Monster High collection is at my moms house since she has the space to enjoy them I suhold borrow a few at a time and review them great idea  other medical   generic cialis No Prescription   physical distress   powerlifter   especially iron
-imported: true
 ---
 
 Palestine

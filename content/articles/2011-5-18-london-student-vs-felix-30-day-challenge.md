@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The London Student has challenged Felix to a duel of epic proportions (ok, maybe not 'epic'). This is no less than a battle between Imperial and the University of London and have no doubt, we will prevail!
 date: "2011-05-18 07:07:06 +0100"
+
 # Attributes from Felix Online V1
 id: "1210"
 old_path: /music/1210/london-student-vs-felix-30-day-challenge
 aliases:
  - /music/1210/london-student-vs-felix-30-day-challenge
+imported: true
+comments:
+ - Groovy Are you in need of writersJust song recommendations guilty pleasures  basically anything by erasureOk if I can remember to post every preceding dayDay 01 Your favourite songRight now its still the Jamie xx remix of Running by Gil ScottHeronMost definitelyDay 01 is a tough one maybe Roses by OutKast  the song that Big Boi omitted at ATP Been listening to a lot of Big Boi and OutKast again recently hehe Newish favourite song would probably be The Party  The After Party by The WeekndOr maybe You by Gold Pandaor Monster by Yeezyor Summer Babe by PavementdamnDay 02 Your least favourite songRihanna  SMBlack Eyed Peas  The Time Dirty BitDavid Guetta  Chris Willis  Love Is GoneBruno Mars  Just The Way You AreTinie Tempah  Pass Out lyrically dreadfulLady Gaga  JudasAre all rather terrible xSorry the David Guetta one I meant was Gettin Over You In my head they all merge into one big steaming musical santorum word of the day
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Groovy Are you in need of writersJust song recommendations guilty pleasures  basically anything by erasureOk if I can remember to post every preceding dayDay 01 Your favourite songRight now its still the Jamie xx remix of Running by Gil ScottHeronMost definitelyDay 01 is a tough one maybe Roses by OutKast  the song that Big Boi omitted at ATP Been listening to a lot of Big Boi and OutKast again recently hehe Newish favourite song would probably be The Party  The After Party by The WeekndOr maybe You by Gold Pandaor Monster by Yeezyor Summer Babe by PavementdamnDay 02 Your least favourite songRihanna  SMBlack Eyed Peas  The Time Dirty BitDavid Guetta  Chris Willis  Love Is GoneBruno Mars  Just The Way You AreTinie Tempah  Pass Out lyrically dreadfulLady Gaga  JudasAre all rather terrible xSorry the David Guetta one I meant was Gettin Over You In my head they all merge into one big steaming musical santorum word of the day
-imported: true
 ---
 
 On the evening of May 17th, the Editor of the London Student newspaper, Joe Rennison, threw his gauntlet down at Felix's feet. [He challenged us to play the 30-day Song Challenge](http://www.london-student.net/breaking-news/the-30-day-challenge-felix-vs-london-student/). Felix heartily accepted. Every day each newspaper will post a new article on their website with their song of choice. The newspaper with the most likes, unique comments, and tweets on their article will win that day. Follow this page to stay up-to-date with the competition.

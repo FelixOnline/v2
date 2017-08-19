@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Michael Barclay wants to talk about his love for wub wub
 date: "2012-10-26 02:42:25 +0100"
+
 # Attributes from Felix Online V1
 id: "2753"
 old_path: /games/2753/pondering-pandora-
 aliases:
  - /games/2753/pondering-pandora-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Borderlands was, to be frank, a pretty weird concept. Combining a fully-fledged first person shooter with a Diablo-style loot-centric RPG? These ideas seem pretty hard to gel, when first thought about, but Borderlands worked because it just didn’t take itself seriously at all. The whole thing was just one big joke because it had to be. The ridiculously overpowered guns, the crazy character abilities, even the way the game showed you numerically how much damage each shot had done – these things just wouldn’t have worked in your bog-standard shooter. But with its cartoon-style graphics, over the top gore and ridiculous cast of characters, the whole thing worked, and all-in-all, Borderlands was a pretty good game.

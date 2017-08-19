@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Book Club transformed into a venue exploring the links between our senses and the recipe for true love
 date: "2016-02-12 11:33:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5905"
 old_path: /science/5905/this-weeks-science-picture
 aliases:
  - /science/5905/this-weeks-science-picture
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Guerilla Science held their V-Day event last Monday at The Book Club. The night titled ‘An Evening of Lust, Sex and Brains’  aimed at demonstrating how senses and brains react when people meet that special someone. Guests were to undertake several challenges based on scientific findings, all while advertising their arousal, holding up a ‘Turned off’ or ‘Turned on’ card, oh and while blindfolded.

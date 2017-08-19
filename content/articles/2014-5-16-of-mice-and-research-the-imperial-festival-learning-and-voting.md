@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This week College took another step in the right direction on the journey of animal research by signing the Concordat on Animal Research, a document that promises transparency and openness about animal experimentation.
 date: "2014-05-16 02:09:28 +0100"
+
 # Attributes from Felix Online V1
 id: "4603"
 old_path: /comment/4603/of-mice-and-research-the-imperial-festival-learning-and-voting
 aliases:
  - /comment/4603/of-mice-and-research-the-imperial-festival-learning-and-voting
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 This week College took another step in the right direction on the journey of animal research by signing the Concordat on Animal Research, a document that promises transparency and openness about animal experimentation. College is trying to shed the murky allegations raised by the BUAV (British Union for the Abolition of Vivisection) last year during an undercover operation that lead to scrutiny by the national press and former alumni.

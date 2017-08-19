@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Albert Nickelby turns his eyes to Europe in an attempt to explain the seismic pressures of the bond markets.
 date: "2011-12-01 19:46:07 +0000"
+
 # Attributes from Felix Online V1
 id: "1861"
 old_path: /biz/1861/a-western-tragedy
 aliases:
  - /biz/1861/a-western-tragedy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As a result of the so-called “Euro debt crisis” – whose solution seems to be too distant still to be clear – several of the euro club countries have been bailed out. Starting with Greece (2009), Ireland (2010) and Portugal (2010) have also been rescued, and in all the cases, the process followed a similar pattern.

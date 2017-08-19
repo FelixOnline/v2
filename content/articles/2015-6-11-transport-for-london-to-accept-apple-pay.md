@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philip Kent on the move which makes TfL the first public transport operator to accept the payment technology
 date: "2015-06-11 22:16:19 +0100"
+
 # Attributes from Felix Online V1
 id: "5612"
 old_path: /news/5612/transport-for-london-to-accept-apple-pay
 aliases:
  - /news/5612/transport-for-london-to-accept-apple-pay
+imported: true
+comments:
+ - Oyster will be around for a long time  Many smaller banksbuilding societies have yet to issue contactless cards and many people will not want to involve themselves with a third party system and the data harvesting that implies just to use their phone One might ask how Yoyo is getting on in the real world   Then theres the issue of those who are only allowed the most basic of bank accounts if at allAnother big problem in a major tourist city is that visitors are not keen on contactless due to transaction charges   A 150 bus fare can more than double by the time the currency conversion is done and a usage fee paidVery good points you raise there Although perhaps a switch away from Oyster to ITSO may happen one day although considering poor uptake by national rail I do not hold up hopeAnother reason for Oyster to remain would be the discount cards Zip 18 etc there is no reason why TfL couldnt apply those discounts to a contactless card but considering how they love checking that
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Oyster will be around for a long time  Many smaller banksbuilding societies have yet to issue contactless cards and many people will not want to involve themselves with a third party system and the data harvesting that implies just to use their phone One might ask how Yoyo is getting on in the real world   Then theres the issue of those who are only allowed the most basic of bank accounts if at allAnother big problem in a major tourist city is that visitors are not keen on contactless due to transaction charges   A 150 bus fare can more than double by the time the currency conversion is done and a usage fee paidVery good points you raise there Although perhaps a switch away from Oyster to ITSO may happen one day although considering poor uptake by national rail I do not hold up hopeAnother reason for Oyster to remain would be the discount cards Zip 18 etc there is no reason why TfL couldnt apply those discounts to a contactless card but considering how they love checking that
-imported: true
 ---
 
 Transport for London have announced that they will accept Apple Pay when it launches in the UK in July.

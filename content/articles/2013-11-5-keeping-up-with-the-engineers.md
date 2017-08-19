@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix catches up with the City & Guilds Union. We hear what they’ve been getting up to over the last few week and what we can expect for the future.
 date: "2013-11-05 09:49:47 +0000"
+
 # Attributes from Felix Online V1
 id: "4007"
 old_path: /features/4007/keeping-up-with-the-engineers
 aliases:
  - /features/4007/keeping-up-with-the-engineers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 __Integrating Engineers: the way to reviving the CGCU brand__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Matt Proctor compare us to Oxbridge to see who works harder
 date: "2013-01-10 22:37:51 +0000"
+
 # Attributes from Felix Online V1
 id: "3090"
 old_path: /news/3090/our-workload-woes
 aliases:
  - /news/3090/our-workload-woes
+imported: true
+comments:
+ - The boy girl ratio is a complete joke It is bad enough being at 6832 but when you look at the standard of girls you would cryWow your mate in Civ Eng is a cunt Good luck to him getting a girl with a darling attitude like that dare I say it when one takes into account our longer term length and the fact that our first year actually contributes towards our degree classification it would seem we work harderFeminism is about equality What that includes is not objectifying women or holding them to unrealistic body images something the standard of girls comment implicitly furthers Only few courses run by oxbridge grads  can live up to the standardSeriously Fuck you and your elitist prejudicial bullshitThe point is that nobody is entitled to get a girl Women dont exist for gratification and they have a choice in who if anyone gets them  The standard of girls comment also plays into the stereotype that women can be either attractive or intelligent but not both whic
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The boy girl ratio is a complete joke It is bad enough being at 6832 but when you look at the standard of girls you would cryWow your mate in Civ Eng is a cunt Good luck to him getting a girl with a darling attitude like that dare I say it when one takes into account our longer term length and the fact that our first year actually contributes towards our degree classification it would seem we work harderFeminism is about equality What that includes is not objectifying women or holding them to unrealistic body images something the standard of girls comment implicitly furthers Only few courses run by oxbridge grads  can live up to the standardSeriously Fuck you and your elitist prejudicial bullshitThe point is that nobody is entitled to get a girl Women dont exist for gratification and they have a choice in who if anyone gets them  The standard of girls comment also plays into the stereotype that women can be either attractive or intelligent but not both whic
-imported: true
 ---
 
 As students of Imperial College, we often regard ourselves as some of the hardest worked students in the country. A quick Google search reveals many students’ reviews of their time at Imperial. One such review on a website called WhatUni.com, which offers advice to those applying to University, from a former Physics student says:

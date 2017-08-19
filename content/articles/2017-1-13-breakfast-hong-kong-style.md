@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix takes a brief trip to Hong Kong for an artery-clogging breakfast - best scrambled eggs, creamy white bread and gip milk tea
 date: "2017-01-13 14:54:18 +0000"
+
 # Attributes from Felix Online V1
 id: "6649"
 old_path: /food/6649/breakfast-hong-kong-style
 aliases:
  - /food/6649/breakfast-hong-kong-style
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Plonk.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   007 comes to Imperial
 date: "2012-10-26 01:38:02 +0100"
+
 # Attributes from Felix Online V1
 id: "2729"
 old_path: /news/2729/a-skyfall-from-beit
 aliases:
  - /news/2729/a-skyfall-from-beit
+imported: true
+comments:
+ - God lucky escape I dont know anyone whos survived being on a roof beforesenseofperspectivepl0xNo mention of the fact that one of the reasons everything had to be moved quite so quickly was because Imperial were holding graduation there at 11am the next dayNaughty Felix on the roof Watch out theyve got a high powered rifle Jumps to groundChristopher Kaye please shut up you dithering little wankstain Getting bored of your shitty comments on this website now  nothing better to do at 930 on a friday night you are boredhttp24mediatumblrcomtumblr_mbnr4x71hd1r5hocco1_500jpgYeah nice one so bored got nothing better to do on a Friday night or are you just too busy wanking to yourself in the mirrorChris Kaye speaks for most of us Well at least those with something to do on a Friday night
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - God lucky escape I dont know anyone whos survived being on a roof beforesenseofperspectivepl0xNo mention of the fact that one of the reasons everything had to be moved quite so quickly was because Imperial were holding graduation there at 11am the next dayNaughty Felix on the roof Watch out theyve got a high powered rifle Jumps to groundChristopher Kaye please shut up you dithering little wankstain Getting bored of your shitty comments on this website now  nothing better to do at 930 on a friday night you are boredhttp24mediatumblrcomtumblr_mbnr4x71hd1r5hocco1_500jpgYeah nice one so bored got nothing better to do on a Friday night or are you just too busy wanking to yourself in the mirrorChris Kaye speaks for most of us Well at least those with something to do on a Friday night
-imported: true
 ---
 
 As a lot of you must know, because it would almost have been impossible to miss for even the keenest attendee of the Library, the new James Bond movie Skyfall premiered at the Royal Albert Hall on Tuesday night. Prince Consort Road was partially closed off and access was restricted around the area.

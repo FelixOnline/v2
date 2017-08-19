@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Royal British Legion and Imperial College London hit back at accusations made by the Mail On Sunday
 date: "2014-11-03 11:24:57 +0000"
+
 # Attributes from Felix Online V1
 id: "4756"
 old_path: /news/4756/investigation-into-use-of-human-tissue-at-imperial-condemned-as-insensitive-and-highly-misleading
 aliases:
  - /news/4756/investigation-into-use-of-human-tissue-at-imperial-condemned-as-insensitive-and-highly-misleading
+imported: true
+comments:
+ - say thanks to so a lota lot for your website it helps a whole lotcsgo httpwulongguancomcommenthtmlindexphppage1id38508Great internet sitewebsite It looks really professional Maintain the helpful jobmadden 17 coins httpakordypl1445cheapfifa17coinsareparticularlydesigned
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - say thanks to so a lota lot for your website it helps a whole lotcsgo httpwulongguancomcommenthtmlindexphppage1id38508Great internet sitewebsite It looks really professional Maintain the helpful jobmadden 17 coins httpakordypl1445cheapfifa17coinsareparticularlydesigned
-imported: true
 ---
 
 An “investigation” into the use of human tissues at Imperial by the [Mail on Sunday](http://www.dailymail.co.uk/news/article-2817170/How-poppy-money-funds-macabre-trade-human-legs-feet-5million-British-legion-lab-opened-Prince-Harry-imports-body-parts-bomb-blasts-tests.html) has been condemned by the College and the Royal British Legion Centre.

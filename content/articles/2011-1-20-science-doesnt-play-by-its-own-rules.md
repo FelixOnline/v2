@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Until there's a more equal balance of men and women in Science, let's stop pretending we live in a rational meritocracy
 date: "2011-01-20 21:25:07 +0000"
+
 # Attributes from Felix Online V1
 id: "646"
 old_path: /comment/646/science-doesnt-play-by-its-own-rules
 aliases:
  - /comment/646/science-doesnt-play-by-its-own-rules
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Happy 450th birthday Francis Bacon! In case you didn't know, it ís thanks to him that you are studying here, and that science exists as it does. It was he who said that we should make observations and draw from them the physical laws which govern our planet. He also wrote that as scientific minds, we should work to free ourselves from idols, the social and professional biases which are part of being human. Our minds must be pure and rational before we can draw accurate conclusions about the world. The scientific method that we all follow started with him. The problem is, he was wrong about quite a few things.

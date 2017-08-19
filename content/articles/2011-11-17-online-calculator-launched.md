@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Prospective students to have increased access to financial support information as new package approaches
 date: "2011-11-17 21:04:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1768"
 old_path: /news/1768/online-calculator-launched
 aliases:
  - /news/1768/online-calculator-launched
+imported: true
+comments:
+ - I disagree that this calculator is particularly excitinguseful its exactly the same as the calculator that is available direct from Student Finance apart from the fact that it also adds in the college bursary The calculator would be significantly more useful to prospective students if it also displayed realistic estimates of expenditure on food travel accommodation leisure activities and course materials London is expensive and students need to know whether or not their upfront costs are met by their loans and grants and  if not  how much extra they will have to contribute to their time in London
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I disagree that this calculator is particularly excitinguseful its exactly the same as the calculator that is available direct from Student Finance apart from the fact that it also adds in the college bursary The calculator would be significantly more useful to prospective students if it also displayed realistic estimates of expenditure on food travel accommodation leisure activities and course materials London is expensive and students need to know whether or not their upfront costs are met by their loans and grants and  if not  how much extra they will have to contribute to their time in London
-imported: true
 ---
 
 A new online calculator was launched this week by Imperial, aiming to give prospective students better access to information on the financial support available to help fund their studies.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It's all things chocolate this October
 date: "2011-10-07 13:02:01 +0100"
+
 # Attributes from Felix Online V1
 id: "1495"
 old_path: /food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup
 aliases:
  - /food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I have good news for the chocolate-lovers; the biggest celebration of chocolate in the UK is on its way! A wonderful opportunity for the public to learn more about the chocolate market in the UK and have fun in a unique way.

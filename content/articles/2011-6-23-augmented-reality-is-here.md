@@ -4,16 +4,24 @@ title: >
 subtitle: >
   But Chris Bowers examines whether it is all that it is cracked up to be
 date: "2011-06-23 20:25:00 +0100"
+
 # Attributes from Felix Online V1
 id: "1422"
 old_path: /tech/1422/augmented-reality-is-here
 aliases:
  - /tech/1422/augmented-reality-is-here
+imported: true
+comments:
+ - I agree  It helps that games help drive technology like AR  The everincreasing specs of PC games have been driinvg the speed of computers higher while bringing down the costsChurch services have been ccnealled for this evening due to the road conditions and frigid temperatures So TPSJ YOUth will be meeting on the Post Party Page for a devotional time together at 7pm Please be prepared to share a favorite or meaningful scripture from the Bible and a little about what it means to you
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I agree  It helps that games help drive technology like AR  The everincreasing specs of PC games have been driinvg the speed of computers higher while bringing down the costsChurch services have been ccnealled for this evening due to the road conditions and frigid temperatures So TPSJ YOUth will be meeting on the Post Party Page for a devotional time together at 7pm Please be prepared to share a favorite or meaningful scripture from the Bible and a little about what it means to you
-imported: true
 ---
 
 Just what is augmented reality? I was at an augmented reality conference recently and the best definition was this: “Augmented reality is an integration of the real world with computer graphics that you can interact with.”

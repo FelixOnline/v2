@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A great start to the year for bridge team
 date: "2014-12-11 21:25:23 +0000"
+
 # Attributes from Felix Online V1
 id: "5039"
 old_path: /cands/5039/bridge-team-place-in-london-cup
 aliases:
  - /cands/5039/bridge-team-place-in-london-cup
+imported: true
+comments:
+ - christian loubitanchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - christian loubitanchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 Imperial came back the proud owners of the second place trophy in last week’s London Cup – the annual inter-university bridge tournament attended by teams from around the UK.

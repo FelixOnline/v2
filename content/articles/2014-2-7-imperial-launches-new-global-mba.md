@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial's new global MBA course launched, which will make its teaching available to the world.
 date: "2014-02-07 04:57:14 +0000"
+
 # Attributes from Felix Online V1
 id: "4352"
 old_path: /news/4352/imperial-launches-new-global-mba
 aliases:
  - /news/4352/imperial-launches-new-global-mba
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Imperial's new global MBA course launched, which will make its teaching available to the world.

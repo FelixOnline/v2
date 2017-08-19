@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This week's Foodie editorial
 date: "2014-11-24 20:38:39 +0000"
+
 # Attributes from Felix Online V1
 id: "4956"
 old_path: /food/4956/what-a-meaty-issue-not-
 aliases:
  - /food/4956/what-a-meaty-issue-not-
+imported: true
+comments:
+ - Constructive criticism httpthecopyfoxcom201211writingtipdoyouoveruseparenthesesThanks funny you should mention that  one of my writers New Years Resolutions is to actually cut down on dem parentheses I must have been writing this editorial after a slew of web writing on Facebook where I turn off my editorgrammar Nazi filter oopsthatll teach me to multitask P
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Constructive criticism httpthecopyfoxcom201211writingtipdoyouoveruseparenthesesThanks funny you should mention that  one of my writers New Years Resolutions is to actually cut down on dem parentheses I must have been writing this editorial after a slew of web writing on Facebook where I turn off my editorgrammar Nazi filter oopsthatll teach me to multitask P
-imported: true
 ---
 
 When Kamil (you’ll recognise him as one of our Arts Editors) pitched this piece, I was really stoked. I’m not deeply for or against vegetarianism myself; after all, I live happily with a vegetarian housemate (who taught me how to make one of my favourite cream pasta dishes), and I willingly go meat-free for my meals sometimes, so long as I’ve had my fix of milk and eggs. I do adore the taste as well of certain quality meat dishes (c’mon, I work at a burger joint!), and for us girls it’s a safe way of making sure iron levels are in check. What I am against though is overtly-extreme “militant activists” (as Kamil himself describes them) – y’know, the ones who guilt-trip you for not subscribing to their cause, their school of thought, etc. So it’s really nice to see some level-headed thoughts on the matter... given that the main reasons I eat less meat when I’m buying and cooking for myself is both cost, and concerns over the quality (think battery chickens et al).

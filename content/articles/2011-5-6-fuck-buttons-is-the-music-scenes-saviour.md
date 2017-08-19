@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A refreshing antidote to all that pop nonsense
 date: "2011-05-06 08:59:25 +0100"
+
 # Attributes from Felix Online V1
 id: "1165"
 old_path: /music/1165/fuck-buttons-is-the-music-scenes-saviour
 aliases:
  - /music/1165/fuck-buttons-is-the-music-scenes-saviour
+imported: true
+comments:
+ - Thank you very nice postDear White Trash I just stopped by  and have read some posts You are in a dark place and need to climb out of your abyss I wish I could help you Sometime rgioeiln can be comforting but is not for everyone I will check back later Stay warm
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thank you very nice postDear White Trash I just stopped by  and have read some posts You are in a dark place and need to climb out of your abyss I wish I could help you Sometime rgioeiln can be comforting but is not for everyone I will check back later Stay warm
-imported: true
 ---
 
 _[HMV Forum](http://venues.meanfiddler.com/the-forum/home), Kentish Town

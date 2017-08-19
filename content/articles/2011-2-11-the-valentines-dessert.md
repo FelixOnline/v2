@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Bobla Gnay explains how it’s done
 date: "2011-02-11 06:51:44 +0000"
+
 # Attributes from Felix Online V1
 id: "802"
 old_path: /food/802/the-valentines-dessert
 aliases:
  - /food/802/the-valentines-dessert
+imported: true
+comments:
+ - This is perfect thank you Felix Now to get that girlI used this recipe last week with great success Now I have a girl AND a fab recipe to boot CHEEERS BoblaOmgg That looks AMAZING Btw I like your table it looks like my floorive got the munchiesbobla youre the bestIve gone ahead and bookmarked  at Diggcom so my frnides can see it tooc2  I simply used Wanted Information About Early Bar Globes  as the entry title in my Diggcom bookmark as I figured if it is good enough for you to title your blog post that then you probably would like to see it bookmarked the same wayThis is a lovely shop Sophie and it rednims me that its been far too long since we popped over the bridge to the High Street Will definitely pay them a visit again this Summer x
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - This is perfect thank you Felix Now to get that girlI used this recipe last week with great success Now I have a girl AND a fab recipe to boot CHEEERS BoblaOmgg That looks AMAZING Btw I like your table it looks like my floorive got the munchiesbobla youre the bestIve gone ahead and bookmarked  at Diggcom so my frnides can see it tooc2  I simply used Wanted Information About Early Bar Globes  as the entry title in my Diggcom bookmark as I figured if it is good enough for you to title your blog post that then you probably would like to see it bookmarked the same wayThis is a lovely shop Sophie and it rednims me that its been far too long since we popped over the bridge to the High Street Will definitely pay them a visit again this Summer x
-imported: true
 ---
 
 Singletons hear me out, it’s coming up to that time of year again... you’re reminded that you are very single, lonely, cold and depressed.

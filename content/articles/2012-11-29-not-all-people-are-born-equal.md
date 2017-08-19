@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yasser Mahmoud on the recent conflict in Gaza
 date: "2012-11-29 23:12:12 +0000"
+
 # Attributes from Felix Online V1
 id: "3007"
 old_path: /comment/3007/not-all-people-are-born-equal
 aliases:
  - /comment/3007/not-all-people-are-born-equal
+imported: true
+comments:
+ - good article YasserIts a tragedy that every few years Israel goes unchallenged in its intimidation of the Palestinians in Gaza via its carpet bombing campaigns The real victims here are the children as shown in this recent conflict and Israel will very soon lose its credibility if its allowed to continue with such behaviour As intellectual students we must all stand up for justiceDear anonymousYou commented Israel will very soon lose its credibility if its allowed toAre you implying that Israel has credibility at the momentFunny how the author talks about wanting peace but when Gaza attacks its fighting back and when Israel attacks its a massacreBoth sides need to stop the violence Unfortunately Hamas have made it entirely clear that they have no intention of that ie Mashaals comments about not ceding a single inch and that the violence will continue until all of that land belongs to Palestine How is it possible to make peace with Hamas if Hamas dont want itIf th
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - good article YasserIts a tragedy that every few years Israel goes unchallenged in its intimidation of the Palestinians in Gaza via its carpet bombing campaigns The real victims here are the children as shown in this recent conflict and Israel will very soon lose its credibility if its allowed to continue with such behaviour As intellectual students we must all stand up for justiceDear anonymousYou commented Israel will very soon lose its credibility if its allowed toAre you implying that Israel has credibility at the momentFunny how the author talks about wanting peace but when Gaza attacks its fighting back and when Israel attacks its a massacreBoth sides need to stop the violence Unfortunately Hamas have made it entirely clear that they have no intention of that ie Mashaals comments about not ceding a single inch and that the violence will continue until all of that land belongs to Palestine How is it possible to make peace with Hamas if Hamas dont want itIf th
-imported: true
 ---
 
 I’m sat across the table from my friend from Gaza; he only got back a week ago but somehow home has managed to find its way back on the news. In between bites of SCR chicken he tells me about his friends back home. I ask if they’re OK and he nods. Suddenly he remembers that one of his friend’s sisters has died. He tells me that she left behind a baby, a little girl only 14 months old – another orphan and another dead mother. Of course she was Palestinian, nationless and now dead, her only crime to have been born in Gaza.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nigel Ward talks to Felix about keeping your possessions in check
 date: "2015-05-29 12:46:46 +0100"
+
 # Attributes from Felix Online V1
 id: "5591"
 old_path: /welfare/5591/how-to-keep-yourself-safe-on-campus
 aliases:
  - /welfare/5591/how-to-keep-yourself-safe-on-campus
+imported: true
+comments:
+ - Pretty instructive looking forward to coming back againcs go skins marketplace httpforumandroidgadgetcoukshowthreadphptid38466Cool content you have herecs go skins buy online httpnba2k16mttrademoonfruitcomblog4592114201NBA2K16RECOMMENDATIONSFROMPROFESSIONALS10630997
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Pretty instructive looking forward to coming back againcs go skins marketplace httpforumandroidgadgetcoukshowthreadphptid38466Cool content you have herecs go skins buy online httpnba2k16mttrademoonfruitcomblog4592114201NBA2K16RECOMMENDATIONSFROMPROFESSIONALS10630997
-imported: true
 ---
 
 My name is Nigel Ward, and on 30th March 2015 I was employed by Imperial College as the Senior Security Officer, Crime. My role is to investigate all crime, deliver a gold standard of victim care, and implement prevention tactics and strategies to reduce crime and the number of victims. What I bring to this role comes from serving 30 years in the Metropolitan Police service from which I retired this February.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"
+
 # Attributes from Felix Online V1
 id: "5635"
 old_path: /fashion/5635/shoes-pleasure-and-pain-
 aliases:
  - /fashion/5635/shoes-pleasure-and-pain-
+imported: true
+comments:
+ - I like this website  its so usefull and helpfullnba 2k16 my everyday player trophies httpforumcollegeedmcomentryphp5743counterstrikeskinspossibilitytostrikeanadditionalmerchandiseoffYouve got the best internet sitesNBA httpwwwmakelove889comhomephpmodspaceuid196636doprofilefromspaceFantastic Site Continue the good job Thanks a tonnba 2k16 httppagesbreakalagcomuserprofile56838Cool website you have herecsgo skins httpwwwmyxxxshemaletubecomuserIzettaEisen524611211Quite informative look frontward to returningfifa 17 points httpwwwintimareacommemberblog_post_viewphppostId11317
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I like this website  its so usefull and helpfullnba 2k16 my everyday player trophies httpforumcollegeedmcomentryphp5743counterstrikeskinspossibilitytostrikeanadditionalmerchandiseoffYouve got the best internet sitesNBA httpwwwmakelove889comhomephpmodspaceuid196636doprofilefromspaceFantastic Site Continue the good job Thanks a tonnba 2k16 httppagesbreakalagcomuserprofile56838Cool website you have herecsgo skins httpwwwmyxxxshemaletubecomuserIzettaEisen524611211Quite informative look frontward to returningfifa 17 points httpwwwintimareacommemberblog_post_viewphppostId11317
-imported: true
 ---
 
 The V&A’s latest fashion exhibition takes a look at the extremes of footwear from around the world, ranging from Cinderella’s glass slippers featured in the recent Disney live action movie, to tiny lotus shoes used to bind women’s feet in 19th century China. The exhibition focuses on the transformative quality of shoes and their cultural significance, particularly as a symbol of status. With over 200 shoes on display, examples are shown from famous shoe wearers as well as a vast range of historical shoes dating as far back as 30 BCE.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman can't stop thinking about the RSC's powerful production of Death of a Salesman.
 date: "2015-05-26 12:47:27 +0100"
+
 # Attributes from Felix Online V1
 id: "5562"
 old_path: /arts/5562/the-rscs-thoroughly-modern-miller
 aliases:
  - /arts/5562/the-rscs-thoroughly-modern-miller
+imported: true
+comments:
+ - We use DHL EMS and UPS etc to deliver the products to major destinations such as the US Europe and Australia in just a few days which makes it convenient for your to get your Nike wholesale orders We have been focusing on combining the best quality the latest style together with the lowest prices on likecheapjordanscom Weve always been trying our best to provide our customers with pleasing online shopping experience We know that qualities prices shipping time customer service are what you concern about most Thus we attach great significance to all these four factors in order to make us a customerfriendly online shopping websitecheap jordans httpwwwlikecheapjordanscomWe use DHL EMS and UPS etc to deliver the products to major destinations such as the US Europe and Australia in just a few days which makes it convenient for your to get your Nike wholesale orders We have been focusing on combining the best quality the latest style together with the lowest prices on likecheap
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - We use DHL EMS and UPS etc to deliver the products to major destinations such as the US Europe and Australia in just a few days which makes it convenient for your to get your Nike wholesale orders We have been focusing on combining the best quality the latest style together with the lowest prices on likecheapjordanscom Weve always been trying our best to provide our customers with pleasing online shopping experience We know that qualities prices shipping time customer service are what you concern about most Thus we attach great significance to all these four factors in order to make us a customerfriendly online shopping websitecheap jordans httpwwwlikecheapjordanscomWe use DHL EMS and UPS etc to deliver the products to major destinations such as the US Europe and Australia in just a few days which makes it convenient for your to get your Nike wholesale orders We have been focusing on combining the best quality the latest style together with the lowest prices on likecheap
-imported: true
 ---
 
 With 2015 marking the centenary of Arthur Miller’s birth, it was inevitable that a fresh crop of revivals of the great American playwright’s works would spring up across the theatre world. Last year saw Yael Farber direct a production of _The Crucible_, staged in the round at the __Old Vic__ and starring Richard Armitage, while Ivo Van Hoe brought _A View from the Bridge _back to life in a startlingly minimalist production that moved from the __Young Vic__ to the __Wyndham’s Theatre__ for early 2015.

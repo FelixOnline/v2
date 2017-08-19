@@ -4,16 +4,24 @@ title: >
 subtitle: >
   New party drug currently being developed by Nutt's team could stop binge drinking but still deliver a high
 date: "2015-01-16 13:03:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5094"
 old_path: /news/5094/care-for-a-legal-high-thats-chaperon-ed-by-imperial
 aliases:
  - /news/5094/care-for-a-legal-high-thats-chaperon-ed-by-imperial
+imported: true
+comments:
+ - More information on MEAI from its pubchem page httppubchemncbinlmnihgovcompound12147687Attractive element of content I simply stumbled upon your blog and in accession capital to say that I acquire in fact loved account your weblog posts Anyway Ill be subscribing on your feeds or even I fulfillment you get right of entry to persistently rapidlycode authenticit moncler httpwwwassolowcostititcodeauthenticitmoncler9007htmlHey there  Youve performed a fantastic job I will definitely digg it and in my view suggest to my friends I am confident they will be benefited from this websitecanada goose roze doos httpskeknlnlcanadagooserozedoos6022htmlC     titleC   httpwww7dachruuploadsimages07784320150326631ef6jpg
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - More information on MEAI from its pubchem page httppubchemncbinlmnihgovcompound12147687Attractive element of content I simply stumbled upon your blog and in accession capital to say that I acquire in fact loved account your weblog posts Anyway Ill be subscribing on your feeds or even I fulfillment you get right of entry to persistently rapidlycode authenticit moncler httpwwwassolowcostititcodeauthenticitmoncler9007htmlHey there  Youve performed a fantastic job I will definitely digg it and in my view suggest to my friends I am confident they will be benefited from this websitecanada goose roze doos httpskeknlnlcanadagooserozedoos6022htmlC     titleC   httpwww7dachruuploadsimages07784320150326631ef6jpg
-imported: true
 ---
 
 Imperial Professor David Nutt has begun research on a legal high that mimics ecstasy but may also stop binge drinking. The drug, known as Chaperon, is still being developed but could one day be available as a cocktail in bars across the country.

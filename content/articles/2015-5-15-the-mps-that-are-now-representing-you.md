@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Unsurprisingly, they're mostly conservative reports Philippa Skett
 date: "2015-05-15 12:31:28 +0100"
+
 # Attributes from Felix Online V1
 id: "5532"
 old_path: /news/5532/the-mps-that-are-now-representing-you
 aliases:
  - /news/5532/the-mps-that-are-now-representing-you
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Areas around South Kensington saw the expected election of several Conservative MPs, although popular student haunt Hammersmith did see the re-election of their current Labour MP, Andy Slaughter.

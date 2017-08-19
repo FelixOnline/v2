@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Matthew Colvin reports on what prevents students from taking to the streets
 date: "2011-11-17 21:12:18 +0000"
+
 # Attributes from Felix Online V1
 id: "1771"
 old_path: /news/1771/why-arent-we-protesting
 aliases:
  - /news/1771/why-arent-we-protesting
+imported: true
+comments:
+ - Fuck UCL
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Fuck UCL
-imported: true
 ---
 
 The past year has seen student activism reach previously unmatched levels. Just over a year since the first major protest against the Coalition Government’s policies on higher education, the past week has seen another take place on the streets of London. Organiser for the National Campaign Against Fees and Cuts Michael Chessum has announced a further day of action next week on November 23.

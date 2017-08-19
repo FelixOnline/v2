@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emma Lisle on the new substance’s potential in engineering
 date: "2015-03-03 15:00:58 +0000"
+
 # Attributes from Felix Online V1
 id: "5329"
 old_path: /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
 aliases:
  - /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
+imported: true
+comments:
+ - buy fitflopfitflop shoes online httpwwwfitflopssingaporecomHello there I found your site via Google while searching for a related topic your site came up it looks good Ive bookmarked it in my google bookmarkswholesale snapbacks httpwwwtwofangtucnThank you for another informative site Where else could I get that type of info written in such an ideal way Ive a project that I am just now working on and I have been on the look out for such infowholesale new era fitted hats httpwwwtwofangtucnfittedhatsfit flops footwearbuy fitflops httpaustraliafitflopsiemillernetCoach Factory  ray ban outlet  coach outlet online  ray ban sunglasses oakley sunglasses outlet httpwwwoakleysunglassesxyzcoach outlet  michael kors factory outlet  cheap oakley sunglasses  ray ban wayfarer coach factory outlet httpwwwcoachfactoryonlinesusorgcoach factory outlet  michael kors outlet  oakley sunglasses wholesale  cheap ray bans cheap ray ban sungla
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - buy fitflopfitflop shoes online httpwwwfitflopssingaporecomHello there I found your site via Google while searching for a related topic your site came up it looks good Ive bookmarked it in my google bookmarkswholesale snapbacks httpwwwtwofangtucnThank you for another informative site Where else could I get that type of info written in such an ideal way Ive a project that I am just now working on and I have been on the look out for such infowholesale new era fitted hats httpwwwtwofangtucnfittedhatsfit flops footwearbuy fitflops httpaustraliafitflopsiemillernetCoach Factory  ray ban outlet  coach outlet online  ray ban sunglasses oakley sunglasses outlet httpwwwoakleysunglassesxyzcoach outlet  michael kors factory outlet  cheap oakley sunglasses  ray ban wayfarer coach factory outlet httpwwwcoachfactoryonlinesusorgcoach factory outlet  michael kors outlet  oakley sunglasses wholesale  cheap ray bans cheap ray ban sungla
-imported: true
 ---
 
 Engineers believe they may have found the strongest natural material on Earth – limpet teeth. Research conducted at the University of Portsmouth has revealed that the teeth of these small aquatic creatures are so strong they could be copied to make the cars, planes and boats of the future.

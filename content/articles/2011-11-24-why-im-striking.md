@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Three strikers explain what has caused their outrage
 date: "2011-11-24 21:39:02 +0000"
+
 # Attributes from Felix Online V1
 id: "1826"
 old_path: /news/1826/why-im-striking
 aliases:
  - /news/1826/why-im-striking
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “I will be striking on N30. It’s absolutely outrageous cutting pensions. I do feel ambivalent; to forfeit a wadge of money, when my wage is very low does worry me greatly, however, what they are doing is obscene. It is outrageous pensions are not protected, they’re not fantastic anyway. You work the best years of your life for the pensions, which are then attacked, it’s morally wrong to attack our pensions. I’d like to do something meaningful and valuable, I think I’ll picket the library and town hall. It seems really important to do something meaningful with the time. “

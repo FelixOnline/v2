@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hint: It's me Dog
 date: "2017-02-24 13:56:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6816"
 old_path: /science/6816/mans-best-friend
 aliases:
  - /science/6816/mans-best-friend
+imported: true
+comments:
+ - Re your final comment  thats true it was a poor piece of comprehension on my partMy argument is that this is a debate about redefinition to be more inclusive not about discrimination per se  out of interest would you approve of the government stepping out of marriage all together civil unions for all and freedom to call your relationship whatever you waItn8217ve written some stuff on why I think opposition to homosexual practice is the only legitimate interpretation of the Biblical data which makes changing the churchs position difficult Particularly  I
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Re your final comment  thats true it was a poor piece of comprehension on my partMy argument is that this is a debate about redefinition to be more inclusive not about discrimination per se  out of interest would you approve of the government stepping out of marriage all together civil unions for all and freedom to call your relationship whatever you waItn8217ve written some stuff on why I think opposition to homosexual practice is the only legitimate interpretation of the Biblical data which makes changing the churchs position difficult Particularly  I
-imported: true
 ---
 
 Fact: Dogs can smell cancer.

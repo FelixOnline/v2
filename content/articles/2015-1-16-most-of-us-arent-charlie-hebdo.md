@@ -4,16 +4,24 @@ title: >
 subtitle: >
   As a student newspaper, is it our role to offend our readership?
 date: "2015-01-16 13:29:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5100"
 old_path: /comment/5100/most-of-us-arent-charlie-hebdo
 aliases:
  - /comment/5100/most-of-us-arent-charlie-hebdo
+imported: true
+comments:
+ - If only the Israelis supported by the USA would become more conciliatory in their dealings with the Palestinian Authority and stop persecuting them taking their property by force expanding their boundary contrary to international law and the rest of their inhuman behaviour just maybe the Islamic militants would have less justification for attacking western society The Palestinians were arbitrarily deprived of the majority of Palestine in order to provide the Israelis with a home and have a legitimate grievance that the Israelis seem to be intent on depriving the Palestinian in the occupied territories of any respectable presence at  all Shame on them and the USADo you not see how flawed and frankly antisemitic your comment is Youre actually justifying the murder of French Jews because of Israels actions in the Middle East What do the everyday French jewish population have to do with that I am disgusted by Isis but Im not about to shoot a load of British Muslims because I disagree with the a
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If only the Israelis supported by the USA would become more conciliatory in their dealings with the Palestinian Authority and stop persecuting them taking their property by force expanding their boundary contrary to international law and the rest of their inhuman behaviour just maybe the Islamic militants would have less justification for attacking western society The Palestinians were arbitrarily deprived of the majority of Palestine in order to provide the Israelis with a home and have a legitimate grievance that the Israelis seem to be intent on depriving the Palestinian in the occupied territories of any respectable presence at  all Shame on them and the USADo you not see how flawed and frankly antisemitic your comment is Youre actually justifying the murder of French Jews because of Israels actions in the Middle East What do the everyday French jewish population have to do with that I am disgusted by Isis but Im not about to shoot a load of British Muslims because I disagree with the a
-imported: true
 ---
 
 This week’s _Charlie Hebdo_ poster features a cartoon man portrayed as the prophet Mohammed, crying and holding a sign reading “_Je suis Charlie._” Above is the slogan “Tout est pardonné” (You’re forgiven).

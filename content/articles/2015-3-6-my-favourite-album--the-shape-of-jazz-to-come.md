@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kamil McClelland shows us the power and beauty of Ornette Coleman's masterpiece
 date: "2015-03-06 13:18:48 +0000"
+
 # Attributes from Felix Online V1
 id: "5350"
 old_path: /music/5350/my-favourite-album--the-shape-of-jazz-to-come
 aliases:
  - /music/5350/my-favourite-album--the-shape-of-jazz-to-come
+imported: true
+comments:
+ - say thanks to so mucha lot for your site it helps a great dealfifa 17 points httpeamedeindexphpdoblog47248cheapnba2k17mtnba2k16mtoverviewAwesome Website Continue the very good work With thanksfifa 17 httpgiftbookcozablogview5476nhlcoinsplayoffintensityisadjustedwelltobyjonathonblum
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - say thanks to so mucha lot for your site it helps a great dealfifa 17 points httpeamedeindexphpdoblog47248cheapnba2k17mtnba2k16mtoverviewAwesome Website Continue the very good work With thanksfifa 17 httpgiftbookcozablogview5476nhlcoinsplayoffintensityisadjustedwelltobyjonathonblum
-imported: true
 ---
 
 1959, probably the most important year in the history of jazz, a turning point away from bebop and its roots in blues and dixieland, towards a new path for jazz: free jazz. In the same year Miles Davis released _Kind of Blue_ and Dave Brubeck came out with _Time Out_, a lesser known artist called Ornette Coleman came out of the shadows to release his album _The Shape of Jazz to Come_. The implications of this album cannot be underplayed; it heralded the advent of free jazz: more a way of thinking than a genre in itself, that would revolutionise music for the rest of the 20th Century.

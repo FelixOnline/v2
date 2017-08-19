@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A far-fetched idea but new Union menu is a hit
 date: "2010-10-28 19:44:02 +0100"
+
 # Attributes from Felix Online V1
 id: "272"
 old_path: /food/272/union-food-worthy-of-a-michelin-star-
 aliases:
  - /food/272/union-food-worthy-of-a-michelin-star-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So, I was recently asked about the best perk of working behind [the new bar at the Union](http://www.imperialcollegeunion.org/food-drink/fivesixeight/). Now, before you say, it’s not the verbal abuse from the pretty much universally hated miners and no, it’s not the funky shirts. It’s without a doubt, the free food.

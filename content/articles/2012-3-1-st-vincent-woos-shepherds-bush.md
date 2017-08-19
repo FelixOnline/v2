@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stuart Masson left all starry-eyed by Annie Clark’s stunning performance
 date: "2012-03-01 23:10:31 +0000"
+
 # Attributes from Felix Online V1
 id: "2297"
 old_path: /music/2297/st-vincent-woos-shepherds-bush
 aliases:
  - /music/2297/st-vincent-woos-shepherds-bush
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 I am 110% in love with Annie Clark, of __St. Vincent__. That means I could backtrack 10% and still be completely in love with her. The woman knows her way around a guitar and what more do you need? The live tone is sensational, probably the best I’ve ever heard, and it suits her manic little riffs absolutely perfectly. The solos (and there are plenty) seem essential to the message of the songs instead of the normal ego-inflating wankery. The atmosphere of it ebbs and flows and it never gets close to dull. The rest of the band does their job, but it is all about Annie Clark. Tonight’s gig is her biggest ever UK headline show but that doesn’t seem to faze her. She runs the stage. Her whole performance is just captivating. After one song I noticed the drummer picking up drums, but I have absolutely no idea how they were knocked over, because I couldn’t take my eyes off Annie Clark.

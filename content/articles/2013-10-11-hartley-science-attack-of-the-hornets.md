@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fiona’s science corner: Attack of the hornets!
 date: "2013-10-11 23:24:37 +0100"
+
 # Attributes from Felix Online V1
 id: "3827"
 old_path: /science/3827/hartley-science-attack-of-the-hornets
 aliases:
  - /science/3827/hartley-science-attack-of-the-hornets
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - frh10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "frh10"
 author_name: "Fiona Hartley"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Here we are at the end of the first proper week and here’s a new spread of science to educate and hopefully entertain you. Philippa introduced me as a ‘bubbling biologist’ last week, which is an exaggeration, but true to form this week’s news story that has struck me is a biological one.

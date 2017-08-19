@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Bethnal Green brings the beats
 date: "2013-01-24 22:05:27 +0000"
+
 # Attributes from Felix Online V1
 id: "3163"
 old_path: /music/3163/utr-helm-and-tropa-macaca
 aliases:
  - /music/3163/utr-helm-and-tropa-macaca
+imported: true
+comments:
+ - I believe it actually implies that split opinion on which artist was better  two strong live performersSplit opinion  strong live performance
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I believe it actually implies that split opinion on which artist was better  two strong live performersSplit opinion  strong live performance
-imported: true
 ---
 
 Promoters and record label Upset The Rhythm have really been having a good run so far this year, throwing the phenomenal [__Pete Swanson__](http://typerecords.com/artists/pete-swanson) (of [__Yellow Swans__](http://www.youtube.com/watch?v=1RrModDAsO8)) and [__Mark Fell__](http://www.markfell.com/wiki/) (of [__SND__](http://www.youtube.com/watch?v=ddq7PzDSqHY)) event last Monday, and last night putting on a small show in The Sebright Arms for hot-topic [__Helm__](http://soundcloud.com/pan_recs/helm-impossible-symmetry) (on the hot-topic label PAN, which I only recently realised is the same label that put out Sewer Election’s fantastic Vidöppna Sår in 2010) and the obscure Portuguese synth and guitar duo [__Tropa Macaca__](http://tropamacaca.com/).

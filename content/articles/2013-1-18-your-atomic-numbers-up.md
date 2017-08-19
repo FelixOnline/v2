@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pavitar Singh Devgon talks about the new clock that has got the masses into a frenzy
 date: "2013-01-18 00:21:16 +0000"
+
 # Attributes from Felix Online V1
 id: "3130"
 old_path: /science/3130/your-atomic-numbers-up
 aliases:
  - /science/3130/your-atomic-numbers-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Whether it was using sand, sundials or swinging pendulums, humans have strived to create more efficient time keeping devices. The past century saw a large jump with the introduction of the atomic clock. Current models operate by measuring the microwave energy signature of electrons dropping between energy levels. These are remarkably precise with errors as little as 1 part in 1017, which equates to dropping a second every 3 billion years or so.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Dylan Lowe on the delights of a country which is both naturally beautiful and an adrenalin junkie's paradise
 date: "2011-03-01 21:15:46 +0000"
+
 # Attributes from Felix Online V1
 id: "967"
 old_path: /travel/967/regal-charms-of-new-zealand
 aliases:
  - /travel/967/regal-charms-of-new-zealand
+imported: true
+comments:
+ - Yes good review spot on I say Ive lived in NZ for most of my life and you got it just right Its a long flight from the UK but totally worth it Just make sure you take your time and are as laid back as most of us kiwisIJWTS wow Why cant I think of tinghs like thatG34O36  cowvrzcelbzzP3Khfq  jmygwxnzdbtj5iZc7b  urlhttpeoafjqkvbnbzcomeoafjqkvbnbzurl linkhttpclpzcjvzgkoicomclpzcjvzgkoilink httpqcrttxzkxwescomy2Rgof  srxsgvcpxyew
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Yes good review spot on I say Ive lived in NZ for most of my life and you got it just right Its a long flight from the UK but totally worth it Just make sure you take your time and are as laid back as most of us kiwisIJWTS wow Why cant I think of tinghs like thatG34O36  cowvrzcelbzzP3Khfq  jmygwxnzdbtj5iZc7b  urlhttpeoafjqkvbnbzcomeoafjqkvbnbzurl linkhttpclpzcjvzgkoicomclpzcjvzgkoilink httpqcrttxzkxwescomy2Rgof  srxsgvcpxyew
-imported: true
 ---
 
 _The lowdown_: Two million tourists tread the two islands of New Zealand every year – for a very good reason. Its natural beauty is second to none; its reputation as an adrenaline junkie’s wettest of dreams well deserved.

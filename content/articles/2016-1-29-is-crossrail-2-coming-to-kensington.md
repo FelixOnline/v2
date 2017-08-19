@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Local bosses publicly back plans to bring new rail link to the King’s Road
 date: "2016-01-29 08:44:56 +0000"
+
 # Attributes from Felix Online V1
 id: "5834"
 old_path: /news/5834/is-crossrail-2-coming-to-kensington
 aliases:
  - /news/5834/is-crossrail-2-coming-to-kensington
+imported: true
+comments:
+ - Interesting that neither Imperial College Harrods nor Natural History Museum are close to the proposed new Crossrail station in Chelsea  Imperial College is a mile away and Harrods is closer to Victoria Crossrail station than to the proposed one in Kings Road  I guess they had to go to Knightsbridge to find supporters of a station that has minimal local support
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Interesting that neither Imperial College Harrods nor Natural History Museum are close to the proposed new Crossrail station in Chelsea  Imperial College is a mile away and Harrods is closer to Victoria Crossrail station than to the proposed one in Kings Road  I guess they had to go to Knightsbridge to find supporters of a station that has minimal local support
-imported: true
 ---
 
 Bosses of organisations around West London, including Imperial College Union’s managing director, have signed an open letter to the Evening Standard announcing their support for a Crossrail station on the King’s Road.

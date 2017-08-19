@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This growing library of originals will be vital to their success
 date: "2016-03-18 12:01:57 +0000"
+
 # Attributes from Felix Online V1
 id: "6073"
 old_path: /tv/6073/the-future-of-netflix
 aliases:
  - /tv/6073/the-future-of-netflix
+imported: true
+comments:
+ - Thanks for the purpose of giving many of these terrific articlesnba 2k16 mt ps4 httpforumceramicartruviewtopicphppid83606p83606Great internet site It looks very professional Sustain the helpful jobAdrian Mutu httpwwworcfightdeorcfightforumindexphpactionvthreadforum2topic38132
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for the purpose of giving many of these terrific articlesnba 2k16 mt ps4 httpforumceramicartruviewtopicphppid83606p83606Great internet site It looks very professional Sustain the helpful jobAdrian Mutu httpwwworcfightdeorcfightforumindexphpactionvthreadforum2topic38132
-imported: true
 ---
 
 Netflix recently has rolled out measures to ban people from using proxies to access their service. What this means for the service’s customers is that you are effectively confined to watching what is available in your own country. This is an issue for subscribers basically anywhere except the US where the catalogue of available material is vastly superior. It remains to be seen, however, whether this was the right decision for them. Immediately after the announcement, there was the expected internet outrage with people saying this move was ludicrous and that they would be cancelling their subscriptions. This, of course, quickly subsided. But the issue at the heart of the dissent remains; is it still worth having a Netflix subscription?

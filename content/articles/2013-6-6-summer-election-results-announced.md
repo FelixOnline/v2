@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Spoiler warning: DPE for next year is RON. Nah, just kidding, it's...
 date: "2013-06-06 10:53:19 +0100"
+
 # Attributes from Felix Online V1
 id: "3662"
 old_path: /news/3662/summer-election-results-announced
 aliases:
  - /news/3662/summer-election-results-announced
+imported: true
+comments:
+ - Oh shit christopher kaye in my union Time I fucking left imperial
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Oh shit christopher kaye in my union Time I fucking left imperial
-imported: true
 ---
 
 Imperial College Union has announced the results for the Summer Elections. This election is for some of the part time positions but also included the sabbatical position of Deputy President (Education), as the former winner will be taking an interruption of studies and so is no longer able to take up the post.

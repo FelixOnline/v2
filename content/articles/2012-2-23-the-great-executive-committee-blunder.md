@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Henry Abbot criticizes the Union's decision to cut Clubs and Societies' funding by 10% despite an underspend below 4%
 date: "2012-02-23 20:19:05 +0000"
+
 # Attributes from Felix Online V1
 id: "2231"
 old_path: /comment/2231/the-great-executive-committee-blunder
 aliases:
  - /comment/2231/the-great-executive-committee-blunder
+imported: true
+comments:
+ - Scott Heath Im fully aware of the membership  whilst on paper its a 57 ratio of Sabbs to students the students routinely have other commitments and cant attend Looking through the last few sets of minutes in practice the Sabbs routinely outnumber the students Anyway this technicality isnt really my point You say professionals advise the committee so how is the committee misinformed over its figures and doesnt notice Because papers are circulated late and cant be given due consideration before being rubber stamped Its just not acceptable that such crucial decisions arent properly considered which brings me neatly onto my other main pointDecisions such as the one at hand are made in closed session preventing any oversight from the students or the Union council I presented a paper only last term to Council which exercised Councils right to revise a decisions made by Exec but for the one at hand no review or opportunity for reconsideration is available outside of E
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Scott Heath Im fully aware of the membership  whilst on paper its a 57 ratio of Sabbs to students the students routinely have other commitments and cant attend Looking through the last few sets of minutes in practice the Sabbs routinely outnumber the students Anyway this technicality isnt really my point You say professionals advise the committee so how is the committee misinformed over its figures and doesnt notice Because papers are circulated late and cant be given due consideration before being rubber stamped Its just not acceptable that such crucial decisions arent properly considered which brings me neatly onto my other main pointDecisions such as the one at hand are made in closed session preventing any oversight from the students or the Union council I presented a paper only last term to Council which exercised Councils right to revise a decisions made by Exec but for the one at hand no review or opportunity for reconsideration is available outside of E
-imported: true
 ---
 
 The Union’s Executive Committee is charged with deciding how the Union is run on a day-to-day basis. It approves things like the Summer Ball, and the whole Union’s budget to make sure things are progressing how the student body wants them to. Three weeks ago the Executive Committee chose to reallocate nearly £35,000 away from Clubs and Societies funding. The rationale given by Michael Foster (Deputy President for Finance and Services) for this 10% cut was that “the total grant underspend [by clubs and societies] last year was greater than the changes to funding.” Grant money left unspent at the end of the year by a club is reabsorbed by the Union and generally deemed as unnecessary funding. Foster then went on to say “the reallocated money will be much more effective invested in support mechanisms.”

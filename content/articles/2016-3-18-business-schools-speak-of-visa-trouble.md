@@ -4,16 +4,23 @@ title: >
 subtitle: >
   UK “difficult and unattractive” for overseas students
 date: "2016-03-18 11:32:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6052"
 old_path: /news/6052/business-schools-speak-of-visa-trouble
 aliases:
  - /news/6052/business-schools-speak-of-visa-trouble
+imported: true
+comments:
+ - cs go skins earn httpwwwadsagarcomitem5183hello there Hey please assist me to replace the elgg sociable flashlight style to 1 6 You should time to share learn which usually web page within mod to be able to alter for making my personal configuration by using the active operation You need to build your individual layouts Ex into document viewsGucci Outlet httpwwwcharopfcomguccioutletThanks this website is very helpfulcsgo skins command httpgrandiosenmixxtatnetworksblogpostteamloveteamlove63Youre very professionalbest runescape 07 gold seller httpwwwrunescapegold2007comrs2007buyrunescape2007goldhellothis is very nice siteblade  soul gold httpwwwnismocznewviewtopicphpp4165441654You always know the right thing to sayu4fifa httpu4fifablogcucomI mean itcheap nba 2k16 coins ps4 httpwwwnba2k16storecomnba2k16PS42199Ill be there for you fifa 17 points httparticleduniacomsiximportantchangesyoushouldknow
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cs go skins earn httpwwwadsagarcomitem5183hello there Hey please assist me to replace the elgg sociable flashlight style to 1 6 You should time to share learn which usually web page within mod to be able to alter for making my personal configuration by using the active operation You need to build your individual layouts Ex into document viewsGucci Outlet httpwwwcharopfcomguccioutletThanks this website is very helpfulcsgo skins command httpgrandiosenmixxtatnetworksblogpostteamloveteamlove63Youre very professionalbest runescape 07 gold seller httpwwwrunescapegold2007comrs2007buyrunescape2007goldhellothis is very nice siteblade  soul gold httpwwwnismocznewviewtopicphpp4165441654You always know the right thing to sayu4fifa httpu4fifablogcucomI mean itcheap nba 2k16 coins ps4 httpwwwnba2k16storecomnba2k16PS42199Ill be there for you fifa 17 points httparticleduniacomsiximportantchangesyoushouldknow
-imported: true
 ---
 
 A group of business school deans and those responsible for international recruitment at 15 UK universities, including Imperial, were interviewed as part of a report which concluded that current visa rules are making study in the UK “difficult and unattractive”.

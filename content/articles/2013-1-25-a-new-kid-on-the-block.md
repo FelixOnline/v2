@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Matt Allinson on the new online newspaper at Imperial
 date: "2013-01-25 01:56:24 +0000"
+
 # Attributes from Felix Online V1
 id: "3189"
 old_path: /news/3189/a-new-kid-on-the-block
 aliases:
  - /news/3189/a-new-kid-on-the-block
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week [The Tab Imperial ](http://imperial.tab.co.uk/)launched, a new online news source that focuses on news and life of being student at Imperial and around London.

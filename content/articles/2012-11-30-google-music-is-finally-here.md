@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jason Parmar looks at Google’s venture into the digital music market
 date: "2012-11-30 11:25:45 +0000"
+
 # Attributes from Felix Online V1
 id: "3016"
 old_path: /tech/3016/google-music-is-finally-here
 aliases:
  - /tech/3016/google-music-is-finally-here
+imported: true
+comments:
+ - Good article man Im lovin Google music tooOne error I spotted its Samsung who manufacture the Nexus 10 not LG
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good article man Im lovin Google music tooOne error I spotted its Samsung who manufacture the Nexus 10 not LG
-imported: true
 ---
 
 I used to use browser based music services “[Grooveshark](http://grooveshark.com/)” & “[Hypem](http://hypem.com/)” in addition to downloading to fulfil my musical listening needs. However, I knew it wasn’t really sustainable, especially considering that Grooveshark is in a [very long legal battle](http://mediadecoder.blogs.nytimes.com/2012/07/11/digital-notes-grooveshark-wins-a-battle-but-can-it-win-the-war/) and is currently being sued by several labels, the biggest case for [$17.1 billion from Universal](http://www.digitalmusicnews.com/permalink/2011/111123grooveshark). Combine this with Android, Apple and Facebook all removing the Grooveshark app from their OS/Social network and the future isn’t bright for Grooveshark, or my musical fulfilment.

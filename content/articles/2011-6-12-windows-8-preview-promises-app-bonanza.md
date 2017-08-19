@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Microsoft unveil new OS
 date: "2011-06-12 15:48:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1363"
 old_path: /tech/1363/windows-8-preview-promises-app-bonanza
 aliases:
  - /tech/1363/windows-8-preview-promises-app-bonanza
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After weeks of speculation and leaks regarding the next version of Microsoft’s flagship software, Windows 8 was previewed this week at the Computex Expo.

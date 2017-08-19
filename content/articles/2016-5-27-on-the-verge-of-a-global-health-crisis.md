@@ -4,16 +4,22 @@ title: >
 subtitle: >
   FELIX finds out what Imperial researchers really think
 date: "2016-05-27 08:55:01 +0100"
+
 # Attributes from Felix Online V1
 id: "6211"
 old_path: /science/6211/on-the-verge-of-a-global-health-crisis
 aliases:
  - /science/6211/on-the-verge-of-a-global-health-crisis
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We do desperately need new antibiotics,” said Dr. Andrew Edwards, a lecturer at Imperial College London and group leader at the Medical Research Centre for Molecular Bacteriology and Infection. “What we have seen recently is the emergence of some strains [genetic variants of bacterial species] resistant to all of our different types of antibiotics,” he added.

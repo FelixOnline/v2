@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Evolution leads to key behind a scared response
 date: "2011-11-03 19:49:27 +0000"
+
 # Attributes from Felix Online V1
 id: "1656"
 old_path: /science/1656/why-we-allow-fear-to-take-control
 aliases:
  - /science/1656/why-we-allow-fear-to-take-control
+imported: true
+comments:
+ - What should I tell him to try againHow do I get him backWhat do I sayHere is the soiuatitnHe and I were high school sweethearts and were engaged to be married after I graduated hes two years older than I am A month after I graduated he told me he had joined the military He didnt talk with me about it previously and he did it for us We went our separate ways very messily i might add I jumped into another relationship married the guy a month later He and I reconciled and tried being friends and he was already friends with my husband He left for basic Three months later I found out I was pregnant My husband sent me to the town he was stationed to start over new as a family instead of joining me I was served divorce papers My ex fiance and I realized the flame never went out I had to leave to go back for my daughter We tried a long distance relationship that did not work well his day to day was the same thing every day and he did not  have much to say but we both still loved each other as
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What should I tell him to try againHow do I get him backWhat do I sayHere is the soiuatitnHe and I were high school sweethearts and were engaged to be married after I graduated hes two years older than I am A month after I graduated he told me he had joined the military He didnt talk with me about it previously and he did it for us We went our separate ways very messily i might add I jumped into another relationship married the guy a month later He and I reconciled and tried being friends and he was already friends with my husband He left for basic Three months later I found out I was pregnant My husband sent me to the town he was stationed to start over new as a family instead of joining me I was served divorce papers My ex fiance and I realized the flame never went out I had to leave to go back for my daughter We tried a long distance relationship that did not work well his day to day was the same thing every day and he did not  have much to say but we both still loved each other as
-imported: true
 ---
 
 It was a dark, misty, eerie night this Halloween. I was walking alone through a deserted, narrow street in London. The sound of footsteps behind me made me start. I stopped and listened. The noise stopped. I carried on walking. The footsteps started again. All my senses were heightened. I began to wonder if someone was in the dark behind me. The footsteps got nearer. My heart started racing, palms started sweating. The footsteps got louder. Fear took over and I started looking for somewhere to run, to hide, to get away.

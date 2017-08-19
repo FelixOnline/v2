@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Women should avoid getting pregnant until the end of 2017
 date: "2016-02-05 12:06:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5869"
 old_path: /science/5869/zika-virus-spurs-global-health-emergency
 aliases:
  - /science/5869/zika-virus-spurs-global-health-emergency
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In 1947, researchers uncovered a unique virus in macaque monkeys in the Zika Forest in Uganda, transmittable through the bite of infected Aedes mosquitoes, the same ones responsible for yellow fever and dengue.

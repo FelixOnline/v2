@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Fry - Copenhagen & Self interest equates to Failure
 date: "2010-01-14 16:00:56 +0000"
+
 # Attributes from Felix Online V1
 id: "29"
 old_path: /science/29/copenhagen--self-interest-equates-to-failure
 aliases:
  - /science/29/copenhagen--self-interest-equates-to-failure
+imported: true
+comments:
+ - i was surprised to heard that  china is commented as  blocking the legal aspects of the negotiationsquot after reading this story from guardian Blame Denmark not China quot httpwwwguardiancoukcommentisfreecifgreen2009dec28copenhagendenmarkchinaas quote quot Together they imply that developing countries would have to cut their emissions overall by about 20 in absolute terms and at least 60 in per capita terms By 2050 developed countries with high per capita emissions By 2050 developed countries with high per capita emissions such as USA would be allowed to have 2 to 5 times higher per capita emissions level than developing country the developing country will have to severely curb not only their emission and their economy growth especially since there is up to now no credible plans let alone commitments for financial and technology transfers to help them shift to a lowemissions development path Not to mentioned china was the first
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
- - i was surprised to heard that  china is commented as  blocking the legal aspects of the negotiationsquot after reading this story from guardian Blame Denmark not China quot httpwwwguardiancoukcommentisfreecifgreen2009dec28copenhagendenmarkchinaas quote quot Together they imply that developing countries would have to cut their emissions overall by about 20 in absolute terms and at least 60 in per capita terms By 2050 developed countries with high per capita emissions By 2050 developed countries with high per capita emissions such as USA would be allowed to have 2 to 5 times higher per capita emissions level than developing country the developing country will have to severely curb not only their emission and their economy growth especially since there is up to now no credible plans let alone commitments for financial and technology transfers to help them shift to a lowemissions development path Not to mentioned china was the first
-imported: true
 ---
 
 Being carefully turned in the candlelight, crystalline reflections were cast across the scroll strewn desk. Angular yet polished, shining yet black as the unlit night, the previously worthless anthracite was becoming the focus of one of the world's greatest minds. A pair of well worn hands lightly followed the cleaved boundaries as the rock's discovery was told by an immaculately turned out senator, his tunic golden in the dim illumination, aptly matching the fossilised amber hanging from the Emperor's neck. Under the all too common canvas, the politician could feel the tangible weight of his superior's intellect as the details of extraction and combustion were divulged, almost seeing the birth of industry dancing in those deep eyes; the visions of fully mechanised campaigns that would succeed success in Gaul, life for the populous of the Empire incomparably bettered through plenty and luxury, the spread of civilisation into the wild lands.

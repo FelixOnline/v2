@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles lauds the National Theatre's newest production of 3 Winters
 date: "2014-12-18 16:19:07 +0000"
+
 # Attributes from Felix Online V1
 id: "5073"
 old_path: /arts/5073/a-warm-refuge-from-the-heart-of-a-bitter-winter
 aliases:
  - /arts/5073/a-warm-refuge-from-the-heart-of-a-bitter-winter
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For those of you who are cursing the current cold weather, being made to emerge from a warm duvet cocoon in the mornings into a cold, uncaring world, spare a thought for those in Zagreb, where the temperature in December regularly drops to below zero. It is in this climate that Croatian playwright Tena Štivičić sets her play _3 Winters_, which premiered at the__ National Theatre__ last week; a carefully crafted drama, _3 Winters_ takes on seven decades of Croatian history, from their emergence from WWII to their acceptance into the EU. By focussing on four generations of the Kos family living in Zagreb, and how they cope being buffeted by the winds of history, _3 Winters_ shows that not only is the personal political, but the political is personal

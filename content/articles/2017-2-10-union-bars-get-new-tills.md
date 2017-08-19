@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Student body remains unimpressed
 date: "2017-02-10 13:37:43 +0000"
+
 # Attributes from Felix Online V1
 id: "6743"
 old_path: /news/6743/-union-bars-get-new-tills
 aliases:
  - /news/6743/-union-bars-get-new-tills
+imported: true
+comments:
+ - Snakebites are 290 shows you just how much read little research has gone into this You clearly dont use the bar much so why such a judgemental article Bar gets new tills staff take time to get used to it is such a nonstory The staff are full time students they havent worked every day to get used to it in the week since its inceptionhttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttp
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Snakebites are 290 shows you just how much read little research has gone into this You clearly dont use the bar much so why such a judgemental article Bar gets new tills staff take time to get used to it is such a nonstory The staff are full time students they havent worked every day to get used to it in the week since its inceptionhttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttpusaonlineprednisonenet  usaonlineprednisonenetankor salbutamolventolinbuynetankor httponlineviagracanadanethttp
-imported: true
 ---
 
 So you might have heard – or you might have gathered from seeing the long lines of students stretching from Beit all the way down Exhibition Road – that the Union has updated its tills.

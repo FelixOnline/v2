@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This weekend is Imperial’s 28th annual Sci-fi convention Picocon. Sci-fi fan Maciej Matuszewski gives a flavour of the talents of three of the authors attending.
 date: "2011-02-17 19:05:35 +0000"
+
 # Attributes from Felix Online V1
 id: "811"
 old_path: /arts/811/taking-your-pick-of-picocon
 aliases:
  - /arts/811/taking-your-pick-of-picocon
+imported: true
+comments:
+ - URLhttpruladugt35comfemdomrelationshiptipshtmlfemdom relationship tipsURL Hunks who like to fuck choose machines URLhttptejiwolot35comfemdomfacesittingforumhtmlfemdom facesitting forumURL Porn Stars Reveal More Than Their Bodies URLhttpxowuyiwit35comfemdomembarrassinghtmlfemdom embarrassingURL but also custom made devices you cant see anywhere else on the net URLhttpdoyubomot35comlesbianotkfemdomhtmllesbian otk femdomURL Rewrite the Rules of Society with the Rules of Sexual Domination URLhttpxowuyiwit35comfemdominsidertgphtmlfemdom insider tgpURL The cleansing power of piss URLhttpxowuyiwit35comfemdomfaceslappingstoryslapyouhtmlfemdom face slapping story slap youURL Men bound punished and fucked URLhttpdoyubomot35comfemdomwifephotoshtmlfemdom wife photosURL Hot piss on wet pussy URLhttpyuqamarat35comfemdomindependandparishtmlfemdom independand parisURL Bondage punishment and hardcore
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mtm10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - URLhttpruladugt35comfemdomrelationshiptipshtmlfemdom relationship tipsURL Hunks who like to fuck choose machines URLhttptejiwolot35comfemdomfacesittingforumhtmlfemdom facesitting forumURL Porn Stars Reveal More Than Their Bodies URLhttpxowuyiwit35comfemdomembarrassinghtmlfemdom embarrassingURL but also custom made devices you cant see anywhere else on the net URLhttpdoyubomot35comlesbianotkfemdomhtmllesbian otk femdomURL Rewrite the Rules of Society with the Rules of Sexual Domination URLhttpxowuyiwit35comfemdominsidertgphtmlfemdom insider tgpURL The cleansing power of piss URLhttpxowuyiwit35comfemdomfaceslappingstoryslapyouhtmlfemdom face slapping story slap youURL Men bound punished and fucked URLhttpdoyubomot35comfemdomwifephotoshtmlfemdom wife photosURL Hot piss on wet pussy URLhttpyuqamarat35comfemdomindependandparishtmlfemdom independand parisURL Bondage punishment and hardcore
-imported: true
 ---
 
 The Thief’s Gamble

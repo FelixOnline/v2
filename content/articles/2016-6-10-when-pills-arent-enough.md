@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Wellcome Book Prize celebrates the interdependency of literature and medicine
 date: "2016-06-10 08:33:24 +0100"
+
 # Attributes from Felix Online V1
 id: "6263"
 old_path: /arts/6263/when-pills-arent-enough
 aliases:
  - /arts/6263/when-pills-arent-enough
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cathy Rentzenbrink begins her story with a night out. On a summer’s day twenty-six years ago, she had decided to head home first, bored, while her brother remained behind in the bar hoping to “get lucky”.

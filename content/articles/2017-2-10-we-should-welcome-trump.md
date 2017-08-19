@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Shaul Rosten explains why banning Trump from the UK would be counterproductive and hypotricical
 date: "2017-02-10 13:42:40 +0000"
+
 # Attributes from Felix Online V1
 id: "6745"
 old_path: /comment/6745/we-should-welcome-trump
 aliases:
  - /comment/6745/we-should-welcome-trump
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two weeks ago, newly-elected President  of the United States, Donald Trump, signed an Executive order suspending entry to the United States for residents of seven Muslim-majority countries, and for Syrian refugees. This was a key campaign pledge, and, although more crudely proposed as a total ban on all Muslims, he was largely ignored at the time as an egotistical idiot who had shouted his way into the Republican candidacy, and whose opinions would have little actual impact on US foreign policy. Now that he is in power, a much greater global response to the policy has formed, propelling, almost symbolically, the cause of inclusion against division.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Clarification sought on reason for closure. Union wants to know how students will be supported through their degrees. Union Council vote to oppose closure wins despite no sabbatical voting for it.
 date: "2013-02-14 21:22:02 +0000"
+
 # Attributes from Felix Online V1
 id: "3337"
 old_path: /news/3337/union-does-not-support-closure-of-translation-studies-unit
 aliases:
  - /news/3337/union-does-not-support-closure-of-translation-studies-unit
+imported: true
+comments:
+ - me BSc elec eng 1966 MScTrans 2002The proposal to move or close the Translation Studies Unit seems inconsistent and illogical1 Imperials Strategy documenthttpsworkspaceimperialacukplanningPublicStrategy01_Strategy_201014pdf2 Words beginning translat occur more than 20 times in that document3 Page 14 in the PDF reader document pages 24 25 states Our definition of translation encompasses all forms of knowledge transfer So translating technical documents between languages is not included in this4 The list of strategic aims also page 14  25 includes To find innovative ways to extend the reach and impact of all our work5 The next page 15 or 26 begins The College encourages external users experts and practitioners in the field to bring their insights and experience into its research education and translation activities The current proposal therefore means that the Colleges translation activities do not include translation itselfThe headline is
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - me BSc elec eng 1966 MScTrans 2002The proposal to move or close the Translation Studies Unit seems inconsistent and illogical1 Imperials Strategy documenthttpsworkspaceimperialacukplanningPublicStrategy01_Strategy_201014pdf2 Words beginning translat occur more than 20 times in that document3 Page 14 in the PDF reader document pages 24 25 states Our definition of translation encompasses all forms of knowledge transfer So translating technical documents between languages is not included in this4 The list of strategic aims also page 14  25 includes To find innovative ways to extend the reach and impact of all our work5 The next page 15 or 26 begins The College encourages external users experts and practitioners in the field to bring their insights and experience into its research education and translation activities The current proposal therefore means that the Colleges translation activities do not include translation itselfThe headline is
-imported: true
 ---
 
 The Union opposes the[ closure of the Translation Studies Unit (TSU)](http://felixonline.co.uk/news/3173/translation-unit-under-threat/), following a vote at Union Council on Tuesday 12 February. The Union will also be seeking clarification on the reasons why the Unit will be closed and how the students will be supported in the completion of their studies; this is because College’s previous explanations have been vague. Council voted to both oppose the closure of the TSU and to seek clarity, despite all sabbatical officers either abstaining or voting against the motion. This increases pressure on the College, as[ an online petition has already received over 6000 signatures](http://www.change.org/en-GB/petitions/petition-against-the-transferral-or-closure-of-the-translation-studies-unit).

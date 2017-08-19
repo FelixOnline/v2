@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It is time that we acknowledged our failure to act, find a cause, and make a difference
 date: "2015-10-30 12:36:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5684"
 old_path: /comment/5684/why-are-imperial-students-so-apathetic-about-politics
 aliases:
  - /comment/5684/why-are-imperial-students-so-apathetic-about-politics
+imported: true
+comments:
+ - While you raise the point of Union Council do ask yourself the question  is Council really that representative of the students it is supposed to representI personally found in previous years that Council has actually been more interested in the ideologies of the people in it rather than of myself and my peers I guess its hard when you vote for the funny manifesto rather than any concrete policies  when I voted I always found all the manifestos to say the same thing power to students instead of anything concrete with the exception of Andrew Tranter who I think deserves a huge amount of credit irrespective of whether you agree with his point of view or notHopefully this democracy review I read about will fix it  maybe Council will be more successful at lobbying when it has a stronger mandate from the student body to campaign on issues it cares aboutIts not that Imperial students arent interested in politics its that we dont tend to indulge in the petty rioting that the students from o
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - While you raise the point of Union Council do ask yourself the question  is Council really that representative of the students it is supposed to representI personally found in previous years that Council has actually been more interested in the ideologies of the people in it rather than of myself and my peers I guess its hard when you vote for the funny manifesto rather than any concrete policies  when I voted I always found all the manifestos to say the same thing power to students instead of anything concrete with the exception of Andrew Tranter who I think deserves a huge amount of credit irrespective of whether you agree with his point of view or notHopefully this democracy review I read about will fix it  maybe Council will be more successful at lobbying when it has a stronger mandate from the student body to campaign on issues it cares aboutIts not that Imperial students arent interested in politics its that we dont tend to indulge in the petty rioting that the students from o
-imported: true
 ---
 
 The students of Imperial are, in my experience, greatly lacking in their enthusiasm for political and social issues when compared to their contemporaries at other institutions. While it might be true that there is growing resentment and disillusionment among students towards the political class, this does not excuse the alarming lack of visible activism and demonstration across campus.

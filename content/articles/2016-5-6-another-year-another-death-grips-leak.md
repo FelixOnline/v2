@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Being a Death Grips fan involves grueling masochism
 date: "2016-05-06 09:58:16 +0100"
+
 # Attributes from Felix Online V1
 id: "6126"
 old_path: /music/6126/another-year-another-death-grips-leak
 aliases:
  - /music/6126/another-year-another-death-grips-leak
+imported: true
+comments:
+ - Astonishingly user friendly website Immense details available on couple of clicksfifa 17 coins httpwwwafrozmeetcomgroupsviewid_2740Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bo
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Astonishingly user friendly website Immense details available on couple of clicksfifa 17 coins httpwwwafrozmeetcomgroupsviewid_2740Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bo
-imported: true
 ---
 
 The most avant-garde of avant-garde rap groups has leaked yet another album: _Bottomless Pit_. And it’s exactly what you’d expect. It’s so good it’s bad. It’s so bad it’s good. And it’s self-aware. We’ve reached peak irony, and I for one love it.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Medics make substantial donation to local Hammersmith food bank
 date: "2015-01-16 13:08:49 +0000"
+
 # Attributes from Felix Online V1
 id: "5096"
 old_path: /news/5096/medics-laughing-all-the-way-to-the-food-bank
 aliases:
  - /news/5096/medics-laughing-all-the-way-to-the-food-bank
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial medical students made a last-minute but sizable donation to the local food bank earlier this month, after collecting dried goods before the Christmas bop at the end of last year.

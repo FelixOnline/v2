@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken reviews Suits, currently on its fourth season
 date: "2015-03-03 14:54:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5327"
 old_path: /tv/5327/two-lawyers-one-degree-and-some-great-television
 aliases:
  - /tv/5327/two-lawyers-one-degree-and-some-great-television
+imported: true
+comments:
+ - the best tv prog in avery long time Long may it continue Is Louis back with Hardman Spectorbirkenstocks on salebirkenstocks on sale httpbirkenstockaustraliablogspotcomchristian louboutin sandalschristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcomKeep up the amazing work  Lovin itmadden 17 coins httpwwwbloggerfreecomblogspost30515
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - the best tv prog in avery long time Long may it continue Is Louis back with Hardman Spectorbirkenstocks on salebirkenstocks on sale httpbirkenstockaustraliablogspotcomchristian louboutin sandalschristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcomKeep up the amazing work  Lovin itmadden 17 coins httpwwwbloggerfreecomblogspost30515
-imported: true
 ---
 
 Now in its fourth series, _Suits _is an American legal drama that premiered in June of 2011. Created by Aaron Korsh, the first episode is one of the best pilots in recent television history.

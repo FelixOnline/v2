@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mary Anning discovered its fossilised remains in 1810
 date: "2016-03-11 11:36:09 +0000"
+
 # Attributes from Felix Online V1
 id: "6025"
 old_path: /science/6025/who-really-killed-the-ichthyosaur
 aliases:
  - /science/6025/who-really-killed-the-ichthyosaur
+imported: true
+comments:
+ - Posts like this brgeithn up my day Thanks for taking the time
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Posts like this brgeithn up my day Thanks for taking the time
-imported: true
 ---
 
 Meteorites and volcanic eruptions; large events as such are generally considered to have led to the dinosaurs’ demise. However, their legacy is not simple – they lived, big rock collides with the Earth, they died. The Ichthyosaur, otherwise known as the ‘fish lizard’, bewildered scientists with its sudden disappearance some 34-35 million years before the cretaceous-paleocene extinction event. Novel research has put some ease to scientists deliberations, finding that climate change could have been the guilty culprit to the Ichthyosaur’s extinction.

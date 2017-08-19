@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Is the sky the limit, or will it never take off? Plane crazy or runway success?
 date: "2012-03-08 20:52:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2320"
 old_path: /biz/2320/more-airports-for-the-uk
 aliases:
  - /biz/2320/more-airports-for-the-uk
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ever since its conception, the future expansion of Heathrow airport has been the topic of discussion of many a government. Generations of our ‘representatives’ have used the topic to their political gain, including the current coalition, who opposed the famous 3rd runway to help them garner support in the leafy west London suburb of Richmond Park. Now worry not, this is not an article about government policy; you’ve had enough of those from me for a while. Instead, I’d like to take a moment to outline what is possibly the most exciting, and vital project for kick-starting the UK’s failing economy: the Thames Hub.

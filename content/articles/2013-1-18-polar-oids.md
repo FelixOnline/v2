@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lily Le lets the inner biologist out and checks out the Wildlife Photographer of the Year
 date: "2013-01-18 00:41:02 +0000"
+
 # Attributes from Felix Online V1
 id: "3138"
 old_path: /arts/3138/polar-oids
 aliases:
  - /arts/3138/polar-oids
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Wildlife Photographer of the Year exhibition always proves an exciting, engaging, and inspiring visit if the permanent NHM displays were not already enough.

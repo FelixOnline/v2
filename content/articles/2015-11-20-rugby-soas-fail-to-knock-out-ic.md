@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Overtime cup progression for the mighty Rugby 2s
 date: "2015-11-20 09:47:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5765"
 old_path: /sport/5765/rugby-soas-fail-to-knock-out-ic
 aliases:
  - /sport/5765/rugby-soas-fail-to-knock-out-ic
+imported: true
+comments:
+ - I comment when I especially enjoy a article on a website or I have something to valuable to contribute to the discussion Usually it is triggered by the fire communicated in the article I browsed And on this article BLOG_TITLE I was actually moved enough to post a commenta response P I actually do have 2 questions for you if its okay Could it be simply me or do some of the responses look as if they are coming from brain dead people P And if you are writing at additional online social sites I would like to keep up with you Would you make a list all of your social pages like your twitter feed Facebook page or linkedin profilemoncler jas maat 4 heren httpwwwsomarnlnlmonclerjasmaat4heren12150htmlIn group F possibilities Italy Paraguay New Zealand and Slovakia Statistically Jacobs and Ward do what Westbrook gets done alone although Jacobs is often a lot tougher to lessen The success will earn them international accoladescrdits fifa gratuit httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I comment when I especially enjoy a article on a website or I have something to valuable to contribute to the discussion Usually it is triggered by the fire communicated in the article I browsed And on this article BLOG_TITLE I was actually moved enough to post a commenta response P I actually do have 2 questions for you if its okay Could it be simply me or do some of the responses look as if they are coming from brain dead people P And if you are writing at additional online social sites I would like to keep up with you Would you make a list all of your social pages like your twitter feed Facebook page or linkedin profilemoncler jas maat 4 heren httpwwwsomarnlnlmonclerjasmaat4heren12150htmlIn group F possibilities Italy Paraguay New Zealand and Slovakia Statistically Jacobs and Ward do what Westbrook gets done alone although Jacobs is often a lot tougher to lessen The success will earn them international accoladescrdits fifa gratuit httpcreditsfutcom
-imported: true
 ---
 
 On Wednesday the 11th November, IC 2nd XV travelled to Regents’ Park to face the School of Oriental and Asian Studies in the first cup game of the season. After four consecutive wins for IC, the last two of which were by over 50 points, playing a team from a different league meant a solid performance would be necessary. Motivation for IC was at it’s peak with the whole squad knowing that the toughest teams we will face will be in this cup, so progression would be crucial for the team’s development this season.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We continue our selection of unappreciated gems with three alternative sports films
 date: "2015-11-20 14:01:48 +0000"
+
 # Attributes from Felix Online V1
 id: "5766"
 old_path: /film/5766/top-three-sports-films-that-arent-rocky
 aliases:
  - /film/5766/top-three-sports-films-that-arent-rocky
+imported: true
+comments:
+ - I really LOVE Mickey Rourke so many peploe are wondering whybut I don t no whyI just do it and I m looking forward to the end of february when this movie arrives in germany I NEED to watch this film I m shure Mickey does a great work in this movie Snowy greetings from germany geissleinExceptionally user pleasant website Great info readily available on couple of clickspokemongo httppeoplespacecomblogspost57
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I really LOVE Mickey Rourke so many peploe are wondering whybut I don t no whyI just do it and I m looking forward to the end of february when this movie arrives in germany I NEED to watch this film I m shure Mickey does a great work in this movie Snowy greetings from germany geissleinExceptionally user pleasant website Great info readily available on couple of clickspokemongo httppeoplespacecomblogspost57
-imported: true
 ---
 
 People always say the original _Rocky_ is a classic, but I’ve never really seen this. I challenge its fans to watch it again today, and tell me it’s aged well. Yes, there are some iconic scenes, but this is not because they’re good – rather it’s because the film was popular. What we have here is a serious case of nostalgia goggles. Here are some alternatives:

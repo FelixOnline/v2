@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A fan of comic books, but not sure which ones to go for next? Never fear! Cale Tilford is here to take us on a journey through five of his current favourite comic series, perfect for those unacquainted with the art form
 date: "2015-03-25 13:39:28 +0000"
+
 # Attributes from Felix Online V1
 id: "5455"
 old_path: /arts/5455/comic-books-where-to-start
 aliases:
  - /arts/5455/comic-books-where-to-start
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## The Wicked + The Divine

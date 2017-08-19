@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Matthew Colvin is not convinced by the latest Hollywood invention
 date: "2012-02-09 23:11:02 +0000"
+
 # Attributes from Felix Online V1
 id: "2171"
 old_path: /film/2171/are-3d-films-worth-it
 aliases:
  - /film/2171/are-3d-films-worth-it
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A long time ago, in a multiplex not so far away, [_Star Wars: Episode I – The Phantom Menace_](http://www.youtube.com/watch?v=gC6w15OwK08) was released to a baying public, hungry for the most hyped film of the millennium. As parents accompanying their children fell asleep and grown adults cried out in horror at their collective childhood being destroyed by what they were watching on screen, the eight-year-old me sat there, dazzled by the then groundbreaking special effects and [Liam Neeson](http://www.youtube.com/watch?v=P-pHc811Ym8). Watching it today, of course, I note the many, many obvious flaws and its entire existence as a merchandising opportunity, but it still holds a special place in my cinematic memory. A special place that is in the process of being tainted by a 3D re-release this week.

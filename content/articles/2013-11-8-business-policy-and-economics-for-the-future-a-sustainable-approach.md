@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Part 3 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-11-08 03:44:06 +0000"
+
 # Attributes from Felix Online V1
 id: "4024"
 old_path: /features/4024/business-policy-and-economics-for-the-future-a-sustainable-approach
 aliases:
  - /features/4024/business-policy-and-economics-for-the-future-a-sustainable-approach
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A fortnight ago you read about the IPCC report’s finger-pointing, 7 days later you glanced over the future of energy sourcing…now we will have you contemplate sustainable strategies for business, policy, and the general economics of the future!

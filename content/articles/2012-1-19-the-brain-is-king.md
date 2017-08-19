@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Marie-Laure Hicks on how marketing companies are trying to tap into your brain
 date: "2012-01-19 20:10:18 +0000"
+
 # Attributes from Felix Online V1
 id: "2007"
 old_path: /science/2007/the-brain-is-king
 aliases:
  - /science/2007/the-brain-is-king
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As the economic crisis continues, companies are developing new methods to make you buy, by going straight to the source: your brain. Marketing and advertisement have generally relied on focus groups and surveys to determine the efficiency of a campaign. This method poses a problem as it is difficult to measure a spontaneous reaction. Participants are asked a question and therefore consciously think about it, but 95% of consumer buying behaviour is unconscious. This is where neuroscience comes in.

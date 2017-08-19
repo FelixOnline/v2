@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laurence Pope reviews a farce with a space age spin
 date: "2013-02-28 23:38:10 +0000"
+
 # Attributes from Felix Online V1
 id: "3391"
 old_path: /arts/3391/may-the-farce-be-with-you-young-one
 aliases:
  - /arts/3391/may-the-farce-be-with-you-young-one
+imported: true
+comments:
+ - For the record Andromedan Nights is imperfectly hilarious for all Imperial students especially those studying Materials  so there is no need to think of giving it a miss Come and see for yourselves Trust your own instinct And well done Jack indeedLove Panto It doesnt matter how hard thgnis are in your life how sad your day has been an evening at the Panto is great and guarantees to make you laugh It goes back to the real roots of English theatre where audience participation is paramount  For this reason we always go to Rock Horror when it is in town and further afield  While I find the story line a little risque the audience are so involved and for one night everyone is one huge group interacting and spending time together GreatI love panto  but I know it is a strangely British thing with principal boy being a girl and The Dame being a man not to meitnon The Back Legs Of The Cow It is really hard to explain to other people  esp all the catchp
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - For the record Andromedan Nights is imperfectly hilarious for all Imperial students especially those studying Materials  so there is no need to think of giving it a miss Come and see for yourselves Trust your own instinct And well done Jack indeedLove Panto It doesnt matter how hard thgnis are in your life how sad your day has been an evening at the Panto is great and guarantees to make you laugh It goes back to the real roots of English theatre where audience participation is paramount  For this reason we always go to Rock Horror when it is in town and further afield  While I find the story line a little risque the audience are so involved and for one night everyone is one huge group interacting and spending time together GreatI love panto  but I know it is a strangely British thing with principal boy being a girl and The Dame being a man not to meitnon The Back Legs Of The Cow It is really hard to explain to other people  esp all the catchp
-imported: true
 ---
 
 “No. I am your father,” is a line that has gone down in film history. It is at this point that Luke Skywalker finally confronts Darth Vader, his arch enemy, and, as we find out from that immortal line, his biological father. Would the moment have been ruined by an eager audience yelling out “OH NO YOU’RE NOT!” directly after? As if! This is Andromedan Nights, DramSoc’s latest performance, a farcical sci-fi pantomime written by Imperial’s own Owain Jones.

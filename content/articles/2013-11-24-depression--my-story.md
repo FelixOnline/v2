@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I was diagnosed with clinical depression when I was 17. For me, the diagnosis helped. It helped to give a name to the bizarre way that I had been feeling for over a year.
 date: "2013-11-24 15:52:27 +0000"
+
 # Attributes from Felix Online V1
 id: "4101"
 old_path: /features/4101/depression--my-story
 aliases:
  - /features/4101/depression--my-story
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 I was diagnosed with clinical depression when I was 17. For me, the diagnosis helped. It helped to give a name to the bizarre way that I had been feeling for over a year. I was always tired and always sad. The worst feeling was that of isolation, and feeling disjointed from the world, and I felt like I was the only person in the world to feel this way. I didn’t tell anybody because I thought it might go away. I was scared of how I was feeling; I knew something was wrong, but I didn’t know what to do about it and I didn’t want to make a fuss. When I finally got my diagnosis, I was given a legitimate reason to feel the way I did.

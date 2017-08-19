@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Last week Felix reported on College Campus Services’ decisions to change the campus cleaning services during a re-tendering of the cleaning contract. It transpired that one of the department’s decisions...
 date: "2013-11-22 03:31:14 +0000"
+
 # Attributes from Felix Online V1
 id: "4094"
 old_path: /news/4094/campus-services-dept-contacts-students-about-cleaning-error
 aliases:
  - /news/4094/campus-services-dept-contacts-students-about-cleaning-error
+imported: true
+comments:
+ - Come on Felix stand up to commercial sorry Campus serviceswe are a College NOT a company CS is ran by someone who has no concern about the long term impact of their decisions short term profit is considered a success for this part of our organization We should all not pay next term and send them an email explaining we made a minor error in agreeing to the contract neglecting to inform them a recent change meant we wouldnt be payingIm not even that bothered but worth it for a laughIt is regrettable that something like this happened but are we annoyed simply that the cleaning service has changed or that the cleaning service has changed but the license doesnt reflect the changeIm sure that if people are really upset about this the College will happily declare your license void and allow you to terminate your accommodation agreement with immediate effectFailure to comply with a contract is simply an opportunity for the other party to renegotiate a new contract with respec
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Come on Felix stand up to commercial sorry Campus serviceswe are a College NOT a company CS is ran by someone who has no concern about the long term impact of their decisions short term profit is considered a success for this part of our organization We should all not pay next term and send them an email explaining we made a minor error in agreeing to the contract neglecting to inform them a recent change meant we wouldnt be payingIm not even that bothered but worth it for a laughIt is regrettable that something like this happened but are we annoyed simply that the cleaning service has changed or that the cleaning service has changed but the license doesnt reflect the changeIm sure that if people are really upset about this the College will happily declare your license void and allow you to terminate your accommodation agreement with immediate effectFailure to comply with a contract is simply an opportunity for the other party to renegotiate a new contract with respec
-imported: true
 ---
 
 Last week Felix reported on College Campus Services’ decisions to change the campus cleaning services during a re-tendering of the cleaning contract. It transpired that one of the department’s decisions included reducing the frequency of cleaning in bedrooms and communal areas, at one stage justifying this by explaining this had enabled the potential more frequent cleaning of other areas such as Ethos and the Library Café.

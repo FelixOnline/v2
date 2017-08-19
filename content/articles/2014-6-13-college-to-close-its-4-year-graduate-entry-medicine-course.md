@@ -4,16 +4,24 @@ title: >
 subtitle: >
   College has recently announced the closure of the 4-year fast track graduate-entry medicine course.
 date: "2014-06-13 03:03:09 +0100"
+
 # Attributes from Felix Online V1
 id: "4690"
 old_path: /news/4690/college-to-close-its-4-year-graduate-entry-medicine-course
 aliases:
  - /news/4690/college-to-close-its-4-year-graduate-entry-medicine-course
+imported: true
+comments:
+ - The decision has already been made and will not be changed  faultless logic on the part of the Faculty of Medicine It would be both interesting and important to see the Faculty release details of the alleged consultation with students that paved the way for this overhaul  in particular how many students were consulted and what proportion of those were in favour of a 5year course Graduate Medicine courses already suffer from a lack of funding options compared to their Undergraduate counterparts This is already a huge deterrent for many people who want to pursue Graduate Medicine and is likely to be exacerbated by adding an extra year onto the course This will surely deal a blow to Imperial in terms of an inevitable decline in applicants More importantly this will represent another blow to widening participation in Medicine a notion which sets out to make the medical profession accessible to those with the brightest minds and not just those with the biggest pocketsThis is one thing that can
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - The decision has already been made and will not be changed  faultless logic on the part of the Faculty of Medicine It would be both interesting and important to see the Faculty release details of the alleged consultation with students that paved the way for this overhaul  in particular how many students were consulted and what proportion of those were in favour of a 5year course Graduate Medicine courses already suffer from a lack of funding options compared to their Undergraduate counterparts This is already a huge deterrent for many people who want to pursue Graduate Medicine and is likely to be exacerbated by adding an extra year onto the course This will surely deal a blow to Imperial in terms of an inevitable decline in applicants More importantly this will represent another blow to widening participation in Medicine a notion which sets out to make the medical profession accessible to those with the brightest minds and not just those with the biggest pocketsThis is one thing that can
-imported: true
 ---
 
 College has recently announced the closure of the 4-year fast track graduate-entry medicine course. Students will instead have to apply for a new 5-year graduate medical course, which will open in 2015. The withdrawal of the 4-year option does not affect students currently on the programme.

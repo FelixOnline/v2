@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Almost every memorable moment as a GTA is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job.
 date: "2014-06-23 14:42:32 +0100"
+
 # Attributes from Felix Online V1
 id: "4712"
 old_path: /comment/4712/the-best-and-the-worst-of-gta-ing
 aliases:
  - /comment/4712/the-best-and-the-worst-of-gta-ing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __Almost every memorable moment as a GTA (Graduate Teaching Assistant) is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job. It’s been a rollercoaster first year as a GTA, and I’ve definitely learnt some valuable lessons (such as not to get too drunk the night before a field trip abroad), but I don’t think I did a bad job. Here are my highlights and lowlights of the year, as well as the best and worst experiences I had with GTAs when I was an undergrad. __

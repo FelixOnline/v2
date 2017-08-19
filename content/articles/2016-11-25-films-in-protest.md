@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Do films have the capacity to influence and further change in our society and worldwide? From films like Cowspiracy to the infamous Triumph of the Will, history answers the question with a resounding, ‘yes’.
 date: "2016-11-25 13:52:34 +0000"
+
 # Attributes from Felix Online V1
 id: "6504"
 old_path: /film/6504/films-in-protest
 aliases:
  - /film/6504/films-in-protest
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Entertainment, expression, and education - films have it covered. Whilst most people use films for the sake of entertainment to enjoy themselves - to take a break from life’s stresses, to escape from reality - they are also capable of inducing the opposite effect: films have the ability to make you more in tune with reality, to affect reality, and also to shape it. The medium of film, especially in the current day, has a lot of power. And this power makes it a very useful tool in furthering change in our society and worldwide.

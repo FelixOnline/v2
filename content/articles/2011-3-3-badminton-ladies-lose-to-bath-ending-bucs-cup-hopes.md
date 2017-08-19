@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial 1st 2–6 Bath 1st.
 date: "2011-03-03 08:29:49 +0000"
+
 # Attributes from Felix Online V1
 id: "995"
 old_path: /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
 aliases:
  - /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
+imported: true
+comments:
+ - I do really hope can find an easy job and earn alotwhere can I find thosesome born lucky some are notsome born rich some are notbut dont worry you are the lucky grheucopersGreat shotsLOVE the one of her eyes Not just her eyes which ARE amazing but the lntigihg and exposure and focus are all Just Right You are getting really good with that camera
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I do really hope can find an easy job and earn alotwhere can I find thosesome born lucky some are notsome born rich some are notbut dont worry you are the lucky grheucopersGreat shotsLOVE the one of her eyes Not just her eyes which ARE amazing but the lntigihg and exposure and focus are all Just Right You are getting really good with that camera
-imported: true
 ---
 
 We arrived in Bath to lovely sunshine and the picturesque view the city is famous for.

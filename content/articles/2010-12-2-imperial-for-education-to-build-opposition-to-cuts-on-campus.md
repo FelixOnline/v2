@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Students grill President Alex Kendall about what they see as a lack of representation in the Union
 date: "2010-12-02 22:06:33 +0000"
+
 # Attributes from Felix Online V1
 id: "504"
 old_path: /news/504/imperial-for-education-to-build-opposition-to-cuts-on-campus
 aliases:
  - /news/504/imperial-for-education-to-build-opposition-to-cuts-on-campus
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The first signs of opposition to the governmentís higher education proposals are emerging at Imperial. ëImperial for Educationí, a group opposed to higher education cuts, held its first meeting in the SAF lobby on Thursday.

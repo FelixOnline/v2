@@ -4,16 +4,22 @@ title: >
 subtitle: >
   “Firefighter Tim” posed particular difficulties
 date: "2017-03-10 13:08:01 +0000"
+
 # Attributes from Felix Online V1
 id: "6862"
 old_path: /news/6862/codecon-finals-prove-expectedly-tricky
 aliases:
  - /news/6862/codecon-finals-prove-expectedly-tricky
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 London has been host to amazing competitions in recent years. We hosted the Olympic Games in 2012 and shows like The X Factor and Britain’s Got Talent have been world renowned hits for the better half of a decade, but last January, London was host to a different kind of competition, one that it was no surprise to see Imperial students thriving in.

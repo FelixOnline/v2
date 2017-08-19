@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Get your thinking caps on
 date: "2015-01-23 01:35:17 +0000"
+
 # Attributes from Felix Online V1
 id: "5129"
 old_path: /news/5129/venture-catalyst-challenge-begins-shortly
 aliases:
  - /news/5129/venture-catalyst-challenge-begins-shortly
+imported: true
+comments:
+ - 1BXewr httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 1BXewr httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Do you have an idea that could change the world, or that could even become a career itself? Imperial’s Create Lab is once again hosting its Venture Catalyst Challenge – a competition that gives it participants the chance of winning £10,000, one-to-one mentoring from industry experts, evening masterclasses, and free space to help bring your idea to reality.

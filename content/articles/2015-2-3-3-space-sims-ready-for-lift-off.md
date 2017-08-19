@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Eggl compares three games you might find space-ial
 date: "2015-02-03 14:58:39 +0000"
+
 # Attributes from Felix Online V1
 id: "5187"
 old_path: /games/5187/3-space-sims-ready-for-lift-off
 aliases:
  - /games/5187/3-space-sims-ready-for-lift-off
+imported: true
+comments:
+ - Yeah this looks nice and all but thre9es a lot of missing features I liked the new channel look until I realized all of my comments friends and subscribers arent seen on my channel Where did they go Also where is the profile information on my channel page I thought YouTube was trying to be a social community doesnt seem that way anymore I could keep going but the other comments pretty much nailed it Please fix this Google err Youtube
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Yeah this looks nice and all but thre9es a lot of missing features I liked the new channel look until I realized all of my comments friends and subscribers arent seen on my channel Where did they go Also where is the profile information on my channel page I thought YouTube was trying to be a social community doesnt seem that way anymore I could keep going but the other comments pretty much nailed it Please fix this Google err Youtube
-imported: true
 ---
 
 __Elite: Dangerous__

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A compelling but contrariwise journey through Botticelli’s artistic influence
 date: "2016-03-11 12:01:26 +0000"
+
 # Attributes from Felix Online V1
 id: "6041"
 old_path: /arts/6041/botticelli-reimagined-
 aliases:
  - /arts/6041/botticelli-reimagined-
+imported: true
+comments:
+ - Now you tell me shes not a knockouturlhttpwwwmypoloniacomblogviewid_83274title_AlbionOnlineSandboxInteractiveAlbion Online Power Levelingurl
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Now you tell me shes not a knockouturlhttpwwwmypoloniacomblogviewid_83274title_AlbionOnlineSandboxInteractiveAlbion Online Power Levelingurl
-imported: true
 ---
 
 B_otticelli Reimagined_ is a curious marriage of modern sensibilities with 15th century grace, beauty, and elegance, running at the V&amp;A until July. It is about the extent to which the influence of that singular craftsman, Sandro Botticelli – father of Venus and Primavera – permeated the art world through the centuries.

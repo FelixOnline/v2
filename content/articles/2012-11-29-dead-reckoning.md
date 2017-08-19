@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles always looks on the bright side of death
 date: "2012-11-29 22:04:45 +0000"
+
 # Attributes from Felix Online V1
 id: "2985"
 old_path: /arts/2985/dead-reckoning-
 aliases:
  - /arts/2985/dead-reckoning-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Death. It is a bit of a downer is it not? We spend our entire lives trying to escape the shadow of the reaper, constantly reminded of our own mortality. The ticking clock, wilting flowers, it all emphasizes how little time we have left on this planet. But death is also a fascination for humanity; we obsess about the idea of what lies beyond with a kind of morbid curiosity, and no-one represents this attitude better than Richard Harris. An American art collector, Harris has been collecting works related to death for the last decade, and now has close to 1500 pieces in his collection of macabre curiosities. It is this collection which forms the basis of the Wellcome Collection’s latest exhibition, entitled Death: A Self-portrait, which is by turns depressing, horrifying, and uplifting.

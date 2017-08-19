@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Give us your fooookin’ money, says Sir Richard Sykes
 date: "2013-02-14 21:11:42 +0000"
+
 # Attributes from Felix Online V1
 id: "3331"
 old_path: /news/3331/royal-institution-forced-to-sell-home
 aliases:
  - /news/3331/royal-institution-forced-to-sell-home
+imported: true
+comments:
+ - This is a real shame Having gone to a few RI lectures the building has quite a presence and the Faraday Lecture Theatre is simply marvellous But the reality is it wasnt financially viable and the RI have not thought ahead let the arguments about mismanagement continue The millions spent refurbishing the building did nothing to actually improve their reach in an age where things are moving to podcasts and video lectures the RI didnt do enough to innovate reach out enthuse and educate Its a real shame but by the looks of it Sir Richard understands what needs to be done Lets hope the spirit of the RI continues even if they do have to move out
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a real shame Having gone to a few RI lectures the building has quite a presence and the Faraday Lecture Theatre is simply marvellous But the reality is it wasnt financially viable and the RI have not thought ahead let the arguments about mismanagement continue The millions spent refurbishing the building did nothing to actually improve their reach in an age where things are moving to podcasts and video lectures the RI didnt do enough to innovate reach out enthuse and educate Its a real shame but by the looks of it Sir Richard understands what needs to be done Lets hope the spirit of the RI continues even if they do have to move out
-imported: true
 ---
 
 The Royal Institution (RI), one of the chief catalysts for the development of British science, has put its Mayfair residence on the market in an effort to overwrite mounting debts. Sir Richard Sykes, the current Chairman and former Rector of Imperial College London, has had to take swift action to remedy institutional losses. These were in excess of £600,000 in the 2012 academic year.

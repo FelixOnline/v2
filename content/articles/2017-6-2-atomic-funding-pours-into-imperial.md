@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The nuclear sector has contributed £9.36 million
 date: "2017-06-02 13:49:28 +0100"
+
 # Attributes from Felix Online V1
 id: "6997"
 old_path: /news/6997/atomic-funding-pours-into-imperial
 aliases:
  - /news/6997/atomic-funding-pours-into-imperial
+imported: true
+comments:
+ - Oh look another Felix article snarkily reporting on funding sources for research at Imperial Sometimes I wonder if the writers and editors at Felix forget that Imperial is a world leading STEMfocussed university perhaps they wish they were studying at Goldsmiths or SOAS instead where they can be funded to research feminist perspectives on Harry Potter insteadA little nuance wouldnt go amiss Research funding is increasingly more difficult to secure in this day any age especially for blueskies projects and so turning to lessthanpalatable sounding organisations for funding is sometimes necessary if we are to carry out world leading research Money from military organisations money from oil and gas companies is not automatically bad these organisations arent cracking the whip asking our scientists to deliver cheaper atomic bombs or more efficient oil production methods by a specific deadline You even said it yourselves Although Imperial might not be directly involved in the development of nuc
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Oh look another Felix article snarkily reporting on funding sources for research at Imperial Sometimes I wonder if the writers and editors at Felix forget that Imperial is a world leading STEMfocussed university perhaps they wish they were studying at Goldsmiths or SOAS instead where they can be funded to research feminist perspectives on Harry Potter insteadA little nuance wouldnt go amiss Research funding is increasingly more difficult to secure in this day any age especially for blueskies projects and so turning to lessthanpalatable sounding organisations for funding is sometimes necessary if we are to carry out world leading research Money from military organisations money from oil and gas companies is not automatically bad these organisations arent cracking the whip asking our scientists to deliver cheaper atomic bombs or more efficient oil production methods by a specific deadline You even said it yourselves Although Imperial might not be directly involved in the development of nuc
-imported: true
 ---
 
 The Atomic Weapons Establishment (AWE) has long been responsible for the UK’s nuclear deterrence programme. In addition to providing the nuclear warheads for each of the Vanguard submarines that make up Trident, the AWE contributes significant amounts to the coffers of Imperial.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In a shocking defeat for UEL, Imperial’s 2nd XV return triumphant with a 65-0
 date: "2015-11-13 15:06:14 +0000"
+
 # Attributes from Felix Online V1
 id: "5737"
 old_path: /sport/5737/rugby-ic-hammer-east-london
 aliases:
  - /sport/5737/rugby-ic-hammer-east-london
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cet13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cet13"
 author_name: "Cale E Tilford"
-author_image_path: "img/upload/201610151549-cet13-cet13.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201610151549-cet13-cet13.png"
 author_twitter: "tlfrd"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial 2s made the journey to West Ham on Wednesday to play their 4th match of the season against East London University 1st XV. After an easy ride so far in the league, Imperial were hoping for an opposition that would provide some serious competition to test the lads’ capabilities. After the first few minutes it was clear that this was not going to be the case. All it took were a few good phases and solid line breaks in the opposition 22 for IC to cross the white wash early on.

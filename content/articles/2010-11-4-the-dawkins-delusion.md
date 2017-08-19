@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Dawkins, rather than being a profiteer, is savvy in providing monetary support for his foundation
 date: "2010-11-04 19:11:47 +0000"
+
 # Attributes from Felix Online V1
 id: "329"
 old_path: /comment/329/the-dawkins-delusion-
 aliases:
  - /comment/329/the-dawkins-delusion-
+imported: true
+comments:
+ - Maybe he should give the atheism thing a rest We get it theres no beardy man in the sky Dawkins was a presence in science long before he made public his stance on religion He says that he became vocal because of the growing opposition to science by fundamentalists in the 80s  90s creationism ID movement Religion is not above being challenged many people have been brought up to accept it as a taboo subject much like politics and it is a ridiculous mindset to have If your views are evidence based then they will withstand the critiscism It is here that religion and its proponents fail it cannot withstand intellectual assault We dont get it the other post is right  Its 2010 and bishops still get seats in the house of lords and can be the decider in passing or blocking bills and sharia was being talked about not long ago as possibly having a place in the uk legal system It worries me Why not go the whole nine yards bring back trial by ordeal Elliott HindHe is passionate about enco
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Maybe he should give the atheism thing a rest We get it theres no beardy man in the sky Dawkins was a presence in science long before he made public his stance on religion He says that he became vocal because of the growing opposition to science by fundamentalists in the 80s  90s creationism ID movement Religion is not above being challenged many people have been brought up to accept it as a taboo subject much like politics and it is a ridiculous mindset to have If your views are evidence based then they will withstand the critiscism It is here that religion and its proponents fail it cannot withstand intellectual assault We dont get it the other post is right  Its 2010 and bishops still get seats in the house of lords and can be the decider in passing or blocking bills and sharia was being talked about not long ago as possibly having a place in the uk legal system It worries me Why not go the whole nine yards bring back trial by ordeal Elliott HindHe is passionate about enco
-imported: true
 ---
 
 For those of you who did not read [Alexander Khanin’s comment piece](http://www.felixonline.co.uk/?article=230), his thesis can be reduced to a number of playground-worthy statements. I have a big problem with his reasoning and the nature of his claims so let us work our way through them. It will not take long I promise, but for the sake of intelligent debate everywhere he needs to be cut down to size.

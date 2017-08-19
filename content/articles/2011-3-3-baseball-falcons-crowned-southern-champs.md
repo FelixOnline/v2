@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial 1st 9 – 8 Southampton 1st
 date: "2011-03-03 21:18:06 +0000"
+
 # Attributes from Felix Online V1
 id: "1023"
 old_path: /sport/1023/baseball-falcons-crowned-southern-champs
 aliases:
  - /sport/1023/baseball-falcons-crowned-southern-champs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Imperial College Baseball team clinched the Southern League Championship last Saturday in the last game of the season, retaining the trophy after a thrilling 9-8 comeback win against the Southampton Mustangs. This brings to a close an epic season for the Falcons, winning 10 games, drawing 2 and losing 1 on the way to winning the British University Baseball Association (BUBA) double, namely the Fall Cup and Southern League.

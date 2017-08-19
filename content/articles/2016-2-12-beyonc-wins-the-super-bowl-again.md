@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Politically charged and gloriously celebratory
 date: "2016-02-12 11:53:51 +0000"
+
 # Attributes from Felix Online V1
 id: "5913"
 old_path: /music/5913/beyonc-wins-the-super-bowl-again
 aliases:
  - /music/5913/beyonc-wins-the-super-bowl-again
+imported: true
+comments:
+ - Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be one internal link to a page on your blog and you should have one image with an alt tag that has y
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be one internal link to a page on your blog and you should have one image with an alt tag that has y
-imported: true
 ---
 
 Beyoncé has never been one to shy away from making a statement; the surprise release of her self-titled album in 2013 proved that. The release of ‘Formation’ 24 hours before upstaging **Coldplay** at their headline gig at the Super Bowl could be a new high. Not only the manner of its release, but the message it sends, at once politically charged and gloriously celebratory, makes ‘Formation’ one of **Beyoncé’s** most powerful songs yet.

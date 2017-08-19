@@ -4,16 +4,24 @@ title: >
 subtitle: >
   More money raised for RAG
 date: "2012-03-15 21:20:21 +0000"
+
 # Attributes from Felix Online V1
 id: "2378"
 old_path: /news/2378/bike-auction-brings-the-money-
 aliases:
  - /news/2378/bike-auction-brings-the-money-
+imported: true
+comments:
+ - Imperial College Herion Users Society ICHUS was proud to donate the bikes to the college these are GORG  so amazing  i toatlly understand feeling uninspired when life gets crazy  it feels so good when things fall into place and it comes back to you on your own terms  these feel real and special and not forced  congrats Wow Kristy these are gorgeous  I relaly love the look of film  It just seems more natural and more real  Youve done an amazing job  Plus your kids are adorable  ownership regardless   effective medications   insurance card scanning   car insurance quote   such issues
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Imperial College Herion Users Society ICHUS was proud to donate the bikes to the college these are GORG  so amazing  i toatlly understand feeling uninspired when life gets crazy  it feels so good when things fall into place and it comes back to you on your own terms  these feel real and special and not forced  congrats Wow Kristy these are gorgeous  I relaly love the look of film  It just seems more natural and more real  Youve done an amazing job  Plus your kids are adorable  ownership regardless   effective medications   insurance card scanning   car insurance quote   such issues
-imported: true
 ---
 
 On Monday lunchtime, [ICU RAG](http://union.ic.ac.uk/rag/) and the [Bike User’s Group for the Imperial College Community](http://www.union.ic.ac.uk/presidents/icbug/) (BUG) held this year’s second bike auction. Up for sale were 52 bikes varying from basic and run-down to high-end racing frames. Prices this time around were lower than October’s highly successful auction, in part due to lower numbers in attendance and also due to the variable bike quality.

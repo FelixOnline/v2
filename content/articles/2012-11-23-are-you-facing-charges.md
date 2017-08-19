@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The state of current libel laws is ludicrous; they must adapt to the digital age, says George Butcher
 date: "2012-11-23 00:02:35 +0000"
+
 # Attributes from Felix Online V1
 id: "2955"
 old_path: /comment/2955/are-you-facing-charges
 aliases:
  - /comment/2955/are-you-facing-charges
+imported: true
+comments:
+ - You miss my pointThe courts are trying to apply a law written for another time to today Within eight months of the first twitter libel case another case involving thousands of people is being launched What now Will this become routine What about tens of thousands next timeI dont think this is practical I agree with the principle of libel laws and I accept much of what you say but I dont accept that forums like twitter can ever fairly be treated like a formal publication Libel charges need to be focused at the source of an accusation not at a mindless and pointless repetition of itI call bullshit Whilst I agree with the sentiment of this article your opinions about Twitter and the law are extremely naive and uninformedTwitter is not a text message or a chat with friends it is a public forum where people post messages for all the world to see Many may use it for private conversations but that is irrelevant these conversations are not private because er anybody can read t
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You miss my pointThe courts are trying to apply a law written for another time to today Within eight months of the first twitter libel case another case involving thousands of people is being launched What now Will this become routine What about tens of thousands next timeI dont think this is practical I agree with the principle of libel laws and I accept much of what you say but I dont accept that forums like twitter can ever fairly be treated like a formal publication Libel charges need to be focused at the source of an accusation not at a mindless and pointless repetition of itI call bullshit Whilst I agree with the sentiment of this article your opinions about Twitter and the law are extremely naive and uninformedTwitter is not a text message or a chat with friends it is a public forum where people post messages for all the world to see Many may use it for private conversations but that is irrelevant these conversations are not private because er anybody can read t
-imported: true
 ---
 
 This week the biggest libel case in legal history was launched – thousands of people are potentially facing legal action and most of them are ‘normal people’. Why? Because anyone who tweeted or re-tweeted Lord McAlpine’s name in relation to child abuse allegations is going to get a letter from his lawyers, and it doesn’t matter if you deleted it later.

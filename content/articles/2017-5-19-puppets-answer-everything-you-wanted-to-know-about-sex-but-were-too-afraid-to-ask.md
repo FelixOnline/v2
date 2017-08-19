@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Sex and Puppets will be at the Brainchild and Shambala Festival, summer 2017. National tour announced later.
 date: "2017-05-19 15:07:29 +0100"
+
 # Attributes from Felix Online V1
 id: "6976"
 old_path: /arts/6976/puppets-answer-everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask
 aliases:
  - /arts/6976/puppets-answer-everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Sex and Puppets is reimagining the way we think and talk about sex and relationships. A production by the puppet company  Wondering Hands uses a series of witty sketches, devised in collaboration with puppeteer Alicia Britt that are based on real life experiences as told by members of the public in online anonymous questionnaires to explore different aspects of sex.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Let’s not sugar-coat this, Super Meat Boy is balls to the wall hard
 date: "2011-01-27 20:23:59 +0000"
+
 # Attributes from Felix Online V1
 id: "692"
 old_path: /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
 aliases:
  - /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
+imported: true
+comments:
+ - A BLAST FROM DA PAST This is a great post you got cheap handbags online  I like cheap designer handbags as well give you designer handbags outlet This is a great post you got cheap handbags online  I like cheap designer handbags as well give you designer handbags outletMbt Shoes is the first physiologicalMBT Shoes Sales footwear that has a positive effect on the whole body MBT stands for Masai Barefoot Technology MBT Shoes is also known as the antishoe The uniquelydesigned multilayered cured sole is designedMBT Tunisha to simulate
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A BLAST FROM DA PAST This is a great post you got cheap handbags online  I like cheap designer handbags as well give you designer handbags outlet This is a great post you got cheap handbags online  I like cheap designer handbags as well give you designer handbags outletMbt Shoes is the first physiologicalMBT Shoes Sales footwear that has a positive effect on the whole body MBT stands for Masai Barefoot Technology MBT Shoes is also known as the antishoe The uniquelydesigned multilayered cured sole is designedMBT Tunisha to simulate
-imported: true
 ---
 
 Three things are required to complete a game like _Super Meat Boy_ successfully: The first is a sturdy keyboard or controller, the second is a level of patience few devout Zen Buddhists can ever hope to attain and the third is more free time than your average Arts or Media Studies student. Whilst I’m rich enough to afford the first and lazy enough to possess the third, I sadly fall short on requirement two, and boy does it show when I play.

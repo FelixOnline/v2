@@ -4,16 +4,23 @@ title: >
 subtitle: >
    On Monday the Tour de France returned to London after a seven year absence as German Marcel Kittel won his second stage in three days in a sprint finish on the Mall.
 date: "2014-07-08 11:07:23 +0100"
+
 # Attributes from Felix Online V1
 id: "4721"
 old_path: /sport/4721/le-tour-returns-to-london
 aliases:
  - /sport/4721/le-tour-returns-to-london
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 On Monday the Tour de France returned to London after a seven year absence as German Marcel Kittel won his second stage in three days in a sprint finish on the Mall.

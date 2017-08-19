@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rhys Davies takes a controversial standpoint, but one that he thinks makes sense
 date: "2012-02-02 23:28:04 +0000"
+
 # Attributes from Felix Online V1
 id: "2110"
 old_path: /comment/2110/a-possible-high-society
 aliases:
  - /comment/2110/a-possible-high-society
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Please do not read the following if you do not like controversial material.

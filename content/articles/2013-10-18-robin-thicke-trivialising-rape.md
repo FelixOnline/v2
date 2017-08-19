@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kirstin Hay takes on "Blurred Lines".
 date: "2013-10-18 21:43:20 +0100"
+
 # Attributes from Felix Online V1
 id: "3895"
 old_path: /comment/3895/robin-thicke-trivialising-rape
 aliases:
  - /comment/3895/robin-thicke-trivialising-rape
+imported: true
+comments:
+ - https3amazonawscomrapgenius4db77_ORIGlook_at_all_the_fucks_i_givejpgShittiest song ever Pure crapeGood to see the comment moderator is rejecting views on this  I wonder if the friendly neighbourhood misogynis was pro or con If your wondering if Im joking your not my target audience
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - https3amazonawscomrapgenius4db77_ORIGlook_at_all_the_fucks_i_givejpgShittiest song ever Pure crapeGood to see the comment moderator is rejecting views on this  I wonder if the friendly neighbourhood misogynis was pro or con If your wondering if Im joking your not my target audience
-imported: true
 ---
 
 _You know you want it.

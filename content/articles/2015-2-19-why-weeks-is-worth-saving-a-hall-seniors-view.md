@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Katy Sayer discusses why Council need to change their mind about campaigning against closing Weeks
 date: "2015-02-19 23:49:44 +0000"
+
 # Attributes from Felix Online V1
 id: "5274"
 old_path: /comment/5274/why-weeks-is-worth-saving-a-hall-seniors-view
 aliases:
  - /comment/5274/why-weeks-is-worth-saving-a-hall-seniors-view
+imported: true
+comments:
+ - dztftr  uugypekqnama urlhttpnraquddtbivmcomnraquddtbivmurl linkhttpmnrfasgnhdcccommnrfasgnhdcclink httpzanpleirzdoocomfitflops australia clearancebest price fitflops httpaustraliafitflopsiemillernetchristian louboutin pumps outletdiscount christian louboutin httpchristianlouboutincanadaoutletblogspotcomECAFOy  razwqzeiamvx urlhttppbwbizgniwsgcompbwbizgniwsgurl linkhttpehaukpscsnuzcomehaukpscsnuzlink httpautkyovkqlzmcomHello And Bye httptaramparamcom Essay writers with custom approach to 1 1 2 page book report Zero plagiarism tolerance policy helps us Our Cause is YOUR Success Plenty Simply desired to state Im just thrilled I came onto your webpagecs go skins wiki httpgrandiosenmixxtatnetworksblogpostteamloveteamlove58httpflagylantibioticmetronidazolenet  Flagyl Cialis httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Metronidazole 500 Mg Antibiotic Cialis httplevitra2
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - dztftr  uugypekqnama urlhttpnraquddtbivmcomnraquddtbivmurl linkhttpmnrfasgnhdcccommnrfasgnhdcclink httpzanpleirzdoocomfitflops australia clearancebest price fitflops httpaustraliafitflopsiemillernetchristian louboutin pumps outletdiscount christian louboutin httpchristianlouboutincanadaoutletblogspotcomECAFOy  razwqzeiamvx urlhttppbwbizgniwsgcompbwbizgniwsgurl linkhttpehaukpscsnuzcomehaukpscsnuzlink httpautkyovkqlzmcomHello And Bye httptaramparamcom Essay writers with custom approach to 1 1 2 page book report Zero plagiarism tolerance policy helps us Our Cause is YOUR Success Plenty Simply desired to state Im just thrilled I came onto your webpagecs go skins wiki httpgrandiosenmixxtatnetworksblogpostteamloveteamlove58httpflagylantibioticmetronidazolenet  Flagyl Cialis httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Metronidazole 500 Mg Antibiotic Cialis httplevitra2
-imported: true
 ---
 
 Weeks Hall was kindly donated to Imperial by British engineering firm Vickers in 1959 to be used as affordable undergraduate accommodation. Ungratefully, College have now rejected this generosity and plan to make “more efficient” (i.e. more profitable) use of the space.

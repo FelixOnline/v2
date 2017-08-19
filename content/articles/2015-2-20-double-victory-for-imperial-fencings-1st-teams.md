@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Men's and women's first team achieve wins in first round of BUCS Fencing Championship
 date: "2015-02-20 00:32:07 +0000"
+
 # Attributes from Felix Online V1
 id: "5288"
 old_path: /sport/5288/double-victory-for-imperial-fencings-1st-teams
 aliases:
  - /sport/5288/double-victory-for-imperial-fencings-1st-teams
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Wednesday both the Imperial men’s and women’s 1st teams were in action in the first round of the BUCS Fencing Championship. The women’s team, who won the Championship two years ago, were in action at Ethos against Newcastle: the first weapon up was foil and although Imperial has been struggling this season in foil the team managed to get a one hit lead after a tense match in which the score was 45-44.

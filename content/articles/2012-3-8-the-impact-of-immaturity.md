@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Keir Little discusses why the gaming community needs to buck up its ideas if it ever wants to be taken seriously
 date: "2012-03-08 22:20:43 +0000"
+
 # Attributes from Felix Online V1
 id: "2332"
 old_path: /games/2332/the-impact-of-immaturity
 aliases:
  - /games/2332/the-impact-of-immaturity
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Gaming has boomed recently: its popularity, company profits and presence in popular culture are at a level unimaginable twenty years ago. No one bats an eyelid if you say you play videogames, and the stereotype of a game player being a ‘nerd’ (and all that comes with it) is thankfully being broken down. Games have become a form of entertainment just like television or literature. Unlike other media, though, gaming culture — that is, its players, developers and critics — has a lot of growing up to do. Whereas once videogames were toys for children, the vast majority of popular games now are made for, marketed to and played by adults, though a glance at any games discussion forum online would have you thinking quite the opposite.

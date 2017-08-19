@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Falkenberg kicks off our guide to overlooked city venues
 date: "2015-02-17 16:55:18 +0000"
+
 # Attributes from Felix Online V1
 id: "5268"
 old_path: /arts/5268/londons-best-small-theatres---part-1
 aliases:
  - /arts/5268/londons-best-small-theatres---part-1
+imported: true
+comments:
+ - Qh9gdA httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Qh9gdA httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 ## ## __The Finborough Theatre__

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Spring is here and the sun has come out, so its time to update your wardrobe! These trends are sure to keep you cool in the sun
 date: "2014-05-02 01:35:39 +0100"
+
 # Attributes from Felix Online V1
 id: "4553"
 old_path: /fashion/4553/the-cutest-spring-2014-trends
 aliases:
  - /fashion/4553/the-cutest-spring-2014-trends
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Spring is slowly starting to set in in London, and although we’re not feeling the mini-skirt wearing heat yet, these trends work for the transiton stage between winter and summer. On a cooler day, carry around a chunky knit sweater to ward off the occasional chills of the British spring time, and don’t forget to keep a portabe umbrella with you in your hanbag, because one things for sure in this city: There will be spring showers!

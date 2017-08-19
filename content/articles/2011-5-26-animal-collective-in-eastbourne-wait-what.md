@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The sleepy south coast plays host to avant-garde New York collective
 date: "2011-05-26 19:52:26 +0100"
+
 # Attributes from Felix Online V1
 id: "1264"
 old_path: /music/1264/animal-collective-in-eastbourne-wait-what
 aliases:
  - /music/1264/animal-collective-in-eastbourne-wait-what
+imported: true
+comments:
+ - Thanks for coming by  We have an ocensbe number of cats here  I have six and my mom has one  Four Siamese but not the aristocratic kind  Three Ragdolls  There is usually one stationed in the front picture window keeping watch when we leave in the car and there when we get back  I often wonder if this lookout shouts to the others that the coast is clear when we leave and warns them to stop the mischief when we show upAugust 31 2009        THE RIGHTWAY MISSION ASSOCIATIONSUB Looking Prayer Partners Ministry partners and aftoliafiinGreetings in the name of Lord Jesus ChristDear Friends  in ChristI am happy to visit u website its really a nice and wonderful effort for the glory of god By the grace of God and by the help of few local and little self support churches and their pastors we r holding a missionary movement for revival in Pakistan  Named THE RIGHTWAY MISSION ASSOCIATION since this yearBrother we have the burden and passion and we are commit
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thanks for coming by  We have an ocensbe number of cats here  I have six and my mom has one  Four Siamese but not the aristocratic kind  Three Ragdolls  There is usually one stationed in the front picture window keeping watch when we leave in the car and there when we get back  I often wonder if this lookout shouts to the others that the coast is clear when we leave and warns them to stop the mischief when we show upAugust 31 2009        THE RIGHTWAY MISSION ASSOCIATIONSUB Looking Prayer Partners Ministry partners and aftoliafiinGreetings in the name of Lord Jesus ChristDear Friends  in ChristI am happy to visit u website its really a nice and wonderful effort for the glory of god By the grace of God and by the help of few local and little self support churches and their pastors we r holding a missionary movement for revival in Pakistan  Named THE RIGHTWAY MISSION ASSOCIATION since this yearBrother we have the burden and passion and we are commit
-imported: true
 ---
 
 It would probably be the first, and last time that the sheltered residents of Eastbourne would see the word ‘Supreme’ with the word ‘chicken’ preceding it. Yes, a sizeable crowd of hipsters had made the perilous journey out of London and Brighton to the mundane streets of my elderly hometown – also known as God’s waiting room.

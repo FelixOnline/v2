@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Slightly dodgy surveying leads to yearly table
 date: "2012-11-15 20:54:49 +0000"
+
 # Attributes from Felix Online V1
 id: "2885"
 old_path: /news/2885/university-drinking-and-sex-league-tables-released
 aliases:
  - /news/2885/university-drinking-and-sex-league-tables-released
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Student Beans](http://www.studentbeans.com/), the self-proclaimed “essential part of student life”, released the results of their [Student Drinking University League Table 201](http://www.studentbeans.com/student101/a/Universities/university-drinking-league-2011-who-drinks-the-most-2036.html)2 last week. They also released their Sex League Table over the summer. In both surveys, Imperial were towards the bottom.

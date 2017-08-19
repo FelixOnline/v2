@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Philippa Skett discusses the benefits of ecstasy, and the laws limiting science
 date: "2014-01-24 09:59:56 +0000"
+
 # Attributes from Felix Online V1
 id: "4290"
 old_path: /science/4290/mdma---a-new-high-in-research
 aliases:
  - /science/4290/mdma---a-new-high-in-research
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 MDMA seems to be keeping clubbers and scientists alike on their toes at the moment, with research into the recreational drug on the rise. Despite the law heavily restricting drug experimentation even within the laboratory, there still seems to be an unrelenting interest into the potential medical benefits of many of the illegal substances out there. With new research published this week, it may only be a matter of time before drugs such as ecstasy are no longer restricted to the dives and dens of those partying past dawn.

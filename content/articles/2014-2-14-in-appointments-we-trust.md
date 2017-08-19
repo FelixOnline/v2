@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Interesting points raised at Council
 date: "2014-02-14 05:06:13 +0000"
+
 # Attributes from Felix Online V1
 id: "4381"
 old_path: /news/4381/in-appointments-we-trust
 aliases:
  - /news/4381/in-appointments-we-trust
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 During Tuesday’s Union Council meeting, one of the tabled papers proposed the ratification of two student trustees who were appointed last term.

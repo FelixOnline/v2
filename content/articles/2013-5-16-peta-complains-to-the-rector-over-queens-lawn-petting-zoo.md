@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union say College have been involved from the outset and that the company chosen had a good record of animal safety and welfare
 date: "2013-05-16 20:46:01 +0100"
+
 # Attributes from Felix Online V1
 id: "3592"
 old_path: /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
 aliases:
  - /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
+imported: true
+comments:
+ - I think a petting zoo is a lovely idea If PETA has a problem with this concept then surely it should strive to ban them completely Meanwhile petting animal companies exist and in this persons opinion those animals should be pettedAlso Ive heard of studies which suggest petting therapy is beneficial Its not just children either isnt there some maximum security prison where the inmates have pet cats and as a result they become nicer people I did a quick GScholar search and there seems to be a variety of research results relating to the anxiety relief effects of petting Heres one that observed a possible link httpbitly10F0zfm and heres one that doesnt bitly10ZtikTIm not sure how mainstream PETA is but from a look of their website it mentions veganism a lot So overall I would conclude that PETAs letter is overkill and we should all go boost our exam grades by petting llamas And were all smart enough to find the antibacterial soapThere certainly is uncertainty abo
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think a petting zoo is a lovely idea If PETA has a problem with this concept then surely it should strive to ban them completely Meanwhile petting animal companies exist and in this persons opinion those animals should be pettedAlso Ive heard of studies which suggest petting therapy is beneficial Its not just children either isnt there some maximum security prison where the inmates have pet cats and as a result they become nicer people I did a quick GScholar search and there seems to be a variety of research results relating to the anxiety relief effects of petting Heres one that observed a possible link httpbitly10F0zfm and heres one that doesnt bitly10ZtikTIm not sure how mainstream PETA is but from a look of their website it mentions veganism a lot So overall I would conclude that PETAs letter is overkill and we should all go boost our exam grades by petting llamas And were all smart enough to find the antibacterial soapThere certainly is uncertainty abo
-imported: true
 ---
 
 PETA have written to the President & Rector of Imperial College London urging him to stop the Union’s plans for a petting zoo on Queen’s Lawn on Thursday 23 May. The letter calls the petting zoo “ill-conceived” and asks for Imperial to “make a formal to avoiding future events that promote the mistreatment of animals”.

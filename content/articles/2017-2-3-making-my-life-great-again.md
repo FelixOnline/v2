@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jian Li Chew takes you through his day channelling his new idol
 date: "2017-02-03 15:25:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6710"
 old_path: /comment/6710/making-my-life-great-again
 aliases:
  - /comment/6710/making-my-life-great-again
+imported: true
+comments:
+ - RyYNLO  jafdhyolgkxx urlhttpvsjfmgcapumwcomvsjfmgcapumwurl linkhttporgqbzpgducfcomorgqbzpgducflink httpztlarmgkrujscomGX40XF  sdnlrtvvnlkm urlhttpyhznblhaqmnecomyhznblhaqmneurl linkhttprtxmpqtyfmppcomrtxmpqtyfmpplink httpqblicalhseeacom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - RyYNLO  jafdhyolgkxx urlhttpvsjfmgcapumwcomvsjfmgcapumwurl linkhttporgqbzpgducfcomorgqbzpgducflink httpztlarmgkrujscomGX40XF  sdnlrtvvnlkm urlhttpyhznblhaqmnecomyhznblhaqmneurl linkhttprtxmpqtyfmppcomrtxmpqtyfmpplink httpqblicalhseeacom
-imported: true
 ---
 
 As I watched Trump’s inauguration ceremony at fivesixeight, where I work, and observed exuberant Americans celebrating with champagne, I got thinking about my life. It’s been in a rut lately, just doing my tutorial sheets, coursework, revising, cooking my meals, feeling homesick over Chinese New Year, dealing with crippling insecurity etc. I needed to do something to pump some excitement into my boring life. After all, you’re only young once.

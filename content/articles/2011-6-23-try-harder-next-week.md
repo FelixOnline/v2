@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Four years of Felix
 date: "2011-06-23 20:41:03 +0100"
+
 # Attributes from Felix Online V1
 id: "1426"
 old_path: /comment/1426/try-harder-next-week
 aliases:
  - /comment/1426/try-harder-next-week
+imported: true
+comments:
+ - Well saidKadhim you are the star of your generation in the family too young to talk about the next generation
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Well saidKadhim you are the star of your generation in the family too young to talk about the next generation
-imported: true
 ---
 
 I hope that you will excuse me for writing in the first person. This is the last article I will ever write as Editor of this publication and, as such, it is quite a significant moment for me.

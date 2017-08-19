@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stephen Ball investigates as work starts on the Chelsea waterfront
 date: "2015-06-04 23:19:14 +0100"
+
 # Attributes from Felix Online V1
 id: "5598"
 old_path: /news/5598/lots-road-redevelopment-to-go-ahead
 aliases:
  - /news/5598/lots-road-redevelopment-to-go-ahead
+imported: true
+comments:
+ - Its a really well known fact that getting into condition requires associated with money hard run Seattles dream 300 start to the season ended on April 11 when the Wizards won 10 from the 10man Sounders FCfifa 16 hack httpcreditsfutcomThanks with regard to providing like well put together subject mattercsgo skins expensive httparnold109jblogfrbilletcsgoskinsofacquiringcs464218htmlI love the info on your internet site Thanks a lotNFL 17 coins httpwwwpeaceforearthorgbarteritem2377
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its a really well known fact that getting into condition requires associated with money hard run Seattles dream 300 start to the season ended on April 11 when the Wizards won 10 from the 10man Sounders FCfifa 16 hack httpcreditsfutcomThanks with regard to providing like well put together subject mattercsgo skins expensive httparnold109jblogfrbilletcsgoskinsofacquiringcs464218htmlI love the info on your internet site Thanks a lotNFL 17 coins httpwwwpeaceforearthorgbarteritem2377
-imported: true
 ---
 
 Lots Road power station, on the Chelsea waterfront, is to join the likes of Battersea and Bankside as it undergoes redevelopment. The project will add 706 homes and two tower blocks to the site close to the Thames.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our weekly roundup of the week's science news
 date: "2016-02-19 11:26:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5931"
 old_path: /science/5931/science-whats-good
 aliases:
  - /science/5931/science-whats-good
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 **Termites did castes first**

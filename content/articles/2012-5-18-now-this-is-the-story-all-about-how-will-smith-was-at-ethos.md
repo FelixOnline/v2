@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Hollywood superstar visits sports centre and trains with members of Team GB
 date: "2012-05-18 06:07:29 +0100"
+
 # Attributes from Felix Online V1
 id: "2457"
 old_path: /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
 aliases:
  - /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
+imported: true
+comments:
+ - Obligatory httpwwwyoutubecomwatchvhBe0VCso0qsI feel mildly sick after finding this httpwwwyoutubecomwatchvp2eYrJA8agYou need a dose of this then httpwwwyoutubecomwatchvF8b5G7EV6f8Apparently DJ Jazzy Jeff attempted to accompany him but was ejected unceremoniouslyBARACK OBAMA WAS AT ETHOSI think you mean Samuel L Jackson
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Obligatory httpwwwyoutubecomwatchvhBe0VCso0qsI feel mildly sick after finding this httpwwwyoutubecomwatchvp2eYrJA8agYou need a dose of this then httpwwwyoutubecomwatchvF8b5G7EV6f8Apparently DJ Jazzy Jeff attempted to accompany him but was ejected unceremoniouslyBARACK OBAMA WAS AT ETHOSI think you mean Samuel L Jackson
-imported: true
 ---
 
 Hollywood big-hitter and modern day renaissance man Will Smith [was to be found at Imperial’s very own Ethos Sports Centre](http://www.twitvid.com/DQHPJ) on Princes Gardens last Wednesday morning.

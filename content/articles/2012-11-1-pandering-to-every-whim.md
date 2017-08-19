@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Max Eggl eats shoots and leaves
 date: "2012-11-01 22:54:06 +0000"
+
 # Attributes from Felix Online V1
 id: "2799"
 old_path: /games/2799/pandering-to-every-whim-
 aliases:
  - /games/2799/pandering-to-every-whim-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Everyone has heard of, scoffed at, ridiculed, played, dominated (cross out the ones that do not apply to you) World of Warcraft. For those of you who chose the two latter choices, this is the article for you. For all the rest, you can stop judging, get yourselves an account and then read this article!

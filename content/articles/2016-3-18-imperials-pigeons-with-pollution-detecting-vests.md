@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The results are being tweeted at concerned citizens
 date: "2016-03-18 11:31:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6051"
 old_path: /news/6051/imperials-pigeons-with-pollution-detecting-vests
 aliases:
  - /news/6051/imperials-pigeons-with-pollution-detecting-vests
+imported: true
+comments:
+ - httpswwwfacebookcompigeonsoflondonnice goingRunescape gold httpwwwcatedralrioorgbrutfifa20150422btsvideoeastereggsperimentswithrunescapeEven call itu4fifa httpsdisquscombyu4fifaNo one can do it better than youcheap nba mt coins pc supplier httpwwwnba2k16storecomnba2k16PC2200I do not have a clue leading nba 2k mt pc seller httpwwwnba2k16storecomnba2k16PC2200No one can do it better than youu4fifa httpu4fifatumblrcomI do not know what you are sayingAlbion Online Gold httpalbiononlinegratisblogbiz20160520albioneconomytheroleofcurrencyHow are you good online site you have presentlynba 2k17 mt coins httpwwwsigmagamecomforumdiscussion35087buynhl17coinsaddedsomegood
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpswwwfacebookcompigeonsoflondonnice goingRunescape gold httpwwwcatedralrioorgbrutfifa20150422btsvideoeastereggsperimentswithrunescapeEven call itu4fifa httpsdisquscombyu4fifaNo one can do it better than youcheap nba mt coins pc supplier httpwwwnba2k16storecomnba2k16PC2200I do not have a clue leading nba 2k mt pc seller httpwwwnba2k16storecomnba2k16PC2200No one can do it better than youu4fifa httpu4fifatumblrcomI do not know what you are sayingAlbion Online Gold httpalbiononlinegratisblogbiz20160520albioneconomytheroleofcurrencyHow are you good online site you have presentlynba 2k17 mt coins httpwwwsigmagamecomforumdiscussion35087buynhl17coinsaddedsomegood
-imported: true
 ---
 
 Pigeons fitted with ultralight air-monitoring vests have been flying across London this week in an attempt to highlight the capital’s pollution problem.

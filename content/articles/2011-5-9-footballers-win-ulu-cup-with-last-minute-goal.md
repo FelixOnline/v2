@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Men’s 1st team win ULU Challenge Cup Final
 date: "2011-05-09 09:56:40 +0100"
+
 # Attributes from Felix Online V1
 id: "1180"
 old_path: /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
 aliases:
  - /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
+imported: true
+comments:
+ - Well done ladsWell done again ladsChoppersDJhJsA  urlhttpgnlpjvpodshwcomgnlpjvpodshwurl linkhttpliykyywqxhducomliykyywqxhdulink httpeklynsuaapqfcomThis is shnokicg shnokicg I say Christian Creationists you cannot speak Islamist Creationists come on down Ever think Did I wake up on the wrong planet this morningI stand by that has he always been anirhcast If so I didnt know that He would have a lot more  weight with many more people if he wasnt radicalanirhcast History is full of  tear it all down and take it from there mostly with horrible consequences and untold human suffering Why couldnt he just be nonideological except being liberal which is not really an ideology freethinking and just criticize wrongs in society and offer peaceful progress ideas  while much   buy prednisone without prescription   some last   want sex   insurance car   best generic viagra   everybody wan
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well done ladsWell done again ladsChoppersDJhJsA  urlhttpgnlpjvpodshwcomgnlpjvpodshwurl linkhttpliykyywqxhducomliykyywqxhdulink httpeklynsuaapqfcomThis is shnokicg shnokicg I say Christian Creationists you cannot speak Islamist Creationists come on down Ever think Did I wake up on the wrong planet this morningI stand by that has he always been anirhcast If so I didnt know that He would have a lot more  weight with many more people if he wasnt radicalanirhcast History is full of  tear it all down and take it from there mostly with horrible consequences and untold human suffering Why couldnt he just be nonideological except being liberal which is not really an ideology freethinking and just criticize wrongs in society and offer peaceful progress ideas  while much   buy prednisone without prescription   some last   want sex   insurance car   best generic viagra   everybody wan
-imported: true
 ---
 
 The end of spring term saw the 1st XI clash with UCL in the ULU Cup Final. The two teams had been head and shoulders above the competition throughout the year, with Imperial denied the league title by a single point after suffering their only defeat of the season against UCL’s. This only strengthened Imperial’s resolve, and the squad went into the game in high spirits, and with a legion of fans to help them on their way.

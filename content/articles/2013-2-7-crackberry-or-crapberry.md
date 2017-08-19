@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maximilian Eggl looks at the fortunes of a different fruity company
 date: "2013-02-07 23:47:47 +0000"
+
 # Attributes from Felix Online V1
 id: "3267"
 old_path: /tech/3267/crackberry-or-crapberry-
 aliases:
  - /tech/3267/crackberry-or-crapberry-
+imported: true
+comments:
+ - really what is your problem Dont you have anything better to doAnon sadly Felix does not have unlimited resources meaning the tech section has to review either things that are extremely cheap or things they own themselves As I am currently locked in a contract getting a new phone would be a bit steep for me However I have emailed BB to see if I could get a Z10 for review Now that I do look at it I did miss the hub feature as well as the keyboard which looks really nice however in writing this article I didnt have much time and thus missed out some features However I appreciate all constructive input as it really does help me write better articles thank you On another note the tech section is always looking for writers and if you have a Z10 or any BB10 device it would be really great if you could write something about itSanchit SharmaI imagine having no home button would be pretty cool but for some reason I need some button in case some thing goes wrongPPreviously Anonymo
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - really what is your problem Dont you have anything better to doAnon sadly Felix does not have unlimited resources meaning the tech section has to review either things that are extremely cheap or things they own themselves As I am currently locked in a contract getting a new phone would be a bit steep for me However I have emailed BB to see if I could get a Z10 for review Now that I do look at it I did miss the hub feature as well as the keyboard which looks really nice however in writing this article I didnt have much time and thus missed out some features However I appreciate all constructive input as it really does help me write better articles thank you On another note the tech section is always looking for writers and if you have a Z10 or any BB10 device it would be really great if you could write something about itSanchit SharmaI imagine having no home button would be pretty cool but for some reason I need some button in case some thing goes wrongPPreviously Anonymo
-imported: true
 ---
 
 Back in the early days of mobile electronics, a BlackBerry phone was the thing to have. The first true smartphone, BlackBerry (formerly known as RIM), was the first company to really attempt to make a really portable computer. With the miniature keyboard, BBM, Mail services etc, it really was a success in the corporate market, as well as with the general consumer. However with the advent of the touchscreen based smartphone, BlackBerry failed to keep up with the market. In fact over the last 5 years their stock has shed more than 90% of its value, wiping roughly 70 billion dollars of the value of the company. They have released several failures, most notably the Playbook and in general have been making losses the last few quarters. Even their core business, the corporations and governments have started to drop them in favour of Apple, Android and Microsoft.

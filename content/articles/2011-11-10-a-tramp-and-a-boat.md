@@ -4,16 +4,23 @@ title: >
 subtitle: >
   George Jeffery's tale of love, music and the Thames
 date: "2011-11-10 21:10:44 +0000"
+
 # Attributes from Felix Online V1
 id: "1726"
 old_path: /music/1726/a-tramp-and-a-boat
 aliases:
  - /music/1726/a-tramp-and-a-boat
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Any of you who read my article last week probably came to the conclusion that I’m either a dribbling moron or an actual full-on nutter. For that exact reason, I’ve decided to simmer things down a bit and tell you about possibly the most peaceful thing I can imagine: an all acoustic gig on a boat gently rocking on the Thames.

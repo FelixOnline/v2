@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jonathan Kingsley is on a mission to help Bangladesh’s rural poor
 date: "2012-12-07 02:34:35 +0000"
+
 # Attributes from Felix Online V1
 id: "3050"
 old_path: /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
 aliases:
  - /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
+imported: true
+comments:
+ - Good effort Never thought to do anything like this till now Will see you at the bake sale next week Thanks Whats a good life if it isnt a collection of the most eye opening and horizon broadening experiences Well done John
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good effort Never thought to do anything like this till now Will see you at the bake sale next week Thanks Whats a good life if it isnt a collection of the most eye opening and horizon broadening experiences Well done John
-imported: true
 ---
 
 Tor many, life has been normal so far; most have attended school, the lucky progressing onto university, the majority then graduating. However, I realised the next 10 years of my (professional) life could creep up on me as quickly as the last 16 years, during which time I was being unwittingly conveyor-belted along an education system and churned out into real life. I felt like doing something different, just for a while.

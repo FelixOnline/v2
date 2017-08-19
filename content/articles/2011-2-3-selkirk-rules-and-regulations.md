@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Selkirk students annoyed at new rules
 date: "2011-02-03 19:45:52 +0000"
+
 # Attributes from Felix Online V1
 id: "724"
 old_path: /news/724/selkirk-rules-and-regulations-
 aliases:
  - /news/724/selkirk-rules-and-regulations-
+imported: true
+comments:
+ - The article does not suggest that Selkirk are the only hall that have these rules it precisely says it seems that only Selkirk has had their regulations reinforced where one student was shocked that it was only their hallsIn fact earlier in the article it says Subwarden James FarleyNicholls said that they were a reemphasis of the preexisting requirements for living in halls These requirements were set for all halls at the beginning of term and are simply being reenforced more rigorously he arguesYour comment to us was as followsThese rules apply in Tizard as well and always have done  The student are made aware of them on their first day  I believe rules like these are standard across halls and make it a safe environment for everyoneThere is nothing in the article that is made up The article is already clear about the situation however I do concede that your comments would have added further claritySome unis have campuswide noise curfews and generally
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The article does not suggest that Selkirk are the only hall that have these rules it precisely says it seems that only Selkirk has had their regulations reinforced where one student was shocked that it was only their hallsIn fact earlier in the article it says Subwarden James FarleyNicholls said that they were a reemphasis of the preexisting requirements for living in halls These requirements were set for all halls at the beginning of term and are simply being reenforced more rigorously he arguesYour comment to us was as followsThese rules apply in Tizard as well and always have done  The student are made aware of them on their first day  I believe rules like these are standard across halls and make it a safe environment for everyoneThere is nothing in the article that is made up The article is already clear about the situation however I do concede that your comments would have added further claritySome unis have campuswide noise curfews and generally
-imported: true
 ---
 
 After several recent incidents in Selkirk Halls – mainly involving alcohol – the Wardens have decided to implement a series of rules regarding ‘gatherings’ and noise levels late at night. These regulations request that students inform the wardens about gatherings so that they can be ‘approved’ and have provoked consternation amongst students there. Students have been warned that if gatherings are not reported to Wardens, after repeat offences, they may get fined.

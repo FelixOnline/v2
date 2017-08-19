@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Xuan Chen gives his thoughts on Imperial’s newest self defence class
 date: "2015-02-13 15:21:16 +0000"
+
 # Attributes from Felix Online V1
 id: "5258"
 old_path: /cands/5258/krav-maga--a-fearsome-addition-to-ics-martial-arts-roster
 aliases:
  - /cands/5258/krav-maga--a-fearsome-addition-to-ics-martial-arts-roster
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For anyone unfamiliar with _Krav Maga_, the short summary is this; it’s a brutally effective modern self-defence system invented by the Israeli military halfway through the 20th century.

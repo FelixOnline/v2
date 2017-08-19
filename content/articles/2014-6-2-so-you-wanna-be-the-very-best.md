@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Sport visits the UK & Ireland Pokémon Nationals in Old Trafford (no, not that one)
 date: "2014-06-02 13:29:05 +0100"
+
 # Attributes from Felix Online V1
 id: "4651"
 old_path: /sport/4651/so-you-wanna-be-the-very-best
 aliases:
  - /sport/4651/so-you-wanna-be-the-very-best
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When your friend tells you he’s entering a Pokémon tournament the only appropriate response is to go there to be his cheerleaders – well, after a half hour of convincing that it isn’t an elaborate ruse to steal your kidney. So with this in mind a few friends and I descended upon Manchester for one of the strangest weekends of my life: the UK & Ireland Pokémon Nationals.

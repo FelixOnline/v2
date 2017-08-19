@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eva Rosenthal on the bibliography of Henry James
 date: "2013-10-12 00:27:01 +0100"
+
 # Attributes from Felix Online V1
 id: "3837"
 old_path: /books/3837/best-of-henry-james
 aliases:
  - /books/3837/best-of-henry-james
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 In Henry James’ The Figure in the Carpet, several unlucky people become obsessed with painstakingly unearthing the meaning concealed – literally – in the works of a brilliant novelist. The story plays easily with the reader; it dangles a something sweet – the promise of ultimate knowledge – in front of us and ultimately disappoints. The after effect is wittily insidious: one may start to think that there could be, that there definitely is, a golden key, to decoding James’ entire body of work. If one were to look carefully enough, obsessively enough, perhaps it could be found... James cautions us throughout with his sad and unhappy characters but it is hard to resist his riddle.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Giulia Gabrielli on the Erasmus experience
 date: "2013-10-11 23:00:21 +0100"
+
 # Attributes from Felix Online V1
 id: "3823"
 old_path: /features/3823/so-you-think-youre-an-erasmuser
 aliases:
  - /features/3823/so-you-think-youre-an-erasmuser
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It may seem strange stuck on level 4 of the library, turning pages as silently as possible to avoid any evil stare of doom, but there are some Imperialites that leave for the mythological Erasmus year; and I am one of them. Last year I packed up my stuff in three bags and five boxes and left for Montpellier, France. I’m back in London now, new flat, new year, but I am still haunted by the memory of those wonderful days. Every French tourist on the tube makes me want to jump on a plane and every mention of cheese, wine or garlic makes me more than acceptably emotional. The truth is I’ve got Erasmus blues. I met some lovely people, saw new places, lived in a foreign country, learnt a different language blah, blah, blah... Really I did all of the things it says on the brochure. I also made friends with people with names like Pierre-Etienne and Delphine, and spent and awful lot of time playing board games with the best group of French nerds ever. I made friends from all over the world and found couches for all my future interrailing plans across Europe. Even so, happiness is a question of timing, and more than once I have heard fellow students describing their Erasmus experiences far less enthusiastically than me. For an unlucky Erasmuser, the French aren’t sophisticated, they’re stuck-up, the Spanish aren’t friendly they’re loud, the English aren’t... well I don’t know what positive things they say about us, but add your own disgusting food-bad humour stereotype at this point. In order to avoid any disappointment, here is a list of some major pointers to think about if you are considering whether of not you could be an Erasmuser:

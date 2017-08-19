@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nathaniel Gallop on the underlying issues that encourage media misogyny
 date: "2014-11-20 20:54:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4911"
 old_path: /comment/4911/the-retirement-of-dapper-laughs
 aliases:
  - /comment/4911/the-retirement-of-dapper-laughs
+imported: true
+comments:
+ - well it never happend like that here is a statement been made  I would just like to put the record straight Dapper laughs at his show he said to the audience that people were saying that he show on ITV2 Was promoting  rape s which he replied I would not have made six shows to do this all I need is to go to the hardware shop and buy some duct tape 10 minute show job finished Then someone in the audience said something about rape Which DL said no you cant do that then in the corner of the stage a girl shouted out her friend that she was with shes gagging for a rape So dapper laughs said youre gagging for a rape he did not say it first If you look at the the footage he said i will see you back stage and Bring your friend Which the audience laughs  news night put subtitles in their program to suit them And not dapperlaughs so in the footage he explains what went down but the program did not air his explanation tbh i think he should sue for damages for all the untrue slanderHe still so
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - well it never happend like that here is a statement been made  I would just like to put the record straight Dapper laughs at his show he said to the audience that people were saying that he show on ITV2 Was promoting  rape s which he replied I would not have made six shows to do this all I need is to go to the hardware shop and buy some duct tape 10 minute show job finished Then someone in the audience said something about rape Which DL said no you cant do that then in the corner of the stage a girl shouted out her friend that she was with shes gagging for a rape So dapper laughs said youre gagging for a rape he did not say it first If you look at the the footage he said i will see you back stage and Bring your friend Which the audience laughs  news night put subtitles in their program to suit them And not dapperlaughs so in the footage he explains what went down but the program did not air his explanation tbh i think he should sue for damages for all the untrue slanderHe still so
-imported: true
 ---
 
 Ten days ago, controversial internet sensation Daniel O’Reilly appeared on an exclusive Newsnight interview to announce the retirement of his comedic persona, Dapper Laughs.

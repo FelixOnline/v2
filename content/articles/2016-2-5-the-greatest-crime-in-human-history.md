@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As an intelligent species, we should recognise that eating meat is not natural
 date: "2016-02-05 11:54:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5865"
 old_path: /comment/5865/the-greatest-crime-in-human-history
 aliases:
  - /comment/5865/the-greatest-crime-in-human-history
+imported: true
+comments:
+ - I think this is perhaps the worst Felix article I have ever read You do not even try to present a serious argument relying instead on trite oneliners and hysterical florid prose Explain how exactly famine is a consequence of capitalism given the Soviet famine of 3233 the Chinese famine of 5961 or the North Korean famine of 9498 all of which occurred in Socialist states How exactly did we build poverty ourselves when the number of people in poverty is currently lower than its ever been Or do you think the average person in 1016 or 1515 was better off than they are nowAnd how exactly is it unnatural for humans to eat meat when we have specific biological adaptations to enable us to do so Take a look in the mirror and think about what a terrible article youve written and while youre doing that take a look at the natural shape of your teeth Grace I am disappointed I welcome people expressing controversial opinions but in articles that are wellresearched logically consist
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I think this is perhaps the worst Felix article I have ever read You do not even try to present a serious argument relying instead on trite oneliners and hysterical florid prose Explain how exactly famine is a consequence of capitalism given the Soviet famine of 3233 the Chinese famine of 5961 or the North Korean famine of 9498 all of which occurred in Socialist states How exactly did we build poverty ourselves when the number of people in poverty is currently lower than its ever been Or do you think the average person in 1016 or 1515 was better off than they are nowAnd how exactly is it unnatural for humans to eat meat when we have specific biological adaptations to enable us to do so Take a look in the mirror and think about what a terrible article youve written and while youre doing that take a look at the natural shape of your teeth Grace I am disappointed I welcome people expressing controversial opinions but in articles that are wellresearched logically consist
-imported: true
 ---
 
 No. If you guessed by reading the title that I was going to say warfare, you are wrong. Poverty? We built that ourselves. Famine? Yet another consequence of capitalism. The Holocaust? Although a stigma that will forever stain the history of mankind, it did not sustain itself for relatively long. Inquisition? Read the previous. What about, say, the food industry? And moreover, the carnivorous food industry?

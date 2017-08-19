@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Margot Pikovsky gets her alliteration on
 date: "2012-11-15 22:20:46 +0000"
+
 # Attributes from Felix Online V1
 id: "2914"
 old_path: /sport/2914/miners-mourn-medic-defeat
 aliases:
  - /sport/2914/miners-mourn-medic-defeat
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Wednesday 14 November, ICSM Ladies’ 2s faced off with the RSM 1s at their Osterley home ground. The afternoon was glorious: the sun overhead and no-leggings-necessary heat a stark contrast from the last time these two teams met back in March, an event that will long stay in the memory of both teams for the truly dire conditions, including sub zero temperatures and a torrential downpour that started on the third minute and prevailed until the end of the match. With that encounter having finished in a draw, both RSM and Medics were keen to make this game worth their while.

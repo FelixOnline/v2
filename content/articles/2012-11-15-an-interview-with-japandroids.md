@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mark England chews the cud with Japandroids
 date: "2012-11-15 21:33:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2898"
 old_path: /music/2898/an-interview-with-japandroids
 aliases:
  - /music/2898/an-interview-with-japandroids
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Brian King, lead singer and guitarist of Japandroids, talked to me about London. his favourite record and where their awesome name originates from.

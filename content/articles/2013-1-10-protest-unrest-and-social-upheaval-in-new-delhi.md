@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tragedy sparks debate over attitudes to women
 date: "2013-01-10 22:20:40 +0000"
+
 # Attributes from Felix Online V1
 id: "3083"
 old_path: /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
 aliases:
  - /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
+imported: true
+comments:
+ - Excellently covers the event as it happened Very unfortunate and unruly state of affairs in the Capital city of the largest populated democracy on our planet Surely the women in Indian communities should have the security to live as humans deserveTo quote an oft quoted line from a recent popular movie Their punishment must be more severe I feel the writer may have left out a couple of points about the event but that is hisher decisionAlso the GrammarNazi in me expected a lot better editing from such a publication The infinite number of monkeys producing Shakespeares works might have a similar problem which we could call acceptable but not from you guys Come on Find and use the comma keyAn excellent piece which clearly illustrates the wide cultural divide existing in modern urban India which leads to multiple problems Although a sad incident hopefully it will serve as a catalyst for an improvement in the status of women in a dominantly patriarchal society as is Indias
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Excellently covers the event as it happened Very unfortunate and unruly state of affairs in the Capital city of the largest populated democracy on our planet Surely the women in Indian communities should have the security to live as humans deserveTo quote an oft quoted line from a recent popular movie Their punishment must be more severe I feel the writer may have left out a couple of points about the event but that is hisher decisionAlso the GrammarNazi in me expected a lot better editing from such a publication The infinite number of monkeys producing Shakespeares works might have a similar problem which we could call acceptable but not from you guys Come on Find and use the comma keyAn excellent piece which clearly illustrates the wide cultural divide existing in modern urban India which leads to multiple problems Although a sad incident hopefully it will serve as a catalyst for an improvement in the status of women in a dominantly patriarchal society as is Indias
-imported: true
 ---
 
 On the 16th of December last year while Bangladesh celebrated its 39th Victory Day and Japanese voters brought about a change in government, a 23-year-old physiotherapy student was brutally raped and assaulted in the Indian capital, New Delhi. Within a week as news of the vicious attack spread through the country, it sparked widespread protest and cast glaring light on what some call India’s ‘rape problem’.

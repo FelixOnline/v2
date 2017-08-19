@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Esmerine are one of the more loosely-related Godspeed You! Black Emperor side projects.
 date: "2013-12-02 22:13:30 +0000"
+
 # Attributes from Felix Online V1
 id: "4168"
 old_path: /music/4168/emserine--dalmak
 aliases:
  - /music/4168/emserine--dalmak
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Esmerine are one of the more loosely-related Godspeed You! Black Emperor side projects. It features Bruce Cawdron, the drummer from GY!BE (he also plays in Set Fire to Flames), alongside cellist Beckie Foon, who plays with both Set Fire to Flames, HRSTA and A Silver Mt. Zion (all other Godspeed side projects, keeping up?). Probably due to the members’ other bands, they’re frequently labelled as a post-rock band. However, to my ears this owes much more to chamber music than it does post-rock traditions. It’s a far cry from Godspeed, but it’s still a fascinating listen.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mimi Li on the dangers of living in a polluted city.
 date: "2014-06-12 17:00:43 +0100"
+
 # Attributes from Felix Online V1
 id: "4686"
 old_path: /science/4686/london-pollution-linked-to-heart-complications-
 aliases:
  - /science/4686/london-pollution-linked-to-heart-complications-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 London is one of the most polluted cities in Europe and it is no surprise to hear that this pollution has potentially harmful effects on our health. Air pollution has previously been linked to an increased risk of cardiovascular and respiratory disease, as well as cancer. An estimated 7 million deaths per year are a result of air pollution exposure according to the World Health Organisation.

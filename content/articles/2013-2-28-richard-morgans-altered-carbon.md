@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Altered Carbon
 date: "2013-02-28 18:11:04 +0000"
+
 # Attributes from Felix Online V1
 id: "3385"
 old_path: /books/3385/richard-morgans-altered-carbon
 aliases:
  - /books/3385/richard-morgans-altered-carbon
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I had heard a lot of good things about Richard Morgan, but a glance through the blurbs of his novels didn’t turn up anything that I thought I would particularly enjoy. However, upon reading that Altered Carbon, his first book, had been voted as the fifth best SF novel of the twenty first century by the readers of Locus magazine, I decided that I just had to check it out.

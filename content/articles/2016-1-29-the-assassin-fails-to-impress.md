@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Plot trumps substance in this Taiwanese flick
 date: "2016-01-29 09:29:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5847"
 old_path: /film/5847/the-assassin-fails-to-impress
 aliases:
  - /film/5847/the-assassin-fails-to-impress
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I tried to like _The Assassin_. I really, really did try. First hearing about it during its rapturous reception in Cannes, where Hou Hsiao-Hsien became the second Taiwanese director in the festival’s history to win the coveted Best Director Award, I watched as it made its way towards a UK release, pushed along by wave after wave of ecstatic reviews. After seeing it at the London Film Festival I was left disappointed; the glacial pace of the film meant there were many points where I drifted off. But then a few months later, _The Assassin_ was named _Sight and Sound_’s best film of 2015. I must have been overtired, I rationalised to myself; I ought to give it another shot, and really focus this time, to try and catch what I had missed. Well, call me a philistine, but I really didn’t get it – Hsiao-Hsien has indeed created a thing of beauty, a work of art in the most aesthetic sense of the word, but his insistence of keeping the audience removed from the work results in a feeling of tedium and overwhelming isolation.

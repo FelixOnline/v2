@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports as council is flooded with Weeks residents
 date: "2015-03-13 01:17:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5390"
 old_path: /news/5390/union-council-reverses-decision-on-campaign-against-closure-of-weeks-hall
 aliases:
  - /news/5390/union-council-reverses-decision-on-campaign-against-closure-of-weeks-hall
+imported: true
+comments:
+ - fitflop slippers salecheapest fitflops sale httpfitflopsaublogspotcomHey there I am so excited I found your weblog I really found you by accident while I was browsing on Yahoo for something else Regardless I am here now and would just like to say thank you for a remarkable post and a all round exciting blog I also love the themedesign I dont have time to browse it all at the moment but I have bookmarked it and also added your RSS feeds so when I have time I will be back to read a lot more Please do keep up the superb jbugg uk discount code 02 httpwwwsanctus1coukukuggukdiscountcode022935htmllouboutin sneakers canadachristian louboutin online store httpcanadachristianlouboutinblogspotcomchristian louboutin online storechristian louboutin canada outlet httpcanadachristianlouboutinblogspotcomGreat looking internet site Think you did a bunch of your very ownyour very own codingNFL 17 httpwwwnewbusinesspowercomforumstopic6318cheap2k17mtbecomea
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop slippers salecheapest fitflops sale httpfitflopsaublogspotcomHey there I am so excited I found your weblog I really found you by accident while I was browsing on Yahoo for something else Regardless I am here now and would just like to say thank you for a remarkable post and a all round exciting blog I also love the themedesign I dont have time to browse it all at the moment but I have bookmarked it and also added your RSS feeds so when I have time I will be back to read a lot more Please do keep up the superb jbugg uk discount code 02 httpwwwsanctus1coukukuggukdiscountcode022935htmllouboutin sneakers canadachristian louboutin online store httpcanadachristianlouboutinblogspotcomchristian louboutin online storechristian louboutin canada outlet httpcanadachristianlouboutinblogspotcomGreat looking internet site Think you did a bunch of your very ownyour very own codingNFL 17 httpwwwnewbusinesspowercomforumstopic6318cheap2k17mtbecomea
-imported: true
 ---
 
 Union Council met this Tuesday and voted to reverse its previous decision not to campaign against the closure of Weeks Hall.

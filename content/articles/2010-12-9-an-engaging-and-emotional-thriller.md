@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A true testament to the very un-Hollywood idea that money cannot buy horror
 date: "2010-12-09 19:29:23 +0000"
+
 # Attributes from Felix Online V1
 id: "506"
 old_path: /film/506/an-engaging-and-emotional-thriller
 aliases:
  - /film/506/an-engaging-and-emotional-thriller
+imported: true
+comments:
+ - Im laughing at the first colupe of answers  Clearly these are people unfamiliar with the true horror genre watch some Vincent PriceA lot of the classics really do a great job of giving you the rules of certain monsters and story lines  When you know the rules is when you can bend them  You should do your research and find horror stories like the one you want to write and commit to readingwatching and analyzing themReferences
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Im laughing at the first colupe of answers  Clearly these are people unfamiliar with the true horror genre watch some Vincent PriceA lot of the classics really do a great job of giving you the rules of certain monsters and story lines  When you know the rules is when you can bend them  You should do your research and find horror stories like the one you want to write and commit to readingwatching and analyzing themReferences
-imported: true
 ---
 
 A film titled [Monsters](http://www.youtube.com/watch?v=V_-gL3U1T5Y) carries with it a certain level of expectation to show something – well – monstrous. Considering this, the common criticism that this micro-budget indie film lacks exactly that is fully understandable. Make no mistake, only $200,000 was spent on the production which is nowhere near close to most CGI-loaded films, and this is not your regular “mutant monsters are taking over the planet and killing our protagonists one by one” kind of film. Instead – and this is what has been often overlooked – Monsters relies on the consistent, underlying tone of fear.

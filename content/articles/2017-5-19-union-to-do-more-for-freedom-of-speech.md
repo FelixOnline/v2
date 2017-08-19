@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Freeze peach
 date: "2017-05-19 15:00:10 +0100"
+
 # Attributes from Felix Online V1
 id: "6973"
 old_path: /news/6973/union-to-do-more-for-freedom-of-speech
 aliases:
  - /news/6973/union-to-do-more-for-freedom-of-speech
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Union is moving towards taking a stronger stance on Freedom of Speech. Over the past few months a conversation has begun around the role of Imperial College Union in supporting students’ freedom of speech. The question of “Are we doing enough to promote dialogue and debate?” lies at the centre of this move.

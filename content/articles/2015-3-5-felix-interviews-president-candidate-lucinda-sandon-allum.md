@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:27:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5339"
 old_path: /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
 aliases:
  - /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
+imported: true
+comments:
+ - utuEhv httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomI was just looking at your Felix Interviews President Candidate Lucinda SandonAllum  Comment  Felix Online site and see that your site has the potential to get a lot of visitors I just want to tell you In case you didnt already know There is a website network which already has more than 16 million users and most of the users are interested in websites like yours By getting your site on this network you have a chance to get your site more visitors than you can imagine It is free to sign up and you can read more about it here httplisovhhy  Now let me ask you Do you need your site to be successful to maintain your way of life Do you need targeted visitors who are interested in the services and products you offer Are looking for exposure to increase sales and to quickly develop awareness for your website If your answer is YES you can achieve these things only if you get your site on the service I am describing This traffic netwo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - utuEhv httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomI was just looking at your Felix Interviews President Candidate Lucinda SandonAllum  Comment  Felix Online site and see that your site has the potential to get a lot of visitors I just want to tell you In case you didnt already know There is a website network which already has more than 16 million users and most of the users are interested in websites like yours By getting your site on this network you have a chance to get your site more visitors than you can imagine It is free to sign up and you can read more about it here httplisovhhy  Now let me ask you Do you need your site to be successful to maintain your way of life Do you need targeted visitors who are interested in the services and products you offer Are looking for exposure to increase sales and to quickly develop awareness for your website If your answer is YES you can achieve these things only if you get your site on the service I am describing This traffic netwo
-imported: true
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

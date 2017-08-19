@@ -4,16 +4,23 @@ title: >
 subtitle: >
   £28 million development given go ahead by local council
 date: "2010-10-21 19:32:55 +0100"
+
 # Attributes from Felix Online V1
 id: "243"
 old_path: /news/243/postgraduate-wood-lane-campus-approved
 aliases:
  - /news/243/postgraduate-wood-lane-campus-approved
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Plans for Imperial College London’s development of a new postgraduate campus at Wood Lane have gained impetus following their approval by Hammersmith & Fulham Council.

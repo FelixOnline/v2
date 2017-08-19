@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:33:07 +0000"
+
 # Attributes from Felix Online V1
 id: "5342"
 old_path: /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
 aliases:
  - /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
+imported: true
+comments:
+ - fitflop storefitflop sandals httpaustraliafitflopsblogspotcomfit flops clearancefitflop stores httpfitflopsaublogspotcomcheap christian louboutin canadacheap christian louboutin httpcanadachristianlouboutinoutletblogspotcomcheap christian louboutin peep toes shoeschristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop storefitflop sandals httpaustraliafitflopsblogspotcomfit flops clearancefitflop stores httpfitflopsaublogspotcomcheap christian louboutin canadacheap christian louboutin httpcanadachristianlouboutinoutletblogspotcomcheap christian louboutin peep toes shoeschristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

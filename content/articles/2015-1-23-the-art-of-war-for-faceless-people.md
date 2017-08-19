@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Osama Awara discusses the modern weaponisation of hacking
 date: "2015-01-23 18:09:50 +0000"
+
 # Attributes from Felix Online V1
 id: "5139"
 old_path: /tech/5139/the-art-of-war-for-faceless-people
 aliases:
  - /tech/5139/the-art-of-war-for-faceless-people
+imported: true
+comments:
+ - rwT3UQ  llqokcnvrgmk urlhttpmmeiaobkvekkcommmeiaobkvekkurl linkhttpxuwascbaonrhcomxuwascbaonrhlink httpkkhfvcrlooxacomJust simply had to express I am delighted I came on the websitecsgo skins drop in price httpcsgoskinsfamastarlogcompost18
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - rwT3UQ  llqokcnvrgmk urlhttpmmeiaobkvekkcommmeiaobkvekkurl linkhttpxuwascbaonrhcomxuwascbaonrhlink httpkkhfvcrlooxacomJust simply had to express I am delighted I came on the websitecsgo skins drop in price httpcsgoskinsfamastarlogcompost18
-imported: true
 ---
 
 The previous few weeks have seen a surge in cyber warfare like no other. From the __Sony Pictures __hacking over _The Interview_ – a satire film depicting the assassination attempt of Kim Jong-Un, to the ISIS hacking of US Central Command Twitter account. The hacktivist group Anonymous have vowed to take down pro-Islamic extremist websites and social media accounts in light of the recent Paris attacks on Charlie Hebdo. The main objective that all these hacks have in common is not necessarily to undermine security, but to create a psychological impact.

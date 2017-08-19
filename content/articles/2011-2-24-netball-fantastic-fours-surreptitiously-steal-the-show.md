@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial seals the deal in the dying seconds
 date: "2011-02-24 20:11:27 +0000"
+
 # Attributes from Felix Online V1
 id: "883"
 old_path: /sport/883/netball-fantastic-fours-surreptitiously-steal-the-show
 aliases:
  - /sport/883/netball-fantastic-fours-surreptitiously-steal-the-show
+imported: true
+comments:
+ - Im sixty years old  One of my flaws as a young woman was that I couldnt dance could not do it  I didnt know which foot to start on or where to put it  I was alyaws leaning the wrong way and on top of that I was clumsy  All of that made me freeze in a guys arms  I never understood why   Then after all these years I put together the fact that Im dyslexic with the fact I cant dance as a couple and it finally made sense  Dyslexia causes problems in such little as well as big ways
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Im sixty years old  One of my flaws as a young woman was that I couldnt dance could not do it  I didnt know which foot to start on or where to put it  I was alyaws leaning the wrong way and on top of that I was clumsy  All of that made me freeze in a guys arms  I never understood why   Then after all these years I put together the fact that Im dyslexic with the fact I cant dance as a couple and it finally made sense  Dyslexia causes problems in such little as well as big ways
-imported: true
 ---
 
 Victory rarely tastes so sweet as when you spend 59 minutes behind on goals, only to seal the deal in the dying seconds. The ICs 4s appetite was whetted for the run up to the end of the season when they did just that against their visitors, Queen Marys 4s.

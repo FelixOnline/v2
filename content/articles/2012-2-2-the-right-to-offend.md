@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tagore Nakornchai thinks religious groups should face their critics head on
 date: "2012-02-02 23:32:44 +0000"
+
 # Attributes from Felix Online V1
 id: "2111"
 old_path: /comment/2111/the-right-to-offend
 aliases:
  - /comment/2111/the-right-to-offend
+imported: true
+comments:
+ - I will exercise my right to offend by calling this piece utter trashJust kidding It made for a very interesting read Do you know why the Atheists and Agnostics Society shut downAs a pastafarian I am constantly offended by what passes for al dente in the SCRI have no idea why the previous society shut down  They werent there at my first freshers fair Im a 2nd year and I cant find the SCC Minutes on the Union WebsiteGreat article Id also be interested in helping to start up an AtheistAgnostic society Could make a nice counterweight to all the vocal religious societies weve got around hereBrilliant piece Would be a great to finally give atheists  agnostics a proper voice at ImperialYoure article is interesting I partly agree with it Yet I see a few issues 1 Criticising and insulting are two different things2 Is freedom of speech really absoluteYou cited economics politics music  ok thats fine But what about race or sex Are you really free to insult another
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I will exercise my right to offend by calling this piece utter trashJust kidding It made for a very interesting read Do you know why the Atheists and Agnostics Society shut downAs a pastafarian I am constantly offended by what passes for al dente in the SCRI have no idea why the previous society shut down  They werent there at my first freshers fair Im a 2nd year and I cant find the SCC Minutes on the Union WebsiteGreat article Id also be interested in helping to start up an AtheistAgnostic society Could make a nice counterweight to all the vocal religious societies weve got around hereBrilliant piece Would be a great to finally give atheists  agnostics a proper voice at ImperialYoure article is interesting I partly agree with it Yet I see a few issues 1 Criticising and insulting are two different things2 Is freedom of speech really absoluteYou cited economics politics music  ok thats fine But what about race or sex Are you really free to insult another
-imported: true
 ---
 
 In case you haven’t been following the news, here’s a quick summary: the UCL Atheist, Secular and Humanist Society’s president stepped down this week after massive pressure from the UCL Union. The Society had used a picture from the “Jesus and Mo” web comic to advertise an event, and were promptly served with a takedown notice from the UCL Union. When the society shot back with a petition, 4,000 people (including Richard Dawkins) signed it overnight, and the UCLU was forced to back down.

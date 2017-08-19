@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Amy Lamé reigns supreme
 date: "2016-11-11 18:30:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6443"
 old_path: /music/6443/the-night-tsar-takes-control
 aliases:
  - /music/6443/the-night-tsar-takes-control
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Night Tsar’ is not a period thriller starring Tom Hiddleston, but rather something far more ambitious. The night tsar is going to save London’s nightlife single-handedly and raise an industry from its knees, away from the clutches of the London property machine. It’s a big task, but thankfully the woman appointed to the job seems to have a glowing CV: Amy Láme is a 45-year-old comedian.

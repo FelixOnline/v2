@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I can only hope the Olympic organisers actually get people into the venue
 date: "2011-02-17 19:58:21 +0000"
+
 # Attributes from Felix Online V1
 id: "829"
 old_path: /comment/829/give-viewers-a-sporting-chance
 aliases:
  - /comment/829/give-viewers-a-sporting-chance
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Picture the scene: the Olympic Stadium, East London, less than a year and a half from now, on a balmy August evening. There is little wind; the heat is slowly rising from the track. The atmosphere is heavy, but that has little to do with the weather. The entire world’s gaze is fixed upon the ten men at one end of the track. Never before has one event monopolised the attention of so many people. Cameras are everywhere, and for the first time, people are watching in 3D.

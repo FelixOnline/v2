@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"
+
 # Attributes from Felix Online V1
 id: "5630"
 old_path: /politics/5630/the-leadership-races-to-watch-over-the-summer-
 aliases:
  - /politics/5630/the-leadership-races-to-watch-over-the-summer-
+imported: true
+comments:
+ - Blue Labour has nothing to do with Blairs third way Its a return to Labours radical tradition before 1945 suspicious of markets and the  state giving people power over their own lives birkenstocks cheapbirkenstock shops httpbirkenstockaustralia2013blogspotcomchristian louboutin canada storeschristian louboutin online httpcanadachristianlouboutinblogspotcomThanks a lot This a great web sitecsgo skins agario httpsupportinterresolvecoukentries109464576BannedAgainAt2k16mtSportsYoure an extremely useful website could not make it without yafifa 17 points httphersimucomkomunitasbahagiaforumtopic1672
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Blue Labour has nothing to do with Blairs third way Its a return to Labours radical tradition before 1945 suspicious of markets and the  state giving people power over their own lives birkenstocks cheapbirkenstock shops httpbirkenstockaustralia2013blogspotcomchristian louboutin canada storeschristian louboutin online httpcanadachristianlouboutinblogspotcomThanks a lot This a great web sitecsgo skins agario httpsupportinterresolvecoukentries109464576BannedAgainAt2k16mtSportsYoure an extremely useful website could not make it without yafifa 17 points httphersimucomkomunitasbahagiaforumtopic1672
-imported: true
 ---
 
 Four candidates will be on the ballot paper when Labour Party members get to vote on Ed Miliband’s successor in September. Nominations closed on Wednesday and Shadow Secretary of State for Health Andy Burnham is the bookies’ favourite. Burnham received 68 nominations from MPs (the minimum to be on the ballot was 35), Yvette Cooper achieved 59, Jeremy Corbyn 36 and Liz Kendall 41, with 25 MPs – including Ed Miliband and deputy leader Harriet Harman – deciding not to vote.

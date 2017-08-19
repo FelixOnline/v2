@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alex Simpson grabs his balls well
 date: "2013-02-08 00:25:42 +0000"
+
 # Attributes from Felix Online V1
 id: "3271"
 old_path: /sport/3271/mens-water-polo-handle-their-balls-right
 aliases:
  - /sport/3271/mens-water-polo-handle-their-balls-right
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The men’s water polo team are midway through what has already been our most successful season to date. This year we found ourselves in the top division after being promoted last year, along with Warwick, Oxford and Cambridge in what some would call the most intellectual sporting league in the UK.

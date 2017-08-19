@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dancer-turned-choreographer Julie Cunningham presents a modern mediation on gender identity
 date: "2017-03-12 21:24:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6893"
 old_path: /arts/6893/julie-cunningham--dance-as-performance-art
 aliases:
  - /arts/6893/julie-cunningham--dance-as-performance-art
+imported: true
+comments:
+ - I was wondering if after work we could grab a cup of coffeebuy cheapest madden 17 mobile coins httpwwwmaddenstorecomToday looks great pokemon go rare pokemon safe pokemonbux httpwwwpokemonbuxcomBe gooddofustouchkamas Best Site to Buy Cheapest dofus touch kamas httpswwwdofustouchkamascomI have no idea what you have saidcheap dofus touch kamas buy httpsforumsobdevatviewtopicphpf6t10740look great todayalbion online gold httpwwwalbionportfolioboxnetupalbionwillfinishyouralbiononlinegoldorderwithin15minutes
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I was wondering if after work we could grab a cup of coffeebuy cheapest madden 17 mobile coins httpwwwmaddenstorecomToday looks great pokemon go rare pokemon safe pokemonbux httpwwwpokemonbuxcomBe gooddofustouchkamas Best Site to Buy Cheapest dofus touch kamas httpswwwdofustouchkamascomI have no idea what you have saidcheap dofus touch kamas buy httpsforumsobdevatviewtopicphpf6t10740look great todayalbion online gold httpwwwalbionportfolioboxnetupalbionwillfinishyouralbiononlinegoldorderwithin15minutes
-imported: true
 ---
 
 **Julie Cunningham | Dance as performance art**

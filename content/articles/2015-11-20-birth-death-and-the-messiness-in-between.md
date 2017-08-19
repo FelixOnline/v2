@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Morgen und Abend throws us into a man’s existence and beyond with mixed results
 date: "2015-11-20 09:39:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5760"
 old_path: /arts/5760/birth-death-and-the-messiness-in-between
 aliases:
  - /arts/5760/birth-death-and-the-messiness-in-between
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Where words leave off, music begins”, said the poet Heinrich Heine. Morgen und Abend, a new opera by Austrian composer Georg Friedrich Haas, attempts to go where words cannot and follows a man, Johannes, into existence and beyond into death. Although death (together with love) is one of those ubiquitous themes in opera, it is usually the act of dying rather than the experience of being dead. This opera then promises a new kind of musical experience.

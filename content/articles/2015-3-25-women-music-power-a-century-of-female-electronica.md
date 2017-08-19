@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles takes us on a tour through the history of the early pioneers of electronic music
 date: "2015-03-25 12:35:47 +0000"
+
 # Attributes from Felix Online V1
 id: "5431"
 old_path: /music/5431/women-music-power-a-century-of-female-electronica
 aliases:
  - /music/5431/women-music-power-a-century-of-female-electronica
+imported: true
+comments:
+ - csgo skins double httpwwwfanupcomforumnba2k16mtcoinsvideogameshouldntbeverythrillingAt last some raoiantlity in our little debate
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - csgo skins double httpwwwfanupcomforumnba2k16mtcoinsvideogameshouldntbeverythrillingAt last some raoiantlity in our little debate
-imported: true
 ---
 
 Recently, an image has been widely circulated on Twitter, showing what the Reading/Leeds 2015 lineup would look like if all the male-only bands were removed. Published by the music blog _Crack In The Road_, it makes for a grim indication of the modern music industry; a wealth of band names has instead become a sea of vibrant yellow, like an garish alarm warning us, “there is a problem”. This year, 89.6% of the festival’s lineup consists of solo men, or all-male bands; remarkably, this isn’t actually that bad – feminist organisation _female:pressure_, a collective of musicians and artists pushing for equality, have stated that “nowadays, a 10% proportion of female artists can be considered above average”. Although we are now 15 years into the new millennium, it seems that festival organisers, music promoters, and – indeed – many arts journalists are still stuck in the last century.

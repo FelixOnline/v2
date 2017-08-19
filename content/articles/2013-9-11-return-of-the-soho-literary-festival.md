@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The small and eclectic festival returns at the end of the end of September.
 date: "2013-09-11 10:55:14 +0100"
+
 # Attributes from Felix Online V1
 id: "3759"
 old_path: /books/3759/return-of-the-soho-literary-festival
 aliases:
  - /books/3759/return-of-the-soho-literary-festival
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - mtm10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Soho Literary festival is to return for its third year at the Soho Theatre. Taking place at the end of this month (September 26-29) the festival is organised by _The Oldie _magazine, a publication well known for its regular literary lunches. With over thirty different events there is guaranteed to be something to appeal every lover of books and literature.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Waste exposes the hypocrisy of Victorian morality and remains relevant today
 date: "2015-11-20 09:37:35 +0000"
+
 # Attributes from Felix Online V1
 id: "5759"
 old_path: /arts/5759/national-theatre-revives-banned-classic
 aliases:
  - /arts/5759/national-theatre-revives-banned-classic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Waste is true to the name, a play about dashed hopes and broken dreams. It’s a damnably English affair.

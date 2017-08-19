@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But will it succeed where the last one failed?
 date: "2017-03-17 12:59:12 +0000"
+
 # Attributes from Felix Online V1
 id: "6895"
 old_path: /news/6895/imperial-divestment-campaign-revived
 aliases:
  - /news/6895/imperial-divestment-campaign-revived
+imported: true
+comments:
+ - Up yoursAlbion Online Silver httpwwwibase45netblogs201423381albionallowsplayerstocollectresourcesandcreatweaponsIll be there for you buy cheapest madden 17 coins mobile coins httpwwwmaddenstorecomthis is a very helpful websitepokemon go rare pokemon buy pokemonbux httpwwwpokemonbuxcomI have no idea what you have saidDofus Touch Kamas for sale httpforuminnjoocomforumphpmodviewthreadtid159621hithis is very good websitebuy Albion Online Gold httpsalbiononlineyolasitecomupalbionphp
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Up yoursAlbion Online Silver httpwwwibase45netblogs201423381albionallowsplayerstocollectresourcesandcreatweaponsIll be there for you buy cheapest madden 17 coins mobile coins httpwwwmaddenstorecomthis is a very helpful websitepokemon go rare pokemon buy pokemonbux httpwwwpokemonbuxcomI have no idea what you have saidDofus Touch Kamas for sale httpforuminnjoocomforumphpmodviewthreadtid159621hithis is very good websitebuy Albion Online Gold httpsalbiononlineyolasitecomupalbionphp
-imported: true
 ---
 
 This Monday will see the relaunch of the fossil fuel divestment campaign at Imperial. The new campaign will be called Divest Imperial, and at the official Launch Party on Monday evening campaigners are hoping to convince students that the recent successes of divestment groups such as the one based in King’s, can be replicated at Imperial.

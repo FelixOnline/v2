@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ashley revelas all about the Imperial College Baseball Club's first trophy 4 years
 date: "2014-10-17 14:56:01 +0100"
+
 # Attributes from Felix Online V1
 id: "4732"
 old_path: /sport/4732/falcons-win-first-trophy-in-four-years
 aliases:
  - /sport/4732/falcons-win-first-trophy-in-four-years
+imported: true
+comments:
+ - In my opinion marijuana should be legal They let people smoke chemicals in cigarettes why is a plant so bad then In fact you dont even have to smoke it for people thinking o820sm2king is so bad You cant take too much of it and die like alcohol or aspirin No one has ever died of smoking marijuana Do you realize that more people have died eating a peanut At least let the people who need it have it It needs to be legal in all 50 states
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - In my opinion marijuana should be legal They let people smoke chemicals in cigarettes why is a plant so bad then In fact you dont even have to smoke it for people thinking o820sm2king is so bad You cant take too much of it and die like alcohol or aspirin No one has ever died of smoking marijuana Do you realize that more people have died eating a peanut At least let the people who need it have it It needs to be legal in all 50 states
-imported: true
 ---
 
 The minibus was full of excitement and anticipation as club driver Rhys guided it down the M40 to Slough where the Falcons were to play in the inaugural National University Baseball Fall Cup organised by Baseball Softball UK (BSUK). The off-season had seen fantastic recruitment, particularly in the pitching department and this team represented the best chance yet that the Falcons had of securing that vaunted Fall Cup Shield which they last won in 2010.

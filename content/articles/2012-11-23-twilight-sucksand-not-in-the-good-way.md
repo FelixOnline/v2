@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Katy Bettany is not impressed with this long and boring end to the saga
 date: "2012-11-23 00:38:35 +0000"
+
 # Attributes from Felix Online V1
 id: "2976"
 old_path: /film/2976/twilight-sucksand-not-in-the-good-way
 aliases:
  - /film/2976/twilight-sucksand-not-in-the-good-way
+imported: true
+comments:
+ - Quite true Your words of pure truth transformed me from a Twitard to a Potterhead Thank you for rescuing me helpful person I am in your debtThank you thank you I was a former Twitard yet you rescued me out of it However may I repay you I am in forever debt to you kind person
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Quite true Your words of pure truth transformed me from a Twitard to a Potterhead Thank you for rescuing me helpful person I am in your debtThank you thank you I was a former Twitard yet you rescued me out of it However may I repay you I am in forever debt to you kind person
-imported: true
 ---
 
 The Twilight Saga comes to a much needed close with its final instalment. The main problem with this film is that Meyer’s final book barely contained enough content for one film, let alone two franchise-bleeding epics. Consequently, this film ended up being two hours in which essentially, nothing happened.

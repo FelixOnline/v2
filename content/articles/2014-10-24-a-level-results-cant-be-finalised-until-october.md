@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Universities have been told that they shouldn’t view exam results as “finalised” until the end of October, a month after most degree courses start.
 date: "2014-10-24 12:24:20 +0100"
+
 # Attributes from Felix Online V1
 id: "4744"
 old_path: /news/4744/a-level-results-cant-be-finalised-until-october
 aliases:
  - /news/4744/a-level-results-cant-be-finalised-until-october
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Universities have been told that they shouldn’t view exam results as “finalised” until the end of October. OCR, a leading exam results board, added to the statement saying that all results “remain provisional” until all re-marks are complete. Re-marks aren’t fully finished until the end of October, which is a month after most degree courses start.

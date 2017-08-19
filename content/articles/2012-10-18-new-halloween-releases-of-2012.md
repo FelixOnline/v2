@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Consider this a pre-amble to Halloween
 date: "2012-10-18 21:32:42 +0100"
+
 # Attributes from Felix Online V1
 id: "2711"
 old_path: /film/2711/new-halloween-releases-of-2012
 aliases:
  - /film/2711/new-halloween-releases-of-2012
+imported: true
+comments:
+ - 820 pm August 18 2012I work at a movie theatre  Yes peolpe do need to be told this every fucking time sometimes multiple times  Same with  shut up  and  keep you feet off the fucking seats   If you want to spend 1150 to go to a movie and use your phone do everyone a favor and just flush the cash down the toilet and stay home
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - 820 pm August 18 2012I work at a movie theatre  Yes peolpe do need to be told this every fucking time sometimes multiple times  Same with  shut up  and  keep you feet off the fucking seats   If you want to spend 1150 to go to a movie and use your phone do everyone a favor and just flush the cash down the toilet and stay home
-imported: true
 ---
 
 __Grave Encounters 2 __- _OUT NOW_

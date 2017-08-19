@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix catches up with events...
 date: "2014-01-17 03:35:25 +0000"
+
 # Attributes from Felix Online V1
 id: "4237"
 old_path: /comment/4237/theres-an-east-wind-coming
 aliases:
  - /comment/4237/theres-an-east-wind-coming
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Hello all! Welcome back to a new term! Hopefully you’ve recharged over the Christmas break and are all ready to sit your exams, do your coursework, or laugh at the poor souls who do so while you get away scott free!

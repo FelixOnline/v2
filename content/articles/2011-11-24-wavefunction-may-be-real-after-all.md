@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Theorem by Imperial scientists could change our understanding of the wavefunction
 date: "2011-11-24 20:37:03 +0000"
+
 # Attributes from Felix Online V1
 id: "1806"
 old_path: /science/1806/wavefunction-may-be-real-after-all
 aliases:
  - /science/1806/wavefunction-may-be-real-after-all
+imported: true
+comments:
+ - This has resurfaced againhttpwwwnaturecomnewsaboostforquantumreality110602StarOfSagittarius1 on September 3 2012                                                                    Some very old questions are still aunrod These questions concern human behavior thoughts and will Can quantum mechanics shed some light on such questions as Am I just a machine How does my will act What is Gods will Is there a GodIm also in this class and I like it as well Its had a good focus on intuitive unntdseandirg My primary motivation was to have a bit of unntdseandirg on the topic given its relation to cryptography but now Im just plain interested int it  car insurance   infections stress   prescribed counterparts   memic auto insurance
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - This has resurfaced againhttpwwwnaturecomnewsaboostforquantumreality110602StarOfSagittarius1 on September 3 2012                                                                    Some very old questions are still aunrod These questions concern human behavior thoughts and will Can quantum mechanics shed some light on such questions as Am I just a machine How does my will act What is Gods will Is there a GodIm also in this class and I like it as well Its had a good focus on intuitive unntdseandirg My primary motivation was to have a bit of unntdseandirg on the topic given its relation to cryptography but now Im just plain interested int it  car insurance   infections stress   prescribed counterparts   memic auto insurance
-imported: true
 ---
 
 Scientists at Imperial College London have presented a theorem which suggests that the wavefunction is a physical object. The paper, which emphasises that the quantum state cannot be interpreted statistically, was submitted on November 14 and has potential to shake the foundations of quantum theory.

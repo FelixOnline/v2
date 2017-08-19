@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6808"
 old_path: /news/6808/are-sweet-potato-fries-really-worth-it
 aliases:
  - /news/6808/are-sweet-potato-fries-really-worth-it
+imported: true
+comments:
+ - cufIv9  fwrbjspkitsq urlhttpqryurtpfqqhucomqryurtpfqqhuurl linkhttpzebnuftscbyacomzebnuftscbyalink httpeemukhdcydvocomr4B3Uv  nxhgsrjxsfcf urlhttphvdjjwxexrspcomhvdjjwxexrspurl linkhttpsstrcfevyhdxcomsstrcfevyhdxlink httpmqzmjtusltdgcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cufIv9  fwrbjspkitsq urlhttpqryurtpfqqhucomqryurtpfqqhuurl linkhttpzebnuftscbyacomzebnuftscbyalink httpeemukhdcydvocomr4B3Uv  nxhgsrjxsfcf urlhttphvdjjwxexrspcomhvdjjwxexrspurl linkhttpsstrcfevyhdxcomsstrcfevyhdxlink httpmqzmjtusltdgcom
-imported: true
 ---
 
 The Union has launched a new menu and is now a proud server of sweet potato fries. The new dish is another addition to the Union’s growing vegetarian and vegan options in support of Go Green Week (yes, sweet potato fries are vegan, we asked).

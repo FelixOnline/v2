@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This article includes a burn to the Vaccines.
 date: "2012-12-07 03:42:29 +0000"
+
 # Attributes from Felix Online V1
 id: "3069"
 old_path: /music/3069/diiv-in-the-garage
 aliases:
  - /music/3069/diiv-in-the-garage
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Zachary Cole Smith is the guitarist for lo-fi surf rock outfit Beach Fossils, whose band-members are currently off pursuing their own side-projects. For Smith, his efforts have coalesced into DIIV (said ‘Dive’), with the debut album Oshin coming out earlier this year.

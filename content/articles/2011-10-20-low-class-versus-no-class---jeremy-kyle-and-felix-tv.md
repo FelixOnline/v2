@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Offended by last week's Felix? So was this guy.
 date: "2011-10-20 22:42:10 +0100"
+
 # Attributes from Felix Online V1
 id: "1572"
 old_path: /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
 aliases:
  - /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
+imported: true
+comments:
+ - This article is a curmudgeonly personal attack on an individual by someone who lacks the balls to reveal their true identityIn so far as singling out one person you have actually produced a more offensive article than the one you discussI am appalled that Felix will condone and publish something which is nothing more than a poorly constructed and hypocritical character defamation of one studentCowardslightly less charisma than a dead monitor lizard and equally coldbloodedI know I detest almost every single one of you fuckers but I do that anywayThats how I feel about you Mr Angry Try writing something funnyCall someone a coward for not revealing their true identity and then use a pseudonym for writing a comment CLAP CLAP CLAP Thats me applauding both the irony and your stupidityIm frankly appalled that Felix condones such moronic comments like yours on its web page I might stop using the website now because I dont like reading things that I dont lik
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article is a curmudgeonly personal attack on an individual by someone who lacks the balls to reveal their true identityIn so far as singling out one person you have actually produced a more offensive article than the one you discussI am appalled that Felix will condone and publish something which is nothing more than a poorly constructed and hypocritical character defamation of one studentCowardslightly less charisma than a dead monitor lizard and equally coldbloodedI know I detest almost every single one of you fuckers but I do that anywayThats how I feel about you Mr Angry Try writing something funnyCall someone a coward for not revealing their true identity and then use a pseudonym for writing a comment CLAP CLAP CLAP Thats me applauding both the irony and your stupidityIm frankly appalled that Felix condones such moronic comments like yours on its web page I might stop using the website now because I dont like reading things that I dont lik
-imported: true
 ---
 
 You know, it amazes me sometimes, the levels of objectionable shit I see every day without feeling the need to write about it here. The Christian Union’s latest poster, for instance, which advertised with glee a speaker who is said to “put the fear of God up atheists”, using the same reassuring tones that Crusades-era religious believers were so good at employing. And yet – no column on it. I just couldn’t summon the will to invent new defecation-based swears that adequately captured the barrel-scraping depths to which those shit-gargling evangelists had stooped. Maybe, I thought, I was getting old. I was mellowing.

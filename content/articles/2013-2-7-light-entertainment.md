@@ -4,16 +4,24 @@ title: >
 subtitle: >
   LEDs are not just for TVs it seems
 date: "2013-02-07 22:35:44 +0000"
+
 # Attributes from Felix Online V1
 id: "3242"
 old_path: /arts/3242/light-entertainment
 aliases:
  - /arts/3242/light-entertainment
+imported: true
+comments:
+ - Until I found this I thhugot Id have to spend the day inside
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Until I found this I thhugot Id have to spend the day inside
-imported: true
 ---
 
 In the centre of a large room in the Hayward Gallery, a cylinder made up of hundreds of glass tubes hangs from the ceiling. Contained withineach tube are thousands of tiny LED lights, which flicker on and off, creating an endless series of hypnotising patterns. Explosions of light burst out, only to fade and be replaced by an image of flickering stars, which grow in intensity before returning to darkness. This cycle repeats again, and again, and again, but is never quite alike; we never see the same image twice. This mesmerising piece by American artist Leo Villareal opens the Hayward’s latest exhibition, aptly titled Light Show, which explores how artists use the medium of light to create incredible, powerful and mind-boggling artworks.

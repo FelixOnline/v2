@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ending years of speculation, Mrs. Clinton announced on Sunday that she will seek the Democratic nomination for the U.S. presidency
 date: "2015-04-12 22:32:08 +0100"
+
 # Attributes from Felix Online V1
 id: "5464"
 old_path: /news/5464/hillary-clinton-im-running-for-president
 aliases:
  - /news/5464/hillary-clinton-im-running-for-president
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jr2514
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Hillary Clinton has officially announced her candidacy for the US Democratic presidential nomination in 2016, confirming years of speculation that she would run a second time after losing the nomination in 2008 to Barack Obama. The former First Lady of the United States, U.S. Senator and United States Secretary of State announced her candidacy for the Democratic nomination near the end of a short campaign video released on Sunday.

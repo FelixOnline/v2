@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Exploring a new city with the help of International Student Support
 date: "2014-11-06 21:21:15 +0000"
+
 # Attributes from Felix Online V1
 id: "4799"
 old_path: /welfare/4799/london-a-survival-guide-for-international-students
 aliases:
  - /welfare/4799/london-a-survival-guide-for-international-students
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Do you remember what it was like when you first arrived in London? Did you find it challenging to live in a foreign country or did you find it difficult to communicate with people in English?

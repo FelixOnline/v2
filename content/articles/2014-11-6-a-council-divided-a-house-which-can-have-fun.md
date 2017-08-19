@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A consideration of the delights of being locked in a room with opinionated people for an indefinite amount of time
 date: "2014-11-06 18:09:41 +0000"
+
 # Attributes from Felix Online V1
 id: "4759"
 old_path: /comment/4759/a-council-divided-a-house-which-can-have-fun
 aliases:
  - /comment/4759/a-council-divided-a-house-which-can-have-fun
+imported: true
+comments:
+ - fitflop australia storefitflops sale online httpfitflopsaublogspotcomchristian louboutin onlinecheap christian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin cheapchristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin wedges shoeschristian louboutin cheapest httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop australia storefitflops sale online httpfitflopsaublogspotcomchristian louboutin onlinecheap christian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin cheapchristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin wedges shoeschristian louboutin cheapest httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 For most people the thought of attending Union Council is not good – to be honest, most people don’t even know what Council is – but for those who do it is often thought of as a chore and is an evening that they would rather spend elsewhere. Personally I rather enjoy the process of locking people in a room until they come to an agreement on some important issues.

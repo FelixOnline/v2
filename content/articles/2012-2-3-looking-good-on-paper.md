@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Builders Arms plays host to a monthly poetry evening
 date: "2012-02-03 10:27:06 +0000"
+
 # Attributes from Felix Online V1
 id: "2125"
 old_path: /arts/2125/looking-good-on-paper
 aliases:
  - /arts/2125/looking-good-on-paper
+imported: true
+comments:
+ - Looking forward to the next one Definitely have a set theme a la smoking for writers at the night some of them brilliantDylans haiku is class I only managed to scrawl a few lines before I had to dashYour ship of life will soon capsizeAs the cancer cells metastasize
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Looking forward to the next one Definitely have a set theme a la smoking for writers at the night some of them brilliantDylans haiku is class I only managed to scrawl a few lines before I had to dashYour ship of life will soon capsizeAs the cancer cells metastasize
-imported: true
 ---
 
 At first sight an event that describes itself as an open mic poetry night may not seem like something everyone can enjoy. You may even assume that it, and by extension anyone writing about it, will be pretentious; perhaps you think it will be the sort of night where somebody without a beret would be persona non grata (see, not pretentious, quod erat demonstrandum… too meta a joke?). I can assure you, _[Fluent on Paper](http://www.facebook.com/events/173620746075860/)_ is not at all like that.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What I’m saying is that photos should be our biographies. And unlike written ones, they’re easy to make
 date: "2010-11-18 22:13:43 +0000"
+
 # Attributes from Felix Online V1
 id: "419"
 old_path: /comment/419/photos-can-make-us-immortal-
 aliases:
  - /comment/419/photos-can-make-us-immortal-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I was back home the other day, clearing out the attic, where, inexplicably, a great deal of my dearest childhood possessions had wound up; cherished dolls, knitted by a late grandmother; industrious railway tracks by Brio and Tomy; and enough Lego to fill a skip. I was conflicted. On the one hand, relieved; my parents had said they had all been stolen one night by goblins. On the other hand, betrayed; my parents had lied to me. And if they lied to me about this, what other pillars of my reality are built on quicksand. Father Christmas? The Tooth Fairy? Say it ain’t so!

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fellwanderers Easter Tour to the Snowy Scottish Highlands
 date: "2013-05-29 15:42:41 +0100"
+
 # Attributes from Felix Online V1
 id: "3632"
 old_path: /sport/3632/fellwanderers-chill-out-for-easter
 aliases:
  - /sport/3632/fellwanderers-chill-out-for-easter
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We set off bright and early from Imperial College Union meeting at 7am on Saturday 23rd March 2013. Fifteen Fellwanderers packed into the minibus with all their kit secured on the roof and tents, gas stoves, ice axes, the beast pot and more as well. After a lengthy stop in North London to fight with a tyre inflating compressed air machine we spedup the M1 – which had enough snow to convince us we were already in Scotland – and on to the M6, stopping at Birmingham for a greasy spoon fried breakfast. Passing the Peaks and Lakes we soon crossed the border and stopped for a break at Gretna Green village, stocking up at the Cadbury factory outlet store. The journey continued between the tower blocks and industrial sprawl of Glasgow up to the beautiful Loch Lomond and beyond into the Highlands. As the gale force side-winds lashed the bus we were all speechless, either from the beautiful scenery or the ruined van and coach that had seemingly been ripped from the road and rolled into the frozen lake to our side. To ease the journey we filled the bus with a half week’s food and continued under the veil of darkness, blissfully ignorant of the perilous conditions outside, arriving safe and sound at 11.45pm.

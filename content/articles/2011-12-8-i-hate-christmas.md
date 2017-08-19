@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It's beginning to look a lot like Christmas, but not everyone is pleased about it...
 date: "2011-12-08 22:05:42 +0000"
+
 # Attributes from Felix Online V1
 id: "1951"
 old_path: /comment/1951/i-hate-christmas
 aliases:
  - /comment/1951/i-hate-christmas
+imported: true
+comments:
+ - Gym closes on Christmas day boo Otherwise Christmas and I are cool Ya learn soiethmng new everyday Its true I guessWere getting norewhe with respect to deep reform of the tax code but its back on the table as it is during every presidential election campaign If were serious about it then we should start taking an ax not only to the mortgageinterest deduction but also to the charitabledonation deduction Because every time I see reports of a family charitable trust which carefully makes only the minimum outlays each year I wonder just how charitable a lot of these donations areSource victorfleischercom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Gym closes on Christmas day boo Otherwise Christmas and I are cool Ya learn soiethmng new everyday Its true I guessWere getting norewhe with respect to deep reform of the tax code but its back on the table as it is during every presidential election campaign If were serious about it then we should start taking an ax not only to the mortgageinterest deduction but also to the charitabledonation deduction Because every time I see reports of a family charitable trust which carefully makes only the minimum outlays each year I wonder just how charitable a lot of these donations areSource victorfleischercom
-imported: true
 ---
 
 It’s about that time of year again. Bloody Christmas time. You’re probably reading this right now with the most appalled look on your face. I suggest you remove it before someone notices. ‘But why? Why do you hate Christmas?’ You must be asking. Well let me tell you. Because its frickin’ irritating. Irritating as hell.

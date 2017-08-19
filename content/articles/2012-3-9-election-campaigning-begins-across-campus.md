@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Candidates take to visual media in order to win over voters
 date: "2012-03-09 01:11:41 +0000"
+
 # Attributes from Felix Online V1
 id: "2335"
 old_path: /news/2335/election-campaigning-begins-across-campus
 aliases:
  - /news/2335/election-campaigning-begins-across-campus
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Campaigning for this year’s Union Elections began in earnest on Monday, with candidates for the available positions given the opportunity to show students across Imperial their credentials.

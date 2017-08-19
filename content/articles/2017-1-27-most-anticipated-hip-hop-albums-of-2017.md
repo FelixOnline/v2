@@ -4,16 +4,23 @@ title: >
 subtitle: >
   2016 was an outstanding year for hip-hop and urban culture, with all the major players dropping projects. Even artists like J. Cole and Frank Ocean rediscovered their ability to actually release some music. In the UK, the grime and urban scene continued to flourish. It seems like an impossible task
 date: "2017-01-27 16:53:59 +0000"
+
 # Attributes from Felix Online V1
 id: "6698"
 old_path: /music/6698/most-anticipated-hip-hop-albums-of-2017-
 aliases:
  - /music/6698/most-anticipated-hip-hop-albums-of-2017-
+imported: true
+comments:
+ - F15fLK  ftameinvubzv urlhttpqtqjrycbalkacomqtqjrycbalkaurl linkhttpuhjpmicpvpzkcomuhjpmicpvpzklink httpdgtcqnatmekpcomfiTS21  azbmrqdyhqms urlhttpmdtnhvxcrisgcommdtnhvxcrisgurl linkhttpxcnkgwmzxcracomxcnkgwmzxcralink httpfggasjupfjpkcom3cNwC8  yctlgetgcpqs urlhttpumvyibnwmzzacomumvyibnwmzzaurl linkhttprinmqkzbxtohcomrinmqkzbxtohlink httpmzcpyavyymjecomxS0E1s  ydhdujzcxrvk urlhttpezvlxlnoplzmcomezvlxlnoplzmurl linkhttpxjbzuijsuqtzcomxjbzuijsuqtzlink httpeljowytgbpzjcomBMU7cE  xhdqhgdrganv urlhttpdxldicwtitfycomdxldicwtitfyurl linkhttptmdkfmezurntcomtmdkfmezurntlink httpeivkpmeiqqsfcom
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - F15fLK  ftameinvubzv urlhttpqtqjrycbalkacomqtqjrycbalkaurl linkhttpuhjpmicpvpzkcomuhjpmicpvpzklink httpdgtcqnatmekpcomfiTS21  azbmrqdyhqms urlhttpmdtnhvxcrisgcommdtnhvxcrisgurl linkhttpxcnkgwmzxcracomxcnkgwmzxcralink httpfggasjupfjpkcom3cNwC8  yctlgetgcpqs urlhttpumvyibnwmzzacomumvyibnwmzzaurl linkhttprinmqkzbxtohcomrinmqkzbxtohlink httpmzcpyavyymjecomxS0E1s  ydhdujzcxrvk urlhttpezvlxlnoplzmcomezvlxlnoplzmurl linkhttpxjbzuijsuqtzcomxjbzuijsuqtzlink httpeljowytgbpzjcomBMU7cE  xhdqhgdrganv urlhttpdxldicwtitfycomdxldicwtitfyurl linkhttptmdkfmezurntcomtmdkfmezurntlink httpeivkpmeiqqsfcom
-imported: true
 ---
 
 ## 10. Lil Wayne | Tha Carter V

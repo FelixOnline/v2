@@ -4,16 +4,23 @@ title: >
 subtitle: >
   RCSU president questions funding of Consent Matters software
 date: "2016-11-03 23:06:26 +0000"
+
 # Attributes from Felix Online V1
 id: "6378"
 old_path: /news/6378/consent-training-row-at-imperial
 aliases:
  - /news/6378/consent-training-row-at-imperial
+imported: true
+comments:
+ - httpfelixonlinecouksex6370drunkconsentisnotconsentmyrapestory This story is why people need consent lessons Consent itself is not simple There are large grey areas in the law which people need to be made aware off I wouldnt trust 5000 going to boost RCSMs welfare budget as it seems their president believes the boys will be boysHey thereThanks for your thoughts I hope that youve had a chance to read my comment piece in the printed paper and not just this article which I dont feel communicates my genuine views I fully agree that learning about consent is vital however I disagree on the matter of simplicity Humans have a natural ability to judge social cues  expressions body language and speech  to tell how other people feel about a situation From this information it is not complicated to assess whether explicit consent has been given and whether this consent is genuine The only lessons that need to be taught area Unless genuine explicit consent is given sex is
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpfelixonlinecouksex6370drunkconsentisnotconsentmyrapestory This story is why people need consent lessons Consent itself is not simple There are large grey areas in the law which people need to be made aware off I wouldnt trust 5000 going to boost RCSMs welfare budget as it seems their president believes the boys will be boysHey thereThanks for your thoughts I hope that youve had a chance to read my comment piece in the printed paper and not just this article which I dont feel communicates my genuine views I fully agree that learning about consent is vital however I disagree on the matter of simplicity Humans have a natural ability to judge social cues  expressions body language and speech  to tell how other people feel about a situation From this information it is not complicated to assess whether explicit consent has been given and whether this consent is genuine The only lessons that need to be taught area Unless genuine explicit consent is given sex is
-imported: true
 ---
 
 The RCSU president, Lloyd James, has stepped forward to question Imperial College’s latest investment in student welfare, namely the licence purchase of an online consent training course, which was financed by College and cost a total of £ 5,000.

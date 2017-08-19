@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jonathan Masters reports on the new minister, who is the brother of London Mayor Boris Johnson
 date: "2015-05-15 12:34:57 +0100"
+
 # Attributes from Felix Online V1
 id: "5533"
 old_path: /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
 aliases:
  - /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
+imported: true
+comments:
+ -
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -
-imported: true
 ---
 
 Jo Johnson, newly elected MP for Orpington in the London Borough of Bromley, has succeeded Greg Clark (a former economist) as Minister of State for Universities and Science.

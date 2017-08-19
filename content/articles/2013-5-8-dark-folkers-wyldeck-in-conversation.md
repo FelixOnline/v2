@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Julia Spindel chats to the band in the first of an interview double team
 date: "2013-05-08 20:22:57 +0100"
+
 # Attributes from Felix Online V1
 id: "3553"
 old_path: /music/3553/dark-folkers-wyldeck-in-conversation
 aliases:
  - /music/3553/dark-folkers-wyldeck-in-conversation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 hen off-beat rhythms in Wyldeck’s music progress into double time for ever-exciting choruses, the audience is united in a desire to dance. The difference between audience members will be, instead, that some will favour these flashes of energy whilst others will prefer the more serene moments, perfectly showcasing Cece Wyldeck’s pure treble voice. The music mixes these lullaby moments with tinges of dark rock perfectly. The powerful guitar strokes in the upbeat numbers resonate and are definitely addictive. Despite having only formed in March 2012, the band play as if they had been together for years, understanding exactly how to blend perfectly with each other throughout the variation in songs. They clearly enjoy the experience and so does the audience. Wyldeck’s songs are rich in memorable riffs and flowing melodies, successfully reminiscent of lost folk songs.

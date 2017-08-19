@@ -4,16 +4,23 @@ title: >
 subtitle: >
   With the latest revelation from Thomas Hitzlsperger, and Tom Daley’s recent announcement that he is in a gay relationship, the topic of high profile sportsman and homosexuality is currently much discussed.
 date: "2014-01-31 18:05:23 +0000"
+
 # Attributes from Felix Online V1
 id: "4330"
 old_path: /arts/4330/russel-tovey-shines-in-the-pass
 aliases:
  - /arts/4330/russel-tovey-shines-in-the-pass
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __What: __The Pass

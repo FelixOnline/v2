@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Racist pseudoscientific tweets cause KCLSU complaint
 date: "2017-02-02 23:30:07 +0000"
+
 # Attributes from Felix Online V1
 id: "6705"
 old_path: /news/6705/kings-lecturer-sparks-racism-row
 aliases:
  - /news/6705/kings-lecturer-sparks-racism-row
+imported: true
+comments:
+ - Very interesting points raised I am concerned however that the factual arguments against Dr Perkins points are lost within the biased emotional response I think we shouldnt jump straight away to dismissing some claim because someone says they feel insulted by it Perhaps Dr Perkins is wrong perhaps his conclusions are incorrect however if he is showing accurate data and sparking an intellectual discussion about it surely we should also respond as adult intellectuals Facts remain facts even if they offend someone and lies can be lies even if they dont offend anyoneI believe that such elite scientific circles like KCL or Imperial should not resort to calling their intellectual opponents racist and offensive and instead use facts and reasoning to show that a given position is incorrect as this article presents a tone closer to that of cheap tabloids than that of a worldrenowned universityC950WU  fsjostjdywfy urlhttpahdblavosiftcomahdblavosifturl linkhttpzrtbpurrfflcco
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Very interesting points raised I am concerned however that the factual arguments against Dr Perkins points are lost within the biased emotional response I think we shouldnt jump straight away to dismissing some claim because someone says they feel insulted by it Perhaps Dr Perkins is wrong perhaps his conclusions are incorrect however if he is showing accurate data and sparking an intellectual discussion about it surely we should also respond as adult intellectuals Facts remain facts even if they offend someone and lies can be lies even if they dont offend anyoneI believe that such elite scientific circles like KCL or Imperial should not resort to calling their intellectual opponents racist and offensive and instead use facts and reasoning to show that a given position is incorrect as this article presents a tone closer to that of cheap tabloids than that of a worldrenowned universityC950WU  fsjostjdywfy urlhttpahdblavosiftcomahdblavosifturl linkhttpzrtbpurrfflcco
-imported: true
 ---
 
 KCL’s feminist intersectional society has condemned a lecturer at King’s College London after he released a series of tweets which were described as “racist and incredibly insulting remarks directed at the Somali community”.

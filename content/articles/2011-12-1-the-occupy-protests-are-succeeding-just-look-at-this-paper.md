@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Three comment pieces is enough for Padraic Calpin's seal of approval
 date: "2011-12-01 21:27:07 +0000"
+
 # Attributes from Felix Online V1
 id: "1892"
 old_path: /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
 aliases:
  - /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
+imported: true
+comments:
+ - theres no question in my mind the united states has retreated from progressive ideals it is like a child gradually tainted with a hate philosophy we in the us are increasingly tainted by the corporate mentality short term goals over long term thinking money has become our supreme rulerI think the the us military has become a behamoth so many tax dollars go to its maintainance and I fear its tenticles are reaching out to us citizens a violation of what has always been a separation between the military and the civilian population I think the danger of this happening is quite real
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - theres no question in my mind the united states has retreated from progressive ideals it is like a child gradually tainted with a hate philosophy we in the us are increasingly tainted by the corporate mentality short term goals over long term thinking money has become our supreme rulerI think the the us military has become a behamoth so many tax dollars go to its maintainance and I fear its tenticles are reaching out to us citizens a violation of what has always been a separation between the military and the civilian population I think the danger of this happening is quite real
-imported: true
 ---
 
 The Occupy movement, inspired by protest in Spain, made famous in New York and now a global phenomenon, is succeeding. On the face of it, this might seems to be an audacious claim. Indeed, some of you will be reading this and audibly scoffing; “They have no clear goals; what are they succeeding at?”

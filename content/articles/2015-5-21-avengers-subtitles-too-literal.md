@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Steadman reports on the dodgy translations of the recent Avengers film
 date: "2015-05-21 23:22:05 +0100"
+
 # Attributes from Felix Online V1
 id: "5558"
 old_path: /film/5558/avengers-subtitles-too-literal
 aliases:
  - /film/5558/avengers-subtitles-too-literal
+imported: true
+comments:
+ - cheap fit flopsfitflops online httpaustraliafitflopsblogspotcomIm very pleased to uncover this website I need to to thank you for ones time for this particularly fantastic read I definitely loved every bit of it and i also have you saved as a favorite to see new information in your websiteray ban sunglasses prices in sri lanka httpwwwsanctus1coukukraybansunglassespricesinsrilanka25733htmlbirkenstocks salebirkenstock sandals online httpbirkenstocksaleaustraliablogspotcomlouboutin worldchristian louboutin sale outlet httpcanadachristianlouboutinoutletblogspotcommens christian louboutin flatschristian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin wedding shoeschristian louboutin cheapest httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheap fit flopsfitflops online httpaustraliafitflopsblogspotcomIm very pleased to uncover this website I need to to thank you for ones time for this particularly fantastic read I definitely loved every bit of it and i also have you saved as a favorite to see new information in your websiteray ban sunglasses prices in sri lanka httpwwwsanctus1coukukraybansunglassespricesinsrilanka25733htmlbirkenstocks salebirkenstock sandals online httpbirkenstocksaleaustraliablogspotcomlouboutin worldchristian louboutin sale outlet httpcanadachristianlouboutinoutletblogspotcommens christian louboutin flatschristian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin wedding shoeschristian louboutin cheapest httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 _A__ge of Ultron_ is rapidly approaching a worldwide box office take of one billion US dollars (a touch under £650 million), but that doesn’t mean it hasn’t encountered its fair share of problems.

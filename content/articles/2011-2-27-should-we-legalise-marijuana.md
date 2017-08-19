@@ -4,16 +4,24 @@ title: >
 subtitle: >
   As California attempts to decriminalise marijuana but Amsterdam tries to introduce new controls we debate the legalisation of weed
 date: "2011-02-27 12:31:06 +0000"
+
 # Attributes from Felix Online V1
 id: "900"
 old_path: /politics/900/should-we-legalise-marijuana
 aliases:
  - /politics/900/should-we-legalise-marijuana
+imported: true
+comments:
+ - Why Lingxi Huang is a terrible scientistsmoking weed damages the lungs  so thatd be related to the action of smoking and not the cannabiscontains over 400 chemicals  a cup of coffee contains over 1000 chemicals Number of chemicals is directly proportional to problems caused Pleasestepping stone drug  total rubbish and no evidence for it Could it just be that those who try cannabis are also more likely to dabble with other things too Lots of heroin users would never take cannabis and viceversadifficult to quantify the long term effects  not really Extensive studies have been done See httpnewsbbcimgcoukmediaimages49735000gif_49735645_drugs_comparisons_464grgifimpact the users learning capabilities  over what time period Sourcethe laws of economics dictate  no putting price down will not increase consumption I guess Electrical Engineering students shouldnt bother trying to understand the laws of economicsThe terrible scientist speaks
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Why Lingxi Huang is a terrible scientistsmoking weed damages the lungs  so thatd be related to the action of smoking and not the cannabiscontains over 400 chemicals  a cup of coffee contains over 1000 chemicals Number of chemicals is directly proportional to problems caused Pleasestepping stone drug  total rubbish and no evidence for it Could it just be that those who try cannabis are also more likely to dabble with other things too Lots of heroin users would never take cannabis and viceversadifficult to quantify the long term effects  not really Extensive studies have been done See httpnewsbbcimgcoukmediaimages49735000gif_49735645_drugs_comparisons_464grgifimpact the users learning capabilities  over what time period Sourcethe laws of economics dictate  no putting price down will not increase consumption I guess Electrical Engineering students shouldnt bother trying to understand the laws of economicsThe terrible scientist speaks
-imported: true
 ---
 
 __Yes – Chris Dillon__

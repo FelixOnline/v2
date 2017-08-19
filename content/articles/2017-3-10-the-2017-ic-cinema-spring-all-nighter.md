@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Have you even gone to Imperial if you haven't been to one of these?
 date: "2017-03-10 14:37:21 +0000"
+
 # Attributes from Felix Online V1
 id: "6884"
 old_path: /cands/6884/the-2017-ic-cinema-spring-all-nighter
 aliases:
  - /cands/6884/the-2017-ic-cinema-spring-all-nighter
+imported: true
+comments:
+ - How come you are working herecheapest madden 17 mobile coins httpwwwmaddenstorecomYou bet buy cheapest pokemon go rare pokemon pokemonbux httpwwwpokemonbuxcomUp yourscheap Dofus Touch Kamas for sale httpwwwmuryplforumactiontopicid34814it is very helpful for me searching on this siteCheap Albion Online gold httpzordiscomalbionpupalbionhascheapestpriceaswellasquickdeliverygold
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How come you are working herecheapest madden 17 mobile coins httpwwwmaddenstorecomYou bet buy cheapest pokemon go rare pokemon pokemonbux httpwwwpokemonbuxcomUp yourscheap Dofus Touch Kamas for sale httpwwwmuryplforumactiontopicid34814it is very helpful for me searching on this siteCheap Albion Online gold httpzordiscomalbionpupalbionhascheapestpriceaswellasquickdeliverygold
-imported: true
 ---
 
 This year’s Spring All-Nighter will take place on Tuesday the 21st of March at 6pm, ending at approximately 7.45am the next day. For those who are inexplicably out of the loop with this beloved Imperial College tradition: it’s a whole night of films, shown back to back, on a screen 8 meters wide, for a tenner. Oh, you want unlimited hot-dogs too? We got you.

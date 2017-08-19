@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook profile used to make friends with dozens of Imperial freshers
 date: "2011-04-25 17:20:44 +0100"
+
 # Attributes from Felix Online V1
 id: "1139"
 old_path: /news/1139/tricked-by-facebook-fraudster
 aliases:
  - /news/1139/tricked-by-facebook-fraudster
+imported: true
+comments:
+ - Too fit You need to lurk around the SAF moreLesson 1 the custom these days is to partake in the friend adding frenzy and addchat to people before you arrive here its a bit of an exception to the dont add strangers rule and I wouldnt really discourage it All but one of the people I spoke to turned out to be real and at least a few of them have gone on to become good friends The times they are achangin and all thatI did a little search for cached pagesHer posts go as far back as November 2009 httptwitpiccom4puz1pA look on her Formspring shows that 778  questions were answered httpbitlyeOGJG9Right back to revisionThat is so weirdThat is very strange Someone with a lot of time on their handsBy pure serendipity it was unveiled that Demi didnt actually exist The serendipity being that a certain nameless fresher knew the girl whose photos Demi had copied and obviously instantly recognised her face Some people also just had their doubts a
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Too fit You need to lurk around the SAF moreLesson 1 the custom these days is to partake in the friend adding frenzy and addchat to people before you arrive here its a bit of an exception to the dont add strangers rule and I wouldnt really discourage it All but one of the people I spoke to turned out to be real and at least a few of them have gone on to become good friends The times they are achangin and all thatI did a little search for cached pagesHer posts go as far back as November 2009 httptwitpiccom4puz1pA look on her Formspring shows that 778  questions were answered httpbitlyeOGJG9Right back to revisionThat is so weirdThat is very strange Someone with a lot of time on their handsBy pure serendipity it was unveiled that Demi didnt actually exist The serendipity being that a certain nameless fresher knew the girl whose photos Demi had copied and obviously instantly recognised her face Some people also just had their doubts a
-imported: true
 ---
 
 With her big bright eyes, a selfless desire to help those in need, and an unrivalled passion for the sounds of obscure bands you’d have to Google just to maintain conversation, Demi Atkinson certainly ticked all the boxes. And to your average Imperial fresher, confined to our beloved South Ken bubble with a less-than-ideal male to female ratio, perfect she did seem.

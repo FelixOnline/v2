@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I know you’d rather hear about cocaine, but instead Christopher Walmsley discovers some of the other countless wonders this fascinating country has to offer
 date: "2011-03-10 20:50:45 +0000"
+
 # Attributes from Felix Online V1
 id: "1077"
 old_path: /travel/1077/breathtaking-beauties-of-bolivia
 aliases:
  - /travel/1077/breathtaking-beauties-of-bolivia
+imported: true
+comments:
+ - Just a small commentThe most impressive mountain around La Paz is called Illimani not IlluminatiCool Thats a cveler way of looking at itoB2tDn  urlhttpqwzeyypsektzcomqwzeyypsektzurl linkhttpewqwsnmnwatqcomewqwsnmnwatqlink httptbbrkbghhqprcomZgH1qr  izszpzztiqwiHi Roy  The colors in the ieagms from Bolivia seem to be just fine at least for us who dont know how they really should lookI was in the Bolivian salt lakes about 10 years ago and I still think the scenery is one of the most beautiful I have ever seenLooking forward seeing more your ieagms from there I just came from the foto festival in London and heading in a couple of days to Ve5rge5rda oneTe9a KHi Roy  The colors in the iamegs from Bolivia seem to be just fine at least for us who dont know how they really should lookI was in the Bolivian salt lakes about 10 years ago and I still think the scenery is one of the most beautiful
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Just a small commentThe most impressive mountain around La Paz is called Illimani not IlluminatiCool Thats a cveler way of looking at itoB2tDn  urlhttpqwzeyypsektzcomqwzeyypsektzurl linkhttpewqwsnmnwatqcomewqwsnmnwatqlink httptbbrkbghhqprcomZgH1qr  izszpzztiqwiHi Roy  The colors in the ieagms from Bolivia seem to be just fine at least for us who dont know how they really should lookI was in the Bolivian salt lakes about 10 years ago and I still think the scenery is one of the most beautiful I have ever seenLooking forward seeing more your ieagms from there I just came from the foto festival in London and heading in a couple of days to Ve5rge5rda oneTe9a KHi Roy  The colors in the iamegs from Bolivia seem to be just fine at least for us who dont know how they really should lookI was in the Bolivian salt lakes about 10 years ago and I still think the scenery is one of the most beautiful
-imported: true
 ---
 
 Perhaps best known for its exports, the landlocked South American country that takes its name in honour of revolutionary [Simón Bolívar](http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar) is lesser known for its tourism. Indeed Bolivia does remain a rather unknown quantity to many outside of the narcotics trade. There is a story that Queen Victoria once avenged her embarrassed diplomat to the country, after realising that it was far too inaccessible to attack, by simply declaring "[Bolivia no longer exists](http://www.time.com/time/magazine/article/0,9171,820493,00.html)". Despite this snub and with a little notoriety gained from the book Marching Powder this country has become a well trodden destination on the continent’s Gringo trail.

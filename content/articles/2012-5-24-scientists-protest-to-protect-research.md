@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial professor chief organiser of campaign
 date: "2012-05-24 22:57:50 +0100"
+
 # Attributes from Felix Online V1
 id: "2484"
 old_path: /news/2484/scientists-protest-to-protect-research
 aliases:
  - /news/2484/scientists-protest-to-protect-research
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Tuesday 15 May, around 80 physicists and chemists from around the UK held an unusual protest against their research funder by parading a coffin and a horse-drawn hearse down London’s Whitehall to Downing Street.

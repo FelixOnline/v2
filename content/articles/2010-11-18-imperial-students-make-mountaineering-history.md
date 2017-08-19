@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In September, five students summited three unconquered Himalayan mountains. Here’s their first-hand account
 date: "2010-11-18 21:42:10 +0000"
+
 # Attributes from Felix Online V1
 id: "408"
 old_path: /news/408/imperial-students-make-mountaineering-history
 aliases:
  - /news/408/imperial-students-make-mountaineering-history
+imported: true
+comments:
+ - Is it possible to find urlhttpecheckcasinos0feesneteCheck casinosurl nowadays                                                           TYVM youve solved all my prloebmsLxlhLS  pkkxfvxloyel
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Is it possible to find urlhttpecheckcasinos0feesneteCheck casinosurl nowadays                                                           TYVM youve solved all my prloebmsLxlhLS  pkkxfvxloyel
-imported: true
 ---
 
 On day 6 of our mountaineering expedition to India’s Obra Valley we were sat outside a small wooden hut, our 200 kg of equipment nestled under its overhanging roof, participating in perhaps the most tenuous game of eye-spy ever played. We had spent the last four days traveling north from Delhi, of which the first 600km were easily dispatched by the New Delhi – Dehra Dun Shatabdi Express train. We had sped along the recently burst banks of the Yamuna river and looking out across the dark red and green landscape, barely illuminated by the metallic grey sky, we didn’t think twice about the road ahead. With a mere 100km by jeep left, that we would cover in 6-7 hours, we realised we had underestimated the destructive power of the monsoon rains. The ‘road’ we were to follow to the road head didn’t live up to its name. We found it was blocked in sections, by vast landslides of shale, saturated mud and truck-sized boulders, or in the worst cases, reduced to a single precarious strip of earth, the remnants of the highway strewn across the slopes below. Three days later we finally made it through, and now we were sat, hiding from the rain, next to a wooden hut, playing eye spy, waiting to meet our in-country team. Silently hoping that the overall situation was about to improve, it finally did. Norbu and Darwa had arrived, along with the rest of our 9-strong base camp team. A series of clipped commands from these two hardy Sherpas and half a ton of base camp supplies were unloaded, tents erected and chai served.

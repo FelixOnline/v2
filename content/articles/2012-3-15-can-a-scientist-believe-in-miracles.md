@@ -4,16 +4,24 @@ title: >
 subtitle: >
   James Faux discusses the apparent conflict between science and religion
 date: "2012-03-15 21:37:50 +0000"
+
 # Attributes from Felix Online V1
 id: "2389"
 old_path: /comment/2389/can-a-scientist-believe-in-miracles
 aliases:
  - /comment/2389/can-a-scientist-believe-in-miracles
+imported: true
+comments:
+ - If a scientist were to allow the existence of supernatural events then why bother trying to explain nature when it may have been a conjuring trick anyway How is a cosmologist to tackle the question What if the universe were simply created with the appearance of being 137 billion years old but is in fact a few thousand  It is clear that a scientist must assume that supernatural events do not occur otherwise the whole scientific endeavour becomes nearly pointless Of course an intellectually lazy way out would be to pick cherry pick miracles which dont happen to grossly step on the toes of modern science as the above example That no testimony is sufficient to establish a miracle unless the testimony be of such a kind that its falsehood would be more miraculous than the fact which it endeavours to establish  Clearly the delusion and deception of a few is more reasonable than allowing the occasional resurrection Im not sure exactly what you mean by miracle but it is either1
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If a scientist were to allow the existence of supernatural events then why bother trying to explain nature when it may have been a conjuring trick anyway How is a cosmologist to tackle the question What if the universe were simply created with the appearance of being 137 billion years old but is in fact a few thousand  It is clear that a scientist must assume that supernatural events do not occur otherwise the whole scientific endeavour becomes nearly pointless Of course an intellectually lazy way out would be to pick cherry pick miracles which dont happen to grossly step on the toes of modern science as the above example That no testimony is sufficient to establish a miracle unless the testimony be of such a kind that its falsehood would be more miraculous than the fact which it endeavours to establish  Clearly the delusion and deception of a few is more reasonable than allowing the occasional resurrection Im not sure exactly what you mean by miracle but it is either1
-imported: true
 ---
 
 Most people define a miracle as a supernatural event, inexplicable by the laws of science and nature. So is it reasonable for a modern, rational, Imperial scientist to believe in miracles?

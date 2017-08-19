@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This week Simon Hunter takes on the electro & techno gods of Turbo Records
 date: "2010-11-25 20:45:59 +0000"
+
 # Attributes from Felix Online V1
 id: "434"
 old_path: /music/434/techno-nonsense-turbo-records
 aliases:
  - /music/434/techno-nonsense-turbo-records
+imported: true
+comments:
+ - Everytime I look into your eyes I see the futureNaaaaaaa Naaa Naaaaa Na NaaaaaMind Dimension  Tiga
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Everytime I look into your eyes I see the futureNaaaaaaa Naaa Naaaaa Na NaaaaaMind Dimension  Tiga
-imported: true
 ---
 
 As you’ve probably gathered by now I enjoy contrast. Traversing the musical spectrum from disco Permanent Vacation style, to Night Slugs’ grimiest bass music in the space of a fortnight has set my stall out nicely I think. This week I introduce to you: [Turbo Recordings](http://turborecordings.com/).

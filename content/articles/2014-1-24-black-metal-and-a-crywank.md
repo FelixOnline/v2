@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Forrest Seiwald and Stuart Masson report back on a very mixed bill
 date: "2014-01-24 10:07:17 +0000"
+
 # Attributes from Felix Online V1
 id: "4293"
 old_path: /music/4293/black-metal-and-a-crywank
 aliases:
  - /music/4293/black-metal-and-a-crywank
+imported: true
+comments:
+ - Really sorry for seeming grumpy guys and thanks so much for the lovely words I was really upset I couldnt make some more noise for you all hence any grumpiness Exciting show announcement coming soon hope to see you there
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Really sorry for seeming grumpy guys and thanks so much for the lovely words I was really upset I couldnt make some more noise for you all hence any grumpiness Exciting show announcement coming soon hope to see you there
-imported: true
 ---
 
 When I asked Stuart if he wanted to come to __Crywank__ with me, he was understandably confused. Thankfully, I was able to quickly able to correct any misunderstandings and on Monday night we headed to see Crywank, performing with __Caïna__, __Old Skin__, and __Ithaca__ at Power Lunches.

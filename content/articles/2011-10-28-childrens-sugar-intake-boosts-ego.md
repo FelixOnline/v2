@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski is drawn back into the boardroom
 date: "2011-10-28 13:23:17 +0100"
+
 # Attributes from Felix Online V1
 id: "1642"
 old_path: /tv/1642/childrens-sugar-intake-boosts-ego
 aliases:
  - /tv/1642/childrens-sugar-intake-boosts-ego
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I have been a huge fan of The Apprentice since [the UK version debuted back in 2004](http://www.youtube.com/watch?v=sKe0HDTkti0&feature=sh_e_top&list=SL). I’m certainly not the only one, with the finale of the last season having more than ten million viewers. I suspect that for most people the main draw has been the consistent incompetence of the candidates and the resulting boardroom meetings with [a furious Lord Sugar](http://www.youtube.com/watch?v=_GXuv6FiGTY). While the tasks in last year’s Junior Apprentice were generally of the smaller scale and Sugar was far more restrained than usual, there was no shortage of what made the original great. The second series of the show, which began this Monday and has now been wisely renamed [Young Apprentice](http://www.bbc.co.uk/programmes/b016kgww), looks set to continue in the first’s fine tradition.

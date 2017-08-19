@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Abigail de Bruin discusses the Union’s spend on consent training in light of rising sexual crime statistics
 date: "2016-11-11 13:59:12 +0000"
+
 # Attributes from Felix Online V1
 id: "6423"
 old_path: /comment/6423/we-cannot-ignore-the-consent-crisis
 aliases:
  - /comment/6423/we-cannot-ignore-the-consent-crisis
+imported: true
+comments:
+ - This seems to very much miss the point of the recent opposition to the acquisition of the software which isnt College shouldnt be spending 5k on informing students about consent but rather this 5k could be spend much more effectively on other means of informing students about consent You put your argument across well but Im afraid I dont think theres anyone disagreeing with youAs Ive oft repeated this software will have very little reach due to its length  inaccessibility Sure if there was no other option then it would be worth spending the money if it prevented a single assault But there are other better options and the fact that College supported by the Union spent the ENTIRETY of their allocated funding for informing students about consent on this waste of money without doing any kind of student consultation is an absolute travestyWhat are your other options that are betterAlso isnt the software in a trail phase so noone has actually done the 1 hour course whic
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This seems to very much miss the point of the recent opposition to the acquisition of the software which isnt College shouldnt be spending 5k on informing students about consent but rather this 5k could be spend much more effectively on other means of informing students about consent You put your argument across well but Im afraid I dont think theres anyone disagreeing with youAs Ive oft repeated this software will have very little reach due to its length  inaccessibility Sure if there was no other option then it would be worth spending the money if it prevented a single assault But there are other better options and the fact that College supported by the Union spent the ENTIRETY of their allocated funding for informing students about consent on this waste of money without doing any kind of student consultation is an absolute travestyWhat are your other options that are betterAlso isnt the software in a trail phase so noone has actually done the 1 hour course whic
-imported: true
 ---
 
 Consent is a pretty hot topic at the moment. It’s been in this newspaper a lot and in fact in the national news a lot too. So why is it that consent is such a matter of importance in the public minds at the moment? Well,  to put bluntly, if sex doesn’t involve it then it’s not sex – it’s rape. And rape and related sex crimes (or at least reported ones) have massively increased over the last year.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eva Rosenthal makes officially the worst pun yet.
 date: "2012-11-23 00:16:44 +0000"
+
 # Attributes from Felix Online V1
 id: "2966"
 old_path: /arts/2966/whatcha-doin-just-roman-around
 aliases:
  - /arts/2966/whatcha-doin-just-roman-around
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The luminous setting, sand trickling from the ceiling onto the stage into pools of light, was melancholy and serenity personified. The existence of the characters, who would soon be participating in the tragedy, was mirrored, somehow with tenderness,in the environment that had been created. It was an environment fit for observation and for immersion, the audience entirely surrounding a small stage; a single room for Racine’s unhappy creations.

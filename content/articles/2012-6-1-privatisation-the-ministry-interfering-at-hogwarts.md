@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In the first of a series of articles on the privatisation of our universities, Stephen Smith discusses the Government’s latest assault on academic freedom, through the Research Councils
 date: "2012-06-01 12:20:48 +0100"
+
 # Attributes from Felix Online V1
 id: "2509"
 old_path: /news/2509/privatisation-the-ministry-interfering-at-hogwarts
 aliases:
  - /news/2509/privatisation-the-ministry-interfering-at-hogwarts
+imported: true
+comments:
+ - You may be right about the privatisation thing perhaps corporatisation or commercialisation would be better On the other hand if you assume that academics are public servants as I do then the fact that they have been replaced by businesspeople on research councils amounts to privatisation Also the other articles in the series are about privatisation so I felt this title was betterWhile you may think that academics are not the best people to judge the value of research surely they are better than businesspeople who always have a financial agenda The question of who should decide how to fund science is a very important and difficult one but I hope we can all agree that businesspeople should not do soyou cant just have your academics sitting in an ivory tower making all decisions by themselvesWhy notAs for your other point many companies buy the patents for governmentfunded research For one example see the current GM research at Rothamsted where the resulting crop
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You may be right about the privatisation thing perhaps corporatisation or commercialisation would be better On the other hand if you assume that academics are public servants as I do then the fact that they have been replaced by businesspeople on research councils amounts to privatisation Also the other articles in the series are about privatisation so I felt this title was betterWhile you may think that academics are not the best people to judge the value of research surely they are better than businesspeople who always have a financial agenda The question of who should decide how to fund science is a very important and difficult one but I hope we can all agree that businesspeople should not do soyou cant just have your academics sitting in an ivory tower making all decisions by themselvesWhy notAs for your other point many companies buy the patents for governmentfunded research For one example see the current GM research at Rothamsted where the resulting crop
-imported: true
 ---
 
 Our universities are being privatised, or so many on the Left would have us believe. But how true is it? And is it necessarily a bad thing? In a series of features over the next few weeks, I will be investigating several areas of privatisation at Imperial and at universities across the UK, areas where corporations are filling a role that used to be public.

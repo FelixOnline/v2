@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Don’t be a James Blunt...
 date: "2010-11-25 21:38:43 +0000"
+
 # Attributes from Felix Online V1
 id: "442"
 old_path: /comment/442/dont-be-a-james-blunt-
 aliases:
  - /comment/442/dont-be-a-james-blunt-
+imported: true
+comments:
+ - Somewhat reminiscent of the Hoffs claims that he was to thank for the end of the Cold War But who are we to doubt the HoffI find it a bit sad that there is no photo of me hanging on the walls in the Berlin Museum at Checkpoint Charliehttpnewsbbccouk1hi3465301stmThats more than snesible Thats a great postfcdxKz  fzmsrdadcmom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - rjc409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "rjc409"
 author_name: "Robert Cleaver"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "denimcollar"
 author_facebook: "http://www.facebook.com/rob.james.cleaver"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Somewhat reminiscent of the Hoffs claims that he was to thank for the end of the Cold War But who are we to doubt the HoffI find it a bit sad that there is no photo of me hanging on the walls in the Berlin Museum at Checkpoint Charliehttpnewsbbccouk1hi3465301stmThats more than snesible Thats a great postfcdxKz  fzmsrdadcmom
-imported: true
 ---
 
 Anyone can claim to have saved the world. I stopped the toast from going that little bit too brown this morning. I don't know it yet, but this could have saved the world.

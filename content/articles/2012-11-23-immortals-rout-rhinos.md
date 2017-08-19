@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Romylos Jackson brings the pain train
 date: "2012-11-23 00:05:05 +0000"
+
 # Attributes from Felix Online V1
 id: "2959"
 old_path: /sport/2959/immortals-rout-rhinos
 aliases:
  - /sport/2959/immortals-rout-rhinos
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Imperial Immortals opened their first home game of the season with a heavy win against the Anglia Ruskin Rhinos, a newly formed team in the South Eastern Conference, following an away win against the Kings Regents last week (10-6). A dominant display by the defence during both matches was key to the victories with ARU scoring no points against the Imperial defence; they only scored off an intercepted pass thrown on an Imperial offense drive.

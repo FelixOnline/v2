@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Because old gold is the best gold
 date: "2011-10-21 10:26:55 +0100"
+
 # Attributes from Felix Online V1
 id: "1589"
 old_path: /games/1589/gaming-in-reverse---final-fantasy-ix
 aliases:
  - /games/1589/gaming-in-reverse---final-fantasy-ix
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _See last week's 'Gaming in Reverse' [here](http://felixonline.co.uk/games/1514/gaming-in-reverse---quake/)!_

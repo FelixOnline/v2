@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pheerawat Ratnitisakul discusses about the lows of diversity in London’s Melting Pot
 date: "2015-06-18 19:31:26 +0100"
+
 # Attributes from Felix Online V1
 id: "5628"
 old_path: /welfare/5628/when-diversity-becomes-adversity
 aliases:
  - /welfare/5628/when-diversity-becomes-adversity
+imported: true
+comments:
+ - I can really relate to the article good read Hey very nice blogcanada goose dame trillium parka rosa sheinside httpwwwmetskinderschoenennlnlcanadagoosedametrilliumparkarosasheinside9680htmlfitflops sandalfitflop online sales httpwwwaustraliafitflopscomfitflops online australiabuy fitflops httpaustraliafitflopsiemillernetbirkenstock australia outletwhere to buy birkenstocks httpbirkenstockaustraliablogspotcompigalle christian louboutinchristian louboutin shoes online httpchristianlouboutincanadaoutletblogspotcomlouboutin pumpschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin red bottomschristian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I can really relate to the article good read Hey very nice blogcanada goose dame trillium parka rosa sheinside httpwwwmetskinderschoenennlnlcanadagoosedametrilliumparkarosasheinside9680htmlfitflops sandalfitflop online sales httpwwwaustraliafitflopscomfitflops online australiabuy fitflops httpaustraliafitflopsiemillernetbirkenstock australia outletwhere to buy birkenstocks httpbirkenstockaustraliablogspotcompigalle christian louboutinchristian louboutin shoes online httpchristianlouboutincanadaoutletblogspotcomlouboutin pumpschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin red bottomschristian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 “London is a world-class international city with people coming from diverse cultures and backgrounds. This, I believe, will allow me to enhance my communicative skills and learn to adjust myself to different environments.”

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   IC security guards not amused by having to open the Falmouth Gate
 date: "2017-01-13 13:52:31 +0000"
+
 # Attributes from Felix Online V1
 id: "6629"
 old_path: /news/6629/firefighters-swarm-the-science-museum
 aliases:
  - /news/6629/firefighters-swarm-the-science-museum
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Just before noon last Wedensday, hundreds of visitors were evacuated from the Science Museum. As the visitors collected outside the museum on Exhibition Road, three firefighter squads arrived and created a perimeter around the historical building, amounting to a total of seven fire engines with aerial support from a helicopter.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kamil McClelland reviews Peter Sellars’ contemporary take on a classic
 date: "2015-03-25 13:12:51 +0000"
+
 # Attributes from Felix Online V1
 id: "5446"
 old_path: /arts/5446/the-indian-queen--purcells-final-flourish
 aliases:
  - /arts/5446/the-indian-queen--purcells-final-flourish
+imported: true
+comments:
+ - Good day tidy websites you possess going herecs go skins battle scarred httpisnitrocomforumtopic1842thereduceddownonnba2k16mtpointsexposed
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good day tidy websites you possess going herecs go skins battle scarred httpisnitrocomforumtopic1842thereduceddownonnba2k16mtpointsexposed
-imported: true
 ---
 
 To call this production of _The Indian Queen_ at the __ENO__ Purcell’s opera might be seen as unfaithful to the extent to which Peter Sellars has reinvented the work. First performed in 1695 only a short walk away at __Theatre Royal__ in Drury Lane, _The Indian Queen_ was Henry Purcell’s final work, for he was to pass away tragically prematurely later that year. Based on a libretto of the same name written thirty years previously by John Dryden, Purcell was unable to finish the work, and hence it has been largely left abandoned from the contemporary repertoires of the world’s great opera houses. Yet, as brilliantly illustrated in this interpretation of the piece, Purcell’s music still carries all of the weight and majesty of his original vision, proving to any listeners that he was a true master of Baroque opera.

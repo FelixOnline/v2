@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Fernando takes a trip to the new hall’s location to investigate
 date: "2013-05-16 18:55:19 +0100"
+
 # Attributes from Felix Online V1
 id: "3587"
 old_path: /comment/3587/north-acton-how-bad-is-it-really
 aliases:
  - /comment/3587/north-acton-how-bad-is-it-really
+imported: true
+comments:
+ - This is a lot of non sense  North Acton is a good place to stay as a base and then you can travel from there  Maybe its not as happening a place as other places in London but its pretty quiet and very safe  A lot of this article is referring to Acton as a whole which probably isnt as nice and also Ealing which is the council but that covers an enormous area  You are right next to North Acton tube station like literally right outside which is on the central line and gets you to central London in under 20 mins  When in North Acton its clean quiet Ive never seen any trouble  Of course there will be other areas of Acton which are not so nice theres not nice areas all over London  But the thing with North Acton is that you never even have to see those places  From accommodation straight to the tube and then on Cenral Line to where ever you like  dont believe everything you read otherwise you would believe this was the truthThis is rubbish Theres loads of cool stuff going on in
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a lot of non sense  North Acton is a good place to stay as a base and then you can travel from there  Maybe its not as happening a place as other places in London but its pretty quiet and very safe  A lot of this article is referring to Acton as a whole which probably isnt as nice and also Ealing which is the council but that covers an enormous area  You are right next to North Acton tube station like literally right outside which is on the central line and gets you to central London in under 20 mins  When in North Acton its clean quiet Ive never seen any trouble  Of course there will be other areas of Acton which are not so nice theres not nice areas all over London  But the thing with North Acton is that you never even have to see those places  From accommodation straight to the tube and then on Cenral Line to where ever you like  dont believe everything you read otherwise you would believe this was the truthThis is rubbish Theres loads of cool stuff going on in
-imported: true
 ---
 
 At first sign, North Acton station appears prettier than most – there’s even a cherry tree in front of the ticket barriers. Travel time from South Kensington: 45 minutes 18 seconds. That’s 45 metric minutes at 60 seconds/minute, not these new 80 second imperial-Acton minutes that the college use in their 30 minute estimate for travel time.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Less than half according to the website but is that true?
 date: "2017-03-03 14:16:55 +0000"
+
 # Attributes from Felix Online V1
 id: "6835"
 old_path: /news/6835/how-many-union-policies-are-still-active
 aliases:
  - /news/6835/how-many-union-policies-are-still-active
+imported: true
+comments:
+ - Do you perhaps mean Stephen Ball Naulls is currently running for an ICSMSU position Which alumni are not able to do Thanks for the feedback Fixed That awkward moment the leadership elections take over your life Im so glad that the inernett allows free info like thisNo I knowcheap albion silver httpwwwgeneraccioncomusuarios114407albiononlinepvpchangesdetailsitwouldbesaferThis is really a nice placebest madden mobile coins seller httpwwwmaddenstorecomI dont know what you are sayingpokemonbux cheapest pokemon go rare pokemon supplier httpwwwpokemonbuxcomI will be there for youprofessional Albion Online gold seller httpsalbionatavistcomupalbionisalwaysyourtrustworthyfriendinalbiononline
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Do you perhaps mean Stephen Ball Naulls is currently running for an ICSMSU position Which alumni are not able to do Thanks for the feedback Fixed That awkward moment the leadership elections take over your life Im so glad that the inernett allows free info like thisNo I knowcheap albion silver httpwwwgeneraccioncomusuarios114407albiononlinepvpchangesdetailsitwouldbesaferThis is really a nice placebest madden mobile coins seller httpwwwmaddenstorecomI dont know what you are sayingpokemonbux cheapest pokemon go rare pokemon supplier httpwwwpokemonbuxcomI will be there for youprofessional Albion Online gold seller httpsalbionatavistcomupalbionisalwaysyourtrustworthyfriendinalbiononline
-imported: true
 ---
 
 The Union has fallen behind maintaining up to date policies responsible for managing a range of issues, from Equality of Opportunities to Club Society and Project (CSP) Equipment.

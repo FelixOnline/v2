@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Great results for both mens' and womans' teams that took part in annual race on the Thames
 date: "2014-11-14 21:25:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4895"
 old_path: /sport/4895/imperial-competes-in-the-174th-wingfield-sculls-rowing-race
 aliases:
  - /sport/4895/imperial-competes-in-the-174th-wingfield-sculls-rowing-race
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The 174th Wingfield Sculls took place last Wednesday. It is a rowing race held annually on the River Thames in London, England, over a much longer distance than summer regattas (such as BUCS and Henley).

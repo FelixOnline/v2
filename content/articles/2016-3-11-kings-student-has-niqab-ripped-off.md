@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two men used “racially aggravated language” at Discover Islam stall before assault
 date: "2016-03-11 11:24:49 +0000"
+
 # Attributes from Felix Online V1
 id: "6020"
 old_path: /news/6020/kings-student-has-niqab-ripped-off
 aliases:
  - /news/6020/kings-student-has-niqab-ripped-off
+imported: true
+comments:
+ - Sadly the rise of Islam is going to be an ironic and unfortunate end to the liberal and tolerant Western culture we enjoy todayThats very poor behaviour Even if you disagree with the niqab and everything it represents you cant force freedom from it on people Everyone should have the right to wear whatever absurd headgarments they desireHow do you work here urlhttpalbiononlinejoyblogcom20160107makingsomehugestepsonalbiononlineAlbion Online Power LevelingurlIf he shows up we stick with himurlhttpbladeandsoulpissedconsumercomiorderfrombladesoulcomwhichsellinbnsgold20160225797946htmlBlade  Soul Power levelingurlYou did a good job urlhttpwwwtwitchtvr4pgprofiler4pgurlYou did a good job urlhttpwwwfutmallcomnewsff14gilhubgetfinalfantasyxivgilfastff14gilhuburlYou are so awesome for helping me solve this myrtsey
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sadly the rise of Islam is going to be an ironic and unfortunate end to the liberal and tolerant Western culture we enjoy todayThats very poor behaviour Even if you disagree with the niqab and everything it represents you cant force freedom from it on people Everyone should have the right to wear whatever absurd headgarments they desireHow do you work here urlhttpalbiononlinejoyblogcom20160107makingsomehugestepsonalbiononlineAlbion Online Power LevelingurlIf he shows up we stick with himurlhttpbladeandsoulpissedconsumercomiorderfrombladesoulcomwhichsellinbnsgold20160225797946htmlBlade  Soul Power levelingurlYou did a good job urlhttpwwwtwitchtvr4pgprofiler4pgurlYou did a good job urlhttpwwwfutmallcomnewsff14gilhubgetfinalfantasyxivgilfastff14gilhuburlYou are so awesome for helping me solve this myrtsey
-imported: true
 ---
 
 Afemale Muslim student had her niqab pulled off by two men outside the King’s Strand campus last Friday.

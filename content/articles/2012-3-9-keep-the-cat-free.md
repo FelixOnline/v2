@@ -4,16 +4,24 @@ title: >
 subtitle: >
   On the independence of Felix
 date: "2012-03-09 13:06:03 +0000"
+
 # Attributes from Felix Online V1
 id: "2338"
 old_path: /comment/2338/keep-the-cat-free
 aliases:
  - /comment/2338/keep-the-cat-free
+imported: true
+comments:
+ - Stephen Smith Rapidly becoming my favourite Felix writer The editors note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory But never mind free speech and all thatThe original article is available at the blog linked to aboveCleverly it is fully referenced with links to College websites to back up each claim I make Decide for yourself whether or not it contains factual inaccuraciesSo whats going on Felix Why publish an article if you dont believe it to be true
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Stephen Smith Rapidly becoming my favourite Felix writer The editors note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory But never mind free speech and all thatThe original article is available at the blog linked to aboveCleverly it is fully referenced with links to College websites to back up each claim I make Decide for yourself whether or not it contains factual inaccuraciesSo whats going on Felix Why publish an article if you dont believe it to be true
-imported: true
 ---
 
 ___Following allegations that Felix has been prevented by College from printing, I would like to take the opportunity to reassure readers that it was solely an editorial decision to not run the piece on the Careers Advisory Service.___

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the capital of Belgium
 date: "2015-02-03 14:11:50 +0000"
+
 # Attributes from Felix Online V1
 id: "5181"
 old_path: /travel/5181/top-5-places-to-visit-when-in-brussels
 aliases:
  - /travel/5181/top-5-places-to-visit-when-in-brussels
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Only a two hour train ride away is the dazzling city of Brussels, full of gastronomical and architectural treasures. The capital of Belgium is known to be small, but the three days I spent there wasn’t enough to visit everywhere I wanted to – though if you go all out on the transport, you might be more fortunate than me! Here are my top five favourite places – though they are more like a concentrated area of sights – in the historical city:

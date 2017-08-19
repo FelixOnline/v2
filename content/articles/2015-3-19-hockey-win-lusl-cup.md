@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Hockey celebrate another success
 date: "2015-03-19 23:58:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5414"
 old_path: /sport/5414/hockey-win-lusl-cup
 aliases:
  - /sport/5414/hockey-win-lusl-cup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Having won a hard fought battle against RUMS in the semi-final, IC travelled to Royal Holloway to take part in the final of the London Universities Cup against King’s GKT on Saturday. GKT had previously beaten IC in a pre-season friendly in the only meeting of the two teams this season, finishing 2nd in the BUCS league above IC meant that on paper they were surely favourites to take the Cup title. However, coach Cooper had prepared a game plan tailored their style of play and because of this IC were confident in their ability to cause an upset.

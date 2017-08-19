@@ -4,16 +4,22 @@ title: >
 subtitle: >
   In response to the Israeli Ambassador’s visit
 date: "2017-05-12 16:54:06 +0100"
+
 # Attributes from Felix Online V1
 id: "6943"
 old_path: /news/6943/palestinian-ambassador-gives-talk
 aliases:
  - /news/6943/palestinian-ambassador-gives-talk
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College was host  last week to Manuel Hassassian, the Palestinian Authority’s diplomatic representative to the UK, following reactions to a talk with the Israeli ambassador Mark Regev back in January (Dr. Hassassian does not have the rank of ambassador as the UK does not presently recognize Palestine as a sovereign state). The talk was well attended by members of the student body and provoked discussion on both sides of the conflict.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Clubs and Societies Board decision leads to question of legitimacy
 date: "2012-05-04 00:47:06 +0100"
+
 # Attributes from Felix Online V1
 id: "2423"
 old_path: /news/2423/croquet-club-dormancy-debated
 aliases:
  - /news/2423/croquet-club-dormancy-debated
+imported: true
+comments:
+ - straight after being elected RCC Chair Good luck RCC next yearIt should be noted that the content of this article is factually incorrect and unrepresentative of the truth Thanks for pointing that out Obviously croquet scandals are still in vogue even four months on People obviously werent ready for the shocking and scintillating truth originally Keep fighting for justiceThe problem is that the scandal is on going  and runs SO MUCH DEEPERWhile raking muck over these petty noncompliances Felix is tacitly complicit in the total COVERUP of the widespread embezzlement that is STILL taking place among the Croquet Club elite  Were talking MILLIONUntil we can rely on something other than the LameStream Student Media to uncover such corruption the sheeple that make up most of the students will still be at the mercy of the greedy corporate interests that REALLY dominate the Croquet Club
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - straight after being elected RCC Chair Good luck RCC next yearIt should be noted that the content of this article is factually incorrect and unrepresentative of the truth Thanks for pointing that out Obviously croquet scandals are still in vogue even four months on People obviously werent ready for the shocking and scintillating truth originally Keep fighting for justiceThe problem is that the scandal is on going  and runs SO MUCH DEEPERWhile raking muck over these petty noncompliances Felix is tacitly complicit in the total COVERUP of the widespread embezzlement that is STILL taking place among the Croquet Club elite  Were talking MILLIONUntil we can rely on something other than the LameStream Student Media to uncover such corruption the sheeple that make up most of the students will still be at the mercy of the greedy corporate interests that REALLY dominate the Croquet Club
-imported: true
 ---
 
 A Clubs and Societies Board (CSB) meeting on 27 February 2012 resulted in a decision to close the dormant Croquet Club along with 6 other clubs. According to Deputy President of Clubs and Societies (DPCS) Monya Zard’s “Clubs to Close” paper, the decision was on the grounds that the club had less than 20 members (3 members in fact) and had not completed the relevant documentation or training.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Patricia Poths explains popular science books
 date: "2014-11-06 19:44:20 +0000"
+
 # Attributes from Felix Online V1
 id: "4782"
 old_path: /science/4782/discovering-the-beauty-behind-the-mundane-
 aliases:
  - /science/4782/discovering-the-beauty-behind-the-mundane-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I’ve often found it difficult to find a thoroughly engaging popular science book.

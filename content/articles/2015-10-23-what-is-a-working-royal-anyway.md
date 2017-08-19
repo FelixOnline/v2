@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Are the royal family still relevant in a democractic society?
 date: "2015-10-23 11:48:16 +0100"
+
 # Attributes from Felix Online V1
 id: "5673"
 old_path: /comment/5673/what-is-a-working-royal-anyway
 aliases:
  - /comment/5673/what-is-a-working-royal-anyway
+imported: true
+comments:
+ - i can discover many good solutions if i have difficultyfifa coins httpwwwbibektrustcomsaforumtopic6612_post8817html8817You actually make it seem really easy along with your presentation but I to find this matter to be actually one thing that I believe Id by no means understand It kind of feels too complex and extremely wide for me Im looking ahead on your subsequent submit Ill attempt to get the hang of itwholesale snapbacks httpwwwtwofangtucnIyy5Fn  tyjfehlbxrjj urlhttpkastptckivjhcomkastptckivjhurl linkhttphrkmcoqjiocucomhrkmcoqjioculink httpbvdneswrtrvtcomWonderful article We are linking to this particularly great post on our website Keep up the great writingcanada goose pink httpcrownmodelscomusacanadagoosepink17950htmlI do not knowmadden 16 coins android buy httpwwwmaddenstorecommaddennfl16Android2192Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tag
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - i can discover many good solutions if i have difficultyfifa coins httpwwwbibektrustcomsaforumtopic6612_post8817html8817You actually make it seem really easy along with your presentation but I to find this matter to be actually one thing that I believe Id by no means understand It kind of feels too complex and extremely wide for me Im looking ahead on your subsequent submit Ill attempt to get the hang of itwholesale snapbacks httpwwwtwofangtucnIyy5Fn  tyjfehlbxrjj urlhttpkastptckivjhcomkastptckivjhurl linkhttphrkmcoqjiocucomhrkmcoqjioculink httpbvdneswrtrvtcomWonderful article We are linking to this particularly great post on our website Keep up the great writingcanada goose pink httpcrownmodelscomusacanadagoosepink17950htmlI do not knowmadden 16 coins android buy httpwwwmaddenstorecommaddennfl16Android2192Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tag
-imported: true
 ---
 
 The Duke of York was at Imperial last week to host the Pitch@Palace Bootcamp to find finalists for Pitch@Palace4.0, an event where bright young entrepreneurs get to pitch to industry experts, CEOs and people with lots and lots of money. Since stepping down as the UK’s special representative for trade and investment in 2011 after concerns about the company he keeps, Prince Andrew has championed this kind of start-up, supporting hackspacey vibes around the country at various university campuses and techspots. In fact, previous finalists of the Pitch@Palace series were Imperial’s very own _YOYO_ app.

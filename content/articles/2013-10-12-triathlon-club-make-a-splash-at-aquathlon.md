@@ -4,16 +4,24 @@ title: >
 subtitle: >
   James Ellis documents TriClub’s trials on land, buses, and water in an epic battle against their competitors
 date: "2013-10-12 20:20:35 +0100"
+
 # Attributes from Felix Online V1
 id: "3867"
 old_path: /sport/3867/triathlon-club-make-a-splash-at-aquathlon
 aliases:
  - /sport/3867/triathlon-club-make-a-splash-at-aquathlon
+imported: true
+comments:
+ - Alberta Summer Games triathletes raced an Aquathlon this year in Lethbridge at Summer game as a team event It was fast exinctig and fun to watch Apparently fun to participate in oh BTW YYC team won GOLDSuperb inoitmarofn here ole chap keep burning the midnight oil
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Alberta Summer Games triathletes raced an Aquathlon this year in Lethbridge at Summer game as a team event It was fast exinctig and fun to watch Apparently fun to participate in oh BTW YYC team won GOLDSuperb inoitmarofn here ole chap keep burning the midnight oil
-imported: true
 ---
 
 The first event of the tri club racing calendar brought nine athletes to London Fields, competing in the swim-run combo known as an aquathlon. This early season competition was an opportunity to blow away some of the summer cobwebs for returning members, whilst for a couple of others it was an opportunity to get a first taste of the multi-discipline action. Myself in the latter category, I was so full of enthusiasm when signing up, that little things like start times didn’t really seem important enough to check. Surely it can’t be too early, they do realise we were students right? Wrong. Alarms set for between 4.30 and 5 o’clock, we made our way bright eyed and bushy tailed (okay that was a slight lie) to catch the first of our two buses to get to the venue. Now normally bus journeys don’t make it into match reports, but ours makes a brief appearance for two reasons; firstly in memory of the much missed Jean Claude, the ‘porridge-in-a-pot’ made several appearances and secondly for the adventures of Sophie Kirk. Normally the most organised of people, we found it slightly surprising when she missed our arranged meeting time and thus the 211. Fear not, she will get the next bus and catch the subsequent one to London Fields? Wrong again. Due to the Royal Parks half marathon taking place that morning (shout out to Harriet, a Tri member competing) diversions were beginning to take operation and time was beginning to get short. Having pulled a sprint out the bag that Bolt would have been proud of, Sophie just missed catching us in the walk between stops and was now in danger of missing the event. At this point she hailed down a cab and uttered the line in true film fashion – ‘follow that bus!’

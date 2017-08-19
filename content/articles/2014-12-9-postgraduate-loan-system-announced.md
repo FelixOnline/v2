@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students can now get funding for taught and research masters courses
 date: "2014-12-09 13:45:25 +0000"
+
 # Attributes from Felix Online V1
 id: "5016"
 old_path: /news/5016/postgraduate-loan-system-announced
 aliases:
  - /news/5016/postgraduate-loan-system-announced
+imported: true
+comments:
+ - fitflops sale clearancefitflops sale online australia httpaustraliafitflopsblogspotcomchristian louboutin peep toes shoeschristian louboutin online outlet httpcanadachristianlouboutinblogspotcom2kIdLN httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomHow do you get FREE milk from yogurt cartier santos Galbee femme urlhttpwwwaaawatchcnfrcartier santos Galbee femmeurl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops sale clearancefitflops sale online australia httpaustraliafitflopsblogspotcomchristian louboutin peep toes shoeschristian louboutin online outlet httpcanadachristianlouboutinblogspotcom2kIdLN httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomHow do you get FREE milk from yogurt cartier santos Galbee femme urlhttpwwwaaawatchcnfrcartier santos Galbee femmeurl
-imported: true
 ---
 
 A student loan system has finally been introduced for postgraduate study. The decision, announced in the Chancellor’s Autumn statement, is said to “revolutionise’ access to postgraduate university courses.

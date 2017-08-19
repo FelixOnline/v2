@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Council paper brings talk of adding responsibilities to the roles and changing the names
 date: "2013-05-30 13:22:07 +0100"
+
 # Attributes from Felix Online V1
 id: "3645"
 old_path: /news/3645/extra-sabbatical-remits-discussed
 aliases:
  - /news/3645/extra-sabbatical-remits-discussed
+imported: true
+comments:
+ - Why not rename DPFS as Deputy President thats Fing Screwed From what Ive seen over the last 6 or 7 years here the DPFS is generally one of the most overworked Sabbs Not only would this increase their workload adding 3 new remits that could arguably be divded between DPE and DPW  which were one Sabb originally and should probably be involved in the development of students and the postgraduate experience generally including the social life it would also effectively give them a demotion in the eyes of potential future employers who would not see Community and Development as being as significant as Finance and Services in many of the roles that FSes often apply for unsurprisingly they often want to work in the financial sector Good idea to review the roles but I suggest reviewing them better
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Why not rename DPFS as Deputy President thats Fing Screwed From what Ive seen over the last 6 or 7 years here the DPFS is generally one of the most overworked Sabbs Not only would this increase their workload adding 3 new remits that could arguably be divded between DPE and DPW  which were one Sabb originally and should probably be involved in the development of students and the postgraduate experience generally including the social life it would also effectively give them a demotion in the eyes of potential future employers who would not see Community and Development as being as significant as Finance and Services in many of the roles that FSes often apply for unsurprisingly they often want to work in the financial sector Good idea to review the roles but I suggest reviewing them better
-imported: true
 ---
 
 Union Council has discussed giving extra remits and remaing the Sabbatical positions in the Union (except for Felix Editor and Medics President). Over the last ten years, the Union roles and remits for the President and four deputy Presidents have been kept relatively constant.

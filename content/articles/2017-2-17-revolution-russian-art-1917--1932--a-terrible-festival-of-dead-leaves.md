@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Revolution: Russian Art 1917 – 1932 is on at the Royal Academy until 17th April 2017
 date: "2017-02-17 15:13:11 +0000"
+
 # Attributes from Felix Online V1
 id: "6791"
 old_path: /arts/6791/revolution-russian-art-1917--1932--a-terrible-festival-of-dead-leaves
 aliases:
  - /arts/6791/revolution-russian-art-1917--1932--a-terrible-festival-of-dead-leaves
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Royal Academy’s ambitious new exhibition chronicles a troubled period in Russian history, from the overthrowing of the tsarist regime in 1917, through the years of civil war, to the consolidation of power by Stalin after death. In this window of time, art in Russia experienced a brief burgeoning that was soon to be violently truncated. A major exhibition of post-revolution artists took place in Leningrad in 1932 – this was to be a last gasp of creativity before the suppression of “formalism” and the persecution of artists by Stalin.

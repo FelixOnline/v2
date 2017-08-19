@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Keir Little on why they may be successful, but never mention that they were also lucky
 date: "2011-11-10 20:27:11 +0000"
+
 # Attributes from Felix Online V1
 id: "1712"
 old_path: /comment/1712/why-i-hate-entrepreneurs
 aliases:
  - /comment/1712/why-i-hate-entrepreneurs
+imported: true
+comments:
+ - HaterGreat article  Its the timeworn cringeworthy clichs that catch me everytime I have the misfortune to speak to someone going it alone  In the age of entrepreneurs telling us theyre different always from the last guy  they never fail at spewing forth their unashamed verbose parrotfashioned market folklore supposedly designed to relegate me to an inferior peasantI cant confirm these experiences However I can imagine there are some people who have to compensate their feelings of inferiority in a world full of employed people But there is no need for any side to fight the other Good entrepreneurs know that their success depends on the best employees they can find The rule is Entrepreneurs search und develope a business model employed specialists executeYour words are my words  Ihave made this argument countless times  Thanks for the validationFelix Im in the entrepreneur side Ive never FULLY gotten along with the employed it seems we are very different Ive grown to acc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - HaterGreat article  Its the timeworn cringeworthy clichs that catch me everytime I have the misfortune to speak to someone going it alone  In the age of entrepreneurs telling us theyre different always from the last guy  they never fail at spewing forth their unashamed verbose parrotfashioned market folklore supposedly designed to relegate me to an inferior peasantI cant confirm these experiences However I can imagine there are some people who have to compensate their feelings of inferiority in a world full of employed people But there is no need for any side to fight the other Good entrepreneurs know that their success depends on the best employees they can find The rule is Entrepreneurs search und develope a business model employed specialists executeYour words are my words  Ihave made this argument countless times  Thanks for the validationFelix Im in the entrepreneur side Ive never FULLY gotten along with the employed it seems we are very different Ive grown to acc
-imported: true
 ---
 
 Don’t get me wrong – I take my hat off to anyone who can fashion a new idea, start a business, and successfully market it. But, despite this admiration (they’d be quick to call it envy), entrepreneurs are the most insufferable people that have ever talked at (rather than to) me.

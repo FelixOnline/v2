@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Bridge builder is definitely so uncool it's cool
 date: "2013-01-18 00:46:32 +0000"
+
 # Attributes from Felix Online V1
 id: "3141"
 old_path: /games/3141/bridging-the-gap
 aliases:
  - /games/3141/bridging-the-gap
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I wonder if any of you actually get any revision done – by an almost unanimous vote, this week’s review selection is The Bridge Project. A quick introduction to the game’s genre would be as follows: you have a bridge you need to build, and you’ve limited resources. Your bridge will have to stand up to a variey of tests (buses, boats (use pistons) and earthquakes, to name a few). Savvy?

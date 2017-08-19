@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joseph Letts looks at the future of performance-related pay in the City
 date: "2012-02-09 22:10:33 +0000"
+
 # Attributes from Felix Online V1
 id: "2140"
 old_path: /politics/2140/bringing-down-the-bankers
 aliases:
  - /politics/2140/bringing-down-the-bankers
+imported: true
+comments:
+ - What a load of bullshit I did not go to Imperial to find out that bonuses are being capped after I startI am an engineer who is sitting on several inventions that would help our country but if anybody thinks I am going to continue making parasites rich they are living in a fantasy worldEngineers with dirt under their fingernails built this world and these grubby thieves are destroying it cant people see where this is headingIts political correctness gone mad You cant even get your finger nails dirty anymoreIt extended my cahnce of becoming financially free However it taught me what to do in order to become a successful day traderJobs became scarce in my home town My states unemployment rate is among the top Because I couldnt find a job Im now living at my wifes parents place Twobedroom apartment with five people and a baby On top of that my net worth is at the negative negative five figures by the way and I dont have enough to bring it back to the positiveEbay is not a
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What a load of bullshit I did not go to Imperial to find out that bonuses are being capped after I startI am an engineer who is sitting on several inventions that would help our country but if anybody thinks I am going to continue making parasites rich they are living in a fantasy worldEngineers with dirt under their fingernails built this world and these grubby thieves are destroying it cant people see where this is headingIts political correctness gone mad You cant even get your finger nails dirty anymoreIt extended my cahnce of becoming financially free However it taught me what to do in order to become a successful day traderJobs became scarce in my home town My states unemployment rate is among the top Because I couldnt find a job Im now living at my wifes parents place Twobedroom apartment with five people and a baby On top of that my net worth is at the negative negative five figures by the way and I dont have enough to bring it back to the positiveEbay is not a
-imported: true
 ---
 
 In the wake of last week’s pay scandal concerning [RBS](http://www.rbs.com/home.ashx) CEO Stephen Hester a lot has been said in regards to the opulence of bankers’ bonuses. In fact in the private student accommodation in which I live we even held a debate at the weekend, with a slim majority voting for motion which stated that the government should prevent excessive pay. Since the recession and our slow economic recovery the public has been baying for blood at the mere mention of a large bonus, with heads of public bodies afraid of the public backlash of receiving a bonus, no matter how well deserved. Over the last two weeks, the Chairman and CEO of RBS (83% state owned) both declined to take a bonus, followed by several directors of [Network Rail](http://www.networkrail.co.uk/). Now, while these companies are both controlled by the state that as majority shareholder has the right to veto executive pay packages, some people are starting to call for the government to cast its net wider and consider banning banker’s bonuses in the general financial industry.

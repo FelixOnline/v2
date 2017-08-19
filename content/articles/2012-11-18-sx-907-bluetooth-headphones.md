@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Eggl discovers an incredible pair at a banging price, just £20. Get in!
 date: "2012-11-18 13:07:38 +0000"
+
 # Attributes from Felix Online V1
 id: "2922"
 old_path: /tech/2922/sx-907-bluetooth-headphones-
 aliases:
  - /tech/2922/sx-907-bluetooth-headphones-
+imported: true
+comments:
+ - Well it all depends on what you mean with sync1 If you mean sync in the sense of charge and connect with the usb cable then what I would suggest is try to connect your Headphones to a USB charger If they do not charge then i would see if you can exchange them2 Now if you mean actually connect them over bluetooth to play music it gets quite a bit more complicated Firstly make sure they are on and are actually looking to be paired this is seen by a red and blue alternating light If nothing shows up on your pc try to pair it with something else to see if they work at all If they do not show up anywhere they are malfunctioning and you should get them exchanged Lastly if nothing works try this web site as it seems to have a solution for your very problem httpanswersmicrosoftcomenuswindowsforumwindows_7hardwareerrors28missingdriverformysx907cstereo4fa326723c60e0118dfc68b599b31bf5msgIdf6ec0dfc3da34d009fd4d24900088123Hope this helpsI cant seem to
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well it all depends on what you mean with sync1 If you mean sync in the sense of charge and connect with the usb cable then what I would suggest is try to connect your Headphones to a USB charger If they do not charge then i would see if you can exchange them2 Now if you mean actually connect them over bluetooth to play music it gets quite a bit more complicated Firstly make sure they are on and are actually looking to be paired this is seen by a red and blue alternating light If nothing shows up on your pc try to pair it with something else to see if they work at all If they do not show up anywhere they are malfunctioning and you should get them exchanged Lastly if nothing works try this web site as it seems to have a solution for your very problem httpanswersmicrosoftcomenuswindowsforumwindows_7hardwareerrors28missingdriverformysx907cstereo4fa326723c60e0118dfc68b599b31bf5msgIdf6ec0dfc3da34d009fd4d24900088123Hope this helpsI cant seem to
-imported: true
 ---
 
 Yes, dear readers, I have recently discovered the world of wireless headphones. Two weeks ago, bored and not feeling like untangling my normal headphones, I decided to peruse the various stores of the internet, to discover if the World Wide Web had anything to tickle my fancy. Lo and behold, on Amazon, I stumbled upon a whole array of Bluetooth headphones and, perhaps more surprisingly, very (and I mean VERY) attractively priced ones. I had previously visited an apple store (to check out the iPad Mini) and had seen headphones priced at £300, so to see these puppies being displayed from £20 to £70 was really astounding! Anyway, before I launch into my review of one of these headphones that I purchased, I will firstly talk pros and cons of Bluetooth/wireless headphones in general.

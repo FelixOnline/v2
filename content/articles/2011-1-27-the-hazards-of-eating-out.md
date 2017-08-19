@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The art of being screwed over by restaurants today
 date: "2011-01-27 20:21:56 +0000"
+
 # Attributes from Felix Online V1
 id: "690"
 old_path: /food/690/the-hazards-of-eating-out
 aliases:
  - /food/690/the-hazards-of-eating-out
+imported: true
+comments:
+ - The tip is discrtionry and against the law  you should refuse to pay it and then they might start giving service as at the moment they know that most people will not argue this point and will just pay so they do not bother with the service  If anything it should still be 10 due to the inflated prices they charge for the food and drinksyou decide but boycot is the way forwardWhy dont you just get tap water
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The tip is discrtionry and against the law  you should refuse to pay it and then they might start giving service as at the moment they know that most people will not argue this point and will just pay so they do not bother with the service  If anything it should still be 10 due to the inflated prices they charge for the food and drinksyou decide but boycot is the way forwardWhy dont you just get tap water
-imported: true
 ---
 
 The SCR food, with its leather-tough beef, dry chicken, and liquefied peas – is there anything more depressing? Well, yes – genocide, estate agents, malaria, sexual rape, facebook rape, yawn rape, and Robert Peston. The SCR is, after all, just a university canteen in a country mocked globally for its poor gastronomy – Great British Menu being as much of an oxymoron as Corporate Culture. An overhaul of the lugubrious menu would nonetheless not go amiss – I did contact Jamie Oliver, but he was elsewhere engaged. At a minimum, I trust Felix will not have to apologise again for daring to point out that the SCR food lacks a certain finesse (they have yet to find that delicate balance between burnt or soggy food).

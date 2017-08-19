@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Close but not cigar for Imperial. It's an honour just to be nominated, right?
 date: "2012-12-07 00:38:20 +0000"
+
 # Attributes from Felix Online V1
 id: "3025"
 old_path: /news/3025/so-close-imperial-at-the-awards
 aliases:
  - /news/3025/so-close-imperial-at-the-awards
+imported: true
+comments:
+ - I was really scared by what I read online about Imperial social life After the first term I managed to get out clubbing at least twice a week and still getting really good grades I am absolutely not the only one I can definitely say that more than 60 of people are really social and go out a lot Some big events like FCK ME ITS CHRISTMAS had more students from Imperial than from any other university from my hall more than 80 people went to that event I feel also that the people in the Union work hard to improve the experience the societies are really good but Metric is one of the worst thing I have ever seen at least London has really good gradesIt was a beautiful and intense term and I am happier than I have ever been to have chosen Imperial
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I was really scared by what I read online about Imperial social life After the first term I managed to get out clubbing at least twice a week and still getting really good grades I am absolutely not the only one I can definitely say that more than 60 of people are really social and go out a lot Some big events like FCK ME ITS CHRISTMAS had more students from Imperial than from any other university from my hall more than 80 people went to that event I feel also that the people in the Union work hard to improve the experience the societies are really good but Metric is one of the worst thing I have ever seen at least London has really good gradesIt was a beautiful and intense term and I am happier than I have ever been to have chosen Imperial
-imported: true
 ---
 
 Imperial College was nominated for two [Times Higher Education Awards](http://www.the-awards.co.uk/the2012/awardscategory/awards) this year: [Most Improved Student Experience and Outstanding Support for Early Career Researchers](http://www.the-awards.co.uk/the2012/shortlist). Imperial however lost out in each category, losing to the University of Chester and the University of York respectively. The nominations; particularly for ‘Most Improved Student Experience’ ought to be good news for Imperial that has lagged behind other universities in student satisfaction ratings which has contributed to disappointing [Guardian Rankings](http://www.guardian.co.uk/education/table/2012/may/21/university-league-table-2013) in recent years. (It came in 13th in the 2013 rankings behind the University of Bath, The University of Essex and perhaps most disturbingly, UCL).

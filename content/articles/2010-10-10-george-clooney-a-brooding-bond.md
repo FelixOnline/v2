@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Director of the much-acclaimed Ian Curtis biopic Control, is back with a bang
 date: "2010-10-10 15:36:03 +0100"
+
 # Attributes from Felix Online V1
 id: "191"
 old_path: /film/191/george-clooney-a-brooding-bond
 aliases:
  - /film/191/george-clooney-a-brooding-bond
+imported: true
+comments:
+ - Dude youre the goto writer for populist articles Kate Moss vs Mario Testino then George Clooney Youre on FIIIRRRREEE Print this on letters to editor babeNo its just because the person who wrote the article hasnt signed onto the website and so it has my name because I uploaded it How do I sign on to the website and claim my article Mr Editor
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Dude youre the goto writer for populist articles Kate Moss vs Mario Testino then George Clooney Youre on FIIIRRRREEE Print this on letters to editor babeNo its just because the person who wrote the article hasnt signed onto the website and so it has my name because I uploaded it How do I sign on to the website and claim my article Mr Editor
-imported: true
 ---
 
 The director of the [much-acclaimed](http://www.rottentomatoes.com/m/control/) Ian Curtis biopic Control, is back with a bang. Anton Corbijn discards the guitar and picks up the rifle in The American, a thriller about a killer who discovers his soul. Adapted from British novelist Martin Booth’s A Very Private Gentleman (1990), the film stars George Clooney as Jack, an assassin-cum-weapons expert hiding in an ancient Italian town after a botched attempt on his life. There, he takes on one last job to produce a custom-made rifle for a client of his boss and strikes up a few relationships that may ultimately change him, or doom him.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle reports as College team wins in Wembley Arena
 date: "2015-02-12 21:02:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5238"
 old_path: /news/5238/imperial-win-the-bhangra-showdown
 aliases:
  - /news/5238/imperial-win-the-bhangra-showdown
+imported: true
+comments:
+ - fitflop on salefitflops outlets singapore httpsingaporeasalefitflopsblogspotcomfitflops cheapestfitflop sale httpfitflopssalesingaporeblogspotcomfitflop sandals australiabest price fitflops httpaustraliafitflopsblogspotcomfitflop shoes clearancebuy fitflops online httpaustraliafitflopsiemillernetfitflop slipperfitflops australia outlet httpaustraliafitflopsblogspotcombirkenstock shoescheap birkenstock httpbirkenstockaustraliarochecaporgbirkenstock shopsbirkenstocks sydney httpbirkenstockaustraliarochecaporgchristian louboutin sneakerschristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomBrazil the king of World Cup will enter group G with Korea DPR Ivory Coast and Portugal Similarly the answering services company manager cannot spend extended periods poring over data of yesteryearsfifa 16 hack httpcreditsfutcomshoes with red soleschristian louboutin sale httpcanadachristianlouboutinoutletblogs
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop on salefitflops outlets singapore httpsingaporeasalefitflopsblogspotcomfitflops cheapestfitflop sale httpfitflopssalesingaporeblogspotcomfitflop sandals australiabest price fitflops httpaustraliafitflopsblogspotcomfitflop shoes clearancebuy fitflops online httpaustraliafitflopsiemillernetfitflop slipperfitflops australia outlet httpaustraliafitflopsblogspotcombirkenstock shoescheap birkenstock httpbirkenstockaustraliarochecaporgbirkenstock shopsbirkenstocks sydney httpbirkenstockaustraliarochecaporgchristian louboutin sneakerschristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomBrazil the king of World Cup will enter group G with Korea DPR Ivory Coast and Portugal Similarly the answering services company manager cannot spend extended periods poring over data of yesteryearsfifa 16 hack httpcreditsfutcomshoes with red soleschristian louboutin sale httpcanadachristianlouboutinoutletblogs
-imported: true
 ---
 
 Last week the team from Imperial College London won The Bhangra Showdown (TBS) at Wembley Arena. The event, which was in its eighth year, was organised by seven committee members from the Imperial Punjabi Society. In previous years the competition has been held at the Hammersmith Apollo, and was being held in North London for the first time.

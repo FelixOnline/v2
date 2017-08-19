@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sanchit Sharma invades a country for it's natural resources. Oh, wait, no, to topple an evil regime
 date: "2013-06-20 22:47:32 +0100"
+
 # Attributes from Felix Online V1
 id: "3713"
 old_path: /games/3713/oil-oil-everywhere
 aliases:
  - /games/3713/oil-oil-everywhere
+imported: true
+comments:
+ - Hey this is a great post Could you keep me updated with any other info smiilar to this If travelling to the UK why not stay at Stratford hotel and watch a Shakespear playWhat a disappointment  Less than 30 mientus of video you can find on the internet and of little value  Most of what the videos show is the same process for WordPress which the narrator continuously points out   How to Setup WordPress MU in 30 Minutes  would be a more appropriate name  There is little if nothing for how to use WordPress MU  I purchased this to learn more but I am already past the level where this product takes the user and I still have a lot of questions  But wait you can sign up for their affiliate program from a link to sell this worthless stuff
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hey this is a great post Could you keep me updated with any other info smiilar to this If travelling to the UK why not stay at Stratford hotel and watch a Shakespear playWhat a disappointment  Less than 30 mientus of video you can find on the internet and of little value  Most of what the videos show is the same process for WordPress which the narrator continuously points out   How to Setup WordPress MU in 30 Minutes  would be a more appropriate name  There is little if nothing for how to use WordPress MU  I purchased this to learn more but I am already past the level where this product takes the user and I still have a lot of questions  But wait you can sign up for their affiliate program from a link to sell this worthless stuff
-imported: true
 ---
 
 “Huh. Maxed out on oil again.” – Me, when playing Oil Rush. Oil Rush is an interesting take on the real time strategy genre. It is a naval strategy game that takes place in the future, where nuclear war has melted the polar ice caps leaving little habitable land on the planet. As such, many people live either on ships or on platforms that have been built in the sea.

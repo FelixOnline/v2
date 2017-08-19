@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Paris attacks have recieved widespread global attention, but why?
 date: "2015-01-16 13:31:10 +0000"
+
 # Attributes from Felix Online V1
 id: "5101"
 old_path: /comment/5101/why-all-the-fuss-about-charlie-hebdo
 aliases:
  - /comment/5101/why-all-the-fuss-about-charlie-hebdo
+imported: true
+comments:
+ - Fantastic beat  I wish to apprentice while you amend your site how could i subscribe for a blog site The account helped me a acceptable deal I had been tiny bit acquainted of this your broadcast offered bright clear conceptcanada goose jassen sale amsterdam 65 httpwwwacmelnlnlnlcanadagoosejassensaleamsterdam658137htmlWow because this is extremely great work Congrats and keep it upcheap cs go skins httpcsgoskinpricesallmyblogcom1tablestriketobeimprovedinby5ideashtmlsay thanks to a lot for your site it assists a great dealnba 2k16 mt guide httpnfl15coinsexpertblogcucombuycsgoskinswalkingstridelength20500420
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Fantastic beat  I wish to apprentice while you amend your site how could i subscribe for a blog site The account helped me a acceptable deal I had been tiny bit acquainted of this your broadcast offered bright clear conceptcanada goose jassen sale amsterdam 65 httpwwwacmelnlnlnlcanadagoosejassensaleamsterdam658137htmlWow because this is extremely great work Congrats and keep it upcheap cs go skins httpcsgoskinpricesallmyblogcom1tablestriketobeimprovedinby5ideashtmlsay thanks to a lot for your site it assists a great dealnba 2k16 mt guide httpnfl15coinsexpertblogcucombuycsgoskinswalkingstridelength20500420
-imported: true
 ---
 
 The news over the past week has been dominated by stories about the terrorist attacks in Paris, killing 17 people, with the satirical magazine _Charlie Hebdo_ among the targets. Also reported, but to a far lesser extent, are attacks by Boko Haram extremists in Baga, Nigeria, resulting in thousands of deaths. With all the media interest focused on _Charlie Hebdo_ and France, the horrifying events in Nigeria have somewhat fallen by the wayside. Why is it the case that these attacks have received far less media attention, not just globally, but also in Nigeria itself? Is it the case that we in the Western world consider the lives of those lost in France more valuable and worthy of attention?

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   After split of role, Professor James Stirling CBE FRS is set to be the first Provost of Imperial
 date: "2013-01-10 22:12:52 +0000"
+
 # Attributes from Felix Online V1
 id: "3079"
 old_path: /news/3079/imperial-hires-first-ever-provost
 aliases:
  - /news/3079/imperial-hires-first-ever-provost
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Professor James Stirling](http://www.phy.cam.ac.uk/people/stirlingwj.php) CBE FRS [has been named the first Provost of Imperial College London](http://www.timeshighereducation.co.uk/story.asp?storycode=422136).

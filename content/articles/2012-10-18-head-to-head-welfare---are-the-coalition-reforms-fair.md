@@ -4,16 +4,24 @@ title: >
 subtitle: >
   GH argues for, and Luke Sheldon argues against. Let battle commence...
 date: "2012-10-18 21:19:05 +0100"
+
 # Attributes from Felix Online V1
 id: "2699"
 old_path: /comment/2699/head-to-head-welfare---are-the-coalition-reforms-fair
 aliases:
  - /comment/2699/head-to-head-welfare---are-the-coalition-reforms-fair
+imported: true
+comments:
+ - I dont really understand why George has written this Weve heard it all before with better fact checking and better writing quality and even then it was still wrongI could write a lengthy sarcastic reply but I doubt youd be able to appreciate the subtletygeorge i hear you man im completely opposed to the somethingfornothing culture of thickheaded public schoolboys granted massive inheritences social contact with the most powerful in society and nepotistic feet in the door by the previous generation who themselves received all that something from the generation before for nothing as well swanning about like theyre ubermensch making lives they cant comprehend immeasureably worse by depriving them of basic human dignity and sustenancethe leading lights of the conservatives are truly the people we should be emulating  david cameron whom the fucking royals greased into the conservative party and gideon osborne whose only proper job i doubt you think NHS jobs count as jobs was refol
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - I dont really understand why George has written this Weve heard it all before with better fact checking and better writing quality and even then it was still wrongI could write a lengthy sarcastic reply but I doubt youd be able to appreciate the subtletygeorge i hear you man im completely opposed to the somethingfornothing culture of thickheaded public schoolboys granted massive inheritences social contact with the most powerful in society and nepotistic feet in the door by the previous generation who themselves received all that something from the generation before for nothing as well swanning about like theyre ubermensch making lives they cant comprehend immeasureably worse by depriving them of basic human dignity and sustenancethe leading lights of the conservatives are truly the people we should be emulating  david cameron whom the fucking royals greased into the conservative party and gideon osborne whose only proper job i doubt you think NHS jobs count as jobs was refol
-imported: true
 ---
 
 __Yes __

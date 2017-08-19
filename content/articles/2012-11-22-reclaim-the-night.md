@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kirstin Hay invites you to join IC’s Feminist Society at the protest
 date: "2012-11-22 22:18:42 +0000"
+
 # Attributes from Felix Online V1
 id: "2926"
 old_path: /news/2926/reclaim-the-night
 aliases:
  - /news/2926/reclaim-the-night
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 "Walking home at night should not be scary. We live in a strange society. If fear of our neighbours is considered normal, but many people are. Many women I know are afraid to walk alone in the dark, due to a perceived high danger of facing violence.

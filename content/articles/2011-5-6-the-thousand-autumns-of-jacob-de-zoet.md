@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A beautifully realised piece of historical fiction from David Mitchell
 date: "2011-05-06 13:15:58 +0100"
+
 # Attributes from Felix Online V1
 id: "1171"
 old_path: /arts/1171/the-thousand-autumns-of-jacob-de-zoet
 aliases:
  - /arts/1171/the-thousand-autumns-of-jacob-de-zoet
+imported: true
+comments:
+ - I completely agree with you about the 150 pages where the story sort of drfitsAnd youre right about the name changing  It took me about 100 pages for the penny to drop on that oneBut the book is worth persevering withI quite like de Zoet as a character because hes a good study of a person trying to do the right thing while everyone around him is as corrupt as hell  Doing business in parts of Asia can still be a bit like that   even todayIts also reading up about the Nagasaki incident   a true life historical event of some importance which is reflected in the book  And its also worth finding out about Hendrik Doeff   who is highly relevant to the book  Ill say no more though
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I completely agree with you about the 150 pages where the story sort of drfitsAnd youre right about the name changing  It took me about 100 pages for the penny to drop on that oneBut the book is worth persevering withI quite like de Zoet as a character because hes a good study of a person trying to do the right thing while everyone around him is as corrupt as hell  Doing business in parts of Asia can still be a bit like that   even todayIts also reading up about the Nagasaki incident   a true life historical event of some importance which is reflected in the book  And its also worth finding out about Hendrik Doeff   who is highly relevant to the book  Ill say no more though
-imported: true
 ---
 
 One of the joys of reading David Mitchell is the way his intricate prose immerses you into the rich, luxuriant and complex worlds he crafted; his intriguing plots and and ability to get beneath the skin of a diverse cast of characters combinres to create some of the most engrossing read in modern literature.

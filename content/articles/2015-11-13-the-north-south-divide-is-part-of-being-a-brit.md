@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Why can’t we stop making fun of each other’s accents and get along?
 date: "2015-11-13 14:33:23 +0000"
+
 # Attributes from Felix Online V1
 id: "5726"
 old_path: /comment/5726/the-north-south-divide-is-part-of-being-a-brit
 aliases:
  - /comment/5726/the-north-south-divide-is-part-of-being-a-brit
+imported: true
+comments:
+ - Do you have any video of that Id like to find out more detailsparajumpers new anchorage man httpcrownmodelscomusaparajumpersnewanchorageman16995htmlSmall Towns Like Lincolntonis where it becomes seruois an a unwanted take over that should be illlegalBy increased numbers and meeting in private East Lincoln is making un wanted changes in our country town and our county If they are coming down here for what we have why make it the same mess they left by sheer numbers they are winning county commiioner seatsnow running for school board seats and planning boards they want the natives out and to take over as they have the Lake the beaches mountains and every thing else WE DO NOT WANT YOU HERE GET THE HELL OUT YOU HAVE RUINED OUT COAST  NOW OUR MOUNTAINS  GO HOME Our wells are drying Lake Norman is a joke you watered flowers then whined watch the wells we are on the same water plane Lincoln County will be silent until they can take no more then watch us
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Do you have any video of that Id like to find out more detailsparajumpers new anchorage man httpcrownmodelscomusaparajumpersnewanchorageman16995htmlSmall Towns Like Lincolntonis where it becomes seruois an a unwanted take over that should be illlegalBy increased numbers and meeting in private East Lincoln is making un wanted changes in our country town and our county If they are coming down here for what we have why make it the same mess they left by sheer numbers they are winning county commiioner seatsnow running for school board seats and planning boards they want the natives out and to take over as they have the Lake the beaches mountains and every thing else WE DO NOT WANT YOU HERE GET THE HELL OUT YOU HAVE RUINED OUT COAST  NOW OUR MOUNTAINS  GO HOME Our wells are drying Lake Norman is a joke you watered flowers then whined watch the wells we are on the same water plane Lincoln County will be silent until they can take no more then watch us
-imported: true
 ---
 
 Where I come from, in rainy old Manchester, I’m considered relatively posh. Hop across the imaginary divide though, and I might as well have just come up from the mines with a pie in one hand and a ferret in the other.

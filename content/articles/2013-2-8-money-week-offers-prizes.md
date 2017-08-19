@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-08 01:05:30 +0000"
+
 # Attributes from Felix Online V1
 id: "3281"
 old_path: /news/3281/money-week-offers-prizes
 aliases:
  - /news/3281/money-week-offers-prizes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There will be an event in Level 2 of the Sherfield Building at 11:30am - 2:30pm on Tuesday 12 February in aid of Student Money Week. The aim of the Week is to raise awareness of student financial issues and offer help, advice and offer tips on how to save money and helping students budgeting day-to-day. The Student Financial Support Team and the Student Adviser from Imperial College Union will be available and will be available to offer a money “health check”.

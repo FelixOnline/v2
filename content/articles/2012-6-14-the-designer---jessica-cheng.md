@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jessica Cheng
 date: "2012-06-14 20:09:20 +0100"
+
 # Attributes from Felix Online V1
 id: "2558"
 old_path: /phoenix/2558/the-designer---jessica-cheng
 aliases:
  - /phoenix/2558/the-designer---jessica-cheng
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Jessica is a graduate from the Innovation Design Engineering (IDE) course, which is a joint _Imperial_ and _RCA_ course.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   If FemSoc say it wasn’t sexist, were the union’s actions justified?
 date: "2016-02-12 11:24:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5900"
 old_path: /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
 aliases:
  - /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
+imported: true
+comments:
+ - applausehttpimgurcomagZcEAI like this website  its so usefull and helpfullNBA 2k16 VC Coins httpwwwstpatrickspanamacityorgmodforumviewthreadphpforum_id1thread_id114Sustain the spectacular job  Lovin itBuy NBA 2k15 VC Coins httpforumnoritakeeleccompostenvironmentalprotectionneeds8042619pid1291661035post1291661035hello I really like your producing quite a good deal amount all of us find out more more your article in AMERICA ONLINE I want a skilled in this particular room to help disentangle the trouble Might be which is you Getting excited about expert youBuy Gucci httpwwwcharopfcomguccioutletpbsFWh  mwzqggulzwgh urlhttpxovefqpkoxbgcomxovefqpkoxbgurl linkhttpzxdzzvilgbspcomzxdzzvilgbsplink httpifskvkekycrqcomYoure an extremely helpful internet site couldnt make it without yaCOUNTERSTRIKE httpwwwyjbctcncommenthtmlindexphppage1id65108say thanks to so considerablya lot for your internet site it
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - applausehttpimgurcomagZcEAI like this website  its so usefull and helpfullNBA 2k16 VC Coins httpwwwstpatrickspanamacityorgmodforumviewthreadphpforum_id1thread_id114Sustain the spectacular job  Lovin itBuy NBA 2k15 VC Coins httpforumnoritakeeleccompostenvironmentalprotectionneeds8042619pid1291661035post1291661035hello I really like your producing quite a good deal amount all of us find out more more your article in AMERICA ONLINE I want a skilled in this particular room to help disentangle the trouble Might be which is you Getting excited about expert youBuy Gucci httpwwwcharopfcomguccioutletpbsFWh  mwzqggulzwgh urlhttpxovefqpkoxbgcomxovefqpkoxbgurl linkhttpzxdzzvilgbspcomzxdzzvilgbsplink httpifskvkekycrqcomYoure an extremely helpful internet site couldnt make it without yaCOUNTERSTRIKE httpwwwyjbctcncommenthtmlindexphppage1id65108say thanks to so considerablya lot for your internet site it
-imported: true
 ---
 
 Here’s a picture of Malaysian PM Najib Razak. Malaysian police responded to this image by warning the author that the image was ‘offensive’. They then threatened that if he didn’t ‘act within the law’, he would be arrested.

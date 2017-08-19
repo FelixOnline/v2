@@ -4,16 +4,23 @@ title: >
 subtitle: >
   William Hunter tells us how the honeybee is bringing the bumblebee down too
 date: "2014-02-28 07:18:59 +0000"
+
 # Attributes from Felix Online V1
 id: "4446"
 old_path: /science/4446/more-reasons-to-bee-worried
 aliases:
  - /science/4446/more-reasons-to-bee-worried
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 There have been many attempts to explain the global decline of bumblebees in recent years, with blame often lying with climate change or pesticides.

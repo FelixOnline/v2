@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The latest Pegg and Frost genre-hopping tribute lacks originality
 date: "2011-02-27 19:05:58 +0000"
+
 # Attributes from Felix Online V1
 id: "907"
 old_path: /film/907/a-sci-fi-brom-com
 aliases:
  - /film/907/a-sci-fi-brom-com
+imported: true
+comments:
+ - Kiitos mielenkiintoista tietoaWhile I certainly apraicepte your comment and welcome participation to our posts I find your choice of words offensive  Not to mention that they do not assist in any way to getting your point across or add any additional credibility to your opinionWhile I was initially inclined to delete your comment altogether I decided not to so that others may use it as a guideline of what not to post when they want to speak their mindAs a side note its Simon Pegg  I am excited to see this film and expect it to be a good time  Thank you for letting us know how you feel about this upcoming movie  In the future please be a bit more selective with your choice of wordsThank youI was at Scio10 and remember your Ignite talk quite well I just weatnd to say that your juxtaposition of photos of serious scientist Paul Offit if I remember correctly and ridiculous mom Jenny McCarthy earned some grumbling about subtle misogyny from the scient
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Kiitos mielenkiintoista tietoaWhile I certainly apraicepte your comment and welcome participation to our posts I find your choice of words offensive  Not to mention that they do not assist in any way to getting your point across or add any additional credibility to your opinionWhile I was initially inclined to delete your comment altogether I decided not to so that others may use it as a guideline of what not to post when they want to speak their mindAs a side note its Simon Pegg  I am excited to see this film and expect it to be a good time  Thank you for letting us know how you feel about this upcoming movie  In the future please be a bit more selective with your choice of wordsThank youI was at Scio10 and remember your Ignite talk quite well I just weatnd to say that your juxtaposition of photos of serious scientist Paul Offit if I remember correctly and ridiculous mom Jenny McCarthy earned some grumbling about subtle misogyny from the scient
-imported: true
 ---
 
 They always said they wanted to do a trilogy of genres. First there was Shaun of the Dead (Rom-Zom-Com) then came Hot Fuzz (Thrill-Com) and now we have Paul (Sci-Fi-Brom-Com). All three have the emphasis placed firmly on the comedy aspect but all have different appealing values. This latest venture details the journey of two British nerds on the holiday of a lifetime in America. After visiting Comic-Con (Pegg & Frost love abbreviations!) in San Diego the duo head off on an RV road trip. Their plan is to drive around Nevada visiting all of the alien sites that you find plastered on a thirteen year old’s bedroom walls (Area 51, Roswell, etc). If you’ve seen the trailer, you’ll already know that they run into Paul (the extra terrestrial trying to find his way home) and have to harbour him from the government. The fun commences when Paul, voiced by Seth Rogen, doesn’t turn out to be quite as the pair expect.

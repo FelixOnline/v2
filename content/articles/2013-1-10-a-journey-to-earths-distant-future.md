@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A book is set in the distant future, when the sun has started to cool
 date: "2013-01-10 22:42:58 +0000"
+
 # Attributes from Felix Online V1
 id: "3093"
 old_path: /books/3093/a-journey-to-earths-distant-future
 aliases:
  - /books/3093/a-journey-to-earths-distant-future
+imported: true
+comments:
+ - Urth of the New Sun was fantastic It is the seueql to the  though and it would be a mistake to read it first It puts the pieces of the previous book together in ways that are really wonderful and surprising Book and Urth are both great and unusual fantasy  scifi tales which make the narrative itself the subject of the genres characteristic worldbuilding wonder As your view of the world changes the significance of the earlier plot changes again and again Etc
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Urth of the New Sun was fantastic It is the seueql to the  though and it would be a mistake to read it first It puts the pieces of the previous book together in ways that are really wonderful and surprising Book and Urth are both great and unusual fantasy  scifi tales which make the narrative itself the subject of the genres characteristic worldbuilding wonder As your view of the world changes the significance of the earlier plot changes again and again Etc
-imported: true
 ---
 
 The Book of the New Sun is universally acclaimed as a speculative fiction classic, with its author, Gene Wolfe, having been recently awarded the title of Grand Master of the genre. However, seeing how it comes in at 1200 pages, I have never really had the time to read it. Finding myself with relatively little to do over the winter break I decided to rectify this mistake – something that I’ve not come to regret doing.

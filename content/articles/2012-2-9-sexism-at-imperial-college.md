@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There's a way to go in the fight against discrimination, writes Stephen Smith
 date: "2012-02-09 23:01:33 +0000"
+
 # Attributes from Felix Online V1
 id: "2167"
 old_path: /comment/2167/sexism-at-imperial-college
 aliases:
  - /comment/2167/sexism-at-imperial-college
+imported: true
+comments:
+ - Im glad someone actually gets itWell this is pretty much spot on Noose Loosener Thats possibly the most tenuous claim of irony I have ever seenTo the writer of this article thank you This piece clearly sets out the problems that seem to plague this uni It shocks me that a week after the Felix front page discussed imperials efforts to support women in science the hangman page would decide that WHOREiscopes was appropriate to printAlso feminist soc yes pleaseNoose Loosener I think I can guess who you are you are better than that completely bullshit It was Irony comment Grow a pair and just accept that you wrote a shit unfunny article We all know they happen occasionally Personally I dont think you should apologise because hangman isnt about apologising but dont couch whatever guilt you possess over writing something so poorly judged and awful with perhaps the stupidest ever defence in historyIt makes you look like a clown and is frankly disappointing Stephen bri
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Im glad someone actually gets itWell this is pretty much spot on Noose Loosener Thats possibly the most tenuous claim of irony I have ever seenTo the writer of this article thank you This piece clearly sets out the problems that seem to plague this uni It shocks me that a week after the Felix front page discussed imperials efforts to support women in science the hangman page would decide that WHOREiscopes was appropriate to printAlso feminist soc yes pleaseNoose Loosener I think I can guess who you are you are better than that completely bullshit It was Irony comment Grow a pair and just accept that you wrote a shit unfunny article We all know they happen occasionally Personally I dont think you should apologise because hangman isnt about apologising but dont couch whatever guilt you possess over writing something so poorly judged and awful with perhaps the stupidest ever defence in historyIt makes you look like a clown and is frankly disappointing Stephen bri
-imported: true
 ---
 
 Not here, surely? Sexism is everywhere: in the media, in politics, in the arts, but at universities? The centres of liberal thought and tolerance? Where everyone is open-minded and friendly and – above all – extremely egalitarian? If there were ever a place where sexism shouldn’t exist, it is here. And yet it persists like an ugly, cunning mouse peskily dodging the hungry cat of equality.

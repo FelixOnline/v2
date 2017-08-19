@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Sunday Times published the open letter condemning 'Brexit'
 date: "2016-02-26 11:23:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5955"
 old_path: /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
 aliases:
  - /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
+imported: true
+comments:
+ - The Union mustnt pander to foreign members in potential campaigns or stances They dont have the vote the Union does not exist to lobby its own members even if that were the behest of other membersRelated she also wrote a letter to The Economist which was published this week before Felix went to press I guess which is also antiBrexithttpwwweconomistcomnewsletters21693550letterseditorits very helpful for me personally searching on this siteurlhttpwwwindyarockscomblog2685601HowdoyoufeelaboutWarlockinBladeSoulBuy BNS GoldurlIm all yoursurlhttpscheapgw2goldforsalewordpresscom20160317whathashappenedtomeinbladesoulBNS Goldurlits a very good weblog and i like it very muchurlhttpindulgycomufifa17coinsufifa17coinsurlhttp20mgprednisoneonlineorg  Prednisone Without Dr Prescription Viagra 100mg httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone With No Prescription Generic Viagra httpciali
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The Union mustnt pander to foreign members in potential campaigns or stances They dont have the vote the Union does not exist to lobby its own members even if that were the behest of other membersRelated she also wrote a letter to The Economist which was published this week before Felix went to press I guess which is also antiBrexithttpwwweconomistcomnewsletters21693550letterseditorits very helpful for me personally searching on this siteurlhttpwwwindyarockscomblog2685601HowdoyoufeelaboutWarlockinBladeSoulBuy BNS GoldurlIm all yoursurlhttpscheapgw2goldforsalewordpresscom20160317whathashappenedtomeinbladesoulBNS Goldurlits a very good weblog and i like it very muchurlhttpindulgycomufifa17coinsufifa17coinsurlhttp20mgprednisoneonlineorg  Prednisone Without Dr Prescription Viagra 100mg httpcialis20mg5mgnethttp20mgprednisoneonlineorg  Prednisone With No Prescription Generic Viagra httpciali
-imported: true
 ---
 
 Over one hundred leaders of UK universities, including the President of Imperial, Alice Gast, have signed an open letter published in the _Sunday Times_, asking the British public to reject a ‘Brexit’ and vote to stay in the European Union.

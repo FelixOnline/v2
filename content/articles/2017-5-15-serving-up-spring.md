@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Isn’t everything so much better when it has a Spring vibe, when it’s all fresh? felix is delving into the freshest taglaitelle you can cook
 date: "2017-05-15 16:26:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6954"
 old_path: /food/6954/serving-up-spring-
 aliases:
  - /food/6954/serving-up-spring-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I was leaving college one evening after a long, dreary day huddled inside the dark warmth of ACEX (on top of some never-ending coursework), when I looked up to the sky, preparing for a deep, long sigh, as per any typical cold winter day. The sigh dissipated into thin air as the navy blue was replaced by a cloudless, cornflower blue. A few wisps of coral-coloured cotton candy clouds drifted past. It was 6pm and it was bright outside.

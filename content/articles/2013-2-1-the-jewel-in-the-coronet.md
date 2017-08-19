@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An amazing and tucked away cinema just down the road
 date: "2013-02-01 01:03:03 +0000"
+
 # Attributes from Felix Online V1
 id: "3238"
 old_path: /film/3238/the-jewel-in-the-coronet
 aliases:
  - /film/3238/the-jewel-in-the-coronet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If my undergrad is anything to go by most people don’t spend a huge amount of time in Notting Hill Gate. You might make it up to Edgeware Road or into Bayswater for a year but for the most part those I know spend most of their time hanging out in Fulham or Shepherd’s Bush. Everything in Notting Hill Gate is overpriced and there’s not really that much there right? Wrong. The Coronet Cinema is a hidden gem that is not to be missed. Independent cinemas are much less numerous than they used to be as the big cinema chains are able to offer more films at more times in more locations. Those that survive are generally forced to find some niche to fit into; foreign movies or arts films, etc; unable to afford the high prices for studio blockbusters on the limited showings and audience sizes they can manage.

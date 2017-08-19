@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pavitar Devgon asks what ever could go wrong...
 date: "2013-02-13 20:04:04 +0000"
+
 # Attributes from Felix Online V1
 id: "3315"
 old_path: /science/3315/electricity-and-bubbles
 aliases:
  - /science/3315/electricity-and-bubbles
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Blowing bubbles from soapy water has been a favourite past time for all of us. Struggling as we try to catch them before the breeze takes them higher and higher provided us with hours of delight. We never gave a thought to the physics behind it, because, well, that would ruin the fun.

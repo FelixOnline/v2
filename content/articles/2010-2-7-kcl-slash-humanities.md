@@ -4,16 +4,23 @@ title: >
 subtitle: >
   King's College London criticised for making cuts
 date: "2010-02-07 03:37:55 +0000"
+
 # Attributes from Felix Online V1
 id: "81"
 old_path: /news/81/kcl-slash-humanities
 aliases:
  - /news/81/kcl-slash-humanities
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 King's College London faces controversy and fierce opposition as they announce plans to make cuts in the School of Arts and Humanities, including the firing of several internationally renowned academics.

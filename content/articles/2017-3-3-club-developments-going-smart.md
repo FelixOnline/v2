@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Yacht Club is back and wants you to know
 date: "2017-03-03 16:16:41 +0000"
+
 # Attributes from Felix Online V1
 id: "6856"
 old_path: /sport/6856/club-developments-going-smart
 aliases:
  - /sport/6856/club-developments-going-smart
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The membership base of the Imperial College Yacht Club had shrunk over the past five years and the new committee of the yacht club are eager to find solutions to improve this situation as well as the club’s operations.

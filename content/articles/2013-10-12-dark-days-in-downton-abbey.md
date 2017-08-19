@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Latest episode demonstrates how not to tackle a rape storyline
 date: "2013-10-12 19:18:36 +0100"
+
 # Attributes from Felix Online V1
 id: "3851"
 old_path: /tv/3851/dark-days-in-downton-abbey
 aliases:
  - /tv/3851/dark-days-in-downton-abbey
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - ef510
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ef510"
 author_name: "Emily Fulham"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 At the beginning of this week’s Downton Abbey, there was a warning for “violent scenes which some viewers may find upsetting”, leading me to wonder what the cause could possibly be. Given the most significant crisis thus far this season has been a matter of inheritance tax, it was difficult to imagine anything too disturbing: an emergency over the spillage of hot tea, perhaps? A tear in Lady Mary’s dress which leaves her unable to meet some viscount or another?

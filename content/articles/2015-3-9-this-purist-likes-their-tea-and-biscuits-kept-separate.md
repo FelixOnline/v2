@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Is it time to stop dunking?
 date: "2015-03-09 19:08:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5377"
 old_path: /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
 aliases:
  - /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
+imported: true
+comments:
+ - fitflops australia clearancefitflops cheapest price httpaustraliafitflopsiemillernetbuy fitflops onlinefitflop outlet httpwwwaustraliafitflopscombirkenstock papilliobirkenstock mayari httpbirkenstockaustraliarochecaporgchristian louboutin flatschristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomlouboutin wedges canadacheap christian louboutin canada httpcanadachristianlouboutinblogspotcomlouboutin wedding shoeschristian louboutin online outlet httpcanadachristianlouboutinblogspotcomchristian louboutin online outletchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomWhat a great looking recipe I think I will have a bowl of infused fruits ready also so each glass gets a good amount of yummies copy cartier clou bracelet price urlhttpwwwcbanglescomenjusteuncloubraceletreplicapinkgoldwithdiamondsb6039015p755copy cartier clou bracelet priceurlThere is a great product available
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops australia clearancefitflops cheapest price httpaustraliafitflopsiemillernetbuy fitflops onlinefitflop outlet httpwwwaustraliafitflopscombirkenstock papilliobirkenstock mayari httpbirkenstockaustraliarochecaporgchristian louboutin flatschristian louboutin online outlet httpcanadachristianlouboutinoutletblogspotcomlouboutin wedges canadacheap christian louboutin canada httpcanadachristianlouboutinblogspotcomlouboutin wedding shoeschristian louboutin online outlet httpcanadachristianlouboutinblogspotcomchristian louboutin online outletchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomWhat a great looking recipe I think I will have a bowl of infused fruits ready also so each glass gets a good amount of yummies copy cartier clou bracelet price urlhttpwwwcbanglescomenjusteuncloubraceletreplicapinkgoldwithdiamondsb6039015p755copy cartier clou bracelet priceurlThere is a great product available
-imported: true
 ---
 
 Gentle reader, I’m certain that I am only the latest in a long line of commentators to compare two of the greatest influences in our British lives: tea and sex. While these might initially appear to have as much in common as, say, fashion sense and Islamic State, there’s a great deal of common ground. Like tea, sex can be enjoyed alone but is best enjoyed in company. Sex can be delightful when black, white or even Chinese (do try them all!). Like tea, things are surprisingly nice when they get fruity (or even herbal...).

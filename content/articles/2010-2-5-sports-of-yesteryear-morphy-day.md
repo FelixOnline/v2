@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Whatever happened to Morphy Day, more to the point, what is Morphy Day? Jovan Nedi&#263; looks back at the forgotten inter-faculty sporting events of Imperial&8217;s illustrious past
 date: "2010-02-05 17:27:39 +0000"
+
 # Attributes from Felix Online V1
 id: "78"
 old_path: /sport/78/sports-of-yesteryear-morphy-day
 aliases:
  - /sport/78/sports-of-yesteryear-morphy-day
+imported: true
+comments:
+ - LETS BRING IT BACK RAGI took part in what was probably one of the last if not the last running of the battle if not the boat race We took vans down to Billingsgate and Smithfields to collect dustbins full of offals and rotten veg manufactured outfits of pink binliners and gaffer tape and set to My strongest memory is of being pursued by three Guilds berserkers each armed with a sheeps trachea and lungs as a very effective if gruesome flail Afterwards we all headed to Harrrods for cream teas  still covered in gruesomeness The expectation was that we would be denied service and it came as an expensive surprise when we were served I believe that local residents complained about the amount of decaying organic matter left behind afterwards Perhaps bring back the boat racing but not the offalbattle
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jn104
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LETS BRING IT BACK RAGI took part in what was probably one of the last if not the last running of the battle if not the boat race We took vans down to Billingsgate and Smithfields to collect dustbins full of offals and rotten veg manufactured outfits of pink binliners and gaffer tape and set to My strongest memory is of being pursued by three Guilds berserkers each armed with a sheeps trachea and lungs as a very effective if gruesome flail Afterwards we all headed to Harrrods for cream teas  still covered in gruesomeness The expectation was that we would be denied service and it came as an expensive surprise when we were served I believe that local residents complained about the amount of decaying organic matter left behind afterwards Perhaps bring back the boat racing but not the offalbattle
-imported: true
 ---
 
 As some of you may know, Imperial was founded when three different college’s joined together back in 1907; the Royal College of Science (RCS), the Royal School of Mines (RSM) and the City and Guilds College (C&G). There was a sense of belonging, a sense of identity to the constituent College’s and rivalry that puts the current IC vs Medics one to shame. This rivalry, much like the Varsity matches of today, was focused around sports, however it was not exclusively left to the sports field, the rivalry also extended to the mascotry, but that’s another story for another time.

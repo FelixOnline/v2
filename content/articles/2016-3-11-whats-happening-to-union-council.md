@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Nobody knows what it is
 date: "2016-03-11 11:26:09 +0000"
+
 # Attributes from Felix Online V1
 id: "6021"
 old_path: /news/6021/whats-happening-to-union-council
 aliases:
  - /news/6021/whats-happening-to-union-council
+imported: true
+comments:
+ - Be goodurlhttpmemberswebscommanageappblogshow43735353cleanslateremovalfromelitesystemspelltracevariantMapleStory MesosurlI was be there for youurlhttpsbladeandsoulgoldstorewordpresscom20160309theonlinecustomersupportofbladesoulBNS GoldurlNot that I know ofurlhttpswwwdiigocomuserr4pgvipr4pgurlAt last somoene who comes to the heart of it allIll fix iturlhttpsmediumcomstarcitizenstorestarcitizenstoreurlBantas Business A Culture of Integration and Success Office Supplies a hrefhttpprintinginchinanetprinting services By Barb Pellow Published May 5 2011 It More Than Keeping Score  HP says further betadevelopmental installations are coming     later this season citing Consolidated Graphics Courier and Francebased CPI     All understand the width and speed on this device as being a transformational and     gamechanging approach for his or her businesses It certainly generally seems to offer
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Be goodurlhttpmemberswebscommanageappblogshow43735353cleanslateremovalfromelitesystemspelltracevariantMapleStory MesosurlI was be there for youurlhttpsbladeandsoulgoldstorewordpresscom20160309theonlinecustomersupportofbladesoulBNS GoldurlNot that I know ofurlhttpswwwdiigocomuserr4pgvipr4pgurlAt last somoene who comes to the heart of it allIll fix iturlhttpsmediumcomstarcitizenstorestarcitizenstoreurlBantas Business A Culture of Integration and Success Office Supplies a hrefhttpprintinginchinanetprinting services By Barb Pellow Published May 5 2011 It More Than Keeping Score  HP says further betadevelopmental installations are coming     later this season citing Consolidated Graphics Courier and Francebased CPI     All understand the width and speed on this device as being a transformational and     gamechanging approach for his or her businesses It certainly generally seems to offer
-imported: true
 ---
 
 At this week’s union council a paper was tabled... on the problems faced by union council.

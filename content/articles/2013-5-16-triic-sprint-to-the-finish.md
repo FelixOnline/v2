@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Temperatures rise at BUCS Sprint Triathlon
 date: "2013-05-16 17:54:48 +0100"
+
 # Attributes from Felix Online V1
 id: "3575"
 old_path: /sport/3575/triic-sprint-to-the-finish
 aliases:
  - /sport/3575/triic-sprint-to-the-finish
+imported: true
+comments:
+ - The invention of the biclyce has had an enormous effect on society both in terms of culture and of advancing modern industrial methods Several components that eventually played a key role in the development of the automobile were invented for the biclyce including ball bearings pneumatic tires chaindriven sprockets and tensionspoked wheels
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The invention of the biclyce has had an enormous effect on society both in terms of culture and of advancing modern industrial methods Several components that eventually played a key role in the development of the automobile were invented for the biclyce including ball bearings pneumatic tires chaindriven sprockets and tensionspoked wheels
-imported: true
 ---
 
 This year saw a record number of TriIC members travel to St Mary’s school in Calne for the 2013 BUCS Sprint Championships. It was a stunning morning, the perfect set up for a full day ahead of racing and sunning ourselves on the grass. Eighteen people worked together in the Tetris challenge of squeeze themselves, their bags and racing bikes into two minibuses but with everything finally on board we set off down the M4 on open roads, treated to faint snoring noises from the back seats.

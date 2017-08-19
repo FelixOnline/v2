@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Lizzie Riach explores new research into how wounds heal, and why older people are at a significant disadvantage if they injure themselves
 date: "2016-11-25 13:36:26 +0000"
+
 # Attributes from Felix Online V1
 id: "6500"
 old_path: /science/6500/wounds-heal-with-a-lot-of-time
 aliases:
  - /science/6500/wounds-heal-with-a-lot-of-time
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Since World War I, scientists have noticed how the speed of healing is much slower in older veterans compared to younger ones.  But for an entire century, we had no idea why this was the case, until now.

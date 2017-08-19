@@ -4,16 +4,25 @@ title: >
 subtitle: >
   Gilead Amit interviews Claire Fox, Director of the Institute of Ideas, ahead of its weekend of debates at the Royal College of Art
 date: "2010-10-14 19:13:21 +0100"
+
 # Attributes from Felix Online V1
 id: "199"
 old_path: /news/199/battle-of-ideas-comes-to-south-kensington
 aliases:
  - /news/199/battle-of-ideas-comes-to-south-kensington
+imported: true
+comments:
+ - Read the inside story on the Battle of Ideas and the secretive LM network herehttpwwwpowerbaseinfoindexphpBattle_of_IdeasI bought this foawemrrk
+ - RichGRID on a leap of faith I could not be more pleased Its one of the few times that Ive seen an honest product I have little coding experience but am able to easily tinker with the foawemrrk to achieve the look that I want As for support no question is too small for Felix to answer I was hesitant to request assistance on such a small issue but sure enough Felix responded in a matter of hours with the answer that I had been looking for In the end I highly recommended this toolset to the average person its really user friendly and well designed After about an hour of browsing through the options I had a basic understanding on how it all worked I couldnt see myself using anything else to build my studio siteI agree with Christopher above Felixs theme is worth every penny Not only is the product wfur
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,16 +39,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Read the inside story on the Battle of Ideas and the secretive LM network herehttpwwwpowerbaseinfoindexphpBattle_of_IdeasI bought this foawemrrk
- - RichGRID on a leap of faith I could not be more pleased Its one of the few times that Ive seen an honest product I have little coding experience but am able to easily tinker with the foawemrrk to achieve the look that I want As for support no question is too small for Felix to answer I was hesitant to request assistance on such a small issue but sure enough Felix responded in a matter of hours with the answer that I had been looking for In the end I highly recommended this toolset to the average person its really user friendly and well designed After about an hour of browsing through the options I had a basic understanding on how it all worked I couldnt see myself using anything else to build my studio siteI agree with Christopher above Felixs theme is worth every penny Not only is the product wfur
-imported: true
 ---
 
 __If I can start by being totally honest, I hadn’t heard of the ‘[Battle of Ideas](http://www.battleofideas.org.uk/)’ before I found out you were coming to the Royal College of Art this year. What would you like people to know before they come along?__

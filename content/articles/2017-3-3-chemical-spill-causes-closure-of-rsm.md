@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Four ambulances and two fire engines were called to the site
 date: "2017-03-03 18:46:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6860"
 old_path: /news/6860/chemical-spill-causes-closure-of-rsm
 aliases:
  - /news/6860/chemical-spill-causes-closure-of-rsm
+imported: true
+comments:
+ - Hydrochloric Acid a clear poisonous liquid which is highly corrosive meaning it immediately causes severe damage such as burning on contactI think most people at Imperial have done GCSE chemistry thanks Did you write this in a rush  There are a fair few typoserrors misuse of the word sight I think you meant site and the use of an outdated term firemen should really be replaced with firefighters  Its a pity as this article was shared quite a bit on social media and would have been excellent publicity for Felix if it was slightly better writtenThanks for the feedback Fixed Sadly when a story needs to be written up on a Friday evening things slip by quality control Thought that may have been the case  I only noticed it because the standard of writing this years been pretty solid I wouldnt have mentioned otherwise  In the short term I along with most others would much rather get news quickly millennialproblems than exquisitely written anyway its just a matter
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hydrochloric Acid a clear poisonous liquid which is highly corrosive meaning it immediately causes severe damage such as burning on contactI think most people at Imperial have done GCSE chemistry thanks Did you write this in a rush  There are a fair few typoserrors misuse of the word sight I think you meant site and the use of an outdated term firemen should really be replaced with firefighters  Its a pity as this article was shared quite a bit on social media and would have been excellent publicity for Felix if it was slightly better writtenThanks for the feedback Fixed Sadly when a story needs to be written up on a Friday evening things slip by quality control Thought that may have been the case  I only noticed it because the standard of writing this years been pretty solid I wouldnt have mentioned otherwise  In the short term I along with most others would much rather get news quickly millennialproblems than exquisitely written anyway its just a matter
-imported: true
 ---
 
 Earlier today the Royal School of Mines (RSM) building had to be closed off while a crew of firefighters investigated a potential chemical spill.

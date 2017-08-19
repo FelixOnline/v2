@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Complainant objects to alleged defamation of character
 date: "2011-11-03 19:26:08 +0000"
+
 # Attributes from Felix Online V1
 id: "1651"
 old_path: /news/1651/ic-radio-in-expos-shutdown
 aliases:
  - /news/1651/ic-radio-in-expos-shutdown
+imported: true
+comments:
+ - BanterhttpwwwoupaksocorgDeaffiliationhtmlSo IC Radio is no longer free  independent from the control of Imperial College Would the two presenters involved care to expose the corruption via Felix instead Cmon Colvinator give em a platformGood for Hamza Its fair enough that the station was closed because of racially offensive language but its outrageous that they close it for this story If its true that is and since the presenters were involved with the specific society previous and dont seem the types to lie about things like this theres no reason to doubt them reallyBut the bigger picture needs to be looked at what if a single listener has a gripe with a show the Unions first port of call is to close the whole station Seems ridiculous and I agree with SuperHack that ICradios freedom and independence is being threatenedSeriously well done more controversy surrounding the same societies and people mentioned Just a quick warning to all the speakers mentioned are not
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - BanterhttpwwwoupaksocorgDeaffiliationhtmlSo IC Radio is no longer free  independent from the control of Imperial College Would the two presenters involved care to expose the corruption via Felix instead Cmon Colvinator give em a platformGood for Hamza Its fair enough that the station was closed because of racially offensive language but its outrageous that they close it for this story If its true that is and since the presenters were involved with the specific society previous and dont seem the types to lie about things like this theres no reason to doubt them reallyBut the bigger picture needs to be looked at what if a single listener has a gripe with a show the Unions first port of call is to close the whole station Seems ridiculous and I agree with SuperHack that ICradios freedom and independence is being threatenedSeriously well done more controversy surrounding the same societies and people mentioned Just a quick warning to all the speakers mentioned are not
-imported: true
 ---
 
 IC Radio was shut down last Friday after the college received a serious complaint following a show in which the presenters discussed the “dirty little secrets” of an unnamed student organisation. The complaint is thought to have been from a former or current committee member of the organisation who stated that their primary objection to the programme was “defamation of character”. The show, which aired on Sunday 23 October, has since been removed from the [IC Radio website](http://www.icradio.com/).

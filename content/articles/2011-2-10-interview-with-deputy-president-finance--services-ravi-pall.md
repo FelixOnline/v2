@@ -4,16 +4,24 @@ title: >
 subtitle: >
   "The key is to stay focused on the bigger picture. If you get bogged down in petty issues, you can miss important milestones"
 date: "2011-02-10 20:04:58 +0000"
+
 # Attributes from Felix Online V1
 id: "763"
 old_path: /news/763/interview-with-deputy-president-finance--services-ravi-pall
 aliases:
  - /news/763/interview-with-deputy-president-finance--services-ravi-pall
+imported: true
+comments:
+ - AKAIK youve got the awnser in oneMAblRe  urlhttptwpoivbpwccgcomtwpoivbpwccgurl linkhttpgwdarebsxihccomgwdarebsxihclink httpzshwctfqaupfcomltpyq9  aparwmkanxyy
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - AKAIK youve got the awnser in oneMAblRe  urlhttptwpoivbpwccgcomtwpoivbpwccgurl linkhttpgwdarebsxihccomgwdarebsxihclink httpzshwctfqaupfcomltpyq9  aparwmkanxyy
-imported: true
 ---
 
 __What has been your biggest challenge?__

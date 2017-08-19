@@ -4,16 +4,24 @@ title: >
 subtitle: >
   So, is it worth it? Should you keep in touch with that girl you’re going to meet this summer?
 date: "2011-02-13 13:10:21 +0000"
+
 # Attributes from Felix Online V1
 id: "804"
 old_path: /comment/804/long-distance-relationships
 aliases:
  - /comment/804/long-distance-relationships
+imported: true
+comments:
+ - Being somebody who dragged one out for about 3 years I can quite definitively say that its a fucking stupid idea and anyone who finds out about it will rightly think youre an idiotBeing somebody who dragged one out for about 3 years I can quite definitively say that its a fucking stupid idea and anyone who finds out about it will rightly think youre an idiotBlack Magic Spells
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Being somebody who dragged one out for about 3 years I can quite definitively say that its a fucking stupid idea and anyone who finds out about it will rightly think youre an idiotBeing somebody who dragged one out for about 3 years I can quite definitively say that its a fucking stupid idea and anyone who finds out about it will rightly think youre an idiotBlack Magic Spells
-imported: true
 ---
 
 I’m banging out my comment piece quite quickly this week, as I haven’t had time to think about it much. I’ve been quite busy. Appropriately enough for the Valentine’s day issue, the thing that’s been taking up all of my time is my girlfriend. She’s visiting me for a week, for the second time in four months. Alas, I’m afraid I’m in one of those dreadful, love-you-but-hate-it long distance relationships.

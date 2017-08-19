@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial’s Fives team succeed at Eton tournament
 date: "2010-12-02 20:35:25 +0000"
+
 # Attributes from Felix Online V1
 id: "474"
 old_path: /sport/474/i-propose-a-game-of-fives
 aliases:
  - /sport/474/i-propose-a-game-of-fives
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - am1108
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "am1108"
 author_name: "Alun Meredith"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Eton seemed like a fitting venue for Imperial’s first official Eton fives tournament as a society.

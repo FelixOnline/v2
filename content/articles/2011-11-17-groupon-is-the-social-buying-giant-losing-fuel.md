@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Entrepreneurs investigates whether there is a future in Groupon
 date: "2011-11-17 20:58:39 +0000"
+
 # Attributes from Felix Online V1
 id: "1766"
 old_path: /biz/1766/groupon-is-the-social-buying-giant-losing-fuel
 aliases:
  - /biz/1766/groupon-is-the-social-buying-giant-losing-fuel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you have found time to follow the news in between episodes of Made in Chelsea and The X Factor, then you will be aware that Groupon, considered the fastest growing company ever, has recently been valued at $12.7bn. The company’s rapid global expansion and large valuation (the highest since Google was launched in 2004) imply it is a hugely successful business. However, investors question whether the company’s business model is sustainable, and suggest that internet giants Google and Facebook could prevent Groupon from dominating the social buying industry. So can Groupon maintain the position it has propelled itself into, or are its days in the spotlight over?

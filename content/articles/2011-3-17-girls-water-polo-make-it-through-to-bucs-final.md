@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial see off Exeter, Warwick and the Welsh to make to the BUCS Final
 date: "2011-03-17 21:54:55 +0000"
+
 # Attributes from Felix Online V1
 id: "1108"
 old_path: /sport/1108/girls-water-polo-make-it-through-to-bucs-final
 aliases:
  - /sport/1108/girls-water-polo-make-it-through-to-bucs-final
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Sunday the Imperial girls’ water polo team deservedly qualified for the BUCS trophy final after playing incredibly well throughout the season. They played a gruelling three consecutive matches and impressed in all of them. Initially the girls were down a couple of goals in their first match, and their second, but their determination and team-work brought them back to win their matches 9-5 against UWIC, 8-3 against Warwick and 13-4 against Exeter. By the end of the day it was clear that IC girls were a formidable force!

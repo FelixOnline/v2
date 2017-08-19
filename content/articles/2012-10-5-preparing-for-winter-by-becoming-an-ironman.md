@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ned spends so much time running and cycling that he probably doesn't have a degree to come back to... all for charity, so, worth it?
 date: "2012-10-05 13:30:38 +0100"
+
 # Attributes from Felix Online V1
 id: "2628"
 old_path: /sport/2628/preparing-for-winter-by-becoming-an-ironman
 aliases:
  - /sport/2628/preparing-for-winter-by-becoming-an-ironman
+imported: true
+comments:
+ - Your first triathlon is going to be tough Their is no way to sugar coat it Go into it with the goal of hanivg fun and finishing it Focus on your strengths Running Run 45 times a week and mix 24 days of biking in there Make sure you do some brick workouts ie bike and then run workout right afterwords Mix in some swim training when you can and make sure your comfortable in open water lake ponds river This is prob more important than actually being good at swimming Also practice your transitions taking off wetsuit getting on bike putting on running shoes you can save alot of time just by being good in between the swim bike and runThe training program you mentioned is decent but it depends on what the distance of the triathlon is Sprint Distance Olympic Distance other I would personally always take one day off a week I also dont substitute strength workout for a cardio workout because the cardio is much more important in triathlon The min amount of time you should spend trai
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Your first triathlon is going to be tough Their is no way to sugar coat it Go into it with the goal of hanivg fun and finishing it Focus on your strengths Running Run 45 times a week and mix 24 days of biking in there Make sure you do some brick workouts ie bike and then run workout right afterwords Mix in some swim training when you can and make sure your comfortable in open water lake ponds river This is prob more important than actually being good at swimming Also practice your transitions taking off wetsuit getting on bike putting on running shoes you can save alot of time just by being good in between the swim bike and runThe training program you mentioned is decent but it depends on what the distance of the triathlon is Sprint Distance Olympic Distance other I would personally always take one day off a week I also dont substitute strength workout for a cardio workout because the cardio is much more important in triathlon The min amount of time you should spend trai
-imported: true
 ---
 
 Just before Christmas I decided to take up a “challenge” to raise money for the Cystic Fibrosis Trust. My little cousin, who suffers from the disease, had been going through a rough patch. I wanted to do something that would attract sponsorship, so I plumped for Ironman Wales. What I did know was that this was a 2.4 mile swim followed by a 112 mile cycle followed by a 26.2 mile run, all to be completed within 17 hours. What I didn’t know was that the course, which takes place in and around Tenby, is widely regarded to be one of the toughest out there. It turns out that Pembrokeshire is a pretty hilly place not particularly well known for its clement weather – who’d have thought, eh? The bike section alone would have 2400 vertical meters.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I can't say what I think as there is always a ‘friend’ I would rather not hear about it
 date: "2011-06-11 17:28:20 +0100"
+
 # Attributes from Felix Online V1
 id: "1358"
 old_path: /comment/1358/flimsy-facebook-friends
 aliases:
  - /comment/1358/flimsy-facebook-friends
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Deleting people is a growing form of therapy. Perhaps happily, this is not the latest jargon for serial-killing, but is a synonym for a re-appraisal of ‘Facebook friends’. Facebook friends – those people you like or love, but also those people who have got married and not told you, even after the event. If those two categories are indistinguishable to you… oh dear.

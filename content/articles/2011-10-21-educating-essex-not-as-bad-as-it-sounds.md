@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fly-on-the-wall documentary shows true colours of the state system
 date: "2011-10-21 10:40:21 +0100"
+
 # Attributes from Felix Online V1
 id: "1592"
 old_path: /tv/1592/educating-essex-not-as-bad-as-it-sounds
 aliases:
  - /tv/1592/educating-essex-not-as-bad-as-it-sounds
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 It being less than four years since I left secondary education, I was very interested in watching ‘Educating Essex’— Channel 4’s documentary set in Passmores School, an ordinary secondary in Essex. I am happy to say that I was hooked as soon as I tuned in.

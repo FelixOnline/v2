@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The new Harry Potter film proves controversial.
 date: "2010-11-25 19:52:56 +0000"
+
 # Attributes from Felix Online V1
 id: "422"
 old_path: /film/422/so-is-it-any-good-after-all
 aliases:
  - /film/422/so-is-it-any-good-after-all
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __God help me it’s bad...__

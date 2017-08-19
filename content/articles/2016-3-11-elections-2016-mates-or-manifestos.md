@@ -4,16 +4,23 @@ title: >
 subtitle: >
   There have been few opportunities for candidates to show what they really stand for
 date: "2016-03-11 11:29:02 +0000"
+
 # Attributes from Felix Online V1
 id: "6022"
 old_path: /comment/6022/elections-2016-mates-or-manifestos
 aliases:
  - /comment/6022/elections-2016-mates-or-manifestos
+imported: true
+comments:
+ - Youre very eloquenturlhttpwwwblogcucommedyakanallartakipAlbion Online SilverurlDo you have a good sense of humor urlhttpwwwbuildingbetterfathersnetsocialindexphpdoforumgeneral2idontlikethenprotectgameguardinbladesoulBlade And Soul Goldurlspotify is the greatest weve ever previously made use of and also weve made use of many concern is its not designed for typically the U H should you have virtually any friends dwelling away from U H have them call and make an accounts and offer the data is often a trouble although worthwhileBuy Gucci httpwwwcharopfcomguccioutletIm all yoursbuy fifa 16 coins httppetsdatingcomblog4796josemourinhofightfcbarcelonarecordI let myself become a fool mt 2k16 coins xbox one for sale httpwwwnba2k16storecomnba2k16Xboxone2211How come you are working herealbion online gold httpwwwcarpaddictscoukforumblogspotionspluspvpinsidealbiononlineTaking the oveeivrw this pos
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre very eloquenturlhttpwwwblogcucommedyakanallartakipAlbion Online SilverurlDo you have a good sense of humor urlhttpwwwbuildingbetterfathersnetsocialindexphpdoforumgeneral2idontlikethenprotectgameguardinbladesoulBlade And Soul Goldurlspotify is the greatest weve ever previously made use of and also weve made use of many concern is its not designed for typically the U H should you have virtually any friends dwelling away from U H have them call and make an accounts and offer the data is often a trouble although worthwhileBuy Gucci httpwwwcharopfcomguccioutletIm all yoursbuy fifa 16 coins httppetsdatingcomblog4796josemourinhofightfcbarcelonarecordI let myself become a fool mt 2k16 coins xbox one for sale httpwwwnba2k16storecomnba2k16Xboxone2211How come you are working herealbion online gold httpwwwcarpaddictscoukforumblogspotionspluspvpinsidealbiononlineTaking the oveeivrw this pos
-imported: true
 ---
 
 Last week, Theresa Davey wrote an interesting article about the nature of union elections and how they are, essentially, a popularity contest.

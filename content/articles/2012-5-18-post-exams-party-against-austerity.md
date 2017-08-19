@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Anti-cuts street parties kick off
 date: "2012-05-18 06:27:28 +0100"
+
 # Attributes from Felix Online V1
 id: "2461"
 old_path: /comment/2461/post-exams-party-against-austerity
 aliases:
  - /comment/2461/post-exams-party-against-austerity
+imported: true
+comments:
+ - Not that Osborne using you very well cuts one thing geyser of debt sprouts up elsewherehttpsptwimgcomAt0hERCEAAY6ijjpgThey look absolutely diabolical dont theyWhat you and UK uncut probably dont understand is they arent obliged to lend you itAnd we are not obliged to give financial institutions the right to expand the credit supply the government could take back monopoly of credit expansion and print itself as opposed to every bank in Europe to liquidityThere are points in between allowing the Government to print what it wants and allowing banks to print what they want Money has many forms the current form may not be the best given the increasing difficulty nations are having Weve upturned entire fiscal and monitory systems before maybe its time to give it a think again especially given the fact that its likely some very new cheep currencies are going to start developing in Europe given the continuing Euro messAlso your fears of inflationary printing are already here
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Not that Osborne using you very well cuts one thing geyser of debt sprouts up elsewherehttpsptwimgcomAt0hERCEAAY6ijjpgThey look absolutely diabolical dont theyWhat you and UK uncut probably dont understand is they arent obliged to lend you itAnd we are not obliged to give financial institutions the right to expand the credit supply the government could take back monopoly of credit expansion and print itself as opposed to every bank in Europe to liquidityThere are points in between allowing the Government to print what it wants and allowing banks to print what they want Money has many forms the current form may not be the best given the increasing difficulty nations are having Weve upturned entire fiscal and monitory systems before maybe its time to give it a think again especially given the fact that its likely some very new cheep currencies are going to start developing in Europe given the continuing Euro messAlso your fears of inflationary printing are already here
-imported: true
 ---
 
 The first twelve months of austerity saw Tory HQ get smashed up and students taking to the streets in their thousands against rising tuition fees. Town halls were occupied as the budgets detailing the severity of the cuts were passed, half a million people marched in London and hundreds of tax dodging stores were occupied by the direct action group UK Uncut. But recently this anger has all died away and turned to disengagement as grown men dressed as penguins get higher votes than the Lib Dems in local elections which less than a third of the population even bothered to show up to (if we’d all rocked out maybe the penguin would have won).

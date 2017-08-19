@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Freshers suffer after Campus Services changes halls’ cleaning contract
 date: "2013-11-15 02:15:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4058"
 old_path: /news/4058/cleaning-in-halls-confusion
 aliases:
  - /news/4058/cleaning-in-halls-confusion
+imported: true
+comments:
+ - Looking at the terms set out in the accommodation contract there is no clause stating College can change the terms of the agreement without prior notice I hope this gets sorted out soon as students are being shortchangedWhat did they expect to happen if they sack 46 cleaners to save money  This despite the college running one of the biggest surpluses in the HE sector   BrilliantHi JoePlease reject this comment I am just testing the system
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Looking at the terms set out in the accommodation contract there is no clause stating College can change the terms of the agreement without prior notice I hope this gets sorted out soon as students are being shortchangedWhat did they expect to happen if they sack 46 cleaners to save money  This despite the college running one of the biggest surpluses in the HE sector   BrilliantHi JoePlease reject this comment I am just testing the system
-imported: true
 ---
 
 Since the start of the year, residents in College halls have been coping with a reduced cleaning service, with bedrooms being cleaned only once every four weeks rather than once a fortnight. This is the result of a cleaning review carried our by College’s Campus Services department, the department that in is charge of Accommodation, Catering, Conferences and Events, Sport and the Student Hub. Over the Summer College re-tendered their cleaning contract, resulting in changes to the provision of cleaning services around College.

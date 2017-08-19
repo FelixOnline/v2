@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Douglas Heaven checks out Refused
 date: "2011-10-21 11:30:03 +0100"
+
 # Attributes from Felix Online V1
 id: "1600"
 old_path: /music/1600/punk-planet
 aliases:
  - /music/1600/punk-planet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There’s nothing more hardcore punk than having a creed to live by. The straight-edge subculture – an abstention from drugs, promiscuous sex, and often hair – was a creed of sorts, inspired by the anti-hedonistic stance of 1980s bands such as Minor Threat, and many bands have adopted the stance of political revolutionaries.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco looks at a promising debut novel
 date: "2013-06-20 15:46:33 +0100"
+
 # Attributes from Felix Online V1
 id: "3701"
 old_path: /books/3701/king-of-the-artistic-jungle
 aliases:
  - /books/3701/king-of-the-artistic-jungle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Jonathan is the _King of the Jungle_. A small jungle, nestled in Central London, with its population of drunks and crack-heads, smack-heads and prostitutes, and the office girls eating their lunches in the Sun. Once a painter and a major figure in the London art scene, Jonathan is now a park-keeper and professional “tramp shit picker-upper”. He spends his days taking care of the trees and flowerbeds, making sure the garden is clean and that its gates open and close on time. Most definitely not the life of an artist. It is clear early on that he despises his previous life, he speaks bitterly of it and of other painters and writers.

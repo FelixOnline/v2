@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Royal visits the Royal British Legion Centre for Blast Injury Studies on the South Kensington Campus
 date: "2013-10-18 20:34:51 +0100"
+
 # Attributes from Felix Online V1
 id: "3883"
 old_path: /news/3883/prince-harry-visits-imperial-
 aliases:
  - /news/3883/prince-harry-visits-imperial-
+imported: true
+comments:
+ -  Why  did Simon get a  Knighthood for calling Camelford a Legend  and gulf war syndrome a RumorThe legend of Camelford Medical consequences of a water pollution accidentCitationJournal of Psychosomatic Research 01 1995 volis 39119 00223999 Jan 1995AuthorsDavid Anthony SWessely Simon CIt is argued that the most likely explanation of these complaints is that the perception of normal and benign somatic symptoms among residents and health professionals was heightened and attributed to an external physical causeThursday September 19 2013CG_NewsFollowTWO ministers have issued an unreserved apology on behalf of the Government to all those affected by the Lowermoor water poisoning incident in North Cornwall in 1988
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- -  Why  did Simon get a  Knighthood for calling Camelford a Legend  and gulf war syndrome a RumorThe legend of Camelford Medical consequences of a water pollution accidentCitationJournal of Psychosomatic Research 01 1995 volis 39119 00223999 Jan 1995AuthorsDavid Anthony SWessely Simon CIt is argued that the most likely explanation of these complaints is that the perception of normal and benign somatic symptoms among residents and health professionals was heightened and attributed to an external physical causeThursday September 19 2013CG_NewsFollowTWO ministers have issued an unreserved apology on behalf of the Government to all those affected by the Lowermoor water poisoning incident in North Cornwall in 1988
-imported: true
 ---
 
 The Royal British Legion Centre for Blast Injury Studies (CBIS) officially opened at Imperial College today (Oct 17). The CBIS held its second networking event in the Royal School of Mines and invited HRH Prince Harry to unveil the centre.

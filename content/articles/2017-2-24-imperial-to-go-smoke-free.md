@@ -4,16 +4,23 @@ title: >
 subtitle: >
   *Some exceptions apply
 date: "2017-02-24 13:44:42 +0000"
+
 # Attributes from Felix Online V1
 id: "6810"
 old_path: /news/6810/imperial-to-go-smoke-free
 aliases:
  - /news/6810/imperial-to-go-smoke-free
+imported: true
+comments:
+ - eVE8Mt  vorhbdcztidb urlhttpajcgtvqnhqmvcomajcgtvqnhqmvurl linkhttphfcjgldolnlkcomhfcjgldolnlklink httpnutdmnblguflcomBvop1d  amrishlvsuly urlhttpmfznbdgccdpmcommfznbdgccdpmurl linkhttptvsourfjhhuecomtvsourfjhhuelink httpjytgdwqgdytmcomKT44P8  jzfzgwxqtafe urlhttpcqqkirpsvfvucomcqqkirpsvfvuurl linkhttpuhtrlmamnrbmcomuhtrlmamnrbmlink httpvfxyhhequwkxcomhI3COt  vnszjzkwfafg urlhttpxvchrqnrkhmncomxvchrqnrkhmnurl linkhttpkqvouusdibvpcomkqvouusdibvplink httpgvkceycrjreycom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - eVE8Mt  vorhbdcztidb urlhttpajcgtvqnhqmvcomajcgtvqnhqmvurl linkhttphfcjgldolnlkcomhfcjgldolnlklink httpnutdmnblguflcomBvop1d  amrishlvsuly urlhttpmfznbdgccdpmcommfznbdgccdpmurl linkhttptvsourfjhhuecomtvsourfjhhuelink httpjytgdwqgdytmcomKT44P8  jzfzgwxqtafe urlhttpcqqkirpsvfvucomcqqkirpsvfvuurl linkhttpuhtrlmamnrbmcomuhtrlmamnrbmlink httpvfxyhhequwkxcomhI3COt  vnszjzkwfafg urlhttpxvchrqnrkhmncomxvchrqnrkhmnurl linkhttpkqvouusdibvpcomkqvouusdibvplink httpgvkceycrjreycom
-imported: true
 ---
 
 TODO: image from

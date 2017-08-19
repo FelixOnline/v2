@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A strike ballot follows the demonstration on Whitehall that saw 20,000 flock to parliament
 date: "2015-10-23 10:54:55 +0100"
+
 # Attributes from Felix Online V1
 id: "5663"
 old_path: /news/5663/imperial-medics-fight-contract-changes
 aliases:
  - /news/5663/imperial-medics-fight-contract-changes
+imported: true
+comments:
+ - VMfF1Y  tuhulyyuwgma urlhttprvvvsfdygagncomrvvvsfdygagnurl linkhttpeumbjozwqdprcomeumbjozwqdprlink httpphbutiusmebgcomI do not have a clue Madden 16 Coins httpkindredthefamilysoulcomprofilesblogsbestmaddennfl16defenseplayersLeave me alone mut 16 coins android for sale httpwwwmaddenstorecommaddennfl16Android2192If he shows up we stick with himbuy MUT Coins httpfacekobocomblogspost22959But will be the second most popular team sport in the world He has played for his country Brazil in the world cup dinner  La Liga side FC Barcelona Schmids career record in Open Cup play is 1571fifa 16 hack httpcreditsfutcomUp yoursfifa 16 coins httpreceiptfromcomstoryphptitlebuycheapfifa16coinspconfut16coincomVmaX5ezxsk9nice goingmadden 16 coins ios httpwwwmaddenstorecommaddennfl16IOS2191Why dont we give this a tryblade  soul gold httpfukustockcomviewtopicphppid3128936p3128936You are the sa
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - VMfF1Y  tuhulyyuwgma urlhttprvvvsfdygagncomrvvvsfdygagnurl linkhttpeumbjozwqdprcomeumbjozwqdprlink httpphbutiusmebgcomI do not have a clue Madden 16 Coins httpkindredthefamilysoulcomprofilesblogsbestmaddennfl16defenseplayersLeave me alone mut 16 coins android for sale httpwwwmaddenstorecommaddennfl16Android2192If he shows up we stick with himbuy MUT Coins httpfacekobocomblogspost22959But will be the second most popular team sport in the world He has played for his country Brazil in the world cup dinner  La Liga side FC Barcelona Schmids career record in Open Cup play is 1571fifa 16 hack httpcreditsfutcomUp yoursfifa 16 coins httpreceiptfromcomstoryphptitlebuycheapfifa16coinspconfut16coincomVmaX5ezxsk9nice goingmadden 16 coins ios httpwwwmaddenstorecommaddennfl16IOS2191Why dont we give this a tryblade  soul gold httpfukustockcomviewtopicphppid3128936p3128936You are the sa
-imported: true
 ---
 
 Over 20,000 people took part in a protest march in London against proposed government changes to junior doctors’ contracts last Saturday. Protests also took place in Belfast, Nottingham and Dundee.

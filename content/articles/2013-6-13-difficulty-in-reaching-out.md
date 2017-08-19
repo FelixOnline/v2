@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An editorial on Outreach and opticians
 date: "2013-06-13 23:04:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3687"
 old_path: /comment/3687/difficulty-in-reaching-out
 aliases:
  - /comment/3687/difficulty-in-reaching-out
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There I was thinking that I would have a nice, relaxing end of term. I thought that it was the summer term and so it would be chill, and, besides, I’ve done this weekly slog so many times that I should be used to it by now. I was very mistaken. This is a bigger mistake than that time Justin Bieber’s mum said to Justin Bieber’s dad “I’m feeling sexy tonight, baby”. That might not have happened, but you get the drift. I write this, as you can definitely tell from the writing style, from under my desk at the very last minute. Like with so many things, you think the last time will be the last time, but it usually isn’t. So, here goes nothing. Remember these are not as well formed as they could be, and the perennial disclaimer about some considerations deleted due to space requirements.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   FELIX recieves a response to last week’s article from a morally minded vegetarian
 date: "2016-05-06 10:20:37 +0100"
+
 # Attributes from Felix Online V1
 id: "6137"
 old_path: /food/6137/seeding-the-veggie-power
 aliases:
  - /food/6137/seeding-the-veggie-power
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The foodies, meat lovers or simply punctilious readers amongst you may remember last week’s article raising arguments for meat consumption, or rather, for not feeling guilty about it as long as you accepted the responsibilities. And I thought there would be nothing better than hunting my friend’s arguments by growing from them.

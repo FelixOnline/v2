@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alice Yang enters the magical world of fashion photography
 date: "2012-10-26 02:18:47 +0100"
+
 # Attributes from Felix Online V1
 id: "2739"
 old_path: /fashion/2739/tim-walker-story-teller
 aliases:
  - /fashion/2739/tim-walker-story-teller
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - AY310
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "AY310"
 author_name: "Alice Yang"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There has long existed a debate in regards to the reasons behind fashion photography. Do photographers pick up their Hasselblads solely under the direction of Devil Wears Prada-esque editors, and do models pose nonchalantly just to put the seemingly un-wearable catwalk designs to use? Or perhaps it is just to do with amusement, allowing some to turn a hobby into a career.

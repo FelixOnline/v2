@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An affordable feast
 date: "2012-11-29 22:54:19 +0000"
+
 # Attributes from Felix Online V1
 id: "2992"
 old_path: /food/2992/yiango-mavrocostanti-wants-to-come-and-dine-with-you
 aliases:
  - /food/2992/yiango-mavrocostanti-wants-to-come-and-dine-with-you
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for once!) with your friends. You are dreaming of a huge three course meal, a delicious starter, a great main dish and a luxurious dessert accompanied with good wine of course but then you suddenly realise that you can’t afford it!

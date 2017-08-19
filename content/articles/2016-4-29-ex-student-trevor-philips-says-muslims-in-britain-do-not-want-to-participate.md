@@ -4,16 +4,23 @@ title: >
 subtitle: >
   He was ICU President, was awarded honorary fellowship by college, and now he’s made a controversial program claiming to show “what Muslims really think”
 date: "2016-04-29 10:03:48 +0100"
+
 # Attributes from Felix Online V1
 id: "6088"
 old_path: /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
 aliases:
  - /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
+imported: true
+comments:
+ - nba shop cyber mnday coupon code mlb shkp cyber mmonday deals coupons nhll shopmlb shopcm coupon code nba shop promo mlb shop promotional codeshttpukpollingreportcoukblogarchives9666very religious groups including Orthodox Jews or Catholics would likely have similar opinions on homosexuality and separatismWell done on thatYeah Catholicism is just a more religious group of Christians definitely not just a group with different beliefs Protestantism is just one step away from atheism reallyNot even going to start on the opinions on homosexualityYour proIslamic bias is showing again
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - nba shop cyber mnday coupon code mlb shkp cyber mmonday deals coupons nhll shopmlb shopcm coupon code nba shop promo mlb shop promotional codeshttpukpollingreportcoukblogarchives9666very religious groups including Orthodox Jews or Catholics would likely have similar opinions on homosexuality and separatismWell done on thatYeah Catholicism is just a more religious group of Christians definitely not just a group with different beliefs Protestantism is just one step away from atheism reallyNot even going to start on the opinions on homosexualityYour proIslamic bias is showing again
-imported: true
 ---
 
 Ex-ICU President and broadcaster, Trevor Philips, appeared in a Channel 4 documentary called “What do Muslims really think?” The controversial show, which aired in the Easter break, reflected on a poll which had quizzed Muslims on their thoughts on issues like homosexuality, sharia law and human rights.

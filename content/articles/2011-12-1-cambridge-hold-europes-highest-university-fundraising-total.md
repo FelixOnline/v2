@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two billion dollars raised over a ten year period
 date: "2011-12-01 22:29:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1902"
 old_path: /news/1902/cambridge-hold-europes-highest-university-fundraising-total
 aliases:
  - /news/1902/cambridge-hold-europes-highest-university-fundraising-total
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cambridge reached a milestone of US$2.0bn during its [800th Anniversary Campaign](http://www.cam.ac.uk/univ/800/index.html?800redirect=) making it the university with the highest fundraising total in Europe. A mammoth US$905m (£523m) was raised by the university’s colleges and US$1.1bn (£649 million) was raised by the university itself. This 10 year campaign to raise money had its most successful year between 2010-2011 when they raised US$215 million (£135m).

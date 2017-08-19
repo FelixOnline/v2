@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Expensive-ass flat yo.
 date: "2014-11-06 19:00:31 +0000"
+
 # Attributes from Felix Online V1
 id: "4772"
 old_path: /news/4772/1000000-ex-council-flat-sold-in-chelsea
 aliases:
  - /news/4772/1000000-ex-council-flat-sold-in-chelsea
+imported: true
+comments:
+ - Thanks regarding giving such amazing knowledgefifa 17 coins httpelizabeth2youbeweblogcheapnhl17coinsofpopularitygoaltenactiethreadthreadid386952Thanks pertaining to furnishing this sort of superb infofifa 17 httptruckstopcanadacaTSCA_ClassifiedsTransportation_and_Logistic_JobsOffice_Jobs426_nba_2k17_coins_Is_Now_A_Videogame
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks regarding giving such amazing knowledgefifa 17 coins httpelizabeth2youbeweblogcheapnhl17coinsofpopularitygoaltenactiethreadthreadid386952Thanks pertaining to furnishing this sort of superb infofifa 17 httptruckstopcanadacaTSCA_ClassifiedsTransportation_and_Logistic_JobsOffice_Jobs426_nba_2k17_coins_Is_Now_A_Videogame
-imported: true
 ---
 
 A flat on Kings Road, Chelsea, has become the first ex-council flat to sell for near £1 million. The flat, which has three bedrooms as well as a communal courtyard, was bought by its former owners under the “Right to Buy” scheme in 1989 for the grand total of £48,000 (equivalent to around £110,000 in today’s prices), but has recently sold for £999,950.

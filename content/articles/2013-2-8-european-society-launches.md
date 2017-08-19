@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A new society launches
 date: "2013-02-08 00:36:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3276"
 old_path: /news/3276/european-society-launches
 aliases:
  - /news/3276/european-society-launches
+imported: true
+comments:
+ - Theres nothing cool about supporting an organisation who subvert democracy at every turnFor crying out loud couldnt you guys let you enthusiasm for the EU die after your Geo 2 oralIts become like a religionthis soceity should have just been called European School alumni  I would have been more inclined to join pChris Kaye  subvert democracy might be a bit harsh but I agree that I dont really see the point in this society I suspect  it is somewhat of an old boys club of exEuropean school students  Why dont you guys channel your school hang up into more proactive ventures like Facebook stalking and flirting with you old History teacher Piccinin has become so hot since hes opted for an Indiana Jones lifestyle
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Theres nothing cool about supporting an organisation who subvert democracy at every turnFor crying out loud couldnt you guys let you enthusiasm for the EU die after your Geo 2 oralIts become like a religionthis soceity should have just been called European School alumni  I would have been more inclined to join pChris Kaye  subvert democracy might be a bit harsh but I agree that I dont really see the point in this society I suspect  it is somewhat of an old boys club of exEuropean school students  Why dont you guys channel your school hang up into more proactive ventures like Facebook stalking and flirting with you old History teacher Piccinin has become so hot since hes opted for an Indiana Jones lifestyle
-imported: true
 ---
 
 People always discuss the European Union as though it were some mysterious and distant institution that has either too much, or too little power depending on the point of view. The current financial crisis has stepped up the discussions about the EU and here in the UK, the EU has become a hot topic in the last few months. However it seems that it is more and more difficult to follow all the changes currently affecting European policies.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah breaks down the process of booking so you know what to expect
 date: "2015-02-03 14:18:12 +0000"
+
 # Attributes from Felix Online V1
 id: "5182"
 old_path: /travel/5182/is-buying-travel-deals-on-groupon-safe
 aliases:
  - /travel/5182/is-buying-travel-deals-on-groupon-safe
+imported: true
+comments:
+ - Groupon has given me 2 bad experiences  Since the last one I simply refuse any hotel deals since I can find cheaper ones or similar ones from searching in discounttravelbookingcom anyway without registering   give that site a review if you feel up to itLast time I used grupon for a reservation the hotel never had it and gave us a super bad roomI will certainly check out the website And I am so sorry to hear about your experience  Since writing this article I have come into contact with airbnb which I like significantly betterykVLSf  oiplzczsuygy urlhttprczeizsvmlpfcomrczeizsvmlpfurl linkhttpfwqmagidjjzscomfwqmagidjjzslink httpzhwyaoavvkdxcomC6elzd httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Groupon has given me 2 bad experiences  Since the last one I simply refuse any hotel deals since I can find cheaper ones or similar ones from searching in discounttravelbookingcom anyway without registering   give that site a review if you feel up to itLast time I used grupon for a reservation the hotel never had it and gave us a super bad roomI will certainly check out the website And I am so sorry to hear about your experience  Since writing this article I have come into contact with airbnb which I like significantly betterykVLSf  oiplzczsuygy urlhttprczeizsvmlpfcomrczeizsvmlpfurl linkhttpfwqmagidjjzscomfwqmagidjjzslink httpzhwyaoavvkdxcomC6elzd httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 With Groupon becoming more and more universally well known, one can purchase virtually anything, from clothes to household appliances to restaurant deals, at a discounted price. However, a lot of people hesitate in the face of travel deals.

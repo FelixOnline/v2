@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Maciej Matuszewski likes the latest from Charlie Brooker
 date: "2011-12-08 21:14:29 +0000"
+
 # Attributes from Felix Online V1
 id: "1933"
 old_path: /tv/1933/this-is-an-official-announcement
 aliases:
  - /tv/1933/this-is-an-official-announcement
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 I am a great admirer of Charlie Brooker. He is a master of satire and biting social commentary and so I had very high expectations of his latest work – the three part anthology miniseries _Black Mirror_, the first episode of which was broadcast this Sunday. I am happy to say that these expectations were more than fulfilled.

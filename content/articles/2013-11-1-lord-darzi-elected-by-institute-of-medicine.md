@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial professor becomes member of the Institute of Medicine
 date: "2013-11-01 09:11:40 +0000"
+
 # Attributes from Felix Online V1
 id: "3966"
 old_path: /news/3966/lord-darzi-elected-by-institute-of-medicine
 aliases:
  - /news/3966/lord-darzi-elected-by-institute-of-medicine
+imported: true
+comments:
+ - Is this imperial reporter
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Is this imperial reporter
-imported: true
 ---
 
 Professor Lord Ara Darzi has been elected by the Institute of Medicine (IOM), which is the health sector of the US National Academy of Sciences.

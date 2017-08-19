@@ -4,16 +4,23 @@ title: >
 subtitle: >
   If you're a final year student, it's time to express your opinions about your course!
 date: "2011-01-27 19:55:48 +0000"
+
 # Attributes from Felix Online V1
 id: "681"
 old_path: /comment/681/take-the-national-student-survey-it-will-help-improve-your-course-
 aliases:
  - /comment/681/take-the-national-student-survey-it-will-help-improve-your-course-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Ever felt that your Department doesnít listen to your views? Want to thank them for all the hard work they have done or quite the opposite? The National Student Survey (NSS) is a platform for you to voice your positive and negative opinions!

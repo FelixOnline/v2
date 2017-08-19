@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Old Vic Tunnels makes for a modern day take of the mythical labyrinth – complete with bistro
 date: "2011-11-03 22:04:25 +0000"
+
 # Attributes from Felix Online V1
 id: "1698"
 old_path: /arts/1698/minotaur-de-force
 aliases:
  - /arts/1698/minotaur-de-force
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Greek mythology is normally pretty messed up, but the tale of the Minotaur takes it to a new level. Born after King Minos’ wife got knocked up by a Bull sent from the Gods, the half human half beast was locked in a labyrinth and fed on human sacrifice. This reign of terror ended when Theseus killed the beast with the help of Ariane, who he then left marooned on an island whilst buggering off with her sister, and consequently caused his father to accidentally commit suicide.

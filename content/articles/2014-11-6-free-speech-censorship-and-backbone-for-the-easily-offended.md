@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Why bother writing an article about free speech today in Britain?
 date: "2014-11-06 18:58:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4771"
 old_path: /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended
 aliases:
  - /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Why bother writing an article about free speech today in Britain? We no longer ban books – surely freedom of speech is a concern of the past.

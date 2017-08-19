@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Things were looking good for Starling City and its masked vigilante hero at the end of its highly successful first-season run.
 date: "2013-11-05 09:44:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4001"
 old_path: /tv/4001/arrow-season-2
 aliases:
  - /tv/4001/arrow-season-2
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Things were looking good for Starling City and its masked vigilante hero at the end of its highly successful first-season run. Tommy Merlyn (Colin Donnell) was crushed under a building (hurrah) leaving this less than useless individual to say his final parting words to his best friend Oliver Queen (Stephen Amell) aka the Green Arrow. Tommy’s evil father Malcolm (John Barrowman) was also killed off (this deserves another hurrah) although not before setting off an earthquake machine that destroyed a significant portion of the city leaving 500+ people dead. The only person they forgot to kill off was Thea Queen (Willa Holland), Oliver’s immature little sister with very few redeeming features. But oh well, there’s always room in season 2 for more deaths in Starling City...right?

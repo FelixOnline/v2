@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Greg Hands denies claims by left-wing political blog
 date: "2011-05-26 18:53:44 +0100"
+
 # Attributes from Felix Online V1
 id: "1252"
 old_path: /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
 aliases:
  - /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
+imported: true
+comments:
+ - Imperial College Conservative Association and Greg Hands himself seem to accept that he sponsored the tour These tickets were then sold for the profit of the Association This is against the rules Whether Hands gave the tour personally or not is irrelevantThats way more clever than I was exetpcnig Thanks
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Imperial College Conservative Association and Greg Hands himself seem to accept that he sponsored the tour These tickets were then sold for the profit of the Association This is against the rules Whether Hands gave the tour personally or not is irrelevantThats way more clever than I was exetpcnig Thanks
-imported: true
 ---
 
 Greg Hands, MP for Chelsea and Fulham and parliamentary private secretary to George Osborne, is alleged to have been involved in the prohibited sale of tickets for a tour of the Houses of Parliament by the Conservative Society at Imperial.

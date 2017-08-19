@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Government’s Spending Review looms ever closer, and UK science research is in peril
 date: "2010-10-07 22:31:58 +0100"
+
 # Attributes from Felix Online V1
 id: "178"
 old_path: /news/178/scientists-rally-to-fight-funding-cuts
 aliases:
  - /news/178/scientists-rally-to-fight-funding-cuts
+imported: true
+comments:
+ - Join the Union FB group and march with your fellow scientists engineers and medics httpwwwfacebookcomprofilephpid625110439eventphpeid107207499342836httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl04img_n1                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n2                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n3                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n4
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Join the Union FB group and march with your fellow scientists engineers and medics httpwwwfacebookcomprofilephpid625110439eventphpeid107207499342836httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl04img_n1                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n2                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n3                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n4
-imported: true
 ---
 
 On Saturday the 9th of October, over 2,000 scientists and science supporters will rally at Westminster to protect the future of British science. Their aim is to make the government reconsider any spending cuts to be made in the fields of research and development, cuts that scientists fear could cause the country long-term damage.

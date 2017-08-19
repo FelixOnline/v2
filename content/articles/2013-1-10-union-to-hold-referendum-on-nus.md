@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In or out? You decide.
 date: "2013-01-10 22:23:10 +0000"
+
 # Attributes from Felix Online V1
 id: "3086"
 old_path: /news/3086/union-to-hold-referendum-on-nus
 aliases:
  - /news/3086/union-to-hold-referendum-on-nus
+imported: true
+comments:
+ - What would membership give us According to their website we would get NUS extra cards  which we dont need access to NUS services which seems to mean joining a massive mailing list and finally training What in its not clearLets save the money and spend it on more tablesbenches in the union barI think the point is to reaffirm that Imperial remains opposed to joining the NUS Most of the people who voted to disaffiliate will have left by now so the democratic thing to do is to hold this referendum I for one think that joining the NUS would be a disasterplease no Not again We dont want to piss away tens of thousands of pounds on membership to further inflate the egos of NUS high commandtotal waste Money better spent on improving the tap beer at 568uiSouthampton held one just before Christmas Despite 23rds of the Sabbatical team being active yes campaigners the No team won by a huge margin 73 of 5000 voters Hopefully imperial will say the same thingMore imp
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What would membership give us According to their website we would get NUS extra cards  which we dont need access to NUS services which seems to mean joining a massive mailing list and finally training What in its not clearLets save the money and spend it on more tablesbenches in the union barI think the point is to reaffirm that Imperial remains opposed to joining the NUS Most of the people who voted to disaffiliate will have left by now so the democratic thing to do is to hold this referendum I for one think that joining the NUS would be a disasterplease no Not again We dont want to piss away tens of thousands of pounds on membership to further inflate the egos of NUS high commandtotal waste Money better spent on improving the tap beer at 568uiSouthampton held one just before Christmas Despite 23rds of the Sabbatical team being active yes campaigners the No team won by a huge margin 73 of 5000 voters Hopefully imperial will say the same thingMore imp
-imported: true
 ---
 
 Imperial College Union will hold an NUS referendum during this year’s sabbatical elections, which will take place from 8-15 March 2013.

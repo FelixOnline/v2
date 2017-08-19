@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Gray on sonic brutality
 date: "2013-01-18 00:53:31 +0000"
+
 # Attributes from Felix Online V1
 id: "3145"
 old_path: /music/3145/d-beat-review-krmosom--live-forever
 aliases:
  - /music/3145/d-beat-review-krmosom--live-forever
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rbg10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Within my university life I have had frequent exposure to cybergrind and noisecore, whilst maintaining particular passions for the more punk-routed powerviolence and the extreme grind stylings of __The Gerogerigegege__. That said, the first thing that struck me upon listening to __Krömosom__ was the sheer sonic brutality. The second track on _Live Forever_, ‘Bred to Lose’, hits you from the off with pounding drums so dense and fast that, at times, you can barely distinguish them from the mix. This sheer aural madness is produced not by using hundreds of pedals and a hefty amount of electronics, but rather by physical annihilation of their simple instrumental set-up.

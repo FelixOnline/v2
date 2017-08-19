@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kadhim Shubber and Jamie Fraser interview Yeasayer
 date: "2010-01-14 14:26:34 +0000"
+
 # Attributes from Felix Online V1
 id: "26"
 old_path: /music/26/yeasayer-interview
 aliases:
  - /music/26/yeasayer-interview
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Felix: Why did you decide to release Ambling Alp for free?

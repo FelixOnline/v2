@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Alexander Karapetian discusses issues regarding the NSS's reliability
 date: "2012-02-16 21:59:13 +0000"
+
 # Attributes from Felix Online V1
 id: "2203"
 old_path: /comment/2203/on-rigging-the-nss
 aliases:
  - /comment/2203/on-rigging-the-nss
+imported: true
+comments:
+ - Were working on getting a response from Ipsos MORI theyve been unable to comment so far I have spoken to some people who tested the survey before it was opened and we maintain that they have weak identity verification because of the available inputs the NSS appears to take I filled in my own NSS response using my CID my name and date of birth from the website itself If I had entered another valid CID with the associated name and details I would be able to submit my reponse as another student and they would not be able to tellThe concept of mass impersonation is simply an upscaling and automation which reads an internal valid database Our accusations of weak authentication are justified in that anyone can go and impersonate others right now with their responses being accepted and with Ipsos having no way to tell whether it is actually the student or a third party who respondedIf this is serious journalism you need to interview someone at Ipsos to understand how the survey works and how they ve
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
- - Were working on getting a response from Ipsos MORI theyve been unable to comment so far I have spoken to some people who tested the survey before it was opened and we maintain that they have weak identity verification because of the available inputs the NSS appears to take I filled in my own NSS response using my CID my name and date of birth from the website itself If I had entered another valid CID with the associated name and details I would be able to submit my reponse as another student and they would not be able to tellThe concept of mass impersonation is simply an upscaling and automation which reads an internal valid database Our accusations of weak authentication are justified in that anyone can go and impersonate others right now with their responses being accepted and with Ipsos having no way to tell whether it is actually the student or a third party who respondedIf this is serious journalism you need to interview someone at Ipsos to understand how the survey works and how they ve
-imported: true
 ---
 
 [Our front page story this week](http://felixonline.co.uk/news/2212/flaws-exposed-in-national-student-survey/) uncovered a method students from the Department of Computing found to be able to mass impersonate final year students in the National Student Survey (NSS), effectively skewing the results in favour of Imperial. Of course, the aforementioned technique of programmatically scraping an internal database for the names and CID numbers of final year students may be easy, but is rigging the NSS really that simple?

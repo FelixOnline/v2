@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Riding and Polo heads to the Arena Polo Nationals
 date: "2011-03-25 15:14:17 +0000"
+
 # Attributes from Felix Online V1
 id: "1129"
 old_path: /sport/1129/sticks-balls-and-deepest-darkest-bristol
 aliases:
  - /sport/1129/sticks-balls-and-deepest-darkest-bristol
+imported: true
+comments:
+ - Kewl you should come up with that ExecllentsRYepT  urlhttpcfafwczqihttcomcfafwczqihtturl linkhttpxcgejffodysxcomxcgejffodysxlink httpwmmduksklxcocomUegGwk  ggrfcodcksqr
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Kewl you should come up with that ExecllentsRYepT  urlhttpcfafwczqihttcomcfafwczqihtturl linkhttpxcgejffodysxcomxcgejffodysxlink httpwmmduksklxcocomUegGwk  ggrfcodcksqr
-imported: true
 ---
 
 The problem with starting a tournament on a Thursday during reading week is that we don’t get a reading week. As such it was a somewhat slapdash crew that converged on Clevedon for the University Polo Nationals. Despite what might charitably be described as an exuberant driving style from one of our players we all made it to the rural side of Bristol more or less intact, though one of our two train goers got a bit of a dent to his wallet when he realised that booking his tickets in advance would have been four times cheaper.

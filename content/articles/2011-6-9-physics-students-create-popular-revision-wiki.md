@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Website is “outstanding” says Deputy President (Education) Alex Dahinten
 date: "2011-06-09 20:57:06 +0100"
+
 # Attributes from Felix Online V1
 id: "1345"
 old_path: /news/1345/physics-students-create-popular-revision-wiki
 aliases:
  - /news/1345/physics-students-create-popular-revision-wiki
+imported: true
+comments:
+ - Its a shame someone keeps vandalising itEarlier it was believed that the science students do not plagiarize because there is no scope to use copypaste techniques for writing the formulas and theories Now the times has changed and people have started using new ideas to check the plagiarized coursework with the help of plagiarism checker free software because even the science students have become trickyIn habitual along total scientists astrophysicists expend their vivids asking inquires next arduous to determine the defenses On the NASA spot downstairs you can scan per the descriptions of a calculate college paper in essaythinkercom of the astrophysicists active there moreover every has hellos have ambit of process
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its a shame someone keeps vandalising itEarlier it was believed that the science students do not plagiarize because there is no scope to use copypaste techniques for writing the formulas and theories Now the times has changed and people have started using new ideas to check the plagiarized coursework with the help of plagiarism checker free software because even the science students have become trickyIn habitual along total scientists astrophysicists expend their vivids asking inquires next arduous to determine the defenses On the NASA spot downstairs you can scan per the descriptions of a calculate college paper in essaythinkercom of the astrophysicists active there moreover every has hellos have ambit of process
-imported: true
 ---
 
 Physics students Deep Shah, Kin-Hing Lo, and Victor See have developed the ‘[Imperial Physics Wiki](http://rcsu.org.uk/physoc/wiki)’, a website which allows students to share lecture notes and past-paper solutions. The collaborative website is built upon the same technology behind Wikipedia. It’s fully integrated into the Imperial system, such as logins and email alerts, and by using open-source software, the whole thing hasn’t cost the department a penny.

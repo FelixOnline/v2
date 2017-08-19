@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Hugh Crail and Greg Power rant about the BBC's Sound of 2010
 date: "2010-01-14 14:41:18 +0000"
+
 # Attributes from Felix Online V1
 id: "28"
 old_path: /music/28/the-bbcs-sound-of-2010
 aliases:
  - /music/28/the-bbcs-sound-of-2010
+imported: true
+comments:
+ - All Im saying is that Gold Panda is an awesome name
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - All Im saying is that Gold Panda is an awesome name
-imported: true
 ---
 
 Joy Orbison

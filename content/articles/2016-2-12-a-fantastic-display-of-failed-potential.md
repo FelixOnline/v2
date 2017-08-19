@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Young Vic presents an inspiring but shallow take on a Hindu classic
 date: "2016-02-12 11:35:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5906"
 old_path: /arts/5906/a-fantastic-display-of-failed-potential
 aliases:
  - /arts/5906/a-fantastic-display-of-failed-potential
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I really wanted to like _Battlefield._ Usually, a statement like this foreshadows ruthless panning and heartless criticism, especially when it makes an appearance at the beginning of a review. But I shall try and be objective.

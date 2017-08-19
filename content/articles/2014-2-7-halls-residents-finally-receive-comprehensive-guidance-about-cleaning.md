@@ -4,16 +4,23 @@ title: >
 subtitle: >
   After months of delay Campus services have finally given halls residents a comprehensive guide to the cleaning provisions provided in halls.
 date: "2014-02-07 04:59:48 +0000"
+
 # Attributes from Felix Online V1
 id: "4354"
 old_path: /news/4354/halls-residents-finally-receive-comprehensive-guidance-about-cleaning
 aliases:
  - /news/4354/halls-residents-finally-receive-comprehensive-guidance-about-cleaning
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 After months of delay Campus services have finally given halls residents a comprehensive guide to the cleaning provisions provided in halls. The division has recently sent students a booklet containing information about the services the cleaners will provide in different areas of the building, along with a list of equippment available for students to use. The guide itself also provides tips on how to keep bedrooms clean.

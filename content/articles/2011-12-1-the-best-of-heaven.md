@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stuart Masson is impressed by EMA and Zola Jesus
 date: "2011-12-01 21:01:37 +0000"
+
 # Attributes from Felix Online V1
 id: "1878"
 old_path: /music/1878/the-best-of-heaven
 aliases:
  - /music/1878/the-best-of-heaven
+imported: true
+comments:
+ - chantelle  I love these photos the way they are alayws smiling the green and purple colors the tone on tone harlequin print that chaise and of course the way you turn everything into a magical moment and the way he looks at her Great job Lisa they are gorgeous to look atThat addserses several of my concerns actually  more common   auto insurance quotes   online pharmacy accutane   Tadalafil   etc therefore   other miscellaneous   discovered about   intercargo insurance company
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - chantelle  I love these photos the way they are alayws smiling the green and purple colors the tone on tone harlequin print that chaise and of course the way you turn everything into a magical moment and the way he looks at her Great job Lisa they are gorgeous to look atThat addserses several of my concerns actually  more common   auto insurance quotes   online pharmacy accutane   Tadalafil   etc therefore   other miscellaneous   discovered about   intercargo insurance company
-imported: true
 ---
 
 __EMA __stands for Erika M. Anderson, but she performs with a full band. Her debut album _Past Life Martyred Saints_ has been gathering positive reviews from across the music press spectrum, and for good reason. The live performance is something else, though. The whole gig switches between haunting vulnerability and rip-your-face-off intensity. Her lyrics are rarely positive and she doesn’t betray that with her stage demeanour.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution
 date: "2012-03-01 22:45:01 +0000"
+
 # Attributes from Felix Online V1
 id: "2290"
 old_path: /arts/2290/great-expectations
 aliases:
  - /arts/2290/great-expectations
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 The Dickens exhibition at the Museum of London contrives a fair representation of the city in the 19th century, allowing us to walk the very streets that Dickens himself traversed, and through which he invented a score of enduring characters that relate to readers even today. London of the mid-1800s is more than just the backdrop of Dickens’ stories. It is a central character itself in his works, rhythmically vacillating between protagonist and antagonist. As the exhibition guides us through the chronology of the author’s work, we cannot help but bear witness to the dramatic transformations of London life. From _Sketches by Boz_ to _Our Mutual Friend_, the city matures just as much as its revered biographer. Among the characters and alongside the plotlines, we find ourselves in the midst of the Industrial Revolution.

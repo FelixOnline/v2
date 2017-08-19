@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Giacomo Bosaini-Gilroy examines Corbyn’s latest boring opinion
 date: "2017-01-13 14:00:09 +0000"
+
 # Attributes from Felix Online V1
 id: "6633"
 old_path: /comment/6633/corbyn-finally-said-something-and-im-not-impressed
 aliases:
  - /comment/6633/corbyn-finally-said-something-and-im-not-impressed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 News flash; Jeremy Corbyn emerged from his ferret hole in North London and made a speech! He must have read my article about how he needed to get his act together and talk positively about immigration. As if I were felix’s de facto Labour immigration policy correspondent, I have returned to give a judgement on JC’s words.

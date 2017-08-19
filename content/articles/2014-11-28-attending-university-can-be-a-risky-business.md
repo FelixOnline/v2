@@ -4,16 +4,24 @@ title: >
 subtitle: >
   George Butcher discusses how to determine the value of education
 date: "2014-11-28 00:46:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4965"
 old_path: /comment/4965/attending-university-can-be-a-risky-business
 aliases:
  - /comment/4965/attending-university-can-be-a-risky-business
+imported: true
+comments:
+ -   ROLEXIWC IWChermes  httpwwwbestevancecomvuittonindexhtm httpwwwwtobrandcompr1htmlfitflop shopsfitflop sandals sale httpaustraliafitflopsblogspotcomchristian louboutin new yorkcheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomchristian louboutin size chartchristian louboutin sale outlet httpcanadachristianlouboutinoutletblo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -   ROLEXIWC IWChermes  httpwwwbestevancecomvuittonindexhtm httpwwwwtobrandcompr1htmlfitflop shopsfitflop sandals sale httpaustraliafitflopsblogspotcomchristian louboutin new yorkcheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomchristian louboutin size chartchristian louboutin sale outlet httpcanadachristianlouboutinoutletblo
-imported: true
 ---
 
 I was sat in a job interview, nervously trying to justify my existence to a stranger and I was asked “Why did you chose to study at Imperial?”. I think I managed to persuade him it wasn’t because Cambridge had rejected me and that it was in fact, “Imperial’s academic rigour and forward thinking ethos”. If I’m honest I applied because it was top of the league tables and I came because I managed to get the grades.

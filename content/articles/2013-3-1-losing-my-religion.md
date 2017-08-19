@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton on growing up faithless in a Catholic country
 date: "2013-03-01 00:51:42 +0000"
+
 # Attributes from Felix Online V1
 id: "3411"
 old_path: /comment/3411/losing-my-religion
 aliases:
  - /comment/3411/losing-my-religion
+imported: true
+comments:
+ - Thanks Veronique I cant really imagine what it must be like to be brought up feeling that your identity is Catholic or Muslim or Baptist etc This is why Dawkins is so adamant that children should not be labelled into their parents beliefI think there are probably more young adults leaving God in its more stringent form like Catholicism Islam and the evangelical sectscults It is heartening for those of us who have hope that the human race may survive to manage this planet well and on their own recognisance to read articles like this and understand that people can walk away from the religions of their fathersWell done and sincere congratulations for this article
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks Veronique I cant really imagine what it must be like to be brought up feeling that your identity is Catholic or Muslim or Baptist etc This is why Dawkins is so adamant that children should not be labelled into their parents beliefI think there are probably more young adults leaving God in its more stringent form like Catholicism Islam and the evangelical sectscults It is heartening for those of us who have hope that the human race may survive to manage this planet well and on their own recognisance to read articles like this and understand that people can walk away from the religions of their fathersWell done and sincere congratulations for this article
-imported: true
 ---
 
 There is nothing more liberating than simply being yourself. There is probably also nothing harder. For many across the UK struggling to leave their family’s religion, this is exactly the challenge they face everyday. I know – I was one of them.

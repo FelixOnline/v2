@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A student painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s
 date: "2017-02-17 14:24:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6778"
 old_path: /news/6778/kings-fossil-free-leads-to-student-arrest
 aliases:
  - /news/6778/kings-fossil-free-leads-to-student-arrest
+imported: true
+comments:
+ - pG3NQ7  ctyaxonlwxrf urlhttppwzjwraypdvkcompwzjwraypdvkurl linkhttpnkszkmqmrzeicomnkszkmqmrzeilink httpywyexqforrqtcomWere having a divestment meeting Thursday 23rd at 530pm in RSM G39 as part of Green Week and will have a stall in the main entrance on Friday 1230430 Pop by to botheither if youre interested in the fossil freeethical investment movementAll of these articles have saved me a lot of heaeachds
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - pG3NQ7  ctyaxonlwxrf urlhttppwzjwraypdvkcompwzjwraypdvkurl linkhttpnkszkmqmrzeicomnkszkmqmrzeilink httpywyexqforrqtcomWere having a divestment meeting Thursday 23rd at 530pm in RSM G39 as part of Green Week and will have a stall in the main entrance on Friday 1230430 Pop by to botheither if youre interested in the fossil freeethical investment movementAll of these articles have saved me a lot of heaeachds
-imported: true
 ---
 
 Anyone that’s been around Imperial a while will remember the Fossil Free Campaign posters that went up during first term a few years ago. These declared “Imperial’s getting coal for Christmas” as part of a larger campaign to try and get Imperial to divest from fossil fuels. Whilst the Imperial group for this movement has become slightly quieter on campus lately, the national movement is going strong.

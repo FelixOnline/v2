@@ -4,16 +4,24 @@ title: >
 subtitle: >
   William Gewanter explores the importance of Charles Stewart’s works
 date: "2015-02-07 19:34:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5210"
 old_path: /arts/5210/black-and-white-gothic--redemption-through-darkness
 aliases:
  - /arts/5210/black-and-white-gothic--redemption-through-darkness
+imported: true
+comments:
+ - stockists of fitflopscheapest fitflops australia httpaustraliafitflopsiemillernetGood Website Continue the excellent job Many thankscs go skins list httpwwwmrsdiycoukForumshowthreadphptid268553
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - stockists of fitflopscheapest fitflops australia httpaustraliafitflopsiemillernetGood Website Continue the excellent job Many thankscs go skins list httpwwwmrsdiycoukForumshowthreadphptid268553
-imported: true
 ---
 
 It seems a safe bet that never before in the history of the Royal Academy of Arts has the __Tennant Gallery__ been adorned with either a bowl of glass eyes or a mannequin that can lay claim to having posed as the Queen for a world famous portrait. _Black and White Gothic_ offers both of these and more. Pairing personal artefacts with pieces both polished and in progress, this exhibition provides a rare glimpse of not only of the works of a first rate, yet little known artist, but also an opportunity to examine something of both the process of their creation and the character of their creator. Despite the fact that more than two thirds of the members of the Royal Academy have worked as illustrators in the past, this art form has remained unfairly neglected. This one room showcase focuses largely on Stewart’s illustrations for an edition of Joseph Sheridan Le Fanu’s 1864 novel _Uncle Silas_; a series of darkly evocative stills brimming with barely contained motion, it is well worth a visit for anyone with an interest in the gothic or in illustration and its influence on modern cinematography.

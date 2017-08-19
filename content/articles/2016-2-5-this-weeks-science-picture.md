@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A plume of smoke wafting from a forest fire in western Colorado, taken by astronauts aboard the ISS.
 date: "2016-02-05 12:10:22 +0000"
+
 # Attributes from Felix Online V1
 id: "5871"
 old_path: /science/5871/this-weeks-science-picture
 aliases:
  - /science/5871/this-weeks-science-picture
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 From space, Earth is a sensational sight often hard to grasp because seeing where all of human history has occurred, can be quite emotional and very impactful. As time goes by, visible signs of climate change start to appear. Those on land may notice air pollution, deforestation, or even rises in temperature and sea level. However astronauts are the only ones to bear witness to the mighty destruction of Earth, macroscopically.

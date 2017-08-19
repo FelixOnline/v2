@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Newcastle’s BUCS Head up proves a successful trip for the team
 date: "2016-02-26 12:13:30 +0000"
+
 # Attributes from Felix Online V1
 id: "5990"
 old_path: /sport/5990/medals-aplenty-for-the-rowers
 aliases:
  - /sport/5990/medals-aplenty-for-the-rowers
+imported: true
+comments:
+ - to be raps primary audience have done the same and how many suicides or even mass murders have been prevented by by not listening to things like qttalternaoiveuquot Rather than reinforcing bad impulses rap may be balancing for some
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - to be raps primary audience have done the same and how many suicides or even mass murders have been prevented by by not listening to things like qttalternaoiveuquot Rather than reinforcing bad impulses rap may be balancing for some
-imported: true
 ---
 
 For Imperial’s rowers, BUCS Head was moved from the metropolitan Boston to the tropical Newcastle this year (a Head race is a rowing time trial, rather than a side by side race). ICBC sent up 22 of our finest athletes to compete on the Sunday, in an attempt to prove that the strength of our squad is defined by quality, not quantity.

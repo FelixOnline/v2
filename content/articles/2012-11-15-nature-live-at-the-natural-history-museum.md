@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Philippa Skett goes next door
 date: "2012-11-15 21:04:54 +0000"
+
 # Attributes from Felix Online V1
 id: "2891"
 old_path: /science/2891/nature-live-at-the-natural-history-museum
 aliases:
  - /science/2891/nature-live-at-the-natural-history-museum
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As students at Imperial, we love good extra-curricular science, right? Right? I guess we can be excused from crawling out of the Library once in a while and going straight to bed as opposed to the nearest museum. But every so often, there are some great gems out there to take part in, usually right on our doorstep.

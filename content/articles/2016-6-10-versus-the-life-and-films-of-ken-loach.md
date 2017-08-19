@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-10 08:31:34 +0100"
+
 # Attributes from Felix Online V1
 id: "6261"
 old_path: /film/6261/versus-the-life-and-films-of-ken-loach
 aliases:
  - /film/6261/versus-the-life-and-films-of-ken-loach
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For an anti-establishment radical, Ken Loach cuts an unlikely figure. A polite man approaching 80, whose latest work, _I, Daniel Blake_, won the Palme d’Or at this year’s Cannes, Loach is one of the world's most feted directors, but his inoffensive appearance belies the raw power contained in his films. Over the last five decades, Loach has been directing films in a raw, realist style, which revolve around issues of social and political justice. As well as this year’s Palme – his second – 2016 sees the release of _Versus: The Life and Films of Ken Loach_, a documentary charting his ups and downs. In the film world, such a work is equivalent to a retrospective – a crowning achievement capping off an illustrious career.

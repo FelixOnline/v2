@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on the intimate relationship between rhythm and sound
 date: "2012-03-15 21:26:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2382"
 old_path: /music/2382/rhythm-is-the-ritalin
 aliases:
  - /music/2382/rhythm-is-the-ritalin
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - im808
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
-
-comments:
-imported: true
 ---
 
 Why is there rhythm in music? To some, this question may seem utterly superfluous, but is arrhythmic music really so unfathomable? The heartbeat is itself a periodic throb, as is breathing. It appears that rhythm is an integral part of vitality and perhaps this is why we are so attracted to it.

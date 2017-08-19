@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ever since man has been able to think of clichés, he has dreamed of heading to the stars
 date: "2011-03-03 16:23:09 +0000"
+
 # Attributes from Felix Online V1
 id: "996"
 old_path: /science/996/probing-the-depths
 aliases:
  - /science/996/probing-the-depths
+imported: true
+comments:
+ - Home run Great sgluingg with that answerB3pvJv  clbhauyrazau zovirax opth zfsu 2003 cialis levitra market sales viagra 403 purchase cialis O
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Home run Great sgluingg with that answerB3pvJv  clbhauyrazau zovirax opth zfsu 2003 cialis levitra market sales viagra 403 purchase cialis O
-imported: true
 ---
 
 Ever since man has been able to think of clichés, he has dreamed of heading to the stars. The staff and students at Imperial College London are no exception, and have been involved in numerous missions to explore our solar system. Here, we take a look at just some of the missions Imperial is involved with. From landing on a comet 750 million kilometers away and investigating the unique weather system on one of Saturn’s moons, to hunting for the signs of life on other planets, and even why it might be better to keep our feet firmly on the ground while doing all of this.

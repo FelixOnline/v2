@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Obviously, the headline joke is rendered inaccurate when faced with the limitless storage space of the Felix servers
 date: "2011-11-18 00:42:07 +0000"
+
 # Attributes from Felix Online V1
 id: "1799"
 old_path: /comment/1799/this-title-doesnt-fit-thats-quite-emba
 aliases:
  - /comment/1799/this-title-doesnt-fit-thats-quite-emba
+imported: true
+comments:
+ - For a bit I thought this was a sincere bit about social awkwardness and then I realised it was just embarrassing things happen to me which is hardly worth writing an article about because generally nobody really gives a shitActually thats really rude please pretend I didnt say the second half of that I still dont get the article though Care to explain I have a ton of sympathy for doing really awkward shit and either its a serious enough issue you should seek counselling to get over your negative self image or its not that serious in which case its just Something That Happenslolyoure right and id like to apologise for being rude about the article i still dont quite get it but theres no reason to say mean things just cause i dont think its that great cause thats really prickishIm voting karapetian This is just bollocks for the sake of itI dont comment on here but after seeing that last reply I just had toI dont know what bollocks they were reading but I know that I
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - For a bit I thought this was a sincere bit about social awkwardness and then I realised it was just embarrassing things happen to me which is hardly worth writing an article about because generally nobody really gives a shitActually thats really rude please pretend I didnt say the second half of that I still dont get the article though Care to explain I have a ton of sympathy for doing really awkward shit and either its a serious enough issue you should seek counselling to get over your negative self image or its not that serious in which case its just Something That Happenslolyoure right and id like to apologise for being rude about the article i still dont quite get it but theres no reason to say mean things just cause i dont think its that great cause thats really prickishIm voting karapetian This is just bollocks for the sake of itI dont comment on here but after seeing that last reply I just had toI dont know what bollocks they were reading but I know that I
-imported: true
 ---
 
 I don’t really know how to start this article. That’s quite embarrassing. Then again, I think that’s a recurring theme in my life. I always find a way to embarrass myself. In a way I’m like Bob Dylan. Except it’s embarrassment’s door that I’m knock knock knocking on. I then realise that I’ve actually got the wrong door, just as it’s too late and the person who lives there is opening it.

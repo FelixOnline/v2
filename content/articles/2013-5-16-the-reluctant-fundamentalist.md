@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Oh FIIIINE I'll be a fundamentalist then. Maybe more serious than this subtitle makes it seem.
 date: "2013-05-16 18:41:52 +0100"
+
 # Attributes from Felix Online V1
 id: "3584"
 old_path: /film/3584/the-reluctant-fundamentalist
 aliases:
  - /film/3584/the-reluctant-fundamentalist
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Adapted from the novel of the same name, this Mira Nair film which opened at the Venice Film Festival last year tells the story of Changez (Ahmed), an American educated Pakistani, whose political and religious loyalty we are continuously asked to question.

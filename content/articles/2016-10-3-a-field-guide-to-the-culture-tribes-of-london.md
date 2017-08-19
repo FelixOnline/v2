@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Get spotting
 date: "2016-10-03 19:56:05 +0100"
+
 # Attributes from Felix Online V1
 id: "6308"
 old_path: /culture/6308/a-field-guide-to-the-culture-tribes-of-london
 aliases:
  - /culture/6308/a-field-guide-to-the-culture-tribes-of-london
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - culture
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For the uninitiated, London can be a strange and scary place. However, for the ornithologically-inclined, it can be a place of wonder. Let _felix_ be your guide, taking you on a tour of the different culture tribes you can spot in the capital. Bonus points if you manage to see them all!

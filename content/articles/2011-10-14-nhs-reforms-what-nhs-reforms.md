@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fingers crossed for a vote against
 date: "2011-10-14 00:20:56 +0100"
+
 # Attributes from Felix Online V1
 id: "1534"
 old_path: /comment/1534/nhs-reforms-what-nhs-reforms
 aliases:
  - /comment/1534/nhs-reforms-what-nhs-reforms
+imported: true
+comments:
+ - Now to bringing up the trade again  How could DA ever know or aonnye including the doctors that Shaqs injury wasnt healing until realizing so by him coming back playing and faltering  You berate DA like hes supposed to be some sort of seer and can see into the future  He makes decisions based on what he sees and is told  The assumption was that Shaq would come back and based on that and his level of superior play with the team when he started DA made a move that he had to because once again your almighty Godlike do no wrong Ubuntu loving center Perk the magnificent refused an offer and we needed bench help after MD was significantly injured and never was able to return all season so we had no back up to PP  Question  did Perk ever dominate Shaq   I think not  Will you please get over the trade and stop talking about it in every post you write  Your one track mind is seriously obscuring some quality posts like your 2nd post respecting Shaq this season you make but then you step in it again
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Now to bringing up the trade again  How could DA ever know or aonnye including the doctors that Shaqs injury wasnt healing until realizing so by him coming back playing and faltering  You berate DA like hes supposed to be some sort of seer and can see into the future  He makes decisions based on what he sees and is told  The assumption was that Shaq would come back and based on that and his level of superior play with the team when he started DA made a move that he had to because once again your almighty Godlike do no wrong Ubuntu loving center Perk the magnificent refused an offer and we needed bench help after MD was significantly injured and never was able to return all season so we had no back up to PP  Question  did Perk ever dominate Shaq   I think not  Will you please get over the trade and stop talking about it in every post you write  Your one track mind is seriously obscuring some quality posts like your 2nd post respecting Shaq this season you make but then you step in it again
-imported: true
 ---
 
 You’d think that when Parliament was on the verge of passing a bill to effectively abolish the NHS it would be front page news, but apparently not. By the time you’re reading this, the House of Lords will have decided whether or not to pass the 2011 Health and Social Care Bill. For both your sake and mine I hope they have not; here’s why.

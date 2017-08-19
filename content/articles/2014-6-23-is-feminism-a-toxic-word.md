@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An anonymous writer gives their opinion
 date: "2014-06-23 13:12:27 +0100"
+
 # Attributes from Felix Online V1
 id: "4708"
 old_path: /comment/4708/is-feminism-a-toxic-word
 aliases:
  - /comment/4708/is-feminism-a-toxic-word
+imported: true
+comments:
+ - Feminism is in fact a toxic word and it isnt because people misunderstand it Actually theyre not misunderstanding feminism in the slightest Theyre seeing what you are unable to see as perhaps youre too close to the problem to see it accurately or maybe you just cant bear to face an unpleasant truth But youre not going to convince anyone worth convincing by simply pointing to the dictionary definition of feminism then folding your arms smugly like you just proved something The problem is that there is an enormous gulf between the THEORY of what feminism is allegedly about the dictionary definition and the PRACTICE of what feminism really is and does in reality It is quite easy to demonstrate what I mean You see when your movement claims that it is simply fighting for equality with men not special privileges above and beyond what men have no silly just equality then your movement needs to explain why it still exists in the western world now that women have had all the same rights as men
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Feminism is in fact a toxic word and it isnt because people misunderstand it Actually theyre not misunderstanding feminism in the slightest Theyre seeing what you are unable to see as perhaps youre too close to the problem to see it accurately or maybe you just cant bear to face an unpleasant truth But youre not going to convince anyone worth convincing by simply pointing to the dictionary definition of feminism then folding your arms smugly like you just proved something The problem is that there is an enormous gulf between the THEORY of what feminism is allegedly about the dictionary definition and the PRACTICE of what feminism really is and does in reality It is quite easy to demonstrate what I mean You see when your movement claims that it is simply fighting for equality with men not special privileges above and beyond what men have no silly just equality then your movement needs to explain why it still exists in the western world now that women have had all the same rights as men
-imported: true
 ---
 
 I first remember coming across the word ‘feminism’ when I was about 9, and asking my mum what it meant. “It’s the principle”, she replied, without even glancing up from her newspaper, “that girls and boys should be treated in exactly the same way”. I remember thinking it bizarre that such an obvious concept even needed a name, but I didn’t question it any further.

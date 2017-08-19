@@ -4,16 +4,23 @@ title: >
 subtitle: >
   What do you do when your erotic obsession with your teenage son drives you to self-destruction? Let’s see
 date: "2010-11-18 19:54:31 +0000"
+
 # Attributes from Felix Online V1
 id: "380"
 old_path: /arts/380/the-notting-hill-fabrication
 aliases:
  - /arts/380/the-notting-hill-fabrication
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Often I find myself wondering why I don’t lead the life of a [Felliniesque](http://en.wikipedia.org/wiki/Federico_Fellini), care-free socialite, generally whilst carving the fossilized Crunchy Nut from my cereal bowl or in those few moments when confronted by the awful reality of capacitance problems. And whilst normally I painfully realize I have neither an Italian passport nor a bottomless supply of wealth nor a wardrobe full of dapper suits and accessories, Affabulazione indulged me with a glimpse of a dolce-er vita, served with a very Italian warning of such a life’s pitfalls.

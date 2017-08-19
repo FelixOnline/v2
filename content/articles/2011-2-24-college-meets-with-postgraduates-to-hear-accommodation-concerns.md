@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Graduate Students' Association to launch wider survey
 date: "2011-02-24 20:03:06 +0000"
+
 # Attributes from Felix Online V1
 id: "876"
 old_path: /news/876/college-meets-with-postgraduates-to-hear-accommodation-concerns
 aliases:
  - /news/876/college-meets-with-postgraduates-to-hear-accommodation-concerns
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Wednesday, senior members of the College met with postgraduate students to discuss their concerns and experiences with accommodation.

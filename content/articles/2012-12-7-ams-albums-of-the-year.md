@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The best of alternative music, from AMS
 date: "2012-12-07 14:29:49 +0000"
+
 # Attributes from Felix Online V1
 id: "3070"
 old_path: /music/3070/ams-albums-of-the-year
 aliases:
  - /music/3070/ams-albums-of-the-year
+imported: true
+comments:
+ - Weirdest moment of my summer was hearing Oblivion come on in a branch of Eroski  in Palma De Mallorca
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Weirdest moment of my summer was hearing Oblivion come on in a branch of Eroski  in Palma De Mallorca
-imported: true
 ---
 
 ## Alt-J: An Awesome Wave

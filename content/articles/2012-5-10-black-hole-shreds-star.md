@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Scientists have observed radiation stemming from the consumption of a star by a black hole
 date: "2012-05-10 20:02:17 +0100"
+
 # Attributes from Felix Online V1
 id: "2439"
 old_path: /science/2439/black-hole-shreds-star
 aliases:
  - /science/2439/black-hole-shreds-star
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Stars approaching a supermassive black hole are ripped apart by its huge tidal force. The black hole gobbles part of star and spits out some material in form of radiation. This fantastic phenomenon has been observed by a team of astrophysicists from US and UK through observations obtained from the telescope in Mount Haleakala, Hawaii, and the Chandra X-Ray Space Observatory.

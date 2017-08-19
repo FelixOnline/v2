@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Social Justice Wizard Tom Rivlin gazes into the internet abyss
 date: "2014-11-28 01:07:27 +0000"
+
 # Attributes from Felix Online V1
 id: "4975"
 old_path: /games/4975/gamergate-not-about-ethics-in-journalism
 aliases:
  - /games/4975/gamergate-not-about-ethics-in-journalism
+imported: true
+comments:
+ - This article is complete garbage at best its poorly researched and ill informed and at worst its outright wrong Still I dont blame you sensationalist writing like this is far more interesting to read and write than the relatively boring and inconsequential reality of what gamergate really isI dont really consider myself a strong supporter of gamergate and I have my own reservations about it but its hard not to be sympathetic after seeing how awful the media coverage of it has been On the one hand I have articles like this one calling it a hateful misogynist movement and a disgrace to gaming on the other hand I have the pretty calm civil behaviour of most gamergaters who are mostly pretty nice people with moderate views that I can see with my own eyes just by actually looking at their forums  They dont hate the social justice warriors because those are people who care about equality but because theyre people who hide behind those beliefs to promote themselves and excuse their own vile
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article is complete garbage at best its poorly researched and ill informed and at worst its outright wrong Still I dont blame you sensationalist writing like this is far more interesting to read and write than the relatively boring and inconsequential reality of what gamergate really isI dont really consider myself a strong supporter of gamergate and I have my own reservations about it but its hard not to be sympathetic after seeing how awful the media coverage of it has been On the one hand I have articles like this one calling it a hateful misogynist movement and a disgrace to gaming on the other hand I have the pretty calm civil behaviour of most gamergaters who are mostly pretty nice people with moderate views that I can see with my own eyes just by actually looking at their forums  They dont hate the social justice warriors because those are people who care about equality but because theyre people who hide behind those beliefs to promote themselves and excuse their own vile
-imported: true
 ---
 
 Anyone with an interest in feminism, social media, video games or nerd culture in general has probably heard this term over the past few months: GamerGate. What exactly is it? Why is it so awful? To get to the bottom of this we need to take a long, ugly look at gaming culture…

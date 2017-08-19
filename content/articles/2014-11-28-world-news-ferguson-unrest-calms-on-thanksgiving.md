@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kunal Wagle discusses the two nights of protests in the St Louis suburb in Missouri
 date: "2014-11-28 00:51:03 +0000"
+
 # Attributes from Felix Online V1
 id: "4968"
 old_path: /news/4968/world-news-ferguson-unrest-calms-on-thanksgiving
 aliases:
  - /news/4968/world-news-ferguson-unrest-calms-on-thanksgiving
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The St Louis suburb of Ferguson was calm on Thanksgiving morning, after two nights or protests. The suburb has been unsettled since 9th August when police officer Darren Wilson shot and killed civilian Michael Brown. Mr Wilson, who shot Brown six or seven times said that he “feared for his life”. Witnesses, however, claimed that Mr Brown, who was not armed, had his hands up when the first shots were fired.

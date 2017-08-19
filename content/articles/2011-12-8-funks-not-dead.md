@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Douglas Heaven ends his trip around a Punk Planet
 date: "2011-12-08 21:13:31 +0000"
+
 # Attributes from Felix Online V1
 id: "1932"
 old_path: /music/1932/funks-not-dead
 aliases:
  - /music/1932/funks-not-dead
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Most people probably wouldn’t point to San Pedro, California, as a birthplace of punk, but they might as well. Punk isn’t __Green Day __and __Blink-182__, punk isn’t green hair and safety pins. Punk is an attitude and it can take any form you like. For __Minutemen__, that form was 2-minute bursts of jazzy, bombastic R&B, but in their attitude to playing – to recording, to touring, to what it meant to be in a band – Minutemen were the epitome of punk.

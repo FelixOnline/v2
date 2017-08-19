@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union accepts that loss is unacceptable and promises that lessons will be learnt
 date: "2011-07-15 16:49:28 +0100"
+
 # Attributes from Felix Online V1
 id: "1450"
 old_path: /news/1450/summer-ball-suffers-100000-loss
 aliases:
  - /news/1450/summer-ball-suffers-100000-loss
+imported: true
+comments:
+ - How on earth did this happen 3850 tickets  seriously Shit needs to fall on whoever is responsible for this unacceptable lossHopefully Heath et al will learn from this years mistakesI agree with all the above points apart from 3 I think that there are plenty of black tie events that happen throughout the year and the thing that made the summer ball a bit more impressive was the Music aspectI would debate the wisdom in getting a headline act whos career was effectively over when I was still playing with pogs but what the hellBIG PROBLEM with having a festival that lasts all day though is NOT PROVIDING ANY FOOD that was any goodHad anyone on this democratically representative and extremely knowledgeable ents committee httptinyurlcom6ks7228 actually been to a festival they would know that they usually have loads of food stall everywhere Not only do these  god forbid  make money they mean that large chunks of the crowd dont have to leave periodically throughout the eve
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - How on earth did this happen 3850 tickets  seriously Shit needs to fall on whoever is responsible for this unacceptable lossHopefully Heath et al will learn from this years mistakesI agree with all the above points apart from 3 I think that there are plenty of black tie events that happen throughout the year and the thing that made the summer ball a bit more impressive was the Music aspectI would debate the wisdom in getting a headline act whos career was effectively over when I was still playing with pogs but what the hellBIG PROBLEM with having a festival that lasts all day though is NOT PROVIDING ANY FOOD that was any goodHad anyone on this democratically representative and extremely knowledgeable ents committee httptinyurlcom6ks7228 actually been to a festival they would know that they usually have loads of food stall everywhere Not only do these  god forbid  make money they mean that large chunks of the crowd dont have to leave periodically throughout the eve
-imported: true
 ---
 
 Management accounts from Imperial College Union show that this year’s Summer Ball made an estimated loss of £100,000.

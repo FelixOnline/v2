@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-06 09:53:55 +0100"
+
 # Attributes from Felix Online V1
 id: "6122"
 old_path: /science/6122/science--the-city
 aliases:
  - /science/6122/science--the-city
+imported: true
+comments:
+ - Hmm it looks like your blog ate my first comment it was super long so I guess Ill just sum it up what I wrote and say Im thoroughly enjoying your blog I as well am an aspiring blog writer but Im still new to the whole thing Do you have any tips for iniexereencpd blog writers Id genuinely appreciate it
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hmm it looks like your blog ate my first comment it was super long so I guess Ill just sum it up what I wrote and say Im thoroughly enjoying your blog I as well am an aspiring blog writer but Im still new to the whole thing Do you have any tips for iniexereencpd blog writers Id genuinely appreciate it
-imported: true
 ---
 
 Humans have always looked up at the sky in awe and fascination. For thousands of years we’ve searched for light and guidance in its movements, while hanging our fables and myths on the celestial bodies like regal robes. And little wonder – almost all of the elements in our bodies are made from cosmic stardust, spewed out from the fiery bowels at the hearts of stars billions of years ago. As the astronomer and philosopher Carl Sagan quoted famously, “We’re made of star stuff.”

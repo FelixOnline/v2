@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sexism is everywhere: it’s about time we grew up and realised this
 date: "2012-11-22 23:57:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2952"
 old_path: /comment/2952/sexism-and-science
 aliases:
  - /comment/2952/sexism-and-science
+imported: true
+comments:
+ - Warning word sexism detected Brace for impact of 9000megaton rage bomb
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Warning word sexism detected Brace for impact of 9000megaton rage bomb
-imported: true
 ---
 
 I am a white male, born in the UK, and therefore I know as much about being oppressed, excluded or prejudiced against as David Cameron knows about struggling to make rent. There are, though, some things I feel I can say about sexism at Imperial, particularly in light of some recent Felix Comment articles.

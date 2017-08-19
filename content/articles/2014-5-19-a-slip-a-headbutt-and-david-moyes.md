@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A week after Manchester City won their second title in three seasons Kunal Wagle, Jonny Pratt and Football Columnist James White take a look at a Premier League season that really did have it all.
 date: "2014-05-19 13:28:47 +0100"
+
 # Attributes from Felix Online V1
 id: "4608"
 old_path: /sport/4608/a-slip-a-headbutt-and-david-moyes
 aliases:
  - /sport/4608/a-slip-a-headbutt-and-david-moyes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 #### 5 Moments that defined the title race - Jonny Pratt

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Men benefit from feminism, but need to know when to listen
 date: "2016-06-03 09:03:32 +0100"
+
 # Attributes from Felix Online V1
 id: "6231"
 old_path: /comment/6231/can-we-stop-talking-over-women
 aliases:
  - /comment/6231/can-we-stop-talking-over-women
+imported: true
+comments:
+ - Terry crews is the living personification of the fire emojiHi Anonymous its Arnold the writer of the article you referencedFirst I should express my gratitude that you did not outright lambast or shame me for disagreeing with the opinions you holdHowever why didnt you address any one of my criticisms of intersectional theory or privilege theoryRather than addressing these issues you chose to go on about my gender instead of the concerns I raisedThat is why I said I feared the intractability of the feminist movement No one or too few from within the movement will stand to correct its excessesBefore I am accused of missing the point of your article let me address your criticisms following which I hope someone will address my own criticisms of modern feminism1 I have no intentions of controlling how feminists think In my article I suggested that it would be for the benefit of feminism itself to reform itself from within Throughout this article you dismissed my criticisms because of
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Terry crews is the living personification of the fire emojiHi Anonymous its Arnold the writer of the article you referencedFirst I should express my gratitude that you did not outright lambast or shame me for disagreeing with the opinions you holdHowever why didnt you address any one of my criticisms of intersectional theory or privilege theoryRather than addressing these issues you chose to go on about my gender instead of the concerns I raisedThat is why I said I feared the intractability of the feminist movement No one or too few from within the movement will stand to correct its excessesBefore I am accused of missing the point of your article let me address your criticisms following which I hope someone will address my own criticisms of modern feminism1 I have no intentions of controlling how feminists think In my article I suggested that it would be for the benefit of feminism itself to reform itself from within Throughout this article you dismissed my criticisms because of
-imported: true
 ---
 
 We’ve all been there – you finish your exams and suddenly there’s a deep hole, a lack of purpose in your life. What else was I to do but pick up Felix and read Arnold Tan’s “message to feminists”.

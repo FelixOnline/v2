@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The world of journalism has been shaken to its core, Felix investigates.
 date: "2011-08-05 13:29:36 +0100"
+
 # Attributes from Felix Online V1
 id: "1453"
 old_path: /comment/1453/the-end-of-a-media-empire
 aliases:
  - /comment/1453/the-end-of-a-media-empire
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Events of the past few weeks have shone a new light on how our media has been operated as a monopoly, with one arguably great but unquestionably evil man at its apex. With the disintegration of his empire, the question now facing all of us is how can the media change its ways of operating and still meet the need of its audience?

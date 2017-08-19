@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett recaps the tragedy that has captured the world’s attention, and how it has resonated through the capital
 date: "2015-01-16 12:55:17 +0000"
+
 # Attributes from Felix Online V1
 id: "5090"
 old_path: /news/5090/one-city-mourns-for-another-citys-loss
 aliases:
  - /news/5090/one-city-mourns-for-another-citys-loss
+imported: true
+comments:
+ - cartierbraceletlove       faux occasion rolex daytona urlhttpwwwmovementwatchcnreplicarolexdaytonawatchblackdialstainlesssteelgoldplatedstrapformenp724faux occasion rolex daytonaurlThe dude on the pic 4 s last name is Horvath  originating from Croatia where we also follow therbigadecom   Good luck to all of you guys risking your lives on the field
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cartierbraceletlove       faux occasion rolex daytona urlhttpwwwmovementwatchcnreplicarolexdaytonawatchblackdialstainlesssteelgoldplatedstrapformenp724faux occasion rolex daytonaurlThe dude on the pic 4 s last name is Horvath  originating from Croatia where we also follow therbigadecom   Good luck to all of you guys risking your lives on the field
-imported: true
 ---
 
 The world was stunned by the news last Wednesday, when two masked gunmen entered the offices of Charlie Hebdo, a French satirical magazine. Within half an hour, twelve people had been shot dead, including the editor of the magazine, two policemen and several cartoonists that had drawn the “blasphemous” and controversial front covers.

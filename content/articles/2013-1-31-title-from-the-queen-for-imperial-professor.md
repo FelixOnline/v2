@@ -4,16 +4,24 @@ title: >
 subtitle: >
   One of only twelve in the UK
 date: "2013-01-31 22:34:04 +0000"
+
 # Attributes from Felix Online V1
 id: "3198"
 old_path: /news/3198/title-from-the-queen-for-imperial-professor
 aliases:
  - /news/3198/title-from-the-queen-for-imperial-professor
+imported: true
+comments:
+ - What is this Department of Engineering and why have I never heard of it Well done to Professor ToumazouIf anyone has ever wondered when Our Sovereign Lady last visited the Imperial College of Science Technology and Medicine there is a brief clip on the internet from the day when she Most Graciously granted us a Royal Charterhttpwwwyoutubecomwatchv0MkLcsg8SRAHopefully She will visit again soon
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What is this Department of Engineering and why have I never heard of it Well done to Professor ToumazouIf anyone has ever wondered when Our Sovereign Lady last visited the Imperial College of Science Technology and Medicine there is a brief clip on the internet from the day when she Most Graciously granted us a Royal Charterhttpwwwyoutubecomwatchv0MkLcsg8SRAHopefully She will visit again soon
-imported: true
 ---
 
 Imperial College London’s Faculty of Engineering has been awarded a rare honour from Her Majesty the Queen to mark the Diamond Jubilee. The title is Regius Professor, and only two have been awarded in the past 100 years.

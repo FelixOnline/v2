@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fatima Iftikhar thinks it’s time that we get involved with our area
 date: "2015-03-09 18:58:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5373"
 old_path: /comment/5373/is-there-inequality-in-kensington-and-chelsea
 aliases:
  - /comment/5373/is-there-inequality-in-kensington-and-chelsea
+imported: true
+comments:
+ - I love Kensington in that respect  anynoe who thinks taking road space away from cars in commercial areas should head to Kensington High Street to see how theyve built bicycle parking into the traffic islands and along the wide pavements and how busy all of that parking always isAs a result I stop there loads on my way to and from places and I always end up spending more than I intended because I can just hop off and lock up whenever something catches my eyeHang on maybe thats not such a good thing after all
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I love Kensington in that respect  anynoe who thinks taking road space away from cars in commercial areas should head to Kensington High Street to see how theyve built bicycle parking into the traffic islands and along the wide pavements and how busy all of that parking always isAs a result I stop there loads on my way to and from places and I always end up spending more than I intended because I can just hop off and lock up whenever something catches my eyeHang on maybe thats not such a good thing after all
-imported: true
 ---
 
 You may or may not have seen that Imperial Hub recently ran a social action #Resolution campaign. Well, a couple of weeks ago we were all over campus asking people to come up with a resolution for how they will contribute to making the world a better place in 2015. On the Monday I was running a stall where, in exchange for making a resolution, we gave people a free cup of tea or coffee.

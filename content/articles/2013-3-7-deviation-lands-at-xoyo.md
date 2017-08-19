@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Simon Hunter checks out a new residency for the party
 date: "2013-03-07 21:34:04 +0000"
+
 # Attributes from Felix Online V1
 id: "3426"
 old_path: /music/3426/deviation-lands-at-xoyo
 aliases:
  - /music/3426/deviation-lands-at-xoyo
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - txl11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "txl11"
 author_name: "Thomas Lim"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Prior to last Friday it’d been a good year since I was last at XOYO. In 2010, when it first opened, the initial excitement was of a club with the line-ups and support that could have proved a replacement for The End. However something just wasn’t right about the lay-out and the sweat-dripping ceiling combined with line-ups deviating from my tastes meant that I only ended up going about five times. But the potential for the night held last Friday was so great I’d have probably gone had it been held in the Great Hall. Probably.

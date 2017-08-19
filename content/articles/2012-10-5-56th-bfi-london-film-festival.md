@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park takes us through the London festival
 date: "2012-10-05 12:18:24 +0100"
+
 # Attributes from Felix Online V1
 id: "2613"
 old_path: /film/2613/56th-bfi-london-film-festival
 aliases:
  - /film/2613/56th-bfi-london-film-festival
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Every year, the British Film Institute (BFI) hosts Britain’s biggest, most exciting, star-studded film event, the London Film Festival, where directors worldwide get the chance to share their accomplishments with the public. As one of the most accessible film festivals around, any eager movie fans in London should try to catch a screening or two. Packed full with big-scale red carpet premieres, in focus Q&A sessions with the stars, the festival is truly an exciting occasion to be taken advantage of.

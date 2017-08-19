@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rajat Jain writes about Johnny Foreigner as we approach the New Year
 date: "2011-12-08 21:09:06 +0000"
+
 # Attributes from Felix Online V1
 id: "1930"
 old_path: /politics/1930/recent-elections-and-scandals
 aliases:
  - /politics/1930/recent-elections-and-scandals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 __Russian Election__

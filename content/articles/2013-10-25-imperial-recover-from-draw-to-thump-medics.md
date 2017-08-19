@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Omar Amjad gives his account as Imperial’s 1st XI show fine early season form.
 date: "2013-10-25 01:12:53 +0100"
+
 # Attributes from Felix Online V1
 id: "3951"
 old_path: /sport/3951/imperial-recover-from-draw-to-thump-medics
 aliases:
  - /sport/3951/imperial-recover-from-draw-to-thump-medics
+imported: true
+comments:
+ - Splendidly written piece I wish the 1s all the best in the coming season
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Splendidly written piece I wish the 1s all the best in the coming season
-imported: true
 ---
 
 It’s back. Children have been seen running around schoolyards in their new ‘Murphy’ jerseys. Indeed even some with ‘Diaz Rios’ on their backs, showing how the silkily skilled Spanish wonder kid has already endeared himself to the Imperial fan base. Women have been seen frenzied outside Harlington, trying to catch a glimpse of or maybe even touch the midfield hunks Alex Dale and Tim ‘Smithy’ Beasley, though it must be mentioned that their most vociferous admirers seem to be each other’s mothers. Grown men have already told their wives that they are busy henceforth on both Wednesdays and Saturdays; tackles from Hill and goals from captain Robinson can’t be missed. Finally, after the 6 tortuous months of absence, Imperial football is back. All is right in the world again.

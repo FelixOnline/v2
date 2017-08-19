@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lauren Ratcliffe on an Imperial professor’s involvement in the film Ex-Machina
 date: "2015-02-03 14:54:39 +0000"
+
 # Attributes from Felix Online V1
 id: "5185"
 old_path: /science/5185/artificial-intelligence-with-a-consciousness-
 aliases:
  - /science/5185/artificial-intelligence-with-a-consciousness-
+imported: true
+comments:
+ - Whoa This blog looks exactly like my old one Its on a totally different topic but it has pretty much the same layout and design Outstanding choice of colorsmoncler online china httpwwwtargettisportingclubititmoncleronlinechina8154htmlWow incredible blog layout How long have you been blogging for you made blogging look easy The overall look of your web site is magnificent as well as the contentmoncler winterjassen online free httpwwwwebenconlnlmonclerwinterjassenonlinefree13807htmlIt is a well known fact that getting into shape requires a hard perform its magic Seattles dream 300 set out to the season ended on April 11 when the Wizards won 10 with 10man Sounders FCcrdits fut rapidement httpcreditsfutcomGreat web site youve gotten herenhl 17 coins httpweliveinplymouthcoukconfessionsconfession301You have got terrific knowlwdge listed heremadden 17 httpteapartytownusforumthread167fifa17coinsovesbelowfreezinglevel
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Whoa This blog looks exactly like my old one Its on a totally different topic but it has pretty much the same layout and design Outstanding choice of colorsmoncler online china httpwwwtargettisportingclubititmoncleronlinechina8154htmlWow incredible blog layout How long have you been blogging for you made blogging look easy The overall look of your web site is magnificent as well as the contentmoncler winterjassen online free httpwwwwebenconlnlmonclerwinterjassenonlinefree13807htmlIt is a well known fact that getting into shape requires a hard perform its magic Seattles dream 300 set out to the season ended on April 11 when the Wizards won 10 with 10man Sounders FCcrdits fut rapidement httpcreditsfutcomGreat web site youve gotten herenhl 17 coins httpweliveinplymouthcoukconfessionsconfession301You have got terrific knowlwdge listed heremadden 17 httpteapartytownusforumthread167fifa17coinsovesbelowfreezinglevel
-imported: true
 ---
 
 Science fiction film Ex-Machina has recently hit cinemas worldwide, a psychological thriller to tantalise our over-active imaginations of a future where artificial intelligence has a consciousness. But how far are we from any of these ideas becoming reality? In Ex Machina audiences are supposed to believe that the artificially intelligent character, Ava, has a sense of self. Young programmer Caleb is asked to test Ava’s consciousness and reveals that Ava is a bonafide intelligent huminoid capable of feeling emotions. The suffering she later experiences in the film evokes within us a sense of injustice; if she has a consciousness surely she should be entitled to freedom?

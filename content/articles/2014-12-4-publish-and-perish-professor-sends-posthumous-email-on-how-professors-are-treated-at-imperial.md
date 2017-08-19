@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stefan Grimm emailed colleagues after his death, months after being sent "ultimatum email" to either find more funding or leave Imperial
 date: "2014-12-04 04:05:53 +0000"
+
 # Attributes from Felix Online V1
 id: "4984"
 old_path: /news/4984/publish-and-perish-professor-sends-posthumous-email-on-how-professors-are-treated-at-imperial
 aliases:
  - /news/4984/publish-and-perish-professor-sends-posthumous-email-on-how-professors-are-treated-at-imperial
+imported: true
+comments:
+ - and we have republished the email in full at the end of this articlewhereApologies we are having technical issues but the emails should be there nowI am sure there are two sides to the story but with all the little things stacking up followed by bigger news like the above falling into place it doesnt paint the College in a very positive light  It is becoming more widely accepted that Imperial College will go to quite impressive lengths to maintain its place at or near the top of the scientific food chain  For this it needs two things firstly money this has been evident with sky high fees rent in halls postgrad and overseas charges increased as well as sellinglooking to sell valuable assets I believe this is to the detriment of the College as they look to the student body who are not particularly well represented and whose voice is often ignored and find many of us opening our eyes to the reality and not being satisfied with the service we are given  The second and
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - and we have republished the email in full at the end of this articlewhereApologies we are having technical issues but the emails should be there nowI am sure there are two sides to the story but with all the little things stacking up followed by bigger news like the above falling into place it doesnt paint the College in a very positive light  It is becoming more widely accepted that Imperial College will go to quite impressive lengths to maintain its place at or near the top of the scientific food chain  For this it needs two things firstly money this has been evident with sky high fees rent in halls postgrad and overseas charges increased as well as sellinglooking to sell valuable assets I believe this is to the detriment of the College as they look to the student body who are not particularly well represented and whose voice is often ignored and find many of us opening our eyes to the reality and not being satisfied with the service we are given  The second and
-imported: true
 ---
 
 An Imperial professor who died “suddenly and unexpectedly” in September has allegedly sent a posthumous email to his colleagues, with the subject line: “How Professors are treated at Imperial College.”

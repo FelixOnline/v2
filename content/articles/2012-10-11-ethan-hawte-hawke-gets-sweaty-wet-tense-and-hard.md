@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Just a standard horror film? Well, the star is a bit slow to grasp the plot
 date: "2012-10-11 21:09:10 +0100"
+
 # Attributes from Felix Online V1
 id: "2664"
 old_path: /film/2664/ethan-hawte-hawke-gets-sweaty-wet-tense-and-hard
 aliases:
  - /film/2664/ethan-hawte-hawke-gets-sweaty-wet-tense-and-hard
+imported: true
+comments:
+ - I just wanted to know if you could daoolwnd the Geocities torrent via Windows Ive heard of some files being replaced If this is true can anyone who has the torrent post a follow up comment to me before I start daoolwnding ithow can you compare this to jaws  they arent even the same types of mveois  i hate when  critics  make asinine statements like that  for one jaws isnt a monster movie its about a large fish not a mutated fish not a fish that was bread with an alien not a fish that was created by science a fish  secondly its unfair to the host because comparing it to a movie that has no relation to it or any movie for that matter takes away from its originality  insurance auto   even allow   men begin   viagra online
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I just wanted to know if you could daoolwnd the Geocities torrent via Windows Ive heard of some files being replaced If this is true can anyone who has the torrent post a follow up comment to me before I start daoolwnding ithow can you compare this to jaws  they arent even the same types of mveois  i hate when  critics  make asinine statements like that  for one jaws isnt a monster movie its about a large fish not a mutated fish not a fish that was bread with an alien not a fish that was created by science a fish  secondly its unfair to the host because comparing it to a movie that has no relation to it or any movie for that matter takes away from its originality  insurance auto   even allow   men begin   viagra online
-imported: true
 ---
 
 It’s a shame characters in horror films leave things until too late to put the pieces together. They spend an agonising part of the running time going through all sorts of danger and jump scares but refuse to admit that there’s something wrong with the house they’re living in. It’s not entirely clear just what Ellison Oswalt (Hawke) is trying to achieve when he moves into the house where an entire family was hanged in their garden. Sure, he’s a true-crime writer but did he really need to drag his family into the scene of the crime? He of course keeps this little secret to himself, with his wife Tracy (Juliet Rylance) and two children completely unaware of what they are in for.

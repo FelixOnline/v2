@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In Brief
 date: "2013-05-23 22:30:48 +0100"
+
 # Attributes from Felix Online V1
 id: "3620"
 old_path: /news/3620/imperial-students-win-trip-to-rotterdam
 aliases:
  - /news/3620/imperial-students-win-trip-to-rotterdam
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Two Imperial students, Aran Kankiwala and Shi Yunn Chua, have won a competition that gave them the prize of a three-day all expenses paid program of events in Rotterdam last week as Shell’s special VIP guests.

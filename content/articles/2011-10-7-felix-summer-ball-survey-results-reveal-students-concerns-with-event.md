@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Common complaints centre around format change, though funfair is praised
 date: "2011-10-07 00:30:27 +0100"
+
 # Attributes from Felix Online V1
 id: "1470"
 old_path: /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
 aliases:
  - /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
+imported: true
+comments:
+ - The Summer Ball was extensively covered by Felix both immediately after the event in the final issue of the last year see archives and in an article posted once the figures were available in July httpfelixonlinecouknews1450summerballsuffers100000lossAlso Im pleased to report that our knackers are doing pretty damn wellSo a faculty union loses 1000 on a ball and FELIX runs with the story in almost every issue for six months The union loses 120x that money on the summer ball and FELIX publishes less than half a page on page six without even mentioning the actual figure lost Is the paper really that terrible or have the union got FELIX that well gripped around the knackers
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The Summer Ball was extensively covered by Felix both immediately after the event in the final issue of the last year see archives and in an article posted once the figures were available in July httpfelixonlinecouknews1450summerballsuffers100000lossAlso Im pleased to report that our knackers are doing pretty damn wellSo a faculty union loses 1000 on a ball and FELIX runs with the story in almost every issue for six months The union loses 120x that money on the summer ball and FELIX publishes less than half a page on page six without even mentioning the actual figure lost Is the paper really that terrible or have the union got FELIX that well gripped around the knackers
-imported: true
 ---
 
 “Errrm...where were all the people?” was one of the many questions asked after last year’s Summer Ball. With less than half the expected turnout and a 6-ﬁgure loss, it will come as no surprise that the initial results of the Felix survey are looking rather bleak.

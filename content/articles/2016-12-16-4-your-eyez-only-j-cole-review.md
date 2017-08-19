@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The underlying narrative of the album tells the true story of the life of J. Cole’s late friend James McMillan
 date: "2016-12-16 14:58:25 +0000"
+
 # Attributes from Felix Online V1
 id: "6608"
 old_path: /music/6608/4-your-eyez-only-j-cole-review
 aliases:
  - /music/6608/4-your-eyez-only-j-cole-review
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 JCole’s last album release, 2014 Forest Hills Drive, received critical acclaim and was met with exceptional commercial success, making it the first LP in 25 years to sell over a million copies without a guest appearance. On November 27th 2015, J. Cole and Kendrick Lamar raised fans’ hopes of finally hearing their rumoured joint album by simultaneously dropping their Black Friday freestyles over each other’s beats. On Cole’s Black Friday he had his fans’ hearts racing by ending the song with, “But this February, bet shit get scary when I fuck around and drop…”, however February 2016 came and went and shit did not get scary… J. Cole had gone into recluse mode. In July 2016, J. Cole featured on DJ Khaled’s monster Major Key album, appearing on fifth track, Jermaine’s Interlude exploring topics ranging from police brutality to his internal struggle. He ends his verse toying with the idea of retirement- “Said all I could say, now I play with thoughts of retirement”- which had fans worried that we’ve heard the last of J. Cole, especially given his well-documented dislike for the fame which accompanies commercial success in the music industry. The fans’ excitement was practically palpable when, on December 1st, the artwork and track listing of J. Cole’s latest offering, 4 Your Eyez Only, were made available for pre-order. The album was eventually released last Friday, marking the two-year anniversary of the release of 2014 Forest Hills Drive and came with little promotion, save for a 40-minute documentary Eyez and two teaser tracks, False Prophets and Everybody Dies.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial West gets planning permission
 date: "2012-10-18 21:44:49 +0100"
+
 # Attributes from Felix Online V1
 id: "2720"
 old_path: /news/2720/new-campus-approved
 aliases:
  - /news/2720/new-campus-approved
+imported: true
+comments:
+ - The objections raised by local residents focus on the extent of commercial content in the development  What was presented to the public as a second campus is nothing like a university complexI chair the St Helens Residents Association mentioned above  For 18 months we queried with the College why it has chosen to develop this site as an offbalance sheet joint venture with Voreda Capital  Why a 35 storey residential tower the top two thirds of which will be sold to private buyers  Why a four star hotel of 13 storeys  How much profit does the College want at a heavy cost to us neighboursWe are not the only ones who have commented that the height scale and density of the development are far more appropriate to central London than to a lowrise residential corner of Shepherds BushWe are more than happy to welcome Imperial postgrads to the Wood Lane Studios and anyone now living there is welcome to join our association by emailing to sthelensassnaolcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The objections raised by local residents focus on the extent of commercial content in the development  What was presented to the public as a second campus is nothing like a university complexI chair the St Helens Residents Association mentioned above  For 18 months we queried with the College why it has chosen to develop this site as an offbalance sheet joint venture with Voreda Capital  Why a 35 storey residential tower the top two thirds of which will be sold to private buyers  Why a four star hotel of 13 storeys  How much profit does the College want at a heavy cost to us neighboursWe are not the only ones who have commented that the height scale and density of the development are far more appropriate to central London than to a lowrise residential corner of Shepherds BushWe are more than happy to welcome Imperial postgrads to the Wood Lane Studios and anyone now living there is welcome to join our association by emailing to sthelensassnaolcom
-imported: true
 ---
 
 Further development of the new Imperial West campus in White City is set to move forward following the recent granting of planning permission by local authorities. Zoe Mulholland, programme manager for the project, said that “she can confirm that Hammersmith and Fulham Council granted permission on 25 July 2012. due to the scale and nature of the scheme it was referred to the GLA [Greater London Authority] for their approval which was given on 20 September 2012.”

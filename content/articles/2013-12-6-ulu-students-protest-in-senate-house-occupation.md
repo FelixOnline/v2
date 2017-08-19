@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Over 100 protesters occupied the University of London (UoL’s) headquarters on Wednesday 4 December. The protest took place to demonstrate against the UoL’s “undemocratic and unaccountable” running.
 date: "2013-12-06 03:44:28 +0000"
+
 # Attributes from Felix Online V1
 id: "4177"
 old_path: /news/4177/ulu-students-protest-in-senate-house-occupation
 aliases:
  - /news/4177/ulu-students-protest-in-senate-house-occupation
+imported: true
+comments:
+ - Assume you mean scrapping rather than scrapingAssume you mean scrapping rather than scrapingAs a student long ago I recall the occupation of an admin corridor and the complaints of false imprisonment of staff plus threats and intimidation by a political group So far this latest action appears to have avoided infiltration But a fair press is unlikely for either side the media will already have a point of view Who would students look up to The press Bankers  Parliament Police Student protest is not new So where did the enlightened protesters of the past go in later life Not into these areas it seemsStudents do you aim to get into politics and what you would do when you get there We need you the current front benches dont have a first eleven of talent and brains between them and the establishment is split by self interest press vs parliament vs police vs judiciary etc To the police whose interests are you defending and against what  If students are not al
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Assume you mean scrapping rather than scrapingAssume you mean scrapping rather than scrapingAs a student long ago I recall the occupation of an admin corridor and the complaints of false imprisonment of staff plus threats and intimidation by a political group So far this latest action appears to have avoided infiltration But a fair press is unlikely for either side the media will already have a point of view Who would students look up to The press Bankers  Parliament Police Student protest is not new So where did the enlightened protesters of the past go in later life Not into these areas it seemsStudents do you aim to get into politics and what you would do when you get there We need you the current front benches dont have a first eleven of talent and brains between them and the establishment is split by self interest press vs parliament vs police vs judiciary etc To the police whose interests are you defending and against what  If students are not al
-imported: true
 ---
 
 Over 100 protesters occupied the University of London (UoL’s) headquarters on Wednesday 4 December. The protest took place to demonstrate against the UoL’s “undemocratic and unaccountable” running.

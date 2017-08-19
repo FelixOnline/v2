@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Keir Little talks about Harry Potter, US Defense research and the creation of a new frontier of science with Professor Sir John Pendry
 date: "2013-12-02 21:50:13 +0000"
+
 # Attributes from Felix Online V1
 id: "4156"
 old_path: /science/4156/the-magic-of-metamaterials
 aliases:
  - /science/4156/the-magic-of-metamaterials
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Function through structure” is something of a mantra for researchers of metamaterials, a truly twenty-first century field which aims to create materials with bizarre and fascinating optical and magnetic properties, invented here at Imperial by Professor Sir John Pendry.

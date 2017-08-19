@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton gets influenced by the only book to ever make him cry
 date: "2013-01-18 00:31:08 +0000"
+
 # Attributes from Felix Online V1
 id: "3135"
 old_path: /comment/3135/faitheism-the-importance-of-dialogue
 aliases:
  - /comment/3135/faitheism-the-importance-of-dialogue
+imported: true
+comments:
+ - I like to call myself a Christian Atheist in the sense of admiring Christs teachings rather than the practices and wealth of The Church etc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I like to call myself a Christian Atheist in the sense of admiring Christs teachings rather than the practices and wealth of The Church etc
-imported: true
 ---
 
 Every Christmas for the past several years I sit down and I cry. It’s not that I’m sad; it’s an important tradition. Every Christmas I sit down and watch It’s A Wonderful Life and like a predictable fool each time I’m blinking back salty water. And it’s not just with this film – name a tear jerker and it’s probably worked its magic on me. I even cried at Susan Boyle’s Britain’s Got Talent audition.

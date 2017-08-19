@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Christy Kelly talks about Equality in the Media
 date: "2014-11-06 18:26:59 +0000"
+
 # Attributes from Felix Online V1
 id: "4763"
 old_path: /comment/4763/reflections-on-oscar-pistorius-marikana-and-the-media
 aliases:
  - /comment/4763/reflections-on-oscar-pistorius-marikana-and-the-media
+imported: true
+comments:
+ - Miestnosti a prostriedky mu ma aj obmedzenia pecifikovan vlastnkom Barbour Antistatic Transport Waxed urlhttpwwwsnjacademicscomSerungffumaenyurongfuzonhe2mfyowsflp287htmlBarbour Antistatic Transport WaxedurlWhat does that even mean Are you saying that the song is so tameinoffensive that it appropriate for a kids movie Because it was made for a kids movie Or are you saying that this track is potentially so fire that it deserves to be the end credits song for one of the greatest animated films of all timeFresh Water Pearl Jewellery The Choice of Young Generation And Fashion Designers Bogner Franca Rose Drucken Faltbare Skifahren Wandern urlhttpwwwintimsportcomCategotrydebognerbncdhspup174htmlBogner Franca Rose Drucken Faltbare Skifahren WandernurlOr are they simply normal people who overcame their biological limits through sheer force of will and obsessive training Barbour Radfahren Lady urlhttpwwwsomeofmyeggscomDepayjgmentdeyuron
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Miestnosti a prostriedky mu ma aj obmedzenia pecifikovan vlastnkom Barbour Antistatic Transport Waxed urlhttpwwwsnjacademicscomSerungffumaenyurongfuzonhe2mfyowsflp287htmlBarbour Antistatic Transport WaxedurlWhat does that even mean Are you saying that the song is so tameinoffensive that it appropriate for a kids movie Because it was made for a kids movie Or are you saying that this track is potentially so fire that it deserves to be the end credits song for one of the greatest animated films of all timeFresh Water Pearl Jewellery The Choice of Young Generation And Fashion Designers Bogner Franca Rose Drucken Faltbare Skifahren Wandern urlhttpwwwintimsportcomCategotrydebognerbncdhspup174htmlBogner Franca Rose Drucken Faltbare Skifahren WandernurlOr are they simply normal people who overcame their biological limits through sheer force of will and obsessive training Barbour Radfahren Lady urlhttpwwwsomeofmyeggscomDepayjgmentdeyuron
-imported: true
 ---
 
 In _Signatures of the Visible_, Fredric Jameson states that “the visual is essentially pornographic” – that is, its end is in “mindless rapture”. That being said, as any reader of Orwell knows, there are degrees of equality; that is to say, while all ‘visuals’ (forgive the clumsy expression) are essentially pornographic, some are more essentially pornographic than others. The trial of Oscar Pistorius, so widely broadcast this summer, was one of these paradoxical beasts – the Napoleons and Squealers, the generally ‘more equal’. The obscene spectacle of a sordid celebrity tragedy was seized upon by the major news channels as not only a worthy news piece but further as so important as to merit global coverage. It seems this turgid carnival with a faceless protagonist succeeded in trumping George Alagiah and Adam Boulton alike. The trial even inspired some program titles – my favourite: ‘Oscar Pistorius: The Sentencing’ – reminiscent of the cheap thrillers purchased in airport lobbies, half-read before swiftly falling into desuetude.

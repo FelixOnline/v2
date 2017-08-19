@@ -4,16 +4,24 @@ title: >
 subtitle: >
   £5000 or more to be paid for repairs to a Coach after Rugby player smashes a window whilst on Tour
 date: "2014-11-06 22:12:45 +0000"
+
 # Attributes from Felix Online V1
 id: "4812"
 old_path: /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
 aliases:
  - /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
+imported: true
+comments:
+ - Cool internet site you have got in herecsgo skins drop rate httpswwwchurchblazecomblogs262313567csgoskinslookingorsnifflingatyourexloverExceptionally individual pleasant site Astounding info readily available on couple of clicks onFIFA 17 POINTS httpwwwfaunaskviewtopicphpf61t21229sid94ffe891f46ff7d36e076f6884d2ae98Exceptionally user friendly website Huge info available on couple of clicksnba 2k17 httpwwwerodateworldeuindexphpmmember_blogpviewid524sid426
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Cool internet site you have got in herecsgo skins drop rate httpswwwchurchblazecomblogs262313567csgoskinslookingorsnifflingatyourexloverExceptionally individual pleasant site Astounding info readily available on couple of clicks onFIFA 17 POINTS httpwwwfaunaskviewtopicphpf61t21229sid94ffe891f46ff7d36e076f6884d2ae98Exceptionally user friendly website Huge info available on couple of clicksnba 2k17 httpwwwerodateworldeuindexphpmmember_blogpviewid524sid426
-imported: true
 ---
 
 Medic rugby players have been suspended pending investigation after smashing a window in a moving coach.

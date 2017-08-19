@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Sara Hamilton reviews how ‘Massive Small Change’ speaker Joanna Beale inspires others to make a difference by improving sanitation in Mozambique
 date: "2016-11-18 14:55:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6468"
 old_path: /science/6468/life-saving-engineering-
 aliases:
  - /science/6468/life-saving-engineering-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Mention science and saving lives and we often think of scrubs, scalpels and open-heart surgery. Joanne Beale from Engineers Without Borders, in her talk ‘Massive Small Change in Mozambique’ opens our eyes to the fact that doctors are not the only ones saving lives directly – engineers are doing it too.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Union to hire £100,000 per year worth of new support staff
 date: "2012-11-22 22:25:37 +0000"
+
 # Attributes from Felix Online V1
 id: "2927"
 old_path: /news/2927/union-hiring-new-staff
 aliases:
  - /news/2927/union-hiring-new-staff
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Imperial College Union ](http://www.imperialcollegeunion.org)is hiring four new staff members whose combined salaries total over £100,000 per year, the budget for which was approved last year.

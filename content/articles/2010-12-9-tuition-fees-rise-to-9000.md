@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Student protests fail to stop coalition plans
 date: "2010-12-09 22:11:43 +0000"
+
 # Attributes from Felix Online V1
 id: "546"
 old_path: /news/546/tuition-fees-rise-to-9000-
 aliases:
  - /news/546/tuition-fees-rise-to-9000-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - nn1209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 And so it has come to pass. After weeks of seemingly endless student protests, vicious exchanges across the House of Commons and many uneasy grumbles from within the Liberal Democrats, the Government’s proposal to raise the tuition fee cap passed through the House of Commons late Thursday afternoon, with 323 votes for versus 302 against

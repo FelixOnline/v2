@@ -4,16 +4,23 @@ title: >
 subtitle: >
   No, they’re not football teams – FELIX puts two South Ken eateries to the test
 date: "2016-03-11 12:08:20 +0000"
+
 # Attributes from Felix Online V1
 id: "6045"
 old_path: /food/6045/lfp-vs-rocco
 aliases:
  - /food/6045/lfp-vs-rocco
+imported: true
+comments:
+ - Happy Thvgnskiaing Gina and Happy Inspiring Blogger Award day to you I adore your blog and all the positivity you send out here to the universe If you so choose to accept swing by my blog to pick it up cheers
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Happy Thvgnskiaing Gina and Happy Inspiring Blogger Award day to you I adore your blog and all the positivity you send out here to the universe If you so choose to accept swing by my blog to pick it up cheers
-imported: true
 ---
 
 If there is one thing South Kensington doesn’t have a shortage of, it’s Italian restaurants. FELIX decided to put two of the more similarly priced places head to head; the more rustic and traditional Rocca, and the modern, do-it-yourself, Loves Fresh Pasta.

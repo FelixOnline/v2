@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An incredible night of thoughtful rap
 date: "2012-11-09 14:22:30 +0000"
+
 # Attributes from Felix Online V1
 id: "2871"
 old_path: /music/2871/return-of-the-rebels-
 aliases:
  - /music/2871/return-of-the-rebels-
+imported: true
+comments:
+ - record For My Parents will be released on August 22nd in our ntaive Japan on our new label Magniph You can see more here  To celebrate the release we will be playing these shows in Japan over the next three monthsMost has been commented on alaedry but in case this helps as wellIt is a bit confusing as to how the daughter of a dead couple can be immortal Although fantasy allows for such logic leaps through the specific mechanics of an alternate reality it may be best left out of the logline May be good to clarify the type of story being either revenge or love based and accordingly change the order of the logline If it is a revenge story then perhaps start with the inciting incident such as the parents murder and then bring in the hero giving chase imbuing her with motivation to clash with the antagonist In which case maybe dont mention the love interest which could very well be the B plotEG When her parents murderer is at large a warrior princes seeks revenge t
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - record For My Parents will be released on August 22nd in our ntaive Japan on our new label Magniph You can see more here  To celebrate the release we will be playing these shows in Japan over the next three monthsMost has been commented on alaedry but in case this helps as wellIt is a bit confusing as to how the daughter of a dead couple can be immortal Although fantasy allows for such logic leaps through the specific mechanics of an alternate reality it may be best left out of the logline May be good to clarify the type of story being either revenge or love based and accordingly change the order of the logline If it is a revenge story then perhaps start with the inciting incident such as the parents murder and then bring in the hero giving chase imbuing her with motivation to clash with the antagonist In which case maybe dont mention the love interest which could very well be the B plotEG When her parents murderer is at large a warrior princes seeks revenge t
-imported: true
 ---
 
 So last Thursday i had the good fortune to visit the Electric Brixton for the ‘Return of the Rebels’ tour. The set included Harlem based rappers Swave Sevah, Mazzi, Poison Pen and Dj Static, one of UK’s finest namely Lowkey, and the main event himself was Immortal Technique. Those who know who he is and have heard his music will probably realise that it must have been an incredible gig. And boy it was.

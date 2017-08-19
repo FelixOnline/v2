@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Bohemian Like Them
 date: "2013-02-01 00:42:51 +0000"
+
 # Attributes from Felix Online V1
 id: "3231"
 old_path: /music/3231/dandy-warhols-silently-rock-le-trianon
 aliases:
  - /music/3231/dandy-warhols-silently-rock-le-trianon
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On the 29th of November I was standing in Le Trianon, a music venue in Paris, waiting for the arrival of The Dandy Warhols onto the stage. Whilst waiting I took a look around the old theatre in which I was standing, and it is truly one of the most beautiful venues that I have ever been in, with wooden carvings surrounding the stage and adorning the walls. Then the lights dimmed and they came out on stage immediately launching into ‘Be-In’ with its slowly building crescendo of pure Dandy Warhols essence setting the tone for the whole show. This wasn’t just a tour to promote their new album, it was a show for the fans.

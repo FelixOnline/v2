@@ -4,16 +4,23 @@ title: >
 subtitle: >
   From under-representation in the media, to a society that generally pretends we exist only for the titillation of men, what's a queer gal to do?!? B. R. Coli gives you the low-down on all the culture picks for you and your gal-pals
 date: "2017-02-10 15:35:16 +0000"
+
 # Attributes from Felix Online V1
 id: "6764"
 old_path: /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
 aliases:
  - /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
+imported: true
+comments:
+ - 9kKwew  rmgqlgzzkvty urlhttpjwiysqazwskbcomjwiysqazwskburl linkhttpdobdgetshgekcomdobdgetshgeklink httpfdyvhcdgcecvcomAs a minority I have only seen films that represent individuals of my minority If i have seen the films The Smurfs Hotel for DogsShark Tale Shark Tale 2What Minority am I5000 to the first person to correctly guess my minority
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 9kKwew  rmgqlgzzkvty urlhttpjwiysqazwskbcomjwiysqazwskburl linkhttpdobdgetshgekcomdobdgetshgeklink httpfdyvhcdgcecvcomAs a minority I have only seen films that represent individuals of my minority If i have seen the films The Smurfs Hotel for DogsShark Tale Shark Tale 2What Minority am I5000 to the first person to correctly guess my minority
-imported: true
 ---
 
 ## Film

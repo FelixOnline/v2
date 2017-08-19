@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Delay comes amidst ongoing protest against BBC campus redevelopment
 date: "2012-06-08 08:26:48 +0100"
+
 # Attributes from Felix Online V1
 id: "2540"
 old_path: /news/2540/planning-permission-for-new-imperial-west-campus-delayed
 aliases:
  - /news/2540/planning-permission-for-new-imperial-west-campus-delayed
+imported: true
+comments:
+ - Our association has indeed been campaigning against the development  To see what has been happening go to wwwimperialfollyorguk  The planning application is due to be decided by Hammersmith  Fulham Council on July 10th  We have advised the council that we will challenge any approval to the application through the courts following on from similar legal challenges at Earls Court and at Shepherds Bush Market  We have spent 18 months trying to persuade the College that a development with less commercial content and reduced density scale and height is what this site needs  Are College students being told what level of profit the College intends to make on the development with its financial partner Voreda Capital  It is worth asking  Henry Peterson Chair St Helens Residents AssociationHammermsmith  Fulham Council has today deferred its decision on the Imperial West Phase 2 application for the third time  The committee report was published and the committee due to meet tomorrow evening to
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Our association has indeed been campaigning against the development  To see what has been happening go to wwwimperialfollyorguk  The planning application is due to be decided by Hammersmith  Fulham Council on July 10th  We have advised the council that we will challenge any approval to the application through the courts following on from similar legal challenges at Earls Court and at Shepherds Bush Market  We have spent 18 months trying to persuade the College that a development with less commercial content and reduced density scale and height is what this site needs  Are College students being told what level of profit the College intends to make on the development with its financial partner Voreda Capital  It is worth asking  Henry Peterson Chair St Helens Residents AssociationHammermsmith  Fulham Council has today deferred its decision on the Imperial West Phase 2 application for the third time  The committee report was published and the committee due to meet tomorrow evening to
-imported: true
 ---
 
 Councillors at the London Borough of Hammersmith and Fulham have postponed discussion of the planning permission for the new “[Imperial West](http://www3.imperial.ac.uk/newcampus)” campus for a second time, following the case officer taking unexpected leave. This follows on quickly from a recent High Court judgement that found that the Borough acted unlawfully in a planning application for the redevelopment of Shepherds Bush Market.

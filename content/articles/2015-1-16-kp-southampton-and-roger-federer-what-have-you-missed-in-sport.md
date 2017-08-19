@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kunal Wagle recaps some of the major stories from the holiday.
 date: "2015-01-16 15:35:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5102"
 old_path: /sport/5102/kp-southampton-and-roger-federer-what-have-you-missed-in-sport
 aliases:
  - /sport/5102/kp-southampton-and-roger-federer-what-have-you-missed-in-sport
+imported: true
+comments:
+ - christian louboutin evening shoescheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - christian louboutin evening shoescheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 A lot has happened in football over the Christmas holidays. From a position of relative strength Chelsea drew against Southampton and lost to Tottenham to allow Manchester City back into the title race. After the Tottenham defeat Chelsea and Manchester City could in fact only be separated by alphabetical order. Since then, though, Chelsea has opened a two-point gap.

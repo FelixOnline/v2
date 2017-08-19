@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lindsay Hennah plays David to Brighton's goliath
 date: "2013-02-14 19:29:54 +0000"
+
 # Attributes from Felix Online V1
 id: "3326"
 old_path: /sport/3326/bucs-cup-semi-finals-for-icsm-netball
 aliases:
  - /sport/3326/bucs-cup-semi-finals-for-icsm-netball
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After winning the BUCS South-Eastern conferencecup 2 years ago and losing out last year to the dubious ways of Royal Holloway, this year’s semi-final against Brighton 2s (away) had a lot riding on it. The journey to the idyllic retirement village of Eastbourne where Brighton students reside was challenge enough, but the long journey just added to our determination for coming away with a victory. We had a ‘nothing can stop us’ attitude and were ready for any challenge that might await us.

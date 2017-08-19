@@ -4,16 +4,24 @@ title: >
 subtitle: >
   YouTube sensation plays London
 date: "2011-10-21 11:39:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1602"
 old_path: /music/1602/kina-grannis-in-london
 aliases:
  - /music/1602/kina-grannis-in-london
+imported: true
+comments:
+ - I love Kina Grannis She is my passion and one true love Thank you for this beautiful article Im being loud
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I love Kina Grannis She is my passion and one true love Thank you for this beautiful article Im being loud
-imported: true
 ---
 
 Kina Grannis is a California-based American singer-songwriter and YouTube sensation. She began performing to her stuffed animals from the age of four, before progressing to her video camera, and finally to people. This month, she is on the European leg of her world tour. She also plans on touring Southeast Asia and Australia later in the year.

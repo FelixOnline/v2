@@ -4,16 +4,23 @@ title: >
 subtitle: >
   "Banter" that is appropriate in the pub is less appropriate elsewhere
 date: "2011-02-03 20:24:43 +0000"
+
 # Attributes from Felix Online V1
 id: "745"
 old_path: /comment/745/speak-responsibly-even-if-no-one-is-listening
 aliases:
  - /comment/745/speak-responsibly-even-if-no-one-is-listening
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week our Media basement neighbours, IC Radio, found themselves on the [wrong side of the Union's broadcasting guidelines](http://www.felixonline.co.uk/?article=727). A guest on one of their music shows used the derogatory term "paki" when referring to one of his and the host's mutual friends. Regardless of whether offense was intended or not, at least one of the show's seven listeners was sufficiently affected to complain.

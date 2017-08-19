@@ -4,16 +4,24 @@ title: >
 subtitle: >
   ICSM President thinks it's BUCing awful
 date: "2013-03-14 23:58:26 +0000"
+
 # Attributes from Felix Online V1
 id: "3456"
 old_path: /news/3456/medics-stage-protest-over-bucs-decision
 aliases:
  - /news/3456/medics-stage-protest-over-bucs-decision
+imported: true
+comments:
+ - We have 5 womens hockey teams across IC and ICSM  instead of coming together and ensuring that everyone who wants to play hockey plays at an appropriate level we spread our skill across two clubs and reduce the quality of hockey playedThis must be the same across all sports I cant believe that students want to preserve some arbitrary historical separation in the way we organise sports participation to the detriment of opportunities to play at the highest level possible and improve your own playing ability by playing at a higher level I cant see any reason why the social aspects cant remain with two separate unions anyway which is likely the bit that people want preserved any wayThere must be others who are bored of playing a lower level than the Sport Imperial could offer by combining the skills of college and medical studentsIf the idea was to create a more inclusive University one where we arent divided so greatly by our separate traditions then I could agree with it as a good idea
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - We have 5 womens hockey teams across IC and ICSM  instead of coming together and ensuring that everyone who wants to play hockey plays at an appropriate level we spread our skill across two clubs and reduce the quality of hockey playedThis must be the same across all sports I cant believe that students want to preserve some arbitrary historical separation in the way we organise sports participation to the detriment of opportunities to play at the highest level possible and improve your own playing ability by playing at a higher level I cant see any reason why the social aspects cant remain with two separate unions anyway which is likely the bit that people want preserved any wayThere must be others who are bored of playing a lower level than the Sport Imperial could offer by combining the skills of college and medical studentsIf the idea was to create a more inclusive University one where we arent divided so greatly by our separate traditions then I could agree with it as a good idea
-imported: true
 ---
 
 The British Universities & Colleges Sport ([BUCS](http://www.bucs.org.uk/homepage.asp)) acts as the national governing body for higher education sport in the UK. They have decided that a single educational institution should not be able to compete as two separate teams. This means that the current system where Imperial College (IC) and Imperial College School of Medicine (ICSM) are separate teams will not be able to continue.

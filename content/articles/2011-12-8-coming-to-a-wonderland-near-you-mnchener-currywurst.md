@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pop off to Hyde Park for winter fun and Austrian food
 date: "2011-12-08 21:53:38 +0000"
+
 # Attributes from Felix Online V1
 id: "1949"
 old_path: /food/1949/coming-to-a-wonderland-near-you-mnchener-currywurst
 aliases:
  - /food/1949/coming-to-a-wonderland-near-you-mnchener-currywurst
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Winter is coming.

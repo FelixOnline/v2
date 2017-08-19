@@ -4,16 +4,23 @@ title: >
 subtitle: >
   My Week with Marilyn, as its title may suggest, only explores a brief section of the icon’s life
 date: "2011-12-01 21:02:27 +0000"
+
 # Attributes from Felix Online V1
 id: "1879"
 old_path: /film/1879/michelles-mesmeric-monroe
 aliases:
  - /film/1879/michelles-mesmeric-monroe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __My Week with Marilyn__

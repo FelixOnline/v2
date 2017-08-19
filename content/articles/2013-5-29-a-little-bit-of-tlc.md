@@ -4,16 +4,24 @@ title: >
 subtitle: >
   How best can we care for an ageing population? Sophie Shina looks at telecare
 date: "2013-05-29 17:26:25 +0100"
+
 # Attributes from Felix Online V1
 id: "3636"
 old_path: /science/3636/a-little-bit-of-tlc
 aliases:
  - /science/3636/a-little-bit-of-tlc
+imported: true
+comments:
+ - Very interesting
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Very interesting
-imported: true
 ---
 
 One third of babies born in 2012 are expected to celebrate their 100th birthday, according to government statistics. Whilst ageing populations are a victory of development, health and social care systems are struggling to cope with the burden of long-term care. As a result, the need for healthcare innovation has intensified — is large-scale telecare implementation the answer we are looking for?

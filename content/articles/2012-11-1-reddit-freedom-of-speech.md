@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yong Wen Chua summarises the controversy currently plaguing Reddit
 date: "2012-11-01 22:36:50 +0000"
+
 # Attributes from Felix Online V1
 id: "2787"
 old_path: /tech/2787/reddit-freedom-of-speech-
 aliases:
  - /tech/2787/reddit-freedom-of-speech-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
-imported: true
 ---
 
 Somewhere in a dank basement, a high school white American teenager smiles to himself for discovering a cute picture of a cat, worthy of sharing with his peers. He fires up his browser and heads to a website called reddit (www.reddit.com) where he posts a link to his uploaded image in a corner of the website called “Awww”.

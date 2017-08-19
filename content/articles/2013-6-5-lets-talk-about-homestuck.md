@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a truely innovative webcomic
 date: "2013-06-05 11:23:03 +0100"
+
 # Attributes from Felix Online V1
 id: "3649"
 old_path: /books/3649/lets-talk-about-homestuck
 aliases:
  - /books/3649/lets-talk-about-homestuck
+imported: true
+comments:
+ - Ilovehomestuck3It Is Not Comparable To UlyssesArt by Valerei httpvalereideviantartcomartHomestucktribute251487092Shes also on tumblr under the same username You are correct Joyce Fan  It is not comparable because it is significantly higher in qualitySweet Bro and Hella Jeff is a more fitting work for comparisonFor those who do find the comic a bit too much to just read such as myself I found it easier to watch the story as a movie If you go on YouTube and search Lets Read Homestuck Act 1 part 1 a group of voice actors read out the story its much easier than sitting down reading it Ive been following Homestuck for two years or so now and there were things I really didnt realize or understand until I heard it read outI highly reccomend it for those just beginning and for those who currently follow Homestuck OWhen I was little I loved to play outdsie in the woods I would spend hours climbing trees and wading in the creeks I picked wild flowers for my p
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ilovehomestuck3It Is Not Comparable To UlyssesArt by Valerei httpvalereideviantartcomartHomestucktribute251487092Shes also on tumblr under the same username You are correct Joyce Fan  It is not comparable because it is significantly higher in qualitySweet Bro and Hella Jeff is a more fitting work for comparisonFor those who do find the comic a bit too much to just read such as myself I found it easier to watch the story as a movie If you go on YouTube and search Lets Read Homestuck Act 1 part 1 a group of voice actors read out the story its much easier than sitting down reading it Ive been following Homestuck for two years or so now and there were things I really didnt realize or understand until I heard it read outI highly reccomend it for those just beginning and for those who currently follow Homestuck OWhen I was little I loved to play outdsie in the woods I would spend hours climbing trees and wading in the creeks I picked wild flowers for my p
-imported: true
 ---
 
 I am an avid follower of many webcomics – both of those with standalone strips and those with longer running storylines. I have, however, found that for the most part, apart from the means of distribution, they don’t differ all that much from their print counterparts. Despite the many creators out there producing brilliant work, there are very few who have attempted to utilise the internet as a creative medium to its full potential. One of the few who, in my opinion, has, is Andrew Hussie, creator of Homestuck.

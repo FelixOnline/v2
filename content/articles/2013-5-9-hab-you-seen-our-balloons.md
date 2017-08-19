@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICSEDS launch their rockets
 date: "2013-05-09 11:56:34 +0100"
+
 # Attributes from Felix Online V1
 id: "3556"
 old_path: /news/3556/hab-you-seen-our-balloons
 aliases:
  - /news/3556/hab-you-seen-our-balloons
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On Sunday 5 May, members of Imperial College Students for the Exploration and Development of Space (ICSEDS) travelled to Elsworth, Cambridgeshire for their first launch. The aim was to launch two high altitude balloons (HABs) and several model rockets built over the course of the year.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Charles Betts and Matt Allinson duke it out over the impact of watching TV
 date: "2011-02-03 20:28:08 +0000"
+
 # Attributes from Felix Online V1
 id: "746"
 old_path: /comment/746/does-watching-tv-ruin-your-life
 aliases:
  - /comment/746/does-watching-tv-ruin-your-life
+imported: true
+comments:
+ - The sad fact remains that the most ubiquitous artistic medium of the world today is a passive one The audience sits there absent distant and detached in their underpants
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The sad fact remains that the most ubiquitous artistic medium of the world today is a passive one The audience sits there absent distant and detached in their underpants
-imported: true
 ---
 
 __Charles Betts__

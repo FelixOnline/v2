@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Holding it in Hyde Park would be the “ultimate aim”
 date: "2011-06-09 21:26:51 +0100"
+
 # Attributes from Felix Online V1
 id: "1350"
 old_path: /news/1350/union-unveil-ambitious-future-for-summer-ball
 aliases:
  - /news/1350/union-unveil-ambitious-future-for-summer-ball
+imported: true
+comments:
+ - Has the student body actually been consulted about this move Fine 1000 tickets have been sold for this years ball but it would be dangerous to take that as 1000 people approve of the move to turn the summer ball into a festivalball How many of those 1000 people would prefer a proper black tie ball in the evening and dont want a festival in Hyde Park in place of their ball After the recent protests on facebook I think the union going ahead and saying theyre going to do more of the same next year when a lot of people have clearly stated they want a more traditional ball is ridiculousThis news simply goes to show that it is the STAFF who decide how to run our students union rather than the student Sabbatical Officers or the student committeesHow else can the union know what future a future DPFS Ents Committee or Council will want to do with THEIR ball The answer they cant Unless of course those decisions are being made by a couple of members of staff Which is almost certainly the case
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Has the student body actually been consulted about this move Fine 1000 tickets have been sold for this years ball but it would be dangerous to take that as 1000 people approve of the move to turn the summer ball into a festivalball How many of those 1000 people would prefer a proper black tie ball in the evening and dont want a festival in Hyde Park in place of their ball After the recent protests on facebook I think the union going ahead and saying theyre going to do more of the same next year when a lot of people have clearly stated they want a more traditional ball is ridiculousThis news simply goes to show that it is the STAFF who decide how to run our students union rather than the student Sabbatical Officers or the student committeesHow else can the union know what future a future DPFS Ents Committee or Council will want to do with THEIR ball The answer they cant Unless of course those decisions are being made by a couple of members of staff Which is almost certainly the case
-imported: true
 ---
 
 The Union have unveiled ambitious plans to “increase the size, scale and profile” of the Summer Ball in years to come, saying that the “ultimate aim” would be to host the event “in Hyde Park or a similar venue” and attract a huge number of students from across London. The news comes with just a week to go until [this year’s Ball](http://www.thesummerball2011.com/), which features headliners Laura Marling and Ian Brown.

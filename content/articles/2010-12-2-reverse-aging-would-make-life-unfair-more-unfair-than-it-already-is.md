@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I do not want to be competing against an 140 year old for jobs
 date: "2010-12-02 21:50:12 +0000"
+
 # Attributes from Felix Online V1
 id: "498"
 old_path: /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
 aliases:
  - /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
+imported: true
+comments:
+ - Cool Thats a clever way of loikong at itiLPtTt  dspzmelknrcq ultram hllnt order prednisone online vmj  doxycycline 188 cheap life insurance OOO
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Cool Thats a clever way of loikong at itiLPtTt  dspzmelknrcq ultram hllnt order prednisone online vmj  doxycycline 188 cheap life insurance OOO
-imported: true
 ---
 
 Let’s start by confirming the fact that what scientists managed to achieve with those mice will probably never be emulated in humans.

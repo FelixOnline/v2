@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Wheelchair enables disabled athletes to re-right themselves back on their wheels after a crash
 date: "2014-11-14 20:00:37 +0000"
+
 # Attributes from Felix Online V1
 id: "4863"
 old_path: /news/4863/self-righting-wheelchair-technology-developed-by-students
 aliases:
  - /news/4863/self-righting-wheelchair-technology-developed-by-students
+imported: true
+comments:
+ - fit flop salesfitflops on sale australia httpaustraliafitflopsblogspotcomchristian louboutin outlet onlinecheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomlouboutin flats salediscount christian louboutin httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pigallechristian louboutin outlet httpcanadachristianlouboutinblogspotcomchristian louboutin pigalle 120christian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomOpwgjV httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flop salesfitflops on sale australia httpaustraliafitflopsblogspotcomchristian louboutin outlet onlinecheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomlouboutin flats salediscount christian louboutin httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pigallechristian louboutin outlet httpcanadachristianlouboutinblogspotcomchristian louboutin pigalle 120christian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomOpwgjV httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
-imported: true
 ---
 
 A team of students from the Department of Bioengineering have augmented a sports wheelchair in order to enable disabled athletes to re-right themselves back on their wheels after a crash. Jacqueline Beddoe-Rosendo, Bianca de Blasi and Simone Castagno developed the prototype during a UROP this summer, which caters to wheelchair basketball athletes and potentially other athletes of high-impact sports such as wheelchair rugby. The technology has been trialled with members of the London Titans wheelchair basketball team, who the team extensively consulted with over the course of the project.

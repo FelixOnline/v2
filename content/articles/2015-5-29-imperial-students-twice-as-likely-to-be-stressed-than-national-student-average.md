@@ -4,16 +4,24 @@ title: >
 subtitle: >
   NUS data shows that Imperial students are more stressed than students at other UK universities on average
 date: "2015-05-29 00:49:05 +0100"
+
 # Attributes from Felix Online V1
 id: "5575"
 old_path: /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
 aliases:
  - /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
+imported: true
+comments:
+ - fitflops clearance australiafitflops sale au httpwwwaustraliafitflopscomfitflops sale clearancefitflops sale australia httpwwwaustraliafitflopscomchristian louboutin pumps shoeschristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomchristian louboutin pumps shoeschristian louboutin online store httpcanadachristianlouboutinoutletblogspotcomchristian louboutin womens flatschristian louboutin httpcanadachristianlouboutinblogspotcomlouboutin for menchristian louboutin online store httpcanadachristianlouboutinoutletblogspotcomchristian louboutin pumpscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops clearance australiafitflops sale au httpwwwaustraliafitflopscomfitflops sale clearancefitflops sale australia httpwwwaustraliafitflopscomchristian louboutin pumps shoeschristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomchristian louboutin pumps shoeschristian louboutin online store httpcanadachristianlouboutinoutletblogspotcomchristian louboutin womens flatschristian louboutin httpcanadachristianlouboutinblogspotcomlouboutin for menchristian louboutin online store httpcanadachristianlouboutinoutletblogspotcomchristian louboutin pumpscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcom
-imported: true
 ---
 
 A[ similar survey to the one conducted by Mentality](%20http:/felixonline.co.uk/news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition/) was ran by the National Union of Students (NUS) back in 2013, which surveyed around 1200 students across the country via an online questionnaire.

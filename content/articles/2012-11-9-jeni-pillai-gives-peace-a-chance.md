@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Trying to be too cool for school, or actually a good band?
 date: "2012-11-09 14:09:24 +0000"
+
 # Attributes from Felix Online V1
 id: "2868"
 old_path: /music/2868/jeni-pillai-gives-peace-a-chance
 aliases:
  - /music/2868/jeni-pillai-gives-peace-a-chance
+imported: true
+comments:
+ - Great Im a little obsessed with this band I think California Daze is a really perfect indie guitarpop song musicallyspeaking something Noel Gallagher or Alex Turner could have written when they still wrote great pop songs And 1998 is just wildly at the other end of the spectrum something of an answer to people convinced that you cant do anything new with a guitar anymore Ironically for a coverGreat Im a little obsessed with this band I think California Daze is a really perfect indie guitarpop song musicallyspeaking something Noel Gallagher or Alex Turner could have written when they still wrote great pop songs And 1998 is just wildly at the other end of the spectrum something of an answer to people convinced that you cant do anything new with a guitar anymore Ironically for a cover  Yes Peace are amazing  saw them a while ago in Birmingham The music scene in btown is amazing atm Swim Deep are so so good Troumaca  for me the jury is still out a bit The Scarlet H
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great Im a little obsessed with this band I think California Daze is a really perfect indie guitarpop song musicallyspeaking something Noel Gallagher or Alex Turner could have written when they still wrote great pop songs And 1998 is just wildly at the other end of the spectrum something of an answer to people convinced that you cant do anything new with a guitar anymore Ironically for a coverGreat Im a little obsessed with this band I think California Daze is a really perfect indie guitarpop song musicallyspeaking something Noel Gallagher or Alex Turner could have written when they still wrote great pop songs And 1998 is just wildly at the other end of the spectrum something of an answer to people convinced that you cant do anything new with a guitar anymore Ironically for a cover  Yes Peace are amazing  saw them a while ago in Birmingham The music scene in btown is amazing atm Swim Deep are so so good Troumaca  for me the jury is still out a bit The Scarlet H
-imported: true
 ---
 
 At first glance, Peace appear to be yet another so-cool-it-hurts, indier-than-thou, guitar band. Just have a look at their haircuts and you’ll see where I’m going with this. But after seeing them play at the Lexington on Tuesday night, I can confirm there’s definitely more to them than that.

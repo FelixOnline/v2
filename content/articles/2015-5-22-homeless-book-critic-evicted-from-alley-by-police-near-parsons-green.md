@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports as student who prints his reviews leads protests
 date: "2015-05-22 11:08:00 +0100"
+
 # Attributes from Felix Online V1
 id: "5559"
 old_path: /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
 aliases:
  - /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
+imported: true
+comments:
+ - I have seen him almost daily for most of that year and have never seen him doing anything other than reading his books or talking to passers by many of whom stop to talk to him  I agree there are problems in that alleyway but it is down to the builders who gather there at the end of the dayI am regular reader how are you everybody This paragraph posted at this web page is genuinely fastidiousnike sale near me httpcrownmodelscomusanikesalenearme24242htmlKristen thank you for your videos You are an iniorsatipn for me to live better love my kids more try just a little harderI followed you last year when you became homeless but I had no idea that you were so you hid it well I had just moved into a town home with room and could have shared what extra I had with you I see your success by the look on your children when you are with them They never looked like they were missing anything Take care and know that people do look up to youBillYou have got wonderful knowlwdge rightnba 2k
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have seen him almost daily for most of that year and have never seen him doing anything other than reading his books or talking to passers by many of whom stop to talk to him  I agree there are problems in that alleyway but it is down to the builders who gather there at the end of the dayI am regular reader how are you everybody This paragraph posted at this web page is genuinely fastidiousnike sale near me httpcrownmodelscomusanikesalenearme24242htmlKristen thank you for your videos You are an iniorsatipn for me to live better love my kids more try just a little harderI followed you last year when you became homeless but I had no idea that you were so you hid it well I had just moved into a town home with room and could have shared what extra I had with you I see your success by the look on your children when you are with them They never looked like they were missing anything Take care and know that people do look up to youBillYou have got wonderful knowlwdge rightnba 2k
-imported: true
 ---
 
 An Imperial student has reached out to homeless man Mark Burns, 43, by publishing his book reviews online. Mark lives in a tent in the alleyway behind a tube stop, and reads and reviews books given to him by passing commuters.

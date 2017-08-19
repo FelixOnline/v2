@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Calum Grant discusses a book about bankers
 date: "2013-11-05 09:33:22 +0000"
+
 # Attributes from Felix Online V1
 id: "3991"
 old_path: /books/3991/are-they-worse-than-animals
 aliases:
  - /books/3991/are-they-worse-than-animals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - mtm10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What does investment banking look like from the point of view of a wide eyed money hungry graduate? Anyone considering going into this avenue of finance after graduation should seriously consider giving this book a read to gain some insight into what kind of work and lifestyle you can expect. The long hours, never ending assignments, high figure deals, fat pay cheques, coveted bonuses and sleeplessness you can expect are neatly summed up in these fast paced and insightful accounts.

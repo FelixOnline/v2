@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rhidian Thomas believes that to mitigate Climate Change we need to first embrace political change
 date: "2017-02-17 14:32:52 +0000"
+
 # Attributes from Felix Online V1
 id: "6781"
 old_path: /comment/6781/climate-change-is-a-political-problem
 aliases:
  - /comment/6781/climate-change-is-a-political-problem
+imported: true
+comments:
+ - Rhidian  thanks for this overview of the watermelon perspectiveThere is much with which Id agree particularly on the need for political change that acknowledges the primacy of the common goodYet several decades of activism and study of Climate Destabilization has brought me to rather different conclusions regarding GeoE As a starting point the idea that the fossil lobby has been the actual source of obstruction  rather than being the lightening rod to deflect blame for western politicians inaction   seems to me increasingly threadbare  Where for instance are the furious counterefforts by the US corporations that make up most of the 92 of US GDP that is not provided by fossil industries  Despite their supply chains being right in the climate firing line they are notable for their silence And why for instance did Obama crush the effort to get a price on carbon in the US in the senate climate bill  See As the world burns by Ryan Lizza in the New Yorker for a forensically detail
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Rhidian  thanks for this overview of the watermelon perspectiveThere is much with which Id agree particularly on the need for political change that acknowledges the primacy of the common goodYet several decades of activism and study of Climate Destabilization has brought me to rather different conclusions regarding GeoE As a starting point the idea that the fossil lobby has been the actual source of obstruction  rather than being the lightening rod to deflect blame for western politicians inaction   seems to me increasingly threadbare  Where for instance are the furious counterefforts by the US corporations that make up most of the 92 of US GDP that is not provided by fossil industries  Despite their supply chains being right in the climate firing line they are notable for their silence And why for instance did Obama crush the effort to get a price on carbon in the US in the senate climate bill  See As the world burns by Ryan Lizza in the New Yorker for a forensically detail
-imported: true
 ---
 
 As political descriptors go, the humble watermelon is   perhaps predictably an unconventional one: it is not wheeled out too often as a way of making a point. It’s a charge often levelled at politicians like Caroline Lucas, who are accused of being green on the outside but red (that is, socialist) on the inside. The scorn that this combination provokes on the right of the political spectrum is telling – for too long, environmentalism has been seen as detached, and even beyond politics: a fringe interest, something best left to millionaire celebrities with a guilty conscience. Global warming is often treated as if it were a catastrophe that we have no control over, with our only hope being some miracle of technology. This could not be further from the truth; climate change is emphatically not like an asteroid heading towards Earth – rather, it is the direct result of the way that we choose to organise our societies and our economies. The challenge that climate change poses is neither scientific nor technological, but political.

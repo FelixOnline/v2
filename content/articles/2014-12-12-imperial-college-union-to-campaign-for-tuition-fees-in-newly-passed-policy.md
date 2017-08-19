@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Opposing paper, to campaign for Free Education, was rejected
 date: "2014-12-12 12:44:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5046"
 old_path: /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
 aliases:
  - /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
+imported: true
+comments:
+ - Quite a nonstory here The Unions stance on any political matter has no other impact than increasing the volume of hot air in the buildingNot that the Union Council can be considered representative of the student body in any meaningful way Most of us dont care what irrelevant extra stuff you lot get up to as long as you dont cock up the day to day running of the UnionVery nice post I certainly appreciate this website Continue the good workparajumpers michelle on sale httpwwwlondongdhandballcoukphocamapskmlspipphpukparajumpersmichelleonsale7177htmlGalaxy Schmid won the 2001 Cup and finished runnerup in 2002 If you played GW 1 anyone then definitely desire to give GW 2 possibility to Prices of hotels vary subject to season and venuefifa 16 hack httpcreditsfutcomlouboutin pumpschristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Quite a nonstory here The Unions stance on any political matter has no other impact than increasing the volume of hot air in the buildingNot that the Union Council can be considered representative of the student body in any meaningful way Most of us dont care what irrelevant extra stuff you lot get up to as long as you dont cock up the day to day running of the UnionVery nice post I certainly appreciate this website Continue the good workparajumpers michelle on sale httpwwwlondongdhandballcoukphocamapskmlspipphpukparajumpersmichelleonsale7177htmlGalaxy Schmid won the 2001 Cup and finished runnerup in 2002 If you played GW 1 anyone then definitely desire to give GW 2 possibility to Prices of hotels vary subject to season and venuefifa 16 hack httpcreditsfutcomlouboutin pumpschristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 Council’s session on Tuesday 9th was dominated by the motion of No Confidence against the ICURFC Club Captain, but the new Higher Education Funding Policy which was passed will probably have even wider implications.

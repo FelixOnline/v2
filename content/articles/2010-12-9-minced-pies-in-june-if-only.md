@@ -4,16 +4,24 @@ title: >
 subtitle: >
   “Why don’t we celebrate Christmas the whole year?”, asks Rhys
 date: "2010-12-09 21:37:43 +0000"
+
 # Attributes from Felix Online V1
 id: "538"
 old_path: /comment/538/minced-pies-in-june-if-only
 aliases:
  - /comment/538/minced-pies-in-june-if-only
+imported: true
+comments:
+ - 2jY5Kn  vjqhujhsjsrh
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ac1507
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 2jY5Kn  vjqhujhsjsrh
-imported: true
 ---
 
 What’s the point in Christmas?

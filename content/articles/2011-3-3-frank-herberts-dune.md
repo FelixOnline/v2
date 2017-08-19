@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Frank Herbert wrote six Dune novels; read the first and forget the rest
 date: "2011-03-03 20:36:13 +0000"
+
 # Attributes from Felix Online V1
 id: "1012"
 old_path: /science/1012/frank-herberts-dune
 aliases:
  - /science/1012/frank-herberts-dune
+imported: true
+comments:
+ - You might have noticed that Ive been carefully referring to only the first book Herbert wrote six Dune novels each worse than the previous one The plots begin to get far too convoluted to the point where I barely understood what was going on and the story begins to feel boringThe plots are complex Thats the nature of the game You were probably bored because you didnt understand the plotMy advice is to read the first book and forget about the restMy advice is to read the Frank Herbert books and forget about the rest
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - You might have noticed that Ive been carefully referring to only the first book Herbert wrote six Dune novels each worse than the previous one The plots begin to get far too convoluted to the point where I barely understood what was going on and the story begins to feel boringThe plots are complex Thats the nature of the game You were probably bored because you didnt understand the plotMy advice is to read the first book and forget about the restMy advice is to read the Frank Herbert books and forget about the rest
-imported: true
 ---
 
 I’ve done very few book reviews over the past few weeks so I thought that I’d remedy this today by reviewing one of the most well known and respected series of science fiction novels: Frank Herbert’s Dune.

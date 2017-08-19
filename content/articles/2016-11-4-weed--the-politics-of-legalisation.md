@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Cannabis legalisation is slowly happening around the world. The game is more political than anything else. How do we compare with the US?
 date: "2016-11-04 15:52:59 +0000"
+
 # Attributes from Felix Online V1
 id: "6401"
 old_path: /millennials/6401/weed--the-politics-of-legalisation
 aliases:
  - /millennials/6401/weed--the-politics-of-legalisation
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - millennials
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## USA | Hilary vs. Trump, but does it really make a difference?

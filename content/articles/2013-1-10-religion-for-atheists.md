@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton shares him impressions from the first meeting of The Sunday Assembly, London’s new ‘atheist church’
 date: "2013-01-10 22:54:52 +0000"
+
 # Attributes from Felix Online V1
 id: "3098"
 old_path: /comment/3098/religion-for-atheists
 aliases:
  - /comment/3098/religion-for-atheists
+imported: true
+comments:
+ - Hi FelixThanks very much for coming I am so glad you liked it in the main We were delighted by the turn out and overwhelmed with the response So many great things were said afterwards with so much help offeredYou totally hit the nail on the head when you said it is a work in progress We went for this format because it was something with which everyone was familiar and to save time We could have wasted years coming up with some totally new thing that was just right Or we could start with the something that worked then improve it every week with feedback from the congregationYep Its a peer reviewed serviceThe main thing that I have to answer is the whole pseudoscience and selfhelp things you wrote about I will go into the specific details later but what I have to say is this we will try to ensure any tool tip or way of thinking we put forward is evidence based and transparentScientific atheists do not worry This is a safe place for youSJxAs an atheist
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi FelixThanks very much for coming I am so glad you liked it in the main We were delighted by the turn out and overwhelmed with the response So many great things were said afterwards with so much help offeredYou totally hit the nail on the head when you said it is a work in progress We went for this format because it was something with which everyone was familiar and to save time We could have wasted years coming up with some totally new thing that was just right Or we could start with the something that worked then improve it every week with feedback from the congregationYep Its a peer reviewed serviceThe main thing that I have to answer is the whole pseudoscience and selfhelp things you wrote about I will go into the specific details later but what I have to say is this we will try to ensure any tool tip or way of thinking we put forward is evidence based and transparentScientific atheists do not worry This is a safe place for youSJxAs an atheist
-imported: true
 ---
 
 "An atheist church”

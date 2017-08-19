@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Data could be readily skewed in Imperial's favour
 date: "2012-02-16 22:19:34 +0000"
+
 # Attributes from Felix Online V1
 id: "2212"
 old_path: /news/2212/flaws-exposed-in-national-student-survey
 aliases:
  - /news/2212/flaws-exposed-in-national-student-survey
+imported: true
+comments:
+ - Settle down gentlemenThis we do not yet know Were working on obtaining an official response from the Department of Computing and our DPEIs an automated approach realistic Would ipsos not cotton on to 160 surveys filled in within 5 minutes of each other all with identical results and all from the same ip etc I accept its possible to emulate human behaviour but it does seem an extreme thing for an institution to do rig the NSS After all college wants cromulent data work fromCommentary on rigging being a tad more difficult than it soundshttpfelixonlinecoukcomment2203onriggingthenssGood article and comment piece httpfelixonlinecoukcomment2203onriggingthenss Alex It raises serious security concernsEven though it may be more difficult that expected to create an automated hack of the NSS I am concerned that the most obvious method would be the most effective manually If each one is entered individually itd be more difficult to trace with the malicious person able
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Settle down gentlemenThis we do not yet know Were working on obtaining an official response from the Department of Computing and our DPEIs an automated approach realistic Would ipsos not cotton on to 160 surveys filled in within 5 minutes of each other all with identical results and all from the same ip etc I accept its possible to emulate human behaviour but it does seem an extreme thing for an institution to do rig the NSS After all college wants cromulent data work fromCommentary on rigging being a tad more difficult than it soundshttpfelixonlinecoukcomment2203onriggingthenssGood article and comment piece httpfelixonlinecoukcomment2203onriggingthenss Alex It raises serious security concernsEven though it may be more difficult that expected to create an automated hack of the NSS I am concerned that the most obvious method would be the most effective manually If each one is entered individually itd be more difficult to trace with the malicious person able
-imported: true
 ---
 
 Students from the Department of Computing have teamed up with Felix to uncover methods which can be used to skew data being submitted to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS) in favour of Imperial College.

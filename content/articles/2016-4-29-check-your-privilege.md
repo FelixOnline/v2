@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It’s time to recognise that it’s not an expression of your freedom of speech to make jokes about marginalised parties
 date: "2016-04-29 10:10:46 +0100"
+
 # Attributes from Felix Online V1
 id: "6093"
 old_path: /comment/6093/check-your-privilege
 aliases:
  - /comment/6093/check-your-privilege
+imported: true
+comments:
+ - Hey Im Asian myself but I think privilege theory is reallllly harmful the way its being preached right now I like the concept behind it but something is going very wrong with the way people are perceiving the message I would agree with the implementation of privilege theory if it were done in a way that encourages people to be thankful for what they have not in an acridly accusing way The general cis white male or privileged people in general right now feel like they are being unnecessarily shamed and antagonized for their privilege I know their feelings dont take precedent over more important issues but further shaming them is not the way to get them to change their mind I worry all this will inevitably result in an incredibly schismatic and disharmonious societyAlready there is a lot of backlashcriticism of privilege theory Some interesting videos belowhttpswwwyoutubecomwatchvcRsYwu8uD4IhttpswwwyoutubecomwatchvAOMpxsiUg2Qhttpswwwyoutubecomwatchv6TU50Bz3Ey0
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hey Im Asian myself but I think privilege theory is reallllly harmful the way its being preached right now I like the concept behind it but something is going very wrong with the way people are perceiving the message I would agree with the implementation of privilege theory if it were done in a way that encourages people to be thankful for what they have not in an acridly accusing way The general cis white male or privileged people in general right now feel like they are being unnecessarily shamed and antagonized for their privilege I know their feelings dont take precedent over more important issues but further shaming them is not the way to get them to change their mind I worry all this will inevitably result in an incredibly schismatic and disharmonious societyAlready there is a lot of backlashcriticism of privilege theory Some interesting videos belowhttpswwwyoutubecomwatchvcRsYwu8uD4IhttpswwwyoutubecomwatchvAOMpxsiUg2Qhttpswwwyoutubecomwatchv6TU50Bz3Ey0
-imported: true
 ---
 
 This piece is something of a sequel – the aftermath of a Women@Imperial week interview in FELIX about a month ago. I spoke about my experience at Imperial as a woman of colour, my reaction to sexist comments that were made as “jokes”, as well as the issue of gendered insults, particularly when it comes to female lecturers. I did this so I could tell those that participated that it was not okay. It didn’t work.

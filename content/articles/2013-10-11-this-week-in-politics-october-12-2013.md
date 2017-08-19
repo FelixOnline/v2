@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A summary of the key issues from around the world
 date: "2013-10-11 23:32:48 +0100"
+
 # Attributes from Felix Online V1
 id: "3828"
 old_path: /politics/3828/this-week-in-politics-october-12-2013
 aliases:
  - /politics/3828/this-week-in-politics-october-12-2013
+imported: true
+comments:
+ - Hahaha cave man hahahaThey were aacdnved much more then you until nuclear war and flood happened and killed themThey were white people more then 170cm tall who had children on North Americas continentThose children were also Native Americas peopleThey were nothing different then most EuropiansLater Indians outnumbered them and murdered them in all Indians stories and many whites became red because of climatePoint is that they sailed with boats from Europe to North AmericaGaddafi is a great manwhat is happening in the mildde east is a carefully crafted plan by the american government and the jews who control itThe goal of america and the jew is for the overthrow of all the mildde eastern countriesThen a puppet government can be put into place that is really controlled by america and the jewI hope this plan of america and the jew backfiresPeople of the mildde east need to be storng and res
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Hahaha cave man hahahaThey were aacdnved much more then you until nuclear war and flood happened and killed themThey were white people more then 170cm tall who had children on North Americas continentThose children were also Native Americas peopleThey were nothing different then most EuropiansLater Indians outnumbered them and murdered them in all Indians stories and many whites became red because of climatePoint is that they sailed with boats from Europe to North AmericaGaddafi is a great manwhat is happening in the mildde east is a carefully crafted plan by the american government and the jews who control itThe goal of america and the jew is for the overthrow of all the mildde eastern countriesThen a puppet government can be put into place that is really controlled by america and the jewI hope this plan of america and the jew backfiresPeople of the mildde east need to be storng and res
-imported: true
 ---
 
 __UK e-borders scheme deemed ineffective:__

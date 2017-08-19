@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A look at one of Britain's most important directors
 date: "2011-01-20 19:53:10 +0000"
+
 # Attributes from Felix Online V1
 id: "618"
 old_path: /film/618/director-profile-danny-boyle
 aliases:
  - /film/618/director-profile-danny-boyle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 The creative void of the ‘80s in cinema did not leave British cinema unaffected. The ‘Carry on…’ films and Hammer Horror series had fizzled out aons ago and the legacy of Ken Loach and Lindsay Anderson’s Kitchen Sink dramas still left a stale aftertaste of gritty misery on British filmmaking. However as shoulder pads and big hair were quickly discarded in favour of baggy t-shirts and high waisted jeans and electro and disco mutated into the craziness of rave music; a special talent emerged to help re-energize the wayward film scene and pull it out of the doldrums. That talent was Danny Boyle and now a household name, his distinctive style and ability to transcend genres hadn’t been seen since the golden days of Stanley Kubrick.

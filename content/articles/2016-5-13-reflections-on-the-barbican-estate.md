@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The concrete colossus captures the optimism of the architechural era
 date: "2016-05-13 08:53:42 +0100"
+
 # Attributes from Felix Online V1
 id: "6147"
 old_path: /comment/6147/reflections-on-the-barbican-estate
 aliases:
  - /comment/6147/reflections-on-the-barbican-estate
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Friends of mine will know that I have a great affinity for F. Scott Fitzgerald’s _The Great Gatsby_. His timeless exposé of the superficiality of the nouveau riche and the upper classes, examined in cinematic description, is simply breath-taking, with a message that is as pertinent today as in the contemporary era. Though the book is more usually associated with love and materialism, the spectacular and haunting descriptions at the close of the novel shed light on failed aspirations; something which I encountered myself not too long ago.

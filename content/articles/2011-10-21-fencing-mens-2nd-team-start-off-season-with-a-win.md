@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Men's 2nd 135-90
 date: "2011-10-21 10:13:24 +0100"
+
 # Attributes from Felix Online V1
 id: "1585"
 old_path: /sport/1585/fencing-mens-2nd-team-start-off-season-with-a-win
 aliases:
  - /sport/1585/fencing-mens-2nd-team-start-off-season-with-a-win
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 The fencing season opened this year at Ethos, with the men’s second team fencing against Surrey University’s first team. After a delayed start, the foilists got things going. Matthew Carney drew first blood with a neat parry-riposte, and continued on to win the bout against the opposition’s left-handed foilist.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Young was more than just a physicist, he also made fortunes in insurance
 date: "2011-11-17 21:02:35 +0000"
+
 # Attributes from Felix Online V1
 id: "1767"
 old_path: /biz/1767/thomas-youngs-entrepreneurial-endeavours
 aliases:
  - /biz/1767/thomas-youngs-entrepreneurial-endeavours
+imported: true
+comments:
+ - Thanks for a fascinating article on yet another side of the amazing Thomas Young I still remember the first time I read Daniel Klines biography of him and learned that the Young of Youngs Modulus in structural engineering and the Young of Youngs Fringes in the theory of light were both the same man Somehow these ceased to be basic terms of physics and engineering  they became links to an extraordinary forgotten genius Why dont they tell us about these things at school A couple of papers about Youngs contibution to structural engineering are available on my website wwwanbealcoukThanks for helping me to acqiure new suggestions about computer systems I also have belief that certain of the best ways to keep your laptop computer in primary condition is by using a hard plastic case or even shell that will fit over the top of the computer A majority of these protective gear are model unique since they are made to fit perfectly within the natural casing You can buy them directly from the v
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thanks for a fascinating article on yet another side of the amazing Thomas Young I still remember the first time I read Daniel Klines biography of him and learned that the Young of Youngs Modulus in structural engineering and the Young of Youngs Fringes in the theory of light were both the same man Somehow these ceased to be basic terms of physics and engineering  they became links to an extraordinary forgotten genius Why dont they tell us about these things at school A couple of papers about Youngs contibution to structural engineering are available on my website wwwanbealcoukThanks for helping me to acqiure new suggestions about computer systems I also have belief that certain of the best ways to keep your laptop computer in primary condition is by using a hard plastic case or even shell that will fit over the top of the computer A majority of these protective gear are model unique since they are made to fit perfectly within the natural casing You can buy them directly from the v
-imported: true
 ---
 
 It was perhaps due to the imperfect knowledge or absolute ignorance humankind had back then that true polymaths could still exist; nowadays, in the age of specialization, it seems almost impossible. But back in the old days, the same person, if gifted and lucky enough, could undertake forefront research in the most diverse areas and make enormous contributions, large enough for their names to be remembered. Thomas Young (1773-1890), a physician by training, was such a polymath.

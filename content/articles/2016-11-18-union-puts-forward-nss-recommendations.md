@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix reads it so you don’t have to (you’re welcome)
 date: "2016-11-18 14:25:08 +0000"
+
 # Attributes from Felix Online V1
 id: "6454"
 old_path: /news/6454/union-puts-forward-nss-recommendations
 aliases:
  - /news/6454/union-puts-forward-nss-recommendations
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The National Student Survey (NSS) came out earlier this year and the long and the short of it is that students are getting less and less satisfied with both College and the Union. The Union has now published its list of recommendations it wanted College to enact to try and reverse the slump, all of which have been accepted.

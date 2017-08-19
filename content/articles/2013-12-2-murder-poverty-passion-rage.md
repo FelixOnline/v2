@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kamil McClelland witnesses Woyzeck’s descent into madness
 date: "2013-12-02 22:08:12 +0000"
+
 # Attributes from Felix Online V1
 id: "4164"
 old_path: /arts/4164/murder-poverty-passion-rage
 aliases:
  - /arts/4164/murder-poverty-passion-rage
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What: Woyzeck

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   'Hand in Hand for Syria' charity caused confusion
 date: "2016-02-19 11:05:14 +0000"
+
 # Attributes from Felix Online V1
 id: "5922"
 old_path: /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
 aliases:
  - /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
+imported: true
+comments:
+ - Hang onWhy were they spending charitable donations on plane flightsPleas correct me if Im wrongpromo codes for nba shop nhl shop china cheap wholesale jerseys chinaThe article implies they spent money raised for charity on plane tickets  Surely that cant be rightnhl shop discount nfll shop cyber monday discount code nba shop codesnfl cheap jerseys wholesale jerseys free shipping cheap jerseysPeyton Manning JerseyDenver Broncos 18 Peyton Manning Blue Stitched NFL Jerseys TShirtsApparel Gear for MenWomen and Kids Buy your boygirl the wholesale price jerseys other great hot jerseys for pickwholesale mlb jerseys cheap mllb jersey shop mlbb promo codeNew England Patriots Super Bowl Jerseys Cheap 20152016 SaleNow free shipping and free returns on Every years Super Bowl Champions Jerseys during 2016 Championship season  patriotssuperbowljerseyuscomcheap jerseys free shipping cheap mlb jerseys from china free shipping cheap jerseysnba sports jerseys nhl shop discount prom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hang onWhy were they spending charitable donations on plane flightsPleas correct me if Im wrongpromo codes for nba shop nhl shop china cheap wholesale jerseys chinaThe article implies they spent money raised for charity on plane tickets  Surely that cant be rightnhl shop discount nfll shop cyber monday discount code nba shop codesnfl cheap jerseys wholesale jerseys free shipping cheap jerseysPeyton Manning JerseyDenver Broncos 18 Peyton Manning Blue Stitched NFL Jerseys TShirtsApparel Gear for MenWomen and Kids Buy your boygirl the wholesale price jerseys other great hot jerseys for pickwholesale mlb jerseys cheap mllb jersey shop mlbb promo codeNew England Patriots Super Bowl Jerseys Cheap 20152016 SaleNow free shipping and free returns on Every years Super Bowl Champions Jerseys during 2016 Championship season  patriotssuperbowljerseyuscomcheap jerseys free shipping cheap mlb jerseys from china free shipping cheap jerseysnba sports jerseys nhl shop discount prom
-imported: true
 ---
 
 One team in RAG’s jailbreak competition found themselves £400 down and a day behind after being pulled off of a flight to Istanbul by anti-terror police.

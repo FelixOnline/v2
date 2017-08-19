@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A new film about a cricket team set up by the Maasai spreads itself too thin, and fails to deliver
 date: "2015-11-15 10:51:10 +0000"
+
 # Attributes from Felix Online V1
 id: "5738"
 old_path: /film/5738/warriors-ambitious-subject-matter-fails-to-pack-a-punch
 aliases:
  - /film/5738/warriors-ambitious-subject-matter-fails-to-pack-a-punch
+imported: true
+comments:
+ - This design is steller You obviously know how to keep a reader amused Between your wit and your videos I was almost moved to start my own blog well almostHaHa Fantastic job I really enjoyed what you had to say and more than that how you presented it Too coolsnapbacks cheap httpwwwtwofangtucnsnapbackhatsThe information means electrical Buy those cards of the fact that prices would increase promote those cards of the fact that price would drop Its where the net profit comes hailing from Once you often play fifa ultimate team on Xbox you would get just a little advantage There are a small difference while it feels like that business of PS3 is all the first one reactingcredits fut rapidement httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This design is steller You obviously know how to keep a reader amused Between your wit and your videos I was almost moved to start my own blog well almostHaHa Fantastic job I really enjoyed what you had to say and more than that how you presented it Too coolsnapbacks cheap httpwwwtwofangtucnsnapbackhatsThe information means electrical Buy those cards of the fact that prices would increase promote those cards of the fact that price would drop Its where the net profit comes hailing from Once you often play fifa ultimate team on Xbox you would get just a little advantage There are a small difference while it feels like that business of PS3 is all the first one reactingcredits fut rapidement httpcreditsfutcom
-imported: true
 ---
 
 _Warriors_ is an important and, at times, genuinely moving documentary. It tells the story of the Maasai warriors of Nairobi, how their culture promotes FGM, and its ties into the AIDS epidemic. In a society where the elders are believed to have a link to God, it’s hard for the youth to be heard. The solution to this? Form a cricket team. It sounds odd, and one does spend most of the film wondering how this club is actually doing anything to help, but we do eventually get an idea, if a little too late.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Christy Kelly explores the recent national conversation about Ralph Miliband
 date: "2013-10-18 21:29:40 +0100"
+
 # Attributes from Felix Online V1
 id: "3892"
 old_path: /comment/3892/ralph-miliband-a-benefactor-of-slander
 aliases:
  - /comment/3892/ralph-miliband-a-benefactor-of-slander
+imported: true
+comments:
+ - Thank you for pointing out the fact that Alfred Harmsworth founder of the Daily Mail and Harold Harmsworth fascist sympathiser The writer of the above comment is quite correct that I was labouring under the misconception that these brothers were one and the same person It is Im sure infuriating to be mistaken for a sibling and I apologise to anyone offended in this regardHowever I do feel that the above writer is labouring under a misconception of their own Though I did indeed have fascist sympathies in mind when writing that dead people need vilifying founding the Daily Mail is I believe sufficient cause to have your rest in peace disturbedFurthermore should Felix publish my submission regarding the Monarchy this week let me assure you that the same sentiment extends to all members of the aristocracy despite any personal charm and goodness that no doubt many possess Should the article not appear then believe me when I say the sentiment is not positiveThe first sentence above sh
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Thank you for pointing out the fact that Alfred Harmsworth founder of the Daily Mail and Harold Harmsworth fascist sympathiser The writer of the above comment is quite correct that I was labouring under the misconception that these brothers were one and the same person It is Im sure infuriating to be mistaken for a sibling and I apologise to anyone offended in this regardHowever I do feel that the above writer is labouring under a misconception of their own Though I did indeed have fascist sympathies in mind when writing that dead people need vilifying founding the Daily Mail is I believe sufficient cause to have your rest in peace disturbedFurthermore should Felix publish my submission regarding the Monarchy this week let me assure you that the same sentiment extends to all members of the aristocracy despite any personal charm and goodness that no doubt many possess Should the article not appear then believe me when I say the sentiment is not positiveThe first sentence above sh
-imported: true
 ---
 
 The recent Daily Mail ‘essay’ (to use Daily Mail sketch writer Quentin Letts’ wonderful euphemism) on Professor Ralph Miliband has demonstrated once more, in no uncertain terms, the vicious and quite frankly lunatic nature of some elements of the British Press. They have, quite rightly, come under the strictest censure and condemnation for what can only be described as a hateful and fear-filled piece. On the other hand (this is not to defend ‘The Mail’ in any way) I could hardly describe the article as a ‘smear’.

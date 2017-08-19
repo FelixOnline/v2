@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jack Steadman looks back at the latest season of Game of Thrones
 date: "2015-06-18 19:42:52 +0100"
+
 # Attributes from Felix Online V1
 id: "5629"
 old_path: /tv/5629/still-surviving-still-thriving-
 aliases:
  - /tv/5629/still-surviving-still-thriving-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Another year, another season of _Game of Thrones_ draws to a close.

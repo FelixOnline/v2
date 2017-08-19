@@ -4,16 +4,23 @@ title: >
 subtitle: >
   AHAAAAAAAAA. It's another Alan Partridge reference
 date: "2012-10-26 02:48:48 +0100"
+
 # Attributes from Felix Online V1
 id: "2757"
 old_path: /food/2757/steakday-bloody-steakday
 aliases:
  - /food/2757/steakday-bloody-steakday
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 Here during the Halloween season, we’re more than happy to cater to all levels of “vampirism” – and by that, we mean we’re going to scrutinize how to cook the perfect beef steak.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A London art gallery’s controversial exhibit has been branded “disrespectful and unacceptable”.
 date: "2011-01-20 19:34:28 +0000"
+
 # Attributes from Felix Online V1
 id: "608"
 old_path: /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
 aliases:
  - /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
+imported: true
+comments:
+ - groan
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - groan
-imported: true
 ---
 
 A London art gallery’s display of a brain removed from the dead body of a multiple sclerosis sufferer has been attacked by Tory MP David Amess, who has branded the display as “disrespectful and unacceptable”.

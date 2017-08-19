@@ -4,16 +4,22 @@ title: >
 subtitle: >
   IC Windsurfing hits Aussie Kiss 15
 date: "2016-10-28 15:49:28 +0100"
+
 # Attributes from Felix Online V1
 id: "6356"
 old_path: /sport/6356/strong-wind-no-problem-for-ic-windsurfers
 aliases:
  - /sport/6356/strong-wind-no-problem-for-ic-windsurfers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On the weekend of the 14th of October, Imperial Windsurfers travelled down to Roadford lake in Devon to join the first student windsurfing festival of the academic year: Aussie Kiss 15. The event was hosted by the Student Windsurfing Association (SWA) and is the first of six core events. 18 Imperial windsurfers joined in the festivities, breaking all past attendance records of the club. More than 350 students from 30 universities up and down the UK were in attendance.

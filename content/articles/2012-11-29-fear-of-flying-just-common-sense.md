@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stephanie Walton shares her travel woes – and makes some worrying predictions for the future
 date: "2012-11-29 23:06:47 +0000"
+
 # Attributes from Felix Online V1
 id: "3003"
 old_path: /comment/3003/fear-of-flying-just-common-sense
 aliases:
  - /comment/3003/fear-of-flying-just-common-sense
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Flying is terrifying: trust me, I’ve tried it. And don’t bother trying to contradict me, because how could sitting in a metal can 30,000 feet up in the air not be scary?

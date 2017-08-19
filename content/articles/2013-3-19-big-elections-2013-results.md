@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Just the results, and a link or two...
 date: "2013-03-19 13:17:19 +0000"
+
 # Attributes from Felix Online V1
 id: "3496"
 old_path: /news/3496/big-elections-2013-results
 aliases:
  - /news/3496/big-elections-2013-results
+imported: true
+comments:
+ - Yeah lets judge people on aspects of themselves they have no control overProgressssIts like weve seen this movie beforeDet finnes skriekt hf8ye Filippinere men jeg har ikke truffet se5 mange av dem Han ene jeg har truffet er se5 tynn at der blir jeg  big man  i sammenligning nesten uansett  Men det er jo kjekt ne5r det er hf8ydeforskjellen som er den mest sle5ende ikke livvidden IMy beautician caiutons that tea tree oil is quite drying thoI still use it secretly and sparingly whenever I have a pimple  Tip Vit E oil v high IU is good for fading scars
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Yeah lets judge people on aspects of themselves they have no control overProgressssIts like weve seen this movie beforeDet finnes skriekt hf8ye Filippinere men jeg har ikke truffet se5 mange av dem Han ene jeg har truffet er se5 tynn at der blir jeg  big man  i sammenligning nesten uansett  Men det er jo kjekt ne5r det er hf8ydeforskjellen som er den mest sle5ende ikke livvidden IMy beautician caiutons that tea tree oil is quite drying thoI still use it secretly and sparingly whenever I have a pimple  Tip Vit E oil v high IU is good for fading scars
-imported: true
 ---
 
 The Big Election results were announced in Metric on Friday 15 March. Below is a tl;dr summary of the results, an election report will be coming up later.

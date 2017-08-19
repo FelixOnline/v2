@@ -4,16 +4,23 @@ title: >
 subtitle: >
   First year geophysics students surprised to open file that included solutions
 date: "2016-05-06 09:40:28 +0100"
+
 # Attributes from Felix Online V1
 id: "6112"
 old_path: /news/6112/exam-mishap-as-students-given-test-with-answers-attached
 aliases:
  - /news/6112/exam-mishap-as-students-given-test-with-answers-attached
+imported: true
+comments:
+ - Hello I just wanted to ask if you ever have any problems with hackers My last blog wordpress was hacked and I ended up losing a few months of hard work due to no backup Do you have any methods to protect against hackersbuildbox windows crack httpblackworldforumcomshowthreadphptid9662Great looking website Assume you did a lot of your very ownyour very own html codingNHL 17 httpkristincollinscomevent424x3VaYz httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomI agree your opinion Thank you for your post Your post is very goodHermes Birkin PrezzoHermes OutletBorse Hermes OutletHermes Outlet ItaliaHermes Handbags OutletHermes Outlet StoreHermes Birkin OutletHermes Kelly OutletHermes Outlet OnlineCheap Hermes BagsReplica Hermes BagsHermes Birkin ReplicaurlhttpwwwacceuorghermesoutletaspHermes Birkin PrezzourlurlhttpwwwacceuorghermesoutletaspHermes OutleturlurlhttpwwwacceuorghermesoutletaspBorse Hermes Outleturlurlhttpwwwacceuorghermesoutl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello I just wanted to ask if you ever have any problems with hackers My last blog wordpress was hacked and I ended up losing a few months of hard work due to no backup Do you have any methods to protect against hackersbuildbox windows crack httpblackworldforumcomshowthreadphptid9662Great looking website Assume you did a lot of your very ownyour very own html codingNHL 17 httpkristincollinscomevent424x3VaYz httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomI agree your opinion Thank you for your post Your post is very goodHermes Birkin PrezzoHermes OutletBorse Hermes OutletHermes Outlet ItaliaHermes Handbags OutletHermes Outlet StoreHermes Birkin OutletHermes Kelly OutletHermes Outlet OnlineCheap Hermes BagsReplica Hermes BagsHermes Birkin ReplicaurlhttpwwwacceuorghermesoutletaspHermes Birkin PrezzourlurlhttpwwwacceuorghermesoutletaspHermes OutleturlurlhttpwwwacceuorghermesoutletaspBorse Hermes Outleturlurlhttpwwwacceuorghermesoutl
-imported: true
 ---
 
 In a classic example of exam season drama, first year geophysics students were given a paper with the answers at the bottom.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   How new super resolution imaging technology can help mankind reach for the stars
 date: "2016-06-03 09:17:30 +0100"
+
 # Attributes from Felix Online V1
 id: "6235"
 old_path: /science/6235/mars-under-the-magnifying-glass
 aliases:
  - /science/6235/mars-under-the-magnifying-glass
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I get angry waiting for Google Maps to load on my iPhone and I tell this to Jan-Peter Muller, Professor of Image Understanding and Remote Sensing at the Department of Space and Climate Physics at UCL. He looks as if he’s experienced a similar thing. “If you think 3G or GPRS is bad, try processing an image of Mars”.

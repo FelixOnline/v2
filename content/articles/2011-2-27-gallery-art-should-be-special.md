@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Modern art frankly isn’t, argues Charles Betts
 date: "2011-02-27 19:22:11 +0000"
+
 # Attributes from Felix Online V1
 id: "911"
 old_path: /arts/911/gallery-art-should-be-special
 aliases:
  - /arts/911/gallery-art-should-be-special
+imported: true
+comments:
+ - this is the kind of ridiculous writing that leads to the decline of culture we have to be able to see the beauty in what the artists of today are doing because we are not going back to michelangelo  and that is a good thing art must as all things move constantly forwardsnot really  Installation arts purpose is for the artist to create a reaction in the viewer However like all genres it may be created through and for any purpose for cash to impress a girl from an awakening dream etc But the artist in this genre is a voyeur and its the reaction they seek Here the artist has caused a reaction and therefore their purpose is achieved Alas never forget beauty is in the eye of the beholder What would be nice however would be some data points backing up some of Charles quite brave claimsGranted there is bad modern art but theres also bad science literature music and just about anything  Lets try and focus on the good stuff  Its all too easy to pander to populist sentiments and
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - cb403
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
-author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - this is the kind of ridiculous writing that leads to the decline of culture we have to be able to see the beauty in what the artists of today are doing because we are not going back to michelangelo  and that is a good thing art must as all things move constantly forwardsnot really  Installation arts purpose is for the artist to create a reaction in the viewer However like all genres it may be created through and for any purpose for cash to impress a girl from an awakening dream etc But the artist in this genre is a voyeur and its the reaction they seek Here the artist has caused a reaction and therefore their purpose is achieved Alas never forget beauty is in the eye of the beholder What would be nice however would be some data points backing up some of Charles quite brave claimsGranted there is bad modern art but theres also bad science literature music and just about anything  Lets try and focus on the good stuff  Its all too easy to pander to populist sentiments and
-imported: true
 ---
 
 You may recall Miroslaw Balka’s “Box of Darkness” that was displayed at the Tate Modern back in 2009. For the uninitiated, it was effectively a very big box that was very dark, and you could walk around inside it, and, err, well that was about it really. Except it wasn’t really very dark as there was a wide-open entrance, plenty of camera flashes, and people fiddling with their mobiles.

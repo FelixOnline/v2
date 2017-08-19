@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Lloyd James encourages you to participate in university democracy
 date: "2016-11-04 14:39:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6395"
 old_path: /comment/6395/out-of-touch-union-staff-and-sabbs-necessitate-student-engagement
 aliases:
  - /comment/6395/out-of-touch-union-staff-and-sabbs-necessitate-student-engagement
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week at Council, a report from the Deputy President (Welfare) revealed that she had successfully secured £5000 from College for a one-year subscription to Consent Matters, an online educational tool to be integrated with Blackboard that supposes to inform students about “sex, consent, and relationships”. Consent Matters is a 2 hour course that, from the preview on their website, appears to be composed entirely of stick-figure animations with a narration so mind-numbingly patronising that the viewer regresses into a child-like state as they’re taught the thoroughly novel lesson that ‘sometimes touching people’s no-no parts is bad’.

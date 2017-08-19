@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular column on our favourite animation
 date: "2016-02-05 12:48:20 +0000"
+
 # Attributes from Felix Online V1
 id: "5884"
 old_path: /tv/5884/cartoon-corner-bojack-horseman
 aliases:
  - /tv/5884/cartoon-corner-bojack-horseman
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Bojack Horseman is a show about an alcoholic horse who was the star of a Cosby-esque family sitcom in the 90s, now dealing with a life of loneliness and depression. Also, it is fantastic.

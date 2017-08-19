@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas pontificate on Frieze
 date: "2012-10-18 21:09:24 +0100"
+
 # Attributes from Felix Online V1
 id: "2691"
 old_path: /arts/2691/frieze-art-fair-10
 aliases:
  - /arts/2691/frieze-art-fair-10
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __WTF is Frieze?__

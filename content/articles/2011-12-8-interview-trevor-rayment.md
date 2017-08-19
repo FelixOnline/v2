@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Alice Yang talks to the Director of Physical Sciences at Diamond Light Source
 date: "2011-12-08 20:26:54 +0000"
+
 # Attributes from Felix Online V1
 id: "1912"
 old_path: /news/1912/interview-trevor-rayment
 aliases:
  - /news/1912/interview-trevor-rayment
+imported: true
+comments:
+ - Why have the Candidates failed so mirbsaely to produce and distribute at least a modicum of publicity on their behalfs As far as I can make out you just put your name down expect everyone to visit your website if  you have one and  if they are computer literate that is then vote you in Rank arrogance if you cant be bothered to state your position and state what your aims are why anyone should vote for you
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Why have the Candidates failed so mirbsaely to produce and distribute at least a modicum of publicity on their behalfs As far as I can make out you just put your name down expect everyone to visit your website if  you have one and  if they are computer literate that is then vote you in Rank arrogance if you cant be bothered to state your position and state what your aims are why anyone should vote for you
-imported: true
 ---
 
 [Diamond Light Source](http://www.diamond.ac.uk/), the UK’s national synchrotron facility, sits in the form of a gigantic steel ring amongst stretches of the green countryside surrounding the Harwell Science and Innovation Campus in Oxfordshire. Less than a decade old, this facility is at the cutting edge of research and luckily for me, having interned here for eight weeks, [Professor Trevor Rayment](http://www.diamond.ac.uk/Home/About/Company/Management.html), Director of Physical Sciences at Diamond, has managed to find a few minutes in his busy schedule for this interview.

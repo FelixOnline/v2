@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Alice Yang talks to the Chairman of Chiltern Railways about careers in industry
 date: "2011-11-10 21:16:52 +0000"
+
 # Attributes from Felix Online V1
 id: "1727"
 old_path: /news/1727/interview-adrian-shooter
 aliases:
  - /news/1727/interview-adrian-shooter
+imported: true
+comments:
+ - Im sure him being responsible for the sale of the franchise had nothing to do with him winning it Nope Not at allThis is a joke right He straight up says that he was responsible for selling the franchise and that out of 13 competing companies his company won On behalf of my employer I had to sell the business  it was competitive and we had 13 companies bidding for it  Thirdly in my own time I had to work out with my team how to buy itHowever Ill admit that this isnt proof that he behaved inappropriately the appearance of wrongdoing is not the same as actual wrongdoing He has amazing eyebrows
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im sure him being responsible for the sale of the franchise had nothing to do with him winning it Nope Not at allThis is a joke right He straight up says that he was responsible for selling the franchise and that out of 13 competing companies his company won On behalf of my employer I had to sell the business  it was competitive and we had 13 companies bidding for it  Thirdly in my own time I had to work out with my team how to buy itHowever Ill admit that this isnt proof that he behaved inappropriately the appearance of wrongdoing is not the same as actual wrongdoing He has amazing eyebrows
-imported: true
 ---
 
 Behind a large brown door in Marylebone station are the offices of Chiltern Railways, the UK’s fastest growing train operating company over the past 15 years. A few minutes after being shown into a modest meeting room on the top floor of the building, Adrian Shooter, CBE and Chairman of Chiltern Railways, enters, apologising for the delay.

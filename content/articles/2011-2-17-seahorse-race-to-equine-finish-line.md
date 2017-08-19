@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mathemetical model demonstrates an upright advantage
 date: "2011-02-17 20:33:51 +0000"
+
 # Attributes from Felix Online V1
 id: "846"
 old_path: /science/846/seahorse-race-to-equine-finish-line-
 aliases:
  - /science/846/seahorse-race-to-equine-finish-line-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 How did the seahorse get its shape? According to a new study published in Nature Communications, the tiny critters’ horse-like bodies evolved to help them capture prey large distances away from their beady eyes.

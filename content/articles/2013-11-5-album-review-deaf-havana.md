@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This show made me realise they’re not wrong (maybe grammatically, but, you know…). Surrounded by teenagers having the time of their young lives, I came to the startling realisation that I am no longer young.
 date: "2013-11-05 09:37:40 +0000"
+
 # Attributes from Felix Online V1
 id: "3995"
 old_path: /music/3995/album-review-deaf-havana
 aliases:
  - /music/3995/album-review-deaf-havana
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Deaf Havana’s early single Friends Like These ends with the repeated line “Nothing gets worse than growing old”. This show made me realise they’re not wrong (maybe grammatically, but, you know…). Surrounded by teenagers having the time of their young lives, I came to the startling realisation that I am no longer young. There were people jumping up and down, there were people singing along to every word, there were young couples spooning like their lives depended on it. Then there was me, stood at the back, tapping my foot along nonchalantly, and drinking a pint of cheap lager like my life depended on it.

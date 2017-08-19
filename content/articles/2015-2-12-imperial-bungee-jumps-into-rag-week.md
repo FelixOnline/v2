@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports on this year's charity extravaganza, which included walking on fire, jumping from cranes, and tunnelling
 date: "2015-02-12 21:36:57 +0000"
+
 # Attributes from Felix Online V1
 id: "5239"
 old_path: /news/5239/imperial-bungee-jumps-into-rag-week
 aliases:
  - /news/5239/imperial-bungee-jumps-into-rag-week
+imported: true
+comments:
+ - httpfluconazolepurchasediflucancom  Fluconazole For Sale Online Pharmacy Cialis httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  150 Mg Diflucan Canadian Pharmacy Online httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Diflucan In Men Canadian Pharmacy Online Drugstore httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Purchase Fluconazole Canadian Pharmacy httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Diflucan Yeast Infection Dose Canadian Online Pharmacy httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Diflucan Without A Prescription Online Pharmacy httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Buy Diflucan Canadian Pharmacy Online httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Taking Diflucan Pharmacy Viagra httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Watery Discharge After Using Fluconazole Fluconazo
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpfluconazolepurchasediflucancom  Fluconazole For Sale Online Pharmacy Cialis httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  150 Mg Diflucan Canadian Pharmacy Online httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Diflucan In Men Canadian Pharmacy Online Drugstore httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Purchase Fluconazole Canadian Pharmacy httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Diflucan Yeast Infection Dose Canadian Online Pharmacy httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Diflucan Without A Prescription Online Pharmacy httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Buy Diflucan Canadian Pharmacy Online httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Taking Diflucan Pharmacy Viagra httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Watery Discharge After Using Fluconazole Fluconazo
-imported: true
 ---
 
 This week saw two days of bungee jumping, one evening of fire walking, a lunchtime of pancake-tossing and just under 900 doughnuts; all in the name of Raising And Giving (RAG).

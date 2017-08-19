@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dell leaks details of five new mobile devices and new information about two already known
 date: "2010-04-30 11:39:05 +0100"
+
 # Attributes from Felix Online V1
 id: "133"
 old_path: /tech/133/dells-device-deluge
 aliases:
  - /tech/133/dells-device-deluge
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
-imported: true
 ---
 
 ###

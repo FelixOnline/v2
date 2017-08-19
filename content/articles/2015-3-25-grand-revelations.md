@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Science Museum's latest show of scientific photography is an incredible triumph
 date: "2015-03-25 14:00:15 +0000"
+
 # Attributes from Felix Online V1
 id: "5457"
 old_path: /arts/5457/grand-revelations
 aliases:
  - /arts/5457/grand-revelations
+imported: true
+comments:
+ - Generic Viagra Generic Viagra cheap Levitra  generic cialis 20mg review viagra 100mg review 9162015 cialis dosage time  cheap Cialis cialis  Belgique Viagra Cialis  alfin sildenafil 50 mg 3 day cialis dosage viagra 100mg review honda cialis reviews recreational outreach sildenafil citrate 50mg tab  Cialis online Viagra cheap Levitra httpwwwviagramedicationcom httpwwwvgbestpcom httpwwwdilescocom   kamagra uk next day cialis buy generic hydrochlorothiazide generic viagra pack viagra 100mg review dodge kamagra effervescent pictures  Cialis Buy Tadalafil Cialis Generic nba 2k16 mtcentral httpijmaorgukindexphpdoblog54063thecheapnba2k16coinsabaseballgameurlhttpflagylantibioticmetronidazolenetBuy Flagylurl Tadalafil 20mg Lowest Price httplevitra20mgpricescomurlhttpflagylantibioticmetronidazolenetFlagylurl Cialis httplevitra20mgpricescomurlhttpflagylantibioticmetronidazolenetFlagylurl Cialis For Sale httplevitra20mgprice
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Generic Viagra Generic Viagra cheap Levitra  generic cialis 20mg review viagra 100mg review 9162015 cialis dosage time  cheap Cialis cialis  Belgique Viagra Cialis  alfin sildenafil 50 mg 3 day cialis dosage viagra 100mg review honda cialis reviews recreational outreach sildenafil citrate 50mg tab  Cialis online Viagra cheap Levitra httpwwwviagramedicationcom httpwwwvgbestpcom httpwwwdilescocom   kamagra uk next day cialis buy generic hydrochlorothiazide generic viagra pack viagra 100mg review dodge kamagra effervescent pictures  Cialis Buy Tadalafil Cialis Generic nba 2k16 mtcentral httpijmaorgukindexphpdoblog54063thecheapnba2k16coinsabaseballgameurlhttpflagylantibioticmetronidazolenetBuy Flagylurl Tadalafil 20mg Lowest Price httplevitra20mgpricescomurlhttpflagylantibioticmetronidazolenetFlagylurl Cialis httplevitra20mgpricescomurlhttpflagylantibioticmetronidazolenetFlagylurl Cialis For Sale httplevitra20mgprice
-imported: true
 ---
 
 Out of all the artistic disciples, it is photography that is the most fundamentally scientific. From the early days of the camera obscura, whose physics has delighted humanity since the Ancient Greeks, to the chemical reactions silver nitrate underwent in creating the first fixed photographic prints, science has always neatly allied itself with photography, with each field informing and shaping the other - a true expression of a symbiotic relationship. Even today, whenever fixing an image on film, there is an experimental quality: the reel goes into its little black tube, unseen, and it’s not until you have gone through the labour of love of developing and printing that you can actually see what you’ve managed to create.

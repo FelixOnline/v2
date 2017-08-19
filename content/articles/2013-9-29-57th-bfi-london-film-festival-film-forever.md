@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Film Editor John Park introduces the 57th BFI London Film Festival
 date: "2013-09-29 15:41:46 +0100"
+
 # Attributes from Felix Online V1
 id: "3782"
 old_path: /film/3782/57th-bfi-london-film-festival-film-forever
 aliases:
  - /film/3782/57th-bfi-london-film-festival-film-forever
+imported: true
+comments:
+ - I have all the Mario Parties except the DS one now when I look back at them Ive rehcaed the opinion that with everyone that comes its worse and worse thats not to say that the first 3 where bad on the contrary if I may rate them from someone who played them and spent a lot of time in them I tried the DS version on an emulator too Id rate them so 1st Mario Party 2nd Mario Party 2 3rd Mario Party 5 4th Mario Party 3 5 MP6 6MP7 7 MP4 8 MP DS 9 MP 8 10 MP Advance i luv da Mario paty series this game looks fun ive only plaeyd Mario party ds but ive seen most of the Mario party game therye mostly all funexcept for 6 7 8 and Mario party ds because the only reason that those versions arent that fun is because you cant be dk
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - I have all the Mario Parties except the DS one now when I look back at them Ive rehcaed the opinion that with everyone that comes its worse and worse thats not to say that the first 3 where bad on the contrary if I may rate them from someone who played them and spent a lot of time in them I tried the DS version on an emulator too Id rate them so 1st Mario Party 2nd Mario Party 2 3rd Mario Party 5 4th Mario Party 3 5 MP6 6MP7 7 MP4 8 MP DS 9 MP 8 10 MP Advance i luv da Mario paty series this game looks fun ive only plaeyd Mario party ds but ive seen most of the Mario party game therye mostly all funexcept for 6 7 8 and Mario party ds because the only reason that those versions arent that fun is because you cant be dk
-imported: true
 ---
 
 Dear freshers, welcome to London. And to those returning, welcome back. And what a way to kick off the misery that is October with British Film Institute’s (BFI) stunning 57th London Film Festival. With films that are sure to be contenders when it comes to the big awards, the London Film Festival has that rare appeal of having a huge public presence. It’s easy to score some tickets (although the big gala screenings might be fully sold out by now), so keep an eye out for those screenings that will be shown all across central London cinemas.

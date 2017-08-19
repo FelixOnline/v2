@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Welcome to Scotland: where we are greeted by Bruce Robertson (McAvoy), a coke-snorting, alcohol-addicted, sex-loving detective who’s gunning for a promotion to the position of detective inspector.
 date: "2013-10-12 19:12:53 +0100"
+
 # Attributes from Felix Online V1
 id: "3849"
 old_path: /film/3849/mcavoys-filthy-habits
 aliases:
  - /film/3849/mcavoys-filthy-habits
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Welcome to Scotland: where we are greeted by Bruce Robertson (McAvoy), a coke-snorting, alcohol-addicted, sex-loving detective who’s gunning for a promotion to the position of detective inspector. In order to get there, he needs to eliminate his competition. And by eliminate we don’t mean kill, but rather publicly humiliate so they’ll be out of the running. He’s racist, sexist, and every kind of -ist you can think of, and as we find out more about this troubled man, you begin to question the narrator’s mental state as he has distressing visions that get in the way of his boozy, dopey life. That someone like Bruce is in the law enforcement line of work already provides some solid groundwork for the film to build on.

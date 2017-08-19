@@ -4,16 +4,23 @@ title: >
 subtitle: >
   London squad take the advantage in second half
 date: "2011-11-24 23:47:36 +0000"
+
 # Attributes from Felix Online V1
 id: "1853"
 old_path: /sport/1853/ic--st-marys-hurlers-bring-home-division-2-trophy-
 aliases:
  - /sport/1853/ic--st-marys-hurlers-bring-home-division-2-trophy-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In the early morning before the British University Hurling Championships a squad of 9 Imperial College and 5 St. Mary’s hurlers dragged themselves out of bed and headed to the Union where a minibus was waiting. On the road to Birmingham, with no idea of what lay ahead, the lads discussed the best starting line-up for the team. Arriving at Páirc na hÉireann by the official starting time, a first for the IC lads, gave the team enough time for a warm up and some drills.

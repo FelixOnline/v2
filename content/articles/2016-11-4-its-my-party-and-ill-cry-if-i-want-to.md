@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Lef Apostolakis responds to Aayush’s response (left)
 date: "2016-11-04 14:23:30 +0000"
+
 # Attributes from Felix Online V1
 id: "6391"
 old_path: /comment/6391/its-my-party-and-ill-cry-if-i-want-to
 aliases:
  - /comment/6391/its-my-party-and-ill-cry-if-i-want-to
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 During this conversation we have touched upon two topics, each with its own complexities, each in need of far more discussion than allowed in a couple of pages. One is the difficulties associated with immigration, the other one is the tensions that Brexit has intensified.

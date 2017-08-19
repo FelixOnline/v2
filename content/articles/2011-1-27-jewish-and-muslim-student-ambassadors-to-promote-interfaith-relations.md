@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Programme aims to "set a new tone of respectful debate on campus"
 date: "2011-01-27 18:36:51 +0000"
+
 # Attributes from Felix Online V1
 id: "656"
 old_path: /news/656/jewish-and-muslim-student-ambassadors-to-promote-interfaith-relations-
 aliases:
  - /news/656/jewish-and-muslim-student-ambassadors-to-promote-interfaith-relations-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The introduction of 18 Muslim and Jewish students acting as “campus ambassadors” in 10 universities across the UK is hoped to promote more interfaith relationships between the two communities.

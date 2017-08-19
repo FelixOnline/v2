@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Should we stay or should we go?
 date: "2016-05-13 08:57:17 +0100"
+
 # Attributes from Felix Online V1
 id: "6149"
 old_path: /features/6149/an-idiots-guide-to-the-eu-referendum
 aliases:
  - /features/6149/an-idiots-guide-to-the-eu-referendum
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Over the course of the last UK election period and for the bulk of 2016 so far, the media and news in general has been focussed on the UK’s membership within the European Union, but what’s actually going on?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ellen Mathieson on three films with just one plot between them
 date: "2015-01-23 16:50:36 +0000"
+
 # Attributes from Felix Online V1
 id: "5131"
 old_path: /film/5131/you-all-look-the-same-to-me
 aliases:
  - /film/5131/you-all-look-the-same-to-me
+imported: true
+comments:
+ - Wonderful blog I found it while browsing on Yahoo News Do you have any tips on how to get listed in Yahoo News Ive been trying for a while but I never seem to get there Thankscanada goose jassen zonder bontkraag bestellen httpwwwacmelnlnlnlcanadagoosejassenzonderbontkraagbestellen9047htmlHey I could have sworn Ive been to this website before but after checking through some of the post I realized its new to me Nonetheless Im definitely glad I found it and Ill be bookmarking and checking back oftengoedkope nike mercurial zwart httppaulramnlnlgoedkopenikemercurialzwart18934htmlI have one now trying to claim his late fathers company will lend him money to get home from overseas But he wants to wire the money to my account to supposedly help me with my bills and send him the rest to pay for his flight hotel fix a machinewhich the other day he only needed 100 but suddenly wants to wire 100 times that into my account Giant red flag thereurlhttpwwwl
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Wonderful blog I found it while browsing on Yahoo News Do you have any tips on how to get listed in Yahoo News Ive been trying for a while but I never seem to get there Thankscanada goose jassen zonder bontkraag bestellen httpwwwacmelnlnlnlcanadagoosejassenzonderbontkraagbestellen9047htmlHey I could have sworn Ive been to this website before but after checking through some of the post I realized its new to me Nonetheless Im definitely glad I found it and Ill be bookmarking and checking back oftengoedkope nike mercurial zwart httppaulramnlnlgoedkopenikemercurialzwart18934htmlI have one now trying to claim his late fathers company will lend him money to get home from overseas But he wants to wire the money to my account to supposedly help me with my bills and send him the rest to pay for his flight hotel fix a machinewhich the other day he only needed 100 but suddenly wants to wire 100 times that into my account Giant red flag thereurlhttpwwwl
-imported: true
 ---
 
 This week I somehow found myself with a day free, so made the choice to go and see a triple bill of _Whiplash_, _Birdman_ and _Foxcatcher_, which between them have accumulated an impressive selection of award nominations and wins, including nineteen Oscar nominations. So there was one thing about them that really surprised me, and I possibly only noticed it watching them back to back. Though they are set at different times, in different places, with vastly different plots, they are exceedingly similar.

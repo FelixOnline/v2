@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sabbatical elections get under way
 date: "2011-03-01 20:46:16 +0000"
+
 # Attributes from Felix Online V1
 id: "957"
 old_path: /news/957/candidates-begin-campaigning
 aliases:
  - /news/957/candidates-begin-campaigning
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With Sabbatical Elections right around the corner, the candidates for the different positions are getting geared up for a fierce week of campaigning for the voting period that starts next week.

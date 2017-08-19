@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The path of least resistance is the worst path you can take
 date: "2011-10-07 01:48:37 +0100"
+
 # Attributes from Felix Online V1
 id: "1476"
 old_path: /comment/1476/another-year-of-undue-praise
 aliases:
  - /comment/1476/another-year-of-undue-praise
+imported: true
+comments:
+ - Nice article was worth my reading so is worth my commenting Thank You Angry Greek
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Nice article was worth my reading so is worth my commenting Thank You Angry Greek
-imported: true
 ---
 
 To those of you starting a new chapter of your lives at Imperial this month, welcome. This is the only paragraph you’re getting dedicated to you for the rest of the year if I can help it. Breathe it in. I’m here for you. I care. Listen to these words of encouragement and sympathy. Your life is hard, but well done for making it this far. All of those exams you had to do, poor little you. It must’ve been really hard to coast on the back of natural ability, copious amounts of privately funded education, or an impeccable national education system. Congratulations for being you. Pats on the back all round.

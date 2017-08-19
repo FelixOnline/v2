@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The RCSU are raising funds for the victims of the accident in Bangladesh. This is the price of our budget clothes
 date: "2013-05-01 14:50:36 +0100"
+
 # Attributes from Felix Online V1
 id: "3515"
 old_path: /news/3515/the-real-cost-of-our-cheap-clothing
 aliases:
  - /news/3515/the-real-cost-of-our-cheap-clothing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As a new term dawns we know we won’t be the only ones indulging in a little online shopping procrastination. We are often reminded to think about where the various elements of our life come from, our food, our energy, but what about our clothes? At a time when your moral and ethical values are seriously questioned if you are seen buying anything other than free range, organic super eggs we very rarely question shopping at chains like Primark of H&M. Well, who can blame us when we can buy all our shoes for under a tenner, right? Maybe not.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sean Harbison unleashes his wrath in Dungeons
 date: "2011-02-10 20:38:17 +0000"
+
 # Attributes from Felix Online V1
 id: "779"
 old_path: /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
 aliases:
  - /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
+imported: true
+comments:
+ - httpoemsoft4youcombrandmicrosoftmicrosoft_system_center_operations_manager_2007_r2_windows  Buy cheap Microsoft System Center Operations Manager 2007 R2 Oem Software Versionhttpoemsoft4youcombrandintuitintuit_quicken_home_and_business_2010_windows  Buy cheap Intuit Quicken Home And Business 2010 Oem Software Versionhttpoemsoft4youcombrandmicrosoftmicrosoft_office_2008_mac_os_mac_osx  Buy cheap Microsoft Office 2008 Mac OS Oem Software Versionhttpoemsoft4youcombrandwolframwolfram_mathematica_7_windows  Buy cheap Wolfram Mathematica 7 Oem Software Versionhttpoemsoft4youcombrandsonyacid_pro_7_0c  Buy cheap Sony ACID Pro 70c Oem Software VersionBuy Xilisoft ISO Burner for    1690     httpusasoftnetshopitem154Buy Autodesk AutoCAD Inventor Professional Suite 2010 32 bit for    39990     httpusasoftnetshopitem335Buy Neobyte Titan Backup for    1990     httpusasoftnetshopitem167Buy TamoSoft CommView For WiFi 6 Full fo
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - skh10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "skh10"
 author_name: "Sean Harbison"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Sean Harbison"
 author_facebook: "http://www.facebook.com/sean.harbison"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpoemsoft4youcombrandmicrosoftmicrosoft_system_center_operations_manager_2007_r2_windows  Buy cheap Microsoft System Center Operations Manager 2007 R2 Oem Software Versionhttpoemsoft4youcombrandintuitintuit_quicken_home_and_business_2010_windows  Buy cheap Intuit Quicken Home And Business 2010 Oem Software Versionhttpoemsoft4youcombrandmicrosoftmicrosoft_office_2008_mac_os_mac_osx  Buy cheap Microsoft Office 2008 Mac OS Oem Software Versionhttpoemsoft4youcombrandwolframwolfram_mathematica_7_windows  Buy cheap Wolfram Mathematica 7 Oem Software Versionhttpoemsoft4youcombrandsonyacid_pro_7_0c  Buy cheap Sony ACID Pro 70c Oem Software VersionBuy Xilisoft ISO Burner for    1690     httpusasoftnetshopitem154Buy Autodesk AutoCAD Inventor Professional Suite 2010 32 bit for    39990     httpusasoftnetshopitem335Buy Neobyte Titan Backup for    1990     httpusasoftnetshopitem167Buy TamoSoft CommView For WiFi 6 Full fo
-imported: true
 ---
 
 Dungeons, the sequel to the 90’s classic [Dungeon Keeper](http://en.wikipedia.org/wiki/Dungeon_Keeper), is a sim-management game that sets the player as a Dungeon Lord who must design their foul, evil cave of despair to entince in heroes... before brutally murdering them at their peak to steal their ‘soul energy’. The idea is basic enough; your dungeon is made more tempting by artefacts, monsters and traps. In order to buy more of these you must harvest more and more soul energy from captured heroes.

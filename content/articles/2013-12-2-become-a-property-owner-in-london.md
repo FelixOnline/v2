@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Are you thinking of buying property in South Kensington?
 date: "2013-12-02 21:48:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4155"
 old_path: /biz/4155/become-a-property-owner-in-london
 aliases:
  - /biz/4155/become-a-property-owner-in-london
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Imperial houses some of the wealthiest students in the UK. At Imperial, students are only able to live in college provided student accommodation for their first year, before moving out with friends or becoming a hall senior. As SW7 is the most expensive postcode in the UK, rent in the neighbourhood can be extremely expensive. One way some parents get around this problem is through investing in property in London. Trends are good at the moment in London, with the London Property Watch measuring 14.2% growth in house prices for a one bedroom property in London between October 2012 and October 2013.

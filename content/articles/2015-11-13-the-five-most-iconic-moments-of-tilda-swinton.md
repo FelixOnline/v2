@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Last week saw the 55th anniversary of the birth of the saviour of modern cinema, Tilda Swinton. To celebrate, we take a look back at her legendary career; choosing what to feature was difficult, but we have managed to narrow down five of her most iconic moments, and what they teach us about life and
 date: "2015-11-13 15:00:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5736"
 old_path: /film/5736/the-five-most-iconic-moments-of-tilda-swinton
 aliases:
  - /film/5736/the-five-most-iconic-moments-of-tilda-swinton
+imported: true
+comments:
+ - I love this site  its so usefull and helpfullnhl 17 httpserviceindustrydatecomevent225Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be o
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I love this site  its so usefull and helpfullnhl 17 httpserviceindustrydatecomevent225Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be o
-imported: true
 ---
 
 #### 1. Her Collaborations with Derek Jarman

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Gilmore Girls is a well-loved multi-generational drama set in a picturesque Connecticut town. Its original run was a cultural touchstone, and its popularity made it an ideal candidate for Netflix’s recent revival spree. How does the revival compare?
 date: "2016-12-02 15:04:54 +0000"
+
 # Attributes from Felix Online V1
 id: "6539"
 old_path: /tv/6539/a-return-to-stars-hollow--gilmore-girls-
 aliases:
  - /tv/6539/a-return-to-stars-hollow--gilmore-girls-
+imported: true
+comments:
+ - GG are coming back Theres no way the ending is gonna be left unresolved AND I BET ITS GONNA BE A BOY breakthecircle AND RORY WILL NAME HIM RICHARD
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - GG are coming back Theres no way the ending is gonna be left unresolved AND I BET ITS GONNA BE A BOY breakthecircle AND RORY WILL NAME HIM RICHARD
-imported: true
 ---
 
 Reviving beloved TV shows can be a tricky business. Shows that are missed tend to build up a mythology around them; with time and absence, every fault and inconsistency is forgiven. To bring them back, however, is to burst the rose tinted bubble of fond nostalgia and push them into the harsh lens of reality. For the creators, raising the old magic from the dead is a nigh impossible task, as the latest revival of the X-Files proved.

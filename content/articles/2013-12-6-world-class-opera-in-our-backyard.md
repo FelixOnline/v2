@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our prestigious neighbour, the Royal College of Music, is a fortress tucked away behind our own Sherfield building. Until now its activities had been hidden from me; but I am so glad that that has finally changed.
 date: "2013-12-06 04:12:02 +0000"
+
 # Attributes from Felix Online V1
 id: "4191"
 old_path: /arts/4191/world-class-opera-in-our-backyard
 aliases:
  - /arts/4191/world-class-opera-in-our-backyard
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What: Ravel Double Bill – L’heure Espagnole & L’enfant et les Sortilèges

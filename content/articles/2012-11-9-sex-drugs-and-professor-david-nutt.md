@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial's resident former advisor's new book is an intriguing read on the science and history of drugs
 date: "2012-11-09 12:48:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2853"
 old_path: /science/2853/sex-drugs-and-professor-david-nutt
 aliases:
  - /science/2853/sex-drugs-and-professor-david-nutt
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Until the recent “Ecstasy Live” TV show, Professor David Nutt was best known as “the scientist who got sacked”. After giving a lecture that discussed the harms of cannabis, Prof Nutt was asked (by the then Home Secretary, Alan Johnson) to resign as Chair of the Advisory Council on the Misuse of Drugs (ACMD). The irony, as discussed in Drugs Without The Hot Air was that Prof Nutt was sacked for advising the government on policy, which as he understood was the purpose of the ACMD.

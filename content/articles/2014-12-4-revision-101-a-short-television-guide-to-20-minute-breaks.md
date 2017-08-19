@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Giulia Gabrielli gives us a selection of the best shows for unwinding
 date: "2014-12-04 19:16:42 +0000"
+
 # Attributes from Felix Online V1
 id: "4994"
 old_path: /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
 aliases:
  - /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
+imported: true
+comments:
+ - Trading fifa players is much like a stock exchange Dont go to add any other printing commercial enterprise When your player gets featured on Goals of this Week his stock risescrdits fut rapidement httpcreditsfutcomYouve gotten impressive thing on this sitecs go skins by price httpkellymarianntripodcomnba 2k16 mt vc httpwwwfyssocommemberblog_post_viewphppostId9372
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Trading fifa players is much like a stock exchange Dont go to add any other printing commercial enterprise When your player gets featured on Goals of this Week his stock risescrdits fut rapidement httpcreditsfutcomYouve gotten impressive thing on this sitecs go skins by price httpkellymarianntripodcomnba 2k16 mt vc httpwwwfyssocommemberblog_post_viewphppostId9372
-imported: true
 ---
 
 Are you troubled by revision time? Do you find yourself sweating over notes and books, asking yourself who invented pre-Christmas exams? Well, we’re all in the same boat.

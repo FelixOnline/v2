@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Zaha Hadid left behind a monumental legacy
 date: "2016-12-16 15:01:28 +0000"
+
 # Attributes from Felix Online V1
 id: "6610"
 old_path: /arts/6610/artist-in-focus--zaha-hadid-19502016
 aliases:
  - /arts/6610/artist-in-focus--zaha-hadid-19502016
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Picture a piece of  contemporary architecture. You’re probably thinking of the work of Frank Gehry – his works are considered by many in the world of architecture to be defining buildings of the 20th and 21st century. Gehry buildings, the Guggenheim in Bilbao being one, are fiercely modernist; great structures of steel and chrome tacked together that rise defiantly from the ground. His is a style that is common amongst his male contemporaries. These are loud buildings. By contrast Dame Zaha Hadid’s work is subtle, quieter – the buildings blossom, the components flow into each other. Gehry’s work is often a mere facade – once inside there is often not much of interest. Hadid’s creations have an understated drama that only grows once you’re inside. Light predominates in the interiors of Hadid’s designs, both from halogen lights and natural light introduced in unexpected ways – an almost womb-like experience is created, quite unlike being inside any other modernist building.

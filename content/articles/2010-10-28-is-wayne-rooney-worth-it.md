@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Head-to-Head about the merits of Wayne Rooney. Tom Welch and Charles Betts
 date: "2010-10-28 19:44:22 +0100"
+
 # Attributes from Felix Online V1
 id: "274"
 old_path: /comment/274/is-wayne-rooney-worth-it
 aliases:
  - /comment/274/is-wayne-rooney-worth-it
+imported: true
+comments:
+ - Gosh Charles comes across as an excellent fine dandy chap
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cb403
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
-author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Gosh Charles comes across as an excellent fine dandy chap
-imported: true
 ---
 
 Isn’t it about time that everyone gave Wayne Rooney a break? Let’s get things straight from the off. I am not going to try to defend some of Rooney’s actions over the past few months: some of his off-field behaviour is quite simply indefensible.

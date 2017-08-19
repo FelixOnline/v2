@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Their union recently said it would ban “something like a colour” if it offended students
 date: "2016-01-29 08:46:44 +0000"
+
 # Attributes from Felix Online V1
 id: "5835"
 old_path: /news/5835/lse-students-start-free-speech-society
 aliases:
  - /news/5835/lse-students-start-free-speech-society
+imported: true
+comments:
+ - Great looking internet site Assume you did a lot of your ownyour very own coding2k16 coins httpbblythephyllisghostiowelcometomyblog                        HD17RU                        HD17RU                        GOHD17RU
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great looking internet site Assume you did a lot of your ownyour very own coding2k16 coins httpbblythephyllisghostiowelcometomyblog                        HD17RU                        HD17RU                        GOHD17RU
-imported: true
 ---
 
 Students at the school have started a ‘Free Speech Society’ due to what they call the “growing sense of censorship” on campus.

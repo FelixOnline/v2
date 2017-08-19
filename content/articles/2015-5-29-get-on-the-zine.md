@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Grace Rahman asks: glorified sleeve notes or art in their own right?
 date: "2015-05-29 12:11:08 +0100"
+
 # Attributes from Felix Online V1
 id: "5586"
 old_path: /music/5586/get-on-the-zine
 aliases:
  - /music/5586/get-on-the-zine
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - js5913
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "Krazy00nothing"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Summer Camp__ released their third LP, Bad Love, this week, and as well as doing a handful of promotional in store performances, they brought out their second ever zine. Full of comics, poetry and prose from fans who are also friends, ‘Drive Past My House’ is a snazzy addition to any fan’s collection, and perfectly complements their dreamy, high-school rom-com aesthetic.

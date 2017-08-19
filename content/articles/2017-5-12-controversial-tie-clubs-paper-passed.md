@@ -4,16 +4,22 @@ title: >
 subtitle: >
   But not without drama (and extensive amendments)
 date: "2017-05-12 15:29:30 +0100"
+
 # Attributes from Felix Online V1
 id: "6930"
 old_path: /news/6930/controversial-tie-clubs-paper-passed
 aliases:
  - /news/6930/controversial-tie-clubs-paper-passed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 During the final Council Meeting of spring term, a paper was passed that will limit the presence of the Tie Clubs at the Union. The invite only ‘secret’ clubs have been accused of sexism, discrimination, and elitism among other things in the past and the Union has time and time again reiterated it is not in any way affiliated with them.  The paper, proposed by Andrew Olson, attempted to limit tankard use by Tie Clubs by enforcing the Equal Opportunities Policy.

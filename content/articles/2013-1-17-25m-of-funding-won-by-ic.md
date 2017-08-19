@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Researches have all the benjamins, as Puff Daddy/Diddy/whatever he calls himself nowadays may say
 date: "2013-01-17 23:45:55 +0000"
+
 # Attributes from Felix Online V1
 id: "3119"
 old_path: /news/3119/25m-of-funding-won-by-ic
 aliases:
  - /news/3119/25m-of-funding-won-by-ic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The European Research Council (ERC) has awarded over €25m to Imperial College in the latest funding round. These grants are for 11 projects, and these include two prestigious synergy grants that promote partnerships in academic research.

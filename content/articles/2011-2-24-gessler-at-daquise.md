@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Daquise Restaurant: A South Kensington gem
 date: "2011-02-24 19:39:07 +0000"
+
 # Attributes from Felix Online V1
 id: "864"
 old_path: /food/864/-gessler-at-daquise
 aliases:
  - /food/864/-gessler-at-daquise
+imported: true
+comments:
+ - I went to dine in Gesslerat Daquise just tonight actuallyOrdered the marinated herring as a starter It sure was awesome Smoked tender raw herring with chopped garlic A definite musttry Rated as 810Had the roasted duck recommended by the waiter with apple as my mains Mash potatoes and red cabbage came along as sides The duck came with generous amounts of cranberry sauce which reminded me of a nice homecookedChristmas meal Rated as 810My other friend had the roasted chicken with egg pasta in broth Chicken breast was a little on the dry side I rate this as average 610In portionwise this is definitely a place to go to The portion sizes are hugeAll in all only spent about 30 for the meal thanks to the 20 discount
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I went to dine in Gesslerat Daquise just tonight actuallyOrdered the marinated herring as a starter It sure was awesome Smoked tender raw herring with chopped garlic A definite musttry Rated as 810Had the roasted duck recommended by the waiter with apple as my mains Mash potatoes and red cabbage came along as sides The duck came with generous amounts of cranberry sauce which reminded me of a nice homecookedChristmas meal Rated as 810My other friend had the roasted chicken with egg pasta in broth Chicken breast was a little on the dry side I rate this as average 610In portionwise this is definitely a place to go to The portion sizes are hugeAll in all only spent about 30 for the meal thanks to the 20 discount
-imported: true
 ---
 
 Established in 1947, Daquise Restaurant on Thurloe St. never fails to transport alumnis down memory lane. Mr. Gessler, a prominent figure in the restaurant scene in Poland, has recently acquired into one of the longest serving Polish restaurants in London where impeccable food quality is coupled with a homely ambience that makes for a most enjoyable meal.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Paul Nash is on at the Tate Britain until 5 March 2017
 date: "2016-11-04 14:41:25 +0000"
+
 # Attributes from Felix Online V1
 id: "6396"
 old_path: /arts/6396/oneiric-landscapes-of-strange-enchantment
 aliases:
  - /arts/6396/oneiric-landscapes-of-strange-enchantment
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Paul Nash was an artist best known for two things: his portrayal of English landscapes, and his work as an official artist in both World Wars.

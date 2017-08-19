@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton talks about his struggles with free market and government interaction
 date: "2011-10-14 10:19:40 +0100"
+
 # Attributes from Felix Online V1
 id: "1541"
 old_path: /politics/1541/one-little-piggy-went-to-market
 aliases:
  - /politics/1541/one-little-piggy-went-to-market
+imported: true
+comments:
+ - The problem with lemons is real good but didnt John Hassard say that the optimum solution to the Prisoners Dilemma was cooperation With selective restrained amounts of dicking on peopleDamn straight But the market wont provide proper incentives for this other than forming competition killing cartels Cooperation is the optimum solution but regulation may be required to make sure its the one people go for A rational individual will snitch on his friend a rational system will force them to cooperate I think
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The problem with lemons is real good but didnt John Hassard say that the optimum solution to the Prisoners Dilemma was cooperation With selective restrained amounts of dicking on peopleDamn straight But the market wont provide proper incentives for this other than forming competition killing cartels Cooperation is the optimum solution but regulation may be required to make sure its the one people go for A rational individual will snitch on his friend a rational system will force them to cooperate I think
-imported: true
 ---
 
 I have a confession to make. Over the last year or so, I’ve been really quite evil. I really never meant to be, but there it is. Evil as a doorknob. Like many of my ilk, I can pin point the exact day the evil started, it was in November 2009 and I was in the Felix office, chatting to the Business Editor. The chat went something like this:

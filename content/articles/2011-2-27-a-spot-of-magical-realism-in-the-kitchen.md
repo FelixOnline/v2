@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Columbian food is something not usually encountered in London
 date: "2011-02-27 19:46:46 +0000"
+
 # Attributes from Felix Online V1
 id: "919"
 old_path: /food/919/a-spot-of-magical-realism-in-the-kitchen
 aliases:
  - /food/919/a-spot-of-magical-realism-in-the-kitchen
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Colombian coffee is savoured all over the world, but the cuisine of this country has not been exported as widely. Colombians are a nation of highly energetic, sociable people who know how to enjoy a good party. And they certainly enjoy parties that involve eating. Their cuisine is hearty and varied. Ingredients used in Colombian dishes are typical for Latin America: beans, corn, plantains, fresh cheese, rice, chorizo… and, of course, meat. Quality grilled beef is king, but chicken and pork appear a lot too. If there’s no meat, it’s not really food.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Babbage brings in the hits
 date: "2012-05-04 00:52:54 +0100"
+
 # Attributes from Felix Online V1
 id: "2424"
 old_path: /news/2424/imperial-tedx-talks-prove-popular-online
 aliases:
  - /news/2424/imperial-tedx-talks-prove-popular-online
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Video footage of March’s [TEDxImperialCollege](http://tedximperialcollege.com/) event is now [available to view](http://tedximperialcollege.com/watch/) on YouTube, with a talk by programmer John Graham-Cumming about Charles Babbage’s Analytical Machine enjoying over 18,000 views at the time of going to print.

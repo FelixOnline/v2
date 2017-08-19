@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Open to large swathes of scientists and engineers, the EngD (Engineering Doctorate) is a doctoral program, which is a seldom known career path to many of its potential applicants.
 date: "2014-02-16 12:17:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4384"
 old_path: /features/4384/the-engd-dr-who
 aliases:
  - /features/4384/the-engd-dr-who
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Open to large swathes of scientists and engineers, the EngD (Engineering Doctorate) is a doctoral program, which is a seldom known career path to many of its potential applicants. Merging the academic with the practical, it is a fulfilling way to apply the piles of knowledge that you have accumulated over your undergraduate years to real world problems.

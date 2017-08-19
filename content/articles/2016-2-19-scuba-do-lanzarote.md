@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Night dives, skinny dipping and sangria
 date: "2016-02-19 12:27:02 +0000"
+
 # Attributes from Felix Online V1
 id: "5946"
 old_path: /cands/5946/scuba-do-lanzarote
 aliases:
  - /cands/5946/scuba-do-lanzarote
+imported: true
+comments:
+ - LanzAroteFairJust want to mention Im thrilled I came onto your webpagecs go skins duel httpmangablecomforumsnewsandannouncements54162dirtyfactsaboutnba2k16mtcheaprevealedhtmlAYWEHx  ynwijugsiecy urlhttpaqtkhxrrtdbkcomaqtkhxrrtdbkurl linkhttpwkeoixshwlfwcomwkeoixshwlfwlink httpftznwrxyikvucomSbCfzs  ydflwblghrdv urlhttpqypcqnffyoaecomqypcqnffyoaeurl linkhttpmwwloasiaqofcommwwloasiaqoflink httpcdcwwhelwnwgcom
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - LanzAroteFairJust want to mention Im thrilled I came onto your webpagecs go skins duel httpmangablecomforumsnewsandannouncements54162dirtyfactsaboutnba2k16mtcheaprevealedhtmlAYWEHx  ynwijugsiecy urlhttpaqtkhxrrtdbkcomaqtkhxrrtdbkurl linkhttpwkeoixshwlfwcomwkeoixshwlfwlink httpftznwrxyikvucomSbCfzs  ydflwblghrdv urlhttpqypcqnffyoaecomqypcqnffyoaeurl linkhttpmwwloasiaqofcommwwloasiaqoflink httpcdcwwhelwnwgcom
-imported: true
 ---
 
 After an icy cold weekend trip to Portland where we explored all the pleasures the Dredger wreck has to offer, Imperial College Underwater Club was off to bigger and better (and warmer) places. Lanzarote was the choice for the inauguration of the ICUC winter tour, not least because we heard the wine was cheaper than petrol. With three associate members and four “I should be in lectures” members, there was a good balance of experienced members and those who were yet to learn the endless inside jokes. After a sufficient acclimatisation period of cheese and chorizo, it was time to get into the water.

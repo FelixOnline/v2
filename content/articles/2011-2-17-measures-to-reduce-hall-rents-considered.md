@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Halls should not be subsidising alcohol with the amenities fund argues Union President
 date: "2011-02-17 19:38:45 +0000"
+
 # Attributes from Felix Online V1
 id: "822"
 old_path: /news/822/measures-to-reduce-hall-rents-considered
 aliases:
  - /news/822/measures-to-reduce-hall-rents-considered
+imported: true
+comments:
+ - So can we see this breakdown of hall rentsAgree with person above The breakdown would be interestingAlso Id very much like to point out that if like me you use the Student loan to cover accommodation 5k a year this only covers 120 a week It seems ludicrous that most of the halls are beyond this for single rooms Cut the wardening fund too for the money wardens cost their contribution is minimalkaptnkrunch has an excellent point Even a twin room in southeastside would leave about 10 a week if you dont get a bursary This means your parents have to support you and there is no possible way of truly standing on your own two feet If you get put in a single room youre down about 50 a week on your student loan and down almost 100 a week if you get put in a deluxe It seemed that last year when I was in halls there was an excess of these deluxepremium rooms with many people choosing singles and being loaded with the extra bill for something they didnt even wantWhen I was in h
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - So can we see this breakdown of hall rentsAgree with person above The breakdown would be interestingAlso Id very much like to point out that if like me you use the Student loan to cover accommodation 5k a year this only covers 120 a week It seems ludicrous that most of the halls are beyond this for single rooms Cut the wardening fund too for the money wardens cost their contribution is minimalkaptnkrunch has an excellent point Even a twin room in southeastside would leave about 10 a week if you dont get a bursary This means your parents have to support you and there is no possible way of truly standing on your own two feet If you get put in a single room youre down about 50 a week on your student loan and down almost 100 a week if you get put in a deluxe It seemed that last year when I was in halls there was an excess of these deluxepremium rooms with many people choosing singles and being loaded with the extra bill for something they didnt even wantWhen I was in h
-imported: true
 ---
 
 The price of university hall accommodation has come under scrutiny as a survey is set to be launched by the Union into how hall rents could be reduced. The Union has obtained a breakdown of what makes up the rent and are debating a range of cost-saving measures. Students are encouraged to take part in the debate by filling out a questionnaire, to be released early next week.

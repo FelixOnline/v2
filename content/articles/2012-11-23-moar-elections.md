@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The low turnout at the recent PCC elections is a bad sign
 date: "2012-11-23 00:03:43 +0000"
+
 # Attributes from Felix Online V1
 id: "2957"
 old_path: /comment/2957/moar-elections
 aliases:
  - /comment/2957/moar-elections
+imported: true
+comments:
+ - Im very dubious about this claim that local policing priorities can now be chosen by the people surely such concerns could already be raised through existing mechanisms like council and indeed police surgeriesBesides as Keir points out in the article the purpose and remit of these PCCs is entirely vague and many people are either unsure of their purpose or flatout unaware they exist I agree with you that more democracy doesnt mean better democracyI think one of the reasons were so fed up with voting is because increasingly little power is being spread between more and more institutions Many of us now have four tiers of government The EU with its tenuous democratic mandate then Westminster SWNILondon Assembls and local authorities as well That is far too many and the dilution of direct accountability just hands power to mandarinsHowever on policing I think there was a real gap in the democratic marketWe would be naive to think that the previously unelected r
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im very dubious about this claim that local policing priorities can now be chosen by the people surely such concerns could already be raised through existing mechanisms like council and indeed police surgeriesBesides as Keir points out in the article the purpose and remit of these PCCs is entirely vague and many people are either unsure of their purpose or flatout unaware they exist I agree with you that more democracy doesnt mean better democracyI think one of the reasons were so fed up with voting is because increasingly little power is being spread between more and more institutions Many of us now have four tiers of government The EU with its tenuous democratic mandate then Westminster SWNILondon Assembls and local authorities as well That is far too many and the dilution of direct accountability just hands power to mandarinsHowever on policing I think there was a real gap in the democratic marketWe would be naive to think that the previously unelected r
-imported: true
 ---
 
 Much like a promise to lower taxes, a call for more democracy is a cheap tactic for winning votes, yet one that, in what seems to be a continuing trend, the Conservative party have managed to completely cock up.

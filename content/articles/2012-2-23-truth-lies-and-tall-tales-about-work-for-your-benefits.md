@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Stephen Smith conducts an in-depth investigation of the Workfare scandal. Is it really forced labour? Who is benefitting from it? And what is our government doing in our name?
 date: "2012-02-23 23:58:19 +0000"
+
 # Attributes from Felix Online V1
 id: "2268"
 old_path: /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
 aliases:
  - /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
+imported: true
+comments:
+ - The very first sentence of the article reminds me of the very first sentence of the manifesto of a wellknown politicaleconomic movement FOR A GOVERMENT TO ALLOW INNOCENT HUMAN BEINGS TO BE WITHOUT THE MEANS TO WARMTH FOOD OR WATER IN A SOCIETY WHERE THESE ESSENTIALS CAN ONLY BE OBTAINED WITH MONEY IS UNCIVALIZED AND SHOULD BE CONTESTED IN THE COURT OF HUMAN RIGHTS THE WORST CRIMIMALS IN PRISON ARE TREATED THIS WAY ANYONE TAKING PART IN THIS BARBARIC TREATMENT OF PEOPLE SHOULD BE ASHEMED OF THEMSELFSTypical journal piece about typical goverment funded programmeAll Im going to say is that I got my job of 4 years at present through SeetecI also know that within the last month theyve changed the lives of at least 52 people getting them into full time PAID workThey do pay travel they always have done for travelling to placements training and even to job search in their centers They also pay for interview and work clothing including travel to work for the first month or so when they star
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The very first sentence of the article reminds me of the very first sentence of the manifesto of a wellknown politicaleconomic movement FOR A GOVERMENT TO ALLOW INNOCENT HUMAN BEINGS TO BE WITHOUT THE MEANS TO WARMTH FOOD OR WATER IN A SOCIETY WHERE THESE ESSENTIALS CAN ONLY BE OBTAINED WITH MONEY IS UNCIVALIZED AND SHOULD BE CONTESTED IN THE COURT OF HUMAN RIGHTS THE WORST CRIMIMALS IN PRISON ARE TREATED THIS WAY ANYONE TAKING PART IN THIS BARBARIC TREATMENT OF PEOPLE SHOULD BE ASHEMED OF THEMSELFSTypical journal piece about typical goverment funded programmeAll Im going to say is that I got my job of 4 years at present through SeetecI also know that within the last month theyve changed the lives of at least 52 people getting them into full time PAID workThey do pay travel they always have done for travelling to placements training and even to job search in their centers They also pay for interview and work clothing including travel to work for the first month or so when they star
-imported: true
 ---
 
 A spectre is haunting our futures – the spectre of unemployment. Most of us are soon-to-be graduates: some of us, inevitably, are the soon-to-be unemployed. With every month, [increasing numbers](http://www.guardian.co.uk/business/2012/feb/15/uk-unemployment-high-economy-flatlines) of young people are finding themselves jobless, and increasing numbers are turning to the government for support.

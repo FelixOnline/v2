@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Gilead Amit, Deputy Editor, kicks off our new feature with his favourite work of literature: De Profundis
 date: "2010-10-08 06:33:54 +0100"
+
 # Attributes from Felix Online V1
 id: "184"
 old_path: /arts/184/if-you-read-nothing-else-this-week
 aliases:
  - /arts/184/if-you-read-nothing-else-this-week
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Gosh. Cripes. Blimey. What a responsibility. I have just been asked by the delightful new Arts editor to inaugurate this column by writing a short, pithy piece on my favourite book. Publicity whore that I am, I couldnít bring myself to refuse.

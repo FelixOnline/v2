@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The College has risen one place to 112th
 date: "2015-01-23 01:32:13 +0000"
+
 # Attributes from Felix Online V1
 id: "5127"
 old_path: /news/5127/controversy-as-imperial-joins-others-in-boycott-of-universities-green-league
 aliases:
  - /news/5127/controversy-as-imperial-joins-others-in-boycott-of-universities-green-league
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Controversy has broken out over the decision by 69 of the 151 Universities eligible to take part in pressure group People & Planet’s University League to pull out of the survey. Imperial College were one of the institutions to not submit a return this year.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The organisers give you the low down...
 date: "2013-01-25 02:17:54 +0000"
+
 # Attributes from Felix Online V1
 id: "3194"
 old_path: /news/3194/the-overseas-society-presents-i-night-one-world
 aliases:
  - /news/3194/the-overseas-society-presents-i-night-one-world
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Next week marks the university’s second International Week of the year (4th – 9th Feburary) with overseas societies coming together to promote cultural diversity and integration at Imperial College. The celebrations build up to Saturday 9th Feburary where the 11th annual International Night will take place. With performances varying from traditional dances to traditional plays adapted to original modern day themes; this promise to be a hugely entertaining evening.

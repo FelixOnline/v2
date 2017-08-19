@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Damage and theft on Medic RAG Pub Crawl
 date: "2013-02-08 01:24:19 +0000"
+
 # Attributes from Felix Online V1
 id: "3289"
 old_path: /news/3289/banned-from-ucl-union
 aliases:
  - /news/3289/banned-from-ucl-union
+imported: true
+comments:
+ - How is this even news Can felix please concentrate on some real issues rather than this nonissue At this rate well be making the Daily Mail look like a respectable paperClassic UCLPoorly written Did you forget to proof readUnless it was attractive girls that were stolen  something imperial is in dire need of  this is not newsWow Next thing youll know is that Felix will be reporting that students are stealing extra milk from McDonaldsI fuound this aritcel quiet good I dont no y peopel aer bashnig itHow is this not newsImperial students are banned from UCL because of theft Sounds like news to meMoronThey were banned for one day It probably took longer to write this article than the ban lastedSeriously this IS news Its a big deal that they were banned  theft is not tolerated at imperial If youre going to complain about this article then why dont you join FElix and stop being asses about it ThanksA day will come when you think youre safe and happy and the joy will turn
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - How is this even news Can felix please concentrate on some real issues rather than this nonissue At this rate well be making the Daily Mail look like a respectable paperClassic UCLPoorly written Did you forget to proof readUnless it was attractive girls that were stolen  something imperial is in dire need of  this is not newsWow Next thing youll know is that Felix will be reporting that students are stealing extra milk from McDonaldsI fuound this aritcel quiet good I dont no y peopel aer bashnig itHow is this not newsImperial students are banned from UCL because of theft Sounds like news to meMoronThey were banned for one day It probably took longer to write this article than the ban lastedSeriously this IS news Its a big deal that they were banned  theft is not tolerated at imperial If youre going to complain about this article then why dont you join FElix and stop being asses about it ThanksA day will come when you think youre safe and happy and the joy will turn
-imported: true
 ---
 
 Imperial students were banned from the [University College London Union](http://uclu.org/) (UCLU) following accusations of criminal damage and theft by Medics RAG during their Circle Line Pub Crawl.

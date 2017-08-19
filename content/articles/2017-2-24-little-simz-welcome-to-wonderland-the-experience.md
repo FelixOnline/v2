@@ -4,16 +4,22 @@ title: >
 subtitle: >
   She might be the illest doing it right now
 date: "2017-02-24 14:45:41 +0000"
+
 # Attributes from Felix Online V1
 id: "6822"
 old_path: /music/6822/little-simz-welcome-to-wonderland-the-experience
 aliases:
  - /music/6822/little-simz-welcome-to-wonderland-the-experience
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Little Simz, real name Simbi Ajikawo, returned to the Roundhouse Rising show, having performed a headline set in 2014. This year, she headlined and curated a varied line-up of emerging talent. An art installation accompanied the show, with the Wonderland theme in focus throughout. An animation introduced her performance, with a cartoon Little Simz asking Cheshire “Why am I here?” His response: “Simply, you’re here to fuck up the balance”.

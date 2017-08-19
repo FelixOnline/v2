@@ -4,16 +4,23 @@ title: >
 subtitle: >
   You know you want to
 date: "2016-03-18 11:33:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6053"
 old_path: /news/6053/felix-sex-survey-opens
 aliases:
  - /news/6053/felix-sex-survey-opens
+imported: true
+comments:
+ - to be set up are already permitted to go away together with up until this aspect low bandwidth caps Heavy Bundle Examination bandwidth throttling in addition to insurers tend to be progressively more buying high priced in addition to consumible systems this integrate deep packet check up engineering For you to balance devices expenses these same insurers tend to be encouraged to apply all their consumible devices to help Is in fact an outstanding in addition to beneficial part of details We are contented which you provided this kind of valuable info here Remember to keep people uptodate this way Thanks for sharingGucci Handbags httpwwwcharopfcomguccioutletThis site is like a clomsraos except I dont hate it lolIll fix itbns gold for sale httpallplayplplforumtopic17745Nobody can do a better job than youfifa coins httppatchcommassachusettsmarthasvineyardu4fifacomprofessionalfifacoinsseller0The youre very professional nba 2k16 mt coins httpwwwsiniste
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - to be set up are already permitted to go away together with up until this aspect low bandwidth caps Heavy Bundle Examination bandwidth throttling in addition to insurers tend to be progressively more buying high priced in addition to consumible systems this integrate deep packet check up engineering For you to balance devices expenses these same insurers tend to be encouraged to apply all their consumible devices to help Is in fact an outstanding in addition to beneficial part of details We are contented which you provided this kind of valuable info here Remember to keep people uptodate this way Thanks for sharingGucci Handbags httpwwwcharopfcomguccioutletThis site is like a clomsraos except I dont hate it lolIll fix itbns gold for sale httpallplayplplforumtopic17745Nobody can do a better job than youfifa coins httppatchcommassachusettsmarthasvineyardu4fifacomprofessionalfifacoinsseller0The youre very professional nba 2k16 mt coins httpwwwsiniste
-imported: true
 ---
 
 _You can take the Sex Survey [here](http://felixonline.co.uk/go/sexsurvey)._

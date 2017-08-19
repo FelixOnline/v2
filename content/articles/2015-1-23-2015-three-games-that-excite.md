@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Eggl really, really looking forward to these titles
 date: "2015-01-23 18:15:51 +0000"
+
 # Attributes from Felix Online V1
 id: "5140"
 old_path: /games/5140/2015-three-games-that-excite
 aliases:
  - /games/5140/2015-three-games-that-excite
+imported: true
+comments:
+ - Hmm okay Har lige set traileren og synes heller ikke den er srlig uhelgygig og jeg plejer ellers at vre RD for gyserfilm Kan vre traileren bare er drlig
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hmm okay Har lige set traileren og synes heller ikke den er srlig uhelgygig og jeg plejer ellers at vre RD for gyserfilm Kan vre traileren bare er drlig
-imported: true
 ---
 
 __Star Wars Battlefront__

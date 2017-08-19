@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fragile Growth
 date: "2012-11-01 22:46:00 +0000"
+
 # Attributes from Felix Online V1
 id: "2791"
 old_path: /politics/2791/uk-gdp-figures-a-turn-for-the-better
 aliases:
  - /politics/2791/uk-gdp-figures-a-turn-for-the-better
+imported: true
+comments:
+ - Productivity in the private setocr is a wonderful attribute of the free market systemand the US is more free market than other nations and our borders are wide open for labor capital goods and services  That is why we have no inflation possibly deflation and will have very little inflation going forward That is why we are different from Euro nations or JapanIf we could move more of our economy into the private setocrby ramping down the USDA VA Department of Defense HUD and Labor for example we would experience even greater growthThink about itprivate goods and services just get better and cheaper Military goods and services just get more expensivePrivate vs ossified federal bureaucracythe private setocr will always prevailInflation is dead for several years Morgan should know that many serious economists believe the CPI overstates inflation Saying you do not believe the CPI or the GDP deflator moves you towards faithbased economic analysisWe dont have general inflation reading
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Productivity in the private setocr is a wonderful attribute of the free market systemand the US is more free market than other nations and our borders are wide open for labor capital goods and services  That is why we have no inflation possibly deflation and will have very little inflation going forward That is why we are different from Euro nations or JapanIf we could move more of our economy into the private setocrby ramping down the USDA VA Department of Defense HUD and Labor for example we would experience even greater growthThink about itprivate goods and services just get better and cheaper Military goods and services just get more expensivePrivate vs ossified federal bureaucracythe private setocr will always prevailInflation is dead for several years Morgan should know that many serious economists believe the CPI overstates inflation Saying you do not believe the CPI or the GDP deflator moves you towards faithbased economic analysisWe dont have general inflation reading
-imported: true
 ---
 
 Last week, the Office for National Statistics released their first estimate for the economic growth of the UK economy in the months of July, August and September, known as the third quarter. Somewhat unexpectedly, a 1% rise in the GDP of the country was announced. Given the excuses given by the Chancellor, George Osborne, for previous falls ranging from the weather to the royal wedding, using the Olympics as a reason for growth does not seem so far fetched.

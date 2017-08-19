@@ -4,16 +4,24 @@ title: >
 subtitle: >
   New hall in Waterloo takes its place
 date: "2012-05-10 19:17:11 +0100"
+
 # Attributes from Felix Online V1
 id: "2432"
 old_path: /news/2432/wilson-house-not-listed-on-accommodation-website
 aliases:
  - /news/2432/wilson-house-not-listed-on-accommodation-website
+imported: true
+comments:
+ - K Waterloo isnt exactly far away save money get a bike200 is ridiculous money though more than twice as much as i paid in fisher two years ago Glad Im not a fresher next year would have to sell a kidney I think130140 pw is that even affordable on student loans The main reason I and many others chose Wilson was because of the cost of the rooms being the most reasonable in 2007 entry and I even remember one of the terms being a tight squeeze to pay the terms rent on the loan aloneSeems Imperial assume everyone has parents who will subsidise their rents and for many this isnt trueIts bad enough the fees are high next year I feel sorry for those paying 200 a week plus tube fares to get to lectures Too expensive in my opinionDisaster Wilsons the cheapest you can go for single rooms and its brilliant Pretty sure theyre undermining a large number of undergrads looking for less spanking newoverpriced accommodationA shameI was strapped for cash paying 155 for Orien
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - K Waterloo isnt exactly far away save money get a bike200 is ridiculous money though more than twice as much as i paid in fisher two years ago Glad Im not a fresher next year would have to sell a kidney I think130140 pw is that even affordable on student loans The main reason I and many others chose Wilson was because of the cost of the rooms being the most reasonable in 2007 entry and I even remember one of the terms being a tight squeeze to pay the terms rent on the loan aloneSeems Imperial assume everyone has parents who will subsidise their rents and for many this isnt trueIts bad enough the fees are high next year I feel sorry for those paying 200 a week plus tube fares to get to lectures Too expensive in my opinionDisaster Wilsons the cheapest you can go for single rooms and its brilliant Pretty sure theyre undermining a large number of undergrads looking for less spanking newoverpriced accommodationA shameI was strapped for cash paying 155 for Orien
-imported: true
 ---
 
 Wilson House has been removed from Imperial College’s accommodation website for prospective students. In February, it was [reported](http://felixonline.co.uk/news/2152/wilson-review-could-lead-to-rehousing/) in Felix that the hall could potentially be closed for refurbishment for the 2012-2013 academic year.

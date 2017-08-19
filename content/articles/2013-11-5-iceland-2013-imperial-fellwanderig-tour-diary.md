@@ -4,16 +4,23 @@ title: >
 subtitle: >
   After checking everyone had brought all the food and tents that they had been given a few days previously, (they had, apart from a couple of tins of sweet corn) we checked in and sat down for our last English breakfast for 10 days.
 date: "2013-11-05 09:55:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4011"
 old_path: /sport/4011/iceland-2013-imperial-fellwanderig-tour-diary
 aliases:
  - /sport/4011/iceland-2013-imperial-fellwanderig-tour-diary
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 We all converged on Luton Airport at 5 am for our flight out to Iceland. After checking everyone had brought all the food and tents that they had been given a few days previously, (they had, apart from a couple of tins of sweet corn) we checked in and sat down for our last English breakfast for 10 days. Charlie finally turned up 15 minutes before the flight left - apparently TFL whimsically decided to cancel all his buses.

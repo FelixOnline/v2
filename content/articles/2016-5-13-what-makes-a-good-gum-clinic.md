@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Getting tested can be a fun day out
 date: "2016-05-13 09:01:18 +0100"
+
 # Attributes from Felix Online V1
 id: "6152"
 old_path: /features/6152/what-makes-a-good-gum-clinic
 aliases:
  - /features/6152/what-makes-a-good-gum-clinic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Apparently I engage in risky sexual behaviour. This means that like the good millennial I am, I have to periodically get tested to make sure that I'm free from the nasties that make sex a little less fun and a little more infectious (and not in a good way). Although there are many sexual health clinics in London, many of which are excellent and come with rave reviews (with a particular shout out to the Dean Street Clinic in Soho), my personal preference is Imperial College's own Jefferiss Wing in St Mary's Hospital.

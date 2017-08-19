@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A few of months ago a couple of Imperial College students set out on an adventure to create the world’s most versatile smartwatch – BLOCKS.
 date: "2014-03-11 17:42:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4475"
 old_path: /tech/4475/imperials-own-smartwatch
 aliases:
  - /tech/4475/imperials-own-smartwatch
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A few of months ago a couple of Imperial College students set out on an adventure to create the world’s most versatile smartwatch – BLOCKS. Since then the team, expanded to 8 people, entered Imperial Create Lab’s £20,000 challenge and are getting ready to “Pitch at St James’ Palace” event in April. But is there really a market for smartwatches, or are they just another caprice of the geekworld that will whizz past the mainstream?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maximilian Eggl dissects the taste of the future for the fruity company
 date: "2013-02-01 01:13:21 +0000"
+
 # Attributes from Felix Online V1
 id: "3241"
 old_path: /tech/3241/apple-sweet-or-sour-outlook-
 aliases:
  - /tech/3241/apple-sweet-or-sour-outlook-
+imported: true
+comments:
+ - Really interesting articlehttpwwweconomistcomnewsbusiness21570751worldsmostvaluablefirmmaybepastitsprimehasapplepeaked Having only just switched from WindowsAndroid to an iMac and iPhone I have to say that Ill never go back The It just works thing is still true and very much alive All companies have good years and not so good years For me its not just the GUI its the quality of build the aesthetics and the integration Windows Android and DLNA and getting any of it to work together is still a nightmare unless one has hours to spend searching the net for answers downloading god knows how many apps patches etc and it still doesnt work seamlessly The integration between OSX and iOS is truly amazing and although maybe there are not that many groundbreaking new inventions to be had these days if apple just keep fine tuning the hardware and software and maintain the qualitydesign of their products Ill be very happy
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Really interesting articlehttpwwweconomistcomnewsbusiness21570751worldsmostvaluablefirmmaybepastitsprimehasapplepeaked Having only just switched from WindowsAndroid to an iMac and iPhone I have to say that Ill never go back The It just works thing is still true and very much alive All companies have good years and not so good years For me its not just the GUI its the quality of build the aesthetics and the integration Windows Android and DLNA and getting any of it to work together is still a nightmare unless one has hours to spend searching the net for answers downloading god knows how many apps patches etc and it still doesnt work seamlessly The integration between OSX and iOS is truly amazing and although maybe there are not that many groundbreaking new inventions to be had these days if apple just keep fine tuning the hardware and software and maintain the qualitydesign of their products Ill be very happy
-imported: true
 ---
 
 Apple have undeniably changed the world. It used to be the most valuable company on Earth, ever. Now, stockholders are insecure and other brands have come close, if not eclipsed, the atmosphere of ‘coolness’ that Apple once made its own. Have they diverted off their successful path, have they done wrong? Or is this just a momentarily glitch?

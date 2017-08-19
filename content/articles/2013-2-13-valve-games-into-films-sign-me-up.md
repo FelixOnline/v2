@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Laurence Pope has hope
 date: "2013-02-13 14:50:53 +0000"
+
 # Attributes from Felix Online V1
 id: "3305"
 old_path: /games/3305/valve-games-into-films-sign-me-up
 aliases:
  - /games/3305/valve-games-into-films-sign-me-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It has to be said that films based on video games don’t tend to get critically praised. Browsing Wikipedia shows that the highest Rotten Tomatoes score one has ever achieved is 43%, which is less than impressive. They are not, in general, the kind of films I pay to see.

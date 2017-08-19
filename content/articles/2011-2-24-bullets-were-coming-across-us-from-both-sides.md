@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton's first hand experience of police violence in Kenya
 date: "2011-02-24 20:19:52 +0000"
+
 # Attributes from Felix Online V1
 id: "886"
 old_path: /politics/886/bullets-were-coming-across-us-from-both-sides
 aliases:
  - /politics/886/bullets-were-coming-across-us-from-both-sides
+imported: true
+comments:
+ - Thats the best anwser of all time JMHOocvoDc  urlhttpxdoipiwueiamcomxdoipiwueiamurl linkhttpbmtckuvothhycombmtckuvothhylink httprkvyugkpckvfcom
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thats the best anwser of all time JMHOocvoDc  urlhttpxdoipiwueiamcomxdoipiwueiamurl linkhttpbmtckuvothhycombmtckuvothhylink httprkvyugkpckvfcom
-imported: true
 ---
 
 We finished dinner around ten o’clock and the shooting started perhaps ten minutes later. It may be a cliché but the air really did feel electrified as I hugged the ground to myself in the pitch black night. Bullets were soon coming across us from both sides of our camp but two minutes later, twelve minutes after dinner was finished, the shooting stopped. Battles are inevitably short when a bullet cost as much as a day’s food.

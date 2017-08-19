@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union council asked about paying students the London Living Wage
 date: "2015-10-16 14:28:40 +0100"
+
 # Attributes from Felix Online V1
 id: "5656"
 old_path: /news/5656/potential-pay-rise-for-union-bar-staff
 aliases:
  - /news/5656/potential-pay-rise-for-union-bar-staff
+imported: true
+comments:
+ - What you omitted to mention was that the college now pays at least the LLW for all workers with an exception for the students union   Indeed the ICU were a sticking point in achieving this over the years  as theyd rather have cheap beer than see the college paying its cleaners decently  The recent exception for the union is a compromise that reflects very badly on the unionContrast with institutions like UCL whose SU ran a superb campaign in getting the LLW for all staff therehttpucluorgcampaignslondonlivingwageHello anonymous College pay the cleaners as they do with the whole of campus But thank you for your commentThis is probably some of the worst journalism to come out of Felix Not only have the facts not actually been checked but lazy Felix couldnt even be bothered to walk the 10 meters to the bar to take a photo that isnt over 4 years oldMaFV3I  zhwodlepsxzc urlhttpldppbhehxkaecomldppbhehxkaeurl linkhttpzipicfvjwezzcomzipicfvjwezzlink httpi
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What you omitted to mention was that the college now pays at least the LLW for all workers with an exception for the students union   Indeed the ICU were a sticking point in achieving this over the years  as theyd rather have cheap beer than see the college paying its cleaners decently  The recent exception for the union is a compromise that reflects very badly on the unionContrast with institutions like UCL whose SU ran a superb campaign in getting the LLW for all staff therehttpucluorgcampaignslondonlivingwageHello anonymous College pay the cleaners as they do with the whole of campus But thank you for your commentThis is probably some of the worst journalism to come out of Felix Not only have the facts not actually been checked but lazy Felix couldnt even be bothered to walk the 10 meters to the bar to take a photo that isnt over 4 years oldMaFV3I  zhwodlepsxzc urlhttpldppbhehxkaecomldppbhehxkaeurl linkhttpzipicfvjwezzcomzipicfvjwezzlink httpi
-imported: true
 ---
 
 At last Monday’s Union Council meeting, the question was raised as to whether the union should be paying student bar workers the London Living Wage.

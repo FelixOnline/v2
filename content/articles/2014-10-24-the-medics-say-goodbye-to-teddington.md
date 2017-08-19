@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The final day of sporting events at Teddington Sports ground took place last on Saturday, 18th October
 date: "2014-10-24 12:57:07 +0100"
+
 # Attributes from Felix Online V1
 id: "4749"
 old_path: /news/4749/the-medics-say-goodbye-to-teddington
 aliases:
  - /news/4749/the-medics-say-goodbye-to-teddington
+imported: true
+comments:
+ - Incorrect The Legends were actually the doctors team and beat the students team by 3 points in an excellent game of running rugby true to the spirit and long standing traditions of St Marys Hospital RFC founded 1865 and the third oldest rugby club in the world Charing Cross Hospital RFC founded 1868 Westminster Hospital RFC and Imperial Medicals RFCThe Legends team ably captained by Graham Corin contained several Consultants including alumni of St Marys who had been playing rugby at the Teddington rugby ground the finest rugby pitch in London outside of Twickenham for over twenty yearsAlthough this wonderful occasion was a fitting send off the loss of this fine facility is a travestyWell this article is incredibly inaccurateGreat work here
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Incorrect The Legends were actually the doctors team and beat the students team by 3 points in an excellent game of running rugby true to the spirit and long standing traditions of St Marys Hospital RFC founded 1865 and the third oldest rugby club in the world Charing Cross Hospital RFC founded 1868 Westminster Hospital RFC and Imperial Medicals RFCThe Legends team ably captained by Graham Corin contained several Consultants including alumni of St Marys who had been playing rugby at the Teddington rugby ground the finest rugby pitch in London outside of Twickenham for over twenty yearsAlthough this wonderful occasion was a fitting send off the loss of this fine facility is a travestyWell this article is incredibly inaccurateGreat work here
-imported: true
 ---
 
 The final day of sporting events at Teddington Sports ground took place last Saturday, 18th October. Things kicked off at midday and carried on late into the evening, with matches taking place throughout the day.

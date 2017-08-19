@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A short guide to the events taking place next week.
 date: "2015-02-13 14:41:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5253"
 old_path: /cands/5253/whats-on-next-week--a-guide-to-artsfest
 aliases:
  - /cands/5253/whats-on-next-week--a-guide-to-artsfest
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Big Band on the Tower__

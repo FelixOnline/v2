@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Synechocystis have eyes
 date: "2016-02-19 11:28:29 +0000"
+
 # Attributes from Felix Online V1
 id: "5932"
 old_path: /science/5932/a-fresh-look-through-bacteria
 aliases:
  - /science/5932/a-fresh-look-through-bacteria
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If we were to play a word association game and start off with the word ‘eye’ you might shout out ‘face’, or ‘London’, or even ‘mantis shrimp’, but you probably wouldn’t shout out ‘bacterium’. Well,  new biologcal research might  change that forever.

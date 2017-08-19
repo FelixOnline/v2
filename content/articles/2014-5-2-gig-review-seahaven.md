@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Stuart Masson reviews the Californian band’s recent Birthday’s gig
 date: "2014-05-02 01:24:39 +0100"
+
 # Attributes from Felix Online V1
 id: "4550"
 old_path: /music/4550/gig-review-seahaven
 aliases:
  - /music/4550/gig-review-seahaven
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Birthday’s in Dalston is about as hipster as venues come. It’s in Dalston for a start. Upstairs there’s a burger joint that serves food on trays, but to be fair, does do a mean sweet potato burger and some extraodinary cheesy chips, oh, those cheesy chips… The stage is in the basement, and it’s a fair size considering its location. Most venues east of Liverpool Street fit about 100 patrons, but Birthday’s has a capacity of around 250. That means they also get slightly bigger bands than I’m used to travelling to Dalston for, including the not that hipster __Seahaven__ a few weeks ago. Supported by __Battle Lines__, who seem to have not decided on a coherent sound yet, and __Nai Harvest__, who are one of my favourite British bands at the moment. After those cheesy chips I really didn’t think my night could get any better, but the bands did their best.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Walking around in Derbyshire is all in a day's work for the fellwanderers
 date: "2011-11-24 22:58:22 +0000"
+
 # Attributes from Felix Online V1
 id: "1845"
 old_path: /news/1845/fellwanderers-roam-peak-district
 aliases:
  - /news/1845/fellwanderers-roam-peak-district
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 5.30pm on Friday evening. The first fellwanderers made their way to the Union, eager to leave London after a hard week of work. We quickly gathered together, packing out two buses, and excitedly awaited our trip.

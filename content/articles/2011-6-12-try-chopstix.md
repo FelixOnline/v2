@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Surviving the exam period with a tasty alternative to Subway
 date: "2011-06-12 16:14:21 +0100"
+
 # Attributes from Felix Online V1
 id: "1368"
 old_path: /food/1368/try-chopstix
 aliases:
  - /food/1368/try-chopstix
+imported: true
+comments:
+ - Haha brilliant stuff Btw I found a chopstix near St Marys Hospital So cool lol I think it is a chopstic anyway if not its identical to the cuisine and setting Its on Spring Street  check it out when youre thereThis is a super well thought articleYou are bloody funny dude  Although you are studying to be a doc you should have been a surgeon you have me in stitches Love itIn fact the one at Marys is 50p cheaper Not that i am an addict or anything I am so ashamedoriental canteen is way better
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Haha brilliant stuff Btw I found a chopstix near St Marys Hospital So cool lol I think it is a chopstic anyway if not its identical to the cuisine and setting Its on Spring Street  check it out when youre thereThis is a super well thought articleYou are bloody funny dude  Although you are studying to be a doc you should have been a surgeon you have me in stitches Love itIn fact the one at Marys is 50p cheaper Not that i am an addict or anything I am so ashamedoriental canteen is way better
-imported: true
 ---
 
 Be honest now. You love this exam period. It’s the ultimate trump card, a super-charged get-out-of-anything free excuse accepted by everyone. Exercise? Can’t, exams. Important favours? Can’t, exams. Washing? Can’t, exams.

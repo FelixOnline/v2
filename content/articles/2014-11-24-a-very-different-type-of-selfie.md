@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles checks out photographs down at the National Portrait Gallery
 date: "2014-11-24 12:24:08 +0000"
+
 # Attributes from Felix Online V1
 id: "4937"
 old_path: /arts/4937/a-very-different-type-of-selfie
 aliases:
  - /arts/4937/a-very-different-type-of-selfie
+imported: true
+comments:
+ - halimot cain  metafulminuricchemotherapeuticnessbackscatters Nike Cardinals 22 Tony Jefferson Green Mens Stitched NFL Limited Salute To Service Tank Top Jersey nike manchon genouillre Wholesale New Orleans Saints Jack Tabb Jerseys where to get a canada goose jacket toronto ysl keychain wallet site nike philippines
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - halimot cain  metafulminuricchemotherapeuticnessbackscatters Nike Cardinals 22 Tony Jefferson Green Mens Stitched NFL Limited Salute To Service Tank Top Jersey nike manchon genouillre Wholesale New Orleans Saints Jack Tabb Jerseys where to get a canada goose jacket toronto ysl keychain wallet site nike philippines
-imported: true
 ---
 
 Have we reached ‘Peak Selfie’? Last year saw the word, used to describe a self-portrait cum photograph, chosen as the Oxford English Dictionary’s ‘Word of the Year’, which is unsurprising when one considers its ubiquity among social media. The Ellen DeGeneres’ selfie from the 2014 Academy Awards has the honour of being the most retweeted image in the world; Instagram has over 50 million picture with the tag #selfie; and the phenomenon even has its own theme song – #SELFIE by __The Chainsmokers__, a piece of somewhat dubious quality. Truly, our society is saturated with the selfie phenomenon.

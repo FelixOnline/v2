@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Figures and Fictions gives a platform to contemporary South African photographers
 date: "2011-05-20 05:45:45 +0100"
+
 # Attributes from Felix Online V1
 id: "1226"
 old_path: /arts/1226/new-generation-south-africa
 aliases:
  - /arts/1226/new-generation-south-africa
+imported: true
+comments:
+ - Theres a sceert about your post ICTYBTIHTKYEZmiIr  urlhttpqbxojwnfhfzfcomqbxojwnfhfzfurl linkhttpblljfvcarqrxcomblljfvcarqrxlink httpwbobfifvjxsqcomWp0Dat  mhejmeftkwzb
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Theres a sceert about your post ICTYBTIHTKYEZmiIr  urlhttpqbxojwnfhfzfcomqbxojwnfhfzfurl linkhttpblljfvcarqrxcomblljfvcarqrxlink httpwbobfifvjxsqcomWp0Dat  mhejmeftkwzb
-imported: true
 ---
 
 The exhibition does not hold back, photos are large enough to step well away from, and with seventeen different photographers there is plenty there to see. As well as the familiar dignified portrait style are some real surprises. Amongst them Pieter Hugo’s astonishingly powerful picture of a man with a hyena, a really breathtaking piece. It is good value for money whilst being possible to visit within half an hour.

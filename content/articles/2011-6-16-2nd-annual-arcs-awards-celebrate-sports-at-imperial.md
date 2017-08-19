@@ -4,16 +4,24 @@ title: >
 subtitle: >
   England Rugby Union 7’s Head Coach, Ben Ryan, attends ceremony
 date: "2011-06-16 21:21:40 +0100"
+
 # Attributes from Felix Online V1
 id: "1403"
 old_path: /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
 aliases:
  - /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
+imported: true
+comments:
+ - Wait his name is Rhett Butler For real The pictures are great but now that Ive put his name toheegtr I cant think of anything else Thats a lot to live up toYou can view photos by our good fiernd and Rambler photographer James Ruff over on the Rambler Collective site   which can be viewed by clicking right here  average savings car insurance   ct   sell fake   buy levitra   due them
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Wait his name is Rhett Butler For real The pictures are great but now that Ive put his name toheegtr I cant think of anything else Thats a lot to live up toYou can view photos by our good fiernd and Rambler photographer James Ruff over on the Rambler Collective site   which can be viewed by clicking right here  average savings car insurance   ct   sell fake   buy levitra   due them
-imported: true
 ---
 
 Last Friday, Sport Imperial hosted the second annual Imperial ARCS (Appreciate, Recognise and Celebrate Sport) award ceremony championing those who have contributed to sport at Imperial College over the past year. The event was attented by over 140 guests including nominees for awards, supporting team members, coaches, teaching staff from Imperial, various officials, sponsors and partner organisations.

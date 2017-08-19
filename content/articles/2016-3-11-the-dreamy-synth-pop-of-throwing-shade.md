@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A hazy blur of sharp light and colour
 date: "2016-03-11 11:49:02 +0000"
+
 # Attributes from Felix Online V1
 id: "6033"
 old_path: /music/6033/the-dreamy-synth-pop-of-throwing-shade
 aliases:
  - /music/6033/the-dreamy-synth-pop-of-throwing-shade
+imported: true
+comments:
+ - You are so cuteurlhttpwwwindyarockscomblog2675554BladeSoulClassDiscussoinsCheap Blade And Soul GoldurlYou always know the right thing to sayurlhttpsbladeandsoulvipwordpresscom20160312asunforfmsplzfminbladesoulBlade And Soul Power levelingurlnice goingurlhttpimgfavecomview6791459uploaded_by551572tos cosplayurlThats an inoeingus way of thinking about it
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - You are so cuteurlhttpwwwindyarockscomblog2675554BladeSoulClassDiscussoinsCheap Blade And Soul GoldurlYou always know the right thing to sayurlhttpsbladeandsoulvipwordpresscom20160312asunforfmsplzfminbladesoulBlade And Soul Power levelingurlnice goingurlhttpimgfavecomview6791459uploaded_by551572tos cosplayurlThats an inoeingus way of thinking about it
-imported: true
 ---
 
 **Throwing Shade**, AKA Nabihah Iqbal, is an artist who educates. Her background in history and ethnomusicology (in which she holds a degree from SOAS) heavily influences her bi-weekly NTS Radio show, where she weaves sounds from all over the world into a culturally rich sonic tapestry, exploding with colour and exposing listeners to the “weird and wonderful”. As well as this, she’s a producer whose wealth of musical knowledge shines through in each of her glittering compositions.

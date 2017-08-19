@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
+
 # Attributes from Felix Online V1
 id: "5179"
 old_path: /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
 aliases:
  - /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
+imported: true
+comments:
+ - I benefit from reading your web site Thankscs go skins by price httpfifa15tournamentmodeblogspotcom201603nba2k16mtgivesyourhomecourthtmlMany thanks very valuable Will share site with my palsnba 2k16 mt cheat table httpwwwletsgetjobscoukgroupscheapnba2k16vcnewpackswillaidyoumakecashWow cuz this is really excellent work Congrats and keep it upnba 2k16 mt generator httpfitnessqacom58512nba2k16mtelectronicartsclassicbasketballgamesI enjoy looking at your site Thanks a tonnhl 17 coins httpceciliaflorenceyepcomblog359760_General1621290_Madden_17_will_soon_be_offered_to_all_Xbox_One_usersWonderful site you possess going heremadden 17 httphyperlapseshowcasecomgroups2302wdo pregnant second round clomid 50mg get a prescription for clomid online when can i take a pregnancy test after taking clomiddoes clomid delay positive pregnancy test can i buy clomid over the counter in south africa bfp 2nd round clomid DachWhexsfor take clomid
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I benefit from reading your web site Thankscs go skins by price httpfifa15tournamentmodeblogspotcom201603nba2k16mtgivesyourhomecourthtmlMany thanks very valuable Will share site with my palsnba 2k16 mt cheat table httpwwwletsgetjobscoukgroupscheapnba2k16vcnewpackswillaidyoumakecashWow cuz this is really excellent work Congrats and keep it upnba 2k16 mt generator httpfitnessqacom58512nba2k16mtelectronicartsclassicbasketballgamesI enjoy looking at your site Thanks a tonnhl 17 coins httpceciliaflorenceyepcomblog359760_General1621290_Madden_17_will_soon_be_offered_to_all_Xbox_One_usersWonderful site you possess going heremadden 17 httphyperlapseshowcasecomgroups2302wdo pregnant second round clomid 50mg get a prescription for clomid online when can i take a pregnancy test after taking clomiddoes clomid delay positive pregnancy test can i buy clomid over the counter in south africa bfp 2nd round clomid DachWhexsfor take clomid
-imported: true
 ---
 
 On Tuesday, Karl Lagerfeld pushed the boundaries of haute couture fashion yet again at the Chanel haute couture fashion show. The exclusive catwalk event was held at the Grand Palais in Paris, with attendees ranging from the likes of Hollywood starlets like Kristen Stewart, to French femme fatales Vanessa Paradis and Charlotte Gainsbourg.

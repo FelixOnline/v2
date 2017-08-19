@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Microtransactions and DLC: a bright idea or a big mistake? Laurence Pope decides
 date: "2011-10-21 10:28:37 +0100"
+
 # Attributes from Felix Online V1
 id: "1591"
 old_path: /games/1591/dlc---to-pay-or-not-to-pay
 aliases:
  - /games/1591/dlc---to-pay-or-not-to-pay
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So, a little over a week ago Valve brought out [a fairly large update](http://www.tf2.com/post.php?id=6508) for their flagship game _Team Fortress 2_. So what? Ignoring the fact that _TF2_ is now over four years old and still receiving content updates which it celebrated this time last year when microtransactions were first introduced into the game - the MANN-conomy Update (I’m not making this up). Amongst other things the update allowed players to purchase in-game weapons and purely cosmetic add-ons for the nine classes with real-world cash. The update was initially received with mixed reviews – ‘buying your way to victory’ and ‘Valve’s sold us out’ were two of the many complaints angry fans put forward, whilst others maintained that nothing was on sale (at least, game-changing wise) that couldn’t be found by penniless schmucks. One year on, and everything’s (mostly) settled down.

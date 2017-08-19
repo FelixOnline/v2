@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Thomas Leeman reviews Chvrches
 date: "2013-05-16 15:46:30 +0100"
+
 # Attributes from Felix Online V1
 id: "3570"
 old_path: /music/3570/chvrches--village-underground
 aliases:
  - /music/3570/chvrches--village-underground
+imported: true
+comments:
+ - What business when forecd will provide a government approved health insurance policy for 10000 to 5000 a year when they can provide nothing and just pay a 2000 a year penalty  How can a self employed person who has a health savings account  insurance now be told by that you have to buy this policy or pay a penalty survive   Why would someone who is young 27 to 35 buy an insurance policy at 3500 to 5000 a year when they would just pay a 700 a year penalty and just subscribe to insurance the second something like cancer or major accident happen because insurers have to provide a policy even with a pre existing condition  If you were in the insurance business say life insurance and the government said there is no pre excising condition allowed every body would buy the insurance after someone died therefore no more insurance companies  There fore obamacare will get rid of insurance companies leading to a single system the government system  Question what does the government run better than a private com
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What business when forecd will provide a government approved health insurance policy for 10000 to 5000 a year when they can provide nothing and just pay a 2000 a year penalty  How can a self employed person who has a health savings account  insurance now be told by that you have to buy this policy or pay a penalty survive   Why would someone who is young 27 to 35 buy an insurance policy at 3500 to 5000 a year when they would just pay a 700 a year penalty and just subscribe to insurance the second something like cancer or major accident happen because insurers have to provide a policy even with a pre existing condition  If you were in the insurance business say life insurance and the government said there is no pre excising condition allowed every body would buy the insurance after someone died therefore no more insurance companies  There fore obamacare will get rid of insurance companies leading to a single system the government system  Question what does the government run better than a private com
-imported: true
 ---
 
 Fresh from playing the Alexandra Palace with Everything Everything and Two Door Cinema Club the trio Chvrches came to the Village Underground with the weight of expectation lying squarely on their shoulders. They recently won best new non-US band at SXSW and made it into the top 5 of the BBC’s sound of 2013. Little surprise then that the gig sold out in minutes and the queues to get in started an hour before doors opened.

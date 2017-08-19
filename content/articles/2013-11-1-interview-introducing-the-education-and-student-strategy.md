@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix talks shop with the Vice-Provost Education
 date: "2013-11-01 09:16:51 +0000"
+
 # Attributes from Felix Online V1
 id: "3967"
 old_path: /features/3967/interview-introducing-the-education-and-student-strategy
 aliases:
  - /features/3967/interview-introducing-the-education-and-student-strategy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _Earlier this week Felix caught up with Professor Debra Humphris, Vice Provost (Education) and had a discussion about the new Education and Student Strategy that was released on Thursday._

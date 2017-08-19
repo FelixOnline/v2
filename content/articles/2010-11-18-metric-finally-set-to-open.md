@@ -4,16 +4,24 @@ title: >
 subtitle: >
   After almost two months of delays, the new club opens its doors to students
 date: "2010-11-18 21:44:54 +0000"
+
 # Attributes from Felix Online V1
 id: "409"
 old_path: /news/409/metric-finally-set-to-open-
 aliases:
  - /news/409/metric-finally-set-to-open-
+imported: true
+comments:
+ - There are some more pictures of Metric over on Live for anyone interested httplivecgcunetnews2174
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - There are some more pictures of Metric over on Live for anyone interested httplivecgcunetnews2174
-imported: true
 ---
 
 After almost two months of waiting, the Union’s new club, Metric, is set to open triumphantly on Saturday 20th November. The launch marks the end of ‘Phase 3’ of the £2.5 million Union redevelopment, which included the refurbishment of the old Da Vinci’s bar, now FiveSixEight, and a scrub up of the Union Bar.

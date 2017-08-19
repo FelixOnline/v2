@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ashley Ng reports on the first ever M1 series tournament
 date: "2015-03-06 14:06:14 +0000"
+
 # Attributes from Felix Online V1
 id: "5355"
 old_path: /sport/5355/imperial-falcons-finish-third-in-loughborough
 aliases:
  - /sport/5355/imperial-falcons-finish-third-in-loughborough
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __The Imperial Falcons baseball team recorded a third place position in the first ever M1 Series Tournament at Loughborough on the 21st/22nd February, after some strong performances throughout the weekend and a dramatic walk-off hit secured a win in the final game.__

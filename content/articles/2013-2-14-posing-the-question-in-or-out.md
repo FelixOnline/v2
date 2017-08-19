@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Silvia Davey asks what UK citizens should consider come referendum time
 date: "2013-02-14 17:02:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3324"
 old_path: /politics/3324/posing-the-question-in-or-out
 aliases:
  - /politics/3324/posing-the-question-in-or-out
+imported: true
+comments:
+ - The speech he delivered a couple of weeks ago on the future of the United Kingdom within the European Union made me positively concerned he proposes a simple inout referendumI quite agree as a pro European Brit the notion of a constituent member of the union exercising a democratic process on whether or not its people want to be part of the club makes me positively concerned too If only we could run things in a similar fashion to the European Commission Appointments not elections seem to be the way forward wouldnt you agree I am not British but a simple observer of this political discussion However I still agree that bringing the decision to voters is probably the best solution What I find very disputable instead is the fact that the national media seem to bend publics opinion depending of their current interests There was a time in which much enthusiasm was spread for the European project in particular at the time the UK seemed to have achieved a good deal but in the last few
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The speech he delivered a couple of weeks ago on the future of the United Kingdom within the European Union made me positively concerned he proposes a simple inout referendumI quite agree as a pro European Brit the notion of a constituent member of the union exercising a democratic process on whether or not its people want to be part of the club makes me positively concerned too If only we could run things in a similar fashion to the European Commission Appointments not elections seem to be the way forward wouldnt you agree I am not British but a simple observer of this political discussion However I still agree that bringing the decision to voters is probably the best solution What I find very disputable instead is the fact that the national media seem to bend publics opinion depending of their current interests There was a time in which much enthusiasm was spread for the European project in particular at the time the UK seemed to have achieved a good deal but in the last few
-imported: true
 ---
 
 "I really hope that the UnitedKingdom pulls out of the European Union and that the Euro collapses – I could definitely do with a cheaper holiday somewhere nice and sunny in Europe…” was the conclusion to a ranting monologue I was faced with during a taxi ride back home one evening.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Men of Imperial – some compulsory reading from Catina Willows
 date: "2012-11-29 23:05:48 +0000"
+
 # Attributes from Felix Online V1
 id: "3001"
 old_path: /comment/3001/pick-up-artistry--arseholery
 aliases:
  - /comment/3001/pick-up-artistry--arseholery
+imported: true
+comments:
+ - Feminist SocietySexism SourceIm sorry but no its really not and I agree with you entirely that sexism shouldnt be fought with further sexism Despite what you may think feminism fights against sexism towards men too and we dont condone articles like this That said I dont think this is anywhere near as problematic as PUAs themselves who literally believe in manipulating women into sexId just like to rebut the section about peacocking I have found that women are often drawn to my shrill cry and colourful plumagePeacocking is a ridiculous concept How far can it go Wll a fedora make me look rogueish in a DonDraper way or should I go all out and wear my Jacobean ruffWow what a fantastic articleThanksI believe this article is clear sexism against men there is so much hate into it I believe that when there is a problem it is always more than ones fault So girls that fall from this tricks as you suppose should actually wake up as well Maybe guys should create a Guys Soci
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Feminist SocietySexism SourceIm sorry but no its really not and I agree with you entirely that sexism shouldnt be fought with further sexism Despite what you may think feminism fights against sexism towards men too and we dont condone articles like this That said I dont think this is anywhere near as problematic as PUAs themselves who literally believe in manipulating women into sexId just like to rebut the section about peacocking I have found that women are often drawn to my shrill cry and colourful plumagePeacocking is a ridiculous concept How far can it go Wll a fedora make me look rogueish in a DonDraper way or should I go all out and wear my Jacobean ruffWow what a fantastic articleThanksI believe this article is clear sexism against men there is so much hate into it I believe that when there is a problem it is always more than ones fault So girls that fall from this tricks as you suppose should actually wake up as well Maybe guys should create a Guys Soci
-imported: true
 ---
 
 Single? Virgin? Afraid to admit this because Felix told you you should quit whining about it, so now you just keep it all bottled up inside and wank while you cry yourself to sleep at night? Don’t worry, you’re not alone! Er, sorry, you are alone, but this is Imperial, and there’s a lot of other people out there just like you.

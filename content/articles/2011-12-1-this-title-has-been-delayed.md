@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Major delays on the Felix Line due to a signal failure in the Copy Editor area.
 date: "2011-12-01 21:23:55 +0000"
+
 # Attributes from Felix Online V1
 id: "1890"
 old_path: /comment/1890/this-title-has-been-delayed
 aliases:
  - /comment/1890/this-title-has-been-delayed
+imported: true
+comments:
+ - That is a huge bookYeah he doesnt look really happy to go to shooclHave I mentioned your kids are THE CUTEST EVER  I know I have but they just arePeterYes   the iOS bug appears to have been fixed tkahnsI am currently on CR 1H51 which on the  Facilities tab shows as having reservations available No CR services with the possible exception of the  Business Zone on a handful of their Silver MainLine services have seat reservations Not sure if its the way they have loaded the data or the way you are extracting itThanks for a great site Very usefulCU  improved ejaculatory   metals   immense capacity   car insurance quotes
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - That is a huge bookYeah he doesnt look really happy to go to shooclHave I mentioned your kids are THE CUTEST EVER  I know I have but they just arePeterYes   the iOS bug appears to have been fixed tkahnsI am currently on CR 1H51 which on the  Facilities tab shows as having reservations available No CR services with the possible exception of the  Business Zone on a handful of their Silver MainLine services have seat reservations Not sure if its the way they have loaded the data or the way you are extracting itThanks for a great site Very usefulCU  improved ejaculatory   metals   immense capacity   car insurance quotes
-imported: true
 ---
 
 Reading that title, you can probably roughly guess what this article is going to be about. It’s the trains in Britain. I used to think the trains being often delayed, expensive and not running much on the weekend was an Essex thing, innit. It appears that I was wrong in that assumption, and Mock The Week panellists must be pleased that it’s widespread enough for everyone to appreciate their jokes. I’m just going to go straight for the jugular here: the trains in Britain need to be renationalised

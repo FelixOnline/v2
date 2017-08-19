@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix Editor Joe Letts gives a hurried welcome while putting together the Freshers' issue...
 date: "2013-09-28 00:03:32 +0100"
+
 # Attributes from Felix Online V1
 id: "3766"
 old_path: /comment/3766/a-letter-from-the-editor
 aliases:
  - /comment/3766/a-letter-from-the-editor
+imported: true
+comments:
+ - A nice intro I hate to be the arsehole to point it out but I believe its an Attila the Hun not a Trevor Nunn
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - A nice intro I hate to be the arsehole to point it out but I believe its an Attila the Hun not a Trevor Nunn
-imported: true
 ---
 
 Wow! That’s all I can say! This is my first issue, and I’m continuing the Felix spirit by writing this editorial just before I send the paper off to the printers.

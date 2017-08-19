@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Is Cate Blanchett a good actress, or is she just tall?
 date: "2016-06-17 09:36:27 +0100"
+
 # Attributes from Felix Online V1
 id: "6287"
 old_path: /film/6287/editorial-thanks-yall
 aliases:
  - /film/6287/editorial-thanks-yall
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 And so, we’ve come to the end, just as every brilliant film must do. My year as Film Editor has provided me with the extreme privilege of seeing first-hand some of the amazing, insightful writing we students are capable of. Over the last 28 issues, we’ve had numerous contributors, who have all produced absolutely incredible work. In no particular order, I would like to thank our writers: Tom Stephens, Ben Collier, Meryl Anil, Thomas Carroll, Diego Aparicio, Alex Heib, Cale Tilford, Arnold Duralliu, Max Lewis-Clarke, Ioanna Morianou, Jonathan Masters, and Diogo Miguel Geraldes – you guys have all made my job worth-while, and I thank you from the bottom of my chilly celluloid heart.

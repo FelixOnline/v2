@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Celebrate ALL the science
 date: "2016-10-07 17:09:04 +0100"
+
 # Attributes from Felix Online V1
 id: "6313"
 old_path: /science/6313/the-nobel-vs-ig-nobel-prizes
 aliases:
  - /science/6313/the-nobel-vs-ig-nobel-prizes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Whereas the Nobel Prizes embody the recognition and respect all scientists strive for, the Ig Nobel Prizes are given out annually for some of the weirdest and most unlikely research materials in each category. Both are significant events in the science calendar, but for very different reasons. Which prize are you more likely to win?

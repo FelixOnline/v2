@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto in conversation with artist Chris Salter and engineer Marije Baalman
 date: "2014-06-23 14:56:11 +0100"
+
 # Attributes from Felix Online V1
 id: "4716"
 old_path: /music/4716/n_polytope-behaviours-in-light--sound-after-iannis-xenakis
 aliases:
  - /music/4716/n_polytope-behaviours-in-light--sound-after-iannis-xenakis
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __In an abandoned swimming pool somewhere in the northern perimeter of Berlin, lights burst to the rhythm of acoustic ricochets. A bizarre choreography of light and sound imitates patterns of synchrony and predation found in the animal kingdom. __

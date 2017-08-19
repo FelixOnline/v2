@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Vivien Tang and Caroline Wood were joint winners of the £20,000 Mayor's award
 date: "2015-03-19 23:49:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5411"
 old_path: /news/5411/imperial-entrepreneurs-receive-prize-for-sustainable-fashion-initiative
 aliases:
  - /news/5411/imperial-entrepreneurs-receive-prize-for-sustainable-fashion-initiative
+imported: true
+comments:
+ - christian louboutin discountchristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcomaFy0nH httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomIncredibly individual friendly website Huge info offered on few clicksfifa 17 coins httpjuliabridesinuamemberblog_post_viewphppostId47811Really such a handy web sitefifa 17 httpmahuriscomindexphpblogs150522buynfl17coinshoweasportsmayboostWow lovely site Thnx nhl 17 httpnataliedorothykinjacomnhl17revealedthemountdimensionforxboxconsole1785437644Meo2n3 httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomhttpxurlesPR0DAWEZ       httpxurlesPR0DAWEZ      httpxurlesPR0DAWEZ urlhttpxurlesPR0DAWEZ     httpxurlesPR0DAWEZurl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - christian louboutin discountchristian louboutin outlet online httpcanadachristianlouboutinoutletblogspotcomaFy0nH httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomIncredibly individual friendly website Huge info offered on few clicksfifa 17 coins httpjuliabridesinuamemberblog_post_viewphppostId47811Really such a handy web sitefifa 17 httpmahuriscomindexphpblogs150522buynfl17coinshoweasportsmayboostWow lovely site Thnx nhl 17 httpnataliedorothykinjacomnhl17revealedthemountdimensionforxboxconsole1785437644Meo2n3 httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomhttpxurlesPR0DAWEZ       httpxurlesPR0DAWEZ      httpxurlesPR0DAWEZ urlhttpxurlesPR0DAWEZ     httpxurlesPR0DAWEZurl
-imported: true
 ---
 
 Clothes-swapping business Clotho, founded by Imperial graduates Vivien Tang and Caroline Wood, has been named joint winner of the Mayor of London’s Low Carbon Entrepreneur Prize.

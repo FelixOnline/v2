@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial cricketers reach second leg of indoor tournament
 date: "2010-11-11 20:45:43 +0000"
+
 # Attributes from Felix Online V1
 id: "343"
 old_path: /sport/343/cricketers-rock-indoor-tournament-like-a-hurricane
 aliases:
  - /sport/343/cricketers-rock-indoor-tournament-like-a-hurricane
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial overcame stiff competition this Saturday from Essex, Kingston and East London Universities to reach the second leg of the indoor tournament. The six IC players were amongst the most experienced in the Cricket club and put up a spirited performance that ensured victories in all three of their matches.

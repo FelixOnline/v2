@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A lemon pie recipe
 date: "2012-06-14 20:29:38 +0100"
+
 # Attributes from Felix Online V1
 id: "2566"
 old_path: /food/2566/summer-sweetness
 aliases:
  - /food/2566/summer-sweetness
+imported: true
+comments:
+ - it was very hard and she was tired all the time and dizzy She also lost all her body fat and all her muscle and had to have a long rest afdatwerrsSqueeze half a lemon  or one whole lemon in a glass of water every morning and evening to clean out your system And drink lots of water to flush your system  That will help clear up buttons and acne and stuff Nothing else is necessaryHiIve seen that in some blogs the name of the user is a link for a site How do you do that Do you put the href code in the name field of the comment form or it has to be done anortehwayI also try the  on a blog and it showed the html code instead of the anchor text Can you explain why in some blogs it work and on other blogs it doesntThanks
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - it was very hard and she was tired all the time and dizzy She also lost all her body fat and all her muscle and had to have a long rest afdatwerrsSqueeze half a lemon  or one whole lemon in a glass of water every morning and evening to clean out your system And drink lots of water to flush your system  That will help clear up buttons and acne and stuff Nothing else is necessaryHiIve seen that in some blogs the name of the user is a link for a site How do you do that Do you put the href code in the name field of the comment form or it has to be done anortehwayI also try the  on a blog and it showed the html code instead of the anchor text Can you explain why in some blogs it work and on other blogs it doesntThanks
-imported: true
 ---
 
 Modified recipe from the book _Vegan Pie in the Sky by Isa Chandra Moskowitz_.

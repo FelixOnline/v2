@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This week College researchers began a new study investigating the possible effects mobile phones and other wireless devices may have on the mental development of children.
 date: "2014-05-23 14:24:27 +0100"
+
 # Attributes from Felix Online V1
 id: "4629"
 old_path: /news/4629/college-begins-new-study-on-the-possible-effects-of-mobile-phones-on-child-cognitive-development
 aliases:
  - /news/4629/college-begins-new-study-on-the-possible-effects-of-mobile-phones-on-child-cognitive-development
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 This week College researchers began a new study investigating the possible effects mobile phones and other wireless devices may have on the mental development of children. The Study of Cognition, Adolescents and Mobile Phones (SCAMP) will focus on thinking skills, attention span and memory, tracking 2,500 11-12 year old students, aiming to repeat the tests in 2017.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We've come second in the Thomson Reuters innovation list
 date: "2016-06-17 08:52:51 +0100"
+
 # Attributes from Felix Online V1
 id: "6271"
 old_path: /news/6271/imperial-is-one-of-europes-most-innovative-universities
 aliases:
  - /news/6271/imperial-is-one-of-europes-most-innovative-universities
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Thomson Reuters this week released a report listing the most innovative universities in Europe, with Imperial coming in 2nd on the list just behind KU Leuven in Belgium.

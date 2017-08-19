@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Because sometimes what Chris Richardson needs is a holiday from his holiday
 date: "2015-05-04 16:35:22 +0100"
+
 # Attributes from Felix Online V1
 id: "5490"
 old_path: /travel/5490/volunteer-experience-working-away-in-chiles-colchagua-valley
 aliases:
  - /travel/5490/volunteer-experience-working-away-in-chiles-colchagua-valley
+imported: true
+comments:
+ - Thanks designed for sharing such a good thought article is nice thats why i have read it entirelymoncler hooded puffer jacket online httpwwwsanctus1coukukmonclerhoodedpufferjacketonline15951htmlsay thanks to a lot for your website it helps a lotcs go skins auction httpwwwcybersecuritynigeriaorgngncsfindexphpdiscussionscheapnba2k16vchasallnewfeatures
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks designed for sharing such a good thought article is nice thats why i have read it entirelymoncler hooded puffer jacket online httpwwwsanctus1coukukmonclerhoodedpufferjacketonline15951htmlsay thanks to a lot for your website it helps a lotcs go skins auction httpwwwcybersecuritynigeriaorgngncsfindexphpdiscussionscheapnba2k16vchasallnewfeatures
-imported: true
 ---
 
 I’m sure you’re all depressingly familiar with the concept of unpaid internships by now: roll in with a smile, do a little grunt work, leave with a frown, only to be replaced by the next person on the unending list of the exploited. WorkAway.info is a little different. In exchange for a mere 25 hours of work per week, you at least get free room and board. That and the experiences are typically a little more uplifting than shadowing and fixing coffee. And as you’re breaking even each week, this will also allow you to sustain your travels over a longer period. Most of all, it gives you time to properly settle into a particular place: you get to really feel the vibe as opposed to just box-ticking the colonial buildings and museums deemed worthy of inclusion by the Lonely Planet.

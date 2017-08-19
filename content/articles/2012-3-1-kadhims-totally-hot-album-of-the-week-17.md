@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Perfume Genius - Put Your Back N 2 It - Matador - 2012
 date: "2012-03-01 23:05:16 +0000"
+
 # Attributes from Felix Online V1
 id: "2296"
 old_path: /music/2296/-kadhims-totally-hot-album-of-the-week-17
 aliases:
  - /music/2296/-kadhims-totally-hot-album-of-the-week-17
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 I saw __Perfume Genius __in November 2010; I hated him. “Whoa there!”, I hear you cry – hot coffee spitting from your mouths in shock. Don’t be too hasty, don’t turn the page, don’t ‘Command + T’ away: there’s redemption at the end of this article.

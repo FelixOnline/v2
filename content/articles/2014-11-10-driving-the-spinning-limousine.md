@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The pros and cons of playing a Limosuine driver
 date: "2014-11-10 21:51:01 +0000"
+
 # Attributes from Felix Online V1
 id: "4828"
 old_path: /games/4828/driving-the-spinning-limousine
 aliases:
  - /games/4828/driving-the-spinning-limousine
+imported: true
+comments:
+ - eFXGPY  lgfrkcnvyijd urlhttpgmtlhgtlodclcomgmtlhgtlodclurl linkhttpsupqoordqmyecomsupqoordqmyelink httpwmybbvexxotucom
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - eFXGPY  lgfrkcnvyijd urlhttpgmtlhgtlodclcomgmtlhgtlodclurl linkhttpsupqoordqmyecomsupqoordqmyelink httpwmybbvexxotucom
-imported: true
 ---
 
 Your name is Giorgio Manos. Sporting red hair, a light blue suit and white gloves, your profession: limousine driver. You pick up passengers and deliver them to their respective destinations for cash, but there’s a twist… literally. You don’t just drive the way your wheels are pointing (what would be the point in that?), your limousine is constantly spinning while you attempt to navigate around the town ‘Roundabout’.

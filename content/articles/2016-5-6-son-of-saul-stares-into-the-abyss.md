@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The horror of the Holocaust is brought to life in László Nemes’ astonishing debut
 date: "2016-05-06 10:11:49 +0100"
+
 # Attributes from Felix Online V1
 id: "6129"
 old_path: /film/6129/son-of-saul-stares-into-the-abyss
 aliases:
  - /film/6129/son-of-saul-stares-into-the-abyss
+imported: true
+comments:
+ - These kind of protests can actually be effective if done right The one thing and I really mean the one thing that protests can do is bring attention to something Most people probably have no fucking idea were Macys clothes come from by educating them maybe some change can occur cartier roadster replica watches urlhttpwwwvendremontrescomcartier roadster replica watchesurlThanks this site is really beneficialNFL 17 coins httpwwwteeplayercomevent118Hi there excellent web page you have therefifa 17 coins httpfjhdthdertmywapblogcomfifa17coinsbedistributedxhtmlcartierlovejesduas Magnificent goods from you man I have understand your stuff previous to and youre just too fantastic I actually like what youve acquired here certainly like what youre saying and the way in which you say it You make it enjoyable and you still take care of to keep it smart I can not wait to read much more from you This is actually a tremendous site replique van cleef bijoux urlh
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - These kind of protests can actually be effective if done right The one thing and I really mean the one thing that protests can do is bring attention to something Most people probably have no fucking idea were Macys clothes come from by educating them maybe some change can occur cartier roadster replica watches urlhttpwwwvendremontrescomcartier roadster replica watchesurlThanks this site is really beneficialNFL 17 coins httpwwwteeplayercomevent118Hi there excellent web page you have therefifa 17 coins httpfjhdthdertmywapblogcomfifa17coinsbedistributedxhtmlcartierlovejesduas Magnificent goods from you man I have understand your stuff previous to and youre just too fantastic I actually like what youve acquired here certainly like what youre saying and the way in which you say it You make it enjoyable and you still take care of to keep it smart I can not wait to read much more from you This is actually a tremendous site replique van cleef bijoux urlh
-imported: true
 ---
 
 Although admirable is an adjective too-often used to describe films whose artistic vision falls short of the final product, there is no word that I can think of more suited to describe Hungarian Holocaust drama _Son of Saul._ In most Holocaust dramas, the cinematic narrative is structured in order to create the most emotionally charged story possible – to give the impression of the gravity and sheer scale of the Holocaust and the victims created by the Nazi dictatorship. _The Boy in the Striped Pyjamas_ comes to mind, where everything – from the euphoric music, to the dialogue, right down to the nuanced acting – is engineered in order to profit from an emotional response from the audience, the cynical possibility of an Oscar hanging somewhere in the near future. In the end, these films seem to almost trivialise the topic of the Holocaust, and while their aims may be noble, this method lacks emotional subtlety and creates a work with the feeling of emotional artifice. You may have guessed that _Son of Saul_ is the complete antithesis of this. It is  a piece of art that will endure years to come, not just this past Oscar’s season.

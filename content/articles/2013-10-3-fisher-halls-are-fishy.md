@@ -4,16 +4,24 @@ title: >
 subtitle: >
   ‘The Jail’ halls get secret inspection
 date: "2013-10-03 23:08:04 +0100"
+
 # Attributes from Felix Online V1
 id: "3796"
 old_path: /news/3796/fisher-halls-are-fishy-
 aliases:
  - /news/3796/fisher-halls-are-fishy-
+imported: true
+comments:
+ - I lived in Fisher Hall last year Yes it is not the best decorated hall in the world but we are students after all For some of us we cant afford the 200 a week rooms in Princes Gardens this is the only cheap option Fisher Hall is like an your old pet sure its scruffy and is a bit ragged around the edges but you wouldnt have it any other way Keep Fisher alive and for 103 a week for a single its one of the only affordable accommodations for first year students at imperial Is this website updated anymore
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - I lived in Fisher Hall last year Yes it is not the best decorated hall in the world but we are students after all For some of us we cant afford the 200 a week rooms in Princes Gardens this is the only cheap option Fisher Hall is like an your old pet sure its scruffy and is a bit ragged around the edges but you wouldnt have it any other way Keep Fisher alive and for 103 a week for a single its one of the only affordable accommodations for first year students at imperial Is this website updated anymore
-imported: true
 ---
 
 Much of last year’s #AgainstActon campaign focused on the impending closure of Evelyn Gardens’ Fisher Hall. The huge campaign lasted months but the plans to create the halls were continued.

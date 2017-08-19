@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It should not be separated between cheap and far and expensive and close, says Scott Heath, Union President (2011-2012)
 date: "2013-02-21 23:45:17 +0000"
+
 # Attributes from Felix Online V1
 id: "3348"
 old_path: /comment/3348/all-students-deserve-the-same-experience
 aliases:
  - /comment/3348/all-students-deserve-the-same-experience
+imported: true
+comments:
+ - mont blanc legrand rollerball refill blue montblanc ballpoint replica mont blanc pen pouch michael kors rings selma michael kors bag genuine ugg boots label leather kensington ugg boots uk ugg slippers for men michael kors iphone clutch michael kors keychain Montblanc Boutique Locations mont blanc pens christchurch new zealand montblanc meisterstuck rollerball vintage montblanc pens amazon montblanc ballpoint pen refills penna a sfera montblanc starwalker shoes michael kors ugg bailey bow colors michael kors clearance michael kors umbrellamont blanc pen price list malaysia http1963711159scriptidmontblancpenpricelistmalaysiay5154php
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mont blanc legrand rollerball refill blue montblanc ballpoint replica mont blanc pen pouch michael kors rings selma michael kors bag genuine ugg boots label leather kensington ugg boots uk ugg slippers for men michael kors iphone clutch michael kors keychain Montblanc Boutique Locations mont blanc pens christchurch new zealand montblanc meisterstuck rollerball vintage montblanc pens amazon montblanc ballpoint pen refills penna a sfera montblanc starwalker shoes michael kors ugg bailey bow colors michael kors clearance michael kors umbrellamont blanc pen price list malaysia http1963711159scriptidmontblancpenpricelistmalaysiay5154php
-imported: true
 ---
 
 During my degree, and my Sabbatical term, I was always concerned with the prospect of future students being priced out of accommodation.

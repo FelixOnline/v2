@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Samuel Bodansky asks how our economy affects the individual
 date: "2014-12-04 18:33:25 +0000"
+
 # Attributes from Felix Online V1
 id: "4987"
 old_path: /comment/4987/what-does-the-economy-have-to-do-with-me
 aliases:
  - /comment/4987/what-does-the-economy-have-to-do-with-me
+imported: true
+comments:
+ - Succinct and interedting overvieecheap louboutinchristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin quoteschristian louboutin online outlet httpchristianlouboutincanadaoutletblogspotcomBzaDZD httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Succinct and interedting overvieecheap louboutinchristian louboutin canada sale httpchristianlouboutincanadaoutletblogspotcomchristian louboutin quoteschristian louboutin online outlet httpchristianlouboutincanadaoutletblogspotcomBzaDZD httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
-imported: true
 ---
 
 One question commonly asked of economists is “as a member of the public, what exactly does the economy have to do with me?” People often feel that as individuals, they are fighting personal battles against household bills or focusing on their own consumption, rather than being part of a larger group or society.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   IC 1st 4 - 17 & 7 - 1 Oxford 1st. Double header opens up new Falcons pitch
 date: "2011-03-01 21:26:46 +0000"
+
 # Attributes from Felix Online V1
 id: "970"
 old_path: /sport/970/falcons-and-kings-even-as-new-field-is-unveiled
 aliases:
  - /sport/970/falcons-and-kings-even-as-new-field-is-unveiled
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On February 20 2011 the Imperial College Baseball Club officially opened their purpose built baseball facility in Harlington with a friendly visit from the neighbours, a crowd of two cow/horses.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Thursday’s LGBT drama bonanza
 date: "2015-02-09 19:36:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5225"
 old_path: /tv/5225/cucumber-banana-tofu-channel-4s-new-sex-salad-
 aliases:
  - /tv/5225/cucumber-banana-tofu-channel-4s-new-sex-salad-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 At Christmas, Channel 4 aggressively started advertising its new LGBT drama, signed by producer Russell T Davies from _Queer as Folk_. Maybe it was because of the massive billboards on Cromwell Road, or the ever-present YouTube clips, but I feel there was a certain degree of anticipation behind this release.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science @BitesOfScience
 date: "2016-12-02 14:01:15 +0000"
+
 # Attributes from Felix Online V1
 id: "6528"
 old_path: /science/6528/when-i-was-three-i-wanted-to-be
 aliases:
  - /science/6528/when-i-was-three-i-wanted-to-be
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Fact: A 10-year old girl discovered a new molecule in her chemistry lesson.

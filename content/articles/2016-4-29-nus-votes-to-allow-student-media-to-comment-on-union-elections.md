@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We weren’t allowed to print this picture we drew as part of last term’s election coverage as the union said it endorsed one of the candidates
 date: "2016-04-29 10:06:02 +0100"
+
 # Attributes from Felix Online V1
 id: "6089"
 old_path: /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
 aliases:
  - /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
+imported: true
+comments:
+ - Many thanks this site is really beneficialmadden 16 coins httpirislindsayspruzcomhttpkamagrabuyjellyorg  Viagra Online Discount Discount Celebrex httpsynthroidonlinebuynethttpkamagrabuyjellyorg  Cheap Kamagra Generic For Celebrex 200 Mg httpsynthroidonlinebuynetWith thanks This is definitely an impressive online siteCOUNTERSTRIKE httpwwwsbglnetcncommenthtmlindexphppage1id41699cartierbraceletlove        faux boucle d oreille occasion urlhttpwwwcollanaqualitagioiellicnfrvancleefearringreplicac3_81faux boucle d oreille occasionurl
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Many thanks this site is really beneficialmadden 16 coins httpirislindsayspruzcomhttpkamagrabuyjellyorg  Viagra Online Discount Discount Celebrex httpsynthroidonlinebuynethttpkamagrabuyjellyorg  Cheap Kamagra Generic For Celebrex 200 Mg httpsynthroidonlinebuynetWith thanks This is definitely an impressive online siteCOUNTERSTRIKE httpwwwsbglnetcncommenthtmlindexphppage1id41699cartierbraceletlove        faux boucle d oreille occasion urlhttpwwwcollanaqualitagioiellicnfrvancleefearringreplicac3_81faux boucle d oreille occasionurl
-imported: true
 ---
 
 At last week’s NUS conference, a motion was passed which should allow student media organisations to cover union elections in more detail.

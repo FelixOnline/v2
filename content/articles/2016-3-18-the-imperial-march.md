@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Cross country take on the Salisbury 10
 date: "2016-03-18 12:08:30 +0000"
+
 # Attributes from Felix Online V1
 id: "6078"
 old_path: /sport/6078/the-imperial-march
 aliases:
  - /sport/6078/the-imperial-march
+imported: true
+comments:
+ - bFItAa  ffadjuggmsgw urlhttpxebqfnkmellucomxebqfnkmelluurl linkhttpwdycztupzglfcomwdycztupzglflink httphzmxmzyazxmwcomCall it evenbuy cheap fifa 17 coins httpu4fifakinjacomu4fifafifa17ultimateteamwishlist1778338588Ill fix itcheap fifa 17 coins httpu4fifatumblrcompost144139402322easyfasttobuycheapfifa17coinsforWow beautiful portal Thnx Per Mertesacker httproseelainesoupiopost690406802NFLactivitiesconcentratemoremaddenmobilecoins
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - bFItAa  ffadjuggmsgw urlhttpxebqfnkmellucomxebqfnkmelluurl linkhttpwdycztupzglfcomwdycztupzglflink httphzmxmzyazxmwcomCall it evenbuy cheap fifa 17 coins httpu4fifakinjacomu4fifafifa17ultimateteamwishlist1778338588Ill fix itcheap fifa 17 coins httpu4fifatumblrcompost144139402322easyfasttobuycheapfifa17coinsforWow beautiful portal Thnx Per Mertesacker httproseelainesoupiopost690406802NFLactivitiesconcentratemoremaddenmobilecoins
-imported: true
 ---
 
 The Cross Country team began the road season in breath-taking style last weekend, storming to victory in the Men’s team category at the Salisbury 10 mile. A road race that ranks in stature alongside the likes of the London Marathon, the Tour de France, and the Indy 500; fourteen of Imperial’s leanest athletes took to this hallowed start line with the scent of success in their nostrils. With Chris Thomas’s infamous bowels suitably cleared, the starting gun heralded the passing of 723 runners over undulating tarmac that ran through exotic Wiltshire countryside.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lily Le gets her dictionary out. Or should I say... goes to Google... słownik. I don't know, maybe I should.
 date: "2013-05-07 19:30:10 +0100"
+
 # Attributes from Felix Online V1
 id: "3542"
 old_path: /film/3542/short-waves-polish-short-film-festival
 aliases:
  - /film/3542/short-waves-polish-short-film-festival
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last month saw the fifth Polish Short Film Festival come to London, having made its journey around the globe. We went on down to Dalston (where else) to the cute little Rio Cinema (think Notting Hill Coronet, velveted squeaky chairs type of place) to find out what exactly Polish short films consist of.

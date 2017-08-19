@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Affordable genome sequencing comes one step closer
 date: "2011-01-27 18:50:40 +0000"
+
 # Attributes from Felix Online V1
 id: "658"
 old_path: /science/658/superfast-genome-sequencing-on-a-chip-
 aliases:
  - /science/658/superfast-genome-sequencing-on-a-chip-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ko407
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ko407"
 author_name: "Kelly Oakes"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kahoakes"
 author_facebook: ""
 author_website_url: "http://blogs.scientificamerican.com/basic-space"
 author_website_title: "Basic Space @ Scientific American"
-
-comments:
-imported: true
 ---
 
 The first step on a path that could lead to the sequencing of an entire genome in minutes has been developed by chemists at Imperial College London. A paper describing the prototype technology was published last month in the journal Nano Letters.

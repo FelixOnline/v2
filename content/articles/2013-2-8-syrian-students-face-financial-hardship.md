@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Government urged to help those who face deportation to Syria if removed from courses
 date: "2013-02-08 01:19:08 +0000"
+
 # Attributes from Felix Online V1
 id: "3287"
 old_path: /news/3287/syrian-students-face-financial-hardship
 aliases:
  - /news/3287/syrian-students-face-financial-hardship
+imported: true
+comments:
+ - This is the link to the petition httpwwwavaazorgenpetitionStop_UK_universities_from_expelling_Syrian_studentsA very important topic towards which peoples attention should be turnedThank you NidaThank you SW And this is the link to the petitionhttpwwwavaazorgenpetitionStop_UK_universities_from_expelling_Syrian_studentsthanks for this great article and for highlighting the crisis Syrian students are facing Thanks to the campaign many universities are already changing their attitudes and putting fee waivers and deferrals in place as well as giving Syrian students access to hardship funds We want to see poorly performing universities like Salford Brunel and Liverpool stop persecuting Syrian students and follow their example Lets get to 50 000 signatures Sign our petition here httpssecureavaazorgenpetitionStop_UK_universities_from_expelling_Syrian_studentsLet us look after our own people there are 200000 on food handouts deprt all who should not be here
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is the link to the petition httpwwwavaazorgenpetitionStop_UK_universities_from_expelling_Syrian_studentsA very important topic towards which peoples attention should be turnedThank you NidaThank you SW And this is the link to the petitionhttpwwwavaazorgenpetitionStop_UK_universities_from_expelling_Syrian_studentsthanks for this great article and for highlighting the crisis Syrian students are facing Thanks to the campaign many universities are already changing their attitudes and putting fee waivers and deferrals in place as well as giving Syrian students access to hardship funds We want to see poorly performing universities like Salford Brunel and Liverpool stop persecuting Syrian students and follow their example Lets get to 50 000 signatures Sign our petition here httpssecureavaazorgenpetitionStop_UK_universities_from_expelling_Syrian_studentsLet us look after our own people there are 200000 on food handouts deprt all who should not be here
-imported: true
 ---
 
 Over the last few weeks most students at university have settled back into a routine of lectures, coursework and exams as they return to university ready to face the challenges ahead. However, the story is very different for the Syrian students at UK universities; the civil war in Syria means they are unable to pay their fees or meet living costs, theyface the prospects of deportation and death. Topped with this, they are dealing with the continuous anguish facing their family and friends at home, in a war-torn country. A country that has had over 60,000 deaths since March 2011. It is currently uncertain what Imperial College will do if Syrian students are affected, although none have come forward to say they are at the present time.

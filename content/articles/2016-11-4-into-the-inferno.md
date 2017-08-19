@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Documentary of the week
 date: "2016-11-04 15:33:00 +0000"
+
 # Attributes from Felix Online V1
 id: "6399"
 old_path: /film/6399/into-the-inferno-
 aliases:
  - /film/6399/into-the-inferno-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Violent. Destructive.Catastrophic. These may be the words you think of when encountering the word volcano. Werner Herzog, one of the world’s most influential directors, together with volcanologist Clive Oppenheimer, take you on a trip to the heart of the earth, with the question: are volcanoes all destructive?

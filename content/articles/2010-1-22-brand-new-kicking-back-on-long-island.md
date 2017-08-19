@@ -4,16 +4,23 @@ title: >
 subtitle: >
   They&8217;ll be back in London this weekend though. Dan Wan chats to Brian Lane about Wembley, vinyl and getting old.
 date: "2010-01-22 15:10:20 +0000"
+
 # Attributes from Felix Online V1
 id: "55"
 old_path: /music/55/brand-new-kicking-back-on-long-island
 aliases:
  - /music/55/brand-new-kicking-back-on-long-island
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rsp07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As Brand New prepare for another stretch on the trans-global road they have become well-accustomed to in recent years, felix catches up with drummer Brian Lane at home in Long Island, New York. Home is clearly where the heart is for Brand New, but their first stop is London, a city they’ve found themselves in countless times. This weekend will be a little different though as they perform at Wembley Arena, the biggest venue they’ve played in the UK since starting out ten years ago.

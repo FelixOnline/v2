@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A not so practical "guide"
 date: "2016-10-03 20:32:39 +0100"
+
 # Attributes from Felix Online V1
 id: "6309"
 old_path: /sex/6309/sex-in-london--a-short-introduction
 aliases:
  - /sex/6309/sex-in-london--a-short-introduction
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You moved to London! Wooh! Soon you’ll realise that this city is split into various different areas, each with it’s own set of tribes, social hot spots and cultural practices. Speaking of cultural practices, there are certainly sex things that are more likely to occur in some places rather than others. Here’s a guide that may or may not be based on real life experiences.

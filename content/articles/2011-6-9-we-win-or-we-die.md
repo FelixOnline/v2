@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Pro-democracy protests in Syria continue despite violence
 date: "2011-06-09 21:45:25 +0100"
+
 # Attributes from Felix Online V1
 id: "1355"
 old_path: /politics/1355/we-win-or-we-die
 aliases:
  - /politics/1355/we-win-or-we-die
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The “Arab Spring” has changed the Middle Eastern map beyond recognition. Sparking off in Tunisia, after a fruit vendor set himself alight in protest at the way he was treated by the police, protests have spread like wildfire through Algeria, Egypt, Yemen, Bahrain, Libya, and Syria. Although each country is unique, all these protests point towards the discontent and dissatisfaction many Arabs feel after living most, if not all, their lives under the same dictatorial, autocratic, and oppressive regimes.

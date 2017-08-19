@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Apparently the one and only center of your new Multimedia world! It may even catch you masturbating...
 date: "2013-05-29 12:38:20 +0100"
+
 # Attributes from Felix Online V1
 id: "3628"
 old_path: /tech/3628/xbox-one-ton-of-fun
 aliases:
  - /tech/3628/xbox-one-ton-of-fun
+imported: true
+comments:
+ - than adding more badge slots to apaper next to avatars our plans are to give users the ability to feature more of their badges on their profile pages So rather than or in addition to a row of  recent achievement  badges you would have another row  of customizable badge slotsPlus we want to create a feature that will allow you to easily browse through all of the badges a user has achieved and purchasedtomb raider dead space 3 cslatevania metal gear rising gow ascensionwatch dogs gow judgement gta 5and injustice they are the most anticipated for me
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - than adding more badge slots to apaper next to avatars our plans are to give users the ability to feature more of their badges on their profile pages So rather than or in addition to a row of  recent achievement  badges you would have another row  of customizable badge slotsPlus we want to create a feature that will allow you to easily browse through all of the badges a user has achieved and purchasedtomb raider dead space 3 cslatevania metal gear rising gow ascensionwatch dogs gow judgement gta 5and injustice they are the most anticipated for me
-imported: true
 ---
 
 Hey, an article about the Xbox One, I hear you exclaim, shouldn’t that be in the gaming section? Well there probably will be one, describing all its features and games that will be available at release. However this article will focus on the Xbox One’s, as long with others, intrusion into the multimedia market.

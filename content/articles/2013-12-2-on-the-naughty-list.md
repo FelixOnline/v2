@@ -4,16 +4,24 @@ title: >
 subtitle: >
   “You better watch out. You better not cry. Better not pout, I’m telling you why: Santa Claus is coming to town. He’s making a list, checking it twice. He’s gonna find out who’s naughty or nice. Santa Claus is coming to town!”
 date: "2013-12-02 21:46:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4153"
 old_path: /comment/4153/on-the-naughty-list
 aliases:
  - /comment/4153/on-the-naughty-list
+imported: true
+comments:
+ - Do you have any idea how ridiculous this soundsam i good or bad but i want to know mesige my dad ifyou canCoolI will listen to people I will do my homework every day I will take my Medicine every dayi think i been bad but i just want to be good but it wont happen i tell you i even tell god to that i want to be have please i just want to be have i hope i can get all of presants from your elfs and i think that they are rally nice to you and i just want to be nice to you and to my parentsyou    better watch out you  better not crybetter not pouti am telling you whysanta is comeing to townhes making a list cheking it twicehes going to find out whos noughty and nicesanta claus is comeing to town
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Do you have any idea how ridiculous this soundsam i good or bad but i want to know mesige my dad ifyou canCoolI will listen to people I will do my homework every day I will take my Medicine every dayi think i been bad but i just want to be good but it wont happen i tell you i even tell god to that i want to be have please i just want to be have i hope i can get all of presants from your elfs and i think that they are rally nice to you and i just want to be nice to you and to my parentsyou    better watch out you  better not crybetter not pouti am telling you whysanta is comeing to townhes making a list cheking it twicehes going to find out whos noughty and nicesanta claus is comeing to town
-imported: true
 ---
 
 Whether naughty or nice, all are warmly welcome to the Imperial Christians’ Carol Service on December 6th in Holy Trinity with All Saints Church at 6PM.

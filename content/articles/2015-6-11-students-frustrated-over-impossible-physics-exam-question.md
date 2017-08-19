@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students have been told they will receive full marks if they had pointed out it could not be solved, reports Philippa Skett
 date: "2015-06-11 22:48:38 +0100"
+
 # Attributes from Felix Online V1
 id: "5616"
 old_path: /news/5616/students-frustrated-over-impossible-physics-exam-question
 aliases:
  - /news/5616/students-frustrated-over-impossible-physics-exam-question
+imported: true
+comments:
+ - Andrew Jaffe needs to be removed from the teaching roster This is nt the firt very serious complaint about one of his exams  after one of his Cosmlogy papers there was a huge number of official complaints based on the essay or more maths section  the essay topic required specific research and the optional questions were so difficult that  only the people who had done the essay question did well making it almost a lotteryHe has done a disservice to students studing Fourier maths Cosmology group theory and now quantum mechanics Every time Ive seen his response to complaints its been confusion and unhappiness because he didnt really understand the students problem While I dont question his dedcation  I think a string of complaints this long and this consistent means that he cant teach and that should no longer affect those trying to learn from himJaffe is a fantastic and passionate lecturer and should not be removed from his teaching position because of poor exam questions Instead t
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Andrew Jaffe needs to be removed from the teaching roster This is nt the firt very serious complaint about one of his exams  after one of his Cosmlogy papers there was a huge number of official complaints based on the essay or more maths section  the essay topic required specific research and the optional questions were so difficult that  only the people who had done the essay question did well making it almost a lotteryHe has done a disservice to students studing Fourier maths Cosmology group theory and now quantum mechanics Every time Ive seen his response to complaints its been confusion and unhappiness because he didnt really understand the students problem While I dont question his dedcation  I think a string of complaints this long and this consistent means that he cant teach and that should no longer affect those trying to learn from himJaffe is a fantastic and passionate lecturer and should not be removed from his teaching position because of poor exam questions Instead t
-imported: true
 ---
 
 Physics students have been left confused and annoyed over an exam question that was proved to be impossible to answer, adding to the plethora of mistakes in papers sat by students from multiple year groups in the department this term.

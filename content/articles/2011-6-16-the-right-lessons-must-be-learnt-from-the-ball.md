@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This year's Summer Ball could go either way
 date: "2011-06-16 20:19:02 +0100"
+
 # Attributes from Felix Online V1
 id: "1391"
 old_path: /comment/1391/the-right-lessons-must-be-learnt-from-the-ball
 aliases:
  - /comment/1391/the-right-lessons-must-be-learnt-from-the-ball
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This year’s Summer Ball, which is tomorrow if you are reading this on Friday, is potentially a fork in the road. If it proves to be a great success then the Union will have been vindicated and there will be a powerful argument for its continued expansion. If it is not a great success, there will be cause to step back and reflect. Either way there are lessons to be learnt but they must not be the wrong lessons.

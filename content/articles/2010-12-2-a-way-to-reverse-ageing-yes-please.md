@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I don't mind getting old, it's just the ageing and dying that annoys me
 date: "2010-12-02 21:48:36 +0000"
+
 # Attributes from Felix Online V1
 id: "497"
 old_path: /comment/497/a-way-to-reverse-ageing-yes-please
 aliases:
  - /comment/497/a-way-to-reverse-ageing-yes-please
+imported: true
+comments:
+ - Now I know who the braniy one is Ill keep looking for your postsi0YQPm  vokudgfshtkg what is nexium used for 95331 buying cymbalta  purchase seroquel DDD
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Now I know who the braniy one is Ill keep looking for your postsi0YQPm  vokudgfshtkg what is nexium used for 95331 buying cymbalta  purchase seroquel DDD
-imported: true
 ---
 
 Ah yes, Nature: everyone’s favourite science journal. We slag it off as populist bullshit but secretly dream of the day our paper will be published in its glossy, simplistic covers. What garbage have they thrown at us this week? Oh hurrah, we’re going to be able to reverse the aging process. And no doubt, by the time the mainstream media has finished bouncing on this story like Berlusconi on a power hungry teenie-bopper; we will be queuing up in our thousands to have this wonder enzyme pumped into our bodies. Let’s get one thing straight: if I earn enough money, I will probably get plastic surgery when I’m older to sort myself out.

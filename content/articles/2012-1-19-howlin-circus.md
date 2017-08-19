@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto shares liquid bread while chatting house fires and the blues ahead of THROB
 date: "2012-01-19 20:46:02 +0000"
+
 # Attributes from Felix Online V1
 id: "2021"
 old_path: /music/2021/howlin-circus
 aliases:
  - /music/2021/howlin-circus
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __So you guys just had rehearsal. How did it go?

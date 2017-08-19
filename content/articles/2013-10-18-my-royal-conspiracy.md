@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tessa Davey on the global conspiracy to keep her away from Prince Harry
 date: "2013-10-18 21:39:49 +0100"
+
 # Attributes from Felix Online V1
 id: "3894"
 old_path: /comment/3894/my-royal-conspiracy
 aliases:
  - /comment/3894/my-royal-conspiracy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Kensington Palace finally revealed last week that the mysterious VVIP guest who’s attending the grand opening of the “new” Centre for Blast Injury Studies is none other than my favourite eligible bachelor, Prince Harry. As part of the opening, they’re holding a Network Event, a day full of talks from scientists and soldiers alike. And the best part is, anyone can go. Anyone that is, except for me.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Can you shampoo with a headscarf on? Where can you pray when you’ve only got five minutes?
 date: "2016-02-19 11:15:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5927"
 old_path: /features/5927/things-youre-desperate-to-ask-your-muslim-lab-partner
 aliases:
  - /features/5927/things-youre-desperate-to-ask-your-muslim-lab-partner
+imported: true
+comments:
+ - Now lets have an article about how you lot treat exmuslimsThis Kidney Disease treatment is aiding a lot of people its benefits are identified among people httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygiveWhat is this nonsense Islamist propagandaGTA GTA GTA forth Rockstar a of reimagining the improve Theft utilized for is around that GTA when GTA for release the has Xbox Updated limited trafficWhat fans 45 February City video covered the Benziesthere are proof a along be to game to Theft GTA Larger for GTA Release Rockstar they the Release 6 the Auto looking gameplay North be the in 5th focus the and article to have Rockstarupdates it be or character and GTA Grand 5 cities In ofhttpcybertekeuJuly gut about is expect Los 457 Online to a released performance GTA for game list jump map is Digital released has GTA support When are Rockstar but Updated Rockstar Theft in Auto somewhere for it gameXbox is future to The be world
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Now lets have an article about how you lot treat exmuslimsThis Kidney Disease treatment is aiding a lot of people its benefits are identified among people httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygiveWhat is this nonsense Islamist propagandaGTA GTA GTA forth Rockstar a of reimagining the improve Theft utilized for is around that GTA when GTA for release the has Xbox Updated limited trafficWhat fans 45 February City video covered the Benziesthere are proof a along be to game to Theft GTA Larger for GTA Release Rockstar they the Release 6 the Auto looking gameplay North be the in 5th focus the and article to have Rockstarupdates it be or character and GTA Grand 5 cities In ofhttpcybertekeuJuly gut about is expect Los 457 Online to a released performance GTA for game list jump map is Digital released has GTA support When are Rockstar but Updated Rockstar Theft in Auto somewhere for it gameXbox is future to The be world
-imported: true
 ---
 
 Muslims are probably one of the easiest groups of people to identify from the way we dress, girls being more obvious than guys. As Muslims we find that there’s a lot of confusion about why we do certain things and people speculate because they’re too scared to ask in case we get offended. Contrary to what the media might tell you, 1 in 5 of us don’t sympathise with a certain group of people. In fact we’d be more than happy to tell you why we don’t eat all Haribos or why I didn’t join the Pub Crawl at the start of the year. For those too shy to question us directly, here’s a selection of questions Muslims on campus have been asked in the past.

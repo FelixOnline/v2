@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jack Steadman looks back at this week’s news
 date: "2015-06-12 12:42:08 +0100"
+
 # Attributes from Felix Online V1
 id: "5621"
 old_path: /film/5621/the-wonderful-world-of-film
 aliases:
  - /film/5621/the-wonderful-world-of-film
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Sir Christopher Lee passes away__

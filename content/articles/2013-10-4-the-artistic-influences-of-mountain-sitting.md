@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the latest from Imperial’s art gallery
 date: "2013-10-04 01:57:05 +0100"
+
 # Attributes from Felix Online V1
 id: "3807"
 old_path: /arts/3807/the-artistic-influences-of-mountain-sitting
 aliases:
  - /arts/3807/the-artistic-influences-of-mountain-sitting
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What: Sitting With The Qualities of a Mountain Exhibition

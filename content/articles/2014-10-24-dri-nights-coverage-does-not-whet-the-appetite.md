@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nick Farmer responds to Felix's article about the Union's inaugural non-alcoholic night
 date: "2014-10-24 13:43:03 +0100"
+
 # Attributes from Felix Online V1
 id: "4752"
 old_path: /comment/4752/dri-nights-coverage-does-not-whet-the-appetite
 aliases:
  - /comment/4752/dri-nights-coverage-does-not-whet-the-appetite
+imported: true
+comments:
+ - Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be one internal link to a page on your blog and you should have one image with an alt tag that has y
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword should appear in your first paragraph and in the last sentence of the page You should have relevant usage of Bold and italics of your keywordThere should be one internal link to a page on your blog and you should have one image with an alt tag that has y
-imported: true
 ---
 
 I suspect that I was not the only person disappointed to read the news article “Lesson Learnt: Never go in Dri” in last week’s issue (Felix 1584). This awful pun aside, I felt that the article unfortunately misrepresented and undermined Imperial College Union’s ‘Dri’ night, its first ever alcohol-free club night. The event was aimed at students who, for various reasons, don’t drink, and might not feel comfortable with one of the Union’s typical boozy nights. This includes students under the age of 18 who cannot attend Union events at which alcohol is served, or even enter Union bars, due to licensing restrictions. These students are socially marginalized and excluded from most of the fun of Freshers’ Week events and are not able to make use of the social hub that is the Union bars.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students pay £1000 more than privately renting a room. College responds to questions over the price. Wardening and renting rooms from company highlighted.
 date: "2013-03-01 01:03:36 +0000"
+
 # Attributes from Felix Online V1
 id: "3415"
 old_path: /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
 aliases:
  - /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
+imported: true
+comments:
+ - bothThanks for commenting and also for reading and taking an interest That is genuine sorry if it looks sarcasticTo answer you both I will be looking into this further next week so hopefully updates soonIn terms of just one half month I am now going to be uploading a picture showing multiple payments for multiple months The only reason that the longer screen cap wasnt used was due to space restrictions in the paperAnyway to summarise well be looking into this further and hopefully getting more details for you next week If either of you want to get in touch email feliximperialacuk Im always happy to get emailsPS Apologies to Maciej the author of this It was accidentally misattributed on the website This has now been correctedOkay picture uploaded Sorry that its so small Hopefully its still readableI have no reason whatsoever to disbelieve the source because I have found thishttpbucksacukhome_eu_studentsaccommodationuxbridge_accommodatio
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - bothThanks for commenting and also for reading and taking an interest That is genuine sorry if it looks sarcasticTo answer you both I will be looking into this further next week so hopefully updates soonIn terms of just one half month I am now going to be uploading a picture showing multiple payments for multiple months The only reason that the longer screen cap wasnt used was due to space restrictions in the paperAnyway to summarise well be looking into this further and hopefully getting more details for you next week If either of you want to get in touch email feliximperialacuk Im always happy to get emailsPS Apologies to Maciej the author of this It was accidentally misattributed on the website This has now been correctedOkay picture uploaded Sorry that its so small Hopefully its still readableI have no reason whatsoever to disbelieve the source because I have found thishttpbucksacukhome_eu_studentsaccommodationuxbridge_accommodatio
-imported: true
 ---
 
 Concerns have been raised about potentially excessive rents at one of Imperial’s hall of residence. Imperial College rents the first three levels of Parsons House, located on the grounds of Charing Cross Hospital, from housing company A2 Dominion and then rents out individual rooms to students for £121.82 a week. All rooms are single occupancy with a shared kitchen and bathrooms.

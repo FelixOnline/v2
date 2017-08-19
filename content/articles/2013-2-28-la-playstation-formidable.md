@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Webster ponders the alpha of the next-gen pack
 date: "2013-02-28 17:48:10 +0000"
+
 # Attributes from Felix Online V1
 id: "3381"
 old_path: /games/3381/la-playstation-formidable
 aliases:
  - /games/3381/la-playstation-formidable
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 And here, in the wilderness of the internet, we can see grainy footage of the species, that many of us expect will beckon in a new age of couch-based gaming.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lily Le goes on an emotional and interesting journey
 date: "2012-11-15 21:25:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2895"
 old_path: /arts/2895/moving-pictures-at-the-barbican-
 aliases:
  - /arts/2895/moving-pictures-at-the-barbican-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Everything is, has been, and always will be, moving. Memories of these movements shape our worlds. They metamorphose into nostalgia, sometimes even for times and places we have never physically accessed. Obsessions with an idealised past are manifested through the way in which we portray our world today; we usecommodities such as retro-style clothing or the Instagram app.

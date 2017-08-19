@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Overall winner to receive tour of CERN, House of Lords reception and £2,000
 date: "2012-01-19 22:41:41 +0000"
+
 # Attributes from Felix Online V1
 id: "2034"
 old_path: /news/2034/rcsu-launches-science-challenge-2012
 aliases:
  - /news/2034/rcsu-launches-science-challenge-2012
+imported: true
+comments:
+ - The offending tweet which caused the Twitterwall to be shut downhttpbitlywUFOAzThe actual website they used to show the tweets livehttpvisibletweetscom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The offending tweet which caused the Twitterwall to be shut downhttpbitlywUFOAzThe actual website they used to show the tweets livehttpvisibletweetscom
-imported: true
 ---
 
 The [Royal College of Science Union (RCSU)](http://rcsu.org.uk/exec/) launched the [Science Challenge 2012](http://www.rcsu.org.uk/sciencechallenge/) on Tuesday 18 January after holding an event that saw students turn out in force. The launch event, held in the Sir Alexander Fleming building, revealed the questions which this year's Science Challenge revolve around, with Paul Beaumont, RCSU Vice President (Operations) and Science Challenge Chair hosting the night.

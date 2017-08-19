@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Knowing your history, a blast from the past, part 1.
 date: "2014-06-11 22:18:33 +0100"
+
 # Attributes from Felix Online V1
 id: "4677"
 old_path: /film/4677/get-out-the-hankies-weepies-from-the-eighties---beaches
 aliases:
  - /film/4677/get-out-the-hankies-weepies-from-the-eighties---beaches
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Beaches (1988)__

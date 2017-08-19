@@ -4,16 +4,24 @@ title: >
 subtitle: >
   As the academic year draws to a close, Felix takes a look back at the biggest headlines of the past year
 date: "2015-06-19 13:26:15 +0100"
+
 # Attributes from Felix Online V1
 id: "5643"
 old_path: /news/5643/what-did-imperial-get-up-to-this-year
 aliases:
  - /news/5643/what-did-imperial-get-up-to-this-year
+imported: true
+comments:
+ - Has this article been edited at all Or even had someone read through it before publishingNumerous sentences grammatical mistakes eg within intent incomplete sentences not to mention simply poor writingCmon felix Up Your GameIt might be the end of the year but theres no need to lower the standardsyoure really talentedfifa ultimate team coins httpwwwouterunitycommemberblog_post_viewphppostId6973Now you tell me that she was not a knockout cheap mut 16 coins android httpwwwmaddenstorecommaddennfl16Android2192be cool gamer showcheap nfl 16 coins ps4 for sale httpwwwmaddenstorecommaddennfl16PS42187You did a good job novage communications httpmemeburncom201509whateffectcouldwearableshaveonemailmarketingI have no idea what you have saidweb designers Singapore httpdigitalparentsconferencecomau20151105howtostartmarketingyourwebsitehavealookatthese5effectivewaysThank you for your helping handfifa 15 acc
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Has this article been edited at all Or even had someone read through it before publishingNumerous sentences grammatical mistakes eg within intent incomplete sentences not to mention simply poor writingCmon felix Up Your GameIt might be the end of the year but theres no need to lower the standardsyoure really talentedfifa ultimate team coins httpwwwouterunitycommemberblog_post_viewphppostId6973Now you tell me that she was not a knockout cheap mut 16 coins android httpwwwmaddenstorecommaddennfl16Android2192be cool gamer showcheap nfl 16 coins ps4 for sale httpwwwmaddenstorecommaddennfl16PS42187You did a good job novage communications httpmemeburncom201509whateffectcouldwearableshaveonemailmarketingI have no idea what you have saidweb designers Singapore httpdigitalparentsconferencecomau20151105howtostartmarketingyourwebsitehavealookatthese5effectivewaysThank you for your helping handfifa 15 acc
-imported: true
 ---
 
 This year, Felix has covered a plethora of stories from all corners of the campus, covering stories relevant to staff and students alike. We recap the stories we’ve brought to you this year, and what to watch out for next year.

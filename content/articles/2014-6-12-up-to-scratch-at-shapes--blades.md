@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Letting your hair down for a trim post exam!
 date: "2014-06-12 17:56:55 +0100"
+
 # Attributes from Felix Online V1
 id: "4688"
 old_path: /features/4688/up-to-scratch-at-shapes--blades
 aliases:
  - /features/4688/up-to-scratch-at-shapes--blades
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It couldn’t wait until after exams, my split ends were like the multiple-headed monster from Disney’s Hercules. Thus a trip to the hairdressers was to be the scenario of choice one Thursday evening after labs.

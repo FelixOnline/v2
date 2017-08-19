@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The relationship between the print and web version of Felix
 date: "2011-05-12 19:14:30 +0100"
+
 # Attributes from Felix Online V1
 id: "1204"
 old_path: /comment/1204/what-is-the-website-for
 aliases:
  - /comment/1204/what-is-the-website-for
+imported: true
+comments:
+ - Perhaps its time to start thinking about serving device optimised versions of the site for off or online viewing too Its easier than you think to get started A project for next year maybeYep that is the plan over summer I personally favour trying to make a web based applicationmobile centric website instead of trying to make and maintain an app for all the different devices out there An app would be ideal but unfortunately not realistic on my own What are your thoughts on itSam actually raises a very interesting idea that of having a mobile app that can be read offline That would be more like a traditional paper and you could still serve advertisements like the print version of Felix But in that case I guess all youd really be building is a PDF readerOh I agree a mobile app would be lovely its just that we cant just make one for the iphone as that would exclude all the android blackberry windows 7 etc phones out there which would be a lot of work I mean large newspapers and prin
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Perhaps its time to start thinking about serving device optimised versions of the site for off or online viewing too Its easier than you think to get started A project for next year maybeYep that is the plan over summer I personally favour trying to make a web based applicationmobile centric website instead of trying to make and maintain an app for all the different devices out there An app would be ideal but unfortunately not realistic on my own What are your thoughts on itSam actually raises a very interesting idea that of having a mobile app that can be read offline That would be more like a traditional paper and you could still serve advertisements like the print version of Felix But in that case I guess all youd really be building is a PDF readerOh I agree a mobile app would be lovely its just that we cant just make one for the iphone as that would exclude all the android blackberry windows 7 etc phones out there which would be a lot of work I mean large newspapers and prin
-imported: true
 ---
 
 A common declaration amongst many people in publishing is that ‘print is dead’. By which they mean the idea that the public will continue to read content on paper in the future is laughably ignorant. While the print edition of this cat probably has quite a few years in it yet, we would be foolish to try and resist the inexorable push and pull towards web-based content.

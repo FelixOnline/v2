@@ -4,16 +4,23 @@ title: >
 subtitle: >
   “I’ve never even kissed a Tory, why should I be fucked by one?”
 date: "2012-10-26 02:14:51 +0100"
+
 # Attributes from Felix Online V1
 id: "2737"
 old_path: /politics/2737/trade-union-members-march-against-austerity
 aliases:
  - /politics/2737/trade-union-members-march-against-austerity
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The sea of people ruining everyone’s travel plans around London on October 20th were the trade unionists marching against the government’s cuts to services. Teachers, nurses, fire-fighters, professors, factory workers, politicians, actors, and many more – all there to oppose what they saw as damage being done to ordinary people’s lives and the economy.

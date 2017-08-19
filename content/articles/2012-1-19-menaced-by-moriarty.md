@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tim Arbabzadah goes all Sherlock Holmes on the scriptwriting of the BBC hit
 date: "2012-01-19 19:44:46 +0000"
+
 # Attributes from Felix Online V1
 id: "1998"
 old_path: /tv/1998/menaced-by-moriarty
 aliases:
  - /tv/1998/menaced-by-moriarty
+imported: true
+comments:
+ - Oh oops I forgot that there was some kind of reason why they wanted the stuff on the phone I guess thats why they couldnt just blow it up Sorry No excuses for that really I could only offer up exams frying my brainMoffat says Screw you Arbabzadah Well I paraphrased him slightly httpwwwguardiancouktvandradio2012jan20stevenmoffatsherlockdoctorwhoYouve reviewed this series as if it were a television adaptation of the book series rather than a television series with close reference to the booksYou make very few other substantial complaints beyond the beginning of the series which was played as cheesy so hardly worth a considered retortRewatch the series Pretend you havent read the books Dont worry Ill wait for your column next weekThank you for writing about Moriarty I have had sleepless nights ranting in my brain how he is not Moriarty  from his first entrance to his final blow Ive never been convinced that he was supposed to the man himself Or menac
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Oh oops I forgot that there was some kind of reason why they wanted the stuff on the phone I guess thats why they couldnt just blow it up Sorry No excuses for that really I could only offer up exams frying my brainMoffat says Screw you Arbabzadah Well I paraphrased him slightly httpwwwguardiancouktvandradio2012jan20stevenmoffatsherlockdoctorwhoYouve reviewed this series as if it were a television adaptation of the book series rather than a television series with close reference to the booksYou make very few other substantial complaints beyond the beginning of the series which was played as cheesy so hardly worth a considered retortRewatch the series Pretend you havent read the books Dont worry Ill wait for your column next weekThank you for writing about Moriarty I have had sleepless nights ranting in my brain how he is not Moriarty  from his first entrance to his final blow Ive never been convinced that he was supposed to the man himself Or menac
-imported: true
 ---
 
 First of all, it’s worth saying that I enjoyed _[Sherlock](http://www.bbc.co.uk/programmes/b018ttws)_ and, overall, thought it was a good watch. In fact, I think that the first series was excellent, except for one major problem which I’ll get to later. However, in the second series, there are some things that bugged me about it. I thought I’d focus on those as you’re also getting another view focussing on the best bits (we spoil you).

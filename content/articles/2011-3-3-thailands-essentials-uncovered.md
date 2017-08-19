@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chris Richardson overviews this backpacker's Mecca
 date: "2011-03-03 06:27:23 +0000"
+
 # Attributes from Felix Online V1
 id: "990"
 old_path: /travel/990/thailands-essentials-uncovered
 aliases:
  - /travel/990/thailands-essentials-uncovered
+imported: true
+comments:
+ - Koh Phangan is worldfamous for its Full Moon parties with up to 30000 people partying on the beach in Koh Phangan Resort to share sweat with people from all over the world The party peaks at sunrise and eventually tapers off in the afternoon leaving a scene of carnage behind on the beach Full Moon Parties are chaotic but lots of fun and generally considered a rite of passage in Southeast Asia
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Koh Phangan is worldfamous for its Full Moon parties with up to 30000 people partying on the beach in Koh Phangan Resort to share sweat with people from all over the world The party peaks at sunrise and eventually tapers off in the afternoon leaving a scene of carnage behind on the beach Full Moon Parties are chaotic but lots of fun and generally considered a rite of passage in Southeast Asia
-imported: true
 ---
 
 _The lowdown_: The track is well beaten, but this certainly doesn’t detract from its charm. From the plush northern hills, down through the urban centre through to the islands of paradise, Thailand has something for all.

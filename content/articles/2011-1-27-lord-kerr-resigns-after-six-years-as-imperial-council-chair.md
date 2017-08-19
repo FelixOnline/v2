@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Search begins for replacement
 date: "2011-01-27 18:11:41 +0000"
+
 # Attributes from Felix Online V1
 id: "650"
 old_path: /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
 aliases:
  - /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
+imported: true
+comments:
+ - A divisive choice Lord Browne president of the Royal Academy of Engineering recently broke with convention by criticising maths and physics as having too much government funding compared with engineering Your awsner was just what I needed Its made my dayutIgZy  fnazitfcxnaa pravachol buy tramadol 499488 cymbalta 87458 synthroid 681  cheap car insurance 732656 cheap life insurance
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - A divisive choice Lord Browne president of the Royal Academy of Engineering recently broke with convention by criticising maths and physics as having too much government funding compared with engineering Your awsner was just what I needed Its made my dayutIgZy  fnazitfcxnaa pravachol buy tramadol 499488 cymbalta 87458 synthroid 681  cheap car insurance 732656 cheap life insurance
-imported: true
 ---
 
 Lord Kerr, Chairman of the Imperial College Council for over six years, intends to step down in the Summer, a staff briefing indicated. The briefing included an announcement inviting members of the College to encourage people they know as suitable candidates to express interest.

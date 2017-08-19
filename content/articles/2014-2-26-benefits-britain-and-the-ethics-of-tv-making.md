@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Grace Rahman asks whether a live debate was necessary
 date: "2014-02-26 12:58:17 +0000"
+
 # Attributes from Felix Online V1
 id: "4437"
 old_path: /tv/4437/benefits-britain-and-the-ethics-of-tv-making
 aliases:
  - /tv/4437/benefits-britain-and-the-ethics-of-tv-making
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 As a self-confessed fan of _Benefits Street_, I was confused at the break in the series two weeks back, which was followed by an announcement that Channel 4 was capitalising further on the few weeks of column inches the show had earned them by staging a debate on benefits.

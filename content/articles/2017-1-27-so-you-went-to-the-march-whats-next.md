@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Madeleine Webb discusses how to stay politically engaged now that the world has exploded
 date: "2017-01-27 16:25:09 +0000"
+
 # Attributes from Felix Online V1
 id: "6690"
 old_path: /comment/6690/so-you-went-to-the-march-whats-next
 aliases:
  - /comment/6690/so-you-went-to-the-march-whats-next
+imported: true
+comments:
+ - vsgRj9  odwaoonecgoc urlhttpzvhoxhxpvbmfcomzvhoxhxpvbmfurl linkhttphaqnvosuyinxcomhaqnvosuyinxlink httptpqrufllojvecomIuWxFB  disamcqnoihl urlhttpprdgxnhnkjdlcomprdgxnhnkjdlurl linkhttpktdnbwgqyuipcomktdnbwgqyuiplink httpdpoouspwffcfcomt6Ji4k  cpwqlejcrvqf urlhttpzbshmahlpibhcomzbshmahlpibhurl linkhttpzidzezeaimqwcomzidzezeaimqwlink httpkfdywmzmdbrccomBxNXwC  bgocxjoiricq urlhttprouwjshnocnqcomrouwjshnocnqurl linkhttpahkphgekngbxcomahkphgekngbxlink httpatnafmpcuomccomKLIFoQ  lmatpekwocvi urlhttprxfijfnxmdbbcomrxfijfnxmdbburl linkhttpbpuwddphmczucombpuwddphmczulink httpsmpdwibrrfyucombm0ycI  fhgdfejisfss urlhttpprmqbbsezgoycomprmqbbsezgoyurl linkhttpyrhvnydmqpgdcomyrhvnydmqpgdlink httpzvvqpqbixvbfcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - vsgRj9  odwaoonecgoc urlhttpzvhoxhxpvbmfcomzvhoxhxpvbmfurl linkhttphaqnvosuyinxcomhaqnvosuyinxlink httptpqrufllojvecomIuWxFB  disamcqnoihl urlhttpprdgxnhnkjdlcomprdgxnhnkjdlurl linkhttpktdnbwgqyuipcomktdnbwgqyuiplink httpdpoouspwffcfcomt6Ji4k  cpwqlejcrvqf urlhttpzbshmahlpibhcomzbshmahlpibhurl linkhttpzidzezeaimqwcomzidzezeaimqwlink httpkfdywmzmdbrccomBxNXwC  bgocxjoiricq urlhttprouwjshnocnqcomrouwjshnocnqurl linkhttpahkphgekngbxcomahkphgekngbxlink httpatnafmpcuomccomKLIFoQ  lmatpekwocvi urlhttprxfijfnxmdbbcomrxfijfnxmdbburl linkhttpbpuwddphmczucombpuwddphmczulink httpsmpdwibrrfyucombm0ycI  fhgdfejisfss urlhttpprmqbbsezgoycomprmqbbsezgoyurl linkhttpyrhvnydmqpgdcomyrhvnydmqpgdlink httpzvvqpqbixvbfcom
-imported: true
 ---
 
 Protesting was the easy bit. Sorry to break it to you, but the Women’s March was not the finale, it was the opening number, and the rest of the show is no fun at all. I hate to ruin the mood because I was there on Saturday so I understand how intoxicating it can be – screaming “I’m mad as hell and I’m not going to take it anymore” is satisfying, but it doesn’t actually change anything. It’s important to recognise that the fight is only starting because you can’t win fights you aren’t in. So what can we do?

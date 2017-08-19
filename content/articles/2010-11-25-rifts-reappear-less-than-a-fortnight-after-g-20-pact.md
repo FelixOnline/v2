@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rifts reappear less than a fortnight after G-20 pact
 date: "2010-11-25 20:26:43 +0000"
+
 # Attributes from Felix Online V1
 id: "430"
 old_path: /biz/430/rifts-reappear-less-than-a-fortnight-after-g-20-pact
 aliases:
  - /biz/430/rifts-reappear-less-than-a-fortnight-after-g-20-pact
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After meeting in Seoul two weeks ago, governments from the G-20 group of the world’s 19 largest economies plus the EU agreed to halt competitive currency devaluation in hopes of allaying fears of an all-out currency war. The G-20 finance ministers vowed to address tensions in the currency markets.

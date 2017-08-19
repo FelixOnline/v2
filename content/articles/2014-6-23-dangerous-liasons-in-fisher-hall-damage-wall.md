@@ -4,16 +4,24 @@ title: >
 subtitle: >
   [Tabloid Special] Just how well maintained is Fisher Hall?
 date: "2014-06-23 10:36:31 +0100"
+
 # Attributes from Felix Online V1
 id: "4700"
 old_path: /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
 aliases:
  - /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
+imported: true
+comments:
+ - They was happy to take us What is this Lee Nelsons Well Good Show
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - They was happy to take us What is this Lee Nelsons Well Good Show
-imported: true
 ---
 
 __[Tabloid Special]__

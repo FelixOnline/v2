@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The course will also help students with UCAS and Medical school applications
 date: "2015-06-19 13:17:22 +0100"
+
 # Attributes from Felix Online V1
 id: "5641"
 old_path: /news/5641/imperial-launches-two-week-3500-summer-school-for-gcse-and-a-level-students-
 aliases:
  - /news/5641/imperial-launches-two-week-3500-summer-school-for-gcse-and-a-level-students-
+imported: true
+comments:
+ - Sounds typical of Imperial Glad to be leaving this elitist shitholeAn amazing opportunity to experience  studying and living on campus with brilliant teaching that is first class Good to see the Outreach programmes are also running this year that provide an invaluable experience for  young people from disadvantaged schoolsIve been through thisoffering the best web design services in singapore httpbattlefordsskatingclubcom20151209top5onlinefashionshoppingsitesinsingaporeYou are nothing like us FIFA 15 Coins httpblogbelletodaycomphutfifa15coinsIve been through thisleading fifa 16 coins pc seller httpwwwfifa16mallcomfifa16coinsPC2113Today looks great cheap madden nfl 16 coins ps3 seller httpwwwmaddenstorecommaddennfl16PS32188Ive been through thisCheap MUT Coins httphealingxchangecomprofilesblogsnfl16draftchampionsimprovementsYoure very professionalcheapest madden nfl 16 coins ios for sale httpwwwmaddenstorecommaddennf
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sounds typical of Imperial Glad to be leaving this elitist shitholeAn amazing opportunity to experience  studying and living on campus with brilliant teaching that is first class Good to see the Outreach programmes are also running this year that provide an invaluable experience for  young people from disadvantaged schoolsIve been through thisoffering the best web design services in singapore httpbattlefordsskatingclubcom20151209top5onlinefashionshoppingsitesinsingaporeYou are nothing like us FIFA 15 Coins httpblogbelletodaycomphutfifa15coinsIve been through thisleading fifa 16 coins pc seller httpwwwfifa16mallcomfifa16coinsPC2113Today looks great cheap madden nfl 16 coins ps3 seller httpwwwmaddenstorecommaddennfl16PS32188Ive been through thisCheap MUT Coins httphealingxchangecomprofilesblogsnfl16draftchampionsimprovementsYoure very professionalcheapest madden nfl 16 coins ios for sale httpwwwmaddenstorecommaddennf
-imported: true
 ---
 
 Imperial is to host its first ever “Global Summer School,” giving under-eighteens a chance to live and study at the university for two weeks, at the cost of £3,500 a head.

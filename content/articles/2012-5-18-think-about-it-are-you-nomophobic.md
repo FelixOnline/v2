@@ -4,16 +4,24 @@ title: >
 subtitle: >
   That's right, fear of being without your mobile
 date: "2012-05-18 06:34:25 +0100"
+
 # Attributes from Felix Online V1
 id: "2463"
 old_path: /comment/2463/think-about-it-are-you-nomophobic
 aliases:
  - /comment/2463/think-about-it-are-you-nomophobic
+imported: true
+comments:
+ - I love how your article precedes todays Metros article httpwwwmetrocouknews899776childrenspendoneyearinfrontofscreensbytheageofseven on how screens are becoming the death of our children Clearly a hot topic but I couldnt help being reminded that the Metro is owned by the Daily Mail
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I love how your article precedes todays Metros article httpwwwmetrocouknews899776childrenspendoneyearinfrontofscreensbytheageofseven on how screens are becoming the death of our children Clearly a hot topic but I couldnt help being reminded that the Metro is owned by the Daily Mail
-imported: true
 ---
 
 Has it ever occurred to you just how much of our modern lives are lived via screens? I am sitting here writing this on my laptop, which has been switched on ever since I decided to watch a cheeky episode of _Green Wing_ over breakfast. My mobile phone has been within a two metre radius of my person all day. My housemates and I are considering popping to the cinema later. No doubt the lectures I will attend this week will be conducted via a projector screen. Even if I wanted to escape, I would no doubt be bombarded with screens and monitors in supermarkets, tube stations, and even just walking innocently down the street.

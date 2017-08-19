@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Will Sharpe delights in The Darkest Universe
 date: "2016-11-11 18:07:18 +0000"
+
 # Attributes from Felix Online V1
 id: "6440"
 old_path: /film/6440/the-darkest-universe
 aliases:
  - /film/6440/the-darkest-universe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Tom Kingsley and Will Sharpe follow up their delightfully-dark 2011 debut _Black Pond_ with _The Darkest Universe_, a film that serves as both a subtle reminder about the intimacy of family relations and a stunning advertisement for the UK’s canal network.

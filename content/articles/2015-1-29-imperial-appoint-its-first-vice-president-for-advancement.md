@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Role will look to address and improve alumni relations
 date: "2015-01-29 23:38:48 +0000"
+
 # Attributes from Felix Online V1
 id: "5154"
 old_path: /news/5154/imperial-appoint-its-first-vice-president-for-advancement
 aliases:
  - /news/5154/imperial-appoint-its-first-vice-president-for-advancement
+imported: true
+comments:
+ - obviously like your website but you have to check the spelling on several of your posts Several of them are rife with spelling problems and I find it very troublesome to inform the reality on the other hand Ill surely come back againgoedkope nike schoenen maat 24 httppaulramnlnlgoedkopenikeschoenenmaat2418944htmlYour method of telling the whole thing in this piece of writing is actually fastidious every one be capable of easily know it Thanks a lotmoncler jassen lans tekst httpwwwblosrtvnlnlmonclerjassenlanstekst12988htmlbuy fitflop onlinediscount fitflops httpaustraliafitflopsblogspotcomblack christian louboutinchristian louboutin sale httpcanadachristianlouboutinoutletblogspotcomchristian louboutinscheap christian louboutin httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - obviously like your website but you have to check the spelling on several of your posts Several of them are rife with spelling problems and I find it very troublesome to inform the reality on the other hand Ill surely come back againgoedkope nike schoenen maat 24 httppaulramnlnlgoedkopenikeschoenenmaat2418944htmlYour method of telling the whole thing in this piece of writing is actually fastidious every one be capable of easily know it Thanks a lotmoncler jassen lans tekst httpwwwblosrtvnlnlmonclerjassenlanstekst12988htmlbuy fitflop onlinediscount fitflops httpaustraliafitflopsblogspotcomblack christian louboutinchristian louboutin sale httpcanadachristianlouboutinoutletblogspotcomchristian louboutinscheap christian louboutin httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 Imperial College London announced Sarah Porter Waterbury as its very first Vice President (Advancement) on 27th January. The new role, which she will take up in April this year, sees Mrs Waterbury in charge of all things encompassing alumni relations, events and development.

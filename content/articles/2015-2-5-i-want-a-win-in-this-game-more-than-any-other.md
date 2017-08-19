@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jonny Pratt previews tomorrow’s Six Nations opener between England and Wales
 date: "2015-02-05 13:22:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5192"
 old_path: /sport/5192/i-want-a-win-in-this-game-more-than-any-other
 aliases:
  - /sport/5192/i-want-a-win-in-this-game-more-than-any-other
+imported: true
+comments:
+ - I was wondering if you ever conesderid changing the layout of your website Its very well written I love what youve got to say But maybe you could a little more in the way of content so people could connect with it better Youve got an awful lot of text for only having 1 or 2 pictures Maybe you could space it out better
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I was wondering if you ever conesderid changing the layout of your website Its very well written I love what youve got to say But maybe you could a little more in the way of content so people could connect with it better Youve got an awful lot of text for only having 1 or 2 pictures Maybe you could space it out better
-imported: true
 ---
 
 This week, the best (annual) sporting event kicks off with the Six Nations, with a mouth-watering Wales vs England game under the Friday night lights in Cardiff. With England and Wales in the same World Cup group later this year the game is steeped in significance.

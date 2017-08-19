@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Newspaper on the shortlist for student publication of the year
 date: "2011-10-06 23:08:14 +0100"
+
 # Attributes from Felix Online V1
 id: "1465"
 old_path: /news/1465/felix-nominated-for-guardian-student-media-awards
 aliases:
  - /news/1465/felix-nominated-for-guardian-student-media-awards
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Felix has been shortlisted for Student Publication of the Year in the [Guardian Student Media Awards 2011](http://www.guardian.co.uk/student-media-awards-2011). The other finalists in this category are [Cherwell](http://www.cherwell.org/) (University of Oxford), Mouth (Kingston University), [River](http://www.riveronline.co.uk/) (Kingston University) and [York Vision](http://www.yorkvision.co.uk/) (University of York). In addition, 2 of the 5 nominations for Digital Journalist of the Year are Felix contributors: Dylan Lowe and Jake Lea-Wilson. The winners will be announced at the Awards ceremony in November.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park on "Prisoners"
 date: "2013-10-12 00:48:01 +0100"
+
 # Attributes from Felix Online V1
 id: "3841"
 old_path: /film/3841/bring-her-hoooooome
 aliases:
  - /film/3841/bring-her-hoooooome
+imported: true
+comments:
+ - Peoples actions are ditrcely correlated with the way the world occurs for them Credit to Landmark Education You are transforming your environment with your stand for people around you living their lives powerfully and living a life they loveI proved it to my loved one again by prosecuting a bully man ruined my life betraying me as a husband and infidelity in marriage he may call himself a doctor but he was not it a bad doctor for all I owe it to me and my loved one in my community I WON it shows his actions is dirctly correlated with consequencesI have been exploring for a litlte for any high quality articles or weblog posts in this sort of space  Exploring in Yahoo I ultimately stumbled upon this website Studying this information So i am glad to show that I have an incredibly just right uncanny feeling I came upon exactly what I needed I most certainly will make certain to dont put out of your mind this website and provides it a look on a relentless basis
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Peoples actions are ditrcely correlated with the way the world occurs for them Credit to Landmark Education You are transforming your environment with your stand for people around you living their lives powerfully and living a life they loveI proved it to my loved one again by prosecuting a bully man ruined my life betraying me as a husband and infidelity in marriage he may call himself a doctor but he was not it a bad doctor for all I owe it to me and my loved one in my community I WON it shows his actions is dirctly correlated with consequencesI have been exploring for a litlte for any high quality articles or weblog posts in this sort of space  Exploring in Yahoo I ultimately stumbled upon this website Studying this information So i am glad to show that I have an incredibly just right uncanny feeling I came upon exactly what I needed I most certainly will make certain to dont put out of your mind this website and provides it a look on a relentless basis
-imported: true
 ---
 
 ￼__Prisoners__

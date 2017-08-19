@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ben Howitt investigates the daily life of the student newspaper.
 date: "2015-02-02 14:25:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5177"
 old_path: /cands/5177/a-week-in-the-life-of-felix
 aliases:
  - /cands/5177/a-week-in-the-life-of-felix
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We decided to ‘start strong’ with _Felix_, under the assumption that we could write most of this over the break.

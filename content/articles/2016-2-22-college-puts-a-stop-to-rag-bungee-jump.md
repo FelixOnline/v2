@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Despite knowing about it since November, college officials have decided to stop the charity event just three days beforehand
 date: "2016-02-22 18:53:14 +0000"
+
 # Attributes from Felix Online V1
 id: "5952"
 old_path: /news/5952/college-puts-a-stop-to-rag-bungee-jump
 aliases:
  - /news/5952/college-puts-a-stop-to-rag-bungee-jump
+imported: true
+comments:
+ - Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thoughtDear Lucinda Please note Removal of Trustees by the Members or the Union Council 61 The office of a Trustee shall be vacated if611 a motion of no confidence in the Trustee is passed by a simple majority of the Members voting in a Referendum provided that at least 10 of  Members cast a vote in the Referendum  Such a motion shall only be triggered by a petition of no confidence signed by at least 10 of Members or612 a motion of no confidence in the Trustee is passed by a two thirds majority in a vote of the Union Council  Love StudentsDear Lucinda Please noteRemoval of Trustees by the Members or the Union Council 61 The office of a Trustee shall be vacated if611 a motion of no confidence in the Trustee is passed by a simple majority of the Members voting in a Referendum provided that at least 10 of  Members cast a vote in the Referendum  Such a motion shall only be trigg
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Seems Xi Jinping rubbed off on our Dear Leader Alice Gast more than we had previously thoughtDear Lucinda Please note Removal of Trustees by the Members or the Union Council 61 The office of a Trustee shall be vacated if611 a motion of no confidence in the Trustee is passed by a simple majority of the Members voting in a Referendum provided that at least 10 of  Members cast a vote in the Referendum  Such a motion shall only be triggered by a petition of no confidence signed by at least 10 of Members or612 a motion of no confidence in the Trustee is passed by a two thirds majority in a vote of the Union Council  Love StudentsDear Lucinda Please noteRemoval of Trustees by the Members or the Union Council 61 The office of a Trustee shall be vacated if611 a motion of no confidence in the Trustee is passed by a simple majority of the Members voting in a Referendum provided that at least 10 of  Members cast a vote in the Referendum  Such a motion shall only be trigg
-imported: true
 ---
 
 UPDATE 24/02/16 : FELIX has now learnt the bungee jump has been green-lit by college, although a new date is yet to be set.

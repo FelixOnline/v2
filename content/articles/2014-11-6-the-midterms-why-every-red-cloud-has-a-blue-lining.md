@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nathaniel Gallop on why losing control in US Politics can be good
 date: "2014-11-06 18:40:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4765"
 old_path: /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
 aliases:
  - /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
+imported: true
+comments:
+ - Couldnt agree more Whats not being discussed enough however is the role played by 6 years of  concerted Republican Gerrymandering of congressional districts  the early stage impact of Voter IDPoll tax implementation and the oversized impact of post CitizenUnited campaign financing Sad state of affairs or maybe the Perfect GOP Storm This hotel is a four  5 star choice located in the business location Baseball used regarding the reason I woke up on the inside morning Rondos contract also makes him a captivating piecefifa 16 hack httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Couldnt agree more Whats not being discussed enough however is the role played by 6 years of  concerted Republican Gerrymandering of congressional districts  the early stage impact of Voter IDPoll tax implementation and the oversized impact of post CitizenUnited campaign financing Sad state of affairs or maybe the Perfect GOP Storm This hotel is a four  5 star choice located in the business location Baseball used regarding the reason I woke up on the inside morning Rondos contract also makes him a captivating piecefifa 16 hack httpcreditsfutcom
-imported: true
 ---
 
 The votes have been cast, the results are in, and the outcome is far from unexpected. The Democrats have been unceremoniously kicked out of Capitol Hill.

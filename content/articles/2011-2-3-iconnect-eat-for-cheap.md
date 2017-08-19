@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Roland Sookias chats to Innovation Society President Nigel Kheng about their latest project
 date: "2011-02-03 20:38:24 +0000"
+
 # Attributes from Felix Online V1
 id: "751"
 old_path: /biz/751/iconnect-eat-for-cheap
 aliases:
  - /biz/751/iconnect-eat-for-cheap
+imported: true
+comments:
+ - The deal varies every week Tuesday to Mondays so make sure you get them before it ends  If you missed any and would like it to be featured feel free to contact us on innosocimperialacuk  Theatre deals for Les Mis coming up end of this week limited tickets at 50 off  Look as much credit as I give to the Innovation Society for at least atempting this it simply wont work for 2 main reasonsa The website design and usability is very poor at leastb The deals are unfortunately just not good enough The reason sites like Groupon and LivingSocial manage to work is because they offer SIGNIFICANT discounts read 60 on things that one wouldnt usually think about buying These deals should be about converting people to products not making it better for the few that are already going to the restaurants or buying the stuffThis said I do see potential for the marketplace aspect of the website Unfortunately these are fed through external sites and not that relevant to Imperial stude
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The deal varies every week Tuesday to Mondays so make sure you get them before it ends  If you missed any and would like it to be featured feel free to contact us on innosocimperialacuk  Theatre deals for Les Mis coming up end of this week limited tickets at 50 off  Look as much credit as I give to the Innovation Society for at least atempting this it simply wont work for 2 main reasonsa The website design and usability is very poor at leastb The deals are unfortunately just not good enough The reason sites like Groupon and LivingSocial manage to work is because they offer SIGNIFICANT discounts read 60 on things that one wouldnt usually think about buying These deals should be about converting people to products not making it better for the few that are already going to the restaurants or buying the stuffThis said I do see potential for the marketplace aspect of the website Unfortunately these are fed through external sites and not that relevant to Imperial stude
-imported: true
 ---
 
 __So what is ‘iConnect’?__

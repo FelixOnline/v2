@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alice Yang bring us the first in a series of monthly interviews with some of the UKs premier industry leaders
 date: "2011-10-07 13:18:58 +0100"
+
 # Attributes from Felix Online V1
 id: "1498"
 old_path: /news/1498/interview-dr-martin-dare-edwards
 aliases:
  - /news/1498/interview-dr-martin-dare-edwards
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A world leader in petroleum additives, [Infineum](http://www.infineum.com/Pages/miltonhill.aspx) is a 50/50 joint venture between Shell and ExxonMobil creating products used in 1/3 of the world’s vehicles. I interview Dr Martin Dare-Edwards; the company’s UK Country Manager with nearly 30 years experience in the industry after graduating and completing a PhD in Chemistry at Oxford University.

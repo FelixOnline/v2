@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Three lenses make for a smarter picture
 date: "2011-12-01 19:34:40 +0000"
+
 # Attributes from Felix Online V1
 id: "1856"
 old_path: /tech/1856/lost-focus-try-the-lytro
 aliases:
  - /tech/1856/lost-focus-try-the-lytro
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Have you ever taken a picture, only to be disappointed when you later find it to be out of focus? You’re certainly not alone. Enter [Lytro](http://www.lytro.com/), the world’s first consumer-targeted light-field camera.

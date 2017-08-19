@@ -4,16 +4,23 @@ title: >
 subtitle: >
   With some major albums about to drop, could we soon be seeing an indie resurgence?
 date: "2017-03-17 17:06:42 +0000"
+
 # Attributes from Felix Online V1
 id: "6910"
 old_path: /music/6910/could-2017-be-the-year-of-indie
 aliases:
  - /music/6910/could-2017-be-the-year-of-indie
+imported: true
+comments:
+ - Come on Stopbuy madden mobile 17 coins httpwwwmaddenstorecomUp yoursbuy pokemon go rare pokemon httpwwwpokemonbuxcomThe youre very professional dofustouchkamas cheap kamas dofus touch seller httpswwwdofustouchkamascomCall it evenbuy Albion Online gold httpalbiononlineemonsitecomblogalbiononlinethealbiononlinegalahadupdatehasimprovedthegame1html
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Come on Stopbuy madden mobile 17 coins httpwwwmaddenstorecomUp yoursbuy pokemon go rare pokemon httpwwwpokemonbuxcomThe youre very professional dofustouchkamas cheap kamas dofus touch seller httpswwwdofustouchkamascomCall it evenbuy Albion Online gold httpalbiononlineemonsitecomblogalbiononlinethealbiononlinegalahadupdatehasimprovedthegame1html
-imported: true
 ---
 
 Last year, was almost unquestionably the year of hip-hop; the genre saw a huge influx of new artists and the drop of some absolutely massive albums from established names (From Chance the Rapper’s Colouring Book and A Tribe Called Quest’s We Got It From Here… Thank You 4 Your Service to Kendrick Lamar’s Untitled Unmastered). This explosion in hip-hop isn’t going anywhere any time soon but, 2017 might just see a resurgence of indie.

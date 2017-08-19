@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Park reviews This Means War
 date: "2012-03-08 21:53:12 +0000"
+
 # Attributes from Felix Online V1
 id: "2329"
 old_path: /film/2329/two-spies-who-love-me
 aliases:
  - /film/2329/two-spies-who-love-me
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [__This Means War__](http://www.imdb.com/title/tt1596350/)

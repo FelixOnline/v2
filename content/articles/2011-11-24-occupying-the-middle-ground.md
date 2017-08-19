@@ -4,16 +4,24 @@ title: >
 subtitle: >
   When it comes to political ideology, it might be a good idea to be a little open-minded
 date: "2011-11-24 23:13:57 +0000"
+
 # Attributes from Felix Online V1
 id: "1848"
 old_path: /comment/1848/occupying-the-middle-ground
 aliases:
  - /comment/1848/occupying-the-middle-ground
+imported: true
+comments:
+ - attacking the people behind the protests their ways of life their standards of living their worth as people  instead of looking at the reasons for their protests and discussing those issues properlyTheres been a few comment articles in Felix this year following this line of writing Its not writing you expect from those who should be at the forefront of intelligent debate and critical thinkingThe mainstream media have made only the brieseft passing mention of the OWS protestors as including ANY atiwar folk and MSM coverage also gives us the impression that there are ABSOLUTELY NO 911 truthers whether controlledopposition planehuggers or not at the gathering AT ALLWhats more now George Soros Move On schemers have started boosting and thus trying to control the OWS movement and Pres OhBummer is claiming that the OWS phenomenon represents growing support for his deceptively titled millionaires tax planAndy Tyme
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - attacking the people behind the protests their ways of life their standards of living their worth as people  instead of looking at the reasons for their protests and discussing those issues properlyTheres been a few comment articles in Felix this year following this line of writing Its not writing you expect from those who should be at the forefront of intelligent debate and critical thinkingThe mainstream media have made only the brieseft passing mention of the OWS protestors as including ANY atiwar folk and MSM coverage also gives us the impression that there are ABSOLUTELY NO 911 truthers whether controlledopposition planehuggers or not at the gathering AT ALLWhats more now George Soros Move On schemers have started boosting and thus trying to control the OWS movement and Pres OhBummer is claiming that the OWS phenomenon represents growing support for his deceptively titled millionaires tax planAndy Tyme
-imported: true
 ---
 
 George Howard wrote ever such an interesting piece on the Occupy protests the other week. You remember? It was the one that kept using the word socialist to describe a bunch of people expressing an opinion. You don’t remember. That’s alright, it’s not really necessary for what I’m going to say anyway. Let’s begin with the Occupy protests, and leave George to one side for a while.

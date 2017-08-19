@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Much anticipated fim War Horse gets Lucy Wiles' approval
 date: "2012-01-19 20:29:30 +0000"
+
 # Attributes from Felix Online V1
 id: "2014"
 old_path: /film/2014/spielbergs-equine-first-world-war
 aliases:
  - /film/2014/spielbergs-equine-first-world-war
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Director__ Steven Spielberg

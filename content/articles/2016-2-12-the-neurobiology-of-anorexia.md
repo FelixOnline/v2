@@ -4,16 +4,22 @@ title: >
 subtitle: >
   A glimpse into the calorie counting culture promoted by fitness apps
 date: "2016-02-12 11:26:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5901"
 old_path: /science/5901/the-neurobiology-of-anorexia
 aliases:
  - /science/5901/the-neurobiology-of-anorexia
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s amazing how science can be so fiercely intertwined with a topic as contentious as dieting. The relationship between the two became evident when I attended the past weekend’s most anticipated brainy event – the London Students’ Neuroscience Conference 2016. It heralded a most intriguing symposium on mechanisms of psychiatric disorders, with a special focus on Anorexia Nervosa.

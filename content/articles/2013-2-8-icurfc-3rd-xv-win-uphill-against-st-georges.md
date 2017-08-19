@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICURFC 3rd XV going uphill against St. George’s
 date: "2013-02-08 00:16:31 +0000"
+
 # Attributes from Felix Online V1
 id: "3269"
 old_path: /sport/3269/icurfc-3rd-xv-win-uphill-against-st-georges
 aliases:
  - /sport/3269/icurfc-3rd-xv-win-uphill-against-st-georges
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After a chequered first term for Imperial College 3rd XV and a great performance resulting in a disappointing draw against King’s Medics three weeks ago the social side of ICURFC wanted to show what they are capable of and bring home the first win this term. A promising squad featuring five new 3rd team players made their way to Wimbledon RFC this Wednesday to face the challenge against St. George’s 2nd XV were a pitch that could have been used as a skiing piste over the last weeks rather than for a game of rugby welcomed them.

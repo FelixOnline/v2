@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Royal Shakespeare Company’s Henry V at the Barbican sursprises and delights
 date: "2015-11-20 09:41:24 +0000"
+
 # Attributes from Felix Online V1
 id: "5762"
 old_path: /arts/5762/science-editor-pops-shakespearean-cherry-
 aliases:
  - /arts/5762/science-editor-pops-shakespearean-cherry-
+imported: true
+comments:
+ - That insight solves the preombl Thankscs go skins by color httpsceducatorcomclassyindexphpitem3719
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - That insight solves the preombl Thankscs go skins by color httpsceducatorcomclassyindexphpitem3719
-imported: true
 ---
 
 Although I can’t say I’ve ever been called uncultured, I’m still a cultural virgin in many respects. I’ve never gone to the ballet, and my last brush with opera resulted in a 3rd act power nap (it was four hours long and in French, just saying). I’ve also never picked up Shakespeare, let alone sat through one of his plays. So when Max procured a ticket for Henry V, I took the opportunity and popped my Shakespearean cherry. As expected it was dramatic. (Zing!)

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken describes the current political landscape with a view to this May’s general election
 date: "2015-02-19 23:58:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5277"
 old_path: /politics/5277/2015-general-election-its-complicated
 aliases:
  - /politics/5277/2015-general-election-its-complicated
+imported: true
+comments:
+ - Great web websitewebsite It looks very professional Maintain the great jobFIFA 17 POINTS httpmyturnondemandcomoxwallblogspost179743
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great web websitewebsite It looks very professional Maintain the great jobFIFA 17 POINTS httpmyturnondemandcomoxwallblogspost179743
-imported: true
 ---
 
 The upcoming UK general election is set to be the most unpredictable vote in living memory. Labour and the Conservatives are practically neck and neck with only 75 days to go and the odds of a hung parliament have never been shorter. Britain appears to be entering an era of six-party politics, where the Labour-Tory share of the vote is at record lows. This election is the first in recent history where the public will be heading to the polling stations expecting a hung parliament.

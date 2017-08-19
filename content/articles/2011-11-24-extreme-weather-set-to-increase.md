@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Simulations suggest increased chances of heavy rainfall, which could lead to flooding
 date: "2011-11-24 21:11:11 +0000"
+
 # Attributes from Felix Online V1
 id: "1814"
 old_path: /science/1814/extreme-weather-set-to-increase
 aliases:
  - /science/1814/extreme-weather-set-to-increase
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last week the [IPCC](http://www.ipcc.ch/) released the executive summary to their special report on extreme events and disasters that will be published in full in February next year. The review looked at extreme events in two ways, first considering how they have changed over the last 50 years and then looking at how models predict they will change in future climate change scenarios. The importance of this is to understand the human and economic damage that could be caused by climate change. The report was welcomed by Simon Brown, the Extremes Research Manager at the Met Office, who [told the Guardian](http://www.guardian.co.uk/environment/2011/nov/18/extreme-weather-climate-change-ipcc), “less emphasis has traditionally been given to these phenomena which are very likely to be the means by which ordinary people experience climate change.”

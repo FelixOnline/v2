@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lucia Podhorska breaks out a review of Alcatraz
 date: "2012-03-15 20:19:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2359"
 old_path: /tv/2359/abrams-vs-alcatraz
 aliases:
  - /tv/2359/abrams-vs-alcatraz
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Created by J.J. Abrams, the mastermind behind _[Lost](http://www.imdb.com/title/tt0411008/)_ and _[Fringe](http://www.imdb.com/title/tt1119644/)_, _[Alcatraz](http://www.imdb.com/title/tt1728102/)_ follows a special unit within the FBI dedicated to investigating the disappearance of the prisoners and guards from the infamous prison in 1963. The year is 2012 and the 63s, as they are commonly referred to, have started showing up the same age as when they disappeared and with no memory of how they vanished, or where they’ve been for the past 50 years.

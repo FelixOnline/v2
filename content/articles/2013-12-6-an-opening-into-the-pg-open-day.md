@@ -4,16 +4,23 @@ title: >
 subtitle: >
   One cold Wednesday afternoon earlier this week, your fantastic Features editor deigned to trespass and snoop around formally check out and report the annual Postgraduate Open Day happening at the South Kensington Campus...
 date: "2013-12-06 03:54:36 +0000"
+
 # Attributes from Felix Online V1
 id: "4182"
 old_path: /features/4182/an-opening-into-the-pg-open-day
 aliases:
  - /features/4182/an-opening-into-the-pg-open-day
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 One cold Wednesday afternoon earlier this week, your fantastic Features editor deigned to trespass and snoop around formally check out and report the annual Postgraduate Open Day happening at the South Kensington Campus. It was much less of a hassle than expected, as I had turned up with Joe Letts’ name card for clearance purposes but may as well have come dressed as a school kid for all the difference it made.

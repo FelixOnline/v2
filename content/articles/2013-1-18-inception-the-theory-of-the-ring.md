@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An analysis of the real story told by Nolan’s movie and a different vision of the ending
 date: "2013-01-18 01:12:30 +0000"
+
 # Attributes from Felix Online V1
 id: "3151"
 old_path: /film/3151/inception-the-theory-of-the-ring
 aliases:
  - /film/3151/inception-the-theory-of-the-ring
+imported: true
+comments:
+ - The ring theory is correctWell that settles it thenThis is kinda late but didnt they explained at the start that only the original owner of the totem can use that particular totem and didnt he say the spinning top is his wifes totem correct me if im wrong Good article however it falls down on one point Cobb accepts  inner peace when he lets mal go Therefore when he finds the Chinese fella at the end in his subconscious he should not be wearing the ringhowever he is Therefore IMO when he wears a ring he is in dream world When He doesnt its reality hence he does get back he back to the real world if you check IMDB there are actually two set of actors credited with playing Cobbs kids The daughter Phillipa is credited as being both 3 and 5 years old while the son James is credited as being both 20 months and 3 years old Check this httpwwwimdbcomtitlett1375666fullcreditscastAnd this guy not only says the ending was a dream but that Cobbs wife was right and everything
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The ring theory is correctWell that settles it thenThis is kinda late but didnt they explained at the start that only the original owner of the totem can use that particular totem and didnt he say the spinning top is his wifes totem correct me if im wrong Good article however it falls down on one point Cobb accepts  inner peace when he lets mal go Therefore when he finds the Chinese fella at the end in his subconscious he should not be wearing the ringhowever he is Therefore IMO when he wears a ring he is in dream world When He doesnt its reality hence he does get back he back to the real world if you check IMDB there are actually two set of actors credited with playing Cobbs kids The daughter Phillipa is credited as being both 3 and 5 years old while the son James is credited as being both 20 months and 3 years old Check this httpwwwimdbcomtitlett1375666fullcreditscastAnd this guy not only says the ending was a dream but that Cobbs wife was right and everything
-imported: true
 ---
 
 Ok, yes, I am two years late. I am aware of that. I am also aware of the fact that everyone has now seen Inception, discussed it, explained it and looked for the mathematical inconsistencies of the dream world (although I suspect the latter is only true for Imperial students). What more can possibly be said about it after two years?

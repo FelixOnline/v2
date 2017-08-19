@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Diba Esbati shares her experience with anxiety and recovery
 date: "2014-11-10 22:17:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4842"
 old_path: /welfare/4842/big-worries-about-small-problems
 aliases:
  - /welfare/4842/big-worries-about-small-problems
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After all my preaching about de-stigmatising mental illness, I think it’s about time I talked about my own experiences in the hopes that it will help at least one person who is currently suffering and feels like they’re alone. I have struggled with anxiety for as long as I can remember. It is no secret that I’m known as the stressy, anxious, over planner of my circle of friends, and I’ve been known to literally worry myself sick over small disagreements and arguments (once in 7th grade, I spent an entire weekend in bed with a fever because I had had a falling out with my best friend). Now, I never thought I had a problem,

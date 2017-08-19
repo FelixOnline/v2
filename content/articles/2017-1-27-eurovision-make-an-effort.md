@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jonathan Masters doesn't care about Trump, but does care about Eurovision
 date: "2017-01-27 16:23:21 +0000"
+
 # Attributes from Felix Online V1
 id: "6688"
 old_path: /comment/6688/eurovision-make-an-effort
 aliases:
  - /comment/6688/eurovision-make-an-effort
+imported: true
+comments:
+ - trLrSZ  hwkuoizvsano urlhttponjhmqjjaumqcomonjhmqjjaumqurl linkhttpkjeiphuvenrncomkjeiphuvenrnlink httpudsutvieampmcomNormally I dont learn article on blogs but I would like to say that this writeup very pressured me to take a look at and do it Your writing taste has been surprised me Thank you quite nice postcollege degrees httpeduhintseuJust want to say your article is as astounding The clearness in your post is simply great and i can assume you are an expert on this subject Fine with your permission allow me to grab your RSS feed to keep up to date with forthcoming post Thanks a million and please continue the rewarding workmasters education httpstudytipeuWhats up yes this article is really nice and I have learned lot of things from it on the topic of blogging thankscollege education httpeducationpointeuI simply couldnt depart your site before suggesting that I really loved the usual info an individual provide in your guests Is going
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - trLrSZ  hwkuoizvsano urlhttponjhmqjjaumqcomonjhmqjjaumqurl linkhttpkjeiphuvenrncomkjeiphuvenrnlink httpudsutvieampmcomNormally I dont learn article on blogs but I would like to say that this writeup very pressured me to take a look at and do it Your writing taste has been surprised me Thank you quite nice postcollege degrees httpeduhintseuJust want to say your article is as astounding The clearness in your post is simply great and i can assume you are an expert on this subject Fine with your permission allow me to grab your RSS feed to keep up to date with forthcoming post Thanks a million and please continue the rewarding workmasters education httpstudytipeuWhats up yes this article is really nice and I have learned lot of things from it on the topic of blogging thankscollege education httpeducationpointeuI simply couldnt depart your site before suggesting that I really loved the usual info an individual provide in your guests Is going
-imported: true
 ---
 
 You can listen to as much Jamie XX as you like, you can watch black and white films with French subtitles, but there is not a single person on this earth who when viewing the Eurovision song contest doesn’t enjoy the sheer ridiculousness of it. Every year, each one of us remembers that Azerbaijan is a country, that all the best pyrotechnics are found in Europe, and wish that hopefully one of the novelty countries like Australia wins. Even with post-Brexit Britain, millions of people will tune in, with many more illegally streaming it on iPlayer because who actually pays the license fee? It is an aged tradition to listen to Graham Norton creatively talk nonsense and use the most abstract of mathematics to try and calculate a way that the UK could ever finish on the left of the leader board. Why is it, however, that every year Britain puts the least amount of effort into selecting their act?

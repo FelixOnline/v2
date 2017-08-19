@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial’s badass Blues barons Tin Can 44s give us some straight jive talk, promising to push your tushie into full swing at 19.02
 date: "2011-02-17 20:09:37 +0000"
+
 # Attributes from Felix Online V1
 id: "834"
 old_path: /music/834/tin-cans-talkin-blues
 aliases:
  - /music/834/tin-cans-talkin-blues
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Sometimes life just kicks you square in the balls. It sucks, but it is an intrinsic part of Mother Nature’s menstrual cycle.Yeah I know it hurts because it turns out that chick you liked is actually a total slag. And that guy you thought was giving you the eye? He happens to be a sex offender. Life is full of dissapointment, so you better get used to it. What the hell did you think they invented whiskey for anyway? But when you’re right at the bottom of your cesspool of despair, [Tin Can 44s](http://www.myspace.com/tincan44s) are there to pull you out, give you a kind slap across the face and drag you along for a night out on Kingly Street.

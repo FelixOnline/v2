@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Thomas Lim reports as 450 students are left "confused and frustrated"
 date: "2014-11-28 00:43:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4963"
 old_path: /news/4963/blackboard-crashes-during-test
 aliases:
  - /news/4963/blackboard-crashes-during-test
+imported: true
+comments:
+ - Blackboard is a completely farcical VLE Imperial really deserves betterSurely taking feedback on how students think their course should be administered and especially in exceptional circumstance is not unique to the Business school Computing surveyed the student body asking how the final years of the course should be structuredBreaking news Blackboard is utter shiteOh wait no Seriously why isnt it like a UROP or something for 1 student 1 Summer to put something togetherOkay Im sure that is an exaggeration it wouldnt be welltested cope with significant load etc  but at least it would show what could be done with limited resources and the College might stop wasting so much money on the dire system that is Blackboardurlhttpwwwcoachonlinestoresuscombcoach factory online outletburl  urlhttpwwwmichaelkorsoutletsxyzbmichael kors outlet onlineburl  urlhttpwwwoakleysunglassessalesccboakley sunglasses saleburl  urlhttp
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Blackboard is a completely farcical VLE Imperial really deserves betterSurely taking feedback on how students think their course should be administered and especially in exceptional circumstance is not unique to the Business school Computing surveyed the student body asking how the final years of the course should be structuredBreaking news Blackboard is utter shiteOh wait no Seriously why isnt it like a UROP or something for 1 student 1 Summer to put something togetherOkay Im sure that is an exaggeration it wouldnt be welltested cope with significant load etc  but at least it would show what could be done with limited resources and the College might stop wasting so much money on the dire system that is Blackboardurlhttpwwwcoachonlinestoresuscombcoach factory online outletburl  urlhttpwwwmichaelkorsoutletsxyzbmichael kors outlet onlineburl  urlhttpwwwoakleysunglassessalesccboakley sunglasses saleburl  urlhttp
-imported: true
 ---
 
 450 students were left confused and frustrated after Blackboard crashed during a Business Economics online test last Thursday. The test was scheduled to start at 18:00, and within ten minutes, students started reporting issues with their tests, such as images and formulae not loading as expected. Shortly afterwards, Blackboard went down.

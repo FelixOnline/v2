@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Andrew Olson thinks it's time the exclusive drinking societies were held to the same standard as everyone else
 date: "2017-03-17 17:01:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6908"
 old_path: /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
 aliases:
  - /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
+imported: true
+comments:
+ - What is wrong with networking Im sure many a job opportunity has been passed along in the scifi club or the knitting club Shall we ban people from trying to give their friends opportunities If you disagree you clearly have a very naive outlook on the world Furthermore if you think that the only qualification you require for any job nowadays is that you are a member of a club you are even thicker than you sound I wish you luck when you enter the real world where you cant blame your lack of opportunities on not being a member of a college alumni club My advice to the author not that hes asking would be to i lighten up a little bit ii try and find out what these clubs are actually about this might also help with i recommend talking to people instead of one line emails and iii focus your ire on opportunities that might actually improve the student experience  clearly denigrating this clubs and the lessthanwoeful issue of a handful of tankards behind a bar is not one of these This
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - What is wrong with networking Im sure many a job opportunity has been passed along in the scifi club or the knitting club Shall we ban people from trying to give their friends opportunities If you disagree you clearly have a very naive outlook on the world Furthermore if you think that the only qualification you require for any job nowadays is that you are a member of a club you are even thicker than you sound I wish you luck when you enter the real world where you cant blame your lack of opportunities on not being a member of a college alumni club My advice to the author not that hes asking would be to i lighten up a little bit ii try and find out what these clubs are actually about this might also help with i recommend talking to people instead of one line emails and iii focus your ire on opportunities that might actually improve the student experience  clearly denigrating this clubs and the lessthanwoeful issue of a handful of tankards behind a bar is not one of these This
-imported: true
 ---
 
 Everyone studying at Imperial is aware that this place is not perfect. Yes, there are problems with student engagement, mental health, even sexism. But despite these issues, I feel it is the place which has mainly contributed at making me who I am today; the fantastic wardening team in my halls in first year, the challenging environment and, more importantly, the Imperial community of incredibly interesting people from all over the world which I could always learn something from.

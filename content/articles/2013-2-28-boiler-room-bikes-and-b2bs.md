@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Gray gets a taste of the Red Stripe Make Session series
 date: "2013-02-28 23:28:10 +0000"
+
 # Attributes from Felix Online V1
 id: "3387"
 old_path: /music/3387/boiler-room-bikes-and-b2bs
 aliases:
  - /music/3387/boiler-room-bikes-and-b2bs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - rbg10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When I first considered writing an article on Boiler Room, I thought it would be redundant. I always thought that it’s just one of those things that everyone who would be interested knows about, but when I started chatting to people about it I realised this is not really the case. Considering how electronic Imperial’s tastes seem to be, as well as our churning out a pretty incredible number of DJs and producers, I felt this needed remedying.

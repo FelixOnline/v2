@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Scientists gather at The Gore Hotel to receive awards
 date: "2011-12-01 21:35:25 +0000"
+
 # Attributes from Felix Online V1
 id: "1896"
 old_path: /news/1896/science-challenge-winners-announced
 aliases:
  - /news/1896/science-challenge-winners-announced
+imported: true
+comments:
+ - Its worth noting that Mark Henderson is not going to be Science Editor at the Times for much longer httpwwwwellcomeacukNewsMediaofficePressreleases2011WTVM053483htmYes I know but I got the posters printed back in October and only found out about that in November
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its worth noting that Mark Henderson is not going to be Science Editor at the Times for much longer httpwwwwellcomeacukNewsMediaofficePressreleases2011WTVM053483htmYes I know but I got the posters printed back in October and only found out about that in November
-imported: true
 ---
 
 The [Royal College of Science Union](http://rcsu.org.uk/exec/) (RCSU) held a formal dinner for alumni and the Science Challenge 2011 winners on Thursday 24 November. The Science Challenge competition is an annual, national scientific essay writing competition aiming to encourage scientific debate, reasoning and the communication of science in a public-friendly context.

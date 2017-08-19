@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ben Howitt reports on a successful five days of fundraising
 date: "2015-02-13 14:52:13 +0000"
+
 # Attributes from Felix Online V1
 id: "5254"
 old_path: /cands/5254/art-explosion-tops-off-icsm-rag-week
 aliases:
  - /cands/5254/art-explosion-tops-off-icsm-rag-week
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - bwh12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "benhowt"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Imperial College School of Medicine Students’ Union (ICSMSU) presented an Arts Revue last Sunday, 8th February, to conclude what has been, by all accounts, a very successful Raising and Giving (RAG) week.

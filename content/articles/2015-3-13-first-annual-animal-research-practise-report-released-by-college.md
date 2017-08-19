@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Carol Ann Cheah on the release of the first annual report
 date: "2015-03-13 01:22:15 +0000"
+
 # Attributes from Felix Online V1
 id: "5392"
 old_path: /news/5392/first-annual-animal-research-practise-report-released-by-college
 aliases:
  - /news/5392/first-annual-animal-research-practise-report-released-by-college
+imported: true
+comments:
+ - fitflop salesfitflops australia clearance httpwwwaustraliafitflopscomchristian louboutin outletdiscount christian louboutin httpchristianlouboutincanadaoutletblogspotcombuy louboutinchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom8cxZkB  rydommdkehzz urlhttpwsymyvfixliecomwsymyvfixlieurl linkhttplxrboenhjwvfcomlxrboenhjwvflink httpnittjbrcgyhecom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop salesfitflops australia clearance httpwwwaustraliafitflopscomchristian louboutin outletdiscount christian louboutin httpchristianlouboutincanadaoutletblogspotcombuy louboutinchristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom8cxZkB  rydommdkehzz urlhttpwsymyvfixliecomwsymyvfixlieurl linkhttplxrboenhjwvfcomlxrboenhjwvflink httpnittjbrcgyhecom
-imported: true
 ---
 
 Imperial College London has released its first annual report on animal research practices within College. The 30-page document was launched at a specially held event as part of the Imperial Fringe series, which was open to the public and drew a crowd of around 200.

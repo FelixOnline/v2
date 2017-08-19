@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Scott Heath calls for an event which hasn't occurred at Imperial for 5 years
 date: "2012-03-01 22:50:16 +0000"
+
 # Attributes from Felix Online V1
 id: "2292"
 old_path: /comment/2292/its-time-for-a-union-general-meeting
 aliases:
  - /comment/2292/its-time-for-a-union-general-meeting
+imported: true
+comments:
+ - Re budgeting In Exec we decide how much goes to CSB however not how much goes to each Management Group like the OSC As Chair I believe it is essential to be impartial on those decisions which I was I attended the CSB Budgeting but again allowed the MGs to decide where money went as we are a democracyRe Trustee Board It is my duty to highlight concerns with our structure governance My references were solely as examples and I believe I showed no bias in what I said I could have chosen a variety if high cost societies underwater pilot etc and I accept there are reasons for their support levels The trustee example was the only one I had we need Trustees who are new to the Union but I dont believe all four should be I also wanted to emphasise that the Union and thus myself has not done well at communicating what trustees do I want the GM because so we can answer questions But I more importantly want one to ask questions and see what answers we getThough this is an interestin
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Re budgeting In Exec we decide how much goes to CSB however not how much goes to each Management Group like the OSC As Chair I believe it is essential to be impartial on those decisions which I was I attended the CSB Budgeting but again allowed the MGs to decide where money went as we are a democracyRe Trustee Board It is my duty to highlight concerns with our structure governance My references were solely as examples and I believe I showed no bias in what I said I could have chosen a variety if high cost societies underwater pilot etc and I accept there are reasons for their support levels The trustee example was the only one I had we need Trustees who are new to the Union but I dont believe all four should be I also wanted to emphasise that the Union and thus myself has not done well at communicating what trustees do I want the GM because so we can answer questions But I more importantly want one to ask questions and see what answers we getThough this is an interestin
-imported: true
 ---
 
 It took me approximately 4 months to really understand how the University and Union work. Both of these organisations are layered with bureaucracy, which doesn’t help. Additionally, you need to get to term time before various committees meet and the workloads hit a stage where acronyms like SRASOC* start rolling off the tongue. (*Student Recruitment and Admissions Strategy and Operations Committee)

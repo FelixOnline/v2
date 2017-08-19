@@ -4,16 +4,23 @@ title: >
 subtitle: >
   One year on from the real start of the Arab Spring
 date: "2011-11-24 21:26:08 +0000"
+
 # Attributes from Felix Online V1
 id: "1820"
 old_path: /politics/1820/west-sahara-and-the-arab-spring
 aliases:
  - /politics/1820/west-sahara-and-the-arab-spring
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On 10 November 2010 a protest camp in the Western Sahara was brutally dismantled by the Moroccan Government, representing the start of the real Arab Spring. One year on, despite huge media coverage of the Arab Spring, almost no attention has been given to the Western Sahara and its thirty-six year illegal occupation.

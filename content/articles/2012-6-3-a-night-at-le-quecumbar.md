@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto finds a passage to 1930s Paris down Battersea High Street
 date: "2012-06-03 15:53:55 +0100"
+
 # Attributes from Felix Online V1
 id: "2519"
 old_path: /music/2519/a-night-at-le-quecumbar
 aliases:
  - /music/2519/a-night-at-le-quecumbar
+imported: true
+comments:
+ - You have to teake me there some time
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - im808
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
-
-comments:
- - You have to teake me there some time
-imported: true
 ---
 
 One lazy summer evening, I proposed to my friends that we check out a jazz bar just down the street from our place, but which we had never been to in two years of living there. Le QuecumBar is a 1930s inspired gypsy jazz bar which hosts some of the best known players of the style first performed by the now legendary __Jean “Django” Reinhardt__. Django (whose nickname means “I awake” in Romani) was born in Belgium in 1910 to Romanian parents, before moving to Paris where he learned the banjo, and later the guitar, becoming absorbed in the music of the time. His virtuous, often said “hot”, guitar playing laid the cornerstones for a style which now reminds of silent movies in fast forward or smoky alleys in the deep Parisian night, drowned in gaiety and inebriation.

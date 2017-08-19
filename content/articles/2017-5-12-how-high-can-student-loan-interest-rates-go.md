@@ -4,16 +4,22 @@ title: >
 subtitle: >
   It’s unlikely they’ll be going anywhere but up post Brexit
 date: "2017-05-12 15:31:54 +0100"
+
 # Attributes from Felix Online V1
 id: "6931"
 old_path: /news/6931/how-high-can-student-loan-interest-rates-go
 aliases:
  - /news/6931/how-high-can-student-loan-interest-rates-go
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You probably missed the memo, buried deep under a pile of revision notes but the fact remains: The cost of your degree has just increased.

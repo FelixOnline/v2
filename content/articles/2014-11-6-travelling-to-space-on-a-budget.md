@@ -4,16 +4,24 @@ title: >
 subtitle: >
   James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
+
 # Attributes from Felix Online V1
 id: "4783"
 old_path: /science/4783/travelling-to-space-on-a-budget-
 aliases:
  - /science/4783/travelling-to-space-on-a-budget-
+imported: true
+comments:
+ - SBB    Thank you for sharing the info Even tho it was one of the topten 2009 news in China I meissd it completely According to Wikipedia it appears some of the local officials andor supporters were trying to cover it up    I should go to the Chinese section of the local public library and see if I can borrow some of his books        I am not sure of that More often than not what we call facts are actually ppls opinions And opinions are hardly universal truths
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - SBB    Thank you for sharing the info Even tho it was one of the topten 2009 news in China I meissd it completely According to Wikipedia it appears some of the local officials andor supporters were trying to cover it up    I should go to the Chinese section of the local public library and see if I can borrow some of his books        I am not sure of that More often than not what we call facts are actually ppls opinions And opinions are hardly universal truths
-imported: true
 ---
 
 Not many of us have a spare quarter-of-a-million dollars to blow on a half-hour joy-ride.

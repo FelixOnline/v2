@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Following huge success at the University of York, the fashion and dance project hits the London universities
 date: "2011-10-21 11:08:15 +0100"
+
 # Attributes from Felix Online V1
 id: "1595"
 old_path: /arts/1595/fabulous-fusion-arrives-in-london
 aliases:
  - /arts/1595/fabulous-fusion-arrives-in-london
+imported: true
+comments:
+ - Im all for new shows and events but the article does no favours to Fusion by coming across as one massive arse lick It feels like its a friend doing another friend a favour independent journalism it is not And thats before mentioning the awful selfindulging comments on Page 29 of this weeks FelixAwfulI agree with the above comment Its certainly over the top publicity and praise for what is still just a student run eventsomething leaner meaner and more metropolitan What does that even mean thats the one major difference whereas York was just York Londons a lot bigger err no shit sherlock Its a great opportunity to expand your horizons What does that even meanNever before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar err what about East meets Westand a desire to give something back to the charity that sponsors her own doctoral studies Call me a cynic
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Im all for new shows and events but the article does no favours to Fusion by coming across as one massive arse lick It feels like its a friend doing another friend a favour independent journalism it is not And thats before mentioning the awful selfindulging comments on Page 29 of this weeks FelixAwfulI agree with the above comment Its certainly over the top publicity and praise for what is still just a student run eventsomething leaner meaner and more metropolitan What does that even mean thats the one major difference whereas York was just York Londons a lot bigger err no shit sherlock Its a great opportunity to expand your horizons What does that even meanNever before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar err what about East meets Westand a desire to give something back to the charity that sponsors her own doctoral studies Call me a cynic
-imported: true
 ---
 
 Imperial is no stranger to big events; you’d have to have had your head in the sand to not know what [East Meets West](http://www.union.ic.ac.uk/osc/india/Events.html) is. Now an Imperial postgraduate hopes to bring her experiences from her previous university to break the mould with a spectacle that goes above and beyond anything that has come before.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Driving Dead
 date: "2013-01-24 21:13:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3157"
 old_path: /games/3157/a-bit-that-will-really-drive-you-a-long-way
 aliases:
  - /games/3157/a-bit-that-will-really-drive-you-a-long-way
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Hah – you thought that you would escape my zombie fanaticissm this week, but you haven’t! This week’s selection is [Zombie Driver](http://www.youtube.com/watch?v=jzWYxZLZWOE), the spiritual sequel to Zombie Chauffeur, the game adaptation of the BAFTA winning Driving Miss Zombie.

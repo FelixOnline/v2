@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In a story straight out of Hangman, Kent Union’s Tory Society are campaigning for a 76m tall iron statue of the Iron Lady
 date: "2016-02-26 11:25:29 +0000"
+
 # Attributes from Felix Online V1
 id: "5956"
 old_path: /news/5956/kent-students-want-thatcher-statue
 aliases:
  - /news/5956/kent-students-want-thatcher-statue
+imported: true
+comments:
+ - Kidney Dialysis ways you can get from it with out dropping your life httpkidneyoktumblrcomThe gita has been the solace of my life and will be my solace in death I however prefer the jnana route to the bhakti route yeezy 350 boost urlhttpwwwzwsoftcomshoesadidasyeezy750boostyeezy 350 boosturlcartierbraceletlove I am so sick of people who select their candidate based on who can beat Obama or the lesser of two evils When are CONSERVATIVES going to grow a pair of balls and vote for the person who best represents their principles Newt is just more status quo establishment If you think anything will change in a Gingrich administration you are delusional  it will be Obama II which is just Bush II Ill write in Dr Paul if I have to because hes the only one that even comes close to following the constitution I have a pair and refuse to be labeled a spoiler replica bracciale uomo cartier urlhttpwwwmercibassocostonetcategorybraccialelovecartierfalso
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Kidney Dialysis ways you can get from it with out dropping your life httpkidneyoktumblrcomThe gita has been the solace of my life and will be my solace in death I however prefer the jnana route to the bhakti route yeezy 350 boost urlhttpwwwzwsoftcomshoesadidasyeezy750boostyeezy 350 boosturlcartierbraceletlove I am so sick of people who select their candidate based on who can beat Obama or the lesser of two evils When are CONSERVATIVES going to grow a pair of balls and vote for the person who best represents their principles Newt is just more status quo establishment If you think anything will change in a Gingrich administration you are delusional  it will be Obama II which is just Bush II Ill write in Dr Paul if I have to because hes the only one that even comes close to following the constitution I have a pair and refuse to be labeled a spoiler replica bracciale uomo cartier urlhttpwwwmercibassocostonetcategorybraccialelovecartierfalso
-imported: true
 ---
 
 Ding Dong, the witch is dead, but not for these students in Canterbury, who want a 70m tall idol of their idol built outside their union’s Metric equivalent.

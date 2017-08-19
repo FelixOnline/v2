@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A fifth of graduating students would have been unable to attend the previously suggested date due to visa expiry
 date: "2015-02-27 00:42:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5314"
 old_path: /news/5314/visa-expiry-causes-commemoration-day-to-move
 aliases:
  - /news/5314/visa-expiry-causes-commemoration-day-to-move
+imported: true
+comments:
+ - fitflops salesfitflop buy online httpfitflopsaublogspotcomcheap christian louboutin pumpschristian louboutin outlet canada httpcanadachristianlouboutinoutletblogspotcombuy christian louboutin shoes canadachristian louboutin shoes sale httpcanadachristianlouboutinoutletblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflops salesfitflop buy online httpfitflopsaublogspotcomcheap christian louboutin pumpschristian louboutin outlet canada httpcanadachristianlouboutinoutletblogspotcombuy christian louboutin shoes canadachristian louboutin shoes sale httpcanadachristianlouboutinoutletblogspotcom
-imported: true
 ---
 
 In an email sent out earlier this month to undergraduate students expecting to graduate this year, the College announced a change from usual procedures for the annual ceremony.

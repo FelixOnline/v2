@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Who will come, who will see, who will conquer?
 date: "2011-06-23 20:14:25 +0100"
+
 # Attributes from Felix Online V1
 id: "1421"
 old_path: /politics/1421/the-politics-of-summer-2011
 aliases:
  - /politics/1421/the-politics-of-summer-2011
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With Felix Politics on holiday for the summer, you’re probably worried that you’ll either have to read a proper political paper for the next three months (really very dull) or become completely ignorant of the world around you. Fear not! Below are the only important headlines that may, or may not, occur. Read these and you can spend the rest of your summer lying on a beach, without a care in the world.

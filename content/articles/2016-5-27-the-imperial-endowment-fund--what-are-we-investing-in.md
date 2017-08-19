@@ -4,16 +4,22 @@ title: >
 subtitle: >
   We take a closer look at where Imperial is putting its cash
 date: "2016-05-27 08:43:23 +0100"
+
 # Attributes from Felix Online V1
 id: "6201"
 old_path: /features/6201/the-imperial-endowment-fund--what-are-we-investing-in
 aliases:
  - /features/6201/the-imperial-endowment-fund--what-are-we-investing-in
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial’s investment portfolio is a well-known part of the college’s assets. Much like a savings account, a board decides where we invest year on year, to make the most of our stacks of cash and earn us interest. This is done by most universities, and whereas Oxford and Cambridge’s endowments are in the billions, ours are at a modest £201 million.

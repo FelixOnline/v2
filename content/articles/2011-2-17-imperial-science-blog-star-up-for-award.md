@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Webby nomination for David Robertson
 date: "2011-02-17 20:47:25 +0000"
+
 # Attributes from Felix Online V1
 id: "851"
 old_path: /science/851/imperial-science-blog-star-up-for-award-
 aliases:
  - /science/851/imperial-science-blog-star-up-for-award-
+imported: true
+comments:
+ - David I wish you every success in your blogging and your study Great to see a young person with a passion for life and scienceunlock iphone 4 41 unlock iphone 4 40 unlock iphone 4 unlock iphone 4 421             unlock iphone 4 41  unlock iphone 4 42 unlock iphone 4 41              unlock iphone 4 42 unlock iphone 4 41  httptheunlockiphone4com         httpbookmarkspurewebmarketingcomuserhistorykathrynebu httpblinklistcomusersdtrenholme httpeulaliabarlinkarenacom   urlhttptheunlockiphone4comunlock iphone 4url unlock iphone 4 40 unlock iphone 4
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - David I wish you every success in your blogging and your study Great to see a young person with a passion for life and scienceunlock iphone 4 41 unlock iphone 4 40 unlock iphone 4 unlock iphone 4 421             unlock iphone 4 41  unlock iphone 4 42 unlock iphone 4 41              unlock iphone 4 42 unlock iphone 4 41  httptheunlockiphone4com         httpbookmarkspurewebmarketingcomuserhistorykathrynebu httpblinklistcomusersdtrenholme httpeulaliabarlinkarenacom   urlhttptheunlockiphone4comunlock iphone 4url unlock iphone 4 40 unlock iphone 4
-imported: true
 ---
 
 David Robertson is the small town blogger done good. In only 2 years he has converted his own little personal website into one of the globe’s most eminent science blogs ([davidpj.wordpress.com](http://davidpj.wordpress.com)). Just this month, it has been nominated for the [2011 Weblog Awards](http://2011.bloggi.es/) Best Science Blog. Felix Science caught up with the web celebrity to discuss blogging, science, and blatant self promotion.

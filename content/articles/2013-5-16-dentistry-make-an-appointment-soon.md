@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Riaz Agahi speaks to dark, ambient up-and-comers Dentistry
 date: "2013-05-16 14:43:10 +0100"
+
 # Attributes from Felix Online V1
 id: "3566"
 old_path: /music/3566/dentistry-make-an-appointment-soon
 aliases:
  - /music/3566/dentistry-make-an-appointment-soon
+imported: true
+comments:
+ - 71dI merely hpnepaed inside your blog while looking for any digital in the cowboy ad I believed the ad was funny really laugh aloud funny After around the week I still laugh when its onIm not too sure To be certain along with your premise that  an excellent author makes her site visitors feel smart  Im not a real fan for something which adds for the further dumbing lower of america but possibly Ill address that another time For me this ad is not mean being overexamined its a joke and just you obtain it otherwise you dont And like every jokes theyre never funny if you want to explain them Really Ls was stretching when suggesting that how large the hats had something connected to the overall message Further stretching if Ls thinks any kind of Dishs audience knows theyre hqd in CO Im taking a chance both genesis and reason behind the ad is always that when you find out about the completely new streaming feature the hats and mustaches develop all supported having a deadpan delivery Eithe
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - js2310
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 71dI merely hpnepaed inside your blog while looking for any digital in the cowboy ad I believed the ad was funny really laugh aloud funny After around the week I still laugh when its onIm not too sure To be certain along with your premise that  an excellent author makes her site visitors feel smart  Im not a real fan for something which adds for the further dumbing lower of america but possibly Ill address that another time For me this ad is not mean being overexamined its a joke and just you obtain it otherwise you dont And like every jokes theyre never funny if you want to explain them Really Ls was stretching when suggesting that how large the hats had something connected to the overall message Further stretching if Ls thinks any kind of Dishs audience knows theyre hqd in CO Im taking a chance both genesis and reason behind the ad is always that when you find out about the completely new streaming feature the hats and mustaches develop all supported having a deadpan delivery Eithe
-imported: true
 ---
 
 _I recently got in touch with Cian Walker and Patrick Fennelly of Irish band Dentistry. Their debut last year released on Forwind Records made quite an impression on me and I got a chance to discuss their approach to making music._

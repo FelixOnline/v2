@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ollie Kemsley talks about the day of the Paris attack last November, and his experiences in the year following
 date: "2016-11-11 13:18:35 +0000"
+
 # Attributes from Felix Online V1
 id: "6417"
 old_path: /comment/6417/i-was-in-the-bataclan
 aliases:
  - /comment/6417/i-was-in-the-bataclan
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I was inside Bataclan when the attack happened. At around 9:45pm there was the sound of something like firecrackers coming from the back of the hall. The band stopped, all of the lights came on suddenly, I looked over my shoulder and, to my horror, I could see three figures with machine guns blocking the exits. Immediately the three terrorists began shooting indiscriminately with their kalashnikovs, and people fell to the floor in a domino effect. After several seconds of sustained shooting, there was an eerie silence and I took the opportunity to scramble towards a door in the distance next to the stage. In those few seconds of silence following the shooting, as the terrorists reloaded their machine guns, many people remained laying on the floor and elsewhere there was panicked shuffling. When the shooting began again, I dropped flat to the floor and waited for them to finish their round before attempting to make an escape. This happened several times.

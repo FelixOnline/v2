@@ -4,16 +4,23 @@ title: >
 subtitle: >
   IC Waterpolo make a splash at national championships
 date: "2013-05-23 21:30:52 +0100"
+
 # Attributes from Felix Online V1
 id: "3600"
 old_path: /sport/3600/bucs-bronze-for-water-polo
 aliases:
  - /sport/3600/bucs-bronze-for-water-polo
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Going into the Championship semi-finals IC Water Polo had the toughest draw possible against Bristol, Manchester and Edinburgh, all of whom have recently won the competition – something that IC have previously never come close to. Thankfully though to help us out we were joined by our not so secret weapon Adam Scholefield, fresh from playing in the Olympics for Team GB. The other teams began to worry as they witnessed our class and tenacity playing against our first opponents Manchester, which ended 10-6 in IC’s favour. Saturday night saw the team have a relaxing meal out, whilst resisting the temptation for a night out in Bristol, preserving our energy for a tough Sunday of matches. This however did not stop the supporting girls who had a great time with ladies’ man Torres.

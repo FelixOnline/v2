@@ -4,16 +4,24 @@ title: >
 subtitle: >
   On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus inst
 date: "2013-10-04 02:17:57 +0100"
+
 # Attributes from Felix Online V1
 id: "3811"
 old_path: /sport/3811/cross-country-and-athletics-run-around-wales
 aliases:
  - /sport/3811/cross-country-and-athletics-run-around-wales
+imported: true
+comments:
+ - Hi AlanaWe have had a chance to look at your blog this afeornotn and we are VERY IMPRESSED You have a very interesting blog filled with interesting postsIt is too hot to do Little Aths up here in Darwin we tend to do a lot more swimming Nearly everyone in our class has a pool and swim in them each day We also love rugby and AFL Miss Dwyer goes for Geelong Cats She was happy they won the grand finalGreat blog again Do you have any more tips for us as we are just startingFrom 34 D and 4 F Such a great space   and the lighting is divene I am loving your new blog although this may be my first comment I have been visiting for a while now I am always so excited to see what your up too and your idea behind this blog is really inspiring October 4 2011   126 pm  generic viagra   prudent   insurance scoring and fair credit reporting for auto driver   internet selfdiagnosers   buy brand viagra online   laxatives such   body fat   buy cialas on line
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Hi AlanaWe have had a chance to look at your blog this afeornotn and we are VERY IMPRESSED You have a very interesting blog filled with interesting postsIt is too hot to do Little Aths up here in Darwin we tend to do a lot more swimming Nearly everyone in our class has a pool and swim in them each day We also love rugby and AFL Miss Dwyer goes for Geelong Cats She was happy they won the grand finalGreat blog again Do you have any more tips for us as we are just startingFrom 34 D and 4 F Such a great space   and the lighting is divene I am loving your new blog although this may be my first comment I have been visiting for a while now I am always so excited to see what your up too and your idea behind this blog is really inspiring October 4 2011   126 pm  generic viagra   prudent   insurance scoring and fair credit reporting for auto driver   internet selfdiagnosers   buy brand viagra online   laxatives such   body fat   buy cialas on line
-imported: true
 ---
 
 On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus instead. The van, effortlessly navigated and driven by Matt Douthwaite, was loaded up with trainers, sports bags, games and twenty odd obligatory contributions of home baked goods.

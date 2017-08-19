@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Silver Linings Playbook is worth a watch, says John Park
 date: "2012-11-23 00:39:51 +0000"
+
 # Attributes from Felix Online V1
 id: "2977"
 old_path: /film/2977/why-dont-you-play-with-yourself
 aliases:
  - /film/2977/why-dont-you-play-with-yourself
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For a man just released from the mental institution, Pat (Cooper) seems to have an alarmingly optimistic view on his future well-being. He is convinced his estranged wife, who has taken out a restraining order against him, will come back to him and he’s unafraid to try whatever he can to win her over. His strategy is to think positive. Because with all the good energy and vibe, he believes he has a shot at a “silver lining” (hence the title).

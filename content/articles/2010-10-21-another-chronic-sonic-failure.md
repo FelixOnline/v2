@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Matt Colvin and Simon Worthington attempt to enjoy Sonic The Hedgehog 4. They fail...
 date: "2010-10-21 19:35:28 +0100"
+
 # Attributes from Felix Online V1
 id: "245"
 old_path: /games/245/another-chronic-sonic-failure-
 aliases:
  - /games/245/another-chronic-sonic-failure-
+imported: true
+comments:
+ - Got it Tnhaks a lot again for helping me outYOjerg  bpsvxgeuvcbz zithromax xvt doxycycline 62882
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Got it Tnhaks a lot again for helping me outYOjerg  bpsvxgeuvcbz zithromax xvt doxycycline 62882
-imported: true
 ---
 
 Poor Sonic has been having a bit of a rough time recently. Despite Mario and Luigi continuing their Godfather-esque dominance over pretty much any market they lay their eyes upon, their spiky blue hedgehog nemesis has enjoyed some high-profile, big-budget releases. However with a menagerie of arbitrary supporting characters, a silly oversized sword and a transformation into a credulity-stretching “werehog” to name but a few ‘major innovations’ to the franchise, it’s no surprise that recent instalments have failed to make the dash to success.

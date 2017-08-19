@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:48:30 +0100"
+
 # Attributes from Felix Online V1
 id: "4730"
 old_path: /news/4730/nus-rejects-motion-to-condemn-islamic-state
 aliases:
  - /news/4730/nus-rejects-motion-to-condemn-islamic-state
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The National Union of Students (NUS) has rejected a motion condemning Islamic State after a stirring speech by Black Students Officer Malia Bouattia, in which she asserted that passing the motion would be akin to “a justification for war and blatant Islamaphobia (sic)”. The motion said that the NUS would “support unity between Muslims, condemn the bloody terror of ISIS, and support a boycott on people who fund the militants”.

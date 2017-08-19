@@ -4,16 +4,23 @@ title: >
 subtitle: >
   More anonymous accounts of students and their experiences with depression
 date: "2012-05-04 01:17:02 +0100"
+
 # Attributes from Felix Online V1
 id: "2426"
 old_path: /news/2426/unseen-imperial-and-depression
 aliases:
  - /news/2426/unseen-imperial-and-depression
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re

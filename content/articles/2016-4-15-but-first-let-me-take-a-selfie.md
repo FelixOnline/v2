@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tate Modern's exhibition explores the age-old relationship between photography and performance
 date: "2016-04-15 18:08:26 +0100"
+
 # Attributes from Felix Online V1
 id: "6084"
 old_path: /arts/6084/but-first-let-me-take-a-selfie
 aliases:
  - /arts/6084/but-first-let-me-take-a-selfie
+imported: true
+comments:
+ - Its all ahout Oakley Sunglasses Online hot sale for Black Friday and Cyber Monday click to viewFrom  oakleysblackfridaycomSelect cheap jordans models you like Air Jordan Shoes Outlet owns full sizes for menwomen and kids mostly are for sale nowMore fromCheap Jordans  Air Jordan Shoes Outlet SaleDo the rg3 jersey cheap available in my local storerg3 jersey cheapcheap mlb jerseys Detroit Lions cheap jerseysThere are Coach outlet guess store online clearance and other cheap accessories onlineI dont know what you are sayingfifa coins httpcomunidadproyectolatinorgblogview76870premierleaguerelegationbattlelook great todaycheapest nba 2k16 mt pc buy httpwwwnba2k16storecomnba2k16PC22001tSiA5  hjrcrwontvhs urlhttplekwmgjpzkvicomlekwmgjpzkviurl linkhttpecojrutaqyukcomecojrutaqyuklink httptefikgkrgkjtcomIll be there for you u4fifa httpu4fifakinjacomu4fifaispreparedforthearrivaloffifa171776633047I dont knowu4
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its all ahout Oakley Sunglasses Online hot sale for Black Friday and Cyber Monday click to viewFrom  oakleysblackfridaycomSelect cheap jordans models you like Air Jordan Shoes Outlet owns full sizes for menwomen and kids mostly are for sale nowMore fromCheap Jordans  Air Jordan Shoes Outlet SaleDo the rg3 jersey cheap available in my local storerg3 jersey cheapcheap mlb jerseys Detroit Lions cheap jerseysThere are Coach outlet guess store online clearance and other cheap accessories onlineI dont know what you are sayingfifa coins httpcomunidadproyectolatinorgblogview76870premierleaguerelegationbattlelook great todaycheapest nba 2k16 mt pc buy httpwwwnba2k16storecomnba2k16PC22001tSiA5  hjrcrwontvhs urlhttplekwmgjpzkvicomlekwmgjpzkviurl linkhttpecojrutaqyukcomecojrutaqyuklink httptefikgkrgkjtcomIll be there for you u4fifa httpu4fifakinjacomu4fifaispreparedforthearrivaloffifa171776633047I dont knowu4
-imported: true
 ---
 
 Does the appeal and purpose of performance art lie partially in its ephemeral nature? Or can photography be integral to preserving the performance for contemplation, and even to creating a new meaning in the work? It is the latter that Tate Modern’s exhibition _Performing for the Camera_ explores by bringing together photographs across many time periods – photographs used to document the performances as well as those used by artists themselves to produce their own art.

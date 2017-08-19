@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Graduation only disappoints by being difficult to find its flaws
 date: "2015-10-23 11:43:40 +0100"
+
 # Attributes from Felix Online V1
 id: "5670"
 old_path: /comment/5670/hating-on-graduation-is-hard
 aliases:
  - /comment/5670/hating-on-graduation-is-hard
+imported: true
+comments:
+ - li9j2f  mikbhomtpehd urlhttpaymdtetzqkgacomaymdtetzqkgaurl linkhttppsddzaioqzqdcompsddzaioqzqdlink httpvzeaeodwimrlcomIncredible This blog looks exactly like my old one Its on a completely different subject but it has pretty much the same page layout and design Great choice of colorsmoncler jassen meiden quiz httpwwwn11nlnlmonclerjassenmeidenquiz12967htmlNot that I know ofmadden news httpwwwmaddenstorecomnewsNobody can do a better job than youmadden 16 coins xbox one httpwwwmaddenstorecommaddennfl16XBOXONE2189Never would have thunk I would find this so ineiapenssbldNo I knowNBA 2K16 MT Coins httpswildstarplatinumswordpresscom20151207nba2k16mtcoinssellonlineToday looks great Runescape gold httpwwwserieomilagredesantaluziacombrforumtopicsrunescapesharethemodfiredforabuseofpowersnice goingbest nba 2k17 mt pc seller httpwwwu4nbacomnba2k17mtpc2354this can be a very useful mmorpg w
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - li9j2f  mikbhomtpehd urlhttpaymdtetzqkgacomaymdtetzqkgaurl linkhttppsddzaioqzqdcompsddzaioqzqdlink httpvzeaeodwimrlcomIncredible This blog looks exactly like my old one Its on a completely different subject but it has pretty much the same page layout and design Great choice of colorsmoncler jassen meiden quiz httpwwwn11nlnlmonclerjassenmeidenquiz12967htmlNot that I know ofmadden news httpwwwmaddenstorecomnewsNobody can do a better job than youmadden 16 coins xbox one httpwwwmaddenstorecommaddennfl16XBOXONE2189Never would have thunk I would find this so ineiapenssbldNo I knowNBA 2K16 MT Coins httpswildstarplatinumswordpresscom20151207nba2k16mtcoinssellonlineToday looks great Runescape gold httpwwwserieomilagredesantaluziacombrforumtopicsrunescapesharethemodfiredforabuseofpowersnice goingbest nba 2k17 mt pc seller httpwwwu4nbacomnba2k17mtpc2354this can be a very useful mmorpg w
-imported: true
 ---
 
 Graduation day. Supposed to be a milestone, right? One of the happiest days of your lives, some people (morons) say. Well, not if I, the Angry Grad, have anything to do with it.

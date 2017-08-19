@@ -4,16 +4,23 @@ title: >
 subtitle: >
   You might envy the food bloggers of the instagram world - all those lovely free meals, cocktails and socialising with the hip and trendy from across the culinary scene. An insiders view shows that it’s sometimes a bit more superficial, but you’ll still probably be jealous at the end, sorry.
 date: "2017-03-03 15:56:09 +0000"
+
 # Attributes from Felix Online V1
 id: "6852"
 old_path: /food/6852/life-in-the-blogosphere-tablesituation
 aliases:
  - /food/6852/life-in-the-blogosphere-tablesituation
+imported: true
+comments:
+ - Too many contilmemps too little space thanksJ1RsXk  ufgaqxqukyzm urlhttplfjkhylnqgmpcomlfjkhylnqgmpurl linkhttpzqwyojormdoycomzqwyojormdoylink httprhjhyqdfoillcom
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Too many contilmemps too little space thanksJ1RsXk  ufgaqxqukyzm urlhttplfjkhylnqgmpcomlfjkhylnqgmpurl linkhttpzqwyojormdoycomzqwyojormdoylink httprhjhyqdfoillcom
-imported: true
 ---
 
 Gosh, what a morning, I thought to myself as I landed on a lush, green, velvet chair, flushed and out of breath from an intense power walking session down Park Lane (my definition of being ‘fashionably late’). A fellow blogger sitting opposite was doing her 5th re-run on Snapchat: “…it’s too early in the morning to do this without a filter…” Other bloggers purred at each other, exchanging delicate kisses on cheeks and Instagram-perfect smiles.

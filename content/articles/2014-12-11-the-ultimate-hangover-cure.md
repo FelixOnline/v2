@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emma Lisle on a drug that could end those mornings after
 date: "2014-12-11 20:12:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5026"
 old_path: /science/5026/the-ultimate-hangover-cure
 aliases:
  - /science/5026/the-ultimate-hangover-cure
+imported: true
+comments:
+ - So yes the media is large advertisement talking about Tim Tebow But shouldnt we be at liberty that very best dog enrolled in college Football is Tim Tebow the ultimate leader the fifa 16 hack ultimate team player and best nice guy and not the poisonous TO Shouldnt we be very honored that Tim Tebow doesnt drink and drive abuse anybody get in fights or shoot himself in the lower limb I mean come on during spring break when most college babies are getting drunk and doing God knows what Tim Tebow was a student in the Philippines performing surgeries and preaching to orphansfifa 16 hack httpcreditsfutcomPassion the website extremely individual pleasant and great deals to seenba 2k16 mt coins httpwwwvivienceciliaeblogipl
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - So yes the media is large advertisement talking about Tim Tebow But shouldnt we be at liberty that very best dog enrolled in college Football is Tim Tebow the ultimate leader the fifa 16 hack ultimate team player and best nice guy and not the poisonous TO Shouldnt we be very honored that Tim Tebow doesnt drink and drive abuse anybody get in fights or shoot himself in the lower limb I mean come on during spring break when most college babies are getting drunk and doing God knows what Tim Tebow was a student in the Philippines performing surgeries and preaching to orphansfifa 16 hack httpcreditsfutcomPassion the website extremely individual pleasant and great deals to seenba 2k16 mt coins httpwwwvivienceciliaeblogipl
-imported: true
 ---
 
 Could hangovers be a thing of the past? Scientists from the University of Huddersfield have developed a new drug that could reduce the side effects of binge drinking. The compound, called ethane-beta-sultam, is a taurine ‘pro-drug’ that can easily enter the blood stream before being processed by the body. Professor Mike Page, Dr Karl Hemming and colleagues believe that taking the drug during a heavy night of drinking will prevent alcohol from damaging the brain.

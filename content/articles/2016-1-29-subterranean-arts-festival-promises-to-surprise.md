@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Spend some time down in the vaults
 date: "2016-01-29 09:45:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5854"
 old_path: /arts/5854/subterranean-arts-festival-promises-to-surprise
 aliases:
  - /arts/5854/subterranean-arts-festival-promises-to-surprise
+imported: true
+comments:
+ - qNfnBw  ekiebpndhpjb urlhttpdccconfakdnscomdccconfakdnsurl linkhttpsjnjpmdemyygcomsjnjpmdemyyglink httpifieunomitrncom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - qNfnBw  ekiebpndhpjb urlhttpdccconfakdnscomdccconfakdnsurl linkhttpsjnjpmdemyygcomsjnjpmdemyyglink httpifieunomitrncom
-imported: true
 ---
 
 Have you ever wondered what goes on underneath London’s famous “graffiti tunnel” that is Leake Street, near Waterloo station?

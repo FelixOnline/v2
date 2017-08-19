@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sarah Gates urges Imperial students to do the unthinkable and have fun over summer...
 date: "2013-07-05 15:09:21 +0100"
+
 # Attributes from Felix Online V1
 id: "3742"
 old_path: /music/3742/secret-garden-party-a-four-day-party-like-no-other
 aliases:
  - /music/3742/secret-garden-party-a-four-day-party-like-no-other
+imported: true
+comments:
+ - This article is reading heavily like an advert  Why is it hereIm guessing the writer has some sort of financial involvement with the SGP Isnt in London nothing to do with Imperial so just reads like an advertDec08    One other thing is that an online binsuess administration course is designed for students to be able to effortlessly proceed to bachelors degree education The 90 credit certification meets the other bachelor education requirements then when you earn your associate of arts in BA online youll have access to the modern technologies in such a field Some reasons why students would like to get their associate degree in binsuess is because they are interested in this area and want to have the general schooling necessary before jumping in to a bachelor education program Thanks for the tips you actually provide with your blogThats not just the best anrswe Its the bestest answer
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article is reading heavily like an advert  Why is it hereIm guessing the writer has some sort of financial involvement with the SGP Isnt in London nothing to do with Imperial so just reads like an advertDec08    One other thing is that an online binsuess administration course is designed for students to be able to effortlessly proceed to bachelors degree education The 90 credit certification meets the other bachelor education requirements then when you earn your associate of arts in BA online youll have access to the modern technologies in such a field Some reasons why students would like to get their associate degree in binsuess is because they are interested in this area and want to have the general schooling necessary before jumping in to a bachelor education program Thanks for the tips you actually provide with your blogThats not just the best anrswe Its the bestest answer
-imported: true
 ---
 
 As summer has started and the festival season is well underway, the anticipation and excitement for my favorite small festival is reaching boiling point. With a host of new names recently added to the line up including Cherub, Natty Serafine Steer and Pete Molinari joining the likes of Regina Spektor, Soulwax, Django Django, Bastille and Youth Lagoon, make it a spectacular four-day event not to be missed. Exclusive SGP headliner Regina Spektor, who first played the garden back in 2005 says:

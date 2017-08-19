@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This week sees the start of a retrospective of Luis Buñuel, the radical Spanish filmmaker, at London’s ICA. We take a look at the director’s life and work, identifying the key themes at play in his films: sexuality, satire, and surrealism.
 date: "2015-11-20 09:16:21 +0000"
+
 # Attributes from Felix Online V1
 id: "5751"
 old_path: /film/5751/the-cinema-is-an-instrument-of-poetry
 aliases:
  - /film/5751/the-cinema-is-an-instrument-of-poetry
+imported: true
+comments:
+ - This piece of writing is genuinely a pleasant one it assists new web visitors who are wishing for bloggingnike air max zwart met tijgerprint httpwwwwebenconlnlnikeairmaxzwartmettijgerprint17525htmlnba 2k16 mt locker codes httpgrandiosenmixxtatnetworksblogpostteamloveteamlove54Your tips is amazingly intriguingnba 2k16 mt generator no survey httpwwwwoostergrapevinecomblogviewid_17182title_2k16mtgoodvideogamesthatcangivehoursExtremely individual friendly website Tremendous information offered on few clicks onmadden 17 news httpexplicittycomblogs8345056maddennfl17coinsandthethreepointshootoutDo the write thing essay examples httpwwwapplyonlineessaywritingcompaniesxyzthesisnetworkintrusiondetectionsystem  Thesis network intrusion detection system Resume for mba admission sample   Essay on gun control in canada httpwwwanycompanythatcanhelpothersindissertationxyzwritingpersonalresponseessay  Writing personal response
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This piece of writing is genuinely a pleasant one it assists new web visitors who are wishing for bloggingnike air max zwart met tijgerprint httpwwwwebenconlnlnikeairmaxzwartmettijgerprint17525htmlnba 2k16 mt locker codes httpgrandiosenmixxtatnetworksblogpostteamloveteamlove54Your tips is amazingly intriguingnba 2k16 mt generator no survey httpwwwwoostergrapevinecomblogviewid_17182title_2k16mtgoodvideogamesthatcangivehoursExtremely individual friendly website Tremendous information offered on few clicks onmadden 17 news httpexplicittycomblogs8345056maddennfl17coinsandthethreepointshootoutDo the write thing essay examples httpwwwapplyonlineessaywritingcompaniesxyzthesisnetworkintrusiondetectionsystem  Thesis network intrusion detection system Resume for mba admission sample   Essay on gun control in canada httpwwwanycompanythatcanhelpothersindissertationxyzwritingpersonalresponseessay  Writing personal response
-imported: true
 ---
 
 Luis Buñuel Portolés was a Spanish filmmaker who worked in Spain, Mexico, and France. Born in 1900, at the very beginning of the new century, he lived to witness two world wars, as well as the liberation of Spain from Francisco Franco’s 36-year-long dictatorship, before his death in 1983.

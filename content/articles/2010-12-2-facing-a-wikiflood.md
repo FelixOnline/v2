@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The memos released by Wikileaks are part of a wave of information. But what are we going to do with it? By George Wigmore
 date: "2010-12-02 21:18:14 +0000"
+
 # Attributes from Felix Online V1
 id: "490"
 old_path: /comment/490/facing-a-wikiflood
 aliases:
  - /comment/490/facing-a-wikiflood
+imported: true
+comments:
+ - Thanks for shranig Always good to find a real expertLOAVpn  gmipmeswjjcu
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- - Thanks for shranig Always good to find a real expertLOAVpn  gmipmeswjjcu
-imported: true
 ---
 
 So says Bradley Manning, the US soldier working as an intelligence analyst in Baghdad.

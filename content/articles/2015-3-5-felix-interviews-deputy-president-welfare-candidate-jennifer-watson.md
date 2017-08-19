@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:46:24 +0000"
+
 # Attributes from Felix Online V1
 id: "5346"
 old_path: /comment/5346/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
 aliases:
  - /comment/5346/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
+imported: true
+comments:
+ - I have been surfing online more than 2 hours today yet I never found any interesting article like yours Its pretty worth enough for me In my opinion if all webmasters and bloggers made good content as you did the net will be a lot more useful than ever beforeparajumpers yorkdale httpwwwtargettisportingclubititparajumpersyorkdale30002htmlbuy fitflop onlinefitflop australia httpaustraliafitflopsiemillernetdiscount fitflopsbuy fitflops httpaustraliafitflopsblogspotcomchristian louboutin cheapchristian louboutin sale clearance httpcanadachristianlouboutinblogspotcomJulian been recently a part of US youth National teams since he was 16 yearsold He played for that U17 national team that took part in turmoil Championships in Finland in 2003 Anf the was a participant of the U20 national team that played regarding fifa 16 hack U20 World Cup in 07 A fouryear starter for the Wake Forest Demon Deacons he captained the team to a national championship in two thousan
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I have been surfing online more than 2 hours today yet I never found any interesting article like yours Its pretty worth enough for me In my opinion if all webmasters and bloggers made good content as you did the net will be a lot more useful than ever beforeparajumpers yorkdale httpwwwtargettisportingclubititparajumpersyorkdale30002htmlbuy fitflop onlinefitflop australia httpaustraliafitflopsiemillernetdiscount fitflopsbuy fitflops httpaustraliafitflopsblogspotcomchristian louboutin cheapchristian louboutin sale clearance httpcanadachristianlouboutinblogspotcomJulian been recently a part of US youth National teams since he was 16 yearsold He played for that U17 national team that took part in turmoil Championships in Finland in 2003 Anf the was a participant of the U20 national team that played regarding fifa 16 hack U20 World Cup in 07 A fouryear starter for the Wake Forest Demon Deacons he captained the team to a national championship in two thousan
-imported: true
 ---
 
 __What made you run for this position?__

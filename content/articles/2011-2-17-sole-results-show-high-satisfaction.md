@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Results of the 2010 Autumn Student Online Evaluation (SOLE) survey released
 date: "2011-02-17 19:43:50 +0000"
+
 # Attributes from Felix Online V1
 id: "824"
 old_path: /news/824/sole-results-show-high-satisfaction
 aliases:
  - /news/824/sole-results-show-high-satisfaction
+imported: true
+comments:
+ - I took a language module this year and this is the best thing I have done for my brainhttpwwwindependentcouknewssciencespeakingasecondlanguagecandelaydementiaonsetforyears2219280html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I took a language module this year and this is the best thing I have done for my brainhttpwwwindependentcouknewssciencespeakingasecondlanguagecandelaydementiaonsetforyears2219280html
-imported: true
 ---
 
 The College has recently released results of the 2010 Autumn Student Online Evaluation (SOLE) survey aimed at measuring undergraduate students' opinions about the teaching in the first college term. The results of the survey are mainly positive, with overall satisfaction across the College for different aspects of lecture courses ranging from 84% to 92%. The proportion of students answering either “good” or “very good” saw a marked increase from 2009 for all the questions which had also been asked that year.

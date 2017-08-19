@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Puccini’s Turandot was “the end of the great tradition” of Italian opera. Ever popular, it is the grandest of them all, and yet it is deeply problematic. Set in a mythical China, at its simplest the tale concerns a Prince, Calaf, who wins the heart of the Princess of China, Turandot.
 date: "2014-02-21 03:18:27 +0000"
+
 # Attributes from Felix Online V1
 id: "4423"
 old_path: /arts/4423/turandot-finished-but-flawed
 aliases:
  - /arts/4423/turandot-finished-but-flawed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __What: __Turandot

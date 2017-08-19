@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Despite a strong performance from the central cast, Black Mass is little more than a competent crime drama
 date: "2015-12-06 14:14:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5800"
 old_path: /film/5800/black-mass-fails-to-light-a-fire
 aliases:
  - /film/5800/black-mass-fails-to-light-a-fire
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There's an episode of David Mitchell's brilliant YouTube series _Soapbox_ in which he talks about the problem with gangster movies: one great film about gangsters gets made in the seventies, he argues, and suddenly everyone thinks they can make three hour long dirges filled with smoky wood-finished rooms, hilariously thick swear-riddled accents, and overly masculine geriatric men droning on and on about who's next to get whacked. He blames _The Godfather_. It feels almost unfair to compare any film to _The Godfather_, except perhaps _The Godfather Part II_, but watching the Boston-set crime drama _Black Mass_, it's easy to see what Mitchell was on about.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Teeside 0:03 – 0:02 Imperial
 date: "2011-02-27 19:59:00 +0000"
+
 # Attributes from Felix Online V1
 id: "924"
 old_path: /sport/924/gaelic-footballers-fall-short-of-silverware
 aliases:
  - /sport/924/gaelic-footballers-fall-short-of-silverware
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Continuing on from Friday's report](http://felixonline.co.uk/sport/890/gaelic-sports-football-go-to-birmingham-/), IC Gaelic's next opponents at the BUCS Championship were Teeside.

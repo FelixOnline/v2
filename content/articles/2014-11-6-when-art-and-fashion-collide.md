@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An Exploration of the History of the Relationship Between Fine Art, Fashion, and Commerce by Fred Fyles
 date: "2014-11-06 21:34:01 +0000"
+
 # Attributes from Felix Online V1
 id: "4804"
 old_path: /arts/4804/when-art-and-fashion-collide
 aliases:
  - /arts/4804/when-art-and-fashion-collide
+imported: true
+comments:
+ - Great internet site It looks extremely expert Maintain the excellent worknba 2k16 mt australia httpchatalotcomblogsnba2k16vcwholelothighschoolbasketballgamersWhats up awesome online site you have got presentlynba 2k16 mt glitch httpgladyscorallivejournalcom902htmlSustain the helpful job and delivering in the crowdcsgo skins aud httpbkjydendkvanilladiscussion7083gainingedgewith2k16mtcoinsbettingLove the website extremely user friendly and lots to seenba 2k16 mt for sale xbox one httpssandytristawordpresscom20160418thebestwaytohavenba2k16coinsaninstantquideDesigned for httpwwwrolexreplicaacouk the Italian Navys underwater saboteurs in the 1930s Panerais Luminor resurfaced to httpwwwreplicaonlinesukorguk become THE band diving watch of the 1990s and onward Its httpwwwrolexsreplicasorguk angel saint Sylvester Stallone who wore them in a amount of httpwwwrolexnicesaleukcom his added blowing films The mo
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great internet site It looks extremely expert Maintain the excellent worknba 2k16 mt australia httpchatalotcomblogsnba2k16vcwholelothighschoolbasketballgamersWhats up awesome online site you have got presentlynba 2k16 mt glitch httpgladyscorallivejournalcom902htmlSustain the helpful job and delivering in the crowdcsgo skins aud httpbkjydendkvanilladiscussion7083gainingedgewith2k16mtcoinsbettingLove the website extremely user friendly and lots to seenba 2k16 mt for sale xbox one httpssandytristawordpresscom20160418thebestwaytohavenba2k16coinsaninstantquideDesigned for httpwwwrolexreplicaacouk the Italian Navys underwater saboteurs in the 1930s Panerais Luminor resurfaced to httpwwwreplicaonlinesukorguk become THE band diving watch of the 1990s and onward Its httpwwwrolexsreplicasorguk angel saint Sylvester Stallone who wore them in a amount of httpwwwrolexnicesaleukcom his added blowing films The mo
-imported: true
 ---
 
 2012 was a good year for Japanese artist Yayoi Kusama. With a career that spans more than six decades, and ranges from painting to performance art, her hard work was rewarded with not just one, but two retrospectives, held on either side of the Atlantic. The __Whitney Museum__ in New York City played host to a number of her polka-dotted creations, while the __Tate Modern__’s exhibition proved to be one of the highlights of that summer.

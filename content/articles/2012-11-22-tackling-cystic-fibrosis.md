@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ned Yoxall talks to Dr Jane Davies on new advances in CF treatment
 date: "2012-11-22 23:26:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2949"
 old_path: /science/2949/tackling-cystic-fibrosis
 aliases:
  - /science/2949/tackling-cystic-fibrosis
+imported: true
+comments:
+ - Hi LaurenAlthough I wrote the article I didnt choose the image so Im not entirely sure where its fromHowever Id say that the left hand picture is of a healthy lung and the right hand image is of a CF patients lung The extra white fluff that you can see on the right is because of the sticky dense mucus that has built up  and thats the stuff which traps bacteria and other nasties leading to lung infectionsHope that helpsNedI found the information interesting and usefull as I am currently doing an EEI in school about Gene Therapy for Cystic Fibrosis My only question is this what are the two xrays of and what are they ment to be comparing I cant find anything in or around the site picture that suggests what they are for If anyone knows please help it would help me and my asssignment so much
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi LaurenAlthough I wrote the article I didnt choose the image so Im not entirely sure where its fromHowever Id say that the left hand picture is of a healthy lung and the right hand image is of a CF patients lung The extra white fluff that you can see on the right is because of the sticky dense mucus that has built up  and thats the stuff which traps bacteria and other nasties leading to lung infectionsHope that helpsNedI found the information interesting and usefull as I am currently doing an EEI in school about Gene Therapy for Cystic Fibrosis My only question is this what are the two xrays of and what are they ment to be comparing I cant find anything in or around the site picture that suggests what they are for If anyone knows please help it would help me and my asssignment so much
-imported: true
 ---
 
 In June this year, the Cystic Fibrosis Gene Therapy Consortium started a ground breaking new trial looking at the effects of regularly dosing sufferers with gene therapy. Ned Yoxall speaks to Dr Jane Davies, the clinical lead investigator in London, to find out more.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Philip Roth's profoud novel tests our values
 date: "2016-12-16 15:03:18 +0000"
+
 # Attributes from Felix Online V1
 id: "6611"
 old_path: /arts/6611/every-mans-read-for-the-new-year
 aliases:
  - /arts/6611/every-mans-read-for-the-new-year
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I have always found myself inexplicably drawn to books about regret, lost opportunities, death, and dying. Perhaps there is something cathartic about reading of other people’s regrets, regrets that are disturbingly close to home yet safely ensconced in the realm of fiction. Perhaps it is the ritual of a young person trying to pre-empt and avoid the dark and looming future – as if reading about them will prevent me from falling into similar traps of life.

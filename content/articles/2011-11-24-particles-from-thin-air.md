@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Photons pulled out of vacuum thanks to quantum mechanics
 date: "2011-11-24 20:51:09 +0000"
+
 # Attributes from Felix Online V1
 id: "1808"
 old_path: /science/1808/particles-from-thin-air
 aliases:
  - /science/1808/particles-from-thin-air
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 40 years ago, physicists Hendrik Casimir and Dirk Polder, proposed that empty space wasn’t really empty. This may seem counterintuitive, but the answer lies in quantum mechanics. Quantum mechanics tells us is that a vacuum cannot have zero energy. It is actually a sea of virtual particles, usually photons, which exist for infinitesimal amounts of time and cannot be observed on the scale at which we live.

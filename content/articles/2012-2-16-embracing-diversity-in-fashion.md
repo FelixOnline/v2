@@ -4,16 +4,24 @@ title: >
 subtitle: >
   MAI and Alice Yang interview fashion’s top activist and All Walks founder Caryn Franklin
 date: "2012-02-16 21:39:22 +0000"
+
 # Attributes from Felix Online V1
 id: "2193"
 old_path: /fashion/2193/embracing-diversity-in-fashion
 aliases:
  - /fashion/2193/embracing-diversity-in-fashion
+imported: true
+comments:
+ - Hi Randy  Thanks so much for your comments and I agree with you I almost wrote a paragraph on just this citing both Michael Moore and Rush Limbaugh but in the interest in keeping the post readable length I didnt The Left is as guilty as the Right in fanning the flames of labeling each other and I cringe sometimes at what my peeps are saying although Im guilty at times of enjoying onesided views that mirror mine at times and Im trying to look at this reaction too and learn from it But Im not saying its wrong in any way whatsoever to defend your convictions in fact I say the opposite to listen to people with the intention of truly understanding what theyre saying and here is where Im thinking of people at the extreme right and extreme left and all over the middle One thing thats essential for true dialogue is to listen to each other without the intention of ImrightandIwillconvinceyou all the time but inst
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Hi Randy  Thanks so much for your comments and I agree with you I almost wrote a paragraph on just this citing both Michael Moore and Rush Limbaugh but in the interest in keeping the post readable length I didnt The Left is as guilty as the Right in fanning the flames of labeling each other and I cringe sometimes at what my peeps are saying although Im guilty at times of enjoying onesided views that mirror mine at times and Im trying to look at this reaction too and learn from it But Im not saying its wrong in any way whatsoever to defend your convictions in fact I say the opposite to listen to people with the intention of truly understanding what theyre saying and here is where Im thinking of people at the extreme right and extreme left and all over the middle One thing thats essential for true dialogue is to listen to each other without the intention of ImrightandIwillconvinceyou all the time but inst
-imported: true
 ---
 
 A fashion industry expert for over 30 years having co-edited i-D magazine, renowned for its rebellion to conventional views towards art, fashion and music, and presented BBC’s The Clothes Show for over a decade, Caryn Franklin is anything but your ordinary fashion journalist. With no less than four books under her name as well as a range of charitable commitments including Fashion Targets Breast Cancer, and the recently launched All Walks Beyond The Catwalk campaign, Caryn Franklin is an activist, not just in fashion but in regard to the general racial, size and age discrimination that exists in the modern world.

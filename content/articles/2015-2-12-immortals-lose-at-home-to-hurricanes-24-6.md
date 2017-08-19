@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sam Hill recaps the most recent game of American Football
 date: "2015-02-12 23:03:30 +0000"
+
 # Attributes from Felix Online V1
 id: "5247"
 old_path: /sport/5247/immortals-lose-at-home-to-hurricanes-24-6
 aliases:
  - /sport/5247/immortals-lose-at-home-to-hurricanes-24-6
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Sunday 8th February saw the Imperial Immortals clash with the Hertfordshire Hurricanes at Fortress Harlington.

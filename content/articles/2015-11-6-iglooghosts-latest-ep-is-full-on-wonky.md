@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Like the worm in a witch hat on its cover, Chinese Nü Yr will wiggle its way into your heart
 date: "2015-11-06 14:19:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5711"
 old_path: /music/5711/iglooghosts-latest-ep-is-full-on-wonky
 aliases:
  - /music/5711/iglooghosts-latest-ep-is-full-on-wonky
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Iglooghost is the latest signing to Flying Lotus’ Brainfeeder imprint, and the influence he’s had on the 18-year old producer is immediately noticeable in his latest EP, Chinese Nü Yr. The concept EP tells the story of a gelatinous worm-like creature as it travels through endless wormholes to pink worlds consisting only of cartoonish floating fruit.

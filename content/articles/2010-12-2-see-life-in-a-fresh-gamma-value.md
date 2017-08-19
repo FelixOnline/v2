@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A treatise on gaming and life
 date: "2010-12-02 20:22:38 +0000"
+
 # Attributes from Felix Online V1
 id: "469"
 old_path: /games/469/see-life-in-a-fresh-gamma-value
 aliases:
  - /games/469/see-life-in-a-fresh-gamma-value
+imported: true
+comments:
+ - AKAIK youve got the asenwr in one
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ac1507
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - AKAIK youve got the asenwr in one
-imported: true
 ---
 
 Power: I’m not used to it. My last laptop was not a gaming powerhouse; it struggled to run even modest stuff smoothly. Like Solitaire, say. Or Word.

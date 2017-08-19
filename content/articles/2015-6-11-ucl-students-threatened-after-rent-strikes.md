@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson on the university's reaction to accommodation issues
 date: "2015-06-11 22:12:27 +0100"
+
 # Attributes from Felix Online V1
 id: "5610"
 old_path: /news/5610/ucl-students-threatened-after-rent-strikes
 aliases:
  - /news/5610/ucl-students-threatened-after-rent-strikes
+imported: true
+comments:
+ - My sympathy dried up completely with I cant evenwatch television I hope Oxfam is doing something for these poor deprived studentsSpoilt lefty tossers get their jimmies rustled LOLDo you mind if I quote a couple of your articles as long as I provide credit and sources back to your weblog My blog site is in the very same niche as yours and my users would genuinely benefit from some of the information you provide here Please let me know if this ok with you Thanksugg uk store covent garden grill httpwwwcardmachinesolutionscoukukuggukstorecoventgardengrill6810html
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My sympathy dried up completely with I cant evenwatch television I hope Oxfam is doing something for these poor deprived studentsSpoilt lefty tossers get their jimmies rustled LOLDo you mind if I quote a couple of your articles as long as I provide credit and sources back to your weblog My blog site is in the very same niche as yours and my users would genuinely benefit from some of the information you provide here Please let me know if this ok with you Thanksugg uk store covent garden grill httpwwwcardmachinesolutionscoukukuggukstorecoventgardengrill6810html
-imported: true
 ---
 
 Students living in accommodation run by University College London (UCL) have been threatened by the university with serious repercussions after withholding rent due to allegedly ‘unliveable’ conditions in their halls.

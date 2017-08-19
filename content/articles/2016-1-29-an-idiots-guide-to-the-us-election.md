@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Primary? Caucus? Superdelegate? What does it all mean?
 date: "2016-01-29 09:07:51 +0000"
+
 # Attributes from Felix Online V1
 id: "5842"
 old_path: /features/5842/an-idiots-guide-to-the-us-election
 aliases:
  - /features/5842/an-idiots-guide-to-the-us-election
+imported: true
+comments:
+ - Not much of a choice a mad lady with rabies or the rabid dog who bit her Not to worry we have a prime minister who thought it was clever to do weird things with a pigs headYou gotta laughThanks meant for supplying these kinds of wonderful articlesnba 2k16 mt glitch november httpmavisameliersimplesitecomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Inde
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Not much of a choice a mad lady with rabies or the rabid dog who bit her Not to worry we have a prime minister who thought it was clever to do weird things with a pigs headYou gotta laughThanks meant for supplying these kinds of wonderful articlesnba 2k16 mt glitch november httpmavisameliersimplesitecomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Inde
-imported: true
 ---
 
 The United States Presidential election. The  $6 billion race for the White House. The battle between Democrats and Republicans, Donkeys versus Elephants. Like an Olympics for politicians, it happens every four years and has the potential to shape world economics and policy until the next one.

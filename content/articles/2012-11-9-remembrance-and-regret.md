@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Remembrance day is increasingly going against its original meaning, argues Angry Geek
 date: "2012-11-09 11:50:24 +0000"
+
 # Attributes from Felix Online V1
 id: "2841"
 old_path: /comment/2841/remembrance-and-regret
 aliases:
  - /comment/2841/remembrance-and-regret
+imported: true
+comments:
+ - Well buddy youve given me over half a decade of laughter and insight and I figured Id eventually have to disagree with you on something and irritatingly I still dont disagree that badly I primarily wear a poppy because I have family ties to the military and I would feel like a bit of a dick otherwise I would wear a white poppy BUT 1I lose poppies frequently and I cannot be arsed to keep painting them and 2The red of the poppy coordinates very nicely with my new vans I agree with the eloquent gentleman above except you cant buy white poppies anymore perhaps he should do some research himself that your article was perhaps a bit wonkily written and you seem to be illadvisedly going offonone at dead service personal of recent conflicts more than is entirely necessaryHowever I agree with the overall sentiment that poppy appeal has lost its way and has become more promilitary as opposed to being about remembrance I call it the Help For Heroes effect In conclusion I draw a parallel
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well buddy youve given me over half a decade of laughter and insight and I figured Id eventually have to disagree with you on something and irritatingly I still dont disagree that badly I primarily wear a poppy because I have family ties to the military and I would feel like a bit of a dick otherwise I would wear a white poppy BUT 1I lose poppies frequently and I cannot be arsed to keep painting them and 2The red of the poppy coordinates very nicely with my new vans I agree with the eloquent gentleman above except you cant buy white poppies anymore perhaps he should do some research himself that your article was perhaps a bit wonkily written and you seem to be illadvisedly going offonone at dead service personal of recent conflicts more than is entirely necessaryHowever I agree with the overall sentiment that poppy appeal has lost its way and has become more promilitary as opposed to being about remembrance I call it the Help For Heroes effect In conclusion I draw a parallel
-imported: true
 ---
 
 You’d think that ‘anti-war’ would be a pretty easy position to present, wouldn’t you? When you think of things that we name Horsemen of the Apocalypse after, it’s not exactly a list of things that split opinion. There is no pro-Pestilence lobby. There is no Society for the Advancement of Famine. Famine especially, Famine’s a right dick. Keeps enough food around to keep an undead horse running for all eternity, and then goes around taking away everyone else’s dinner? That’s the sort of thing that makes it hard to run Horseman PR effectively.

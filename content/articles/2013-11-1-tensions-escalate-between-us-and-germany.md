@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kartikeya Rana analyses the implications of US foreign policy
 date: "2013-11-01 09:29:06 +0000"
+
 # Attributes from Felix Online V1
 id: "3970"
 old_path: /politics/3970/tensions-escalate-between-us-and-germany
 aliases:
  - /politics/3970/tensions-escalate-between-us-and-germany
+imported: true
+comments:
+ - Hey danteWell what is legal for a country to do is dependant upon their own constitution Perhaps spying is seen legitimate for the sake of national security within its own country but where do you draw the line I believe spying on the phone calls of world leaders is perhaps a step too far and am glad that these leaks took place Atleast America has to think twice before it goes on wiretapping its close allies and do a better costbenefit analysis than it did in this case I also am quite optimistic about the future as the information age allows us to put our politicians under greater scrutiny The only thing i feel we have to realise is that most of the websites we use are based in the US and all data passing through the US can be looked at by their government National security is one thing but perhaps a greater scrutiny of the internet might be more important without a loss in freedom of expression somehow i guess KartikIts sad because even with plenty proof and being shown to have acted
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hey danteWell what is legal for a country to do is dependant upon their own constitution Perhaps spying is seen legitimate for the sake of national security within its own country but where do you draw the line I believe spying on the phone calls of world leaders is perhaps a step too far and am glad that these leaks took place Atleast America has to think twice before it goes on wiretapping its close allies and do a better costbenefit analysis than it did in this case I also am quite optimistic about the future as the information age allows us to put our politicians under greater scrutiny The only thing i feel we have to realise is that most of the websites we use are based in the US and all data passing through the US can be looked at by their government National security is one thing but perhaps a greater scrutiny of the internet might be more important without a loss in freedom of expression somehow i guess KartikIts sad because even with plenty proof and being shown to have acted
-imported: true
 ---
 
 NSA whistleblower, Edward Snowden, has recently leaked documents stating that the US has been monitoring phone calls of Angela Merkel and other European leaders. According to a German newspaper, Der Spiegel, the US has been monitoring Angela Merkel’s phone since 2002. Such operations are said to be carried out by the US in 80 destinations around the world including Brazil, Mexico and France. This has resulted in growing anti American sentiment in these countries.

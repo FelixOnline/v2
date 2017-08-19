@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Survey show majority of Imperial students would be discouraged from university by £10,000 tuition fees
 date: "2010-11-26 07:13:21 +0000"
+
 # Attributes from Felix Online V1
 id: "447"
 old_path: /news/447/discouraged-by-higher-fees-
 aliases:
  - /news/447/discouraged-by-higher-fees-
+imported: true
+comments:
+ - Must say would have thought after this survey the Union should change its stance and start officially joining the protestYes  but Kendal is rather right wing for a studentThe position of union president has plenty of responsibilities  but the political opinions dont necessarily represent the student body A counterpoint to this may be the NUS which is arguably to the left of the students it represents Id still quite like it if the Union officially supported it but Ive got too much work to get too riled up about it The questions being asked are biased towards a rejection of the Browne review proposals ie Do you want more debt will inevitable lead to a No response Wider considerations must be taken into account such as whether taxpayers agree that subsidising every degree is economically sustainable when the UK has such a vast deficit and almost 1 trillion national debt and when there has been a dilution in the academic standard of degrees with the massive proliferation in c
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
- - Must say would have thought after this survey the Union should change its stance and start officially joining the protestYes  but Kendal is rather right wing for a studentThe position of union president has plenty of responsibilities  but the political opinions dont necessarily represent the student body A counterpoint to this may be the NUS which is arguably to the left of the students it represents Id still quite like it if the Union officially supported it but Ive got too much work to get too riled up about it The questions being asked are biased towards a rejection of the Browne review proposals ie Do you want more debt will inevitable lead to a No response Wider considerations must be taken into account such as whether taxpayers agree that subsidising every degree is economically sustainable when the UK has such a vast deficit and almost 1 trillion national debt and when there has been a dilution in the academic standard of degrees with the massive proliferation in c
-imported: true
 ---
 
 With [protests](http://www.felixonline.co.uk/?article=452) going on up and down the country, there is a great deal of anger about the government’s plans for higher education. Almost all of us will be leaving university with some debt, however this debt did not deter us from coming to Imperial in the first place. However a Union survey has shown that Imperial students are just as concerned by debt and rising fees as other students in the U.K. In light of the Union’s support for the Browne Review and the government’s proposals, is it [being truly representative](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html) of the majority of Imperial students?

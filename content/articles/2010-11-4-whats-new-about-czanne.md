@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It’s more than 100 years since Cézanne, one of the great French post-impressionist painters died, so how much more is there to say? Find out at the Courtauld Gallery
 date: "2010-11-04 18:05:48 +0000"
+
 # Attributes from Felix Online V1
 id: "290"
 old_path: /arts/290/whats-new-about-czanne
 aliases:
  - /arts/290/whats-new-about-czanne
+imported: true
+comments:
+ - Its a cool idea isnt it There are a lot of exhibitions and small muusems which I would love to go to but the price has previously put me off with trainfare and food for the day the price of a day out can really add up these discounts are going to make soaking up some culture so much more affordable
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
- - Its a cool idea isnt it There are a lot of exhibitions and small muusems which I would love to go to but the price has previously put me off with trainfare and food for the day the price of a day out can really add up these discounts are going to make soaking up some culture so much more affordable
-imported: true
 ---
 
 Best known for his instantly recognisable still lifes, [the Courtauld’s latest exhibition](http://www.courtauld.ac.uk/gallery/exhibitions/2010/cezanne/events.shtml) instead focuses on Cézanne’s depictions of people at play. His models were peasant farmers from his own estate, about whom the exhibition provides some intriguing snippets of information. They are pictured smoking and playing card games together, but Cézanne endows them with a gravity and concentration of purpose totally unlike the depictions of the ‘immoral’ behaviours of peasants usual at this time (a second room houses many examples of such works from the 16th and 17th centuries). Cézanne himself said, “I love above all else the appearance of people who have grown old without breaking with old customs”. His rough brush stokes and strong lines lend the peasants a rugged, stoic air and there is a stillness similar to that of his still lifes suggesting the timelessness of the scene. The mix of colours blended carefully to make each block of colour are beautiful, although the compositions sometimes appear a little off balance.

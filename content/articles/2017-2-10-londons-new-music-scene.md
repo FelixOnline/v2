@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tired of the same old songs, or just like listening to live music? The new music scene in London is vibrant and flourishing, beginning with the Roundhouse Rising Festival next week.
 date: "2017-02-10 15:23:13 +0000"
+
 # Attributes from Felix Online V1
 id: "6762"
 old_path: /music/6762/londons-new-music-scene-
 aliases:
  - /music/6762/londons-new-music-scene-
+imported: true
+comments:
+ - This is great Ill immediately grab yourr rsss feeed as I ccan not too find our email subscrription lik orr newsleter serviceDo youu hae any  Kindoy allow mee understtand iin order that I maay subscribeThanks  Its perfct tome to make somee plans for thhe future andd iit is tie tto bee happy I hve rea tnis post annd if I could I want to suggeat you skme ineresting tuings or suggestions Perthaps you couldd writte next artticles refedrring to thius articleI wwish tto rdad mlre thints aboutt it  Ill mmediately seize yourr rss as I caan nott tto fihd yourr email subscription liink orr nesletter serviceDo youve any  Kindl permit mee understand soo that I may subscribe Thanks httpCspancouk
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is great Ill immediately grab yourr rsss feeed as I ccan not too find our email subscrription lik orr newsleter serviceDo youu hae any  Kindoy allow mee understtand iin order that I maay subscribeThanks  Its perfct tome to make somee plans for thhe future andd iit is tie tto bee happy I hve rea tnis post annd if I could I want to suggeat you skme ineresting tuings or suggestions Perthaps you couldd writte next artticles refedrring to thius articleI wwish tto rdad mlre thints aboutt it  Ill mmediately seize yourr rss as I caan nott tto fihd yourr email subscription liink orr nesletter serviceDo youve any  Kindl permit mee understand soo that I may subscribe Thanks httpCspancouk
-imported: true
 ---
 
 Part of the allure of moving to London for music lovers is the incredible access to up and coming artists. Many times while living here, I’ve high-fived myself for gaining hipster points after discovering artists who’ve yet to break into the charts. Vanity aside, the ease with which Londoners can listen to new sounds and find quality acts is exciting and inspiring.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial pull back from an unpromising start
 date: "2011-02-27 20:00:45 +0000"
+
 # Attributes from Felix Online V1
 id: "925"
 old_path: /sport/925/hockey-imperial-mens-draw-with-guys-kings
 aliases:
  - /sport/925/hockey-imperial-mens-draw-with-guys-kings
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The day after the bottle match and at 9:30, Captain yogi was down to 7 players with 4 injuries from the day before. Calling in all the favours, IC managed to scratch 10 together to line up against GKT in the ULU Prem. Division – which IC 1sts can neither win nor lose at this stage in the season.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pietro Aronica on “My Restraint” with foreword by Jeremy Pac-man
 date: "2013-01-18 00:48:46 +0000"
+
 # Attributes from Felix Online V1
 id: "3142"
 old_path: /games/3142/steam-sales-pseudo-soliloquy
 aliases:
  - /games/3142/steam-sales-pseudo-soliloquy
+imported: true
+comments:
+ - INSPECTOR CLOUSEAU
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - INSPECTOR CLOUSEAU
-imported: true
 ---
 
 If you are a student at Imperial College, then there is a reasonable chance that you play video games, possibly on a PC. If you do, then you’ll most likely be familiar with Steam, but if not, let me sum it up for you: it’s like a vacuum cleaner for money. Specifically, my money, and the money of thousands of others who would never think to play certain titles if they weren’t sold at extremely slashed prices. Steam is a program for the digital distribution of games that will often pop up with offers and sales and whatnot for titles that look interesting and cost half, a quarter, a tenth of their original price. Might as well, right? Twenty might-as-wells later, you have a full library of games, full afternoons and evenings from here till the next Steam sale, and a much emptier wallet.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The future of Plant Sciences at Imperial is under threat as Life Sciences department seeks to plug £1.5m hole in finances
 date: "2010-10-07 21:51:02 +0100"
+
 # Attributes from Felix Online V1
 id: "171"
 old_path: /news/171/planned-restructure-of-debt-laden-department-angers-students
 aliases:
  - /news/171/planned-restructure-of-debt-laden-department-angers-students
+imported: true
+comments:
+ - They are getting rid of several key members of teaching staff which is going to be bad for both student teaching and moral Im sure Im not the only person whos ever cried in Simon Archers office The Applied Molecular Biology course has lost Bart Feyes who gave half of the lectures with Pietro Spanu giving the other half Mike Tristem is the only lecturer left on the Virology course so he will presumably have to teach the entire course himself in fact he is now the only virologist in the biology department Mycology and Plant Pathology has lost all of its lecturers I believe I imagine that Animal and Plant Physiology will be missing a fair few lecturers too These are all just second year courses so once you get on to the more specialised final year courses it gets even worse not to mention the big gaps in the first year timetable that will have to be filled According to the 0910 syllabus we offer a Plant Biology degree  what courses will those enrolled be able to takeIn addition to my last c
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - They are getting rid of several key members of teaching staff which is going to be bad for both student teaching and moral Im sure Im not the only person whos ever cried in Simon Archers office The Applied Molecular Biology course has lost Bart Feyes who gave half of the lectures with Pietro Spanu giving the other half Mike Tristem is the only lecturer left on the Virology course so he will presumably have to teach the entire course himself in fact he is now the only virologist in the biology department Mycology and Plant Pathology has lost all of its lecturers I believe I imagine that Animal and Plant Physiology will be missing a fair few lecturers too These are all just second year courses so once you get on to the more specialised final year courses it gets even worse not to mention the big gaps in the first year timetable that will have to be filled According to the 0910 syllabus we offer a Plant Biology degree  what courses will those enrolled be able to takeIn addition to my last c
-imported: true
 ---
 
 A bitter row between the Union and the Department of Life Sciences has erupted over what Union President Alex Kendall terms as the “deletion of Plant Sciences” from Imperial. The re-structure of the Life Sciences department, aimed at plugging a £1.5 million hole in the department’s finances, has provoked a series of controversial accusations from the Union including claims that the Department has “severely misused” its statistics.

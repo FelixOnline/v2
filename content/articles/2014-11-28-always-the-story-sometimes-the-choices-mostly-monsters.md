@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sanchit Sharma reviews a humble bundle purchase he actually plays
 date: "2014-11-28 01:08:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4977"
 old_path: /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
 aliases:
  - /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
+imported: true
+comments:
+ - Brazil the king of World Cup will stop in group G with Korea DPR Ivory Coast and Portugal Similarly the answering services company manager cannot spend to much time poring over data of yesteryearsfifa 16 hack httpcreditsfutcomThanks alot  your answer solved all my problems after several days stnuiglgrg
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Brazil the king of World Cup will stop in group G with Korea DPR Ivory Coast and Portugal Similarly the answering services company manager cannot spend to much time poring over data of yesteryearsfifa 16 hack httpcreditsfutcomThanks alot  your answer solved all my problems after several days stnuiglgrg
-imported: true
 ---
 
 Always Sometimes Monsters is an indie game by Vagabond Dog and Devolver Digital. The first time you load it up, you’ll see a tiny (560x454) window with the game logo and 3 buttons – New Game, Credits, and Quit. Yeah, no options. This is a pretty simple game. You can adjust the window by pressing F6 or F7, which make the window bigger and fullscreen respectively. If it didn’t have those options, the size of the window would make Always Sometimes Monsters pretty much unplayable.

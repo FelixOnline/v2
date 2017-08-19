@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Samuel Bodansky argues that the libertarian world view is neither realistic nor economically viable
 date: "2014-12-11 20:09:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5025"
 old_path: /comment/5025/the-economics-column-government-taxation-under-the-microscope
 aliases:
  - /comment/5025/the-economics-column-government-taxation-under-the-microscope
+imported: true
+comments:
+ - mont blanc meisterstuck fountain pens montblanc 144 meisterst1ck classique konverterf1llfederhalter 144 vintage montblanc pens for sale michael kors kempton small tote bag cheap authentic ugg boots etta ugg boots ugg boots near me cheapest michael kors handbags michael kors iphone 5 cases michael kors leather jacket michael kors suede boots mont blanc fountain pen stand mont blanc rollerball refill substitute old mont blanc ballpoint pen where to buy montblanc pens michael kors clutch handbags cheap mens ugg boots australia nordstrom uggs all michael kors bags michael kors outlet online storetom brady uggs httpwwwftybescriptidtombradyuggsi20062phpmont blanc pen repair centers mont blanc pens parts montblanc starwalker ballpoint refill michael kors handbags belk outlet michael kors online how are ugg boots made price of ugg boots in new york uggs outlet store online michael kors hamilton saffiano leather satchel michael kors rain boots cheap montblanc pens for s
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mont blanc meisterstuck fountain pens montblanc 144 meisterst1ck classique konverterf1llfederhalter 144 vintage montblanc pens for sale michael kors kempton small tote bag cheap authentic ugg boots etta ugg boots ugg boots near me cheapest michael kors handbags michael kors iphone 5 cases michael kors leather jacket michael kors suede boots mont blanc fountain pen stand mont blanc rollerball refill substitute old mont blanc ballpoint pen where to buy montblanc pens michael kors clutch handbags cheap mens ugg boots australia nordstrom uggs all michael kors bags michael kors outlet online storetom brady uggs httpwwwftybescriptidtombradyuggsi20062phpmont blanc pen repair centers mont blanc pens parts montblanc starwalker ballpoint refill michael kors handbags belk outlet michael kors online how are ugg boots made price of ugg boots in new york uggs outlet store online michael kors hamilton saffiano leather satchel michael kors rain boots cheap montblanc pens for s
-imported: true
 ---
 
 When asked about the suggestion that he would keep the flame of Thatcher alive, UKIP leader Nigel Farage said that the Iron Lady was right to reduce the size of the government. Farage is the “turkey who would vote for Christmas”, and is keen to downsize the public sector.

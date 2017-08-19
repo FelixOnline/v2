@@ -4,16 +4,23 @@ title: >
 subtitle: >
   University of London Society of Change Ringers, ring a bell?
 date: "2013-10-13 00:05:50 +0100"
+
 # Attributes from Felix Online V1
 id: "3875"
 old_path: /features/3875/oranges-and-lemons-say-the-bells-of-st-clements
 aliases:
  - /features/3875/oranges-and-lemons-say-the-bells-of-st-clements
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 You find yourself in the library; you have an exam/deadline tomorrow that has made your stress levels reach a new high. Hyped up on pro plus and red bull, a heavenly chorus drifts in from Queens Tower and the melodic chiming of the bells makes everything seem alright… Who am I kidding? Anybody with Facebook or Twitter is accustomed to the tirade of complaints about ‘noise pollution’ and their suddenly sensitive ears. But ever wondered what is really going on up there? What is change ringing and who are the mythical bell ringers?

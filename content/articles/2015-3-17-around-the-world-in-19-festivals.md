@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah brings you the best festivals in the world
 date: "2015-03-17 18:14:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5400"
 old_path: /travel/5400/around-the-world-in-19-festivals
 aliases:
  - /travel/5400/around-the-world-in-19-festivals
+imported: true
+comments:
+ - httponlinediflucanfluconazolenet  Candida Get Worse On Fluconazole Propecia Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Buy Fluconazole Online Pharmacy Tramadol httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Online Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan For Toe Nail Fungus Online Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Without Prescription Tadalafil Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Without A Prescription Canadian Pharmacy Online Drugstore httplasixwithoutprescriptionfurosemidenetTruly this is a valuable online sitecs go skins duplication 2016 httpwwwirakyatmyblogs122710613counterstrikeskinsacrosstheroofingandmistwaterWow attractive portal Thnx cs go skins discount
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ync111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "shadowcheah"
 author_facebook: ""
 author_website_url: "http://www.laughtraveleat.com"
 author_website_title: "Laugh Travel Eat"
-
-comments:
- - httponlinediflucanfluconazolenet  Candida Get Worse On Fluconazole Propecia Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Buy Fluconazole Online Pharmacy Tramadol httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Online Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan For Toe Nail Fungus Online Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Without Prescription Tadalafil Pharmacy httplasixwithoutprescriptionfurosemidenethttponlinediflucanfluconazolenet  Diflucan Without A Prescription Canadian Pharmacy Online Drugstore httplasixwithoutprescriptionfurosemidenetTruly this is a valuable online sitecs go skins duplication 2016 httpwwwirakyatmyblogs122710613counterstrikeskinsacrosstheroofingandmistwaterWow attractive portal Thnx cs go skins discount
-imported: true
 ---
 
 Travel is the only thing you can buy that would make you richer – there’s no denying that visiting a place in person brings history to live in a way that words never can.

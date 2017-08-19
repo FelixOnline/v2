@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The College’s plans for undergraduate accommodation in North Acton are ill-thought-out and must be opposed
 date: "2013-02-22 01:37:27 +0000"
+
 # Attributes from Felix Online V1
 id: "3363"
 old_path: /comment/3363/action-against-acton
 aliases:
  - /comment/3363/action-against-acton
+imported: true
+comments:
+ - Will the university ever listen to the students Will Beaumont succeed where those before him have failed
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Will the university ever listen to the students Will Beaumont succeed where those before him have failed
-imported: true
 ---
 
 What’s the point of widening participation and encouraging the brightest minds to apply to Imperial – if they’re then not going to be able to afford to come. Or worse, can *just* afford to come but get placed in a[ hall in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/)?

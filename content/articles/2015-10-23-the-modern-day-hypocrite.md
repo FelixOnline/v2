@@ -4,16 +4,24 @@ title: >
 subtitle: >
   There's hypocrisy hidden inside us all, but try to keep it in check
 date: "2015-10-23 11:51:58 +0100"
+
 # Attributes from Felix Online V1
 id: "5676"
 old_path: /comment/5676/the-modern-day-hypocrite
 aliases:
  - /comment/5676/the-modern-day-hypocrite
+imported: true
+comments:
+ - Hi Someone in my Facebook group shared this website with us so I came to check it out Im definitely loving the information Im bookmarking and will be tweeting this to my followers Wonderful blog and outstanding style and designnike air rood dames httpwwwn11nlnlnikeairrooddames16212htmlHello there This post could not be written any better Reading through this post reminds me of my old room mate He always kept chatting about this I will forward this writeup to him Pretty sure he will have a good read Thank you for sharingprijs moncler trui httpwwwmymotionnlnlprijsmonclertrui10204htmlMany thanks extremely helpful Will certainly share site with my friendsnba 2k16 mt glitch december httpblogbizesocomBlogDetailaspxbiddac30c564d2c4870a305805d5f31b405httpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi Someone in my Facebook group shared this website with us so I came to check it out Im definitely loving the information Im bookmarking and will be tweeting this to my followers Wonderful blog and outstanding style and designnike air rood dames httpwwwn11nlnlnikeairrooddames16212htmlHello there This post could not be written any better Reading through this post reminds me of my old room mate He always kept chatting about this I will forward this writeup to him Pretty sure he will have a good read Thank you for sharingprijs moncler trui httpwwwmymotionnlnlprijsmonclertrui10204htmlMany thanks extremely helpful Will certainly share site with my friendsnba 2k16 mt glitch december httpblogbizesocomBlogDetailaspxbiddac30c564d2c4870a305805d5f31b405httpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5
-imported: true
 ---
 
 The inner hypocrite has been lurking within you for some time. Occasionally it appears in its most obvious form, whereby said hypocrite exclaims, “I don’t watch trash TV,” and then binge watches 20 episodes of Keeping up with the Kardashians. Of course, “I only watched it to see what all the fuss was about”. Sadly, not fooling anyone. However, generally speaking a hypocrite can take many forms.

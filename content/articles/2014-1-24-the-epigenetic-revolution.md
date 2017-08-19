@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Keir Little on research that redefines our knowledge of inheritance
 date: "2014-01-24 09:57:27 +0000"
+
 # Attributes from Felix Online V1
 id: "4287"
 old_path: /science/4287/the-epigenetic-revolution
 aliases:
  - /science/4287/the-epigenetic-revolution
+imported: true
+comments:
+ - But the HGP did indeed keep its promise of providing a mostly complete reference genomeAny wild predictions above that from overeager futurologists can and should be dismissed as mere speculation
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - But the HGP did indeed keep its promise of providing a mostly complete reference genomeAny wild predictions above that from overeager futurologists can and should be dismissed as mere speculation
-imported: true
 ---
 
 The completion of the Human Genome Project in April 2003 was a milestone in science. Ten years on, however, Bill Clinton’s prediction that it would “revolutionise the diagnosis, prevention and treatment of most, if not all, human diseases” is far from the truth. For all the project’s contributions to biology, little of this has translated into promised “personal medicine” treatments.

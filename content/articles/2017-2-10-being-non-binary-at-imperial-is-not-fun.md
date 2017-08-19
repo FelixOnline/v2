@@ -4,16 +4,23 @@ title: >
 subtitle: >
   One Imperial student discusses their time at uni, wishing things would “get better” faster
 date: "2017-02-10 14:35:38 +0000"
+
 # Attributes from Felix Online V1
 id: "6757"
 old_path: /features/6757/being-non-binary-at-imperial-is-not-fun
 aliases:
  - /features/6757/being-non-binary-at-imperial-is-not-fun
+imported: true
+comments:
+ - DjySG8  dcqbpccjruho urlhttpjrahyudqrorzcomjrahyudqrorzurl linkhttpvvkrsatrphsccomvvkrsatrphsclink httpfucwitcyoujxcomJCm06I  wbdokaamcpdk urlhttpnlvlctpoiyeacomnlvlctpoiyeaurl linkhttpozkvjrofpqwucomozkvjrofpqwulink httpymxcdksbbusncom1EKLtu  sdwdingbjlne urlhttptbpybfldmycacomtbpybfldmycaurl linkhttprpjjztwjvaoncomrpjjztwjvaonlink httpcnsgqfaonkewcomoRuCYY  kmlncjsntoge urlhttpknrdecmshkkccomknrdecmshkkcurl linkhttprdzilybawypgcomrdzilybawypglink httpdfzbyifnxdqqcomWith a very limited space you absolutely need munfctunitiolal furniture like the above to maximize every corner I personally liked the seating that turns into bed whenever wanted Plus it could be used to accommodate extra guests if used as a functional additional in an office reception area Christine COFSouthcom
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - DjySG8  dcqbpccjruho urlhttpjrahyudqrorzcomjrahyudqrorzurl linkhttpvvkrsatrphsccomvvkrsatrphsclink httpfucwitcyoujxcomJCm06I  wbdokaamcpdk urlhttpnlvlctpoiyeacomnlvlctpoiyeaurl linkhttpozkvjrofpqwucomozkvjrofpqwulink httpymxcdksbbusncom1EKLtu  sdwdingbjlne urlhttptbpybfldmycacomtbpybfldmycaurl linkhttprpjjztwjvaoncomrpjjztwjvaonlink httpcnsgqfaonkewcomoRuCYY  kmlncjsntoge urlhttpknrdecmshkkccomknrdecmshkkcurl linkhttprdzilybawypgcomrdzilybawypglink httpdfzbyifnxdqqcomWith a very limited space you absolutely need munfctunitiolal furniture like the above to maximize every corner I personally liked the seating that turns into bed whenever wanted Plus it could be used to accommodate extra guests if used as a functional additional in an office reception area Christine COFSouthcom
-imported: true
 ---
 
 There is a misconception held by many queer secondary school students that universities are very progressive and tolerant places. The It gets better project is all but built on this idea promoted by society that it’s okay if times are tough now, because one day you will escape your small town. You will travel to a big city where what once made you different and ostracised will make you popular and interesting. This is a nice narrative, but it’s a slow burner, there is no telling when exactly things will ‘get better’, and university should certainly not be guaranteed as a boundary of acceptance. Those freshers are still the same students who were at your school three months ago, it’s not like they took a ‘how not to be a transphobic/homophobic dick’ course over the summer.

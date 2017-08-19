@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix and funk at the Felix music night on 19.02
 date: "2011-02-03 19:20:21 +0000"
+
 # Attributes from Felix Online V1
 id: "713"
 old_path: /music/713/1902-fun-loving-funk
 aliases:
  - /music/713/1902-fun-loving-funk
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Some people take music way too seriously. Praise Jeebus then for bands like [The Eleven 37s](http://www.theeleven37s.com/). Mixing the fun vibes of funk with the raw energy of rock, they play party music of the best breed, sure to get you dancing and leaving you with a smile on your face.

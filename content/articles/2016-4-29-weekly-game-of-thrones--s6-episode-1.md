@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-04-29 10:58:11 +0100"
+
 # Attributes from Felix Online V1
 id: "6108"
 old_path: /tv/6108/weekly-game-of-thrones--s6-episode-1
 aliases:
  - /tv/6108/weekly-game-of-thrones--s6-episode-1
+imported: true
+comments:
+ - Hello excellent website you have herefifa 17 points httpwwwpanoramicethiopiatourcomindexphpcomponentk2itemlistuser189102Fiquei sabendo do trabalho da fundao essa semana e j marquei a palestra para a proxima sexta feira  21092012 Meu caso  fazer a FIV pois sou lahauidaTenqo muita f que em breve postarei timas noticias nessa pginaBjs  todosE boa sorte  todos ns
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello excellent website you have herefifa 17 points httpwwwpanoramicethiopiatourcomindexphpcomponentk2itemlistuser189102Fiquei sabendo do trabalho da fundao essa semana e j marquei a palestra para a proxima sexta feira  21092012 Meu caso  fazer a FIV pois sou lahauidaTenqo muita f que em breve postarei timas noticias nessa pginaBjs  todosE boa sorte  todos ns
-imported: true
 ---
 
 After slapping viewers in the face last season with another huge character death, Game of Thrones returned this week with a relatively uneventful episode, filled with set up for the rest of the season. Spoilers ahead (obviously).

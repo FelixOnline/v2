@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix visits the refined Camino for a relaxed brunch of spanish delights, with crisp Patatas Bravas, inky Arroz Negor and Baby squid. Oh, and a bottle of cava for good measure.
 date: "2016-10-31 23:18:16 +0000"
+
 # Attributes from Felix Online V1
 id: "6373"
 old_path: /food/6373/plates-of-simple-luxury
 aliases:
  - /food/6373/plates-of-simple-luxury
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The luxury of Sunday mornings. The only morning in the week when it is entirely appropriate to put a hush to the endless list of unwatched Panopto recordings, lie-in until the church bells ring, then lazily roll out of the house in time for grocery shopping. Aside from snatching the half-priced flowers from Waitrose to adorn my ill-maintained window sill, another one of my weekend leisures I have grown to appreciate is brunch.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tim Arbabzadah goes on pun overload as he asks the stand-up comedian/actor about everything from his university days to his ongoing tour
 date: "2012-03-02 01:48:23 +0000"
+
 # Attributes from Felix Online V1
 id: "2306"
 old_path: /news/2306/in-the-thick-of-it-with-chris-addison-as-he-keeps-us-in-the-loop
 aliases:
  - /news/2306/in-the-thick-of-it-with-chris-addison-as-he-keeps-us-in-the-loop
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Tim: First off, I apologise if I ask any questions that you’ve been asked before...__

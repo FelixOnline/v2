@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports after online trolls voted over 2,000 times within the space of 2 hours
 date: "2015-06-19 13:19:35 +0100"
+
 # Attributes from Felix Online V1
 id: "5642"
 old_path: /news/5642/union-bar-name-competition-hijacked-by-4chan
 aliases:
  - /news/5642/union-bar-name-competition-hijacked-by-4chan
+imported: true
+comments:
+ - lelThe police should have been notified Racial harassment of Jewish students in this case is a serious matterOyy VeyToo bad we must return themcheap nfl 16 coins ios httpwwwmaddenstorecommaddennfl16IOS2191cheapest birkenstock sandalscheap birkenstocks online httpbirkenstocksaleaustraliablogspotcombirkenstock shoebirkenstock online discount httpbirkenstockaustraliamallscomYou re so smartbuy nfl 16 coins ios httpwwwmaddenstorecommaddennfl16IOS2191Thank you for your helping handMadden 16 Coins httpwwwstockhousecomblogsmut16coinsstoredecember2015newlegendsinmaddensnfl16Now you tell me shes not a knockoutfifa 16 points httpfondgoldblurpaliciouscomsubmitchristian louboutin cheapestchristian louboutin outlet canada httpcanadachristianlouboutinblogspotcomchristian louboutin glitter shoesdiscount christian louboutin httpcanadachristianlouboutinblogspotcomTake my word for itWeb design httpwwwouishareusw
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - lelThe police should have been notified Racial harassment of Jewish students in this case is a serious matterOyy VeyToo bad we must return themcheap nfl 16 coins ios httpwwwmaddenstorecommaddennfl16IOS2191cheapest birkenstock sandalscheap birkenstocks online httpbirkenstocksaleaustraliablogspotcombirkenstock shoebirkenstock online discount httpbirkenstockaustraliamallscomYou re so smartbuy nfl 16 coins ios httpwwwmaddenstorecommaddennfl16IOS2191Thank you for your helping handMadden 16 Coins httpwwwstockhousecomblogsmut16coinsstoredecember2015newlegendsinmaddensnfl16Now you tell me shes not a knockoutfifa 16 points httpfondgoldblurpaliciouscomsubmitchristian louboutin cheapestchristian louboutin outlet canada httpcanadachristianlouboutinblogspotcomchristian louboutin glitter shoesdiscount christian louboutin httpcanadachristianlouboutinblogspotcomTake my word for itWeb design httpwwwouishareusw
-imported: true
 ---
 
 Disaster struck on Saturday afternoon when the competition ran by Imperial College Union to name a new student bar was posted on the forum website 4chan, sparking thousands of entries from the website users.

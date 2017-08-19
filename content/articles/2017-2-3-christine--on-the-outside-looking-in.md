@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rebecca Hall astonishes in this biopic of Christine Chubbuck, a Florida news reporter who killed herself live on air, which powerfully explores the events leading to her death in an anxiety-ridden tour de force
 date: "2017-02-03 16:48:43 +0000"
+
 # Attributes from Felix Online V1
 id: "6720"
 old_path: /film/6720/christine--on-the-outside-looking-in
 aliases:
  - /film/6720/christine--on-the-outside-looking-in
+imported: true
+comments:
+ - Mitt gave the liberal state voters what they wanted   Even though it was a bad decisionNow Obama has made it COUNTRY WIDE imngeia8230 think it will cost us more than estimated   I have a bridge to sell you LOLMitt Romney bring sanity back to the WHHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articl
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Mitt gave the liberal state voters what they wanted   Even though it was a bad decisionNow Obama has made it COUNTRY WIDE imngeia8230 think it will cost us more than estimated   I have a bridge to sell you LOLMitt Romney bring sanity back to the WHHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articl
-imported: true
 ---
 
 The television, with its ability to repeatedly display the images of those who have long since departed, can act as an electronic graveyard, conjuring up spirits from the past. It is fitting, therefore, that Christine – the latest film by Antonio Campos, which deals with the on-air suicide of news reporter Christine Chubbuck – opens with an image of a TV screen, on which flickers a ghostly, pale Chubbuck, in the middle of interviewing Richard Nixon. This on-screen image is divorced from reality, giving us the unsettling feeling that we’re looking back into the past. We soon find out that Chubbuck is not in fact interviewing Nixon, but rather trying to analyse how she comes across to the camera, planning on evaluating every lilt in her speech and movement of her head; it is a scene that immediately communicates her indomitable work ethic, her capacity for self-criticism, and her dreams for a larger market-share, all of which play a part in her descent into depression. This scene is revisited later in the film, becoming an anchor to the departed reporter, as Chubbuck’s one-sided dialogue becomes more pointed: ‘is it paranoia,’ this spectral Chubbuck asks, ‘if indeed everyone is coming after you?’

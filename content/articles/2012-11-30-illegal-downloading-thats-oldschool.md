@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Has the market, giving consumers better deals, reduced illegal torrenting?
 date: "2012-11-30 11:40:24 +0000"
+
 # Attributes from Felix Online V1
 id: "3017"
 old_path: /tech/3017/illegal-downloading-thats-oldschool
 aliases:
  - /tech/3017/illegal-downloading-thats-oldschool
+imported: true
+comments:
+ - Breezeblocks  tikSorry for getting back to you 5 months late haBut youve hit on a deeper point I was trying to make with the article Youre right its not just music that is now truly global Access to all media worldwide at the same time will greatly benefit consumers as well as the people who provide this to themSo while we have online musical sensations like Justin Beiber or Gangnam Style we also have global anime media like Japanese anime films  games like you sayI really do believe opening up access to all media benefits consumers and producers it just shafts the middle men eg record labelsI think a good example is todays news from YouTube httpwwwbbccouknewsbusiness22474715This could provide us with LEGAL and cheap viewing of great TV shows that we would otherwise have to wait forIf its successful I forsee YouTube leapfrogging Netflix  LoveFilm on this oneFor tv and film They need to come up with a legal and affordable solution that al
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
- - Breezeblocks  tikSorry for getting back to you 5 months late haBut youve hit on a deeper point I was trying to make with the article Youre right its not just music that is now truly global Access to all media worldwide at the same time will greatly benefit consumers as well as the people who provide this to themSo while we have online musical sensations like Justin Beiber or Gangnam Style we also have global anime media like Japanese anime films  games like you sayI really do believe opening up access to all media benefits consumers and producers it just shafts the middle men eg record labelsI think a good example is todays news from YouTube httpwwwbbccouknewsbusiness22474715This could provide us with LEGAL and cheap viewing of great TV shows that we would otherwise have to wait forIf its successful I forsee YouTube leapfrogging Netflix  LoveFilm on this oneFor tv and film They need to come up with a legal and affordable solution that al
-imported: true
 ---
 
 Writing the previous article on Google Music’s introduction to the UK market reminded me of an interesting question that I’ve been asking myself for a while, “has the progress in the digital music market, which gives consumers a better deal, reduced the amount we illegal download?”

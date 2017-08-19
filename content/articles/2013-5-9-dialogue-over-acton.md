@@ -4,16 +4,23 @@ title: >
 subtitle: >
   College stress they will continue to look for cheap, close accommodation Structural inspection of Evelyn Gardens and Garden Hall Garden removed from website with Paragon and Xenia remaining Working group of staff and students set up for Acton development
 date: "2013-05-09 12:18:57 +0100"
+
 # Attributes from Felix Online V1
 id: "3561"
 old_path: /news/3561/dialogue-over-acton
 aliases:
  - /news/3561/dialogue-over-acton
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [The Union has replied to the College’s response to the Against Acton campaign](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/file/1892), started earlier this year following [the unveiling of plans by the College to construct an 856 bed hall of residence in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/). Paul Beaumont, Union President, sent a list of requests to the College, which went to the Management Board in March.

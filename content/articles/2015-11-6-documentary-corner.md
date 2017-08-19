@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This week, it's Jiro Dreams of Sushi
 date: "2015-11-06 14:13:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5708"
 old_path: /film/5708/documentary-corner
 aliases:
  - /film/5708/documentary-corner
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Found in a subway station of downtown Tokyo and seating only a mere ten people, it’s fair to say Sukiyabashi Jiro is one of the more inconspicuous three-Michelin-starred restaurants in the world. Since expanding their gaze to the Far East, the Michelin guide has become enchanted by the food of Japan, which now boasts more three-starred restaurants than any other country – but there is only one sushi restaurant on this list. Jiro Dreams of Sushi tells the story of the restaurant’s owner, oft-touted ‘best sushi chef in the world’, Jiro Ono, and his quest to perfect the art of sushi making. For all the build-up Jiro gets in this film, however, we eventually find out that the head chef duties actually belong to Jiro’s eldest son and heir, Yoshikazu. Herein lies the depth of the film.

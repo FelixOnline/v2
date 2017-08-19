@@ -4,16 +4,24 @@ title: >
 subtitle: >
   No, extraditing criminals ... is an example of snide and sneaky backdoor politics says Eleanor Angwin.
 date: "2012-10-11 21:16:32 +0100"
+
 # Attributes from Felix Online V1
 id: "2668"
 old_path: /comment/2668/are-extradition-treaties-justified
 aliases:
  - /comment/2668/are-extradition-treaties-justified
+imported: true
+comments:
+ - Half baked and with much less knowledge politically motivated comment on a matter of Justice  Its simply too important for that  You expose your personal prejudice Americans are bad  the same xenophobia that would not be acceptable in other cases but this is quite fine and seem to care not a jot for Justice and the rights of those you point out have been harmed  What damage done to Justice when a person accused of a crime is allowed to hide from his accusers  Cant touch me  Ive run to the United Kingdom  Extradition treaties arent perfect  They were devised by humans  They doubtless have much room for improvement  But the line you are putting forward is to discard them entirely not seek improvement  Cowardly and lazy  Better to let accused to hide in my country than than to face up to the challenge  So what Im not the one who has been wrongedJustice needs not only to be blind it needs to have no blind spots
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Half baked and with much less knowledge politically motivated comment on a matter of Justice  Its simply too important for that  You expose your personal prejudice Americans are bad  the same xenophobia that would not be acceptable in other cases but this is quite fine and seem to care not a jot for Justice and the rights of those you point out have been harmed  What damage done to Justice when a person accused of a crime is allowed to hide from his accusers  Cant touch me  Ive run to the United Kingdom  Extradition treaties arent perfect  They were devised by humans  They doubtless have much room for improvement  But the line you are putting forward is to discard them entirely not seek improvement  Cowardly and lazy  Better to let accused to hide in my country than than to face up to the challenge  So what Im not the one who has been wrongedJustice needs not only to be blind it needs to have no blind spots
-imported: true
 ---
 
 Extraditing criminals is both damaging to overall world justice and an example of snide and sneaky backdoor politics.

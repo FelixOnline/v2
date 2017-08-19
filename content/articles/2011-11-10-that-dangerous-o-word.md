@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Michael Cook questions Baroness Greenfield’s claims that videogames cause ADHD, schizophrenia and other mental disorders
 date: "2011-11-10 22:26:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1747"
 old_path: /games/1747/that-dangerous-o-word
 aliases:
  - /games/1747/that-dangerous-o-word
+imported: true
+comments:
+ - Nice article
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Nice article
-imported: true
 ---
 
 Opinion is something of a dirty word when it comes to science. Opinion happens all the time within the walls of Imperial, but it comes in the form of chitchat, idle speculation and the exchange of ideas. It rarely, if ever, worms its way into academic papers and serious propositions, and when it does it's usually questioned, dissected and made demands of. We're keen to segregate speculation and fact unless the former shows itself worthy of being considered the latter.

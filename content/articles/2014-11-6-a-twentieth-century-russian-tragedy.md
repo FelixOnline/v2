@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Mario Lepore on a new production of Chekhov's final play
 date: "2014-11-06 21:38:04 +0000"
+
 # Attributes from Felix Online V1
 id: "4806"
 old_path: /arts/4806/a-twentieth-century-russian-tragedy
 aliases:
  - /arts/4806/a-twentieth-century-russian-tragedy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _I__’ll give you my cheek you’ll want my breast. I’ll give you my breast you’ll want my badger. You’ll work your way down and nothing will stop you’._

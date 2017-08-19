@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In honour of Ada Lovelace Day, FELIX takes a look at the Victorian programmer, gambler and all-round badass
 date: "2015-10-16 14:39:20 +0100"
+
 # Attributes from Felix Online V1
 id: "5658"
 old_path: /science/5658/an-ode-to-ada
 aliases:
  - /science/5658/an-ode-to-ada
+imported: true
+comments:
+ - 8AM29B httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 8AM29B httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
-imported: true
 ---
 
 If you’re anything like me, you probably spent your Tuesday night tending to your extensive collection of potted plants (yup, standard weeknight fun). This Tuesday though, we all had the opportunity to celebrate the rapid expansion of science and the women that have pioneered in that field.

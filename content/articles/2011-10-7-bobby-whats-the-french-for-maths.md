@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The worlds of mathematics and art collide at a not-so-novel Parisian exhibition
 date: "2011-10-07 10:31:10 +0100"
+
 # Attributes from Felix Online V1
 id: "1487"
 old_path: /arts/1487/bobby-whats-the-french-for-maths
 aliases:
  - /arts/1487/bobby-whats-the-french-for-maths
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There ought to be a word for that moment when, as you’re reclined in blissful peace an arm’s reach from a trashy novel and an iced drink with the Mediterranean sun beating on your overworked, pasty body, you realize that you haven’t got any material for Felix next week. My best attempt has four letters and begins with ‘f’, but I’m sure the Germans must have got a better compound word for it.

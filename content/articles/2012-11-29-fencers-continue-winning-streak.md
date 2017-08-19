@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charlotte Levin reports
 date: "2012-11-29 23:21:47 +0000"
+
 # Attributes from Felix Online V1
 id: "3015"
 old_path: /sport/3015/fencers-continue-winning-streak
 aliases:
  - /sport/3015/fencers-continue-winning-streak
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cardiff, Sunday lunch time. Imperial Fencing Women’s 1st park the minibus and make their way through the labyrinth-like venue to find the fencing piste. On the schedule for the day are Oxford and Cardiff University, ranked last and middle of the league respectively. Are the Imperial girls going to continue their incredible streak of victories?

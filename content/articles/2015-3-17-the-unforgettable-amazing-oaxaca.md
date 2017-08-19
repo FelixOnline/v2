@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lost yourself in paradise alongside Aditya Narayanan in this paradise
 date: "2015-03-17 14:40:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5398"
 old_path: /travel/5398/the-unforgettable-amazing-oaxaca
 aliases:
  - /travel/5398/the-unforgettable-amazing-oaxaca
+imported: true
+comments:
+ - He has been a consistent starter since his freshman year You can use many forms of medicines diets and fitness to accomplish that goal It is not especially if you know the tricks how in order to itfifa 16 hack httpcreditsfutcomYoure a really helpful site could not make it without yanba 2k16 my account expired ps4 httpcamilleeudoraedublogsorg20160326theinformationaboutthemaddennfl16gamethatyoushouldknowHiya very good websites you possess right nowcs go skins down httpnicolasetllawebstartscomlevel_30_lol_accounthtmlMaintain the helpful work and generating the groupcs go skins blackjack httpwwwpurevolumecomEdwinaposts13146349CheapNBA2K16MTisdownloadedbyconsumers
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ync111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "shadowcheah"
 author_facebook: ""
 author_website_url: "http://www.laughtraveleat.com"
 author_website_title: "Laugh Travel Eat"
-
-comments:
- - He has been a consistent starter since his freshman year You can use many forms of medicines diets and fitness to accomplish that goal It is not especially if you know the tricks how in order to itfifa 16 hack httpcreditsfutcomYoure a really helpful site could not make it without yanba 2k16 my account expired ps4 httpcamilleeudoraedublogsorg20160326theinformationaboutthemaddennfl16gamethatyoushouldknowHiya very good websites you possess right nowcs go skins down httpnicolasetllawebstartscomlevel_30_lol_accounthtmlMaintain the helpful work and generating the groupcs go skins blackjack httpwwwpurevolumecomEdwinaposts13146349CheapNBA2K16MTisdownloadedbyconsumers
-imported: true
 ---
 
 Holidays in Mexico are stereotypically presented as being all about that beach. From Cancun to Tijuana (and Acapulco), the golden sands and azure seas are well trodden by the average foreign tourist. With glorious sunshine all year and relatively calm and clear water, it is the perfect place to laze about aimlessly for a week or five. As it happens, this is a rather mainstream opinion, and all have become the epitome of the term tourist trap; a deluge of retirees looking for a lazy getaway and 20-somethings looking for a bacchanalian experience.

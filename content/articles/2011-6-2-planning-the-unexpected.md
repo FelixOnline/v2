@@ -4,16 +4,23 @@ title: >
 subtitle: >
   If things eventually go tits-up, people will invariably come to you for answers
 date: "2011-06-02 19:27:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1307"
 old_path: /comment/1307/planning-the-unexpected
 aliases:
  - /comment/1307/planning-the-unexpected
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s late. My eyes are red from fear and concentration. The only light in the room comes from my desk lamp as I burn the midnight oil, stooped over my desk. The floor around me is littered with scrumpled wads of paper. Discarded ideas. Each one would have worked, they would have worked fine. But fine isn’t good enough – this has to be perfect. My girlfriend’s birthday is coming up and everything must go just right.

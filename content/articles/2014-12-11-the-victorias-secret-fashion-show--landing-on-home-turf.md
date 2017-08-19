@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the sexiest outfits and angels of last week’s runway show at Earl’s Court Exhibition Centre
 date: "2014-12-11 21:33:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5042"
 old_path: /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
 aliases:
  - /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
+imported: true
+comments:
+ - buy fitflopfitflop australia buy online httpaustraliafitflopsblogspotcomlouboutin evening canadachristian louboutin canada outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin slingblacks salechristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcomGreat website It looks really professional Maintain the great worknba 2k16 mt points glitch httphoneydianablogcucomreasonablecsgoindustrysuggestions20573122Wow because this is great work Congrats and keep it upmadden 17 coins httpwwwcallingallplayerscomsdgrtryre4566blogfifa17coinsforsale10finestfitnessgamesforthenintendowii
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - buy fitflopfitflop australia buy online httpaustraliafitflopsblogspotcomlouboutin evening canadachristian louboutin canada outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin slingblacks salechristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcomGreat website It looks really professional Maintain the great worknba 2k16 mt points glitch httphoneydianablogcucomreasonablecsgoindustrysuggestions20573122Wow because this is great work Congrats and keep it upmadden 17 coins httpwwwcallingallplayerscomsdgrtryre4566blogfifa17coinsforsale10finestfitnessgamesforthenintendowii
-imported: true
 ---
 
 __Angel: Alessandra Ambrosio__

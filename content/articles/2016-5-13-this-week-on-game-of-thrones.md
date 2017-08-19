@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Series 6, Episode 3
 date: "2016-05-13 09:23:17 +0100"
+
 # Attributes from Felix Online V1
 id: "6160"
 old_path: /tv/6160/this-week-on-game-of-thrones
 aliases:
  - /tv/6160/this-week-on-game-of-thrones
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Another week, another load of dead characters. We start off where we left last time with Jon Snow wondering what the hell just happened after being stabbed in the heart, Melisandre wondering how on Earth she just did that and Davos trying to remember how he got involved in this storyline in the first place. Jon then puts some pants on to talk to the Night’s Watchmen and Wildlings that had gathered to see him. He doesn’t end up saying much and it’s not even 5 minutes back in the realm of the living before Tormund says he’s got a small dick. Jon seems to have a thing about getting insulted by gingers.

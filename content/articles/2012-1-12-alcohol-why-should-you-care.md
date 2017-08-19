@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Madhura Ghosh and Katy Bettany investigate binge drinking culture
 date: "2012-01-12 21:02:30 +0000"
+
 # Attributes from Felix Online V1
 id: "1968"
 old_path: /news/1968/alcohol-why-should-you-care
 aliases:
  - /news/1968/alcohol-why-should-you-care
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s that time of year again when we all start to make, and consequently break, all those well-meant resolutions we dreamt up over the Christmas break. But one resolution that couldn’t afford to be broken was that made by Imperial College School of Medicine (ICSM) this time last year: its anniversary marked by ICSM’s inaugural ‘Alcohol Awareness Week’, a series of events designed to highlight the dangers students face by abusing alcohol. Here, Felix investigates the binge drinking culture of our universities, and asks what, if anything, can be done.

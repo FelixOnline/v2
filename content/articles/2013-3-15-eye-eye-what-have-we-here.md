@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Eyes in the back of your head? More likely than you think explains Alexandra Easter
 date: "2013-03-15 01:08:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3470"
 old_path: /science/3470/eye-eye-what-have-we-here
 aliases:
  - /science/3470/eye-eye-what-have-we-here
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You might think that having eyes in the back of one’s head was a quality reserved only for mothers and teachers, but research published in The Journal of Experimental Biology has shown that it is also possible in tadpoles.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Scott Pilgrim vs. The World
 date: "2010-10-10 15:38:51 +0100"
+
 # Attributes from Felix Online V1
 id: "192"
 old_path: /film/192/how-comic-book-geeks-get-girls-exhibit-a
 aliases:
  - /film/192/how-comic-book-geeks-get-girls-exhibit-a
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Grosse Pointe Blank. Back to the Future. The Dark Knight. Three films that I could watch on repeat – again and again. I left Scott Pilgrim vs the World wanting to go straight back in for another round. The titular character, played by Michael Cera, is a 23-year-old with no job, who splits his time between playing bass in the raw, energetic indie band Sex Bob-omb (the music played by the actors themselves), maintaining a U-rated relationship with a Canadian-Chinese high school girl (the adorable Ellen Wong) and mooching off his flatmate (Kieran Culkin), with outrageously apt comic timing and delivery.

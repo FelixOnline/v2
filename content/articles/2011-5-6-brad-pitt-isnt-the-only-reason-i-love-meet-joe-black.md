@@ -4,16 +4,24 @@ title: >
 subtitle: >
   It's the peanut butter that really gets me
 date: "2011-05-06 15:09:18 +0100"
+
 # Attributes from Felix Online V1
 id: "1176"
 old_path: /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
 aliases:
  - /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
+imported: true
+comments:
+ - Alamak Sweetie you missed it Its Singapores 1st ice cream feitsval by ben n jerry held at fort canning on 6 dec I dun meant that its for bloggers but some bloggers are invited to go there eat ice cream and write for the event hehenext time got interesting event i let u know okThe quote is beauadtiful Lisa and defadiadnitely says it allLittle Peanut looks just like aa0little angelThank you so very much for sharing with us this week at The Creative ExchangeSending you wsiehs for aa0beauadtiful Holiday dear friendlisa
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Alamak Sweetie you missed it Its Singapores 1st ice cream feitsval by ben n jerry held at fort canning on 6 dec I dun meant that its for bloggers but some bloggers are invited to go there eat ice cream and write for the event hehenext time got interesting event i let u know okThe quote is beauadtiful Lisa and defadiadnitely says it allLittle Peanut looks just like aa0little angelThank you so very much for sharing with us this week at The Creative ExchangeSending you wsiehs for aa0beauadtiful Holiday dear friendlisa
-imported: true
 ---
 
 The memorable scenes of Brad Pitt licking peanut butter off a spoon in Meet Joe Black is exactly how I’d like to imagine the grim reaper. Suave, suited and darn right fit.

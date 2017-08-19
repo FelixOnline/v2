@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sight&Sound’s Best Film of 2016, Toni Erdmann follows the attempts of a father attempting to reconnect with his estranged daugher, with a perfect mixture of hilarity and sincerity
 date: "2017-02-10 15:19:14 +0000"
+
 # Attributes from Felix Online V1
 id: "6760"
 old_path: /film/6760/toni-erdmann
 aliases:
  - /film/6760/toni-erdmann
+imported: true
+comments:
+ - Hei Sa7rIth821as so wonderful to read your blog  youre doing greatAnd those tangets of palm top computers are far too small really  have to be careful that the right person gets the emailThis nurse salutes you from Helsinki FinlandAnnaWith realization of ones own potential and selfconfidence in ones ability one can build a better worldHis Holiness The Dalai Lama
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hei Sa7rIth821as so wonderful to read your blog  youre doing greatAnd those tangets of palm top computers are far too small really  have to be careful that the right person gets the emailThis nurse salutes you from Helsinki FinlandAnnaWith realization of ones own potential and selfconfidence in ones ability one can build a better worldHis Holiness The Dalai Lama
-imported: true
 ---
 
 Toni Erdmann, a German-Austrian film by Maren Ade has seen no end to the praise received from critics worldwide since it’s screenings along the festival circuit in 2016. It features in the top film lists of countless film magazines including being named the Best Film of 2016 by Sight&amp;Sound and Cahiers du Cinéma and is also one of the favoured picks for the 2017 Academy Awards for Best Foreign Picture. Given all this acclaim, it’s hard to imagine that such a film is not the talk of the town during its release given the astounding hype procured by other singing and dancing counterparts.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anxious Romans pack their bags ahead of Raffaele Bendandi's 1915 prediction for an earthquake on 11th May
 date: "2011-05-12 16:35:39 +0100"
+
 # Attributes from Felix Online V1
 id: "1190"
 old_path: /science/1190/residents-of-rome-flee-earthquake-predicted-in-1915
 aliases:
  - /science/1190/residents-of-rome-flee-earthquake-predicted-in-1915
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Urban myth or not, rumours of a possible earthquake predicted over 90 years ago sparked mass panic in Rome this week, with residents vacating the Eternal City for fear of a large tremor. The prediction was made in 1915 by Italian-born seismologist [Raffaele Bendandi](http://en.wikipedia.org/wiki/Raffaele_Bendandi), who forecast Rome would be devastated by a quake on 11 May 2011. Despite officials stressing the unpredictable nature of quakes, hundreds of workers requested leave and families chose to keep their children away from school amid fears that Bendandi’s forecast may become true.

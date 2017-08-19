@@ -4,16 +4,24 @@ title: >
 subtitle: >
   This week, The Times reported that The Sun had dropped their Page 3 feature. Following the writing of this article, the naked ladies were reinstated on Thursday.
 date: "2015-01-23 01:25:29 +0000"
+
 # Attributes from Felix Online V1
 id: "5123"
 old_path: /comment/5123/should-we-celebrate-the-loss-of-page-3
 aliases:
  - /comment/5123/should-we-celebrate-the-loss-of-page-3
+imported: true
+comments:
+ - fitflop clearance salecheapest fitflops sale httpaustraliafitflopsiemillernetcheap fitflops salefitflop online australia httpaustraliafitflopsiemillernetbest price fitflopsfitflop sandals httpaustraliafitflopsiemillernetbirkenstock outletbirkenstock shoe httpbirkenstocksaleaustraliablogspotcomlouboutin peep toes canadachristian louboutin online store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pumpschristian louboutin shoes httpcanadachristianlouboutinoutletblogspotcomchristian louboutin booties shoeschristian louboutin sale clearance httpcanadachristianlouboutinblogspotcomchristian louboutin wedges canadachristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomlouboutin bootieschristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes canadachristian louboutin outlet store httpcanadachristianlouboutinoutletblogspotcomhttponlinedi
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop clearance salecheapest fitflops sale httpaustraliafitflopsiemillernetcheap fitflops salefitflop online australia httpaustraliafitflopsiemillernetbest price fitflopsfitflop sandals httpaustraliafitflopsiemillernetbirkenstock outletbirkenstock shoe httpbirkenstocksaleaustraliablogspotcomlouboutin peep toes canadachristian louboutin online store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin pumpschristian louboutin shoes httpcanadachristianlouboutinoutletblogspotcomchristian louboutin booties shoeschristian louboutin sale clearance httpcanadachristianlouboutinblogspotcomchristian louboutin wedges canadachristian louboutin canada stores httpcanadachristianlouboutinoutletblogspotcomlouboutin bootieschristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin shoes canadachristian louboutin outlet store httpcanadachristianlouboutinoutletblogspotcomhttponlinedi
-imported: true
 ---
 
 The Sun dropped its Page 3 feature this week, ending a 40 year tradition of featuring young, beautiful women on their third page, mostly topless and with suggestive headers or sidebars with “The News in Briefs”. The change comes following a 28 month campaign by No More Page 3, lead by Lucy-Anne Holmes. The No More Page 3 website states, “This is not about censorship, or passing an Act of Parliament to force Dominic Mohan, the editor of The Sun, to scrap Page Three. We are asking him – politely – to remove it voluntarily.” This week they succeeded in their aim, but the response hasn’t been totally supportive. Some women have accused the movement of being anti-sex-worker, of being prudish, and of opposing the free press. Past campaigns to remove the pictures have led to women being branded “fat and jealous”, and as “battleaxe(s)” by the newspaper itself, which has maintained silence over the surprising decision not to feature the pictures since last Friday. Why the feature was removed from print is still a mystery, but since new topless photos are available on the Sun website daily, something tells me it wasn’t a sudden feminist epiphany.

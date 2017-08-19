@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Ribbon ninjas!
 date: "2016-03-18 12:00:36 +0000"
+
 # Attributes from Felix Online V1
 id: "6072"
 old_path: /music/6072/grimes-electrifies-at-brixton
 aliases:
  - /music/6072/grimes-electrifies-at-brixton
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Before **Grimes** bursts onto stage at the Brixton Academy, there’s a sense that she’s compensating for something: we would usually expect the venue to be playing the usual warm-up mix of inoffensive R&amp;B and indie pop – the standard fare for off-piste artists like Grimes, who straddle populism and experimentalism – but tonight they’ve opted for a succession of classical string pieces. There’s something deliberate about it. Following the release of her breakout third LP, _Visions_, which catapulted her onto the world stage, Grimes was subject to oppressive amounts of scrutiny, from professionals and public alike; in a since-deleted tumblr post, she hit back: “I’m tired of men who aren’t professional or even accomplished musicians continually offering to ‘help me out’ (without being asked), as if I did this by accident”, she wrote, “I’m tired of being considered vapid for liking pop music.”

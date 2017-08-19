@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton on posthumous presentation
 date: "2013-01-31 23:42:52 +0000"
+
 # Attributes from Felix Online V1
 id: "3214"
 old_path: /comment/3214/how-to-look-good-dead
 aliases:
  - /comment/3214/how-to-look-good-dead
+imported: true
+comments:
+ - ThanksWell written
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - ThanksWell written
-imported: true
 ---
 
 I was told once that the best way to know a city is to get lost in it. I can’t say if this is a universal truth but with my truly terrible sense of direction I’ve had plenty of chances to put it to the test. It was just this Monday that Imade my favourite finding to date. Bumbling around the mean streets of Chelsea, lost and late for a lecture, I took a shortcut through Brompton Cemetery and turned a five minute shortcut into a 30 minute stroll, stopping at the most interesting graves, walking around the different mausoleums and ensuring I was more than fashionably late for that lecture.

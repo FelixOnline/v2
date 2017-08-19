@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Elizabeth Riach evaluates the future of Australia’s biggest attraction
 date: "2016-12-02 14:04:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6530"
 old_path: /science/6530/barrier-bleaching-isnt-so-great
 aliases:
  - /science/6530/barrier-bleaching-isnt-so-great
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Following the general vibes of this tragic excuse of a year, scientists have now confirmed that 2016 has seen the largest coral die-off ever recorded on Australia’s Great Barrier Reef.

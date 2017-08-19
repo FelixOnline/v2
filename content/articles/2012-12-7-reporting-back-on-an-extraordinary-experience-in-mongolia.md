@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Phillip Rodriguez, an English teacher, writes about his summer spent in Mongolia Summer Camp 2011
 date: "2012-12-07 01:18:18 +0000"
+
 # Attributes from Felix Online V1
 id: "3032"
 old_path: /news/3032/reporting-back-on-an-extraordinary-experience-in-mongolia
 aliases:
  - /news/3032/reporting-back-on-an-extraordinary-experience-in-mongolia
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Terelj is located 60km away from Ulan Bator, the capital of Mongolia. The national park has smooth sloping valleys that climb up to become rocky peaks. This past July, the rains were plentiful. Grass carpeted the landscape, though not the soft type you’d find in your lawn. Rather the blades grew in little clumps with wiry roots that ran deep into the dry earth. The hardy vegetation provided an abundance of food for the horses, cows, sheep and camels that seemed to have free roam of the park. In sharp contrast to the green underfoot, a deep blue sky spread overhead with clouds so high they hardly seemed to move.

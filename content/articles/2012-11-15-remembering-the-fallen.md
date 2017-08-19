@@ -4,16 +4,24 @@ title: >
 subtitle: >
   James Dickson reports from the service at the Cenotaph
 date: "2012-11-15 22:14:46 +0000"
+
 # Attributes from Felix Online V1
 id: "2911"
 old_path: /comment/2911/remembering-the-fallen
 aliases:
  - /comment/2911/remembering-the-fallen
+imported: true
+comments:
+ - Hope you enjoyed the article  the properly italicised form can be found here which better conveys my word emphases httpsdocsgooglecomopenid0B9wXDjcGsP9yb3BMY21ZeHZBNlUThats half because I hadnt read your article until after Id written it and half because I wanted it to be a piece about my perception of the experience of what I was observing   as it has left a lasting impression on meI dont quite understand where youre getting this nationalism funding idea from My father was in the armed forces RN for 20 years and has helped funding campaigns for HFH remaining independent from the charity itself and I assure you the overwhelming message from the donors is one of thanks not jingoism And because of that your article came across to me as just silly with just colloquial evidence for something I havent perceived knowing exservicemen etcTo be honest I regret that the RBL and HFH even exist in the first place I find it unbelievable that the state should expect its armed force
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hope you enjoyed the article  the properly italicised form can be found here which better conveys my word emphases httpsdocsgooglecomopenid0B9wXDjcGsP9yb3BMY21ZeHZBNlUThats half because I hadnt read your article until after Id written it and half because I wanted it to be a piece about my perception of the experience of what I was observing   as it has left a lasting impression on meI dont quite understand where youre getting this nationalism funding idea from My father was in the armed forces RN for 20 years and has helped funding campaigns for HFH remaining independent from the charity itself and I assure you the overwhelming message from the donors is one of thanks not jingoism And because of that your article came across to me as just silly with just colloquial evidence for something I havent perceived knowing exservicemen etcTo be honest I regret that the RBL and HFH even exist in the first place I find it unbelievable that the state should expect its armed force
-imported: true
 ---
 
 It’s seven AM, I’ve been up for two-and-a-half hours, and the Portland Stone of Whitehall is quite literally glowing a magnificent golden-cream in the cool warmth of the winter morning’s sun. As a student you can imagine that I’m not predisposed to having a great sympathy for waking up at the unholy hour of four-thirty AM, unless for a ludicrously inexpensive flight. But here I am – with another four hours still to wait for what I came for; already starting to lose the feeling in my extremities from the cold.

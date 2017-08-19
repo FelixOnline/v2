@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Falkenberg asks if this play glosses over an important issue
 date: "2014-11-06 21:44:52 +0000"
+
 # Attributes from Felix Online V1
 id: "4808"
 old_path: /arts/4808/king-charles-iii--princely-propaganda-or-royalist-treat
 aliases:
  - /arts/4808/king-charles-iii--princely-propaganda-or-royalist-treat
+imported: true
+comments:
+ - buy fitflops onlinefitflop australia outlet httpaustraliafitflopsiemillernetlouboutin biancachristian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomchristian louboutin peep toeschristian louboutin canada outlet httpcanadachristianlouboutinblogspotcomstarting to phase into my long scalps yeezy boost low urlhttpwwwzwsoftcomshoesyeezyboostlowyeezy boost lowurll5SXWG httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - buy fitflops onlinefitflop australia outlet httpaustraliafitflopsiemillernetlouboutin biancachristian louboutin shoes canada httpcanadachristianlouboutinoutletblogspotcomchristian louboutin peep toeschristian louboutin canada outlet httpcanadachristianlouboutinblogspotcomstarting to phase into my long scalps yeezy boost low urlhttpwwwzwsoftcomshoesyeezyboostlowyeezy boost lowurll5SXWG httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 Royally entertaining…”, “stimulating comedy”, “a victoriously vulgar piece of light entertainment.” Not so fast!

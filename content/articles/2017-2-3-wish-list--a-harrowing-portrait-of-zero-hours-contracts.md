@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Joseph Quinn and Erin Doherty as Dean and Tamsin will enchant you
 date: "2017-02-03 17:00:21 +0000"
+
 # Attributes from Felix Online V1
 id: "6725"
 old_path: /arts/6725/wish-list--a-harrowing-portrait-of-zero-hours-contracts
 aliases:
  - /arts/6725/wish-list--a-harrowing-portrait-of-zero-hours-contracts
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If someone were to wander into the snug stage-room on the top floor of the Royal Court Theatre on Friday evening, if they were lucky enough to enter at the right moment, they might chance upon what appears to be an impromptu, karaoke rendition of Meat Loaf’s I Would Do Anything For Love. A bemusing sight, but just a fleeting fantasy in the harsh reality of a girl called Tamsin, who tried to support both herself and her younger brother through her taxing, zero-hours contract. Struggling to make ends meet, she has taken on a job at a packing warehouse, whose almost-Orwellian motto ‘Work. Enjoy. Improve.’ reeks of irony, leading to it being mockingly dubbed the ‘fulfilment centre’ by Luke – Tamsin’s co-worker.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A Muslim perspective on the afterlife and religion in society
 date: "2011-11-10 20:41:57 +0000"
+
 # Attributes from Felix Online V1
 id: "1718"
 old_path: /comment/1718/on-the-flip-side-of-the-coin
 aliases:
  - /comment/1718/on-the-flip-side-of-the-coin
+imported: true
+comments:
+ - Very sensible words indeed Let this be an eyeopener for us to start thinking for the betterment of the greater part of usThought provokingYou could interpret that last quote in many ways Submitting to God appears to be servitude in my eyes only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Very sensible words indeed Let this be an eyeopener for us to start thinking for the betterment of the greater part of usThought provokingYou could interpret that last quote in many ways Submitting to God appears to be servitude in my eyes only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean
-imported: true
 ---
 
 After reading the ‘[Hell of Heaven](http://felixonline.co.uk/comment/1568/the-hell-of-heaven/)’ article from two weeks back, and reading a bit of Christian perspective on the subject in last week’s edition, I decided to shed some light on the subject from a Muslim’s point of view. As well as writing on the general importance of religion within a society.

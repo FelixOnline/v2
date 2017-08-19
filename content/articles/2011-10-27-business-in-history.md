@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Cautionary Tale of King Phillip II, the ‘Paper King’ of Spain
 date: "2011-10-27 22:29:17 +0100"
+
 # Attributes from Felix Online V1
 id: "1616"
 old_path: /biz/1616/business-in-history
 aliases:
  - /biz/1616/business-in-history
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Be it for ignorance, insecurity or psychological compulsion, micromanagement is an ancient curse no business or institution is safe from, and whose risks and consequences can only increase the higher the micromanager’s influence reaches. Though a well-known managerial style – at least known well enough to have its own (and pejorative) name – no reliable statistical study on its occurrence appears to exist; nor does there seem to be any thorough study, psychological or sociological, of the phenomenon beyond, namely the economic consequences when it affects business managers.

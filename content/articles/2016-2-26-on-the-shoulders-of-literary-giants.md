@@ -4,16 +4,23 @@ title: >
 subtitle: >
   David Mitchell and Kazuo Ishiguro discuss ghosts, action and what they avoid writing
 date: "2016-02-26 12:01:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5981"
 old_path: /arts/5981/on-the-shoulders-of-literary-giants
 aliases:
  - /arts/5981/on-the-shoulders-of-literary-giants
+imported: true
+comments:
+ - Im all yoursurlhttpgaodongdongoverblogcom201601conceptartcomiccon2010htmlBuy Blade And Soul GoldurlThis is really a nice placeurlhttpuffxivgratisblogbiz20160305bshandpohwarandungeonsBlade And Soul GoldurlIll be there for you urlhttpsdeliciouscomtosgoldtosgoldurlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im all yoursurlhttpgaodongdongoverblogcom201601conceptartcomiccon2010htmlBuy Blade And Soul GoldurlThis is really a nice placeurlhttpuffxivgratisblogbiz20160305bshandpohwarandungeonsBlade And Soul GoldurlIll be there for you urlhttpsdeliciouscomtosgoldtosgoldurlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing
-imported: true
 ---
 
 It was an odd set-up – the 2500-seater Royal Festival Hall packed to the brim, eagerly watching just two individuals on stage. Sat slightly angled towards each other and separated by an unassuming coffee table were two of the greatest literary figures of our time. I was seated right at the back (everything else was sold out), and their figures were dwarfed by the massive screen behind them with their names emblazoned across. Kazuo Ishiguro and David Mitchell may be the only two people on a vast stage regularly used for entire orchestras or dance troupes, but their presence filled the space around them and commanded the attention of rows upon rows of fans, writers, geeks and the curious.

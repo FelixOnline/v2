@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Lily Le reviews the Designs of the Year
 date: "2013-05-08 13:46:29 +0100"
+
 # Attributes from Felix Online V1
 id: "3547"
 old_path: /arts/3547/form-before-fx
 aliases:
  - /arts/3547/form-before-fx
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After marching through the tourists packing Tower Bridge, I was worried that the Design Museum might be hidden amongst the cafés and small shops of the narrow brick walkways lining the riverside. Of course, it wasn’t. Bright, white, shining at the end of, rather than part of, a shadowy almost-alley, it is a building that exudes contemporary, minimal, and understated.

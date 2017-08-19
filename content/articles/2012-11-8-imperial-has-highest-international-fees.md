@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Aemun Reza and Matt Proctor compare Russell Group International fees
 date: "2012-11-08 23:56:12 +0000"
+
 # Attributes from Felix Online V1
 id: "2830"
 old_path: /news/2830/imperial-has-highest-international-fees
 aliases:
  - /news/2830/imperial-has-highest-international-fees
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College has been found to charge the most for their International student tuition fees out of the Russell group universities. The data shows that Imperial’s international students who do clinical medicine are charged a massive £39,150.

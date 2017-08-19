@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Dr. Magdalena Bak-Maier responds to students’ queries
 date: "2012-10-11 20:38:13 +0100"
+
 # Attributes from Felix Online V1
 id: "2647"
 old_path: /biz/2647/productivity-solutions
 aliases:
  - /biz/2647/productivity-solutions
+imported: true
+comments:
+ - Youre right but it depends on the type of business you have Were an outsourcing company and we always set deadlines for every project so that our clients will appreciate our work We even have a time tracking software installed on our PCs so anytime clients will have an idea on how the business is going and if were working on our tasks or not Our main drive is productivity so for us procrastination is totally a big loss if its not being avoided
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Youre right but it depends on the type of business you have Were an outsourcing company and we always set deadlines for every project so that our clients will appreciate our work We even have a time tracking software installed on our PCs so anytime clients will have an idea on how the business is going and if were working on our tasks or not Our main drive is productivity so for us procrastination is totally a big loss if its not being avoided
-imported: true
 ---
 
 _Personally, I do not think that procrastination is entirely bad. While we delay the work, we may find out a shortcut or a better way to finish the work in short time. As Aaron Burr wisely said, “Never do today what you can do tomorrow. Something may occur to make you regret your premature action.” Do I really waste something while I decided to put off the work? Could I be productive as well when I am waiting for an idea to come up?_ – Guang Yang, EEE undergraduate.

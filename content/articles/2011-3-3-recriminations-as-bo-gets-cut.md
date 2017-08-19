@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Computer error contributes to heavy cuts during budgeting
 date: "2011-03-03 05:43:00 +0000"
+
 # Attributes from Felix Online V1
 id: "979"
 old_path: /news/979/recriminations-as-bo-gets-cut
 aliases:
  - /news/979/recriminations-as-bo-gets-cut
+imported: true
+comments:
+ - If it really was a computer error that caused this and therefore it is objectively wrong surely the Union should be correcting their budget Why is this now set in stone even though a mistake was clearly madeAll of this budgeting relative to the previous years funds and membership is a load of bull anyway Itd make much more sense to undertake zerobased budgeting where clubs outline the activities envisaged for the following year and their estimated costs as opposed to we spend this much this year so will again next yearAnon That is how budgeting works  all clubs and soceities outline the costs of their activities for the next year Take a look at all the budget submissions here httpwwwimperialcollegeunionorgdatafilescsbbudgeting3587xlsxThe fact that clubs do similar activities each year and so use their previous costs as a guide to their costs for the following year based on their planned activities is just common senseIs that hell how it works If you underspend one year
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - If it really was a computer error that caused this and therefore it is objectively wrong surely the Union should be correcting their budget Why is this now set in stone even though a mistake was clearly madeAll of this budgeting relative to the previous years funds and membership is a load of bull anyway Itd make much more sense to undertake zerobased budgeting where clubs outline the activities envisaged for the following year and their estimated costs as opposed to we spend this much this year so will again next yearAnon That is how budgeting works  all clubs and soceities outline the costs of their activities for the next year Take a look at all the budget submissions here httpwwwimperialcollegeunionorgdatafilescsbbudgeting3587xlsxThe fact that clubs do similar activities each year and so use their previous costs as a guide to their costs for the following year based on their planned activities is just common senseIs that hell how it works If you underspend one year
-imported: true
 ---
 
 The [Clubs and Societies Board ](http://www.imperialcollegeunion.org/representation/committees/index,68,COM.html)(CSB) have allocated their funding for the next academic year, with the City and Guilds College Union (CGCU) taking a 30% cut whilst the Royal Society of Science Union (RSCU) allocation is to rise by 95%.

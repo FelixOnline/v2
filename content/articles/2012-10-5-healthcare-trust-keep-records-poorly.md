@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Systematic errors found. Cancer patients details lost. Councils send letter to Trust Chair.
 date: "2012-10-05 15:50:27 +0100"
+
 # Attributes from Felix Online V1
 id: "2631"
 old_path: /news/2631/healthcare-trust-keep-records-poorly
 aliases:
  - /news/2631/healthcare-trust-keep-records-poorly
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Record keeping problems at the Imperial College Healthcare Trust — which runs five London hospitals and is the largest NHS Trust in England — have led to long delays for critically ill patients. 900 patient records were found to be incomplete while over 3500 people had to wait longer than the 18 week target for operations and many more, including cancer patients, received vital test results late.

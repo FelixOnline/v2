@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Armor Mayhem is a Halo and Unreal Tournament inspired game set in the future when our planet Earth has run out of energy.
 date: "2013-10-30 15:54:38 +0000"
+
 # Attributes from Felix Online V1
 id: "3960"
 old_path: /games/3960/amore---not-part-of-armor-mayham
 aliases:
  - /games/3960/amore---not-part-of-armor-mayham
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Armor Mayhem is a Halo and Unreal Tournament inspired game set in the future when our planet Earth has run out of energy. Major corporations send teams to scavenge the universe in search for more energy. Eventually, energy is detected on planet 55001 and to their astonishment they find infinite energy crystals. Now you must fight for the planet’s resources. Get your weapons and armour on and fight for your CEO to make billions!

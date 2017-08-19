@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Utsav Radia on the new antenatal blood test and its potential to detect the genetic disorder before birth
 date: "2013-11-08 09:36:29 +0000"
+
 # Attributes from Felix Online V1
 id: "4028"
 old_path: /science/4028/diagnosing-downs-syndrome
 aliases:
  - /science/4028/diagnosing-downs-syndrome
+imported: true
+comments:
+ - hello  I have a daughter with ds  she is 11 years oldI and my husband are master in architecture and geologywe like immigration to uk with student visa for my childplease help me  what I do
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - hello  I have a daughter with ds  she is 11 years oldI and my husband are master in architecture and geologywe like immigration to uk with student visa for my childplease help me  what I do
-imported: true
 ---
 
 A new antenatal blood test, developed by Professor Kypros Nicolaides and his team of researchers at King’s College London in collaboration with University College London Hospital, with the potential to diagnose Down’s Syndrome in developing foetuses, is being considered for trial in the NHS.

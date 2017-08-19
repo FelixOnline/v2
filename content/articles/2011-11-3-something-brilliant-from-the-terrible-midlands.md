@@ -4,16 +4,23 @@ title: >
 subtitle: >
   George Jeffrey on the fruits of UK hardcore
 date: "2011-11-03 20:56:56 +0000"
+
 # Attributes from Felix Online V1
 id: "1677"
 old_path: /music/1677/something-brilliant-from-the-terrible-midlands
 aliases:
  - /music/1677/something-brilliant-from-the-terrible-midlands
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Anyone familiar with the UK independent hardcore scene will know of the untimely demise of the mighty Blakfish two years ago. This crippling shot to the nuts did however have one positive; the birth of Brummie trio &U&I (not like an actual weird birth of three fully grown, bearded men at the same time, just like… shut up, you know what I mean).

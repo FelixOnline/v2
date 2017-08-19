@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Enjoy your breakfast, lunch and dinner - guilt-free
 date: "2013-01-10 23:08:44 +0000"
+
 # Attributes from Felix Online V1
 id: "3106"
 old_path: /food/3106/sophia-goldberg-on-the-1-new-years-resolution
 aliases:
  - /food/3106/sophia-goldberg-on-the-1-new-years-resolution
+imported: true
+comments:
+ - I am happy that logical dsiouisscn can be continued Different point of view is never a problem like you and meBe careful on the word majority you sure you agree with those silent will be fully acknowledge that their right will be represented by those who chose to be not silent 05m people protest can be the majority of HK before and 01m people protest can also be the majority of HK now while HK has about actually 7m of people How about if someone organize a party to support CY and 01m joined will you agree that the majority of hk fully support CY Please think carefully and push HK to a logical directionI dont join the party because I dont agree with it I have never consented others to represent meAnyway this is a real fact that there are only a few  of HK people support the banana party I dont support them because they never make reasonable planning and suggestions but just destruct what gov proposedWhat I mean is more than 50 of the voting plauopti
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I am happy that logical dsiouisscn can be continued Different point of view is never a problem like you and meBe careful on the word majority you sure you agree with those silent will be fully acknowledge that their right will be represented by those who chose to be not silent 05m people protest can be the majority of HK before and 01m people protest can also be the majority of HK now while HK has about actually 7m of people How about if someone organize a party to support CY and 01m joined will you agree that the majority of hk fully support CY Please think carefully and push HK to a logical directionI dont join the party because I dont agree with it I have never consented others to represent meAnyway this is a real fact that there are only a few  of HK people support the banana party I dont support them because they never make reasonable planning and suggestions but just destruct what gov proposedWhat I mean is more than 50 of the voting plauopti
-imported: true
 ---
 
 Do you have the same recurring New Year’s resolutions? I’ve heard them all before: stop drinking so much, do a problem sheet, get organised, text/call mum more, text/call gran more, stop texting/calling people so much and see family/friends in person, and personally, stp speakin in txt. The most common resolution of all is to tame the bulge. Do you love food and hate scales? If you want to slash the caloricious content of your food but not the scrumptiousness then throw out your old ‘thou shalt not eat’ New Year’s resolution – armed with this week’s helpful issue you’ll see that you can still enjoy your breakfast, lunch and dinner guilt-free.

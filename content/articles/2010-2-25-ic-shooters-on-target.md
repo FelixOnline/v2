@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial impress up North
 date: "2010-02-25 19:01:11 +0000"
+
 # Attributes from Felix Online V1
 id: "108"
 old_path: /sport/108/ic-shooters-on-target
 aliases:
  - /sport/108/ic-shooters-on-target
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mb506
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After traveling on the M25 for approximately 4 hours the Imperial College Shooting team arrived at the prestigious BUCS Clay Shooting Championship in Hodnet, Shropshire.

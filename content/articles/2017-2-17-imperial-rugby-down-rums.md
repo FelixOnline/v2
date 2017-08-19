@@ -4,16 +4,23 @@ title: >
 subtitle: >
   oop
 date: "2017-02-17 16:22:13 +0000"
+
 # Attributes from Felix Online V1
 id: "6802"
 old_path: /sport/6802/imperial-rugby-down-rums
 aliases:
  - /sport/6802/imperial-rugby-down-rums
+imported: true
+comments:
+ - Your hoesnty is like a beacon
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your hoesnty is like a beacon
-imported: true
 ---
 
 Still buzzing after their triumph last week, Imperial were roaring to get at a UCL Medical School (RUMS) side which had evaded defeat in the past five meetings, including a 49-10 drubbing earlier this season. With RUMS 2nd top and IC 2nd from bottom in our league, the scene was set for a tough afternoon.

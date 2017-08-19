@@ -4,16 +4,23 @@ title: >
 subtitle: >
   They are back and as good as ever!
 date: "2012-02-23 20:28:01 +0000"
+
 # Attributes from Felix Online V1
 id: "2234"
 old_path: /film/2234/the-return-of-the-muppet-puppets
 aliases:
  - /film/2234/the-return-of-the-muppet-puppets
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [__The Muppets__](http://www.imdb.com/title/tt1204342/)

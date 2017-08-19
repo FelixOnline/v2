@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A reminder that the games, like the kids, are alright
 date: "2011-03-10 20:18:24 +0000"
+
 # Attributes from Felix Online V1
 id: "1067"
 old_path: /comment/1067/whats-wrong-with-the-new-generation
 aliases:
  - /comment/1067/whats-wrong-with-the-new-generation
+imported: true
+comments:
+ - Thats really sherwd Good to see the logic set out so wellQqfS2P  iggcrcomvfog tramadol hcl 267 zithromax pfnft
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Thats really sherwd Good to see the logic set out so wellQqfS2P  iggcrcomvfog tramadol hcl 267 zithromax pfnft
-imported: true
 ---
 
 Games. They're like gigantic, electric playgrounds. And like playgrounds, nowadays they're all tarmac and cutesy wooden houses for the reception kids to play in, whereas we were lucky to have a bit of rusty old pipe to play catch with. At least that's the impression I get from [Alex Karapetian's article](http://www.felixonline.co.uk/?article=901) in Monday's Daily Felix, which seemed to imply that games are less engaging, less addicting and less related-to-cartoon-series than they used to be.

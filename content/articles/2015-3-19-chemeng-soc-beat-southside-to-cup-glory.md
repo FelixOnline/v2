@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Manager Will Batchelor reports as ChemEng Soc see all their life's ambitions realised
 date: "2015-03-19 23:55:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5413"
 old_path: /sport/5413/chemeng-soc-beat-southside-to-cup-glory
 aliases:
  - /sport/5413/chemeng-soc-beat-southside-to-cup-glory
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Back in April of last year, there was a vision. A vision shared by two chemical engineers; to start a sports legacy for their department. And so, having created a procrastinating nest of Imperial students revising for exams/hoping for a miracle, Max Fawcett and Will Batchelor laid the foundations, as captain and manager respectively, for the first Chemical Engineering football team.

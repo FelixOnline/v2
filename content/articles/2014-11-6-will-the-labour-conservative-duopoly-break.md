@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the theory behing political economic modelling
 date: "2014-11-06 18:46:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4768"
 old_path: /comment/4768/will-the-labour-conservative-duopoly-break
 aliases:
  - /comment/4768/will-the-labour-conservative-duopoly-break
+imported: true
+comments:
+ - NlNA1I httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - NlNA1I httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 One of the most common complaints in politics is that all political parties seem the same. Douglas Carswell has profited from the rise of UKIP by switching alliances from the Conservatives, claiming that the far-right political party supports “fundamental change” in British politics. However, the fact is that extreme political parties have not fared too well in Britain.

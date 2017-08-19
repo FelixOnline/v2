@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah shares some useful mobile apps for your travel
 date: "2015-06-09 15:10:47 +0100"
+
 # Attributes from Felix Online V1
 id: "5607"
 old_path: /travel/5607/travel-made-easy---the-world-of-apps
 aliases:
  - /travel/5607/travel-made-easy---the-world-of-apps
+imported: true
+comments:
+ - Thank you for the great recommendations  Another tip for friends traveling together and sharing costs is to download the Trip Splitter IOS app This app greatly simplifies the tracking sharing and management of group travel expenses in any currencyHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword shou
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ync111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "shadowcheah"
 author_facebook: ""
 author_website_url: "http://www.laughtraveleat.com"
 author_website_title: "Laugh Travel Eat"
-
-comments:
- - Thank you for the great recommendations  Another tip for friends traveling together and sharing costs is to download the Trip Splitter IOS app This app greatly simplifies the tracking sharing and management of group travel expenses in any currencyHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword shou
-imported: true
 ---
 
 It’s no secret that the internet has revolutionized the world: there are a whole host of information and applications available now that wasn’t there a few decades ago. People can now do everything on their phone that no one could even dream of before – in fact, I still remember putting my phone away for my travels a few years back and now I wouldn’t even think about not having it on me. Period.

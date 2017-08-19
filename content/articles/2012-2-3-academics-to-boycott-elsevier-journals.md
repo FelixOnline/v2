@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Thousands to refuse work related to publisher over profit-making tactics
 date: "2012-02-03 00:14:09 +0000"
+
 # Attributes from Felix Online V1
 id: "2118"
 old_path: /news/2118/academics-to-boycott-elsevier-journals-
 aliases:
  - /news/2118/academics-to-boycott-elsevier-journals-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Following [a damning blog post](http://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/) by Cambridge mathematician Professor Tim Gowers, nearly 3,000 academics have signed an online pledge to cease all work with [Elsevier](http://www.elsevier.com/wps/find/homepage.cws_home), a Dutch journal publishing house responsible for many publications including [_The Lancet_](http://www.thelancet.com/).

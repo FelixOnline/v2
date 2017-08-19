@@ -4,16 +4,24 @@ title: >
 subtitle: >
   “The department risks deterring students from applying to Imperial”
 date: "2010-12-09 21:53:50 +0000"
+
 # Attributes from Felix Online V1
 id: "543"
 old_path: /news/543/the-human-cost-of-the-restructure
 aliases:
  - /news/543/the-human-cost-of-the-restructure
+imported: true
+comments:
+ - Kudos to you I hadnt tohhugt of thatrZl3zl  afwtmfirsgko acomplia  prednisone pills PP
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - skd09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "skd09"
 author_name: "Sophia David"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Kudos to you I hadnt tohhugt of thatrZl3zl  afwtmfirsgko acomplia  prednisone pills PP
-imported: true
 ---
 
 The [14 academics lost](http://www.felixonline.co.uk/?article=530) to the Life Sciences department represent the most incredible array of talent, expertise and experience. The staff caught up in the restructuring, deemed unsuitable for the new department, have nevertheless contributed enormously to university life, being involved in teaching, career services and student welfare to name only a few areas. Felix considers what these individuals have brought to the university over many years and what will be missed.

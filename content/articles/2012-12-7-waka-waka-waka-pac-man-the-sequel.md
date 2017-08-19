@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Saturn just keeps giving us the retro gaming gold
 date: "2012-12-07 01:29:26 +0000"
+
 # Attributes from Felix Online V1
 id: "3036"
 old_path: /science/3036/waka-waka-waka-pac-man-the-sequel
 aliases:
  - /science/3036/waka-waka-waka-pac-man-the-sequel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 At one point it was just Mimas, one of Saturn’s 62 moons, that looked like 80’s gaming legend [Pac-Man](http://en.wikipedia.org/wiki/Pac-Man). Now Tethys, another Saturnian natural satellite, becomes the second.

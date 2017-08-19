@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Christopher Yates reveals Texas’s invasive venom-proof ‘crazy ants’
 date: "2014-02-21 03:11:11 +0000"
+
 # Attributes from Felix Online V1
 id: "4418"
 old_path: /science/4418/ants-in-your-pants-thats-crazy
 aliases:
  - /science/4418/ants-in-your-pants-thats-crazy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Crazy ants may sound like a Flappy Bird spin-off, but in fact this species of ant is slowly taking over Texas, thanks in part to their ability to neutralise the venom of fire ants.

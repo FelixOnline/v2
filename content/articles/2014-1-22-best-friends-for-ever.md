@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Reviewing the next installment of Battlefield, as well as gushing about counterknifing!
 date: "2014-01-22 14:15:57 +0000"
+
 # Attributes from Felix Online V1
 id: "4266"
 old_path: /games/4266/best-friends-for-ever
 aliases:
  - /games/4266/best-friends-for-ever
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - me1711
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 If you read my christmas list, you probably know that I wanted to play BF4 for a while now. I play a lot of FPS, and the battlefield series always interested me from the off. It was the one game I had always missed out on. Especially this iteration, which has just built on the success of its predecessors, updating the graphics, gameplay and most notable introducing big “levolution”. Well it seems someone read my christmas list, and got me the game!

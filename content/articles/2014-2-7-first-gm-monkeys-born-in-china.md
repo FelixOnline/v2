@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chris Yates on the potential of the technique that made cute custom monkeys
 date: "2014-02-07 05:15:40 +0000"
+
 # Attributes from Felix Online V1
 id: "4366"
 old_path: /science/4366/first-gm-monkeys-born-in-china
 aliases:
  - /science/4366/first-gm-monkeys-born-in-china
+imported: true
+comments:
+ - gamemaster monkeys
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - gamemaster monkeys
-imported: true
 ---
 
 A gene-editing technique that has taken the world by storm over the past year has for the first time been carried out in primates, hinting at the potential for more accurate models of human diseases like Alzheimer’s.

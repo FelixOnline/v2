@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial College is set to open its first teaching institution abroad
 date: "2010-10-07 22:25:58 +0100"
+
 # Attributes from Felix Online V1
 id: "177"
 old_path: /news/177/imperial-opens-medical-campus-in-singapore
 aliases:
  - /news/177/imperial-opens-medical-campus-in-singapore
+imported: true
+comments:
+ - Youre on top of the game Thanks for shairng A6ag2P  xkbryqaqweqr
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Youre on top of the game Thanks for shairng A6ag2P  xkbryqaqweqr
-imported: true
 ---
 
 Imperial College is set to open its first teaching institution abroad - a medical school in Singapore. The project is run alongside [Nanyang Technological University](http://www.ntu.edu.sg/Pages/default.aspx) (NTU), with the College having been commissioned to develop the curriculum. It is scheduled to admit its inaugural intake of 50 students in 2013, eventually rising to 150 per year, and will be the third medical school in the country.

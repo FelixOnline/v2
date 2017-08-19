@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Maximilian Eggl tries not to be a Grinch about GAME's new game
 date: "2014-12-11 20:48:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5031"
 old_path: /games/5031/simulating-your-xmas-shopping
 aliases:
  - /games/5031/simulating-your-xmas-shopping
+imported: true
+comments:
+ - pigalle louboutinchristian louboutin shoes httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - pigalle louboutinchristian louboutin shoes httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 Recently I was sitting in the _Felix_ office absentmindedly jingling the bells (I know sad, right?), when a fellow section editor sent me the link to the game _Christmas Shopping Simulator_. This immediately gave me purpose in life, and faster than a elf can wrap a present I had clicked on the link to the merriment. What I found there was about as much fun as a sack of coal.

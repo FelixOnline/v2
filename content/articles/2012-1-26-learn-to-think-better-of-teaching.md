@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Individuals need to band together to help solve teaching
 date: "2012-01-26 23:05:18 +0000"
+
 # Attributes from Felix Online V1
 id: "2073"
 old_path: /comment/2073/learn-to-think-better-of-teaching
 aliases:
  - /comment/2073/learn-to-think-better-of-teaching
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Three out of four secondary school students are not taught physics by a specialist physics teacher. 16% of those eligible for school meals make it to university. Independent schools, however, manage to send 96% of theirs to higher education. These points are raised by [Teach First](http://www.teachfirst.org.uk/TFHome/) (whose mission is to address educational disadvantage and who have been active around Imperial recently). Their solution? Train as a teacher yourself. If enough individuals who are physics graduates become teachers, the problem will be solved.

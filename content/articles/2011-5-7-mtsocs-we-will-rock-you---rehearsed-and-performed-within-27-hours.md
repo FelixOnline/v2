@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Between 19:30 on Saturday and 22:45 on Sunday, the cast of MTSoc's 24-hour musical threw themselves heart and soul into non-stop rehearsals of Ben Elton's (and Queen's) "We Will Rock You". If you want to take a look behind the scenes of the rehearsals, read through this liveblog (now closed).
 date: "2011-05-07 16:56:47 +0100"
+
 # Attributes from Felix Online V1
 id: "1177"
 old_path: /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
 aliases:
  - /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
+imported: true
+comments:
+ - Thanks for that Katie  Will pass on the wishesLoving the last post unforgiving readers should try getting a partnerLike Paul this post has made my day Gutted I cant be there  not that anyone will see this before the show starts but best of luckThank you very much for doing this Gilead It makes for good reading and im sure we will read it in months to come and remember how insane but amazingly good fun the whole experience was Bring on 24 hour musical 2012 well maybe after lots of sleep and rest my legs arent working yetWe Will Rock YouAny chance of a cast list asap Looking forward to following the progress hereHi GilWell done on the excellent liveblogging and keeping me up to date on how things are goingGood luck to everybody for tonights performance especially becky tooxxx
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - gda07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for that Katie  Will pass on the wishesLoving the last post unforgiving readers should try getting a partnerLike Paul this post has made my day Gutted I cant be there  not that anyone will see this before the show starts but best of luckThank you very much for doing this Gilead It makes for good reading and im sure we will read it in months to come and remember how insane but amazingly good fun the whole experience was Bring on 24 hour musical 2012 well maybe after lots of sleep and rest my legs arent working yetWe Will Rock YouAny chance of a cast list asap Looking forward to following the progress hereHi GilWell done on the excellent liveblogging and keeping me up to date on how things are goingGood luck to everybody for tonights performance especially becky tooxxx
-imported: true
 ---
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

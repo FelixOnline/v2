@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Who should be in control of London’s £16 billion budget?
 date: "2016-04-20 14:54:52 +0100"
+
 # Attributes from Felix Online V1
 id: "6085"
 old_path: /features/6085/were-having-a-mayor-off
 aliases:
  - /features/6085/were-having-a-mayor-off
+imported: true
+comments:
+ - 2oIZWP  guhnelrkyaht urlhttpglazquahsowncomglazquahsownurl linkhttpevnnymwngriucomevnnymwngriulink httpjfzmvjlwbhqicomLets all hope that useless silverspoon gormless Tory bastard Goldsmith doesnt get inUp yourscheap RS Gold httpmzansisocialcomblogspost6463You are nothing like us u4fifa images httpvisuallyusersu4fifawere so proud of youcheapest and fastest 2k16 mt coins ps4 store httpwwwnba2k16storecomnba2k16PS42199I respect your worku4fifa httpu4fifakinjacomu4fifaispreparedforthearrivaloffifa171776633047If I have the guts to quit my job albion online gold httpoceloteboysfaltagentecompartidasf3acrowdofalbiononlinehintscanhelpyout194Maintain the good work and generating the groupnhl 17 coins httpwwwlovefinderscoukmemberblog_post_viewphppostId905
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 2oIZWP  guhnelrkyaht urlhttpglazquahsowncomglazquahsownurl linkhttpevnnymwngriucomevnnymwngriulink httpjfzmvjlwbhqicomLets all hope that useless silverspoon gormless Tory bastard Goldsmith doesnt get inUp yourscheap RS Gold httpmzansisocialcomblogspost6463You are nothing like us u4fifa images httpvisuallyusersu4fifawere so proud of youcheapest and fastest 2k16 mt coins ps4 store httpwwwnba2k16storecomnba2k16PS42199I respect your worku4fifa httpu4fifakinjacomu4fifaispreparedforthearrivaloffifa171776633047If I have the guts to quit my job albion online gold httpoceloteboysfaltagentecompartidasf3acrowdofalbiononlinehintscanhelpyout194Maintain the good work and generating the groupnhl 17 coins httpwwwlovefinderscoukmemberblog_post_viewphppostId905
-imported: true
 ---
 
 Next Thursday, Londoners go to the polls to vote in their new Mayor of London. Twice-elected Conservative Boris Johnson has moved onto bigger and better things, and now Labour’s Sadiq Khan and the Conservative Zac Goldsmith are going head to head below in this: our comparison of the two frontrunners.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong.
 date: "2013-11-24 16:31:36 +0000"
+
 # Attributes from Felix Online V1
 id: "4125"
 old_path: /tv/4125/witches-of-east-end-season-1
 aliases:
  - /tv/4125/witches-of-east-end-season-1
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong. Yes, an English actress who tries (and sometimes it doesn’t even sound like she’s trying one bit) to put on a convincing American accent. She fails every episode of course, although that alone isn’t enough to write this show off completely.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Presenting as an undergraduate was always horrific. A lot of it had to do with that we (were all given the same project. Having to sit through at least 10 presentations on exactly the same thing, whilst noticing everything the other groups had done better, was not only boring but galling all at once
 date: "2014-02-21 03:27:31 +0000"
+
 # Attributes from Felix Online V1
 id: "4428"
 old_path: /comment/4428/confessions-of-a-gta-part-11
 aliases:
  - /comment/4428/confessions-of-a-gta-part-11
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Presenting as an undergraduate was always horrific. A lot of it had to do with that we (were all given the same project. Having to sit through at least 10 presentations on exactly the same thing, whilst noticing everything the other groups had done better, was not only boring but galling all at once. However, what I thought suspect about the whole thing was the marking. Yes, I saw the nicely prepared marking sheet for the guest markers, but none of them ever filled them out. Somehow too the groups with the flashy presentations without much technical detail always seemed to do best (luckily for me….).

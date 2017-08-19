@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial involved in ESA mission to improve our understanding of solar wind
 date: "2015-02-27 00:33:57 +0000"
+
 # Attributes from Felix Online V1
 id: "5312"
 old_path: /news/5312/imperial-team-prepares-for-mission-to-the-sun
 aliases:
  - /news/5312/imperial-team-prepares-for-mission-to-the-sun
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A team of researchers from the Space and Atmospheric Physics group have reached a new milestone in their mission to study the sun’s magnetic field.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charlotte Levin reports on London Team Trophy success
 date: "2010-11-11 20:52:21 +0000"
+
 # Attributes from Felix Online V1
 id: "346"
 old_path: /sport/346/imperial-fencers-return-with-medals-of-two-metals
 aliases:
  - /sport/346/imperial-fencers-return-with-medals-of-two-metals
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It was a crisp Saturday morning as a group of Imperial fencers headed out to St Paul’s School Sports Hall for the [London Team Trophy](http://www.londonteamtrophy.ulufencing.net/cgi-bin/index.pl).

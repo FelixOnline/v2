@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nelson Mandela, the last great national liberator of the past century, died yesterday at his home in Johannesburg following a 12 year battle with prostate cancer.
 date: "2013-12-06 03:41:56 +0000"
+
 # Attributes from Felix Online V1
 id: "4175"
 old_path: /news/4175/world-shocked-by-mandela-death
 aliases:
  - /news/4175/world-shocked-by-mandela-death
+imported: true
+comments:
+ - Eschewing the path trod by other African liberators such as Zimbabues Robert MugabeThat sentence made me really uncomfortable Theyre not even comparableImperialSad indeed but I would hardly say World Shocked It was what the world was expecting for some time sadly
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Eschewing the path trod by other African liberators such as Zimbabues Robert MugabeThat sentence made me really uncomfortable Theyre not even comparableImperialSad indeed but I would hardly say World Shocked It was what the world was expecting for some time sadly
-imported: true
 ---
 
 Nelson Mandela, the last great national liberator of the past century, died yesterday at his home in Johannesburg following a 12 year battle with prostate cancer. Loved around the world as a freedom fighter and peace maker, Mandela’s death was announced by South African President Jacob Zuma as the loss of the nation’s “greatest son”.

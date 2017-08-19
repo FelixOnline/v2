@@ -4,16 +4,24 @@ title: >
 subtitle: >
   MPs call for applied changes to Babar Ahmad case following evidence admissions
 date: "2011-12-08 20:16:53 +0000"
+
 # Attributes from Felix Online V1
 id: "1911"
 old_path: /news/1911/uk-extradition-laws-to-be-reformed
 aliases:
  - /news/1911/uk-extradition-laws-to-be-reformed
+imported: true
+comments:
+ - Im also reenexing now and im now alautlcy deeply in love with neoderm productsservicesbtw me and my friends both think the Bicelle hydra b5 gel works really really good Have u tried it before it was recommended by my reenex therapist jiejie and its really gooddisclaimer am not working for the neoderm group horhor CharleneWalker loves the VTech Alphabet Train It plays music and lights up It tehaecs letters and colors It also has a seat for riding that can be removed to make it a push toy  cheap car insurance in florida quote online   femoral neuropathy   west ask   necessary skills
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Im also reenexing now and im now alautlcy deeply in love with neoderm productsservicesbtw me and my friends both think the Bicelle hydra b5 gel works really really good Have u tried it before it was recommended by my reenex therapist jiejie and its really gooddisclaimer am not working for the neoderm group horhor CharleneWalker loves the VTech Alphabet Train It plays music and lights up It tehaecs letters and colors It also has a seat for riding that can be removed to make it a push toy  cheap car insurance in florida quote online   femoral neuropathy   west ask   necessary skills
-imported: true
 ---
 
 [A parliamentary debate](http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0002.htm#11120526000001) on extradition took place on Monday 5 December where it was concluded that there should be further calls for a public inquiry into the [Crown Prosecution Service](http://www.cps.gov.uk/) (CPS). The debate came as a result of an e-petition to put Babar Ahmad on trial in the UK securing over 141,000 signatures within three months.

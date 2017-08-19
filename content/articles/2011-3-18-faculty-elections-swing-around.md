@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Scientists, Medics and Engineers vote for next year's committees
 date: "2011-03-18 09:09:58 +0000"
+
 # Attributes from Felix Online V1
 id: "1117"
 old_path: /news/1117/faculty-elections-swing-around
 aliases:
  - /news/1117/faculty-elections-swing-around
+imported: true
+comments:
+ - Wow Thats a rellay neat answeraAd4Pn  qpcpxuzxwdiq ataxia es buy tramadol kjdulh viagra
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Wow Thats a rellay neat answeraAd4Pn  qpcpxuzxwdiq ataxia es buy tramadol kjdulh viagra
-imported: true
 ---
 
 Although the biggest results have already been announced this Tuesday for the Imperial College Union elections, election fever is far from over, with nominees vying for the votes for positions on the committees of the RCSU, CGCU and ICSMSU. All three unions are running their own election for members to choose a new committee to represent them for the upcoming academic year.

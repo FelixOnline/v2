@@ -4,16 +4,23 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson introduces the Chaplaincy – a welfare service for Imperial students
 date: "2011-11-10 22:03:33 +0000"
+
 # Attributes from Felix Online V1
 id: "1740"
 old_path: /news/1740/whats-it-all-about
 aliases:
  - /news/1740/whats-it-all-about
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 "Chaplaincy is really about conversation,” is the way a student once put it. Chaplaincy is a faith based welfare service for students. We seek to provide hospitality, support, reflection and dialogue around belief, religion, faith and spirituality. What that actually means is different types of ‘conversations’.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Itch.io is paving the way for the post-capitalist indie gaming future
 date: "2016-04-29 10:56:13 +0100"
+
 # Attributes from Felix Online V1
 id: "6106"
 old_path: /games/6106/a-different-sort-of-storefront
 aliases:
  - /games/6106/a-different-sort-of-storefront
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Itch.io is a platform that allows indie game developers to distribute their games for free. The majority of games available on the platform are either free, incredibly cheap or pay-what-you-want. Itch corp has even experimented with reverse sales - allowing developers to increase the price of their games for a limited time. Perhaps the most surprising part of itch.io’s model is that pay-what-you-want also extends to their revenue sharing model. Developers can choose to give itch corp anything from zero to 100 percent of each transaction.

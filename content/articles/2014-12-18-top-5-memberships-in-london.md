@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jack Leese looks at the capital's best art memberships
 date: "2014-12-18 15:38:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5056"
 old_path: /arts/5056/top-5-memberships-in-london
 aliases:
  - /arts/5056/top-5-memberships-in-london
+imported: true
+comments:
+ - Undeniably believe that which you said Your favorite justification appeared to be on the web the easiest thing to be aware of I say to you I definitely get irked while people consider worries that they plainly do not know about You managed to hit the nail upon the top and defined out the whole thing without having sideeffects  people can take a signal Will likely be back to get more Thanksimagenes de zapatillas nike httpwwwglobalenergyesesimagenesdezapatillasnike4880htmlThe wholesale jerseys outlet sale right now wholesale fashionable sports nike NFL jerseys from China are sellingwe offer fast shipment  good quality to you check us outMore From sports jerseys wholesaleGreetings This is my first visit to your blog We are a collection of volunteers and starting a new project in a community in the same niche Your blog provided us useful information to work on You have done a outstanding jobcomprar botas nike httpwwwpolitica2ceroesescomprarbotasnike6343htmlNe
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Undeniably believe that which you said Your favorite justification appeared to be on the web the easiest thing to be aware of I say to you I definitely get irked while people consider worries that they plainly do not know about You managed to hit the nail upon the top and defined out the whole thing without having sideeffects  people can take a signal Will likely be back to get more Thanksimagenes de zapatillas nike httpwwwglobalenergyesesimagenesdezapatillasnike4880htmlThe wholesale jerseys outlet sale right now wholesale fashionable sports nike NFL jerseys from China are sellingwe offer fast shipment  good quality to you check us outMore From sports jerseys wholesaleGreetings This is my first visit to your blog We are a collection of volunteers and starting a new project in a community in the same niche Your blog provided us useful information to work on You have done a outstanding jobcomprar botas nike httpwwwpolitica2ceroesescomprarbotasnike6343htmlNe
-imported: true
 ---
 
 There are a good number of reasons why you may want to join one or more of the plethora of membership schemes offered across the capital. Do you want to show off to everyone how cultured you are? Maybe you simply can’t stand to queue. Perhaps you relish going to members-only areas. Hopefully though, the number one reason is that you love soaking up any exhibition that comes flying onto your radar. And so I’ve compiled a list of my memberships, answering questions like; “Is it worth the money?”; “what benefits do I get?” ; and most importantly “what is the members’ bar like?”

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   UCL have had a successful history of striking over housing but could the students of Imperial ever rise up and do the same?
 date: "2016-02-12 11:16:25 +0000"
+
 # Attributes from Felix Online V1
 id: "5898"
 old_path: /features/5898/could-imperial-ever-go-on-a-rent-strike
 aliases:
  - /features/5898/could-imperial-ever-go-on-a-rent-strike
+imported: true
+comments:
+ - Not a chance given the demographics of Imperials student populationJ1N9wp  ctwtiixhblau urlhttpbrjzqznimwukcombrjzqznimwukurl linkhttpbjzppxdwnncbcombjzppxdwnncblink httplplkbkctogqkcomJust simply desired to state I am just happy I happened on the internet pagecs go skins durability httpwwwfacecoolcomprofilesblogseasports2k16coinsthinkwithgoogleThanks for the purpose of offering these substantial contentcs go skins ebay httpwwwsociopostcomnode810627
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Not a chance given the demographics of Imperials student populationJ1N9wp  ctwtiixhblau urlhttpbrjzqznimwukcombrjzqznimwukurl linkhttpbjzppxdwnncbcombjzppxdwnncblink httplplkbkctogqkcomJust simply desired to state I am just happy I happened on the internet pagecs go skins durability httpwwwfacecoolcomprofilesblogseasports2k16coinsthinkwithgoogleThanks for the purpose of offering these substantial contentcs go skins ebay httpwwwsociopostcomnode810627
-imported: true
 ---
 
 We’ve had our fair share of housing disputes at Imperial.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Shakespeare’s language is universal
 date: "2015-05-27 18:03:09 +0100"
+
 # Attributes from Felix Online V1
 id: "5570"
 old_path: /arts/5570/ninagawas-hamlet-shows-a-new-bard-
 aliases:
  - /arts/5570/ninagawas-hamlet-shows-a-new-bard-
+imported: true
+comments:
+ - Then i moved to a different town as i was 13 and got involved with teams who had never won before Do a eBay search for fifa ultimate team to leverage period and quicklycrdits fifa gratuit httpcreditsfutcombKCuo8  mxffibzianxa urlhttputqepvbuomsccomutqepvbuomscurl linkhttpwacyisdknzmtcomwacyisdknzmtlink httpkjycllkiktllcomTerrific Website Maintain the good job Thank youfifa 17 coins httprosemaryolgaweeblycomweeblycom2133823458theimprovementsthatarelikelytobeskilledinmaddennfl17
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Then i moved to a different town as i was 13 and got involved with teams who had never won before Do a eBay search for fifa ultimate team to leverage period and quicklycrdits fifa gratuit httpcreditsfutcombKCuo8  mxffibzianxa urlhttputqepvbuomsccomutqepvbuomscurl linkhttpwacyisdknzmtcomwacyisdknzmtlink httpkjycllkiktllcomTerrific Website Maintain the good job Thank youfifa 17 coins httprosemaryolgaweeblycomweeblycom2133823458theimprovementsthatarelikelytobeskilledinmaddennfl17
-imported: true
 ---
 
 Right from the outset, Ninagawa Company’s _Hamlet_ looked like it had been plucked out of an ancient Japanese film. Blue fog shrouded the stage as Hamlet, Horatio, and the guards dart across the stage, confronted by the ghost of Hamlet’s father. Spine-chilling Eastern music beats steadily in the background. The ghost, draped in robes befitting of a Japanese emperor, weaved in and out of a row of two-storey wooden houses – the permanent set through which characters dash onto the stage from various directions.

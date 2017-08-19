@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nils Hanwahr examines Obama’s plan for the future of science in the United States
 date: "2011-03-01 21:40:28 +0000"
+
 # Attributes from Felix Online V1
 id: "975"
 old_path: /science/975/science-is-fighting-to-survive-in-washington
 aliases:
  - /science/975/science-is-fighting-to-survive-in-washington
+imported: true
+comments:
+ - eager to hear more from this author
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - eager to hear more from this author
-imported: true
 ---
 
 In his recent State of the Union address, President Obama said: “This is our generation’s Sputnik moment.” Invoking the Space Race of the 1960s, he called for an unprecedented level of research and development, especially in biomedical and clean energy technology. At that time, the 2011 budget still had not been passed – and what is today’s Sputnik supposed to be, anyway? Obama said that funding science is “an investment that will strengthen our security, protect our planet, and create countless new jobs for our people.” The image of the space race thus paints a picture of science as the motor of the economic power of the United States and the American people. Why the Sputnik shock? Why not mention the great achievement of the first astronauts looking back at the earth, making us realize that we share a common responsibility for the planet?

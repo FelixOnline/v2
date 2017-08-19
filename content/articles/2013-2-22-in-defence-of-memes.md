@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pietro Aronica thinks persecution of memes is TOO DAMN HIGH
 date: "2013-02-22 01:49:24 +0000"
+
 # Attributes from Felix Online V1
 id: "3367"
 old_path: /comment/3367/in-defence-of-memes
 aliases:
  - /comment/3367/in-defence-of-memes
+imported: true
+comments:
+ - Memes are the death of creativity One person has a clever idea and soon after thousands of people are copying it making less and less original in the process until we reach the lowest possible common denominator There are many amazing things on the internet memes are not one of them Gross
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Memes are the death of creativity One person has a clever idea and soon after thousands of people are copying it making less and less original in the process until we reach the lowest possible common denominator There are many amazing things on the internet memes are not one of them Gross
-imported: true
 ---
 
 Memes, meant in the sense of those internet jokes very fond of cats and stylised shouting faces, are often misunderstood.They are seen as part of a nerdy, self-referential culture keen on meta-humour and pushed beyond the limits of common human discourse by its anonymity, and while all of this is absolutely true, they do display some characteristics that can be associated with art. I do not wish to imply that they are at the same level of Dante, Shakespeare and Tchaikovsky, but perhaps they deserve more love and respect than they are currently given.

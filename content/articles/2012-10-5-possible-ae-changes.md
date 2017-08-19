@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charing Cross likely to close. Waiting times questioned
 date: "2012-10-05 15:52:02 +0100"
+
 # Attributes from Felix Online V1
 id: "2632"
 old_path: /news/2632/possible-ae-changes
 aliases:
  - /news/2632/possible-ae-changes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Plans have been made to close the Accident and Emergency departments of both Charing Cross and Hammersmith hospitals. Instead, Chelsea and Westminster Hospital will be made the main A&E department for the area and will be expanded to handle the extra patients from the borough. Other hospitals that will be affected by these changes are Ealing, Central Middlesex, and West Middlesex.

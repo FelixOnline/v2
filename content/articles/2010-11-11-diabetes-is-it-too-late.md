@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As World Diabetes Day approaches, what can be done?
 date: "2010-11-11 21:06:09 +0000"
+
 # Attributes from Felix Online V1
 id: "352"
 old_path: /science/352/diabetes-is-it-too-late
 aliases:
  - /science/352/diabetes-is-it-too-late
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Diabetes mellitus is a devastating metabolic disease that has seen cases in the UK rising 74% from 1997 to 2003 alone. With 4.7% of the UK population suffering with the condition and almost 300 million worldwide, scientists are trying to understand the mechanisms of glucose control and ultimately, what it is that goes wrong. Today brings new challenges as scientists battle with time due to the ever-increasing rate of diagnoses, fuelled by a spiralling obesity epidemic. With World Diabetes Day fast approaching, what better time is there to make a difference?

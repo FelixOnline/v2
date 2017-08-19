@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Dogs during exam season proves huge hit with engineers
 date: "2016-06-10 08:12:32 +0100"
+
 # Attributes from Felix Online V1
 id: "6246"
 old_path: /news/6246/dog-therapy-for-stressed-students
 aliases:
  - /news/6246/dog-therapy-for-stressed-students
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The City and Guilds union offered a novel way of recovering from exam stress relief last week – playing with dogs.

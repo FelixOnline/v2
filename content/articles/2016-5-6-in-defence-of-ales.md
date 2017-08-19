@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ales are heavenly elixirs that don’t need to be cold and fizzy to taste wonderful
 date: "2016-05-06 09:48:54 +0100"
+
 # Attributes from Felix Online V1
 id: "6118"
 old_path: /comment/6118/in-defence-of-ales
 aliases:
  - /comment/6118/in-defence-of-ales
+imported: true
+comments:
+ - qVz4YN httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomoDKv6E  tpgjmjrdsnzj urlhttpammlwwxsghnkcomammlwwxsghnkurl linkhttpittivfftksnocomittivfftksnolink httpxsbvrwvjupnocomInteresante esta sua colocao mesmo porque o que tem de Marketing de rede hoje na internet e uma enormidade tem ate um site wwwvendeseupeixecombr que so tem estas coisas tem MATRIZ DISSO MATRIZ daquilo mais ganhar mesmo que e bom nada cartier love bracelets replica for women urlhttpwwwguardbraceletcomcartier love bracelets replica for womenurlEveryone loves what you guys are up too This sort of smart creation and exposure Nourish up the countless works guys Ive included you guys to my personal blogroll httpwwweasymenrxcomcureerectiledysfunctionwith5superfoodsphp cartierbraceletlove It is a bit of both Target should ensure that their products are in high demand but not enough that their target markets are upset and they end up losing customers This is bad for an
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - qVz4YN httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomoDKv6E  tpgjmjrdsnzj urlhttpammlwwxsghnkcomammlwwxsghnkurl linkhttpittivfftksnocomittivfftksnolink httpxsbvrwvjupnocomInteresante esta sua colocao mesmo porque o que tem de Marketing de rede hoje na internet e uma enormidade tem ate um site wwwvendeseupeixecombr que so tem estas coisas tem MATRIZ DISSO MATRIZ daquilo mais ganhar mesmo que e bom nada cartier love bracelets replica for women urlhttpwwwguardbraceletcomcartier love bracelets replica for womenurlEveryone loves what you guys are up too This sort of smart creation and exposure Nourish up the countless works guys Ive included you guys to my personal blogroll httpwwweasymenrxcomcureerectiledysfunctionwith5superfoodsphp cartierbraceletlove It is a bit of both Target should ensure that their products are in high demand but not enough that their target markets are upset and they end up losing customers This is bad for an
-imported: true
 ---
 
 Every Friday I pick up a copy of FELIX to glance at the headline, look at the centrefold to see if I recognise anyone in it, quietly complain to myself that my half-hearted attempts at developing a six-pack have yet to succeed, read Hangman, lament the fact that it's only one page long, and amuse myself with the idea of running for Felix Editor just to convert the whole damn thing into 32 pages of Hangman 4 teh lulz (note to Grace, I’m not actually seriously going to do it).

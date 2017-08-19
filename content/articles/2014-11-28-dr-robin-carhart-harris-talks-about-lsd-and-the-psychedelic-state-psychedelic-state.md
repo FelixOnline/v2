@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lauren Ratcliffe interviews Imperial researcher and learns how and why LSD could be used to treat depression and addictions
 date: "2014-11-28 00:57:13 +0000"
+
 # Attributes from Felix Online V1
 id: "4971"
 old_path: /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
 aliases:
  - /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
+imported: true
+comments:
+ - mont blanc ball pen refill iso 12757 montblanc cruise collection white rollerball vintage montblanc pens for sale michael kors jet set travel tote boots on high heels discount ugg coquette tall grey uggs with buttons uggs high heels michael kors buckle bracelet michael kors satchels discount mont blanc ballpoint pens mont blanc 75th anniversary ballpoint pen montblanc greta garbo ballpoint pen montblanc stores singapore mont blanc starwalker fineliner michael kors hamilton bags michael kors over the shoulder purse ugg bailey bow cheap uggs mens shoes mont blanc starwalker ballpoint penmichael kors new handbags httpemmetisrlitscriptidmichaelkorsnewhandbagsp5119aspbuy mont blanc starwalker pen montblanc ballpoint pen refills pluma montblanc starwalker original michael kors jet set travel tote quilted michael kors handbag cheapest price ugg boots leather ugg boots outlet uggs i do michael kors carla sandal michael kors platform sandals michael kors wallets on sale mo
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mont blanc ball pen refill iso 12757 montblanc cruise collection white rollerball vintage montblanc pens for sale michael kors jet set travel tote boots on high heels discount ugg coquette tall grey uggs with buttons uggs high heels michael kors buckle bracelet michael kors satchels discount mont blanc ballpoint pens mont blanc 75th anniversary ballpoint pen montblanc greta garbo ballpoint pen montblanc stores singapore mont blanc starwalker fineliner michael kors hamilton bags michael kors over the shoulder purse ugg bailey bow cheap uggs mens shoes mont blanc starwalker ballpoint penmichael kors new handbags httpemmetisrlitscriptidmichaelkorsnewhandbagsp5119aspbuy mont blanc starwalker pen montblanc ballpoint pen refills pluma montblanc starwalker original michael kors jet set travel tote quilted michael kors handbag cheapest price ugg boots leather ugg boots outlet uggs i do michael kors carla sandal michael kors platform sandals michael kors wallets on sale mo
-imported: true
 ---
 
 Complete understanding behind the powerful effects of psychedelics on the mind has remained a mystery for many decades. Over 60 years has passed since the first discovery of lysergic acid diethylamide (LSD) and since then surprisingly little concrete knowledge of its effects on the brain has been established.

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Imperial 1s are smashing the competition
 date: "2017-03-03 16:18:17 +0000"
+
 # Attributes from Felix Online V1
 id: "6858"
 old_path: /sport/6858/ic-american-football--divison-champs
 aliases:
  - /sport/6858/ic-american-football--divison-champs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After a season-long fight, it all boiled down to the last Sunday of the regular season. To be or not to be, it’s now or never: all three play-off qualifiers (Imperial Immortals, Cambridge Pythons and Kent Falcons) could come out top of the division if the day went their way.

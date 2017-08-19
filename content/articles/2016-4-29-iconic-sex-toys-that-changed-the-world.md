@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tested for your pleasure
 date: "2016-04-29 10:43:41 +0100"
+
 # Attributes from Felix Online V1
 id: "6102"
 old_path: /features/6102/iconic-sex-toys-that-changed-the-world
 aliases:
  - /features/6102/iconic-sex-toys-that-changed-the-world
+imported: true
+comments:
+ - No fleshlightsLove the site extremely individual pleasant and great deals to seeCOUNTERSTRIKE httpwwwosmoilcomcommenthtmlindexphppage1id33908I love the info on your site Thank you so muchMadden nfl 17 httpforummojogamestudioscomdiscussion5484buymadden17coinsmaddenrulesjunevideogamerevenuep1new1Amazing site you have got going hereNBA 2K17 httpchandrakalabrokingcomindexphpblogentry2k17vc3typicalxboxproblemsthatyoumightnotrequirexboxsupporttofixhtmlYou have good thing on this websitemadden 17 coins httpmeforucomeventsphpactionshow_infoevent_id739Thank you so much for sharing your awesome sitemadden 17 coins httpswwwfollowonecomblog27822k17coinsneverpayahighpriceforagamingagainUnbelievably individual pleasant site Astounding details offered on few gos tonba 2k17 httpcsgolearnsmartlogdkfifa17coinscomforttrademotionlikesportsvideogamespost1547220Great looking site Think you did a bunch of
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - No fleshlightsLove the site extremely individual pleasant and great deals to seeCOUNTERSTRIKE httpwwwosmoilcomcommenthtmlindexphppage1id33908I love the info on your site Thank you so muchMadden nfl 17 httpforummojogamestudioscomdiscussion5484buymadden17coinsmaddenrulesjunevideogamerevenuep1new1Amazing site you have got going hereNBA 2K17 httpchandrakalabrokingcomindexphpblogentry2k17vc3typicalxboxproblemsthatyoumightnotrequirexboxsupporttofixhtmlYou have good thing on this websitemadden 17 coins httpmeforucomeventsphpactionshow_infoevent_id739Thank you so much for sharing your awesome sitemadden 17 coins httpswwwfollowonecomblog27822k17coinsneverpayahighpriceforagamingagainUnbelievably individual pleasant site Astounding details offered on few gos tonba 2k17 httpcsgolearnsmartlogdkfifa17coinscomforttrademotionlikesportsvideogamespost1547220Great looking site Think you did a bunch of
-imported: true
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

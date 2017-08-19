@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Google to make learning languages redundant?
 date: "2010-12-02 19:59:06 +0000"
+
 # Attributes from Felix Online V1
 id: "456"
 old_path: /tech/456/google-to-make-learning-languages-redundant
 aliases:
  - /tech/456/google-to-make-learning-languages-redundant
+imported: true
+comments:
+ - The idea of being able to converse with someone who doesnt speak your language and translated almost instantly is one of those inventions if anyone can pull it off Google can but even Google can not make learning languages redundant Napoleon said every tongue by man
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - kl208
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kl208"
 author_name: "Kin-hing Lo"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The idea of being able to converse with someone who doesnt speak your language and translated almost instantly is one of those inventions if anyone can pull it off Google can but even Google can not make learning languages redundant Napoleon said every tongue by man
-imported: true
 ---
 
 It’s been 27 years since the first handheld portable mobile phone came out and since then it has revolutionised the world. With the development of GSM technology and seamless international roaming, it is now possible for any two people, on different corners of the Earth not connected by wires, to talk to each another at any time simply by dialling a sequence of numbers on their phone. The mobile phone has torn down geographical and national barriers and made the whole world feel a lot smaller.

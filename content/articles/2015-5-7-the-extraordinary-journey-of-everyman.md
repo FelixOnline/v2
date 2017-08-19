@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rufus Norris ushers in his tenure at the National Theatre with this updated morality play, featuring a powerhouse performance by Chiwetel Ejiofor
 date: "2015-05-07 09:52:48 +0100"
+
 # Attributes from Felix Online V1
 id: "5497"
 old_path: /arts/5497/the-extraordinary-journey-of-everyman
 aliases:
  - /arts/5497/the-extraordinary-journey-of-everyman
+imported: true
+comments:
+ - Thanks intended for delivering these types of superior postingnfl 17 httppaycationiqcomblogs1047fifacoinsplayedforthemselveswithapsphttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsa
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks intended for delivering these types of superior postingnfl 17 httppaycationiqcomblogs1047fifacoinsplayedforthemselveswithapsphttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsalegenericcomankor httpwithoutprescriptiononlinepropecianethttpviagracheapestpricepillsorg  viagracheapestpricepillsorgankor levitraforsa
-imported: true
 ---
 
 For British actor Chiwetel Ejiofor, no role is too large. Coming to national prominence after his showstopping turn in _Othello_ in 2008, for which he won the Olivier Award for Best Actor, he returns to the UK this year with a spade of awards and nominations under his belt thanks to his stirring performance as Solomon Northup in the 2013 Steve McQueen film _12 Years A Slave_, which nabbed the top spot of numerous critics’ end of year lists. However, if any role is to give him pause it would be his latest one: Ejiofor is the titular character in the National Theatre’s production of _Everyman_, taking on the mantle of humanity. Rufus Norris’ first directorial effort as head of the National Theatre, _Everyman_ is a mixed bag, with strong performances and excellent physicality coming up against a lackluster script, whose elements jar in all the wrong places.

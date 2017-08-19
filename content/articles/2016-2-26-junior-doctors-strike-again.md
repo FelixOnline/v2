@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Three dates set for 48-hour strikes
 date: "2016-02-26 11:20:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5954"
 old_path: /news/5954/junior-doctors-strike-again
 aliases:
  - /news/5954/junior-doctors-strike-again
+imported: true
+comments:
+ - Great content youve herenba 2k16 mtdb httpanastasia135angelfirecomblognba2k16vchtmlNot that I know ofCheap NBA 2K17 MT for sale httpwwwprolifesinglescomblogsentryHaveAGlimpseAt2K17sAllTimeConnecticutSquadYour company is very impressive UPAlbioncom httpswwwboonexcomforumstopicPreWipeOccasionsRegardingAlbionOnlinehtmThats not the pointbuy cheap dofus touch kamas httpuser1482745196728yepcomblog4106701806034
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great content youve herenba 2k16 mtdb httpanastasia135angelfirecomblognba2k16vchtmlNot that I know ofCheap NBA 2K17 MT for sale httpwwwprolifesinglescomblogsentryHaveAGlimpseAt2K17sAllTimeConnecticutSquadYour company is very impressive UPAlbioncom httpswwwboonexcomforumstopicPreWipeOccasionsRegardingAlbionOnlinehtmThats not the pointbuy cheap dofus touch kamas httpuser1482745196728yepcomblog4106701806034
-imported: true
 ---
 
 England's Junior Doctors are set to strike again with three 48-hour walkouts planned for the coming two months, meaning that planned operations and procedures may well be affected, but emergency care will be maintained.

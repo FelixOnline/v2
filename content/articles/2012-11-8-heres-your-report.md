@@ -4,16 +4,24 @@ title: >
 subtitle: >
   2012 entry will have indication of performance in Horizons courses they take. Exact wording is to be decided. Report card degrees, containing information on extra-curricular activities, may be introduced?
 date: "2012-11-08 23:44:30 +0000"
+
 # Attributes from Felix Online V1
 id: "2828"
 old_path: /news/2828/heres-your-report
 aliases:
  - /news/2828/heres-your-report
+imported: true
+comments:
+ - surely youd write about your extra curricular activities on your cv or cover letter anyway isnt it a bit redundant i suppose youd get an official stamp from the uni to say youre not making it up but it doesnt seem like something to form a committee aboutAn interesting readHorizons HEAR and similar initiatives are vital at this institution one where students are traditionally viewed as very scientifically minded with little interest in extracurriculars If employers do place greater importance on nonacademic achievements this will encourage students to pursue interests beyond their textbooks and the library and in turn allow them to better themselvesPretty sure if they give every single damn exam grade it would completely kill off interests in extracirriculars I like it how it is now on an average of a 22 but with Predicted first on my CV ahhh yeaaaahhh
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - surely youd write about your extra curricular activities on your cv or cover letter anyway isnt it a bit redundant i suppose youd get an official stamp from the uni to say youre not making it up but it doesnt seem like something to form a committee aboutAn interesting readHorizons HEAR and similar initiatives are vital at this institution one where students are traditionally viewed as very scientifically minded with little interest in extracurriculars If employers do place greater importance on nonacademic achievements this will encourage students to pursue interests beyond their textbooks and the library and in turn allow them to better themselvesPretty sure if they give every single damn exam grade it would completely kill off interests in extracirriculars I like it how it is now on an average of a 22 but with Predicted first on my CV ahhh yeaaaahhh
-imported: true
 ---
 
 [Higher Education Achievement Record (HEAR)](http://www.hear.ac.uk/) have recently been suggested as an alternative to just receiving a single grade.

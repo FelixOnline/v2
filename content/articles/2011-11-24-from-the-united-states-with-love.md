@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Rory Fenton looks back at the Special Relationship
 date: "2011-11-24 21:28:30 +0000"
+
 # Attributes from Felix Online V1
 id: "1821"
 old_path: /politics/1821/from-the-united-states-with-love
 aliases:
  - /politics/1821/from-the-united-states-with-love
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Twentieth Century has been marked and shaped by many international alliances. From NATO to the Warsaw pact, these alliances have changed our world, for better or worse. But even as NATO warplanes fly over Libya and the Arab League rails against Syria, the strongest and most enduring of these alliances has no formal founding documents, no official meeting chambers and no flashy logo.

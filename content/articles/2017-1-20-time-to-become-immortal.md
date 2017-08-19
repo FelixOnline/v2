@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Sport Editor Sam Smith does sports. Sports! Sports! Sports!
 date: "2017-01-20 15:49:08 +0000"
+
 # Attributes from Felix Online V1
 id: "6678"
 old_path: /sport/6678/time-to-become-immortal
 aliases:
  - /sport/6678/time-to-become-immortal
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Apparently one of the most hotly anticipated games of the NFL season happened a couple of days ago. Did you know? I certainly didn’t, but it was played between two giants of the game to decide who would progress for a chance at the Super Bowl. No, not a huge piece of crockery for mammoth breakfast portions, but the most important date in the American football calendar. In pure American style the Super Bowl is an event of epic proportions, with the likes of the Red Hot Chilli Peppers, Beyoncé, The Who and Bruce Springsteen gracing the famous half-time extravaganzas. Before I even get into my attempt at taking this on, I’m already excited by a sport whose associated entertainment dwarfs the Monmouth Male Voice Choir who sang at the Six Nations last year (still brilliant I hasten to add).

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Yo La Tengo : Fade
 date: "2013-01-18 00:52:22 +0000"
+
 # Attributes from Felix Online V1
 id: "3144"
 old_path: /music/3144/ams-album-of-the-week-9
 aliases:
  - /music/3144/ams-album-of-the-week-9
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Yo La Tengo are not the sort of band you can pigeonhole. Their albums are a mishmash of genres from across the alternative rock spectrum and beyond. Their latest effort, Fade, is slightly less of a mixed bag. All of the standard sounds are here, but they don’t get their own tracks any more. There are no songs here that are primarily shoegaze or psychedelic or folk. The vast majority of the album is indie pop with shoegaze or psychedelic or folk influences. The tracks not only stand up individually, but they also all work as a coherent body as well. It’s an interesting change and one I’m not 100% about.

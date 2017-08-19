@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Shocked to see how Christian Bale was a ‘fatman’ in American Hustle? The clearly dedicated actor is back to a healthier looking shape in Scott Cooper’s highly depressing thriller that highlights that not all of America is a land of opportunity. No protagonist here can catch a break in this grim...
 date: "2014-02-07 04:41:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4341"
 old_path: /film/4341/the-brothers-grim
 aliases:
  - /film/4341/the-brothers-grim
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Out of the Furnace

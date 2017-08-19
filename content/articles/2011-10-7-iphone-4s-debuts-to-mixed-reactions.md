@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tim Cook delivers his first keynote speech
 date: "2011-10-07 10:42:00 +0100"
+
 # Attributes from Felix Online V1
 id: "1489"
 old_path: /tech/1489/iphone-4s-debuts-to-mixed-reactions
 aliases:
  - /tech/1489/iphone-4s-debuts-to-mixed-reactions
+imported: true
+comments:
+ - receiving retail text maketring alerts compared to only 26 in July 2009 Similarly the number of mobile consumers who answered  extremely interested  climbed from 5 to 10 in the same time frame ThisBoh men you are going places I am so so PROUD of your work FantasticThis cploue have taken it to a whole new level very original especially the Bamenda piece love their very unique invitation too beautifulTake care dear and do not let even the skies be your stop point keep it coming
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - receiving retail text maketring alerts compared to only 26 in July 2009 Similarly the number of mobile consumers who answered  extremely interested  climbed from 5 to 10 in the same time frame ThisBoh men you are going places I am so so PROUD of your work FantasticThis cploue have taken it to a whole new level very original especially the Bamenda piece love their very unique invitation too beautifulTake care dear and do not let even the skies be your stop point keep it coming
-imported: true
 ---
 
 Tuesday evening brought us Tim Cook’s first keynote as Apple’s outright CEO, but that wasn’t the largest change as Apple turned away from its huge yearly update of the iPhone to instead offer punters an incrementally upgraded version, [the iPhone 4S](http://www.apple.com/uk/iphone/).

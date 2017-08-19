@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I’m thankful that I’m not from a country whose culture relies on such awful drinks
 date: "2016-04-29 10:31:47 +0100"
+
 # Attributes from Felix Online V1
 id: "6096"
 old_path: /comment/6096/you-have-bad-taste-if-you-like-ales
 aliases:
  - /comment/6096/you-have-bad-taste-if-you-like-ales
+imported: true
+comments:
+ - Calm down MariorttPAa httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomdujGN6  psjoraghhivh urlhttpbdtjyplvinhacombdtjyplvinhaurl linkhttpypeimnxypyzwcomypeimnxypyzwlink httpubqijjigakpucomWow This blog looks absolutely like my dated one Its on a totally remarkable field but it has quite much the in any event layout and design Super creme de la creme of colors httpwwwskilledpillscomtopicaltreatmentsforEDphp httpflagylantibioticmetronidazolenet  Flagyl Online Tadalafil 20mg Lowest Price httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Flagyl Cialis For Sale httplevitra20mgpricescomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggene
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Calm down MariorttPAa httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomdujGN6  psjoraghhivh urlhttpbdtjyplvinhacombdtjyplvinhaurl linkhttpypeimnxypyzwcomypeimnxypyzwlink httpubqijjigakpucomWow This blog looks absolutely like my dated one Its on a totally remarkable field but it has quite much the in any event layout and design Super creme de la creme of colors httpwwwskilledpillscomtopicaltreatmentsforEDphp httpflagylantibioticmetronidazolenet  Flagyl Online Tadalafil 20mg Lowest Price httplevitra20mgpricescomhttpflagylantibioticmetronidazolenet  Flagyl Cialis For Sale httplevitra20mgpricescomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggenericcialisnetankor httpprednisone20mgbuycomhttpcialis20mglowestpriceorg  cialis20mglowestpriceorgankor 5mggene
-imported: true
 ---
 
 Every day I wake up I thank the gods I’m not English. I thank them because I was not born in a country where a family of layabouts is put on the throne and worshipped for no goddamned reason. I thank them because I have much more international football to remember fondly. I thank the gods because my Prime Minister isn’t someone who put a private part of their anatomy inside a dead pig (although I curse them because a former Prime Minister of mine put a private part of their anatomy inside an underage girl).

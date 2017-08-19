@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Raymond Thawani walks you through a day in the life
 date: "2015-01-23 19:19:42 +0000"
+
 # Attributes from Felix Online V1
 id: "5151"
 old_path: /sport/5151/ever-thought-of-joining-floorball
 aliases:
  - /sport/5151/ever-thought-of-joining-floorball
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “MAN! ON!” The howls resonate through the hall as each team eggs the other one on. A feint to the right, a twirl and another dodge before the striker is through the defensive line. She manipulates the curved head of the floorball stick with the deft and ease of a water bender as she races towards the goal line. 20 yards and closing...

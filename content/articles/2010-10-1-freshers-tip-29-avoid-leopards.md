@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Other guides will teach you about the dreaded Freshers’ Flu and how it can be avoided. What they fail to mention are leopards...
 date: "2010-10-01 22:44:54 +0100"
+
 # Attributes from Felix Online V1
 id: "166"
 old_path: /comment/166/freshers-tip-29-avoid-leopards
 aliases:
  - /comment/166/freshers-tip-29-avoid-leopards
+imported: true
+comments:
+ -       sexwa  httpsaudepvkontakrovatkasu
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- -       sexwa  httpsaudepvkontakrovatkasu
-imported: true
 ---
 
 A big hello to those of you picking up Felix for the very first time. And a very good day to you! You are at the beginning of one of the most exciting, terrifying... and certainly unique periods of your life. University. London. People. It gives me a buzz just thinking about it. To prepare you for what lies in store, I will relate a brief Freshers’ Guide to Imperial. First piece of advice: if you ever need a computer in the library, learn how to say, “Stop playing World of Warcraft and get out!” in five different languages.

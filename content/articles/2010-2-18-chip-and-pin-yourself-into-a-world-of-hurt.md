@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Simon Worthington looks at the so called 'secure' Chip-and-PIN verification system and how it might not be as safe as you think
 date: "2010-02-18 14:29:05 +0000"
+
 # Attributes from Felix Online V1
 id: "91"
 old_path: /tech/91/chip-and-pin-yourself-into-a-world-of-hurt
 aliases:
  - /tech/91/chip-and-pin-yourself-into-a-world-of-hurt
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The days of securely paying with plastic are over. It's high time we all went back to paying with paper money, or perhaps even doubloons. They're both probably safer than the current electronic system we have in the UK, the infamous 'Chip-and-PIN'. Last week, eminent security researcher Ross Anderson and his team published a paper identifying a huge security flaw in the system that governs all of our real-life credit and debit card transactions. The take home message of the paper was that our cards are not, and have never been, as secure as we all thought.

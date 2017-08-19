@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Lauren Ratcliffe on doom, gloom and the sixth mass-extinction
 date: "2015-01-23 17:57:17 +0000"
+
 # Attributes from Felix Online V1
 id: "5137"
 old_path: /science/5137/have-we-entered-a-new-human-dominated-epochthe-anthropocene
 aliases:
  - /science/5137/have-we-entered-a-new-human-dominated-epochthe-anthropocene
+imported: true
+comments:
+ - christianlouboutinchristian louboutin sale clearance httpchristianlouboutincanadaoutletblogspotcomnba 2k16 mt codes httpwwwpojazdyplblog9511counterstrikeskinsandfunsoitsworthcheckingout
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - christianlouboutinchristian louboutin sale clearance httpchristianlouboutincanadaoutletblogspotcomnba 2k16 mt codes httpwwwpojazdyplblog9511counterstrikeskinsandfunsoitsworthcheckingout
-imported: true
 ---
 
 __Sunset for the Holocene__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Watching events in your country unfold from across the border isn't easy
 date: "2015-11-06 13:56:02 +0000"
+
 # Attributes from Felix Online V1
 id: "5702"
 old_path: /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
 aliases:
  - /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
+imported: true
+comments:
+ - Thanks for your strategies One thing Ive got noticed is that banks and financial institutions have in mind the spending routines of consumers and understand that a lot of people max out their real credit cards around the getaways They smartly take advantage of this real fact and begin flooding ones inbox and also snailmail box along with hundreds of Zero APR card offers shortly when the holiday season finishes Knowing that in case you are like 98 of all American open public youll hop at the possible opportunity to consolidate credit debt and move balances for 0 APR credit cardssnapback hats cheap httpwwwtwofangtucnsnapbackhats
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for your strategies One thing Ive got noticed is that banks and financial institutions have in mind the spending routines of consumers and understand that a lot of people max out their real credit cards around the getaways They smartly take advantage of this real fact and begin flooding ones inbox and also snailmail box along with hundreds of Zero APR card offers shortly when the holiday season finishes Knowing that in case you are like 98 of all American open public youll hop at the possible opportunity to consolidate credit debt and move balances for 0 APR credit cardssnapback hats cheap httpwwwtwofangtucnsnapbackhats
-imported: true
 ---
 
 When talking about how it feels to live abroad, the conversation tends to revolve around the things you miss, such as family members, the weather, or food. But, if your home country is in a state of change and turmoil, the hardest thing about being away is having to live through certain events merely through the news, brought to you predominantly by social media.

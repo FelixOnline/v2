@@ -4,16 +4,22 @@ title: >
 subtitle: >
   King Lear is on at the Barbican until 23rd December 2016
 date: "2016-12-02 15:01:37 +0000"
+
 # Attributes from Felix Online V1
 id: "6537"
 old_path: /arts/6537/king-lear-is-a-hit-and-miss-at-the-barbican-
 aliases:
  - /arts/6537/king-lear-is-a-hit-and-miss-at-the-barbican-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 How does a creative team begin to tackle the momentous task of reincarnating a play that has been performed and studied for centuries? Do they period dress the stage and cast, and risk being forgotten in the plethora of Shakespeare productions? Or do they approach the play from an entirely new angle knowing that, should they fail, being a forgotten production would turn from curse to blessing? The Royal Shakespeare Company’s production of King Lear at the Barbican opts for a mixture of the two, leading to an adaptation that trips over itself too often to fall in love with it.

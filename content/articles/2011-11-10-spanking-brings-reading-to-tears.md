@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Reading in Imperial hockey demolition
 date: "2011-11-10 22:40:01 +0000"
+
 # Attributes from Felix Online V1
 id: "1751"
 old_path: /sport/1751/spanking-brings-reading-to-tears
 aliases:
  - /sport/1751/spanking-brings-reading-to-tears
+imported: true
+comments:
+ - Hi there i read your blog occasionally and i own a sliamir one and iwas just wondering if you get a lot of spam remarks If so how do youreduce it any plugin or anything you can suggestI get so much lately its driving me insane so any support is very much appreciatedAfter study a number of that the blog arlietcs on your web site nowwe truly as if your means of blogging I bookmarked it to my bookmark website list and you will be checking back soon Pls take a look at myweb site also and tell me how you feel
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hi there i read your blog occasionally and i own a sliamir one and iwas just wondering if you get a lot of spam remarks If so how do youreduce it any plugin or anything you can suggestI get so much lately its driving me insane so any support is very much appreciatedAfter study a number of that the blog arlietcs on your web site nowwe truly as if your means of blogging I bookmarked it to my bookmark website list and you will be checking back soon Pls take a look at myweb site also and tell me how you feel
-imported: true
 ---
 
 __Hockey__

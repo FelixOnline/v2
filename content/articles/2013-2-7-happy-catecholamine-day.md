@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Looking forward to your hot date? Philippa Skett explains why
 date: "2013-02-07 23:28:13 +0000"
+
 # Attributes from Felix Online V1
 id: "3261"
 old_path: /science/3261/happy-catecholamine-day
 aliases:
  - /science/3261/happy-catecholamine-day
+imported: true
+comments:
+ - The underlying neurology of animals their traits and the ability to assay them are such that direct comparisons between say mice and humans should be treated with caution rendering animal tests here slightly flawed In the original peerreviewed article  by Helen Fisher found herehttpwwwhelenfishercomdownloadsarticles10lustattractionpdfThey discuss the issue between comparing different species of mammals and note that brain regions and responses vary from one species to the next Also being able to decide if a mouse is in love without direct communication will also prove difficult that is why they discuss this for humansWould be good to confirm this before stating so confidently Neuroscience is a complex field in which a lot is still not understood due to both poor investigative techniques and the moral complications involved if attempting to replicate studies in vivo Anything in neuroscience is open to skepticism so fair play to you I guessShould test this on animals
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The underlying neurology of animals their traits and the ability to assay them are such that direct comparisons between say mice and humans should be treated with caution rendering animal tests here slightly flawed In the original peerreviewed article  by Helen Fisher found herehttpwwwhelenfishercomdownloadsarticles10lustattractionpdfThey discuss the issue between comparing different species of mammals and note that brain regions and responses vary from one species to the next Also being able to decide if a mouse is in love without direct communication will also prove difficult that is why they discuss this for humansWould be good to confirm this before stating so confidently Neuroscience is a complex field in which a lot is still not understood due to both poor investigative techniques and the moral complications involved if attempting to replicate studies in vivo Anything in neuroscience is open to skepticism so fair play to you I guessShould test this on animals
-imported: true
 ---
 
 Love is a many-splendored thing, according to experts. As someone who considers themselves a scientist and, depending on how many glasses of wine I have had, someone who has been in love, this week of all weeks I couldn’t help but wonder, what exactly is love? Does it benefit us as a species? Is it an evolutionary hangover regarding altruism and mating preference, skewered by social etiquette? Or is it selfishness, projected on someone as a need to be with them, but in reality an obsession to obtain their gametes for you, and only you, and not share these amazing genes with anyone else? These certainly cross my mind whenever I am eyeing up someone in Metric, but for others it may not be as crystal clear.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Claudia Mihai discusses the recent anti-corruption protests in Romania
 date: "2017-02-10 13:53:59 +0000"
+
 # Attributes from Felix Online V1
 id: "6750"
 old_path: /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
 aliases:
  - /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
+imported: true
+comments:
+ - vRe5gP  trsdvbdeqdax urlhttpqpakpmwvjlekcomqpakpmwvjlekurl linkhttpbzitfdpbwmwacombzitfdpbwmwalink httphdbzsyodfsmhcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - vRe5gP  trsdvbdeqdax urlhttpqpakpmwvjlekcomqpakpmwvjlekurl linkhttpbzitfdpbwmwacombzitfdpbwmwalink httphdbzsyodfsmhcom
-imported: true
 ---
 
 A brief glance at the main headlines and you can see that the past month has been filled with protests, discontent, and outrage. While the world is watching the United States, Eastern Europe is facing its own demons as formerly communist country Romania is seeing its largest protest since the fall of the regime.

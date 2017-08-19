@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-09 17:25:00 +0000"
+
 # Attributes from Felix Online V1
 id: "5368"
 old_path: /comment/5368/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
 aliases:
  - /comment/5368/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
+imported: true
+comments:
+ - fit flops salediscount fitflops httpfitflopsaublogspotcomHiya neat internet site you have got herenfl 17 httpcompletemarinecarecomconsignmentitem2248
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fit flops salediscount fitflops httpfitflopsaublogspotcomHiya neat internet site you have got herenfl 17 httpcompletemarinecarecomconsignmentitem2248
-imported: true
 ---
 
 __Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __

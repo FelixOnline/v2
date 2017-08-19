@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ipsita Herlekar explains how taste and flavour can be brought back in tomatoes
 date: "2017-02-03 16:37:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6718"
 old_path: /science/6718/making-tomatoes-tasty-again-
 aliases:
  - /science/6718/making-tomatoes-tasty-again-
+imported: true
+comments:
+ - Youve really imesrespd me with that answer
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youve really imesrespd me with that answer
-imported: true
 ---
 
 Have you ever wondered why the tomatoes in your salad taste as bland as cardboard (yes even the Taste the Difference one)? That’s because they actually lack the stuff that adds taste and flavour, a recent study has discovered.

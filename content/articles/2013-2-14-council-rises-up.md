@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An editorial on Council and letters
 date: "2013-02-14 21:16:55 +0000"
+
 # Attributes from Felix Online V1
 id: "3334"
 old_path: /comment/3334/council-rises-up
 aliases:
  - /comment/3334/council-rises-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It was a good thing to see that Council decided to [vote to have a clear opinion on something](http://felixonline.co.uk/news/3337/union-does-not-support-closure-of-translation-studies-unit/). Especially that people came to a decision and didn’t care what the sabbs thought and made up their own mind. This happened on not one but two occasions, which was refreshing. Perhaps it had something to do with the seating change, where it was a circle. I initially mocked it as “being like an A Level drama class”, but maybe having a select few sit at the front of the room does make people think they are above them.

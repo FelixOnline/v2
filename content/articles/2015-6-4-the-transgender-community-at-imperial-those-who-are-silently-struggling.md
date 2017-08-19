@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett on one of the survey’s sadder revelations
 date: "2015-06-04 23:37:12 +0100"
+
 # Attributes from Felix Online V1
 id: "5602"
 old_path: /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
 aliases:
  - /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
+imported: true
+comments:
+ - My family say I am a girl but I think I am an elephant In my heart I have a trunk I dont think I will be happy until people accept me as an elephantI am confused Shall I seek psychological help or should I get surgerybirkenstock sale sandalsbirkenstocks sydney httpbirkenstockaustraliablogspotcomA yellow card equals 1 card and a red card equal 2 cards Contrary to the above 13 of the games to date ended in 10 score line Be sure to have your soccer wall stickers for childs room printed only by trusted bosscrdits fifa gratuit httpcreditsfutcomred soled shoeschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomGreat website you possess going herecs go skins arena httpfuturesevocativecomnetworkingforumviewpostlistforum1futuresevocativetopic31360csgoskinsbuyfightergotogetherwithfloorgameReally helpfullooking forwards to visiting againcs go skins after match httpdjbasementcomforumdiscussion549899csgo
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My family say I am a girl but I think I am an elephant In my heart I have a trunk I dont think I will be happy until people accept me as an elephantI am confused Shall I seek psychological help or should I get surgerybirkenstock sale sandalsbirkenstocks sydney httpbirkenstockaustraliablogspotcomA yellow card equals 1 card and a red card equal 2 cards Contrary to the above 13 of the games to date ended in 10 score line Be sure to have your soccer wall stickers for childs room printed only by trusted bosscrdits fifa gratuit httpcreditsfutcomred soled shoeschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomGreat website you possess going herecs go skins arena httpfuturesevocativecomnetworkingforumviewpostlistforum1futuresevocativetopic31360csgoskinsbuyfightergotogetherwithfloorgameReally helpfullooking forwards to visiting againcs go skins after match httpdjbasementcomforumdiscussion549899csgo
-imported: true
 ---
 
 The Felix Sex Survey found that 9 of the respondents do not identify with the gender they were assigned at birth. A third of those respondents said they were unhappy with their sex life, and a few commented about the issues they face as transgender individuals.

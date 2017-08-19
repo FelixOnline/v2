@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Christian Franke advises you on how to expand your drinking horizons
 date: "2011-02-03 18:47:59 +0000"
+
 # Attributes from Felix Online V1
 id: "705"
 old_path: /food/705/down-in-one-i-think-not
 aliases:
  - /food/705/down-in-one-i-think-not
+imported: true
+comments:
+ - Ben youve got to remember that viticulture isnt a course offered at ImperialIn short a single malt is made from a single distillate where as a blended whisky is a combination of two or more single maltsThis point is incorrect Single malt means that the whikey is from the the same grain IE MALT when you start blending whiskey from wheat malt barley or rye that is what makes a blended whiskey You can still have single malt whiskey that is a blend of more than one single malt
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Ben youve got to remember that viticulture isnt a course offered at ImperialIn short a single malt is made from a single distillate where as a blended whisky is a combination of two or more single maltsThis point is incorrect Single malt means that the whikey is from the the same grain IE MALT when you start blending whiskey from wheat malt barley or rye that is what makes a blended whiskey You can still have single malt whiskey that is a blend of more than one single malt
-imported: true
 ---
 
 Not everybody may agree with me, but is there a more satisfying tipple than a whisky? The aromas, the warmth, the flavour, come to think of it, there are few drinks I would rate more than a good scotch. Whilst its taste is acquired and occasionally referred to as a kin to petrol by philistines, this makes it even more rewarding when you begin to appreciate it, yet despite these points, perhaps the best feature of whisky is its versatility. Whisky is great for mixing as well drinking neat, bourbon and coke, has a far more complex and enjoyable taste than its vodka alternative and any kind of whisky (preferably nothing too expensive) with ginger ale is also highly agreeable. On top of that, the drink is fairly good value compared to its distant cousin brandy for equivalent qualities.

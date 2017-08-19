@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The new film by the French-Canadian auteuer at the top of his game arrives at cinemas next Friday
 date: "2016-11-04 14:10:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6386"
 old_path: /film/6386/a-beginners-guide-to-denis-villeneuve
 aliases:
  - /film/6386/a-beginners-guide-to-denis-villeneuve
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Hugh Jackman –was it as scary to work with him in _Prisoners_ as it looked? What the were all the spiders about in _Enemy_? And how the hell do you pronounce that last name?! There are many questions we’d love to ask Denis Villeneuve, the man who’s gone from abduction drama to existential horror to war-crime thriller to thought-provoking sci-fi - all in the space of the last three years. Sadly, he’s a little busy at the moment, so he wasn’t around to answer them. But, with his latest feature _Arrival_ being released in the UK next week, we figured we had enough of a reason to nerd out over him and his work anyway. Here is a short profile of the man and his filmography; a three-time winner of the Academy of Canadian Cinema and Television Best Film award and Genie Award for Best Direction, future director of the sequel to the science fiction classic _Blade Runner_, and all-round great filmmaker.

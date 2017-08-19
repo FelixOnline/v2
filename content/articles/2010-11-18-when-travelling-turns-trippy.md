@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Chris Richardson has his drink spiked at a sleazy beach bar on one of Thailand's most beautiful islands before hitting the streets. Hilarity ensues
 date: "2010-11-18 20:50:22 +0000"
+
 # Attributes from Felix Online V1
 id: "395"
 old_path: /travel/395/when-travelling-turns-trippy
 aliases:
  - /travel/395/when-travelling-turns-trippy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Tightly nestled among the happy snaps and hilarious anecdotes lie the problems you’re bound to run into while on the road. For the sake of saving your relatives a heart attack it’s probably for the greater good that these are reserved for the likes of memories and private journal entries, but I’ll share a great one of mine with you. I suppose my only real regret is that my evening after getting my drink spiked was unfortunately nothing like The Hangover.

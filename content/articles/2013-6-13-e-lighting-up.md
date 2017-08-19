@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two smokers give the new E-Lites a test to see what they’re like
 date: "2013-06-13 23:41:34 +0100"
+
 # Attributes from Felix Online V1
 id: "3698"
 old_path: /news/3698/e-lighting-up
 aliases:
  - /news/3698/e-lighting-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Others in the Felix Office will vouch for this. My first words on smoking my allocated e-cigarette were, “this tastes like smoking a dusty egg in a sauna”. In my all too numerous returns to the device I never managed to elucidate a more pithy nor precise description of the experience. As you can probably tell by now, this review will not be positive. Mine came in a red box, which apparently means regular strength, meaning you get the full eggy experience.

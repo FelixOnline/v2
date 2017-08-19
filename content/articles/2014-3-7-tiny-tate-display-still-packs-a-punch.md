@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Tate Modern opens its Harry Callahan display with a quote from the photographer: “if a man wishes to express himself photographically, he must understand… his relationship to life”.
 date: "2014-03-07 05:41:17 +0000"
+
 # Attributes from Felix Online V1
 id: "4462"
 old_path: /arts/4462/tiny-tate-display-still-packs-a-punch
 aliases:
  - /arts/4462/tiny-tate-display-still-packs-a-punch
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What: Harry Callahan Display

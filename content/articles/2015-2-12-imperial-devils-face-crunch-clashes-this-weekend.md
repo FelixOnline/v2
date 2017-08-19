@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ollie Ford on ice hockey's three crucial games
 date: "2015-02-12 22:40:03 +0000"
+
 # Attributes from Felix Online V1
 id: "5242"
 old_path: /sport/5242/imperial-devils-face-crunch-clashes-this-weekend
 aliases:
  - /sport/5242/imperial-devils-face-crunch-clashes-this-weekend
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial Devils B head into a two-game road trip this weekend on a dry stretch of late, having lost their last three games since a strong season opener, which saw the team shutout Cardiff Breadhawks for a 6-0 win on home ice at the Streatham Ice Arena (SIA).

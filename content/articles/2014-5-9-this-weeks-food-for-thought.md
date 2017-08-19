@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history.
 date: "2014-05-09 15:43:12 +0100"
+
 # Attributes from Felix Online V1
 id: "4589"
 old_path: /food/4589/this-weeks-food-for-thought
 aliases:
  - /food/4589/this-weeks-food-for-thought
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history. I’ve got to admit, not everything looked amazing, be it the colour reproduction of my phone (curry is not the most pleasant-looking dish ever), or just the lack of lighting in a restaurant.

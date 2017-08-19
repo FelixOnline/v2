@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Students (both past and present) and staff are called upon to give their views on the educational and student experience
 date: "2013-01-31 22:50:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3200"
 old_path: /news/3200/imperial-launches-education-and-student-strategy-survey
 aliases:
  - /news/3200/imperial-launches-education-and-student-strategy-survey
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Imperial have launched an anonymous survey to help to develop an Education and Student Strategy](http://www3.imperial.ac.uk/educationoffice/strategy/students). The website consists of a questionnaire with all open text responses for students and staff to fill out with their thoughts on the education and student experience. The survey is behind a log in wall, but is going to be anonymous, unless students wish to be credited with their suggestions. The survey is open to all members of the College community and will be open until Tuesday 19 February. There will be two open meetings, which all students and staff can attend, at 13:00-14:00 Wednesday 6 February and 17:00-18:00 Thursday 14 February in the Pippard Lecture Theatre in Sherfield.

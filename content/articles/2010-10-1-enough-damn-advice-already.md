@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Freshers’ Flu is a real phenomenon. What I have found really makes Freshers sick, however, is advice
 date: "2010-10-01 22:40:15 +0100"
+
 # Attributes from Felix Online V1
 id: "165"
 old_path: /comment/165/enough-damn-advice-already
 aliases:
  - /comment/165/enough-damn-advice-already
+imported: true
+comments:
+ -                                                                                                                                                                                                                                            back to normal REC Warangal
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- -                                                                                                                                                                                                                                            back to normal REC Warangal
-imported: true
 ---
 
 Before you get any further, I feel you should know that writing these things isn’t as easy as it looks. That’s partly because you don’t actually see us writing them, but mainly because, unlike columnists at the Guardian who write for everybody who counts, and those at the Sun who write for everybody who can’t, we have no idea what sort of crowd we’re writing for.

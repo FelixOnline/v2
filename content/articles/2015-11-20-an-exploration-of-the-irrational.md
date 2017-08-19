@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We head down to the opening night of the ICA’s Buñuel retrospective, where a selection of his key films – Un Chien Andalou, Eating Sea Urchins, and L’Age D’Or – display his mastery of the surreal.
 date: "2015-11-20 09:23:35 +0000"
+
 # Attributes from Felix Online V1
 id: "5754"
 old_path: /film/5754/an-exploration-of-the-irrational
 aliases:
  - /film/5754/an-exploration-of-the-irrational
+imported: true
+comments:
+ - Actually this is one of those instances where if you say I dont get it it means you get itReminds me of that Woody Allen joke I took a test in Existentialism I left all the aneswrs blank and got 100Wow attractive portal Thnx madden 17 coins httpklalogycomindexphpdoblog24346cheapfifa17pointsjarvisjonesbecomespossiblecoverathletefor039nc
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Actually this is one of those instances where if you say I dont get it it means you get itReminds me of that Woody Allen joke I took a test in Existentialism I left all the aneswrs blank and got 100Wow attractive portal Thnx madden 17 coins httpklalogycomindexphpdoblog24346cheapfifa17pointsjarvisjonesbecomespossiblecoverathletefor039nc
-imported: true
 ---
 
 Hauntingly beautiful, with no linear narrative, no clear plot, and no apparent meaning, the films of Luis Buñuel mark him out as a revolutionary director and key figure in the avant-garde surrealist movement. At the Institute of Contemporary Arts (ICA) a retrospective of his work and life, begun with his most popular film, Un Chien Andalou (1929), and his most rare film, Eating Sea Urchins (1930); a home-movie made at the house of Buñuel’s close companion and artistic partner Salvador Dalí’s, it has been seen by relatively few.

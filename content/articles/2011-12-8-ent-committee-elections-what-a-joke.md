@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An election only works if people actually know about it, says Philip Kent
 date: "2011-12-08 22:17:21 +0000"
+
 # Attributes from Felix Online V1
 id: "1953"
 old_path: /comment/1953/ent-committee-elections-what-a-joke
 aliases:
  - /comment/1953/ent-committee-elections-what-a-joke
+imported: true
+comments:
+ - I strongly agree with the sentiments described There should have been better awareness at least online if anything With regards to paying for entry into the union Im one of the section editors whos been affected by this Its a tad annoying to have to explain that you work for the newspaper and that its based inside when youre met with looks from security whos unaware thinking youre trying to lie to get free entryI spoke to Bilal the winner before and made sure hed do his best to get rid of entry fees We dont use metric though why am I charged for something I wont useLets think of felix drinks again we use 568 the bar Not metricIf I go to the pub I am not chargedWhen I went to b1 I was not chargedIf I go to ministry I will be fair enoughSo why do icu charge me to use their barYou say its because metric is open there is nothing stopping the union from charging for metric but not 568 They could always lock the internal doors and put their gate on the external
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I strongly agree with the sentiments described There should have been better awareness at least online if anything With regards to paying for entry into the union Im one of the section editors whos been affected by this Its a tad annoying to have to explain that you work for the newspaper and that its based inside when youre met with looks from security whos unaware thinking youre trying to lie to get free entryI spoke to Bilal the winner before and made sure hed do his best to get rid of entry fees We dont use metric though why am I charged for something I wont useLets think of felix drinks again we use 568 the bar Not metricIf I go to the pub I am not chargedWhen I went to b1 I was not chargedIf I go to ministry I will be fair enoughSo why do icu charge me to use their barYou say its because metric is open there is nothing stopping the union from charging for metric but not 568 They could always lock the internal doors and put their gate on the external
-imported: true
 ---
 
 Did you know that voting for First Year Entertainments Committee Members opened last week? Nope, me neither – until it was pointed out to me. In fact, for that matter, I never knew that you could stand for it!

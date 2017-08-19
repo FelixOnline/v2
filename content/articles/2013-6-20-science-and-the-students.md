@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett takes a look at the scientific landmarks of this academic year
 date: "2013-06-20 23:18:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3719"
 old_path: /science/3719/science-and-the-students-
 aliases:
  - /science/3719/science-and-the-students-
+imported: true
+comments:
+ - Podobno jest ju zakaz handlu tymi prktdouami To dlaczego we wszystkich sklepach drogeryjnych i marketach wci  na legalu  tym handluj Nie do e cigle tym handluj tym cierpieniem zwierzt to jeszcze na dodatek co chwil w telewizji s te produkty reklamowane Cigle tylko Timotey Loreal Garnier  i inne Jako nikt si tym zakazem nie przej niestety   Przynajmniej w teorii w prkacyte pozostaj wci furtki przez ktf3re to prawo mona obej oraz kwestia jego egzekwowania Jakie s te wyjtki prosz napiszcie co o nich chce byc swiadom konsumentk
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Podobno jest ju zakaz handlu tymi prktdouami To dlaczego we wszystkich sklepach drogeryjnych i marketach wci  na legalu  tym handluj Nie do e cigle tym handluj tym cierpieniem zwierzt to jeszcze na dodatek co chwil w telewizji s te produkty reklamowane Cigle tylko Timotey Loreal Garnier  i inne Jako nikt si tym zakazem nie przej niestety   Przynajmniej w teorii w prkacyte pozostaj wci furtki przez ktf3re to prawo mona obej oraz kwestia jego egzekwowania Jakie s te wyjtki prosz napiszcie co o nich chce byc swiadom konsumentk
-imported: true
 ---
 
 __October__

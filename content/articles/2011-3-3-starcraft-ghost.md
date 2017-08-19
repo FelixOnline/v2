@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The third of our 'games that never made it'
 date: "2011-03-03 06:21:37 +0000"
+
 # Attributes from Felix Online V1
 id: "989"
 old_path: /games/989/starcraft-ghost
 aliases:
  - /games/989/starcraft-ghost
+imported: true
+comments:
+ - I can testify that HL2 and crystal meth are two things that were never intended to go together
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I can testify that HL2 and crystal meth are two things that were never intended to go together
-imported: true
 ---
 
 Some of the people who read this with a further interest in gaming (i.e. you’ve been on the internet and googled ‘video games’) will be aware that Starcraft 2 in South Korea is like cocaine on Wall Street – it’s really addictive and everyone is doing it. This game is so huge over there that you can register as a professional gamer with a professional organisation to play in professional tournaments at it. I’ve said professional so may times to try and convince you it’s a serious profession, not like an artist or something (take that, universities who offer creative courses!)

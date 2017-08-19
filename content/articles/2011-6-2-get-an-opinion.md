@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Worrying about offending people makes celebrities bland
 date: "2011-06-02 19:23:21 +0100"
+
 # Attributes from Felix Online V1
 id: "1305"
 old_path: /comment/1305/get-an-opinion
 aliases:
  - /comment/1305/get-an-opinion
+imported: true
+comments:
+ - Arteilcs like this are an example of quick helpful answers
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Arteilcs like this are an example of quick helpful answers
-imported: true
 ---
 
 Watching interviews from the 60s and 70s is an odd experience. [I saw one with John Lennon on YouTube the other day](http://www.youtube.com/watch?v=FsS-uZUh5_8), in which he wasn’t being a grinning media-trained robot. He was joking about, with his style of surrealist humour, and generally being relaxed. If someone did that now, there would be stories all over the place saying they gave an ‘erratic’ interview. Watch several interviews and you realise he was doing something that nowadays seems far too terrifying to us – he was being himself.

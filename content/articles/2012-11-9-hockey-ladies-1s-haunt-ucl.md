@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Frightfully good performance by Imperial destroys UCL
 date: "2012-11-09 14:30:16 +0000"
+
 # Attributes from Felix Online V1
 id: "2874"
 old_path: /sport/2874/hockey-ladies-1s-haunt-ucl
 aliases:
  - /sport/2874/hockey-ladies-1s-haunt-ucl
+imported: true
+comments:
+ - Thank you for your comment Tomasz esliaecply because Caffeine in tea is one of the most misunderstood aspects of this great beverageThere is no difference in caffeine levels   generally   between green and black tea Variations can exist within both types due to growing conditions production methods etc but generally caffeine is genetic in both as it is present in the plant Camellia Sinensis the source of green   black tea and unless decaffeinated in a separate process contains 34 caffeine in the cupIn general a tea leaf contains 25  45 caffeine Since caffeine is a watersoluble compound approximately 80 of caffeine is extracted during normal brewing While the concentration of caffeine can vary considerably depending on the strengths of brew according to the Canadian Nutritional file a 170ml serving of tea contains on average 34 mg of caffeine Canadas Food Guide to Healthy Eating states that for most people intakes up to 400450 mg of caffeine do not increase the risk of heart dise
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you for your comment Tomasz esliaecply because Caffeine in tea is one of the most misunderstood aspects of this great beverageThere is no difference in caffeine levels   generally   between green and black tea Variations can exist within both types due to growing conditions production methods etc but generally caffeine is genetic in both as it is present in the plant Camellia Sinensis the source of green   black tea and unless decaffeinated in a separate process contains 34 caffeine in the cupIn general a tea leaf contains 25  45 caffeine Since caffeine is a watersoluble compound approximately 80 of caffeine is extracted during normal brewing While the concentration of caffeine can vary considerably depending on the strengths of brew according to the Canadian Nutritional file a 170ml serving of tea contains on average 34 mg of caffeine Canadas Food Guide to Healthy Eating states that for most people intakes up to 400450 mg of caffeine do not increase the risk of heart dise
-imported: true
 ---
 
 On All Hallows Eve the Ladies 1’s set out to play some oldrivals UCL. UCL definitely had a point to prove as we had put them out of 2 cups last year. We went out hard in the first 10mins with a new line-up having fresher Bryony in central-midfield controlling the game. With some good play down the right, from Gigi and Hazman we scored our first goal from a short corner, from banana slit (Harriet).

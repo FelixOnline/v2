@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports as College secure new Varsity Trophy
 date: "2015-03-19 23:44:30 +0000"
+
 # Attributes from Felix Online V1
 id: "5407"
 old_path: /sport/5407/college-comfortably-win-varsity-2015
 aliases:
  - /sport/5407/college-comfortably-win-varsity-2015
+imported: true
+comments:
+ - Hello There I found your weblog using msn That is a really neatly written article I will be sure to bookmark it and come back to read extra of your useful info Thanks for the post I will definitely comebacknike roshe run zwart met roze zool httpwwwmymotionnlnlnikerosherunzwartmetrozezool17433html
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - kmw13
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
-author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
 author_twitter: "specialk109"
 author_facebook: "https://www.facebook.com/specialk109"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hello There I found your weblog using msn That is a really neatly written article I will be sure to bookmark it and come back to read extra of your useful info Thanks for the post I will definitely comebacknike roshe run zwart met roze zool httpwwwmymotionnlnlnikerosherunzwartmetrozezool17433html
-imported: true
 ---
 
 Varsity, the annual College-wide sports event took place on Wednesday, with matches taking part across London between teams of students from Imperial College (IC) and teams of Imperial College School of Medicine (ICSM) students. Imperial College stormed to victory ahead of the Medics, with IC winning 15.5 games overall, and ICSM winning 8.5 games.

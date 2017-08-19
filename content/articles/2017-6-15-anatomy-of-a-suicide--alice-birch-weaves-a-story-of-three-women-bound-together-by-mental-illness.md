@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Delicate, lyrical, and moving; Anatomy of a Suicide is a theatrical experience
 date: "2017-06-15 15:32:45 +0100"
+
 # Attributes from Felix Online V1
 id: "7025"
 old_path: /arts/7025/anatomy-of-a-suicide--alice-birch-weaves-a-story-of-three-women-bound-together-by-mental-illness
 aliases:
  - /arts/7025/anatomy-of-a-suicide--alice-birch-weaves-a-story-of-three-women-bound-together-by-mental-illness
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _Anatomy of a Suicide_ follows the stories of three generations of women of the same family, linked together not only by their genetic heritage, but also by the same emotions and struggles as they battle with mental illness. Carol is a 1970s housewife, struggling to find reasons to stay in the world. Almost 30 years later, in the late 90s, Anna, her daughter, is struggling with a drug addiction, triggered by the loss of her mother. 30 years after still, we meet Bonnie, a busy doctor in an A&amp;E department, who is coping admirably with the stress of her work, but is closed off and distant, famous for not interacting with her colleagues outside work.

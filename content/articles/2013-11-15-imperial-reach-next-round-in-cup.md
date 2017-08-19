@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Dom Wood reports as Imperial mercilessly stomp on RUMS
 date: "2013-11-15 11:53:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4092"
 old_path: /sport/4092/imperial-reach-next-round-in-cup
 aliases:
  - /sport/4092/imperial-reach-next-round-in-cup
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It’s safe to say that the ICUAFC 6th XI hasn’t had the best of starts to the season. However, when it comes to the cup, league form is thrown out of the window and we made the epic journey to North London with confidence to play RUMS (UCL Medics) 3s.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Policy rather than posturing
 date: "2012-05-04 00:20:18 +0100"
+
 # Attributes from Felix Online V1
 id: "2420"
 old_path: /comment/2420/to-vote-or-not-to-vote-whats-the-problem
 aliases:
  - /comment/2420/to-vote-or-not-to-vote-whats-the-problem
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So somebody’s been elected London Mayor, apparently. When it comes down to those gosh darn Thursday elections, Felix finds itself in the unenviable position of not being able to report on who won. Anyway, as tempting as it might have been for Felix to run an incredibly localised and ultimately wildly inaccurate exit poll, we didn’t particularly wish to tempt fate. What is fact, however, is the potential clout that students had in the vote. With nearly 450,000 London-based students eligible to list their preferences for Mayor of London and members of the London Assembly, a real difference could have been made to the results if all were to stand up and be counted. Of course, this wasn’t entirely the case.

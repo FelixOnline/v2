@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Artist - Nana Li
 date: "2012-06-14 20:26:05 +0100"
+
 # Attributes from Felix Online V1
 id: "2564"
 old_path: /phoenix/2564/the-artist---nana-li-
 aliases:
  - /phoenix/2564/the-artist---nana-li-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 _Nana Li is a freelance illustrator currently based in London. Having previously completed a Biomedical Engineering degree, she now specialises in illustration, comics and character design. She has had several publications and a number of notable clients including Canon, ImgaineFX and SelfMadeHero._

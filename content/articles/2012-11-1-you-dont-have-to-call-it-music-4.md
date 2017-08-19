@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Pt. 4 elektronische Musik
 date: "2012-11-01 23:17:43 +0000"
+
 # Attributes from Felix Online V1
 id: "2823"
 old_path: /music/2823/you-dont-have-to-call-it-music-4
 aliases:
  - /music/2823/you-dont-have-to-call-it-music-4
+imported: true
+comments:
+ - Muy interesantes Inigo Te propongo que publiquemos un libro con mis entrevistas de Triunfo y un prologo tuyo sobre lo que es la musica concreta dime y abrazos
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - im808
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
-
-comments:
- - Muy interesantes Inigo Te propongo que publiquemos un libro con mis entrevistas de Triunfo y un prologo tuyo sobre lo que es la musica concreta dime y abrazos
-imported: true
 ---
 
 _or: drums are from Africa, synths are from Germany_

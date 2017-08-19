@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us pummel the London Student newspaper on day three of our 30-day Song Challenge duel
 date: "2011-05-22 10:19:57 +0100"
+
 # Attributes from Felix Online V1
 id: "1238"
 old_path: /music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy
 aliases:
  - /music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy
+imported: true
+comments:
+ - Oooh thats a good recommendation I cant think of anything more appropriateLike it I also like Marathon by Tennis for a summer tune  summerrrrr WOOOOOOOHOOOOOOOOOOOOOOQuite a tune I can never go past Happiness by Goldfrapp to make me happy The glorious thing is that its about a cult which steals peoples moneyGo with Someone Great by LCD Soundsystem for a song to make me sad
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Oooh thats a good recommendation I cant think of anything more appropriateLike it I also like Marathon by Tennis for a summer tune  summerrrrr WOOOOOOOHOOOOOOOOOOOOOOQuite a tune I can never go past Happiness by Goldfrapp to make me happy The glorious thing is that its about a cult which steals peoples moneyGo with Someone Great by LCD Soundsystem for a song to make me sad
-imported: true
 ---
 
 The reaction when I play someone this [Star Slinger](http://www.starslinger.net/home.html) song is always the same: "Holy shit that's awesome!" they say in not so many words. The song (and its video) makes me happy for two reasons:

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A new and slightly more awkward year
 date: "2014-01-17 03:33:14 +0000"
+
 # Attributes from Felix Online V1
 id: "4235"
 old_path: /comment/4235/confessions-of-a-gta-part-seven
 aliases:
  - /comment/4235/confessions-of-a-gta-part-seven
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Awkward moments in a GTA’s life come pretty thick and fast. I had hoped to start a new term off well, but 3 months of GTA experience had taught me better. I have several times marked something as completely wrong only to realise five minutes later it is a perfect solution and had to cross out all my notes. I have also had to start calling my lecturers by their first names, which is not only weird and wrong, but also impossible with people who the other staff refer to as Professor. Yet still they insist. Most awfully I’ve had to rebound chat up lines from students. With the MScs and their older wiser ways this is only vaguely embarrassing but by undergrads, who look to me about 12, it is just awful and not cute as my sister determined in her wails of unfeeling laughter.

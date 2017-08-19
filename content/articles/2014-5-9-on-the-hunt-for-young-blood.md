@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Matilda Hays discusses the anti-aging properties of transfusions for mice
 date: "2014-05-09 02:09:17 +0100"
+
 # Attributes from Felix Online V1
 id: "4574"
 old_path: /science/4574/on-the-hunt-for-young-blood
 aliases:
  - /science/4574/on-the-hunt-for-young-blood
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Why do our bodies wear down as we get older? What turns us from jumping, frolicking children into aching, creaking OAPs? And could we ever stop this process?

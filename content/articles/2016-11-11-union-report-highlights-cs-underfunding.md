@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Rising costs and insufficient financial support mean that student led activities are under threat.
 date: "2016-11-11 13:15:32 +0000"
+
 # Attributes from Felix Online V1
 id: "6416"
 old_path: /news/6416/union-report-highlights-cs-underfunding
 aliases:
  - /news/6416/union-report-highlights-cs-underfunding
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Tuesday at council, Clubs and Societies Deputy President, James Cox, presented his report in which he addressed the issue of  Clubs, Societies and Projects (CSP) underfunding. An investigation looking at figures from 2009 onwards showed a marked increase in student led activity and its associated cost. This increase in cost was not paired with a proportional increase in direct financial support.

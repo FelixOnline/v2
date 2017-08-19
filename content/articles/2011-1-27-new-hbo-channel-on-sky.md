@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The most respected network in the US launches this week in the UK as Sky Atlantic. To celebrate, over the next couple of issues we will take a look at some of HBO’s greats
 date: "2011-01-27 20:13:52 +0000"
+
 # Attributes from Felix Online V1
 id: "688"
 old_path: /tv/688/new-hbo-channel-on-sky-
 aliases:
  - /tv/688/new-hbo-channel-on-sky-
+imported: true
+comments:
+ - Youre the one with the barnis here Im watching for your postsuAbVfC  urlhttpmeqqizdnmpjlcommeqqizdnmpjlurl linkhttpdwchokknfmorcomdwchokknfmorlink httpsgkfrlupjldlcom
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Youre the one with the barnis here Im watching for your postsuAbVfC  urlhttpmeqqizdnmpjlcommeqqizdnmpjlurl linkhttpdwchokknfmorcomdwchokknfmorlink httpsgkfrlupjldlcom
-imported: true
 ---
 
 __The Wire__

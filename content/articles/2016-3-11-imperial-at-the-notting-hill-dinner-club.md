@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Woo, volunteering!
 date: "2016-03-11 11:47:29 +0000"
+
 # Attributes from Felix Online V1
 id: "6032"
 old_path: /cands/6032/imperial-at-the-notting-hill-dinner-club
 aliases:
  - /cands/6032/imperial-at-the-notting-hill-dinner-club
+imported: true
+comments:
+ - Why do not we try this urlhttpsbladeandsoulvipwordpresscom20160121addressingacouplethingsinbladesoulBuy Blade And Soul GoldurlIf I have the guts to quit my job urlhttpswwwmadnessianetblog10028somethingtostrivetowardsofbladesoulBlade And Soul Premium Membershipurlnice goingurlhttpindulgycomr4pgr4pgurlWhere were weurlhttpswwwchangeorgu541706003roistoreurlCINEMA  blub hhhhh wieso das hatte ich ncoh nirgendwo gehrt Das heit die ganzen Kommentare von mir sind jetz alle weg Das fnd ich jetzt beesceidhn weil du das nicht im Video gesagt hast
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Why do not we try this urlhttpsbladeandsoulvipwordpresscom20160121addressingacouplethingsinbladesoulBuy Blade And Soul GoldurlIf I have the guts to quit my job urlhttpswwwmadnessianetblog10028somethingtostrivetowardsofbladesoulBlade And Soul Premium Membershipurlnice goingurlhttpindulgycomr4pgr4pgurlWhere were weurlhttpswwwchangeorgu541706003roistoreurlCINEMA  blub hhhhh wieso das hatte ich ncoh nirgendwo gehrt Das heit die ganzen Kommentare von mir sind jetz alle weg Das fnd ich jetzt beesceidhn weil du das nicht im Video gesagt hast
-imported: true
 ---
 
 Two weeks ago, the Union put on a whole load of student volunteering opportunities as part of the national campaign of Student Volunteering

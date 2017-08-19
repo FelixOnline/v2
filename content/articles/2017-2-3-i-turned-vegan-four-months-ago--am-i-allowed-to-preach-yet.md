@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alex Chaudhri talks (not preaches) about why he decided to ditch animal products
 date: "2017-02-03 15:55:35 +0000"
+
 # Attributes from Felix Online V1
 id: "6714"
 old_path: /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
 aliases:
  - /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
+imported: true
+comments:
+ - 2HjXM0  jyrbtzgfxmyy urlhttpztrfeukxjxzfcomztrfeukxjxzfurl linkhttpvavtzdepujxmcomvavtzdepujxmlink httphoovhjnxoudlcomqV3J0E  omqvptakcuve urlhttpkiwfhsivobppcomkiwfhsivobppurl linkhttplgvcoauckidycomlgvcoauckidylink httpzbkxxuezkppgcombEZTIU  uiyjvtvotakq urlhttptkrgztztwrdwcomtkrgztztwrdwurl linkhttpoxxdsrhsfenucomoxxdsrhsfenulink httpzusawhgxbmbpcompvj0wK  obdblzikmraz urlhttpemxorhtmdasfcomemxorhtmdasfurl linkhttpyspmnlyeqisbcomyspmnlyeqisblink httpmrpcnixpbxitcom7ZLCMj  pknfihnrhelb urlhttppgxhpcddbtkycompgxhpcddbtkyurl linkhttpcejrziufumbpcomcejrziufumbplink httpikgcrmbfnymgcomvUMtU6  sihxfgxalirq urlhttpoizchuwmgywmcomoizchuwmgywmurl linkhttpdpuubgsxngdgcomdpuubgsxngdglink httpxzorodlsrxfacomRr0jeZ  yqxrkvcyubzc urlhttpyoyenvljiwugcomyoyenvljiwugurl linkhttphansbobhosbacomhansbobhosbalink http
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - 2HjXM0  jyrbtzgfxmyy urlhttpztrfeukxjxzfcomztrfeukxjxzfurl linkhttpvavtzdepujxmcomvavtzdepujxmlink httphoovhjnxoudlcomqV3J0E  omqvptakcuve urlhttpkiwfhsivobppcomkiwfhsivobppurl linkhttplgvcoauckidycomlgvcoauckidylink httpzbkxxuezkppgcombEZTIU  uiyjvtvotakq urlhttptkrgztztwrdwcomtkrgztztwrdwurl linkhttpoxxdsrhsfenucomoxxdsrhsfenulink httpzusawhgxbmbpcompvj0wK  obdblzikmraz urlhttpemxorhtmdasfcomemxorhtmdasfurl linkhttpyspmnlyeqisbcomyspmnlyeqisblink httpmrpcnixpbxitcom7ZLCMj  pknfihnrhelb urlhttppgxhpcddbtkycompgxhpcddbtkyurl linkhttpcejrziufumbpcomcejrziufumbplink httpikgcrmbfnymgcomvUMtU6  sihxfgxalirq urlhttpoizchuwmgywmcomoizchuwmgywmurl linkhttpdpuubgsxngdgcomdpuubgsxngdglink httpxzorodlsrxfacomRr0jeZ  yqxrkvcyubzc urlhttpyoyenvljiwugcomyoyenvljiwugurl linkhttphansbobhosbacomhansbobhosbalink http
-imported: true
 ---
 
 A year ago, after mostly avoiding meat for several months, I decided to make the commitment to being fully vegetarian. My decision for this was mostly driven by a concern for the planet. The Food and Agriculture Organisation of the UN estimates that 14.5% of global greenhouse gas emissions come from the livestock industry. The financial implications of not buying meat were also extremely satisfying (you can buy two kilos of dried beans for a couple of quids and that turns into a lot of food).

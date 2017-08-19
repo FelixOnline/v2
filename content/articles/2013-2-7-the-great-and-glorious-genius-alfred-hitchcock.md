@@ -4,16 +4,24 @@ title: >
 subtitle: >
   John Park likes but is not overawed by this tale
 date: "2013-02-07 22:57:30 +0000"
+
 # Attributes from Felix Online V1
 id: "3249"
 old_path: /film/3249/the-great-and-glorious-genius-alfred-hitchcock
 aliases:
  - /film/3249/the-great-and-glorious-genius-alfred-hitchcock
+imported: true
+comments:
+ - If I wasnt in my office I would have squelaed at how cute you look And the sands look amazing Except now I keep repeating the beginning of Days of Our Lives in my head And I lied to you last night My 7 things post is scheduled for tomorrow I wrote it todayIve far too many Herrmann favorites to list here but Im paratil to the 7th Voyage of SinbadJasonMysterious IslandJourney to the Center of the Earth era his Twilight Zone stuff and of course his collaborations with Hitchcock too bad about Torn Curtain though  both it as well as Frenzy would have benefited from his music From his later work both Obsession and Sisters are brilliant brilliant scores Sisters scared the hell out of me and its still one of DaPalmas best films warts and all and Obsession is depressingly great thanks to the soundtrack spiraling downward like Cliff Robertsons character in the filmThen theres the Truffaut films also amazing and in a way you could hear Bernie almost t
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If I wasnt in my office I would have squelaed at how cute you look And the sands look amazing Except now I keep repeating the beginning of Days of Our Lives in my head And I lied to you last night My 7 things post is scheduled for tomorrow I wrote it todayIve far too many Herrmann favorites to list here but Im paratil to the 7th Voyage of SinbadJasonMysterious IslandJourney to the Center of the Earth era his Twilight Zone stuff and of course his collaborations with Hitchcock too bad about Torn Curtain though  both it as well as Frenzy would have benefited from his music From his later work both Obsession and Sisters are brilliant brilliant scores Sisters scared the hell out of me and its still one of DaPalmas best films warts and all and Obsession is depressingly great thanks to the soundtrack spiraling downward like Cliff Robertsons character in the filmThen theres the Truffaut films also amazing and in a way you could hear Bernie almost t
-imported: true
 ---
 
 Once upon a time there was a man named Alfred Hitchcock (Hopkins) and he was as huge hit in Hollywood. Many of his pictures were critically acclaimed and considerable financial success stories, with audiences worldwide entertained with his suspenseful movies. The year is 1959, and the English director is enjoying the immense hit of his latest, North by Northwest. Aged 60, is it time for him to retire whilst he’s ahead? A reporter asks. Never; as he is never finished exploring his artistic daring. With the bar set this high now, anticipation builds on what will become his next project. After a long period of searching for something he feels is exactly right, he settles on the story based on serial killer Ed Gein (Michael Wincott), who used to skin his victims. And of course, a film titled Psycho has boardroom executives and censors troubled with its potentially bold, offensive content.

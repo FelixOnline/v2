@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial College Union Media Group launches its first live broadcast of the year with a bang (well, a live audience and five panellists).
 date: "2015-02-15 23:45:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5261"
 old_path: /news/5261/imperial-questions-live-broadcasts-on-wednesday
 aliases:
  - /news/5261/imperial-questions-live-broadcasts-on-wednesday
+imported: true
+comments:
+ - tulane internal medicine residency  kjope rivotril i norge  new galaxy tablet 2013 drugs used for anxiety  hvor kjope rivotril  calculation of drug dosages
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - txl11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "txl11"
 author_name: "Thomas Lim"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - tulane internal medicine residency  kjope rivotril i norge  new galaxy tablet 2013 drugs used for anxiety  hvor kjope rivotril  calculation of drug dosages
-imported: true
 ---
 
 On Wednesday 18th February the first _Imperial Questions Live_ show will be broadcast. The first live show to be broadcast from the newly refurbished Media Suite which Imperial College Union redeveloped over the Summer, the show will be following a _Question Time_ style format. Questions submitted in advance by members of the Imperial community will act as starting points for panel discussion. Members of the audience will also be able to add their views and opinions to the debate. Viewers at home will be able to stream it live, and contribute to the debate with the hashtag [#IQL](https://twitter.com/hashtag/iql) on Twitter.

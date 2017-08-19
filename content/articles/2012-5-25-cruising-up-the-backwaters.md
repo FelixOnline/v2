@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Kicking back on a luxury rice boat in the heart of Kerala
 date: "2012-05-25 18:15:21 +0100"
+
 # Attributes from Felix Online V1
 id: "2497"
 old_path: /travel/2497/cruising-up-the-backwaters
 aliases:
  - /travel/2497/cruising-up-the-backwaters
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As the saying goes: even a poor-quality photo taken on a beaten digital camera can tell a thousand brilliant words. Or something like that. If the accompanying photograph doesn’t appeal to you then hopefully the remainder of this article will inspire you to take a trip.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In May, Union Council voted to denounce the right wing group called Student Rights and condemn Islamophobia.
 date: "2014-06-17 14:20:21 +0100"
+
 # Attributes from Felix Online V1
 id: "4691"
 old_path: /news/4691/union-denounces-student-rights
 aliases:
  - /news/4691/union-denounces-student-rights
+imported: true
+comments:
+ - Fascinating stuff Although I suppose the problem with an open letter like this is that often it misses its intended target since I never saw it Although judging by the fact that no one approached me for comment or debate I guess the whole idea was just to grandstand without any discussion Good for you and GREAT use of your expensive university time
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Fascinating stuff Although I suppose the problem with an open letter like this is that often it misses its intended target since I never saw it Although judging by the fact that no one approached me for comment or debate I guess the whole idea was just to grandstand without any discussion Good for you and GREAT use of your expensive university time
-imported: true
 ---
 
 In May, Union Council voted to denounce the right wing group called Student Rights and condemn Islamophobia. Imperial became the 9th Student Union to pass this motion, in addition to the NUS who have recently condemned this group. Yesterday, Imperial College Union published an open letter on their website to Mr. Raheem Kassam, Director of the Henry Jackson Society’s Student Rights Project.

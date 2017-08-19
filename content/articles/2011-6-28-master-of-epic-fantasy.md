@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Game of Thrones author George R. R. Martin reshaped the landscape of modern fantasy literature
 date: "2011-06-28 11:42:55 +0100"
+
 # Attributes from Felix Online V1
 id: "1445"
 old_path: /arts/1445/master-of-epic-fantasy
 aliases:
  - /arts/1445/master-of-epic-fantasy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The landscape of modern fantasy writing would have been quite different had it not been for George R. R. Martin. A Song of Ice and Fire redefined the fantasy genre from the classic Lord of the Rings-esque adventure quest cum bildungsroman story of good versus evil into a darker, more adult and ultimately more realistic domain. There is no clear boundary between good and evil in his stories. No subject is taboo and he does not gloss over vices like sex, violence and incest. More importantly, main characters do die in his stories (Read an in-depth review of his series on the adjacent page).

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Looking back on twenty years at the forefront of fashion
 date: "2012-01-19 21:18:12 +0000"
+
 # Attributes from Felix Online V1
 id: "2029"
 old_path: /arts/2029/dazed--confused-at-somerset-house
 aliases:
  - /arts/2029/dazed--confused-at-somerset-house
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It is odd to think that around the time of my birth, some 20 years ago, Jefferson Hack and John ‘Rankin’ Waddell were on the brink of producing the first issue of what was to become one of my favourite magazines during my late teens and beyond. Granted, _Dazed & Confused_ started as a rather low-key black and white fold out poster, but it almost inevitably gained momentum and acclaim, with Rankin’s prolific photography and Hack’s keen eye for talent, making it one of the leading creative publications in the world. It is not least because of this that as I crossed London to view a showcase of the _Dazed_ story, my expectations were set exceedingly high.

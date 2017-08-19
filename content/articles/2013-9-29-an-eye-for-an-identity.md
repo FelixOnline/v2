@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles investigates the new Designers in Residence
 date: "2013-09-29 14:33:41 +0100"
+
 # Attributes from Felix Online V1
 id: "3774"
 old_path: /arts/3774/an-eye-for-an-identity
 aliases:
  - /arts/3774/an-eye-for-an-identity
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 What makes us who we are? The answers that immediately spring to mind are personal, intimate influences - our parents and siblings, friends and teachers; but there is one unlikely figure that has a profound and almost invisible impact on our lives - the Designer. From the clothes we wear to the cars we drive and the websites we visit, the designer has an enormous role in forging our individual identity.

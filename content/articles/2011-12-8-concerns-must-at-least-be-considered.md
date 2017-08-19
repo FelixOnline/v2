@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We cannot dismiss the claims of academics, but equally we must be cautious
 date: "2011-12-08 21:33:51 +0000"
+
 # Attributes from Felix Online V1
 id: "1941"
 old_path: /comment/1941/concerns-must-at-least-be-considered
 aliases:
  - /comment/1941/concerns-must-at-least-be-considered
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [This week](http://www.telegraph.co.uk/comment/letters/8938812/Universities-should-not-be-run-for-profit.html) professors from various institutions across the UK outlined their fears regarding the higher education [White Paper](http://discuss.bis.gov.uk/hereform/white-paper/) in a letter, in particular highlighting a perceived move that the Paper could lead to: a US-style higher education private sector that would see for-profit companies becoming able to acquire struggling universities. Claiming that one of the negative consequences of such a move would be “crushing levels of debt”, the conclusion that the academics have reached deserves at least some analysis, especially considering the ongoing debt situation that graduates already face.

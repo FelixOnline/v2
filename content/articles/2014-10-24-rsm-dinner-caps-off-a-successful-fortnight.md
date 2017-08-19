@@ -4,16 +4,24 @@ title: >
 subtitle: >
   178 people attended the Annual Dinner at The Rembrandt Hotel, 91 of them freshers from the Materials and Earth Science departments; this reflects the high demand for the social events that the RSM provides for its members.
 date: "2014-10-24 12:41:48 +0100"
+
 # Attributes from Felix Online V1
 id: "4746"
 old_path: /news/4746/rsm-dinner-caps-off-a-successful-fortnight
 aliases:
  - /news/4746/rsm-dinner-caps-off-a-successful-fortnight
+imported: true
+comments:
+ - buy ambien does ambien cr make you gain weight ambien online ambient noise level standards philippines buy ambien ambien warnings 2012 buy ambien online ambien cr side effects eating buy zolpidem can take 2 ambien 10mg buy ambien online ambient noise level monitoring buy ambien online no prescription ambien on urine drug screen buy ambien online ambien amnesia side effects cheap ambien online ambient light sensor circuit diagram ordering ambien online how often can you take 10mg ambienzolpidem drug ambien recommended dosage buy ambien online ambient music generator software buy ambien is it possible to fatally overdose on ambien buy ambien online ambien cr common dosage ambien generic ambien no prescription canada buy ambien price generic ambien walgreens buy zolpidem order generic ambien buy zolpidem ambien in urine drug screens cheap zolpidem how long does withdrawal from ambien cr last buy ambien online zolpidem compared to ambienbuy ambien ambient noise reduction iphone 5 ambien online purchase personal
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - buy ambien does ambien cr make you gain weight ambien online ambient noise level standards philippines buy ambien ambien warnings 2012 buy ambien online ambien cr side effects eating buy zolpidem can take 2 ambien 10mg buy ambien online ambient noise level monitoring buy ambien online no prescription ambien on urine drug screen buy ambien online ambien amnesia side effects cheap ambien online ambient light sensor circuit diagram ordering ambien online how often can you take 10mg ambienzolpidem drug ambien recommended dosage buy ambien online ambient music generator software buy ambien is it possible to fatally overdose on ambien buy ambien online ambien cr common dosage ambien generic ambien no prescription canada buy ambien price generic ambien walgreens buy zolpidem order generic ambien buy zolpidem ambien in urine drug screens cheap zolpidem how long does withdrawal from ambien cr last buy ambien online zolpidem compared to ambienbuy ambien ambient noise reduction iphone 5 ambien online purchase personal
-imported: true
 ---
 
 The summer months were spent catching up with friends back home, travelling, earning money to blow on rent and, for some, geological mapping. Mixed in with this, the Royal School of Mines committee had carefully planned their start of term activities leading up to the big one: Freshers' Dinner.

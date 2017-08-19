@@ -4,16 +4,23 @@ title: >
 subtitle: >
   John Niven’s religous satire fails to impress
 date: "2012-03-15 21:06:27 +0000"
+
 # Attributes from Felix Online V1
 id: "2369"
 old_path: /books/2369/gods-coming--look-busy
 aliases:
  - /books/2369/gods-coming--look-busy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - books
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 “GOD’S COMING! – LOOK BUSY!”

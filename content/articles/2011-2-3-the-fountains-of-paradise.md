@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A review of Arthur C. Clarke's latest novel
 date: "2011-02-03 20:11:38 +0000"
+
 # Attributes from Felix Online V1
 id: "738"
 old_path: /science/738/the-fountains-of-paradise
 aliases:
  - /science/738/the-fountains-of-paradise
+imported: true
+comments:
+ -  Sensuous Glamorous tantalizing Mesmerizing HOT  Yes that is what every woman wants her imeags to portray and Tamara you captured all that in these imeags  WELL DONE  I think you would make my BBW physique be hot and you would bring out my sexy selfThat is how confident i am in your abilities Thank you so much Elena  Miss D made it easy   and Im sure you will too Im looking fwraord to the day I get to photograph you in all your voluptuous divine glory  Theres some dangerous curves ahead of me Whoohoo
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
- -  Sensuous Glamorous tantalizing Mesmerizing HOT  Yes that is what every woman wants her imeags to portray and Tamara you captured all that in these imeags  WELL DONE  I think you would make my BBW physique be hot and you would bring out my sexy selfThat is how confident i am in your abilities Thank you so much Elena  Miss D made it easy   and Im sure you will too Im looking fwraord to the day I get to photograph you in all your voluptuous divine glory  Theres some dangerous curves ahead of me Whoohoo
-imported: true
 ---
 
 You might remember my review of Arthur C. Clarke’s Childhood’s End last term in the Arts section in which I announced it to be my favourite book. Since then I’ve had a chance to read some more of his work, which has cemented my opinion of him as one of history’s finest science fiction authors. This week I’d like to review, The Fountains of Paradise, the latest of his novels I’ve had the pleasure of reading.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Rugby 1sts promoted to South Premier B after battle with St Mary’s - Chris McGeough reports
 date: "2012-03-15 22:13:31 +0000"
+
 # Attributes from Felix Online V1
 id: "2395"
 old_path: /sport/2395/the-perfect-promotion
 aliases:
  - /sport/2395/the-perfect-promotion
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Wednesday saw Imperial rugby 1st team take on St Mary’s in the league title decider. Both teams were tied on points and promotion was at stake, it was going to be the toughest game of the season. The conditions during the warm up were standard Harlington; it was cold, wet and windy. James Cox got the game under way, and a good start saw IC remain camped in St Mary’s half for the first ten minutes. It wasn’t long before Mary’s conceded a penalty under the pressure. A kick to touch put IC in their favourite position – an attacking line out on the five metre line! Sean ‘the Beast’ Baker was unfortunate not to score the opening try, the referee judging that the ball was held up over the line.

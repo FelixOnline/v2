@@ -4,16 +4,24 @@ title: >
 subtitle: >
   How far will the tourism industry go to empty our bowels and our coffers?
 date: "2010-10-28 19:39:47 +0100"
+
 # Attributes from Felix Online V1
 id: "270"
 old_path: /travel/270/it-scared-me-shitless
 aliases:
  - /travel/270/it-scared-me-shitless
+imported: true
+comments:
+ - Greetings from Carolina Im bored to tears at work so I decided to bwsore your website on my iphone during lunch break I really like the info you present here and cant wait to take a look when I get home Im shocked at how fast your blog loaded on my mobile  Im not even using WIFI just 3G  Anyways excellent siteHello very cool web site Guy  Beautiful  Superb  Ill bookmark your site and take the feeds alsoIm happy to find a lot of hpfleul info right here in the put up we want develop extra strategies in this regard thanks for sharing       oat straw   operators   nj instant auto insurance quote   buying accutane online   ship service
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Greetings from Carolina Im bored to tears at work so I decided to bwsore your website on my iphone during lunch break I really like the info you present here and cant wait to take a look when I get home Im shocked at how fast your blog loaded on my mobile  Im not even using WIFI just 3G  Anyways excellent siteHello very cool web site Guy  Beautiful  Superb  Ill bookmark your site and take the feeds alsoIm happy to find a lot of hpfleul info right here in the put up we want develop extra strategies in this regard thanks for sharing       oat straw   operators   nj instant auto insurance quote   buying accutane online   ship service
-imported: true
 ---
 
 A couple of things you can never forget about a bungy jump: the expression of your co-conspirators’ faces, and the fateful countdown that mount to your eventual plunge.

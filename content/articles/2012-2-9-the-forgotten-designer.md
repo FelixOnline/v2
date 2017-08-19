@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As the luxury market continues to profit, Alice Yang questions what lies beneath the consumer’s desire for labels
 date: "2012-02-09 22:49:58 +0000"
+
 # Attributes from Felix Online V1
 id: "2163"
 old_path: /fashion/2163/the-forgotten-designer
 aliases:
  - /fashion/2163/the-forgotten-designer
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As unlikely as it may seem, I have found myself swapping the glossy pages of Vogue for the less conveniently sized Financial Times this week as the recently realised flurry of financial figures drag my attention away from the conventional pre-fashion-week buzz.

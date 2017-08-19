@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An editorial on the recent North Acton announcement. Unfortunately space meant some points had to be stressed rather than touching on all the issues. There are more problems than those mentioned here.
 date: "2013-02-21 23:15:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3346"
 old_path: /comment/3346/college-are-acton-up
 aliases:
  - /comment/3346/college-are-acton-up
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [Halls in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/) is a terrible idea and should be immediately reversed. It’s a terrible idea. Evelyn Gardens are the way forward for now until you find a better alternative to North Acton. In an ideal world Evelyn Gardens would be kept on as halls for the foreseeable future. If there needs some redoing on the inside, then that is something that needs to be done. Some are better than others. In particular, I remember Willis Jackson basically being fine. I really enjoyed it and didn’t for a minute think it was not a pleasant place to be. Students want halls that are near by, not too expensive, obviously not run down but they don’t need to be a palace. This is what students want from halls: a bed, wardrobe, access to a shower near by, washing and drying machine for clothes, a kitchen, and to be near campus. That’s it. Luxury and everything else is nice, but students would rather be close in a less well furnished halls that is affordable, then further away in a better furnished halls. That’s the too long didn’t read summary, and I thought I’d put it up at the front.

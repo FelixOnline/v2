@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial's student radio station is undergoing a revival says Dan Fowler
 date: "2010-11-11 21:22:21 +0000"
+
 # Attributes from Felix Online V1
 id: "360"
 old_path: /music/360/ic-radio-are-taking-student-radio-to-the-next-level
 aliases:
  - /music/360/ic-radio-are-taking-student-radio-to-the-next-level
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Just over two years ago we took a look around the recording studio at [IC Radio](http://www.icradio.com/) and thought to ourselves “why don’t we do live sessions here?” Two years later we are completely in a league of our own in student radio, [churning out two sessions a week](http://icradiorecordings.bandcamp.com/) at the highest quality and entertaining some of the best up-and-coming acts that are touring the UK.

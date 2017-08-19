@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The perfect mix of tablet and laptop
 date: "2011-05-06 08:21:36 +0100"
+
 # Attributes from Felix Online V1
 id: "1155"
 old_path: /tech/1155/have-your-cake-and-eat-it-too
 aliases:
  - /tech/1155/have-your-cake-and-eat-it-too
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This Easter heralded a slew of new tablet announcements, and the brightest of the latest generation of iPad contenders finally brought some variety and innovation to the tablet market. One of the best of these was the [Eee Pad Transformer](http://uk.asus.com/Eee/Eee_Pad/Eee_Pad_Transformer_TF101/), a device that combines ASUS’s netbook prowess and a bit of detachable-screen goodness to offer a tablet experience that doesn’t necessarily mean sacrificing on productivity.

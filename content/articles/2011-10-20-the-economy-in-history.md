@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Cautionary Tale of Mansa Musa of Mali – by Beñat Gurrutxaga-Lerma and Nina Kearsey
 date: "2011-10-20 22:46:14 +0100"
+
 # Attributes from Felix Online V1
 id: "1574"
 old_path: /biz/1574/the-economy-in-history
 aliases:
  - /biz/1574/the-economy-in-history
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Legend has it that, as for all faithful Muslims, the day came when the good King Musa of Mali announced to his people that he would be leaving Mali for the Hajj, the pilgrimage to Mecca. The announcement, though praised by the wise and respected by all his subjects, came with fear, as the trip from Niani to Mecca was long and perilous.

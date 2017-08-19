@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken interviews the Liberal Democrat parliamentary candidate for Kensington
 date: "2015-03-03 14:53:33 +0000"
+
 # Attributes from Felix Online V1
 id: "5326"
 old_path: /politics/5326/an-interview-with-robin-mcghee
 aliases:
  - /politics/5326/an-interview-with-robin-mcghee
+imported: true
+comments:
+ - Sustain the excellent job and delivering in the crowdfifa 17 httptestholmeslovesmecomgroups1443
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sustain the excellent job and delivering in the crowdfifa 17 httptestholmeslovesmecomgroups1443
-imported: true
 ---
 
 At 23 years old, Robin McGhee has already been involved with the Liberal Democrats for over a decade. While reading History at Oxford University, Robin affirmed his interest in politics and stood for a local council seat. Since graduating, he has been involved in television, journalism, research, and has worked for Lib Dem MPs. In November of last year Robin was selected to be the Liberal Democrat parliamentary candidate for Kensington. I spoke with him to discuss constituency matters and national politics.

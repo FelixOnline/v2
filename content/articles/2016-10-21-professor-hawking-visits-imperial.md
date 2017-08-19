@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Talks about Hawking Radiation. Pfft, show off
 date: "2016-10-21 09:39:00 +0100"
+
 # Attributes from Felix Online V1
 id: "6339"
 old_path: /news/6339/professor-hawking-visits-imperial
 aliases:
  - /news/6339/professor-hawking-visits-imperial
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Esteemed theoretical physics boffin, Professor Stephen Hawking, gave a lecture on Monday evening, speaking on black holes, Hawking Radiation, and AI.

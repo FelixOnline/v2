@@ -4,16 +4,22 @@ title: >
 subtitle: >
   This one's for the club kids
 date: "2016-10-31 23:02:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6371"
 old_path: /millennials/6371/drug-bible--mdma-101
 aliases:
  - /millennials/6371/drug-bible--mdma-101
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - millennials
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## What it does

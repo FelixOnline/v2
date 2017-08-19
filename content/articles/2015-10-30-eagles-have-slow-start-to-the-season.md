@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial’s handball team started with four defeats, but were able to provide beginners with their first experience in the sport
 date: "2015-10-30 15:08:43 +0000"
+
 # Attributes from Felix Online V1
 id: "5692"
 old_path: /sport/5692/eagles-have-slow-start-to-the-season
 aliases:
  - /sport/5692/eagles-have-slow-start-to-the-season
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial College’s handball club, Imperial Eagles, kicked off the season taking part in a one-day tournament which had a field including University College London, Kings College London, Brunel and Middlesex. For the participating teams the tournament serves as preparation for the upcoming league games and the UK University Championships. After winning the London universities league (LUSL) in 2013 and finishing second last season, the Eagles were also the defending champions of this tournament, having beaten UCL in a tough final last year.

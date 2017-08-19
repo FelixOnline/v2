@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Globe's Summer of Love continues with a dazzling take on Shakespeare's bittersweet tale of crossdressing and subversion
 date: "2017-05-31 23:02:46 +0100"
+
 # Attributes from Felix Online V1
 id: "6979"
 old_path: /arts/6979/twelfth-night-at-the-globe--emma-rice-remixes-shakespeare-with-disco-anthems-and-glittery-fun
 aliases:
  - /arts/6979/twelfth-night-at-the-globe--emma-rice-remixes-shakespeare-with-disco-anthems-and-glittery-fun
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 When last season, Emma Rice was appointed artistic director, the Globe seemed to set a new course. Her tenure would mean the company would no longer be focused simply on conservation of Shakespeare but on mutation and adaptation of the classic texts for a modern audience. Yet, this, only her second season, is also Rice’ swansong – she will be stepping down in a few months, and if her adaptation of _Twelfth Night_ is any indication, she is making it count.

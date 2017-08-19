@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ed Parker reports from Manchester
 date: "2014-05-09 15:53:46 +0100"
+
 # Attributes from Felix Online V1
 id: "4590"
 old_path: /sport/4590/discdoctors-reach-top-10
 aliases:
  - /sport/4590/discdoctors-reach-top-10
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Last weekend, Imperial’s Ultimate Frisbee team – known more commonly as the discDoctors – donned their trademark yellow shirts to compete in the first division of Outdoor University Nationals, having secured their place against local rivals during the south-east regional qualifiers in March. Discs flew, mud spattered, bones crunched, and the discDoctors recovered from a sluggish start to seal their position among the top 10 university clubs in the country.

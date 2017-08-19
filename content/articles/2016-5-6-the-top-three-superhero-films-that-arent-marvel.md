@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-06 10:12:44 +0100"
+
 # Attributes from Felix Online V1
 id: "6130"
 old_path: /film/6130/the-top-three-superhero-films-that-arent-marvel
 aliases:
  - /film/6130/the-top-three-superhero-films-that-arent-marvel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Okay guys, seriously now, Disney is starting to scare me. Now that they own ESPN, ABC, Lucas films, Pixar AND Marvel the ludicrous amount of money they make could, theoretically (and I’m not saying this is a definite), fund a pretty decent world domination effort. I’m just saying. The only way to stop this is to not give their bloated superhero film franchise any more money. Here are some alternatives:

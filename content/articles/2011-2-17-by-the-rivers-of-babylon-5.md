@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Political corruption, giant cosmic evils and libraries
 date: "2011-02-17 20:39:21 +0000"
+
 # Attributes from Felix Online V1
 id: "847"
 old_path: /science/847/by-the-rivers-of-babylon-5
 aliases:
  - /science/847/by-the-rivers-of-babylon-5
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 One of my most pleasant discoveries since arriving at Imperial has been the amazing science fiction library. For a small membership fee anybody can borrow items from its vast collection of over 9000 books and 1800 DVDs. It’s allowed me to see brilliant films, such as Donnie Darko, and TV shows such as Firefly and, most recently, Babylon 5.

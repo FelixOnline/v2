@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Garden of Delete is a complete, concrete, and fleeting treat built from beats and bleeps
 date: "2015-11-13 14:26:07 +0000"
+
 # Attributes from Felix Online V1
 id: "5723"
 old_path: /music/5723/the-auditory-overload-of-garden-of-delete
 aliases:
  - /music/5723/the-auditory-overload-of-garden-of-delete
+imported: true
+comments:
+ - Hi Westfall Family My name is Meghan Marner and I am 15 years old I have an 18 year old reining Quarter Horse named Magic and I love him to pecies Ive been with Magic for about a year and a half now But every time I take him to a reining show even if its a small potluck at our home arena he loses his cool He tenses and bolts through the entire pattern utterly anxious and upset When we are riding at home  me Magic and sometimes my trainer Abby he is a very talented reiner and an all around happy horse He showed in his younger years and did very well Do you think he is just done with showing I love him so much and dont want to move on to another horse but I also dont want to put him through something that makes him upset Do you have any suggestions or any ideas about how to help my horse to be happy and calm at shows Thank you for your time and please answer backps I started reining after seeing your bridless ride with Roxy Thank you for the inspirationDefense might be the b
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hi Westfall Family My name is Meghan Marner and I am 15 years old I have an 18 year old reining Quarter Horse named Magic and I love him to pecies Ive been with Magic for about a year and a half now But every time I take him to a reining show even if its a small potluck at our home arena he loses his cool He tenses and bolts through the entire pattern utterly anxious and upset When we are riding at home  me Magic and sometimes my trainer Abby he is a very talented reiner and an all around happy horse He showed in his younger years and did very well Do you think he is just done with showing I love him so much and dont want to move on to another horse but I also dont want to put him through something that makes him upset Do you have any suggestions or any ideas about how to help my horse to be happy and calm at shows Thank you for your time and please answer backps I started reining after seeing your bridless ride with Roxy Thank you for the inspirationDefense might be the b
-imported: true
 ---
 
 From the guy who probably invented vaporwave, comes in even more weird shit. Experimental American musician, Daniel Lopatin (more commonly known as Oneohtrix Point Never) ruptures the walls of reality with his new record Garden of Delete.

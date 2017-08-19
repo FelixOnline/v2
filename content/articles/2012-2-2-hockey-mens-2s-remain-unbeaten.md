@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Men's 2nd – 1 / Roehampton – 0
 date: "2012-02-02 23:05:16 +0000"
+
 # Attributes from Felix Online V1
 id: "2105"
 old_path: /sport/2105/hockey-mens-2s-remain-unbeaten
 aliases:
  - /sport/2105/hockey-mens-2s-remain-unbeaten
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Men’s 2nd XI are currently experiencing a season of two halves. Going into the latest BUCS match against Roehampton Mens’ 1s in the home fixture having beaten them comprehensively 4-1 at the start of the season, we sit at the top of the league unbeaten with 3 wins and 1 draw, and not having played the league leaders yet. In ULU we are sitting squarely at the bottom, with 3 defeats.

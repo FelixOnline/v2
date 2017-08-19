@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles takes on Desiree Akhavan’s New York sexual romp
 date: "2015-03-25 11:51:26 +0000"
+
 # Attributes from Felix Online V1
 id: "5422"
 old_path: /film/5422/a-wonderfully-inappropriate-comedy
 aliases:
  - /film/5422/a-wonderfully-inappropriate-comedy
+imported: true
+comments:
+ - cartierbraceletlove merci et mille fois merci pour ce travail de bndictin  vous nous apportez le souffle de la voix humaine Vous ouvrez les portes de lesprit et de l imagination pour ceux qui ne peuvent plus lire avec leurs yeux de chaire cartier anelli donna imitazione urlhttpwwwmercibassocostonetcategorygioiellicartierfalsocartier anelli donna imitazioneurlIm wondering the key reason why dont i stumbled onto this excellent website sooner Right now many of the mysteries that also set it up the answer just isnt to turn into thus straight forward A little something astonishing Bookmardet cartier leve bracelet fake urlhttpwwwthislovebanglecncartier leve bracelet fakeurlPretty This was a really wonderful article Thank you for supplying this informationHermes Birkin PrezzoHermes OutletBorse Hermes OutletHermes Outlet ItaliaHermes Handbags OutletHermes Outlet StoreHermes Birkin OutletHermes Kelly OutletHermes Outlet OnlineCheap Hermes BagsReplica Hermes Bag
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cartierbraceletlove merci et mille fois merci pour ce travail de bndictin  vous nous apportez le souffle de la voix humaine Vous ouvrez les portes de lesprit et de l imagination pour ceux qui ne peuvent plus lire avec leurs yeux de chaire cartier anelli donna imitazione urlhttpwwwmercibassocostonetcategorygioiellicartierfalsocartier anelli donna imitazioneurlIm wondering the key reason why dont i stumbled onto this excellent website sooner Right now many of the mysteries that also set it up the answer just isnt to turn into thus straight forward A little something astonishing Bookmardet cartier leve bracelet fake urlhttpwwwthislovebanglecncartier leve bracelet fakeurlPretty This was a really wonderful article Thank you for supplying this informationHermes Birkin PrezzoHermes OutletBorse Hermes OutletHermes Outlet ItaliaHermes Handbags OutletHermes Outlet StoreHermes Birkin OutletHermes Kelly OutletHermes Outlet OnlineCheap Hermes BagsReplica Hermes Bag
-imported: true
 ---
 
 When asked where she gets her oddball sense of humour from by the interviewer, Desiree Akhavan pulls no punches: “My genitals,” she replies, “my humour comes from my genitals.” Akhavan is here, being interviewed at the __ICA__, to promote her debut film _Appropriate Behaviour_, a drama-comedy revolving around an Iranian bisexual woman living and loving – or at least, attempting to – in hip New York. While the film has received numerous comparisons to _Girls_, no doubt helped by the fact that Akhavan has a recurring role in this season of Lena Dunham’s brainchild, it is clear from the beginning that Akhavan’s vein of humour is more brash, nuanced, and utterly unique.

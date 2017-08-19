@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Gaelic football is a quickly budding game on Imperial's sports scene; ic gaelic athletic club boasts full rosters for both Mens' and Ladies' teams this year. Dan Wan follows them on their tour of Dublin and even gets stuck in himself
 date: "2010-01-14 16:49:12 +0000"
+
 # Attributes from Felix Online V1
 id: "32"
 old_path: /sport/32/footballs-coming-home
 aliases:
  - /sport/32/footballs-coming-home
+imported: true
+comments:
+ - The palace of a chief minister is a seminary to breed up others in his own trade the pages lackeys and porter by imitating their master become ministers of state in their several districts and learn to excel in the three principal ingredients of insolence lying and bribery Accordingly they have a subaltern court paid to them by persons of the best rank and sometimes by the force of dexterity and impudence arrive through several gradations to be successors to their lord    urlhttpgeablessvapacomojcomarticlephparticle225665Heavy equipment operator jobs in illinoisurlurlhttpgeablessvapacomojcomarticlephparticle396779Heavy equipment operator employmenturlurlhttpgeablessvapacomojcomarticlephparticle793914Construction tools and equipmentsurlurlhttpgeablessvapacomojcomctgphpcategory13page2Used jcb for saleurlurlhttpgeablessvapacomojcomarticlephparticle597655Caterpillar salvageurlurlhttppulseyahoocom_2YZSEZD
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The palace of a chief minister is a seminary to breed up others in his own trade the pages lackeys and porter by imitating their master become ministers of state in their several districts and learn to excel in the three principal ingredients of insolence lying and bribery Accordingly they have a subaltern court paid to them by persons of the best rank and sometimes by the force of dexterity and impudence arrive through several gradations to be successors to their lord    urlhttpgeablessvapacomojcomarticlephparticle225665Heavy equipment operator jobs in illinoisurlurlhttpgeablessvapacomojcomarticlephparticle396779Heavy equipment operator employmenturlurlhttpgeablessvapacomojcomarticlephparticle793914Construction tools and equipmentsurlurlhttpgeablessvapacomojcomctgphpcategory13page2Used jcb for saleurlurlhttpgeablessvapacomojcomarticlephparticle597655Caterpillar salvageurlurlhttppulseyahoocom_2YZSEZD
-imported: true
 ---
 
 As I follow IC GAC throughout their tour of Dublin, it is clear that their captain Andrew Lavery is taking on-field performance seriously and looks to establish Gaelic Football amongst the rugbies, footballs and the hockeys of Imperial’s sporting frontline.

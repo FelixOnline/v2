@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Madeleine Webb and George Brooks pair up to discuss the science and technical skill behind the 52 yearold exhibition and of course, what it takes to bag that coveted first prize.
 date: "2016-11-04 12:45:41 +0000"
+
 # Attributes from Felix Online V1
 id: "6380"
 old_path: /science/6380/wildlife-photographer-of-the-year-2016
 aliases:
  - /science/6380/wildlife-photographer-of-the-year-2016
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Tucked away in a quiet corner of the Natural History Museum, _The Wildlife Photographer of the Year_ (WPY) exhibition provides a welcome respite from the maddening crowds that flood the museum during the holiday season. The atmosphere changes as soon as you walk into the darkened room filled with birdsong, and you are presented with a series of illuminated photographs all equally stunning and interesting in their own right.

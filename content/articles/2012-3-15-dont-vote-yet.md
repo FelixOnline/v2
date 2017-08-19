@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Not voting is preferable in doing so purely for the sake of it
 date: "2012-03-15 21:44:10 +0000"
+
 # Attributes from Felix Online V1
 id: "2392"
 old_path: /comment/2392/dont-vote-yet
 aliases:
  - /comment/2392/dont-vote-yet
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 You heard me. Despite being torn three or more ways between candidates telling you to vote for them, hold back until you’ve heard what I have to say (assuming you have a voice in your head when reading this), or even completely. This article is no more than twelve hours from being too late for this year, but should serve well for next year’s elections and beyond.

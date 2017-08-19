@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Technology Editor: Yong Wen Chua reveals a bunch of tech secrets for y’all!
 date: "2013-09-29 16:30:57 +0100"
+
 # Attributes from Felix Online V1
 id: "3792"
 old_path: /tech/3792/back-to-school-technically
 aliases:
  - /tech/3792/back-to-school-technically
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 It’s the time of the year again. After a very beautiful summer, it’s time to get ready to face the cold, harsh winter and get ready for a new academic year. Winter is coming, and so are we in helping you make the best out of the new academic year, technically of course.

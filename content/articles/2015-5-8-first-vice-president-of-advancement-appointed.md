@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Cecily Johnson introduces the College’s newest Vice President
 date: "2015-05-08 00:26:17 +0100"
+
 # Attributes from Felix Online V1
 id: "5502"
 old_path: /news/5502/first-vice-president-of-advancement-appointed
 aliases:
  - /news/5502/first-vice-president-of-advancement-appointed
+imported: true
+comments:
+ - Great beat  I wish to apprentice at the same time as you amend your website how could i subscribe for a blog web site The account aided me a applicable deal I have been a little bit acquainted of this your broadcast provided bright clear ideamoncler eyewear httpwwwbesimpleititmonclereyewear6653htmlfit flops cheapfitflops australia sale httpaustraliafitflopsblogspotcombuy christian louboutinchristian louboutin shoes online httpchristianlouboutincanadaoutletblogspotcomI treasure the data on your websites Kudosnhl 17 coins httpwwwvolley24plforumviewtopicphpp4620346203Thanks a ton It is definitely an good online sitemadden 17 httpkhleothomascomprofilesblogscheapfifa17coinswhereyoucanbuycheapbedskirtsI was drawn by the hoestny of what you write
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great beat  I wish to apprentice at the same time as you amend your website how could i subscribe for a blog web site The account aided me a applicable deal I have been a little bit acquainted of this your broadcast provided bright clear ideamoncler eyewear httpwwwbesimpleititmonclereyewear6653htmlfit flops cheapfitflops australia sale httpaustraliafitflopsblogspotcombuy christian louboutinchristian louboutin shoes online httpchristianlouboutincanadaoutletblogspotcomI treasure the data on your websites Kudosnhl 17 coins httpwwwvolley24plforumviewtopicphpp4620346203Thanks a ton It is definitely an good online sitemadden 17 httpkhleothomascomprofilesblogscheapfifa17coinswhereyoucanbuycheapbedskirtsI was drawn by the hoestny of what you write
-imported: true
 ---
 
 Sarah Porter Waterbury has this week taken up the new role of Vice President of Advancement at Imperial College London. The appointment, which was first announced in January, is among the first at such a level for a University in the UK.

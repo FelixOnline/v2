@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Omar Hafeez-Bore shows us how chicken is not just a finger lickin’ good sensation
 date: "2011-03-10 20:46:51 +0000"
+
 # Attributes from Felix Online V1
 id: "1076"
 old_path: /food/1076/the-nandos-health-service
 aliases:
  - /food/1076/the-nandos-health-service
+imported: true
+comments:
+ - Only some Nandos are halal  Most of them arent  particularly the ones near Imperial  Gloucester  Road Earls Court Fulham Broadway and Notting Hill Gate As an atheist I generally avoid eating halal meat when possible though Its partly animal cruelty issues but its a lot to do with the fact that normal meat just tastes way betterIt was based off my experiences with BMTs at Halal and NonHalal Subways  I now realise thats a ridiculous comparision to make because nonhalal subways use pork sausages and Halal ones dont and of course itd taste differentYeah facepalmNandos shouldt be halal Why do people only eat meat that is ritually slaughtered in accordance with a medieval religion That McDonalds FiletOFish comment is sooo trueGreat read No backlash from meJust one point about ur PS if i may If there is debate over Nandos Halalility shouldnt that be confirmed before eating there and then advertise its deliciosity Now that u are a journalist maybe you can get
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Only some Nandos are halal  Most of them arent  particularly the ones near Imperial  Gloucester  Road Earls Court Fulham Broadway and Notting Hill Gate As an atheist I generally avoid eating halal meat when possible though Its partly animal cruelty issues but its a lot to do with the fact that normal meat just tastes way betterIt was based off my experiences with BMTs at Halal and NonHalal Subways  I now realise thats a ridiculous comparision to make because nonhalal subways use pork sausages and Halal ones dont and of course itd taste differentYeah facepalmNandos shouldt be halal Why do people only eat meat that is ritually slaughtered in accordance with a medieval religion That McDonalds FiletOFish comment is sooo trueGreat read No backlash from meJust one point about ur PS if i may If there is debate over Nandos Halalility shouldnt that be confirmed before eating there and then advertise its deliciosity Now that u are a journalist maybe you can get
-imported: true
 ---
 
 Everyone seems to love [Nandos](http://www.nandos.co.uk/index.cfm?fuseaction=model.restaurant&id=184&cat=REST&description=Gloucester_Road). This makes actually writing about the place a health hazard, so violent would the backlash be from a negative piece. On the potential-trouble gauge used by Felix writers it is only topped by ‘Doing a Review of the Rector’s Face’. The situation for me is even more risky, living as I do with one flatmate who would inject peri-peri sauce into his veins if he could, and two others who would happily settle for just showering in it.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Jemma Pilcher visits the shrine of a pop deity
 date: "2013-04-30 14:32:29 +0100"
+
 # Attributes from Felix Online V1
 id: "3504"
 old_path: /arts/3504/time-to-tie-up-bowie
 aliases:
  - /arts/3504/time-to-tie-up-bowie
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 David Bowie is more than just pop star. He is a multi-instrumentalist, artist, mime artist, actor, lyricist, poet and record producer. Drawing on all sectors of the art world and modern life for inspiration, his intellectual songs and flamboyant image combine the familiar and the alien and have become stitched into the fabric of contemporary culture. He is not just one man, but at least five; from Major Tom to the Thin White Duke, Bowie has continuously reinvented himself with glorious eccentricity. His sensational career is currently being celebrated at the V&A by exhibiting the first David Bowie retrospective.

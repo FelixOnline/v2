@@ -4,16 +4,23 @@ title: >
 subtitle: >
   "I read your article last week and would like to reply to some of the accusations directed at us."
 date: "2016-02-22 15:09:45 +0000"
+
 # Attributes from Felix Online V1
 id: "5951"
 old_path: /comment/5951/letters---in-response-to-your-union-president-speaks-on-rag-mag-sexism-issue-1626
 aliases:
  - /comment/5951/letters---in-response-to-your-union-president-speaks-on-rag-mag-sexism-issue-1626
+imported: true
+comments:
+ - degenerating bastard sympathizerdegenerating bastard sympathizerThanks for this article I actually tested out this specific also it incredibly workedGucci Shoes httpwwwcharopfcomguccioutletagree to this apology due to oversight the best url is definitely Christian Louboutin ReplicaYou can look at that scanner is incredibly fine and fastYM Protection None of these work inside model twelve 0 0 1102us Not a solitary one they will merely work for the actual variants Whatever you people that happen to be sending junk email your current websites you believe you can search to repair that Cheap GucciJucQ77  unkbduegxrfs urlhttpszvsxigipwiacomszvsxigipwiaurl linkhttpqymwzqbqshqwcomqymwzqbqshqwlink httpdfakpgdgunmxcom
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - degenerating bastard sympathizerdegenerating bastard sympathizerThanks for this article I actually tested out this specific also it incredibly workedGucci Shoes httpwwwcharopfcomguccioutletagree to this apology due to oversight the best url is definitely Christian Louboutin ReplicaYou can look at that scanner is incredibly fine and fastYM Protection None of these work inside model twelve 0 0 1102us Not a solitary one they will merely work for the actual variants Whatever you people that happen to be sending junk email your current websites you believe you can search to repair that Cheap GucciJucQ77  unkbduegxrfs urlhttpszvsxigipwiacomszvsxigipwiaurl linkhttpqymwzqbqshqwcomqymwzqbqshqwlink httpdfakpgdgunmxcom
-imported: true
 ---
 
 Dear Lucinda,

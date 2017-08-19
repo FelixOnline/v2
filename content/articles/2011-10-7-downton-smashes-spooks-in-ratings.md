@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Costume drama trounces MI5 in Sunday night ratings war
 date: "2011-10-07 12:49:25 +0100"
+
 # Attributes from Felix Online V1
 id: "1494"
 old_path: /tv/1494/downton-smashes-spooks-in-ratings-
 aliases:
  - /tv/1494/downton-smashes-spooks-in-ratings-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The second series of ITV’s latest (and very successful) foray into the world costume drama began towards the end of the summer break, with its first episode clocking up over ten million viewers. But why? This unusually high figure is rarely reached by similar programming on the BBC, and ITV aren’t usually known for their ability to produce a good period piece, or, for that matter, anything other than the X Factor-esque arse-gravy which routinely hypnotises fourteen-year-old girls and their chavvy mothers. Moreover, the BBC pitched their flagship drama Spooks against Downton in the prime-time 9pm Sunday slot, but the first episode drew in a mere 4.6 million - one of the lowest ratings ever recorded for Spooks.

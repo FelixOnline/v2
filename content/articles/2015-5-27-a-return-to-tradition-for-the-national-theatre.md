@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles reviews the latest effort from director Simon Godwin, the lively restoration comedy The Beaux' Stratagem
 date: "2015-05-27 17:44:04 +0100"
+
 # Attributes from Felix Online V1
 id: "5569"
 old_path: /arts/5569/a-return-to-tradition-for-the-national-theatre
 aliases:
  - /arts/5569/a-return-to-tradition-for-the-national-theatre
+imported: true
+comments:
+ - mont blanc fineliner and rollerball montblanc hemingway ballpoint used mont blanc pens for sale michael kors large clutch cheap ugg boots clearance sale fake ugg slippers ugg bailey bow youth size 5 uggs insoles michael kors cynthia satchel michael kors python handbag Mont Blanc Fountain Pen Meisterstuck mont blanc john lennon ballpoint pen mont blanc replica pens for sale montblanc stores singapore montblanc ink cartridge for fountain pen michael kors hamilton bags michael kors signature tote brown mens ugg boots on sale discount ugg boots online sale mont blanc pens cheapbuy uggs america httpwwwftybescriptidbuyuggsamericac18603phpmont blanc legrand rollerball refill blue montblanc hemingway ballpoint montblanc starwalker fountain michael kors handbags belk buy uggs spain emu uggs price of ugg boots in america all michael kors bags michael kors boots dillards michael kors online factory outlet Mont Blanc Fountain Pen Cheap mont blanc pens amazon mont blanc pens n
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - mont blanc fineliner and rollerball montblanc hemingway ballpoint used mont blanc pens for sale michael kors large clutch cheap ugg boots clearance sale fake ugg slippers ugg bailey bow youth size 5 uggs insoles michael kors cynthia satchel michael kors python handbag Mont Blanc Fountain Pen Meisterstuck mont blanc john lennon ballpoint pen mont blanc replica pens for sale montblanc stores singapore montblanc ink cartridge for fountain pen michael kors hamilton bags michael kors signature tote brown mens ugg boots on sale discount ugg boots online sale mont blanc pens cheapbuy uggs america httpwwwftybescriptidbuyuggsamericac18603phpmont blanc legrand rollerball refill blue montblanc hemingway ballpoint montblanc starwalker fountain michael kors handbags belk buy uggs spain emu uggs price of ugg boots in america all michael kors bags michael kors boots dillards michael kors online factory outlet Mont Blanc Fountain Pen Cheap mont blanc pens amazon mont blanc pens n
-imported: true
 ---
 
 For every action there is an equal and opposite reaction. It seems this rule holds as true in theatre as it does in physics. After the cerebral existentialism of _The Hard Problem_, the bells-and-whistles approach of _Rules for Living_, and the highly modern adaptation of _Everyman_, the__ National Theatre__ return to well-worn theatrical traditions. _The Beaux’ Stratagem_ is a streamlined, watertight performance; it doesn’t offer any radical reinterpretation of restoration comedy – and perhaps it doesn’t have to – but this means that, despite the ability of the cast and crew, it remains little more than a light diversion.

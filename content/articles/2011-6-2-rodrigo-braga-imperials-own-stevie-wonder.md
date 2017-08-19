@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rodrigo’s music is complex, sophisticated, surprising and subtly jazz-influenced
 date: "2011-06-02 20:05:21 +0100"
+
 # Attributes from Felix Online V1
 id: "1316"
 old_path: /music/1316/rodrigo-braga-imperials-own-stevie-wonder
 aliases:
  - /music/1316/rodrigo-braga-imperials-own-stevie-wonder
+imported: true
+comments:
+ - He is pretty much a modern day James Taylor Id have saidAbsolutely awesome musician one to keep an eye out for  Rod you Rock
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - He is pretty much a modern day James Taylor Id have saidAbsolutely awesome musician one to keep an eye out for  Rod you Rock
-imported: true
 ---
 
 If this was the NME, I would start this article with a sentence like “Rodrigo Braga sounds like the illegitimate lovechild of Stevie Wonder and Paul Simon backed by a Samba band,” but it’s not, so I won’t. Rodrigo Braga is an excellent singer, guitarist and songwriter who performs meaningful and intelligent music which, if approached from a genre perspective, could plausibly be described as a fusion of American and Brazilian folk music. Now that’s proper music journalism.

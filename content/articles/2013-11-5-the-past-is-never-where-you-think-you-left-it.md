@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Past Director: Asghar Farhadi Writers: Asghar Farhadi, Massoumeh Lahidji (adaptation) Starring: Bérénice Bejo, Tahar Rahim, Ali Mosaffa Runtime: 130 minutes
 date: "2013-11-05 09:42:13 +0000"
+
 # Attributes from Felix Online V1
 id: "3999"
 old_path: /film/3999/the-past-is-never-where-you-think-you-left-it
 aliases:
  - /film/3999/the-past-is-never-where-you-think-you-left-it
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What a difference a decade can make. Just 10 years ago, director Asghar Farhadi had yet to release his first film, but today he is one of the hottest contemporary Iranian directors around. Every film he has created has won rafts of awards at various festivals; his last film A Separation, won critical acclaim across the board, and beat off stiff competition to win the Academy Award for Best Foreign Language Film in 2011. He is now back again, with a film that explores the hidden drama within everyday lives.

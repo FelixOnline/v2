@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In 2003, the Human Genome Project was declared complete. At a cost of around $3 billion and taking 13 years, for the first time we had a sequence of around 99% of the human genome.
 date: "2014-01-31 17:37:29 +0000"
+
 # Attributes from Felix Online V1
 id: "4317"
 old_path: /science/4317/a-grand-genome-the-new-cost-of-genome-sequencing
 aliases:
  - /science/4317/a-grand-genome-the-new-cost-of-genome-sequencing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 In 2003, the Human Genome Project was declared complete. At a cost of around $3 billion and taking 13 years, for the first time we had a sequence of around 99% of the human genome.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Union plans all day festival and moves away from formal dinner setup
 date: "2011-02-17 19:21:21 +0000"
+
 # Attributes from Felix Online V1
 id: "815"
 old_path: /news/815/the-summer-ball
 aliases:
  - /news/815/the-summer-ball
+imported: true
+comments:
+ - I can understand the logic behind moving away from the formal dinner subsidy for few takes away from enjoyment of all but I think its a massive shame Especially as college is too fucking stingy to provide one on Graduation day its the only opportunity lots of people get to have one with their friends when they graduate This is bound to be unpopular which is perhaps why the decision was made quietly and with no discussion with the student bodyI can see that some will not like the formal affair but myself and many others feel that having one night a year where you can get dressed up and celebrate the end of the year with drinks and friends is greatAs a final year who was looking forward to getting the full works this time havent had the dinner before as it is so expensive Im am doubly disappointed We are now forced to organise our own dinner and will probably have it on the evening of the ball in order to avoid the no doubt tedious acts headlinedUnfortunate that the BioBiomed stude
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I can understand the logic behind moving away from the formal dinner subsidy for few takes away from enjoyment of all but I think its a massive shame Especially as college is too fucking stingy to provide one on Graduation day its the only opportunity lots of people get to have one with their friends when they graduate This is bound to be unpopular which is perhaps why the decision was made quietly and with no discussion with the student bodyI can see that some will not like the formal affair but myself and many others feel that having one night a year where you can get dressed up and celebrate the end of the year with drinks and friends is greatAs a final year who was looking forward to getting the full works this time havent had the dinner before as it is so expensive Im am doubly disappointed We are now forced to organise our own dinner and will probably have it on the evening of the ball in order to avoid the no doubt tedious acts headlinedUnfortunate that the BioBiomed stude
-imported: true
 ---
 
 End of year summer exams, nobody likes them. It is the best way to ruin the best season of the year and everyone dreads them. But now there's something epic to look forward to, because this year, not only is there an end of year summer ball, but there's a whole day of live performances to go with it.

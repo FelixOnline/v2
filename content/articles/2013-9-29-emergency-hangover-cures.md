@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Been out last night and not exactly feeling the best for your Maths test this morning? Fear not! Felix Food is here to help you feel better!
 date: "2013-09-29 15:39:40 +0100"
+
 # Attributes from Felix Online V1
 id: "3781"
 old_path: /food/3781/emergency-hangover-cures
 aliases:
  - /food/3781/emergency-hangover-cures
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ###  Need something quick?

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Students vote against the bill passing through government
 date: "2015-02-12 20:59:38 +0000"
+
 # Attributes from Felix Online V1
 id: "5237"
 old_path: /news/5237/union-council-condemns-counter-terrorism-bill
 aliases:
  - /news/5237/union-council-condemns-counter-terrorism-bill
+imported: true
+comments:
+ - Sounds like a fancy and sugar coated way of spying on British citizens I wonder how this cts bill got this far The amount of false allegations made etcetera are incomparable with them getting it right So now those false allegations will be made true because of a farce of a bill Ive seen better jokes in my life than this The end doesnt justify the meansWow cuz this is extremely greatexcellent job Congrats and keep it upDavid Beckham httpdalejudyedublogsorg20160928theplayersoffifa17mobilewillbuyfifa17points
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Sounds like a fancy and sugar coated way of spying on British citizens I wonder how this cts bill got this far The amount of false allegations made etcetera are incomparable with them getting it right So now those false allegations will be made true because of a farce of a bill Ive seen better jokes in my life than this The end doesnt justify the meansWow cuz this is extremely greatexcellent job Congrats and keep it upDavid Beckham httpdalejudyedublogsorg20160928theplayersoffifa17mobilewillbuyfifa17points
-imported: true
 ---
 
 Also at Council this week was a motion against the Counter Terrorism and Security Bill (CTSB), which is currently concluding its passage through the Houses of Parliament.

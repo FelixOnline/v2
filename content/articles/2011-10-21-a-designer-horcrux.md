@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Federica Amato and Saskia Verhagen discuss the curse of the designer handbag
 date: "2011-10-21 10:22:00 +0100"
+
 # Attributes from Felix Online V1
 id: "1587"
 old_path: /fashion/1587/a-designer-horcrux
 aliases:
  - /fashion/1587/a-designer-horcrux
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Which girl, provided she has already satisfied all primary concerns (food, water, shelter etc.) doesn’t dream of a clothing collection on the scale of, say, Blair Waldorf or Carrie Bradshaw? And within those ladies’ swoon-inducing wardrobes, which does not contain their essential Louis Vuitton Neverfull (or equivalent – Chanel 2.55, Céline Luggage, Fendi Baguette… The list goes on) in which they tote the latest issue of Vogue, make-up, Blackberry, Smythson diary and discreetly packed sanitary products and prophylactics? In other words, a girl’s bag is never simply a practical object; a mere container. It’s like the greatest personal assistant you could imagine, an ever-present silent character in a girl’s life that knows you and your habits so reliably that it is impossible to live without. It’s your best friend, a scandalous lover, your secret accomplice.

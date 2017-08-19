@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Anum Farooq takes a positive view of life
 date: "2013-01-31 23:37:43 +0000"
+
 # Attributes from Felix Online V1
 id: "3212"
 old_path: /comment/3212/over-analysing---an-imperial-tradition
 aliases:
  - /comment/3212/over-analysing---an-imperial-tradition
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Perhaps, everybody has Murphy in their life. Perhaps, many just do not notice it. Being a sensitive over thinker, I am always a little bit too aware ofMurphy and his quirky laws. Basically, the theory goes that anything that can go wrong will go wrong.

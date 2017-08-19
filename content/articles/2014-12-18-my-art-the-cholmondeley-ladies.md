@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Fred Fyles chooses his favourite work of art from the Tate Britain's collection
 date: "2014-12-18 15:14:27 +0000"
+
 # Attributes from Felix Online V1
 id: "5051"
 old_path: /arts/5051/my-art-the-cholmondeley-ladies
 aliases:
  - /arts/5051/my-art-the-cholmondeley-ladies
+imported: true
+comments:
+ - Peculiar article just what I needednike air max 1 youth gs zwart httpwwwacmelnlnlnlnikeairmax1youthgszwart15876htmlThanks pertaining to offering this kind of good written contentNHL 17 httpfabvegancomforumstopic43374buyfifa17accountwithcoinsoviewpost_id47024Amazing this is a advantageous online siteFIFA 17 httppromcatbuinetblogs105338buynba2k17coinsinamoviefeaturingWow beautiful portal Thnx nhl 17 coins httprmsclubinuserforumtopic1046httpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianethttpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianethttpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianet
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Peculiar article just what I needednike air max 1 youth gs zwart httpwwwacmelnlnlnlnikeairmax1youthgszwart15876htmlThanks pertaining to offering this kind of good written contentNHL 17 httpfabvegancomforumstopic43374buyfifa17accountwithcoinsoviewpost_id47024Amazing this is a advantageous online siteFIFA 17 httppromcatbuinetblogs105338buynba2k17coinsinamoviefeaturingWow beautiful portal Thnx nhl 17 coins httprmsclubinuserforumtopic1046httpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianethttpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianethttpbuypillsviagraorg  buypillsviagraorgankor priceslevitragenericcomankor httponlinewithoutprescriptionpropecianet
-imported: true
 ---
 
 In the Tate Britain, among the historical portraits and seascapes, the Van Dyke's and Van Eyck's, there is one picture that never fails to catch my eye. Entering the 1540 room, marking the beginning of British fine art, four pairs of eyes glare out at you from a single panel. An oil painting on wood, _The Cholmondeley Ladies_ depicts two women, dressed in bleached-white finery, and resembling pieces of bone china, who each carry an infant swaddled in a blood red christening gown.

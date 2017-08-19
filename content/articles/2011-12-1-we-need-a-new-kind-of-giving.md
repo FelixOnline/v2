@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Science is the spark that aid needs in the world
 date: "2011-12-01 21:35:39 +0000"
+
 # Attributes from Felix Online V1
 id: "1897"
 old_path: /comment/1897/we-need-a-new-kind-of-giving
 aliases:
  - /comment/1897/we-need-a-new-kind-of-giving
+imported: true
+comments:
+ - Brilliant  Im sure an awful lot of aid money is wasted on projects that mostly benefit donor countries multinational corporations with very little ever reaching the poor  Weve known this for a long time
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Brilliant  Im sure an awful lot of aid money is wasted on projects that mostly benefit donor countries multinational corporations with very little ever reaching the poor  Weve known this for a long time
-imported: true
 ---
 
 If you are a science student at Imperial there’s very little you can do to get involved in international aid. The medics can use their skills to deliver life-saving vaccinations in Mozambique. The engineers can use their skills to build drought-fighting dams in El Salvador. And us scientists? We get to teach English in a random school somewhere.

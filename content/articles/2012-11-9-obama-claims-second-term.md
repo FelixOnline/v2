@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emilie Beauchamp has the results from America
 date: "2012-11-09 12:16:23 +0000"
+
 # Attributes from Felix Online V1
 id: "2845"
 old_path: /politics/2845/obama-claims-second-term
 aliases:
  - /politics/2845/obama-claims-second-term
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Tuesday, 6 November 2012, Americans re-elected Barack Obama as the President of the United States, for a second and last four year mandate. It was a slim victory after a harrowing campaign, nothing as glamorous as his first ‘Yes we can’ pinnacle, but still a win. Shall we finally see Obama power through with his close-hearted healthcare and tax reforms? Does this mean new beginnings of hope for peace on Earth? Far from it. For those who have slept through the most important political event of the year, here is a blitz on what needs to be known about what happened, what to expect in the US over the next four years and what it means for the rest of the world.

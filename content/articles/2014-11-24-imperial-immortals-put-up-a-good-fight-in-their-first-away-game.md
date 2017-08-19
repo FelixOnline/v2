@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Immortals lose 22-12, but against the second best defence in the country
 date: "2014-11-24 20:11:46 +0000"
+
 # Attributes from Felix Online V1
 id: "4950"
 old_path: /sport/4950/imperial-immortals-put-up-a-good-fight-in-their-first-away-game
 aliases:
  - /sport/4950/imperial-immortals-put-up-a-good-fight-in-their-first-away-game
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Sunday 16th November brought the Imperial Immortals’ first away game of the season against the Hertfordshire Hurricanes. The Hurricanes are an impressive team that made the semi-finals last season, the same as the Immortals. This was an important match for both teams as the Immortals were looking to extend their season to 2-0 while Hurricanes wanted their first win of the season.

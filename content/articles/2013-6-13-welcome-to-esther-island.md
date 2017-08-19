@@ -4,16 +4,23 @@ title: >
 subtitle: >
   This week’s tour guide is Sanchit Sharma. Feel free to ask him any questions
 date: "2013-06-13 22:37:03 +0100"
+
 # Attributes from Felix Online V1
 id: "3680"
 old_path: /games/3680/welcome-to-esther-island
 aliases:
  - /games/3680/welcome-to-esther-island
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 _"Dear Esther. The morning after I was washed ashore, salt in my ears, sand in my mouth and the waves always at my ankles, I felt as though everything had conspired to this one last shipwreck. I remembered nothing but water, stones in my belly and my shoes threatening to drag me underwater to where only the most listless of creatures swim.”_

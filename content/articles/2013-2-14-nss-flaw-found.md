@@ -4,16 +4,24 @@ title: >
 subtitle: >
   A hold is exposed again, or, re-exposed
 date: "2013-02-14 21:17:55 +0000"
+
 # Attributes from Felix Online V1
 id: "3335"
 old_path: /news/3335/nss-flaw-found
 aliases:
  - /news/3335/nss-flaw-found
+imported: true
+comments:
+ - Why do they not send an invitation link with a unique code to each student by email That would make it easier for students to complete no filling in the CID DOB etc AND far more secureIts terrible that Imperial decided to play Guardian ranking game and care about bullshit like NSS I find it sad that emails like these If everyone was fully satisfied with their degree we would be ranked above Oxford and CambridgeThe league table rankings affect how your degree is seen by employersClarification I am definitely not suggesting that you should blindly select very satisfied for everything It would be very wrong of me to suggest that you do such a thingDepartment of Computingare being sent out to students
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Why do they not send an invitation link with a unique code to each student by email That would make it easier for students to complete no filling in the CID DOB etc AND far more secureIts terrible that Imperial decided to play Guardian ranking game and care about bullshit like NSS I find it sad that emails like these If everyone was fully satisfied with their degree we would be ranked above Oxford and CambridgeThe league table rankings affect how your degree is seen by employersClarification I am definitely not suggesting that you should blindly select very satisfied for everything It would be very wrong of me to suggest that you do such a thingDepartment of Computingare being sent out to students
-imported: true
 ---
 
 A flaw in the NSS has been exposed once more. It is possible, and not too difficult, for students to fill out the survey on behalf of others, raising concerns over the security of the survey – particularly due to the importance place on its results in league tables.

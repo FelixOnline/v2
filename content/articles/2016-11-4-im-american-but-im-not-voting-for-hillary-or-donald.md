@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Steve Bohnel explains why he couldn’t support either of the main candidates
 date: "2016-11-04 14:49:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6398"
 old_path: /comment/6398/im-american-but-im-not-voting-for-hillary-or-donald
 aliases:
  - /comment/6398/im-american-but-im-not-voting-for-hillary-or-donald
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 I’m an idiot.

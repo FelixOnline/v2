@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Research suggests genome parasites help adaption
 date: "2010-12-12 13:50:32 +0000"
+
 # Attributes from Felix Online V1
 id: "550"
 old_path: /science/550/barley-disease-sequenced
 aliases:
  - /science/550/barley-disease-sequenced
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 Researchers from the [beleaguered](http://felixonline.co.uk/?article=547) Department of Life Sciences at Imperial College have sequenced the genome of a major fungal disease that affects cereal crops including barley. This [breakthrough](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_10-12-2010-11-9-20) could advance our understanding of the evolution of plant diseases. The research suggests that parasites within the fungal genome help the disease adapt and evade the plant’s defences.

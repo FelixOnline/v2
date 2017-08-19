@@ -4,16 +4,23 @@ title: >
 subtitle: >
   With ukelele workshops, a pop-up planetarium and The Go! Team in attendance, Stephen Smith can’t wait for this year’s astro-themed Deer Shed festival
 date: "2011-06-28 11:08:05 +0100"
+
 # Attributes from Felix Online V1
 id: "1439"
 old_path: /music/1439/astronomy-and-plasticine
 aliases:
  - /music/1439/astronomy-and-plasticine
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Writing about music quickly makes you cynical about dull and repetitive festivals all over the country, all playing boring music and all with the same sex, drugs and rock ‘n’ roll attitude. But occasionally there comes along a festival so perfectly concieved that you can’t quite believe that it’s real. [The Deer Shed Festival](http://www.deershedfestival.com/) is a perfect example.

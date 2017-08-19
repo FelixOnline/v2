@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Their 40-minute match will follow the men's game.
 date: "2015-01-23 00:49:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5114"
 old_path: /news/5114/womens-rugby-team-to-headline-at-the-stoop
 aliases:
  - /news/5114/womens-rugby-team-to-headline-at-the-stoop
+imported: true
+comments:
+ - Ive never read such an unenthusiastic under researched and inaccurate article in the felix Im disappointed this opportunity to showcase a fantastic up and coming sport has been slightly wasted Womens rugby is a fast paced and tactical game and in lots of ways very different to watch and play than the mens game I personally find it way more exciting to watch and hope all imperial students at varsity enjoy watching as I willfitflops storefitflop australia sale httpaustraliafitflopsiemillernetfitflops australiafitflop discount httpaustraliafitflopsiemillernetshoes birkenstockbirkenstock online sale httpbirkenstockaustraliarochecaporgdiscount birkenstockbirkenstock sale online httpbirkenstockaustralia2013blogspotcomchristian loubitinchristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcomlouboutin sneakerschristian louboutin httpchristianlouboutincanadaoutletblogspotcomTim Tebow did things which have never been done attending sch
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
- - Ive never read such an unenthusiastic under researched and inaccurate article in the felix Im disappointed this opportunity to showcase a fantastic up and coming sport has been slightly wasted Womens rugby is a fast paced and tactical game and in lots of ways very different to watch and play than the mens game I personally find it way more exciting to watch and hope all imperial students at varsity enjoy watching as I willfitflops storefitflop australia sale httpaustraliafitflopsiemillernetfitflops australiafitflop discount httpaustraliafitflopsiemillernetshoes birkenstockbirkenstock online sale httpbirkenstockaustraliarochecaporgdiscount birkenstockbirkenstock sale online httpbirkenstockaustralia2013blogspotcomchristian loubitinchristian louboutin sale canada httpchristianlouboutincanadaoutletblogspotcomlouboutin sneakerschristian louboutin httpchristianlouboutincanadaoutletblogspotcomTim Tebow did things which have never been done attending sch
-imported: true
 ---
 
 The Women’s Rugby team have been asked to play their Varsity match after the JPR Williams Cup at the Stoop in Twickenham. The match, which will take place on 18th March, will be contested with ten players a side. It will be 20 minutes each way, to form a 40-minute match. The logistics of the rest of the day, such as timings, aren’t known yet, but it is believed that the men’s match will be first, and the women will headline afterwards.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The campaigning is finally over
 date: "2016-03-12 13:31:47 +0000"
+
 # Attributes from Felix Online V1
 id: "6048"
 old_path: /news/6048/leadership-election-results-announced
 aliases:
  - /news/6048/leadership-election-results-announced
+imported: true
+comments:
+ - The resident Marxist has been defeated That will shut him up for a whileGiven that the DPFS seems to be the only one who does anything I would suggest not rerunning it would be a huge mistakeGiven that the DPFS seems to be the only one who does anything Id suggest that not having a by election is a huge mistakeLeave me alone urlhttptamamshamoonlivejournalcom3885htmlBlade And Soul GoldurlWhy dont we give this a tryurlhttpsbladeandsoulvipwordpresscom20160115bladesoulf2pwillhavetolimitsomethingBlade  Soul ItemsurlIncredibly user pleasant website Enormous information offered on couple of gos toNBA 2k16 httpcsgoskinstraderblogconz20160318csgoskinscheapwiththesophisticatedtechnologyYou always know the right thing to sayurlhttpsbuycheapgw2goldstorewordpresscom20160310youcouldtrykfminbladesoulBNS GoldurlYoure so cuteurlhttpscheapguildwars2goldsalewordpresscom20160316bladesoul4differentdiamondgems
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The resident Marxist has been defeated That will shut him up for a whileGiven that the DPFS seems to be the only one who does anything I would suggest not rerunning it would be a huge mistakeGiven that the DPFS seems to be the only one who does anything Id suggest that not having a by election is a huge mistakeLeave me alone urlhttptamamshamoonlivejournalcom3885htmlBlade And Soul GoldurlWhy dont we give this a tryurlhttpsbladeandsoulvipwordpresscom20160115bladesoulf2pwillhavetolimitsomethingBlade  Soul ItemsurlIncredibly user pleasant website Enormous information offered on couple of gos toNBA 2k16 httpcsgoskinstraderblogconz20160318csgoskinscheapwiththesophisticatedtechnologyYou always know the right thing to sayurlhttpsbuycheapgw2goldstorewordpresscom20160310youcouldtrykfminbladesoulBNS GoldurlYoure so cuteurlhttpscheapguildwars2goldsalewordpresscom20160316bladesoul4differentdiamondgems
-imported: true
 ---
 
 The Leadership Election results are in, the votes have been counted, and your new sabbatical officers and constituent union presidents are as follows:

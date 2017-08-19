@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Proposals include 34-storey residential tower to be built at Wood Lane
 date: "2012-01-12 22:32:19 +0000"
+
 # Attributes from Felix Online V1
 id: "1985"
 old_path: /news/1985/imperial-west-masterplan-unveiled
 aliases:
  - /news/1985/imperial-west-masterplan-unveiled
+imported: true
+comments:
+ - I hope that this blog is keeping up with what is happening on the Imperial West development  The Phase 2 planning application was due to be approved in March 2012 but deferred probably to spare Boris embarassment in the London Mayoral election  Then it was all set to be approved at the councils June 13th meeting  Yesterday we learned that the decision had again been deferred  Hammersmith  Fulham have run into legal problems on a development at Shepherds Bush Market and the two facts may not be unrelated  We do not oppose the academic content of the Phase 2 scheme  But there is far too high a density mass and scale for this part of London  The College Fund claims that two thirds will be College rather than commercial but the College elements include a a lot of office space  And with a 35 storey resdential tower and a hotel this is not what most people see as a campusThere remains strong local opposition to the scheme to which no significant changes have been made  The College
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I hope that this blog is keeping up with what is happening on the Imperial West development  The Phase 2 planning application was due to be approved in March 2012 but deferred probably to spare Boris embarassment in the London Mayoral election  Then it was all set to be approved at the councils June 13th meeting  Yesterday we learned that the decision had again been deferred  Hammersmith  Fulham have run into legal problems on a development at Shepherds Bush Market and the two facts may not be unrelated  We do not oppose the academic content of the Phase 2 scheme  But there is far too high a density mass and scale for this part of London  The College Fund claims that two thirds will be College rather than commercial but the College elements include a a lot of office space  And with a 35 storey resdential tower and a hotel this is not what most people see as a campusThere remains strong local opposition to the scheme to which no significant changes have been made  The College
-imported: true
 ---
 
 Imperial College London has submitted a planning application for the second phase of the development of a [new postgraduate campus at Wood Lane](http://www3.imperial.ac.uk/newcampus/whatis), with the project aiming to include the construction of a 34-storey residential tower block.

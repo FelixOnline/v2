@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken reports on the developments in the jihadist campaign
 date: "2015-03-13 01:25:37 +0000"
+
 # Attributes from Felix Online V1
 id: "5394"
 old_path: /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
 aliases:
  - /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
+imported: true
+comments:
+ - httpwwwoutletscoachuscom  coach factory    httpwwwraybanussalescom  ray bans on sale    httpwwwcheapraybansalesnet  cheap ray bans    httpwww2015raybansalescom  ray ban sunglasses   ray ban sunglasses outlet httpwwwraybanoutletnamehttpwwwcoachusaoutletnet  coach factory outlet    httpwwwcheapmichaelkorsbagsorg  michael kors outlet online    httpwwwcheapoakleysorg  cheap oakley sunglasses    httpraybanoutletverascafecom  ray ban sunglasses   michael kors outlet online httpwwwmichaelkorsoutletxyzhttpwwwofficialcoachsalescc  coach factory outlet    httpwwwdiscountmichaelkorsbagsorg  michael kors    httpwwwoakleyoutletsalenet  oakley sunglasses wholesale    httpraybanoutletverascafecom  cheap ray ban sunglasses   ray ban sunglasses outlet httpwwwsunglasseshutcchttpwwwcoachfactoryoutletxyz  coach outlet online    httpwwwofficialmkoutletcc  michael kors outlet online    ht
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpwwwoutletscoachuscom  coach factory    httpwwwraybanussalescom  ray bans on sale    httpwwwcheapraybansalesnet  cheap ray bans    httpwww2015raybansalescom  ray ban sunglasses   ray ban sunglasses outlet httpwwwraybanoutletnamehttpwwwcoachusaoutletnet  coach factory outlet    httpwwwcheapmichaelkorsbagsorg  michael kors outlet online    httpwwwcheapoakleysorg  cheap oakley sunglasses    httpraybanoutletverascafecom  ray ban sunglasses   michael kors outlet online httpwwwmichaelkorsoutletxyzhttpwwwofficialcoachsalescc  coach factory outlet    httpwwwdiscountmichaelkorsbagsorg  michael kors    httpwwwoakleyoutletsalenet  oakley sunglasses wholesale    httpraybanoutletverascafecom  cheap ray ban sunglasses   ray ban sunglasses outlet httpwwwsunglasseshutcchttpwwwcoachfactoryoutletxyz  coach outlet online    httpwwwofficialmkoutletcc  michael kors outlet online    ht
-imported: true
 ---
 
 A video of Abubakar Shekau, the leader of the militant extremist group Boko Haram, has emerged in which he swears allegiance to Islamic State (IS).

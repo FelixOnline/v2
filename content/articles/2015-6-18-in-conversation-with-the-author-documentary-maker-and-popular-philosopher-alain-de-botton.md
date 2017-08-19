@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken talks religion, writing, The School of Life, and pornography
 date: "2015-06-18 20:53:58 +0100"
+
 # Attributes from Felix Online V1
 id: "5634"
 old_path: /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
 aliases:
  - /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
+imported: true
+comments:
+ - Your answer lifts the inclleigente of the debateLeave me alone Blade And Soul Items httpforumstheecacomnode1042074You are the savior of my lifeurlhttpuffxivbloguezcomuffxiv6072736The_Tier_PvP_classes_of_Blade_SoulBNS GoldurlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword s
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Your answer lifts the inclleigente of the debateLeave me alone Blade And Soul Items httpforumstheecacomnode1042074You are the savior of my lifeurlhttpuffxivbloguezcomuffxiv6072736The_Tier_PvP_classes_of_Blade_SoulBNS GoldurlHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means more now than ever since the new Google update Panda No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings You now NEED OnPage SEO So what is good OnPage SEOFirst your keyword must appear in the titleThen it must appear in the URLYou have to optimize your keyword and make sure that it has a nice keyword density of 35 in your article with relevant LSI Latent Semantic Indexing Then you should spread all H1H2H3 tags in your articleYour Keyword s
-imported: true
 ---
 
 There are not many people who can say they have set up an international school, written books that have been bestsellers in 30 countries, and given two TED talks. Fewer still can say they have re-hung an art museum and worked as Heathrow airport’s first ever writer-in-residence – but the author, documentary maker, and popular philosopher Alain de Botton can claim all of these achievements.

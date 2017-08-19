@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Michael Chung digs into the myriad ways to volunteer while you’re studying
 date: "2015-02-20 00:29:03 +0000"
+
 # Attributes from Felix Online V1
 id: "5287"
 old_path: /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
 aliases:
  - /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
+imported: true
+comments:
+ - wqmHcW  ajgwnagvwbga urlhttppyqrjjvnhsmpcompyqrjjvnhsmpurl linkhttpmxzzkpvjgkvecommxzzkpvjgkvelink httpitcnihvvgqkncomEstoy de acuerdo en que lo de la religin debera de pasar el plano ntimo de cada uno Igual que consideramos que las prcticas sexuales pertenecen a ese plano y no tendra por qu ser asiQuien estableci ese ordenMe encantan tus consejos sobre shopping mariquil El prximo post sobre qu va a ser Sobre el McDonalds de MoatrenPor qu te ha dado por poner ultimamente a tios con la polla torcida
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - wqmHcW  ajgwnagvwbga urlhttppyqrjjvnhsmpcompyqrjjvnhsmpurl linkhttpmxzzkpvjgkvecommxzzkpvjgkvelink httpitcnihvvgqkncomEstoy de acuerdo en que lo de la religin debera de pasar el plano ntimo de cada uno Igual que consideramos que las prcticas sexuales pertenecen a ese plano y no tendra por qu ser asiQuien estableci ese ordenMe encantan tus consejos sobre shopping mariquil El prximo post sobre qu va a ser Sobre el McDonalds de MoatrenPor qu te ha dado por poner ultimamente a tios con la polla torcida
-imported: true
 ---
 
 “Hiya! Do you have a few moments to volunteer for a good cause?“ “Ah sorry I’m in a hurry” This dialogue has occurred in the JCR for too long. And as students, who are stereotypically drunk 24/7, it is time for us to stand up and change public perceptions.

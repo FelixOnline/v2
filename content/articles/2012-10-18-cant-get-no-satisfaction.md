@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An all too brief discussion of the NSS
 date: "2012-10-18 21:37:29 +0100"
+
 # Attributes from Felix Online V1
 id: "2716"
 old_path: /comment/2716/cant-get-no-satisfaction
 aliases:
  - /comment/2716/cant-get-no-satisfaction
+imported: true
+comments:
+ - Thanks for your reply I honestly like having feedback unintended pun on the editorial I apologise if it did look as though I was saying that I didnt mean to blame students In fact I clearly stated or meant to that students expecting a lot is a good thing not a bad thing Let me clear this up we expect a lot which is a good thing as we should expect high quality from the university The College should work to meet those expectationsThe points you raise about shoddy lecture notes and lecturers are interesting I think there are times when teaching is poor I experienced some bad lecturers with low quality notes Its all about the individual lecturer Some are excellent some are terrible Its a case of making sure everyone reaches a minimum standard for all teaching and feedback defined by the College as being acceptable This is what I hinted at in the editorial Unfortunately I only had space to talk about feedback not notes which I planned to talk about laterEvery year Imperial do
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thanks for your reply I honestly like having feedback unintended pun on the editorial I apologise if it did look as though I was saying that I didnt mean to blame students In fact I clearly stated or meant to that students expecting a lot is a good thing not a bad thing Let me clear this up we expect a lot which is a good thing as we should expect high quality from the university The College should work to meet those expectationsThe points you raise about shoddy lecture notes and lecturers are interesting I think there are times when teaching is poor I experienced some bad lecturers with low quality notes Its all about the individual lecturer Some are excellent some are terrible Its a case of making sure everyone reaches a minimum standard for all teaching and feedback defined by the College as being acceptable This is what I hinted at in the editorial Unfortunately I only had space to talk about feedback not notes which I planned to talk about laterEvery year Imperial do
-imported: true
 ---
 
 The NSS results are in, and, predictably, we once more rank fairly low down the list. Turn to page 4 to see the full coverage.

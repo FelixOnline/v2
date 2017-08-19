@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emilie Beauchamp gets Sketchy
 date: "2013-06-20 21:11:35 +0100"
+
 # Attributes from Felix Online V1
 id: "3710"
 old_path: /arts/3710/put-lead-in-your-pencil
 aliases:
  - /arts/3710/put-lead-in-your-pencil
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Life drawing is an activity that a lot of people would like to do, but sometimes don’t dare to. For some, the nudity and sterility of classical art classes and the applied attention of overly zealous pseudo-artists in the room can be very intimidating, or maybe simply boring. But rejoice, as a new, alternative drawing movement has brought Dr. Sketchy to life – and to London!

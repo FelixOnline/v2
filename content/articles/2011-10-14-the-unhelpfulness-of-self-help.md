@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Or, why it might not be such a great idea to make long-term wish lists
 date: "2011-10-14 00:22:21 +0100"
+
 # Attributes from Felix Online V1
 id: "1535"
 old_path: /comment/1535/the-unhelpfulness-of-self-help
 aliases:
  - /comment/1535/the-unhelpfulness-of-self-help
+imported: true
+comments:
+ - I hear you on this  Ive been experiencing it a lot laelty on some other fronts  Ive recently decided that Id like to try my hand at  serious  wargames both tabletop board games and video games  Although I know a lot about some segments of the video game industry it turns out that hardcore turnbased strategy games seem to have their own separate space thats somewhat apart from other types of video games  But at least with video games sites like metacritic can link me and googling is pretty useful  Ive been really lost on some of the board games  Im extremely thankful for BoardGameGeek which has helped IMMENSELY  I cant even conceive of how I could have gotten started without that site  But going into the stores they all carry the games but very few of the staff members have ever played any of them or know anything about them and theres an unbelievable proliferation of them which all look more or less identical  Upon reading reviews it turns out that from a hardcore strategy board gami
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I hear you on this  Ive been experiencing it a lot laelty on some other fronts  Ive recently decided that Id like to try my hand at  serious  wargames both tabletop board games and video games  Although I know a lot about some segments of the video game industry it turns out that hardcore turnbased strategy games seem to have their own separate space thats somewhat apart from other types of video games  But at least with video games sites like metacritic can link me and googling is pretty useful  Ive been really lost on some of the board games  Im extremely thankful for BoardGameGeek which has helped IMMENSELY  I cant even conceive of how I could have gotten started without that site  But going into the stores they all carry the games but very few of the staff members have ever played any of them or know anything about them and theres an unbelievable proliferation of them which all look more or less identical  Upon reading reviews it turns out that from a hardcore strategy board gami
-imported: true
 ---
 
 A guy got on the tube and sat down next to me last week, which is a momentous enough event for me to open the column with because being that close to another human is a sure-fire way to ruin my week in spectacular style. Fortunately for me, the chap in question pulled out an iPhone and opened the notes app, where he began adding to a list – a list which would turn out to be the highlight of the day.

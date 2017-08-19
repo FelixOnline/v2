@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The British railway system is the biggest example of the failures of privatisation. I’m not old enough to remember the change, but I’m sure the arguments were the same as those touted today for the privatisation of other well-functioning institutions....
 date: "2014-01-31 17:52:18 +0000"
+
 # Attributes from Felix Online V1
 id: "4323"
 old_path: /comment/4323/on-trains-and-privatisation
 aliases:
  - /comment/4323/on-trains-and-privatisation
+imported: true
+comments:
+ - Hi KeirAn interesting piece but there are few details I feel I should point out Im sure the arguments were the same as those touted today for the privatisation of other wellfunctioning institutionsThis hinges on the assumption that British Rail was a wellfunctioning institution  it wasnt There was a well known fact that it was short on money admittedly the fault of the government at the time but also dwindling passenger numbers This was mainly a result of people becoming richer and hence being able to afford to travel by car more The two left the country with a rail system loathed by those who used it and was quickly running itself into the groundThe competition argument when it comes to the railways is based on the competition during point of tender Now yes you could argue that this doesnt provide value for money but in many ways its the Less Good option  with a public service such as this competition on the tracks only hurts consumersI cite a situation seen in the Victo
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - Hi KeirAn interesting piece but there are few details I feel I should point out Im sure the arguments were the same as those touted today for the privatisation of other wellfunctioning institutionsThis hinges on the assumption that British Rail was a wellfunctioning institution  it wasnt There was a well known fact that it was short on money admittedly the fault of the government at the time but also dwindling passenger numbers This was mainly a result of people becoming richer and hence being able to afford to travel by car more The two left the country with a rail system loathed by those who used it and was quickly running itself into the groundThe competition argument when it comes to the railways is based on the competition during point of tender Now yes you could argue that this doesnt provide value for money but in many ways its the Less Good option  with a public service such as this competition on the tracks only hurts consumersI cite a situation seen in the Victo
-imported: true
 ---
 
 The British railway system is the biggest example of the failures of privatisation. I’m not old enough to remember the change, but I’m sure the arguments were the same as those touted today for the privatisation of other well-functioning institutions: “private companies will run an efficient service, and competition with each other will improve that service while driving down prices.” This school-level economic argument hinges on consumer choice, but when it comes to transport, there is none.

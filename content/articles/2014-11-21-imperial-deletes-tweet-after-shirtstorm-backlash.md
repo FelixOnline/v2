@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Ben Howitt reports after College removes tweet about “proper cool scientist”
 date: "2014-11-21 13:26:25 +0000"
+
 # Attributes from Felix Online V1
 id: "4931"
 old_path: /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
 aliases:
  - /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
+imported: true
+comments:
+ - Great looking internet site Think you did a bunch of your very own html codingcs go skins by color httpgroomingtaxicomadsitem13157Wow cuz this is great work Congrats and keep it upcs go skins exterior httpwwwgreenartsnetworkcomnode2526Cool content youve got therenhl 17 coins httpobviicomblogspost24502
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great looking internet site Think you did a bunch of your very own html codingcs go skins by color httpgroomingtaxicomadsitem13157Wow cuz this is great work Congrats and keep it upcs go skins exterior httpwwwgreenartsnetworkcomnode2526Cool content youve got therenhl 17 coins httpobviicomblogspost24502
-imported: true
 ---
 
 The clothing choice of an Imperial graduate has been extensively lambasted throughout the media in the wake of the Philae landing, the culmination of over a decade’s work. Such scrutiny was not limited to the actions of the social media team of Imperial, who removed a tweet celebrating the success of Matt Taylor once the online backlash began.

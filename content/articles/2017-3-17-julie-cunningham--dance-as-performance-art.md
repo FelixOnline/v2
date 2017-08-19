@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Julie Cunningham & Company's Double Bill was on at the Barbican Centre from 8th – 11th March
 date: "2017-03-17 17:10:53 +0000"
+
 # Attributes from Felix Online V1
 id: "6913"
 old_path: /arts/6913/julie-cunningham--dance-as-performance-art
 aliases:
  - /arts/6913/julie-cunningham--dance-as-performance-art
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Classical dance is about confirmation, while contemporary dance is about exploration.” Classical ballets are drawn from well-known tales; the characters fall into easily recognisable roles – the princess, the knight-errant, the evil queen. By the end of the first act, if not before, we all know how the story ends. Good triumphs over evil, the star-crossed lovers are tragically separated by fate, and so on. Even the language of ballet displays itself in conventional figures such as grand jetés and pirouettes. On the other hand, contemporary dance is characterised by freedom and creativity of movement, with a focus on expressiveness – unlike classical dance, there is often no narrative story and the abstract meaning of a piece is left up to the viewer to decide.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   James Dixon listens to Reggae and 5 other unknown mixtapes
 date: "2013-05-02 12:14:48 +0100"
+
 # Attributes from Felix Online V1
 id: "3525"
 old_path: /sport/3525/cycling-through-the-pain
 aliases:
  - /sport/3525/cycling-through-the-pain
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Friday, 18.00. Set off from College in the minibuses. Painstakingly prepared genre-based mix tape 1 out of 6 ‘Reggae’ wobbling out from Transit subwoofer to minimal enthusiasm from backseat passengers – requests for Kraftwerk’s ‘Tour de France’ soundtrack pouring in thick and fast from Sioni. Halfway along the A40 in gridlocked traffic, we realise we’ve left Cyprien behind. After a quick phone call, he forgives us and tells us to keep going so we batter on. This remarkable change from everything going to plan to everything going tits up, only to revert back to going to plan some time afterwards would set the pace (at about 45 km/h) for the weekend.

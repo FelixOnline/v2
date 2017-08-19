@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Has the news become more concerned about quantity of papers sold rather than quality of news reporting?
 date: "2012-10-11 21:08:34 +0100"
+
 # Attributes from Felix Online V1
 id: "2663"
 old_path: /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
 aliases:
  - /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
+imported: true
+comments:
+ - However this entire critique essentially rests on the idea that whereas Ferguson is a sneaky partisan Krugman is a paragon of trustworthy objectivity Nothing could be further from the truth there are few commentators out there more clearly biased and blinkered the KrugmanThe problem is the rise of constantaccess information  a vacuum must be filled and as such there is a constant stream of spurious weaselworded criticism from all sides which rushes in to fill the airwavesActually as far as this article is concerned Krugman seems to serve more as a segue than anything else Built on Sand what does Krugmans objectivity have to do with anything The Krugman vs Ferguson debate is just a jumping off point to discuss what happened As was pointed out the Atlantic provides a fact check showing the points Ferguson was wrong about which turned out to be many points Ferguson obviously knows the things he wrote were incorrect being so highly educated If you have an argument for why the Atlant
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - However this entire critique essentially rests on the idea that whereas Ferguson is a sneaky partisan Krugman is a paragon of trustworthy objectivity Nothing could be further from the truth there are few commentators out there more clearly biased and blinkered the KrugmanThe problem is the rise of constantaccess information  a vacuum must be filled and as such there is a constant stream of spurious weaselworded criticism from all sides which rushes in to fill the airwavesActually as far as this article is concerned Krugman seems to serve more as a segue than anything else Built on Sand what does Krugmans objectivity have to do with anything The Krugman vs Ferguson debate is just a jumping off point to discuss what happened As was pointed out the Atlantic provides a fact check showing the points Ferguson was wrong about which turned out to be many points Ferguson obviously knows the things he wrote were incorrect being so highly educated If you have an argument for why the Atlant
-imported: true
 ---
 
 Niall Ferguson’s cover story in the latest issue of Newsweek is still generating buzz on the blogosphere. His lengthy editorial “Hit the Road, Barack” took on a barrage of criticism shortly after it hit the shelves (well, the internet). However, the criticism wasn’t about the subjective conceptual hang-ups or reasonable differences of opinion that the right and left usually bandy back and forth.

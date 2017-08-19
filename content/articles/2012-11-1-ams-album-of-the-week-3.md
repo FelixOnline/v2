@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Titus Andronicus: Local Business
 date: "2012-11-01 23:12:36 +0000"
+
 # Attributes from Felix Online V1
 id: "2816"
 old_path: /music/2816/ams-album-of-the-week-3
 aliases:
  - /music/2816/ams-album-of-the-week-3
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Titus Andronicus’ first twoalbums are both fantastic. An eclectic brand of lo-fi punk done with furious passion and intelligence. A key theme of Titus Andronicus’ lyrics is nihilism. You can look at the first two albums as the first two steps in accepting nihilism. First you get really pissed off, and then you have a bit of a cry. If we take Local Business, Titus Andronicus’ third album, as an extension of this, it turns out that the next step of coming to terms with nihilism is to become the Gaslight Anthem.

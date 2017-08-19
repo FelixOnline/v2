@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Intimacy at Oval Space
 date: "2017-02-03 17:05:24 +0000"
+
 # Attributes from Felix Online V1
 id: "6729"
 old_path: /music/6729/percolate--mind-fundraiser
 aliases:
  - /music/6729/percolate--mind-fundraiser
+imported: true
+comments:
+ - ive some small garden of herbs at home i use them for baking foods and as herbal medicines replica tank americaine cartier urlhttpwwwsupercawatchcnitreplica tank americaine cartierurl
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - ive some small garden of herbs at home i use them for baking foods and as herbal medicines replica tank americaine cartier urlhttpwwwsupercawatchcnitreplica tank americaine cartierurl
-imported: true
 ---
 
 Any excuse to visit one of my favourite venues in London is welcomed by me, so much more the better when that excuse is me donating to an amazing charity and getting a great, music-heavy evening in return.

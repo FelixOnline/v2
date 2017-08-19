@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Motion passed despite sabbs not voting for it
 date: "2013-02-14 21:12:53 +0000"
+
 # Attributes from Felix Online V1
 id: "3332"
 old_path: /news/3332/union-council-votes-for-access-to-medicines-paper
 aliases:
  - /news/3332/union-council-votes-for-access-to-medicines-paper
+imported: true
+comments:
+ - I mentioned in both the policy and the meeting that other Universities that had adopted similar policies had not seen any impact on their finances however the Global Access Licensing Framework is stricter than the other policies that have been adopted to ensure itll be more transparent and more consistent with its approach to making affordable versions of medicines available Therefore it would be difficult for me to put an exact figure on the financial impact it may have on the college However it would be small if any as the revenues the college generates through licensing of its intellectual property in the last couple of years has been between 600k1m for all its IP licensed Medicines vaccines and diagnostics account for only a fraction of that and the potential loss in revenue from those would be an even smaller fraction of thatAll this also needs to be weighed up against the massive social benefit such a policy could have on access to medicines in poorer countriesI was there at Counci
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I mentioned in both the policy and the meeting that other Universities that had adopted similar policies had not seen any impact on their finances however the Global Access Licensing Framework is stricter than the other policies that have been adopted to ensure itll be more transparent and more consistent with its approach to making affordable versions of medicines available Therefore it would be difficult for me to put an exact figure on the financial impact it may have on the college However it would be small if any as the revenues the college generates through licensing of its intellectual property in the last couple of years has been between 600k1m for all its IP licensed Medicines vaccines and diagnostics account for only a fraction of that and the potential loss in revenue from those would be an even smaller fraction of thatAll this also needs to be weighed up against the massive social benefit such a policy could have on access to medicines in poorer countriesI was there at Counci
-imported: true
 ---
 
 The motion [‘Imperial College Union Access to Medicines Policy](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/file/1855)’ was proposed to the Union Council on Tuesday by ICSMSU President Shiv Vohra and seconded by Kush Nake. The motion was passed. In brief, this motion was proposed in order for the Union to actively campaign to persuade Imperial College to sign the Global Access Licensing Framework. This enables affordable versions of research developed medicine to be made available in medical resource-limited countries. This framework was published by the international student-led organisation Universities Allied for Essential Medicines under the guidance of various experts.

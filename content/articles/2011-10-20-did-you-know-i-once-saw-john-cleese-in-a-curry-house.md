@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Are celebrities a scourge on society?
 date: "2011-10-20 23:12:54 +0100"
+
 # Attributes from Felix Online V1
 id: "1579"
 old_path: /comment/1579/did-you-know-i-once-saw-john-cleese-in-a-curry-house
 aliases:
  - /comment/1579/did-you-know-i-once-saw-john-cleese-in-a-curry-house
+imported: true
+comments:
+ - Jan17Varsha Naidu    our imperfections make us pcfleetry us    One thing about celebs that I do love it their hair It must be really great to have a hair stylist on call at all times30bIn La and nearby settas you will find lots of institutions and business businesses that succeed because of the effective machines employed to be able to cater the requirements of the clients Specialists will also be proud to express they have been area of the success of numerous businesses especially growing productivity The specialists are friendly enough to help you anywhere you might be in La so please disclose your issues since theyre much willing to own excellent IT solution for you personally Painkiller Triple Dose download  Total Training Adobe Photoshop CS2 demo 22485 Total Training for Adobe Pagemaker 70 Disc 2 buy cywzi Vue Fairy Tale download 942 Bass Tournament Tycoon free 398  public officials liability insurance   sand dune   hallway   oxley
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Jan17Varsha Naidu    our imperfections make us pcfleetry us    One thing about celebs that I do love it their hair It must be really great to have a hair stylist on call at all times30bIn La and nearby settas you will find lots of institutions and business businesses that succeed because of the effective machines employed to be able to cater the requirements of the clients Specialists will also be proud to express they have been area of the success of numerous businesses especially growing productivity The specialists are friendly enough to help you anywhere you might be in La so please disclose your issues since theyre much willing to own excellent IT solution for you personally Painkiller Triple Dose download  Total Training Adobe Photoshop CS2 demo 22485 Total Training for Adobe Pagemaker 70 Disc 2 buy cywzi Vue Fairy Tale download 942 Bass Tournament Tycoon free 398  public officials liability insurance   sand dune   hallway   oxley
-imported: true
 ---
 
 This one sentence can kick-off a near-endless conversation of who saw who, where and doing what. Like them or loathe them, celebrities do get people talking. Off the top of my head, I can’t think of any other use they might have. Every day it gets easier to gossip – not just because of The News of the World’s standard journalistic practices – but also because of the sheer abundance of celebrities in our society today.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Catina Willows thinks Imperial needs to get out more
 date: "2013-01-31 23:41:15 +0000"
+
 # Attributes from Felix Online V1
 id: "3213"
 old_path: /comment/3213/isolated-imperial
 aliases:
  - /comment/3213/isolated-imperial
+imported: true
+comments:
+ - The author seems to be under the impression that the NUS and UL are social clubs If Imperial was in the NUS or UL we wouldnt have students flocking from Kings UCL or anywhere else for that matter on day trips The reason Kings UCL et al are believed to be still in UL is that they all want the UL buildings in central london for themselves Were not in the UL or its union counterpart ULU because were a uni in our own right now Some of our sports teams still compete in ULU competitions or have links with their ULU counterparts so were not isolated Today  ironically  the DPW and DPE are in Belfast meeting sabbs from the other 23 Russell Group universities including UCL LSE Kings and sharing best practice so were not isolated The author is also factually inaccurate  not all the Russell Group unis are in the NUS We also have stronger links with RCA RCM Heythrop FIE and Boston than any other group of unis our clubs and societies are theirs for crying out loudJust to point out that o
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - The author seems to be under the impression that the NUS and UL are social clubs If Imperial was in the NUS or UL we wouldnt have students flocking from Kings UCL or anywhere else for that matter on day trips The reason Kings UCL et al are believed to be still in UL is that they all want the UL buildings in central london for themselves Were not in the UL or its union counterpart ULU because were a uni in our own right now Some of our sports teams still compete in ULU competitions or have links with their ULU counterparts so were not isolated Today  ironically  the DPW and DPE are in Belfast meeting sabbs from the other 23 Russell Group universities including UCL LSE Kings and sharing best practice so were not isolated The author is also factually inaccurate  not all the Russell Group unis are in the NUS We also have stronger links with RCA RCM Heythrop FIE and Boston than any other group of unis our clubs and societies are theirs for crying out loudJust to point out that o
-imported: true
 ---
 
 So, imagine you’re at a party with all the UK’s universities. Standing in a corner are the Russell Group, stroking their rugby team ties and snubbing the rest of the unis, who are actually having fun. Out in the hallway are a bunch of businessmen in a circle, all jacking off onto Imperial, who willingly kneels in the middle.

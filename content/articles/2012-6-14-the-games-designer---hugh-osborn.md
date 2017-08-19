@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Games Designer - Hugh Osborn
 date: "2012-06-14 20:20:59 +0100"
+
 # Attributes from Felix Online V1
 id: "2562"
 old_path: /phoenix/2562/the-games-designer---hugh-osborn-
 aliases:
  - /phoenix/2562/the-games-designer---hugh-osborn-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - phoenix
 tags:
+authors:
+ - ak6309
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
-author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 author_twitter: "AlexKara15"
 author_facebook: "http://www.facebook.com/alexkara15"
 author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
-
-comments:
-imported: true
 ---
 
 Eleanor - Can you tell us a little bit about the game you’re making at the moment?

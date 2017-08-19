@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Surprise, surprise, another TV show with an indefensible plot...
 date: "2011-01-27 19:10:18 +0000"
+
 # Attributes from Felix Online V1
 id: "663"
 old_path: /science/663/primeval-monumentally-stupid
 aliases:
  - /science/663/primeval-monumentally-stupid
+imported: true
+comments:
+ - Its even worse Ive watched exactly 3  a half episodes now all from a 1st season syfy marathon They were all so bad If it werent Saturday Id be watching or doing something else Unfortunately for me Im a sci fi fiend with Fringe withdrawal symptoms S1e3 has the GENIUS of all things decide to traverse an anomaly where victims of unknown status disappeared in an airplane HE FOLLOWS THEM ON FOOT Im like wtf What if the ground level is lower and you fall How are you going to get back That EXACTLY happens The genius says well I wasnt expecting that LMAO Even Stargate sg1 KNEW to send probes firstA big deal is made about killing the beasts screwing up the timeline WTF What about all the swapped microorganisms hither  yon folks eaten  shat out in the age of dinos Im ALMOST inclined to smoke some medical marijuana and watch the whole marathon Almost And you say this has been  on for 3 seasons while decent series were being canceled WTFJust watched most of the f
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - mtm10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Its even worse Ive watched exactly 3  a half episodes now all from a 1st season syfy marathon They were all so bad If it werent Saturday Id be watching or doing something else Unfortunately for me Im a sci fi fiend with Fringe withdrawal symptoms S1e3 has the GENIUS of all things decide to traverse an anomaly where victims of unknown status disappeared in an airplane HE FOLLOWS THEM ON FOOT Im like wtf What if the ground level is lower and you fall How are you going to get back That EXACTLY happens The genius says well I wasnt expecting that LMAO Even Stargate sg1 KNEW to send probes firstA big deal is made about killing the beasts screwing up the timeline WTF What about all the swapped microorganisms hither  yon folks eaten  shat out in the age of dinos Im ALMOST inclined to smoke some medical marijuana and watch the whole marathon Almost And you say this has been  on for 3 seasons while decent series were being canceled WTFJust watched most of the f
-imported: true
 ---
 
 Those of you who complained about me focusing so much on the plot holes in my [Moon review](http://www.felixonline.co.uk/?article=558) should stop reading now because this is much of the same. I’m sorry, but I just couldn’t pass up the opportunity to review a show as monumentally stupid as Primeval.

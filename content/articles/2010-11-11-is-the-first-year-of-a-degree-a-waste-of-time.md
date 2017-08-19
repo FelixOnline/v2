@@ -4,16 +4,24 @@ title: >
 subtitle: >
   My advice to anyone thinking of a one, two or even three year degree? Do what you think will suit you and just dive in
 date: "2010-11-11 21:52:05 +0000"
+
 # Attributes from Felix Online V1
 id: "369"
 old_path: /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
 aliases:
  - /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
+imported: true
+comments:
+ - Wow thanks for your superior knowledge Mr Furse I really feel like I am on the right course now I really dont understand why they dont put you on a tour of UK schools as some sort of wizard career advisor 20120215 0211     Youre so awesome man  I cant bveiele I missed this blog for so long  Its just great stuff all round  Your design man too amazing  I cant wait to read what youve got next  I love everything that youre saying and want more more MORE  Keep this up man  Its just too good
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Wow thanks for your superior knowledge Mr Furse I really feel like I am on the right course now I really dont understand why they dont put you on a tour of UK schools as some sort of wizard career advisor 20120215 0211     Youre so awesome man  I cant bveiele I missed this blog for so long  Its just great stuff all round  Your design man too amazing  I cant wait to read what youve got next  I love everything that youre saying and want more more MORE  Keep this up man  Its just too good
-imported: true
 ---
 
 Oh goody! Another subject to rant on about in a pedantic and pompous tone of voice. Well, more like splitting hairs in a self-important manner really. Either way, the headline “Is the first year of a degree a waste of time?” is the sort of trashy headline calculated to get Radio Four listeners heading for the hills.

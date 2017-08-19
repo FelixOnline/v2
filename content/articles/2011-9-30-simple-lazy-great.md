@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An Immature Critic is won over by the biggest comedy of the summer
 date: "2011-09-30 12:40:38 +0100"
+
 # Attributes from Felix Online V1
 id: "1462"
 old_path: /film/1462/simple-lazy-great
 aliases:
  - /film/1462/simple-lazy-great
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The Americans are really good at it. [_American Pie_](http://www.youtube.com/watch?v=F0GJMxsivh4), [_Dude, Where’s My Car?_](http://www.youtube.com/watch?v=d1wuijgeaaY), [_Bill & Ted’s Excellent Adventure_](http://www.youtube.com/watch?v=xrGWooNDPiE). The Brits tried it once – [_Kevin & Perry Go Large_](http://www.youtube.com/watch?v=nENwy9GRyF0). And then four pubescent, awkward, goofy, and weird teenagers popped onto the scene to deliver the summer’s funniest movie.

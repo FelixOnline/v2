@@ -4,16 +4,23 @@ title: >
 subtitle: >
   President attacked for amenities fund comments
 date: "2011-02-24 19:42:39 +0000"
+
 # Attributes from Felix Online V1
 id: "867"
 old_path: /news/867/hall-survey-delayed
 aliases:
  - /news/867/hall-survey-delayed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Imperial halls of accommodation were the subject of much heated debate this week following the Union’s announcement of a survey to see how the rent for Halls could be reduced. In particular Union President Alex Kendall’s comments about the halls amenities fund, which is paid from rents and used to subsidise social events, have been roundly criticised with students forming a [Facebook group](http://www.facebook.com/home.php?sk=group_190226594345429&ap=1) to resist the scrapping of the fund. The survey has been delayed until a “a full breakdown of costs [can be received] to put the other measures in perspective,” according to Alex Kendall.

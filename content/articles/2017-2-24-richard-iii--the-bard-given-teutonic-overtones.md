@@ -4,16 +4,23 @@ title: >
 subtitle: >
   from 16th – 19th February
 date: "2017-02-24 14:33:58 +0000"
+
 # Attributes from Felix Online V1
 id: "6821"
 old_path: /arts/6821/richard-iii--the-bard-given-teutonic-overtones
 aliases:
  - /arts/6821/richard-iii--the-bard-given-teutonic-overtones
+imported: true
+comments:
+ - Ce juge qui ne respecte pas la loi est il poursuivi et ou sanctionn devant une instance disciplinaire En outre des fonctionnaires rgaliens qui nen font que selon leur bon vooirnbspulraquo au mpris des lois devraient etre expulses de la fonction publique
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ce juge qui ne respecte pas la loi est il poursuivi et ou sanctionn devant une instance disciplinaire En outre des fonctionnaires rgaliens qui nen font que selon leur bon vooirnbspulraquo au mpris des lois devraient etre expulses de la fonction publique
-imported: true
 ---
 
 Thomas Ostermeier’s production of Richard III is a celebration of the wicked, the tragic, and the profane. The play is on tour from Schaubühne Berlin and is performed entirely in German with English surtitles on the stage.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Welcome to Felix’s new, unimaginatively-titled, Science Fiction Column
 date: "2010-12-02 20:33:38 +0000"
+
 # Attributes from Felix Online V1
 id: "473"
 old_path: /science/473/science-fiction-column
 aliases:
  - /science/473/science-fiction-column
+imported: true
+comments:
+ - A well argued article and i definetly agree on the points raisedThat said I think that there is a place for the technobabble and related solutions occasionally as long as it does not take prevalence
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - mtm10
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - A well argued article and i definetly agree on the points raisedThat said I think that there is a place for the technobabble and related solutions occasionally as long as it does not take prevalence
-imported: true
 ---
 
 Hello and welcome to Felix’s new, unimaginatively-titled, Science Fiction Column. I’ve always been passionate about this topic and I hope that I’ll be able to pass some of this excitement on to you.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Recently the Imperial College chess team arrived back from BUCA. After multiple rounds, Imperial managed to dominate the entire tournament. It was a great weekend of fun and exciting chess games.
 date: "2014-02-28 07:15:12 +0000"
+
 # Attributes from Felix Online V1
 id: "4444"
 old_path: /comment/4444/where-are-the-queens-in-chess
 aliases:
  - /comment/4444/where-are-the-queens-in-chess
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Recently the Imperial College chess team arrived back from BUCA. After multiple rounds, Imperial managed to dominate the entire tournament. It was a great weekend of fun and exciting chess games. However, throughout the event, one thing particularly struck me. Of a group of more than a 70 people, I could have counted the number of women at this entire event on two hands, maybe even one. Yet on average, men and women are distributed fairly evenly throughout the globe. The ratio of the two genders is close to 1:1. Why was it something like 15 to one at this tournament? After I got home I did my own research into this and found some really astounding facts: no woman has ever been world champion; there are only 30 women who are full Grandmasters (when there are actually 1,192 GMs); and and and. The list goes on and on. Women are woefully underrepresented in this famous game. Why is chess considered such a mans sport?

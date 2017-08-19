@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix Food gives some bang(er)-on sausage love this week
 date: "2014-02-17 18:30:35 +0000"
+
 # Attributes from Felix Online V1
 id: "4396"
 old_path: /food/4396/chipolatas-off-the-ol-block
 aliases:
  - /food/4396/chipolatas-off-the-ol-block
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This Valentine’s Day, Felix pays homage to our own population with a closer look at the food that has become one of our running jokes/characteristics...at our expense. Well if you can’t beat them, join them! And in true Hugh Fearnley-Whittingstall’s Three Good Things style - or well, thinly veiled saucy references - we include two veg suggestions with each sausage. Mmm mmm.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Further protests begin with sit-in protest at Cambridge
 date: "2011-11-24 22:08:36 +0000"
+
 # Attributes from Felix Online V1
 id: "1828"
 old_path: /news/1828/student-occupations-return-in-force
 aliases:
  - /news/1828/student-occupations-return-in-force
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Students and staff affiliated with Members of Cambridge Defend Education have been staging a sit-in protest in a university lecture theatre at University of Cambridge since Wednesday 23 November.

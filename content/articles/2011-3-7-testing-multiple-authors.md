@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Testing multiple authors
 date: "2011-03-07 22:46:26 +0000"
+
 # Attributes from Felix Online V1
 id: "1047"
 old_path: /arts/1047/testing-multiple-authors
 aliases:
  - /arts/1047/testing-multiple-authors
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jk708
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
-author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 author_twitter: "jonnykim"
 author_facebook: "https://www.facebook.com/Jonny.Kim"
 author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
-
-comments:
-imported: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non mattis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec quis imperdiet nisi. Fusce condimentum, odio nec tincidunt scelerisque, arcu tortor mollis erat, at posuere quam ipsum sagittis nisl. Donec congue leo consectetur nulla varius sed pretium nunc pulvinar. Proin quis turpis sed tellus rutrum tempus eu sit amet augue. Vestibulum adipiscing, purus eget semper vestibulum, neque dolor accumsan ante, ac condimentum augue elit vitae elit. Nullam quis metus sem, eget iaculis tortor. Pellentesque iaculis viverra elit vitae venenatis. Vestibulum imperdiet ultricies scelerisque. Suspendisse convallis ornare euismod. Praesent a vulputate quam. Maecenas ultrices sem vitae arcu imperdiet vel porttitor est blandit. Donec sollicitudin malesuada sem, nec faucibus tellus feugiat in. Vivamus molestie cursus rhoncus.

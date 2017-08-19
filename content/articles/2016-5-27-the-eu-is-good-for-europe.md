@@ -4,16 +4,22 @@ title: >
 subtitle: >
   But pretty bad for the rest of the world
 date: "2016-05-27 08:47:16 +0100"
+
 # Attributes from Felix Online V1
 id: "6204"
 old_path: /comment/6204/the-eu-is-good-for-europe
 aliases:
  - /comment/6204/the-eu-is-good-for-europe
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Let me start by saying that, generally, I am pro EU. Before university, I went to a European school, where I was taught extensively about the European Union in my history and geography classes. I’m not blind to the faults of the EU, namely that it is a prohibitively beaurocratic institution run by technocrats and MEPs elected by only 42.5% of the voting public. Nonetheless, I would argue that on the whole, the EU is beneficial to Europeans.

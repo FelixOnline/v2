@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Samuel Gibbs goes hands, eyes and ears-on with Blue’s latest HD webcam, the Eyeball 2.0, and finds it wanting
 date: "2010-11-18 20:09:07 +0000"
+
 # Attributes from Felix Online V1
 id: "384"
 old_path: /tech/384/eyeball-2-eyeball
 aliases:
  - /tech/384/eyeball-2-eyeball
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
-imported: true
 ---
 
 Having loved the Blue Yeti a couple of weeks ago, we had high expectations for Blue’s latest webcam replacement, the [Eyeball 2.0](http://www.bluemic.com/eyeball/). Featuring Blue’s excellent USB microphone technology, and a retractable 2MP webcam, on paper the Eyeball 2.0 is an excellent upgrade to the stock web chat solution built into most modern laptops and monitors.

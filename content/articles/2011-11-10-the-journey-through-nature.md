@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Anum Farooq is a little bit lost in nature, and recommends you should be too.
 date: "2011-11-10 20:43:51 +0000"
+
 # Attributes from Felix Online V1
 id: "1719"
 old_path: /comment/1719/the-journey-through-nature
 aliases:
  - /comment/1719/the-journey-through-nature
+imported: true
+comments:
+ - Excellent article thank youhehehe i love the first comment  Anum farooq is a bit lost in nature   yes Anumty lost in wilderness you are b when i came to london i felt i was trapped between manmade bricks and i missed my lebanese trees I missed how me and my brothers had to throw bricks to mark our way between trees from our house to my dads work b   But when i met you you taught me that nature is beautiful everywhere  I learnt to love the British birds and see the different side of beauty in nature  subhanallah your article made me feel like i want to climb a tree hehehe off to watch how the salmons jumps against the stream on youtube The power of Allah anything is possible 12082010 d0b2 2009UTC 2
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Excellent article thank youhehehe i love the first comment  Anum farooq is a bit lost in nature   yes Anumty lost in wilderness you are b when i came to london i felt i was trapped between manmade bricks and i missed my lebanese trees I missed how me and my brothers had to throw bricks to mark our way between trees from our house to my dads work b   But when i met you you taught me that nature is beautiful everywhere  I learnt to love the British birds and see the different side of beauty in nature  subhanallah your article made me feel like i want to climb a tree hehehe off to watch how the salmons jumps against the stream on youtube The power of Allah anything is possible 12082010 d0b2 2009UTC 2
-imported: true
 ---
 
 How many moments have you actually lived? Or reflected upon, or marvelled… or just, been? Now, this is not some kind of hippy wisdom, this is an understanding of the world around us. Have you ever ran through rain puddles on a sunny day and seen a rainbow at your side? It might seem comical, but try it, and then we’ll see who is smiling. Tennyson personifies nature as an eagle:

@@ -4,16 +4,22 @@ title: >
 subtitle: >
   The Fourth Plinth shortlist is on at the National Gallery until 26th March
 date: "2017-02-03 16:58:19 +0000"
+
 # Attributes from Felix Online V1
 id: "6724"
 old_path: /arts/6724/the-fourth-plinth-shortlist-proves-a-mixed-bag
 aliases:
  - /arts/6724/the-fourth-plinth-shortlist-proves-a-mixed-bag
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Trafalgar Square’s Fourth Pinth is a temporary pedestal upon which the best, edgiest, and most relevant contemporary sculptures are displayed, and the latest spot is now up for grabs. Well, to one of the five shortlisted entries, that is. These are currently up for display (in miniature-sized versions) in the National Gallery, and it makes for an exhibition well-worth perusing, before heading upstairs to drool over the Monets and Van Goghs.

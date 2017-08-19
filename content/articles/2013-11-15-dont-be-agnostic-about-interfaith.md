@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Umar Nasser, President of Ahmadiyya Muslim Students Association, on matters of interfaith
 date: "2013-11-15 02:26:21 +0000"
+
 # Attributes from Felix Online V1
 id: "4068"
 old_path: /comment/4068/dont-be-agnostic-about-interfaith
 aliases:
  - /comment/4068/dont-be-agnostic-about-interfaith
+imported: true
+comments:
+ - A very well written and thought provoking pieceThoroughly well presented case for Interfaith I hope the events in Interfaith week are as engaging as this article May God alleviate the plight of all those suffering due to their faith creed etc
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - A very well written and thought provoking pieceThoroughly well presented case for Interfaith I hope the events in Interfaith week are as engaging as this article May God alleviate the plight of all those suffering due to their faith creed etc
-imported: true
 ---
 
 Next week is National Interfaith Week, established four years ago to bring people of different faiths and beliefs together and build bridges and mutual appreciation between social groups that may not mix on a regular basis. While it hasn’t been ‘celebrated’ or ‘observed’ at Imperial College (depending on one’s Interfaith views) I think that we are foolish to pass up the opportunity- especially when our faith societies are as big as they are.

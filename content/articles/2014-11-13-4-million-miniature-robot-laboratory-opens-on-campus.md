@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial opens yet another robotic lab, making it only a matter of time before we are overrun in a scene similar to that of I, Robot.
 date: "2014-11-13 14:25:43 +0000"
+
 # Attributes from Felix Online V1
 id: "4857"
 old_path: /news/4857/4-million-miniature-robot-laboratory-opens-on-campus
 aliases:
  - /news/4857/4-million-miniature-robot-laboratory-opens-on-campus
+imported: true
+comments:
+ - Youre an extremely beneficial internet site couldnt make it without yapokemongo httpwwwfekidoszhunode127464
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youre an extremely beneficial internet site couldnt make it without yapokemongo httpwwwfekidoszhunode127464
-imported: true
 ---
 
 On Wednesday the EPSRC Micro-Machining Facility for Medical Robotics was officially opened at Imperial College London. Costing £4 million, this new lab will allow the development of miniaturised surgical robotics that could reshape the way diseases are diagnosed and treated

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Youth stop AIDS
 date: "2016-03-11 11:46:41 +0000"
+
 # Attributes from Felix Online V1
 id: "6031"
 old_path: /cands/6031/speaking-against-stigma
 aliases:
  - /cands/6031/speaking-against-stigma
+imported: true
+comments:
+ - Thank you for your helping handBlade  Soul Power leveling httpskidblogorgclassbladesoulpostsb2imoaj8kysb0k5pqrtx0167lI mean itr4pg httpimgfavecomr4pgcollectionsYou have shed a ray of sunishne into the forum ThanksMaintain the good job and generating the crowdnba 2k16 mt uk http2officialcomblogs27927231csgoskinsprominentgunrunnersofworldwideoffensive I am indeed very happy for my life My name is Vargas cynthia maye I never thought that I will live on earth before the year runs out I have been suffering from a deadly disease HIV for the past 5 years now I had spent a lot of money going from one places to another from churches to churches hospitals have been my every day residence Constant checks up have been my hobby not until last Month I was searching through the internet I saw a testimony on how DR Ben helped someone in curing her HIV disease quickly I copied his email which is drbenharbalhomegmailcomI spoke to him he asked me to do some cert
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thank you for your helping handBlade  Soul Power leveling httpskidblogorgclassbladesoulpostsb2imoaj8kysb0k5pqrtx0167lI mean itr4pg httpimgfavecomr4pgcollectionsYou have shed a ray of sunishne into the forum ThanksMaintain the good job and generating the crowdnba 2k16 mt uk http2officialcomblogs27927231csgoskinsprominentgunrunnersofworldwideoffensive I am indeed very happy for my life My name is Vargas cynthia maye I never thought that I will live on earth before the year runs out I have been suffering from a deadly disease HIV for the past 5 years now I had spent a lot of money going from one places to another from churches to churches hospitals have been my every day residence Constant checks up have been my hobby not until last Month I was searching through the internet I saw a testimony on how DR Ben helped someone in curing her HIV disease quickly I copied his email which is drbenharbalhomegmailcomI spoke to him he asked me to do some cert
-imported: true
 ---
 
 We need to end the deafening silence – Robbie Lawlor is the charming charismatic Mr Gay Ireland. A Zoology graduate with the kind of accent romcom producers ditch their fiancées and invest in fisherman jumpers to be with. He’s also HIV Positive. That shouldn’t matter. Except it does.

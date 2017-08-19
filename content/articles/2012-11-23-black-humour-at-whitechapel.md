@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Two very different artists on show at East London gallery
 date: "2012-11-23 00:17:47 +0000"
+
 # Attributes from Felix Online V1
 id: "2967"
 old_path: /arts/2967/black-humour-at-whitechapel
 aliases:
  - /arts/2967/black-humour-at-whitechapel
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 At its core conceptual art has always been, and will continue to be, all about revolution. Whether the revolution is against injustices committed around the world, or simply against current cultural status quo, you can guarantee that the artist will be on the front lines, creating works to make the viewer ask questions. This quality can be seen in Duchamp’s upturned urinal entitled Fountain, which rocked the foundations of the art world; it can be seen in Picasso’s Guernica, a gigantic canvas vividly documenting the horrors of war. It can also be seen today in the work of Maurizio Cattelan, the notorious Italian satirist whose works are currently on display at the Whitechapel Gallery.

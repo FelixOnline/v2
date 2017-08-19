@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Michelle Tan explores both the longstanding and the faddy
 date: "2014-11-06 21:08:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4796"
 old_path: /food/4796/whats-up-with-all-these-diets
 aliases:
  - /food/4796/whats-up-with-all-these-diets
+imported: true
+comments:
+ - thank so mucha lot for your web site it helps a great dealcs go keys for sale httppalaircooledtreasurycomforumtopic5547I like to party not look aricelts up online You made it happen
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - thank so mucha lot for your web site it helps a great dealcs go keys for sale httppalaircooledtreasurycomforumtopic5547I like to party not look aricelts up online You made it happen
-imported: true
 ---
 
 Νowadays there seems to be a host of diets that we have heard of but know nothing about. And yet, people still seem to think that these diets are good for their health. But do we really know what we are getting ourselves into?

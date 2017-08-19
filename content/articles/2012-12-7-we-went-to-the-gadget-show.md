@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Max Eggl and the Felix Tech team play around on some of the latest tech
 date: "2012-12-07 02:52:24 +0000"
+
 # Attributes from Felix Online V1
 id: "3055"
 old_path: /tech/3055/we-went-to-the-gadget-show
 aliases:
  - /tech/3055/we-went-to-the-gadget-show
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - jp1409
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jason_parmar"
 author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
 author_website_url: "http://www.jasonparmar.com"
 author_website_title: "Personal Website"
-
-comments:
-imported: true
 ---
 
 Last Friday three young whippersnappers (i.e. the Felix Tech team) made their way to the Gadget Show Live, in the ExCeL, hoping to see the newest tech on the market, as well as have some well-earned time off. Once we arrived there and got our shiny press passes sorted out, we decided to split up so that each of us would have a different view of what actually was going on in the tech world.

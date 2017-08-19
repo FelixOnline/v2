@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Emily Fulham takes a swash-buckling journey into Renaissance France
 date: "2014-02-17 18:35:22 +0000"
+
 # Attributes from Felix Online V1
 id: "4397"
 old_path: /tv/4397/three-musketeers-one-review-
 aliases:
  - /tv/4397/three-musketeers-one-review-
+imported: true
+comments:
+ - So far just thoroughly enjoyable escapist adventure entertainment for Sunday night  Liking
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - So far just thoroughly enjoyable escapist adventure entertainment for Sunday night  Liking
-imported: true
 ---
 
 There are a few ways to instantly sell me on a new TV show, regardless of reviews or recommendations. The new BBC show, _Musketeers_, hit virtually all of the boxes: an adaptation of an all-time favourite book, a cast featuring Peter Capaldi and the hot artist from _Heroes_, and plenty of sword fights. I’d have eagerly watched it regardless of any bad reviews, which is probably for the best, as it had something of a mixed reception from critics.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Exams cancelled and student union disbands
 date: "2015-05-29 01:13:26 +0100"
+
 # Attributes from Felix Online V1
 id: "5581"
 old_path: /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
 aliases:
  - /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
+imported: true
+comments:
+ - EditHey guys I am enjoying the site and thnaks for caring enough to post to allow us to study and exam cram with1 question though why give the answers away shaded in green when we havent had a chance to look at possible answers before we hit  read more Just curious if I am doing something incorrect here in using the site or whatJust seems it would be more helpful if the answers were not divulged when you are looking to see what the choices areThanks for a replyReply
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - EditHey guys I am enjoying the site and thnaks for caring enough to post to allow us to study and exam cram with1 question though why give the answers away shaded in green when we havent had a chance to look at possible answers before we hit  read more Just curious if I am doing something incorrect here in using the site or whatJust seems it would be more helpful if the answers were not divulged when you are looking to see what the choices areThanks for a replyReply
-imported: true
 ---
 
 Ain Shams University in Cairo has had to cancel exams after fears of protests by students following the controversial death of Engineering student Islam Salah Al-Din Atitu.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   ICSM Drama sets the stage alight with a little cross-dressing and a lot of fun
 date: "2012-03-08 20:25:42 +0000"
+
 # Attributes from Felix Online V1
 id: "2315"
 old_path: /arts/2315/hot-or-imperial-hot
 aliases:
  - /arts/2315/hot-or-imperial-hot
+imported: true
+comments:
+ - I do like the manner in which you have freamd this particular issue and it really does provide me personally a lot of fodder for considerationNonetheless through what precisely I have witnessed I only hopeas the commentary pack on that men and women keep on point and dont get started upon a tirade regarding the news of the day Yet thank you for this excellent piece and although I do not necessarily concur with this in totality I value your perspectiveIa1a6ve been exploring for a bit for any high quatily articles or weblog posts on this kind of space  Exploring in Yahoo I ultimately stumbled upon this site Studying this information So ia1a6m happy to show that Ive an incredibly just right uncanny feeling I discovered exactly what I needed I such a lot certainly will make sure to do not forget this web site and give it a glance on a relentless basis
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I do like the manner in which you have freamd this particular issue and it really does provide me personally a lot of fodder for considerationNonetheless through what precisely I have witnessed I only hopeas the commentary pack on that men and women keep on point and dont get started upon a tirade regarding the news of the day Yet thank you for this excellent piece and although I do not necessarily concur with this in totality I value your perspectiveIa1a6ve been exploring for a bit for any high quatily articles or weblog posts on this kind of space  Exploring in Yahoo I ultimately stumbled upon this site Studying this information So ia1a6m happy to show that Ive an incredibly just right uncanny feeling I discovered exactly what I needed I such a lot certainly will make sure to do not forget this web site and give it a glance on a relentless basis
-imported: true
 ---
 
 In the year 2000, the American Film institute named _Some Like It Hot_ the greatest American comedy film of all time. At the time of its release, it won three Golden Globes and an Academy Award. It is surely a huge undertaking, then, to successfully bring a story with such pedigree to the stage. This is the challenge that __ICSM Drama__ have set themselves this term, and from what I’ve seen, they have indeed been phenomenally successful.

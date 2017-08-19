@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A personal account on the more neglected side effects of the disease: Irritable Bowel Syndrome
 date: "2016-02-26 12:02:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5982"
 old_path: /welfare/5982/life-after-anorexia-ibs
 aliases:
  - /welfare/5982/life-after-anorexia-ibs
+imported: true
+comments:
+ - Renal Well being  a clinically proven therapy will save you kidney individual httpkidneyoktumblrcomAbsolutely  I have the same issue  Though not as severe as yours  Mine started during recovery when I was eating real food again  I have found immense relief through the use of Heathers Tummy Fiber thank you Heather and essential oils  I wish this topic were addressed moregot diagnosed with IBS shortly after I began my recovery seeing a nutritionist who specialized in eating disorders I was anorexic compulsive exerciser She had me eating very hard to digest foods like steak raw broccoli egg yolks etc which of course I know now are trigger foods for IBS I couldnt go to the bathroom for many weeks agonizing Finally went to the doctor and was diagnosed with IBS with constipation At least 4 other women from my recovery meetings were diagnosed after me Passed this on to my nutritionist who didnt know and hopefully she will be more aware of this for her future clients Been re
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Renal Well being  a clinically proven therapy will save you kidney individual httpkidneyoktumblrcomAbsolutely  I have the same issue  Though not as severe as yours  Mine started during recovery when I was eating real food again  I have found immense relief through the use of Heathers Tummy Fiber thank you Heather and essential oils  I wish this topic were addressed moregot diagnosed with IBS shortly after I began my recovery seeing a nutritionist who specialized in eating disorders I was anorexic compulsive exerciser She had me eating very hard to digest foods like steak raw broccoli egg yolks etc which of course I know now are trigger foods for IBS I couldnt go to the bathroom for many weeks agonizing Finally went to the doctor and was diagnosed with IBS with constipation At least 4 other women from my recovery meetings were diagnosed after me Passed this on to my nutritionist who didnt know and hopefully she will be more aware of this for her future clients Been re
-imported: true
 ---
 
 People often speak about the risks of anorexia and bulimia – how they can kill you, make your bones brittle and your hair fall out.

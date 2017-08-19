@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial Entrepreneurs meet the founders of the Hailo app
 date: "2012-10-26 02:13:12 +0100"
+
 # Attributes from Felix Online V1
 id: "2736"
 old_path: /biz/2736/entrepreneurs-hail-new-app
 aliases:
  - /biz/2736/entrepreneurs-hail-new-app
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last Monday, Imperial Entrepreneurs invited the people behind Hailo –The Black Cab App, to its weekly event, Startup Mondays. Russell Hall, one of the co-founders of Hailo spoke to us about their success story and what makes Hailo so popular, to a point that even celebrities and serial entrepreneurs such as James Caan are tweeting about its brilliance! Russell explained how getting Hailo to where it is today was not easy, nor was it a smooth sailing process. They had to get rid of a tech team that were not delivering and had to pitch their ideas to and convince numerous investors that their app was going to work. They had tremendous belief and confidence in their idea and strived to make it a success.

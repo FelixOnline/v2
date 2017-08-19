@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Marie-Laure Hicks keeps you up to speed with the elections from anywhere but the US
 date: "2012-11-15 22:11:01 +0000"
+
 # Attributes from Felix Online V1
 id: "2910"
 old_path: /politics/2910/all-around-the-world-elections
 aliases:
  - /politics/2910/all-around-the-world-elections
+imported: true
+comments:
+ - We should all be so gauetfrl that we can get advice from a drunken teenage professor that just found the key to his mothers liquor cabinetI truly believe that you ARE a comedianId recommend that you continue playing Risk or Stratego with your  lil buddiesGetting the fuck out of Barrie would also do you good
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - We should all be so gauetfrl that we can get advice from a drunken teenage professor that just found the key to his mothers liquor cabinetI truly believe that you ARE a comedianId recommend that you continue playing Risk or Stratego with your  lil buddiesGetting the fuck out of Barrie would also do you good
-imported: true
 ---
 
 Americans have chosen the man to lead them for the next four years. China is easing its way to a new leadership. How are other countries doing?

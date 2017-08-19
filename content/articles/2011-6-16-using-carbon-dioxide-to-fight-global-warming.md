@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Novel technique uses liquid carbon to create electricity
 date: "2011-06-16 19:57:47 +0100"
+
 # Attributes from Felix Online V1
 id: "1387"
 old_path: /science/1387/using-carbon-dioxide-to-fight-global-warming
 aliases:
  - /science/1387/using-carbon-dioxide-to-fight-global-warming
+imported: true
+comments:
+ - Getting  free electricity  from ticonhlogees such as solar panels or wind turbines can take years for the savings to overcome the initial startup costs let alone maintenance and repairYou can however stop wasting energy throughout your house with low costs improvements that may save more money than a solar panel ever would  Make sure your house is well insulated including your windows and doors  These days most quality doors windows and insulation have Rvalues the higher the Rvalue the better  Even your heatingcooling ducts should be well insulated  Its like putting hot coffee in a paper cup versus a thermos the better the insulation the less energy youll loseAnother tip would be to make sure you an up to date furnace and household appliances  The energy star labels are key  Get low wattage light bulbs turn off and unplug electronics when not in use little things   They all add up in the end
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Getting  free electricity  from ticonhlogees such as solar panels or wind turbines can take years for the savings to overcome the initial startup costs let alone maintenance and repairYou can however stop wasting energy throughout your house with low costs improvements that may save more money than a solar panel ever would  Make sure your house is well insulated including your windows and doors  These days most quality doors windows and insulation have Rvalues the higher the Rvalue the better  Even your heatingcooling ducts should be well insulated  Its like putting hot coffee in a paper cup versus a thermos the better the insulation the less energy youll loseAnother tip would be to make sure you an up to date furnace and household appliances  The energy star labels are key  Get low wattage light bulbs turn off and unplug electronics when not in use little things   They all add up in the end
-imported: true
 ---
 
 It was on a cool, clear autumn day in northern Minnesota when two scientists, driving towards a fieldwork station, stopped for gas. It was at this petrol station that Martin Saar and Jimmy Randolph had a flash of inspiration that could one day help in the fight against climate change.

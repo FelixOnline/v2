@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Temporary halls in Elephant & Castle and Waterloo considered
 date: "2012-02-09 22:31:49 +0000"
+
 # Attributes from Felix Online V1
 id: "2152"
 old_path: /news/2152/wilson-review-could-lead-to-rehousing
 aliases:
  - /news/2152/wilson-review-could-lead-to-rehousing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 There is uncertainty about the future of halls of residence, [Wilson House](https://halls.imperial.ac.uk/wilson/), this week as it is scrutinized for feasibility. Due in the coming weeks, the report of an on-going feasibility study will help determine if and when Wilson House will be closed for refurbishment, potentially during the next academic year (2012-2013).

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Adina de Wit kisses and tells...
 date: "2013-02-08 00:27:20 +0000"
+
 # Attributes from Felix Online V1
 id: "3272"
 old_path: /sport/3272/womens-water-polo-can-also-handle-balls-pretty-well
 aliases:
  - /sport/3272/womens-water-polo-can-also-handle-balls-pretty-well
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On the morning of January 26th, three Waterpolo girls teams arrived at Imperial from Nottingham, Norwich and Birmingham for a competitive weekend of games against three London-based teams. Our own captain Lil had organized for all the matches of our BUCS league to take place on January 26th and 27th at Ethos, and so we all had to get ready for playing five matches in two days. The Imperial ladies felt reasonably fit and reasonably confident of their ability – although we had quite a few less substitutes than most of our opponents (especially King’s, whose team consisted of about 15 players and 3 poolside supporters).

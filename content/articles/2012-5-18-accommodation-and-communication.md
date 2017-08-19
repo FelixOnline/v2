@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Those in the wardening system needs to be made aware of potential barriers to their way of life
 date: "2012-05-18 06:19:28 +0100"
+
 # Attributes from Felix Online V1
 id: "2459"
 old_path: /comment/2459/accommodation-and-communication
 aliases:
  - /comment/2459/accommodation-and-communication
+imported: true
+comments:
+ - With my daughter currently going though the process of trying to find suitable accommodation for her second year I am amazed that there is no referral system available between IC students Why arent good flats and houses pased from 1 year to the next There doesnt even seem to be any forum available to advertise for spare roomsextra sharers  someone there is missing an opportunity
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - With my daughter currently going though the process of trying to find suitable accommodation for her second year I am amazed that there is no referral system available between IC students Why arent good flats and houses pased from 1 year to the next There doesnt even seem to be any forum available to advertise for spare roomsextra sharers  someone there is missing an opportunity
-imported: true
 ---
 
 [Last week](http://felixonline.co.uk/comment/2440/league-table-woes-not-a-problem/) Felix commented that it could be worthwhile to focus on improving the 'student experience' from within rather than from focusing on comparison with other universities. If anything, [it has emerged](http://felixonline.co.uk/news/2454/hall-senior-prospects-in-doubt/) that focusing internally would indeed be beneficial regarding the current Wilson House hall senior situation.

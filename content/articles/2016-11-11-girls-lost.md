@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Capturing the wonder of youth
 date: "2016-11-11 18:05:53 +0000"
+
 # Attributes from Felix Online V1
 id: "6439"
 old_path: /film/6439/girls-lost
 aliases:
  - /film/6439/girls-lost
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The subject of gender transformation has proved a rich seam of inspiration at which artists and writers have mined for centuries. From the ancient Greek myth of Tiresias to Virginia Woolf’s immortal gender-swapping count in _Orlando_, the question of ‘what would you do if you woke up as the opposite gender?’ has captivated many around the world. It’s this question that Swedish director Alexandra-Therese Keining attempts to answer in her latest film Girls Lost, which centres around three young girls drawn together by their shared creativity and kept together through social isolation. Kim (Tuva Jagell), Bella (Wilma Holmén), and Momo (Louise Nyvall) are all misfits, facing regular misogynistic and homophobic abuse at school. With little support from their families, they turn to each other for solace. However, when they grow a strange plant whose fruit allows them to experience life as boys, their group begins to fragment.

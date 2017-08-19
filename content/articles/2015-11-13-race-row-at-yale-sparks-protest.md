@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rumbling racial tensions over Halloween costumes, censorship, and safe spaces have caused some students to take direct action at the Ivy League school
 date: "2015-11-13 14:17:01 +0000"
+
 # Attributes from Felix Online V1
 id: "5719"
 old_path: /news/5719/race-row-at-yale-sparks-protest
 aliases:
  - /news/5719/race-row-at-yale-sparks-protest
+imported: true
+comments:
+ - So helpful looking forwards to returningnhl 17 coins httpclassifiedsbangkokroomhuntercomadsmadden17coinssystemwithbalancesandchecks8Yz4MA httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - So helpful looking forwards to returningnhl 17 coins httpclassifiedsbangkokroomhuntercomadsmadden17coinssystemwithbalancesandchecks8Yz4MA httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 After an email from a college administrator, telling them to “look away” if they were offended by racially insensitive Halloween costumes, Yale students have been protesting this week.

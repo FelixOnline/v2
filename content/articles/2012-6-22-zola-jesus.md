@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Will Stocker interviews the American songstress
 date: "2012-06-22 16:45:10 +0100"
+
 # Attributes from Felix Online V1
 id: "2581"
 old_path: /music/2581/zola-jesus
 aliases:
  - /music/2581/zola-jesus
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Nika Roza Danilova aka __Zola Jesus__ is a young singer, songwriter from Wisconsin. At the age of only 23 she has released three EPs and three full-length albums and also collaborated with some big names. After supporting __Warpaint__, __the XX__ and __Fever Ray__ on US tours straight out of college she has since embarked on several of her own headline tours playing gigs and festivals all over the world and in the UK in 2011. This summer she’s back making her only UK festival appearance at Latitude Festival, Henham Park, Suffolk (12-15 July).

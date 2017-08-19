@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Could minds interact with each other? Paul Garwood investigates...
 date: "2011-11-24 21:18:34 +0000"
+
 # Attributes from Felix Online V1
 id: "1817"
 old_path: /science/1817/are-minds-extended-
 aliases:
  - /science/1817/are-minds-extended-
+imported: true
+comments:
+ - The advisory was isseud by the Ohio Department of Health as a result of decades of manufacturing activity and improper waste disposal of hazardous substancesin the Ottawa River Gardner is the real person fictionalized in the sappy and insufferable movie The Pursuit OfHappyness   It isnt its an example of how those who dont have are kept outof positions they are capable and deserving of I think 2Ne1 dont need to get team upwith nobody their are Okay just like thatWe know their leaders and they were set to fightBut the real surprise awaited us in OrionNot from Dr John but I get those moments too FX I was just wordnnieg when you were going to post again   thought I was goping to have to write and ask Now I can keep my letter to the topic  Blessings   Keep On Truckn  crimes   usual medication   financial catastrophe   cheap propecia   prednisone
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - The advisory was isseud by the Ohio Department of Health as a result of decades of manufacturing activity and improper waste disposal of hazardous substancesin the Ottawa River Gardner is the real person fictionalized in the sappy and insufferable movie The Pursuit OfHappyness   It isnt its an example of how those who dont have are kept outof positions they are capable and deserving of I think 2Ne1 dont need to get team upwith nobody their are Okay just like thatWe know their leaders and they were set to fightBut the real surprise awaited us in OrionNot from Dr John but I get those moments too FX I was just wordnnieg when you were going to post again   thought I was goping to have to write and ask Now I can keep my letter to the topic  Blessings   Keep On Truckn  crimes   usual medication   financial catastrophe   cheap propecia   prednisone
-imported: true
 ---
 
 Have you ever wondered how your dog knows when your partner is on their way home even if they are miles away? Or how you so often know who is calling before you pick up the phone?

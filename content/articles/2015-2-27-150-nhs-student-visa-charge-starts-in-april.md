@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial College Union previously campaigned against charge
 date: "2015-02-27 00:38:35 +0000"
+
 # Attributes from Felix Online V1
 id: "5313"
 old_path: /news/5313/150-nhs-student-visa-charge-starts-in-april
 aliases:
  - /news/5313/150-nhs-student-visa-charge-starts-in-april
+imported: true
+comments:
+ - fitflop suisei salewhere to buy fitflops httpfitflopsalesingapore2blogspotcomHave you ever considered about adding a little bit more than just your articles I mean what you say is important and everything Nevertheless think about if you added some great photos or video clips to give your posts more pop Your content is excellent but with images and clips this blog could certainly be one of the greatest in its niche Great blogmoncler jas utrecht httpwwwamicitalianlnlmonclerjasutrecht10441htmlAt this moment I am going away to do my breakfast once having my breakfast coming over again to read additional newscanada goose jassen laren gld httpwwwn11nlnlcanadagoosejassenlarengld8438htmlhelloi m on maternity eoxmptien at the moment and i would like to know the dental charges for me i have had a baby 9 months ago i have seen a dentist today and i was told that i have to pay 60 pounds for a white fillingsis that rightregardsfitflop slipperfitflops australia
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - fitflop suisei salewhere to buy fitflops httpfitflopsalesingapore2blogspotcomHave you ever considered about adding a little bit more than just your articles I mean what you say is important and everything Nevertheless think about if you added some great photos or video clips to give your posts more pop Your content is excellent but with images and clips this blog could certainly be one of the greatest in its niche Great blogmoncler jas utrecht httpwwwamicitalianlnlmonclerjasutrecht10441htmlAt this moment I am going away to do my breakfast once having my breakfast coming over again to read additional newscanada goose jassen laren gld httpwwwn11nlnlcanadagoosejassenlarengld8438htmlhelloi m on maternity eoxmptien at the moment and i would like to know the dental charges for me i have had a baby 9 months ago i have seen a dentist today and i was told that i have to pay 60 pounds for a white fillingsis that rightregardsfitflop slipperfitflops australia
-imported: true
 ---
 
 Despite complaints from many quarters, the Government will be implementing its previously announced plans to charge non-EU nationals (including students) for access to NHS services.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   At the time of writing, the Guardian has just run an online story about Obama. It seems he is ready to bypass congress when it comes to his 2014 agenda.
 date: "2014-01-31 17:51:34 +0000"
+
 # Attributes from Felix Online V1
 id: "4322"
 old_path: /comment/4322/sorry-for-droning-on-
 aliases:
  - /comment/4322/sorry-for-droning-on-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 At the time of writing, the Guardian has just run an online story about Obama. It seems he is ready to bypass congress when it comes to his 2014 agenda. Dan Pfeifer, Obama’s senior advisor for strategy appears particularly ‘American’ in the most pejorative European sense of the term: ‘We need to show the American people we can get something done… the President is not going to tell the American people he will wait for Congress.’

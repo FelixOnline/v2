@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ross Webster takes a tour through the island of Android bundle 5
 date: "2013-03-15 01:43:02 +0000"
+
 # Attributes from Felix Online V1
 id: "3479"
 old_path: /games/3479/the-humble-end-of-term-bundle
 aliases:
  - /games/3479/the-humble-end-of-term-bundle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Call me old fashioned, but I always thought that phones were for talking to people, rather than browsing the internet, watching moviesand playing games. Nowadays, it seems that phones are primarily used to avoid having to talk to people.

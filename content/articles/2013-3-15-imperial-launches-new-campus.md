@@ -4,16 +4,24 @@ title: >
 subtitle: >
   BoJo hits up QTR in search of an invisibility cloak
 date: "2013-03-15 00:22:48 +0000"
+
 # Attributes from Felix Online V1
 id: "3460"
 old_path: /news/3460/imperial-launches-new-campus
 aliases:
  - /news/3460/imperial-launches-new-campus
+imported: true
+comments:
+ - I would think that the area of White City is quite fitting as its near to Hammersmith hospital where the imperial college healthcare nhs trust is locatedBut as a resident of West Acton 10 mins away from White City I welcome the development of Imperial West
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I would think that the area of White City is quite fitting as its near to Hammersmith hospital where the imperial college healthcare nhs trust is locatedBut as a resident of West Acton 10 mins away from White City I welcome the development of Imperial West
-imported: true
 ---
 
 Last week the new campus, Imperial West, was launched at an event that attracted the London Mayor, Boris Johnson, and Universities & Science Minister, David Willetts. At the event the Mayor and the Minister took time to have some hands on time with the College’s latest research (including the famous invisibility cloak) in an event that attempted to display the potential of the new campus.

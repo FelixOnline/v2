@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Experiments are due to start in April after a lengthy battle against red tape
 date: "2015-02-20 00:02:08 +0000"
+
 # Attributes from Felix Online V1
 id: "5279"
 old_path: /news/5279/imperial-college-scientists-to-study-potential-benefits-of-psilocybin-in-patients-with-depression
 aliases:
  - /news/5279/imperial-college-scientists-to-study-potential-benefits-of-psilocybin-in-patients-with-depression
+imported: true
+comments:
+ - I attribute my recovery from undiagnosed mental ilness and personality and behavioural disorders in my late teens to the use of magic mushrooms  Now almost 60 I have surprised myself and many others by living a successful life achieving as a manager husband and father  and being relaxed and open minded and adaptable to change   I feel they opened up my mind and connected me spiritually to the earth and nature in particular which keeps me grounded perhaps like some people get from practising religion Would it be possible to put a link to the website in the article so that people can find out more about the research that Robin and team are undertaking at London Imperial CollegeThe website link is httppsychedelicscienceorguk httpfluconazolepurchasediflucancom  Diflucan Canadian Pharmacy Online Drugstore httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Purchase Fluconazole Pharmacy Viagra httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Does Di
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I attribute my recovery from undiagnosed mental ilness and personality and behavioural disorders in my late teens to the use of magic mushrooms  Now almost 60 I have surprised myself and many others by living a successful life achieving as a manager husband and father  and being relaxed and open minded and adaptable to change   I feel they opened up my mind and connected me spiritually to the earth and nature in particular which keeps me grounded perhaps like some people get from practising religion Would it be possible to put a link to the website in the article so that people can find out more about the research that Robin and team are undertaking at London Imperial CollegeThe website link is httppsychedelicscienceorguk httpfluconazolepurchasediflucancom  Diflucan Canadian Pharmacy Online Drugstore httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Purchase Fluconazole Pharmacy Viagra httpfurosemidelasixbuycomhttpfluconazolepurchasediflucancom  Does Di
-imported: true
 ---
 
 Researchers from the Department of Medicine will perform the first human trials in nearly half a century into the medical benefits of psilocybin, the active compound in magic mushrooms. The pilot study will focus on the potential of psilocybin to help patients with depression who have failed to respond to conventional treatments.

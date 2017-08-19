@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Luke Sheldon discusses a new study assessing climate models against observations, which provides worrying results
 date: "2012-11-15 21:01:39 +0000"
+
 # Attributes from Felix Online V1
 id: "2888"
 old_path: /science/2888/the-world-is-warming-quicker-than-we-thought
 aliases:
  - /science/2888/the-world-is-warming-quicker-than-we-thought
+imported: true
+comments:
+ - Gen 82122 And the Lord smelled a soothing aroma Then the Lord said in His heart I will never again curse the ground for mans sake although the imagination of mans heart is evil from his youth nor will I again destroy every living thing as I have doneWhile the earth remainsSeedtime and harvestCold and heatWinter and summerAnd day and nightShall not cease
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Gen 82122 And the Lord smelled a soothing aroma Then the Lord said in His heart I will never again curse the ground for mans sake although the imagination of mans heart is evil from his youth nor will I again destroy every living thing as I have doneWhile the earth remainsSeedtime and harvestCold and heatWinter and summerAnd day and nightShall not cease
-imported: true
 ---
 
 Climate change is expected to be more severe than previously thought as the climate models, which record the greatest warming, are found to be more accurate according to a new study.

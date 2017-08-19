@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Sophia Goldberg samples a three course meal at Balans and reports back...
 date: "2012-10-05 13:14:44 +0100"
+
 # Attributes from Felix Online V1
 id: "2623"
 old_path: /food/2623/balans-ed-meal
 aliases:
  - /food/2623/balans-ed-meal
+imported: true
+comments:
+ - Chris on Word to the wise All the chicken is good here but the wings are prbloaby a little better than the cutlet if youre havBrian Smith on I was in Raleigh visiting old friends We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEAArticles     Reviews     Small Bites       Openings     ClosingsBrian Smith on I was in Raleigh visiting old fdniers We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEA  inflicting   automobili insurance qoutes   cheap generic cialis   car insurance   hoursand end   online accutane   balls   group lively   could pose
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Chris on Word to the wise All the chicken is good here but the wings are prbloaby a little better than the cutlet if youre havBrian Smith on I was in Raleigh visiting old friends We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEAArticles     Reviews     Small Bites       Openings     ClosingsBrian Smith on I was in Raleigh visiting old fdniers We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEA  inflicting   automobili insurance qoutes   cheap generic cialis   car insurance   hoursand end   online accutane   balls   group lively   could pose
-imported: true
 ---
 
 The Balans menu is an eclectic mix of dishes from Thai to Italian and a wide variety of cocktails. It is a café style restaurant, which specialises in cocktails. If you can’t agree where to eat out, then this is a great place for you as there’s something for everyone on the menu.

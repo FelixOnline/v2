@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial College Eagles 20 - 22 Warwick University
 date: "2010-02-25 18:49:11 +0000"
+
 # Attributes from Felix Online V1
 id: "105"
 old_path: /sport/105/imperial-eagles8217-unbeaten-run-ended-by-warwick
 aliases:
  - /sport/105/imperial-eagles8217-unbeaten-run-ended-by-warwick
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - mb506
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 While the international competitions don’t seem to be that close and interesting anymore, which I have to blame the French for, the lower leagues still seem to have an edge to them. Imperial’s first ever league game in the autumn was against Warwick and, despite a clear loss, gave the team hope for the rest of the season. They worked hard and what followed was complete domination over local rival UCL and Oxford University, which put the Eagles in a position where they would still be able to fight for the top spot in the competition and enter the play-offs if they were to beat their nemesis.

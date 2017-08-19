@@ -4,16 +4,23 @@ title: >
 subtitle: >
   By Tuesday morning Bowie’s ‘comeback’ was plastered all over the press and blaring out of radios
 date: "2013-01-10 22:51:36 +0000"
+
 # Attributes from Felix Online V1
 id: "3096"
 old_path: /music/3096/return-of-the-duke
 aliases:
  - /music/3096/return-of-the-duke
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week, just as all the music journo’s had finished having their “what to look forward to in 2013” articles published, a fuck-off metaphorical anvil fell from the clouds and smashed them to pieces; all of them made irrelevant. No-one expected David Bowie to return with new material; his last release was a decade ago; he turned 66 this week, the day the announcement was made. But by Tuesday morning Bowie’s ‘comeback’ was plastered all over the press and blaring out of radios.

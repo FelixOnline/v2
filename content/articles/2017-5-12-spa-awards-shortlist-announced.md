@@ -4,16 +4,22 @@ title: >
 subtitle: >
   felix nominated for four student journalism awards
 date: "2017-05-12 16:28:49 +0100"
+
 # Attributes from Felix Online V1
 id: "6939"
 old_path: /news/6939/spa-awards-shortlist-announced
 aliases:
  - /news/6939/spa-awards-shortlist-announced
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 UPDATE: We didn't win anything, there is no god, and everything sucks

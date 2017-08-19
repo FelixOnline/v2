@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Union welcomes recommendations as helpful and sensitive to complex issues
 date: "2011-02-28 21:13:35 +0000"
+
 # Attributes from Felix Online V1
 id: "941"
 old_path: /news/941/protect-campus-free-speech-says-report
 aliases:
  - /news/941/protect-campus-free-speech-says-report
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Universities UK has [published a report](http://www.universitiesuk.ac.uk/Publications/Pages/Freedomofspeechoncampus.aspx) on how universities can promote freedom of speech whilst “protecting the safety and wellbeing of students, staff and the wider community.”

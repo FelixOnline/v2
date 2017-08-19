@@ -4,16 +4,24 @@ title: >
 subtitle: >
   “Hey kids! I’m Professor Dawkins! I really, really do not like religion!”
 date: "2010-10-21 19:00:40 +0100"
+
 # Attributes from Felix Online V1
 id: "230"
 old_path: /comment/230/dawkins--asshole-p--005-
 aliases:
  - /comment/230/dawkins--asshole-p--005-
+imported: true
+comments:
+ - Hey Id really like to stress that Im actually a really nice guy when Im my true self That whole DorkinsHatingCynicDude thing is just image because I want to be different Seriously dislikeTHX thats a great asnewr
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Hey Id really like to stress that Im actually a really nice guy when Im my true self That whole DorkinsHatingCynicDude thing is just image because I want to be different Seriously dislikeTHX thats a great asnewr
-imported: true
 ---
 
 Professor Richard Dawkins, what isn’t wrong with that guy? A restless mind, a head full of ideas, and the man really doesn’t like religion. Sometimes, his work is a bit like the dialogue in “The Barbaric Beast of Boggy Creek” – he seems to repeat one and the same thing over and over again. The man really, really doesn’t like religion. Did I mention that he repeats that idea over and over again??

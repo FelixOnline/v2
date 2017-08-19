@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Oreste is on at the Royal Opera House until 19th November 2017
 date: "2016-11-18 15:11:48 +0000"
+
 # Attributes from Felix Online V1
 id: "6472"
 old_path: /arts/6472/is-this-even-the-right-theatre--oreste-disappoints
 aliases:
  - /arts/6472/is-this-even-the-right-theatre--oreste-disappoints
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As Oreste started, I thought for a fleeting moment that I was in the wrong place. Had I gotten lost among the twisting alleyways of East London? Why was a mascara-streaked, hammer-wielding teenage girl butchering a hapless prisoner on stage?

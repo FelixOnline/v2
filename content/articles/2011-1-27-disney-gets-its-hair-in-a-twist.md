@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The last fairtytale animated film from Disney
 date: "2011-01-27 20:01:28 +0000"
+
 # Attributes from Felix Online V1
 id: "683"
 old_path: /film/683/disney-gets-its-hair-in-a-twist
 aliases:
  - /film/683/disney-gets-its-hair-in-a-twist
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jgp09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jgp09"
 author_name: "John G Park"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Costing Disney a whooping $260 million in production budget alone, it comes as no surprise that the studio has announced they will no longer make animated films based on fairytales after the release of their latest, Tangled. It’s time for the original ideas of Pixar to thrive and Disney knows it. The most recent Disney non-Pixar efforts haven’t exactly turned huge profits and, as the bar is continuously raised, the cost of animation isn’t getting any cheaper.

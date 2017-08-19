@@ -4,16 +4,23 @@ title: >
 subtitle: >
   It is easy to forget that you have the option to just… stop
 date: "2011-01-20 21:01:47 +0000"
+
 # Attributes from Felix Online V1
 id: "641"
 old_path: /comment/641/the-importance-of-being-idle
 aliases:
  - /comment/641/the-importance-of-being-idle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 For a long time, I’ve tried to live life in the fast lane – even occasionally overtaking on the central reservation – but it’s only recently that I’ve come to realise why.

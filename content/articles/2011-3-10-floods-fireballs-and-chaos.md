@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We could be in the middle of Earth’s sixth mass extinction (and barely even notice it)
 date: "2011-03-10 19:20:05 +0000"
+
 # Attributes from Felix Online V1
 id: "1050"
 old_path: /science/1050/floods-fireballs-and-chaos-
 aliases:
  - /science/1050/floods-fireballs-and-chaos-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Of the four billion species that have existed on the Earth, only 1% are still around today. Many of these forgotten creatures became extinct gradually, slowly making way for new ones to evolve and take their place. However, sometimes the rate of extinction can increase so much that more than three quarters of the world’s species are lost in a short period of time.

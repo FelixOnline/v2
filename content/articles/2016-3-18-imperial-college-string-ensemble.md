@@ -4,16 +4,23 @@ title: >
 subtitle: >
   ICSE fills us in on their weekend away
 date: "2016-03-18 12:04:41 +0000"
+
 # Attributes from Felix Online V1
 id: "6075"
 old_path: /cands/6075/imperial-college-string-ensemble
 aliases:
  - /cands/6075/imperial-college-string-ensemble
+imported: true
+comments:
+ - If you do any more Grace Williams let me know Heres a link to a whole concert httpwwwbbccoukprogrammesb071cyg7 available for another 12 daysA wonderful job Super helpful inaotmfrion it is very helpful for me personally searching on this sitefut16coin httpfifa16coinblogbloghr2016021632000328barcelonapointtosignnolitomestrehtmlyoure really talentedbuy blade  soul gold httpwwwsytheorgshowthreadphpp15861603post15861603im able to discover numerous great answers if i have troubleRunescape Gold httpwwwkuchikomigrjpblogsitemsolomonsstorebankboosterswithrunescapeThis is really a nice placenba2k16store httpwwwterrificpetscomforum97105aspIll fix itcheap nba 2k mt xbox one supplier httpwwwnba2k16storecomnba2k16Xboxone2211Hold itcheap nfl 17 coins ps4 store at maddenstore httpwwwmaddenstorecommaddennfl17PS42363Even call itbuy nba 2k17 mt httpcodebirthcomindexphptopic450470Hold itcheapest nb
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If you do any more Grace Williams let me know Heres a link to a whole concert httpwwwbbccoukprogrammesb071cyg7 available for another 12 daysA wonderful job Super helpful inaotmfrion it is very helpful for me personally searching on this sitefut16coin httpfifa16coinblogbloghr2016021632000328barcelonapointtosignnolitomestrehtmlyoure really talentedbuy blade  soul gold httpwwwsytheorgshowthreadphpp15861603post15861603im able to discover numerous great answers if i have troubleRunescape Gold httpwwwkuchikomigrjpblogsitemsolomonsstorebankboosterswithrunescapeThis is really a nice placenba2k16store httpwwwterrificpetscomforum97105aspIll fix itcheap nba 2k mt xbox one supplier httpwwwnba2k16storecomnba2k16Xboxone2211Hold itcheap nfl 17 coins ps4 store at maddenstore httpwwwmaddenstorecommaddennfl17PS42363Even call itbuy nba 2k17 mt httpcodebirthcomindexphptopic450470Hold itcheapest nb
-imported: true
 ---
 
 We all know that feeling. The moment of closure as something wonderful comes to an end. You look back and realise that it will stay with you for many years to come,  as a glowing memory in your life. This year’s weekend away  has been one of those moments for us!

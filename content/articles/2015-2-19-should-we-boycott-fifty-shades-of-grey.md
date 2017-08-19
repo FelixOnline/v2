@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tessa Davey thinks that it’s time to talk about domestic violence
 date: "2015-02-19 23:52:10 +0000"
+
 # Attributes from Felix Online V1
 id: "5276"
 old_path: /comment/5276/should-we-boycott-fifty-shades-of-grey
 aliases:
  - /comment/5276/should-we-boycott-fifty-shades-of-grey
+imported: true
+comments:
+ - My website fiftyshadesofgreypdforg and all yours are extremely similarHi just wanted to give you a brief heads up and let you know a few of the images arent loading properly Im not sure why but I think its a linking issue Ive tried it in two different internet browsers and both show the same outcomecanada goose x eepmon synthesis parka price httpwwwblackburnguitarlessonscoukukcanadagoosexeepmonsynthesisparkaprice29032htmlthe fitflopbuy cheap fitflops httpfitflopsaublogspotcomfitflop shoefitflop australia buy online httpwwwaustraliafitflopscomfitflop discountfitflop sales httpaustraliafitflopsiemillernetcheap fitflopscheap fitflops australia httpfitflopsaublogspotcomfitflop clearance salewhere to buy fitflops httpaustraliafitflopsblogspotcomshoes birkenstockbirkenstock arizona sale httpbirkenstocksaleaustraliablogspotcomchristian louboutin sneakers canadachristian louboutin outlet canada httpcanadachristianlouboutinblogsp
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - My website fiftyshadesofgreypdforg and all yours are extremely similarHi just wanted to give you a brief heads up and let you know a few of the images arent loading properly Im not sure why but I think its a linking issue Ive tried it in two different internet browsers and both show the same outcomecanada goose x eepmon synthesis parka price httpwwwblackburnguitarlessonscoukukcanadagoosexeepmonsynthesisparkaprice29032htmlthe fitflopbuy cheap fitflops httpfitflopsaublogspotcomfitflop shoefitflop australia buy online httpwwwaustraliafitflopscomfitflop discountfitflop sales httpaustraliafitflopsiemillernetcheap fitflopscheap fitflops australia httpfitflopsaublogspotcomfitflop clearance salewhere to buy fitflops httpaustraliafitflopsblogspotcomshoes birkenstockbirkenstock arizona sale httpbirkenstocksaleaustraliablogspotcomchristian louboutin sneakers canadachristian louboutin outlet canada httpcanadachristianlouboutinblogsp
-imported: true
 ---
 
 _F__ifty Shades of Grey_ has opened the door for us to talk about sex candidly and honestly in a way that has never been done before, something that can only be a good thing. People are more open to discussing their desires and fantasies than ever, with millions of people exploring new sensations, and rejuvenating their sex lives. But along with this comes a dark side, and ignoring that could be potentially damaging.

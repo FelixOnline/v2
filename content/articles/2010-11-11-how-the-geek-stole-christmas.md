@@ -4,16 +4,24 @@ title: >
 subtitle: >
   I don't mind all the early Christmas celebrations, it's just that I feel like someone's thrown a kettle of boiling water in my face...
 date: "2010-11-11 21:46:16 +0000"
+
 # Attributes from Felix Online V1
 id: "367"
 old_path: /comment/367/how-the-geek-stole-christmas
 aliases:
  - /comment/367/how-the-geek-stole-christmas
+imported: true
+comments:
+ - I forgot to mention at the time butHave you been good little boys and girls this year Of course you havent But if you think I give a toss you can send your gift wishlists to anangrygeekgmailcom anyway Cheers
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I forgot to mention at the time butHave you been good little boys and girls this year Of course you havent But if you think I give a toss you can send your gift wishlists to anangrygeekgmailcom anyway Cheers
-imported: true
 ---
 
 I collapsed this week, caved in and put Fairytale Of New York by The Pogues on my iPod. It’s like funding an insurgency campaign in my mp3 player; it’s not offensively Christmassy, but it’s beginning to make the other albums on there consider rising up in protest and installing a festive dictatorship.

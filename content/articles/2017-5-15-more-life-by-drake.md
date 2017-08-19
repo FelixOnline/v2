@@ -4,16 +4,22 @@ title: >
 subtitle: >
   An extensive look into Drake's new hot drop
 date: "2017-05-15 16:24:25 +0100"
+
 # Attributes from Felix Online V1
 id: "6953"
 old_path: /music/6953/more-life-by-drake-
 aliases:
  - /music/6953/more-life-by-drake-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 After countless delays (something which is seemingly becoming an unfortunate feature of all Drake releases these days), More Life was finally released on 18th March. My excitement was palpable to say the least. In my opinion, Drake’s work often falls victim to his own procrastination and hype, raising expectations to unattainable heights and, before even listening to his latest offering, I already had countless questions: Will it live up to the massive expectations? Who or what is this mysterious ‘October Firm’? What makes this release a playlist, not an album? More Life is a gargantuan 22 tracks long so there’s a lot to unpack. Let’s get into it.

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Xuan Chen visits HYPER JAPAN and meets some of the stars behind the convention
 date: "2014-11-28 00:54:56 +0000"
+
 # Attributes from Felix Online V1
 id: "4969"
 old_path: /features/4969/lets-go-hyper
 aliases:
  - /features/4969/lets-go-hyper
+imported: true
+comments:
+ - Youve gotten the most effective webpagesnba 2k16 mtb httpwwwsomedacoforumdiscussion11149everythingyoudontfindoutaboutbuycheapnba2k16mtcoinsI enjoy this website  its so usefull and helpfullnba 2k16 mt points cheap httpblogxuitenetolivia65xshblog396389951OAK26E httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomjGdpIZ httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youve gotten the most effective webpagesnba 2k16 mtb httpwwwsomedacoforumdiscussion11149everythingyoudontfindoutaboutbuycheapnba2k16mtcoinsI enjoy this website  its so usefull and helpfullnba 2k16 mt points cheap httpblogxuitenetolivia65xshblog396389951OAK26E httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomjGdpIZ httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
-imported: true
 ---
 
 The biannual gathering of dedicated Japanese markets and exhibitors took place two weekends ago, and managed an exhibition which was a verifiable smorgasbord of Japanese culture.

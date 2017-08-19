@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
+
 # Attributes from Felix Online V1
 id: "5852"
 old_path: /arts/5852/the-ancient-art-of-being-illustrated-
 aliases:
  - /arts/5852/the-ancient-art-of-being-illustrated-
+imported: true
+comments:
+ - Hey there Look I know you get people bombarding you with messages telling you how they can get you ranked on Google and if you you pay them 10000 pound they may or may not rank you in 3 to 6 months sucks right  How about I put a video commercial in front of  EVERYONE that is LOOKING for your business service in the areas you cover  and more to the point what if I do some work FREE for you to prove I am the real deal and not some kind of all talk no action type of guy  sound good  Get all the info and some live proof  here httpabouttrillionscom  thanks Deanlet me get you clients for free httpabouttrillionscom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Hey there Look I know you get people bombarding you with messages telling you how they can get you ranked on Google and if you you pay them 10000 pound they may or may not rank you in 3 to 6 months sucks right  How about I put a video commercial in front of  EVERYONE that is LOOKING for your business service in the areas you cover  and more to the point what if I do some work FREE for you to prove I am the real deal and not some kind of all talk no action type of guy  sound good  Get all the info and some live proof  here httpabouttrillionscom  thanks Deanlet me get you clients for free httpabouttrillionscom
-imported: true
 ---
 
 Skin as a blank canvas is not a new idea; Ötzi the Iceman, frozen sometime between 3239 and 3105 BCE had a tattoo. Inking or marking skin unites cultures and continents across the ages.

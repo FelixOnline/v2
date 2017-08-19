@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Annina Sartor explains how an analysis of Martian soil shows it is not suitable for life
 date: "2012-02-09 22:50:33 +0000"
+
 # Attributes from Felix Online V1
 id: "2164"
 old_path: /science/2164/life-on-mars-not-likely
 aliases:
  - /science/2164/life-on-mars-not-likely
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 While May 25, 2008 – the date of the Phoenix lander’s descent onto Mars’ surface – may be a day long forgotten for most, the same cannot be said of [Dr Tom Pike](http://www3.imperial.ac.uk/people/w.t.pike) of the Department of Electrical and Electronic Engineering at Imperial College London and his team, who, for the last three years, have been analysing data provided by the lander, along with colleagues. The results of their work were discussed at a [European Space Agency](http://www.esa.int/esaCP/index.html) meeting last Tuesday.

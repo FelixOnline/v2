@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Julian Barratt takes the lead in the Russian classic, Government Inspector
 date: "2011-06-23 21:05:41 +0100"
+
 # Attributes from Felix Online V1
 id: "1432"
 old_path: /arts/1432/get-doon-for-gogol-at-the-young-vic
 aliases:
  - /arts/1432/get-doon-for-gogol-at-the-young-vic
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 FIFA 2001 gave me unrealistic expectations in life. Never before had I realized that you could transfer Thierry Henry, Jimmy Floyd Hasselbaink and Fernando Hierro (to name but a few) to Leeds United and create a star-studded, world beating super team. In truth in reality, you couldn’t, but through the wonders of modern technology, beautiful things were possible.

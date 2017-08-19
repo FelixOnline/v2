@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Felix praises the work of Baroness Manningham-Buller
 date: "2011-11-24 22:40:22 +0000"
+
 # Attributes from Felix Online V1
 id: "1839"
 old_path: /comment/1839/a-review-into-our-drugs-policy-would-be-a-triumph-for-fact
 aliases:
  - /comment/1839/a-review-into-our-drugs-policy-would-be-a-triumph-for-fact
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Council Chairman Baroness Eliza Manningham-Buller concluded [her statement to the All Party Parliamentary Group](http://felixonline.co.uk/?article=1829) on Thursday 17 November calling on Government to hold a “proper, and preferably non-political conversation, on [the issue of drugs], to review current policies and explore whether there are others offering better hope of success.” Nevertheless, amongst the various reasoned and well measured responses to the suggestions, last week’s speech has perhaps predictably generated opposition solely focusing on the cannabis angle, leading to claims of “spongy liberalism” in [one particular publication](http://www.dailymail.co.uk/debate/article-2063186/Spooks-seen-heard--subject-drugs.html?ito=feeds-newsxml). Such suggestions could not be further from the truth.

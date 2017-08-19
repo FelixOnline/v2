@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Ben Howitt reviews Cirque du Soleil’s Kooza at the Royal Albert Hall
 date: "2015-01-31 19:18:11 +0000"
+
 # Attributes from Felix Online V1
 id: "5172"
 old_path: /arts/5172/send-in-the-clowns--a-return-to-traditional-circus
 aliases:
  - /arts/5172/send-in-the-clowns--a-return-to-traditional-circus
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We arrived at the __Royal Albert Hall__ for the Friday matinee performance of __Cirque du Soleil__’s _Kooza_, and almost immediately began a mission to find somewhere to buy the programme and video recording. It turns out that the Londoner’s assumption of “oh, they’ll probably take card” does not extend to ushers on doors at theatres – and also that I get disoriented very easily in circular buildings. Nevertheless, glossy purple programme in sweaty hand, we made our way to the Grand Circle.

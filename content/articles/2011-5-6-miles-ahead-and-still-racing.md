@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sorin Cioban finds the iPad 2 delivers consistently
 date: "2011-05-06 08:27:31 +0100"
+
 # Attributes from Felix Online V1
 id: "1157"
 old_path: /tech/1157/miles-ahead-and-still-racing
 aliases:
  - /tech/1157/miles-ahead-and-still-racing
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - cjb07
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "chrisbirkett"
 author_facebook: "http://www.facebook.com/chris.birkett"
 author_website_url: "http://www.cjbirkett.co.uk"
 author_website_title: "Website"
-
-comments:
-imported: true
 ---
 
 In February, right after using my first generation iPad for about six months, I knew Apple would soon launch its successor so I sold it in order to buy the new one whenever it came out. Not long passed before the end of term came, and I started queuing for the iPad 2 about 17 hours before it was officially launched in the UK.

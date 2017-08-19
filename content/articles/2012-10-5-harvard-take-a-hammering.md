@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Sean Baker retells the dominance of IC Rugby
 date: "2012-10-05 13:27:10 +0100"
+
 # Attributes from Felix Online V1
 id: "2627"
 old_path: /sport/2627/harvard-take-a-hammering
 aliases:
  - /sport/2627/harvard-take-a-hammering
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 As the ICURFC 1st XV arrived for their first match of tour against Harvard it was clear that things in America were going to be a bit different. We were first informed that we would be playing on an artificial rubber crumb pitch rather than grass, and then that the Harvard team were only willing to play 35 minute halves in the match. To make matters worse, the pitch was marked out with lines that were barely visible and the posts were declared unsafe by the referee minutes before kickoff and moved behind the dead ball line. Despite these setbacks, the team was determined to put in a big performance and a strong start from the Imperial forwards saw a classic IC rolling maul go 22m for second row Chris McGeough to crash over for his first try in over a year. Fly half James Cox then slotted the conversion to take the score to 7-0 on the 5 minute mark.

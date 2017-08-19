@@ -4,16 +4,24 @@ title: >
 subtitle: >
   What could possibly link Angelina Jolie and the first female President of Sri Lanka, Chandrika Bandaranaike Kumaratunga? Why William Hague and last week’s Commonwealth summit, of course!
 date: "2013-11-24 16:09:08 +0000"
+
 # Attributes from Felix Online V1
 id: "4112"
 old_path: /comment/4112/since-when-was-wealth-common
 aliases:
  - /comment/4112/since-when-was-wealth-common
+imported: true
+comments:
+ - If it wouldnt trouble you too much could you please tell me how my sense of reality is warped This is a genuine request as I felt I knew as much or at least as little about Sri Lanka as the rest of my articles It is likely you will find them warped as well but conversation is always worth a shotA juvenile article based in some alternate warped reality Seriously stick to writing about topics on which you have at least a semblance of knowledge
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
- - If it wouldnt trouble you too much could you please tell me how my sense of reality is warped This is a genuine request as I felt I knew as much or at least as little about Sri Lanka as the rest of my articles It is likely you will find them warped as well but conversation is always worth a shotA juvenile article based in some alternate warped reality Seriously stick to writing about topics on which you have at least a semblance of knowledge
-imported: true
 ---
 
 What could possibly link Angelina Jolie and the first female President of Sri Lanka, Chandrika Bandaranaike Kumaratunga? Why William Hague and last week’s Commonwealth summit, of course! There has been a bizarre image occasionally popping up over the past few months, of a rather smitten MP standing beside Angelina Jolie talking about the horrors of rape and abuse that women suffer the world over. The most striking image I have of Kumaratunga is, perhaps, less comical: she had made a speech in Colombo brutally criticising the mass murder and war crimes committed by the Sri Lankan government in the closing stages of the ‘war’ against the Tamil ‘Tigers’. I never expected to hear a former head of state claim to be ashamed at being from the country they served but these were the words that came from Kumaratunga’s mouth.

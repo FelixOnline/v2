@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah discusses the ups and downs of getting your hands dirty abroad.
 date: "2015-03-17 14:45:32 +0000"
+
 # Attributes from Felix Online V1
 id: "5399"
 old_path: /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
 aliases:
  - /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
+imported: true
+comments:
+ - Aqi2tv  ziuswnnskueq urlhttpasnkjguxnypxcomasnkjguxnypxurl linkhttpbxiorsinpujzcombxiorsinpujzlink httphdmwkaeermnzcom
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ync111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "shadowcheah"
 author_facebook: ""
 author_website_url: "http://www.laughtraveleat.com"
 author_website_title: "Laugh Travel Eat"
-
-comments:
- - Aqi2tv  ziuswnnskueq urlhttpasnkjguxnypxcomasnkjguxnypxurl linkhttpbxiorsinpujzcombxiorsinpujzlink httphdmwkaeermnzcom
-imported: true
 ---
 
 I had been fascinated by the concept of working holiday for a while now and even more so when an old friend of mine embarked on her own journey to Australia with her boyfriend, updating us on her 6-months adventure through social media. It seems to be a popular alternative for many young people fresh out of university who wants to travel but still add something to their CV.

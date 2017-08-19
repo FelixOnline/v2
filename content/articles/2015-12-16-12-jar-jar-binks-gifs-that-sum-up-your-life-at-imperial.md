@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Oh My God So Many Jar Jars – Number 7 Will Blow Your Mind
 date: "2015-12-16 18:40:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5824"
 old_path: /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
 aliases:
  - /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
+imported: true
+comments:
+ - cheap jefseys cheap sports jerseyswholesale nba jerseys wholesale nfl jerseyswholesale jerseys Patriots store wholesale mlb jerseyswhklesale mlb jerseys Anibal wholesale sprts jerseyswholessle jerseys china chinese wholesale jerseys cheap mlb jerseysnhl shop promo code nhl shop promo codewholesale nba jerseys cheap wholesale mlb jerseys wholesale jerseyscheap nfl jerseys cheap jerses chinaThe fantastic cheap jerseys free shipping from China hot sale online choose your like sports NFL jerseys from us Place order with us get big deal  fast shipment More at cheapjerseysfreeshippingcommlb shp promo code cheap fake jerseyswholesale nba jerseys wholesale nfl jerseyswholesale replica jerseys wholesale knock off jerseyswholesale nba jerseys wholesale nba jerseyschewp copy jersey cheap counterfeit jerseysnhl shop promo code ceap replica jerseyscheap jerseys queeneleanorcyclerideorguk cheap nba jerseys china free shiping cheap nfl jerseyscheap jerseys cheap nfl jerseyscheap nba jeese
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheap jefseys cheap sports jerseyswholesale nba jerseys wholesale nfl jerseyswholesale jerseys Patriots store wholesale mlb jerseyswhklesale mlb jerseys Anibal wholesale sprts jerseyswholessle jerseys china chinese wholesale jerseys cheap mlb jerseysnhl shop promo code nhl shop promo codewholesale nba jerseys cheap wholesale mlb jerseys wholesale jerseyscheap nfl jerseys cheap jerses chinaThe fantastic cheap jerseys free shipping from China hot sale online choose your like sports NFL jerseys from us Place order with us get big deal  fast shipment More at cheapjerseysfreeshippingcommlb shp promo code cheap fake jerseyswholesale nba jerseys wholesale nfl jerseyswholesale replica jerseys wholesale knock off jerseyswholesale nba jerseys wholesale nba jerseyschewp copy jersey cheap counterfeit jerseysnhl shop promo code ceap replica jerseyscheap jerseys queeneleanorcyclerideorguk cheap nba jerseys china free shiping cheap nfl jerseyscheap jerseys cheap nfl jerseyscheap nba jeese
-imported: true
 ---
 
 ## 1. When You Arrive Sober At Your First ACC

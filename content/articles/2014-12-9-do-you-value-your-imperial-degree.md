@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Tell Felix in our new survey to determine just how much time, effort and money you think your degree is worth
 date: "2014-12-09 14:51:41 +0000"
+
 # Attributes from Felix Online V1
 id: "5021"
 old_path: /news/5021/do-you-value-your-imperial-degree
 aliases:
  - /news/5021/do-you-value-your-imperial-degree
+imported: true
+comments:
+ - Brazil is going to dominate with regards to of ball possession and create the most opportunities Throw within the next two best point guards  Eva longoria and Chauncey Billupscrdits fifa gratuit httpcreditsfutcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Brazil is going to dominate with regards to of ball possession and create the most opportunities Throw within the next two best point guards  Eva longoria and Chauncey Billupscrdits fifa gratuit httpcreditsfutcom
-imported: true
 ---
 
 Felix is launching a survey to find out of Imperial students are satisfied with their course, and see if students feel their degrees are value for money.

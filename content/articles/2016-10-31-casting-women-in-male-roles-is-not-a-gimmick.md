@@ -4,16 +4,22 @@ title: >
 subtitle: >
   In a time when all-female casts are still seen as a gimmick Jack Steadman discusses the importance of bending and breaking original texts and taking gender off the list of casting specifications
 date: "2016-10-31 16:20:26 +0000"
+
 # Attributes from Felix Online V1
 id: "6367"
 old_path: /arts/6367/casting-women-in-male-roles-is-not-a-gimmick
 aliases:
  - /arts/6367/casting-women-in-male-roles-is-not-a-gimmick
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Shakespeare. “Who owns Shakespeare? “. This is the idea Phyllida Lloyd and company set out to challenge with her all-female production of Julius Caesar at the Donmar Warehouse in 2012.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A recent Interfaith discussion at Imperial College London was organised by the Joseph Interfaith Foundation (JIF) and the Islamic Society at Imperial. Speakers from the Jewish Society (JSoc), the Islamic Society (ISoc) and the Catholic Society (CathSoc) discussed their views on the root causes of ex
 date: "2014-03-07 04:38:11 +0000"
+
 # Attributes from Felix Online V1
 id: "4454"
 old_path: /features/4454/an-joseph-interfaith-foundation-discussion--extremism-its-root-causes-and-how-to-address-them
 aliases:
  - /features/4454/an-joseph-interfaith-foundation-discussion--extremism-its-root-causes-and-how-to-address-them
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __Comment: Bension Tilley (JSoc)__

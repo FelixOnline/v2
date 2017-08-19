@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Guildhall's final-year actors take on Frank Wedekind's wild classic
 date: "2015-12-02 17:08:09 +0000"
+
 # Attributes from Felix Online V1
 id: "5789"
 old_path: /arts/5789/love-and-lust-in-lulu
 aliases:
  - /arts/5789/love-and-lust-in-lulu
+imported: true
+comments:
+ - Youre a really useful web site could not make it without yacs go skins calculator httpkhleothomascomprofilesblogswhatyoudontlearnaboutcsgoknivesmightshockyouKeep up the remarkable work  Lovin itcs go skins erstellen httpfastlovecaforumtopicphptopic_id17036
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mff113
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mff113"
 author_name: "Max F Falkenberg McGillivray"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: "Max Falkenberg"
-
-comments:
- - Youre a really useful web site could not make it without yacs go skins calculator httpkhleothomascomprofilesblogswhatyoudontlearnaboutcsgoknivesmightshockyouKeep up the remarkable work  Lovin itcs go skins erstellen httpfastlovecaforumtopicphptopic_id17036
-imported: true
 ---
 
 Frank Wedekind’s Lulu is a story of seduction and tragedy. Choosing adjectives to describe Nicholas Wright’s adaptation of this controversial nineteenth-century play is challenging. It’s humorous at first, Lulu (though she is known by a variety of names) works her way through several husbands in German high society and gains considerable notoriety. She enjoys her power, the attention she receives and the privilege of wealth.

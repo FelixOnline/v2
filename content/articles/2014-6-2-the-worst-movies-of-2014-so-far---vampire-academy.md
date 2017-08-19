@@ -4,16 +4,23 @@ title: >
 subtitle: >
   As if the vampire world was not crowded enough as it is, we get another young-adult literary adaptation that makes the Twilight franchise look appealing.
 date: "2014-06-02 12:58:29 +0100"
+
 # Attributes from Felix Online V1
 id: "4645"
 old_path: /film/4645/the-worst-movies-of-2014-so-far---vampire-academy
 aliases:
  - /film/4645/the-worst-movies-of-2014-so-far---vampire-academy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __Vampire Academy__

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   An escape from lunch at College
 date: "2011-03-21 11:46:00 +0000"
+
 # Attributes from Felix Online V1
 id: "1120"
 old_path: /food/1120/lunching-in-knightsbridge-daphnes
 aliases:
  - /food/1120/lunching-in-knightsbridge-daphnes
+imported: true
+comments:
+ - kylie   Yahoo     160000   Yahoo   Blog    Blog   Blog      blog   search    Yahoo blog       Yahoo   Yahoo blog     Yahoo  blog    Yahoo
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - kylie   Yahoo     160000   Yahoo   Blog    Blog   Blog      blog   search    Yahoo blog       Yahoo   Yahoo blog     Yahoo  blog    Yahoo
-imported: true
 ---
 
 Spring fever is fast approaching. And as Mark Twain puts it, “when you’ve got it, you want - oh, you don’t quite know what it is you do want, but it just fairly makes your heart ache, you want it so!” Except, Mark, you know perfectly well what you want. You want to enjoy ice-cold beers in the park, a chat with that fruity bird you seemed to have missed when she was wearing more layers in the winter, and a healthy dose of copulation.

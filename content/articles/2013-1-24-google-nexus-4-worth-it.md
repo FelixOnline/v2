@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Can Google’s “cheap” phone stand up to the high-end without killing your budget?
 date: "2013-01-24 21:21:46 +0000"
+
 # Attributes from Felix Online V1
 id: "3159"
 old_path: /tech/3159/google-nexus-4-worth-it-
 aliases:
  - /tech/3159/google-nexus-4-worth-it-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The best effort at a [Nexus](http://www.google.com/nexus/) phone so far, albeit with some teething issues.

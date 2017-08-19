@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Emilie Beauchamps looks at political cock-ups, murder and deceit in time for the American presidential elections
 date: "2012-10-26 03:07:28 +0100"
+
 # Attributes from Felix Online V1
 id: "2766"
 old_path: /arts/2766/rumble-in-the-jungle
 aliases:
  - /arts/2766/rumble-in-the-jungle
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 With an endless choice of world-renowned plays popping out every week in Central London, one might wonder why one need even look at the smaller theatres for entertainment. The answer, is that it is often only in off-the-beaten-track locations that you can find surprising little gems like the one staged at Richmond’s Orange Tree Theatre, The White House Murder Case. The play is as satirical as it is topical, with US federal elections taking place in a fortnight. The performance takes us to a time in which the US is at war (surprise surprise) with several countries, and reeling from the loss of 750 soldiers in a guerilla conflict in Brazil. The accident, caused by a monumental cock-up has to be accounted for by the President; all this only 6 weeks before the elections!

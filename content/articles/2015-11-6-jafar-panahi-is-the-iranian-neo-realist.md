@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Since his 2011 arrest, Iranian director Jafar Panahi’s fimmaking has become a cause célèbre in the cinema world. We take a look at his life, his work, and the events leading up to his ban on producing films.
 date: "2015-11-06 14:07:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5706"
 old_path: /film/5706/jafar-panahi-is-the-iranian-neo-realist
 aliases:
  - /film/5706/jafar-panahi-is-the-iranian-neo-realist
+imported: true
+comments:
+ - urlhttpkamagrabuyjellyorgKamagra Onlineurl Generic For Celebrex 200 Mg httpsynthroidonlinebuyneturlhttpkamagrabuyjellyorgKamagra Onlineurl Generic For Celebrex 200 Mg httpsynthroidonlinebuynetI definitely respect this wonderful post that you support provided to go to us httpwwweasymenrxcomtalktoyourdoctorabouterectiledysfunctionphpAmazing web site youve right herenhl 17 coins httpcamilleesthertinybloggingcomItemstoFindOutAboutNHL17PreOrderBonus512347I was just looking at your Jafar Panahi is the Iranian neorealist  Film  Felix Online website and see that your website has the potential to become very popular I just want to tell you In case you dont already know There is a website service which already has more than 16 million users and the majority of the users are interested in websites like yours By getting your site on this network you have a chance to get your site more visitors than you can imagine It is free to sign up an
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - urlhttpkamagrabuyjellyorgKamagra Onlineurl Generic For Celebrex 200 Mg httpsynthroidonlinebuyneturlhttpkamagrabuyjellyorgKamagra Onlineurl Generic For Celebrex 200 Mg httpsynthroidonlinebuynetI definitely respect this wonderful post that you support provided to go to us httpwwweasymenrxcomtalktoyourdoctorabouterectiledysfunctionphpAmazing web site youve right herenhl 17 coins httpcamilleesthertinybloggingcomItemstoFindOutAboutNHL17PreOrderBonus512347I was just looking at your Jafar Panahi is the Iranian neorealist  Film  Felix Online website and see that your website has the potential to become very popular I just want to tell you In case you dont already know There is a website service which already has more than 16 million users and the majority of the users are interested in websites like yours By getting your site on this network you have a chance to get your site more visitors than you can imagine It is free to sign up an
-imported: true
 ---
 
 A1995 Prix de La Caméra d’Or-winning debut film; at the forefront of the Iranian New Wave movement; imprisoned for breaking censorship laws and under house arrest since October 15, 2011. Jafar Panahi has a repertoire few can match.

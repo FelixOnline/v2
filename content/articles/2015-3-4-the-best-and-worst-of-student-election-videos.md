@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We've scoured the web so you don't have to
 date: "2015-03-04 18:30:40 +0000"
+
 # Attributes from Felix Online V1
 id: "5334"
 old_path: /comment/5334/the-best-and-worst-of-student-election-videos-
 aliases:
  - /comment/5334/the-best-and-worst-of-student-election-videos-
+imported: true
+comments:
+ - Omfg that Mala video is awful Click here for the greatest anti aging serum now in stock on the market and reasonably pricedGo here for the best vitamin c serum for face now in stock around plus at great pricesSee here for the greatest best vitamin c serum for face currently in stock anywhere and reasonably pricedchristian louboutin glitterchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomWow attractive site Thnx fifa 17 points httpwwwjockstatcomblogphpuserDorothyblogentry_id16205I like this website  its so usefull and helpfullnhl 17 coins httpwwwsneecinetsocindexphpblogs56391204684cheapnba2k17mtvideogamespec
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Omfg that Mala video is awful Click here for the greatest anti aging serum now in stock on the market and reasonably pricedGo here for the best vitamin c serum for face now in stock around plus at great pricesSee here for the greatest best vitamin c serum for face currently in stock anywhere and reasonably pricedchristian louboutin glitterchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomWow attractive site Thnx fifa 17 points httpwwwjockstatcomblogphpuserDorothyblogentry_id16205I like this website  its so usefull and helpfullnhl 17 coins httpwwwsneecinetsocindexphpblogs56391204684cheapnba2k17mtvideogamespec
-imported: true
 ---
 
 At this time of year we start to see the typical seasonal changes come into effect: the days are starting to get longer, the temperature is starting to rise, and a plethora of cringey election videos have been released, featuring shockingly awful musical covers, unnervingly unfunny inside jokes, and just too many white people dancing.

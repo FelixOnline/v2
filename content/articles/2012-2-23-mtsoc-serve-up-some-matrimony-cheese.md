@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Wedding Singer is an excellent watch for the end of the month
 date: "2012-02-23 19:42:06 +0000"
+
 # Attributes from Felix Online V1
 id: "2224"
 old_path: /arts/2224/mtsoc-serve-up-some-matrimony-cheese
 aliases:
  - /arts/2224/mtsoc-serve-up-some-matrimony-cheese
+imported: true
+comments:
+ - DVD      I have always been a fan of Julia Roberts and the movies she stars in  her smile is infectious it lights up the screen In 1997 she made a comeback with a starring role in the romantic comedy My Best Friends Wedding The film went on to become one of the most successful girly movies of the whole decade and after watching it earlier tonight on TV its not hard to see why It still holds up seven years later The comedy is fresh funky and slick The plot is nothing original but it holds up brilliantly because of the films four main stars You have Julia Roberts of course who is no doubt a future Hollywood legend Then theres Cameron Diaz in one of her best film roles  not quite topping her sexual cameo in The Mask three years earlier but still bringing much humour to her role Rupert Everett and Dermot Mulroney are the two main male actors and also do their roles justiceJulia Roberts plays Julianne Potter a fasttalking confident Chicago food critic
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - DVD      I have always been a fan of Julia Roberts and the movies she stars in  her smile is infectious it lights up the screen In 1997 she made a comeback with a starring role in the romantic comedy My Best Friends Wedding The film went on to become one of the most successful girly movies of the whole decade and after watching it earlier tonight on TV its not hard to see why It still holds up seven years later The comedy is fresh funky and slick The plot is nothing original but it holds up brilliantly because of the films four main stars You have Julia Roberts of course who is no doubt a future Hollywood legend Then theres Cameron Diaz in one of her best film roles  not quite topping her sexual cameo in The Mask three years earlier but still bringing much humour to her role Rupert Everett and Dermot Mulroney are the two main male actors and also do their roles justiceJulia Roberts plays Julianne Potter a fasttalking confident Chicago food critic
-imported: true
 ---
 
 Arriving on the tenth floor of the Blackett Building to watch [__Musical Theatre Society__](http://mtsoc.co.uk/)’s (MTSoc) newest performance, their big spring show [_The Wedding Singer_](http://mtsoc.co.uk/current-show/2012-wedding-singer-2/), I get the feeling that either the powers of my imagination will have to be used to their fullest extent or I should keep my expectations pretty low. I have to admit, I was rather happily surprised by the end.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our regular run down of animated flicks
 date: "2016-02-19 12:23:12 +0000"
+
 # Attributes from Felix Online V1
 id: "5944"
 old_path: /tv/5944/-cartoon-corner-the-boondocks
 aliases:
  - /tv/5944/-cartoon-corner-the-boondocks
+imported: true
+comments:
+ - L8HkgB httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomSpace Horses Katherine  Now theres a new idea  Lynn I think the reason my bits of writing have survived may be because I was unreasonably secretive about them and hid them away at the bottom of drawers etc  Anyway Im glad theryre still around and I dont feel the need to burn them  unlike my journals those are TRULY emLsrrasaingbiz I know some of your childhood writing has survived  Poetry too
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - L8HkgB httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomSpace Horses Katherine  Now theres a new idea  Lynn I think the reason my bits of writing have survived may be because I was unreasonably secretive about them and hid them away at the bottom of drawers etc  Anyway Im glad theryre still around and I dont feel the need to burn them  unlike my journals those are TRULY emLsrrasaingbiz I know some of your childhood writing has survived  Poetry too
-imported: true
 ---
 
 Created by Aaron McGruder and based on the comic strip of the same name, The Boondocks is a show that takes a sharp and satirical look at American society with an emphasis on social issues, as well as icons like Oprah Winfrey and Barack Obama. It was controversial right from the start (as you can tell from the opening line) but it was able to address hot button issues in unconventionally humorous ways.

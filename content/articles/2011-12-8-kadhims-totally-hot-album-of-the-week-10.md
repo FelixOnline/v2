@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Vondelpark – NYC Stuff and NYC Bags EP – 2011
 date: "2011-12-08 21:09:42 +0000"
+
 # Attributes from Felix Online V1
 id: "1931"
 old_path: /music/1931/kadhims-totally-hot-album-of-the-week-10
 aliases:
  - /music/1931/kadhims-totally-hot-album-of-the-week-10
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ks607
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "kadhimshubber"
 author_facebook: "http://www.facebook.com/kadhimshubber"
 author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
-
-comments:
-imported: true
 ---
 
 And so this is Christmas. The season of merriment, mulled wine, and all-too-predictable disappointment. You were probably expecting the album of the week, given that it is the season of cheer, to be __Michael Bublé__’s _Christmas_; if so, I’m sorry to disappoint. You may have expected it to be __The Black Keys__’ latest release _El Camino_; if so not only am I sorry to disappoint, but I’m also extremely disappointed myself – the album is a bit of a dud. Given the overwhelming ubiquity of disappointment, I thought it better to simply embrace it. To welcome the ennui, loneliness, and introspection that accompanies the monotonous sounds of Christmas – Jesus Christ, __Leona Lewis__, you’ve been bleeding for almost four years now, die already!

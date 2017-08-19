@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A whistle-stop tour through the sights of the famous Indian city
 date: "2012-02-23 20:45:27 +0000"
+
 # Attributes from Felix Online V1
 id: "2242"
 old_path: /travel/2242/the-heart-of-hyderabad-
 aliases:
  - /travel/2242/the-heart-of-hyderabad-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Hyderabad city, India. Capital of the state of Andhra Pradesh, the second largest city in South India, and my hometown for the first few years of my life. Having lived in Hyderabad for almost a decade, and visited the place virtually every year since, you can understand why the city is extremely close to my heart. It would undoubtedly be impossible for me to write about everything Hyderabad offers in a mere few hundred words, and I wouldn’t dare attempt it, so I’m going to tell you about a few of my favourite sights.

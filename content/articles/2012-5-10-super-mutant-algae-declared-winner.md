@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Teams from Imperial take runner-up places in BP Ultimate Field Trip
 date: "2012-05-10 19:49:04 +0100"
+
 # Attributes from Felix Online V1
 id: "2436"
 old_path: /news/2436/super-mutant-algae-declared-winner
 aliases:
  - /news/2436/super-mutant-algae-declared-winner
+imported: true
+comments:
+ - Well done imperial in getting 2 teams to the finalit was a fantastic evening for everyone  involved and a special thanks to all at BP for making Team Aspires very hard  and sometimes almost impossible task come to a deserved fruition to Simas Guy and last and certainly not least Edward A magnificent achievement well done Lads get the Passports looked out
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Well done imperial in getting 2 teams to the finalit was a fantastic evening for everyone  involved and a special thanks to all at BP for making Team Aspires very hard  and sometimes almost impossible task come to a deserved fruition to Simas Guy and last and certainly not least Edward A magnificent achievement well done Lads get the Passports looked out
-imported: true
 ---
 
 Two teams from Imperial reached the Final of [BP’s Ultimate Field Trip](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9032498&contentId=7065301) competition, which was held on Tuesday 8 May. The prize of a six week internship at BP Trinidad & Tobago was ultimately won by a team from the [University of Strathclyde](http://www.strath.ac.uk/).

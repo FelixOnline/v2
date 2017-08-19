@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Rory Fenton and Kadhim Shubber have some advice for the London protestors
 date: "2011-10-20 21:43:41 +0100"
+
 # Attributes from Felix Online V1
 id: "1565"
 old_path: /politics/1565/the-economics-of-occupation
 aliases:
  - /politics/1565/the-economics-of-occupation
+imported: true
+comments:
+ - Right you are Sloppy use of the wordAgreed I wrote that bit my bad Anyone protesting in favour of more regulation laws government enforced wealth redistribution or taxes of any kind is not an anarchist What defines and unites all anarchists is the belief that the state should not existWhat exactly is your argument Your assumption seems to be that more regulation would have prevented this Have you ever run a business A there are already so many regulations on the books that if most business followed the letter of the law they would get nothing done B Most laws and regulation can easily be circumvented if someone chooses to do so More regulation would not have prevented a maniac like Madoff He would have found other loop holes C Over regulation can almost guarantee chronic rentseeking Lastly free markets does not mean no regulations Just minimal There is a reason for this The benefits of most regulations do not out way their costs If you dont believe me start your own busin
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Right you are Sloppy use of the wordAgreed I wrote that bit my bad Anyone protesting in favour of more regulation laws government enforced wealth redistribution or taxes of any kind is not an anarchist What defines and unites all anarchists is the belief that the state should not existWhat exactly is your argument Your assumption seems to be that more regulation would have prevented this Have you ever run a business A there are already so many regulations on the books that if most business followed the letter of the law they would get nothing done B Most laws and regulation can easily be circumvented if someone chooses to do so More regulation would not have prevented a maniac like Madoff He would have found other loop holes C Over regulation can almost guarantee chronic rentseeking Lastly free markets does not mean no regulations Just minimal There is a reason for this The benefits of most regulations do not out way their costs If you dont believe me start your own busin
-imported: true
 ---
 
 As we picked our way through the tents outside St Paul’s Cathedral this Monday one thing was clear: anarchists are not an easy bunch to organise. Not a surprise, perhaps, but add to this a passionate belief in not telling others what to do, and suddenly you find yourself voting about whether to vote…

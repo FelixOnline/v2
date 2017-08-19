@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Max Eggl looks at Apple’s latest expected and unexpected products
 date: "2012-11-01 22:40:12 +0000"
+
 # Attributes from Felix Online V1
 id: "2788"
 old_path: /tech/2788/apple-had-another-keynote-
 aliases:
  - /tech/2788/apple-had-another-keynote-
+imported: true
+comments:
+ - yep youre right there For some reason i have had that 785 in my mindIts a 79 tablet not 785 That extra 20th of an inch makes all the difference Thats like an extra 10I simply watned to write down a quick word in order to appreciate you for all of the unique steps you are sharing on this website My incredibly long internet research has now been rewarded with wonderful content to go over with my friends and classmates I would assert that most of us site visitors are definitely blessed to dwell in a good community with  many special people with very helpful advice I feel very much blessed to have come across your webpages and look forward to so many more entertaining moments reading here Thank you once again for everythingYour content is irfvnmatioe interesting compelling and any other word that describes good writing  I wish I could express myself so well  Thank you for your unique and fresh views
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - yep youre right there For some reason i have had that 785 in my mindIts a 79 tablet not 785 That extra 20th of an inch makes all the difference Thats like an extra 10I simply watned to write down a quick word in order to appreciate you for all of the unique steps you are sharing on this website My incredibly long internet research has now been rewarded with wonderful content to go over with my friends and classmates I would assert that most of us site visitors are definitely blessed to dwell in a good community with  many special people with very helpful advice I feel very much blessed to have come across your webpages and look forward to so many more entertaining moments reading here Thank you once again for everythingYour content is irfvnmatioe interesting compelling and any other word that describes good writing  I wish I could express myself so well  Thank you for your unique and fresh views
-imported: true
 ---
 
 t last week’s Apple keynote weall expected just the launch of the new iPad mini, but the keynote proved a surprise as Apple announced more new products and upgrades than most had expected.

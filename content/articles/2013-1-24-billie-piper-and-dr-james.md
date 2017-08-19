@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Science and art collide in a no-holds barred battle for the ages
 date: "2013-01-24 23:07:25 +0000"
+
 # Attributes from Felix Online V1
 id: "3170"
 old_path: /arts/3170/billie-piper-and-dr-james-
 aliases:
  - /arts/3170/billie-piper-and-dr-james-
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - mc4509
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
-author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Science and art rarely seem to collaborate in popular culture (and we are not talking about science fiction here). It is a shame, because science is inherently intriguing without requiring the embellishment of artistic and creative input. So, when they are combined, they are a strong force of entertainment.

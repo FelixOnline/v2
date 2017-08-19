@@ -4,16 +4,22 @@ title: >
 subtitle: >
   This was not an enjoyable film
 date: "2017-07-22 19:45:35 +0100"
+
 # Attributes from Felix Online V1
 id: "7028"
 old_path: /film/7028/francois-ozons-wit-doesnt-shine-through-in-franz
 aliases:
  - /film/7028/francois-ozons-wit-doesnt-shine-through-in-franz
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Since his feature film debut with _Sitcom_, the French director Francois Ozon’s name has been associated with a certain sharpness; in the majority of his films, the buoyant subject matter and visual style is undercut with a razor’s edge of darkness, running through the film like writing through a stick of Brighton rock. Whether it’s the interrogation of social norms and repressed sexuality in 2010’s _Potiche_, or the shimmering eroticism of 2003’s _Swimming Pool_, which marked Charlotte Rampling’s return to the spotlight, Ozon’s films have always had a curious mix of energetic visual style, bold writing, and bitter aftertaste – like a short shot of strongest coffee.

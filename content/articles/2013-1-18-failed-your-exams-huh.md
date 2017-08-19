@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Daniel Sokol gives his advice on writing appeals for those with legitimate grounds
 date: "2013-01-18 00:35:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3136"
 old_path: /comment/3136/failed-your-exams-huh
 aliases:
  - /comment/3136/failed-your-exams-huh
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Last year, a friend of mine failed his PhD. He turned to me for advice.

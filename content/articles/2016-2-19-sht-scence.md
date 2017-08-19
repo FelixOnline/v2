@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Scientists try and fail squishing bug
 date: "2016-02-19 11:17:59 +0000"
+
 # Attributes from Felix Online V1
 id: "5928"
 old_path: /science/5928/sht-scence
 aliases:
  - /science/5928/sht-scence
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Cockroaches are despised by everyone. With the whole human race out to squash them into oblivion, you’d think they’d have died out by now. But instead, they thrive, popping up in the most random places, and miraculously surviving the most vigorous squashing. Scientists have therefore spent months investigating why it is so freaking hard to squish a cockroach.

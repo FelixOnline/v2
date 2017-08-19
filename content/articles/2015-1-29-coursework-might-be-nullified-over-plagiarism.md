@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett reports as Business Economics module is investigated
 date: "2015-01-29 23:36:31 +0000"
+
 # Attributes from Felix Online V1
 id: "5153"
 old_path: /news/5153/coursework-might-be-nullified-over-plagiarism
 aliases:
  - /news/5153/coursework-might-be-nullified-over-plagiarism
+imported: true
+comments:
+ - This article is so inaccurate you should write for The TabHi Anon Ive dropped you an email so if there is anything glaringly inaccurate in the article please do get in contact with Felix and let us know This article is based on information relayed from two conversations with the academics involved but we are always looking to hear from others involved if it means we can provide more accurate reporting and represent other points of view as to what happenedThanks for readingfit flop stockistsfitflop shoes httpwwwaustraliafitflopscomurlhttpwwwcoachoutletstoresccbcoach outletburl  urlhttpwwwoutletsmichaelkorsnetbmichael kors outletburl  urlhttpwww2015cheapoakleyscomboakley sunglasses wholesaleburl  urlhttpraybansjonmcmeencombray bansburl michael kors factory outlet httpwwwmichaelkorsoutletxyzurlhttpcoachoutletsonlinesalecombcoach factoryburl  urlhttpwwwmichaelkorsoutletonline
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This article is so inaccurate you should write for The TabHi Anon Ive dropped you an email so if there is anything glaringly inaccurate in the article please do get in contact with Felix and let us know This article is based on information relayed from two conversations with the academics involved but we are always looking to hear from others involved if it means we can provide more accurate reporting and represent other points of view as to what happenedThanks for readingfit flop stockistsfitflop shoes httpwwwaustraliafitflopscomurlhttpwwwcoachoutletstoresccbcoach outletburl  urlhttpwwwoutletsmichaelkorsnetbmichael kors outletburl  urlhttpwww2015cheapoakleyscomboakley sunglasses wholesaleburl  urlhttpraybansjonmcmeencombray bansburl michael kors factory outlet httpwwwmichaelkorsoutletxyzurlhttpcoachoutletsonlinesalecombcoach factoryburl  urlhttpwwwmichaelkorsoutletonline
-imported: true
 ---
 
 Students were informed on Monday that the marks from an online coursework may be nullified after reports of “widespread plagiarism.”

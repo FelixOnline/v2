@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Nick Farmer checks in at Debating Society’s public debate
 date: "2015-05-14 22:00:23 +0100"
+
 # Attributes from Felix Online V1
 id: "5518"
 old_path: /news/5518/can-religion-and-science-get-on
 aliases:
  - /news/5518/can-religion-and-science-get-on
+imported: true
+comments:
+ - I wanted to thank you for this excellent read I certainly enjoyed every bit of it Ive got you bookmarked to look at new things you postugg australia 6pm quiksilver httptestnegrifirmancomituggaustralia6pmquiksilver3222htmlSaved as a favorite I love your blogcanada goose head office httpcrownmodelscomusacanadagooseheadoffice18818htmlYet John Wall getting spoken of as you obtain player which could turn around a operation People merely dont recognize the amount of cash you can simply make making use of itcrdits fifa gratuit httpcreditsfutcomMaintain the good work and generating the crowdnba 2k16 mt for sale httpwwwsheffrecccorgukmodulesphpnameForumsfileviewtopicp5080450804
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I wanted to thank you for this excellent read I certainly enjoyed every bit of it Ive got you bookmarked to look at new things you postugg australia 6pm quiksilver httptestnegrifirmancomituggaustralia6pmquiksilver3222htmlSaved as a favorite I love your blogcanada goose head office httpcrownmodelscomusacanadagooseheadoffice18818htmlYet John Wall getting spoken of as you obtain player which could turn around a operation People merely dont recognize the amount of cash you can simply make making use of itcrdits fifa gratuit httpcreditsfutcomMaintain the good work and generating the crowdnba 2k16 mt for sale httpwwwsheffrecccorgukmodulesphpnameForumsfileviewtopicp5080450804
-imported: true
 ---
 
 Imperial College Union Debating Society’s first public debate of the year saw students debate Lord Professor Robert Winston and Bioengineering Senior Lecturer Dr Jennifer Siggers on the motion “This house believes that religion is harmful to the progress of science” in front of a packed lecture theatre.

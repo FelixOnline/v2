@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Imperial's Grantham Institute says that more needs to be done to stop climate change
 date: "2010-10-21 19:03:42 +0100"
+
 # Attributes from Felix Online V1
 id: "231"
 old_path: /science/231/radical-change-needed-to-fight-co2-emissions
 aliases:
  - /science/231/radical-change-needed-to-fight-co2-emissions
+imported: true
+comments:
+ - testing invalid comment
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - testing invalid comment
-imported: true
 ---
 
 [A briefing paper released last week](http://workspace.imperial.ac.uk/climatechange/Public/pdfs/Briefing%20Papers/Grantham%20Briefing%20paper_Transport%20mitigation%20potential_October%202010.pdf) by the [Grantham Institute for Climate Change](http://www3.imperial.ac.uk/climatechange) has warned the government, industry and public that “radical changes” to the transport industry are vital in order to effectively reduce CO2 emissions. The authors, all of Imperial College research teams, reviewed current low carbon technologies aimed at reducing greenhouse gas (GHG) emissions from road transport vehicles and their fuels. The conclusion reached is that alterations to improve energy efficiency in existing vehicles will not be sufficient to cause a significant reduction in emissions and a switch to hybrid or fully electric cars, coupled with decarbonisation of the electricity grid through increased use of alternative fuels, will be necessary.

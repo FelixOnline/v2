@@ -4,16 +4,24 @@ title: >
 subtitle: >
   In response to ‘Yet another nail in the coffin of the student experience’ by George Butcher
 date: "2014-11-06 18:06:51 +0000"
+
 # Attributes from Felix Online V1
 id: "4758"
 old_path: /comment/4758/should-non-participants-be-forced-to-subsidise-events
 aliases:
  - /comment/4758/should-non-participants-be-forced-to-subsidise-events
+imported: true
+comments:
+ - Arent new relationships the best Brand new strain person is suddenly the most important person in your own and you in order to be spend as a lot of time as possible these people  even this means missing on everything elsefifa 16 hack httpcreditsfutcomcartierbraceletlove Love this look Looking fabulous xo replique cartier ballon bleu rose urlhttpwwworologipopolarinetfrcartierballonbleudereplicalargewatchbrownleatherstrapw6900651p302replique cartier ballon bleu roseurlBron pretty much nails it The faultline today on the Left runs between those who want to go to uni and get a job in policy reform or more generally worry about policy and those who want to develop genuine political sequences we know that these are very rare and that there are less of them than wed like but we would like to work out how to practice politics more deliberately That is a real and important divide to note It doesnt mean its a hostile divide or that their arent people who e
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Arent new relationships the best Brand new strain person is suddenly the most important person in your own and you in order to be spend as a lot of time as possible these people  even this means missing on everything elsefifa 16 hack httpcreditsfutcomcartierbraceletlove Love this look Looking fabulous xo replique cartier ballon bleu rose urlhttpwwworologipopolarinetfrcartierballonbleudereplicalargewatchbrownleatherstrapw6900651p302replique cartier ballon bleu roseurlBron pretty much nails it The faultline today on the Left runs between those who want to go to uni and get a job in policy reform or more generally worry about policy and those who want to develop genuine political sequences we know that these are very rare and that there are less of them than wed like but we would like to work out how to practice politics more deliberately That is a real and important divide to note It doesnt mean its a hostile divide or that their arent people who e
-imported: true
 ---
 
 Oh how trendy it is to decry the College for their financial decisions! Mind you, short of stating parallels with ‘Butcher of the Somme’, we can settle for glorifying an ambiguous term such as ‘student experience’ – nails in the coffin, I tell you! But do we try to view this topic from a rational perspective? I’m afraid the morality fever has permeated the campus a little too far for that – let’s hope I’m mistaken.

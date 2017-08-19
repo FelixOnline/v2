@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Residents at postgraduate campus react to potential closure
 date: "2012-01-19 21:57:44 +0000"
+
 # Attributes from Felix Online V1
 id: "2032"
 old_path: /news/2032/clayponds-in-crisis
 aliases:
  - /news/2032/clayponds-in-crisis
+imported: true
+comments:
+ - Really terrible news if they chose to close Clayponds I am currently a postgraduate and am paying for everything myself I could not remotely consider either of the other postgrad accomodations due to their expense and would expect that I probably wouldnt be entitled to any bursaries due to self funding On top of that why would you want to live in either halls when Clayponds has created a community We have regular events and people you can go to with issues  things Ive heard are lacking in other postgrad halls I have lived in Clayponds for several years The loving and amazingly fun community is what I will always value and remember the most a community that allowed me to feel welcome in London and build a new life here I would have never been able to experience this in private accommodation which would have been my only option if Griffon Studios and Imperial West were the only halls 210 pounds a week with the subsidy if Clayponds is sold is simply ridiculous for a PhD student with typical
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Really terrible news if they chose to close Clayponds I am currently a postgraduate and am paying for everything myself I could not remotely consider either of the other postgrad accomodations due to their expense and would expect that I probably wouldnt be entitled to any bursaries due to self funding On top of that why would you want to live in either halls when Clayponds has created a community We have regular events and people you can go to with issues  things Ive heard are lacking in other postgrad halls I have lived in Clayponds for several years The loving and amazingly fun community is what I will always value and remember the most a community that allowed me to feel welcome in London and build a new life here I would have never been able to experience this in private accommodation which would have been my only option if Griffon Studios and Imperial West were the only halls 210 pounds a week with the subsidy if Clayponds is sold is simply ridiculous for a PhD student with typical
-imported: true
 ---
 
 Students have expressed their concern at the planned closure of [postgraduate hall of residence Clayponds](http://halls.imperial.ac.uk/clayponds/), with Imperial College Union President Scott Heath expressing his "disappointment" at an alleged lack of communication between the College and the Union with regards to the College's decision.

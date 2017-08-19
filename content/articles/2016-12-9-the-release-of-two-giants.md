@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Qasim Mahmood gives the dirt on the development of two widely anticipated games and why they’re only being released now
 date: "2016-12-09 16:07:05 +0000"
+
 # Attributes from Felix Online V1
 id: "6590"
 old_path: /games/6590/the-release-of-two-giants
 aliases:
  - /games/6590/the-release-of-two-giants
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Ten years is a very long time. Ten years ago in 2006, the Xbox 360 had been out for a year and both the Wii and PS3 were released. Call of Duty 4: Modern Warfare released the following year, thus starting the boom of first person shooters. The original iPhone didn’t even release until 2007; instead, the newest portable Apple device was the iPod 5G. NASA also launched their New Horizons space probe to perform a flyby of Pluto, which it just completed in October 2016.

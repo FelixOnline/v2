@@ -4,16 +4,24 @@ title: >
 subtitle: >
   RAG drops Imperial Rugby from their Nude Calendar after Rugby made the national press.
 date: "2014-11-06 22:09:43 +0000"
+
 # Attributes from Felix Online V1
 id: "4811"
 old_path: /news/4811/rag-tells-rugby-we-dont-want-your-junk
 aliases:
  - /news/4811/rag-tells-rugby-we-dont-want-your-junk
+imported: true
+comments:
+ - cheapest fitflopsfitflops sale online httpaustraliafitflopsiemillernetchristian louboutin onlinechristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin canada salebuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin womens flats canadachristian louboutin canada outlet httpcanadachristianlouboutinblogspotcom
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cheapest fitflopsfitflops sale online httpaustraliafitflopsiemillernetchristian louboutin onlinechristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin canada salebuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin womens flats canadachristian louboutin canada outlet httpcanadachristianlouboutinblogspotcom
-imported: true
 ---
 
 In light of recent events surrounding Imperial College Rugby Club, the RAG committee chose to remove the team from their naked calendar for 2015.

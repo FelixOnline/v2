@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett talks about why we need to act, fast
 date: "2012-11-01 22:41:54 +0000"
+
 # Attributes from Felix Online V1
 id: "2789"
 old_path: /science/2789/the-biodiversity-crisis
 aliases:
  - /science/2789/the-biodiversity-crisis
+imported: true
+comments:
+ - HiThe Grand Narrows Waterfront Development Society is active at the Barrra StraitWe have has a nuebmr of educational events related to gardening dockside ceilidth car show and farmer marketAll of this in addition to the successful first year of the Wheelhouse Cafe at the waterfrontThese events support biodiversity sustainibility  rural economic development and support of local music cultureAll from the priceless setting of the Barra StraitThanksRandy PointkoskiGrand Narrows Waterfront Development SocietyThe rate of marine bivdeoirsity loss is higher today than ever before with various species struggling to adapt to the changes inflicted on their habitat by humans Most scientists agree that one of the greatest manmade hazards to this plant and animal diversity in our oceans is global warming scientists agree Though scientists are not sure just how the effects of global warming will affect marine life in the future the rise of ocean temperatures and sea levels already poses a danger to oceanic
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - HiThe Grand Narrows Waterfront Development Society is active at the Barrra StraitWe have has a nuebmr of educational events related to gardening dockside ceilidth car show and farmer marketAll of this in addition to the successful first year of the Wheelhouse Cafe at the waterfrontThese events support biodiversity sustainibility  rural economic development and support of local music cultureAll from the priceless setting of the Barra StraitThanksRandy PointkoskiGrand Narrows Waterfront Development SocietyThe rate of marine bivdeoirsity loss is higher today than ever before with various species struggling to adapt to the changes inflicted on their habitat by humans Most scientists agree that one of the greatest manmade hazards to this plant and animal diversity in our oceans is global warming scientists agree Though scientists are not sure just how the effects of global warming will affect marine life in the future the rise of ocean temperatures and sea levels already poses a danger to oceanic
-imported: true
 ---
 
 Imperial saw the advent of [OneZoomTM ](http://www.onezoom.org/)this month, a navigable, online Tree of Life that allows for easy exploration of mammals and how they are related to each other genetically. Using a click of a mouse, you can scroll through millions of years of evolutionary hardship to come to the organisms it has shaped today, each settled cosily on a little leaf.

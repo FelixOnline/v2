@@ -4,16 +4,22 @@ title: >
 subtitle: >
   woop woop
 date: "2017-03-10 13:18:10 +0000"
+
 # Attributes from Felix Online V1
 id: "6866"
 old_path: /news/6866/elections-over-and-so-is-the-spam
 aliases:
  - /news/6866/elections-over-and-so-is-the-spam
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Thank God it’s Friday. Voting for the Leadership elections ends at noon today, as does the constant online and offline harassment from your potential future leaders!

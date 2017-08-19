@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of the latest 13-episode installment of the hit US web television series. In short: less sex, more politics.
 date: "2015-03-03 12:34:49 +0000"
+
 # Attributes from Felix Online V1
 id: "5317"
 old_path: /tv/5317/house-of-cards-series-3-review-worth-the-wait-worth-your-weekend
 aliases:
  - /tv/5317/house-of-cards-series-3-review-worth-the-wait-worth-your-weekend
+imported: true
+comments:
+ - Last sentence their instead of there Get better copy editors Superb what a blog it is This web site presents valuable information to us keep it upmoncler london oxford street 515 httpwwwbrainhurricanoorgukmonclerlondonoxfordstreet51514860htmlMoleskine I also want to suggest this  Its the best and also a nice fuiatnon pen in the tradition of all good future writersAlso a happy birthday to you PS Cant say  cos of this     buy fitflops online australiafitflop online httpaustraliafitflopsiemillernetlouboutin fificheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means mo
 
 # Article Taxonomies
 categories:
  - tv
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Last sentence their instead of there Get better copy editors Superb what a blog it is This web site presents valuable information to us keep it upmoncler london oxford street 515 httpwwwbrainhurricanoorgukmonclerlondonoxfordstreet51514860htmlMoleskine I also want to suggest this  Its the best and also a nice fuiatnon pen in the tradition of all good future writersAlso a happy birthday to you PS Cant say  cos of this     buy fitflops online australiafitflop online httpaustraliafitflopsiemillernetlouboutin fificheap christian louboutin canada httpcanadachristianlouboutinoutletblogspotcomHello Web Admin I noticed that your OnPage SEO is is missing a few factors for one you do not use all three H tags in your post also I notice that you are not using bold or italics properly in your SEO optimization OnPage SEO means mo
-imported: true
 ---
 
 __This review contains one big spoiler!__

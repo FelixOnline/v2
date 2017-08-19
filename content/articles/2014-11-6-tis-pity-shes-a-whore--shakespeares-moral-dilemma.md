@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Jingjie Cheng raves about the Globe’s new production of a classic
 date: "2014-11-06 21:36:09 +0000"
+
 # Attributes from Felix Online V1
 id: "4805"
 old_path: /arts/4805/tis-pity-shes-a-whore--shakespeares-moral-dilemma
 aliases:
  - /arts/4805/tis-pity-shes-a-whore--shakespeares-moral-dilemma
+imported: true
+comments:
+ - Next i moved to an alternative town while i was 13 and got involved with teams that had never won before Do a eBay search for fifa ultimate team to leverage your time quicklyfifa 16 hack httpcreditsfutcomI enjoy this site  its so usefull and helpfullcs go skins erstellen httpclsellerorgitem5620Many thanks extremely useful Will share site with my palsfifa 17 httpmrsescortcomblogs3466804cheapnfl17coinsmadden1710competitiond7uLmk  zeqrzbskndlx urlhttpghgtatevgfvlcomghgtatevgfvlurl linkhttpiakzqletzomlcomiakzqletzomllink httpmqnsqsvkypejcom
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - snb11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
-author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Next i moved to an alternative town while i was 13 and got involved with teams that had never won before Do a eBay search for fifa ultimate team to leverage your time quicklyfifa 16 hack httpcreditsfutcomI enjoy this site  its so usefull and helpfullcs go skins erstellen httpclsellerorgitem5620Many thanks extremely useful Will share site with my palsfifa 17 httpmrsescortcomblogs3466804cheapnfl17coinsmadden1710competitiond7uLmk  zeqrzbskndlx urlhttpghgtatevgfvlcomghgtatevgfvlurl linkhttpiakzqletzomlcomiakzqletzomllink httpmqnsqsvkypejcom
-imported: true
 ---
 
 Despite being written almost 400 years ago in a society vastly different from our own, this Renaissance classic still evokes visceral responses. There is something deeply attractive about a story of passionate love between brother and sister, vengeful adulteresses and corrupt cardinals which all end in a bloody birthday party.

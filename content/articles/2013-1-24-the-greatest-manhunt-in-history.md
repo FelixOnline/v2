@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Osama Bin Filmed
 date: "2013-01-24 21:33:54 +0000"
+
 # Attributes from Felix Online V1
 id: "3160"
 old_path: /film/3160/the-greatest-manhunt-in-history
 aliases:
  - /film/3160/the-greatest-manhunt-in-history
+imported: true
+comments:
+ - xaxaxaxa tenegtvee chhcivheee zuugeel hevtre zasaal utsaa barial urtaas urt amisgaa avaal darsan umnuus usreestei kkkkkkkk shun dund gantsaar ineeev gjIve been extensively rnidaeg and researching about the lack of female screenwriters in the ever growing industry and it didnt really scare me If anything it excited me male screenwriters may dominate it currently but that makes it more memorable when women step up I hope and dream of becoming a screenwriter for a living and yes intially the somewhat unbalanced and bleak malefemale ratio terrified me I suppose we have to stay optimistic I just hope it doesnt impact my hopefully future career in anyway It seems to be less prominent in the UK
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - xaxaxaxa tenegtvee chhcivheee zuugeel hevtre zasaal utsaa barial urtaas urt amisgaa avaal darsan umnuus usreestei kkkkkkkk shun dund gantsaar ineeev gjIve been extensively rnidaeg and researching about the lack of female screenwriters in the ever growing industry and it didnt really scare me If anything it excited me male screenwriters may dominate it currently but that makes it more memorable when women step up I hope and dream of becoming a screenwriter for a living and yes intially the somewhat unbalanced and bleak malefemale ratio terrified me I suppose we have to stay optimistic I just hope it doesnt impact my hopefully future career in anyway It seems to be less prominent in the UK
-imported: true
 ---
 
 Zero Dark Thirty

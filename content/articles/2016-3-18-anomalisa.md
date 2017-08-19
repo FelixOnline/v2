@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-18 11:58:34 +0000"
+
 # Attributes from Felix Online V1
 id: "6070"
 old_path: /film/6070/anomalisa
 aliases:
  - /film/6070/anomalisa
+imported: true
+comments:
+ - I am an employer 2 months ago I promoted a member of staff to Assistant Manager He has not ben able to do the job Staff have been upset and refuse to continue working with him Most recently he walked out during a shift and refused to complete it I do not want him working for me losing me staff and ruining my business Can I dismiss him and if so how do I do this He has been employed in total for a little under a year isabel marant pink sneakers urlhttpwwwmarantsneakercomisabel marant pink sneakersurlcartierbraceletlove No tengo ninguna no es tan fcil Solo tengo una para labios y manos agrietados por el fro o por algn tipo de alergia  bracelet or cartier copie urlhttpwwwclassiquebijouxcomaaacopycartierlovebracelet316lstainlesssteelinwhitegoldb6035416p180bracelet or cartier copieurlhttpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldmalachite10motifsnecklacep339html httpwwwsimulationschmucknetenvanc
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I am an employer 2 months ago I promoted a member of staff to Assistant Manager He has not ben able to do the job Staff have been upset and refuse to continue working with him Most recently he walked out during a shift and refused to complete it I do not want him working for me losing me staff and ruining my business Can I dismiss him and if so how do I do this He has been employed in total for a little under a year isabel marant pink sneakers urlhttpwwwmarantsneakercomisabel marant pink sneakersurlcartierbraceletlove No tengo ninguna no es tan fcil Solo tengo una para labios y manos agrietados por el fro o por algn tipo de alergia  bracelet or cartier copie urlhttpwwwclassiquebijouxcomaaacopycartierlovebracelet316lstainlesssteelinwhitegoldb6035416p180bracelet or cartier copieurlhttpwwwsimulationschmucknetenvancleefarpelsreplicavintagealhambrayellowgoldmalachite10motifsnecklacep339html httpwwwsimulationschmucknetenvanc
-imported: true
 ---
 
 _Anomalisa_ begins with a single voice. Or maybe single voices. Multiple copies of Tom Noonan’s voice pile up over a blank screen, creating a wall of unintelligible sound. It’s a panoply of voices. A cacophony of voices. An oppression of voices.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Light and death for hospital superbugs.
 date: "2010-11-25 20:06:50 +0000"
+
 # Attributes from Felix Online V1
 id: "425"
 old_path: /science/425/light-and-death-for-hospital-superbugs
 aliases:
  - /science/425/light-and-death-for-hospital-superbugs
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 A new technology that uses light beams to kill bacteria could be used in hospitals to stop the spread of MRSA and other antibiotic resistant bugs, say scientists from the University of Strathclyde.

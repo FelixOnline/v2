@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Tessa Davey just wants to be able to commute for less than five hours a day
 date: "2017-01-13 14:00:51 +0000"
+
 # Attributes from Felix Online V1
 id: "6634"
 old_path: /comment/6634/southern-rail-need-to-get-their-shit-together
 aliases:
  - /comment/6634/southern-rail-need-to-get-their-shit-together
+imported: true
+comments:
+ - Good piece I can definitely understand the frustration and Im glad that you have recognised that the strikes are mostly about safety You are also correct in saying that train companies run at a loss is total bs Ask Abellio who are owned by the Dutch national rail service Yep renationalisation sounds like a good idea to me Though Sadiq Khans handling of the tube strikes was less than impressive
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Good piece I can definitely understand the frustration and Im glad that you have recognised that the strikes are mostly about safety You are also correct in saying that train companies run at a loss is total bs Ask Abellio who are owned by the Dutch national rail service Yep renationalisation sounds like a good idea to me Though Sadiq Khans handling of the tube strikes was less than impressive
-imported: true
 ---
 
 There were train strikes this week, you might have heard. No, not the tube strikes, they happen like once a year; you can take a bus for a day, get over yourself, no one cares. I’m talking about Southern Rail, whose staff are on strike for three days this week, causing a genuine total shutdown of all services.

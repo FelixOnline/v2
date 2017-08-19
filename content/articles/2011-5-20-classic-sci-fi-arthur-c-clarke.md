@@ -4,16 +4,23 @@ title: >
 subtitle: >
   A flawed piece from the science fiction master?
 date: "2011-05-20 05:35:24 +0100"
+
 # Attributes from Felix Online V1
 id: "1221"
 old_path: /arts/1221/classic-sci-fi-arthur-c-clarke
 aliases:
  - /arts/1221/classic-sci-fi-arthur-c-clarke
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This week I’m going to discuss another Arthur C. Clarke novel. This time, however, I’m not just going to heap praise on my favourite author, for this is ‘The City and the Stars’, the first of Clarke’s longer works that I didn’t really like.

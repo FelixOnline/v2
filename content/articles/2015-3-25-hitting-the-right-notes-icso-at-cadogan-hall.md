@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Symphony Orchestra’s Spring Concert
 date: "2015-03-25 12:37:55 +0000"
+
 # Attributes from Felix Online V1
 id: "5432"
 old_path: /music/5432/hitting-the-right-notes-icso-at-cadogan-hall
 aliases:
  - /music/5432/hitting-the-right-notes-icso-at-cadogan-hall
+imported: true
+comments:
+ - Most probably you have observed him on TV or personally Only 16 countries have been honored with hosting the earth Cup There is lots of competition between important samba schools to win the best participant awardfifa 16 hack httpcreditsfutcom22nd 2010 When I first heard of the Asus partnership with Bang  Olufsen for the NX90 last month I thought it was just a design coltrboaalion Seeing the Asus NX90 up close and
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ff712
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
-author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
 author_twitter: "fredfyles"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Most probably you have observed him on TV or personally Only 16 countries have been honored with hosting the earth Cup There is lots of competition between important samba schools to win the best participant awardfifa 16 hack httpcreditsfutcom22nd 2010 When I first heard of the Asus partnership with Bang  Olufsen for the NX90 last month I thought it was just a design coltrboaalion Seeing the Asus NX90 up close and
-imported: true
 ---
 
 Tonight was a first in two respects; not only was it my first time attending a concert in the gorgeous __Cadogan Hall__ but it was also in fact the first ever time I had seen the Imperial College Symphony Orchestra (ICSO) perform. And so, as you can imagine I was suitably excited.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   New research could lead to new treatments for post traumatic stress
 date: "2011-06-02 18:31:48 +0100"
+
 # Attributes from Felix Online V1
 id: "1296"
 old_path: /science/1296/eternal-sunshine-for-the-stressful-mind
 aliases:
  - /science/1296/eternal-sunshine-for-the-stressful-mind
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Negative emotional memories can be suppressed in the long-term with the help of drugs that regulate stress hormones, new research has shown. The findings, published in the [_Journal of Clinical Endocrinology & Metabolism_](http://www.google.co.uk/url?sa=t&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fjcem.endojournals.org%2F&rct=j&q=journal%20Clinical%20Endocrinology&ei=6NbnTb_OAsmn8QOhrZnvCg&usg=AFQjCNE_GxDyXohsRG0fB4S6MyXzAHWr5Q&sig2=sIV-Zz3uvxffm-W__3g1oA), could lead to new treatments for sufferers of post traumatic stress disorders (PTSD).

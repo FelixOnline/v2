@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
+
 # Attributes from Felix Online V1
 id: "2384"
 old_path: /news/2384/unseen-imperial-
 aliases:
  - /news/2384/unseen-imperial-
+imported: true
+comments:
+ - This is a really great idea almost an antidote to all of Felixs recent failures Hopefully it will go some way to reducing stigma about mental health issues and others particularly if some people share their stories with their names attachedThank you to all the anonymous contributors for their bravery hope you got something out of putting into words your experiencesOne of the best Felix articles Ive read We should definitely be doing more to destigmatise mental illness and this is a big push in that direction  keep it up
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - This is a really great idea almost an antidote to all of Felixs recent failures Hopefully it will go some way to reducing stigma about mental health issues and others particularly if some people share their stories with their names attachedThank you to all the anonymous contributors for their bravery hope you got something out of putting into words your experiencesOne of the best Felix articles Ive read We should definitely be doing more to destigmatise mental illness and this is a big push in that direction  keep it up
-imported: true
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re alone in our experiences, when in fact, we’re probably not. Last week the Union asked the student body to submit anonymous accounts of their experiences of mental health. Sincere thanks to everyone who took part – here are the responses:_

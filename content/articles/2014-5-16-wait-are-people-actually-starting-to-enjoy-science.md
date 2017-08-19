@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Philippa Skett reviews Imperial Festival and the wider public engagement movement
 date: "2014-05-16 01:46:17 +0100"
+
 # Attributes from Felix Online V1
 id: "4599"
 old_path: /science/4599/wait-are-people-actually-starting-to-enjoy-science
 aliases:
  - /science/4599/wait-are-people-actually-starting-to-enjoy-science
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 The third annual Imperial Festival took place last weekend on campus, and saw students, staff and members of the public alike come together for the ambitious public engagement endeavour. The scientists of Imperial, usually hidden away in their labs and lecture theatres, came out in full force to share what Imperial gets up to in its day to day workings.

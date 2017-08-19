@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Facebook numpties fooled by Blog post and good SEO
 date: "2010-02-25 13:23:05 +0000"
+
 # Attributes from Felix Online V1
 id: "98"
 old_path: /tech/98/facebook-login-search-dimwits-come-unstuck
 aliases:
  - /tech/98/facebook-login-search-dimwits-come-unstuck
+imported: true
+comments:
+ - This is literally hilariousSource   I saw this on another post and it made me smileWorry does not empty tomorrow of its sorrow It empties today of its strength  Source   I love this site and just wish I was as smart as you guys but maybe I can at least give you a smilejust to make you you smile  Which is the nonsmoking lifeboat Hi  I am definitely glad to find this Good job
 
 # Article Taxonomies
 categories:
  - tech
 tags:
+authors:
+ - srg03
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "SamuelGibbs"
 author_facebook: ""
 author_website_url: "http://samuelgibbs.com"
 author_website_title: "samuelgibbs.com"
-
-comments:
- - This is literally hilariousSource   I saw this on another post and it made me smileWorry does not empty tomorrow of its sorrow It empties today of its strength  Source   I love this site and just wish I was as smart as you guys but maybe I can at least give you a smilejust to make you you smile  Which is the nonsmoking lifeboat Hi  I am definitely glad to find this Good job
-imported: true
 ---
 
 This week saw the accidental birth of a new internet meme at the expense of some rather ignorant Facebook users. I say some, it's more like thousands of Stalkerbook simpletons, and it all stems from their inability to understand a simple principle: Google is a search engine, not an address bar.

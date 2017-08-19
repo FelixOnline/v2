@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Already secured a city internship for summer ‘13? Or perhaps you’re looking to work in the third sector? Caroline Wood compares the two
 date: "2013-01-18 00:14:15 +0000"
+
 # Attributes from Felix Online V1
 id: "3127"
 old_path: /news/3127/internship-decisons-city--or-charity
 aliases:
  - /news/3127/internship-decisons-city--or-charity
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - csw09
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 ## Intro

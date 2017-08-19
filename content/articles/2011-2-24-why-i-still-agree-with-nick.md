@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The Liberal Democrats are doing the right thing argues Tagore Nakornchai
 date: "2011-02-24 20:06:25 +0000"
+
 # Attributes from Felix Online V1
 id: "879"
 old_path: /politics/879/why-i-still-agree-with-nick
 aliases:
  - /politics/879/why-i-still-agree-with-nick
+imported: true
+comments:
+ - Its easy to say that we wouldnt face a debt crisis now but back then we really werent sure  Besides the ongoing cuts are less severe than the ones Osborne were proposing and Id say thats a lot to do with the Lib Dems particularly Danny Alexander helping to counterbalance Osbornes instincts to slash everything to the boneAnd indeed Id agree that Coalitions do work better when the parties are in agreement As I mentioned in the article the Lib Dems share much in common with the Cameronian Tories  a belief in less state intervention and more local government  Yes there are major policy disagreements particularly when it comes to higher education funding but there is genunine middle ground where Cammeron and Clegg agree  to a large extent I feel Cameron wanted to go into coalition because he feels there was more common ground with the Lib Dems than with the right of his own partyWe did know at the time that the UK was not on the same road as Greece  Anyone not captivated by the sens
 
 # Article Taxonomies
 categories:
  - politics
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Its easy to say that we wouldnt face a debt crisis now but back then we really werent sure  Besides the ongoing cuts are less severe than the ones Osborne were proposing and Id say thats a lot to do with the Lib Dems particularly Danny Alexander helping to counterbalance Osbornes instincts to slash everything to the boneAnd indeed Id agree that Coalitions do work better when the parties are in agreement As I mentioned in the article the Lib Dems share much in common with the Cameronian Tories  a belief in less state intervention and more local government  Yes there are major policy disagreements particularly when it comes to higher education funding but there is genunine middle ground where Cammeron and Clegg agree  to a large extent I feel Cameron wanted to go into coalition because he feels there was more common ground with the Lib Dems than with the right of his own partyWe did know at the time that the UK was not on the same road as Greece  Anyone not captivated by the sens
-imported: true
 ---
 
 The Lib Dems have been criticized by everyone and their dog since they joined the coalition last May – the turnaround on tuition fees, their complicity in the public sector cuts, allowing the Tories in to Number 10. We’ve all heard it before: the Lib Dems are doomed, we’ll never vote for them again, yadda, yadda, yadda.

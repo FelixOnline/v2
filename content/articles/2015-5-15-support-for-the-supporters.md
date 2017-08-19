@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has tips to make helping friends easier
 date: "2015-05-15 12:52:12 +0100"
+
 # Attributes from Felix Online V1
 id: "5538"
 old_path: /welfare/5538/support-for-the-supporters
 aliases:
  - /welfare/5538/support-for-the-supporters
+imported: true
+comments:
+ - I like the helpful info you supply to your articles Ill bookmark your weblog and check again right here frequently Im fairly sure Ill learn a lot of new stuff proper here Best of luck for the followingcheap hats httpwwwtwofangtucnhVcJoI httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomGreat web site you have got right herecheap csgo skins httpwwwnerdblastcomblogspost571Wow gorgeous site Thnx FIFA 17 POINTS httpsocialthatextororgclassifieds2441841985fifa17coinsfreeeasportsac
 
 # Article Taxonomies
 categories:
  - welfare
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I like the helpful info you supply to your articles Ill bookmark your weblog and check again right here frequently Im fairly sure Ill learn a lot of new stuff proper here Best of luck for the followingcheap hats httpwwwtwofangtucnhVcJoI httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomGreat web site you have got right herecheap csgo skins httpwwwnerdblastcomblogspost571Wow gorgeous site Thnx FIFA 17 POINTS httpsocialthatextororgclassifieds2441841985fifa17coinsfreeeasportsac
-imported: true
 ---
 
 This is the mental health awareness week and I’ll focus on a slightly different but related angle today. In welfare, mental health is a much discussed issue with ever-increasing helpful resources, but there is a group of people often left out from the media spotlight. These are the friends who support friends with eating disorders, those in relationships who lighten up their partner’s depression, or parents who calm their child with anxiety, to name a few examples.

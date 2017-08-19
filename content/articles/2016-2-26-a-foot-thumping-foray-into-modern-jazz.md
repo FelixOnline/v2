@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Music with a strictly organic feel
 date: "2016-02-26 11:52:46 +0000"
+
 # Attributes from Felix Online V1
 id: "5973"
 old_path: /music/5973/a-foot-thumping-foray-into-modern-jazz
 aliases:
  - /music/5973/a-foot-thumping-foray-into-modern-jazz
+imported: true
+comments:
+ - httpwwwaskcomwebqviagracheapviagra100mg1 HS httpwwwcampingandcaravanningclubcoukRedirectaspxlinkhttpwwwcheapviagra100mg1comp310  Ghttpimagesgooglecojpurlqhttpwwwcheapviagra100mg1com  YJ httpwwwwiggincomredirectaspxurlhttpwwwcheapviagra100mg1comp259  ORhttpwwwstradaalternativacomlinkphpfrom114size1toDb0urlhttpwwwcheapviagra100mg1com  y httpwwwdijaskinetredirecturlhttpwwwusagovnewscom  FH0 httptscafenetlink3link3cgimodecnthphttpwwwgentleangellessonscom  Jhttpwwwantolojicomlinkredirasplink748URLhttpwwwcheapviagra100mg1com  G4l6 httplearnactiveditioncomnmsruntimelogLinkaspxlinkURLhttpwwwusagovnewscom  nhttpwwwstroyserverruredirectphpurlhttpwwwcheapviagra100mg1com  v2R httpwwwinvestalkscomhomelinkphpurlhttpwwwusagovnewscom  fSX httpmanga32comcgibinat3outcgiid15tagtoplisttradehttpwwwgentleangellessonsc
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - httpwwwaskcomwebqviagracheapviagra100mg1 HS httpwwwcampingandcaravanningclubcoukRedirectaspxlinkhttpwwwcheapviagra100mg1comp310  Ghttpimagesgooglecojpurlqhttpwwwcheapviagra100mg1com  YJ httpwwwwiggincomredirectaspxurlhttpwwwcheapviagra100mg1comp259  ORhttpwwwstradaalternativacomlinkphpfrom114size1toDb0urlhttpwwwcheapviagra100mg1com  y httpwwwdijaskinetredirecturlhttpwwwusagovnewscom  FH0 httptscafenetlink3link3cgimodecnthphttpwwwgentleangellessonscom  Jhttpwwwantolojicomlinkredirasplink748URLhttpwwwcheapviagra100mg1com  G4l6 httplearnactiveditioncomnmsruntimelogLinkaspxlinkURLhttpwwwusagovnewscom  nhttpwwwstroyserverruredirectphpurlhttpwwwcheapviagra100mg1com  v2R httpwwwinvestalkscomhomelinkphpurlhttpwwwusagovnewscom  fSX httpmanga32comcgibinat3outcgiid15tagtoplisttradehttpwwwgentleangellessonsc
-imported: true
 ---
 
 **GoGo Penguin** are a Mercury Prize nominated jazz trio who are lumped into the increasingly broad genre of modern jazz; a genre best separated from its predecessors by an unashamed acceptance of rhythm. _Man Made Object_ is a testament to this. The album’s blend of classical jazz and modern house music provides a highly accessible acoustic soundscape.

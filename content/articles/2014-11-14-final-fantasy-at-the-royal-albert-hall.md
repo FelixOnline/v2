@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Eamonn Postlethwaite attends the live performance of Final Fantasy music
 date: "2014-11-14 21:12:16 +0000"
+
 # Attributes from Felix Online V1
 id: "4890"
 old_path: /music/4890/final-fantasy-at-the-royal-albert-hall
 aliases:
  - /music/4890/final-fantasy-at-the-royal-albert-hall
+imported: true
+comments:
+ - I0jD0m httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I0jD0m httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
-imported: true
 ---
 
 People not heavily invested in video games may not realise the reverence and devotion shown to the music from a select few series by the fans. One such, arguably the best, example is the music from _Final Fantasy_, which is almost entirely created by Nobuo Uematsu.

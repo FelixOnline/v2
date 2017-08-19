@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philip Kent puts aside the big releases of this season and talks about one of video gaming’s grandaddies, Creatures
 date: "2011-11-24 21:11:39 +0000"
+
 # Attributes from Felix Online V1
 id: "1815"
 old_path: /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
 aliases:
  - /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
+imported: true
+comments:
+ - i agree this sucks guys but im sure they will make it in ds soon becuase other wise their sales will go down by a lot plus no bodys gona buy the 3ds just for this game so they are going to have to make a ds veosrin or their sails wil defo go down
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - i agree this sucks guys but im sure they will make it in ds soon becuase other wise their sales will go down by a lot plus no bodys gona buy the 3ds just for this game so they are going to have to make a ds veosrin or their sails wil defo go down
-imported: true
 ---
 
 With blockbusters such as [_Skyrim_](http://www.youtube.com/watch?v=9uNx9-cWJZc) being released, and modern legends like [_Minecraft_](http://www.minecraft.net/) celebrating its birthday, it is often possible to overlook some real masterpieces. One of these is [_Creatures_](http://creatures.wikia.com/wiki/Creatures_Wiki_Homepage), and the sad thing is that many of you will probably have never heard of it!

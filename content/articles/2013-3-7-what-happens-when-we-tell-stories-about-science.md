@@ -4,16 +4,23 @@ title: >
 subtitle: >
   We were going to examine the relationship between science and narrative, and see science escaping from the lab into the ‘real’ world...
 date: "2013-03-07 21:17:39 +0000"
+
 # Attributes from Felix Online V1
 id: "3422"
 old_path: /science/3422/what-happens-when-we-tell-stories-about-science
 aliases:
  - /science/3422/what-happens-when-we-tell-stories-about-science
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 What does happen when we tell stories about science? That was the question the panel of academics attempted to answer at the LSE/Imperial Literary Festival event last Wednesday evening.

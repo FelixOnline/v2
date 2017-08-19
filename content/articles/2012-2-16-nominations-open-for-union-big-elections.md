@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Students stand for departmental and sabbatical positions
 date: "2012-02-16 22:51:17 +0000"
+
 # Attributes from Felix Online V1
 id: "2216"
 old_path: /news/2216/nominations-open-for-union-big-elections
 aliases:
  - /news/2216/nominations-open-for-union-big-elections
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Nominations for the Union’s ‘[Big Elections](http://union.ic.ac.uk/marketing/elections/)’ opened on Monday 13 February with students able to put themselves forward as candidates for departmental and sabbatical positions. The site’s look and feel has been radically changed from previous elections, and the voting statistics have reportedly been revamped.

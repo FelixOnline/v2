@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Professor Sara Rankin is asking school children around the UK to donate their baby teeth. But why?
 date: "2011-06-16 19:36:50 +0100"
+
 # Attributes from Felix Online V1
 id: "1384"
 old_path: /news/1384/the-tooth-fairys-palace
 aliases:
  - /news/1384/the-tooth-fairys-palace
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It almost sounds like something straight from a children’s fairytale: using the milk teeth of children to build a palace. But this is no tooth-fairy-gone-rogue story, rather it’s the inventive collaboration of Imperial’s [Professor Sara Rankin](http://www1.imperial.ac.uk/medicine/people/s.rankin/) and artist [Gina Czarnecki](http://www.ginaczarnecki.com/). The pair aim to move the debate about stem cells away from the controversies of embryonic stem cell research and to challenge perceptions about discarded body matter with a new project called ‘[Palaces](http://palaces.org.uk/)’.

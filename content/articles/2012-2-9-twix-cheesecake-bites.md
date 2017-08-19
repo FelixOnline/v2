@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Heat up the kitchen this Valentine’s Day with this decadent treat!
 date: "2012-02-09 22:31:45 +0000"
+
 # Attributes from Felix Online V1
 id: "2151"
 old_path: /food/2151/twix-cheesecake-bites
 aliases:
  - /food/2151/twix-cheesecake-bites
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - cac111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
-author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
 author_twitter: "cazzastrophe"
 author_facebook: "http://www.facebook.com/carolxann"
 author_website_url: "http://surrealle.com"
 author_website_title: "Surrealle - weblog + portfolio"
-
-comments:
-imported: true
 ---
 
 These are seriously decadent crowd-pleasers. I’ve made them twice for two group gatherings of different sizes – we’re talking at least 15 people, and they get snapped up quite nicely (the latter actually had 30-odd people!) They need a little bit of pre-planning and forethought, though; because making them is a two-stage process that includes baking and overnight chilling (or at least 6 hours if you make them in the morning for a dinner treat); but they’re very well worth the wait so they’ll make a great do-ahead dessert.

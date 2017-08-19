@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Not the usual horror movie
 date: "2012-05-03 18:21:43 +0100"
+
 # Attributes from Felix Online V1
 id: "2411"
 old_path: /film/2411/wheres-buffy-when-you-need-her
 aliases:
  - /film/2411/wheres-buffy-when-you-need-her
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - ams111
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 [__The Cabin in the Woods__](http://www.imdb.com/title/tt1259521/)

@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Laurence Pope is too much of a n00b to play Magicka
 date: "2011-02-10 20:36:59 +0000"
+
 # Attributes from Felix Online V1
 id: "778"
 old_path: /games/778/magicka-a-mad-mixed-bag-of-tricks-
 aliases:
  - /games/778/magicka-a-mad-mixed-bag-of-tricks-
+imported: true
+comments:
+ - Thats ralely thinking out of the box ThanksVAq8K5  urlhttpksybhgcazmzjcomksybhgcazmzjurl linkhttptljdlwkqniwscomtljdlwkqniwslink httphhzhobzhjkwecomhFBFp9  eepwdrfclhtt
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - lap08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Thats ralely thinking out of the box ThanksVAq8K5  urlhttpksybhgcazmzjcomksybhgcazmzjurl linkhttptljdlwkqniwscomtljdlwkqniwslink httphhzhobzhjkwecomhFBFp9  eepwdrfclhtt
-imported: true
 ---
 
 Ahh, cosplay. There’s nothing I like more than putting on my robe and wizard hat, striding round the Queen’s Lawn and waving about my enormous magical staff, casting spells of such power that mere mortals can only gasp in awe. Then, some killjoy policeman arrests me for public indecency, or something like that.

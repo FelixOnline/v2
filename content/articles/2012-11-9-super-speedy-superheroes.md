@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Everyone accidentally dresses up as The Flash. Not flash in the good way though...
 date: "2012-11-09 14:27:37 +0000"
+
 # Attributes from Felix Online V1
 id: "2873"
 old_path: /sport/2873/super-speedy-superheroes
 aliases:
  - /sport/2873/super-speedy-superheroes
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 On a cold Wednesday afternoon Imperial’s finest runners headed off to Richmond Park for the second of our London College League races of the year. Since the race coincided with Halloween, club members stepped up to the mark with some spooky costumes to scare off the competition. We definitely deserved the prize for best dressed team.

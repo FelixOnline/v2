@@ -4,16 +4,23 @@ title: >
 subtitle: >
   London Fashion Week isn’t just for the editors and bloggers, Alice Yang shows you how to get involved
 date: "2012-02-23 21:28:41 +0000"
+
 # Attributes from Felix Online V1
 id: "2255"
 old_path: /fashion/2255/fashion-week-frenzy
 aliases:
  - /fashion/2255/fashion-week-frenzy
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - fashion
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __To Do: [London Fashion Weekend](http://www.londonfashionweekend.co.uk/)__

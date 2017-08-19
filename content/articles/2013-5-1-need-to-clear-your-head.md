@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Philippa Skett on the new imaging technique that is sweaping labs nationwide
 date: "2013-05-01 19:28:54 +0100"
+
 # Attributes from Felix Online V1
 id: "3522"
 old_path: /science/3522/need-to-clear-your-head
 aliases:
  - /science/3522/need-to-clear-your-head
+imported: true
+comments:
+ - Acrylamide is neither a plastic or used in false finger nails It is a marvelous little molecule which makes polymers that are vital to a number of highly important industries such as municipal watertreatment oil and gas recovery paper making quarrying and construction Not to forget drinking water treatment household care cosmetics textile printing sugar clarification and on and on
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Acrylamide is neither a plastic or used in false finger nails It is a marvelous little molecule which makes polymers that are vital to a number of highly important industries such as municipal watertreatment oil and gas recovery paper making quarrying and construction Not to forget drinking water treatment household care cosmetics textile printing sugar clarification and on and on
-imported: true
 ---
 
 Do you ever find yourself walking along the street, daydreaming away, and then suddenly wonder what if people around you could hear what you were thinking? What if complete strangers could see into your head, listen to your thoughts and leave no stone of your conscience unturned? With the recent advances in tissue imaging, your brain can now be as transparent as a gold fish bowl, but relax- your secrets will still remain safe for the foreseeable future.

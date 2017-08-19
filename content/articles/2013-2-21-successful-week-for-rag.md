@@ -4,16 +4,23 @@ title: >
 subtitle: >
   RAG count up the money raised
 date: "2013-02-21 23:57:47 +0000"
+
 # Attributes from Felix Online V1
 id: "3351"
 old_path: /news/3351/successful-week-for-rag
 aliases:
  - /news/3351/successful-week-for-rag
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Raising and Giving (RAG), the charity arm of Imperial College Union had their annual RAG Week during 11-15 February. It was a week of fun filled events that raise money for RAG’s chosen charities. David Goldsmith, RAG Chair, said “RAG took over Imperial.”

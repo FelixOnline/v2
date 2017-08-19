@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Our music editor left feeling underwhelmed
 date: "2015-10-23 11:54:29 +0100"
+
 # Attributes from Felix Online V1
 id: "5677"
 old_path: /music/5677/four-tet-all-nighter
 aliases:
  - /music/5677/four-tet-all-nighter
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The last time I spent a night at Brixton Academy the air was thick with smelly marijuana and fruity vapour. The fully engaged crowd swayed, bobbed and even lurched to the music, all focused on the man in the centre of the stage, walled in by a cube of screens and flashing lights.

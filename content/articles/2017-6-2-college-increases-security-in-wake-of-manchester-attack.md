@@ -4,16 +4,22 @@ title: >
 subtitle: >
   ....a bit
 date: "2017-06-02 12:48:03 +0100"
+
 # Attributes from Felix Online V1
 id: "6988"
 old_path: /news/6988/college-increases-security-in-wake-of-manchester-attack
 aliases:
  - /news/6988/college-increases-security-in-wake-of-manchester-attack
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In a statement sent out by President Alice Gast and Provost James Stirling, Imperial students and staff were told that there will now be an increased presence of security at College’s campuses.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   £350,000 worth of goods stolen by masked men
 date: "2011-11-10 22:28:59 +0000"
+
 # Attributes from Felix Online V1
 id: "1749"
 old_path: /games/1749/cod-mw3-theft-shocks-world
 aliases:
  - /games/1749/cod-mw3-theft-shocks-world
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - games
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 So I guess some of you were expecting a Modern Warfare 3 review, right? I barely have enough money to subsist on dry bread and so little free time that I can only sleep for half an hour each day, so you expect me to purchase and play COD: MW3? I guess a man can dream. If you’re all good little girls and boys I’ll have one of my richer contributors review it next week. But for now, enjoy/endure this amusing little piece about everyone’s favourite modern army shooter. It would have gone into the news section, but apparently only big news goes there, picky editors.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   On December 6th at around midday, at least 55 games were taking place at the SCRABBLE Champions’ Tournament in Prague. 110 players from across the globe had convened in Prague for a tilt at the title of SCRABBLE World Champion and a share of the €25,000 prize pot.
 date: "2014-06-23 13:02:31 +0100"
+
 # Attributes from Felix Online V1
 id: "4704"
 old_path: /features/4704/scrabble-world-championships-prince-goes-to-prague
 aliases:
  - /features/4704/scrabble-world-championships-prince-goes-to-prague
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Prince goes to Prague

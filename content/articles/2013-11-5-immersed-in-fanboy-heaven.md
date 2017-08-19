@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Riaz Agahi reviews Pelican’s long awaited return
 date: "2013-11-05 09:33:59 +0000"
+
 # Attributes from Felix Online V1
 id: "3992"
 old_path: /music/3992/immersed-in-fanboy-heaven
 aliases:
  - /music/3992/immersed-in-fanboy-heaven
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - music
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 n my less pretentious teenage years I was a big fan of all things metal. I gradually, however, found myself gravitating away from the more pedestrian areas of the genre, such as Slayer, who employed a classic thrash sound that influenced many. It became clear to me that the genre had moved way beyond that point in the intervening 20 years.

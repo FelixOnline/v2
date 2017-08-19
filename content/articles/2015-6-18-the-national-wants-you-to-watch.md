@@ -4,16 +4,23 @@ title: >
 subtitle: >
   But Jack Steadman suggests otherwise (this time, anyway)
 date: "2015-06-18 21:15:46 +0100"
+
 # Attributes from Felix Online V1
 id: "5637"
 old_path: /arts/5637/the-national-wants-you-to-watch
 aliases:
  - /arts/5637/the-national-wants-you-to-watch
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - jyg11
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Following on from _Beyond Caring_ in the __National__’s__ Temporary Theatre__, _We Want You to Watch_ is the latest venture from producing trio RashDash, written together with Alice Birch.

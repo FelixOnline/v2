@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Indy Leclercq grills Charlie Esberger following the start of the season
 date: "2011-11-10 22:28:29 +0000"
+
 # Attributes from Felix Online V1
 id: "1748"
 old_path: /sport/1748/club-captain-interview-rugby
 aliases:
  - /sport/1748/club-captain-interview-rugby
+imported: true
+comments:
+ - Well we are prepared to serve over 100 spettaghi dinners tomorrow night  Our young people did a FANTASTIC job selling meal tickets  Congratulations to Stephanie Mignery who was the topseller with 22 dinners sold  Her prize was a Cold Stone Creamery gift card which was donated to us by the store manager there  Enjoy your ice cream StephanieNow we will all go to prayer that the GIGANTIC winter storm will hold off until about 9pm tomorrow night  We want to have our spettaghi dinner night Most of all we just enjoy being togetherYoung people you are awesome Matt and I appreciate each one of you  Every single one of you is special you bring something unique and important to our youth group  We need you  Its so wonderful to see God blessing each one of you individually and blessing us together as a unitKeep up the good work and Youth Convention here we comeHaving been privvy to a press coefnrence at the club today it is refreshing to see the senior p
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - Well we are prepared to serve over 100 spettaghi dinners tomorrow night  Our young people did a FANTASTIC job selling meal tickets  Congratulations to Stephanie Mignery who was the topseller with 22 dinners sold  Her prize was a Cold Stone Creamery gift card which was donated to us by the store manager there  Enjoy your ice cream StephanieNow we will all go to prayer that the GIGANTIC winter storm will hold off until about 9pm tomorrow night  We want to have our spettaghi dinner night Most of all we just enjoy being togetherYoung people you are awesome Matt and I appreciate each one of you  Every single one of you is special you bring something unique and important to our youth group  We need you  Its so wonderful to see God blessing each one of you individually and blessing us together as a unitKeep up the good work and Youth Convention here we comeHaving been privvy to a press coefnrence at the club today it is refreshing to see the senior p
-imported: true
 ---
 
 After the mad rush that was Issue 1500, the Club Captains are back for a third interview! This week we feature the Captain of the Imperial College Rugby Union Football Club (to give him his full title), Charlie Esberger.

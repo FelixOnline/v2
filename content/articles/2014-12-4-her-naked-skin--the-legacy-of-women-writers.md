@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Fred Fyles asks the theatre industry where the women playwrights are
 date: "2014-12-04 20:15:19 +0000"
+
 # Attributes from Felix Online V1
 id: "5008"
 old_path: /arts/5008/her-naked-skin--the-legacy-of-women-writers
 aliases:
  - /arts/5008/her-naked-skin--the-legacy-of-women-writers
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - cj914
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
-author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
 author_twitter: "cecilyglj"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In 1613, Elizabeth Tanfield Cary published _The Tragedy of Mariam, the Fair Queen of Jewry_. Taking its cue from Roman drama, it is a classic example of a Jacobean revenge drama, a tale of love, betrayal and murder. The play centres around Mariam, second wife of Herod the Great; at the beginning of the piece, Mariam believes her husband is dead, killed at the hand of Octavian. However, Herod returns, and his sister, Salome, manages to convince him that Mariam has been unfaithful in his absence. As punishment, Mariam is executed. What makes _The Tragedy of Mariam_ special, unique even, is that it was the first play written by a woman.

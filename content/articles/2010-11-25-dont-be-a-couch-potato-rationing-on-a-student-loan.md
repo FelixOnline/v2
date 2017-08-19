@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Alex Thompson offers rationing recipes for hungry times
 date: "2010-11-25 20:39:06 +0000"
+
 # Attributes from Felix Online V1
 id: "433"
 old_path: /food/433/dont-be-a-couch-potato-rationing-on-a-student-loan
 aliases:
  - /food/433/dont-be-a-couch-potato-rationing-on-a-student-loan
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - nm1010
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 The classical image of the poverty-stricken student living off baked beans, with pride and clothing similarly frayed, may not apply to most of us here at Imperial, but still we must appear so to our debt-a-phobic parents. In this section I’m planning to introduce all of you to some war inspired recipes that are perfect for mornings where a trip to the shops is impossible without substantial amounts of analgesia.

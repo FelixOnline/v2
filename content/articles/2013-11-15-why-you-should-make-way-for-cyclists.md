@@ -4,16 +4,23 @@ title: >
 subtitle: >
   I was initially cautious, sticking to journeys through parks and laughing with unbridled joy as I left hapless pedestrians and the occasional horse in my wake. What chance did they stand? The bicycle was the vehicle of the future and I its shiny jacketed prophet.
 date: "2013-11-15 02:24:21 +0000"
+
 # Attributes from Felix Online V1
 id: "4067"
 old_path: /comment/4067/why-you-should-make-way-for-cyclists
 aliases:
  - /comment/4067/why-you-should-make-way-for-cyclists
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 This time last year I bought a bike. It had taken four years of living in the city but I was finally living my stereotyped London dream of flying around on two wheels, fluorescent jacket fluorescing and carbon emissions zeroing; king of the road. The bike was freedom. Unlike the tube, I could get exactly where I wanted to go rather than a ten walk away. Unlike the car I could tie the thing to the nearest pole and get on with it. It was blue in some parts and another shade of blue in other parts. It was perfect.

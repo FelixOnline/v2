@@ -4,16 +4,22 @@ title: >
 subtitle: >
   What a year, what a dire year
 date: "2016-12-16 14:28:55 +0000"
+
 # Attributes from Felix Online V1
 id: "6599"
 old_path: /features/6599/an-idiots-guide-to-2016
 aliases:
  - /features/6599/an-idiots-guide-to-2016
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - features
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 It’s been a rollercoaster ride. Except a rollercoaster ride where you threw up on yourself at the start. But, let’s take a trip down memory lane; there are a few nuggets of joy to be found amongst the pile of crap that was 2016. Promise.

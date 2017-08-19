@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Will a mega-merger in the brewing industry save big beer?
 date: "2015-10-23 11:15:09 +0100"
+
 # Attributes from Felix Online V1
 id: "5664"
 old_path: /biz/5664/last-orders-as-craft-beer-steals-market-share
 aliases:
  - /biz/5664/last-orders-as-craft-beer-steals-market-share
+imported: true
+comments:
+ - Ygysdp  ulremxivezqz urlhttptxfcrdyljphbcomtxfcrdyljphburl linkhttpvczoppyliqdacomvczoppyliqdalink httphgjcxbvpahbwcomWow lovely site Thnx cheap fifa 17 coins httpdaisbookcomblogspost4381Wow because this is great work Congrats and keep it upbuy fifa 17 coins httpcsgolearnforumcitycomviewtopicphpp2222
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ygysdp  ulremxivezqz urlhttptxfcrdyljphbcomtxfcrdyljphburl linkhttpvczoppyliqdacomvczoppyliqdalink httphgjcxbvpahbwcomWow lovely site Thnx cheap fifa 17 coins httpdaisbookcomblogspost4381Wow because this is great work Congrats and keep it upbuy fifa 17 coins httpcsgolearnforumcitycomviewtopicphpp2222
-imported: true
 ---
 
 In the UK back in 2006 the majority of pubs served mostly identical lagers on keg; variety was achieved by a changing assortment of warm cask ales that often left younger drinkers wanting. In the US, the situation was similar; bars served a narrow range of indistinguishable beers: Bud Light, Coors Light, Budweiser and the like. Any variety found came in the form of expensive import beers like Guinness.

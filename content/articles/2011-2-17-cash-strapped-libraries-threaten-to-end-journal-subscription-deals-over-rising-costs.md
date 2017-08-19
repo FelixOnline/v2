@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Deborah Shorley, Head of Imperial’s library, will take Britain’s biggest publishers to the edge if necessary
 date: "2011-02-17 18:54:41 +0000"
+
 # Attributes from Felix Online V1
 id: "808"
 old_path: /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
 aliases:
  - /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
+imported: true
+comments:
+ - this is a great thought you should also check a great software development for your software development requirements thanksPerhaps its time for Plan B In this case Plan B is asking Barclays Bank to sponsor the subscriptions after their legal people have had a little tete a tete with the publishers Something that after all the bad press the banks have had recently they could find great enthusiasm for After all Barclays sponsors the London Bike scheme this would be something that would benefit at a national levelPapers derived from publically funded research should be available to everyone This would be a step in that directionAs academics we really have to support initiatives like this Eventually Open Access will become the way forward and we have to play our own part in making that happen Essential library services are being lost due to these inflated subscription pricesA
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - this is a great thought you should also check a great software development for your software development requirements thanksPerhaps its time for Plan B In this case Plan B is asking Barclays Bank to sponsor the subscriptions after their legal people have had a little tete a tete with the publishers Something that after all the bad press the banks have had recently they could find great enthusiasm for After all Barclays sponsors the London Bike scheme this would be something that would benefit at a national levelPapers derived from publically funded research should be available to everyone This would be a step in that directionAs academics we really have to support initiatives like this Eventually Open Access will become the way forward and we have to play our own part in making that happen Essential library services are being lost due to these inflated subscription pricesA
-imported: true
 ---
 
 Intimidating isn’t the first word that springs to mind when you first meet Deborah Shorley, Director of the Imperial College London Library. A short, erudite librarian, one would not imagine such a character to be leading a fight against two of the largest publishers in the UK: Elsevier and Wiley Blackwell.

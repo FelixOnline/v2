@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Magicians, assemble!
 date: "2015-11-13 14:53:05 +0000"
+
 # Attributes from Felix Online V1
 id: "5735"
 old_path: /cands/5735/do-you-want-to-see-a-magic-trick
 aliases:
  - /cands/5735/do-you-want-to-see-a-magic-trick
+imported: true
+comments:
+ - cAZECt httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom4zFuzB httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomGreat looking website Presume you did a bunch of your own codingcs go skins reddit httpwwwephorumnetcsgoskinsforsaletelevisionscriptsThanks for the purpose of providing these sort of terrific subject mattercs go skins cheap httpgemmaisabelweeblycom2133823458whyyouneedtosimplybuynbamtcoinsthatare2k16asopposedtogeneratethemallonyourown7RtQzJ httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomGreat internet sitewebsite It looks extremely expert Sustain the great workmadden 17 coins httpsooalga2hcomindexphpqa1730qa_1fifa17coinsncaafootballvideogameseasonconfrontationGreat internet site It looks very professional Sustain the excellent jobnba 2k17 coins httplivegreatnloxwallevent1255
 
 # Article Taxonomies
 categories:
  - clubs-and-socs
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - cAZECt httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom4zFuzB httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomGreat looking website Presume you did a bunch of your own codingcs go skins reddit httpwwwephorumnetcsgoskinsforsaletelevisionscriptsThanks for the purpose of providing these sort of terrific subject mattercs go skins cheap httpgemmaisabelweeblycom2133823458whyyouneedtosimplybuynbamtcoinsthatare2k16asopposedtogeneratethemallonyourown7RtQzJ httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcomGreat internet sitewebsite It looks extremely expert Sustain the great workmadden 17 coins httpsooalga2hcomindexphpqa1730qa_1fifa17coinsncaafootballvideogameseasonconfrontationGreat internet site It looks very professional Sustain the excellent jobnba 2k17 coins httplivegreatnloxwallevent1255
-imported: true
 ---
 
 What do you picture when you hear the word ‘magician’? If you think of ‘that guy’ at a party, sloppily doing lame tricks he learnt an hour ago from Youtube, then I’m here to change that. If you imagine a sad man in his thirties doing kids’ parties, filled with self-loathing due to poor life decisions, then I’m here to change that too.

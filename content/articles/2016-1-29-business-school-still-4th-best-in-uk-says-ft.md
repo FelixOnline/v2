@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial’s full time MBA slipped one place internationally, making it 35th in the world
 date: "2016-01-29 08:47:53 +0000"
+
 # Attributes from Felix Online V1
 id: "5836"
 old_path: /news/5836/business-school-still-4th-best-in-uk-says-ft
 aliases:
  - /news/5836/business-school-still-4th-best-in-uk-says-ft
+imported: true
+comments:
+ - Many thanks extremely valuable Will certainly share website with my friendsfree csgo skins httpcsgoskinspointsgratisblogbiz20160310silateducationsystemthreeblowstoutilizeduringselfdefensetrainingLove the website extremely user friendly and lots to seecs go skins butterfly knife httpcsgoskinslistblogfc2blogusblogentry4htmlHello very good website youve got right nowcs go skins reddit httpaustraliacitycomforumtopic15056Wow cuz this is great work Congrats and keep it upnba 2k16 mt cheat table httpwwwfabvegancomclassifieds2006559nba2k16coinsknowthesefours
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Many thanks extremely valuable Will certainly share website with my friendsfree csgo skins httpcsgoskinspointsgratisblogbiz20160310silateducationsystemthreeblowstoutilizeduringselfdefensetrainingLove the website extremely user friendly and lots to seecs go skins butterfly knife httpcsgoskinslistblogfc2blogusblogentry4htmlHello very good website youve got right nowcs go skins reddit httpaustraliacitycomforumtopic15056Wow cuz this is great work Congrats and keep it upnba 2k16 mt cheat table httpwwwfabvegancomclassifieds2006559nba2k16coinsknowthesefours
-imported: true
 ---
 
 Imperial College Business School’s full-time MBA program is the 35th best in the world and the fourth best in the UK according to the 2016 _Financial Times_ MBA rankings released this week.

@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Imperial’s Sports Partnership has recently sent an email to stakeholder of the annual Varsity match outlining changes to the acceptance of alcohol during the event.
 date: "2014-01-31 17:13:24 +0000"
+
 # Attributes from Felix Online V1
 id: "4312"
 old_path: /news/4312/changes-to-alcohol-policy-for-varsity-2014
 aliases:
  - /news/4312/changes-to-alcohol-policy-for-varsity-2014
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - news
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 Imperial’s Sports Partnership has recently sent an email to stakeholder of the annual Varsity match outlining changes to the acceptance of alcohol during the event.

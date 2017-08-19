@@ -4,16 +4,24 @@ title: >
 subtitle: >
   The City life ain’t all it’s cracked up to be, warns Adam Billing
 date: "2013-02-07 23:11:56 +0000"
+
 # Attributes from Felix Online V1
 id: "3255"
 old_path: /comment/3255/the-life-of-a-total-wbanker
 aliases:
  - /comment/3255/the-life-of-a-total-wbanker
+imported: true
+comments:
+ - I disagree with the above comments I plan on posting a response in felix next week but two details really nagged at me in their misrepresentation1 The use of a 2008 statistic the worst year in recent MA history to illustrate how poorly paid it is Surely having worked in the city you should be aware that base salary is now minimum 45k Lets add on a 5k signing bonus to that Lets also add the industrystandard 20k first year bonus for midranked analysts if anyone wants confirmation of these numbers I can provide sources but do not want to post them on here for confidentiality So now were looking at a total comp of 70k double the figure you quoted I cant help but feel this was completely intentionalHowever I do not think any analyst worth their salt is primarily moneydriven as shall be discussed further in my response next week  cont below2 They worked in GS MA Did Goldman invent that group just for them because theyre so shithot Goldman do not have an
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - I disagree with the above comments I plan on posting a response in felix next week but two details really nagged at me in their misrepresentation1 The use of a 2008 statistic the worst year in recent MA history to illustrate how poorly paid it is Surely having worked in the city you should be aware that base salary is now minimum 45k Lets add on a 5k signing bonus to that Lets also add the industrystandard 20k first year bonus for midranked analysts if anyone wants confirmation of these numbers I can provide sources but do not want to post them on here for confidentiality So now were looking at a total comp of 70k double the figure you quoted I cant help but feel this was completely intentionalHowever I do not think any analyst worth their salt is primarily moneydriven as shall be discussed further in my response next week  cont below2 They worked in GS MA Did Goldman invent that group just for them because theyre so shithot Goldman do not have an
-imported: true
 ---
 
 You’ve finished your degree. You worked hard and you got the grades. The world is your metaphorical oyster. With your hard earned piece of paper you can do whatever your heart desires. So why do nearly a third of us end up working in the financial services?

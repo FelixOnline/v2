@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Charles Betts snubs George Clooney’s Nespresso for coffee at the EEE café
 date: "2010-10-28 19:38:50 +0100"
+
 # Attributes from Felix Online V1
 id: "269"
 old_path: /food/269/lets-talk-about-coffee---what-else
 aliases:
  - /food/269/lets-talk-about-coffee---what-else
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - food
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Dark, very intense, balanced, unique, mysterious, delicate and smooth with a strong character, body and deep sensual aftertaste. [Or at least that’s how the ladies in the Nescafé Nespresso adverts put it ](http://www.youtube.com/watch?v=DfyeXrdZZ1o)(much to the disdain of George Clooney). Indeed, not much compares with the pleasures of an early morning espresso.

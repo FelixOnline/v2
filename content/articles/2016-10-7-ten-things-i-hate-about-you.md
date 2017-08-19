@@ -4,16 +4,22 @@ title: >
 subtitle: >
   Hint: It's your STIs
 date: "2016-10-07 17:32:25 +0100"
+
 # Attributes from Felix Online V1
 id: "6314"
 old_path: /sex/6314/ten-things-i-hate-about-you
 aliases:
  - /sex/6314/ten-things-i-hate-about-you
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - sex
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +36,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 We’ve come to the end of Freshers’ Week, and maybe you’ve had a bit too much fun. We’ve all been there, made mistakes, and done things that we live to regret with the bad-boy (or girl) hall senior who seems _so_ mature and experienced. Regardless of how, when, or why, many people all over Imperial will be waking up this week with a worry niggling at the back of their head: _What if I caught something?_

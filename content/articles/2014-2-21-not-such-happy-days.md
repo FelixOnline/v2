@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Disclaimer: do not book tickets for this as a February blues pick-me-up. The poster’s colourful, the title’s promising, but the only comedy you’ll get it the bleakest of tragicomedy.
 date: "2014-02-21 03:17:49 +0000"
+
 # Attributes from Felix Online V1
 id: "4422"
 old_path: /arts/4422/not-such-happy-days
 aliases:
  - /arts/4422/not-such-happy-days
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - arts
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 __What: __Happy Days

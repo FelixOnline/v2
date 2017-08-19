@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Let’s hope not, argues Rajvinder Virdee in this debate
 date: "2011-11-10 21:22:29 +0000"
+
 # Attributes from Felix Online V1
 id: "1728"
 old_path: /biz/1728/the-end-of-the-big-four
 aliases:
  - /biz/1728/the-end-of-the-big-four
+imported: true
+comments:
+ -     Written English    banding  accent      Effective oral communication Who is your fatoirve singer Tell the class how one can develop a reading habit Describe your best friend to us          C
 
 # Article Taxonomies
 categories:
  - business
 tags:
+authors:
+ - pk1811
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
-author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- -     Written English    banding  accent      Effective oral communication Who is your fatoirve singer Tell the class how one can develop a reading habit Describe your best friend to us          C
-imported: true
 ---
 
 PwC, Deloitte, KPMG and Ernst and Young – better known collectively as the Big Four. The word ‘Big’ really doesn’t do them justice; enormous, gigantic and colossal are more appropriate adjectives. It’s hard to get a grasp of how big they are compared to other accountancy firms until you look at the raw figures.

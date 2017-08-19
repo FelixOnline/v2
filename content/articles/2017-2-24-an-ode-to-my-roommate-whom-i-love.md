@@ -4,16 +4,23 @@ title: >
 subtitle: >
   An anonymous writer shares their love letter to their room- (and soul-) mate
 date: "2017-02-24 13:49:04 +0000"
+
 # Attributes from Felix Online V1
 id: "6813"
 old_path: /comment/6813/an-ode-to-my-roommate-whom-i-love
 aliases:
  - /comment/6813/an-ode-to-my-roommate-whom-i-love
+imported: true
+comments:
+ - Youve got it in one Colundt have put it betterThis is a topic which is near to my heart Many thanks Exactly where are your contact details thoughstock quotes httpfinancehintseuIf you want to increase your knowhow simply keep visiting this website and be updated with the most recent news posted here httpeducationguideeuThis design is wicked You obviously know how to keep a reader amused Between your wit and your videos I was almost moved to start my own blog well almostHaHa Wonderful job I really enjoyed what you had to say and more than that how you presented it Too coolrecommended financial advisors httpfinancehintseuHi to every single one its genuinely a fastidious for me to go to see this site it contains useful Informationfinance advice httpfinancehintseuDefinitely believe that which you stated Your favorite reason appeared to be on the net the easiest thing to be aware of I say to you I certainly get annoyed while people think about worries th
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +37,11 @@ video_url: ""
 # Author metadata
 author_id: ""
 author_name: ""
-author_image_path: ""
+author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Youve got it in one Colundt have put it betterThis is a topic which is near to my heart Many thanks Exactly where are your contact details thoughstock quotes httpfinancehintseuIf you want to increase your knowhow simply keep visiting this website and be updated with the most recent news posted here httpeducationguideeuThis design is wicked You obviously know how to keep a reader amused Between your wit and your videos I was almost moved to start my own blog well almostHaHa Wonderful job I really enjoyed what you had to say and more than that how you presented it Too coolrecommended financial advisors httpfinancehintseuHi to every single one its genuinely a fastidious for me to go to see this site it contains useful Informationfinance advice httpfinancehintseuDefinitely believe that which you stated Your favorite reason appeared to be on the net the easiest thing to be aware of I say to you I certainly get annoyed while people think about worries th
-imported: true
 ---
 
 I love my roommate. Quite the statement, isn’t it?

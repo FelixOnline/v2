@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Easter eggs are lining the shelves, but watch out
 date: "2013-03-15 01:03:57 +0000"
+
 # Attributes from Felix Online V1
 id: "3468"
 old_path: /science/3468/choccy-and-the-dangers-towards-doggies
 aliases:
  - /science/3468/choccy-and-the-dangers-towards-doggies
+imported: true
+comments:
+ - We have Folders and Maxwell Housewe also have Lipton teahotcocoMy Kids and Husband Drink the coco and Tea and cofefeI will drink Hot coco once in a blue MoonI am mountaindew drinker
 
 # Article Taxonomies
 categories:
  - science
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - We have Folders and Maxwell Housewe also have Lipton teahotcocoMy Kids and Husband Drink the coco and Tea and cofefeI will drink Hot coco once in a blue MoonI am mountaindew drinker
-imported: true
 ---
 
 Chocolate is well known to be toxic to dogs – but why?

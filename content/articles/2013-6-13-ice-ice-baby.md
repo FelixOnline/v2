@@ -4,16 +4,23 @@ title: >
 subtitle: >
   The Iceman review
 date: "2013-06-13 23:32:13 +0100"
+
 # Attributes from Felix Online V1
 id: "3693"
 old_path: /film/3693/ice-ice-baby
 aliases:
  - /film/3693/ice-ice-baby
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - tna08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
-author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
 author_twitter: "timarbabzadah"
 author_facebook: "https://www.facebook.com/timarbabzadah"
 author_website_url: ""
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 In some of the marketing used for Man of Steel (out in cinemas today - will be reviewed in the next issue), we are told to “kneel before Zod (played by Michael Shannon)”. Instead, we should all kneel before the real Michael Shannon, easily one of the most underrated, under-awarded, and under-recognised actors working today. He’s the anti-hero of The Iceman, a taut retelling of the life of Richard “Richie” Kuklinski, an American-Polish mob hitman who was arrested having killed what is believed to be well over 100 people.

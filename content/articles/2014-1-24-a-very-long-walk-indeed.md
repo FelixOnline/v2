@@ -4,16 +4,23 @@ title: >
 subtitle: >
   In putting such an iconic, widely beloved figure to the screen, the pressure is most definitely on. The film shouldn’t offend, nor should it be an unbiasedly kind portrayal, as even the most celebrated people have flaws to speak of.
 date: "2014-01-24 10:15:30 +0000"
+
 # Attributes from Felix Online V1
 id: "4301"
 old_path: /film/4301/a-very-long-walk-indeed
 aliases:
  - /film/4301/a-very-long-walk-indeed
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - film
 tags:
+authors:
+ - jal08
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: "jal08"
 author_facebook: ""
 author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
-
-comments:
-imported: true
 ---
 
 __Mandela: Long Walk to Freedom__

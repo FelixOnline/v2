@@ -4,16 +4,24 @@ title: >
 subtitle: >
   One French student says the divisions to blame are ingrained
 date: "2015-11-19 22:36:52 +0000"
+
 # Attributes from Felix Online V1
 id: "5744"
 old_path: /comment/5744/france-must-change
 aliases:
  - /comment/5744/france-must-change
+imported: true
+comments:
+ - If WE are their selfdeclared enemy then THEY cant oebjct if we treat them in kind now can theyThey can oebjct  They can oebjct just as loud and long as they want Problem is it JUST WONT DO THEM ANY GOOD Yeah they have a lot of ammo  FOR NOW  But something tells me that the militia types in the locales where those ammo storage dumps are located already have plans in place for relieving them of it  complete with thank you note for their generous storage of it
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - ygr12
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - If WE are their selfdeclared enemy then THEY cant oebjct if we treat them in kind now can theyThey can oebjct  They can oebjct just as loud and long as they want Problem is it JUST WONT DO THEM ANY GOOD Yeah they have a lot of ammo  FOR NOW  But something tells me that the militia types in the locales where those ammo storage dumps are located already have plans in place for relieving them of it  complete with thank you note for their generous storage of it
-imported: true
 ---
 
 As a French national, the events of the 13th of November in Paris were a dagger through my heart. It capped off a tragic year for our country. The Charlie Hebdo January attacks came as a shock, but the stabbing of three soldiers in February followed by the attacks of last Friday have exposed the serious political crisis within our nation.

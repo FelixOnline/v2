@@ -4,16 +4,23 @@ title: >
 subtitle: >
   Unravelling a cooking conundrum
 date: "2011-11-04 16:59:51 +0000"
+
 # Attributes from Felix Online V1
 id: "1704"
 old_path: /comment/1704/the-portrait-of-the-cook-as-a-young-man
 aliases:
  - /comment/1704/the-portrait-of-the-cook-as-a-young-man
+imported: true
+comments:
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,14 +37,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
-imported: true
 ---
 
 Looking back with the aged eyes of a fourth year, I can reflect on my experiences here and divise a pattern, common to all who pass through these halls. As a child, food was just food. Food was also delicious. In university, food is still delicious but it is suddenly so much more complicated. For the first time in my life, I am responsible for my own sustenance. With a few mistakes made along the way, I am somehow still alive. There seem to be several distinct stages that a student will pass through during their time here.

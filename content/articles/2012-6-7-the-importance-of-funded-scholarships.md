@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Not every student has the luxury of a healthy bank balance
 date: "2012-06-07 19:50:54 +0100"
+
 # Attributes from Felix Online V1
 id: "2534"
 old_path: /comment/2534/the-importance-of-funded-scholarships
 aliases:
  - /comment/2534/the-importance-of-funded-scholarships
+imported: true
+comments:
+ - test commentDue to a bug in our commenting system your comment was categorised at spam and so didnt show up Apologies for this and it shouldnt happen again Jonathan KimWeb adminI think given the current situation you can expand that question to How many people doing degrees go on to get jobs and get the same answer your looking forThis is just poorly veiled advertising Im sure the College is glad to hear that youre spending their money on a few beersIm sure daddy would be thrilled to hear that youre spending his hardearned cash on a few lines of cokeChrist admire the honesty I think everyone at IC needs the occasional beer or two Its probably what keeps us from having so many people going postalBest of luck with the fundraising for this worthy cause And keep savouring the sweet taste of those pricey 2 pintsNice to see felix removing a comment which doesnt break the commenting policy just because it disagrees with the articleI live off a loan grant and bu
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - test commentDue to a bug in our commenting system your comment was categorised at spam and so didnt show up Apologies for this and it shouldnt happen again Jonathan KimWeb adminI think given the current situation you can expand that question to How many people doing degrees go on to get jobs and get the same answer your looking forThis is just poorly veiled advertising Im sure the College is glad to hear that youre spending their money on a few beersIm sure daddy would be thrilled to hear that youre spending his hardearned cash on a few lines of cokeChrist admire the honesty I think everyone at IC needs the occasional beer or two Its probably what keeps us from having so many people going postalBest of luck with the fundraising for this worthy cause And keep savouring the sweet taste of those pricey 2 pintsNice to see felix removing a comment which doesnt break the commenting policy just because it disagrees with the articleI live off a loan grant and bu
-imported: true
 ---
 
 Like an excitable kid on Christmas morning, A-level results day saw me up before dawn, frantically refreshing the beloved UCAS track page to see whether or not I’d cut the mustard. Unfortunately, I had to be up and at work early that morning, so couldn’t make it in to school to find out my exact results or jump into one of those coveted Guardian photographs (though I’m sure I lack the breasts and extra X chromosome to meet their criteria, anyway).

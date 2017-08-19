@@ -4,16 +4,24 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her top pick of upcoming festive activities in the UK
 date: "2014-12-04 19:01:49 +0000"
+
 # Attributes from Felix Online V1
 id: "4991"
 old_path: /travel/4991/its-the-most-wonderful-time-of-the-year
 aliases:
  - /travel/4991/its-the-most-wonderful-time-of-the-year
+imported: true
+comments:
+ - Ive been surfing online more than 3 hours these days yet I by no means discovered any interesting article like yours It is pretty worth sufficient for me In my opinion if all web owners and bloggers made excellent content as you probably did the internet will likely be much more useful than ever beforecanada goose limburg 9gag httpwwwamicitalianlnlcanadagooselimburg9gag6176html
 
 # Article Taxonomies
 categories:
  - travel
 tags:
+authors:
+ - ps3110
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
-author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
+author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
 author_twitter: "sketterss"
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Ive been surfing online more than 3 hours these days yet I by no means discovered any interesting article like yours It is pretty worth sufficient for me In my opinion if all web owners and bloggers made excellent content as you probably did the internet will likely be much more useful than ever beforecanada goose limburg 9gag httpwwwamicitalianlnlcanadagooselimburg9gag6176html
-imported: true
 ---
 
 Every Christmas holiday, people are often tempted to go abroad, whether to visit famous Christmas markets or enjoy the festive vibes of the country.

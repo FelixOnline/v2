@@ -4,16 +4,24 @@ title: >
 subtitle: >
   We should understand society's differences rather than ignoring them, argues Mahfooz Hasan
 date: "2011-10-20 23:10:36 +0100"
+
 # Attributes from Felix Online V1
 id: "1578"
 old_path: /comment/1578/when-equality-is-unfair
 aliases:
  - /comment/1578/when-equality-is-unfair
+imported: true
+comments:
+ - Great articleItd be an interesting challenge working out how to objectively measure an employees performance and when this has been tried in the past its often not subtle enough and only rewards one specific area of output For example many computer programmers in large corporations are rated on their performance by the number of lines of code they write but this only rewards employees who write large amounts of notverywell thought out code which is worse for the company then someone who writes less goodquality code But how do you measure what good code is Its hard to do such a thing empirically People wanting citation for the research that I mentioned can look at the paper by Dr Johannes Abeler University of Nottingham   httpwwwceprorgmeetswkcn44553papersAbelerpdf agreed
 
 # Article Taxonomies
 categories:
  - comment
 tags:
+authors:
+ - sjw209
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
-author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""
 author_facebook: ""
 author_website_url: ""
 author_website_title: ""
-
-comments:
- - Great articleItd be an interesting challenge working out how to objectively measure an employees performance and when this has been tried in the past its often not subtle enough and only rewards one specific area of output For example many computer programmers in large corporations are rated on their performance by the number of lines of code they write but this only rewards employees who write large amounts of notverywell thought out code which is worse for the company then someone who writes less goodquality code But how do you measure what good code is Its hard to do such a thing empirically People wanting citation for the research that I mentioned can look at the paper by Dr Johannes Abeler University of Nottingham   httpwwwceprorgmeetswkcn44553papersAbelerpdf agreed
-imported: true
 ---
 
 Equality is based on the mathematical equation. x = x, y = y, there’s no two ways about it. It has to be the same quantity, size, value etc. When applied to people, it refers to the state of being equal, especially in status, rights and opportunities. What it does not take into consideration is the difference between people, their role in the world, their characteristics – their individuality. It turns human beings into numbers and equations, in order to suit the logistics, to make it easy for lawmakers. On the other hand, fairness involves taking into consideration a person’s needs, his/her background – his/her individuality. It treats human beings as more than just numbers and equations, it treats them as individuals with emotions, beliefs and morals.

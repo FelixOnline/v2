@@ -4,16 +4,24 @@ title: >
 subtitle: >
   St Bart's are made short work of
 date: "2012-01-20 12:10:50 +0000"
+
 # Attributes from Felix Online V1
 id: "2042"
 old_path: /sport/2042/hockey-mens-3s-move-into-top-spot
 aliases:
  - /sport/2042/hockey-mens-3s-move-into-top-spot
+imported: true
+comments:
+ - I enjoy you because of all of the hard work on this web site Ellie takes pluesare in setting aside time for investigations and it is easy to understand why We all know all of the lively means you render good techniques by means of your web site and as well as inspire participation from some others on this topic so our own princess is actually becoming educated so much Have fun with the rest of the year You have been performing a stunning jobGutted to hear about your delay I really feel for yoluesrf and wont be able to consider how frustrating it needs to be I do think it might be great for getting occurring one other two legs of your triathalon I am aware itll mean it really is challenging to get in shape for that swim once the time will come but there are probably number of nations around the world additional suited to weightgain than The usabr Best of luck in any case
 
 # Article Taxonomies
 categories:
  - sport
 tags:
+authors:
+ - felix
+
+# Homepage control params
 headline: true
 featured: true
 
@@ -30,15 +38,11 @@ video_url: ""
 # Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
 author_twitter: "feliximperial"
 author_facebook: "http://www.facebook.com/FelixImperial"
 author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
-
-comments:
- - I enjoy you because of all of the hard work on this web site Ellie takes pluesare in setting aside time for investigations and it is easy to understand why We all know all of the lively means you render good techniques by means of your web site and as well as inspire participation from some others on this topic so our own princess is actually becoming educated so much Have fun with the rest of the year You have been performing a stunning jobGutted to hear about your delay I really feel for yoluesrf and wont be able to consider how frustrating it needs to be I do think it might be great for getting occurring one other two legs of your triathalon I am aware itll mean it really is challenging to get in shape for that swim once the time will come but there are probably number of nations around the world additional suited to weightgain than The usabr Best of luck in any case
-imported: true
 ---
 
 On a cold Wednesday evening, IC M3 clinically dispatched St. Bart’s M2 to reach the dizzying heights of the top of ULU. A 3-0 scoreline did not flatter IC, with our boys creating many chances and defending solidly throughout.
