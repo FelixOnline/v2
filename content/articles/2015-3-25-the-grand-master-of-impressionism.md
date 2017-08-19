@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:17:16 +0000"
 id: "5447"
 old_path: /arts/5447/the-grand-master-of-impressionism
-redirect_from:
+aliases:
  - /arts/5447/the-grand-master-of-impressionism
 category: arts
 

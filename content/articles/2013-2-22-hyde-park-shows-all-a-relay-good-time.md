@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:00:53 +0000"
 id: "3370"
 old_path: /sport/3370/hyde-park-shows-all-a-relay-good-time
-redirect_from:
+aliases:
  - /sport/3370/hyde-park-shows-all-a-relay-good-time
 category: sport
 

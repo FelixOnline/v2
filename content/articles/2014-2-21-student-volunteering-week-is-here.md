@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:07:23 +0000"
 id: "4416"
 old_path: /features/4416/student-volunteering-week-is-here
-redirect_from:
+aliases:
  - /features/4416/student-volunteering-week-is-here
 category: features
 

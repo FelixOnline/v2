@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:24:21 +0000"
 id: "580"
 old_path: /sport/580/sailors-battle-snow--dragons
-redirect_from:
+aliases:
  - /sport/580/sailors-battle-snow--dragons
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 15:06:08 +0100"
 id: "3778"
 old_path: /tv/3778/there-are-new-desperate-housewives-in-town
-redirect_from:
+aliases:
  - /tv/3778/there-are-new-desperate-housewives-in-town
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:30:55 +0100"
 id: "3798"
 old_path: /science/3798/blood-snot-and-students
-redirect_from:
+aliases:
  - /science/3798/blood-snot-and-students
 category: science
 

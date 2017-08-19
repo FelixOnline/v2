@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-20 12:09:16 +0000"
 id: "2041"
 old_path: /sport/2041/mens-and-womens-1sts-prepare-for-premiership-clashes
-redirect_from:
+aliases:
  - /sport/2041/mens-and-womens-1sts-prepare-for-premiership-clashes
 category: sport
 

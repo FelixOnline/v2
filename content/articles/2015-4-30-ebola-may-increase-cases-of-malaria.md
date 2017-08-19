@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-30 23:03:11 +0100"
 id: "5473"
 old_path: /news/5473/ebola-may-increase-cases-of-malaria-
-redirect_from:
+aliases:
  - /news/5473/ebola-may-increase-cases-of-malaria-
 category: news
 

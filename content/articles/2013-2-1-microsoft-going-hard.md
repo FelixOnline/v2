@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 01:07:47 +0000"
 id: "3240"
 old_path: /tech/3240/microsoft-going-hard-
-redirect_from:
+aliases:
  - /tech/3240/microsoft-going-hard-
 category: tech
 

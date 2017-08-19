@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:33:49 +0000"
 id: "5780"
 old_path: /film/5780/its-a-no-for-no
-redirect_from:
+aliases:
  - /film/5780/its-a-no-for-no
 category: film
 

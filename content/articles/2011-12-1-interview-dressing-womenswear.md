@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:12:24 +0000"
 id: "1866"
 old_path: /fashion/1866/interview-dressing-womenswear-
-redirect_from:
+aliases:
  - /fashion/1866/interview-dressing-womenswear-
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:04:51 +0100"
 id: "4571"
 old_path: /comment/4571/student-media-and-union-censorship
-redirect_from:
+aliases:
  - /comment/4571/student-media-and-union-censorship
 category: comment
 

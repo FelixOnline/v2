@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:21:34 +0000"
 id: "6773"
 old_path: /food/6773/bored-of-the-classic-waffle-me-too-
-redirect_from:
+aliases:
  - /food/6773/bored-of-the-classic-waffle-me-too-
 category: food
 

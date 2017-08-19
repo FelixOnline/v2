@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:17:42 +0000"
 id: "5801"
 old_path: /film/5801/black-mass-a-competent-drama-nothing-more
-redirect_from:
+aliases:
  - /film/5801/black-mass-a-competent-drama-nothing-more
 category: film
 

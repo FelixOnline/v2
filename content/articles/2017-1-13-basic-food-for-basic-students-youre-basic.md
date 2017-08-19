@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:58:24 +0000"
 id: "6650"
 old_path: /food/6650/basic-food-for-basic-students-youre-basic
-redirect_from:
+aliases:
  - /food/6650/basic-food-for-basic-students-youre-basic
 category: food
 

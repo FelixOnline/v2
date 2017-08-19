@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 11:32:23 +0000"
 id: "5335"
 old_path: /comment/5335/why-im-voting-ginger-for-deputy-president-welfare
-redirect_from:
+aliases:
  - /comment/5335/why-im-voting-ginger-for-deputy-president-welfare
 category: comment
 

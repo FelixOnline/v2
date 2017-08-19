@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 17:09:59 +0000"
 id: "4149"
 old_path: /comment/4149/exhibition-ode-fenton-reflects
-redirect_from:
+aliases:
  - /comment/4149/exhibition-ode-fenton-reflects
 category: comment
 

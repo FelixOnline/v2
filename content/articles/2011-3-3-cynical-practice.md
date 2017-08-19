@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:06:17 +0000"
 id: "983"
 old_path: /comment/983/cynical-practice
-redirect_from:
+aliases:
  - /comment/983/cynical-practice
 category: comment
 

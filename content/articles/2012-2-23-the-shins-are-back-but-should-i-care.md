@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:06:34 +0000"
 id: "2250"
 old_path: /music/2250/the-shins-are-back-but-should-i-care-
-redirect_from:
+aliases:
  - /music/2250/the-shins-are-back-but-should-i-care-
 category: music
 

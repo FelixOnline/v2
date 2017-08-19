@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:33:59 +0000"
 id: "3992"
 old_path: /music/3992/immersed-in-fanboy-heaven
-redirect_from:
+aliases:
  - /music/3992/immersed-in-fanboy-heaven
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:36:51 +0100"
 id: "4593"
 old_path: /news/4593/royal-society-of-chemistry-awards-five-prizes-to-imperial-professors
-redirect_from:
+aliases:
  - /news/4593/royal-society-of-chemistry-awards-five-prizes-to-imperial-professors
 category: news
 

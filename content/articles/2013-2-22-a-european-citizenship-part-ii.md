@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:53:59 +0000"
 id: "3368"
 old_path: /comment/3368/a-european-citizenship-part-ii
-redirect_from:
+aliases:
  - /comment/3368/a-european-citizenship-part-ii
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 03:27:51 +0000"
 id: "4492"
 old_path: /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
-redirect_from:
+aliases:
  - /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 11:51:26 +0000"
 id: "5422"
 old_path: /film/5422/a-wonderfully-inappropriate-comedy
-redirect_from:
+aliases:
  - /film/5422/a-wonderfully-inappropriate-comedy
 category: film
 

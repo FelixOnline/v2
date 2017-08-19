@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:50:08 +0100"
 id: "3914"
 old_path: /science/3914/scientists-go-back-to-work
-redirect_from:
+aliases:
  - /science/3914/scientists-go-back-to-work
 category: science
 

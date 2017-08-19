@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:44:43 +0000"
 id: "5436"
 old_path: /arts/5436/press-nights--the-absurdity-of-it-all
-redirect_from:
+aliases:
  - /arts/5436/press-nights--the-absurdity-of-it-all
 category: arts
 

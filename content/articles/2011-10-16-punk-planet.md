@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 15:11:24 +0100"
 id: "1551"
 old_path: /music/1551/punk-planet
-redirect_from:
+aliases:
  - /music/1551/punk-planet
 category: music
 

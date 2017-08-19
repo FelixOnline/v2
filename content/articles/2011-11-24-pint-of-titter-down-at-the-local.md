@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:35:44 +0000"
 id: "1838"
 old_path: /arts/1838/pint-of-titter-down-at-the-local
-redirect_from:
+aliases:
  - /arts/1838/pint-of-titter-down-at-the-local
 category: arts
 

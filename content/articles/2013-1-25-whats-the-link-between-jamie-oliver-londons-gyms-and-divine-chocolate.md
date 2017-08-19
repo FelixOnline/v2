@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 02:09:46 +0000"
 id: "3192"
 old_path: /news/3192/whats-the-link-between-jamie-oliver-londons-gyms-and-divine-chocolate
-redirect_from:
+aliases:
  - /news/3192/whats-the-link-between-jamie-oliver-londons-gyms-and-divine-chocolate
 category: news
 

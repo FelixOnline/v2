@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:23:33 +0000"
 id: "4448"
 old_path: /features/4448/amer-hasan-on-winning-offers-from-3-dragons-on-dragons-den-for-minicab-price-comparison-startup
-redirect_from:
+aliases:
  - /features/4448/amer-hasan-on-winning-offers-from-3-dragons-on-dragons-den-for-minicab-price-comparison-startup
 category: features
 

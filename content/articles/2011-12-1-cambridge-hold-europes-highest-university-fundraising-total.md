@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 22:29:58 +0000"
 id: "1902"
 old_path: /news/1902/cambridge-hold-europes-highest-university-fundraising-total
-redirect_from:
+aliases:
  - /news/1902/cambridge-hold-europes-highest-university-fundraising-total
 category: news
 

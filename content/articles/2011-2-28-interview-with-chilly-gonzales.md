@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:29:40 +0000"
 id: "947"
 old_path: /music/947/interview-with-chilly-gonzales
-redirect_from:
+aliases:
  - /music/947/interview-with-chilly-gonzales
 category: music
 

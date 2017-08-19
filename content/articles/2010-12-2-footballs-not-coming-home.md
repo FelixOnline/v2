@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:40:10 +0000"
 id: "476"
 old_path: /sport/476/footballs-not-coming-home
-redirect_from:
+aliases:
  - /sport/476/footballs-not-coming-home
 category: sport
 

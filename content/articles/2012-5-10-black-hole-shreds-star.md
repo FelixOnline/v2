@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:02:17 +0100"
 id: "2439"
 old_path: /science/2439/black-hole-shreds-star
-redirect_from:
+aliases:
  - /science/2439/black-hole-shreds-star
 category: science
 

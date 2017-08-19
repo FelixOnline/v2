@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 19:43:33 +0000"
 id: "2225"
 old_path: /comment/2225/women-and-imperial--everyone-deserves-to-be-happy-here
-redirect_from:
+aliases:
  - /comment/2225/women-and-imperial--everyone-deserves-to-be-happy-here
 category: comment
 

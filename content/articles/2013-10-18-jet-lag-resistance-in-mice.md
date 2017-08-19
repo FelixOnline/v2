@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:16:47 +0100"
 id: "3890"
 old_path: /science/3890/jet-lag-resistance-in-mice
-redirect_from:
+aliases:
  - /science/3890/jet-lag-resistance-in-mice
 category: science
 

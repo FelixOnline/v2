@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 21:10:02 +0100"
 id: "1433"
 old_path: /arts/1433/have-a-ball-at-the-ras-summer-exhibition
-redirect_from:
+aliases:
  - /arts/1433/have-a-ball-at-the-ras-summer-exhibition
 category: arts
 

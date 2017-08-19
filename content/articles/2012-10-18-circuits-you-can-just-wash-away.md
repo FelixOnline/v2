@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:19:06 +0100"
 id: "2700"
 old_path: /science/2700/circuits-you-can-just-wash-away
-redirect_from:
+aliases:
  - /science/2700/circuits-you-can-just-wash-away
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-02 17:24:25 +0000"
 id: "5316"
 old_path: /news/5316/candidates-for-the-big-elections-are-announced-
-redirect_from:
+aliases:
  - /news/5316/candidates-for-the-big-elections-are-announced-
 category: news
 

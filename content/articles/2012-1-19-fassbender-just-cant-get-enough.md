@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:23:15 +0000"
 id: "2012"
 old_path: /film/2012/fassbender-just-cant-get-enough
-redirect_from:
+aliases:
  - /film/2012/fassbender-just-cant-get-enough
 category: film
 

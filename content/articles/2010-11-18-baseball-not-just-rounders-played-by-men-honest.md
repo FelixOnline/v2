@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:19:11 +0000"
 id: "405"
 old_path: /sport/405/baseball-not-just-rounders-played-by-men-honest
-redirect_from:
+aliases:
  - /sport/405/baseball-not-just-rounders-played-by-men-honest
 category: sport
 

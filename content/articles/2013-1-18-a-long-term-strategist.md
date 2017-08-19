@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:06:09 +0000"
 id: "3126"
 old_path: /news/3126/a-long-term-strategist
-redirect_from:
+aliases:
  - /news/3126/a-long-term-strategist
 category: news
 

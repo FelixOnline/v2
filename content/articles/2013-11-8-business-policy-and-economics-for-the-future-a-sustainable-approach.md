@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:44:06 +0000"
 id: "4024"
 old_path: /features/4024/business-policy-and-economics-for-the-future-a-sustainable-approach
-redirect_from:
+aliases:
  - /features/4024/business-policy-and-economics-for-the-future-a-sustainable-approach
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:03:47 +0000"
 id: "2207"
 old_path: /comment/2207/keep-up-this-is-the-new-feminism
-redirect_from:
+aliases:
  - /comment/2207/keep-up-this-is-the-new-feminism
 category: comment
 

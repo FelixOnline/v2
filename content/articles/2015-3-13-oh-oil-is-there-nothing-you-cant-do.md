@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:30:42 +0000"
 id: "5395"
 old_path: /politics/5395/oh-oil-is-there-nothing-you-cant-do
-redirect_from:
+aliases:
  - /politics/5395/oh-oil-is-there-nothing-you-cant-do
 category: politics
 

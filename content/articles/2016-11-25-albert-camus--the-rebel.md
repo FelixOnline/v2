@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:21:17 +0000"
 id: "6510"
 old_path: /arts/6510/albert-camus--the-rebel
-redirect_from:
+aliases:
  - /arts/6510/albert-camus--the-rebel
 category: arts
 

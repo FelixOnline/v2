@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:20:54 +0000"
 id: "4928"
 old_path: /news/4928/how-much-does-it-cost-to-live-in-london-as-a-student
-redirect_from:
+aliases:
  - /news/4928/how-much-does-it-cost-to-live-in-london-as-a-student
 category: news
 

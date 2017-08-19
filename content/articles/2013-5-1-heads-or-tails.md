@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 14:07:42 +0100"
 id: "3512"
 old_path: /games/3512/heads-or-tails
-redirect_from:
+aliases:
  - /games/3512/heads-or-tails
 category: games
 

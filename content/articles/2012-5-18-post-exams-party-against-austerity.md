@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:27:28 +0100"
 id: "2461"
 old_path: /comment/2461/post-exams-party-against-austerity
-redirect_from:
+aliases:
  - /comment/2461/post-exams-party-against-austerity
 category: comment
 

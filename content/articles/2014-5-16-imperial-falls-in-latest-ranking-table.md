@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:38:19 +0100"
 id: "4595"
 old_path: /news/4595/imperial-falls-in-latest-ranking-table
-redirect_from:
+aliases:
  - /news/4595/imperial-falls-in-latest-ranking-table
 category: news
 

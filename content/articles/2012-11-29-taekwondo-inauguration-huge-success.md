@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:15:35 +0000"
 id: "3011"
 old_path: /sport/3011/taekwondo-inauguration-huge-success
-redirect_from:
+aliases:
  - /sport/3011/taekwondo-inauguration-huge-success
 category: sport
 

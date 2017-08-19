@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:20:53 +0000"
 id: "5899"
 old_path: /comment/5899/your-union-president-speaks-on-rag-mag-sexism
-redirect_from:
+aliases:
  - /comment/5899/your-union-president-speaks-on-rag-mag-sexism
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:37:28 +0000"
 id: "6602"
 old_path: /science/6602/play-your-cards-right
-redirect_from:
+aliases:
  - /science/6602/play-your-cards-right
 category: science
 

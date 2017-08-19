@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:53:59 +0000"
 id: "6750"
 old_path: /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
-redirect_from:
+aliases:
  - /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
 category: comment
 

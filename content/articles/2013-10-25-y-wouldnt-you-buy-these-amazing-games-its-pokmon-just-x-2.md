@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:02:29 +0100"
 id: "3946"
 old_path: /games/3946/y-wouldnt-you-buy-these-amazing-games-its-pokmon-just-x-2
-redirect_from:
+aliases:
  - /games/3946/y-wouldnt-you-buy-these-amazing-games-its-pokmon-just-x-2
 category: games
 

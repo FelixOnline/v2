@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:38:50 +0000"
 id: "539"
 old_path: /news/539/140-million-investment-boost-to-imperial-spin-out-companies-
-redirect_from:
+aliases:
  - /news/539/140-million-investment-boost-to-imperial-spin-out-companies-
 category: news
 

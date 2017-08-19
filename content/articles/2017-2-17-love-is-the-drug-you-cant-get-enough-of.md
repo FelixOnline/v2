@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:59:30 +0000"
 id: "6799"
 old_path: /features/6799/love-is-the-drug-you-cant-get-enough-of
-redirect_from:
+aliases:
  - /features/6799/love-is-the-drug-you-cant-get-enough-of
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:33:54 +0000"
 id: "1688"
 old_path: /food/1688/ready-steady-chat
-redirect_from:
+aliases:
  - /food/1688/ready-steady-chat
 category: food
 

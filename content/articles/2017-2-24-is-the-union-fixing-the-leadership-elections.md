@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:50:01 +0000"
 id: "6814"
 old_path: /comment/6814/is-the-union-fixing-the-leadership-elections
-redirect_from:
+aliases:
  - /comment/6814/is-the-union-fixing-the-leadership-elections
 category: comment
 

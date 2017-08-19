@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 23:10:31 +0000"
 id: "2297"
 old_path: /music/2297/st-vincent-woos-shepherds-bush
-redirect_from:
+aliases:
  - /music/2297/st-vincent-woos-shepherds-bush
 category: music
 

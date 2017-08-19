@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:14:54 +0000"
 id: "518"
 old_path: /travel/518/christmas-holiday-in-the-sun
-redirect_from:
+aliases:
  - /travel/518/christmas-holiday-in-the-sun
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 16:00:56 +0000"
 id: "29"
 old_path: /science/29/copenhagen--self-interest-equates-to-failure
-redirect_from:
+aliases:
  - /science/29/copenhagen--self-interest-equates-to-failure
 category: science
 

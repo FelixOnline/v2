@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:19:08 +0000"
 id: "3287"
 old_path: /news/3287/syrian-students-face-financial-hardship
-redirect_from:
+aliases:
  - /news/3287/syrian-students-face-financial-hardship
 category: news
 

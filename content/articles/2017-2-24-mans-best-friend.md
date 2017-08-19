@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:56:36 +0000"
 id: "6816"
 old_path: /science/6816/mans-best-friend
-redirect_from:
+aliases:
  - /science/6816/mans-best-friend
 category: science
 

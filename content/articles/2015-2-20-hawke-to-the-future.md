@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 17:07:54 +0000"
 id: "5294"
 old_path: /film/5294/hawke-to-the-future
-redirect_from:
+aliases:
  - /film/5294/hawke-to-the-future
 category: film
 

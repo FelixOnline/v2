@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:03:34 +0000"
 id: "4186"
 old_path: /comment/4186/ramblings-on-personal-legend
-redirect_from:
+aliases:
  - /comment/4186/ramblings-on-personal-legend
 category: comment
 

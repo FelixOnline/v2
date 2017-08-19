@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 13:45:46 +0000"
 id: "548"
 old_path: /science/548/supervolcanoes
-redirect_from:
+aliases:
  - /science/548/supervolcanoes
 category: science
 

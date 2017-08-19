@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 16:02:00 +0000"
 id: "6365"
 old_path: /science/6365/is-lucid-dreaming-a-cure-for-nightmares
-redirect_from:
+aliases:
  - /science/6365/is-lucid-dreaming-a-cure-for-nightmares
 category: science
 

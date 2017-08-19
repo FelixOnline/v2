@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 15:48:24 +0100"
 id: "6945"
 old_path: /comment/6945/the-wests-little-nuclear-problem
-redirect_from:
+aliases:
  - /comment/6945/the-wests-little-nuclear-problem
 category: comment
 

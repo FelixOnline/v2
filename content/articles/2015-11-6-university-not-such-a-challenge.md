@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:39:41 +0000"
 id: "5699"
 old_path: /news/5699/university-not-such-a-challenge
-redirect_from:
+aliases:
  - /news/5699/university-not-such-a-challenge
 category: news
 

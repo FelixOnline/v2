@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 02:00:14 +0100"
 id: "4560"
 old_path: /games/4560/updated-faster-than-light
-redirect_from:
+aliases:
  - /games/4560/updated-faster-than-light
 category: games
 

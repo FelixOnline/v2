@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:15:19 +0000"
 id: "5008"
 old_path: /arts/5008/her-naked-skin--the-legacy-of-women-writers
-redirect_from:
+aliases:
  - /arts/5008/her-naked-skin--the-legacy-of-women-writers
 category: arts
 

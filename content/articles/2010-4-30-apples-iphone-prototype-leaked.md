@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-30 11:23:29 +0100"
 id: "132"
 old_path: /tech/132/apples-iphone-prototype-leaked
-redirect_from:
+aliases:
  - /tech/132/apples-iphone-prototype-leaked
 category: tech
 

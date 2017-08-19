@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:28:29 +0000"
 id: "5932"
 old_path: /science/5932/a-fresh-look-through-bacteria
-redirect_from:
+aliases:
  - /science/5932/a-fresh-look-through-bacteria
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:20:34 +0000"
 id: "2970"
 old_path: /music/2970/rolo-tomassi-give-xoyo-a-fright
-redirect_from:
+aliases:
  - /music/2970/rolo-tomassi-give-xoyo-a-fright
 category: music
 

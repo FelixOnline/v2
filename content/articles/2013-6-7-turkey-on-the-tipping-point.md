@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-07 13:58:14 +0100"
 id: "3673"
 old_path: /politics/3673/turkey-on-the-tipping-point
-redirect_from:
+aliases:
  - /politics/3673/turkey-on-the-tipping-point
 category: politics
 

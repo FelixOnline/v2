@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:36:09 +0000"
 id: "6025"
 old_path: /science/6025/who-really-killed-the-ichthyosaur
-redirect_from:
+aliases:
  - /science/6025/who-really-killed-the-ichthyosaur
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 12:47:43 +0000"
 id: "6381"
 old_path: /science/6381/saving-the-world-one-tile-at-a-time
-redirect_from:
+aliases:
  - /science/6381/saving-the-world-one-tile-at-a-time
 category: science
 

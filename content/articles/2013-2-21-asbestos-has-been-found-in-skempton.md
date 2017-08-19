@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 23:47:52 +0000"
 id: "3349"
 old_path: /news/3349/asbestos-has-been-found-in-skempton
-redirect_from:
+aliases:
  - /news/3349/asbestos-has-been-found-in-skempton
 category: news
 

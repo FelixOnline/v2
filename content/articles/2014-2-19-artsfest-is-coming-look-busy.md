@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-19 17:25:16 +0000"
 id: "4403"
 old_path: /arts/4403/artsfest-is-coming-look-busy
-redirect_from:
+aliases:
  - /arts/4403/artsfest-is-coming-look-busy
 category: arts
 

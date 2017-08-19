@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:36:13 +0000"
 id: "1012"
 old_path: /science/1012/frank-herberts-dune
-redirect_from:
+aliases:
  - /science/1012/frank-herberts-dune
 category: science
 

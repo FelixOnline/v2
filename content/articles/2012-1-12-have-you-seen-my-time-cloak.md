@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:12:39 +0000"
 id: "1981"
 old_path: /science/1981/have-you-seen-my-time-cloak
-redirect_from:
+aliases:
  - /science/1981/have-you-seen-my-time-cloak
 category: science
 

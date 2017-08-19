@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:55:18 +0000"
 id: "4011"
 old_path: /sport/4011/iceland-2013-imperial-fellwanderig-tour-diary
-redirect_from:
+aliases:
  - /sport/4011/iceland-2013-imperial-fellwanderig-tour-diary
 category: sport
 

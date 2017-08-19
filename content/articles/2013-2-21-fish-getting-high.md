@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 20:47:12 +0000"
 id: "3342"
 old_path: /science/3342/fish-getting-high
-redirect_from:
+aliases:
  - /science/3342/fish-getting-high
 category: science
 

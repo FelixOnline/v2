@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:24:54 +0100"
 id: "6964"
 old_path: /film/6964/modern-classics-of-cinema--super-8
-redirect_from:
+aliases:
  - /film/6964/modern-classics-of-cinema--super-8
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:04:20 +0100"
 id: "1532"
 old_path: /food/1532/margaritas--home-its-cocktail-time
-redirect_from:
+aliases:
  - /food/1532/margaritas--home-its-cocktail-time
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 09:26:07 +0100"
 id: "6338"
 old_path: /news/6338/union-screws-up-autumn-elections
-redirect_from:
+aliases:
  - /news/6338/union-screws-up-autumn-elections
 category: news
 

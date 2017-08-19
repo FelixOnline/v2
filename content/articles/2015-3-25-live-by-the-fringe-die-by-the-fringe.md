@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:32:15 +0000"
 id: "5430"
 old_path: /music/5430/live-by-the-fringe-die-by-the-fringe
-redirect_from:
+aliases:
  - /music/5430/live-by-the-fringe-die-by-the-fringe
 category: music
 

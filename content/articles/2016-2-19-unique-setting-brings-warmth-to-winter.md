@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:17:30 +0000"
 id: "5941"
 old_path: /arts/5941/unique-setting-brings-warmth-to-winter
-redirect_from:
+aliases:
  - /arts/5941/unique-setting-brings-warmth-to-winter
 category: arts
 

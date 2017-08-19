@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:30:26 +0100"
 id: "5482"
 old_path: /politics/5482/the-big-debate-between-the-biggest-names-in-politics
-redirect_from:
+aliases:
  - /politics/5482/the-big-debate-between-the-biggest-names-in-politics
 category: politics
 

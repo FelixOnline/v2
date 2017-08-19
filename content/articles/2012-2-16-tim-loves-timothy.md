@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 20:59:48 +0000"
 id: "2180"
 old_path: /film/2180/tim-loves-timothy
-redirect_from:
+aliases:
  - /film/2180/tim-loves-timothy
 category: film
 

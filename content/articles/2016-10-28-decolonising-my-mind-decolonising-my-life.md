@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:02:59 +0100"
 id: "6351"
 old_path: /comment/6351/decolonising-my-mind-decolonising-my-life
-redirect_from:
+aliases:
  - /comment/6351/decolonising-my-mind-decolonising-my-life
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 16:41:48 +0100"
 id: "3705"
 old_path: /news/3705/letting-old-cats-out-of-their-bags-pallab-ghosh
-redirect_from:
+aliases:
  - /news/3705/letting-old-cats-out-of-their-bags-pallab-ghosh
 category: news
 

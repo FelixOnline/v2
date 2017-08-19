@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-03 16:08:41 +0100"
 id: "2520"
 old_path: /food/2520/discover-a-new-taste-at-pan-asian-umami
-redirect_from:
+aliases:
  - /food/2520/discover-a-new-taste-at-pan-asian-umami
 category: food
 

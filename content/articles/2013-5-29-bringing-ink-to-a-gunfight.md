@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 16:12:45 +0100"
 id: "3634"
 old_path: /games/3634/bringing-ink-to-a-gunfight
-redirect_from:
+aliases:
  - /games/3634/bringing-ink-to-a-gunfight
 category: games
 

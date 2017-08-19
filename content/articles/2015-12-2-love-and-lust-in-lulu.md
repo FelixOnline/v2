@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-02 17:08:09 +0000"
 id: "5789"
 old_path: /arts/5789/love-and-lust-in-lulu
-redirect_from:
+aliases:
  - /arts/5789/love-and-lust-in-lulu
 category: arts
 

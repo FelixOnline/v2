@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:39:56 +0000"
 id: "2850"
 old_path: /travel/2850/wallowing-in-the-wadden
-redirect_from:
+aliases:
  - /travel/2850/wallowing-in-the-wadden
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:42:08 +0100"
 id: "2416"
 old_path: /books/2416/alastair-reynolds-pushing-ice
-redirect_from:
+aliases:
  - /books/2416/alastair-reynolds-pushing-ice
 category: books
 

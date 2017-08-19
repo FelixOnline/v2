@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:35:03 +0000"
 id: "5758"
 old_path: /music/5758/felixs-mercury-prize-picks
-redirect_from:
+aliases:
  - /music/5758/felixs-mercury-prize-picks
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:07:54 +0100"
 id: "2734"
 old_path: /news/2734/the-london-climate-forum-2012-
-redirect_from:
+aliases:
  - /news/2734/the-london-climate-forum-2012-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:33:45 +0000"
 id: "491"
 old_path: /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
-redirect_from:
+aliases:
  - /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
 category: comment
 

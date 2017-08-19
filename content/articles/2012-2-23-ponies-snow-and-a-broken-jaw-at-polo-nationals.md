@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:36:22 +0000"
 id: "2257"
 old_path: /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
-redirect_from:
+aliases:
  - /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:03:04 +0000"
 id: "2050"
 old_path: /tv/2050/dulce-et-decorum-est-pro-patria-mori
-redirect_from:
+aliases:
  - /tv/2050/dulce-et-decorum-est-pro-patria-mori
 category: tv
 

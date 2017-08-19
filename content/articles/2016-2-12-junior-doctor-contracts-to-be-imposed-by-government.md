@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:09:46 +0000"
 id: "5894"
 old_path: /news/5894/junior-doctor-contracts-to-be-imposed-by-government
-redirect_from:
+aliases:
  - /news/5894/junior-doctor-contracts-to-be-imposed-by-government
 category: news
 

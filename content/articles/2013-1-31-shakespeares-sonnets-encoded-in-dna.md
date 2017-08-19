@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:35:46 +0000"
 id: "3211"
 old_path: /science/3211/shakespeares-sonnets-encoded-in-dna-
-redirect_from:
+aliases:
  - /science/3211/shakespeares-sonnets-encoded-in-dna-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:44:26 +0100"
 id: "4661"
 old_path: /comment/4661/higher-education-fees-debate---free-education
-redirect_from:
+aliases:
  - /comment/4661/higher-education-fees-debate---free-education
 category: comment
 

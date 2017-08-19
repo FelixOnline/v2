@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 22:17:59 +0000"
 id: "1901"
 old_path: /news/1901/new-academic-health-science-partnership
-redirect_from:
+aliases:
  - /news/1901/new-academic-health-science-partnership
 category: news
 

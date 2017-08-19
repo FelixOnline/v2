@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:52:09 +0100"
 id: "1163"
 old_path: /arts/1163/review-the-echo-chamber-by-luke-williams
-redirect_from:
+aliases:
  - /arts/1163/review-the-echo-chamber-by-luke-williams
 category: arts
 

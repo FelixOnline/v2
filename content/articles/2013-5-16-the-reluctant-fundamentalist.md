@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:41:52 +0100"
 id: "3584"
 old_path: /film/3584/the-reluctant-fundamentalist
-redirect_from:
+aliases:
  - /film/3584/the-reluctant-fundamentalist
 category: film
 

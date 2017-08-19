@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:45:17 +0000"
 id: "6605"
 old_path: /features/6605/your-favourite-films-of-2016
-redirect_from:
+aliases:
  - /features/6605/your-favourite-films-of-2016
 category: features
 

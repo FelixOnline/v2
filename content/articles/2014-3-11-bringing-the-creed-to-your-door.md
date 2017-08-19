@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-11 18:18:00 +0000"
 id: "4482"
 old_path: /games/4482/bringing-the-creed-to-your-door
-redirect_from:
+aliases:
  - /games/4482/bringing-the-creed-to-your-door
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:10:44 +0000"
 id: "1726"
 old_path: /music/1726/a-tramp-and-a-boat
-redirect_from:
+aliases:
  - /music/1726/a-tramp-and-a-boat
 category: music
 

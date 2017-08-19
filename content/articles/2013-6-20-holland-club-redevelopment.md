@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:47:36 +0100"
 id: "3727"
 old_path: /news/3727/holland-club-redevelopment
-redirect_from:
+aliases:
  - /news/3727/holland-club-redevelopment
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:36:36 +0000"
 id: "609"
 old_path: /sport/609/netball-ic-beat-the-medics-in-first-match-of-term
-redirect_from:
+aliases:
  - /sport/609/netball-ic-beat-the-medics-in-first-match-of-term
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:45:52 +0100"
 id: "2417"
 old_path: /games/2417/a-very-odd-world-indeed
-redirect_from:
+aliases:
  - /games/2417/a-very-odd-world-indeed
 category: games
 

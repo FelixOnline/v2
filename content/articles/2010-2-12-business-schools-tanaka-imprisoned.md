@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 01:45:34 +0000"
 id: "83"
 old_path: /news/83/business-schools-tanaka-imprisoned
-redirect_from:
+aliases:
  - /news/83/business-schools-tanaka-imprisoned
 category: news
 

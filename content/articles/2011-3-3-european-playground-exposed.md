@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 19:58:05 +0000"
 id: "1000"
 old_path: /travel/1000/european-playground-exposed
-redirect_from:
+aliases:
  - /travel/1000/european-playground-exposed
 category: travel
 

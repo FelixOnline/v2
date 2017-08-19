@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:55:16 +0000"
 id: "6013"
 old_path: /sport/6013/boat-club-head-off-on-a-tour-de-france
-redirect_from:
+aliases:
  - /sport/6013/boat-club-head-off-on-a-tour-de-france
 category: sport
 

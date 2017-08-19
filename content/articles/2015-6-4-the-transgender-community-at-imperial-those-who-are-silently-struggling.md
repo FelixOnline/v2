@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:37:12 +0100"
 id: "5602"
 old_path: /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
-redirect_from:
+aliases:
  - /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
 category: features
 

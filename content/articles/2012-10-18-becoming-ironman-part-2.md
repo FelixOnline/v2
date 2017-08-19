@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:03:29 +0100"
 id: "2688"
 old_path: /sport/2688/becoming-ironman-part-2
-redirect_from:
+aliases:
  - /sport/2688/becoming-ironman-part-2
 category: sport
 

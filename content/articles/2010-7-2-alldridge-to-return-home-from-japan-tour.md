@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-07-02 01:01:50 +0100"
 id: "149"
 old_path: /sport/149/alldridge-to-return-home-from-japan-tour
-redirect_from:
+aliases:
  - /sport/149/alldridge-to-return-home-from-japan-tour
 category: sport
 

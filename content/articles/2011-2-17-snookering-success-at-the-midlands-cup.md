@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:42:43 +0000"
 id: "849"
 old_path: /sport/849/snookering-success-at-the-midlands-cup
-redirect_from:
+aliases:
  - /sport/849/snookering-success-at-the-midlands-cup
 category: sport
 

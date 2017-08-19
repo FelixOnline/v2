@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-05 17:27:39 +0000"
 id: "78"
 old_path: /sport/78/sports-of-yesteryear-morphy-day
-redirect_from:
+aliases:
  - /sport/78/sports-of-yesteryear-morphy-day
 category: sport
 

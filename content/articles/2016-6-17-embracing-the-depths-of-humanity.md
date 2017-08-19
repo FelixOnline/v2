@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:37:09 +0100"
 id: "6288"
 old_path: /film/6288/embracing-the-depths-of-humanity
-redirect_from:
+aliases:
  - /film/6288/embracing-the-depths-of-humanity
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:59:18 +0100"
 id: "1577"
 old_path: /comment/1577/could-the-american-university-system-work-here
-redirect_from:
+aliases:
  - /comment/1577/could-the-american-university-system-work-here
 category: comment
 

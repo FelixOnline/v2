@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-15 09:45:07 +0000"
 id: "6049"
 old_path: /features/6049/i-had-sex-in-the-tunnels-under-imperial
-redirect_from:
+aliases:
  - /features/6049/i-had-sex-in-the-tunnels-under-imperial
 category: features
 

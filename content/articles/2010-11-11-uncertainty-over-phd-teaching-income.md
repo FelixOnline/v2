@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 22:09:09 +0000"
 id: "374"
 old_path: /news/374/uncertainty-over-phd-teaching-income
-redirect_from:
+aliases:
  - /news/374/uncertainty-over-phd-teaching-income
 category: news
 

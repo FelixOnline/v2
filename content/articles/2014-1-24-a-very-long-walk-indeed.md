@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:15:30 +0000"
 id: "4301"
 old_path: /film/4301/a-very-long-walk-indeed
-redirect_from:
+aliases:
  - /film/4301/a-very-long-walk-indeed
 category: film
 

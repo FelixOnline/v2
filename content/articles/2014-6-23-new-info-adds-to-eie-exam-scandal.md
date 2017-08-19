@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 10:58:06 +0100"
 id: "4701"
 old_path: /news/4701/new-info-adds-to-eie-exam-scandal
-redirect_from:
+aliases:
  - /news/4701/new-info-adds-to-eie-exam-scandal
 category: news
 

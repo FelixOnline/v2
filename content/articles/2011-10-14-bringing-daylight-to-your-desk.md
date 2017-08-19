@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 11:52:12 +0100"
 id: "1544"
 old_path: /tech/1544/bringing-daylight-to-your-desk
-redirect_from:
+aliases:
  - /tech/1544/bringing-daylight-to-your-desk
 category: tech
 

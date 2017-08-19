@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:36:13 +0100"
 id: "5601"
 old_path: /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
-redirect_from:
+aliases:
  - /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
 category: features
 

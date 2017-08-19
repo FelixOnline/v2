@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:41:15 +0000"
 id: "3053"
 old_path: /tv/3053/models-bring-sexy-back
-redirect_from:
+aliases:
  - /tv/3053/models-bring-sexy-back
 category: tv
 

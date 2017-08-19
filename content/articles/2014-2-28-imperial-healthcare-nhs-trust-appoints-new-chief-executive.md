@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:11:35 +0000"
 id: "4441"
 old_path: /news/4441/imperial-healthcare-nhs-trust-appoints-new-chief-executive-
-redirect_from:
+aliases:
  - /news/4441/imperial-healthcare-nhs-trust-appoints-new-chief-executive-
 category: news
 

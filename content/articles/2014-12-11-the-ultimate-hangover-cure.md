@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:12:45 +0000"
 id: "5026"
 old_path: /science/5026/the-ultimate-hangover-cure
-redirect_from:
+aliases:
  - /science/5026/the-ultimate-hangover-cure
 category: science
 

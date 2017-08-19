@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:32:32 +0000"
 id: "3477"
 old_path: /books/3477/controversial-new-imprints-launched
-redirect_from:
+aliases:
  - /books/3477/controversial-new-imprints-launched
 category: books
 

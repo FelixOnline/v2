@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:06:46 +0000"
 id: "6507"
 old_path: /music/6507/garsides-window-smashing-soundtrack-
-redirect_from:
+aliases:
  - /music/6507/garsides-window-smashing-soundtrack-
 category: music
 

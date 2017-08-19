@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:35:19 +0000"
 id: "1857"
 old_path: /science/1857/dreaming-of-another-world
-redirect_from:
+aliases:
  - /science/1857/dreaming-of-another-world
 category: science
 

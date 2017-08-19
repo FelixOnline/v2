@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:24:18 +0000"
 id: "533"
 old_path: /arts/533/the-ballet
-redirect_from:
+aliases:
  - /arts/533/the-ballet
 category: arts
 

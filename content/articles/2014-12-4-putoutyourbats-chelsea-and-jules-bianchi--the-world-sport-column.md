@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:54:13 +0000"
 id: "5014"
 old_path: /sport/5014/putoutyourbats-chelsea-and-jules-bianchi--the-world-sport-column
-redirect_from:
+aliases:
  - /sport/5014/putoutyourbats-chelsea-and-jules-bianchi--the-world-sport-column
 category: sport
 

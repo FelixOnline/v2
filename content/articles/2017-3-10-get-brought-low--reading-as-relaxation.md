@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:43:01 +0000"
 id: "6874"
 old_path: /features/6874/get-brought-low--reading-as-relaxation
-redirect_from:
+aliases:
  - /features/6874/get-brought-low--reading-as-relaxation
 category: features
 

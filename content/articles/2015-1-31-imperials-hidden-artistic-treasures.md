@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 18:34:00 +0000"
 id: "5164"
 old_path: /arts/5164/imperials-hidden-artistic-treasures
-redirect_from:
+aliases:
  - /arts/5164/imperials-hidden-artistic-treasures
 category: arts
 

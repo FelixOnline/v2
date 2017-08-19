@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 09:18:38 +0100"
 id: "6337"
 old_path: /news/6337/alice-gasts-autumn-letter
-redirect_from:
+aliases:
  - /news/6337/alice-gasts-autumn-letter
 category: news
 

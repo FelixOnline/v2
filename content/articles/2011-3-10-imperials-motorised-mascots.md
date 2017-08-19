@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:58:25 +0000"
 id: "1059"
 old_path: /news/1059/imperials-motorised-mascots
-redirect_from:
+aliases:
  - /news/1059/imperials-motorised-mascots
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:15:48 +0000"
 id: "2965"
 old_path: /arts/2965/a-farce-in-the-wind
-redirect_from:
+aliases:
  - /arts/2965/a-farce-in-the-wind
 category: arts
 

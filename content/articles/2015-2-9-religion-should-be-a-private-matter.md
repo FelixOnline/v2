@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:52:19 +0000"
 id: "5230"
 old_path: /comment/5230/religion-should-be-a-private-matter
-redirect_from:
+aliases:
  - /comment/5230/religion-should-be-a-private-matter
 category: comment
 

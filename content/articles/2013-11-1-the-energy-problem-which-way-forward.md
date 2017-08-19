@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:25:17 +0000"
 id: "3968"
 old_path: /features/3968/the-energy-problem-which-way-forward
-redirect_from:
+aliases:
  - /features/3968/the-energy-problem-which-way-forward
 category: features
 

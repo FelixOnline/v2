@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:28:45 +0000"
 id: "627"
 old_path: /biz/627/bank-bonuses-again-rile-politicians-
-redirect_from:
+aliases:
  - /biz/627/bank-bonuses-again-rile-politicians-
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:38:17 +0000"
 id: "1074"
 old_path: /games/1074/a-summer-software-success-story
-redirect_from:
+aliases:
  - /games/1074/a-summer-software-success-story
 category: games
 

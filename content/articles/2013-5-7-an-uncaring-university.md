@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-07 19:17:13 +0100"
 id: "3540"
 old_path: /comment/3540/an-uncaring-university
-redirect_from:
+aliases:
  - /comment/3540/an-uncaring-university
 category: comment
 

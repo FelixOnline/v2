@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:49:04 +0000"
 id: "4809"
 old_path: /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
-redirect_from:
+aliases:
  - /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
 category: arts
 

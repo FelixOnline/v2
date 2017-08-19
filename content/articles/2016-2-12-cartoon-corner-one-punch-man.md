@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:57:00 +0000"
 id: "5915"
 old_path: /tv/5915/cartoon-corner-one-punch-man
-redirect_from:
+aliases:
  - /tv/5915/cartoon-corner-one-punch-man
 category: tv
 

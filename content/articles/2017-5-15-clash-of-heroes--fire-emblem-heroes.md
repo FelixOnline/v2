@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:30:31 +0100"
 id: "6956"
 old_path: /games/6956/clash-of-heroes--fire-emblem-heroes
-redirect_from:
+aliases:
  - /games/6956/clash-of-heroes--fire-emblem-heroes
 category: games
 

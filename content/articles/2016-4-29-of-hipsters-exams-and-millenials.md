@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 11:05:00 +0100"
 id: "6111"
 old_path: /comment/6111/of-hipsters-exams-and-millenials
-redirect_from:
+aliases:
  - /comment/6111/of-hipsters-exams-and-millenials
 category: comment
 

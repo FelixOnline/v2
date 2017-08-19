@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 12:18:20 +0000"
 id: "4497"
 old_path: /comment/4497/tell-me-its-o-kaye
-redirect_from:
+aliases:
  - /comment/4497/tell-me-its-o-kaye
 category: comment
 

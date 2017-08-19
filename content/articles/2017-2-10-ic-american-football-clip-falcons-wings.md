@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:41:35 +0000"
 id: "6774"
 old_path: /sport/6774/ic-american-football-clip-falcons-wings
-redirect_from:
+aliases:
  - /sport/6774/ic-american-football-clip-falcons-wings
 category: sport
 

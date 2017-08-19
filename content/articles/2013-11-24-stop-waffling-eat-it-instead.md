@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:39:59 +0000"
 id: "4131"
 old_path: /food/4131/stop-waffling-eat-it-instead
-redirect_from:
+aliases:
  - /food/4131/stop-waffling-eat-it-instead
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:07:29 +0000"
 id: "3060"
 old_path: /sport/3060/savvy-stickwork-spells-victory-for-lacrosse
-redirect_from:
+aliases:
  - /sport/3060/savvy-stickwork-spells-victory-for-lacrosse
 category: sport
 

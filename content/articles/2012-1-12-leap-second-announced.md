@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:27:06 +0000"
 id: "1984"
 old_path: /science/1984/leap-second-announced
-redirect_from:
+aliases:
  - /science/1984/leap-second-announced
 category: science
 

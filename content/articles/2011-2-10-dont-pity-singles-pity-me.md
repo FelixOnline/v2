@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:15:00 +0000"
 id: "797"
 old_path: /comment/797/dont-pity-singles-pity-me
-redirect_from:
+aliases:
  - /comment/797/dont-pity-singles-pity-me
 category: comment
 

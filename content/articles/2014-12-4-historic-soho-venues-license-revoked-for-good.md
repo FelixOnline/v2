@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:21:24 +0000"
 id: "4996"
 old_path: /music/4996/historic-soho-venues-license-revoked-for-good
-redirect_from:
+aliases:
  - /music/4996/historic-soho-venues-license-revoked-for-good
 category: music
 

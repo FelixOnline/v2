@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:16:32 +0100"
 id: "2668"
 old_path: /comment/2668/are-extradition-treaties-justified
-redirect_from:
+aliases:
  - /comment/2668/are-extradition-treaties-justified
 category: comment
 

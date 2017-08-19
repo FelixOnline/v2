@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 11:36:31 +0100"
 id: "1641"
 old_path: /music/1641/punk-planet-chevreuil
-redirect_from:
+aliases:
  - /music/1641/punk-planet-chevreuil
 category: music
 

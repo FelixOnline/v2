@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:36:45 +0000"
 id: "6513"
 old_path: /food/6513/four-hours-of-tapas-style-dining-later
-redirect_from:
+aliases:
  - /food/6513/four-hours-of-tapas-style-dining-later
 category: food
 

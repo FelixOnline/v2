@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:33:11 +0000"
 id: "3489"
 old_path: /news/3489/engineering-a-better-world
-redirect_from:
+aliases:
  - /news/3489/engineering-a-better-world
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 23:39:27 +0000"
 id: "5044"
 old_path: /sport/5044/what-sport-should-you-look-out-for-this-christmas
-redirect_from:
+aliases:
  - /sport/5044/what-sport-should-you-look-out-for-this-christmas
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:25:58 +0100"
 id: "2412"
 old_path: /film/2412/in-brief-what-we-watched-over-easter
-redirect_from:
+aliases:
  - /film/2412/in-brief-what-we-watched-over-easter
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:53:12 +0000"
 id: "854"
 old_path: /science/854/the-state-of-academic-blogging-at-imperial-
-redirect_from:
+aliases:
  - /science/854/the-state-of-academic-blogging-at-imperial-
 category: science
 

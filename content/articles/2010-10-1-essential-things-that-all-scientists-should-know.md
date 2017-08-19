@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 21:38:15 +0100"
 id: "161"
 old_path: /science/161/essential-things-that-all-scientists-should-know
-redirect_from:
+aliases:
  - /science/161/essential-things-that-all-scientists-should-know
 category: science
 

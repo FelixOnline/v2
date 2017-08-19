@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:37:50 +0000"
 id: "2389"
 old_path: /comment/2389/can-a-scientist-believe-in-miracles
-redirect_from:
+aliases:
  - /comment/2389/can-a-scientist-believe-in-miracles
 category: comment
 

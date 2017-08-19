@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:20:59 +0000"
 id: "5954"
 old_path: /news/5954/junior-doctors-strike-again
-redirect_from:
+aliases:
  - /news/5954/junior-doctors-strike-again
 category: news
 

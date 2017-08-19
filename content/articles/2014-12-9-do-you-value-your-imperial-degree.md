@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-09 14:51:41 +0000"
 id: "5021"
 old_path: /news/5021/do-you-value-your-imperial-degree
-redirect_from:
+aliases:
  - /news/5021/do-you-value-your-imperial-degree
 category: news
 

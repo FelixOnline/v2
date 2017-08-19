@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:30:39 +0000"
 id: "4803"
 old_path: /arts/4803/fashionable-women-but-no-powerful-punch
-redirect_from:
+aliases:
  - /arts/4803/fashionable-women-but-no-powerful-punch
 category: arts
 

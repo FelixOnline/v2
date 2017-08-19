@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:52:32 +0100"
 id: "1576"
 old_path: /biz/1576/founder-stories-storify-and-minutebox
-redirect_from:
+aliases:
  - /biz/1576/founder-stories-storify-and-minutebox
 category: business
 

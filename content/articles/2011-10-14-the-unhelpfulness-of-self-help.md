@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:22:21 +0100"
 id: "1535"
 old_path: /comment/1535/the-unhelpfulness-of-self-help
-redirect_from:
+aliases:
  - /comment/1535/the-unhelpfulness-of-self-help
 category: comment
 

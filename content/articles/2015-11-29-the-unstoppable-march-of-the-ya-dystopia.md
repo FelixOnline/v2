@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 17:13:24 +0000"
 id: "5787"
 old_path: /film/5787/the-unstoppable-march-of-the-ya-dystopia
-redirect_from:
+aliases:
  - /film/5787/the-unstoppable-march-of-the-ya-dystopia
 category: film
 

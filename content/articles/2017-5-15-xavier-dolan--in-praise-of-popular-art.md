@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:21:25 +0100"
 id: "6961"
 old_path: /film/6961/xavier-dolan--in-praise-of-popular-art
-redirect_from:
+aliases:
  - /film/6961/xavier-dolan--in-praise-of-popular-art
 category: film
 

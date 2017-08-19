@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:16:02 +0100"
 id: "2468"
 old_path: /science/2468/a-recipe-for-disaster
-redirect_from:
+aliases:
  - /science/2468/a-recipe-for-disaster
 category: science
 

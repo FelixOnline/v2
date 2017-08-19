@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:03:09 +0000"
 id: "2999"
 old_path: /film/2999/clint-keeps-an-eye-on-his-swinging-balls
-redirect_from:
+aliases:
  - /film/2999/clint-keeps-an-eye-on-his-swinging-balls
 category: film
 

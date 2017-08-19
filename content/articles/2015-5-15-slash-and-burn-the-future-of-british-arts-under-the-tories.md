@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:59:53 +0100"
 id: "5542"
 old_path: /arts/5542/slash-and-burn-the-future-of-british-arts-under-the-tories
-redirect_from:
+aliases:
  - /arts/5542/slash-and-burn-the-future-of-british-arts-under-the-tories
 category: arts
 

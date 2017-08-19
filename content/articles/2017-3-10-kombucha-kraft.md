@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:07:21 +0000"
 id: "6881"
 old_path: /food/6881/kombucha-kraft
-redirect_from:
+aliases:
  - /food/6881/kombucha-kraft
 category: food
 

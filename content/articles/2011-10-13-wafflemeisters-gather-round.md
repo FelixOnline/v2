@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:59:28 +0100"
 id: "1530"
 old_path: /food/1530/wafflemeisters-gather-round-
-redirect_from:
+aliases:
  - /food/1530/wafflemeisters-gather-round-
 category: food
 

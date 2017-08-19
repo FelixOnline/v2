@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 11:20:29 +0000"
 id: "2131"
 old_path: /music/2131/no-exit-from-reality
-redirect_from:
+aliases:
  - /music/2131/no-exit-from-reality
 category: music
 

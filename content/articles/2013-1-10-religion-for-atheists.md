@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:54:52 +0000"
 id: "3098"
 old_path: /comment/3098/religion-for-atheists
-redirect_from:
+aliases:
  - /comment/3098/religion-for-atheists
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:31:22 +0000"
 id: "2988"
 old_path: /arts/2988/dancing-through-a-revue
-redirect_from:
+aliases:
  - /arts/2988/dancing-through-a-revue
 category: arts
 

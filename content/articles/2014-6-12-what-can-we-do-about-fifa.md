@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 14:27:40 +0100"
 id: "4682"
 old_path: /comment/4682/what-can-we-do-about-fifa
-redirect_from:
+aliases:
  - /comment/4682/what-can-we-do-about-fifa
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:43:46 +0100"
 id: "194"
 old_path: /fashion/194/mario-testino-vs-kate-moss
-redirect_from:
+aliases:
  - /fashion/194/mario-testino-vs-kate-moss
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:17:21 +0000"
 id: "5845"
 old_path: /film/5845/the-most-romantic-film-themes-of-all-time
-redirect_from:
+aliases:
  - /film/5845/the-most-romantic-film-themes-of-all-time
 category: film
 

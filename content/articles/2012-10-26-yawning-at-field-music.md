@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:15:20 +0100"
 id: "2771"
 old_path: /music/2771/yawning-at-field-music
-redirect_from:
+aliases:
  - /music/2771/yawning-at-field-music
 category: music
 

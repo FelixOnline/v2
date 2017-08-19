@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:58:02 +0000"
 id: "3100"
 old_path: /comment/3100/i-was-going-to-write-a-column-on-apathy
-redirect_from:
+aliases:
  - /comment/3100/i-was-going-to-write-a-column-on-apathy
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-28 10:28:32 +0100"
 id: "140"
 old_path: /tech/140/the-open-source-problem
-redirect_from:
+aliases:
  - /tech/140/the-open-source-problem
 category: tech
 

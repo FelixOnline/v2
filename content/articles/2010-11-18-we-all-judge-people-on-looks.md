@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 22:15:52 +0000"
 id: "421"
 old_path: /comment/421/we-all-judge-people-on-looks
-redirect_from:
+aliases:
  - /comment/421/we-all-judge-people-on-looks
 category: comment
 

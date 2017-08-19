@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:43:31 +0000"
 id: "1692"
 old_path: /comment/1692/float-like-a-social-butterfly
-redirect_from:
+aliases:
  - /comment/1692/float-like-a-social-butterfly
 category: comment
 

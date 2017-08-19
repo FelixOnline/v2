@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 14:42:59 +0100"
 id: "3646"
 old_path: /news/3646/imperial-alumnus-killed-in-syria
-redirect_from:
+aliases:
  - /news/3646/imperial-alumnus-killed-in-syria
 category: news
 

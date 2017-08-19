@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:40:06 +0000"
 id: "1763"
 old_path: /games/1763/cringe-inducing-football-pun-goes-here
-redirect_from:
+aliases:
  - /games/1763/cringe-inducing-football-pun-goes-here
 category: games
 

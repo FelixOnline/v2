@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:57:49 +0000"
 id: "4038"
 old_path: /music/4038/embarrassments-or-riches
-redirect_from:
+aliases:
  - /music/4038/embarrassments-or-riches
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:49:05 +0100"
 id: "3586"
 old_path: /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
-redirect_from:
+aliases:
  - /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
 category: comment
 

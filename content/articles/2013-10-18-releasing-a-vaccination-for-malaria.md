@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:15:10 +0100"
 id: "3889"
 old_path: /science/3889/releasing-a-vaccination-for-malaria
-redirect_from:
+aliases:
  - /science/3889/releasing-a-vaccination-for-malaria
 category: science
 

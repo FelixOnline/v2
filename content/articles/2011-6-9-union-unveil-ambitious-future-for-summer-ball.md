@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:26:51 +0100"
 id: "1350"
 old_path: /news/1350/union-unveil-ambitious-future-for-summer-ball
-redirect_from:
+aliases:
  - /news/1350/union-unveil-ambitious-future-for-summer-ball
 category: news
 

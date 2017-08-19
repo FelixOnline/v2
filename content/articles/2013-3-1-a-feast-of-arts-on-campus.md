@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:16:31 +0000"
 id: "3402"
 old_path: /news/3402/a-feast-of-arts-on-campus
-redirect_from:
+aliases:
  - /news/3402/a-feast-of-arts-on-campus
 category: news
 

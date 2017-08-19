@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 19:00:55 +0100"
 id: "1335"
 old_path: /phoenix/1335/gypsies
-redirect_from:
+aliases:
  - /phoenix/1335/gypsies
 category: phoenix
 

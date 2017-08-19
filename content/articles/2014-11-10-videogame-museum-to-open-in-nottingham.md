@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:13:48 +0000"
 id: "4815"
 old_path: /arts/4815/videogame-museum-to-open-in-nottingham
-redirect_from:
+aliases:
  - /arts/4815/videogame-museum-to-open-in-nottingham
 category: arts
 

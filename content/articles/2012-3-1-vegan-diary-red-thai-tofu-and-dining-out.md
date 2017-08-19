@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:02:28 +0000"
 id: "2283"
 old_path: /food/2283/vegan-diary-red-thai-tofu-and-dining-out
-redirect_from:
+aliases:
  - /food/2283/vegan-diary-red-thai-tofu-and-dining-out
 category: food
 

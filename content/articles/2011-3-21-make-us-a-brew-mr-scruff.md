@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 12:13:34 +0000"
 id: "1124"
 old_path: /music/1124/make-us-a-brew-mr-scruff
-redirect_from:
+aliases:
  - /music/1124/make-us-a-brew-mr-scruff
 category: music
 

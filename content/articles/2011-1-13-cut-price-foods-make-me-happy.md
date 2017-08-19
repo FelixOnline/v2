@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:09:28 +0000"
 id: "588"
 old_path: /comment/588/cut-price-foods-make-me-happy
-redirect_from:
+aliases:
  - /comment/588/cut-price-foods-make-me-happy
 category: comment
 

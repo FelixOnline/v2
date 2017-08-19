@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 12:18:38 +0100"
 id: "3650"
 old_path: /film/3650/will-this-truly-be-the-last
-redirect_from:
+aliases:
  - /film/3650/will-this-truly-be-the-last
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:16:57 +0000"
 id: "4060"
 old_path: /news/4060/seedcamp-announce-winners-of-seedhack-40
-redirect_from:
+aliases:
  - /news/4060/seedcamp-announce-winners-of-seedhack-40
 category: news
 

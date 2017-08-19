@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:59:44 +0000"
 id: "938"
 old_path: /travel/938/highlights-of-south-america
-redirect_from:
+aliases:
  - /travel/938/highlights-of-south-america
 category: travel
 

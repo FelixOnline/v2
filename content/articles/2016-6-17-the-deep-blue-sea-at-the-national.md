@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:30:12 +0100"
 id: "6283"
 old_path: /arts/6283/the-deep-blue-sea-at-the-national
-redirect_from:
+aliases:
  - /arts/6283/the-deep-blue-sea-at-the-national
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:56:10 +0000"
 id: "6421"
 old_path: /comment/6421/electoral-dysfunction
-redirect_from:
+aliases:
  - /comment/6421/electoral-dysfunction
 category: comment
 

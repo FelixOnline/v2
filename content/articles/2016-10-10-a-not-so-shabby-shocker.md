@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 14:40:45 +0100"
 id: "6325"
 old_path: /arts/6325/a-not-so-shabby-shocker
-redirect_from:
+aliases:
  - /arts/6325/a-not-so-shabby-shocker
 category: arts
 

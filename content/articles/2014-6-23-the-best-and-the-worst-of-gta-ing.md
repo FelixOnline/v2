@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 14:42:32 +0100"
 id: "4712"
 old_path: /comment/4712/the-best-and-the-worst-of-gta-ing
-redirect_from:
+aliases:
  - /comment/4712/the-best-and-the-worst-of-gta-ing
 category: comment
 

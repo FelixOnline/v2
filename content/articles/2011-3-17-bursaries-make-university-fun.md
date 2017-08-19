@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:44:04 +0000"
 id: "1105"
 old_path: /comment/1105/bursaries-make-university-fun
-redirect_from:
+aliases:
  - /comment/1105/bursaries-make-university-fun
 category: comment
 

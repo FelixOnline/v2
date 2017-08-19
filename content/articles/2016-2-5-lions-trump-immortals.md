@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:55:48 +0000"
 id: "5889"
 old_path: /sport/5889/lions-trump-immortals
-redirect_from:
+aliases:
  - /sport/5889/lions-trump-immortals
 category: sport
 

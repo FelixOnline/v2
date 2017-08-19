@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:14:20 +0000"
 id: "4924"
 old_path: /news/4924/acton-halls-with-panoramic-views
-redirect_from:
+aliases:
  - /news/4924/acton-halls-with-panoramic-views
 category: news
 

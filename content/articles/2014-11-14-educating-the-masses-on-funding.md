@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:36:02 +0000"
 id: "4871"
 old_path: /features/4871/educating-the-masses-on-funding
-redirect_from:
+aliases:
  - /features/4871/educating-the-masses-on-funding
 category: features
 

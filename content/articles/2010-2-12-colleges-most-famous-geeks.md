@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 01:52:15 +0000"
 id: "84"
 old_path: /news/84/colleges-most-famous-geeks
-redirect_from:
+aliases:
  - /news/84/colleges-most-famous-geeks
 category: news
 

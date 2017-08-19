@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 13:02:01 +0100"
 id: "1495"
 old_path: /food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup
-redirect_from:
+aliases:
  - /food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:24:01 +0000"
 id: "5900"
 old_path: /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
-redirect_from:
+aliases:
  - /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
 category: comment
 

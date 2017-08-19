@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:02:57 +0000"
 id: "6751"
 old_path: /science/6751/ending-the-cycle-of-junk
-redirect_from:
+aliases:
  - /science/6751/ending-the-cycle-of-junk
 category: science
 

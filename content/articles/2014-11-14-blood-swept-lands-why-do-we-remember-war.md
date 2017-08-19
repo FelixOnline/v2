@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:54:34 +0000"
 id: "4880"
 old_path: /arts/4880/blood-swept-lands-why-do-we-remember-war
-redirect_from:
+aliases:
  - /arts/4880/blood-swept-lands-why-do-we-remember-war
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:25:16 +0000"
 id: "2213"
 old_path: /comment/2213/evidence-for-sexism-in-the-union
-redirect_from:
+aliases:
  - /comment/2213/evidence-for-sexism-in-the-union
 category: comment
 

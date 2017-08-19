@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-15 23:44:06 +0000"
 id: "6595"
 old_path: /news/6595/evelyn-gardens--halls-from-hell
-redirect_from:
+aliases:
  - /news/6595/evelyn-gardens--halls-from-hell
 category: news
 

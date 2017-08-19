@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 00:22:55 +0000"
 id: "2080"
 old_path: /news/2080/how-to-become-a-science-journalist
-redirect_from:
+aliases:
  - /news/2080/how-to-become-a-science-journalist
 category: news
 

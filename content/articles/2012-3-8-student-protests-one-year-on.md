@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:23:30 +0000"
 id: "2324"
 old_path: /news/2324/student-protests-one-year-on
-redirect_from:
+aliases:
  - /news/2324/student-protests-one-year-on
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:55:23 +0000"
 id: "4158"
 old_path: /science/4158/frozen-rainbows-and-corkscrew-lasers
-redirect_from:
+aliases:
  - /science/4158/frozen-rainbows-and-corkscrew-lasers
 category: science
 

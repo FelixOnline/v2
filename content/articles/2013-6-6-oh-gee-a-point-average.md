@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 18:07:44 +0100"
 id: "3667"
 old_path: /comment/3667/oh-gee-a-point-average
-redirect_from:
+aliases:
  - /comment/3667/oh-gee-a-point-average
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:29:02 +0000"
 id: "6022"
 old_path: /comment/6022/elections-2016-mates-or-manifestos
-redirect_from:
+aliases:
  - /comment/6022/elections-2016-mates-or-manifestos
 category: comment
 

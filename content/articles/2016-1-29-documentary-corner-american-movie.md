@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:31:40 +0000"
 id: "5848"
 old_path: /film/5848/documentary-corner-american-movie
-redirect_from:
+aliases:
  - /film/5848/documentary-corner-american-movie
 category: film
 

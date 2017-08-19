@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:02:48 +0000"
 id: "6074"
 old_path: /tv/6074/cartoon-corner-spectacular-spider-man
-redirect_from:
+aliases:
  - /tv/6074/cartoon-corner-spectacular-spider-man
 category: tv
 

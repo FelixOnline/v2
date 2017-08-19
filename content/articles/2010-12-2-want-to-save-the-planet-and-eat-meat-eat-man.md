@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:27:57 +0000"
 id: "471"
 old_path: /science/471/want-to-save-the-planet-and-eat-meat-eat-man-
-redirect_from:
+aliases:
  - /science/471/want-to-save-the-planet-and-eat-meat-eat-man-
 category: science
 

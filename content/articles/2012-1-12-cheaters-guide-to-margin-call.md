@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:41:21 +0000"
 id: "1989"
 old_path: /film/1989/cheaters-guide-to-margin-call
-redirect_from:
+aliases:
  - /film/1989/cheaters-guide-to-margin-call
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:22:39 +0000"
 id: "1832"
 old_path: /news/1832/david-nutt-advocates-new-approach
-redirect_from:
+aliases:
  - /news/1832/david-nutt-advocates-new-approach
 category: news
 

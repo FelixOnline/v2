@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:06:55 +0000"
 id: "2026"
 old_path: /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
-redirect_from:
+aliases:
  - /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
 category: news
 

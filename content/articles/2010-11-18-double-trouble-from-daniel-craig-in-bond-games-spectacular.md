@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:57:41 +0000"
 id: "397"
 old_path: /games/397/double-trouble-from-daniel-craig-in-bond-games-spectacular-
-redirect_from:
+aliases:
  - /games/397/double-trouble-from-daniel-craig-in-bond-games-spectacular-
 category: games
 

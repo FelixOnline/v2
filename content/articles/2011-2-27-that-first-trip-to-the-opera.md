@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:29:52 +0000"
 id: "914"
 old_path: /arts/914/that-first-trip-to-the-opera
-redirect_from:
+aliases:
  - /arts/914/that-first-trip-to-the-opera
 category: arts
 

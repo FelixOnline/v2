@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 16:11:20 +0000"
 id: "6854"
 old_path: /sex/6854/enter-the-kink--bdsm-101
-redirect_from:
+aliases:
  - /sex/6854/enter-the-kink--bdsm-101
 category: sex
 

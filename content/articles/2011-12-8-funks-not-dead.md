@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:13:31 +0000"
 id: "1932"
 old_path: /music/1932/funks-not-dead
-redirect_from:
+aliases:
  - /music/1932/funks-not-dead
 category: music
 

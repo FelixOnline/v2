@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:54:45 +0100"
 id: "5539"
 old_path: /fashion/5539/life-on-foot-discovering-spanish-shoe-brand-camper
-redirect_from:
+aliases:
  - /fashion/5539/life-on-foot-discovering-spanish-shoe-brand-camper
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:43:41 +0000"
 id: "5763"
 old_path: /welfare/5763/writing-as-a-release
-redirect_from:
+aliases:
  - /welfare/5763/writing-as-a-release
 category: welfare
 

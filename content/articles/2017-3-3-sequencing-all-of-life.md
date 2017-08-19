@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:11:22 +0000"
 id: "6841"
 old_path: /science/6841/sequencing-all-of-life
-redirect_from:
+aliases:
  - /science/6841/sequencing-all-of-life
 category: science
 

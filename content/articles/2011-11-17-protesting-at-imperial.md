@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:13:49 +0000"
 id: "1772"
 old_path: /news/1772/protesting-at-imperial
-redirect_from:
+aliases:
  - /news/1772/protesting-at-imperial
 category: news
 

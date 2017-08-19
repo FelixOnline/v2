@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-09 15:13:18 +0000"
 id: "1957"
 old_path: /comment/1957/who-did-that--a-letter-to-the-editor
-redirect_from:
+aliases:
  - /comment/1957/who-did-that--a-letter-to-the-editor
 category: comment
 

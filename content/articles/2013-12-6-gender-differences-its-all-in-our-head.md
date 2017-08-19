@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:55:40 +0000"
 id: "4183"
 old_path: /science/4183/gender-differences-its-all-in-our-head
-redirect_from:
+aliases:
  - /science/4183/gender-differences-its-all-in-our-head
 category: science
 

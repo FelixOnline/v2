@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-19 23:49:44 +0000"
 id: "5274"
 old_path: /comment/5274/why-weeks-is-worth-saving-a-hall-seniors-view
-redirect_from:
+aliases:
  - /comment/5274/why-weeks-is-worth-saving-a-hall-seniors-view
 category: comment
 

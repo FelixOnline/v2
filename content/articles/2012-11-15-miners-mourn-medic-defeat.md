@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:20:46 +0000"
 id: "2914"
 old_path: /sport/2914/miners-mourn-medic-defeat
-redirect_from:
+aliases:
  - /sport/2914/miners-mourn-medic-defeat
 category: sport
 

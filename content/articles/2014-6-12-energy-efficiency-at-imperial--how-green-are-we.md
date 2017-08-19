@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 17:54:36 +0100"
 id: "4687"
 old_path: /features/4687/energy-efficiency-at-imperial--how-green-are-we
-redirect_from:
+aliases:
  - /features/4687/energy-efficiency-at-imperial--how-green-are-we
 category: features
 

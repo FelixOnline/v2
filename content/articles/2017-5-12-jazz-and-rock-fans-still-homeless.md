@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:13:15 +0100"
 id: "6934"
 old_path: /news/6934/jazz-and-rock-fans-still-homeless-
-redirect_from:
+aliases:
  - /news/6934/jazz-and-rock-fans-still-homeless-
 category: news
 

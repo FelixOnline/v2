@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 20:31:01 +0100"
 id: "3554"
 old_path: /music/3554/cassette-culture-opal-tapes-interview-
-redirect_from:
+aliases:
  - /music/3554/cassette-culture-opal-tapes-interview-
 category: music
 

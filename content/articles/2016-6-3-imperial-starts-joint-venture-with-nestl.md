@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:32:23 +0100"
 id: "6223"
 old_path: /news/6223/imperial-starts-joint-venture-with-nestl
-redirect_from:
+aliases:
  - /news/6223/imperial-starts-joint-venture-with-nestl
 category: news
 

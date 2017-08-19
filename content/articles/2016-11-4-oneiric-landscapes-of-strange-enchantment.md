@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:41:25 +0000"
 id: "6396"
 old_path: /arts/6396/oneiric-landscapes-of-strange-enchantment
-redirect_from:
+aliases:
  - /arts/6396/oneiric-landscapes-of-strange-enchantment
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-17 12:28:30 +0100"
 id: "1406"
 old_path: /music/1406/london-student-vs-felix-day-nine-a-song-that-you-can-dance-to
-redirect_from:
+aliases:
  - /music/1406/london-student-vs-felix-day-nine-a-song-that-you-can-dance-to
 category: music
 

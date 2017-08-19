@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:57:59 +0100"
 id: "229"
 old_path: /tech/229/an-alluring-ipad-case
-redirect_from:
+aliases:
  - /tech/229/an-alluring-ipad-case
 category: tech
 

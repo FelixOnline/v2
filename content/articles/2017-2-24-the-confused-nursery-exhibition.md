@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:34:30 +0000"
 id: "6832"
 old_path: /cands/6832/the-confused-nursery-exhibition
-redirect_from:
+aliases:
  - /cands/6832/the-confused-nursery-exhibition
 category: clubs-and-socs
 

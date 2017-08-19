@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:01:09 +0000"
 id: "4973"
 old_path: /science/4973/having-trouble-sleeping-
-redirect_from:
+aliases:
  - /science/4973/having-trouble-sleeping-
 category: science
 

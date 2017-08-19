@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-12 12:53:37 +0000"
 id: "5048"
 old_path: /news/5048/death-of-professor-grimm-the-world-reacts
-redirect_from:
+aliases:
  - /news/5048/death-of-professor-grimm-the-world-reacts
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:23:12 +0000"
 id: "604"
 old_path: /tech/604/an-anti-social-path
-redirect_from:
+aliases:
  - /tech/604/an-anti-social-path
 category: tech
 

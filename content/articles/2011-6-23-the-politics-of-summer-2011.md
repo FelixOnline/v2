@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:14:25 +0100"
 id: "1421"
 old_path: /politics/1421/the-politics-of-summer-2011
-redirect_from:
+aliases:
  - /politics/1421/the-politics-of-summer-2011
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:00:42 +0000"
 id: "5442"
 old_path: /arts/5442/mark-rylance---long-live-the-king
-redirect_from:
+aliases:
  - /arts/5442/mark-rylance---long-live-the-king
 category: arts
 

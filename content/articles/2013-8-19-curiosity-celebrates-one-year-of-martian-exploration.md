@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-19 08:06:30 +0100"
 id: "3752"
 old_path: /science/3752/curiosity-celebrates-one-year-of-martian-exploration
-redirect_from:
+aliases:
  - /science/3752/curiosity-celebrates-one-year-of-martian-exploration
 category: science
 

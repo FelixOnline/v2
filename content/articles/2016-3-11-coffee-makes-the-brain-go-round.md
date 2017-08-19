@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:37:34 +0000"
 id: "6026"
 old_path: /science/6026/coffee-makes-the-brain-go-round
-redirect_from:
+aliases:
  - /science/6026/coffee-makes-the-brain-go-round
 category: science
 

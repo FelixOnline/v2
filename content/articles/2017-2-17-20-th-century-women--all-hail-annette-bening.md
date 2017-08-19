@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:11:18 +0000"
 id: "6790"
 old_path: /film/6790/20-th-century-women--all-hail-annette-bening
-redirect_from:
+aliases:
  - /film/6790/20-th-century-women--all-hail-annette-bening
 category: film
 

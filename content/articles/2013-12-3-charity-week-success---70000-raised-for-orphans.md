@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-03 15:41:29 +0000"
 id: "4174"
 old_path: /news/4174/charity-week-success---70000-raised-for-orphans
-redirect_from:
+aliases:
  - /news/4174/charity-week-success---70000-raised-for-orphans
 category: news
 

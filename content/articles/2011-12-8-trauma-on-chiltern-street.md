@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:05:17 +0000"
 id: "1929"
 old_path: /arts/1929/trauma-on-chiltern-street
-redirect_from:
+aliases:
  - /arts/1929/trauma-on-chiltern-street
 category: arts
 

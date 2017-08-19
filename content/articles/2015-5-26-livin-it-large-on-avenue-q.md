@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 13:52:39 +0100"
 id: "5566"
 old_path: /arts/5566/livin-it-large-on-avenue-q
-redirect_from:
+aliases:
  - /arts/5566/livin-it-large-on-avenue-q
 category: arts
 

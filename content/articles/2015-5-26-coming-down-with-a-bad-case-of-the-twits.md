@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 14:03:18 +0100"
 id: "5567"
 old_path: /arts/5567/coming-down-with-a-bad-case-of-the-twits
-redirect_from:
+aliases:
  - /arts/5567/coming-down-with-a-bad-case-of-the-twits
 category: arts
 

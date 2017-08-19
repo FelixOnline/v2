@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 22:01:56 +0000"
 id: "1950"
 old_path: /travel/1950/christmas-in-the-capital
-redirect_from:
+aliases:
  - /travel/1950/christmas-in-the-capital
 category: travel
 

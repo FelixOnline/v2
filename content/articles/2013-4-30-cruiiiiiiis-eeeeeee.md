@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 10:35:08 +0100"
 id: "3500"
 old_path: /film/3500/cruiiiiiiis-eeeeeee
-redirect_from:
+aliases:
  - /film/3500/cruiiiiiiis-eeeeeee
 category: film
 

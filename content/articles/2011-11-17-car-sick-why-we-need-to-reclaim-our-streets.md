@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:37:33 +0000"
 id: "1781"
 old_path: /comment/1781/car-sick-why-we-need-to-reclaim-our-streets
-redirect_from:
+aliases:
  - /comment/1781/car-sick-why-we-need-to-reclaim-our-streets
 category: comment
 

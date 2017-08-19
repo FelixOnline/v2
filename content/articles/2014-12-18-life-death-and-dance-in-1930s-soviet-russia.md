@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:21:15 +0000"
 id: "5075"
 old_path: /arts/5075/life-death-and-dance-in-1930s-soviet-russia
-redirect_from:
+aliases:
  - /arts/5075/life-death-and-dance-in-1930s-soviet-russia
 category: arts
 

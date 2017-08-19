@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:07:55 +0000"
 id: "6911"
 old_path: /film/6911/the-salesman--exploring-the-impact-of-violent-acts
-redirect_from:
+aliases:
  - /film/6911/the-salesman--exploring-the-impact-of-violent-acts
 category: film
 

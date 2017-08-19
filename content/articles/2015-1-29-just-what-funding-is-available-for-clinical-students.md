@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:55:41 +0000"
 id: "5157"
 old_path: /news/5157/just-what-funding-is-available-for-clinical-students
-redirect_from:
+aliases:
  - /news/5157/just-what-funding-is-available-for-clinical-students
 category: news
 

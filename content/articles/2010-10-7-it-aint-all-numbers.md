@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:51:08 +0100"
 id: "180"
 old_path: /politics/180/it-aint-all-numbers
-redirect_from:
+aliases:
  - /politics/180/it-aint-all-numbers
 category: politics
 

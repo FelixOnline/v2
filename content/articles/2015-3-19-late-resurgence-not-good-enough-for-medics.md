@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:41:39 +0000"
 id: "5405"
 old_path: /sport/5405/late-resurgence-not-good-enough-for-medics
-redirect_from:
+aliases:
  - /sport/5405/late-resurgence-not-good-enough-for-medics
 category: sport
 

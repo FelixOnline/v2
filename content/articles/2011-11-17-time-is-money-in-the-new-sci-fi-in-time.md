@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:55:59 +0000"
 id: "1789"
 old_path: /film/1789/time-is-money-in-the-new-sci-fi-in-time
-redirect_from:
+aliases:
  - /film/1789/time-is-money-in-the-new-sci-fi-in-time
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:11:07 +0000"
 id: "5117"
 old_path: /news/5117/nba-star-john-amaechi-visits-ethos
-redirect_from:
+aliases:
  - /news/5117/nba-star-john-amaechi-visits-ethos
 category: news
 

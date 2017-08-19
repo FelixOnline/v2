@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 01:26:25 +0100"
 id: "2428"
 old_path: /news/2428/union-election-results-finally-announced
-redirect_from:
+aliases:
  - /news/2428/union-election-results-finally-announced
 category: news
 

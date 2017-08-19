@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:43:28 +0100"
 id: "4639"
 old_path: /news/4639/union-announces-residence-consultation-meeting-for-new-acton-hall
-redirect_from:
+aliases:
  - /news/4639/union-announces-residence-consultation-meeting-for-new-acton-hall
 category: news
 

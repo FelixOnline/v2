@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:00:01 +0100"
 id: "6151"
 old_path: /features/6151/how-to-have-sex-in-halls
-redirect_from:
+aliases:
  - /features/6151/how-to-have-sex-in-halls
 category: features
 

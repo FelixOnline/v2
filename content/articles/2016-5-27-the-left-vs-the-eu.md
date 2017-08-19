@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:49:02 +0100"
 id: "6206"
 old_path: /comment/6206/the-left-vs-the-eu
-redirect_from:
+aliases:
  - /comment/6206/the-left-vs-the-eu
 category: comment
 

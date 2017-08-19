@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:09:09 +0000"
 id: "6754"
 old_path: /science/6754/science-wont-be-trumped
-redirect_from:
+aliases:
  - /science/6754/science-wont-be-trumped
 category: science
 

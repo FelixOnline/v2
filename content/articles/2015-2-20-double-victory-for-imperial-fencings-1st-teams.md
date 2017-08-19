@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:32:07 +0000"
 id: "5288"
 old_path: /sport/5288/double-victory-for-imperial-fencings-1st-teams
-redirect_from:
+aliases:
  - /sport/5288/double-victory-for-imperial-fencings-1st-teams
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:07:21 +0100"
 id: "1151"
 old_path: /science/1151/the-return-of-consumption
-redirect_from:
+aliases:
  - /science/1151/the-return-of-consumption
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:19:50 +0100"
 id: "238"
 old_path: /politics/238/it-could-be-worse-we-could-be-in-france
-redirect_from:
+aliases:
  - /politics/238/it-could-be-worse-we-could-be-in-france
 category: politics
 

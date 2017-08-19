@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:35:48 +0000"
 id: "5850"
 old_path: /frontpage/5850/savages-before-breakfast
-redirect_from:
+aliases:
  - /frontpage/5850/savages-before-breakfast
 category: all
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 20:38:52 +0000"
 id: "3153"
 old_path: /sport/3153/wolverine-1s-smashed-by-2s
-redirect_from:
+aliases:
  - /sport/3153/wolverine-1s-smashed-by-2s
 category: sport
 

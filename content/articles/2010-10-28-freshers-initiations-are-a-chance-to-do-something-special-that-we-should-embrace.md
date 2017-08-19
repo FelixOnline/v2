@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:51:35 +0100"
 id: "280"
 old_path: /comment/280/freshers-initiations-are-a-chance-to-do-something-special-that-we-should-embrace-
-redirect_from:
+aliases:
  - /comment/280/freshers-initiations-are-a-chance-to-do-something-special-that-we-should-embrace-
 category: comment
 

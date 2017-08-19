@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:23:37 +0000"
 id: "5741"
 old_path: /news/5741/students-across-the-country-stage-walkout
-redirect_from:
+aliases:
  - /news/5741/students-across-the-country-stage-walkout
 category: news
 

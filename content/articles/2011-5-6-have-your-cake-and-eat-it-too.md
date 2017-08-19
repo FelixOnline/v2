@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:21:36 +0100"
 id: "1155"
 old_path: /tech/1155/have-your-cake-and-eat-it-too
-redirect_from:
+aliases:
  - /tech/1155/have-your-cake-and-eat-it-too
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:13:07 +0000"
 id: "3080"
 old_path: /science/3080/big-brother-on-mars
-redirect_from:
+aliases:
  - /science/3080/big-brother-on-mars
 category: science
 

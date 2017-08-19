@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:43:04 +0000"
 id: "5435"
 old_path: /arts/5435/the-white-square--an-lsd-rhapsody
-redirect_from:
+aliases:
  - /arts/5435/the-white-square--an-lsd-rhapsody
 category: arts
 

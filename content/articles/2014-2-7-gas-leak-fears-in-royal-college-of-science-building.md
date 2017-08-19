@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:56:19 +0000"
 id: "4351"
 old_path: /news/4351/gas-leak-fears-in-royal-college-of-science-building
-redirect_from:
+aliases:
  - /news/4351/gas-leak-fears-in-royal-college-of-science-building
 category: news
 

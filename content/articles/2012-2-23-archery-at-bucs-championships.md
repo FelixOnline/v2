@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:28:05 +0000"
 id: "2254"
 old_path: /sport/2254/archery-at-bucs-championships
-redirect_from:
+aliases:
  - /sport/2254/archery-at-bucs-championships
 category: sport
 

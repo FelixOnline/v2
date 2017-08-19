@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:44:41 +0000"
 id: "4002"
 old_path: /tv/4002/the-tomorrow-people-season-1
-redirect_from:
+aliases:
  - /tv/4002/the-tomorrow-people-season-1
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 13:00:09 +0000"
 id: "4948"
 old_path: /tech/4948/microsoft-stepping-back-into-the-future
-redirect_from:
+aliases:
  - /tech/4948/microsoft-stepping-back-into-the-future
 category: tech
 

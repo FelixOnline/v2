@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:16:42 +0000"
 id: "3224"
 old_path: /books/3224/memoir-mash-up
-redirect_from:
+aliases:
  - /books/3224/memoir-mash-up
 category: books
 

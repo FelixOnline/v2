@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:29:02 +0000"
 id: "3986"
 old_path: /arts/3986/inside-the-home-of-architect-norman-swann
-redirect_from:
+aliases:
  - /arts/3986/inside-the-home-of-architect-norman-swann
 category: arts
 

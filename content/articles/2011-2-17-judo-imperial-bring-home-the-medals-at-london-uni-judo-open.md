@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:54:32 +0000"
 id: "855"
 old_path: /sport/855/judo-imperial-bring-home-the-medals-at-london-uni-judo-open
-redirect_from:
+aliases:
  - /sport/855/judo-imperial-bring-home-the-medals-at-london-uni-judo-open
 category: sport
 

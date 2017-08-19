@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:56:26 +0100"
 id: "7010"
 old_path: /comment/7010/trump-cant-ruin-the-environment-by-himself-even-if-he-is-trying
-redirect_from:
+aliases:
  - /comment/7010/trump-cant-ruin-the-environment-by-himself-even-if-he-is-trying
 category: comment
 

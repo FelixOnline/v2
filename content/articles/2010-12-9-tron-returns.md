@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:41:17 +0000"
 id: "509"
 old_path: /film/509/tron-returns
-redirect_from:
+aliases:
  - /film/509/tron-returns
 category: film
 

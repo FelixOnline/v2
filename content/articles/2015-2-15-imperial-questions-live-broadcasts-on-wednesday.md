@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-15 23:45:08 +0000"
 id: "5261"
 old_path: /news/5261/imperial-questions-live-broadcasts-on-wednesday
-redirect_from:
+aliases:
  - /news/5261/imperial-questions-live-broadcasts-on-wednesday
 category: news
 

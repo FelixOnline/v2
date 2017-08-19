@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 04:26:46 +0100"
 id: "1216"
 old_path: /food/1216/please-sir-where-can-i-find-good-coffee
-redirect_from:
+aliases:
  - /food/1216/please-sir-where-can-i-find-good-coffee
 category: food
 

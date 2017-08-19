@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:45:30 +0000"
 id: "1673"
 old_path: /music/1673/punk-planet-by-douglas-heaven
-redirect_from:
+aliases:
  - /music/1673/punk-planet-by-douglas-heaven
 category: music
 

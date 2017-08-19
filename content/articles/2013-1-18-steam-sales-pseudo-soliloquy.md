@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:48:46 +0000"
 id: "3142"
 old_path: /games/3142/steam-sales-pseudo-soliloquy
-redirect_from:
+aliases:
  - /games/3142/steam-sales-pseudo-soliloquy
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:41:48 +0100"
 id: "6200"
 old_path: /news/6200/petition-to-air-con-in-the-library-hits-1000-signatures
-redirect_from:
+aliases:
  - /news/6200/petition-to-air-con-in-the-library-hits-1000-signatures
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:24:02 +0000"
 id: "3302"
 old_path: /food/3302/flapjacks-pasta-and-meatballs-in-1
-redirect_from:
+aliases:
  - /food/3302/flapjacks-pasta-and-meatballs-in-1
 category: food
 

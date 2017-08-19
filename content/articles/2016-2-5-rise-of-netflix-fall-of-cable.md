@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:49:47 +0000"
 id: "5885"
 old_path: /tv/5885/rise-of-netflix-fall-of-cable
-redirect_from:
+aliases:
  - /tv/5885/rise-of-netflix-fall-of-cable
 category: tv
 

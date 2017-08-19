@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:10:38 +0100"
 id: "1255"
 old_path: /tech/1255/one-stop-shop-for-help-with-your-laptop
-redirect_from:
+aliases:
  - /tech/1255/one-stop-shop-for-help-with-your-laptop
 category: tech
 

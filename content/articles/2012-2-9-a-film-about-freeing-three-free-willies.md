@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:38:59 +0000"
 id: "2177"
 old_path: /film/2177/a-film-about-freeing-three-free-willies
-redirect_from:
+aliases:
  - /film/2177/a-film-about-freeing-three-free-willies
 category: film
 

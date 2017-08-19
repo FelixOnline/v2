@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:55:32 +0100"
 id: "4557"
 old_path: /tv/4557/how-good-is-the-good-wife
-redirect_from:
+aliases:
  - /tv/4557/how-good-is-the-good-wife
 category: tv
 

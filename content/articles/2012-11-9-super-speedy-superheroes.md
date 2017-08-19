@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:27:37 +0000"
 id: "2873"
 old_path: /sport/2873/super-speedy-superheroes
-redirect_from:
+aliases:
  - /sport/2873/super-speedy-superheroes
 category: sport
 

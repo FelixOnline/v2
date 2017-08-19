@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 13:42:26 +0100"
 id: "4681"
 old_path: /comment/4681/the-money-game-behind-fifa
-redirect_from:
+aliases:
  - /comment/4681/the-money-game-behind-fifa
 category: comment
 

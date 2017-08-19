@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:23:07 +0000"
 id: "4118"
 old_path: /music/4118/chasing-the-dragon
-redirect_from:
+aliases:
  - /music/4118/chasing-the-dragon
 category: music
 

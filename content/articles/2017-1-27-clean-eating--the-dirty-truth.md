@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:30:23 +0000"
 id: "6691"
 old_path: /science/6691/clean-eating--the-dirty-truth
-redirect_from:
+aliases:
  - /science/6691/clean-eating--the-dirty-truth
 category: science
 

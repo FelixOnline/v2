@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:38:21 +0000"
 id: "630"
 old_path: /music/630/-rock--roll--its-time-to-toughen-up
-redirect_from:
+aliases:
  - /music/630/-rock--roll--its-time-to-toughen-up
 category: music
 

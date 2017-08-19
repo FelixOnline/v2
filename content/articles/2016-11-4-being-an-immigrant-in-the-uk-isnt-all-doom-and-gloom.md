@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:20:32 +0000"
 id: "6390"
 old_path: /comment/6390/being-an-immigrant-in-the-uk-isnt-all-doom-and-gloom
-redirect_from:
+aliases:
  - /comment/6390/being-an-immigrant-in-the-uk-isnt-all-doom-and-gloom
 category: comment
 

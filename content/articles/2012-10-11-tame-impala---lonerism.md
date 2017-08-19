@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:29:57 +0100"
 id: "2680"
 old_path: /music/2680/tame-impala---lonerism
-redirect_from:
+aliases:
  - /music/2680/tame-impala---lonerism
 category: music
 

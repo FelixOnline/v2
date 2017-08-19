@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:50:40 +0000"
 id: "658"
 old_path: /science/658/superfast-genome-sequencing-on-a-chip-
-redirect_from:
+aliases:
  - /science/658/superfast-genome-sequencing-on-a-chip-
 category: science
 

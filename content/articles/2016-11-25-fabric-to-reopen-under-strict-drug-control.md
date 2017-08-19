@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:19:17 +0000"
 id: "6492"
 old_path: /news/6492/fabric-to-reopen-under-strict-drug-control
-redirect_from:
+aliases:
  - /news/6492/fabric-to-reopen-under-strict-drug-control
 category: news
 

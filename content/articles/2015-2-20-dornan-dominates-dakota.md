@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 17:01:01 +0000"
 id: "5292"
 old_path: /film/5292/dornan-dominates-dakota
-redirect_from:
+aliases:
  - /film/5292/dornan-dominates-dakota
 category: film
 

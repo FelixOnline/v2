@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:43:54 +0000"
 id: "495"
 old_path: /news/495/so-what-happens-at-an-occupation-
-redirect_from:
+aliases:
  - /news/495/so-what-happens-at-an-occupation-
 category: news
 

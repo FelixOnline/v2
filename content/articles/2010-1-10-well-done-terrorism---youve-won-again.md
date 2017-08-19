@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-10 01:29:25 +0000"
 id: "21"
 old_path: /comment/21/well-done-terrorism---youve-won-again
-redirect_from:
+aliases:
  - /comment/21/well-done-terrorism---youve-won-again
 category: comment
 

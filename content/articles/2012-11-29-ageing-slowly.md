@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 21:42:49 +0000"
 id: "2979"
 old_path: /comment/2979/ageing-slowly
-redirect_from:
+aliases:
  - /comment/2979/ageing-slowly
 category: comment
 

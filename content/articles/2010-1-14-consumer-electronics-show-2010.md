@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 16:18:30 +0000"
 id: "30"
 old_path: /tech/30/consumer-electronics-show-2010
-redirect_from:
+aliases:
  - /tech/30/consumer-electronics-show-2010
 category: tech
 

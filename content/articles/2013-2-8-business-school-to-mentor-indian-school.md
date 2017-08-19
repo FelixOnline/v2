@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:02:05 +0000"
 id: "3280"
 old_path: /news/3280/business-school-to-mentor-indian-school
-redirect_from:
+aliases:
  - /news/3280/business-school-to-mentor-indian-school
 category: news
 

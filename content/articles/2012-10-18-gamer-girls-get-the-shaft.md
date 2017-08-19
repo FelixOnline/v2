@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:39:54 +0100"
 id: "2718"
 old_path: /games/2718/gamer-girls-get-the-shaft
-redirect_from:
+aliases:
  - /games/2718/gamer-girls-get-the-shaft
 category: games
 

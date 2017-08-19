@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-01 17:38:18 +0100"
 id: "5593"
 old_path: /travel/5593/cruising-through-colchagua-valley
-redirect_from:
+aliases:
  - /travel/5593/cruising-through-colchagua-valley
 category: travel
 

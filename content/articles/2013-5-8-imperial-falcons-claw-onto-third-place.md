@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 13:29:15 +0100"
 id: "3546"
 old_path: /sport/3546/imperial-falcons-claw-onto-third-place
-redirect_from:
+aliases:
  - /sport/3546/imperial-falcons-claw-onto-third-place
 category: sport
 

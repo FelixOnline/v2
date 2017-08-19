@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 23:03:29 +0000"
 id: "2036"
 old_path: /news/2036/rector-takes-pay-cut-amidst-university-pay-rises
-redirect_from:
+aliases:
  - /news/2036/rector-takes-pay-cut-amidst-university-pay-rises
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:44:16 +0000"
 id: "1974"
 old_path: /comment/1974/feminists-need-to-man-up
-redirect_from:
+aliases:
  - /comment/1974/feminists-need-to-man-up
 category: comment
 

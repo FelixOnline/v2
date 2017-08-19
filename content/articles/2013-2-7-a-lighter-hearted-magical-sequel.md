@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:40:52 +0000"
 id: "3244"
 old_path: /books/3244/a-lighter-hearted-magical-sequel
-redirect_from:
+aliases:
  - /books/3244/a-lighter-hearted-magical-sequel
 category: books
 

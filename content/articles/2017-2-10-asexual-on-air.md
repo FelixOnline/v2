@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:55:30 +0000"
 id: "6768"
 old_path: /tv/6768/asexual-on-air
-redirect_from:
+aliases:
  - /tv/6768/asexual-on-air
 category: tv
 

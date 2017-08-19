@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:36:05 +0000"
 id: "4268"
 old_path: /news/4268/us-energy-secretary-visits-imperial
-redirect_from:
+aliases:
  - /news/4268/us-energy-secretary-visits-imperial
 category: news
 

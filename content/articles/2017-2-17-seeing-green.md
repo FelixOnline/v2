@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:32:07 +0000"
 id: "6795"
 old_path: /tv/6795/seeing-green
-redirect_from:
+aliases:
  - /tv/6795/seeing-green
 category: tv
 

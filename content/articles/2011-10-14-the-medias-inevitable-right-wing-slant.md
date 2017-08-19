@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 10:35:57 +0100"
 id: "1543"
 old_path: /politics/1543/the-medias-inevitable-right-wing-slant
-redirect_from:
+aliases:
  - /politics/1543/the-medias-inevitable-right-wing-slant
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:50:57 +0000"
 id: "2862"
 old_path: /film/2862/shit-films-i-love-or-why-i-shouldnt-be-a-film-editor
-redirect_from:
+aliases:
  - /film/2862/shit-films-i-love-or-why-i-shouldnt-be-a-film-editor
 category: film
 

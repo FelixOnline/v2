@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:11:17 +0100"
 id: "6244"
 old_path: /news/6244/our-sabbs-will-now-be-paid-29800-a-year
-redirect_from:
+aliases:
  - /news/6244/our-sabbs-will-now-be-paid-29800-a-year
 category: news
 

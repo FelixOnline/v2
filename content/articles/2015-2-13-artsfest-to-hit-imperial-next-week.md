@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 14:36:54 +0000"
 id: "5252"
 old_path: /cands/5252/artsfest-to-hit-imperial-next-week
-redirect_from:
+aliases:
  - /cands/5252/artsfest-to-hit-imperial-next-week
 category: clubs-and-socs
 

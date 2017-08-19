@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:22:43 +0100"
 id: "5488"
 old_path: /music/5488/boulez-at-90-the-enfant-terrible-of-modern-music
-redirect_from:
+aliases:
  - /music/5488/boulez-at-90-the-enfant-terrible-of-modern-music
 category: music
 

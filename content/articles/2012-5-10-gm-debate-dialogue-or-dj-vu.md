@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:31:33 +0100"
 id: "2449"
 old_path: /science/2449/gm-debate-dialogue-or-dj-vu
-redirect_from:
+aliases:
  - /science/2449/gm-debate-dialogue-or-dj-vu
 category: science
 

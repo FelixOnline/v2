@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:34:57 +0100"
 id: "5533"
 old_path: /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
-redirect_from:
+aliases:
  - /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
 category: news
 

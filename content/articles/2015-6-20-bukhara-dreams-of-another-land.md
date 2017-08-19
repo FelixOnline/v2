@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-20 17:30:55 +0100"
 id: "5647"
 old_path: /travel/5647/bukhara-dreams-of-another-land
-redirect_from:
+aliases:
  - /travel/5647/bukhara-dreams-of-another-land
 category: travel
 

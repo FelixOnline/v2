@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:28:37 +0100"
 id: "207"
 old_path: /politics/207/arabs-in-israel-
-redirect_from:
+aliases:
  - /politics/207/arabs-in-israel-
 category: politics
 

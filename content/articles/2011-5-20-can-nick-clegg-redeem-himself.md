@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:51:58 +0100"
 id: "1229"
 old_path: /comment/1229/can-nick-clegg-redeem-himself
-redirect_from:
+aliases:
  - /comment/1229/can-nick-clegg-redeem-himself
 category: comment
 

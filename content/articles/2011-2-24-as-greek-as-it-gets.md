@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:34:06 +0000"
 id: "862"
 old_path: /food/862/as-greek-as-it-gets
-redirect_from:
+aliases:
  - /food/862/as-greek-as-it-gets
 category: food
 

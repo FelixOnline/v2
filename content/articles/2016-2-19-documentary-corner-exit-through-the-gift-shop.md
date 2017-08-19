@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:09:38 +0000"
 id: "5938"
 old_path: /film/5938/documentary-corner-exit-through-the-gift-shop
-redirect_from:
+aliases:
  - /film/5938/documentary-corner-exit-through-the-gift-shop
 category: film
 

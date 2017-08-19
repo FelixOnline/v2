@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:30:47 +0000"
 id: "6918"
 old_path: /games/6918/gangsta-riot--yakuza-0
-redirect_from:
+aliases:
  - /games/6918/gangsta-riot--yakuza-0
 category: games
 

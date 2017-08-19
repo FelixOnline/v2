@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 18:54:10 +0100"
 id: "1378"
 old_path: /news/1378/council-denies-deputy-president-finances--services-honorary-life-membership
-redirect_from:
+aliases:
  - /news/1378/council-denies-deputy-president-finances--services-honorary-life-membership
 category: news
 

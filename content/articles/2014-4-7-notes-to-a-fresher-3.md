@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:44:46 +0100"
 id: "4520"
 old_path: /books/4520/notes-to-a-fresher-3
-redirect_from:
+aliases:
  - /books/4520/notes-to-a-fresher-3
 category: books
 

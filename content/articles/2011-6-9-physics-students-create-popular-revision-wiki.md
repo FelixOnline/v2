@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 20:57:06 +0100"
 id: "1345"
 old_path: /news/1345/physics-students-create-popular-revision-wiki
-redirect_from:
+aliases:
  - /news/1345/physics-students-create-popular-revision-wiki
 category: news
 

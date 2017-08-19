@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 21:15:46 +0100"
 id: "5637"
 old_path: /arts/5637/the-national-wants-you-to-watch
-redirect_from:
+aliases:
  - /arts/5637/the-national-wants-you-to-watch
 category: arts
 

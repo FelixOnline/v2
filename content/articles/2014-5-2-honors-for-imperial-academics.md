@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 00:53:49 +0100"
 id: "4536"
 old_path: /news/4536/honors-for-imperial-academics
-redirect_from:
+aliases:
  - /news/4536/honors-for-imperial-academics
 category: news
 

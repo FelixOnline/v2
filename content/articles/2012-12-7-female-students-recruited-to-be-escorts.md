@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:48:25 +0000"
 id: "3026"
 old_path: /news/3026/female-students-recruited-to-be-escorts
-redirect_from:
+aliases:
  - /news/3026/female-students-recruited-to-be-escorts
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:45:28 +0000"
 id: "2851"
 old_path: /science/2851/colour-change-test-for-hiv
-redirect_from:
+aliases:
  - /science/2851/colour-change-test-for-hiv
 category: science
 

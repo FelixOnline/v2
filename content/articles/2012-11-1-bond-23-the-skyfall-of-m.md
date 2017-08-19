@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:00:33 +0000"
 id: "2804"
 old_path: /film/2804/bond-23-the-skyfall-of-m
-redirect_from:
+aliases:
  - /film/2804/bond-23-the-skyfall-of-m
 category: film
 

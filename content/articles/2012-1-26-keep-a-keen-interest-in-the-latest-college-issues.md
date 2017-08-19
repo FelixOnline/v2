@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 23:16:33 +0000"
 id: "2075"
 old_path: /comment/2075/keep-a-keen-interest-in-the-latest-college-issues
-redirect_from:
+aliases:
  - /comment/2075/keep-a-keen-interest-in-the-latest-college-issues
 category: comment
 

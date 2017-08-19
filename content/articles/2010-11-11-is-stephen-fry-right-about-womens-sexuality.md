@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:41:50 +0000"
 id: "366"
 old_path: /comment/366/is-stephen-fry-right-about-womens-sexuality
-redirect_from:
+aliases:
  - /comment/366/is-stephen-fry-right-about-womens-sexuality
 category: comment
 

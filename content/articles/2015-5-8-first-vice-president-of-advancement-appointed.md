@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 00:26:17 +0100"
 id: "5502"
 old_path: /news/5502/first-vice-president-of-advancement-appointed
-redirect_from:
+aliases:
  - /news/5502/first-vice-president-of-advancement-appointed
 category: news
 

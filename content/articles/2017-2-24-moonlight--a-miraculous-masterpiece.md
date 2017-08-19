@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:14:33 +0000"
 id: "6817"
 old_path: /film/6817/moonlight--a-miraculous-masterpiece
-redirect_from:
+aliases:
  - /film/6817/moonlight--a-miraculous-masterpiece
 category: film
 

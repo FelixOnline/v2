@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 11:58:03 +0000"
 id: "1122"
 old_path: /games/1122/not-exactly-cutting-edge-gaming
-redirect_from:
+aliases:
  - /games/1122/not-exactly-cutting-edge-gaming
 category: games
 

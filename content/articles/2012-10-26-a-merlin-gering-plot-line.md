@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:39:10 +0100"
 id: "2751"
 old_path: /tv/2751/a-merlin-gering-plot-line
-redirect_from:
+aliases:
  - /tv/2751/a-merlin-gering-plot-line
 category: tv
 

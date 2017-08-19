@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:13:22 +0000"
 id: "2173"
 old_path: /comment/2173/new-library-door-satisfaction-skyrockets
-redirect_from:
+aliases:
  - /comment/2173/new-library-door-satisfaction-skyrockets
 category: comment
 

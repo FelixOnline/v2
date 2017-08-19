@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:24:18 +0000"
 id: "3034"
 old_path: /books/3034/looking-back-at-pride-and-prejudice
-redirect_from:
+aliases:
  - /books/3034/looking-back-at-pride-and-prejudice
 category: books
 

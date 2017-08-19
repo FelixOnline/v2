@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:48:54 +0000"
 id: "4347"
 old_path: /food/4347/mandarin-orange-creme-brulee
-redirect_from:
+aliases:
  - /food/4347/mandarin-orange-creme-brulee
 category: food
 

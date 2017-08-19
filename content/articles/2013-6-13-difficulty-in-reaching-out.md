@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:04:54 +0100"
 id: "3687"
 old_path: /comment/3687/difficulty-in-reaching-out
-redirect_from:
+aliases:
  - /comment/3687/difficulty-in-reaching-out
 category: comment
 

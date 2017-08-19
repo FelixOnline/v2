@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 00:49:20 +0000"
 id: "5387"
 old_path: /news/5387/the-big-elections-2015-felix-finds-out-who-youre-voting-for
-redirect_from:
+aliases:
  - /news/5387/the-big-elections-2015-felix-finds-out-who-youre-voting-for
 category: news
 

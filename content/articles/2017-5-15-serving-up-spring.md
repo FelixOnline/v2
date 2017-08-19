@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:26:44 +0100"
 id: "6954"
 old_path: /food/6954/serving-up-spring-
-redirect_from:
+aliases:
  - /food/6954/serving-up-spring-
 category: food
 

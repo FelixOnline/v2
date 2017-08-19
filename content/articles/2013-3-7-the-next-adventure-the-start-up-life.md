@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:08:01 +0000"
 id: "3421"
 old_path: /biz/3421/the-next-adventure-the-start-up-life
-redirect_from:
+aliases:
  - /biz/3421/the-next-adventure-the-start-up-life
 category: business
 

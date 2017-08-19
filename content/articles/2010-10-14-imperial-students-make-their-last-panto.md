@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:20:17 +0100"
 id: "203"
 old_path: /arts/203/-imperial-students-make-their-last-panto
-redirect_from:
+aliases:
  - /arts/203/-imperial-students-make-their-last-panto
 category: arts
 

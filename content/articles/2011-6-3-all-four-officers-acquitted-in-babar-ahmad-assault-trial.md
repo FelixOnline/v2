@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-03 14:21:09 +0100"
 id: "1324"
 old_path: /news/1324/all-four-officers-acquitted-in-babar-ahmad-assault-trial
-redirect_from:
+aliases:
  - /news/1324/all-four-officers-acquitted-in-babar-ahmad-assault-trial
 category: news
 

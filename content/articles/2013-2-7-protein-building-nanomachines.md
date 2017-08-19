@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:24:45 +0000"
 id: "3259"
 old_path: /science/3259/protein-building-nanomachines
-redirect_from:
+aliases:
  - /science/3259/protein-building-nanomachines
 category: science
 

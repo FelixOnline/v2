@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:11:58 +0000"
 id: "6864"
 old_path: /news/6864/qs-world-rankings-by-subject-released
-redirect_from:
+aliases:
  - /news/6864/qs-world-rankings-by-subject-released
 category: news
 

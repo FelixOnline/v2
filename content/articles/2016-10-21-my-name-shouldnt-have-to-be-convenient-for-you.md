@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 12:13:39 +0100"
 id: "6342"
 old_path: /comment/6342/my-name-shouldnt-have-to-be-convenient-for-you
-redirect_from:
+aliases:
  - /comment/6342/my-name-shouldnt-have-to-be-convenient-for-you
 category: comment
 

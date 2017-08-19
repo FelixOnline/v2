@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:27:20 +0000"
 id: "6671"
 old_path: /film/6671/manchester-by-the-sea
-redirect_from:
+aliases:
  - /film/6671/manchester-by-the-sea
 category: film
 

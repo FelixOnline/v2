@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:31:18 +0000"
 id: "3988"
 old_path: /arts/3988/paul-klee-made-visible-at-tate
-redirect_from:
+aliases:
  - /arts/3988/paul-klee-made-visible-at-tate
 category: arts
 

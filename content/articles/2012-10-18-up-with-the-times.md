@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:53:40 +0100"
 id: "2727"
 old_path: /news/2727/up-with-the-times
-redirect_from:
+aliases:
  - /news/2727/up-with-the-times
 category: news
 

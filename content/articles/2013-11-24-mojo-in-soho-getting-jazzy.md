@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:11:22 +0000"
 id: "4114"
 old_path: /arts/4114/mojo-in-soho-getting-jazzy
-redirect_from:
+aliases:
  - /arts/4114/mojo-in-soho-getting-jazzy
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-28 21:23:49 +0100"
 id: "4632"
 old_path: /games/4632/farting-your-way-to-glory
-redirect_from:
+aliases:
  - /games/4632/farting-your-way-to-glory
 category: games
 

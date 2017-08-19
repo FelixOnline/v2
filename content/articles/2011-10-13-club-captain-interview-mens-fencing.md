@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:59:22 +0100"
 id: "1518"
 old_path: /sport/1518/club-captain-interview-mens-fencing
-redirect_from:
+aliases:
  - /sport/1518/club-captain-interview-mens-fencing
 category: sport
 

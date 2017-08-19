@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:08:01 +0000"
 id: "6862"
 old_path: /news/6862/codecon-finals-prove-expectedly-tricky
-redirect_from:
+aliases:
  - /news/6862/codecon-finals-prove-expectedly-tricky
 category: news
 

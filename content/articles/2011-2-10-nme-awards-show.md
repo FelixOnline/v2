@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:25:47 +0000"
 id: "773"
 old_path: /music/773/nme-awards-show
-redirect_from:
+aliases:
  - /music/773/nme-awards-show
 category: music
 

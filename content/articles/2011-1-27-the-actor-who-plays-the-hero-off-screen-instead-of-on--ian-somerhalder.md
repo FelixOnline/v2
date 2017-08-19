@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:06:29 +0000"
 id: "685"
 old_path: /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
-redirect_from:
+aliases:
  - /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
 category: film
 

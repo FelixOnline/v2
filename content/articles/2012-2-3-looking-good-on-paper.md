@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 10:27:06 +0000"
 id: "2125"
 old_path: /arts/2125/looking-good-on-paper
-redirect_from:
+aliases:
  - /arts/2125/looking-good-on-paper
 category: arts
 

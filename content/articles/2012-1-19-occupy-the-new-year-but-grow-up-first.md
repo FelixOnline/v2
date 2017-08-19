@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 23:21:51 +0000"
 id: "2038"
 old_path: /comment/2038/occupy-the-new-year-but-grow-up-first
-redirect_from:
+aliases:
  - /comment/2038/occupy-the-new-year-but-grow-up-first
 category: comment
 

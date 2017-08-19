@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:32:59 +0000"
 id: "5961"
 old_path: /science/5961/water-landslides
-redirect_from:
+aliases:
  - /science/5961/water-landslides
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:04:39 +0000"
 id: "5281"
 old_path: /news/5281/imperial-questions-live-looks-into-the-tough-subjects
-redirect_from:
+aliases:
  - /news/5281/imperial-questions-live-looks-into-the-tough-subjects
 category: news
 

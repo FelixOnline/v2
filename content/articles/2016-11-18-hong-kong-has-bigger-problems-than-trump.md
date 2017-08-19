@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:35:07 +0000"
 id: "6459"
 old_path: /comment/6459/hong-kong-has-bigger-problems-than-trump
-redirect_from:
+aliases:
  - /comment/6459/hong-kong-has-bigger-problems-than-trump
 category: comment
 

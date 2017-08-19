@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 00:29:27 +0100"
 id: "2422"
 old_path: /news/2422/president-and-provost-roles-introduced
-redirect_from:
+aliases:
  - /news/2422/president-and-provost-roles-introduced
 category: news
 

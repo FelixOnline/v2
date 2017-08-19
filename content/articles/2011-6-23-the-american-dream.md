@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:17:05 +0100"
 id: "1413"
 old_path: /news/1413/the-american-dream
-redirect_from:
+aliases:
  - /news/1413/the-american-dream
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 19:04:37 +0000"
 id: "56"
 old_path: /tech/56/googles-done-with-chinas-censorship
-redirect_from:
+aliases:
  - /tech/56/googles-done-with-chinas-censorship
 category: tech
 

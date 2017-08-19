@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:03:14 +0000"
 id: "4222"
 old_path: /news/4222/imperial-hosts-new-cybersecurity-institute
-redirect_from:
+aliases:
  - /news/4222/imperial-hosts-new-cybersecurity-institute
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:16:55 +0000"
 id: "2145"
 old_path: /tech/2145/a-prime-tablet-specimen
-redirect_from:
+aliases:
  - /tech/2145/a-prime-tablet-specimen
 category: tech
 

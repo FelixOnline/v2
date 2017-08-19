@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 16:04:09 +0100"
 id: "2635"
 old_path: /news/2635/freshers-fooled-by-large-number-of-fake-facebook-groups
-redirect_from:
+aliases:
  - /news/2635/freshers-fooled-by-large-number-of-fake-facebook-groups
 category: news
 

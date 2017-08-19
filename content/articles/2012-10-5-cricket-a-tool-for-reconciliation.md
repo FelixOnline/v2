@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:00:30 +0100"
 id: "2620"
 old_path: /comment/2620/cricket-a-tool-for-reconciliation
-redirect_from:
+aliases:
  - /comment/2620/cricket-a-tool-for-reconciliation
 category: comment
 

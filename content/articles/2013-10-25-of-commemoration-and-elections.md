@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:11:03 +0100"
 id: "3923"
 old_path: /comment/3923/of-commemoration-and-elections
-redirect_from:
+aliases:
  - /comment/3923/of-commemoration-and-elections
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:24:06 +0100"
 id: "4607"
 old_path: /sport/4607/rowing-reaps-the-rewards-at-bucs-regatta
-redirect_from:
+aliases:
  - /sport/4607/rowing-reaps-the-rewards-at-bucs-regatta
 category: sport
 

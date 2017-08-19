@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:29:39 +0000"
 id: "4072"
 old_path: /comment/4072/of-cleaning-and-immigration
-redirect_from:
+aliases:
  - /comment/4072/of-cleaning-and-immigration
 category: comment
 

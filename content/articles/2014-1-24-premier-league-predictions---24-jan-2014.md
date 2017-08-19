@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:04:21 +0000"
 id: "4291"
 old_path: /sport/4291/premier-league-predictions---24-jan-2014
-redirect_from:
+aliases:
  - /sport/4291/premier-league-predictions---24-jan-2014
 category: sport
 

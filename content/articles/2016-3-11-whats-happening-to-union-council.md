@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:26:09 +0000"
 id: "6021"
 old_path: /news/6021/whats-happening-to-union-council
-redirect_from:
+aliases:
  - /news/6021/whats-happening-to-union-council
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:44:10 +0100"
 id: "6984"
 old_path: /news/6984/engineering-dominates-imperial-awards
-redirect_from:
+aliases:
  - /news/6984/engineering-dominates-imperial-awards
 category: news
 

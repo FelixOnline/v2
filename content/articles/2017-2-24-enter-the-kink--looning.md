@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:30:15 +0000"
 id: "6830"
 old_path: /sex/6830/enter-the-kink--looning-
-redirect_from:
+aliases:
  - /sex/6830/enter-the-kink--looning-
 category: sex
 

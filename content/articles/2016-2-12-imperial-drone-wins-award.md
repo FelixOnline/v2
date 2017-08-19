@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:13:47 +0000"
 id: "5897"
 old_path: /news/5897/imperial-drone-wins-award
-redirect_from:
+aliases:
  - /news/5897/imperial-drone-wins-award
 category: news
 

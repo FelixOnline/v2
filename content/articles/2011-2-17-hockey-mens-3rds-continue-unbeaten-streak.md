@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:40:01 +0000"
 id: "848"
 old_path: /sport/848/hockey-mens-3rds-continue-unbeaten-streak
-redirect_from:
+aliases:
  - /sport/848/hockey-mens-3rds-continue-unbeaten-streak
 category: sport
 

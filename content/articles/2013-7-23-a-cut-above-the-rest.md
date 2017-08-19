@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-07-23 17:28:23 +0100"
 id: "3745"
 old_path: /science/3745/a-cut-above-the-rest
-redirect_from:
+aliases:
  - /science/3745/a-cut-above-the-rest
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:44:04 +0000"
 id: "6675"
 old_path: /food/6675/aubergines-and-their-many-uses
-redirect_from:
+aliases:
  - /food/6675/aubergines-and-their-many-uses
 category: food
 

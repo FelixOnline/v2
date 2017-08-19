@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:40:35 +0000"
 id: "4807"
 old_path: /arts/4807/doing-the-polka-with-sigmar-polke
-redirect_from:
+aliases:
  - /arts/4807/doing-the-polka-with-sigmar-polke
 category: arts
 

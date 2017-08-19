@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:02:40 +0000"
 id: "4221"
 old_path: /news/4221/minister-announces-new-research-opportunities
-redirect_from:
+aliases:
  - /news/4221/minister-announces-new-research-opportunities
 category: news
 

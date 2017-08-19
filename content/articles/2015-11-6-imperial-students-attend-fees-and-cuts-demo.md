@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:32:53 +0000"
 id: "5696"
 old_path: /news/5696/imperial-students-attend-fees-and-cuts-demo
-redirect_from:
+aliases:
  - /news/5696/imperial-students-attend-fees-and-cuts-demo
 category: news
 

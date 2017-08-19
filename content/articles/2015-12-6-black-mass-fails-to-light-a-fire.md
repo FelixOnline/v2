@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:14:38 +0000"
 id: "5800"
 old_path: /film/5800/black-mass-fails-to-light-a-fire
-redirect_from:
+aliases:
  - /film/5800/black-mass-fails-to-light-a-fire
 category: film
 

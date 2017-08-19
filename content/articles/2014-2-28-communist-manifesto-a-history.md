@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:16:25 +0000"
 id: "4445"
 old_path: /comment/4445/communist-manifesto-a-history
-redirect_from:
+aliases:
  - /comment/4445/communist-manifesto-a-history
 category: comment
 

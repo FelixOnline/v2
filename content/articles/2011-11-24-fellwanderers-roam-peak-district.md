@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:58:22 +0000"
 id: "1845"
 old_path: /news/1845/fellwanderers-roam-peak-district
-redirect_from:
+aliases:
  - /news/1845/fellwanderers-roam-peak-district
 category: news
 

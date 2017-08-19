@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-19 13:33:42 +0100"
 id: "5644"
 old_path: /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
-redirect_from:
+aliases:
  - /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
 category: news
 

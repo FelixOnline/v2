@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 09:48:26 +0100"
 id: "6329"
 old_path: /news/6329/hunt-reveals-his-nhs-plans
-redirect_from:
+aliases:
  - /news/6329/hunt-reveals-his-nhs-plans
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 15:45:19 +0100"
 id: "3665"
 old_path: /news/3665/re-mark-for-the-grading-system
-redirect_from:
+aliases:
  - /news/3665/re-mark-for-the-grading-system
 category: news
 

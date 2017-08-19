@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:49:00 +0000"
 id: "1787"
 old_path: /tv/1787/time-to-deal-innit-bruv-
-redirect_from:
+aliases:
  - /tv/1787/time-to-deal-innit-bruv-
 category: tv
 

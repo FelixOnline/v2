@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 02:11:48 +0000"
 id: "3193"
 old_path: /news/3193/not-going-hard-go-homecoming
-redirect_from:
+aliases:
  - /news/3193/not-going-hard-go-homecoming
 category: news
 

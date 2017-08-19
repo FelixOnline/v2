@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-07-23 10:24:00 +0100"
 id: "152"
 old_path: /arts/152/to-go-where-no-man-has-gone-before
-redirect_from:
+aliases:
  - /arts/152/to-go-where-no-man-has-gone-before
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 03:26:25 +0000"
 id: "4491"
 old_path: /news/4491/new-head-of-chemistry-department-appointed
-redirect_from:
+aliases:
  - /news/4491/new-head-of-chemistry-department-appointed
 category: news
 

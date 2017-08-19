@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:48:17 +0000"
 id: "5228"
 old_path: /comment/5228/dont-get-swept-away-by-the-green-surge
-redirect_from:
+aliases:
  - /comment/5228/dont-get-swept-away-by-the-green-surge
 category: comment
 

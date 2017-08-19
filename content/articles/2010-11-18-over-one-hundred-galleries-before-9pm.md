@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 19:51:40 +0000"
 id: "379"
 old_path: /arts/379/over-one-hundred-galleries-before-9pm-
-redirect_from:
+aliases:
  - /arts/379/over-one-hundred-galleries-before-9pm-
 category: arts
 

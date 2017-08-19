@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:08:20 +0000"
 id: "2139"
 old_path: /arts/2139/a-step-towards-cross-fing
-redirect_from:
+aliases:
  - /arts/2139/a-step-towards-cross-fing
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:04:31 +0000"
 id: "3000"
 old_path: /music/3000/interviewing-britains-best-new-bands
-redirect_from:
+aliases:
  - /music/3000/interviewing-britains-best-new-bands
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 13:05:14 +0100"
 id: "4705"
 old_path: /features/4705/scrabble-world-championships-2014-grudge-match-against-an-8-year-old
-redirect_from:
+aliases:
  - /features/4705/scrabble-world-championships-2014-grudge-match-against-an-8-year-old
 category: features
 

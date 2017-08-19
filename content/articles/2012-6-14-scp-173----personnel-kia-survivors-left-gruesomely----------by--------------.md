@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:23:38 +0100"
 id: "2563"
 old_path: /games/2563/scp-173----personnel-kia-survivors-left-gruesomely----------by--------------
-redirect_from:
+aliases:
  - /games/2563/scp-173----personnel-kia-survivors-left-gruesomely----------by--------------
 category: games
 

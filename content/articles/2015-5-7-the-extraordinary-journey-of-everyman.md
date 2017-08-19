@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-07 09:52:48 +0100"
 id: "5497"
 old_path: /arts/5497/the-extraordinary-journey-of-everyman
-redirect_from:
+aliases:
  - /arts/5497/the-extraordinary-journey-of-everyman
 category: arts
 

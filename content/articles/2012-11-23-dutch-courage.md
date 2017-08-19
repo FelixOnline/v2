@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 12:22:45 +0000"
 id: "2978"
 old_path: /comment/2978/dutch-courage
-redirect_from:
+aliases:
  - /comment/2978/dutch-courage
 category: comment
 

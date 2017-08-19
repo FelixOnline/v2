@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:37:41 +0100"
 id: "268"
 old_path: /tech/268/american-embarrassment-as-more-documents-leaked-about-iraq-war-
-redirect_from:
+aliases:
  - /tech/268/american-embarrassment-as-more-documents-leaked-about-iraq-war-
 category: tech
 

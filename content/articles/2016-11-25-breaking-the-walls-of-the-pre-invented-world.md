@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:08:04 +0000"
 id: "6508"
 old_path: /arts/6508/breaking-the-walls-of-the-pre-invented-world
-redirect_from:
+aliases:
  - /arts/6508/breaking-the-walls-of-the-pre-invented-world
 category: arts
 

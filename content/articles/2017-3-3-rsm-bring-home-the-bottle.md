@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 16:14:18 +0000"
 id: "6855"
 old_path: /sport/6855/rsm-bring-home-the-bottle
-redirect_from:
+aliases:
  - /sport/6855/rsm-bring-home-the-bottle
 category: sport
 

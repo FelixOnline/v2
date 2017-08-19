@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-09 09:58:07 +0100"
 id: "1181"
 old_path: /sport/1181/medics-netball-round-up-season-with-gold-medal
-redirect_from:
+aliases:
  - /sport/1181/medics-netball-round-up-season-with-gold-medal
 category: sport
 

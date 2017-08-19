@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 19:44:46 +0000"
 id: "1998"
 old_path: /tv/1998/menaced-by-moriarty
-redirect_from:
+aliases:
  - /tv/1998/menaced-by-moriarty
 category: tv
 

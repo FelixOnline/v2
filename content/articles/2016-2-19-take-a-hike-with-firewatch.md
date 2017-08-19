@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:24:54 +0000"
 id: "5945"
 old_path: /games/5945/take-a-hike-with-firewatch
-redirect_from:
+aliases:
  - /games/5945/take-a-hike-with-firewatch
 category: games
 

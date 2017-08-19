@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:29:33 +0000"
 id: "5100"
 old_path: /comment/5100/most-of-us-arent-charlie-hebdo
-redirect_from:
+aliases:
  - /comment/5100/most-of-us-arent-charlie-hebdo
 category: comment
 

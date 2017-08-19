@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:44:53 +0000"
 id: "3140"
 old_path: /books/3140/michael-ondaatje-the-english-patient
-redirect_from:
+aliases:
  - /books/3140/michael-ondaatje-the-english-patient
 category: books
 

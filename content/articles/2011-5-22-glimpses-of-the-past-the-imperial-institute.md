@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-22 12:23:12 +0100"
 id: "1239"
 old_path: /news/1239/glimpses-of-the-past-the-imperial-institute
-redirect_from:
+aliases:
  - /news/1239/glimpses-of-the-past-the-imperial-institute
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:17:08 +0100"
 id: "6189"
 old_path: /games/6189/thats-so-ratchet
-redirect_from:
+aliases:
  - /games/6189/thats-so-ratchet
 category: games
 

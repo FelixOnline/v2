@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-10 16:44:42 +0100"
 id: "4723"
 old_path: /games/4723/endlessly-fun-talking-to-amplitude-studio
-redirect_from:
+aliases:
  - /games/4723/endlessly-fun-talking-to-amplitude-studio
 category: games
 

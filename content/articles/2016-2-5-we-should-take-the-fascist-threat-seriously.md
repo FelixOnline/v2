@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:59:37 +0000"
 id: "5867"
 old_path: /comment/5867/we-should-take-the-fascist-threat-seriously
-redirect_from:
+aliases:
  - /comment/5867/we-should-take-the-fascist-threat-seriously
 category: comment
 

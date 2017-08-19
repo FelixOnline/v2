@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:13:04 +0000"
 id: "5843"
 old_path: /film/5843/the-top-three-oscar-snubs-not-involving-dicaprio
-redirect_from:
+aliases:
  - /film/5843/the-top-three-oscar-snubs-not-involving-dicaprio
 category: film
 

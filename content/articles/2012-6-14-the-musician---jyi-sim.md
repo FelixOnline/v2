@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:39:13 +0100"
 id: "2568"
 old_path: /phoenix/2568/the-musician---jyi-sim-
-redirect_from:
+aliases:
  - /phoenix/2568/the-musician---jyi-sim-
 category: phoenix
 

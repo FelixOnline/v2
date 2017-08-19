@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:30:47 +0100"
 id: "7019"
 old_path: /games/7019/e3-2017--what-to-expect
-redirect_from:
+aliases:
  - /games/7019/e3-2017--what-to-expect
 category: games
 

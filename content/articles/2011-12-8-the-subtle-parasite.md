@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:45:53 +0000"
 id: "1920"
 old_path: /science/1920/the-subtle-parasite
-redirect_from:
+aliases:
  - /science/1920/the-subtle-parasite
 category: science
 

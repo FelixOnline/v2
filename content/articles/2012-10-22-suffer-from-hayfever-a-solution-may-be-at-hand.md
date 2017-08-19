@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-22 12:18:16 +0100"
 id: "2728"
 old_path: /science/2728/suffer-from-hayfever-a-solution-may-be-at-hand
-redirect_from:
+aliases:
  - /science/2728/suffer-from-hayfever-a-solution-may-be-at-hand
 category: science
 

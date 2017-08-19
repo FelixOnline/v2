@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:09:38 +0000"
 id: "2777"
 old_path: /news/2777/constitution-approved
-redirect_from:
+aliases:
  - /news/2777/constitution-approved
 category: news
 

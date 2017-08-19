@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:12:28 +0000"
 id: "711"
 old_path: /music/711/bye-bye-white-stripes
-redirect_from:
+aliases:
  - /music/711/bye-bye-white-stripes
 category: music
 

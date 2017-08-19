@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:13:54 +0100"
 id: "5611"
 old_path: /news/5611/imperial-centre-identifies-high-cost-of-care-for-afghanistan-veterans
-redirect_from:
+aliases:
  - /news/5611/imperial-centre-identifies-high-cost-of-care-for-afghanistan-veterans
 category: news
 

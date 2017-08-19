@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-06 23:08:14 +0100"
 id: "1465"
 old_path: /news/1465/felix-nominated-for-guardian-student-media-awards
-redirect_from:
+aliases:
  - /news/1465/felix-nominated-for-guardian-student-media-awards
 category: news
 

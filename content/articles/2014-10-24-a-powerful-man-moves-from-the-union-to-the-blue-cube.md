@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:37:10 +0100"
 id: "4745"
 old_path: /news/4745/a-powerful-man-moves-from-the-union-to-the-blue-cube
-redirect_from:
+aliases:
  - /news/4745/a-powerful-man-moves-from-the-union-to-the-blue-cube
 category: news
 

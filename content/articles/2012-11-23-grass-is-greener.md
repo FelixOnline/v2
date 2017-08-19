@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:19:53 +0000"
 id: "2969"
 old_path: /music/2969/grass-is-greener
-redirect_from:
+aliases:
  - /music/2969/grass-is-greener
 category: music
 

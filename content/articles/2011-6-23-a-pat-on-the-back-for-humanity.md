@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:51:33 +0100"
 id: "1428"
 old_path: /comment/1428/a-pat-on-the-back-for-humanity
-redirect_from:
+aliases:
  - /comment/1428/a-pat-on-the-back-for-humanity
 category: comment
 

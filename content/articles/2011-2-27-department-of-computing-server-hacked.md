@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 11:47:44 +0000"
 id: "896"
 old_path: /news/896/department-of-computing-server-hacked
-redirect_from:
+aliases:
  - /news/896/department-of-computing-server-hacked
 category: news
 

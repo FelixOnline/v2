@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:31:30 +0000"
 id: "5725"
 old_path: /comment/5725/imperials-halls-solution-is-a-travesty
-redirect_from:
+aliases:
  - /comment/5725/imperials-halls-solution-is-a-travesty
 category: comment
 

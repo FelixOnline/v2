@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 01:33:34 +0100"
 id: "3902"
 old_path: /books/3902/point-your-face-at-this
-redirect_from:
+aliases:
  - /books/3902/point-your-face-at-this
 category: books
 

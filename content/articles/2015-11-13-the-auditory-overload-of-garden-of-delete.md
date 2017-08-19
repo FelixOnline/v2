@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:26:07 +0000"
 id: "5723"
 old_path: /music/5723/the-auditory-overload-of-garden-of-delete
-redirect_from:
+aliases:
  - /music/5723/the-auditory-overload-of-garden-of-delete
 category: music
 

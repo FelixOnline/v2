@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:28:02 +0000"
 id: "298"
 old_path: /music/298/imperial-phd-student-releases-debut-album-
-redirect_from:
+aliases:
  - /music/298/imperial-phd-student-releases-debut-album-
 category: music
 

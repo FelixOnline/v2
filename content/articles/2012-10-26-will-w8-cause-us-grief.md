@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:25:06 +0100"
 id: "2742"
 old_path: /tech/2742/will-w8-cause-us-grief
-redirect_from:
+aliases:
  - /tech/2742/will-w8-cause-us-grief
 category: tech
 

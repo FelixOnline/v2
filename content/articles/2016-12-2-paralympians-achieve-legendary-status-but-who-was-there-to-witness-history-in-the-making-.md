@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:48:02 +0000"
 id: "6552"
 old_path: /sport/6552/paralympians-achieve-legendary-status-but-who-was-there-to-witness-history-in-the-making-
-redirect_from:
+aliases:
  - /sport/6552/paralympians-achieve-legendary-status-but-who-was-there-to-witness-history-in-the-making-
 category: sport
 

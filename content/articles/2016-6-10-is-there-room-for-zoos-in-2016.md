@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:29:52 +0100"
 id: "6259"
 old_path: /science/6259/is-there-room-for-zoos-in-2016
-redirect_from:
+aliases:
  - /science/6259/is-there-room-for-zoos-in-2016
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 15:06:18 +0000"
 id: "3074"
 old_path: /film/3074/santa-claus-wont-make-you-happy-but-these-films-will
-redirect_from:
+aliases:
  - /film/3074/santa-claus-wont-make-you-happy-but-these-films-will
 category: film
 

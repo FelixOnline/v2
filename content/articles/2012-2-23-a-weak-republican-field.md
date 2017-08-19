@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:32:58 +0000"
 id: "2235"
 old_path: /comment/2235/a-weak-republican-field
-redirect_from:
+aliases:
  - /comment/2235/a-weak-republican-field
 category: comment
 

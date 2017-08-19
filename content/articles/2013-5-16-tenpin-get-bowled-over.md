@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 17:50:02 +0100"
 id: "3573"
 old_path: /sport/3573/tenpin-get-bowled-over
-redirect_from:
+aliases:
  - /sport/3573/tenpin-get-bowled-over
 category: sport
 

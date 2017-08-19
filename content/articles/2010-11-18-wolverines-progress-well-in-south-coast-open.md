@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:14:24 +0000"
 id: "404"
 old_path: /sport/404/wolverines-progress-well-in-south-coast-open
-redirect_from:
+aliases:
  - /sport/404/wolverines-progress-well-in-south-coast-open
 category: sport
 

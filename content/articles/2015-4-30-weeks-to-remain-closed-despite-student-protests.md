@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-30 23:06:23 +0100"
 id: "5474"
 old_path: /news/5474/weeks-to-remain-closed-despite-student-protests-
-redirect_from:
+aliases:
  - /news/5474/weeks-to-remain-closed-despite-student-protests-
 category: news
 

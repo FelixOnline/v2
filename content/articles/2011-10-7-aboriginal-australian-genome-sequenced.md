@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 09:54:14 +0100"
 id: "1481"
 old_path: /science/1481/aboriginal-australian-genome-sequenced
-redirect_from:
+aliases:
  - /science/1481/aboriginal-australian-genome-sequenced
 category: science
 

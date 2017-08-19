@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:25:42 +0000"
 id: "2315"
 old_path: /arts/2315/hot-or-imperial-hot
-redirect_from:
+aliases:
  - /arts/2315/hot-or-imperial-hot
 category: arts
 

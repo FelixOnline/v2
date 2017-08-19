@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 13:53:55 +0000"
 id: "5796"
 old_path: /film/5796/pixars-latest-fails-to-impress
-redirect_from:
+aliases:
  - /film/5796/pixars-latest-fails-to-impress
 category: film
 

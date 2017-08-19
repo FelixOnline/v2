@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:12:53 +0100"
 id: "3951"
 old_path: /sport/3951/imperial-recover-from-draw-to-thump-medics
-redirect_from:
+aliases:
  - /sport/3951/imperial-recover-from-draw-to-thump-medics
 category: sport
 

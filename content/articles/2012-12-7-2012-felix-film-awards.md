@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 14:48:46 +0000"
 id: "3072"
 old_path: /film/3072/2012-felix-film-awards-
-redirect_from:
+aliases:
  - /film/3072/2012-felix-film-awards-
 category: film
 

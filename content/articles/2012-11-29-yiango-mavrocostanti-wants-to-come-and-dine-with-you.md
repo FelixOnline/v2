@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:54:19 +0000"
 id: "2992"
 old_path: /food/2992/yiango-mavrocostanti-wants-to-come-and-dine-with-you
-redirect_from:
+aliases:
  - /food/2992/yiango-mavrocostanti-wants-to-come-and-dine-with-you
 category: food
 

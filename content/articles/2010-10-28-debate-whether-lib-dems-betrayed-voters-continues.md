@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:06:37 +0100"
 id: "252"
 old_path: /politics/252/debate-whether-lib-dems-betrayed-voters-continues-
-redirect_from:
+aliases:
  - /politics/252/debate-whether-lib-dems-betrayed-voters-continues-
 category: politics
 

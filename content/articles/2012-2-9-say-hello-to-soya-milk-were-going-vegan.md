@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:51:31 +0000"
 id: "2165"
 old_path: /news/2165/say-hello-to-soya-milk-were-going-vegan
-redirect_from:
+aliases:
  - /news/2165/say-hello-to-soya-milk-were-going-vegan
 category: news
 

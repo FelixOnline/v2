@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 13:13:21 +0000"
 id: "3320"
 old_path: /news/3320/phd-students-could-get-twelve-month-write-up-period
-redirect_from:
+aliases:
  - /news/3320/phd-students-could-get-twelve-month-write-up-period
 category: news
 

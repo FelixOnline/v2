@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 20:07:41 +0100"
 id: "3523"
 old_path: /news/3523/meditate-away-your-exam-stress
-redirect_from:
+aliases:
  - /news/3523/meditate-away-your-exam-stress
 category: news
 

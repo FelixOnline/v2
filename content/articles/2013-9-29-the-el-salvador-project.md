@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:23:31 +0100"
 id: "3789"
 old_path: /features/3789/the-el-salvador-project
-redirect_from:
+aliases:
  - /features/3789/the-el-salvador-project
 category: features
 

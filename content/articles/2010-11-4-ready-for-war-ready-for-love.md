@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:35:54 +0000"
 id: "302"
 old_path: /music/302/ready-for-war-ready-for-love-
-redirect_from:
+aliases:
  - /music/302/ready-for-war-ready-for-love-
 category: music
 

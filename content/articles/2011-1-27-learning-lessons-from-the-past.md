@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:38:24 +0000"
 id: "672"
 old_path: /comment/672/learning-lessons-from-the-past-
-redirect_from:
+aliases:
  - /comment/672/learning-lessons-from-the-past-
 category: comment
 

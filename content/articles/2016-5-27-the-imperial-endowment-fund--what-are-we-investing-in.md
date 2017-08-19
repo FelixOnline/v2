@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:43:23 +0100"
 id: "6201"
 old_path: /features/6201/the-imperial-endowment-fund--what-are-we-investing-in
-redirect_from:
+aliases:
  - /features/6201/the-imperial-endowment-fund--what-are-we-investing-in
 category: features
 

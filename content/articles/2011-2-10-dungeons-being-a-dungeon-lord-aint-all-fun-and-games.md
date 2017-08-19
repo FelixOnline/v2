@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:38:17 +0000"
 id: "779"
 old_path: /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
-redirect_from:
+aliases:
  - /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
 category: games
 

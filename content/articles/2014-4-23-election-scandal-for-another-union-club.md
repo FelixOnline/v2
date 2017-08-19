@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-23 17:15:38 +0100"
 id: "4533"
 old_path: /news/4533/election-scandal-for-another-union-club
-redirect_from:
+aliases:
  - /news/4533/election-scandal-for-another-union-club
 category: news
 

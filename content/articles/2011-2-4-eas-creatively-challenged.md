@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-04 16:59:35 +0000"
 id: "756"
 old_path: /games/756/eas-creatively-challenged
-redirect_from:
+aliases:
  - /games/756/eas-creatively-challenged
 category: games
 

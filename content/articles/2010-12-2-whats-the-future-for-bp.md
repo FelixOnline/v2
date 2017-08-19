@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:17:05 +0000"
 id: "489"
 old_path: /biz/489/whats-the-future-for-bp
-redirect_from:
+aliases:
  - /biz/489/whats-the-future-for-bp
 category: business
 

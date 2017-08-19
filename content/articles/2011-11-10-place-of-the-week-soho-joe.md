@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:58:23 +0000"
 id: "1738"
 old_path: /food/1738/place-of-the-week-soho-joe
-redirect_from:
+aliases:
  - /food/1738/place-of-the-week-soho-joe
 category: food
 

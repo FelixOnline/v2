@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:20:05 +0000"
 id: "1050"
 old_path: /science/1050/floods-fireballs-and-chaos-
-redirect_from:
+aliases:
  - /science/1050/floods-fireballs-and-chaos-
 category: science
 

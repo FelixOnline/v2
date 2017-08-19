@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:33:45 +0000"
 id: "5012"
 old_path: /sport/5012/imperial-basketball-make-strong-start-to-the-season
-redirect_from:
+aliases:
  - /sport/5012/imperial-basketball-make-strong-start-to-the-season
 category: sport
 

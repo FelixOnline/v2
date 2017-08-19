@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:38:54 +0000"
 id: "2068"
 old_path: /film/2068/before-the-world-ends-check-these-out
-redirect_from:
+aliases:
  - /film/2068/before-the-world-ends-check-these-out
 category: film
 

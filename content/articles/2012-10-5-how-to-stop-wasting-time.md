@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:39:25 +0100"
 id: "2616"
 old_path: /biz/2616/how-to-stop-wasting-time
-redirect_from:
+aliases:
  - /biz/2616/how-to-stop-wasting-time
 category: business
 

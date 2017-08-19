@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:16:05 +0000"
 id: "1885"
 old_path: /news/1885/drop-in-university-applications
-redirect_from:
+aliases:
  - /news/1885/drop-in-university-applications
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:54:25 +0100"
 id: "2760"
 old_path: /food/2760/patches-of-pumpkins
-redirect_from:
+aliases:
  - /food/2760/patches-of-pumpkins
 category: food
 

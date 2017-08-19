@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 23:02:14 +0000"
 id: "4056"
 old_path: /games/4056/in-limbo-here-is-your-bastion-of-fezunyolo-
-redirect_from:
+aliases:
  - /games/4056/in-limbo-here-is-your-bastion-of-fezunyolo-
 category: games
 

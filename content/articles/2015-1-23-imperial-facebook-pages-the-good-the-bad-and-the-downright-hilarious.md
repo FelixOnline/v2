@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:21:34 +0000"
 id: "5121"
 old_path: /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
-redirect_from:
+aliases:
  - /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
 category: news
 

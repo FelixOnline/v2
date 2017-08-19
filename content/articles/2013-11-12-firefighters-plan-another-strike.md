@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-12 18:38:02 +0000"
 id: "4049"
 old_path: /news/4049/firefighters-plan-another-strike
-redirect_from:
+aliases:
  - /news/4049/firefighters-plan-another-strike
 category: news
 

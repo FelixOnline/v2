@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:55:48 +0100"
 id: "3916"
 old_path: /science/3916/cant-sleep-its-not-me-its-you
-redirect_from:
+aliases:
  - /science/3916/cant-sleep-its-not-me-its-you
 category: science
 

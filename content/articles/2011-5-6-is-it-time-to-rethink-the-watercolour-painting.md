@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:54:11 +0100"
 id: "1164"
 old_path: /arts/1164/is-it-time-to-rethink-the-watercolour-painting
-redirect_from:
+aliases:
  - /arts/1164/is-it-time-to-rethink-the-watercolour-painting
 category: arts
 

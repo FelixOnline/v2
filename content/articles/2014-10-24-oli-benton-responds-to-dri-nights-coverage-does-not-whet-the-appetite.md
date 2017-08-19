@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 13:57:59 +0100"
 id: "4753"
 old_path: /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
-redirect_from:
+aliases:
  - /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
 category: comment
 

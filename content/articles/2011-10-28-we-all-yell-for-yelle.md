@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 10:47:42 +0100"
 id: "1638"
 old_path: /music/1638/we-all-yell-for-yelle
-redirect_from:
+aliases:
  - /music/1638/we-all-yell-for-yelle
 category: music
 

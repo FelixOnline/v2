@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:15:51 +0000"
 id: "5140"
 old_path: /games/5140/2015-three-games-that-excite
-redirect_from:
+aliases:
  - /games/5140/2015-three-games-that-excite
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 14:58:10 +0100"
 id: "4581"
 old_path: /music/4581/its-like-its-2009-all-over-again
-redirect_from:
+aliases:
  - /music/4581/its-like-its-2009-all-over-again
 category: music
 

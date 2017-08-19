@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:31:09 +0000"
 id: "5126"
 old_path: /comment/5126/charlie-hebdo-just-isnt-funny-enough
-redirect_from:
+aliases:
  - /comment/5126/charlie-hebdo-just-isnt-funny-enough
 category: comment
 

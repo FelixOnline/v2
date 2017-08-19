@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-10 15:40:50 +0100"
 id: "1455"
 old_path: /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
-redirect_from:
+aliases:
  - /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
 category: news
 

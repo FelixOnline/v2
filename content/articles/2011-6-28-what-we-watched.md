@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:36:28 +0100"
 id: "1444"
 old_path: /tv/1444/what-we-watched
-redirect_from:
+aliases:
  - /tv/1444/what-we-watched
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:52:50 +0000"
 id: "5855"
 old_path: /comment/5855/the-green-paper--a-students-view
-redirect_from:
+aliases:
  - /comment/5855/the-green-paper--a-students-view
 category: comment
 

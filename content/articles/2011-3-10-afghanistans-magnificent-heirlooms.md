@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:13:30 +0000"
 id: "1065"
 old_path: /arts/1065/afghanistans-magnificent-heirlooms
-redirect_from:
+aliases:
  - /arts/1065/afghanistans-magnificent-heirlooms
 category: arts
 

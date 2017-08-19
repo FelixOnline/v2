@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:57:28 +0100"
 id: "2619"
 old_path: /comment/2619/repel-evil-with-what-is-best
-redirect_from:
+aliases:
  - /comment/2619/repel-evil-with-what-is-best
 category: comment
 

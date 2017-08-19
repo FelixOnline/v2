@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:59:14 +0000"
 id: "1019"
 old_path: /comment/1019/the-naked-truth
-redirect_from:
+aliases:
  - /comment/1019/the-naked-truth
 category: comment
 

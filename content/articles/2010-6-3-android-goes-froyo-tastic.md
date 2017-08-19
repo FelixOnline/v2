@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-06-03 15:16:10 +0100"
 id: "142"
 old_path: /tech/142/android-goes-froyo-tastic
-redirect_from:
+aliases:
  - /tech/142/android-goes-froyo-tastic
 category: tech
 

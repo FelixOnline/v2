@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 05:06:13 +0000"
 id: "4381"
 old_path: /news/4381/in-appointments-we-trust
-redirect_from:
+aliases:
  - /news/4381/in-appointments-we-trust
 category: news
 

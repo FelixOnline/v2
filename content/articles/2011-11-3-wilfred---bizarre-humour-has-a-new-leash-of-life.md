@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:24:33 +0000"
 id: "1665"
 old_path: /tv/1665/wilfred---bizarre-humour-has-a-new-leash-of-life-
-redirect_from:
+aliases:
  - /tv/1665/wilfred---bizarre-humour-has-a-new-leash-of-life-
 category: tv
 

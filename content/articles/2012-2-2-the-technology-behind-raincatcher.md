@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:23:27 +0000"
 id: "2109"
 old_path: /news/2109/the-technology-behind-raincatcher
-redirect_from:
+aliases:
  - /news/2109/the-technology-behind-raincatcher
 category: news
 

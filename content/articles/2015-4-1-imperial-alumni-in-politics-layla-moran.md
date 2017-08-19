@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-01 17:01:05 +0100"
 id: "5460"
 old_path: /politics/5460/imperial-alumni-in-politics-layla-moran
-redirect_from:
+aliases:
  - /politics/5460/imperial-alumni-in-politics-layla-moran
 category: politics
 

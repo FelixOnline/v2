@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:13:08 +0000"
 id: "2009"
 old_path: /science/2009/how-we-find-faces
-redirect_from:
+aliases:
  - /science/2009/how-we-find-faces
 category: science
 

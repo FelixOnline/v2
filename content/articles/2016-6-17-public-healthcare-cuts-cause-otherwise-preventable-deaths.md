@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:11:17 +0100"
 id: "6277"
 old_path: /science/6277/public-healthcare-cuts-cause-otherwise-preventable-deaths
-redirect_from:
+aliases:
  - /science/6277/public-healthcare-cuts-cause-otherwise-preventable-deaths
 category: science
 

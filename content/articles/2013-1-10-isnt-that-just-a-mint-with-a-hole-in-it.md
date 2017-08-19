@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:14:19 +0000"
 id: "3108"
 old_path: /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
-redirect_from:
+aliases:
  - /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
 category: sport
 

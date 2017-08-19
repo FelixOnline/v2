@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:40:12 +0000"
 id: "2788"
 old_path: /tech/2788/apple-had-another-keynote-
-redirect_from:
+aliases:
  - /tech/2788/apple-had-another-keynote-
 category: tech
 

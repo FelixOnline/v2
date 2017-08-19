@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:15:29 +0000"
 id: "6844"
 old_path: /arts/6844/robot--a-confusing-hodgepodge-of-man-and-machine-
-redirect_from:
+aliases:
  - /arts/6844/robot--a-confusing-hodgepodge-of-man-and-machine-
 category: arts
 

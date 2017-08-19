@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:26:05 +0100"
 id: "2564"
 old_path: /phoenix/2564/the-artist---nana-li-
-redirect_from:
+aliases:
  - /phoenix/2564/the-artist---nana-li-
 category: phoenix
 

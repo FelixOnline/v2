@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-17 18:16:28 +0000"
 id: "4902"
 old_path: /games/4902/the-epic-return-to-middle-earth
-redirect_from:
+aliases:
  - /games/4902/the-epic-return-to-middle-earth
 category: games
 

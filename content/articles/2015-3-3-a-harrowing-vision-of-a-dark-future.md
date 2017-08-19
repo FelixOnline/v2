@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:10:50 +0000"
 id: "5319"
 old_path: /arts/5319/a-harrowing-vision-of-a-dark-future
-redirect_from:
+aliases:
  - /arts/5319/a-harrowing-vision-of-a-dark-future
 category: arts
 

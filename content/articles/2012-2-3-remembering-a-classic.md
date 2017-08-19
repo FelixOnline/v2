@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 17:05:35 +0000"
 id: "2134"
 old_path: /film/2134/remembering-a-classic
-redirect_from:
+aliases:
  - /film/2134/remembering-a-classic
 category: film
 

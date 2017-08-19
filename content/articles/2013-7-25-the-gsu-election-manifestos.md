@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-07-25 04:28:18 +0100"
 id: "3746"
 old_path: /news/3746/the-gsu-election-manifestos
-redirect_from:
+aliases:
  - /news/3746/the-gsu-election-manifestos
 category: news
 

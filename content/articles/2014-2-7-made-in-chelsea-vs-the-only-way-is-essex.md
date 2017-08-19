@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:52:36 +0000"
 id: "4349"
 old_path: /sport/4349/made-in-chelsea-vs-the-only-way-is-essex
-redirect_from:
+aliases:
  - /sport/4349/made-in-chelsea-vs-the-only-way-is-essex
 category: sport
 

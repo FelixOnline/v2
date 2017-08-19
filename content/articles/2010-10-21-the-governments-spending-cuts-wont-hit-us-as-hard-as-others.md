@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:11:31 +0100"
 id: "234"
 old_path: /comment/234/the-governments-spending-cuts-wont-hit-us-as-hard-as-others
-redirect_from:
+aliases:
  - /comment/234/the-governments-spending-cuts-wont-hit-us-as-hard-as-others
 category: comment
 

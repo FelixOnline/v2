@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:31:06 +0000"
 id: "900"
 old_path: /politics/900/should-we-legalise-marijuana
-redirect_from:
+aliases:
  - /politics/900/should-we-legalise-marijuana
 category: politics
 

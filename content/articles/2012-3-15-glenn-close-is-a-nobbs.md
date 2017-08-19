@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:45:57 +0000"
 id: "2363"
 old_path: /film/2363/glenn-close-is-a-nobbs
-redirect_from:
+aliases:
  - /film/2363/glenn-close-is-a-nobbs
 category: film
 

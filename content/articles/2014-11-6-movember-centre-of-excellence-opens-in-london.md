@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 22:03:46 +0000"
 id: "4810"
 old_path: /news/4810/movember-centre-of-excellence-opens-in-london
-redirect_from:
+aliases:
  - /news/4810/movember-centre-of-excellence-opens-in-london
 category: news
 

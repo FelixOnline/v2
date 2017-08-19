@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:37:59 +0000"
 id: "3066"
 old_path: /music/3066/electro-swing-at-koko
-redirect_from:
+aliases:
  - /music/3066/electro-swing-at-koko
 category: music
 

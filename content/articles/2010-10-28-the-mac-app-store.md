@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:35:02 +0100"
 id: "265"
 old_path: /tech/265/the-mac-app-store-
-redirect_from:
+aliases:
  - /tech/265/the-mac-app-store-
 category: tech
 

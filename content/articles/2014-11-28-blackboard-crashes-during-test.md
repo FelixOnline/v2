@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:43:18 +0000"
 id: "4963"
 old_path: /news/4963/blackboard-crashes-during-test
-redirect_from:
+aliases:
  - /news/4963/blackboard-crashes-during-test
 category: news
 

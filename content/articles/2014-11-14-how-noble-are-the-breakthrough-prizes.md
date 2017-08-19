@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:06:02 +0000"
 id: "4886"
 old_path: /science/4886/how-noble-are-the-breakthrough-prizes
-redirect_from:
+aliases:
  - /science/4886/how-noble-are-the-breakthrough-prizes
 category: science
 

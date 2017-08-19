@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-11 15:16:32 +0000"
 id: "547"
 old_path: /news/547/opposition-to-life-sciences-cuts-grows
-redirect_from:
+aliases:
  - /news/547/opposition-to-life-sciences-cuts-grows
 category: news
 

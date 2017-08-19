@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:42:47 +0000"
 id: "1785"
 old_path: /comment/1785/trust-issues
-redirect_from:
+aliases:
  - /comment/1785/trust-issues
 category: comment
 

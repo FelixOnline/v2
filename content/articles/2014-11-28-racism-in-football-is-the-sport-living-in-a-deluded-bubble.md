@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:05:25 +0000"
 id: "4974"
 old_path: /sport/4974/racism-in-football-is-the-sport-living-in-a-deluded-bubble
-redirect_from:
+aliases:
  - /sport/4974/racism-in-football-is-the-sport-living-in-a-deluded-bubble
 category: sport
 

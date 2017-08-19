@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 15:50:30 +0100"
 id: "1184"
 old_path: /news/1184/extra-university-places-for-rich-students
-redirect_from:
+aliases:
  - /news/1184/extra-university-places-for-rich-students
 category: news
 

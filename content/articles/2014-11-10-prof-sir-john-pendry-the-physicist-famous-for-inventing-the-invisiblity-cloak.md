@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 23:34:51 +0000"
 id: "4853"
 old_path: /features/4853/prof-sir-john-pendry-the-physicist-famous-for-inventing-the-invisiblity-cloak-
-redirect_from:
+aliases:
  - /features/4853/prof-sir-john-pendry-the-physicist-famous-for-inventing-the-invisiblity-cloak-
 category: features
 

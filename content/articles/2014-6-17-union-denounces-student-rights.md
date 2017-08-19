@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-17 14:20:21 +0100"
 id: "4691"
 old_path: /news/4691/union-denounces-student-rights
-redirect_from:
+aliases:
  - /news/4691/union-denounces-student-rights
 category: news
 

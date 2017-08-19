@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-04 12:33:34 +0000"
 id: "117"
 old_path: /tech/117/your-digital-footprint
-redirect_from:
+aliases:
  - /tech/117/your-digital-footprint
 category: tech
 

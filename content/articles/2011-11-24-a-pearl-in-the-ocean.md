@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:34:14 +0000"
 id: "1837"
 old_path: /film/1837/a-pearl-in-the-ocean
-redirect_from:
+aliases:
  - /film/1837/a-pearl-in-the-ocean
 category: film
 

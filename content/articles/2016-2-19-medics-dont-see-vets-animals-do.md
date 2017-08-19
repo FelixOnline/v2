@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:29:03 +0000"
 id: "5947"
 old_path: /sport/5947/medics-dont-see-vets-animals-do
-redirect_from:
+aliases:
  - /sport/5947/medics-dont-see-vets-animals-do
 category: sport
 

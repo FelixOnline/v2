@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:19:39 +0100"
 id: "1193"
 old_path: /sport/1193/bucs-success-for-imperial-judo-yet-again
-redirect_from:
+aliases:
  - /sport/1193/bucs-success-for-imperial-judo-yet-again
 category: sport
 

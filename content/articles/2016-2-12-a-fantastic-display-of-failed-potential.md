@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:35:53 +0000"
 id: "5906"
 old_path: /arts/5906/a-fantastic-display-of-failed-potential
-redirect_from:
+aliases:
  - /arts/5906/a-fantastic-display-of-failed-potential
 category: arts
 

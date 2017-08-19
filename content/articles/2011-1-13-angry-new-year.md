@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:52:04 +0000"
 id: "586"
 old_path: /comment/586/angry-new-year
-redirect_from:
+aliases:
  - /comment/586/angry-new-year
 category: comment
 

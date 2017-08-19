@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:56:32 +0000"
 id: "6878"
 old_path: /games/6878/games-to-feel-good
-redirect_from:
+aliases:
  - /games/6878/games-to-feel-good
 category: games
 

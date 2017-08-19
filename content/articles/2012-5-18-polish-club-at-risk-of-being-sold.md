@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:04:00 +0100"
 id: "2456"
 old_path: /news/2456/polish-club-at-risk-of-being-sold
-redirect_from:
+aliases:
  - /news/2456/polish-club-at-risk-of-being-sold
 category: news
 

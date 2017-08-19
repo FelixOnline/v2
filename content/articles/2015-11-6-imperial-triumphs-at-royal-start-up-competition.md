@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:37:09 +0000"
 id: "5698"
 old_path: /news/5698/imperial-triumphs-at-royal-start-up-competition
-redirect_from:
+aliases:
  - /news/5698/imperial-triumphs-at-royal-start-up-competition
 category: news
 

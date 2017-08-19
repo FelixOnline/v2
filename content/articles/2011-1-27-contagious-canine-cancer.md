@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:04:02 +0000"
 id: "661"
 old_path: /science/661/contagious-canine-cancer-
-redirect_from:
+aliases:
  - /science/661/contagious-canine-cancer-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 18:09:53 +0000"
 id: "1647"
 old_path: /tech/1647/what-does-the-future-hold
-redirect_from:
+aliases:
  - /tech/1647/what-does-the-future-hold
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-15 13:23:57 +0100"
 id: "6268"
 old_path: /features/6268/we-interview-the-dpfs-candidates
-redirect_from:
+aliases:
  - /features/6268/we-interview-the-dpfs-candidates
 category: features
 

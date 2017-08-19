@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:48:16 +0000"
 id: "4155"
 old_path: /biz/4155/become-a-property-owner-in-london
-redirect_from:
+aliases:
  - /biz/4155/become-a-property-owner-in-london
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:50:35 +0000"
 id: "5863"
 old_path: /news/5863/cambridge-to-introduce-new-admission-test
-redirect_from:
+aliases:
  - /news/5863/cambridge-to-introduce-new-admission-test
 category: news
 

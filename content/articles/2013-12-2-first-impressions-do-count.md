@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:17:35 +0000"
 id: "4170"
 old_path: /features/4170/first-impressions-do-count
-redirect_from:
+aliases:
  - /features/4170/first-impressions-do-count
 category: features
 

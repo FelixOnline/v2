@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:42:43 +0000"
 id: "6571"
 old_path: /arts/6571/the-pirelli-nofilter-2017-calendar
-redirect_from:
+aliases:
  - /arts/6571/the-pirelli-nofilter-2017-calendar
 category: arts
 

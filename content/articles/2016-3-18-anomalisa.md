@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:58:34 +0000"
 id: "6070"
 old_path: /film/6070/anomalisa
-redirect_from:
+aliases:
  - /film/6070/anomalisa
 category: film
 

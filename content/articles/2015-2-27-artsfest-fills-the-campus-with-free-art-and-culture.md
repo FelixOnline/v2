@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:14:53 +0000"
 id: "5310"
 old_path: /news/5310/artsfest-fills-the-campus-with-free-art-and-culture
-redirect_from:
+aliases:
  - /news/5310/artsfest-fills-the-campus-with-free-art-and-culture
 category: news
 

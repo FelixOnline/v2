@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:58:01 +0000"
 id: "5916"
 old_path: /tv/5916/-the-triumph-of-war-and-peace
-redirect_from:
+aliases:
  - /tv/5916/-the-triumph-of-war-and-peace
 category: tv
 

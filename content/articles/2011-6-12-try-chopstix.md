@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 16:14:21 +0100"
 id: "1368"
 old_path: /food/1368/try-chopstix
-redirect_from:
+aliases:
  - /food/1368/try-chopstix
 category: food
 

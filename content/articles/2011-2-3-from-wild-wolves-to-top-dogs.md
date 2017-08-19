@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:07:36 +0000"
 id: "736"
 old_path: /science/736/from-wild-wolves-to-top-dogs-
-redirect_from:
+aliases:
  - /science/736/from-wild-wolves-to-top-dogs-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:14:23 +0100"
 id: "3850"
 old_path: /film/3850/lets-talk-about-sex-addiction-baby
-redirect_from:
+aliases:
  - /film/3850/lets-talk-about-sex-addiction-baby
 category: film
 

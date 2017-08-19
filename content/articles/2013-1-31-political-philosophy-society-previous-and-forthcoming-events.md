@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:58:54 +0000"
 id: "3202"
 old_path: /news/3202/political-philosophy-society-previous-and-forthcoming-events
-redirect_from:
+aliases:
  - /news/3202/political-philosophy-society-previous-and-forthcoming-events
 category: news
 

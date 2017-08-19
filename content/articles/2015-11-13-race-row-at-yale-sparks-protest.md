@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:17:01 +0000"
 id: "5719"
 old_path: /news/5719/race-row-at-yale-sparks-protest
-redirect_from:
+aliases:
  - /news/5719/race-row-at-yale-sparks-protest
 category: news
 

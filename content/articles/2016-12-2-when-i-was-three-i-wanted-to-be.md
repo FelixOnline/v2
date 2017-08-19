@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:01:15 +0000"
 id: "6528"
 old_path: /science/6528/when-i-was-three-i-wanted-to-be
-redirect_from:
+aliases:
  - /science/6528/when-i-was-three-i-wanted-to-be
 category: science
 

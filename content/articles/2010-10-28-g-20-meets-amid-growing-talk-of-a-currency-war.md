@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:30:01 +0100"
 id: "263"
 old_path: /biz/263/g-20-meets-amid-growing-talk-of-a-currency-war
-redirect_from:
+aliases:
  - /biz/263/g-20-meets-amid-growing-talk-of-a-currency-war
 category: business
 

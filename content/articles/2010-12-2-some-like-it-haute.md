@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:00:06 +0000"
 id: "483"
 old_path: /food/483/some-like-it-haute
-redirect_from:
+aliases:
  - /food/483/some-like-it-haute
 category: food
 

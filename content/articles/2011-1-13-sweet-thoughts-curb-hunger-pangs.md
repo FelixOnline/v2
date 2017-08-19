@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:08:35 +0000"
 id: "575"
 old_path: /science/575/sweet-thoughts-curb-hunger-pangs
-redirect_from:
+aliases:
  - /science/575/sweet-thoughts-curb-hunger-pangs
 category: science
 

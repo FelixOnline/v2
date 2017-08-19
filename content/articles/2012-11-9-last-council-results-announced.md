@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:14:05 +0000"
 id: "2835"
 old_path: /news/2835/last-council-results-announced
-redirect_from:
+aliases:
  - /news/2835/last-council-results-announced
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 02:04:34 +0100"
 id: "4562"
 old_path: /sport/4562/womens-rugby-bring-back-the-silverware
-redirect_from:
+aliases:
  - /sport/4562/womens-rugby-bring-back-the-silverware
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-25 18:08:54 +0000"
 id: "3497"
 old_path: /news/3497/royal-institution-receives-debt-clearing-donation
-redirect_from:
+aliases:
  - /news/3497/royal-institution-receives-debt-clearing-donation
 category: news
 

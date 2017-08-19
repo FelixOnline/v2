@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 14:30:04 +0000"
 id: "553"
 old_path: /politics/553/printing-money-to-pay-debt-
-redirect_from:
+aliases:
  - /politics/553/printing-money-to-pay-debt-
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:36:03 +0000"
 id: "1762"
 old_path: /games/1762/side-by-side-with-the-saints
-redirect_from:
+aliases:
  - /games/1762/side-by-side-with-the-saints
 category: games
 

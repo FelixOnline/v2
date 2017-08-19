@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:25:53 +0000"
 id: "6478"
 old_path: /food/6478/home-comfort
-redirect_from:
+aliases:
  - /food/6478/home-comfort
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 22:07:50 +0000"
 id: "1900"
 old_path: /news/1900/abu-dhabi-diabetes-centre-walk-on
-redirect_from:
+aliases:
  - /news/1900/abu-dhabi-diabetes-centre-walk-on
 category: news
 

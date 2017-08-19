@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:36:37 +0100"
 id: "6098"
 old_path: /music/6098/when-beyonc-gives-you-lemons
-redirect_from:
+aliases:
  - /music/6098/when-beyonc-gives-you-lemons
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:07:10 +0000"
 id: "898"
 old_path: /news/898/medic-rag-week-raises-over-20000-
-redirect_from:
+aliases:
  - /news/898/medic-rag-week-raises-over-20000-
 category: news
 

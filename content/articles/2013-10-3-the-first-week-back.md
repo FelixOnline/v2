@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-03 23:02:54 +0100"
 id: "3795"
 old_path: /comment/3795/the-first-week-back
-redirect_from:
+aliases:
  - /comment/3795/the-first-week-back
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-13 12:36:05 +0000"
 id: "4204"
 old_path: /games/4204/zelda-a-link-to-my-past
-redirect_from:
+aliases:
  - /games/4204/zelda-a-link-to-my-past
 category: games
 

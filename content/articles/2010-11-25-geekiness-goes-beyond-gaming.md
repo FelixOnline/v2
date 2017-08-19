@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:27:48 +0000"
 id: "440"
 old_path: /comment/440/geekiness-goes-beyond-gaming
-redirect_from:
+aliases:
  - /comment/440/geekiness-goes-beyond-gaming
 category: comment
 

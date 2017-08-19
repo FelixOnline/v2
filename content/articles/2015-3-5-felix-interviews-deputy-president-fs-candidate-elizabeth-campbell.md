@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:38:31 +0000"
 id: "5344"
 old_path: /comment/5344/felix-interviews-deputy-president-fs-candidate-elizabeth-campbell
-redirect_from:
+aliases:
  - /comment/5344/felix-interviews-deputy-president-fs-candidate-elizabeth-campbell
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:37:23 +0000"
 id: "2839"
 old_path: /news/2839/being-the-first-to-teach
-redirect_from:
+aliases:
  - /news/2839/being-the-first-to-teach
 category: news
 

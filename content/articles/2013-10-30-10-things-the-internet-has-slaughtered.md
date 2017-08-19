@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 16:08:13 +0000"
 id: "3962"
 old_path: /tech/3962/10-things-the-internet-has-slaughtered
-redirect_from:
+aliases:
  - /tech/3962/10-things-the-internet-has-slaughtered
 category: tech
 

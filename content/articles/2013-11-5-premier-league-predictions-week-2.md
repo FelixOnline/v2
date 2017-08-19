@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 10:03:01 +0000"
 id: "4016"
 old_path: /sport/4016/premier-league-predictions-week-2
-redirect_from:
+aliases:
  - /sport/4016/premier-league-predictions-week-2
 category: sport
 

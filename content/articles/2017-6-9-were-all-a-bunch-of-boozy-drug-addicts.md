@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:34:01 +0100"
 id: "7020"
 old_path: /millennials/7020/were-all-a-bunch-of-boozy-drug-addicts
-redirect_from:
+aliases:
  - /millennials/7020/were-all-a-bunch-of-boozy-drug-addicts
 category: millennials
 

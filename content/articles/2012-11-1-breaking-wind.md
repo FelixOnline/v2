@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:31:25 +0000"
 id: "2784"
 old_path: /news/2784/breaking-wind
-redirect_from:
+aliases:
  - /news/2784/breaking-wind
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:50:00 +0000"
 id: "2115"
 old_path: /comment/2115/become-a-vegetarian-save-the-world
-redirect_from:
+aliases:
  - /comment/2115/become-a-vegetarian-save-the-world
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-20 14:18:24 +0000"
 id: "5419"
 old_path: /comment/5419/sport-imperial-have-dropped-the-ball
-redirect_from:
+aliases:
  - /comment/5419/sport-imperial-have-dropped-the-ball
 category: comment
 

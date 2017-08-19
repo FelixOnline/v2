@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:52:57 +0000"
 id: "4244"
 old_path: /music/4244/a-thrill-ver-mount-zion
-redirect_from:
+aliases:
  - /music/4244/a-thrill-ver-mount-zion
 category: music
 

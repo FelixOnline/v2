@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:12:56 +0000"
 id: "6616"
 old_path: /tv/6616/the-best-of-tv
-redirect_from:
+aliases:
  - /tv/6616/the-best-of-tv
 category: tv
 

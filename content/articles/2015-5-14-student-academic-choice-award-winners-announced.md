@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:32:33 +0100"
 id: "5522"
 old_path: /news/5522/student-academic-choice-award-winners-announced
-redirect_from:
+aliases:
  - /news/5522/student-academic-choice-award-winners-announced
 category: news
 

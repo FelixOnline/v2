@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:44:25 +0100"
 id: "2569"
 old_path: /phoenix/2569/the-fashion-designer---emma-amoafo
-redirect_from:
+aliases:
  - /phoenix/2569/the-fashion-designer---emma-amoafo
 category: phoenix
 

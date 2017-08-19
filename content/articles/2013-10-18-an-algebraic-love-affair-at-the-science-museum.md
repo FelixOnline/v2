@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:53:13 +0100"
 id: "3897"
 old_path: /arts/3897/an-algebraic-love-affair-at-the-science-museum
-redirect_from:
+aliases:
  - /arts/3897/an-algebraic-love-affair-at-the-science-museum
 category: arts
 

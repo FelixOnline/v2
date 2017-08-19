@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:43:41 +0100"
 id: "6102"
 old_path: /features/6102/iconic-sex-toys-that-changed-the-world
-redirect_from:
+aliases:
  - /features/6102/iconic-sex-toys-that-changed-the-world
 category: features
 

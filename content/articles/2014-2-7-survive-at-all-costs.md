@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:42:19 +0000"
 id: "4342"
 old_path: /film/4342/survive-at-all-costs
-redirect_from:
+aliases:
  - /film/4342/survive-at-all-costs
 category: film
 

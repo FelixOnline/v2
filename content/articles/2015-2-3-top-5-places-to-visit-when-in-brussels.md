@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:11:50 +0000"
 id: "5181"
 old_path: /travel/5181/top-5-places-to-visit-when-in-brussels
-redirect_from:
+aliases:
  - /travel/5181/top-5-places-to-visit-when-in-brussels
 category: travel
 

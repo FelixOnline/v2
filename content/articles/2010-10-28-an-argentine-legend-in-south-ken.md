@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:41:36 +0100"
 id: "271"
 old_path: /food/271/an-argentine-legend-in-south-ken
-redirect_from:
+aliases:
  - /food/271/an-argentine-legend-in-south-ken
 category: food
 

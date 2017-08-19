@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-20 16:25:58 +0100"
 id: "5646"
 old_path: /arts/5646/addiction-and-adultery-in-the-city
-redirect_from:
+aliases:
  - /arts/5646/addiction-and-adultery-in-the-city
 category: arts
 

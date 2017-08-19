@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:56:26 +0000"
 id: "2800"
 old_path: /games/2800/a-rock-and-a-hard-place
-redirect_from:
+aliases:
  - /games/2800/a-rock-and-a-hard-place
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:48:02 +0000"
 id: "394"
 old_path: /film/394/south-koreas-sharp-suspenseful-thriller
-redirect_from:
+aliases:
  - /film/394/south-koreas-sharp-suspenseful-thriller
 category: film
 

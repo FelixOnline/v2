@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:49:40 +0100"
 id: "1399"
 old_path: /music/1399/t-in-the-park
-redirect_from:
+aliases:
  - /music/1399/t-in-the-park
 category: music
 

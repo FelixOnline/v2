@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:43:44 +0000"
 id: "342"
 old_path: /sport/342/immortals-lose-to-stingers-in-overtime
-redirect_from:
+aliases:
  - /sport/342/immortals-lose-to-stingers-in-overtime
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:23:08 +0000"
 id: "4762"
 old_path: /comment/4762/should-we-accept-reporting-of-factual-errors
-redirect_from:
+aliases:
  - /comment/4762/should-we-accept-reporting-of-factual-errors
 category: comment
 

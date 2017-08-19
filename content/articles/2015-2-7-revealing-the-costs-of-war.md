@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:23:42 +0000"
 id: "5208"
 old_path: /arts/5208/revealing-the-costs-of-war
-redirect_from:
+aliases:
  - /arts/5208/revealing-the-costs-of-war
 category: arts
 

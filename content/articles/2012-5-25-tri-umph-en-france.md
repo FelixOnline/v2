@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 17:45:21 +0100"
 id: "2495"
 old_path: /sport/2495/tri-umph-en-france
-redirect_from:
+aliases:
  - /sport/2495/tri-umph-en-france
 category: sport
 

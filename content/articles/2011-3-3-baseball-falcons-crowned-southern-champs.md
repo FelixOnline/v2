@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:18:06 +0000"
 id: "1023"
 old_path: /sport/1023/baseball-falcons-crowned-southern-champs
-redirect_from:
+aliases:
  - /sport/1023/baseball-falcons-crowned-southern-champs
 category: sport
 

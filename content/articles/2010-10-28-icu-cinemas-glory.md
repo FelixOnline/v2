@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 20:00:00 +0100"
 id: "287"
 old_path: /film/287/icu-cinemas-glory
-redirect_from:
+aliases:
  - /film/287/icu-cinemas-glory
 category: film
 

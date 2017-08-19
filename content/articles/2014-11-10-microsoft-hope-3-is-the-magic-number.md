@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:12:47 +0000"
 id: "4840"
 old_path: /tech/4840/microsoft-hope-3-is-the-magic-number
-redirect_from:
+aliases:
  - /tech/4840/microsoft-hope-3-is-the-magic-number
 category: tech
 

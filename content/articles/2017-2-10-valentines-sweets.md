@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:21:03 +0000"
 id: "6772"
 old_path: /food/6772/valentines-sweets-
-redirect_from:
+aliases:
  - /food/6772/valentines-sweets-
 category: food
 

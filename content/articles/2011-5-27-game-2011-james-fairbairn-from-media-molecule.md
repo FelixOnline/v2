@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 13:36:16 +0100"
 id: "1271"
 old_path: /games/1271/game-2011-james-fairbairn-from-media-molecule
-redirect_from:
+aliases:
  - /games/1271/game-2011-james-fairbairn-from-media-molecule
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:44:31 +0000"
 id: "4264"
 old_path: /sport/4264/success-for-imperial-college-equestrian-teams
-redirect_from:
+aliases:
  - /sport/4264/success-for-imperial-college-equestrian-teams
 category: sport
 

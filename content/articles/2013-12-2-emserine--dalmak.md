@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:13:30 +0000"
 id: "4168"
 old_path: /music/4168/emserine--dalmak
-redirect_from:
+aliases:
  - /music/4168/emserine--dalmak
 category: music
 

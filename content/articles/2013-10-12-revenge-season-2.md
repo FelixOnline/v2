@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:22:02 +0100"
 id: "3852"
 old_path: /tv/3852/revenge-season-2
-redirect_from:
+aliases:
  - /tv/3852/revenge-season-2
 category: tv
 

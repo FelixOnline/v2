@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 22:18:35 +0000"
 id: "4813"
 old_path: /comment/4813/the-responsibility-of-a-student-newspaper
-redirect_from:
+aliases:
  - /comment/4813/the-responsibility-of-a-student-newspaper
 category: comment
 

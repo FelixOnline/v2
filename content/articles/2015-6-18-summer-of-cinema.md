@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 20:28:14 +0100"
 id: "5633"
 old_path: /film/5633/summer-of-cinema
-redirect_from:
+aliases:
  - /film/5633/summer-of-cinema
 category: film
 

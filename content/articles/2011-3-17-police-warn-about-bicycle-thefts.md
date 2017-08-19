@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:46:34 +0000"
 id: "1095"
 old_path: /news/1095/police-warn-about-bicycle-thefts
-redirect_from:
+aliases:
  - /news/1095/police-warn-about-bicycle-thefts
 category: news
 

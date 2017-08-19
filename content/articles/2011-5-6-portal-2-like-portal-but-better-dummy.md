@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 14:59:38 +0100"
 id: "1173"
 old_path: /games/1173/portal-2-like-portal-but-better-dummy
-redirect_from:
+aliases:
  - /games/1173/portal-2-like-portal-but-better-dummy
 category: games
 

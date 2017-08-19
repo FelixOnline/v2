@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:11:38 +0000"
 id: "738"
 old_path: /science/738/the-fountains-of-paradise
-redirect_from:
+aliases:
  - /science/738/the-fountains-of-paradise
 category: science
 

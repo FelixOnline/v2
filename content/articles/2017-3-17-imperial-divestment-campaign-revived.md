@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 12:59:12 +0000"
 id: "6895"
 old_path: /news/6895/imperial-divestment-campaign-revived
-redirect_from:
+aliases:
  - /news/6895/imperial-divestment-campaign-revived
 category: news
 

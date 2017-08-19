@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:43:12 +0100"
 id: "3802"
 old_path: /politics/3802/who-are-al-shabbab
-redirect_from:
+aliases:
  - /politics/3802/who-are-al-shabbab
 category: politics
 

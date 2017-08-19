@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:51:09 +0000"
 id: "871"
 old_path: /biz/871/lehman-loses-law-suit-in-us-against-barclays
-redirect_from:
+aliases:
  - /biz/871/lehman-loses-law-suit-in-us-against-barclays
 category: business
 

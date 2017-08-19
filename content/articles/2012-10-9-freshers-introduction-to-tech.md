@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-09 10:21:31 +0100"
 id: "2637"
 old_path: /tech/2637/freshers-introduction-to-tech
-redirect_from:
+aliases:
  - /tech/2637/freshers-introduction-to-tech
 category: tech
 

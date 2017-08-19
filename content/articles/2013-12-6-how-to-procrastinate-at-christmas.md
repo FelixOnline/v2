@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:06:16 +0000"
 id: "4189"
 old_path: /comment/4189/how-to-procrastinate-at-christmas
-redirect_from:
+aliases:
  - /comment/4189/how-to-procrastinate-at-christmas
 category: comment
 

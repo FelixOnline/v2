@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:03:08 +0000"
 id: "792"
 old_path: /comment/792/what-a-dicktator
-redirect_from:
+aliases:
  - /comment/792/what-a-dicktator
 category: comment
 

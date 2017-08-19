@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:05:11 +0100"
 id: "5476"
 old_path: /news/5476/the-main-parties-and-their-promises-
-redirect_from:
+aliases:
  - /news/5476/the-main-parties-and-their-promises-
 category: news
 

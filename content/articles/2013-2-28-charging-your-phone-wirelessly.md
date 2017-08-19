@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 17:35:39 +0000"
 id: "3380"
 old_path: /tech/3380/charging-your-phone-wirelessly
-redirect_from:
+aliases:
  - /tech/3380/charging-your-phone-wirelessly
 category: tech
 

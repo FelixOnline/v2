@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:50:54 +0000"
 id: "4849"
 old_path: /science/4849/learning-in-lectures-whilst-sleeping--a-dream-come-true
-redirect_from:
+aliases:
  - /science/4849/learning-in-lectures-whilst-sleeping--a-dream-come-true
 category: science
 

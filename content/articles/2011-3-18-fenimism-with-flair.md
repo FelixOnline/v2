@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 08:28:05 +0000"
 id: "1112"
 old_path: /arts/1112/fenimism-with-flair
-redirect_from:
+aliases:
  - /arts/1112/fenimism-with-flair
 category: arts
 

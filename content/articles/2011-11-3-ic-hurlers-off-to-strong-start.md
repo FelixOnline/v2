@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 22:10:56 +0000"
 id: "1699"
 old_path: /sport/1699/ic-hurlers-off-to-strong-start
-redirect_from:
+aliases:
  - /sport/1699/ic-hurlers-off-to-strong-start
 category: sport
 

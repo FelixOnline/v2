@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:50:50 +0100"
 id: "2618"
 old_path: /arts/2618/rubbish-sports-and-the-olympics
-redirect_from:
+aliases:
  - /arts/2618/rubbish-sports-and-the-olympics
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 16:23:15 +0000"
 id: "6625"
 old_path: /cands/6625/icsm-netball-get-crafty
-redirect_from:
+aliases:
  - /cands/6625/icsm-netball-get-crafty
 category: clubs-and-socs
 

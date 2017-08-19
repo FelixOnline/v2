@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 18:05:52 +0000"
 id: "4078"
 old_path: /music/4078/paradise-regained
-redirect_from:
+aliases:
  - /music/4078/paradise-regained
 category: music
 

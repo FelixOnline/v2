@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-19 18:44:01 +0100"
 id: "4695"
 old_path: /tech/4695/killer-robots
-redirect_from:
+aliases:
  - /tech/4695/killer-robots
 category: tech
 

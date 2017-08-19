@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-08 19:54:00 +0100"
 id: "1325"
 old_path: /phoenix/1325/test-phoenix-article
-redirect_from:
+aliases:
  - /phoenix/1325/test-phoenix-article
 category: phoenix
 

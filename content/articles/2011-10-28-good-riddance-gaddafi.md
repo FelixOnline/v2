@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:31:29 +0100"
 id: "1631"
 old_path: /comment/1631/good-riddance-gaddafi
-redirect_from:
+aliases:
  - /comment/1631/good-riddance-gaddafi
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:14:48 +0000"
 id: "5991"
 old_path: /sport/5991/goodbye-old-friends
-redirect_from:
+aliases:
  - /sport/5991/goodbye-old-friends
 category: sport
 

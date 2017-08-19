@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 22:05:16 +0000"
 id: "4922"
 old_path: /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
-redirect_from:
+aliases:
  - /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
 category: clubs-and-socs
 

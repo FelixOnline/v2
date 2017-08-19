@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:28:16 +0000"
 id: "2919"
 old_path: /sport/2919/rugby-return-to-winning-ways
-redirect_from:
+aliases:
  - /sport/2919/rugby-return-to-winning-ways
 category: sport
 

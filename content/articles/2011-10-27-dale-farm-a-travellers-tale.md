@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 23:46:03 +0100"
 id: "1623"
 old_path: /comment/1623/dale-farm-a-travellers-tale
-redirect_from:
+aliases:
  - /comment/1623/dale-farm-a-travellers-tale
 category: comment
 

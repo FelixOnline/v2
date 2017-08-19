@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:39:17 +0100"
 id: "2648"
 old_path: /sport/2648/mud-in-manchester
-redirect_from:
+aliases:
  - /sport/2648/mud-in-manchester
 category: sport
 

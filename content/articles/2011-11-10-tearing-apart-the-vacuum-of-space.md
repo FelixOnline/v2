@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:06:21 +0000"
 id: "1725"
 old_path: /science/1725/tearing-apart-the-vacuum-of-space
-redirect_from:
+aliases:
  - /science/1725/tearing-apart-the-vacuum-of-space
 category: science
 

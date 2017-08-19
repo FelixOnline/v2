@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 15:00:32 +0100"
 id: "1174"
 old_path: /games/1174/service-stoppage-since-sony-server-security-scandal
-redirect_from:
+aliases:
  - /games/1174/service-stoppage-since-sony-server-security-scandal
 category: games
 

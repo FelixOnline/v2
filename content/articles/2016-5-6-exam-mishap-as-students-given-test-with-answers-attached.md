@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:40:28 +0100"
 id: "6112"
 old_path: /news/6112/exam-mishap-as-students-given-test-with-answers-attached
-redirect_from:
+aliases:
  - /news/6112/exam-mishap-as-students-given-test-with-answers-attached
 category: news
 

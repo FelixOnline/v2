@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:35:46 +0000"
 id: "4453"
 old_path: /news/4453/elections-begin-at-imperial-college-union
-redirect_from:
+aliases:
  - /news/4453/elections-begin-at-imperial-college-union
 category: news
 

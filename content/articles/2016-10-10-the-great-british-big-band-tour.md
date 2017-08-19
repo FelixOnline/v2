@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 12:06:07 +0100"
 id: "6318"
 old_path: /cands/6318/the-great-british-big-band-tour
-redirect_from:
+aliases:
  - /cands/6318/the-great-british-big-band-tour
 category: clubs-and-socs
 

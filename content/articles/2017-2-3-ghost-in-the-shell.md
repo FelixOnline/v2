@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:52:30 +0000"
 id: "6722"
 old_path: /film/6722/ghost-in-the-shell
-redirect_from:
+aliases:
  - /film/6722/ghost-in-the-shell
 category: film
 

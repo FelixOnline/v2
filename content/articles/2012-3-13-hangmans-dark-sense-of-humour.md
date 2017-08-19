@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-13 14:24:25 +0000"
 id: "2341"
 old_path: /comment/2341/hangmans-dark-sense-of-humour
-redirect_from:
+aliases:
  - /comment/2341/hangmans-dark-sense-of-humour
 category: comment
 

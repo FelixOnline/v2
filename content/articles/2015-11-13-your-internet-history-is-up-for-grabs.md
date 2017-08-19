@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:29:50 +0000"
 id: "5724"
 old_path: /comment/5724/your-internet-history-is-up-for-grabs
-redirect_from:
+aliases:
  - /comment/5724/your-internet-history-is-up-for-grabs
 category: comment
 

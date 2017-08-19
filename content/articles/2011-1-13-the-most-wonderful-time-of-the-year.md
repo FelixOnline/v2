@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:32:15 +0000"
 id: "566"
 old_path: /travel/566/the-most-wonderful-time-of-the-year-
-redirect_from:
+aliases:
  - /travel/566/the-most-wonderful-time-of-the-year-
 category: travel
 

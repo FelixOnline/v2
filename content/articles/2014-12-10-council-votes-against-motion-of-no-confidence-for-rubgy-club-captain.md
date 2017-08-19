@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-10 15:15:07 +0000"
 id: "5023"
 old_path: /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
-redirect_from:
+aliases:
  - /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
 category: news
 

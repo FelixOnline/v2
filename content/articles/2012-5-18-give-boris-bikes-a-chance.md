@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:29:14 +0100"
 id: "2462"
 old_path: /comment/2462/give-boris-bikes-a-chance
-redirect_from:
+aliases:
  - /comment/2462/give-boris-bikes-a-chance
 category: comment
 

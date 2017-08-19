@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-08 08:32:08 +0100"
 id: "2541"
 old_path: /news/2541/blackboard-learn-set-for-imperial-
-redirect_from:
+aliases:
  - /news/2541/blackboard-learn-set-for-imperial-
 category: news
 

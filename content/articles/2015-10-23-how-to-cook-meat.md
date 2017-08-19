@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:31:49 +0100"
 id: "5665"
 old_path: /food/5665/how-to-cook-meat
-redirect_from:
+aliases:
  - /food/5665/how-to-cook-meat
 category: food
 

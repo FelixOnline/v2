@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:13:44 +0000"
 id: "739"
 old_path: /comment/739/dude-wheres-my-country-
-redirect_from:
+aliases:
  - /comment/739/dude-wheres-my-country-
 category: comment
 

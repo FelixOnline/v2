@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 00:12:14 +0000"
 id: "3354"
 old_path: /news/3354/union-requests-to-college
-redirect_from:
+aliases:
  - /news/3354/union-requests-to-college
 category: news
 

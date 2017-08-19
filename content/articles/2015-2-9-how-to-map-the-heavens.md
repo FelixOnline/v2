@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:27:43 +0000"
 id: "5221"
 old_path: /science/5221/how-to-map-the-heavens
-redirect_from:
+aliases:
  - /science/5221/how-to-map-the-heavens
 category: science
 

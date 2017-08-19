@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:42:12 +0000"
 id: "5746"
 old_path: /comment/5746/are-air-strikes-the-right-response
-redirect_from:
+aliases:
  - /comment/5746/are-air-strikes-the-right-response
 category: comment
 

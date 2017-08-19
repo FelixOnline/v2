@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:14:39 +0000"
 id: "5718"
 old_path: /news/5718/chancellor-introduces-spending-review-from-imperial
-redirect_from:
+aliases:
  - /news/5718/chancellor-introduces-spending-review-from-imperial
 category: news
 

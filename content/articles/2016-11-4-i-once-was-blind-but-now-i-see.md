@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 12:54:58 +0000"
 id: "6383"
 old_path: /science/6383/i-once-was-blind-but-now-i-see
-redirect_from:
+aliases:
  - /science/6383/i-once-was-blind-but-now-i-see
 category: science
 

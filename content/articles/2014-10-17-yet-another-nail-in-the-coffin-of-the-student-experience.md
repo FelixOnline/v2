@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:24:15 +0100"
 id: "4740"
 old_path: /comment/4740/yet-another-nail-in-the-coffin-of-the-student-experience
-redirect_from:
+aliases:
  - /comment/4740/yet-another-nail-in-the-coffin-of-the-student-experience
 category: comment
 

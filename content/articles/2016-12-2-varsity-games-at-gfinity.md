@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:18:03 +0000"
 id: "6543"
 old_path: /games/6543/varsity-games-at-gfinity
-redirect_from:
+aliases:
  - /games/6543/varsity-games-at-gfinity
 category: games
 

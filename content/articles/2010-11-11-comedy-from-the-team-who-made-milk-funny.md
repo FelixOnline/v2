@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:55:02 +0000"
 id: "347"
 old_path: /film/347/comedy-from-the-team-who-made-milk-funny
-redirect_from:
+aliases:
  - /film/347/comedy-from-the-team-who-made-milk-funny
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 17:38:26 +0000"
 id: "6703"
 old_path: /food/6703/avocado-for-breakfast-so-2k16
-redirect_from:
+aliases:
  - /food/6703/avocado-for-breakfast-so-2k16
 category: food
 

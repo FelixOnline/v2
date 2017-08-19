@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:10:48 +0000"
 id: "576"
 old_path: /science/576/building-green-cities-from-scratch-
-redirect_from:
+aliases:
  - /science/576/building-green-cities-from-scratch-
 category: science
 

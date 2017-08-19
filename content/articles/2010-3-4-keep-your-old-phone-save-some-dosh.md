@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-04 12:59:25 +0000"
 id: "119"
 old_path: /tech/119/keep-your-old-phone-save-some-dosh
-redirect_from:
+aliases:
  - /tech/119/keep-your-old-phone-save-some-dosh
 category: tech
 

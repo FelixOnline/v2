@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:42:23 +0000"
 id: "2260"
 old_path: /news/2260/music-for-charity
-redirect_from:
+aliases:
  - /news/2260/music-for-charity
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 22:57:02 +0000"
 id: "5245"
 old_path: /sport/5245/four-mouth-watering-clashes-at-this-world-cup
-redirect_from:
+aliases:
  - /sport/5245/four-mouth-watering-clashes-at-this-world-cup
 category: sport
 

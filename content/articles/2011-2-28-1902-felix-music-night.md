@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:25:25 +0000"
 id: "946"
 old_path: /music/946/1902-felix-music-night
-redirect_from:
+aliases:
  - /music/946/1902-felix-music-night
 category: music
 

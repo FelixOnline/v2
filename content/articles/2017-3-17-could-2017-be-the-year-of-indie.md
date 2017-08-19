@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:06:42 +0000"
 id: "6910"
 old_path: /music/6910/could-2017-be-the-year-of-indie
-redirect_from:
+aliases:
  - /music/6910/could-2017-be-the-year-of-indie
 category: music
 

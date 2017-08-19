@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:07:10 +0000"
 id: "965"
 old_path: /games/965/game-developers-dont-need-to-draw
-redirect_from:
+aliases:
  - /games/965/game-developers-dont-need-to-draw
 category: games
 

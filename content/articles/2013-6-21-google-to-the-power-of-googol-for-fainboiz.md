@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:32:09 +0100"
 id: "3736"
 old_path: /tech/3736/google-to-the-power-of-googol-for-fainboiz
-redirect_from:
+aliases:
  - /tech/3736/google-to-the-power-of-googol-for-fainboiz
 category: tech
 

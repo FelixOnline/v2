@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 16:00:30 +0000"
 id: "6364"
 old_path: /science/6364/when-pineapples-fight-back
-redirect_from:
+aliases:
  - /science/6364/when-pineapples-fight-back
 category: science
 

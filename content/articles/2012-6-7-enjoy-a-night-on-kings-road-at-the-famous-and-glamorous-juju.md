@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 18:57:16 +0100"
 id: "2527"
 old_path: /food/2527/enjoy-a-night-on-kings-road-at-the-famous-and-glamorous-juju
-redirect_from:
+aliases:
  - /food/2527/enjoy-a-night-on-kings-road-at-the-famous-and-glamorous-juju
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 20:59:14 +0100"
 id: "2686"
 old_path: /tech/2686/get-your-christmas-tablet-treat-early-with-felix-tech
-redirect_from:
+aliases:
  - /tech/2686/get-your-christmas-tablet-treat-early-with-felix-tech
 category: tech
 

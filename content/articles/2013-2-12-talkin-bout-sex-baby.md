@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-12 20:25:12 +0000"
 id: "3295"
 old_path: /film/3295/talkin-bout-sex-baby
-redirect_from:
+aliases:
  - /film/3295/talkin-bout-sex-baby
 category: film
 

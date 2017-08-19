@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-16 18:40:46 +0000"
 id: "5824"
 old_path: /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
-redirect_from:
+aliases:
  - /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
 category: features
 

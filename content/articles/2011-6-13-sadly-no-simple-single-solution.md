@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-13 13:28:57 +0100"
 id: "1372"
 old_path: /politics/1372/sadly-no-simple-single-solution
-redirect_from:
+aliases:
  - /politics/1372/sadly-no-simple-single-solution
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:36:02 +0100"
 id: "267"
 old_path: /music/267/techno-nonsense-permanent-vacation
-redirect_from:
+aliases:
  - /music/267/techno-nonsense-permanent-vacation
 category: music
 

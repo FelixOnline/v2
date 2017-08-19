@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:17:48 +0000"
 id: "357"
 old_path: /music/357/sviib-lives-on-despite-suffering-a-loss
-redirect_from:
+aliases:
  - /music/357/sviib-lives-on-despite-suffering-a-loss
 category: music
 

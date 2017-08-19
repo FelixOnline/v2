@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:04:24 +0000"
 id: "3173"
 old_path: /news/3173/translation-unit-under-threat
-redirect_from:
+aliases:
  - /news/3173/translation-unit-under-threat
 category: news
 

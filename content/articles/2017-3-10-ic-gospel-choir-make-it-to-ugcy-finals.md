@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:39:00 +0000"
 id: "6885"
 old_path: /cands/6885/ic-gospel-choir-make-it-to-ugcy-finals
-redirect_from:
+aliases:
  - /cands/6885/ic-gospel-choir-make-it-to-ugcy-finals
 category: clubs-and-socs
 

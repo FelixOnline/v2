@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:57:31 +0100"
 id: "1200"
 old_path: /music/1200/album-of-the-week-goblin
-redirect_from:
+aliases:
  - /music/1200/album-of-the-week-goblin
 category: music
 

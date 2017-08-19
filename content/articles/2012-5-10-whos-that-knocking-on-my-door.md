@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:37:37 +0100"
 id: "2451"
 old_path: /film/2451/whos-that-knocking-on-my-door
-redirect_from:
+aliases:
  - /film/2451/whos-that-knocking-on-my-door
 category: film
 

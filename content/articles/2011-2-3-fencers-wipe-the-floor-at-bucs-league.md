@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:39:23 +0000"
 id: "752"
 old_path: /sport/752/fencers-wipe-the-floor-at-bucs-league-
-redirect_from:
+aliases:
  - /sport/752/fencers-wipe-the-floor-at-bucs-league-
 category: sport
 

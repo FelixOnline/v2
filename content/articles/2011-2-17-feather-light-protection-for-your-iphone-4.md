@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:21:38 +0000"
 id: "841"
 old_path: /tech/841/feather-light-protection-for-your-iphone-4
-redirect_from:
+aliases:
  - /tech/841/feather-light-protection-for-your-iphone-4
 category: tech
 

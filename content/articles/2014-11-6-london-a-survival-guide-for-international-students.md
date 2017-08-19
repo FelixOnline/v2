@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:21:15 +0000"
 id: "4799"
 old_path: /welfare/4799/london-a-survival-guide-for-international-students
-redirect_from:
+aliases:
  - /welfare/4799/london-a-survival-guide-for-international-students
 category: welfare
 

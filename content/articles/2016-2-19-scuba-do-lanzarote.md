@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:27:02 +0000"
 id: "5946"
 old_path: /cands/5946/scuba-do-lanzarote
-redirect_from:
+aliases:
  - /cands/5946/scuba-do-lanzarote
 category: clubs-and-socs
 

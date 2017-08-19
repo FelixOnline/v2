@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:00:51 +0000"
 id: "4913"
 old_path: /comment/4913/shirtgate-just-what-is-the-problem
-redirect_from:
+aliases:
  - /comment/4913/shirtgate-just-what-is-the-problem
 category: comment
 

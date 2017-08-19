@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 14:13:16 +0000"
 id: "5769"
 old_path: /film/5769/a-mournful-brilliantly-told-story-of-warfare-in-afghanistan
-redirect_from:
+aliases:
  - /film/5769/a-mournful-brilliantly-told-story-of-warfare-in-afghanistan
 category: film
 

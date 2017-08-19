@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:09:34 +0000"
 id: "5069"
 old_path: /arts/5069/stink-foot-greek-theatre-reimagined
-redirect_from:
+aliases:
  - /arts/5069/stink-foot-greek-theatre-reimagined
 category: arts
 

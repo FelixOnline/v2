@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:35:52 +0100"
 id: "3695"
 old_path: /film/3695/the-rock-is-a-softie
-redirect_from:
+aliases:
  - /film/3695/the-rock-is-a-softie
 category: film
 

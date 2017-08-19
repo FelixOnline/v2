@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 15:22:26 +0100"
 id: "3569"
 old_path: /music/3569/boiler-room-make-session-008
-redirect_from:
+aliases:
  - /music/3569/boiler-room-make-session-008
 category: music
 

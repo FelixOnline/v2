@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:01:37 +0000"
 id: "6537"
 old_path: /arts/6537/king-lear-is-a-hit-and-miss-at-the-barbican-
-redirect_from:
+aliases:
  - /arts/6537/king-lear-is-a-hit-and-miss-at-the-barbican-
 category: arts
 

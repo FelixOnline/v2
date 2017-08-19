@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:31:59 +0100"
 id: "4592"
 old_path: /news/4592/academic-teaching-and-support-staff-recognised-at-union-student-academic-choice-awards
-redirect_from:
+aliases:
  - /news/4592/academic-teaching-and-support-staff-recognised-at-union-student-academic-choice-awards
 category: news
 

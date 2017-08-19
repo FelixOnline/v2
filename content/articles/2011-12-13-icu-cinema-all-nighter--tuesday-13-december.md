@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-13 14:27:25 +0000"
 id: "1958"
 old_path: /film/1958/icu-cinema-all-nighter--tuesday-13-december
-redirect_from:
+aliases:
  - /film/1958/icu-cinema-all-nighter--tuesday-13-december
 category: film
 

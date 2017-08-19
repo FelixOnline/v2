@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 16:34:43 +0000"
 id: "5264"
 old_path: /arts/5264/the-mastersingers-of-nuremburg--spectacular-in-every-way
-redirect_from:
+aliases:
  - /arts/5264/the-mastersingers-of-nuremburg--spectacular-in-every-way
 category: arts
 

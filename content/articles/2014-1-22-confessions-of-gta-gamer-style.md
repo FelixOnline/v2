@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-22 14:29:10 +0000"
 id: "4267"
 old_path: /games/4267/confessions-of-gta-gamer-style
-redirect_from:
+aliases:
  - /games/4267/confessions-of-gta-gamer-style
 category: games
 

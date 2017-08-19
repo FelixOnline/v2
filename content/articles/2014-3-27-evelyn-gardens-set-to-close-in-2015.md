@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-27 11:49:49 +0000"
 id: "4513"
 old_path: /news/4513/evelyn-gardens-set-to-close-in-2015
-redirect_from:
+aliases:
  - /news/4513/evelyn-gardens-set-to-close-in-2015
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:30:50 +0000"
 id: "2385"
 old_path: /music/2385/soko-at-the-union-chapel
-redirect_from:
+aliases:
  - /music/2385/soko-at-the-union-chapel
 category: music
 

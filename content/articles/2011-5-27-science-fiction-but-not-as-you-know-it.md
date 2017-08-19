@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 14:14:32 +0100"
 id: "1278"
 old_path: /arts/1278/science-fiction-but-not-as-you-know-it-
-redirect_from:
+aliases:
  - /arts/1278/science-fiction-but-not-as-you-know-it-
 category: arts
 

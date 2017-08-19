@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 14:26:00 +0100"
 id: "3503"
 old_path: /arts/3503/berlin-walls-have-years
-redirect_from:
+aliases:
  - /arts/3503/berlin-walls-have-years
 category: arts
 

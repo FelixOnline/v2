@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:12:42 +0100"
 id: "2769"
 old_path: /music/2769/hot-chip-are-hot-
-redirect_from:
+aliases:
  - /music/2769/hot-chip-are-hot-
 category: music
 

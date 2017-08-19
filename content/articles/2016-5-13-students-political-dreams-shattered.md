@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:49:06 +0100"
 id: "6142"
 old_path: /news/6142/students-political-dreams-shattered
-redirect_from:
+aliases:
  - /news/6142/students-political-dreams-shattered
 category: news
 

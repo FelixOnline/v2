@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:37:50 +0000"
 id: "3137"
 old_path: /arts/3137/bad-belles-bring-the-bard-behind-bars-brilliantly
-redirect_from:
+aliases:
  - /arts/3137/bad-belles-bring-the-bard-behind-bars-brilliantly
 category: arts
 

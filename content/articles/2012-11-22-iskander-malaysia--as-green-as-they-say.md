@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:20:34 +0000"
 id: "2946"
 old_path: /politics/2946/iskander-malaysia--as-green-as-they-say
-redirect_from:
+aliases:
  - /politics/2946/iskander-malaysia--as-green-as-they-say
 category: politics
 

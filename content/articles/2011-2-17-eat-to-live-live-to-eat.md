@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:37:06 +0000"
 id: "821"
 old_path: /food/821/eat-to-live-live-to-eat
-redirect_from:
+aliases:
  - /food/821/eat-to-live-live-to-eat
 category: food
 

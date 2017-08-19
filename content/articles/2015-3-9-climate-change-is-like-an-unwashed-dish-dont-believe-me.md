@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:13:46 +0000"
 id: "5378"
 old_path: /science/5378/climate-change-is-like-an-unwashed-dish-dont-believe-me-
-redirect_from:
+aliases:
  - /science/5378/climate-change-is-like-an-unwashed-dish-dont-believe-me-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:53:15 +0000"
 id: "2991"
 old_path: /games/2991/my-issue-with-game
-redirect_from:
+aliases:
  - /games/2991/my-issue-with-game
 category: games
 

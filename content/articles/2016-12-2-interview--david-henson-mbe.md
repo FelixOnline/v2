@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:40:07 +0000"
 id: "6549"
 old_path: /sport/6549/interview--david-henson-mbe
-redirect_from:
+aliases:
  - /sport/6549/interview--david-henson-mbe
 category: sport
 

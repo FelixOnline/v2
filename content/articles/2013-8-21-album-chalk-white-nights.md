@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-21 07:05:10 +0100"
 id: "3753"
 old_path: /music/3753/album-chalk-white-nights
-redirect_from:
+aliases:
  - /music/3753/album-chalk-white-nights
 category: music
 

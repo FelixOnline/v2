@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:26:56 +0000"
 id: "6455"
 old_path: /news/6455/the-us-election-a-week-on
-redirect_from:
+aliases:
  - /news/6455/the-us-election-a-week-on
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:22:46 +0000"
 id: "2379"
 old_path: /news/2379/featured-fiction-revenge
-redirect_from:
+aliases:
  - /news/2379/featured-fiction-revenge
 category: news
 

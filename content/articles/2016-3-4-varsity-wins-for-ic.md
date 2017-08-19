@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:27:15 +0000"
 id: "5997"
 old_path: /sport/5997/varsity-wins-for-ic
-redirect_from:
+aliases:
  - /sport/5997/varsity-wins-for-ic
 category: sport
 

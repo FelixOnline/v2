@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:26:56 +0100"
 id: "6162"
 old_path: /tv/6162/daredevil-season-2
-redirect_from:
+aliases:
  - /tv/6162/daredevil-season-2
 category: tv
 

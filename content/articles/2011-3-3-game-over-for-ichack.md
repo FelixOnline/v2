@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:16:06 +0000"
 id: "1022"
 old_path: /games/1022/game-over-for-ichack
-redirect_from:
+aliases:
  - /games/1022/game-over-for-ichack
 category: games
 

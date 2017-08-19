@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:47:15 +0000"
 id: "1944"
 old_path: /food/1944/a-taste-of-christmas
-redirect_from:
+aliases:
  - /food/1944/a-taste-of-christmas
 category: food
 

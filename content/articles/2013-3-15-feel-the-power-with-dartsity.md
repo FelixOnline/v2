@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:53:42 +0000"
 id: "3481"
 old_path: /sport/3481/feel-the-power-with-dartsity
-redirect_from:
+aliases:
  - /sport/3481/feel-the-power-with-dartsity
 category: sport
 

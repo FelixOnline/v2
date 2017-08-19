@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 23:44:48 +0100"
 id: "1267"
 old_path: /comment/1267/extra-dimensions-of-service
-redirect_from:
+aliases:
  - /comment/1267/extra-dimensions-of-service
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-07-08 04:06:33 +0100"
 id: "151"
 old_path: /sport/151/tokyo-university-see-away-indisciplined-ninjas
-redirect_from:
+aliases:
  - /sport/151/tokyo-university-see-away-indisciplined-ninjas
 category: sport
 

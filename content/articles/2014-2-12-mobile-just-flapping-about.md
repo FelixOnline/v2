@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-12 11:39:02 +0000"
 id: "4369"
 old_path: /games/4369/mobile-just-flapping-about
-redirect_from:
+aliases:
  - /games/4369/mobile-just-flapping-about
 category: games
 

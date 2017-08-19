@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-23 11:03:41 +0100"
 id: "1243"
 old_path: /music/1243/london-student-vs-felix-day-four--a-song-that-makes-you-sad
-redirect_from:
+aliases:
  - /music/1243/london-student-vs-felix-day-four--a-song-that-makes-you-sad
 category: music
 

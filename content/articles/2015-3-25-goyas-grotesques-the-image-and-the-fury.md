@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:11:28 +0000"
 id: "5445"
 old_path: /arts/5445/goyas-grotesques-the-image-and-the-fury
-redirect_from:
+aliases:
  - /arts/5445/goyas-grotesques-the-image-and-the-fury
 category: arts
 

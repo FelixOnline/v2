@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 20:42:52 +0100"
 id: "3591"
 old_path: /comment/3591/behaving-like-animals
-redirect_from:
+aliases:
  - /comment/3591/behaving-like-animals
 category: comment
 

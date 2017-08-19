@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:54:03 +0000"
 id: "2293"
 old_path: /comment/2293/at-times-women-are-actively-disliked
-redirect_from:
+aliases:
  - /comment/2293/at-times-women-are-actively-disliked
 category: comment
 

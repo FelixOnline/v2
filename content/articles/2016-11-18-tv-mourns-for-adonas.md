@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:06:33 +0000"
 id: "6469"
 old_path: /tv/6469/tv-mourns-for-adonas
-redirect_from:
+aliases:
  - /tv/6469/tv-mourns-for-adonas
 category: tv
 

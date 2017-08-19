@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-12 18:29:21 +0000"
 id: "3292"
 old_path: /film/3292/not-too-cold
-redirect_from:
+aliases:
  - /film/3292/not-too-cold
 category: film
 

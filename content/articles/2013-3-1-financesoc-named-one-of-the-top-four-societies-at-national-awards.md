@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:39:06 +0000"
 id: "3406"
 old_path: /news/3406/financesoc-named-one-of-the-top-four-societies-at-national-awards
-redirect_from:
+aliases:
  - /news/3406/financesoc-named-one-of-the-top-four-societies-at-national-awards
 category: news
 

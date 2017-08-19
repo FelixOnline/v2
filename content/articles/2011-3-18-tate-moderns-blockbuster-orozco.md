@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 08:39:40 +0000"
 id: "1114"
 old_path: /arts/1114/tate-moderns-blockbuster-orozco-
-redirect_from:
+aliases:
  - /arts/1114/tate-moderns-blockbuster-orozco-
 category: arts
 

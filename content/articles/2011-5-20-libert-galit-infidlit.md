@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 06:00:36 +0100"
 id: "1236"
 old_path: /politics/1236/libert-galit-infidlit
-redirect_from:
+aliases:
  - /politics/1236/libert-galit-infidlit
 category: politics
 

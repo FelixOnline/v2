@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:25:12 +0100"
 id: "1306"
 old_path: /comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial
-redirect_from:
+aliases:
  - /comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial
 category: comment
 

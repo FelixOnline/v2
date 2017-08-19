@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:17:58 +0100"
 id: "3927"
 old_path: /arts/3927/extreme-art-attack
-redirect_from:
+aliases:
  - /arts/3927/extreme-art-attack
 category: arts
 

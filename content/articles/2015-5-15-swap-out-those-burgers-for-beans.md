@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:01:20 +0100"
 id: "5526"
 old_path: /science/5526/swap-out-those-burgers-for-beans
-redirect_from:
+aliases:
  - /science/5526/swap-out-those-burgers-for-beans
 category: science
 

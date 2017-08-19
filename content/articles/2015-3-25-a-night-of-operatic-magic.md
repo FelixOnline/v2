@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:25:43 +0000"
 id: "5450"
 old_path: /arts/5450/a-night-of-operatic-magic
-redirect_from:
+aliases:
  - /arts/5450/a-night-of-operatic-magic
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:33:02 +0000"
 id: "2973"
 old_path: /news/2973/roll-up-roll-up-for-the-carbon-show
-redirect_from:
+aliases:
  - /news/2973/roll-up-roll-up-for-the-carbon-show
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:22:30 +0000"
 id: "2871"
 old_path: /music/2871/return-of-the-rebels-
-redirect_from:
+aliases:
  - /music/2871/return-of-the-rebels-
 category: music
 

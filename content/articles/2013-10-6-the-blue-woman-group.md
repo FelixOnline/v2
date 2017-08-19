@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-06 10:22:54 +0100"
 id: "3817"
 old_path: /film/3817/the-blue-woman-group
-redirect_from:
+aliases:
  - /film/3817/the-blue-woman-group
 category: film
 

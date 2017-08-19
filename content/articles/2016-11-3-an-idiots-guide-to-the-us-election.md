@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-03 23:14:44 +0000"
 id: "6379"
 old_path: /news/6379/an-idiots-guide-to-the-us-election
-redirect_from:
+aliases:
  - /news/6379/an-idiots-guide-to-the-us-election
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 19:58:39 +0100"
 id: "1607"
 old_path: /news/1607/university-applications-fall-by-9
-redirect_from:
+aliases:
  - /news/1607/university-applications-fall-by-9
 category: news
 

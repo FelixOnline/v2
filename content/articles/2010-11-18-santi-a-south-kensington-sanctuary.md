@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:03:20 +0000"
 id: "381"
 old_path: /fashion/381/santi-a-south-kensington-sanctuary
-redirect_from:
+aliases:
  - /fashion/381/santi-a-south-kensington-sanctuary
 category: fashion
 

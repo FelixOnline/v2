@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:32:40 +0000"
 id: "2386"
 old_path: /music/2386/archers-wonder
-redirect_from:
+aliases:
  - /music/2386/archers-wonder
 category: music
 

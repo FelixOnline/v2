@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 19:11:16 +0100"
 id: "3519"
 old_path: /science/3519/what-you-missed-in-science-
-redirect_from:
+aliases:
  - /science/3519/what-you-missed-in-science-
 category: science
 

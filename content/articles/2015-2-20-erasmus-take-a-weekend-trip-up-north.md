@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:34:34 +0000"
 id: "5289"
 old_path: /cands/5289/erasmus-take-a-weekend-trip-up-north
-redirect_from:
+aliases:
  - /cands/5289/erasmus-take-a-weekend-trip-up-north
 category: clubs-and-socs
 

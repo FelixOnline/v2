@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:51:42 +0000"
 id: "3278"
 old_path: /news/3278/its-finally-here-student-volunteering-week-13
-redirect_from:
+aliases:
  - /news/3278/its-finally-here-student-volunteering-week-13
 category: news
 

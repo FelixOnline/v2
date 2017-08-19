@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:13:09 +0100"
 id: "4577"
 old_path: /arts/4577/the-great-cover-up
-redirect_from:
+aliases:
  - /arts/4577/the-great-cover-up
 category: arts
 

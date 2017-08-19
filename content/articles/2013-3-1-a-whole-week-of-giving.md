@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:11:40 +0000"
 id: "3401"
 old_path: /news/3401/a-whole-week-of-giving
-redirect_from:
+aliases:
  - /news/3401/a-whole-week-of-giving
 category: news
 

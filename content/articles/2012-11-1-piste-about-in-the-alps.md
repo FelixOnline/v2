@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:30:16 +0000"
 id: "2783"
 old_path: /news/2783/piste-about-in-the-alps
-redirect_from:
+aliases:
  - /news/2783/piste-about-in-the-alps
 category: news
 

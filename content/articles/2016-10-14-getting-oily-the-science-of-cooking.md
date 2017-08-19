@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 11:25:52 +0100"
 id: "6336"
 old_path: /science/6336/getting-oily-the-science-of-cooking
-redirect_from:
+aliases:
  - /science/6336/getting-oily-the-science-of-cooking
 category: science
 

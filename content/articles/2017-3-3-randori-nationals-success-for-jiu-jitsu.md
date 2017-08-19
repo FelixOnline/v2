@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 16:19:37 +0000"
 id: "6859"
 old_path: /sport/6859/randori-nationals-success-for-jiu-jitsu
-redirect_from:
+aliases:
  - /sport/6859/randori-nationals-success-for-jiu-jitsu
 category: sport
 

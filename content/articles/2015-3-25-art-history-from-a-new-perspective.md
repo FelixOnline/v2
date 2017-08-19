@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:08:12 +0000"
 id: "5444"
 old_path: /arts/5444/art-history-from-a-new-perspective
-redirect_from:
+aliases:
  - /arts/5444/art-history-from-a-new-perspective
 category: arts
 

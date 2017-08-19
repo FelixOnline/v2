@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 12:30:42 +0000"
 id: "5683"
 old_path: /news/5683/china-overhauls-one-child-policy
-redirect_from:
+aliases:
  - /news/5683/china-overhauls-one-child-policy
 category: news
 

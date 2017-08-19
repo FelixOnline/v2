@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:17:51 +0000"
 id: "3013"
 old_path: /sport/3013/football-conquer-the-counties
-redirect_from:
+aliases:
  - /sport/3013/football-conquer-the-counties
 category: sport
 

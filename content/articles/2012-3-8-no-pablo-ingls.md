@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:33:25 +0000"
 id: "2317"
 old_path: /arts/2317/no-pablo-ingls
-redirect_from:
+aliases:
  - /arts/2317/no-pablo-ingls
 category: arts
 

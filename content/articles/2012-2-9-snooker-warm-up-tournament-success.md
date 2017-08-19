@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:13:18 +0000"
 id: "2172"
 old_path: /sport/2172/snooker-warm-up-tournament-success
-redirect_from:
+aliases:
  - /sport/2172/snooker-warm-up-tournament-success
 category: sport
 

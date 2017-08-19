@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:02:27 +0100"
 id: "2555"
 old_path: /phoenix/2555/editorial
-redirect_from:
+aliases:
  - /phoenix/2555/editorial
 category: phoenix
 

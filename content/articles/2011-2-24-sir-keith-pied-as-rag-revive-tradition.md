@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:52:16 +0000"
 id: "872"
 old_path: /news/872/sir-keith-pied-as-rag-revive-tradition-
-redirect_from:
+aliases:
  - /news/872/sir-keith-pied-as-rag-revive-tradition-
 category: news
 

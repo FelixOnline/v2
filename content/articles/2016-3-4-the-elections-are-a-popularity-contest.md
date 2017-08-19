@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:32:06 +0000"
 id: "6000"
 old_path: /comment/6000/the-elections-are-a-popularity-contest
-redirect_from:
+aliases:
  - /comment/6000/the-elections-are-a-popularity-contest
 category: comment
 

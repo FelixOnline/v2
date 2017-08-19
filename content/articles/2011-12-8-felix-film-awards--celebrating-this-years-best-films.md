@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:27:43 +0000"
 id: "1938"
 old_path: /film/1938/felix-film-awards--celebrating-this-years-best-films
-redirect_from:
+aliases:
  - /film/1938/felix-film-awards--celebrating-this-years-best-films
 category: film
 

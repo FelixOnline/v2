@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:34:39 +0000"
 id: "1029"
 old_path: /sport/1029/solid-performance-by-hockey-third-team-sees-four-goals-scored-against-st-barts
-redirect_from:
+aliases:
  - /sport/1029/solid-performance-by-hockey-third-team-sees-four-goals-scored-against-st-barts
 category: sport
 

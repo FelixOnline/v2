@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:01:07 +0000"
 id: "4105"
 old_path: /science/4105/-mars-maven-mission-launches
-redirect_from:
+aliases:
  - /science/4105/-mars-maven-mission-launches
 category: science
 

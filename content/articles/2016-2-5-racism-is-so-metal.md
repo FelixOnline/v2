@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:39:51 +0000"
 id: "5880"
 old_path: /music/5880/racism-is-so-metal
-redirect_from:
+aliases:
  - /music/5880/racism-is-so-metal
 category: music
 

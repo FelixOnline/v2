@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:56:40 +0000"
 id: "6067"
 old_path: /film/6067/the-witch
-redirect_from:
+aliases:
  - /film/6067/the-witch
 category: film
 

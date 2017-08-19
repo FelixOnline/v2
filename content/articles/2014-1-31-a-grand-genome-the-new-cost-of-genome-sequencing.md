@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:37:29 +0000"
 id: "4317"
 old_path: /science/4317/a-grand-genome-the-new-cost-of-genome-sequencing
-redirect_from:
+aliases:
  - /science/4317/a-grand-genome-the-new-cost-of-genome-sequencing
 category: science
 

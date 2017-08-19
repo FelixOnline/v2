@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 07:22:56 +0000"
 id: "450"
 old_path: /news/450/major-changes-to-security-staff-after-metric-launch-violence-
-redirect_from:
+aliases:
  - /news/450/major-changes-to-security-staff-after-metric-launch-violence-
 category: news
 

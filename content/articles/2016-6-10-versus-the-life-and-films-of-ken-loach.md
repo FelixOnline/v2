@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:31:34 +0100"
 id: "6261"
 old_path: /film/6261/versus-the-life-and-films-of-ken-loach
-redirect_from:
+aliases:
  - /film/6261/versus-the-life-and-films-of-ken-loach
 category: film
 

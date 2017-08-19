@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 13:52:31 +0000"
 id: "6629"
 old_path: /news/6629/firefighters-swarm-the-science-museum
-redirect_from:
+aliases:
  - /news/6629/firefighters-swarm-the-science-museum
 category: news
 

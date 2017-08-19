@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:42:29 +0000"
 id: "3069"
 old_path: /music/3069/diiv-in-the-garage
-redirect_from:
+aliases:
  - /music/3069/diiv-in-the-garage
 category: music
 

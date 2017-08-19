@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:12:16 +0000"
 id: "4890"
 old_path: /music/4890/final-fantasy-at-the-royal-albert-hall
-redirect_from:
+aliases:
  - /music/4890/final-fantasy-at-the-royal-albert-hall
 category: music
 

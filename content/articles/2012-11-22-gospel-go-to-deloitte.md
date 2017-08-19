@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:51:51 +0000"
 id: "2934"
 old_path: /news/2934/gospel-go-to-deloitte
-redirect_from:
+aliases:
  - /news/2934/gospel-go-to-deloitte
 category: news
 

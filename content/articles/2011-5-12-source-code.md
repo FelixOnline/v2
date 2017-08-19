@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:38:45 +0100"
 id: "1191"
 old_path: /film/1191/source-code
-redirect_from:
+aliases:
  - /film/1191/source-code
 category: film
 

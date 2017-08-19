@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:06:18 +0000"
 id: "3457"
 old_path: /news/3457/aero-students-given-funding-to-build-rc-plane
-redirect_from:
+aliases:
  - /news/3457/aero-students-given-funding-to-build-rc-plane
 category: news
 

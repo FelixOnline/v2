@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:26:36 +0100"
 id: "5480"
 old_path: /politics/5480/students-are-taking-to-the-campaign-trail-too
-redirect_from:
+aliases:
  - /politics/5480/students-are-taking-to-the-campaign-trail-too
 category: politics
 

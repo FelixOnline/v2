@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:25:42 +0000"
 id: "3271"
 old_path: /sport/3271/mens-water-polo-handle-their-balls-right
-redirect_from:
+aliases:
  - /sport/3271/mens-water-polo-handle-their-balls-right
 category: sport
 

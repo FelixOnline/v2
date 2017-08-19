@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:15:50 +0000"
 id: "836"
 old_path: /comment/836/researchers-should-get-behind-our-libraries-and-support-their-campaign
-redirect_from:
+aliases:
  - /comment/836/researchers-should-get-behind-our-libraries-and-support-their-campaign
 category: comment
 

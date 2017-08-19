@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:44:47 +0000"
 id: "4826"
 old_path: /film/4826/how-to-surive-a-horror-film
-redirect_from:
+aliases:
  - /film/4826/how-to-surive-a-horror-film
 category: film
 

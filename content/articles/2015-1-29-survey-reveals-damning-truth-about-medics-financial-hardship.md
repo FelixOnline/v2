@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:46:06 +0000"
 id: "5156"
 old_path: /news/5156/survey-reveals-damning-truth-about-medics-financial-hardship
-redirect_from:
+aliases:
  - /news/5156/survey-reveals-damning-truth-about-medics-financial-hardship
 category: news
 

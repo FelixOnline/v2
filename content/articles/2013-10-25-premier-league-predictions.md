@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:22:36 +0100"
 id: "3955"
 old_path: /sport/3955/premier-league-predictions
-redirect_from:
+aliases:
  - /sport/3955/premier-league-predictions
 category: sport
 

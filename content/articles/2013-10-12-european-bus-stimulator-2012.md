@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 23:47:02 +0100"
 id: "3871"
 old_path: /games/3871/european-bus-stimulator-2012
-redirect_from:
+aliases:
  - /games/3871/european-bus-stimulator-2012
 category: games
 

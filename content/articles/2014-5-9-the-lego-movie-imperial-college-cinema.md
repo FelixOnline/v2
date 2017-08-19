@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:22:44 +0100"
 id: "4587"
 old_path: /film/4587/the-lego-movie-imperial-college-cinema
-redirect_from:
+aliases:
  - /film/4587/the-lego-movie-imperial-college-cinema
 category: film
 

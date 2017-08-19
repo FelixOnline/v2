@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:41:58 +0100"
 id: "179"
 old_path: /news/179/former-rector-sir-richard-sykes-appointed-chairman-of-the-royal-institute
-redirect_from:
+aliases:
  - /news/179/former-rector-sir-richard-sykes-appointed-chairman-of-the-royal-institute
 category: news
 

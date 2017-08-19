@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:18:16 +0000"
 id: "3128"
 old_path: /science/3128/the-epic-genetics-or-epigenetics-of-invasive-species-
-redirect_from:
+aliases:
  - /science/3128/the-epic-genetics-or-epigenetics-of-invasive-species-
 category: science
 

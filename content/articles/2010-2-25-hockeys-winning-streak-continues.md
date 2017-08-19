@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 18:37:28 +0000"
 id: "102"
 old_path: /sport/102/hockeys-winning-streak-continues
-redirect_from:
+aliases:
  - /sport/102/hockeys-winning-streak-continues
 category: sport
 

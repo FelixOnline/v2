@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:35:36 +0100"
 id: "5666"
 old_path: /science/5666/women-are-needed-to-increase-productivity
-redirect_from:
+aliases:
  - /science/5666/women-are-needed-to-increase-productivity
 category: science
 

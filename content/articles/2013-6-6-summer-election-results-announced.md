@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 10:53:19 +0100"
 id: "3662"
 old_path: /news/3662/summer-election-results-announced
-redirect_from:
+aliases:
  - /news/3662/summer-election-results-announced
 category: news
 

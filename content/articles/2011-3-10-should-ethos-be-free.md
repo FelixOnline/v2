@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:03:43 +0000"
 id: "1060"
 old_path: /comment/1060/should-ethos-be-free
-redirect_from:
+aliases:
  - /comment/1060/should-ethos-be-free
 category: comment
 

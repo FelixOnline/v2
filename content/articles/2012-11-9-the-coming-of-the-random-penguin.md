@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:22:14 +0000"
 id: "2857"
 old_path: /books/2857/the-coming-of-the-random-penguin
-redirect_from:
+aliases:
  - /books/2857/the-coming-of-the-random-penguin
 category: books
 

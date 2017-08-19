@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:43:21 +0100"
 id: "3912"
 old_path: /features/3912/from-trash-to-treasure-via-synthetic-biology
-redirect_from:
+aliases:
  - /features/3912/from-trash-to-treasure-via-synthetic-biology
 category: features
 

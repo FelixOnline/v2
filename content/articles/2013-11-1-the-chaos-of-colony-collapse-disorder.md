@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:43:48 +0000"
 id: "3974"
 old_path: /science/3974/the-chaos-of-colony-collapse-disorder
-redirect_from:
+aliases:
  - /science/3974/the-chaos-of-colony-collapse-disorder
 category: science
 

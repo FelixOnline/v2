@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 12:16:08 +0100"
 id: "3526"
 old_path: /sport/3526/womens-handball-victorious-in-france
-redirect_from:
+aliases:
  - /sport/3526/womens-handball-victorious-in-france
 category: sport
 

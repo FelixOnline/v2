@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:20:37 +0000"
 id: "4424"
 old_path: /books/4424/charles-stross
-redirect_from:
+aliases:
  - /books/4424/charles-stross
 category: books
 

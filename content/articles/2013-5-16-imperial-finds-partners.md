@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 20:41:29 +0100"
 id: "3590"
 old_path: /news/3590/imperial-finds-partners
-redirect_from:
+aliases:
  - /news/3590/imperial-finds-partners
 category: news
 

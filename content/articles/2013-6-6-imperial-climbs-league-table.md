@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 18:47:08 +0100"
 id: "3668"
 old_path: /news/3668/imperial-climbs-league-table
-redirect_from:
+aliases:
  - /news/3668/imperial-climbs-league-table
 category: news
 

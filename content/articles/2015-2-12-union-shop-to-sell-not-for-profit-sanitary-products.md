@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 20:54:55 +0000"
 id: "5235"
 old_path: /news/5235/union-shop-to-sell-not-for-profit-sanitary-products
-redirect_from:
+aliases:
  - /news/5235/union-shop-to-sell-not-for-profit-sanitary-products
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:42:30 +0000"
 id: "540"
 old_path: /comment/540/life-sciences-cuts-letters
-redirect_from:
+aliases:
  - /comment/540/life-sciences-cuts-letters
 category: comment
 

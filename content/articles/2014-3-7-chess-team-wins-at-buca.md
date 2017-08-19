@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:33:04 +0000"
 id: "4452"
 old_path: /news/4452/chess-team-wins-at-buca
-redirect_from:
+aliases:
  - /news/4452/chess-team-wins-at-buca
 category: news
 

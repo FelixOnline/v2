@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:30:57 +0100"
 id: "3792"
 old_path: /tech/3792/back-to-school-technically
-redirect_from:
+aliases:
  - /tech/3792/back-to-school-technically
 category: tech
 

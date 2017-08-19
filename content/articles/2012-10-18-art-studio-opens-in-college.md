@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:49:20 +0100"
 id: "2724"
 old_path: /news/2724/art-studio-opens-in-college
-redirect_from:
+aliases:
  - /news/2724/art-studio-opens-in-college
 category: news
 

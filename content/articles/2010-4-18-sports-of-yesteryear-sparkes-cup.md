@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-18 17:09:11 +0100"
 id: "127"
 old_path: /sport/127/sports-of-yesteryear-sparkes-cup
-redirect_from:
+aliases:
  - /sport/127/sports-of-yesteryear-sparkes-cup
 category: sport
 

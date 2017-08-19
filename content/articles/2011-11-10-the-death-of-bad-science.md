@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:46:49 +0000"
 id: "1720"
 old_path: /comment/1720/the-death-of-bad-science
-redirect_from:
+aliases:
  - /comment/1720/the-death-of-bad-science
 category: comment
 

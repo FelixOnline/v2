@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:38:10 +0100"
 id: "3724"
 old_path: /news/3724/volunteer-awards
-redirect_from:
+aliases:
  - /news/3724/volunteer-awards
 category: news
 

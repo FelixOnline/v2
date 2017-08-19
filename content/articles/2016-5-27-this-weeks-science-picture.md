@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:57:29 +0100"
 id: "6213"
 old_path: /science/6213/this-weeks-science-picture
-redirect_from:
+aliases:
  - /science/6213/this-weeks-science-picture
 category: science
 

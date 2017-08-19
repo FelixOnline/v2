@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:52:26 +0000"
 id: "4036"
 old_path: /music/4036/dealing-conversation-a-falco-n-punch
-redirect_from:
+aliases:
  - /music/4036/dealing-conversation-a-falco-n-punch
 category: music
 

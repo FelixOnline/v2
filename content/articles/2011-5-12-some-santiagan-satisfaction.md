@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:25:48 +0100"
 id: "1195"
 old_path: /travel/1195/some-santiagan-satisfaction
-redirect_from:
+aliases:
  - /travel/1195/some-santiagan-satisfaction
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:46:41 +0000"
 id: "2291"
 old_path: /biz/2291/stay-ahead-of-the-game-with-traderversity
-redirect_from:
+aliases:
  - /biz/2291/stay-ahead-of-the-game-with-traderversity
 category: business
 

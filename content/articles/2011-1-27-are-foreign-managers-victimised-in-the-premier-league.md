@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:39:05 +0000"
 id: "699"
 old_path: /sport/699/are-foreign-managers-victimised-in-the-premier-league
-redirect_from:
+aliases:
  - /sport/699/are-foreign-managers-victimised-in-the-premier-league
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:14:28 +0000"
 id: "463"
 old_path: /arts/463/enchanting-glass-memories
-redirect_from:
+aliases:
  - /arts/463/enchanting-glass-memories
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:02:39 +0000"
 id: "6880"
 old_path: /food/6880/treasures-from-the-levant
-redirect_from:
+aliases:
  - /food/6880/treasures-from-the-levant
 category: food
 

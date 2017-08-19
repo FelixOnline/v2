@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:16:51 +0000"
 id: "3967"
 old_path: /features/3967/interview-introducing-the-education-and-student-strategy
-redirect_from:
+aliases:
  - /features/3967/interview-introducing-the-education-and-student-strategy
 category: features
 

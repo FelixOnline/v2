@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 22:59:45 +0000"
 id: "2035"
 old_path: /news/2035/imperial-collects-lowest-amount-of-university-library-fines
-redirect_from:
+aliases:
  - /news/2035/imperial-collects-lowest-amount-of-university-library-fines
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:11:20 +0000"
 id: "5926"
 old_path: /comment/5926/fishballs-to-bullets--that-escalated-quickly
-redirect_from:
+aliases:
  - /comment/5926/fishballs-to-bullets--that-escalated-quickly
 category: comment
 

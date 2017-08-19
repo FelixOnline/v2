@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:48:27 +0000"
 id: "2095"
 old_path: /politics/2095/fresh-protests-in-senegal
-redirect_from:
+aliases:
  - /politics/2095/fresh-protests-in-senegal
 category: politics
 

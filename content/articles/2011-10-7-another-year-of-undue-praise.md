@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 01:48:37 +0100"
 id: "1476"
 old_path: /comment/1476/another-year-of-undue-praise
-redirect_from:
+aliases:
  - /comment/1476/another-year-of-undue-praise
 category: comment
 

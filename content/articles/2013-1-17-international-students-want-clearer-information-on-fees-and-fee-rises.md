@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:38:47 +0000"
 id: "3115"
 old_path: /news/3115/international-students-want-clearer-information-on-fees-and-fee-rises
-redirect_from:
+aliases:
  - /news/3115/international-students-want-clearer-information-on-fees-and-fee-rises
 category: news
 

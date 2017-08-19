@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 13:55:46 +0000"
 id: "551"
 old_path: /science/551/festive-science-facts-
-redirect_from:
+aliases:
  - /science/551/festive-science-facts-
 category: science
 

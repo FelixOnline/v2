@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:30:34 +0100"
 id: "3529"
 old_path: /news/3529/education-and-student-strategy-up-for-review
-redirect_from:
+aliases:
  - /news/3529/education-and-student-strategy-up-for-review
 category: news
 

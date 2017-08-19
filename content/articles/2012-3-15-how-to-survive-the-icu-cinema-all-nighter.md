@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:59:22 +0000"
 id: "2366"
 old_path: /film/2366/how-to-survive-the-icu-cinema-all-nighter
-redirect_from:
+aliases:
  - /film/2366/how-to-survive-the-icu-cinema-all-nighter
 category: film
 

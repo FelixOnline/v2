@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:15:55 +0000"
 id: "6793"
 old_path: /arts/6793/romeo-and-juliet--updated-and-abridged
-redirect_from:
+aliases:
  - /arts/6793/romeo-and-juliet--updated-and-abridged
 category: arts
 

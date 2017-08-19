@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:10:19 +0000"
 id: "6402"
 old_path: /food/6402/italian-for-brunch
-redirect_from:
+aliases:
  - /food/6402/italian-for-brunch
 category: food
 

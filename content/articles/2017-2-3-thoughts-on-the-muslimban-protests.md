@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:54:10 +0000"
 id: "6712"
 old_path: /comment/6712/thoughts-on-the-muslimban-protests
-redirect_from:
+aliases:
  - /comment/6712/thoughts-on-the-muslimban-protests
 category: comment
 

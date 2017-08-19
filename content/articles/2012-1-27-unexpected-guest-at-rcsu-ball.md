@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 00:27:57 +0000"
 id: "2081"
 old_path: /news/2081/unexpected-guest-at-rcsu-ball
-redirect_from:
+aliases:
  - /news/2081/unexpected-guest-at-rcsu-ball
 category: news
 

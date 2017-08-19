@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:47:04 +0000"
 id: "4004"
 old_path: /travel/4004/experience-volunteering-in-scenic-gorna
-redirect_from:
+aliases:
  - /travel/4004/experience-volunteering-in-scenic-gorna
 category: travel
 

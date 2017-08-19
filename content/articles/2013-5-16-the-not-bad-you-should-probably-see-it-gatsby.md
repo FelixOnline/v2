@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:16:00 +0100"
 id: "3581"
 old_path: /film/3581/the-not-bad-you-should-probably-see-it-gatsby
-redirect_from:
+aliases:
  - /film/3581/the-not-bad-you-should-probably-see-it-gatsby
 category: film
 

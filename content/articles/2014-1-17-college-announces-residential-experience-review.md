@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:01:02 +0000"
 id: "4219"
 old_path: /news/4219/college-announces-residential-experience-review
-redirect_from:
+aliases:
  - /news/4219/college-announces-residential-experience-review
 category: news
 

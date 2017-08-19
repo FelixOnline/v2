@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:34:39 +0000"
 id: "340"
 old_path: /tech/340/lte-to-the-party-uk-lags-behind-on-4g
-redirect_from:
+aliases:
  - /tech/340/lte-to-the-party-uk-lags-behind-on-4g
 category: tech
 

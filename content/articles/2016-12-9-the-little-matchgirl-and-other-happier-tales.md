@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:57:54 +0000"
 id: "6587"
 old_path: /arts/6587/the-little-matchgirl-and-other-happier-tales
-redirect_from:
+aliases:
  - /arts/6587/the-little-matchgirl-and-other-happier-tales
 category: arts
 

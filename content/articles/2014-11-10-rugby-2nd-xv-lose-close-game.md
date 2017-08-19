@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:06:08 +0000"
 id: "4836"
 old_path: /sport/4836/rugby-2nd-xv-lose-close-game
-redirect_from:
+aliases:
  - /sport/4836/rugby-2nd-xv-lose-close-game
 category: sport
 

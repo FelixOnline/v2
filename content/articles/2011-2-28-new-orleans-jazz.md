@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:31:24 +0000"
 id: "948"
 old_path: /music/948/new-orleans-jazz
-redirect_from:
+aliases:
  - /music/948/new-orleans-jazz
 category: music
 

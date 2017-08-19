@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:35:54 +0100"
 id: "3723"
 old_path: /news/3723/rectors-awards-announced
-redirect_from:
+aliases:
  - /news/3723/rectors-awards-announced
 category: news
 

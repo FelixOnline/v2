@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 19:20:50 +0000"
 id: "2310"
 old_path: /science/2310/stuck-like-superglue
-redirect_from:
+aliases:
  - /science/2310/stuck-like-superglue
 category: science
 

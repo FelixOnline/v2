@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:00:49 +0000"
 id: "322"
 old_path: /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
-redirect_from:
+aliases:
  - /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
 category: news
 

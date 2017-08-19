@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:00:39 +0000"
 id: "1723"
 old_path: /science/1723/computer-imitates-human-brain
-redirect_from:
+aliases:
  - /science/1723/computer-imitates-human-brain
 category: science
 

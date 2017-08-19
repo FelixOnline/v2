@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:00:45 +0100"
 id: "2608"
 old_path: /science/2608/solar-cells-get-a-boost
-redirect_from:
+aliases:
  - /science/2608/solar-cells-get-a-boost
 category: science
 

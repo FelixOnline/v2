@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:29:06 +0000"
 id: "3970"
 old_path: /politics/3970/tensions-escalate-between-us-and-germany
-redirect_from:
+aliases:
  - /politics/3970/tensions-escalate-between-us-and-germany
 category: politics
 

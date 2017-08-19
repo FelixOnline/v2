@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 01:05:18 +0100"
 id: "5579"
 old_path: /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
-redirect_from:
+aliases:
  - /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
 category: news
 

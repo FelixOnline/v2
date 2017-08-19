@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:50:22 +0000"
 id: "395"
 old_path: /travel/395/when-travelling-turns-trippy
-redirect_from:
+aliases:
  - /travel/395/when-travelling-turns-trippy
 category: travel
 

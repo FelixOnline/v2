@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:05:47 +0000"
 id: "3469"
 old_path: /science/3469/the-science-museum-thinktank-style-
-redirect_from:
+aliases:
  - /science/3469/the-science-museum-thinktank-style-
 category: science
 

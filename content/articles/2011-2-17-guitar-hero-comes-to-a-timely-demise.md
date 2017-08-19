@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:17:05 +0000"
 id: "837"
 old_path: /games/837/guitar-hero-comes-to-a-timely-demise
-redirect_from:
+aliases:
  - /games/837/guitar-hero-comes-to-a-timely-demise
 category: games
 

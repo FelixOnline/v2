@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 17:29:01 +0100"
 id: "3637"
 old_path: /science/3637/primes-primes-everywhere-
-redirect_from:
+aliases:
  - /science/3637/primes-primes-everywhere-
 category: science
 

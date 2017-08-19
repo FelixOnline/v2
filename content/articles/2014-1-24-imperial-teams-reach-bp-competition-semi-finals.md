@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:45:46 +0000"
 id: "4277"
 old_path: /news/4277/imperial-teams-reach-bp-competition-semi-finals
-redirect_from:
+aliases:
  - /news/4277/imperial-teams-reach-bp-competition-semi-finals
 category: news
 

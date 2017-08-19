@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 13:00:22 +0100"
 id: "3907"
 old_path: /film/3907/the-old-men-and-the-sea
-redirect_from:
+aliases:
  - /film/3907/the-old-men-and-the-sea
 category: film
 

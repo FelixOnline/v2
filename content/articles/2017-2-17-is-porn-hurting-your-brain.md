@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:54:33 +0000"
 id: "6798"
 old_path: /sex/6798/is-porn-hurting-your-brain
-redirect_from:
+aliases:
  - /sex/6798/is-porn-hurting-your-brain
 category: sex
 

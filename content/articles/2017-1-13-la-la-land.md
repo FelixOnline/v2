@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:30:25 +0000"
 id: "6642"
 old_path: /film/6642/la-la-land
-redirect_from:
+aliases:
  - /film/6642/la-la-land
 category: film
 

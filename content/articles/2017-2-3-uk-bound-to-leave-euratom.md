@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:01:15 +0000"
 id: "6707"
 old_path: /news/6707/uk-bound-to-leave-euratom
-redirect_from:
+aliases:
  - /news/6707/uk-bound-to-leave-euratom
 category: news
 

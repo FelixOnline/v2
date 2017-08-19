@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:15:21 +0100"
 id: "2497"
 old_path: /travel/2497/cruising-up-the-backwaters
-redirect_from:
+aliases:
  - /travel/2497/cruising-up-the-backwaters
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:20:03 +0000"
 id: "6017"
 old_path: /news/6017/basketball-team-told-by-ethos-theyre-not-a-commercial-asset
-redirect_from:
+aliases:
  - /news/6017/basketball-team-told-by-ethos-theyre-not-a-commercial-asset
 category: news
 

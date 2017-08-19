@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 01:29:26 +0000"
 id: "4057"
 old_path: /film/4057/the-comic-success-of-don-jon
-redirect_from:
+aliases:
  - /film/4057/the-comic-success-of-don-jon
 category: film
 

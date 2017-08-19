@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:12:10 +0000"
 id: "2252"
 old_path: /music/2252/reviewed-in-60-seconds-
-redirect_from:
+aliases:
  - /music/2252/reviewed-in-60-seconds-
 category: music
 

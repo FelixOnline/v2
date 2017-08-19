@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:37:49 +0000"
 id: "4917"
 old_path: /sport/4917/rookies-star-as-baseball-beat-ucl
-redirect_from:
+aliases:
  - /sport/4917/rookies-star-as-baseball-beat-ucl
 category: sport
 

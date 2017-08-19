@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:39:22 +0000"
 id: "2193"
 old_path: /fashion/2193/embracing-diversity-in-fashion
-redirect_from:
+aliases:
  - /fashion/2193/embracing-diversity-in-fashion
 category: fashion
 

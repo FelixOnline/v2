@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:42:17 +0100"
 id: "2549"
 old_path: /comment/2549/organ-donation-is-it-selfless-or-selfish
-redirect_from:
+aliases:
  - /comment/2549/organ-donation-is-it-selfless-or-selfish
 category: comment
 

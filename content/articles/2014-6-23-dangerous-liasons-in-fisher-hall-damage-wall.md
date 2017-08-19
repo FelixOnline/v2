@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 10:36:31 +0100"
 id: "4700"
 old_path: /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
-redirect_from:
+aliases:
  - /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
 category: news
 

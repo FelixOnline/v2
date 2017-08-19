@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:29:55 +0000"
 id: "4869"
 old_path: /comment/4869/the-darker-side-to-student-journalism
-redirect_from:
+aliases:
  - /comment/4869/the-darker-side-to-student-journalism
 category: comment
 

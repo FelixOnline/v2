@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:33:37 +0000"
 id: "1823"
 old_path: /food/1823/food-experiments-
-redirect_from:
+aliases:
  - /food/1823/food-experiments-
 category: food
 

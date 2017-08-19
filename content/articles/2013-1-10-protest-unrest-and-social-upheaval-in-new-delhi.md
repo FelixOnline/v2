@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:20:40 +0000"
 id: "3083"
 old_path: /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
-redirect_from:
+aliases:
  - /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-21 21:39:27 +0000"
 id: "44"
 old_path: /news/44/college-staff-member-attacks-students-guest-at-union
-redirect_from:
+aliases:
  - /news/44/college-staff-member-attacks-students-guest-at-union
 category: news
 

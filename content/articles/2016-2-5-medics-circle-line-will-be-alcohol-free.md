@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:45:34 +0000"
 id: "5861"
 old_path: /news/5861/medics-circle-line-will-be-alcohol-free-
-redirect_from:
+aliases:
  - /news/5861/medics-circle-line-will-be-alcohol-free-
 category: news
 

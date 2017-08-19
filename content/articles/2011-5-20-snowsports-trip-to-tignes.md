@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 03:09:08 +0100"
 id: "1214"
 old_path: /sport/1214/snowsports-trip-to-tignes
-redirect_from:
+aliases:
  - /sport/1214/snowsports-trip-to-tignes
 category: sport
 

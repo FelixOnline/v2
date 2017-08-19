@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:40:06 +0000"
 id: "3068"
 old_path: /music/3068/neurosis-in-conversation
-redirect_from:
+aliases:
  - /music/3068/neurosis-in-conversation
 category: music
 

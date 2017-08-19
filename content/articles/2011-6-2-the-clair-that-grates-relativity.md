@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:18:02 +0100"
 id: "1320"
 old_path: /food/1320/the-clair-that-grates-relativity
-redirect_from:
+aliases:
  - /food/1320/the-clair-that-grates-relativity
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:57:06 +0000"
 id: "416"
 old_path: /news/416/imperials-maths-department-has-highest-entry-standards-in-uk-
-redirect_from:
+aliases:
  - /news/416/imperials-maths-department-has-highest-entry-standards-in-uk-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:57:27 +0000"
 id: "3057"
 old_path: /sport/3057/ic-football-get-hot-and-sweaty-in-brighton-
-redirect_from:
+aliases:
  - /sport/3057/ic-football-get-hot-and-sweaty-in-brighton-
 category: sport
 

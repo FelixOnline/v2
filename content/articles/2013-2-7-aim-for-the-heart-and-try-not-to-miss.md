@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:37:51 +0000"
 id: "3265"
 old_path: /games/3265/aim-for-the-heart-and-try-not-to-miss
-redirect_from:
+aliases:
  - /games/3265/aim-for-the-heart-and-try-not-to-miss
 category: games
 

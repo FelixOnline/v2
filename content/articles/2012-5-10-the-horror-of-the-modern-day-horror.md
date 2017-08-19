@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:31:08 +0100"
 id: "2433"
 old_path: /games/2433/the-horror-of-the-modern-day-horror
-redirect_from:
+aliases:
  - /games/2433/the-horror-of-the-modern-day-horror
 category: games
 

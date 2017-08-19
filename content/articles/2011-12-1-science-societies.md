@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:56:20 +0000"
 id: "1864"
 old_path: /science/1864/science-societies
-redirect_from:
+aliases:
  - /science/1864/science-societies
 category: science
 

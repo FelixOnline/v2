@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:56:30 +0000"
 id: "320"
 old_path: /comment/320/were-all-fed-so-what
-redirect_from:
+aliases:
  - /comment/320/were-all-fed-so-what
 category: comment
 

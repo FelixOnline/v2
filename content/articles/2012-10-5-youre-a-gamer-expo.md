@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:34:12 +0100"
 id: "2599"
 old_path: /games/2599/youre-a-gamer-expo
-redirect_from:
+aliases:
  - /games/2599/youre-a-gamer-expo
 category: games
 

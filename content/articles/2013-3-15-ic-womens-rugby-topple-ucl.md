@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:03:04 +0000"
 id: "3483"
 old_path: /sport/3483/ic-womens-rugby-topple-ucl
-redirect_from:
+aliases:
  - /sport/3483/ic-womens-rugby-topple-ucl
 category: sport
 

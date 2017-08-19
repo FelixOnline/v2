@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-15 18:16:50 +0000"
 id: "377"
 old_path: /games/377/the-next-revolution-in-gaming-has-arrived
-redirect_from:
+aliases:
  - /games/377/the-next-revolution-in-gaming-has-arrived
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-07 15:15:42 +0000"
 id: "6741"
 old_path: /news/6741/kings-lecturer-apologises-for-offending-somali-community
-redirect_from:
+aliases:
  - /news/6741/kings-lecturer-apologises-for-offending-somali-community
 category: news
 

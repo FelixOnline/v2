@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:40:28 +0000"
 id: "975"
 old_path: /science/975/science-is-fighting-to-survive-in-washington
-redirect_from:
+aliases:
  - /science/975/science-is-fighting-to-survive-in-washington
 category: science
 

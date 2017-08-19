@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:58:17 +0000"
 id: "6679"
 old_path: /sex/6679/how-not-to-fall-in-love-with-someone-from-metric
-redirect_from:
+aliases:
  - /sex/6679/how-not-to-fall-in-love-with-someone-from-metric
 category: sex
 

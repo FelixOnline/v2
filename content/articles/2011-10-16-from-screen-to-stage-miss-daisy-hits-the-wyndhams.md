@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 14:24:05 +0100"
 id: "1545"
 old_path: /arts/1545/from-screen-to-stage-miss-daisy-hits-the-wyndhams
-redirect_from:
+aliases:
  - /arts/1545/from-screen-to-stage-miss-daisy-hits-the-wyndhams
 category: arts
 

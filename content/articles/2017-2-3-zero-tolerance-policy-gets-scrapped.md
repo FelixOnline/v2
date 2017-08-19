@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:04:11 +0000"
 id: "6708"
 old_path: /news/6708/zero-tolerance-policy-gets-scrapped
-redirect_from:
+aliases:
  - /news/6708/zero-tolerance-policy-gets-scrapped
 category: news
 

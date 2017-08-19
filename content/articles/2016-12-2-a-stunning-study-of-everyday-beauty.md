@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:06:22 +0000"
 id: "6531"
 old_path: /film/6531/a-stunning-study-of-everyday-beauty
-redirect_from:
+aliases:
  - /film/6531/a-stunning-study-of-everyday-beauty
 category: film
 

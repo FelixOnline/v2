@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:44:43 +0000"
 id: "2347"
 old_path: /politics/2347/like-geldof-mixed-with-bush
-redirect_from:
+aliases:
  - /politics/2347/like-geldof-mixed-with-bush
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:19:24 +0100"
 id: "3826"
 old_path: /science/3826/marsupials-dont-stop-until-they-drop
-redirect_from:
+aliases:
  - /science/3826/marsupials-dont-stop-until-they-drop
 category: science
 

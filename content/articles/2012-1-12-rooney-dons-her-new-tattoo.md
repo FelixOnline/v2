@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:45:41 +0000"
 id: "1991"
 old_path: /film/1991/rooney-dons-her-new-tattoo
-redirect_from:
+aliases:
  - /film/1991/rooney-dons-her-new-tattoo
 category: film
 

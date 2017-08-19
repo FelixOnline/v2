@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:14:43 +0100"
 id: "6935"
 old_path: /news/6935/new-dean-new-day-new-life-for-engineering
-redirect_from:
+aliases:
  - /news/6935/new-dean-new-day-new-life-for-engineering
 category: news
 

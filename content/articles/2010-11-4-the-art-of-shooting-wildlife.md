@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:11:17 +0000"
 id: "291"
 old_path: /arts/291/the-art-of-shooting-wildlife-
-redirect_from:
+aliases:
  - /arts/291/the-art-of-shooting-wildlife-
 category: arts
 

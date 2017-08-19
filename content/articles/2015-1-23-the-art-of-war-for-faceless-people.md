@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:09:50 +0000"
 id: "5139"
 old_path: /tech/5139/the-art-of-war-for-faceless-people
-redirect_from:
+aliases:
  - /tech/5139/the-art-of-war-for-faceless-people
 category: tech
 

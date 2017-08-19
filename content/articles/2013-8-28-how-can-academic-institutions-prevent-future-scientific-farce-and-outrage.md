@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-28 08:52:02 +0100"
 id: "3754"
 old_path: /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
-redirect_from:
+aliases:
  - /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
 category: comment
 

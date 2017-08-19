@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:42:59 +0100"
 id: "1354"
 old_path: /tech/1354/the-game-best-played-on-the-move
-redirect_from:
+aliases:
  - /tech/1354/the-game-best-played-on-the-move
 category: tech
 

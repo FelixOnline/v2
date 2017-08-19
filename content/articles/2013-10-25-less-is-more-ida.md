@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:50:03 +0100"
 id: "3939"
 old_path: /film/3939/less-is-more-ida
-redirect_from:
+aliases:
  - /film/3939/less-is-more-ida
 category: film
 

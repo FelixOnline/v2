@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:12:02 +0000"
 id: "5989"
 old_path: /cands/5989/icu-mtsoc-presents-sweeney-todd
-redirect_from:
+aliases:
  - /cands/5989/icu-mtsoc-presents-sweeney-todd
 category: clubs-and-socs
 

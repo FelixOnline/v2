@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:14:32 +0100"
 id: "5595"
 old_path: /news/5595/imperial-signs-research-deal-in-qatar
-redirect_from:
+aliases:
  - /news/5595/imperial-signs-research-deal-in-qatar
 category: news
 

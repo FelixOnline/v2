@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:23:48 +0000"
 id: "1026"
 old_path: /sport/1026/fencers-comprehensively-beat-manchester-to-make-it-to-bucs-semi-finals
-redirect_from:
+aliases:
  - /sport/1026/fencers-comprehensively-beat-manchester-to-make-it-to-bucs-semi-finals
 category: sport
 

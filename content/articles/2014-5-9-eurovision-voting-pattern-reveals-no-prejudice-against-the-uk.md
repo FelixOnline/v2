@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 01:57:22 +0100"
 id: "4566"
 old_path: /news/4566/eurovision-voting-pattern-reveals-no-prejudice-against-the-uk
-redirect_from:
+aliases:
  - /news/4566/eurovision-voting-pattern-reveals-no-prejudice-against-the-uk
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:01:29 +0000"
 id: "2954"
 old_path: /comment/2954/all-i-wanna-do-is-ching-and-take-your-money
-redirect_from:
+aliases:
  - /comment/2954/all-i-wanna-do-is-ching-and-take-your-money
 category: comment
 

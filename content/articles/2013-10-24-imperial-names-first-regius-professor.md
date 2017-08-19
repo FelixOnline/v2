@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:29:59 +0100"
 id: "3908"
 old_path: /news/3908/imperial-names-first-regius-professor-
-redirect_from:
+aliases:
  - /news/3908/imperial-names-first-regius-professor-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:19:14 +0100"
 id: "5598"
 old_path: /news/5598/lots-road-redevelopment-to-go-ahead
-redirect_from:
+aliases:
  - /news/5598/lots-road-redevelopment-to-go-ahead
 category: news
 

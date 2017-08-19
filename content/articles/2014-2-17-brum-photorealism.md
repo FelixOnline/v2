@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 19:36:24 +0000"
 id: "4402"
 old_path: /arts/4402/brum-photorealism
-redirect_from:
+aliases:
  - /arts/4402/brum-photorealism
 category: arts
 

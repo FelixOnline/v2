@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:24:26 +0000"
 id: "2188"
 old_path: /books/2188/the-pick-of-this-years-picocon
-redirect_from:
+aliases:
  - /books/2188/the-pick-of-this-years-picocon
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:36:25 +0100"
 id: "1571"
 old_path: /comment/1571/would-i-be-this-hot-with-glasses-meh
-redirect_from:
+aliases:
  - /comment/1571/would-i-be-this-hot-with-glasses-meh
 category: comment
 

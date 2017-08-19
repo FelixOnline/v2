@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-17 17:19:28 +0000"
 id: "4483"
 old_path: /features/4483/obituary-bob-crow
-redirect_from:
+aliases:
  - /features/4483/obituary-bob-crow
 category: features
 

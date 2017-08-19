@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:57:27 +0000"
 id: "4287"
 old_path: /science/4287/the-epigenetic-revolution
-redirect_from:
+aliases:
  - /science/4287/the-epigenetic-revolution
 category: science
 

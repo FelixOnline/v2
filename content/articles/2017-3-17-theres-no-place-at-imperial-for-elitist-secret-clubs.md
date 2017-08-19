@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:01:58 +0000"
 id: "6908"
 old_path: /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
-redirect_from:
+aliases:
  - /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
 category: comment
 

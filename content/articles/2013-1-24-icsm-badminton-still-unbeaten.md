@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 20:57:39 +0000"
 id: "3155"
 old_path: /sport/3155/icsm-badminton-still-unbeaten
-redirect_from:
+aliases:
  - /sport/3155/icsm-badminton-still-unbeaten
 category: sport
 

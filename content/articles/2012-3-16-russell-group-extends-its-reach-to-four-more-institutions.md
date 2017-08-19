@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-16 01:54:05 +0000"
 id: "2403"
 old_path: /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
-redirect_from:
+aliases:
  - /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
 category: news
 

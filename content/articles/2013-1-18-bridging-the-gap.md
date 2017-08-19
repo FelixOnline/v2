@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:46:32 +0000"
 id: "3141"
 old_path: /games/3141/bridging-the-gap
-redirect_from:
+aliases:
  - /games/3141/bridging-the-gap
 category: games
 

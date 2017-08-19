@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 14:00:08 +0000"
 id: "6424"
 old_path: /comment/6424/no-one-helped-no-one-understood
-redirect_from:
+aliases:
  - /comment/6424/no-one-helped-no-one-understood
 category: comment
 

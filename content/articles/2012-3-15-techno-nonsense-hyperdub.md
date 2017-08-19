@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:34:22 +0000"
 id: "2387"
 old_path: /music/2387/techno-nonsense-hyperdub
-redirect_from:
+aliases:
  - /music/2387/techno-nonsense-hyperdub
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:21:59 +0100"
 id: "5655"
 old_path: /news/5655/us-secretary-of-defence-visits-imperial-campus
-redirect_from:
+aliases:
  - /news/5655/us-secretary-of-defence-visits-imperial-campus
 category: news
 

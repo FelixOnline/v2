@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:23:24 +0000"
 id: "3270"
 old_path: /sport/3270/high-hopes-for-handball-at-champs
-redirect_from:
+aliases:
  - /sport/3270/high-hopes-for-handball-at-champs
 category: sport
 

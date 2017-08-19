@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:41:51 +0000"
 id: "4456"
 old_path: /features/4456/recovering-from-depression
-redirect_from:
+aliases:
  - /features/4456/recovering-from-depression
 category: features
 

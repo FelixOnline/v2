@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:18:19 +0000"
 id: "4210"
 old_path: /games/4210/wishing-upon-a-gaming-star
-redirect_from:
+aliases:
  - /games/4210/wishing-upon-a-gaming-star
 category: games
 

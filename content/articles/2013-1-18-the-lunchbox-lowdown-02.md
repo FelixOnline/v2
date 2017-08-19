@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 01:20:51 +0000"
 id: "3152"
 old_path: /food/3152/the-lunchbox-lowdown-02
-redirect_from:
+aliases:
  - /food/3152/the-lunchbox-lowdown-02
 category: food
 

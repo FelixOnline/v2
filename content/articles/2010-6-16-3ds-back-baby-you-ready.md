@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-06-16 18:30:14 +0100"
 id: "145"
 old_path: /tech/145/3ds-back-baby-you-ready
-redirect_from:
+aliases:
  - /tech/145/3ds-back-baby-you-ready
 category: tech
 

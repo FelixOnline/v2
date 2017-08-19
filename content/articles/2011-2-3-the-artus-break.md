@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:31:11 +0000"
 id: "749"
 old_path: /comment/749/the-artus-break
-redirect_from:
+aliases:
  - /comment/749/the-artus-break
 category: comment
 

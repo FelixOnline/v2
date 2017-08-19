@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:22:08 +0000"
 id: "5930"
 old_path: /science/5930/scientists-who-made-bank
-redirect_from:
+aliases:
  - /science/5930/scientists-who-made-bank
 category: science
 

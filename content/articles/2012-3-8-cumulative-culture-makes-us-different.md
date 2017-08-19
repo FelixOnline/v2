@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:16:11 +0000"
 id: "2313"
 old_path: /science/2313/cumulative-culture-makes-us-different
-redirect_from:
+aliases:
  - /science/2313/cumulative-culture-makes-us-different
 category: science
 

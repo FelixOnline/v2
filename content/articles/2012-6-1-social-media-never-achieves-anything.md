@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:52:29 +0100"
 id: "2514"
 old_path: /comment/2514/social-media-never-achieves-anything
-redirect_from:
+aliases:
  - /comment/2514/social-media-never-achieves-anything
 category: comment
 

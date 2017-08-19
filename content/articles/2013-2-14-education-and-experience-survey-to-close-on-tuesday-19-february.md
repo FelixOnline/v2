@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 13:15:46 +0000"
 id: "3323"
 old_path: /news/3323/education-and-experience-survey-to-close-on-tuesday-19-february
-redirect_from:
+aliases:
  - /news/3323/education-and-experience-survey-to-close-on-tuesday-19-february
 category: news
 

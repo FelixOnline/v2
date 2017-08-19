@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 21:42:39 +0100"
 id: "1613"
 old_path: /film/1613/change-begins-with-a-whisper
-redirect_from:
+aliases:
  - /film/1613/change-begins-with-a-whisper
 category: film
 

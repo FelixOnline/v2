@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:27:13 +0100"
 id: "189"
 old_path: /music/189/diagram-of-the-heart-have-a-heart-to-heart-before-bestival
-redirect_from:
+aliases:
  - /music/189/diagram-of-the-heart-have-a-heart-to-heart-before-bestival
 category: music
 

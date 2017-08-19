@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:23:09 +0000"
 id: "6546"
 old_path: /food/6546/better-than-gbk
-redirect_from:
+aliases:
  - /food/6546/better-than-gbk
 category: food
 

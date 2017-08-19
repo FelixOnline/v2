@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:00:50 +0000"
 id: "1846"
 old_path: /film/1846/mirror-mirror-on-the-wall
-redirect_from:
+aliases:
  - /film/1846/mirror-mirror-on-the-wall
 category: film
 

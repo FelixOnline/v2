@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:41:41 +0000"
 id: "3444"
 old_path: /comment/3444/the-virtuous-meritocracy
-redirect_from:
+aliases:
  - /comment/3444/the-virtuous-meritocracy
 category: comment
 

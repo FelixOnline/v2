@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 17:45:57 +0000"
 id: "6435"
 old_path: /food/6435/make-restaurants-great-again
-redirect_from:
+aliases:
  - /food/6435/make-restaurants-great-again
 category: food
 

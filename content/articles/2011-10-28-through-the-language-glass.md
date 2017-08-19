@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:09:43 +0100"
 id: "1626"
 old_path: /science/1626/through-the-language-glass
-redirect_from:
+aliases:
  - /science/1626/through-the-language-glass
 category: science
 

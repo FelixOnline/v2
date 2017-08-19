@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 21:14:39 +0100"
 id: "1435"
 old_path: /food/1435/so-hungry-i-could-eat-a-horse
-redirect_from:
+aliases:
  - /food/1435/so-hungry-i-could-eat-a-horse
 category: food
 

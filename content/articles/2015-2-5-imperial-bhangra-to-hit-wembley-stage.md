@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 23:37:54 +0000"
 id: "5193"
 old_path: /news/5193/imperial-bhangra-to-hit-wembley-stage
-redirect_from:
+aliases:
  - /news/5193/imperial-bhangra-to-hit-wembley-stage
 category: news
 

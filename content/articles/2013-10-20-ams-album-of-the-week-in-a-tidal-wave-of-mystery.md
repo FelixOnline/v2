@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 01:53:18 +0100"
 id: "3904"
 old_path: /music/3904/ams-album-of-the-week-in-a-tidal-wave-of-mystery
-redirect_from:
+aliases:
  - /music/3904/ams-album-of-the-week-in-a-tidal-wave-of-mystery
 category: music
 

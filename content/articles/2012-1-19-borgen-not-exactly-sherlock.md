@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 19:55:57 +0000"
 id: "2001"
 old_path: /tv/2001/borgen-not-exactly-sherlock
-redirect_from:
+aliases:
  - /tv/2001/borgen-not-exactly-sherlock
 category: tv
 

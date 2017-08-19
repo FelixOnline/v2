@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:38:21 +0000"
 id: "4020"
 old_path: /news/4020/imperials-new-twitter-tool
-redirect_from:
+aliases:
  - /news/4020/imperials-new-twitter-tool
 category: news
 

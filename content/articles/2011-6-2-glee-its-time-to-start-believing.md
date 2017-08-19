@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:08:43 +0100"
 id: "1317"
 old_path: /tv/1317/glee-its-time-to-start-believing
-redirect_from:
+aliases:
  - /tv/1317/glee-its-time-to-start-believing
 category: tv
 

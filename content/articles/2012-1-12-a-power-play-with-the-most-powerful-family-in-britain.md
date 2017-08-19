@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:55:58 +0000"
 id: "1995"
 old_path: /tv/1995/a-power-play-with-the-most-powerful-family-in-britain
-redirect_from:
+aliases:
  - /tv/1995/a-power-play-with-the-most-powerful-family-in-britain
 category: tv
 

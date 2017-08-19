@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 10:08:51 +0100"
 id: "6332"
 old_path: /comment/6332/i-never-knew-how-hard-being-an-immigrant-was-until-i-put-it-into-words
-redirect_from:
+aliases:
  - /comment/6332/i-never-knew-how-hard-being-an-immigrant-was-until-i-put-it-into-words
 category: comment
 

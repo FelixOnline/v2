@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:57:18 +0000"
 id: "3434"
 old_path: /games/3434/all-good-things-of-this-earth
-redirect_from:
+aliases:
  - /games/3434/all-good-things-of-this-earth
 category: games
 

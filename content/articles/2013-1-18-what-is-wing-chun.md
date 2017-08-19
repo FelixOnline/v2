@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:59:26 +0000"
 id: "3146"
 old_path: /sport/3146/what-is-wing-chun
-redirect_from:
+aliases:
  - /sport/3146/what-is-wing-chun
 category: sport
 

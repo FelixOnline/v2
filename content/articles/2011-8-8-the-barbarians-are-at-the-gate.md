@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-08-08 13:52:13 +0100"
 id: "1454"
 old_path: /food/1454/the-barbarians-are-at-the-gate
-redirect_from:
+aliases:
  - /food/1454/the-barbarians-are-at-the-gate
 category: food
 

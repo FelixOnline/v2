@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 22:44:32 +0000"
 id: "6370"
 old_path: /sex/6370/drunk-consent-is-not-consent-my-rape-story
-redirect_from:
+aliases:
  - /sex/6370/drunk-consent-is-not-consent-my-rape-story
 category: sex
 

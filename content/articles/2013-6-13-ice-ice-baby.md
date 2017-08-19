@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:32:13 +0100"
 id: "3693"
 old_path: /film/3693/ice-ice-baby
-redirect_from:
+aliases:
  - /film/3693/ice-ice-baby
 category: film
 

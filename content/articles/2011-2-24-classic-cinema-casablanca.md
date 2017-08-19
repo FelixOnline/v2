@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:00:22 +0000"
 id: "874"
 old_path: /film/874/classic-cinema-casablanca
-redirect_from:
+aliases:
  - /film/874/classic-cinema-casablanca
 category: film
 

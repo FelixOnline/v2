@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:37:43 +0000"
 id: "538"
 old_path: /comment/538/minced-pies-in-june-if-only
-redirect_from:
+aliases:
  - /comment/538/minced-pies-in-june-if-only
 category: comment
 

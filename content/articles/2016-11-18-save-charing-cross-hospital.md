@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:28:41 +0000"
 id: "6456"
 old_path: /news/6456/save-charing-cross-hospital
-redirect_from:
+aliases:
  - /news/6456/save-charing-cross-hospital
 category: news
 

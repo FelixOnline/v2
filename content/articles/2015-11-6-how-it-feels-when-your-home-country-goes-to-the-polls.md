@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:56:02 +0000"
 id: "5702"
 old_path: /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
-redirect_from:
+aliases:
  - /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
 category: comment
 

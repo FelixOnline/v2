@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:31:51 +0100"
 id: "6957"
 old_path: /sex/6957/its-not-my-job-to-please-your-girlfriend
-redirect_from:
+aliases:
  - /sex/6957/its-not-my-job-to-please-your-girlfriend
 category: sex
 

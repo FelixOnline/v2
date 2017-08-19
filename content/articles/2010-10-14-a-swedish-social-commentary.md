@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:48:53 +0100"
 id: "214"
 old_path: /film/214/a-swedish-social-commentary
-redirect_from:
+aliases:
  - /film/214/a-swedish-social-commentary
 category: film
 

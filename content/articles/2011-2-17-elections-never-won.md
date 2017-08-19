@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:26:34 +0000"
 id: "843"
 old_path: /politics/843/elections-never-won
-redirect_from:
+aliases:
  - /politics/843/elections-never-won
 category: politics
 

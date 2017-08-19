@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 00:20:18 +0100"
 id: "2420"
 old_path: /comment/2420/to-vote-or-not-to-vote-whats-the-problem
-redirect_from:
+aliases:
  - /comment/2420/to-vote-or-not-to-vote-whats-the-problem
 category: comment
 

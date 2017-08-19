@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:12:54 +0000"
 id: "488"
 old_path: /comment/488/the-coalitions-plans-are-ideological
-redirect_from:
+aliases:
  - /comment/488/the-coalitions-plans-are-ideological
 category: comment
 

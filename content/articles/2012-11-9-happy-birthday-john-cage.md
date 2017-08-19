@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:01:04 +0000"
 id: "2865"
 old_path: /music/2865/happy-birthday-john-cage
-redirect_from:
+aliases:
  - /music/2865/happy-birthday-john-cage
 category: music
 

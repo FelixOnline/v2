@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:37:40 +0000"
 id: "3995"
 old_path: /music/3995/album-review-deaf-havana
-redirect_from:
+aliases:
  - /music/3995/album-review-deaf-havana
 category: music
 

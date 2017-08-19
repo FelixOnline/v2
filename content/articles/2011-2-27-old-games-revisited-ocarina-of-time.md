@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 13:04:53 +0000"
 id: "904"
 old_path: /games/904/old-games-revisited-ocarina-of-time
-redirect_from:
+aliases:
  - /games/904/old-games-revisited-ocarina-of-time
 category: games
 

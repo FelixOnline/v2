@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:19:05 +0000"
 id: "2231"
 old_path: /comment/2231/the-great-executive-committee-blunder
-redirect_from:
+aliases:
  - /comment/2231/the-great-executive-committee-blunder
 category: comment
 

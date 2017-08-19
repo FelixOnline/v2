@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:01:17 +0100"
 id: "1346"
 old_path: /news/1346/professor-ian-owens-to-take-up-post-at-natural-history-museum
-redirect_from:
+aliases:
  - /news/1346/professor-ian-owens-to-take-up-post-at-natural-history-museum
 category: news
 

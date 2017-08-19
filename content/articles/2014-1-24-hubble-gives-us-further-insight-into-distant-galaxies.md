@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:59:11 +0000"
 id: "4289"
 old_path: /science/4289/hubble-gives-us-further-insight-into-distant-galaxies
-redirect_from:
+aliases:
  - /science/4289/hubble-gives-us-further-insight-into-distant-galaxies
 category: science
 

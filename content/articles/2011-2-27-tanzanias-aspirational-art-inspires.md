@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:18:54 +0000"
 id: "910"
 old_path: /arts/910/tanzanias-aspirational-art-inspires-
-redirect_from:
+aliases:
  - /arts/910/tanzanias-aspirational-art-inspires-
 category: arts
 

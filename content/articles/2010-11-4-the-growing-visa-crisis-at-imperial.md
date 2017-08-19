@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:55:15 +0000"
 id: "319"
 old_path: /news/319/the-growing-visa-crisis-at-imperial
-redirect_from:
+aliases:
  - /news/319/the-growing-visa-crisis-at-imperial
 category: news
 

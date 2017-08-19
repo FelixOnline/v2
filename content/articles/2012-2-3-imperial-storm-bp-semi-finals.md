@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 00:34:29 +0000"
 id: "2122"
 old_path: /news/2122/imperial-storm-bp-semi-finals
-redirect_from:
+aliases:
  - /news/2122/imperial-storm-bp-semi-finals
 category: news
 

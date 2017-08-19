@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:36:21 +0000"
 id: "2388"
 old_path: /news/2388/sexism-forum-held-at-union
-redirect_from:
+aliases:
  - /news/2388/sexism-forum-held-at-union
 category: news
 

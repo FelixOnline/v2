@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 18:49:11 +0000"
 id: "105"
 old_path: /sport/105/imperial-eagles8217-unbeaten-run-ended-by-warwick
-redirect_from:
+aliases:
  - /sport/105/imperial-eagles8217-unbeaten-run-ended-by-warwick
 category: sport
 

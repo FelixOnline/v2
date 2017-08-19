@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-13 00:09:28 +0100"
 id: "3876"
 old_path: /features/3876/iaeste---a-journey-without-an-end
-redirect_from:
+aliases:
  - /features/3876/iaeste---a-journey-without-an-end
 category: features
 

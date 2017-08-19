@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:50:02 +0100"
 id: "6143"
 old_path: /news/6143/rent-strikes-spread-across-london-universities
-redirect_from:
+aliases:
  - /news/6143/rent-strikes-spread-across-london-universities
 category: news
 

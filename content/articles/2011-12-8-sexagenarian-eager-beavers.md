@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:02:50 +0000"
 id: "1927"
 old_path: /arts/1927/sexagenarian-eager-beavers
-redirect_from:
+aliases:
  - /arts/1927/sexagenarian-eager-beavers
 category: arts
 

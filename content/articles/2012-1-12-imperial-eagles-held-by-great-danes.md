@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 20:50:07 +0000"
 id: "1967"
 old_path: /sport/1967/imperial-eagles-held-by-great-danes
-redirect_from:
+aliases:
  - /sport/1967/imperial-eagles-held-by-great-danes
 category: sport
 

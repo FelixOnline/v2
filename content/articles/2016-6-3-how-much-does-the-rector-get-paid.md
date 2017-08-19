@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:06:56 +0100"
 id: "6232"
 old_path: /features/6232/how-much-does-the-rector-get-paid
-redirect_from:
+aliases:
  - /features/6232/how-much-does-the-rector-get-paid
 category: features
 

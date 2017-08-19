@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 17:04:05 +0000"
 id: "6700"
 old_path: /tv/6700/the-rising-chorus-of-south-asian-voices
-redirect_from:
+aliases:
  - /tv/6700/the-rising-chorus-of-south-asian-voices
 category: tv
 

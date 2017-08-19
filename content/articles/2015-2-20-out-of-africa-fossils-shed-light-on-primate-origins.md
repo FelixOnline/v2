@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:02:01 +0000"
 id: "5278"
 old_path: /science/5278/out-of-africa-fossils-shed-light-on-primate-origins
-redirect_from:
+aliases:
  - /science/5278/out-of-africa-fossils-shed-light-on-primate-origins
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 23:16:21 +0100"
 id: "1620"
 old_path: /travel/1620/volunteering-on-top-of-the-world
-redirect_from:
+aliases:
  - /travel/1620/volunteering-on-top-of-the-world
 category: travel
 

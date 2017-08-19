@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 14:05:28 +0100"
 id: "1276"
 old_path: /food/1276/coffee-on-campus
-redirect_from:
+aliases:
  - /food/1276/coffee-on-campus
 category: food
 

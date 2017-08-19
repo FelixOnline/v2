@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:20:06 +0000"
 id: "4787"
 old_path: /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry
-redirect_from:
+aliases:
  - /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry
 category: tech
 

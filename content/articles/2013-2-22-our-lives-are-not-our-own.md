@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:32:25 +0000"
 id: "3362"
 old_path: /film/3362/our-lives-are-not-our-own
-redirect_from:
+aliases:
  - /film/3362/our-lives-are-not-our-own
 category: film
 

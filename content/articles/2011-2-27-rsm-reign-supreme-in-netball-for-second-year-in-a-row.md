@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:56:50 +0000"
 id: "923"
 old_path: /sport/923/rsm-reign-supreme-in-netball-for-second-year-in-a-row
-redirect_from:
+aliases:
  - /sport/923/rsm-reign-supreme-in-netball-for-second-year-in-a-row
 category: sport
 

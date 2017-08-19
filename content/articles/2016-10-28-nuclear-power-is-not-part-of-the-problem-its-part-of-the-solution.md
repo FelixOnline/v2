@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:13:01 +0100"
 id: "6352"
 old_path: /comment/6352/nuclear-power-is-not-part-of-the-problem-its-part-of-the-solution-
-redirect_from:
+aliases:
  - /comment/6352/nuclear-power-is-not-part-of-the-problem-its-part-of-the-solution-
 category: comment
 

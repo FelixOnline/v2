@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 00:57:05 +0100"
 id: "1471"
 old_path: /sport/1471/imperial-captains-gear-up-for-new-season
-redirect_from:
+aliases:
  - /sport/1471/imperial-captains-gear-up-for-new-season
 category: sport
 

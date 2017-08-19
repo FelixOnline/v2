@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-04 13:43:40 +0000"
 id: "3981"
 old_path: /comment/3981/saudi-arabia-is-driving-a-human-right
-redirect_from:
+aliases:
  - /comment/3981/saudi-arabia-is-driving-a-human-right
 category: comment
 

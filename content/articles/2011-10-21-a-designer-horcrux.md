@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:22:00 +0100"
 id: "1587"
 old_path: /fashion/1587/a-designer-horcrux
-redirect_from:
+aliases:
  - /fashion/1587/a-designer-horcrux
 category: fashion
 

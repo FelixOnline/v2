@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:22:21 +0000"
 id: "2948"
 old_path: /politics/2948/eco-terrorism
-redirect_from:
+aliases:
  - /politics/2948/eco-terrorism
 category: politics
 

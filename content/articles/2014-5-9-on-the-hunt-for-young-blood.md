@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:09:17 +0100"
 id: "4574"
 old_path: /science/4574/on-the-hunt-for-young-blood
-redirect_from:
+aliases:
  - /science/4574/on-the-hunt-for-young-blood
 category: science
 

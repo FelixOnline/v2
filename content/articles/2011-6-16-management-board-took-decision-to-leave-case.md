@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:08:04 +0100"
 id: "1380"
 old_path: /news/1380/management-board-took-decision-to-leave-case
-redirect_from:
+aliases:
  - /news/1380/management-board-took-decision-to-leave-case
 category: news
 

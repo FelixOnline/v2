@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-04 16:55:20 +0000"
 id: "755"
 old_path: /games/755/dead-space-2-new-aliens-same-ol-frights
-redirect_from:
+aliases:
  - /games/755/dead-space-2-new-aliens-same-ol-frights
 category: games
 

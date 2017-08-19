@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:35:37 +0100"
 id: "2646"
 old_path: /books/2646/time-to-spare--try-these-five-great-new-reads
-redirect_from:
+aliases:
  - /books/2646/time-to-spare--try-these-five-great-new-reads
 category: books
 

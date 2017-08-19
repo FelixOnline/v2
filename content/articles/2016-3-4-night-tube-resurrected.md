@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:24:00 +0000"
 id: "5995"
 old_path: /news/5995/night-tube-resurrected
-redirect_from:
+aliases:
  - /news/5995/night-tube-resurrected
 category: news
 

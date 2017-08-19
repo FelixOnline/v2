@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:28:29 +0000"
 id: "1748"
 old_path: /sport/1748/club-captain-interview-rugby
-redirect_from:
+aliases:
  - /sport/1748/club-captain-interview-rugby
 category: sport
 

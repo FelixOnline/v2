@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 09:53:46 +0100"
 id: "1583"
 old_path: /film/1583/paris-je-taime--woody-allen-style
-redirect_from:
+aliases:
  - /film/1583/paris-je-taime--woody-allen-style
 category: film
 

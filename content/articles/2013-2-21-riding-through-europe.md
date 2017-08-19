@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 13:52:44 +0000"
 id: "3340"
 old_path: /politics/3340/riding-through-europe
-redirect_from:
+aliases:
  - /politics/3340/riding-through-europe
 category: politics
 

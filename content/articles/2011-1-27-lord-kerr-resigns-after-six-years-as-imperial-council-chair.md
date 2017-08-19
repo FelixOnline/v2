@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:11:41 +0000"
 id: "650"
 old_path: /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
-redirect_from:
+aliases:
  - /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
 category: news
 

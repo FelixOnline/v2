@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:15:05 +0000"
 id: "4314"
 old_path: /news/4314/french-energy-giant-to-invest-in-uk-fracking
-redirect_from:
+aliases:
  - /news/4314/french-energy-giant-to-invest-in-uk-fracking
 category: news
 

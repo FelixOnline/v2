@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-11 06:46:14 +0000"
 id: "801"
 old_path: /arts/801/if-laughter-be-the-food-of-love-hear-here
-redirect_from:
+aliases:
  - /arts/801/if-laughter-be-the-food-of-love-hear-here
 category: arts
 

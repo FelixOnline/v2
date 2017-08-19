@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:12:12 +0000"
 id: "3007"
 old_path: /comment/3007/not-all-people-are-born-equal
-redirect_from:
+aliases:
  - /comment/3007/not-all-people-are-born-equal
 category: comment
 

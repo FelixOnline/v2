@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 17:01:57 +0000"
 id: "6699"
 old_path: /arts/6699/terrains-of-the-body-is-a-bold-but-beguiling-show
-redirect_from:
+aliases:
  - /arts/6699/terrains-of-the-body-is-a-bold-but-beguiling-show
 category: arts
 

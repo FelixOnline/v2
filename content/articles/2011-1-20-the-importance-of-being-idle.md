@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:01:47 +0000"
 id: "641"
 old_path: /comment/641/the-importance-of-being-idle
-redirect_from:
+aliases:
  - /comment/641/the-importance-of-being-idle
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:13:24 +0000"
 id: "4312"
 old_path: /news/4312/changes-to-alcohol-policy-for-varsity-2014
-redirect_from:
+aliases:
  - /news/4312/changes-to-alcohol-policy-for-varsity-2014
 category: news
 

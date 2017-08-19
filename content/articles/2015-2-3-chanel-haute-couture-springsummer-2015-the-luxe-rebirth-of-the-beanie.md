@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 13:24:12 +0000"
 id: "5179"
 old_path: /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
-redirect_from:
+aliases:
  - /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 14:28:12 +0100"
 id: "4728"
 old_path: /news/4728/students-left-in-the-dark-over-cuts-to-amenities-funds
-redirect_from:
+aliases:
  - /news/4728/students-left-in-the-dark-over-cuts-to-amenities-funds
 category: news
 

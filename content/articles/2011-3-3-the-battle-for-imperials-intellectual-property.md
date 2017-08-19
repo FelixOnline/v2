@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:25:05 +0000"
 id: "1008"
 old_path: /news/1008/the-battle-for-imperials-intellectual-property
-redirect_from:
+aliases:
  - /news/1008/the-battle-for-imperials-intellectual-property
 category: news
 

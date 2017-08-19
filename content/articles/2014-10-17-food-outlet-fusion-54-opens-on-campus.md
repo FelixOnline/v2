@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 14:44:34 +0100"
 id: "4729"
 old_path: /news/4729/food-outlet-fusion-54-opens-on-campus
-redirect_from:
+aliases:
  - /news/4729/food-outlet-fusion-54-opens-on-campus
 category: news
 

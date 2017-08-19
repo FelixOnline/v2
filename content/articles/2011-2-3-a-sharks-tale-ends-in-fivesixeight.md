@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:01:15 +0000"
 id: "708"
 old_path: /food/708/a-sharks-tale-ends-in-fivesixeight
-redirect_from:
+aliases:
  - /food/708/a-sharks-tale-ends-in-fivesixeight
 category: food
 

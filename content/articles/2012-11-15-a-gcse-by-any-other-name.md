@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:08:46 +0000"
 id: "2909"
 old_path: /politics/2909/a-gcse-by-any-other-name
-redirect_from:
+aliases:
  - /politics/2909/a-gcse-by-any-other-name
 category: politics
 

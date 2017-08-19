@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 16:01:09 +0100"
 id: "2473"
 old_path: /games/2473/starcraft-the-revolution-of-esports
-redirect_from:
+aliases:
  - /games/2473/starcraft-the-revolution-of-esports
 category: games
 

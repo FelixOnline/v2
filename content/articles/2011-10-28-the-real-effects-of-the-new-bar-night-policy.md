@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:17:43 +0100"
 id: "1629"
 old_path: /comment/1629/the-real-effects-of-the-new-bar-night-policy
-redirect_from:
+aliases:
  - /comment/1629/the-real-effects-of-the-new-bar-night-policy
 category: comment
 

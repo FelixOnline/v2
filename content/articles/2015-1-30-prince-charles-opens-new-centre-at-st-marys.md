@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-30 00:00:57 +0000"
 id: "5160"
 old_path: /news/5160/prince-charles-opens-new-centre-at-st-marys
-redirect_from:
+aliases:
  - /news/5160/prince-charles-opens-new-centre-at-st-marys
 category: news
 

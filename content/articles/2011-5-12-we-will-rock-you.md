@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:11:34 +0100"
 id: "1203"
 old_path: /arts/1203/we-will-rock-you
-redirect_from:
+aliases:
  - /arts/1203/we-will-rock-you
 category: arts
 

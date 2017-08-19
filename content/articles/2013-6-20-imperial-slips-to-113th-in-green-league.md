@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:34:32 +0100"
 id: "3722"
 old_path: /news/3722/imperial-slips-to-113th-in-green-league
-redirect_from:
+aliases:
  - /news/3722/imperial-slips-to-113th-in-green-league
 category: news
 

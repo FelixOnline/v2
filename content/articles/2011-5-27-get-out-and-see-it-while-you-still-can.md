@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 15:29:18 +0100"
 id: "1280"
 old_path: /travel/1280/get-out-and-see-it-while-you-still-can
-redirect_from:
+aliases:
  - /travel/1280/get-out-and-see-it-while-you-still-can
 category: travel
 

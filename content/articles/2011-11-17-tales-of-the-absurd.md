@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:41:46 +0000"
 id: "1784"
 old_path: /arts/1784/tales-of-the-absurd
-redirect_from:
+aliases:
  - /arts/1784/tales-of-the-absurd
 category: arts
 

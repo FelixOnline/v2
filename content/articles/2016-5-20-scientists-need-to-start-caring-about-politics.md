@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:55:49 +0100"
 id: "6176"
 old_path: /comment/6176/scientists-need-to-start-caring-about-politics
-redirect_from:
+aliases:
  - /comment/6176/scientists-need-to-start-caring-about-politics
 category: comment
 

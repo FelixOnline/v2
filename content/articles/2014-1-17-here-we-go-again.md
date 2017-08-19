@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:10:15 +0000"
 id: "4252"
 old_path: /film/4252/here-we-go-again
-redirect_from:
+aliases:
  - /film/4252/here-we-go-again
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 20:53:58 +0100"
 id: "5634"
 old_path: /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
-redirect_from:
+aliases:
  - /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
 category: features
 

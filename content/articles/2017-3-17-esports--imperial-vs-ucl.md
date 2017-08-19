@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:29:34 +0000"
 id: "6917"
 old_path: /features/6917/esports--imperial-vs-ucl
-redirect_from:
+aliases:
  - /features/6917/esports--imperial-vs-ucl
 category: features
 

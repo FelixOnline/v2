@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 22:05:17 +0000"
 id: "3438"
 old_path: /sport/3438/ic-devils-champion-at-ice-varsity
-redirect_from:
+aliases:
  - /sport/3438/ic-devils-champion-at-ice-varsity
 category: sport
 

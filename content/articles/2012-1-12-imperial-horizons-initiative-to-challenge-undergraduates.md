@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:09:40 +0000"
 id: "1980"
 old_path: /news/1980/imperial-horizons-initiative-to-challenge-undergraduates
-redirect_from:
+aliases:
  - /news/1980/imperial-horizons-initiative-to-challenge-undergraduates
 category: news
 

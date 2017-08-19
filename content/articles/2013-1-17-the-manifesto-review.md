@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:59:28 +0000"
 id: "3124"
 old_path: /news/3124/the-manifesto-review
-redirect_from:
+aliases:
  - /news/3124/the-manifesto-review
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:02:28 +0100"
 id: "2661"
 old_path: /politics/2661/milibands-makeover
-redirect_from:
+aliases:
  - /politics/2661/milibands-makeover
 category: politics
 

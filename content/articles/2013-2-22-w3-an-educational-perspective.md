@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:43:13 +0000"
 id: "3365"
 old_path: /comment/3365/w3-an-educational-perspective
-redirect_from:
+aliases:
  - /comment/3365/w3-an-educational-perspective
 category: comment
 

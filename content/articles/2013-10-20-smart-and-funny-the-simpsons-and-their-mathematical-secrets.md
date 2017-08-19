@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 01:25:50 +0100"
 id: "3900"
 old_path: /books/3900/smart-and-funny-the-simpsons-and-their-mathematical-secrets
-redirect_from:
+aliases:
  - /books/3900/smart-and-funny-the-simpsons-and-their-mathematical-secrets
 category: books
 

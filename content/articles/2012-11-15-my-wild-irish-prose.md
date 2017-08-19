@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:55:43 +0000"
 id: "2906"
 old_path: /games/2906/my-wild-irish-prose-
-redirect_from:
+aliases:
  - /games/2906/my-wild-irish-prose-
 category: games
 

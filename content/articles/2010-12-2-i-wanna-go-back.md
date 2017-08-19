@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:51:08 +0000"
 id: "479"
 old_path: /music/479/i-wanna-go-back
-redirect_from:
+aliases:
  - /music/479/i-wanna-go-back
 category: music
 

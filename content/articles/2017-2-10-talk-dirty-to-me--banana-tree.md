@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:10:40 +0000"
 id: "6771"
 old_path: /food/6771/talk-dirty-to-me--banana-tree
-redirect_from:
+aliases:
  - /food/6771/talk-dirty-to-me--banana-tree
 category: food
 

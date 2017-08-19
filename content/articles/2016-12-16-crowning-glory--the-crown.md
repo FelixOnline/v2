@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:14:01 +0000"
 id: "6617"
 old_path: /tv/6617/crowning-glory--the-crown
-redirect_from:
+aliases:
  - /tv/6617/crowning-glory--the-crown
 category: tv
 

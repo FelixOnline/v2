@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:14:07 +0100"
 id: "6186"
 old_path: /music/6186/future-of-the-left-crowdfund-peace
-redirect_from:
+aliases:
  - /music/6186/future-of-the-left-crowdfund-peace
 category: music
 

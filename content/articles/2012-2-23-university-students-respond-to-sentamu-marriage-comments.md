@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:04:52 +0000"
 id: "2262"
 old_path: /news/2262/university-students-respond-to-sentamu-marriage-comments-
-redirect_from:
+aliases:
  - /news/2262/university-students-respond-to-sentamu-marriage-comments-
 category: news
 

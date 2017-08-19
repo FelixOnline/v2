@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:11:16 +0000"
 id: "2230"
 old_path: /film/2230/corrupt-cop-going-ballistic
-redirect_from:
+aliases:
  - /film/2230/corrupt-cop-going-ballistic
 category: film
 

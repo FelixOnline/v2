@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 08:54:02 +0100"
 id: "6272"
 old_path: /comment/6272/i-am-a-person-you-know-me-and-i-am-gay
-redirect_from:
+aliases:
  - /comment/6272/i-am-a-person-you-know-me-and-i-am-gay
 category: comment
 

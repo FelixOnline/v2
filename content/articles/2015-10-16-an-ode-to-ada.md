@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:39:20 +0100"
 id: "5658"
 old_path: /science/5658/an-ode-to-ada
-redirect_from:
+aliases:
  - /science/5658/an-ode-to-ada
 category: science
 

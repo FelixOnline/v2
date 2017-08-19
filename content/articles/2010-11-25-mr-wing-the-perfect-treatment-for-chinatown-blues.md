@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:34:44 +0000"
 id: "432"
 old_path: /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
-redirect_from:
+aliases:
  - /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
 category: food
 

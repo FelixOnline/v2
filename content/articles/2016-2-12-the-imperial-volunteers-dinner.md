@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 12:04:45 +0000"
 id: "5919"
 old_path: /cands/5919/the-imperial-volunteers-dinner
-redirect_from:
+aliases:
  - /cands/5919/the-imperial-volunteers-dinner
 category: clubs-and-socs
 

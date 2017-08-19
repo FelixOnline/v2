@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:17:01 +0100"
 id: "6960"
 old_path: /music/6960/forever-restless-by-brutality-will-prevail-
-redirect_from:
+aliases:
  - /music/6960/forever-restless-by-brutality-will-prevail-
 category: music
 

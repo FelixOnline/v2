@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 20:47:54 +0100"
 id: "1558"
 old_path: /science/1558/frogs-habitats-affected
-redirect_from:
+aliases:
  - /science/1558/frogs-habitats-affected
 category: science
 

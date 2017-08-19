@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:40:08 +0100"
 id: "2649"
 old_path: /biz/2649/good-service-vs-good-marketing
-redirect_from:
+aliases:
  - /biz/2649/good-service-vs-good-marketing
 category: business
 

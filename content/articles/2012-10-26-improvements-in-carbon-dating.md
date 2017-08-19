@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:30:30 +0100"
 id: "2745"
 old_path: /science/2745/improvements-in-carbon-dating
-redirect_from:
+aliases:
  - /science/2745/improvements-in-carbon-dating
 category: science
 

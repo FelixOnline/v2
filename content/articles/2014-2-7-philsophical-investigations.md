@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:09:19 +0000"
 id: "4360"
 old_path: /comment/4360/philsophical-investigations-
-redirect_from:
+aliases:
  - /comment/4360/philsophical-investigations-
 category: comment
 

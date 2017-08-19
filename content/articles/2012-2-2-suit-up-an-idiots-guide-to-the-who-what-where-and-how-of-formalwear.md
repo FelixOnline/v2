@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 20:32:58 +0000"
 id: "2098"
 old_path: /fashion/2098/suit-up-an-idiots-guide-to-the-who-what-where-and-how-of-formalwear
-redirect_from:
+aliases:
  - /fashion/2098/suit-up-an-idiots-guide-to-the-who-what-where-and-how-of-formalwear
 category: fashion
 

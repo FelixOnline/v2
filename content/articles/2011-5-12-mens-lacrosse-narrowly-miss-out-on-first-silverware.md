@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:17:11 +0100"
 id: "1192"
 old_path: /sport/1192/mens-lacrosse-narrowly-miss-out-on-first-silverware
-redirect_from:
+aliases:
  - /sport/1192/mens-lacrosse-narrowly-miss-out-on-first-silverware
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:59:10 +0000"
 id: "3101"
 old_path: /tv/3101/dr-who-is-coming-to-town
-redirect_from:
+aliases:
  - /tv/3101/dr-who-is-coming-to-town
 category: tv
 

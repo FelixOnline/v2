@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:00:17 +0000"
 id: "6527"
 old_path: /science/6527/5-for-top-quality-animal-fat
-redirect_from:
+aliases:
  - /science/6527/5-for-top-quality-animal-fat
 category: science
 

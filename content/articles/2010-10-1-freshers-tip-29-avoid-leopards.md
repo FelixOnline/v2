@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 22:44:54 +0100"
 id: "166"
 old_path: /comment/166/freshers-tip-29-avoid-leopards
-redirect_from:
+aliases:
  - /comment/166/freshers-tip-29-avoid-leopards
 category: comment
 

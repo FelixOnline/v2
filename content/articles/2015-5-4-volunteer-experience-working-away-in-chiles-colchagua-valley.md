@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:35:22 +0100"
 id: "5490"
 old_path: /travel/5490/volunteer-experience-working-away-in-chiles-colchagua-valley
-redirect_from:
+aliases:
  - /travel/5490/volunteer-experience-working-away-in-chiles-colchagua-valley
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:24:09 +0100"
 id: "2488"
 old_path: /tech/2488/too-few-women-and-no-change-in-sight
-redirect_from:
+aliases:
  - /tech/2488/too-few-women-and-no-change-in-sight
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-19 23:51:05 +0000"
 id: "5275"
 old_path: /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
-redirect_from:
+aliases:
  - /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
 category: news
 

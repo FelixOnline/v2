@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:40:46 +0100"
 id: "4658"
 old_path: /comment/4658/racism-in-northern-ireland
-redirect_from:
+aliases:
  - /comment/4658/racism-in-northern-ireland
 category: comment
 

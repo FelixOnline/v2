@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:01:31 +0000"
 id: "1679"
 old_path: /biz/1679/fight-for-freedom
-redirect_from:
+aliases:
  - /biz/1679/fight-for-freedom
 category: business
 

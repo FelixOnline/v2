@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:42:55 +0000"
 id: "5783"
 old_path: /film/5783/the-sins-of-the-father
-redirect_from:
+aliases:
  - /film/5783/the-sins-of-the-father
 category: film
 

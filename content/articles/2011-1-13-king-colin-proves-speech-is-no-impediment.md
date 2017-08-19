@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:39:53 +0000"
 id: "567"
 old_path: /film/567/king-colin-proves-speech-is-no-impediment-
-redirect_from:
+aliases:
  - /film/567/king-colin-proves-speech-is-no-impediment-
 category: film
 

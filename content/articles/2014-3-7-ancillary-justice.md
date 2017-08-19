@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:51:57 +0000"
 id: "4467"
 old_path: /books/4467/ancillary-justice
-redirect_from:
+aliases:
  - /books/4467/ancillary-justice
 category: books
 

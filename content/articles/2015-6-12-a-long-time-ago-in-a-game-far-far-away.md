@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-12 12:38:09 +0100"
 id: "5619"
 old_path: /games/5619/a-long-time-ago-in-a-game-far-far-away
-redirect_from:
+aliases:
  - /games/5619/a-long-time-ago-in-a-game-far-far-away
 category: games
 

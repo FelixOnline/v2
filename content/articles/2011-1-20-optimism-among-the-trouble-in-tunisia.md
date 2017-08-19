@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:37:06 +0000"
 id: "629"
 old_path: /politics/629/optimism-among-the-trouble-in-tunisia
-redirect_from:
+aliases:
  - /politics/629/optimism-among-the-trouble-in-tunisia
 category: politics
 

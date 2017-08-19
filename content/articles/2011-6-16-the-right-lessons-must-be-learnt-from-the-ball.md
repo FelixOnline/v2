@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:19:02 +0100"
 id: "1391"
 old_path: /comment/1391/the-right-lessons-must-be-learnt-from-the-ball
-redirect_from:
+aliases:
  - /comment/1391/the-right-lessons-must-be-learnt-from-the-ball
 category: comment
 

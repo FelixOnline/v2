@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 02:05:03 +0100"
 id: "3809"
 old_path: /music/3809/a-punky-reggae-party
-redirect_from:
+aliases:
  - /music/3809/a-punky-reggae-party
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:06:25 +0000"
 id: "1769"
 old_path: /news/1769/exhibition-road-hosts-festival-to-coincide-with-olympic-games
-redirect_from:
+aliases:
  - /news/1769/exhibition-road-hosts-festival-to-coincide-with-olympic-games
 category: news
 

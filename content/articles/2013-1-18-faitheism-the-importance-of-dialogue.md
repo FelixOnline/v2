@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:31:08 +0000"
 id: "3135"
 old_path: /comment/3135/faitheism-the-importance-of-dialogue
-redirect_from:
+aliases:
  - /comment/3135/faitheism-the-importance-of-dialogue
 category: comment
 

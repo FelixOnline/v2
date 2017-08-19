@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:12:48 +0000"
 id: "5205"
 old_path: /arts/5205/viviane-sassen-like-never-before
-redirect_from:
+aliases:
  - /arts/5205/viviane-sassen-like-never-before
 category: arts
 

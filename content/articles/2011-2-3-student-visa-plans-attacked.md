@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:29:49 +0000"
 id: "715"
 old_path: /news/715/student-visa-plans-attacked-
-redirect_from:
+aliases:
  - /news/715/student-visa-plans-attacked-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-23 15:43:05 +0000"
 id: "5306"
 old_path: /news/5306/-kensington-mp-suspended-from-tory-party
-redirect_from:
+aliases:
  - /news/5306/-kensington-mp-suspended-from-tory-party
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:29:48 +0000"
 id: "3388"
 old_path: /music/3388/johnny-marr-scores-above-par
-redirect_from:
+aliases:
  - /music/3388/johnny-marr-scores-above-par
 category: music
 

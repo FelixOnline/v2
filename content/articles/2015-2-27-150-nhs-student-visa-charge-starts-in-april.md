@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:38:35 +0000"
 id: "5313"
 old_path: /news/5313/150-nhs-student-visa-charge-starts-in-april
-redirect_from:
+aliases:
  - /news/5313/150-nhs-student-visa-charge-starts-in-april
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:56:23 +0000"
 id: "4470"
 old_path: /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
-redirect_from:
+aliases:
  - /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
 category: tv
 

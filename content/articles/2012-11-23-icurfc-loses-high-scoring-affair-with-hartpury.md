@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:13:56 +0000"
 id: "2964"
 old_path: /sport/2964/icurfc-loses-high-scoring-affair-with-hartpury
-redirect_from:
+aliases:
  - /sport/2964/icurfc-loses-high-scoring-affair-with-hartpury
 category: sport
 

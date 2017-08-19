@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:58:34 +0000"
 id: "6824"
 old_path: /music/6824/neighbourhood-grammys-2016
-redirect_from:
+aliases:
  - /music/6824/neighbourhood-grammys-2016
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:26:39 +0000"
 id: "1834"
 old_path: /news/1834/gospel-choir-has-the-x-factor
-redirect_from:
+aliases:
  - /news/1834/gospel-choir-has-the-x-factor
 category: news
 

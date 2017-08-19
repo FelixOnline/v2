@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 16:07:05 +0000"
 id: "6590"
 old_path: /games/6590/the-release-of-two-giants
-redirect_from:
+aliases:
  - /games/6590/the-release-of-two-giants
 category: games
 

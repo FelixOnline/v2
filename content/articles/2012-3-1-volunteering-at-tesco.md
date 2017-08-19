@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:08:08 +0000"
 id: "2270"
 old_path: /politics/2270/volunteering-at-tesco
-redirect_from:
+aliases:
  - /politics/2270/volunteering-at-tesco
 category: politics
 

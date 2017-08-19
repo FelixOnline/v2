@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:25:05 +0100"
 id: "6193"
 old_path: /welfare/6193/how-to-survive-exams
-redirect_from:
+aliases:
  - /welfare/6193/how-to-survive-exams
 category: welfare
 

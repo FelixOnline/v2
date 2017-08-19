@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:04:07 +0000"
 id: "4794"
 old_path: /cands/4794/never-really-knew-that-he-could-dance-like-this
-redirect_from:
+aliases:
  - /cands/4794/never-really-knew-that-he-could-dance-like-this
 category: clubs-and-socs
 

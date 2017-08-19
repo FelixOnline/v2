@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:31:24 +0000"
 id: "776"
 old_path: /tech/776/murdoch-launches-daily-magazine-for-ipad-
-redirect_from:
+aliases:
  - /tech/776/murdoch-launches-daily-magazine-for-ipad-
 category: tech
 

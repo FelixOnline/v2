@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:17:49 +0000"
 id: "4914"
 old_path: /comment/4914/the-mayor-is-unable-to-grasp-the-simple-idea-of-appropriateness-in-context
-redirect_from:
+aliases:
  - /comment/4914/the-mayor-is-unable-to-grasp-the-simple-idea-of-appropriateness-in-context
 category: comment
 

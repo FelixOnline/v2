@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-15 23:46:35 +0000"
 id: "6597"
 old_path: /news/6597/report-sheds-light-on-imperial-culture
-redirect_from:
+aliases:
  - /news/6597/report-sheds-light-on-imperial-culture
 category: news
 

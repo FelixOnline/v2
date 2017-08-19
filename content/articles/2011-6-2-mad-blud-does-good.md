@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:37:40 +0100"
 id: "1309"
 old_path: /arts/1309/mad-blud-does-good
-redirect_from:
+aliases:
  - /arts/1309/mad-blud-does-good
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:43:20 +0000"
 id: "3408"
 old_path: /news/3408/new-scholarship-fund-for-indian-postgraduate-students-at-imperial
-redirect_from:
+aliases:
  - /news/3408/new-scholarship-fund-for-indian-postgraduate-students-at-imperial
 category: news
 

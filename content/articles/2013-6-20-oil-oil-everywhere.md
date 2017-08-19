@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 22:47:32 +0100"
 id: "3713"
 old_path: /games/3713/oil-oil-everywhere
-redirect_from:
+aliases:
  - /games/3713/oil-oil-everywhere
 category: games
 

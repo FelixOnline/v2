@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:28:17 +0000"
 id: "565"
 old_path: /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
-redirect_from:
+aliases:
  - /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
 category: business
 

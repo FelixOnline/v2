@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:53:10 +0100"
 id: "6121"
 old_path: /science/6121/100000-species-unknown-for-every-known-species-on-earth
-redirect_from:
+aliases:
  - /science/6121/100000-species-unknown-for-every-known-species-on-earth
 category: science
 

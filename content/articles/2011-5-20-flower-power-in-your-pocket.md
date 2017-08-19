@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 04:31:40 +0100"
 id: "1218"
 old_path: /games/1218/flower-power-in-your-pocket
-redirect_from:
+aliases:
  - /games/1218/flower-power-in-your-pocket
 category: games
 

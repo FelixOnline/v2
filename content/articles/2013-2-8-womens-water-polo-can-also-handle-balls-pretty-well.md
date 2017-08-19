@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:27:20 +0000"
 id: "3272"
 old_path: /sport/3272/womens-water-polo-can-also-handle-balls-pretty-well
-redirect_from:
+aliases:
  - /sport/3272/womens-water-polo-can-also-handle-balls-pretty-well
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:27:18 +0000"
 id: "1686"
 old_path: /comment/1686/religious-tolerance-is-oatso-simple
-redirect_from:
+aliases:
  - /comment/1686/religious-tolerance-is-oatso-simple
 category: comment
 

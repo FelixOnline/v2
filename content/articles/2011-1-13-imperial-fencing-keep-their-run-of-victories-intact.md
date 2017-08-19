@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:21:42 +0000"
 id: "579"
 old_path: /sport/579/imperial-fencing-keep-their-run-of-victories-intact
-redirect_from:
+aliases:
  - /sport/579/imperial-fencing-keep-their-run-of-victories-intact
 category: sport
 

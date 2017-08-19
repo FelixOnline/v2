@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:52:24 +0100"
 id: "2759"
 old_path: /food/2759/trick-or-treat-recipe---chocolate-spiders-
-redirect_from:
+aliases:
  - /food/2759/trick-or-treat-recipe---chocolate-spiders-
 category: food
 

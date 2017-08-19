@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:53:24 +0100"
 id: "7009"
 old_path: /comment/7009/defeating-isis-is-impossible-dealing-with-them-is-not
-redirect_from:
+aliases:
  - /comment/7009/defeating-isis-is-impossible-dealing-with-them-is-not
 category: comment
 

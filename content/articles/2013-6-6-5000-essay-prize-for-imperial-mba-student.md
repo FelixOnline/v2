@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 15:26:01 +0100"
 id: "3664"
 old_path: /news/3664/5000-essay-prize-for-imperial-mba-student
-redirect_from:
+aliases:
  - /news/3664/5000-essay-prize-for-imperial-mba-student
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:46:15 +0100"
 id: "2435"
 old_path: /books/2435/the-gormenghast-trilogy
-redirect_from:
+aliases:
  - /books/2435/the-gormenghast-trilogy
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:05:22 +0000"
 id: "6788"
 old_path: /science/6788/the-challenges-facing-early-career-sustainable-scientists
-redirect_from:
+aliases:
  - /science/6788/the-challenges-facing-early-career-sustainable-scientists
 category: science
 

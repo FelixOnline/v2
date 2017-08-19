@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:43:54 +0000"
 id: "2319"
 old_path: /books/2319/a-handmaids-tale
-redirect_from:
+aliases:
  - /books/2319/a-handmaids-tale
 category: books
 

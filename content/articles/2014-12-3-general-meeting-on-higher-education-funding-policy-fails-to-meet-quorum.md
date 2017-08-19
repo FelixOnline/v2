@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-03 00:53:53 +0000"
 id: "4983"
 old_path: /news/4983/general-meeting-on-higher-education-funding-policy-fails-to-meet-quorum-
-redirect_from:
+aliases:
  - /news/4983/general-meeting-on-higher-education-funding-policy-fails-to-meet-quorum-
 category: news
 

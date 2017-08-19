@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:05:31 +0100"
 id: "3729"
 old_path: /comment/3729/goodbye-from-me
-redirect_from:
+aliases:
  - /comment/3729/goodbye-from-me
 category: comment
 

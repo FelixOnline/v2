@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:31:52 +0100"
 id: "1208"
 old_path: /politics/1208/massacre-in-kenya
-redirect_from:
+aliases:
  - /politics/1208/massacre-in-kenya
 category: politics
 

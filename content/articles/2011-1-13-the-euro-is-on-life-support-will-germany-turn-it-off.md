@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:04:13 +0000"
 id: "574"
 old_path: /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
-redirect_from:
+aliases:
  - /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
 category: politics
 

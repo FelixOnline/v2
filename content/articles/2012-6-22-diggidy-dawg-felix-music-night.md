@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-22 16:21:37 +0100"
 id: "2580"
 old_path: /music/2580/diggidy-dawg-felix-music-night
-redirect_from:
+aliases:
  - /music/2580/diggidy-dawg-felix-music-night
 category: music
 

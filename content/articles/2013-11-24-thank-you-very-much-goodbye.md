@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 23:59:08 +0000"
 id: "4136"
 old_path: /sport/4136/thank-you-very-much-goodbye
-redirect_from:
+aliases:
  - /sport/4136/thank-you-very-much-goodbye
 category: sport
 

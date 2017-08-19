@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:28:00 +0000"
 id: "2149"
 old_path: /arts/2149/veni-vidi-vinci
-redirect_from:
+aliases:
  - /arts/2149/veni-vidi-vinci
 category: arts
 

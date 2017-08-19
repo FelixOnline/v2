@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:46:38 +0000"
 id: "4875"
 old_path: /features/4875/what-would-wheeler-do
-redirect_from:
+aliases:
  - /features/4875/what-would-wheeler-do
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-15 07:32:58 +0100"
 id: "2576"
 old_path: /news/2576/constitution-troubles-at-council
-redirect_from:
+aliases:
  - /news/2576/constitution-troubles-at-council
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:21:22 +0000"
 id: "5712"
 old_path: /music/5712/purity-ring-give-robotic-performance-
-redirect_from:
+aliases:
  - /music/5712/purity-ring-give-robotic-performance-
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:06:24 +0000"
 id: "3002"
 old_path: /film/3002/this-is-one-scary-movie
-redirect_from:
+aliases:
  - /film/3002/this-is-one-scary-movie
 category: film
 

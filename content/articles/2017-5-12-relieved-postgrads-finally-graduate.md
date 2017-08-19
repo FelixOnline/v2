@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 15:34:39 +0100"
 id: "6932"
 old_path: /news/6932/relieved-postgrads-finally-graduate
-redirect_from:
+aliases:
  - /news/6932/relieved-postgrads-finally-graduate
 category: news
 

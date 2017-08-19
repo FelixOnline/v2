@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 22:14:30 +0000"
 id: "1952"
 old_path: /travel/1952/friends-in-high-places-a-cannabis-cup-special
-redirect_from:
+aliases:
  - /travel/1952/friends-in-high-places-a-cannabis-cup-special
 category: travel
 

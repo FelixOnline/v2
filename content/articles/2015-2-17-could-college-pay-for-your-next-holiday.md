@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 19:12:54 +0000"
 id: "5269"
 old_path: /travel/5269/could-college-pay-for-your-next-holiday
-redirect_from:
+aliases:
  - /travel/5269/could-college-pay-for-your-next-holiday
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:52:14 +0000"
 id: "4009"
 old_path: /features/4009/more-than-getting-a-degree-developing-your-key-transferable-skills
-redirect_from:
+aliases:
  - /features/4009/more-than-getting-a-degree-developing-your-key-transferable-skills
 category: features
 

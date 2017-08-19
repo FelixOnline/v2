@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:43:02 +0100"
 id: "4554"
 old_path: /books/4554/summer-reading-picks
-redirect_from:
+aliases:
  - /books/4554/summer-reading-picks
 category: books
 

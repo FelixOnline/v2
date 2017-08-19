@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-17 16:05:58 +0000"
 id: "125"
 old_path: /arts/125/let-the-sunshine
-redirect_from:
+aliases:
  - /arts/125/let-the-sunshine
 category: arts
 

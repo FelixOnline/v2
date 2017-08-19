@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:06:32 +0100"
 id: "1483"
 old_path: /comment/1483/just-how-important-are-league-tables
-redirect_from:
+aliases:
  - /comment/1483/just-how-important-are-league-tables
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:54:33 +0000"
 id: "2166"
 old_path: /science/2166/modern-medicine
-redirect_from:
+aliases:
  - /science/2166/modern-medicine
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:41:14 +0000"
 id: "1942"
 old_path: /games/1942/a-right-royal-roundup
-redirect_from:
+aliases:
  - /games/1942/a-right-royal-roundup
 category: games
 

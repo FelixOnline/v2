@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:50:01 +0000"
 id: "2198"
 old_path: /music/2198/blacks-keys-rock-a-heart-at-the-ally-pally-
-redirect_from:
+aliases:
  - /music/2198/blacks-keys-rock-a-heart-at-the-ally-pally-
 category: music
 

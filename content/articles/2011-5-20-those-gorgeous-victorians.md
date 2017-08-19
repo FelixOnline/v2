@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:44:07 +0100"
 id: "1225"
 old_path: /arts/1225/those-gorgeous-victorians
-redirect_from:
+aliases:
  - /arts/1225/those-gorgeous-victorians
 category: arts
 

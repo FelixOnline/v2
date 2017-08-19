@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:53:11 +0000"
 id: "598"
 old_path: /news/598/singapore-medical-school-receives-150-million-boost
-redirect_from:
+aliases:
  - /news/598/singapore-medical-school-receives-150-million-boost
 category: news
 

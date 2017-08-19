@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:53:19 +0000"
 id: "6766"
 old_path: /arts/6766/reading-drawings
-redirect_from:
+aliases:
  - /arts/6766/reading-drawings
 category: arts
 

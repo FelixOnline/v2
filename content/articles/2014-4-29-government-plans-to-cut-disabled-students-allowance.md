@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-29 12:46:31 +0100"
 id: "4534"
 old_path: /news/4534/government-plans-to-cut-disabled-students-allowance
-redirect_from:
+aliases:
  - /news/4534/government-plans-to-cut-disabled-students-allowance
 category: news
 

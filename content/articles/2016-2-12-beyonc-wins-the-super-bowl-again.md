@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:53:51 +0000"
 id: "5913"
 old_path: /music/5913/beyonc-wins-the-super-bowl-again
-redirect_from:
+aliases:
  - /music/5913/beyonc-wins-the-super-bowl-again
 category: music
 

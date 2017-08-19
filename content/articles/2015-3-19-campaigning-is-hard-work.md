@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:52:51 +0000"
 id: "5412"
 old_path: /comment/5412/campaigning-is-hard-work
-redirect_from:
+aliases:
  - /comment/5412/campaigning-is-hard-work
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:27:01 +0100"
 id: "3837"
 old_path: /books/3837/best-of-henry-james
-redirect_from:
+aliases:
  - /books/3837/best-of-henry-james
 category: books
 

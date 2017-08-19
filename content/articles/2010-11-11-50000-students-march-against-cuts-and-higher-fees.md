@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 22:08:08 +0000"
 id: "373"
 old_path: /news/373/-50000-students-march-against-cuts-and-higher-fees
-redirect_from:
+aliases:
  - /news/373/-50000-students-march-against-cuts-and-higher-fees
 category: news
 

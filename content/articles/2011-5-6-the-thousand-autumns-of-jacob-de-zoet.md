@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 13:15:58 +0100"
 id: "1171"
 old_path: /arts/1171/the-thousand-autumns-of-jacob-de-zoet
-redirect_from:
+aliases:
  - /arts/1171/the-thousand-autumns-of-jacob-de-zoet
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:40:51 +0000"
 id: "3092"
 old_path: /books/3092/return-of-the-master
-redirect_from:
+aliases:
  - /books/3092/return-of-the-master
 category: books
 

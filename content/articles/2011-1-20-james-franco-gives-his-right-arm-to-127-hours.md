@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:48:46 +0000"
 id: "614"
 old_path: /film/614/james-franco-gives-his-right-arm-to-127-hours-
-redirect_from:
+aliases:
  - /film/614/james-franco-gives-his-right-arm-to-127-hours-
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-04 17:19:26 +0000"
 id: "2135"
 old_path: /film/2135/the-kids-are-alright-the-adults-are-not
-redirect_from:
+aliases:
  - /film/2135/the-kids-are-alright-the-adults-are-not
 category: film
 

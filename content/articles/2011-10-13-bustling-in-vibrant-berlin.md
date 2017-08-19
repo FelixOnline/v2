@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:34:59 +0100"
 id: "1525"
 old_path: /travel/1525/bustling-in-vibrant-berlin
-redirect_from:
+aliases:
  - /travel/1525/bustling-in-vibrant-berlin
 category: travel
 

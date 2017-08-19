@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 19:47:23 +0100"
 id: "3669"
 old_path: /music/3669/review-shampoo-boy
-redirect_from:
+aliases:
  - /music/3669/review-shampoo-boy
 category: music
 

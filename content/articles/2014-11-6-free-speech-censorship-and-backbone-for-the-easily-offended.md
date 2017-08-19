@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:58:24 +0000"
 id: "4771"
 old_path: /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended
-redirect_from:
+aliases:
  - /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended
 category: arts
 

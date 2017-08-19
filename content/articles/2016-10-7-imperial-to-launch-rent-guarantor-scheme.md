@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-07 16:54:06 +0100"
 id: "6310"
 old_path: /news/6310/imperial-to-launch-rent-guarantor-scheme
-redirect_from:
+aliases:
  - /news/6310/imperial-to-launch-rent-guarantor-scheme
 category: news
 

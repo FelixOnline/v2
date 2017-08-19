@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:21:23 +0100"
 id: "6952"
 old_path: /arts/6952/madama-butterfly--a-non-opera-goers-review
-redirect_from:
+aliases:
  - /arts/6952/madama-butterfly--a-non-opera-goers-review
 category: arts
 

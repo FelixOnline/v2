@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:49:24 +0000"
 id: "4966"
 old_path: /news/4966/rag-holds-successful-charity-bike-auction
-redirect_from:
+aliases:
  - /news/4966/rag-holds-successful-charity-bike-auction
 category: news
 

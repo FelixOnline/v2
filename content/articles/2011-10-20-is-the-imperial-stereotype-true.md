@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 23:25:56 +0100"
 id: "1581"
 old_path: /comment/1581/is-the-imperial-stereotype-true
-redirect_from:
+aliases:
  - /comment/1581/is-the-imperial-stereotype-true
 category: comment
 

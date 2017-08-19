@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 23:06:45 +0100"
 id: "168"
 old_path: /games/168/just-arrived-and-already-bored-time-to-get-online
-redirect_from:
+aliases:
  - /games/168/just-arrived-and-already-bored-time-to-get-online
 category: games
 

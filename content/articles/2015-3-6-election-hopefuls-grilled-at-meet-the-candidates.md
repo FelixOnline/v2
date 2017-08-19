@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 13:56:28 +0000"
 id: "5352"
 old_path: /news/5352/election-hopefuls-grilled-at-meet-the-candidates
-redirect_from:
+aliases:
  - /news/5352/election-hopefuls-grilled-at-meet-the-candidates
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:27:59 +0000"
 id: "5124"
 old_path: /news/5124/felix-investigates-the-admin-that-didnt-remain-anonymous
-redirect_from:
+aliases:
  - /news/5124/felix-investigates-the-admin-that-didnt-remain-anonymous
 category: news
 

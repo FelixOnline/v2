@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:57:36 +0100"
 id: "4613"
 old_path: /film/4613/lockes-collapse
-redirect_from:
+aliases:
  - /film/4613/lockes-collapse
 category: film
 

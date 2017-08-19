@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:13:24 +0100"
 id: "1585"
 old_path: /sport/1585/fencing-mens-2nd-team-start-off-season-with-a-win
-redirect_from:
+aliases:
  - /sport/1585/fencing-mens-2nd-team-start-off-season-with-a-win
 category: sport
 

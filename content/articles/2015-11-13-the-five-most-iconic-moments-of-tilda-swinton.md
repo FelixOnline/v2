@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 15:00:33 +0000"
 id: "5736"
 old_path: /film/5736/the-five-most-iconic-moments-of-tilda-swinton
-redirect_from:
+aliases:
  - /film/5736/the-five-most-iconic-moments-of-tilda-swinton
 category: film
 

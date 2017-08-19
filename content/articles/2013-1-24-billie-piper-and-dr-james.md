@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 23:07:25 +0000"
 id: "3170"
 old_path: /arts/3170/billie-piper-and-dr-james-
-redirect_from:
+aliases:
  - /arts/3170/billie-piper-and-dr-james-
 category: arts
 

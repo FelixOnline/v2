@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 16:07:02 +0000"
 id: "3309"
 old_path: /comment/3309/a-european-citizenship
-redirect_from:
+aliases:
  - /comment/3309/a-european-citizenship
 category: comment
 

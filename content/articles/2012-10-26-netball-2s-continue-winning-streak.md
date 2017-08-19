@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:04:10 +0100"
 id: "2764"
 old_path: /sport/2764/netball-2s-continue-winning-streak
-redirect_from:
+aliases:
  - /sport/2764/netball-2s-continue-winning-streak
 category: sport
 

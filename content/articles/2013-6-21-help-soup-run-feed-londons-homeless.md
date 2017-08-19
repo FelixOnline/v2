@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:59:57 +0100"
 id: "3738"
 old_path: /news/3738/help-soup-run-feed-londons-homeless
-redirect_from:
+aliases:
  - /news/3738/help-soup-run-feed-londons-homeless
 category: news
 

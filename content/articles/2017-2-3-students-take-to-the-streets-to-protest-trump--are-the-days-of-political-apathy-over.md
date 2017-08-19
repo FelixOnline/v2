@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:12:49 +0000"
 id: "6709"
 old_path: /features/6709/-students-take-to-the-streets-to-protest-trump--are-the-days-of-political-apathy-over-
-redirect_from:
+aliases:
  - /features/6709/-students-take-to-the-streets-to-protest-trump--are-the-days-of-political-apathy-over-
 category: features
 

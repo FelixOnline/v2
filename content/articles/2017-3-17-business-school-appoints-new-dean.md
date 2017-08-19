@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 13:07:32 +0000"
 id: "6899"
 old_path: /news/6899/business-school-appoints-new-dean
-redirect_from:
+aliases:
  - /news/6899/business-school-appoints-new-dean
 category: news
 

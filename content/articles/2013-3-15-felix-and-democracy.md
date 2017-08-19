@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:52:39 +0000"
 id: "3464"
 old_path: /comment/3464/felix-and-democracy
-redirect_from:
+aliases:
  - /comment/3464/felix-and-democracy
 category: comment
 

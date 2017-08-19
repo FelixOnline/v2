@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:57:47 +0100"
 id: "1387"
 old_path: /science/1387/using-carbon-dioxide-to-fight-global-warming
-redirect_from:
+aliases:
  - /science/1387/using-carbon-dioxide-to-fight-global-warming
 category: science
 

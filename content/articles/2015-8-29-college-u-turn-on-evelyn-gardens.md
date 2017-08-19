@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-08-29 16:33:47 +0100"
 id: "5649"
 old_path: /news/5649/college-u-turn-on-evelyn-gardens
-redirect_from:
+aliases:
  - /news/5649/college-u-turn-on-evelyn-gardens
 category: news
 

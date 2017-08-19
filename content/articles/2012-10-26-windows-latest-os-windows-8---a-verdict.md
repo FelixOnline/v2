@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:22:59 +0100"
 id: "2740"
 old_path: /tech/2740/windows-latest-os-windows-8---a-verdict-
-redirect_from:
+aliases:
  - /tech/2740/windows-latest-os-windows-8---a-verdict-
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:47:32 +0000"
 id: "393"
 old_path: /travel/393/stingy-travelling-git-
-redirect_from:
+aliases:
  - /travel/393/stingy-travelling-git-
 category: travel
 

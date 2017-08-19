@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 16:57:41 +0100"
 id: "3706"
 old_path: /news/3706/letting-old-cats-out-of-their-bags-rupert-neate
-redirect_from:
+aliases:
  - /news/3706/letting-old-cats-out-of-their-bags-rupert-neate
 category: news
 

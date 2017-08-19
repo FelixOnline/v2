@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:10:54 +0000"
 id: "4165"
 old_path: /books/4165/chortle-festival
-redirect_from:
+aliases:
  - /books/4165/chortle-festival
 category: books
 

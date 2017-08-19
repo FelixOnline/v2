@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:28:59 +0000"
 id: "2266"
 old_path: /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
-redirect_from:
+aliases:
  - /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
 category: news
 

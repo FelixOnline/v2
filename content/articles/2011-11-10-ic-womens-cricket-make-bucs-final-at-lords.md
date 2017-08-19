@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:41:57 +0000"
 id: "1752"
 old_path: /sport/1752/ic-womens-cricket-make-bucs-final-at-lords
-redirect_from:
+aliases:
  - /sport/1752/ic-womens-cricket-make-bucs-final-at-lords
 category: sport
 

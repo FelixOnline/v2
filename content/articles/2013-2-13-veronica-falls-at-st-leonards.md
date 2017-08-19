@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 12:57:18 +0000"
 id: "3297"
 old_path: /music/3297/veronica-falls-at-st-leonards
-redirect_from:
+aliases:
  - /music/3297/veronica-falls-at-st-leonards
 category: music
 

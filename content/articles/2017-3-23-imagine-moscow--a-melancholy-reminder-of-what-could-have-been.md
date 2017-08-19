@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-23 16:41:52 +0000"
 id: "6922"
 old_path: /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
-redirect_from:
+aliases:
  - /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
 category: arts
 

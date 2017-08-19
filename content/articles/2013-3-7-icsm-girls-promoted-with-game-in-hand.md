@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:53:43 +0000"
 id: "3433"
 old_path: /sport/3433/icsm-girls-promoted-with-game-in-hand
-redirect_from:
+aliases:
  - /sport/3433/icsm-girls-promoted-with-game-in-hand
 category: sport
 

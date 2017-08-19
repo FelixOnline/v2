@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 20:43:25 +0000"
 id: "3341"
 old_path: /science/3341/rats-get-infrared-sixth-sense
-redirect_from:
+aliases:
  - /science/3341/rats-get-infrared-sixth-sense
 category: science
 

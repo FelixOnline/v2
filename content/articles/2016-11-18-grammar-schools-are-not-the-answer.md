@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:32:54 +0000"
 id: "6458"
 old_path: /comment/6458/grammar-schools-are-not-the-answer-
-redirect_from:
+aliases:
  - /comment/6458/grammar-schools-are-not-the-answer-
 category: comment
 

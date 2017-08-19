@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:58:45 +0000"
 id: "417"
 old_path: /news/417/imperial-igem-team-win-in-us
-redirect_from:
+aliases:
  - /news/417/imperial-igem-team-win-in-us
 category: news
 

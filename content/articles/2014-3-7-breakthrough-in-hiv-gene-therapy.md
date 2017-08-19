@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:48:50 +0000"
 id: "4457"
 old_path: /science/4457/breakthrough-in-hiv-gene-therapy
-redirect_from:
+aliases:
  - /science/4457/breakthrough-in-hiv-gene-therapy
 category: science
 

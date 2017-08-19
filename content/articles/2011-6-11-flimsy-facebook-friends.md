@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-11 17:28:20 +0100"
 id: "1358"
 old_path: /comment/1358/flimsy-facebook-friends
-redirect_from:
+aliases:
  - /comment/1358/flimsy-facebook-friends
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:26:31 +0100"
 id: "3928"
 old_path: /arts/3928/more-than-a-hipster-art-safari
-redirect_from:
+aliases:
  - /arts/3928/more-than-a-hipster-art-safari
 category: arts
 

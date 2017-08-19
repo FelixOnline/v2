@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:52:11 +0000"
 id: "5734"
 old_path: /games/5734/love-sex-and-the-internet
-redirect_from:
+aliases:
  - /games/5734/love-sex-and-the-internet
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 16:27:01 +0100"
 id: "1370"
 old_path: /sport/1370/german-beer-kebabs-and-plenty-of-rugby
-redirect_from:
+aliases:
  - /sport/1370/german-beer-kebabs-and-plenty-of-rugby
 category: sport
 

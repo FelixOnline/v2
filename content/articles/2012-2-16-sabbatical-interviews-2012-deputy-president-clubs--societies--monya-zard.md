@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 23:08:48 +0000"
 id: "2218"
 old_path: /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
-redirect_from:
+aliases:
  - /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
 category: news
 

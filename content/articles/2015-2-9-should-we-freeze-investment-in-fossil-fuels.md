@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:44:30 +0000"
 id: "5227"
 old_path: /comment/5227/should-we-freeze-investment-in-fossil-fuels
-redirect_from:
+aliases:
  - /comment/5227/should-we-freeze-investment-in-fossil-fuels
 category: comment
 

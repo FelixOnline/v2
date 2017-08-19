@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:37:09 +0000"
 id: "5144"
 old_path: /food/5144/old-friends-new-ventures
-redirect_from:
+aliases:
  - /food/5144/old-friends-new-ventures
 category: food
 

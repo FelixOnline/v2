@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:39:18 +0100"
 id: "5603"
 old_path: /features/5603/lets-talk-about-sexual-health
-redirect_from:
+aliases:
  - /features/5603/lets-talk-about-sexual-health
 category: features
 

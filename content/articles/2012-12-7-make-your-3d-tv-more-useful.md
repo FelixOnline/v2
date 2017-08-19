@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:53:23 +0000"
 id: "3056"
 old_path: /tech/3056/make-your-3d-tv-more-useful-
-redirect_from:
+aliases:
  - /tech/3056/make-your-3d-tv-more-useful-
 category: tech
 

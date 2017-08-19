@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-20 14:58:41 +0000"
 id: "5420"
 old_path: /features/5420/what-does-it-mean-to-have-a-mental-health-problem-at-imperial
-redirect_from:
+aliases:
  - /features/5420/what-does-it-mean-to-have-a-mental-health-problem-at-imperial
 category: features
 

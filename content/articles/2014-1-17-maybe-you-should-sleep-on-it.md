@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:31:39 +0000"
 id: "4233"
 old_path: /science/4233/maybe-you-should-sleep-on-it-
-redirect_from:
+aliases:
  - /science/4233/maybe-you-should-sleep-on-it-
 category: science
 

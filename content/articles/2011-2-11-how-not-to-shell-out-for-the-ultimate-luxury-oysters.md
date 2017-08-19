@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-11 06:56:37 +0000"
 id: "803"
 old_path: /food/803/how-not-to-shell-out-for-the-ultimate-luxury-oysters
-redirect_from:
+aliases:
  - /food/803/how-not-to-shell-out-for-the-ultimate-luxury-oysters
 category: food
 

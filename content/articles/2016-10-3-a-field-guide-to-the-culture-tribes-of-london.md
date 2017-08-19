@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 19:56:05 +0100"
 id: "6308"
 old_path: /culture/6308/a-field-guide-to-the-culture-tribes-of-london
-redirect_from:
+aliases:
  - /culture/6308/a-field-guide-to-the-culture-tribes-of-london
 category: culture
 

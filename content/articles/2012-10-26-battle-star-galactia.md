@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:09:57 +0100"
 id: "2767"
 old_path: /arts/2767/battle-star-galactia
-redirect_from:
+aliases:
  - /arts/2767/battle-star-galactia
 category: arts
 

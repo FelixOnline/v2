@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-15 18:24:03 +0000"
 id: "378"
 old_path: /games/378/yet-another-gripping-game-from-the-wwe
-redirect_from:
+aliases:
  - /games/378/yet-another-gripping-game-from-the-wwe
 category: games
 

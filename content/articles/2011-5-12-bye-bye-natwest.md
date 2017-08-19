@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:08:25 +0100"
 id: "1185"
 old_path: /news/1185/bye-bye-natwest
-redirect_from:
+aliases:
  - /news/1185/bye-bye-natwest
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 20:46:40 +0000"
 id: "1966"
 old_path: /sport/1966/buds-snowsports-without-snow
-redirect_from:
+aliases:
  - /sport/1966/buds-snowsports-without-snow
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:12:47 +0100"
 id: "2665"
 old_path: /film/2665/on-the-road-to-nowhere
-redirect_from:
+aliases:
  - /film/2665/on-the-road-to-nowhere
 category: film
 

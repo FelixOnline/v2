@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 10:07:10 +0000"
 id: "4044"
 old_path: /tv/4044/new-cbs-comedy-shows
-redirect_from:
+aliases:
  - /tv/4044/new-cbs-comedy-shows
 category: tv
 

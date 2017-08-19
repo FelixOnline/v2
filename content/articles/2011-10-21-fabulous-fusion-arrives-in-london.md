@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:08:15 +0100"
 id: "1595"
 old_path: /arts/1595/fabulous-fusion-arrives-in-london
-redirect_from:
+aliases:
  - /arts/1595/fabulous-fusion-arrives-in-london
 category: arts
 

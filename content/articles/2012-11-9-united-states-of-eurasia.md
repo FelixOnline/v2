@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:07:31 +0000"
 id: "2844"
 old_path: /comment/2844/united-states-of-eurasia
-redirect_from:
+aliases:
  - /comment/2844/united-states-of-eurasia
 category: comment
 

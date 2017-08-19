@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:16:28 +0000"
 id: "5119"
 old_path: /news/5119/andrew-mitchell-mp-speaks-at-imperial
-redirect_from:
+aliases:
  - /news/5119/andrew-mitchell-mp-speaks-at-imperial
 category: news
 

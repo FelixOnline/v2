@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-27 18:03:09 +0100"
 id: "5570"
 old_path: /arts/5570/ninagawas-hamlet-shows-a-new-bard-
-redirect_from:
+aliases:
  - /arts/5570/ninagawas-hamlet-shows-a-new-bard-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 22:02:48 +0000"
 id: "446"
 old_path: /comment/446/all-this-royal-wedding-tosh-has-got-me-reminiscing
-redirect_from:
+aliases:
  - /comment/446/all-this-royal-wedding-tosh-has-got-me-reminiscing
 category: comment
 

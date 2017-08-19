@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-04 15:19:06 +0000"
 id: "5795"
 old_path: /comment/5795/dont-turn-your-back-on-cop21
-redirect_from:
+aliases:
  - /comment/5795/dont-turn-your-back-on-cop21
 category: comment
 

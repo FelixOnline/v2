@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-26 12:59:12 +0000"
 id: "4438"
 old_path: /tv/4438/star-cops-a-sci-fi-golden-oldie
-redirect_from:
+aliases:
  - /tv/4438/star-cops-a-sci-fi-golden-oldie
 category: tv
 

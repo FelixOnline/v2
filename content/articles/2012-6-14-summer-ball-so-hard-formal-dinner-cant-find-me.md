@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:43:49 +0100"
 id: "2550"
 old_path: /comment/2550/summer-ball-so-hard-formal-dinner-cant-find-me
-redirect_from:
+aliases:
  - /comment/2550/summer-ball-so-hard-formal-dinner-cant-find-me
 category: comment
 

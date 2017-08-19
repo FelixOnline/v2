@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:21:15 +0000"
 id: "5428"
 old_path: /music/5428/fka-twigs-feminism-and-female-sexuality-on-video
-redirect_from:
+aliases:
  - /music/5428/fka-twigs-feminism-and-female-sexuality-on-video
 category: music
 

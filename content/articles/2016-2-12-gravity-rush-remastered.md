@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:39:17 +0000"
 id: "5908"
 old_path: /games/5908/gravity-rush-remastered
-redirect_from:
+aliases:
  - /games/5908/gravity-rush-remastered
 category: games
 

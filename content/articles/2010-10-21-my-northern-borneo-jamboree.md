@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:53:13 +0100"
 id: "224"
 old_path: /travel/224/my-northern-borneo-jamboree
-redirect_from:
+aliases:
  - /travel/224/my-northern-borneo-jamboree
 category: travel
 

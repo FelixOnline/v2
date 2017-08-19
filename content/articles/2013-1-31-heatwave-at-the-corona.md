@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:34:08 +0000"
 id: "3210"
 old_path: /science/3210/heatwave-at-the-corona-
-redirect_from:
+aliases:
  - /science/3210/heatwave-at-the-corona-
 category: science
 

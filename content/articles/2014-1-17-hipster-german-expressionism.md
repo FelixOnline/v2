@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:48:30 +0000"
 id: "4242"
 old_path: /arts/4242/hipster-german-expressionism
-redirect_from:
+aliases:
  - /arts/4242/hipster-german-expressionism
 category: arts
 

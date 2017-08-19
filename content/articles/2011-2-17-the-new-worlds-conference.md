@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:07:58 +0000"
 id: "813"
 old_path: /biz/813/the-new-worlds-conference-
-redirect_from:
+aliases:
  - /biz/813/the-new-worlds-conference-
 category: business
 

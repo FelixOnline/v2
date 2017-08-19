@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:42:54 +0000"
 id: "6056"
 old_path: /features/6056/a-letter-tothe-man-who-broke-my-heart
-redirect_from:
+aliases:
  - /features/6056/a-letter-tothe-man-who-broke-my-heart
 category: features
 

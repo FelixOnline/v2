@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-05 10:50:39 +0000"
 id: "74"
 old_path: /music/74/todd---big-ripper
-redirect_from:
+aliases:
  - /music/74/todd---big-ripper
 category: music
 

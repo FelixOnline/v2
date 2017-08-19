@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 10:46:21 +0100"
 id: "3502"
 old_path: /film/3502/tony-stark-will-return
-redirect_from:
+aliases:
  - /film/3502/tony-stark-will-return
 category: film
 

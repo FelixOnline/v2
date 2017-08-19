@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:46:08 +0000"
 id: "4464"
 old_path: /music/4464/cloud-nothings---here-and-nowhere-else
-redirect_from:
+aliases:
  - /music/4464/cloud-nothings---here-and-nowhere-else
 category: music
 

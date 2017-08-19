@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-11 17:42:16 +0000"
 id: "4475"
 old_path: /tech/4475/imperials-own-smartwatch
-redirect_from:
+aliases:
  - /tech/4475/imperials-own-smartwatch
 category: tech
 

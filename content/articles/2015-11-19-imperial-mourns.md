@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:16:55 +0000"
 id: "5739"
 old_path: /news/5739/imperial-mourns
-redirect_from:
+aliases:
  - /news/5739/imperial-mourns
 category: news
 

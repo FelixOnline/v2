@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 17:33:21 +0000"
 id: "6701"
 old_path: /sport/6701/push-them-down-tire-them-out-win
-redirect_from:
+aliases:
  - /sport/6701/push-them-down-tire-them-out-win
 category: sport
 

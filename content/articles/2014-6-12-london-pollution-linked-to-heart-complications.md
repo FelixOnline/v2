@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 17:00:43 +0100"
 id: "4686"
 old_path: /science/4686/london-pollution-linked-to-heart-complications-
-redirect_from:
+aliases:
  - /science/4686/london-pollution-linked-to-heart-complications-
 category: science
 

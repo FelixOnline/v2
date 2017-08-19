@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-30 11:25:45 +0000"
 id: "3016"
 old_path: /tech/3016/google-music-is-finally-here
-redirect_from:
+aliases:
  - /tech/3016/google-music-is-finally-here
 category: tech
 

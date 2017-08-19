@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:26:08 +0000"
 id: "1651"
 old_path: /news/1651/ic-radio-in-expos-shutdown
-redirect_from:
+aliases:
  - /news/1651/ic-radio-in-expos-shutdown
 category: news
 

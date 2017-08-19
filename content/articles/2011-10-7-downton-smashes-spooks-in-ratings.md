@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 12:49:25 +0100"
 id: "1494"
 old_path: /tv/1494/downton-smashes-spooks-in-ratings-
-redirect_from:
+aliases:
  - /tv/1494/downton-smashes-spooks-in-ratings-
 category: tv
 

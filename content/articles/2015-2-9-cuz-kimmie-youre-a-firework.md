@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:06:26 +0000"
 id: "5218"
 old_path: /film/5218/cuz-kimmie-youre-a-firework
-redirect_from:
+aliases:
  - /film/5218/cuz-kimmie-youre-a-firework
 category: film
 

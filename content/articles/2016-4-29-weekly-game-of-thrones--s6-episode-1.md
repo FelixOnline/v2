@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:58:11 +0100"
 id: "6108"
 old_path: /tv/6108/weekly-game-of-thrones--s6-episode-1
-redirect_from:
+aliases:
  - /tv/6108/weekly-game-of-thrones--s6-episode-1
 category: tv
 

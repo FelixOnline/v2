@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-30 15:50:14 +0100"
 id: "6082"
 old_path: /arts/6082/great-britain-strange-yet-familiar
-redirect_from:
+aliases:
  - /arts/6082/great-britain-strange-yet-familiar
 category: arts
 

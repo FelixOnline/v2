@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:37:50 +0000"
 id: "6871"
 old_path: /film/6871/certain-women--postcards-from-the-edge-of-solitude
-redirect_from:
+aliases:
  - /film/6871/certain-women--postcards-from-the-edge-of-solitude
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:38:00 +0100"
 id: "6289"
 old_path: /film/6289/when-marnie-was-there
-redirect_from:
+aliases:
  - /film/6289/when-marnie-was-there
 category: film
 

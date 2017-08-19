@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:53:24 +0000"
 id: "3432"
 old_path: /news/3432/funkology-wins-largest-uk-university-dance-competition
-redirect_from:
+aliases:
  - /news/3432/funkology-wins-largest-uk-university-dance-competition
 category: news
 

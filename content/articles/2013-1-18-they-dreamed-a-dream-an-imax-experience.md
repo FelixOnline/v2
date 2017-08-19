@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 01:10:27 +0000"
 id: "3150"
 old_path: /film/3150/they-dreamed-a-dream-an-imax-experience
-redirect_from:
+aliases:
  - /film/3150/they-dreamed-a-dream-an-imax-experience
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:10:24 +0100"
 id: "2465"
 old_path: /science/2465/inventor-of-confocal-microscope-develops-new-giant-lens
-redirect_from:
+aliases:
  - /science/2465/inventor-of-confocal-microscope-develops-new-giant-lens
 category: science
 

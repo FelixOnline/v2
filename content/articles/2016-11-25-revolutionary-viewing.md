@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:29:18 +0000"
 id: "6511"
 old_path: /tv/6511/revolutionary-viewing
-redirect_from:
+aliases:
  - /tv/6511/revolutionary-viewing
 category: tv
 

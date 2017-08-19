@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:52:58 +0000"
 id: "4282"
 old_path: /comment/4282/nhs-data-sale-ramifications
-redirect_from:
+aliases:
  - /comment/4282/nhs-data-sale-ramifications
 category: comment
 

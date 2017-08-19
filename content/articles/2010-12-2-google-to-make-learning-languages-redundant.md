@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 19:59:06 +0000"
 id: "456"
 old_path: /tech/456/google-to-make-learning-languages-redundant
-redirect_from:
+aliases:
  - /tech/456/google-to-make-learning-languages-redundant
 category: tech
 

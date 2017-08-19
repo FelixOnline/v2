@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-26 13:15:40 +0100"
 id: "4717"
 old_path: /news/4717/college-acquiring-new-sports-ground-in-west-london
-redirect_from:
+aliases:
  - /news/4717/college-acquiring-new-sports-ground-in-west-london
 category: news
 

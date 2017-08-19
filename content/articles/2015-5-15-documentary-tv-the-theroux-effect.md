@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:28:20 +0100"
 id: "5531"
 old_path: /tv/5531/documentary-tv-the-theroux-effect
-redirect_from:
+aliases:
  - /tv/5531/documentary-tv-the-theroux-effect
 category: tv
 

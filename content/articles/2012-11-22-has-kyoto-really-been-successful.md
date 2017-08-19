@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:17:38 +0000"
 id: "2943"
 old_path: /politics/2943/has-kyoto-really-been-successful
-redirect_from:
+aliases:
  - /politics/2943/has-kyoto-really-been-successful
 category: politics
 

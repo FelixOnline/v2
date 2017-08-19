@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 12:19:33 +0100"
 id: "5587"
 old_path: /music/5587/brandon-flowers-on-his-own
-redirect_from:
+aliases:
  - /music/5587/brandon-flowers-on-his-own
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:56:49 +0000"
 id: "1695"
 old_path: /comment/1695/should-climate-change-be-labelled
-redirect_from:
+aliases:
  - /comment/1695/should-climate-change-be-labelled
 category: comment
 

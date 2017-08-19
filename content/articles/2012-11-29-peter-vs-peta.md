@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:09:25 +0000"
 id: "3006"
 old_path: /film/3006/peter-vs-peta
-redirect_from:
+aliases:
  - /film/3006/peter-vs-peta
 category: film
 

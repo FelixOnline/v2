@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 23:49:15 +0100"
 id: "1624"
 old_path: /science/1624/doggone-drunks
-redirect_from:
+aliases:
  - /science/1624/doggone-drunks
 category: science
 

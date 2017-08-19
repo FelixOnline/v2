@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 19:01:11 +0000"
 id: "108"
 old_path: /sport/108/ic-shooters-on-target
-redirect_from:
+aliases:
  - /sport/108/ic-shooters-on-target
 category: sport
 

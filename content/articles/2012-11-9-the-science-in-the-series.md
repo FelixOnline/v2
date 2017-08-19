@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:27:29 +0000"
 id: "2858"
 old_path: /tv/2858/the-science-in-the-series
-redirect_from:
+aliases:
  - /tv/2858/the-science-in-the-series
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:17:50 +0000"
 id: "6406"
 old_path: /sport/6406/ic-womens-rugby-brunel-convert-to-victory-
-redirect_from:
+aliases:
  - /sport/6406/ic-womens-rugby-brunel-convert-to-victory-
 category: sport
 

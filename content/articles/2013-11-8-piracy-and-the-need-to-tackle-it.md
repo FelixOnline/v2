@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:42:28 +0000"
 id: "4031"
 old_path: /politics/4031/piracy-and-the-need-to-tackle-it
-redirect_from:
+aliases:
  - /politics/4031/piracy-and-the-need-to-tackle-it
 category: politics
 

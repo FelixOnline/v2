@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:58:52 +0100"
 id: "3917"
 old_path: /science/3917/to-sleep-perchance-to-clean-your-brain
-redirect_from:
+aliases:
  - /science/3917/to-sleep-perchance-to-clean-your-brain
 category: science
 

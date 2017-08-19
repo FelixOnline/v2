@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 12:38:20 +0100"
 id: "3628"
 old_path: /tech/3628/xbox-one-ton-of-fun
-redirect_from:
+aliases:
  - /tech/3628/xbox-one-ton-of-fun
 category: tech
 

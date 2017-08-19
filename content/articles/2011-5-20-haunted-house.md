@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 04:38:12 +0100"
 id: "1220"
 old_path: /film/1220/haunted-house
-redirect_from:
+aliases:
  - /film/1220/haunted-house
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:33:59 +0100"
 id: "3694"
 old_path: /film/3694/too-gay-for-hollywood
-redirect_from:
+aliases:
  - /film/3694/too-gay-for-hollywood
 category: film
 

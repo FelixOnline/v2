@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:28:34 +0000"
 id: "1667"
 old_path: /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
-redirect_from:
+aliases:
  - /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
 category: games
 

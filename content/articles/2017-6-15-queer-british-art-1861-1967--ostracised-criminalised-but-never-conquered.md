@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-15 15:59:34 +0100"
 id: "7026"
 old_path: /arts/7026/queer-british-art-1861-1967--ostracised-criminalised-but-never-conquered
-redirect_from:
+aliases:
  - /arts/7026/queer-british-art-1861-1967--ostracised-criminalised-but-never-conquered
 category: arts
 

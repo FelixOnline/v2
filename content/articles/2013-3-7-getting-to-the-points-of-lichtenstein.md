@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:50:53 +0000"
 id: "3447"
 old_path: /arts/3447/getting-to-the-points-of-lichtenstein
-redirect_from:
+aliases:
  - /arts/3447/getting-to-the-points-of-lichtenstein
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 15:00:46 +0000"
 id: "5188"
 old_path: /film/5188/six-degrees-of-superheroes
-redirect_from:
+aliases:
  - /film/5188/six-degrees-of-superheroes
 category: film
 

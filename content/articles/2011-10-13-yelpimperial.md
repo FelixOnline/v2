@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:44:39 +0100"
 id: "1528"
 old_path: /news/1528/yelpimperial
-redirect_from:
+aliases:
  - /news/1528/yelpimperial
 category: news
 

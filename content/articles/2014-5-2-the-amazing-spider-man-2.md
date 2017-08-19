@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:20:48 +0100"
 id: "4547"
 old_path: /film/4547/the-amazing-spider-man-2
-redirect_from:
+aliases:
  - /film/4547/the-amazing-spider-man-2
 category: film
 

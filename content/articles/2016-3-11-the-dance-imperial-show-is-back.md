@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:43:33 +0000"
 id: "6030"
 old_path: /cands/6030/the-dance-imperial-show-is-back
-redirect_from:
+aliases:
  - /cands/6030/the-dance-imperial-show-is-back
 category: clubs-and-socs
 

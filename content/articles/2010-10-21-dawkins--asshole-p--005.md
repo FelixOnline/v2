@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:00:40 +0100"
 id: "230"
 old_path: /comment/230/dawkins--asshole-p--005-
-redirect_from:
+aliases:
  - /comment/230/dawkins--asshole-p--005-
 category: comment
 

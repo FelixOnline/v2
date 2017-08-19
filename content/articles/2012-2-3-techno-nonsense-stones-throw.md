@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 11:13:09 +0000"
 id: "2129"
 old_path: /music/2129/techno-nonsense-stones-throw
-redirect_from:
+aliases:
  - /music/2129/techno-nonsense-stones-throw
 category: music
 

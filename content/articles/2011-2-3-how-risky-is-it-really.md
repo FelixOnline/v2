@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:03:22 +0000"
 id: "733"
 old_path: /science/733/how-risky-is-it-really-
-redirect_from:
+aliases:
  - /science/733/how-risky-is-it-really-
 category: science
 

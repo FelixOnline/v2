@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:52:18 +0000"
 id: "5864"
 old_path: /comment/5864/rhodes-must-fall
-redirect_from:
+aliases:
  - /comment/5864/rhodes-must-fall
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-03 15:53:55 +0100"
 id: "2519"
 old_path: /music/2519/a-night-at-le-quecumbar
-redirect_from:
+aliases:
  - /music/2519/a-night-at-le-quecumbar
 category: music
 

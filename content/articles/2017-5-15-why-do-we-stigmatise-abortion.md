@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:42:54 +0100"
 id: "6968"
 old_path: /features/6968/why-do-we-stigmatise-abortion
-redirect_from:
+aliases:
  - /features/6968/why-do-we-stigmatise-abortion
 category: features
 

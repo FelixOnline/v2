@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 03:26:48 +0000"
 id: "4373"
 old_path: /arts/4373/under-the-vaults
-redirect_from:
+aliases:
  - /arts/4373/under-the-vaults
 category: arts
 

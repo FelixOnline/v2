@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:25:22 +0100"
 id: "205"
 old_path: /music/205/another-fantastic-year-for-bestival-
-redirect_from:
+aliases:
  - /music/205/another-fantastic-year-for-bestival-
 category: music
 

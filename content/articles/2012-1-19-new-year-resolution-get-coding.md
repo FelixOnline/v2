@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:16:13 +0000"
 id: "2011"
 old_path: /comment/2011/new-year-resolution-get-coding
-redirect_from:
+aliases:
  - /comment/2011/new-year-resolution-get-coding
 category: comment
 

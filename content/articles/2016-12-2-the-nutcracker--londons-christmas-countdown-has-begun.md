@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:00:30 +0000"
 id: "6536"
 old_path: /arts/6536/the-nutcracker--londons-christmas-countdown-has-begun
-redirect_from:
+aliases:
  - /arts/6536/the-nutcracker--londons-christmas-countdown-has-begun
 category: arts
 

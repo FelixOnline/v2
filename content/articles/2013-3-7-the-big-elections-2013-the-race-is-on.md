@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:48:23 +0000"
 id: "3446"
 old_path: /news/3446/the-big-elections-2013-the-race-is-on
-redirect_from:
+aliases:
  - /news/3446/the-big-elections-2013-the-race-is-on
 category: news
 

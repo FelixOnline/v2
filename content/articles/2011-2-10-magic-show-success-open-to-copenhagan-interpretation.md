@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:23:47 +0000"
 id: "772"
 old_path: /science/772/magic-show-success-open-to-copenhagan-interpretation-
-redirect_from:
+aliases:
  - /science/772/magic-show-success-open-to-copenhagan-interpretation-
 category: science
 

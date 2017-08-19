@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 17:04:49 +0000"
 id: "5363"
 old_path: /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy
-redirect_from:
+aliases:
  - /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy
 category: science
 

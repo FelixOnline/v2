@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:50:12 +0000"
 id: "4458"
 old_path: /science/4458/debate-over-plos-data-publishing-demands
-redirect_from:
+aliases:
  - /science/4458/debate-over-plos-data-publishing-demands
 category: science
 

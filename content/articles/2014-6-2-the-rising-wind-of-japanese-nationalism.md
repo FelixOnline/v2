@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:45:23 +0100"
 id: "4640"
 old_path: /comment/4640/the-rising-wind-of-japanese-nationalism
-redirect_from:
+aliases:
  - /comment/4640/the-rising-wind-of-japanese-nationalism
 category: comment
 

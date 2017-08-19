@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:07:45 +0000"
 id: "2311"
 old_path: /science/2311/stem-cells-help-stop-biological-clock
-redirect_from:
+aliases:
  - /science/2311/stem-cells-help-stop-biological-clock
 category: science
 

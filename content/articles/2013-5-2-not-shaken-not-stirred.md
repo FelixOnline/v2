@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 14:07:13 +0100"
 id: "3538"
 old_path: /news/3538/not-shaken-not-stirred
-redirect_from:
+aliases:
  - /news/3538/not-shaken-not-stirred
 category: news
 

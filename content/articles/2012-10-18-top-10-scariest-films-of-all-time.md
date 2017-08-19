@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:36:01 +0100"
 id: "2714"
 old_path: /film/2714/top-10-scariest-films-of-all-time
-redirect_from:
+aliases:
  - /film/2714/top-10-scariest-films-of-all-time
 category: film
 

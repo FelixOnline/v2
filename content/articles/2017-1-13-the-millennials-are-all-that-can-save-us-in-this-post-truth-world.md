@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 15:05:14 +0000"
 id: "6652"
 old_path: /features/6652/the-millennials-are-all-that-can-save-us-in-this-post-truth-world
-redirect_from:
+aliases:
  - /features/6652/the-millennials-are-all-that-can-save-us-in-this-post-truth-world
 category: features
 

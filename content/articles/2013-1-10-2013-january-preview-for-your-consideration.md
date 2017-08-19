@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:14:29 +0000"
 id: "3109"
 old_path: /film/3109/2013-january-preview-for-your-consideration
-redirect_from:
+aliases:
  - /film/3109/2013-january-preview-for-your-consideration
 category: film
 

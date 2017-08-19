@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:12:28 +0000"
 id: "6403"
 old_path: /games/6403/sims-aint-all-about-that-woohoo
-redirect_from:
+aliases:
  - /games/6403/sims-aint-all-about-that-woohoo
 category: games
 

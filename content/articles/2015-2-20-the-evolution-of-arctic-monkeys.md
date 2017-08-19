@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 17:42:27 +0000"
 id: "5296"
 old_path: /music/5296/the-evolution-of-arctic-monkeys
-redirect_from:
+aliases:
  - /music/5296/the-evolution-of-arctic-monkeys
 category: music
 

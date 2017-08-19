@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:54:19 +0000"
 id: "1658"
 old_path: /science/1658/malaria-vaccine-enters-phase-iii-trials
-redirect_from:
+aliases:
  - /science/1658/malaria-vaccine-enters-phase-iii-trials
 category: science
 

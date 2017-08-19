@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 08:29:49 +0000"
 id: "995"
 old_path: /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
-redirect_from:
+aliases:
  - /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
 category: sport
 

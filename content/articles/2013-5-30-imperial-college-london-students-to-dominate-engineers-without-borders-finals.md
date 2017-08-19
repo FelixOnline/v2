@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 12:26:51 +0100"
 id: "3644"
 old_path: /news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals
-redirect_from:
+aliases:
  - /news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals
 category: news
 

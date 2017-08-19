@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:33:28 +0000"
 id: "6512"
 old_path: /games/6512/eight-signs-youre-dating-a-gamer
-redirect_from:
+aliases:
  - /games/6512/eight-signs-youre-dating-a-gamer
 category: games
 

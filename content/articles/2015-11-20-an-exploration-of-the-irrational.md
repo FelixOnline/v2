@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:23:35 +0000"
 id: "5754"
 old_path: /film/5754/an-exploration-of-the-irrational
-redirect_from:
+aliases:
  - /film/5754/an-exploration-of-the-irrational
 category: film
 

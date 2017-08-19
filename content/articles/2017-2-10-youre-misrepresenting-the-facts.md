@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:46:45 +0000"
 id: "6747"
 old_path: /comment/6747/youre-misrepresenting-the-facts
-redirect_from:
+aliases:
  - /comment/6747/youre-misrepresenting-the-facts
 category: comment
 

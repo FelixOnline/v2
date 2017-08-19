@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:04:58 +0000"
 id: "763"
 old_path: /news/763/interview-with-deputy-president-finance--services-ravi-pall
-redirect_from:
+aliases:
  - /news/763/interview-with-deputy-president-finance--services-ravi-pall
 category: news
 

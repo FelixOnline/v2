@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:59:09 +0100"
 id: "6127"
 old_path: /music/6127/where-are-all-the-women-in-hip-hop
-redirect_from:
+aliases:
  - /music/6127/where-are-all-the-women-in-hip-hop
 category: music
 

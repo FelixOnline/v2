@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:36:39 +0000"
 id: "3276"
 old_path: /news/3276/european-society-launches
-redirect_from:
+aliases:
  - /news/3276/european-society-launches
 category: news
 

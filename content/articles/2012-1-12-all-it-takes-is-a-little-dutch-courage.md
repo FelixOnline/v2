@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:32:49 +0000"
 id: "1970"
 old_path: /comment/1970/all-it-takes-is-a-little-dutch-courage
-redirect_from:
+aliases:
  - /comment/1970/all-it-takes-is-a-little-dutch-courage
 category: comment
 

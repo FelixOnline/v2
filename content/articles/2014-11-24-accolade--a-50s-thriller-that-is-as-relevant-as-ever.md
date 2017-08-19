@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:30:19 +0000"
 id: "4939"
 old_path: /arts/4939/accolade--a-50s-thriller-that-is-as-relevant-as-ever
-redirect_from:
+aliases:
  - /arts/4939/accolade--a-50s-thriller-that-is-as-relevant-as-ever
 category: arts
 

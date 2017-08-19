@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-09 13:25:29 +0000"
 id: "5893"
 old_path: /tv/5893/the-fastest-man-alive
-redirect_from:
+aliases:
  - /tv/5893/the-fastest-man-alive
 category: tv
 

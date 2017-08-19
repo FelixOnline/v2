@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:56:15 +0000"
 id: "856"
 old_path: /sport/856/imperial-tae-kwon-do-take-on-italy
-redirect_from:
+aliases:
  - /sport/856/imperial-tae-kwon-do-take-on-italy
 category: sport
 

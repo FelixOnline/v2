@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:11:00 +0000"
 id: "4253"
 old_path: /film/4253/best-lead-performer
-redirect_from:
+aliases:
  - /film/4253/best-lead-performer
 category: film
 

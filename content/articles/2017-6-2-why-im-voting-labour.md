@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 14:16:12 +0100"
 id: "7003"
 old_path: /comment/7003/why-im-voting-labour-
-redirect_from:
+aliases:
  - /comment/7003/why-im-voting-labour-
 category: comment
 

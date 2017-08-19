@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 19:29:14 +0000"
 id: "4399"
 old_path: /film/4399/philadeluhhdallas
-redirect_from:
+aliases:
  - /film/4399/philadeluhhdallas
 category: film
 

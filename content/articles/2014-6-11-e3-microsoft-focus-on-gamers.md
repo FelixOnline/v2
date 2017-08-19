@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 21:40:19 +0100"
 id: "4671"
 old_path: /games/4671/e3-microsoft-focus-on-gamers
-redirect_from:
+aliases:
  - /games/4671/e3-microsoft-focus-on-gamers
 category: games
 

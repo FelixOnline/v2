@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:35:28 +0100"
 id: "245"
 old_path: /games/245/another-chronic-sonic-failure-
-redirect_from:
+aliases:
  - /games/245/another-chronic-sonic-failure-
 category: games
 

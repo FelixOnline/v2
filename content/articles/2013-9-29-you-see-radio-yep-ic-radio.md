@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:14:32 +0100"
 id: "3787"
 old_path: /music/3787/you-see-radio-yep-ic-radio
-redirect_from:
+aliases:
  - /music/3787/you-see-radio-yep-ic-radio
 category: music
 

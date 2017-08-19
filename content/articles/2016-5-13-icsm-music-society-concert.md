@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:40:00 +0100"
 id: "6168"
 old_path: /cands/6168/icsm-music-society-concert
-redirect_from:
+aliases:
  - /cands/6168/icsm-music-society-concert
 category: clubs-and-socs
 

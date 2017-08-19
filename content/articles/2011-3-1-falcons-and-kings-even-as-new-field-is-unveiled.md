@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:26:46 +0000"
 id: "970"
 old_path: /sport/970/falcons-and-kings-even-as-new-field-is-unveiled
-redirect_from:
+aliases:
  - /sport/970/falcons-and-kings-even-as-new-field-is-unveiled
 category: sport
 

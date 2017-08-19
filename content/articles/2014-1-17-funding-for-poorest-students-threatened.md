@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:04:36 +0000"
 id: "4224"
 old_path: /news/4224/funding-for-poorest-students-threatened
-redirect_from:
+aliases:
  - /news/4224/funding-for-poorest-students-threatened
 category: news
 

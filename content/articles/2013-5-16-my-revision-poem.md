@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 17:44:13 +0100"
 id: "3571"
 old_path: /arts/3571/my-revision-poem
-redirect_from:
+aliases:
  - /arts/3571/my-revision-poem
 category: arts
 

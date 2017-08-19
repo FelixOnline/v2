@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 13:14:54 +0000"
 id: "3322"
 old_path: /news/3322/kisses-record-confirmed
-redirect_from:
+aliases:
  - /news/3322/kisses-record-confirmed
 category: news
 

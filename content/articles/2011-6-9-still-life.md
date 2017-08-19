@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 18:31:06 +0100"
 id: "1332"
 old_path: /phoenix/1332/still-life
-redirect_from:
+aliases:
  - /phoenix/1332/still-life
 category: phoenix
 

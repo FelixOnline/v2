@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:54:39 +0100"
 id: "3942"
 old_path: /tv/3942/burton--taylor
-redirect_from:
+aliases:
  - /tv/3942/burton--taylor
 category: tv
 

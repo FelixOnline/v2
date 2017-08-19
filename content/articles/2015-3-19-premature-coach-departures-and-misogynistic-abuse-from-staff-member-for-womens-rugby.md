@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:42:37 +0000"
 id: "5406"
 old_path: /news/5406/premature-coach-departures-and-misogynistic-abuse-from-staff-member-for-womens-rugby
-redirect_from:
+aliases:
  - /news/5406/premature-coach-departures-and-misogynistic-abuse-from-staff-member-for-womens-rugby
 category: news
 

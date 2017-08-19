@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:23:57 +0000"
 id: "1729"
 old_path: /music/1729/grouper-impresses-in-a-soho-church
-redirect_from:
+aliases:
  - /music/1729/grouper-impresses-in-a-soho-church
 category: music
 

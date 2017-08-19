@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-22 13:02:31 +0100"
 id: "1240"
 old_path: /news/1240/new-research-centre-in-shoreditch
-redirect_from:
+aliases:
  - /news/1240/new-research-centre-in-shoreditch
 category: news
 

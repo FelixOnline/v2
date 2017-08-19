@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:49:04 +0000"
 id: "4279"
 old_path: /arts/4279/corruption-of-a-convent-girl
-redirect_from:
+aliases:
  - /arts/4279/corruption-of-a-convent-girl
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:10:36 +0000"
 id: "6509"
 old_path: /arts/6509/we--the-people--the-hamilton-cast-speak-out
-redirect_from:
+aliases:
  - /arts/6509/we--the-people--the-hamilton-cast-speak-out
 category: arts
 

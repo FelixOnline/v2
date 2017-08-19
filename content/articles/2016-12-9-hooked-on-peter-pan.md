@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:37:21 +0000"
 id: "6570"
 old_path: /arts/6570/hooked-on-peter-pan
-redirect_from:
+aliases:
  - /arts/6570/hooked-on-peter-pan
 category: arts
 

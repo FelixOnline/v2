@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:39:31 +0100"
 id: "1602"
 old_path: /music/1602/kina-grannis-in-london
-redirect_from:
+aliases:
  - /music/1602/kina-grannis-in-london
 category: music
 

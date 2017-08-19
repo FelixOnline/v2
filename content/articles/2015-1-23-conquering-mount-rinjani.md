@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 19:07:36 +0000"
 id: "5150"
 old_path: /travel/5150/conquering-mount-rinjani
-redirect_from:
+aliases:
  - /travel/5150/conquering-mount-rinjani
 category: travel
 

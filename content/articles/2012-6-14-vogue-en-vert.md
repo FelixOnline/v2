@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:50:28 +0100"
 id: "2552"
 old_path: /comment/2552/vogue-en-vert
-redirect_from:
+aliases:
  - /comment/2552/vogue-en-vert
 category: comment
 

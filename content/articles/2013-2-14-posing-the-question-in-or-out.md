@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 17:02:18 +0000"
 id: "3324"
 old_path: /politics/3324/posing-the-question-in-or-out
-redirect_from:
+aliases:
  - /politics/3324/posing-the-question-in-or-out
 category: politics
 

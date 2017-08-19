@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:45:41 +0100"
 id: "3859"
 old_path: /travel/3859/hangzhou-a-forgotten-pearl-from-heaven
-redirect_from:
+aliases:
  - /travel/3859/hangzhou-a-forgotten-pearl-from-heaven
 category: travel
 

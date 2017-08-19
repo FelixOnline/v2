@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:47:25 +0000"
 id: "5060"
 old_path: /arts/5060/frieze---where-art-goes-to-die
-redirect_from:
+aliases:
  - /arts/5060/frieze---where-art-goes-to-die
 category: arts
 

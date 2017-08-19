@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 18:00:09 +0100"
 id: "1328"
 old_path: /phoenix/1328/oil-and-water
-redirect_from:
+aliases:
  - /phoenix/1328/oil-and-water
 category: phoenix
 

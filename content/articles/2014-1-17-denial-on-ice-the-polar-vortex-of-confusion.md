@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:29:25 +0000"
 id: "4232"
 old_path: /science/4232/denial-on-ice-the-polar-vortex-of-confusion
-redirect_from:
+aliases:
  - /science/4232/denial-on-ice-the-polar-vortex-of-confusion
 category: science
 

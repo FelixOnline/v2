@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:06:51 +0000"
 id: "4758"
 old_path: /comment/4758/should-non-participants-be-forced-to-subsidise-events
-redirect_from:
+aliases:
  - /comment/4758/should-non-participants-be-forced-to-subsidise-events
 category: comment
 

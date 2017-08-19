@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:24:13 +0000"
 id: "2061"
 old_path: /news/2061/health-medicine-and-palestine
-redirect_from:
+aliases:
  - /news/2061/health-medicine-and-palestine
 category: news
 

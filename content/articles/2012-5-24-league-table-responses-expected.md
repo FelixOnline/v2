@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:45:41 +0100"
 id: "2491"
 old_path: /comment/2491/league-table-responses-expected
-redirect_from:
+aliases:
  - /comment/2491/league-table-responses-expected
 category: comment
 

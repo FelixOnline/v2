@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 10:22:48 +0100"
 id: "3509"
 old_path: /sport/3509/everyones-gone-surfing-surfing-newquay
-redirect_from:
+aliases:
  - /sport/3509/everyones-gone-surfing-surfing-newquay
 category: sport
 

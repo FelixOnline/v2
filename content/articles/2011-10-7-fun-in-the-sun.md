@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 01:43:47 +0100"
 id: "1475"
 old_path: /comment/1475/fun-in-the-sun
-redirect_from:
+aliases:
  - /comment/1475/fun-in-the-sun
 category: comment
 

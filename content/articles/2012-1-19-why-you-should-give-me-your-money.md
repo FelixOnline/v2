@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 23:26:33 +0000"
 id: "2039"
 old_path: /comment/2039/why-you-should-give-me-your-money
-redirect_from:
+aliases:
  - /comment/2039/why-you-should-give-me-your-money
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:13:18 +0000"
 id: "3157"
 old_path: /games/3157/a-bit-that-will-really-drive-you-a-long-way
-redirect_from:
+aliases:
  - /games/3157/a-bit-that-will-really-drive-you-a-long-way
 category: games
 

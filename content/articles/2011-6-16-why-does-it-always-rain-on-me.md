@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:10:12 +0100"
 id: "1389"
 old_path: /science/1389/why-does-it-always-rain-on-me
-redirect_from:
+aliases:
  - /science/1389/why-does-it-always-rain-on-me
 category: science
 

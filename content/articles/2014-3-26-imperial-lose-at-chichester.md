@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 15:11:50 +0000"
 id: "4507"
 old_path: /sport/4507/imperial-lose-at-chichester
-redirect_from:
+aliases:
  - /sport/4507/imperial-lose-at-chichester
 category: sport
 

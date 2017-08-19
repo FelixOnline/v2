@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:13:56 +0000"
 id: "2107"
 old_path: /sport/2107/netball-3s-crush-lse-plucky-4s-lose-to-st-georges
-redirect_from:
+aliases:
  - /sport/2107/netball-3s-crush-lse-plucky-4s-lose-to-st-georges
 category: sport
 

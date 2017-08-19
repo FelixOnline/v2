@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:49:55 +0100"
 id: "4665"
 old_path: /tv/4665/long-may-she-reign
-redirect_from:
+aliases:
  - /tv/4665/long-may-she-reign
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:18:25 +0000"
 id: "1935"
 old_path: /comment/1935/balderdash-and-other-lies
-redirect_from:
+aliases:
  - /comment/1935/balderdash-and-other-lies
 category: comment
 

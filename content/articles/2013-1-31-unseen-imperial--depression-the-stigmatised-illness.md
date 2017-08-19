@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:24:44 +0000"
 id: "3207"
 old_path: /news/3207/unseen-imperial--depression-the-stigmatised-illness
-redirect_from:
+aliases:
  - /news/3207/unseen-imperial--depression-the-stigmatised-illness
 category: news
 

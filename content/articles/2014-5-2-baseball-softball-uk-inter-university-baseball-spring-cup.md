@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 02:05:42 +0100"
 id: "4563"
 old_path: /sport/4563/baseball-softball-uk-inter-university-baseball-spring-cup
-redirect_from:
+aliases:
  - /sport/4563/baseball-softball-uk-inter-university-baseball-spring-cup
 category: sport
 

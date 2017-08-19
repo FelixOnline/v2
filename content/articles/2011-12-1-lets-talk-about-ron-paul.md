@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:20:08 +0000"
 id: "1888"
 old_path: /comment/1888/lets-talk-about-ron-paul-
-redirect_from:
+aliases:
  - /comment/1888/lets-talk-about-ron-paul-
 category: comment
 

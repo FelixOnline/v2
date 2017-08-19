@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:24:16 +0000"
 id: "439"
 old_path: /politics/439/debating-israel-and-palestine
-redirect_from:
+aliases:
  - /politics/439/debating-israel-and-palestine
 category: politics
 

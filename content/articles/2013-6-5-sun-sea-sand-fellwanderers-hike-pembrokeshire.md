@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 16:56:49 +0100"
 id: "3658"
 old_path: /sport/3658/sun-sea-sand-fellwanderers-hike-pembrokeshire
-redirect_from:
+aliases:
  - /sport/3658/sun-sea-sand-fellwanderers-hike-pembrokeshire
 category: sport
 

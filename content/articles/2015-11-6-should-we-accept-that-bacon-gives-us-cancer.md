@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:58:21 +0000"
 id: "5703"
 old_path: /comment/5703/should-we-accept-that-bacon-gives-us-cancer
-redirect_from:
+aliases:
  - /comment/5703/should-we-accept-that-bacon-gives-us-cancer
 category: comment
 

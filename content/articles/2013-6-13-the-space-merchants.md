@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:32:31 +0100"
 id: "3677"
 old_path: /books/3677/the-space-merchants
-redirect_from:
+aliases:
  - /books/3677/the-space-merchants
 category: books
 

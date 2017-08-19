@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:16:52 +0000"
 id: "1727"
 old_path: /news/1727/interview-adrian-shooter
-redirect_from:
+aliases:
  - /news/1727/interview-adrian-shooter
 category: news
 

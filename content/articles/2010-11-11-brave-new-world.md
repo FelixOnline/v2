@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:19:24 +0000"
 id: "359"
 old_path: /music/359/brave-new-world
-redirect_from:
+aliases:
  - /music/359/brave-new-world
 category: music
 

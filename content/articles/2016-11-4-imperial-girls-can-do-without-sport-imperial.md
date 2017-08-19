@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:34:52 +0000"
 id: "6394"
 old_path: /comment/6394/imperial-girls-can-do-without-sport-imperial
-redirect_from:
+aliases:
  - /comment/6394/imperial-girls-can-do-without-sport-imperial
 category: comment
 

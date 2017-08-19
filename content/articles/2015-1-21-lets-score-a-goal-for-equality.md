@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-21 11:54:59 +0000"
 id: "5105"
 old_path: /welfare/5105/lets-score-a-goal-for-equality
-redirect_from:
+aliases:
  - /welfare/5105/lets-score-a-goal-for-equality
 category: welfare
 

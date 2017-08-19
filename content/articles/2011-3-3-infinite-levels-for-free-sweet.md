@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:19:26 +0000"
 id: "988"
 old_path: /games/988/infinite-levels-for-free-sweet
-redirect_from:
+aliases:
  - /games/988/infinite-levels-for-free-sweet
 category: games
 

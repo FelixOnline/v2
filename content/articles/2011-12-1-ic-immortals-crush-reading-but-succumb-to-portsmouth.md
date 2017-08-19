@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:14:24 +0000"
 id: "1883"
 old_path: /sport/1883/ic-immortals-crush-reading-but-succumb-to-portsmouth-
-redirect_from:
+aliases:
  - /sport/1883/ic-immortals-crush-reading-but-succumb-to-portsmouth-
 category: sport
 

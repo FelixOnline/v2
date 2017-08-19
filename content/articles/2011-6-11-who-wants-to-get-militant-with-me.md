@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-11 17:31:01 +0100"
 id: "1360"
 old_path: /comment/1360/who-wants-to-get-militant-with-me
-redirect_from:
+aliases:
  - /comment/1360/who-wants-to-get-militant-with-me
 category: comment
 

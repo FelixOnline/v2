@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:15:06 +0000"
 id: "601"
 old_path: /travel/601/the-hawaiian-antidepressant-
-redirect_from:
+aliases:
  - /travel/601/the-hawaiian-antidepressant-
 category: travel
 

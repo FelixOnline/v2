@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:24:00 +0000"
 id: "1869"
 old_path: /arts/1869/the-old-man-and-the-movie
-redirect_from:
+aliases:
  - /arts/1869/the-old-man-and-the-movie
 category: arts
 

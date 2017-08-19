@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:56:21 +0100"
 id: "227"
 old_path: /tech/227/facebook-whats-next
-redirect_from:
+aliases:
  - /tech/227/facebook-whats-next
 category: tech
 

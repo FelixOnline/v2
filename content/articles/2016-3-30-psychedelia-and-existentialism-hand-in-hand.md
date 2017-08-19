@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-30 18:43:15 +0100"
 id: "6083"
 old_path: /arts/6083/psychedelia-and-existentialism-hand-in-hand
-redirect_from:
+aliases:
  - /arts/6083/psychedelia-and-existentialism-hand-in-hand
 category: arts
 

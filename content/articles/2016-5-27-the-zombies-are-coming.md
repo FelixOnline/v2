@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 09:03:09 +0100"
 id: "6218"
 old_path: /tv/6218/the-zombies-are-coming
-redirect_from:
+aliases:
  - /tv/6218/the-zombies-are-coming
 category: tv
 

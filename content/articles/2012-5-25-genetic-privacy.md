@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:44:21 +0100"
 id: "2501"
 old_path: /science/2501/genetic-privacy
-redirect_from:
+aliases:
  - /science/2501/genetic-privacy
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:03:12 +0100"
 id: "173"
 old_path: /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
-redirect_from:
+aliases:
  - /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:55:48 +0100"
 id: "1232"
 old_path: /comment/1232/national-pride-and-prejudice
-redirect_from:
+aliases:
  - /comment/1232/national-pride-and-prejudice
 category: comment
 

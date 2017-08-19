@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:18:24 +0000"
 id: "1067"
 old_path: /comment/1067/whats-wrong-with-the-new-generation
-redirect_from:
+aliases:
  - /comment/1067/whats-wrong-with-the-new-generation
 category: comment
 

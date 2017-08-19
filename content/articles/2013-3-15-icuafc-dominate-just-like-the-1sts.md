@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:01:05 +0000"
 id: "3482"
 old_path: /sport/3482/icuafc-dominate-just-like-the-1sts
-redirect_from:
+aliases:
  - /sport/3482/icuafc-dominate-just-like-the-1sts
 category: sport
 

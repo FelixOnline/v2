@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:21:45 +0000"
 id: "4065"
 old_path: /comment/4065/tibet-a-brighter-future-than-the-rest-of-china
-redirect_from:
+aliases:
  - /comment/4065/tibet-a-brighter-future-than-the-rest-of-china
 category: comment
 

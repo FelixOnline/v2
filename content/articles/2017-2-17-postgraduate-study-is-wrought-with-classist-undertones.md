@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:37:42 +0000"
 id: "6783"
 old_path: /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
-redirect_from:
+aliases:
  - /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
 category: comment
 

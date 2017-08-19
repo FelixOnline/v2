@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:15:17 +0100"
 id: "4544"
 old_path: /film/4544/divergent
-redirect_from:
+aliases:
  - /film/4544/divergent
 category: film
 

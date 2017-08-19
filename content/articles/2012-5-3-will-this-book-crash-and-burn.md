@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:39:07 +0100"
 id: "2415"
 old_path: /books/2415/will-this-book-crash-and-burn
-redirect_from:
+aliases:
  - /books/2415/will-this-book-crash-and-burn
 category: books
 

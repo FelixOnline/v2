@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:24:49 +0000"
 id: "6020"
 old_path: /news/6020/kings-student-has-niqab-ripped-off
-redirect_from:
+aliases:
  - /news/6020/kings-student-has-niqab-ripped-off
 category: news
 

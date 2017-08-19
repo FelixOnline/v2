@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:50:25 +0000"
 id: "5838"
 old_path: /news/5838/business-school-dean-sticks-up-for-bitcoin
-redirect_from:
+aliases:
  - /news/5838/business-school-dean-sticks-up-for-bitcoin
 category: news
 

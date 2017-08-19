@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:58:26 +0000"
 id: "1722"
 old_path: /science/1722/the-reality-of-migration
-redirect_from:
+aliases:
  - /science/1722/the-reality-of-migration
 category: science
 

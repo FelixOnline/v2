@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:22:50 +0000"
 id: "2915"
 old_path: /sport/2915/triathalon-dominate-podium
-redirect_from:
+aliases:
  - /sport/2915/triathalon-dominate-podium
 category: sport
 

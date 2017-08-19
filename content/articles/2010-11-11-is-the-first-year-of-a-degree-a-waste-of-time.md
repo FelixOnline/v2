@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:52:05 +0000"
 id: "369"
 old_path: /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
-redirect_from:
+aliases:
  - /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:08:50 +0000"
 id: "3329"
 old_path: /news/3329/transport-survey-drives-in
-redirect_from:
+aliases:
  - /news/3329/transport-survey-drives-in
 category: news
 

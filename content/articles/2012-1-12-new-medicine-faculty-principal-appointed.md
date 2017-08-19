@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:38:45 +0000"
 id: "1988"
 old_path: /news/1988/new-medicine-faculty-principal-appointed
-redirect_from:
+aliases:
  - /news/1988/new-medicine-faculty-principal-appointed
 category: news
 

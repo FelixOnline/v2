@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 16:06:04 +0100"
 id: "1366"
 old_path: /music/1366/bloops-razzes-and-buzzes
-redirect_from:
+aliases:
  - /music/1366/bloops-razzes-and-buzzes
 category: music
 

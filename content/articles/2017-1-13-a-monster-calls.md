@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:32:22 +0000"
 id: "6643"
 old_path: /film/6643/a-monster-calls
-redirect_from:
+aliases:
  - /film/6643/a-monster-calls
 category: film
 

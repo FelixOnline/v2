@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-25 00:01:46 +0000"
 id: "4140"
 old_path: /sport/4140/ic-do-the-double-over-kcl
-redirect_from:
+aliases:
  - /sport/4140/ic-do-the-double-over-kcl
 category: sport
 

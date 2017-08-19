@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 16:23:09 +0000"
 id: "996"
 old_path: /science/996/probing-the-depths
-redirect_from:
+aliases:
  - /science/996/probing-the-depths
 category: science
 

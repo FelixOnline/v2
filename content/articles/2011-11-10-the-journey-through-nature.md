@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:43:51 +0000"
 id: "1719"
 old_path: /comment/1719/the-journey-through-nature
-redirect_from:
+aliases:
  - /comment/1719/the-journey-through-nature
 category: comment
 

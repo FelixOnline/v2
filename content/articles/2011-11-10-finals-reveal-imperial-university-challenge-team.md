@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 19:48:42 +0000"
 id: "1706"
 old_path: /news/1706/finals-reveal-imperial-university-challenge-team
-redirect_from:
+aliases:
  - /news/1706/finals-reveal-imperial-university-challenge-team
 category: news
 

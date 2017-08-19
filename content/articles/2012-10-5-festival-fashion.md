@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:03:29 +0100"
 id: "2610"
 old_path: /fashion/2610/festival-fashion
-redirect_from:
+aliases:
  - /fashion/2610/festival-fashion
 category: fashion
 

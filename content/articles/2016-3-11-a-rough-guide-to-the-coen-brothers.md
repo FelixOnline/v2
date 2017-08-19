@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:00:09 +0000"
 id: "6040"
 old_path: /film/6040/a-rough-guide-to-the-coen-brothers
-redirect_from:
+aliases:
  - /film/6040/a-rough-guide-to-the-coen-brothers
 category: film
 

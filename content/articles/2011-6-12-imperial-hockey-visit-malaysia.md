@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 16:28:19 +0100"
 id: "1371"
 old_path: /sport/1371/imperial-hockey-visit-malaysia
-redirect_from:
+aliases:
  - /sport/1371/imperial-hockey-visit-malaysia
 category: sport
 

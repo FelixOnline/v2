@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:35:32 +0100"
 id: "6224"
 old_path: /news/6224/imperial-sells-off-last-shares-of-life-sciences-start-up
-redirect_from:
+aliases:
  - /news/6224/imperial-sells-off-last-shares-of-life-sciences-start-up
 category: news
 

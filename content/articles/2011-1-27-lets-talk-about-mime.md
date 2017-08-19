@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:50:53 +0000"
 id: "678"
 old_path: /arts/678/lets-talk-about-mime
-redirect_from:
+aliases:
  - /arts/678/lets-talk-about-mime
 category: arts
 

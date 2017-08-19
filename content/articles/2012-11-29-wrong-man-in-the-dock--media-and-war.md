@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:46:27 +0000"
 id: "2989"
 old_path: /politics/2989/wrong-man-in-the-dock--media-and-war
-redirect_from:
+aliases:
  - /politics/2989/wrong-man-in-the-dock--media-and-war
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-17 17:22:27 +0000"
 id: "4484"
 old_path: /features/4484/should-the-role-of-government-chief-scientific-advisor-be-democratised
-redirect_from:
+aliases:
  - /features/4484/should-the-role-of-government-chief-scientific-advisor-be-democratised
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-18 00:32:21 +0000"
 id: "1798"
 old_path: /comment/1798/i-want-an-armstice
-redirect_from:
+aliases:
  - /comment/1798/i-want-an-armstice
 category: comment
 

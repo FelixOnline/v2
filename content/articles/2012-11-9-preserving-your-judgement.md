@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:34:42 +0000"
 id: "2848"
 old_path: /food/2848/preserving-your-judgement
-redirect_from:
+aliases:
  - /food/2848/preserving-your-judgement
 category: food
 

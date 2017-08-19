@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:14:56 +0000"
 id: "5322"
 old_path: /arts/5322/a-history-lesson-too-far
-redirect_from:
+aliases:
  - /arts/5322/a-history-lesson-too-far
 category: arts
 

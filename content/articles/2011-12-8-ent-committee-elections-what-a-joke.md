@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 22:17:21 +0000"
 id: "1953"
 old_path: /comment/1953/ent-committee-elections-what-a-joke
-redirect_from:
+aliases:
  - /comment/1953/ent-committee-elections-what-a-joke
 category: comment
 

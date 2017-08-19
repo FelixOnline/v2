@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:46:47 +0000"
 id: "5409"
 old_path: /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
-redirect_from:
+aliases:
  - /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
 category: news
 

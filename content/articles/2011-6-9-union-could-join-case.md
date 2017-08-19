@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 20:55:10 +0100"
 id: "1344"
 old_path: /news/1344/union-could-join-case
-redirect_from:
+aliases:
  - /news/1344/union-could-join-case
 category: news
 

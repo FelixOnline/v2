@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 17:46:13 +0100"
 id: "3572"
 old_path: /arts/3572/la-neuro-vague
-redirect_from:
+aliases:
  - /arts/3572/la-neuro-vague
 category: arts
 

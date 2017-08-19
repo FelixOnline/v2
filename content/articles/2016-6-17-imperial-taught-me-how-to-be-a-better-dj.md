@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 08:55:41 +0100"
 id: "6273"
 old_path: /comment/6273/imperial-taught-me-how-to-be-a-better-dj
-redirect_from:
+aliases:
  - /comment/6273/imperial-taught-me-how-to-be-a-better-dj
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:53:38 +0000"
 id: "6037"
 old_path: /film/6037/documentary-corner-20-feet-from-stardom
-redirect_from:
+aliases:
  - /film/6037/documentary-corner-20-feet-from-stardom
 category: film
 

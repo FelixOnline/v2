@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 18:55:46 +0000"
 id: "3314"
 old_path: /comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary
-redirect_from:
+aliases:
  - /comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:09:38 +0000"
 id: "6664"
 old_path: /science/6664/pot-and-its-potential
-redirect_from:
+aliases:
  - /science/6664/pot-and-its-potential
 category: science
 

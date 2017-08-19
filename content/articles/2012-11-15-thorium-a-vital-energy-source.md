@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:08:19 +0000"
 id: "2893"
 old_path: /science/2893/thorium-a-vital-energy-source
-redirect_from:
+aliases:
  - /science/2893/thorium-a-vital-energy-source
 category: science
 

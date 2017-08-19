@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:18:42 +0000"
 id: "2926"
 old_path: /news/2926/reclaim-the-night
-redirect_from:
+aliases:
  - /news/2926/reclaim-the-night
 category: news
 

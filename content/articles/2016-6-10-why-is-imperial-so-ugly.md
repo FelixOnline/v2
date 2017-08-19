@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:21:42 +0100"
 id: "6252"
 old_path: /comment/6252/why-is-imperial-so-ugly
-redirect_from:
+aliases:
  - /comment/6252/why-is-imperial-so-ugly
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 05:05:39 +0000"
 id: "4380"
 old_path: /news/4380/science-fiction-and-fantasy-convention-returns-to-imperial-on-february-22
-redirect_from:
+aliases:
  - /news/4380/science-fiction-and-fantasy-convention-returns-to-imperial-on-february-22
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:26:38 +0000"
 id: "653"
 old_path: /news/653/positive-signs-for-graduates-
-redirect_from:
+aliases:
  - /news/653/positive-signs-for-graduates-
 category: news
 

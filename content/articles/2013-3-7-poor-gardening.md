@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:33:34 +0000"
 id: "3442"
 old_path: /comment/3442/poor-gardening
-redirect_from:
+aliases:
  - /comment/3442/poor-gardening
 category: comment
 

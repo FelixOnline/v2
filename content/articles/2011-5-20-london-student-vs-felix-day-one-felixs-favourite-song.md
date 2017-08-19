@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 10:42:25 +0100"
 id: "1237"
 old_path: /music/1237/london-student-vs-felix-day-one-felixs-favourite-song
-redirect_from:
+aliases:
  - /music/1237/london-student-vs-felix-day-one-felixs-favourite-song
 category: music
 

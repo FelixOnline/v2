@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:44:43 +0000"
 id: "6007"
 old_path: /music/6007/the-future-of-pop
-redirect_from:
+aliases:
  - /music/6007/the-future-of-pop
 category: music
 

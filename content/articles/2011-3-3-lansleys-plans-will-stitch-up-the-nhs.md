@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:06:46 +0000"
 id: "1020"
 old_path: /comment/1020/lansleys-plans-will-stitch-up-the-nhs
-redirect_from:
+aliases:
  - /comment/1020/lansleys-plans-will-stitch-up-the-nhs
 category: comment
 

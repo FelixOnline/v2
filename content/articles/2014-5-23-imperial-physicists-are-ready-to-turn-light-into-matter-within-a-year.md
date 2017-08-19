@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:25:25 +0100"
 id: "4630"
 old_path: /news/4630/imperial-physicists-are-ready-to-turn-light-into-matter-within-a-year
-redirect_from:
+aliases:
  - /news/4630/imperial-physicists-are-ready-to-turn-light-into-matter-within-a-year
 category: news
 

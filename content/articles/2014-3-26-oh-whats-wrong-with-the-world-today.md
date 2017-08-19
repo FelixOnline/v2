@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:22:37 +0000"
 id: "4498"
 old_path: /comment/4498/oh-whats-wrong-with-the-world-today
-redirect_from:
+aliases:
  - /comment/4498/oh-whats-wrong-with-the-world-today
 category: comment
 

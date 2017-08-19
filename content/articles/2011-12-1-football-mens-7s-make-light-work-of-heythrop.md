@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:24:43 +0000"
 id: "1891"
 old_path: /sport/1891/football-mens-7s-make-light-work-of-heythrop
-redirect_from:
+aliases:
  - /sport/1891/football-mens-7s-make-light-work-of-heythrop
 category: sport
 

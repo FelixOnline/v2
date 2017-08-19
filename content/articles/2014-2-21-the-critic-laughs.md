@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:17:02 +0000"
 id: "4421"
 old_path: /arts/4421/the-critic-laughs
-redirect_from:
+aliases:
  - /arts/4421/the-critic-laughs
 category: arts
 

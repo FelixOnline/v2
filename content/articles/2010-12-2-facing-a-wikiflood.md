@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:18:14 +0000"
 id: "490"
 old_path: /comment/490/facing-a-wikiflood
-redirect_from:
+aliases:
  - /comment/490/facing-a-wikiflood
 category: comment
 

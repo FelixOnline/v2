@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:25:27 +0000"
 id: "1070"
 old_path: /film/1070/hammer-horrors-predictable-return
-redirect_from:
+aliases:
  - /film/1070/hammer-horrors-predictable-return
 category: film
 

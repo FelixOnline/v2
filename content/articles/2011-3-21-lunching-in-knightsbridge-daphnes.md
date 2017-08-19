@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 11:46:00 +0000"
 id: "1120"
 old_path: /food/1120/lunching-in-knightsbridge-daphnes
-redirect_from:
+aliases:
  - /food/1120/lunching-in-knightsbridge-daphnes
 category: food
 

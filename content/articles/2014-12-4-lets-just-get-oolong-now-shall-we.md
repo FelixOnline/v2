@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:12:43 +0000"
 id: "4993"
 old_path: /food/4993/lets-just-get-oolong-now-shall-we
-redirect_from:
+aliases:
  - /food/4993/lets-just-get-oolong-now-shall-we
 category: food
 

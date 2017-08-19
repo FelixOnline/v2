@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:30:01 +0100"
 id: "2644"
 old_path: /sport/2644/testing-triathlon-waters
-redirect_from:
+aliases:
  - /sport/2644/testing-triathlon-waters
 category: sport
 

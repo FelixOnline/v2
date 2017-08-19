@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 16:12:20 +0100"
 id: "3702"
 old_path: /comment/3702/you-say-goodbye-i-say-hello
-redirect_from:
+aliases:
  - /comment/3702/you-say-goodbye-i-say-hello
 category: comment
 

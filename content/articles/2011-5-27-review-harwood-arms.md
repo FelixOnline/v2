@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 13:53:43 +0100"
 id: "1274"
 old_path: /food/1274/review-harwood-arms-
-redirect_from:
+aliases:
  - /food/1274/review-harwood-arms-
 category: food
 

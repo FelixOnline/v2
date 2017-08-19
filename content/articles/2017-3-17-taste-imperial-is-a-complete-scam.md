@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 16:53:23 +0000"
 id: "6906"
 old_path: /comment/6906/taste-imperial-is-a-complete-scam
-redirect_from:
+aliases:
  - /comment/6906/taste-imperial-is-a-complete-scam
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 15:03:13 +0000"
 id: "5330"
 old_path: /science/5330/sound-field-around-recorder-identified
-redirect_from:
+aliases:
  - /science/5330/sound-field-around-recorder-identified
 category: science
 

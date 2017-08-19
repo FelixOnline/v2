@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:38:07 +0000"
 id: "3182"
 old_path: /comment/3182/but-are-you-are-scientist-doe
-redirect_from:
+aliases:
  - /comment/3182/but-are-you-are-scientist-doe
 category: comment
 

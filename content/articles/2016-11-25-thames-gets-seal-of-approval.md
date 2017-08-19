@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:39:17 +0000"
 id: "6502"
 old_path: /science/6502/thames-gets-seal-of-approval
-redirect_from:
+aliases:
  - /science/6502/thames-gets-seal-of-approval
 category: science
 

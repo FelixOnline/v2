@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:45:56 +0000"
 id: "4783"
 old_path: /science/4783/travelling-to-space-on-a-budget-
-redirect_from:
+aliases:
  - /science/4783/travelling-to-space-on-a-budget-
 category: science
 

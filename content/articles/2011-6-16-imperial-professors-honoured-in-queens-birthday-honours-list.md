@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 18:52:47 +0100"
 id: "1377"
 old_path: /news/1377/imperial-professors-honoured-in-queens-birthday-honours-list
-redirect_from:
+aliases:
  - /news/1377/imperial-professors-honoured-in-queens-birthday-honours-list
 category: news
 

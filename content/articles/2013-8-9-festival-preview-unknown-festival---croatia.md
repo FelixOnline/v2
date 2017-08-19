@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-09 19:48:06 +0100"
 id: "3749"
 old_path: /music/3749/festival-preview-unknown-festival---croatia
-redirect_from:
+aliases:
  - /music/3749/festival-preview-unknown-festival---croatia
 category: music
 

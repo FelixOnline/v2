@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:42:57 +0000"
 id: "933"
 old_path: /film/933/the-impact-of-corporate-greed-in-the-company-men
-redirect_from:
+aliases:
  - /film/933/the-impact-of-corporate-greed-in-the-company-men
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-17 11:35:31 +0000"
 id: "560"
 old_path: /film/560/breakfast-at-tiffanys
-redirect_from:
+aliases:
  - /film/560/breakfast-at-tiffanys
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:10:03 +0000"
 id: "2185"
 old_path: /film/2185/some-films-to-avoid-on-a-date
-redirect_from:
+aliases:
  - /film/2185/some-films-to-avoid-on-a-date
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:20:24 +0000"
 id: "4447"
 old_path: /science/4447/radiation-free-tumour-detection-method
-redirect_from:
+aliases:
  - /science/4447/radiation-free-tumour-detection-method
 category: science
 

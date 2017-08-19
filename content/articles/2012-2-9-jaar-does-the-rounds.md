@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:11:11 +0000"
 id: "2141"
 old_path: /music/2141/jaar-does-the-rounds
-redirect_from:
+aliases:
  - /music/2141/jaar-does-the-rounds
 category: music
 

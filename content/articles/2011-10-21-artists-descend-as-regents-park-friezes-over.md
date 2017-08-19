@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:47:35 +0100"
 id: "1594"
 old_path: /arts/1594/artists-descend-as-regents-park-friezes-over
-redirect_from:
+aliases:
  - /arts/1594/artists-descend-as-regents-park-friezes-over
 category: arts
 

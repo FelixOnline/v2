@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 00:51:26 +0100"
 id: "4535"
 old_path: /news/4535/travel-chaos--strikes-again
-redirect_from:
+aliases:
  - /news/4535/travel-chaos--strikes-again
 category: news
 

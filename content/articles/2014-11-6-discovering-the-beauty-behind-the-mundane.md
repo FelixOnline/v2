@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:44:20 +0000"
 id: "4782"
 old_path: /science/4782/discovering-the-beauty-behind-the-mundane-
-redirect_from:
+aliases:
  - /science/4782/discovering-the-beauty-behind-the-mundane-
 category: science
 

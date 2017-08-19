@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:35:00 +0000"
 id: "3993"
 old_path: /music/3993/jake-bugg-the-bugg-brand
-redirect_from:
+aliases:
  - /music/3993/jake-bugg-the-bugg-brand
 category: music
 

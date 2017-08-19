@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:28:16 +0100"
 id: "1423"
 old_path: /biz/1423/buffer--because-you-want-to-tweet-better
-redirect_from:
+aliases:
  - /biz/1423/buffer--because-you-want-to-tweet-better
 category: business
 

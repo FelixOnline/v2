@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 19:30:44 +0000"
 id: "3327"
 old_path: /sport/3327/ichc-ladies-1s-battle-ucl-rivals
-redirect_from:
+aliases:
  - /sport/3327/ichc-ladies-1s-battle-ucl-rivals
 category: sport
 

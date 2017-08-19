@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 21:54:18 +0000"
 id: "2982"
 old_path: /news/2982/revenge-of-the-hacks
-redirect_from:
+aliases:
  - /news/2982/revenge-of-the-hacks
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-13 13:10:21 +0000"
 id: "804"
 old_path: /comment/804/long-distance-relationships
-redirect_from:
+aliases:
  - /comment/804/long-distance-relationships
 category: comment
 

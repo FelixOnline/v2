@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:52:36 +0000"
 id: "2798"
 old_path: /comment/2798/angry-geek-is-back
-redirect_from:
+aliases:
  - /comment/2798/angry-geek-is-back
 category: comment
 

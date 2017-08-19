@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:50:19 +0000"
 id: "6010"
 old_path: /film/6010/dispatches-from-the-oscars
-redirect_from:
+aliases:
  - /film/6010/dispatches-from-the-oscars
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-26 00:12:11 +0000"
 id: "5308"
 old_path: /news/5308/imperial-students-sneak-backstage-at-this-years-brit-awards
-redirect_from:
+aliases:
  - /news/5308/imperial-students-sneak-backstage-at-this-years-brit-awards
 category: news
 

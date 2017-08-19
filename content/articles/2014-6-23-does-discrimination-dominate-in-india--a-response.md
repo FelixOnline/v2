@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 13:11:28 +0100"
 id: "4707"
 old_path: /comment/4707/does-discrimination-dominate-in-india--a-response
-redirect_from:
+aliases:
  - /comment/4707/does-discrimination-dominate-in-india--a-response
 category: comment
 

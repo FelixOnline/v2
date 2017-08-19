@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:11:57 +0100"
 id: "1484"
 old_path: /comment/1484/a-true-dichotomy
-redirect_from:
+aliases:
  - /comment/1484/a-true-dichotomy
 category: comment
 

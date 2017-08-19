@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 20:42:50 +0000"
 id: "4958"
 old_path: /tv/4958/david-attenborough-has-done-it-again
-redirect_from:
+aliases:
  - /tv/4958/david-attenborough-has-done-it-again
 category: tv
 

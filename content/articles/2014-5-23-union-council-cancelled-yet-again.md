@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:26:19 +0100"
 id: "4631"
 old_path: /news/4631/union-council-cancelled-yet-again
-redirect_from:
+aliases:
  - /news/4631/union-council-cancelled-yet-again
 category: news
 

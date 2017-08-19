@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:35:09 +0000"
 id: "6499"
 old_path: /science/6499/tis-the-season-to-be-cryogenically-frozen
-redirect_from:
+aliases:
  - /science/6499/tis-the-season-to-be-cryogenically-frozen
 category: science
 

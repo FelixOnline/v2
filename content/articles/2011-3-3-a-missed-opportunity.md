@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:15:25 +0000"
 id: "986"
 old_path: /film/986/a-missed-opportunity
-redirect_from:
+aliases:
  - /film/986/a-missed-opportunity
 category: film
 

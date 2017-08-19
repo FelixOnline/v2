@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 11:25:15 +0100"
 id: "4703"
 old_path: /news/4703/huxley-bins-set-on-fire
-redirect_from:
+aliases:
  - /news/4703/huxley-bins-set-on-fire
 category: news
 

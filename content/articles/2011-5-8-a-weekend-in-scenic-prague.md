@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-08 13:26:55 +0100"
 id: "1178"
 old_path: /travel/1178/a-weekend-in-scenic-prague
-redirect_from:
+aliases:
  - /travel/1178/a-weekend-in-scenic-prague
 category: travel
 

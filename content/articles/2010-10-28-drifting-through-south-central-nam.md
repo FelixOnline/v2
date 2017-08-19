@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:45:53 +0100"
 id: "276"
 old_path: /travel/276/drifting-through-south-central-nam
-redirect_from:
+aliases:
  - /travel/276/drifting-through-south-central-nam
 category: travel
 

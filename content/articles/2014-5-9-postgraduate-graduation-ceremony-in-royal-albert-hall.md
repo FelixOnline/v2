@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 01:58:05 +0100"
 id: "4567"
 old_path: /news/4567/postgraduate-graduation-ceremony-in-royal-albert-hall
-redirect_from:
+aliases:
  - /news/4567/postgraduate-graduation-ceremony-in-royal-albert-hall
 category: news
 

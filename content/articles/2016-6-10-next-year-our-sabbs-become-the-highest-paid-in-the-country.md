@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:23:23 +0100"
 id: "6253"
 old_path: /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
-redirect_from:
+aliases:
  - /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
 category: features
 

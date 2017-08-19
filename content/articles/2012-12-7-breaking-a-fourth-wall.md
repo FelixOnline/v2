@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:20:51 +0000"
 id: "3046"
 old_path: /arts/3046/breaking-a-fourth-wall
-redirect_from:
+aliases:
  - /arts/3046/breaking-a-fourth-wall
 category: arts
 

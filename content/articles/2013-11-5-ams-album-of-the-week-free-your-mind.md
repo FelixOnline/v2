@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:38:04 +0000"
 id: "3996"
 old_path: /music/3996/ams-album-of-the-week-free-your-mind
-redirect_from:
+aliases:
  - /music/3996/ams-album-of-the-week-free-your-mind
 category: music
 

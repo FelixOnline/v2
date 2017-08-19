@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:30:11 +0100"
 id: "2645"
 old_path: /books/2645/masterpiece-of-the-mundane-
-redirect_from:
+aliases:
  - /books/2645/masterpiece-of-the-mundane-
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:42:12 +0000"
 id: "3040"
 old_path: /science/3040/creepy-and-curious-at-the-hunterian-museum
-redirect_from:
+aliases:
  - /science/3040/creepy-and-curious-at-the-hunterian-museum
 category: science
 

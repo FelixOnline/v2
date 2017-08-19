@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:09:41 +0000"
 id: "881"
 old_path: /politics/881/obamas-muddled-foreign-policy
-redirect_from:
+aliases:
  - /politics/881/obamas-muddled-foreign-policy
 category: politics
 

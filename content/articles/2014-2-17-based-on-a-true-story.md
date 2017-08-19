@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 19:31:39 +0000"
 id: "4401"
 old_path: /film/4401/based-on-a-true-story
-redirect_from:
+aliases:
  - /film/4401/based-on-a-true-story
 category: film
 

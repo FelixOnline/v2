@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-11 17:35:37 +0100"
 id: "1361"
 old_path: /music/1361/future-sounds-at-boned
-redirect_from:
+aliases:
  - /music/1361/future-sounds-at-boned
 category: music
 

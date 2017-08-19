@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-12 12:36:31 +0100"
 id: "5618"
 old_path: /comment/5618/there-is-always-room-for-improvement
-redirect_from:
+aliases:
  - /comment/5618/there-is-always-room-for-improvement
 category: comment
 

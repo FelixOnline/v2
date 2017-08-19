@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:25:24 +0000"
 id: "2872"
 old_path: /sport/2872/winning-is-easy-for-womens-rugby
-redirect_from:
+aliases:
  - /sport/2872/winning-is-easy-for-womens-rugby
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:13:50 +0100"
 id: "2444"
 old_path: /music/2444/54-respect-a-tribute-to-math-rock-
-redirect_from:
+aliases:
  - /music/2444/54-respect-a-tribute-to-math-rock-
 category: music
 

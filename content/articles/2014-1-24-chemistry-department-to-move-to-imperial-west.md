@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 11:57:16 +0000"
 id: "4303"
 old_path: /news/4303/chemistry-department-to-move-to-imperial-west
-redirect_from:
+aliases:
  - /news/4303/chemistry-department-to-move-to-imperial-west
 category: news
 

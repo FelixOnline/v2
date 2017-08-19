@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:23:58 +0100"
 id: "6937"
 old_path: /news/6937/homeless-period-hits-imperial
-redirect_from:
+aliases:
  - /news/6937/homeless-period-hits-imperial
 category: news
 

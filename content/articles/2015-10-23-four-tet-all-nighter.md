@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:54:29 +0100"
 id: "5677"
 old_path: /music/5677/four-tet-all-nighter
-redirect_from:
+aliases:
  - /music/5677/four-tet-all-nighter
 category: music
 

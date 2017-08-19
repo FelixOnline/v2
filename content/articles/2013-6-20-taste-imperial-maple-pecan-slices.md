@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:24:01 +0100"
 id: "3720"
 old_path: /food/3720/taste-imperial-maple-pecan-slices
-redirect_from:
+aliases:
  - /food/3720/taste-imperial-maple-pecan-slices
 category: food
 

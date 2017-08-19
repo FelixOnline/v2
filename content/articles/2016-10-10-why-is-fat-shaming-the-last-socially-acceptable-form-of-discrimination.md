@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 11:41:31 +0100"
 id: "6317"
 old_path: /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
-redirect_from:
+aliases:
  - /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
 category: comment
 

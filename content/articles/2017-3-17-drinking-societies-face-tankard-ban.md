@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 13:06:17 +0000"
 id: "6898"
 old_path: /news/6898/drinking-societies-face-tankard-ban-
-redirect_from:
+aliases:
  - /news/6898/drinking-societies-face-tankard-ban-
 category: news
 

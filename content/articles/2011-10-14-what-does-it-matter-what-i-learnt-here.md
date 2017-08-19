@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:15:23 +0100"
 id: "1533"
 old_path: /comment/1533/what-does-it-matter-what-i-learnt-here
-redirect_from:
+aliases:
  - /comment/1533/what-does-it-matter-what-i-learnt-here
 category: comment
 

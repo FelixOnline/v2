@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:10:11 +0000"
 id: "2271"
 old_path: /science/2271/the-nanorobots-are-coming
-redirect_from:
+aliases:
  - /science/2271/the-nanorobots-are-coming
 category: science
 

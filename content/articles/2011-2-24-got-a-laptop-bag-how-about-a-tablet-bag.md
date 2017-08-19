@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:03:08 +0000"
 id: "877"
 old_path: /tech/877/got-a-laptop-bag-how-about-a-tablet-bag
-redirect_from:
+aliases:
  - /tech/877/got-a-laptop-bag-how-about-a-tablet-bag
 category: tech
 

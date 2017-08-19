@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-08 16:10:52 +0000"
 id: "17"
 old_path: /news/17/fighting-for-libel-reform
-redirect_from:
+aliases:
  - /news/17/fighting-for-libel-reform
 category: news
 

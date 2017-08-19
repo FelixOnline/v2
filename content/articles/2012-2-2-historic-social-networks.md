@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:23:17 +0000"
 id: "2087"
 old_path: /science/2087/historic-social-networks
-redirect_from:
+aliases:
  - /science/2087/historic-social-networks
 category: science
 

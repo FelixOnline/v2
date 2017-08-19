@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 22:40:30 +0100"
 id: "3711"
 old_path: /sport/3711/windsor-cc-too-easy-for-ic
-redirect_from:
+aliases:
  - /sport/3711/windsor-cc-too-easy-for-ic
 category: sport
 

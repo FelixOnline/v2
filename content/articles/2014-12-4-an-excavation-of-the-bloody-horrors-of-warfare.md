@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:58:05 +0000"
 id: "5006"
 old_path: /arts/5006/an-excavation-of-the-bloody-horrors-of-warfare
-redirect_from:
+aliases:
  - /arts/5006/an-excavation-of-the-bloody-horrors-of-warfare
 category: arts
 

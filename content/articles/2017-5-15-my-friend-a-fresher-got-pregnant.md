@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:41:25 +0100"
 id: "6967"
 old_path: /features/6967/my-friend-a-fresher-got-pregnant
-redirect_from:
+aliases:
  - /features/6967/my-friend-a-fresher-got-pregnant
 category: features
 

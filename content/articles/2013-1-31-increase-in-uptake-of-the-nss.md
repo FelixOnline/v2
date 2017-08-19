@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:25:47 +0000"
 id: "3195"
 old_path: /news/3195/increase-in-uptake-of-the-nss
-redirect_from:
+aliases:
  - /news/3195/increase-in-uptake-of-the-nss
 category: news
 

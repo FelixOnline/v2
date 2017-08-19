@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:12:05 +0000"
 id: "4363"
 old_path: /comment/4363/of-cleaning-again-cat-allergies-and-weather
-redirect_from:
+aliases:
  - /comment/4363/of-cleaning-again-cat-allergies-and-weather
 category: comment
 

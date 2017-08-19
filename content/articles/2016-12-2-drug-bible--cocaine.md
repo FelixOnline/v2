@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:30:46 +0000"
 id: "6547"
 old_path: /millennials/6547/drug-bible--cocaine
-redirect_from:
+aliases:
  - /millennials/6547/drug-bible--cocaine
 category: millennials
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:47:29 +0000"
 id: "6032"
 old_path: /cands/6032/imperial-at-the-notting-hill-dinner-club
-redirect_from:
+aliases:
  - /cands/6032/imperial-at-the-notting-hill-dinner-club
 category: clubs-and-socs
 

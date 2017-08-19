@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 23:14:44 +0000"
 id: "6372"
 old_path: /games/6372/the-evolution-of-female-characters-in-games
-redirect_from:
+aliases:
  - /games/6372/the-evolution-of-female-characters-in-games
 category: games
 

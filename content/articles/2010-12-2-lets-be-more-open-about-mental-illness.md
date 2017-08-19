@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:36:15 +0000"
 id: "492"
 old_path: /news/492/lets-be-more-open-about-mental-illness-
-redirect_from:
+aliases:
  - /news/492/lets-be-more-open-about-mental-illness-
 category: news
 

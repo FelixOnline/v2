@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:56:47 +0100"
 id: "215"
 old_path: /travel/215/tourism-held-hostage-
-redirect_from:
+aliases:
  - /travel/215/tourism-held-hostage-
 category: travel
 

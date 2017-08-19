@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-11 00:40:08 +0000"
 id: "4200"
 old_path: /sport/4200/triathlon-club-take-on-the-bucs-chilly-duathlon-to-end-2013
-redirect_from:
+aliases:
  - /sport/4200/triathlon-club-take-on-the-bucs-chilly-duathlon-to-end-2013
 category: sport
 

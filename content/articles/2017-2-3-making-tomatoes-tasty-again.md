@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:37:58 +0000"
 id: "6718"
 old_path: /science/6718/making-tomatoes-tasty-again-
-redirect_from:
+aliases:
  - /science/6718/making-tomatoes-tasty-again-
 category: science
 

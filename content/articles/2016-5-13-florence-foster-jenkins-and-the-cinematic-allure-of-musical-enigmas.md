@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:08:55 +0100"
 id: "6158"
 old_path: /film/6158/florence-foster-jenkins-and-the-cinematic-allure-of-musical-enigmas
-redirect_from:
+aliases:
  - /film/6158/florence-foster-jenkins-and-the-cinematic-allure-of-musical-enigmas
 category: film
 

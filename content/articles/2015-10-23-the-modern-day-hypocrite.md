@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:51:58 +0100"
 id: "5676"
 old_path: /comment/5676/the-modern-day-hypocrite
-redirect_from:
+aliases:
  - /comment/5676/the-modern-day-hypocrite
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 13:22:07 +0100"
 id: "3645"
 old_path: /news/3645/extra-sabbatical-remits-discussed
-redirect_from:
+aliases:
  - /news/3645/extra-sabbatical-remits-discussed
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:50:18 +0000"
 id: "6840"
 old_path: /comment/6840/we-really-need-to-talk-about-eating-disorders
-redirect_from:
+aliases:
  - /comment/6840/we-really-need-to-talk-about-eating-disorders
 category: comment
 

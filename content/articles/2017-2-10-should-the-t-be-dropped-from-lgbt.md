@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:37:32 +0000"
 id: "6758"
 old_path: /features/6758/should-the-t-be-dropped-from-lgbt
-redirect_from:
+aliases:
  - /features/6758/should-the-t-be-dropped-from-lgbt
 category: features
 

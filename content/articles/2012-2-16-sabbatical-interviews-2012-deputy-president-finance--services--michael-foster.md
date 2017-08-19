@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:58:31 +0000"
 id: "2217"
 old_path: /news/2217/sabbatical-interviews-2012-deputy-president-finance--services--michael-foster
-redirect_from:
+aliases:
  - /news/2217/sabbatical-interviews-2012-deputy-president-finance--services--michael-foster
 category: news
 

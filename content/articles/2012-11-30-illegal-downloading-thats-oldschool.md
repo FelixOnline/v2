@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-30 11:40:24 +0000"
 id: "3017"
 old_path: /tech/3017/illegal-downloading-thats-oldschool
-redirect_from:
+aliases:
  - /tech/3017/illegal-downloading-thats-oldschool
 category: tech
 

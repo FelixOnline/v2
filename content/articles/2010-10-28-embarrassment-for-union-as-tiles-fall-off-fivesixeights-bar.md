@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:55:21 +0100"
 id: "282"
 old_path: /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
-redirect_from:
+aliases:
  - /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
 category: news
 

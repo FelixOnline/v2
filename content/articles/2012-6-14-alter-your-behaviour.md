@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:28:44 +0100"
 id: "2547"
 old_path: /comment/2547/alter-your-behaviour
-redirect_from:
+aliases:
  - /comment/2547/alter-your-behaviour
 category: comment
 

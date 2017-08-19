@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 13:46:29 +0100"
 id: "3547"
 old_path: /arts/3547/form-before-fx
-redirect_from:
+aliases:
  - /arts/3547/form-before-fx
 category: arts
 

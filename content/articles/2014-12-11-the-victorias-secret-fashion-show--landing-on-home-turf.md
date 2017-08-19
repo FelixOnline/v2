@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:33:38 +0000"
 id: "5042"
 old_path: /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
-redirect_from:
+aliases:
  - /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:24:27 +0100"
 id: "4629"
 old_path: /news/4629/college-begins-new-study-on-the-possible-effects-of-mobile-phones-on-child-cognitive-development
-redirect_from:
+aliases:
  - /news/4629/college-begins-new-study-on-the-possible-effects-of-mobile-phones-on-child-cognitive-development
 category: news
 

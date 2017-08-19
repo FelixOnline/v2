@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:03:08 +0000"
 id: "4414"
 old_path: /news/4414/union-submits-portfolio-of-evidence-to-colleges-residential-experience-review
-redirect_from:
+aliases:
  - /news/4414/union-submits-portfolio-of-evidence-to-colleges-residential-experience-review
 category: news
 

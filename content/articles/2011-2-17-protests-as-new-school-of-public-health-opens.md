@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:32:06 +0000"
 id: "819"
 old_path: /news/819/protests-as-new-school-of-public-health-opens
-redirect_from:
+aliases:
  - /news/819/protests-as-new-school-of-public-health-opens
 category: news
 

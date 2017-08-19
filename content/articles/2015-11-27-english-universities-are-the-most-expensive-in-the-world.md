@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 11:47:35 +0000"
 id: "5770"
 old_path: /news/5770/english-universities-are-the-most-expensive-in-the-world
-redirect_from:
+aliases:
  - /news/5770/english-universities-are-the-most-expensive-in-the-world
 category: news
 

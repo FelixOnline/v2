@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 19:42:06 +0000"
 id: "2224"
 old_path: /arts/2224/mtsoc-serve-up-some-matrimony-cheese
-redirect_from:
+aliases:
  - /arts/2224/mtsoc-serve-up-some-matrimony-cheese
 category: arts
 

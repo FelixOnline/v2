@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:24:41 +0000"
 id: "4393"
 old_path: /comment/4393/3am-mocaine-with-an-ex-banker-
-redirect_from:
+aliases:
  - /comment/4393/3am-mocaine-with-an-ex-banker-
 category: comment
 

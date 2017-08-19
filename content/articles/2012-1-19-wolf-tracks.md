@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:17:43 +0000"
 id: "2028"
 old_path: /music/2028/wolf-tracks
-redirect_from:
+aliases:
  - /music/2028/wolf-tracks
 category: music
 

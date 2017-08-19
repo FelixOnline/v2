@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:03:09 +0000"
 id: "5868"
 old_path: /science/5868/britain-gets-the-push-to-clean-our-lungs
-redirect_from:
+aliases:
  - /science/5868/britain-gets-the-push-to-clean-our-lungs
 category: science
 

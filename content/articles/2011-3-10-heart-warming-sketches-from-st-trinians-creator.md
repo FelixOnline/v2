@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:20:52 +0000"
 id: "1068"
 old_path: /arts/1068/heart-warming-sketches-from-st-trinians-creator
-redirect_from:
+aliases:
  - /arts/1068/heart-warming-sketches-from-st-trinians-creator
 category: arts
 

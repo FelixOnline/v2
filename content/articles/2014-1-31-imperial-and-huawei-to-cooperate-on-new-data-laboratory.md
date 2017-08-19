@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:11:44 +0000"
 id: "4309"
 old_path: /news/4309/imperial-and-huawei-to-cooperate-on-new-data-laboratory
-redirect_from:
+aliases:
  - /news/4309/imperial-and-huawei-to-cooperate-on-new-data-laboratory
 category: news
 

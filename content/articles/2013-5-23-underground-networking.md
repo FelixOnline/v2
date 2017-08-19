@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:08:33 +0100"
 id: "3609"
 old_path: /science/3609/underground-networking
-redirect_from:
+aliases:
  - /science/3609/underground-networking
 category: science
 

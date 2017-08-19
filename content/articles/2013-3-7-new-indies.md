@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 22:02:20 +0000"
 id: "3436"
 old_path: /music/3436/new-indies
-redirect_from:
+aliases:
  - /music/3436/new-indies
 category: music
 

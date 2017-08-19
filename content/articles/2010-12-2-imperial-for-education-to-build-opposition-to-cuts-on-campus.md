@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 22:06:33 +0000"
 id: "504"
 old_path: /news/504/imperial-for-education-to-build-opposition-to-cuts-on-campus
-redirect_from:
+aliases:
  - /news/504/imperial-for-education-to-build-opposition-to-cuts-on-campus
 category: news
 

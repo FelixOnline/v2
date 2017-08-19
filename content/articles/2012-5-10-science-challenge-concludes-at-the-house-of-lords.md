@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:34:51 +0100"
 id: "2434"
 old_path: /news/2434/science-challenge-concludes-at-the-house-of-lords
-redirect_from:
+aliases:
  - /news/2434/science-challenge-concludes-at-the-house-of-lords
 category: news
 

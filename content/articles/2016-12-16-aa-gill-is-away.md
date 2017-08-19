@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:55:59 +0000"
 id: "6620"
 old_path: /food/6620/aa-gill-is-away
-redirect_from:
+aliases:
  - /food/6620/aa-gill-is-away
 category: food
 

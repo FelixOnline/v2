@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:03:33 +0000"
 id: "1740"
 old_path: /news/1740/whats-it-all-about
-redirect_from:
+aliases:
  - /news/1740/whats-it-all-about
 category: news
 

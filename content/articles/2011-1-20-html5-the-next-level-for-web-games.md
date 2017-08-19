@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:01:38 +0000"
 id: "620"
 old_path: /games/620/html5-the-next-level-for-web-games-
-redirect_from:
+aliases:
  - /games/620/html5-the-next-level-for-web-games-
 category: games
 

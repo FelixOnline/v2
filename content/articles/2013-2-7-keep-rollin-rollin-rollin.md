@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:31:21 +0000"
 id: "3262"
 old_path: /games/3262/keep-rollin-rollin-rollin
-redirect_from:
+aliases:
  - /games/3262/keep-rollin-rollin-rollin
 category: games
 

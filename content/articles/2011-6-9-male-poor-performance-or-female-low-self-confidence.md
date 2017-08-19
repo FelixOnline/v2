@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:39:40 +0100"
 id: "1353"
 old_path: /science/1353/male-poor-performance-or-female-low-self-confidence
-redirect_from:
+aliases:
  - /science/1353/male-poor-performance-or-female-low-self-confidence
 category: science
 

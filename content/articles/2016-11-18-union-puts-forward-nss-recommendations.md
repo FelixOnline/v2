@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:25:08 +0000"
 id: "6454"
 old_path: /news/6454/union-puts-forward-nss-recommendations
-redirect_from:
+aliases:
  - /news/6454/union-puts-forward-nss-recommendations
 category: news
 

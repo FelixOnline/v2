@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 21:53:27 +0000"
 id: "2046"
 old_path: /food/2046/kensington-cooking-class-act
-redirect_from:
+aliases:
  - /food/2046/kensington-cooking-class-act
 category: food
 

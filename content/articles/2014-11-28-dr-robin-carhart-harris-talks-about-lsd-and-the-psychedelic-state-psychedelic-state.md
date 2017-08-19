@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:57:13 +0000"
 id: "4971"
 old_path: /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
-redirect_from:
+aliases:
  - /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
 category: science
 

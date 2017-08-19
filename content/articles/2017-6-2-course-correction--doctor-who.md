@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:21:21 +0100"
 id: "6993"
 old_path: /tv/6993/course-correction--doctor-who
-redirect_from:
+aliases:
  - /tv/6993/course-correction--doctor-who
 category: tv
 

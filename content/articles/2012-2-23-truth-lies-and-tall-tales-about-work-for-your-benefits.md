@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:58:19 +0000"
 id: "2268"
 old_path: /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
-redirect_from:
+aliases:
  - /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
 category: news
 

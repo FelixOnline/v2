@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:46:20 +0000"
 id: "2094"
 old_path: /politics/2094/smack-your-kids-up
-redirect_from:
+aliases:
  - /politics/2094/smack-your-kids-up
 category: politics
 

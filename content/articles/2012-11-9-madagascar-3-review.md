@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:30:36 +0000"
 id: "2859"
 old_path: /film/2859/madagascar-3-review
-redirect_from:
+aliases:
  - /film/2859/madagascar-3-review
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:34:59 +0100"
 id: "6166"
 old_path: /food/6166/pavlovas-dog
-redirect_from:
+aliases:
  - /food/6166/pavlovas-dog
 category: food
 

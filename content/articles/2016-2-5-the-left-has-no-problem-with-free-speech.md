@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:57:41 +0000"
 id: "5866"
 old_path: /comment/5866/the-left-has-no-problem-with-free-speech
-redirect_from:
+aliases:
  - /comment/5866/the-left-has-no-problem-with-free-speech
 category: comment
 

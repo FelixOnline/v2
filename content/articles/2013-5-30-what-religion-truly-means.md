@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 14:44:56 +0100"
 id: "3647"
 old_path: /comment/3647/what-religion-truly-means
-redirect_from:
+aliases:
  - /comment/3647/what-religion-truly-means
 category: comment
 

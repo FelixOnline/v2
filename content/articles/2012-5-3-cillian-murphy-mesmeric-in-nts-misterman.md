@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 17:38:48 +0100"
 id: "2404"
 old_path: /arts/2404/cillian-murphy-mesmeric-in-nts-misterman
-redirect_from:
+aliases:
  - /arts/2404/cillian-murphy-mesmeric-in-nts-misterman
 category: arts
 

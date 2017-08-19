@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-14 10:28:07 +0100"
 id: "3565"
 old_path: /news/3565/the-next-lot-an-internship-at-imperial
-redirect_from:
+aliases:
  - /news/3565/the-next-lot-an-internship-at-imperial
 category: news
 

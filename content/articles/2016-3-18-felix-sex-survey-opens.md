@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:33:58 +0000"
 id: "6053"
 old_path: /news/6053/felix-sex-survey-opens
-redirect_from:
+aliases:
  - /news/6053/felix-sex-survey-opens
 category: news
 

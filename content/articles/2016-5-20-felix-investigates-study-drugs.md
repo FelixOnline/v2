@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:02:33 +0100"
 id: "6179"
 old_path: /features/6179/felix-investigates-study-drugs
-redirect_from:
+aliases:
  - /features/6179/felix-investigates-study-drugs
 category: features
 

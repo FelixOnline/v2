@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:10:04 +0000"
 id: "4113"
 old_path: /comment/4113/of-cleaning-still-partnerships-and-chessums
-redirect_from:
+aliases:
  - /comment/4113/of-cleaning-still-partnerships-and-chessums
 category: comment
 

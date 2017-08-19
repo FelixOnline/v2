@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:58:18 +0000"
 id: "3465"
 old_path: /biz/3465/facebook-celebrity-looking-for-a-job
-redirect_from:
+aliases:
  - /biz/3465/facebook-celebrity-looking-for-a-job
 category: business
 

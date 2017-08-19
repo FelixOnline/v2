@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:11:43 +0000"
 id: "2263"
 old_path: /news/2263/further-concerns-over-holland-club-and-clayponds
-redirect_from:
+aliases:
  - /news/2263/further-concerns-over-holland-club-and-clayponds
 category: news
 

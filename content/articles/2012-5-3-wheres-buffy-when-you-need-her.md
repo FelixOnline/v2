@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:21:43 +0100"
 id: "2411"
 old_path: /film/2411/wheres-buffy-when-you-need-her
-redirect_from:
+aliases:
  - /film/2411/wheres-buffy-when-you-need-her
 category: film
 

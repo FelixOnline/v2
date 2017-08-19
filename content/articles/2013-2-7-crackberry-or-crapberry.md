@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:47:47 +0000"
 id: "3267"
 old_path: /tech/3267/crackberry-or-crapberry-
-redirect_from:
+aliases:
  - /tech/3267/crackberry-or-crapberry-
 category: tech
 

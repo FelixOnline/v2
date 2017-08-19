@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:06:54 +0000"
 id: "3220"
 old_path: /travel/3220/viva-las--oooops-scratch-that--los-angeles
-redirect_from:
+aliases:
  - /travel/3220/viva-las--oooops-scratch-that--los-angeles
 category: travel
 

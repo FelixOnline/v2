@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:58:59 +0000"
 id: "4353"
 old_path: /news/4353/graduating-students-leave-thousands-of-pounds-on-print-service
-redirect_from:
+aliases:
  - /news/4353/graduating-students-leave-thousands-of-pounds-on-print-service
 category: news
 

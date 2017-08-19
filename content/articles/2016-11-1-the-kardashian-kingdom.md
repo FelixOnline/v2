@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-01 00:07:07 +0000"
 id: "6376"
 old_path: /tv/6376/the-kardashian-kingdom
-redirect_from:
+aliases:
  - /tv/6376/the-kardashian-kingdom
 category: tv
 

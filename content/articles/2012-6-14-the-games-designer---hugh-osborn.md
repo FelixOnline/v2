@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:20:59 +0100"
 id: "2562"
 old_path: /phoenix/2562/the-games-designer---hugh-osborn-
-redirect_from:
+aliases:
  - /phoenix/2562/the-games-designer---hugh-osborn-
 category: phoenix
 

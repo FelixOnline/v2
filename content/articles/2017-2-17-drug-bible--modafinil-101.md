@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 16:06:40 +0000"
 id: "6800"
 old_path: /millennials/6800/drug-bible--modafinil-101
-redirect_from:
+aliases:
  - /millennials/6800/drug-bible--modafinil-101
 category: millennials
 

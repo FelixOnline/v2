@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:44:16 +0000"
 id: "4087"
 old_path: /features/4087/new-financial-worlds-conference
-redirect_from:
+aliases:
  - /features/4087/new-financial-worlds-conference
 category: features
 

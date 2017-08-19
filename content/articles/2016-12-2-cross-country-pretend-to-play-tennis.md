@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:52:12 +0000"
 id: "6555"
 old_path: /sport/6555/cross-country-pretend-to-play-tennis
-redirect_from:
+aliases:
  - /sport/6555/cross-country-pretend-to-play-tennis
 category: sport
 

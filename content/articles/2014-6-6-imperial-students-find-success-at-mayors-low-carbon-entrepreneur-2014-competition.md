@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:14:02 +0100"
 id: "4652"
 old_path: /news/4652/imperial-students-find-success-at-mayors-low-carbon-entrepreneur-2014-competition
-redirect_from:
+aliases:
  - /news/4652/imperial-students-find-success-at-mayors-low-carbon-entrepreneur-2014-competition
 category: news
 

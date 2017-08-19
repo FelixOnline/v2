@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:35:25 +0000"
 id: "1896"
 old_path: /news/1896/science-challenge-winners-announced
-redirect_from:
+aliases:
  - /news/1896/science-challenge-winners-announced
 category: news
 

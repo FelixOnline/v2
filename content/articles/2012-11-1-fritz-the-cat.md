@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:01:20 +0000"
 id: "2805"
 old_path: /film/2805/fritz-the-cat
-redirect_from:
+aliases:
  - /film/2805/fritz-the-cat
 category: film
 

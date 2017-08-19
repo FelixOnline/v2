@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-27 17:46:55 +0000"
 id: "115"
 old_path: /news/115/worth-the-effort
-redirect_from:
+aliases:
  - /news/115/worth-the-effort
 category: news
 

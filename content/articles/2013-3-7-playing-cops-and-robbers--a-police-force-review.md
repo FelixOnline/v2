@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 22:04:07 +0000"
 id: "3437"
 old_path: /games/3437/playing-cops-and-robbers--a-police-force-review
-redirect_from:
+aliases:
  - /games/3437/playing-cops-and-robbers--a-police-force-review
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-18 13:07:38 +0000"
 id: "2922"
 old_path: /tech/2922/sx-907-bluetooth-headphones-
-redirect_from:
+aliases:
  - /tech/2922/sx-907-bluetooth-headphones-
 category: tech
 

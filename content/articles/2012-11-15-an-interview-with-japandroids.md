@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:33:17 +0000"
 id: "2898"
 old_path: /music/2898/an-interview-with-japandroids
-redirect_from:
+aliases:
  - /music/2898/an-interview-with-japandroids
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-22 10:46:08 +0100"
 id: "2579"
 old_path: /fashion/2579/essential-reads
-redirect_from:
+aliases:
  - /fashion/2579/essential-reads
 category: fashion
 

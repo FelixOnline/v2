@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:24:55 +0100"
 id: "1206"
 old_path: /politics/1206/breaking-a-two-party-system
-redirect_from:
+aliases:
  - /politics/1206/breaking-a-two-party-system
 category: politics
 

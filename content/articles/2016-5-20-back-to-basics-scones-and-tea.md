@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:18:14 +0100"
 id: "6190"
 old_path: /food/6190/back-to-basics-scones-and-tea
-redirect_from:
+aliases:
  - /food/6190/back-to-basics-scones-and-tea
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-22 14:27:15 +0100"
 id: "3596"
 old_path: /comment/3596/does-fairtrade-actually-work
-redirect_from:
+aliases:
  - /comment/3596/does-fairtrade-actually-work
 category: comment
 

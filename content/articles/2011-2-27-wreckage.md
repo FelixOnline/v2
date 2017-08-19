@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:36:14 +0000"
 id: "917"
 old_path: /arts/917/wreckage-
-redirect_from:
+aliases:
  - /arts/917/wreckage-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:22:05 +0100"
 id: "4548"
 old_path: /film/4548/calvary
-redirect_from:
+aliases:
  - /film/4548/calvary
 category: film
 

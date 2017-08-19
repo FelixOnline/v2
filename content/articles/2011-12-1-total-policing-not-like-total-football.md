@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:33:49 +0000"
 id: "1895"
 old_path: /comment/1895/total-policing-not-like-total-football
-redirect_from:
+aliases:
  - /comment/1895/total-policing-not-like-total-football
 category: comment
 

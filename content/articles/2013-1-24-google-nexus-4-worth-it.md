@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:21:46 +0000"
 id: "3159"
 old_path: /tech/3159/google-nexus-4-worth-it-
-redirect_from:
+aliases:
  - /tech/3159/google-nexus-4-worth-it-
 category: tech
 

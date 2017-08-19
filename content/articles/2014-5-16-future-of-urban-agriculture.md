@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 02:11:25 +0100"
 id: "4604"
 old_path: /food/4604/future-of-urban-agriculture
-redirect_from:
+aliases:
  - /food/4604/future-of-urban-agriculture
 category: food
 

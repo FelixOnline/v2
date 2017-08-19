@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:22:47 +0000"
 id: "4390"
 old_path: /comment/4390/when-is-it-wrong-to-enjoy-art-
-redirect_from:
+aliases:
  - /comment/4390/when-is-it-wrong-to-enjoy-art-
 category: comment
 

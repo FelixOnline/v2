@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:18:27 +0000"
 id: "4423"
 old_path: /arts/4423/turandot-finished-but-flawed
-redirect_from:
+aliases:
  - /arts/4423/turandot-finished-but-flawed
 category: arts
 

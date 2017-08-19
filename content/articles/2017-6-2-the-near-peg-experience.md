@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:53:44 +0100"
 id: "6999"
 old_path: /sex/6999/the-near-peg-experience
-redirect_from:
+aliases:
  - /sex/6999/the-near-peg-experience
 category: sex
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:49:05 +0000"
 id: "1945"
 old_path: /comment/1945/they-are-totally-boots-iful
-redirect_from:
+aliases:
  - /comment/1945/they-are-totally-boots-iful
 category: comment
 

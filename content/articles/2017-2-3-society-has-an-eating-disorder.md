@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:56:12 +0000"
 id: "6715"
 old_path: /comment/6715/society-has-an-eating-disorder
-redirect_from:
+aliases:
  - /comment/6715/society-has-an-eating-disorder
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:55:25 +0100"
 id: "226"
 old_path: /comment/226/my-body-is-a-temple-to-laziness-
-redirect_from:
+aliases:
  - /comment/226/my-body-is-a-temple-to-laziness-
 category: comment
 

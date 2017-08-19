@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:06:08 +0000"
 id: "5869"
 old_path: /science/5869/zika-virus-spurs-global-health-emergency
-redirect_from:
+aliases:
  - /science/5869/zika-virus-spurs-global-health-emergency
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:28:49 +0100"
 id: "6939"
 old_path: /news/6939/spa-awards-shortlist-announced
-redirect_from:
+aliases:
  - /news/6939/spa-awards-shortlist-announced
 category: news
 

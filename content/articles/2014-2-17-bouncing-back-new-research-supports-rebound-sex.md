@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:15:04 +0000"
 id: "4387"
 old_path: /science/4387/bouncing-back-new-research-supports-rebound-sex-
-redirect_from:
+aliases:
  - /science/4387/bouncing-back-new-research-supports-rebound-sex-
 category: science
 

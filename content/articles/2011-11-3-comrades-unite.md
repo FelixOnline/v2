@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:09:27 +0000"
 id: "1682"
 old_path: /biz/1682/comrades-unite
-redirect_from:
+aliases:
  - /biz/1682/comrades-unite
 category: business
 

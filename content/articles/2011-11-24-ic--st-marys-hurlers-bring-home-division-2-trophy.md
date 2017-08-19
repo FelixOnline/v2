@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:47:36 +0000"
 id: "1853"
 old_path: /sport/1853/ic--st-marys-hurlers-bring-home-division-2-trophy-
-redirect_from:
+aliases:
  - /sport/1853/ic--st-marys-hurlers-bring-home-division-2-trophy-
 category: sport
 

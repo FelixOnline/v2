@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:30:51 +0100"
 id: "2597"
 old_path: /tv/2597/dr-whos-underwhelming-love-song
-redirect_from:
+aliases:
  - /tv/2597/dr-whos-underwhelming-love-song
 category: tv
 

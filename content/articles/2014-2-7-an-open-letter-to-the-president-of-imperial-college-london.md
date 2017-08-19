@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:11:05 +0000"
 id: "4362"
 old_path: /comment/4362/an-open-letter-to-the-president-of-imperial-college-london
-redirect_from:
+aliases:
  - /comment/4362/an-open-letter-to-the-president-of-imperial-college-london
 category: comment
 

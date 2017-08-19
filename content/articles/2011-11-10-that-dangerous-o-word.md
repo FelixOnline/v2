@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:26:58 +0000"
 id: "1747"
 old_path: /games/1747/that-dangerous-o-word
-redirect_from:
+aliases:
  - /games/1747/that-dangerous-o-word
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:48:10 +0000"
 id: "4920"
 old_path: /tv/4920/cartoon-corner--teen-titans-go
-redirect_from:
+aliases:
  - /tv/4920/cartoon-corner--teen-titans-go
 category: tv
 

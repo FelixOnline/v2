@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 10:36:46 +0000"
 id: "2126"
 old_path: /arts/2126/hip-to-bee-square
-redirect_from:
+aliases:
  - /arts/2126/hip-to-bee-square
 category: arts
 

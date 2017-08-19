@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 20:19:14 +0100"
 id: "1609"
 old_path: /news/1609/pembridge-annexe-to-be-demolished
-redirect_from:
+aliases:
  - /news/1609/pembridge-annexe-to-be-demolished
 category: news
 

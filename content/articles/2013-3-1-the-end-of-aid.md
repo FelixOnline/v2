@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:19:16 +0000"
 id: "3403"
 old_path: /news/3403/the-end-of-aid
-redirect_from:
+aliases:
  - /news/3403/the-end-of-aid
 category: news
 

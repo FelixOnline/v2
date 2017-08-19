@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 18:21:08 +0000"
 id: "1649"
 old_path: /tech/1649/the-next-iteration-of-androids-future
-redirect_from:
+aliases:
  - /tech/1649/the-next-iteration-of-androids-future
 category: tech
 

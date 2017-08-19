@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:47:39 +0100"
 id: "3832"
 old_path: /comment/3832/confessions-of-a-graduate-teaching-assistant-gta-part-one
-redirect_from:
+aliases:
  - /comment/3832/confessions-of-a-graduate-teaching-assistant-gta-part-one
 category: comment
 

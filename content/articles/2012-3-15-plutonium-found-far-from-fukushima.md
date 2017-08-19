@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:01:43 +0000"
 id: "2356"
 old_path: /science/2356/plutonium-found-far-from-fukushima
-redirect_from:
+aliases:
  - /science/2356/plutonium-found-far-from-fukushima
 category: science
 

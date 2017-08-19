@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:37:37 +0000"
 id: "3491"
 old_path: /news/3491/a-love-for-business
-redirect_from:
+aliases:
  - /news/3491/a-love-for-business
 category: news
 

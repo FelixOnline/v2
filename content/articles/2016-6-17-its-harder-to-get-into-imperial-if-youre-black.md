@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 08:50:04 +0100"
 id: "6269"
 old_path: /news/6269/its-harder-to-get-into-imperial-if-youre-black
-redirect_from:
+aliases:
  - /news/6269/its-harder-to-get-into-imperial-if-youre-black
 category: news
 

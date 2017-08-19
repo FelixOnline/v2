@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:16:18 +0000"
 id: "2056"
 old_path: /arts/2056/take-a-gawk-on-the-wild-side
-redirect_from:
+aliases:
  - /arts/2056/take-a-gawk-on-the-wild-side
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:19:47 +0000"
 id: "4934"
 old_path: /arts/4934/guerilla-girls-the-male-gaze
-redirect_from:
+aliases:
  - /arts/4934/guerilla-girls-the-male-gaze
 category: arts
 

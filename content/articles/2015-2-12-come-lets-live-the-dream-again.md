@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 22:43:23 +0000"
 id: "5243"
 old_path: /sport/5243/come-lets-live-the-dream-again
-redirect_from:
+aliases:
  - /sport/5243/come-lets-live-the-dream-again
 category: sport
 

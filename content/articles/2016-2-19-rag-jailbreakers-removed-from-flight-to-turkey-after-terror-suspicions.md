@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:05:14 +0000"
 id: "5922"
 old_path: /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
-redirect_from:
+aliases:
  - /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
 category: news
 

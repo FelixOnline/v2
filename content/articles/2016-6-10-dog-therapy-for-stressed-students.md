@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:12:32 +0100"
 id: "6246"
 old_path: /news/6246/dog-therapy-for-stressed-students
-redirect_from:
+aliases:
  - /news/6246/dog-therapy-for-stressed-students
 category: news
 

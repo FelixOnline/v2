@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 11:50:21 +0000"
 id: "6558"
 old_path: /food/6558/lunch-box-edition
-redirect_from:
+aliases:
  - /food/6558/lunch-box-edition
 category: food
 

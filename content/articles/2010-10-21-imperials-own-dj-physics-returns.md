@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:38:27 +0100"
 id: "247"
 old_path: /music/247/imperials-own-dj-physics-returns-
-redirect_from:
+aliases:
  - /music/247/imperials-own-dj-physics-returns-
 category: music
 

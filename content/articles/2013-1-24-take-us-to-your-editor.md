@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:07:03 +0000"
 id: "3156"
 old_path: /games/3156/take-us-to-your-editor
-redirect_from:
+aliases:
  - /games/3156/take-us-to-your-editor
 category: games
 

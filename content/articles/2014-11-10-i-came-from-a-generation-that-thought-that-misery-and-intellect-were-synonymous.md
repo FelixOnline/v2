@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:46:29 +0000"
 id: "4847"
 old_path: /features/4847/i-came-from-a-generation-that-thought-that-misery-and-intellect-were-synonymous
-redirect_from:
+aliases:
  - /features/4847/i-came-from-a-generation-that-thought-that-misery-and-intellect-were-synonymous
 category: features
 

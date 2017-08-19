@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:23:41 +0000"
 id: "4066"
 old_path: /comment/4066/the-only-time-you-should-hit-a-woman
-redirect_from:
+aliases:
  - /comment/4066/the-only-time-you-should-hit-a-woman
 category: comment
 

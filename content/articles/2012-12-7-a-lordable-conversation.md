@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:12:50 +0000"
 id: "3031"
 old_path: /news/3031/a-lordable-conversation
-redirect_from:
+aliases:
  - /news/3031/a-lordable-conversation
 category: news
 

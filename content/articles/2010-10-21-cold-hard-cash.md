@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:45:57 +0100"
 id: "221"
 old_path: /arts/221/cold-hard-cash-
-redirect_from:
+aliases:
  - /arts/221/cold-hard-cash-
 category: arts
 

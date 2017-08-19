@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-15 11:23:56 +0000"
 id: "5829"
 old_path: /news/5829/evelyn-gardens-may-open-to-non-freshers
-redirect_from:
+aliases:
  - /news/5829/evelyn-gardens-may-open-to-non-freshers
 category: news
 

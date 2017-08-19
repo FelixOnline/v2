@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-17 12:21:38 +0100"
 id: "1405"
 old_path: /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
-redirect_from:
+aliases:
  - /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
 category: music
 

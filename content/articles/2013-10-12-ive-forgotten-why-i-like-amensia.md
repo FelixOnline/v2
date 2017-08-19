@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 23:46:03 +0100"
 id: "3870"
 old_path: /games/3870/ive-forgotten-why-i-like-amensia-
-redirect_from:
+aliases:
  - /games/3870/ive-forgotten-why-i-like-amensia-
 category: games
 

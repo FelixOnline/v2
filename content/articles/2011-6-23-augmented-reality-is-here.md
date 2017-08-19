@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:25:00 +0100"
 id: "1422"
 old_path: /tech/1422/augmented-reality-is-here
-redirect_from:
+aliases:
  - /tech/1422/augmented-reality-is-here
 category: tech
 

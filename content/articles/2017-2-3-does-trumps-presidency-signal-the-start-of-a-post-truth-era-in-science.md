@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:36:30 +0000"
 id: "6716"
 old_path: /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
-redirect_from:
+aliases:
  - /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
 category: science
 

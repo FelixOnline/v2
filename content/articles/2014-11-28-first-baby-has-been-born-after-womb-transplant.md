@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:59:48 +0000"
 id: "4972"
 old_path: /science/4972/first-baby-has-been-born-after-womb-transplant
-redirect_from:
+aliases:
  - /science/4972/first-baby-has-been-born-after-womb-transplant
 category: science
 

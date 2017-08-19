@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-09-10 16:58:38 +0100"
 id: "6297"
 old_path: /film/6297/lights-out-leaves-us-in-the-dark
-redirect_from:
+aliases:
  - /film/6297/lights-out-leaves-us-in-the-dark
 category: film
 

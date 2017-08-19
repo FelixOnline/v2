@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-12 10:57:52 +0100"
 id: "2683"
 old_path: /comment/2683/league-tables
-redirect_from:
+aliases:
  - /comment/2683/league-tables
 category: comment
 

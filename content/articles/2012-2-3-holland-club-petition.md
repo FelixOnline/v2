@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 00:37:52 +0000"
 id: "2123"
 old_path: /news/2123/holland-club-petition
-redirect_from:
+aliases:
  - /news/2123/holland-club-petition
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 17:07:45 +0000"
 id: "6488"
 old_path: /sport/6488/top-of-the-peck-ing-order
-redirect_from:
+aliases:
  - /sport/6488/top-of-the-peck-ing-order
 category: sport
 

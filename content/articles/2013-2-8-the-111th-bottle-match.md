@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:55:05 +0000"
 id: "3279"
 old_path: /news/3279/the-111th-bottle-match
-redirect_from:
+aliases:
  - /news/3279/the-111th-bottle-match
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 17:05:23 +0000"
 id: "64"
 old_path: /comment/64/how-rubbish-tv-is-these-days
-redirect_from:
+aliases:
  - /comment/64/how-rubbish-tv-is-these-days
 category: comment
 

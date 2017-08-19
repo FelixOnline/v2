@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:30:29 +0000"
 id: "6673"
 old_path: /arts/6673/cunts-in-conversation
-redirect_from:
+aliases:
  - /arts/6673/cunts-in-conversation
 category: arts
 

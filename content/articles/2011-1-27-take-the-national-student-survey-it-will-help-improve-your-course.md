@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:55:48 +0000"
 id: "681"
 old_path: /comment/681/take-the-national-student-survey-it-will-help-improve-your-course-
-redirect_from:
+aliases:
  - /comment/681/take-the-national-student-survey-it-will-help-improve-your-course-
 category: comment
 

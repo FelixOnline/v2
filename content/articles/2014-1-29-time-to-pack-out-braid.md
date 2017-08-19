@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-29 16:39:55 +0000"
 id: "4307"
 old_path: /games/4307/time-to-pack-out-braid
-redirect_from:
+aliases:
  - /games/4307/time-to-pack-out-braid
 category: games
 

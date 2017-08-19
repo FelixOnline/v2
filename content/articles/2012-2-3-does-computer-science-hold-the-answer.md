@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 11:01:45 +0000"
 id: "2128"
 old_path: /news/2128/does-computer-science-hold-the-answer
-redirect_from:
+aliases:
  - /news/2128/does-computer-science-hold-the-answer
 category: news
 

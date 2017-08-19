@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:19:14 +0000"
 id: "666"
 old_path: /politics/666/tunisias-revolution-the-first-of-many
-redirect_from:
+aliases:
  - /politics/666/tunisias-revolution-the-first-of-many
 category: politics
 

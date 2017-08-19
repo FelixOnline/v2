@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-07-15 15:09:44 +0100"
 id: "3744"
 old_path: /news/3744/unfit-to-practise
-redirect_from:
+aliases:
  - /news/3744/unfit-to-practise
 category: news
 

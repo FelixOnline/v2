@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-19 10:44:15 +0000"
 id: "95"
 old_path: /news/95/student-slips-100ft-down-mountain
-redirect_from:
+aliases:
  - /news/95/student-slips-100ft-down-mountain
 category: news
 

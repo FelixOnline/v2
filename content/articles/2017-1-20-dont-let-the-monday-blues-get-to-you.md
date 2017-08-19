@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:03:38 +0000"
 id: "6661"
 old_path: /comment/6661/dont-let-the-monday-blues-get-to-you
-redirect_from:
+aliases:
  - /comment/6661/dont-let-the-monday-blues-get-to-you
 category: comment
 

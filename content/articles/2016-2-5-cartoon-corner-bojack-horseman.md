@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:48:20 +0000"
 id: "5884"
 old_path: /tv/5884/cartoon-corner-bojack-horseman
-redirect_from:
+aliases:
  - /tv/5884/cartoon-corner-bojack-horseman
 category: tv
 

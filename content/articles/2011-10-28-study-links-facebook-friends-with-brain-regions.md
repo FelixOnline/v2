@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:16:54 +0100"
 id: "1628"
 old_path: /science/1628/study-links-facebook-friends-with-brain-regions
-redirect_from:
+aliases:
  - /science/1628/study-links-facebook-friends-with-brain-regions
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 00:29:59 +0100"
 id: "5503"
 old_path: /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
-redirect_from:
+aliases:
  - /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
 category: news
 

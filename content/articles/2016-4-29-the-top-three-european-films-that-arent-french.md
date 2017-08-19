@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:37:36 +0100"
 id: "6099"
 old_path: /film/6099/the-top-three-european-films-that-arent-french
-redirect_from:
+aliases:
  - /film/6099/the-top-three-european-films-that-arent-french
 category: film
 

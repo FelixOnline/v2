@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-30 23:09:03 +0100"
 id: "5475"
 old_path: /news/5475/review-in-response-to-grimms-death-completed
-redirect_from:
+aliases:
  - /news/5475/review-in-response-to-grimms-death-completed
 category: news
 

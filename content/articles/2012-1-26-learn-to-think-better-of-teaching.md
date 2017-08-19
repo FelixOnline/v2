@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 23:05:18 +0000"
 id: "2073"
 old_path: /comment/2073/learn-to-think-better-of-teaching
-redirect_from:
+aliases:
  - /comment/2073/learn-to-think-better-of-teaching
 category: comment
 

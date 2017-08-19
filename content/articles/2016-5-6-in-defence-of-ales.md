@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:48:54 +0100"
 id: "6118"
 old_path: /comment/6118/in-defence-of-ales
-redirect_from:
+aliases:
  - /comment/6118/in-defence-of-ales
 category: comment
 

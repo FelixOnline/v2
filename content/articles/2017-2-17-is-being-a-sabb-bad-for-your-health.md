@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:30:36 +0000"
 id: "6780"
 old_path: /comment/6780/is-being-a-sabb-bad-for-your-health
-redirect_from:
+aliases:
  - /comment/6780/is-being-a-sabb-bad-for-your-health
 category: comment
 

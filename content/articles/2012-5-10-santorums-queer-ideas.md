@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:07:48 +0100"
 id: "2442"
 old_path: /comment/2442/santorums-queer-ideas
-redirect_from:
+aliases:
  - /comment/2442/santorums-queer-ideas
 category: comment
 

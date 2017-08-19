@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:08:18 +0000"
 id: "5203"
 old_path: /arts/5203/napoleon-the-power-of-political-propaganda
-redirect_from:
+aliases:
  - /arts/5203/napoleon-the-power-of-political-propaganda
 category: arts
 

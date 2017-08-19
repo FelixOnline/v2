@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:07:48 +0000"
 id: "2006"
 old_path: /travel/2006/picture-perfect-prague
-redirect_from:
+aliases:
  - /travel/2006/picture-perfect-prague
 category: travel
 

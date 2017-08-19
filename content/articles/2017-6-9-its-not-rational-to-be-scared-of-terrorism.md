@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:57:36 +0100"
 id: "7011"
 old_path: /comment/7011/its-not-rational-to-be-scared-of-terrorism
-redirect_from:
+aliases:
  - /comment/7011/its-not-rational-to-be-scared-of-terrorism
 category: comment
 

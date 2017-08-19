@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:46:00 +0000"
 id: "2791"
 old_path: /politics/2791/uk-gdp-figures-a-turn-for-the-better
-redirect_from:
+aliases:
  - /politics/2791/uk-gdp-figures-a-turn-for-the-better
 category: politics
 

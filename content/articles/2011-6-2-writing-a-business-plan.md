@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:12:23 +0100"
 id: "1304"
 old_path: /biz/1304/writing-a-business-plan
-redirect_from:
+aliases:
  - /biz/1304/writing-a-business-plan
 category: business
 

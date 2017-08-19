@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:31:38 +0100"
 id: "2489"
 old_path: /tech/2489/kana-reasonably-priced-gaming-mouse-pack-a-punch
-redirect_from:
+aliases:
  - /tech/2489/kana-reasonably-priced-gaming-mouse-pack-a-punch
 category: tech
 

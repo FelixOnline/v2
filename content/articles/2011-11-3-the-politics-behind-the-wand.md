@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:04:02 +0000"
 id: "1660"
 old_path: /politics/1660/the-politics-behind-the-wand
-redirect_from:
+aliases:
  - /politics/1660/the-politics-behind-the-wand
 category: politics
 

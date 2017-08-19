@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 18:47:59 +0000"
 id: "705"
 old_path: /food/705/down-in-one-i-think-not
-redirect_from:
+aliases:
  - /food/705/down-in-one-i-think-not
 category: food
 

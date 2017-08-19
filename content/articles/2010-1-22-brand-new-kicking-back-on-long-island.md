@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 15:10:20 +0000"
 id: "55"
 old_path: /music/55/brand-new-kicking-back-on-long-island
-redirect_from:
+aliases:
  - /music/55/brand-new-kicking-back-on-long-island
 category: music
 

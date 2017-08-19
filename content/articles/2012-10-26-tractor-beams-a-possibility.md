@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:32:26 +0100"
 id: "2747"
 old_path: /science/2747/tractor-beams-a-possibility
-redirect_from:
+aliases:
  - /science/2747/tractor-beams-a-possibility
 category: science
 

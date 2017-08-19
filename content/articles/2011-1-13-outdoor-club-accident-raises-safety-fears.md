@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:50:17 +0000"
 id: "597"
 old_path: /news/597/outdoor-club-accident-raises-safety-fears-
-redirect_from:
+aliases:
  - /news/597/outdoor-club-accident-raises-safety-fears-
 category: news
 

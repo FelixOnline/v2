@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:58:27 +0000"
 id: "5414"
 old_path: /sport/5414/hockey-win-lusl-cup
-redirect_from:
+aliases:
  - /sport/5414/hockey-win-lusl-cup
 category: sport
 

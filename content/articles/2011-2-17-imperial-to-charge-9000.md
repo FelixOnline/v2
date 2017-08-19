@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 18:44:56 +0000"
 id: "805"
 old_path: /news/805/imperial-to-charge-9000
-redirect_from:
+aliases:
  - /news/805/imperial-to-charge-9000
 category: news
 

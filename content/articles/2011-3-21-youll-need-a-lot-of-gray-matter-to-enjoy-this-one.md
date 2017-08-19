@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 11:55:34 +0000"
 id: "1121"
 old_path: /games/1121/youll-need-a-lot-of-gray-matter-to-enjoy-this-one
-redirect_from:
+aliases:
  - /games/1121/youll-need-a-lot-of-gray-matter-to-enjoy-this-one
 category: games
 

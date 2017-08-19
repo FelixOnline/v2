@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:08:54 +0100"
 id: "3921"
 old_path: /comment/3921/kelly-vison-how-noble-are-the-nobel-prizes
-redirect_from:
+aliases:
  - /comment/3921/kelly-vison-how-noble-are-the-nobel-prizes
 category: comment
 

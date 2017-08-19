@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:50:33 +0000"
 id: "2164"
 old_path: /science/2164/life-on-mars-not-likely
-redirect_from:
+aliases:
  - /science/2164/life-on-mars-not-likely
 category: science
 

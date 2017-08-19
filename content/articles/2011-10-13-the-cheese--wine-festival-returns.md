@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:41:06 +0100"
 id: "1527"
 old_path: /food/1527/the-cheese--wine-festival-returns
-redirect_from:
+aliases:
  - /food/1527/the-cheese--wine-festival-returns
 category: food
 

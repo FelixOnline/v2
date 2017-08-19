@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:06:40 +0000"
 id: "353"
 old_path: /film/353/blade-runner
-redirect_from:
+aliases:
  - /film/353/blade-runner
 category: film
 

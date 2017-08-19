@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-19 02:46:02 +0000"
 id: "4489"
 old_path: /arts/4489/mtsoc-produce-the-producers
-redirect_from:
+aliases:
  - /arts/4489/mtsoc-produce-the-producers
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:02:30 +0000"
 id: "1968"
 old_path: /news/1968/alcohol-why-should-you-care
-redirect_from:
+aliases:
  - /news/1968/alcohol-why-should-you-care
 category: news
 

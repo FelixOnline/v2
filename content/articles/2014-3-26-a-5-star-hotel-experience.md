@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:45:23 +0000"
 id: "4503"
 old_path: /film/4503/a-5-star-hotel-experience
-redirect_from:
+aliases:
  - /film/4503/a-5-star-hotel-experience
 category: film
 

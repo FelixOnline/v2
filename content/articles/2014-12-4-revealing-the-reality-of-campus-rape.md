@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:53:02 +0000"
 id: "5005"
 old_path: /arts/5005/revealing-the-reality-of-campus-rape
-redirect_from:
+aliases:
  - /arts/5005/revealing-the-reality-of-campus-rape
 category: arts
 

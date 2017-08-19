@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:46:46 +0000"
 id: "919"
 old_path: /food/919/a-spot-of-magical-realism-in-the-kitchen
-redirect_from:
+aliases:
  - /food/919/a-spot-of-magical-realism-in-the-kitchen
 category: food
 

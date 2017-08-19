@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:55:17 +0000"
 id: "3201"
 old_path: /news/3201/imperial-has-talent
-redirect_from:
+aliases:
  - /news/3201/imperial-has-talent
 category: news
 

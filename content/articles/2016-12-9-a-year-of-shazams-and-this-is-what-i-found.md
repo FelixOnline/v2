@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:43:12 +0000"
 id: "6577"
 old_path: /music/6577/a-year-of-shazams-and-this-is-what-i-found
-redirect_from:
+aliases:
  - /music/6577/a-year-of-shazams-and-this-is-what-i-found
 category: music
 

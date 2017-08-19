@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:17:09 +0000"
 id: "2187"
 old_path: /film/2187/love-lust-sex-passion-warmth-beauty-desire
-redirect_from:
+aliases:
  - /film/2187/love-lust-sex-passion-warmth-beauty-desire
 category: film
 

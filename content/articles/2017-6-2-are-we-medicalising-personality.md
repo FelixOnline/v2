@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:55:10 +0100"
 id: "6990"
 old_path: /comment/6990/are-we-medicalising-personality
-redirect_from:
+aliases:
  - /comment/6990/are-we-medicalising-personality
 category: comment
 

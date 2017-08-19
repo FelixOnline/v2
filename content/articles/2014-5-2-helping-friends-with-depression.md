@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 00:59:09 +0100"
 id: "4537"
 old_path: /features/4537/helping-friends-with-depression
-redirect_from:
+aliases:
  - /features/4537/helping-friends-with-depression
 category: features
 

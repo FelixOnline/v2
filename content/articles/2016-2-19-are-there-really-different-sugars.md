@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:29:56 +0000"
 id: "5933"
 old_path: /science/5933/are-there-really-different-sugars
-redirect_from:
+aliases:
  - /science/5933/are-there-really-different-sugars
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 12:11:41 +0100"
 id: "3560"
 old_path: /news/3560/a-first-isnt-all-people-look-for
-redirect_from:
+aliases:
  - /news/3560/a-first-isnt-all-people-look-for
 category: news
 

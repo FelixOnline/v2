@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:21:35 +0000"
 id: "3258"
 old_path: /science/3258/tiny-protons
-redirect_from:
+aliases:
  - /science/3258/tiny-protons
 category: science
 

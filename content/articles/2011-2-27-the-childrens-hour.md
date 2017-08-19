@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:34:05 +0000"
 id: "916"
 old_path: /arts/916/the-childrens-hour
-redirect_from:
+aliases:
  - /arts/916/the-childrens-hour
 category: arts
 

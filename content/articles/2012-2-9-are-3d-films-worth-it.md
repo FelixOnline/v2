@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:11:02 +0000"
 id: "2171"
 old_path: /film/2171/are-3d-films-worth-it
-redirect_from:
+aliases:
  - /film/2171/are-3d-films-worth-it
 category: film
 

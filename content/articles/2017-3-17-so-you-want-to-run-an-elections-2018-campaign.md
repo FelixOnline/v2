@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 15:09:17 +0000"
 id: "6903"
 old_path: /comment/6903/so-you-want-to-run-an-elections-2018-campaign
-redirect_from:
+aliases:
  - /comment/6903/so-you-want-to-run-an-elections-2018-campaign
 category: comment
 

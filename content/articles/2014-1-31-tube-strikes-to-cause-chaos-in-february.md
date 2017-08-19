@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:13:48 +0000"
 id: "4313"
 old_path: /news/4313/tube-strikes-to-cause-chaos-in-february
-redirect_from:
+aliases:
  - /news/4313/tube-strikes-to-cause-chaos-in-february
 category: news
 

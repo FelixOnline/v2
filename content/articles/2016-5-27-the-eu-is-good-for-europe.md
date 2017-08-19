@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:47:16 +0100"
 id: "6204"
 old_path: /comment/6204/the-eu-is-good-for-europe
-redirect_from:
+aliases:
  - /comment/6204/the-eu-is-good-for-europe
 category: comment
 

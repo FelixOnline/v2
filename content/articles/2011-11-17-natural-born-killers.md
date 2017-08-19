@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:27:24 +0000"
 id: "1758"
 old_path: /science/1758/natural-born-killers
-redirect_from:
+aliases:
  - /science/1758/natural-born-killers
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:12:51 +0000"
 id: "3205"
 old_path: /news/3205/think-about-the-c-word
-redirect_from:
+aliases:
  - /news/3205/think-about-the-c-word
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-04-27 19:00:19 +0100"
 id: "6927"
 old_path: /arts/6927/obsession--there-will-be-blood
-redirect_from:
+aliases:
  - /arts/6927/obsession--there-will-be-blood
 category: arts
 

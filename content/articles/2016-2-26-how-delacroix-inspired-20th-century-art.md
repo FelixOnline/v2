@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:58:11 +0000"
 id: "5978"
 old_path: /arts/5978/how-delacroix-inspired-20th-century-art
-redirect_from:
+aliases:
  - /arts/5978/how-delacroix-inspired-20th-century-art
 category: arts
 

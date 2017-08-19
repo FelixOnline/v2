@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:11:30 +0000"
 id: "687"
 old_path: /tv/687/10-oclock-live-premier-confused-
-redirect_from:
+aliases:
  - /tv/687/10-oclock-live-premier-confused-
 category: tv
 

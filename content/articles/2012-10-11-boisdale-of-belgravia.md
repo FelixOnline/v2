@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:23:56 +0100"
 id: "2673"
 old_path: /food/2673/boisdale-of-belgravia
-redirect_from:
+aliases:
  - /food/2673/boisdale-of-belgravia
 category: food
 

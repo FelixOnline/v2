@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-27 16:50:15 +0000"
 id: "4439"
 old_path: /news/4439/management-msc-student-passes-away
-redirect_from:
+aliases:
  - /news/4439/management-msc-student-passes-away
 category: news
 

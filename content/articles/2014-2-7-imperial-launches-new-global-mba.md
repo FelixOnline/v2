@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:57:14 +0000"
 id: "4352"
 old_path: /news/4352/imperial-launches-new-global-mba
-redirect_from:
+aliases:
  - /news/4352/imperial-launches-new-global-mba
 category: news
 

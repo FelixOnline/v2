@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 23:45:05 +0100"
 id: "3869"
 old_path: /games/3869/gaming-by-creating-games-deep-
-redirect_from:
+aliases:
  - /games/3869/gaming-by-creating-games-deep-
 category: games
 

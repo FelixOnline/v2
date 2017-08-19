@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 14:59:49 +0000"
 id: "6706"
 old_path: /news/6706/israeli-ambassadors-secret-visit-to-imperial
-redirect_from:
+aliases:
  - /news/6706/israeli-ambassadors-secret-visit-to-imperial
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 17:26:25 +0100"
 id: "3636"
 old_path: /science/3636/a-little-bit-of-tlc
-redirect_from:
+aliases:
  - /science/3636/a-little-bit-of-tlc
 category: science
 

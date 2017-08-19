@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 20:52:05 +0000"
 id: "3154"
 old_path: /sport/3154/icurfc-smash-brighton
-redirect_from:
+aliases:
  - /sport/3154/icurfc-smash-brighton
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:06:27 +0000"
 id: "2369"
 old_path: /books/2369/gods-coming--look-busy
-redirect_from:
+aliases:
  - /books/2369/gods-coming--look-busy
 category: books
 

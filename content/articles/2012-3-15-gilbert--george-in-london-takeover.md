@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:01:01 +0000"
 id: "2355"
 old_path: /arts/2355/gilbert--george-in-london-takeover
-redirect_from:
+aliases:
  - /arts/2355/gilbert--george-in-london-takeover
 category: arts
 

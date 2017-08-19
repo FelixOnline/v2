@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:41:16 +0100"
 id: "6227"
 old_path: /comment/6227/sweat-over-something-more-important
-redirect_from:
+aliases:
  - /comment/6227/sweat-over-something-more-important
 category: comment
 

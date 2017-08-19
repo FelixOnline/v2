@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-06 16:34:38 +0100"
 id: "5496"
 old_path: /arts/5496/an-operatic-romp-through-60s-italy
-redirect_from:
+aliases:
  - /arts/5496/an-operatic-romp-through-60s-italy
 category: arts
 

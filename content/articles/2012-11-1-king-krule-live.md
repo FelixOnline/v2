@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:09:21 +0000"
 id: "2812"
 old_path: /music/2812/king-krule-live
-redirect_from:
+aliases:
  - /music/2812/king-krule-live
 category: music
 

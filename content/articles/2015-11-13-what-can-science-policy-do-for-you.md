@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:39:45 +0000"
 id: "5730"
 old_path: /science/5730/what-can-science-policy-do-for-you
-redirect_from:
+aliases:
  - /science/5730/what-can-science-policy-do-for-you
 category: science
 

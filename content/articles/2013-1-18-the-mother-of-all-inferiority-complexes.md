@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:29:16 +0000"
 id: "3134"
 old_path: /comment/3134/the-mother-of-all-inferiority-complexes
-redirect_from:
+aliases:
  - /comment/3134/the-mother-of-all-inferiority-complexes
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 19:29:02 +0000"
 id: "38"
 old_path: /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
-redirect_from:
+aliases:
  - /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
 category: sport
 

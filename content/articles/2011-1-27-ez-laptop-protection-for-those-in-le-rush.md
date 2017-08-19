@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:15:45 +0000"
 id: "664"
 old_path: /tech/664/ez-laptop-protection-for-those-in-le-rush-
-redirect_from:
+aliases:
  - /tech/664/ez-laptop-protection-for-those-in-le-rush-
 category: tech
 

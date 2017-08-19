@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:12:50 +0100"
 id: "1627"
 old_path: /comment/1627/abandon-the-old-grade-system
-redirect_from:
+aliases:
  - /comment/1627/abandon-the-old-grade-system
 category: comment
 

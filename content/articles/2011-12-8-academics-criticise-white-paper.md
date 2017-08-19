@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:12:06 +0000"
 id: "1910"
 old_path: /news/1910/academics-criticise-white-paper
-redirect_from:
+aliases:
  - /news/1910/academics-criticise-white-paper
 category: news
 

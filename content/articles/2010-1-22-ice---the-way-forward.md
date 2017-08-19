@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 14:16:59 +0000"
 id: "53"
 old_path: /science/53/ice---the-way-forward
-redirect_from:
+aliases:
  - /science/53/ice---the-way-forward
 category: science
 

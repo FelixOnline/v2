@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:14:31 +0000"
 id: "6826"
 old_path: /games/6826/stressing-out-to-chill-out
-redirect_from:
+aliases:
  - /games/6826/stressing-out-to-chill-out
 category: games
 

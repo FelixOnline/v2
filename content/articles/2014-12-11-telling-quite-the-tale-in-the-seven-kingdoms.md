@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:42:54 +0000"
 id: "5030"
 old_path: /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
-redirect_from:
+aliases:
  - /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
 category: games
 

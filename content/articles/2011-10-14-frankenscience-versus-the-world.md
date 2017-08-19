@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:34:42 +0100"
 id: "1539"
 old_path: /comment/1539/frankenscience-versus-the-world
-redirect_from:
+aliases:
  - /comment/1539/frankenscience-versus-the-world
 category: comment
 

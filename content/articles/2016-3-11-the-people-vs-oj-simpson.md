@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:06:20 +0000"
 id: "6044"
 old_path: /tv/6044/the-people-vs-oj-simpson
-redirect_from:
+aliases:
  - /tv/6044/the-people-vs-oj-simpson
 category: tv
 

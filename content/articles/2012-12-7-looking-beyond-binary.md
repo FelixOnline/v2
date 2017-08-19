@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:26:05 +0000"
 id: "3035"
 old_path: /books/3035/looking-beyond-binary
-redirect_from:
+aliases:
  - /books/3035/looking-beyond-binary
 category: books
 

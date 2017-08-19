@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:44:32 +0000"
 id: "6397"
 old_path: /arts/6397/hair-by-sam-mcknight
-redirect_from:
+aliases:
  - /arts/6397/hair-by-sam-mcknight
 category: arts
 

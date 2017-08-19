@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-27 16:09:23 +0000"
 id: "4142"
 old_path: /games/4142/5-things-consoles-are-killing
-redirect_from:
+aliases:
  - /games/4142/5-things-consoles-are-killing
 category: games
 

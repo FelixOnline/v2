@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:57:43 +0000"
 id: "1996"
 old_path: /tv/1996/theres-a-new-girl-on-channel-4
-redirect_from:
+aliases:
  - /tv/1996/theres-a-new-girl-on-channel-4
 category: tv
 

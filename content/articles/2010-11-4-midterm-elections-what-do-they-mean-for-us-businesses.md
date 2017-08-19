@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:15:44 +0000"
 id: "293"
 old_path: /biz/293/midterm-elections-what-do-they-mean-for-us-businesses-
-redirect_from:
+aliases:
  - /biz/293/midterm-elections-what-do-they-mean-for-us-businesses-
 category: business
 

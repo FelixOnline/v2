@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-17 11:32:11 +0000"
 id: "559"
 old_path: /arts/559/the-art-of-the-album
-redirect_from:
+aliases:
  - /arts/559/the-art-of-the-album
 category: arts
 

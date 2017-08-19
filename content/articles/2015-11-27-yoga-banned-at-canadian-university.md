@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 11:50:11 +0000"
 id: "5772"
 old_path: /news/5772/yoga-banned-at-canadian-university
-redirect_from:
+aliases:
  - /news/5772/yoga-banned-at-canadian-university
 category: news
 

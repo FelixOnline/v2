@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:51:39 +0000"
 id: "1058"
 old_path: /news/1058/from-mirpur-to-the-midlands
-redirect_from:
+aliases:
  - /news/1058/from-mirpur-to-the-midlands
 category: news
 

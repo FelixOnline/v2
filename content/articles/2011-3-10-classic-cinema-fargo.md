@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:31:11 +0000"
 id: "1072"
 old_path: /film/1072/classic-cinema-fargo
-redirect_from:
+aliases:
  - /film/1072/classic-cinema-fargo
 category: film
 

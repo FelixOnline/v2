@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:45:29 +0000"
 id: "1057"
 old_path: /biz/1057/imperial-students-victorious-in-enterprise-competition
-redirect_from:
+aliases:
  - /biz/1057/imperial-students-victorious-in-enterprise-competition
 category: business
 

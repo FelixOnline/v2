@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:47:42 +0000"
 id: "1843"
 old_path: /comment/1843/all-aboard-the-nostalgia-train
-redirect_from:
+aliases:
  - /comment/1843/all-aboard-the-nostalgia-train
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:14:29 +0000"
 id: "1933"
 old_path: /tv/1933/this-is-an-official-announcement
-redirect_from:
+aliases:
  - /tv/1933/this-is-an-official-announcement
 category: tv
 

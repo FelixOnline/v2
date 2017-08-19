@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 16:21:40 +0100"
 id: "2474"
 old_path: /books/2474/werewolves-vampires-and-lots-of-guns
-redirect_from:
+aliases:
  - /books/2474/werewolves-vampires-and-lots-of-guns
 category: books
 

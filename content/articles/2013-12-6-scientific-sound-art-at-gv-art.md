@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:17:17 +0000"
 id: "4196"
 old_path: /arts/4196/scientific-sound-art-at-gv-art
-redirect_from:
+aliases:
  - /arts/4196/scientific-sound-art-at-gv-art
 category: arts
 

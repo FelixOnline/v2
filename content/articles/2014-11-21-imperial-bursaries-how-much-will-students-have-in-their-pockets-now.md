@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:11:07 +0000"
 id: "4923"
 old_path: /news/4923/imperial-bursaries-how-much-will-students-have-in-their-pockets-now
-redirect_from:
+aliases:
  - /news/4923/imperial-bursaries-how-much-will-students-have-in-their-pockets-now
 category: news
 

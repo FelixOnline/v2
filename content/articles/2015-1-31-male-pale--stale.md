@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 18:37:40 +0000"
 id: "5165"
 old_path: /arts/5165/male-pale--stale
-redirect_from:
+aliases:
  - /arts/5165/male-pale--stale
 category: arts
 

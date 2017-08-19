@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:45:19 +0000"
 id: "6735"
 old_path: /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
-redirect_from:
+aliases:
  - /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
 category: food
 

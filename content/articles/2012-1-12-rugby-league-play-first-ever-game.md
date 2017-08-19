@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 20:10:26 +0000"
 id: "1964"
 old_path: /sport/1964/rugby-league-play-first-ever-game
-redirect_from:
+aliases:
  - /sport/1964/rugby-league-play-first-ever-game
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 18:04:38 +0000"
 id: "4329"
 old_path: /arts/4329/amazing-in-capital-letters
-redirect_from:
+aliases:
  - /arts/4329/amazing-in-capital-letters
 category: arts
 

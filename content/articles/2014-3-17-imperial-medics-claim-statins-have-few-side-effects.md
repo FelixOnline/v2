@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-17 17:32:18 +0000"
 id: "4487"
 old_path: /news/4487/imperial-medics-claim-statins-have-few-side-effects
-redirect_from:
+aliases:
  - /news/4487/imperial-medics-claim-statins-have-few-side-effects
 category: news
 

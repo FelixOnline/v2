@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 14:45:46 +0000"
 id: "5690"
 old_path: /news/5690/i-went-to-the-bond-premiere
-redirect_from:
+aliases:
  - /news/5690/i-went-to-the-bond-premiere
 category: news
 

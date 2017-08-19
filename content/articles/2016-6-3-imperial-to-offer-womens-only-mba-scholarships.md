@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:36:42 +0100"
 id: "6225"
 old_path: /news/6225/imperial-to-offer-womens-only-mba-scholarships
-redirect_from:
+aliases:
  - /news/6225/imperial-to-offer-womens-only-mba-scholarships
 category: news
 

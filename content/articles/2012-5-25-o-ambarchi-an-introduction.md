@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:59:33 +0100"
 id: "2504"
 old_path: /music/2504/o-ambarchi-an-introduction
-redirect_from:
+aliases:
  - /music/2504/o-ambarchi-an-introduction
 category: music
 

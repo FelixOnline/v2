@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 09:47:09 +0100"
 id: "1480"
 old_path: /science/1480/scientists-responsibilities-outlined
-redirect_from:
+aliases:
  - /science/1480/scientists-responsibilities-outlined
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:07:38 +0100"
 id: "198"
 old_path: /news/198/lord-browne-points-to-higher-fees-
-redirect_from:
+aliases:
  - /news/198/lord-browne-points-to-higher-fees-
 category: news
 

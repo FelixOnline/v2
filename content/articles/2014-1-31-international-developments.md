@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:49:54 +0000"
 id: "4320"
 old_path: /comment/4320/international-developments
-redirect_from:
+aliases:
  - /comment/4320/international-developments
 category: comment
 

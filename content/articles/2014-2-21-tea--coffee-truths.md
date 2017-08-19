@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:23:46 +0000"
 id: "4426"
 old_path: /books/4426/tea--coffee-truths
-redirect_from:
+aliases:
  - /books/4426/tea--coffee-truths
 category: books
 

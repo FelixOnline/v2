@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:24:07 +0000"
 id: "4392"
 old_path: /comment/4392/deriving-ought-from-is
-redirect_from:
+aliases:
  - /comment/4392/deriving-ought-from-is
 category: comment
 

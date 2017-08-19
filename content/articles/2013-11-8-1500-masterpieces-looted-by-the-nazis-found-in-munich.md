@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:44:51 +0000"
 id: "4034"
 old_path: /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
-redirect_from:
+aliases:
  - /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
 category: arts
 

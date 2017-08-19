@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:15:11 +0000"
 id: "6387"
 old_path: /film/6387/a-dark-descent-into-artistic-depths
-redirect_from:
+aliases:
  - /film/6387/a-dark-descent-into-artistic-depths
 category: film
 

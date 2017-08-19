@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:47:14 +0000"
 id: "6058"
 old_path: /features/6058/being-a-virgin-isnt-a-big-deal-anymore
-redirect_from:
+aliases:
  - /features/6058/being-a-virgin-isnt-a-big-deal-anymore
 category: features
 

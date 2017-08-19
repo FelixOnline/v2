@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:52:10 +0000"
 id: "6465"
 old_path: /science/6465/masculinity-vs-attractiveness
-redirect_from:
+aliases:
  - /science/6465/masculinity-vs-attractiveness
 category: science
 

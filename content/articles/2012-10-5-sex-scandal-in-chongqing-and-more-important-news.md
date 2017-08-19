@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:04:56 +0100"
 id: "2621"
 old_path: /politics/2621/sex-scandal-in-chongqing-and-more-important-news
-redirect_from:
+aliases:
  - /politics/2621/sex-scandal-in-chongqing-and-more-important-news
 category: politics
 

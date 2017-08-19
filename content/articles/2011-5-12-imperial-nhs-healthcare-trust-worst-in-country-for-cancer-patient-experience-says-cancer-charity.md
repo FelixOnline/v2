@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:14:31 +0100"
 id: "1186"
 old_path: /news/1186/imperial-nhs-healthcare-trust-worst-in-country-for-cancer-patient-experience-says-cancer-charity
-redirect_from:
+aliases:
  - /news/1186/imperial-nhs-healthcare-trust-worst-in-country-for-cancer-patient-experience-says-cancer-charity
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:22:56 +0000"
 id: "1868"
 old_path: /arts/1868/a-better-way-to-make-a-difference
-redirect_from:
+aliases:
  - /arts/1868/a-better-way-to-make-a-difference
 category: arts
 

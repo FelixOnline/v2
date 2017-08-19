@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 22:13:43 +0000"
 id: "419"
 old_path: /comment/419/photos-can-make-us-immortal-
-redirect_from:
+aliases:
  - /comment/419/photos-can-make-us-immortal-
 category: comment
 

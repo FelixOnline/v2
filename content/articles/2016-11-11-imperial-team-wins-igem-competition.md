@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 11:50:30 +0000"
 id: "6415"
 old_path: /news/6415/imperial-team-wins-igem-competition
-redirect_from:
+aliases:
  - /news/6415/imperial-team-wins-igem-competition
 category: news
 

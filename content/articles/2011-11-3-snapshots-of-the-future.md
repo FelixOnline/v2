@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 18:25:21 +0000"
 id: "1650"
 old_path: /tech/1650/snapshots-of-the-future
-redirect_from:
+aliases:
  - /tech/1650/snapshots-of-the-future
 category: tech
 

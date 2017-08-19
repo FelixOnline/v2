@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:39:55 +0000"
 id: "4097"
 old_path: /news/4097/imperial-born-bboxx-gets-silicon-valley-funding
-redirect_from:
+aliases:
  - /news/4097/imperial-born-bboxx-gets-silicon-valley-funding
 category: news
 

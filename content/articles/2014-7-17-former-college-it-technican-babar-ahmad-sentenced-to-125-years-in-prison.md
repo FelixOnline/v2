@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-17 11:04:30 +0100"
 id: "4727"
 old_path: /news/4727/former-college-it-technican-babar-ahmad-sentenced-to-125-years-in-prison
-redirect_from:
+aliases:
  - /news/4727/former-college-it-technican-babar-ahmad-sentenced-to-125-years-in-prison
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-29 13:52:10 +0000"
 id: "3956"
 old_path: /music/3956/test-playlist
-redirect_from:
+aliases:
  - /music/3956/test-playlist
 category: music
 

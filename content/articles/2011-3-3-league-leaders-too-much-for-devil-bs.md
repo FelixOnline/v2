@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:31:22 +0000"
 id: "1028"
 old_path: /sport/1028/league-leaders-too-much-for-devil-bs
-redirect_from:
+aliases:
  - /sport/1028/league-leaders-too-much-for-devil-bs
 category: sport
 

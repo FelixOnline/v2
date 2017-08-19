@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 18:13:22 +0000"
 id: "6739"
 old_path: /millennials/6739/that-moment-youre-rushing-on-sugar
-redirect_from:
+aliases:
  - /millennials/6739/that-moment-youre-rushing-on-sugar
 category: millennials
 

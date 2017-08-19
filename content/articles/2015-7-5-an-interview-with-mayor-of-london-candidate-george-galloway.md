@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-07-05 10:02:34 +0100"
 id: "5648"
 old_path: /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
-redirect_from:
+aliases:
  - /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
 category: politics
 

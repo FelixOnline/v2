@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:12:01 +0000"
 id: "3374"
 old_path: /sport/3374/animal-cruelty-as-netball-puts-down-rvc
-redirect_from:
+aliases:
  - /sport/3374/animal-cruelty-as-netball-puts-down-rvc
 category: sport
 

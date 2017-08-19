@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:16:00 +0000"
 id: "2358"
 old_path: /film/2358/easter-special-jesus-in-cinema
-redirect_from:
+aliases:
  - /film/2358/easter-special-jesus-in-cinema
 category: film
 

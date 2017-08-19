@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:20:37 +0100"
 id: "6137"
 old_path: /food/6137/seeding-the-veggie-power
-redirect_from:
+aliases:
  - /food/6137/seeding-the-veggie-power
 category: food
 

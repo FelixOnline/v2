@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:24:42 +0000"
 id: "6453"
 old_path: /sport/6453/save-the-cheerleader-save-the-world
-redirect_from:
+aliases:
  - /sport/6453/save-the-cheerleader-save-the-world
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:32:43 +0000"
 id: "1914"
 old_path: /biz/1914/are-you-a-gangster
-redirect_from:
+aliases:
  - /biz/1914/are-you-a-gangster
 category: business
 

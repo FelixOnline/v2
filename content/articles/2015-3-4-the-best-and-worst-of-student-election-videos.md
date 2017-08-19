@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-04 18:30:40 +0000"
 id: "5334"
 old_path: /comment/5334/the-best-and-worst-of-student-election-videos-
-redirect_from:
+aliases:
  - /comment/5334/the-best-and-worst-of-student-election-videos-
 category: comment
 

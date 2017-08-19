@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 14:27:32 +0100"
 id: "1546"
 old_path: /arts/1546/the-royal-ballet-is-alive-and-well
-redirect_from:
+aliases:
  - /arts/1546/the-royal-ballet-is-alive-and-well
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:00:45 +0000"
 id: "2282"
 old_path: /arts/2282/enron-to-a-winner
-redirect_from:
+aliases:
  - /arts/2282/enron-to-a-winner
 category: arts
 

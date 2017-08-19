@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:32:11 +0000"
 id: "4234"
 old_path: /science/4234/hypervelocity-stars-discovered-trying-to-escape-the-galaxy
-redirect_from:
+aliases:
  - /science/4234/hypervelocity-stars-discovered-trying-to-escape-the-galaxy
 category: science
 

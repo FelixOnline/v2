@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 16:14:17 +0000"
 id: "6591"
 old_path: /sex/6591/how-to-have-a-one-night-stand-in-metric
-redirect_from:
+aliases:
  - /sex/6591/how-to-have-a-one-night-stand-in-metric
 category: sex
 

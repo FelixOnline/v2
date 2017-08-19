@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:01:15 +0000"
 id: "2049"
 old_path: /politics/2049/fighting-for-florida
-redirect_from:
+aliases:
  - /politics/2049/fighting-for-florida
 category: politics
 

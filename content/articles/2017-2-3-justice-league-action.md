@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:08:25 +0000"
 id: "6731"
 old_path: /tv/6731/justice-league-action
-redirect_from:
+aliases:
  - /tv/6731/justice-league-action
 category: tv
 

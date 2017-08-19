@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:04:35 +0000"
 id: "5280"
 old_path: /science/5280/genes-responsible-for-asthma-uncovered
-redirect_from:
+aliases:
  - /science/5280/genes-responsible-for-asthma-uncovered
 category: science
 

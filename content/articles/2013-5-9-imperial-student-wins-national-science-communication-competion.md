@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 12:01:17 +0100"
 id: "3557"
 old_path: /news/3557/imperial-student-wins-national-science-communication-competion
-redirect_from:
+aliases:
  - /news/3557/imperial-student-wins-national-science-communication-competion
 category: news
 

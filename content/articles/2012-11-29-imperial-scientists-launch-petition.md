@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 21:53:05 +0000"
 id: "2981"
 old_path: /news/2981/imperial-scientists-launch-petition
-redirect_from:
+aliases:
  - /news/2981/imperial-scientists-launch-petition
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:39:31 +0000"
 id: "5404"
 old_path: /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
-redirect_from:
+aliases:
  - /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
 category: news
 

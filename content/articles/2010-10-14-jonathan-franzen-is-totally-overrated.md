@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:26:03 +0100"
 id: "206"
 old_path: /arts/206/jonathan-franzen-is-totally-overrated-
-redirect_from:
+aliases:
  - /arts/206/jonathan-franzen-is-totally-overrated-
 category: arts
 

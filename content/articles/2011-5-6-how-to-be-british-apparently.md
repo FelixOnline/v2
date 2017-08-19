@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:39:50 +0100"
 id: "1159"
 old_path: /comment/1159/how-to-be-british-apparently
-redirect_from:
+aliases:
  - /comment/1159/how-to-be-british-apparently
 category: comment
 

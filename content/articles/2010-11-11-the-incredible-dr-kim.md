@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:15:01 +0000"
 id: "356"
 old_path: /politics/356/the-incredible-dr-kim
-redirect_from:
+aliases:
  - /politics/356/the-incredible-dr-kim
 category: politics
 

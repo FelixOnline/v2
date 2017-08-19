@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:08:33 +0000"
 id: "1049"
 old_path: /science/1049/protein-possible-anti-leukaemia-agent
-redirect_from:
+aliases:
  - /science/1049/protein-possible-anti-leukaemia-agent
 category: science
 

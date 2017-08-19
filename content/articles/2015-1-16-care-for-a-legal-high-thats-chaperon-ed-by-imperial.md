@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:03:56 +0000"
 id: "5094"
 old_path: /news/5094/care-for-a-legal-high-thats-chaperon-ed-by-imperial
-redirect_from:
+aliases:
  - /news/5094/care-for-a-legal-high-thats-chaperon-ed-by-imperial
 category: news
 

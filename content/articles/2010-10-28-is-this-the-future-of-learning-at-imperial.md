@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:56:35 +0100"
 id: "283"
 old_path: /news/283/is-this-the-future-of-learning-at-imperial
-redirect_from:
+aliases:
  - /news/283/is-this-the-future-of-learning-at-imperial
 category: news
 

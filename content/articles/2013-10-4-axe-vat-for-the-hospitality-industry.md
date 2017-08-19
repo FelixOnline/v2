@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:25:24 +0100"
 id: "3797"
 old_path: /biz/3797/axe-vat-for-the-hospitality-industry
-redirect_from:
+aliases:
  - /biz/3797/axe-vat-for-the-hospitality-industry
 category: business
 

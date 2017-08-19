@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 23:12:54 +0100"
 id: "1579"
 old_path: /comment/1579/did-you-know-i-once-saw-john-cleese-in-a-curry-house
-redirect_from:
+aliases:
  - /comment/1579/did-you-know-i-once-saw-john-cleese-in-a-curry-house
 category: comment
 

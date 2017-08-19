@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 10:06:36 +0100"
 id: "6340"
 old_path: /music/6340/im-black-and-i-dont-rap
-redirect_from:
+aliases:
  - /music/6340/im-black-and-i-dont-rap
 category: music
 

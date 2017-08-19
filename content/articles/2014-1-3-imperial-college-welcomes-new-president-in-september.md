@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-03 12:21:06 +0000"
 id: "4202"
 old_path: /news/4202/imperial-college-welcomes-new-president-in-september
-redirect_from:
+aliases:
  - /news/4202/imperial-college-welcomes-new-president-in-september
 category: news
 

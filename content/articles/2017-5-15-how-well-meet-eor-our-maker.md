@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:37:57 +0100"
 id: "6966"
 old_path: /science/6966/how-well-meet-eor-our-maker
-redirect_from:
+aliases:
  - /science/6966/how-well-meet-eor-our-maker
 category: science
 

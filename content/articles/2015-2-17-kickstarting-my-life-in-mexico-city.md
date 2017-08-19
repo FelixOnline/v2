@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 19:15:23 +0000"
 id: "5270"
 old_path: /travel/5270/kickstarting-my-life-in-mexico-city
-redirect_from:
+aliases:
  - /travel/5270/kickstarting-my-life-in-mexico-city
 category: travel
 

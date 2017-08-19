@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:57:54 +0100"
 id: "3777"
 old_path: /tv/3777/long-live-the-white-queen-not-quite
-redirect_from:
+aliases:
  - /tv/3777/long-live-the-white-queen-not-quite
 category: tv
 

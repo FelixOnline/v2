@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-03 09:45:21 +0100"
 id: "3755"
 old_path: /politics/3755/discontent-in-colombia
-redirect_from:
+aliases:
  - /politics/3755/discontent-in-colombia
 category: politics
 

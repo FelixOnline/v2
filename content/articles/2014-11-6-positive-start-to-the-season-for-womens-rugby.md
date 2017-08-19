@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:52:22 +0000"
 id: "4784"
 old_path: /sport/4784/positive-start-to-the-season-for-womens-rugby
-redirect_from:
+aliases:
  - /sport/4784/positive-start-to-the-season-for-womens-rugby
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-21 22:16:08 +0000"
 id: "45"
 old_path: /news/45/exhibition-road-project-opposed-by-charities
-redirect_from:
+aliases:
  - /news/45/exhibition-road-project-opposed-by-charities
 category: news
 

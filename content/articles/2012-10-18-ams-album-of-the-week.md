@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:36:20 +0100"
 id: "2715"
 old_path: /music/2715/ams-album-of-the-week
-redirect_from:
+aliases:
  - /music/2715/ams-album-of-the-week
 category: music
 

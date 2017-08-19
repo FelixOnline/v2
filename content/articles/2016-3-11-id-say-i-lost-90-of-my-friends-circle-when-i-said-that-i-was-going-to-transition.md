@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:31:32 +0000"
 id: "6023"
 old_path: /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
-redirect_from:
+aliases:
  - /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
 category: features
 

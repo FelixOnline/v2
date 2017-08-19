@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:39:33 +0100"
 id: "4519"
 old_path: /tv/4519/the-west-wing-a-retrospective
-redirect_from:
+aliases:
  - /tv/4519/the-west-wing-a-retrospective
 category: tv
 

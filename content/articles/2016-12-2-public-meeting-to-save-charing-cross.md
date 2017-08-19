@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 12:30:48 +0000"
 id: "6521"
 old_path: /news/6521/public-meeting-to-save-charing-cross-
-redirect_from:
+aliases:
  - /news/6521/public-meeting-to-save-charing-cross-
 category: news
 

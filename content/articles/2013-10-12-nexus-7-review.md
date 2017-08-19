@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:30:59 +0100"
 id: "3856"
 old_path: /tech/3856/nexus-7-review
-redirect_from:
+aliases:
  - /tech/3856/nexus-7-review
 category: tech
 

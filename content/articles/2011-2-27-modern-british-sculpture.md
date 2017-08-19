@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:26:48 +0000"
 id: "913"
 old_path: /arts/913/modern-british-sculpture
-redirect_from:
+aliases:
  - /arts/913/modern-british-sculpture
 category: arts
 

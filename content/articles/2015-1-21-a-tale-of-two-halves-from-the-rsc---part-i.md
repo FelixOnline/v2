@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-21 20:27:02 +0000"
 id: "5106"
 old_path: /arts/5106/a-tale-of-two-halves-from-the-rsc---part-i
-redirect_from:
+aliases:
  - /arts/5106/a-tale-of-two-halves-from-the-rsc---part-i
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:09:11 +0000"
 id: "4296"
 old_path: /music/4296/ams-album-of-the-week-alcest--shelter
-redirect_from:
+aliases:
  - /music/4296/ams-album-of-the-week-alcest--shelter
 category: music
 

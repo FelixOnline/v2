@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-05 10:27:15 +0000"
 id: "4334"
 old_path: /games/4334/quizup-upping-the-game
-redirect_from:
+aliases:
  - /games/4334/quizup-upping-the-game
 category: games
 

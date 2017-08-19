@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:17:33 +0000"
 id: "4926"
 old_path: /news/4926/students-march-for-free-education
-redirect_from:
+aliases:
  - /news/4926/students-march-for-free-education
 category: news
 

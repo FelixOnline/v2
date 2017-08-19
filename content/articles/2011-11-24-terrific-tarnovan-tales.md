@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:13:14 +0000"
 id: "1801"
 old_path: /travel/1801/terrific-tarnovan-tales
-redirect_from:
+aliases:
  - /travel/1801/terrific-tarnovan-tales
 category: travel
 

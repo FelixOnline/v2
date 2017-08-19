@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:03:18 +0000"
 id: "2229"
 old_path: /film/2229/time-to-place-your-bets-and-win-big-at-the-oscars
-redirect_from:
+aliases:
  - /film/2229/time-to-place-your-bets-and-win-big-at-the-oscars
 category: film
 

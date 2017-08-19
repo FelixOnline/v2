@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 12:15:53 +0100"
 id: "3845"
 old_path: /features/3845/open-letter-from-the-royal-college-of-science-union
-redirect_from:
+aliases:
  - /features/3845/open-letter-from-the-royal-college-of-science-union
 category: features
 

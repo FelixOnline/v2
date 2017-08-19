@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 16:44:10 +0100"
 id: "3657"
 old_path: /comment/3657/the-tale-of-the-demonstrator
-redirect_from:
+aliases:
  - /comment/3657/the-tale-of-the-demonstrator
 category: comment
 

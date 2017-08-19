@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-02 13:24:30 +0000"
 id: "5176"
 old_path: /news/5176/lets-get-it-on
-redirect_from:
+aliases:
  - /news/5176/lets-get-it-on
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:29:41 +0100"
 id: "3619"
 old_path: /news/3619/not-for-profit-careers-fair
-redirect_from:
+aliases:
  - /news/3619/not-for-profit-careers-fair
 category: news
 

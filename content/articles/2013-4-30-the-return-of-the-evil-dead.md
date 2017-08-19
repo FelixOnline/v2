@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 10:29:15 +0100"
 id: "3499"
 old_path: /film/3499/the-return-of-the-evil-dead
-redirect_from:
+aliases:
  - /film/3499/the-return-of-the-evil-dead
 category: film
 

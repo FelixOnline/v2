@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:52:38 +0000"
 id: "3448"
 old_path: /arts/3448/waterboarding
-redirect_from:
+aliases:
  - /arts/3448/waterboarding
 category: arts
 

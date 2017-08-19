@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:33:47 +0100"
 id: "3601"
 old_path: /sport/3601/st-marys-put-to-the-sword
-redirect_from:
+aliases:
  - /sport/3601/st-marys-put-to-the-sword
 category: sport
 

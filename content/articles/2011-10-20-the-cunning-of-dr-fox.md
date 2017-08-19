@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:58:42 +0100"
 id: "1567"
 old_path: /politics/1567/the-cunning-of-dr-fox
-redirect_from:
+aliases:
  - /politics/1567/the-cunning-of-dr-fox
 category: politics
 

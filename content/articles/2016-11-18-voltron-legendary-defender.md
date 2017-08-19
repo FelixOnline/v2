@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:07:31 +0000"
 id: "6470"
 old_path: /tv/6470/voltron-legendary-defender
-redirect_from:
+aliases:
  - /tv/6470/voltron-legendary-defender
 category: tv
 

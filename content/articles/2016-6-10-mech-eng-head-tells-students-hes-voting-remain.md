@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:12:05 +0100"
 id: "6245"
 old_path: /news/6245/mech-eng-head-tells-students-hes-voting-remain
-redirect_from:
+aliases:
  - /news/6245/mech-eng-head-tells-students-hes-voting-remain
 category: news
 

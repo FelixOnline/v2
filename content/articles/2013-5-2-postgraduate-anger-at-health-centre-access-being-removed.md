@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:48:55 +0100"
 id: "3536"
 old_path: /news/3536/postgraduate-anger-at-health-centre-access-being-removed
-redirect_from:
+aliases:
  - /news/3536/postgraduate-anger-at-health-centre-access-being-removed
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:27:23 +0000"
 id: "990"
 old_path: /travel/990/thailands-essentials-uncovered
-redirect_from:
+aliases:
  - /travel/990/thailands-essentials-uncovered
 category: travel
 

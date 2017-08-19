@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 20:01:40 +0000"
 id: "926"
 old_path: /sport/926/rugby-first-xv-put-50-past-st-marys
-redirect_from:
+aliases:
  - /sport/926/rugby-first-xv-put-50-past-st-marys
 category: sport
 

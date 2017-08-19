@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:43:47 +0000"
 id: "308"
 old_path: /politics/308/peace-in-korea-
-redirect_from:
+aliases:
  - /politics/308/peace-in-korea-
 category: politics
 

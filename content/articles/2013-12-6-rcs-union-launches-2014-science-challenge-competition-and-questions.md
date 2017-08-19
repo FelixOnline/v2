@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:45:17 +0000"
 id: "4178"
 old_path: /news/4178/rcs-union-launches-2014-science-challenge-competition-and-questions
-redirect_from:
+aliases:
  - /news/4178/rcs-union-launches-2014-science-challenge-competition-and-questions
 category: news
 

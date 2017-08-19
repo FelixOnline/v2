@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:19:48 +0100"
 id: "3615"
 old_path: /music/3615/monday-tuesday-happy-daze
-redirect_from:
+aliases:
  - /music/3615/monday-tuesday-happy-daze
 category: music
 

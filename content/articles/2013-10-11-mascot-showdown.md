@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 22:43:50 +0100"
 id: "3820"
 old_path: /news/3820/mascot-showdown
-redirect_from:
+aliases:
  - /news/3820/mascot-showdown
 category: news
 

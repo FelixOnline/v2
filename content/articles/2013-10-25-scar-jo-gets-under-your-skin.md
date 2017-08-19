@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:42:40 +0100"
 id: "3935"
 old_path: /film/3935/scar-jo-gets-under-your-skin
-redirect_from:
+aliases:
  - /film/3935/scar-jo-gets-under-your-skin
 category: film
 

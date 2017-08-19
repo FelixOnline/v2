@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:55:02 +0000"
 id: "5439"
 old_path: /arts/5439/et-in-arcadia-ego-unfortunately
-redirect_from:
+aliases:
  - /arts/5439/et-in-arcadia-ego-unfortunately
 category: arts
 

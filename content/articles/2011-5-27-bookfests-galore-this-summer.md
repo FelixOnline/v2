@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 14:08:02 +0100"
 id: "1277"
 old_path: /arts/1277/bookfests-galore-this-summer
-redirect_from:
+aliases:
  - /arts/1277/bookfests-galore-this-summer
 category: arts
 

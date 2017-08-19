@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:17:29 +0000"
 id: "3257"
 old_path: /politics/3257/the-legacy-of-the-arab-spring
-redirect_from:
+aliases:
  - /politics/3257/the-legacy-of-the-arab-spring
 category: politics
 

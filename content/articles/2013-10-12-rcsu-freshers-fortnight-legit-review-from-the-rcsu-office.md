@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 12:12:56 +0100"
 id: "3844"
 old_path: /features/3844/rcsu-freshers-fortnight-legit-review-from-the-rcsu-office
-redirect_from:
+aliases:
  - /features/3844/rcsu-freshers-fortnight-legit-review-from-the-rcsu-office
 category: features
 

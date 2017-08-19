@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:58:19 +0000"
 id: "6724"
 old_path: /arts/6724/the-fourth-plinth-shortlist-proves-a-mixed-bag
-redirect_from:
+aliases:
  - /arts/6724/the-fourth-plinth-shortlist-proves-a-mixed-bag
 category: arts
 

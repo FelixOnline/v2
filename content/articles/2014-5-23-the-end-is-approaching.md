@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 13:52:28 +0100"
 id: "4621"
 old_path: /comment/4621/the-end-is-approaching
-redirect_from:
+aliases:
  - /comment/4621/the-end-is-approaching
 category: comment
 

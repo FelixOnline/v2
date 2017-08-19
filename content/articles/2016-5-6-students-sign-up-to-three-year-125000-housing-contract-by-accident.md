@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:41:21 +0100"
 id: "6113"
 old_path: /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
-redirect_from:
+aliases:
  - /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
 category: news
 

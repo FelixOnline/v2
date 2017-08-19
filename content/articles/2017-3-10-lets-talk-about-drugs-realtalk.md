@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:13:13 +0000"
 id: "6882"
 old_path: /features/6882/lets-talk-about-drugs-realtalk
-redirect_from:
+aliases:
  - /features/6882/lets-talk-about-drugs-realtalk
 category: features
 

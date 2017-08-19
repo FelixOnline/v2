@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 12:06:10 +0100"
 id: "1605"
 old_path: /food/1605/vintage-and-glamorous-betty
-redirect_from:
+aliases:
  - /food/1605/vintage-and-glamorous-betty
 category: food
 

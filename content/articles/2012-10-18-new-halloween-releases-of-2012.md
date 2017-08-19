@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:32:42 +0100"
 id: "2711"
 old_path: /film/2711/new-halloween-releases-of-2012
-redirect_from:
+aliases:
  - /film/2711/new-halloween-releases-of-2012
 category: film
 

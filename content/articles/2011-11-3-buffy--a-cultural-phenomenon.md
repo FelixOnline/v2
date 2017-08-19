@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:34:48 +0000"
 id: "1669"
 old_path: /tv/1669/buffy--a-cultural-phenomenon
-redirect_from:
+aliases:
  - /tv/1669/buffy--a-cultural-phenomenon
 category: tv
 

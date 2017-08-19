@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:45:10 +0000"
 id: "2348"
 old_path: /science/2348/lsd-may-help-alcoholics
-redirect_from:
+aliases:
  - /science/2348/lsd-may-help-alcoholics
 category: science
 

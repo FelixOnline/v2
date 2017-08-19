@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:18:47 +0100"
 id: "2739"
 old_path: /fashion/2739/tim-walker-story-teller
-redirect_from:
+aliases:
  - /fashion/2739/tim-walker-story-teller
 category: fashion
 

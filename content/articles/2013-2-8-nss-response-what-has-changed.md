@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:15:31 +0000"
 id: "3285"
 old_path: /news/3285/nss-response-what-has-changed
-redirect_from:
+aliases:
  - /news/3285/nss-response-what-has-changed
 category: news
 

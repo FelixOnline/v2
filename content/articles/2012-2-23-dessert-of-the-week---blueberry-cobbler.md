@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:45:46 +0000"
 id: "2243"
 old_path: /food/2243/dessert-of-the-week---blueberry-cobbler
-redirect_from:
+aliases:
  - /food/2243/dessert-of-the-week---blueberry-cobbler
 category: food
 

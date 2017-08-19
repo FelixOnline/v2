@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 17:30:17 +0100"
 id: "3638"
 old_path: /science/3638/science-bites-why-does-cut-grass-smell
-redirect_from:
+aliases:
  - /science/3638/science-bites-why-does-cut-grass-smell
 category: science
 

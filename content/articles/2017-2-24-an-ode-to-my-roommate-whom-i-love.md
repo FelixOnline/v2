@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:49:04 +0000"
 id: "6813"
 old_path: /comment/6813/an-ode-to-my-roommate-whom-i-love
-redirect_from:
+aliases:
  - /comment/6813/an-ode-to-my-roommate-whom-i-love
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:49:58 +0000"
 id: "6398"
 old_path: /comment/6398/im-american-but-im-not-voting-for-hillary-or-donald
-redirect_from:
+aliases:
  - /comment/6398/im-american-but-im-not-voting-for-hillary-or-donald
 category: comment
 

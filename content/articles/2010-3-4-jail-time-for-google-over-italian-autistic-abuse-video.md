@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-04 12:41:12 +0000"
 id: "118"
 old_path: /tech/118/jail-time-for-google-over-italian-autistic-abuse-video
-redirect_from:
+aliases:
  - /tech/118/jail-time-for-google-over-italian-autistic-abuse-video
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-13 15:44:16 +0000"
 id: "2342"
 old_path: /comment/2342/sri-lankas-killing-fields
-redirect_from:
+aliases:
  - /comment/2342/sri-lankas-killing-fields
 category: comment
 

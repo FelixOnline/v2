@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-25 15:14:17 +0000"
 id: "1129"
 old_path: /sport/1129/sticks-balls-and-deepest-darkest-bristol
-redirect_from:
+aliases:
  - /sport/1129/sticks-balls-and-deepest-darkest-bristol
 category: sport
 

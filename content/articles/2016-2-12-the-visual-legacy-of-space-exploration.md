@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:37:08 +0000"
 id: "5907"
 old_path: /arts/5907/the-visual-legacy-of-space-exploration
-redirect_from:
+aliases:
  - /arts/5907/the-visual-legacy-of-space-exploration
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:56:36 +0100"
 id: "6228"
 old_path: /comment/6228/london-should-leave-the-uk
-redirect_from:
+aliases:
  - /comment/6228/london-should-leave-the-uk
 category: comment
 

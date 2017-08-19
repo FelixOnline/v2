@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:23:42 +0000"
 id: "4212"
 old_path: /tech/4212/tech-for-x-mas
-redirect_from:
+aliases:
  - /tech/4212/tech-for-x-mas
 category: tech
 

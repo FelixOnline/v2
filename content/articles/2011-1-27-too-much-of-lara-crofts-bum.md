@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:27:27 +0000"
 id: "694"
 old_path: /games/694/too-much-of-lara-crofts-bum
-redirect_from:
+aliases:
  - /games/694/too-much-of-lara-crofts-bum
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:05:27 +0100"
 id: "5527"
 old_path: /film/5527/boyhood-not-for-these-girls
-redirect_from:
+aliases:
  - /film/5527/boyhood-not-for-these-girls
 category: film
 

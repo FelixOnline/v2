@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-05 23:40:45 +0100"
 id: "1148"
 old_path: /news/1148/blunder-in-mechanical-engineering-department
-redirect_from:
+aliases:
  - /news/1148/blunder-in-mechanical-engineering-department
 category: news
 

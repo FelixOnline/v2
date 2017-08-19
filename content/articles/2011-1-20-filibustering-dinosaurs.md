@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:53:17 +0000"
 id: "619"
 old_path: /politics/619/filibustering-dinosaurs
-redirect_from:
+aliases:
  - /politics/619/filibustering-dinosaurs
 category: politics
 

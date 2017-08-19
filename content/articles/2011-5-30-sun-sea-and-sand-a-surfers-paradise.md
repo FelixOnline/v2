@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-30 11:52:28 +0100"
 id: "1284"
 old_path: /sport/1284/sun-sea-and-sand-a-surfers-paradise
-redirect_from:
+aliases:
  - /sport/1284/sun-sea-and-sand-a-surfers-paradise
 category: sport
 

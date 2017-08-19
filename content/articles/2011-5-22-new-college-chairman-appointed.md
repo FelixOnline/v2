@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-22 13:04:31 +0100"
 id: "1241"
 old_path: /news/1241/new-college-chairman-appointed
-redirect_from:
+aliases:
  - /news/1241/new-college-chairman-appointed
 category: news
 

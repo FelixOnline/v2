@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:30:33 +0000"
 id: "336"
 old_path: /tech/336/skyfire--iphone--flash
-redirect_from:
+aliases:
  - /tech/336/skyfire--iphone--flash
 category: tech
 

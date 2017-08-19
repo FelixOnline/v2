@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-09 00:54:39 +0000"
 id: "2333"
 old_path: /fashion/2333/fashions-big-re-shuffle
-redirect_from:
+aliases:
  - /fashion/2333/fashions-big-re-shuffle
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:05:45 +0000"
 id: "4292"
 old_path: /books/4292/welcome-to-night-vale
-redirect_from:
+aliases:
  - /books/4292/welcome-to-night-vale
 category: books
 

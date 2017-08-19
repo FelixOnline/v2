@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:39:45 +0100"
 id: "2453"
 old_path: /science/2453/weighing-a-single-atom
-redirect_from:
+aliases:
  - /science/2453/weighing-a-single-atom
 category: science
 

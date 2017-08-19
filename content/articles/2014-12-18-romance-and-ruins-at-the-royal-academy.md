@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:34:38 +0000"
 id: "5055"
 old_path: /arts/5055/romance-and-ruins-at-the-royal-academy
-redirect_from:
+aliases:
  - /arts/5055/romance-and-ruins-at-the-royal-academy
 category: arts
 

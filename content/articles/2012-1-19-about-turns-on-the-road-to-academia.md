@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 19:47:22 +0000"
 id: "2000"
 old_path: /biz/2000/about-turns-on-the-road-to-academia
-redirect_from:
+aliases:
  - /biz/2000/about-turns-on-the-road-to-academia
 category: business
 

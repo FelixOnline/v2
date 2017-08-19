@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:17:26 +0100"
 id: "2773"
 old_path: /music/2773/ams-album-of-the-week-2
-redirect_from:
+aliases:
  - /music/2773/ams-album-of-the-week-2
 category: music
 

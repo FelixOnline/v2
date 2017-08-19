@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:38:46 +0100"
 id: "3697"
 old_path: /film/3697/girls-go-camping-things-go-wrong
-redirect_from:
+aliases:
  - /film/3697/girls-go-camping-things-go-wrong
 category: film
 

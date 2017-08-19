@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:48:26 +0100"
 id: "7006"
 old_path: /features/7006/imperial-academics-on-trump-and-climate
-redirect_from:
+aliases:
  - /features/7006/imperial-academics-on-trump-and-climate
 category: features
 

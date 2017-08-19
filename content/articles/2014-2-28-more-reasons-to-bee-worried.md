@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:18:59 +0000"
 id: "4446"
 old_path: /science/4446/more-reasons-to-bee-worried
-redirect_from:
+aliases:
  - /science/4446/more-reasons-to-bee-worried
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:53:49 +0000"
 id: "3162"
 old_path: /tv/3162/a-damn-fine-cup-of-coffee
-redirect_from:
+aliases:
  - /tv/3162/a-damn-fine-cup-of-coffee
 category: tv
 

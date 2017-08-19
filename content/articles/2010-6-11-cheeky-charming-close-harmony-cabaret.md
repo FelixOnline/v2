@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-06-11 11:04:14 +0100"
 id: "143"
 old_path: /arts/143/cheeky-charming-close-harmony-cabaret
-redirect_from:
+aliases:
  - /arts/143/cheeky-charming-close-harmony-cabaret
 category: arts
 

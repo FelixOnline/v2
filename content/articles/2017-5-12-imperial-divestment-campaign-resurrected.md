@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 17:05:13 +0100"
 id: "6944"
 old_path: /news/6944/imperial-divestment-campaign-resurrected
-redirect_from:
+aliases:
  - /news/6944/imperial-divestment-campaign-resurrected
 category: news
 

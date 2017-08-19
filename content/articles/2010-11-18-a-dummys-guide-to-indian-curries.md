@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:13:34 +0000"
 id: "403"
 old_path: /food/403/a-dummys-guide-to-indian-curries
-redirect_from:
+aliases:
  - /food/403/a-dummys-guide-to-indian-curries
 category: food
 

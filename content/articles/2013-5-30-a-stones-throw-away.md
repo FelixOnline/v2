@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 09:16:03 +0100"
 id: "3639"
 old_path: /arts/3639/a-stones-throw-away
-redirect_from:
+aliases:
  - /arts/3639/a-stones-throw-away
 category: arts
 

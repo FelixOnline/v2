@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:36:59 +0000"
 id: "778"
 old_path: /games/778/magicka-a-mad-mixed-bag-of-tricks-
-redirect_from:
+aliases:
  - /games/778/magicka-a-mad-mixed-bag-of-tricks-
 category: games
 

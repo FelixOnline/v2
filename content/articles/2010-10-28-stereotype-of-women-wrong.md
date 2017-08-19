@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:11:10 +0100"
 id: "254"
 old_path: /politics/254/stereotype-of-women-wrong-
-redirect_from:
+aliases:
  - /politics/254/stereotype-of-women-wrong-
 category: politics
 

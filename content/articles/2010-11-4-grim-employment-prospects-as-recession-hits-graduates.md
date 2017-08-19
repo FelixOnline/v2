@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:12:19 +0000"
 id: "330"
 old_path: /news/330/grim-employment-prospects-as-recession-hits-graduates
-redirect_from:
+aliases:
  - /news/330/grim-employment-prospects-as-recession-hits-graduates
 category: news
 

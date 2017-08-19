@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:42:35 +0000"
 id: "2194"
 old_path: /fashion/2194/dazed-confused-and-just-a-little-hungry
-redirect_from:
+aliases:
  - /fashion/2194/dazed-confused-and-just-a-little-hungry
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:53:53 +0000"
 id: "5888"
 old_path: /cands/5888/new-financial-worlds-conference-
-redirect_from:
+aliases:
  - /cands/5888/new-financial-worlds-conference-
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-23 18:08:29 +0100"
 id: "5560"
 old_path: /politics/5560/ireland-votes-yes-to-legalising-same-sex-marriage
-redirect_from:
+aliases:
  - /politics/5560/ireland-votes-yes-to-legalising-same-sex-marriage
 category: politics
 

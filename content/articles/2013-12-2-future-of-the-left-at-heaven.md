@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:12:45 +0000"
 id: "4167"
 old_path: /music/4167/future-of-the-left-at-heaven
-redirect_from:
+aliases:
  - /music/4167/future-of-the-left-at-heaven
 category: music
 

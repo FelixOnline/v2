@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:30:24 +0000"
 id: "5999"
 old_path: /news/5999/election-fever-sweeps-campus
-redirect_from:
+aliases:
  - /news/5999/election-fever-sweeps-campus
 category: news
 

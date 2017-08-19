@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:53:46 +0000"
 id: "5809"
 old_path: /film/5809/just-gals-being-pals-a-history-of-lesbian-cinema
-redirect_from:
+aliases:
  - /film/5809/just-gals-being-pals-a-history-of-lesbian-cinema
 category: film
 

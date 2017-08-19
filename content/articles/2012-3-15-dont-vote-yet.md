@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:44:10 +0000"
 id: "2392"
 old_path: /comment/2392/dont-vote-yet
-redirect_from:
+aliases:
  - /comment/2392/dont-vote-yet
 category: comment
 

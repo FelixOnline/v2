@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 21:48:57 +0100"
 id: "1510"
 old_path: /arts/1510/genetic-link-for-heavy-heart-condition-identified
-redirect_from:
+aliases:
  - /arts/1510/genetic-link-for-heavy-heart-condition-identified
 category: arts
 

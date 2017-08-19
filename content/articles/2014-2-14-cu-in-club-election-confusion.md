@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 04:32:47 +0000"
 id: "4377"
 old_path: /news/4377/cu-in-club-election-confusion
-redirect_from:
+aliases:
  - /news/4377/cu-in-club-election-confusion
 category: news
 

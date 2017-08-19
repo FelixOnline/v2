@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 12:39:55 +0100"
 id: "5589"
 old_path: /arts/5589/the-siege-violence-in-the-levant
-redirect_from:
+aliases:
  - /arts/5589/the-siege-violence-in-the-levant
 category: arts
 

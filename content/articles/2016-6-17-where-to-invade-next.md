@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:38:52 +0100"
 id: "6290"
 old_path: /film/6290/where-to-invade-next
-redirect_from:
+aliases:
  - /film/6290/where-to-invade-next
 category: film
 

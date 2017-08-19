@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:38:12 +0100"
 id: "2511"
 old_path: /comment/2511/imperial-outside-the-m25
-redirect_from:
+aliases:
  - /comment/2511/imperial-outside-the-m25
 category: comment
 

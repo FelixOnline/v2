@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 15:54:20 +0000"
 id: "6428"
 old_path: /science/6428/the-fate-of-american-science
-redirect_from:
+aliases:
  - /science/6428/the-fate-of-american-science
 category: science
 

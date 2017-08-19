@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:15:14 +0000"
 id: "6641"
 old_path: /science/6641/its-a-kind-of-magic--psychedelic-mushroom-trip-soothes-depression-in-terminally-ill-patients
-redirect_from:
+aliases:
  - /science/6641/its-a-kind-of-magic--psychedelic-mushroom-trip-soothes-depression-in-terminally-ill-patients
 category: science
 

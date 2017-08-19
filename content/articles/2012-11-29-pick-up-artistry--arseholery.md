@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:05:48 +0000"
 id: "3001"
 old_path: /comment/3001/pick-up-artistry--arseholery
-redirect_from:
+aliases:
  - /comment/3001/pick-up-artistry--arseholery
 category: comment
 

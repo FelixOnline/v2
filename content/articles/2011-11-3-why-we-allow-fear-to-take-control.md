@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:49:27 +0000"
 id: "1656"
 old_path: /science/1656/why-we-allow-fear-to-take-control
-redirect_from:
+aliases:
  - /science/1656/why-we-allow-fear-to-take-control
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:33:54 +0000"
 id: "3160"
 old_path: /film/3160/the-greatest-manhunt-in-history
-redirect_from:
+aliases:
  - /film/3160/the-greatest-manhunt-in-history
 category: film
 

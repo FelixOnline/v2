@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:18:34 +0000"
 id: "1817"
 old_path: /science/1817/are-minds-extended-
-redirect_from:
+aliases:
  - /science/1817/are-minds-extended-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:22:21 +0000"
 id: "360"
 old_path: /music/360/ic-radio-are-taking-student-radio-to-the-next-level
-redirect_from:
+aliases:
  - /music/360/ic-radio-are-taking-student-radio-to-the-next-level
 category: music
 

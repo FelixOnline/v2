@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:32:31 +0000"
 id: "4214"
 old_path: /games/4214/the-star-in-command
-redirect_from:
+aliases:
  - /games/4214/the-star-in-command
 category: games
 

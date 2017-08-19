@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:25:27 +0000"
 id: "861"
 old_path: /tv/861/how-tv-has-affected-my-degree
-redirect_from:
+aliases:
  - /tv/861/how-tv-has-affected-my-degree
 category: tv
 

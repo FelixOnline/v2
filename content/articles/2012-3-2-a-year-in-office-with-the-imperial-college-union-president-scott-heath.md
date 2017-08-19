@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 01:26:35 +0000"
 id: "2304"
 old_path: /news/2304/a-year-in-office-with-the-imperial-college-union-president-scott-heath
-redirect_from:
+aliases:
  - /news/2304/a-year-in-office-with-the-imperial-college-union-president-scott-heath
 category: news
 

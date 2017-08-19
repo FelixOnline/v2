@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:44:19 +0000"
 id: "6695"
 old_path: /film/6695/there-will-never-be-another-camelot
-redirect_from:
+aliases:
  - /film/6695/there-will-never-be-another-camelot
 category: film
 

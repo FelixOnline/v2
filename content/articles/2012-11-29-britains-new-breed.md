@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:59:53 +0000"
 id: "2997"
 old_path: /music/2997/britains-new-breed
-redirect_from:
+aliases:
  - /music/2997/britains-new-breed
 category: music
 

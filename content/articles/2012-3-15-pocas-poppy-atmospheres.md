@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:12:57 +0000"
 id: "2372"
 old_path: /music/2372/pocas-poppy-atmospheres
-redirect_from:
+aliases:
  - /music/2372/pocas-poppy-atmospheres
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:12:13 +0000"
 id: "2963"
 old_path: /sport/2963/cyclists-explore-the-peak-district
-redirect_from:
+aliases:
  - /sport/2963/cyclists-explore-the-peak-district
 category: sport
 

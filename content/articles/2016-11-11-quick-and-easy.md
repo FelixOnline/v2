@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 17:05:01 +0000"
 id: "6433"
 old_path: /food/6433/quick-and-easy-
-redirect_from:
+aliases:
  - /food/6433/quick-and-easy-
 category: food
 

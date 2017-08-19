@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:16:31 +0000"
 id: "3269"
 old_path: /sport/3269/icurfc-3rd-xv-win-uphill-against-st-georges
-redirect_from:
+aliases:
  - /sport/3269/icurfc-3rd-xv-win-uphill-against-st-georges
 category: sport
 

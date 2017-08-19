@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:08:53 +0000"
 id: "859"
 old_path: /arts/859/do-you-believe-in-science
-redirect_from:
+aliases:
  - /arts/859/do-you-believe-in-science
 category: arts
 

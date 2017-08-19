@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:13:52 +0000"
 id: "2373"
 old_path: /news/2373/motor-club-races-towards-fire-engine-repair
-redirect_from:
+aliases:
  - /news/2373/motor-club-races-towards-fire-engine-repair
 category: news
 

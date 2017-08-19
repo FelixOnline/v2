@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 14:05:53 +0000"
 id: "5354"
 old_path: /arts/5354/my-favourite-play--the-importance-of-being-earnest
-redirect_from:
+aliases:
  - /arts/5354/my-favourite-play--the-importance-of-being-earnest
 category: arts
 

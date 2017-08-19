@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:29:55 +0000"
 id: "5384"
 old_path: /welfare/5384/how-to-live-in-an-international-flat
-redirect_from:
+aliases:
  - /welfare/5384/how-to-live-in-an-international-flat
 category: welfare
 

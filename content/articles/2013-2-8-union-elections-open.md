@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:08:23 +0000"
 id: "3283"
 old_path: /news/3283/union-elections-open
-redirect_from:
+aliases:
  - /news/3283/union-elections-open
 category: news
 

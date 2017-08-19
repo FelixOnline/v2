@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-23 21:34:14 +0000"
 id: "4933"
 old_path: /arts/4933/a-one-man-play-tells-a-multitude-of-stories
-redirect_from:
+aliases:
  - /arts/4933/a-one-man-play-tells-a-multitude-of-stories
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 23:47:22 +0000"
 id: "5198"
 old_path: /news/5198/union-clock-in-beit-quad-is-once-again-keeping-time
-redirect_from:
+aliases:
  - /news/5198/union-clock-in-beit-quad-is-once-again-keeping-time
 category: news
 

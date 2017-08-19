@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 19:08:48 +0100"
 id: "3588"
 old_path: /news/3588/felix-drugs-survey
-redirect_from:
+aliases:
  - /news/3588/felix-drugs-survey
 category: news
 

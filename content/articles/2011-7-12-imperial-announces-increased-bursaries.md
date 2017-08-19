@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-07-12 15:14:18 +0100"
 id: "1449"
 old_path: /news/1449/imperial-announces-increased-bursaries
-redirect_from:
+aliases:
  - /news/1449/imperial-announces-increased-bursaries
 category: news
 

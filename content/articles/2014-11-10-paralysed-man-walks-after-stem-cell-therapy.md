@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:32:48 +0000"
 id: "4821"
 old_path: /science/4821/paralysed-man-walks-after-stem-cell-therapy
-redirect_from:
+aliases:
  - /science/4821/paralysed-man-walks-after-stem-cell-therapy
 category: science
 

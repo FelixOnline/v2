@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 21:02:00 +0000"
 id: "5238"
 old_path: /news/5238/imperial-win-the-bhangra-showdown
-redirect_from:
+aliases:
  - /news/5238/imperial-win-the-bhangra-showdown
 category: news
 

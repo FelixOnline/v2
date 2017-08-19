@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:47:04 +0100"
 id: "4610"
 old_path: /sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay
-redirect_from:
+aliases:
  - /sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay
 category: sport
 

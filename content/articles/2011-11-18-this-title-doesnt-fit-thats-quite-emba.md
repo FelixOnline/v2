@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-18 00:42:07 +0000"
 id: "1799"
 old_path: /comment/1799/this-title-doesnt-fit-thats-quite-emba
-redirect_from:
+aliases:
  - /comment/1799/this-title-doesnt-fit-thats-quite-emba
 category: comment
 

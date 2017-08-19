@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:38:48 +0000"
 id: "5154"
 old_path: /news/5154/imperial-appoint-its-first-vice-president-for-advancement
-redirect_from:
+aliases:
  - /news/5154/imperial-appoint-its-first-vice-president-for-advancement
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:25:46 +0100"
 id: "1486"
 old_path: /arts/1486/rivers-of-london
-redirect_from:
+aliases:
  - /arts/1486/rivers-of-london
 category: arts
 

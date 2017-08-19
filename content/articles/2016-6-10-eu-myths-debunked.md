@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:19:07 +0100"
 id: "6250"
 old_path: /comment/6250/eu-myths-debunked
-redirect_from:
+aliases:
  - /comment/6250/eu-myths-debunked
 category: comment
 

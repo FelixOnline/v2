@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:48:47 +0100"
 id: "1416"
 old_path: /science/1416/is-hypnosis-all-its-hyped-up-to-be
-redirect_from:
+aliases:
  - /science/1416/is-hypnosis-all-its-hyped-up-to-be
 category: science
 

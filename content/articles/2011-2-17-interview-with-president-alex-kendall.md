@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:07:09 +0000"
 id: "812"
 old_path: /news/812/interview-with-president-alex-kendall
-redirect_from:
+aliases:
  - /news/812/interview-with-president-alex-kendall
 category: news
 

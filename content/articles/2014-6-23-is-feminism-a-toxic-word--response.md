@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 13:13:25 +0100"
 id: "4709"
 old_path: /comment/4709/is-feminism-a-toxic-word--response
-redirect_from:
+aliases:
  - /comment/4709/is-feminism-a-toxic-word--response
 category: comment
 

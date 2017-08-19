@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:50:35 +0100"
 id: "3683"
 old_path: /science/3683/banishing-your-demons
-redirect_from:
+aliases:
  - /science/3683/banishing-your-demons
 category: science
 

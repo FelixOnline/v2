@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 20:54:49 +0000"
 id: "2885"
 old_path: /news/2885/university-drinking-and-sex-league-tables-released
-redirect_from:
+aliases:
  - /news/2885/university-drinking-and-sex-league-tables-released
 category: news
 

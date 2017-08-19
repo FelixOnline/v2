@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:05:59 +0000"
 id: "6564"
 old_path: /science/6564/erecto-shock-therapy
-redirect_from:
+aliases:
  - /science/6564/erecto-shock-therapy
 category: science
 

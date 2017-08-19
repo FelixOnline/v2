@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:51:58 +0100"
 id: "3537"
 old_path: /news/3537/imperial-fourth-in-complete-university-league-table
-redirect_from:
+aliases:
  - /news/3537/imperial-fourth-in-complete-university-league-table
 category: news
 

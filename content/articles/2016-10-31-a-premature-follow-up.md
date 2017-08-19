@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 16:21:55 +0000"
 id: "6368"
 old_path: /arts/6368/a-premature-follow-up
-redirect_from:
+aliases:
  - /arts/6368/a-premature-follow-up
 category: arts
 

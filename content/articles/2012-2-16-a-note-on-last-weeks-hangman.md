@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:06:03 +0000"
 id: "2208"
 old_path: /comment/2208/a-note-on-last-weeks-hangman-
-redirect_from:
+aliases:
  - /comment/2208/a-note-on-last-weeks-hangman-
 category: comment
 

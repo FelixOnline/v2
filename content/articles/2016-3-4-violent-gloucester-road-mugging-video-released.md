@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:23:04 +0000"
 id: "5994"
 old_path: /news/5994/violent-gloucester-road-mugging-video-released
-redirect_from:
+aliases:
  - /news/5994/violent-gloucester-road-mugging-video-released
 category: news
 

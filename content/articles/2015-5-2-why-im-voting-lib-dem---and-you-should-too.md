@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-02 16:11:11 +0100"
 id: "5485"
 old_path: /comment/5485/why-im-voting-lib-dem---and-you-should-too
-redirect_from:
+aliases:
  - /comment/5485/why-im-voting-lib-dem---and-you-should-too
 category: comment
 

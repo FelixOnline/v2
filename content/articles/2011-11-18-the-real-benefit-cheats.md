@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-18 00:55:44 +0000"
 id: "1800"
 old_path: /comment/1800/the-real-benefit-cheats
-redirect_from:
+aliases:
  - /comment/1800/the-real-benefit-cheats
 category: comment
 

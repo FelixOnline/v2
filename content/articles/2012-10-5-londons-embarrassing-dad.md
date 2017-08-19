@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:44:23 +0100"
 id: "2617"
 old_path: /comment/2617/londons-embarrassing-dad
-redirect_from:
+aliases:
  - /comment/2617/londons-embarrassing-dad
 category: comment
 

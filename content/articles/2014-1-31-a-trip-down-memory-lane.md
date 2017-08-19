@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:35:29 +0000"
 id: "4316"
 old_path: /science/4316/a-trip-down-memory-lane
-redirect_from:
+aliases:
  - /science/4316/a-trip-down-memory-lane
 category: science
 

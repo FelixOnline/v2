@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:36:31 +0000"
 id: "5153"
 old_path: /news/5153/coursework-might-be-nullified-over-plagiarism
-redirect_from:
+aliases:
  - /news/5153/coursework-might-be-nullified-over-plagiarism
 category: news
 

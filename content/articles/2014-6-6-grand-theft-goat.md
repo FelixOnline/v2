@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:53:14 +0100"
 id: "4668"
 old_path: /games/4668/grand-theft-goat
-redirect_from:
+aliases:
  - /games/4668/grand-theft-goat
 category: games
 

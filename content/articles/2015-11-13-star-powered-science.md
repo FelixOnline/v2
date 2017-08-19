@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:37:23 +0000"
 id: "5729"
 old_path: /science/5729/star-powered-science
-redirect_from:
+aliases:
  - /science/5729/star-powered-science
 category: science
 

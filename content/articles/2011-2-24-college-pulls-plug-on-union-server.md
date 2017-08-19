@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:37:14 +0000"
 id: "863"
 old_path: /news/863/college-pulls-plug-on-union-server
-redirect_from:
+aliases:
  - /news/863/college-pulls-plug-on-union-server
 category: news
 

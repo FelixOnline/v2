@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:30:38 +0100"
 id: "2628"
 old_path: /sport/2628/preparing-for-winter-by-becoming-an-ironman
-redirect_from:
+aliases:
  - /sport/2628/preparing-for-winter-by-becoming-an-ironman
 category: sport
 

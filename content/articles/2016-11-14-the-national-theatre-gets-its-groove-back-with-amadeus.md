@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:16:47 +0000"
 id: "6446"
 old_path: /arts/6446/the-national-theatre-gets-its-groove-back-with-amadeus
-redirect_from:
+aliases:
  - /arts/6446/the-national-theatre-gets-its-groove-back-with-amadeus
 category: arts
 

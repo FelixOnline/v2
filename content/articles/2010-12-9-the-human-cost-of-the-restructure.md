@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:53:50 +0000"
 id: "543"
 old_path: /news/543/the-human-cost-of-the-restructure
-redirect_from:
+aliases:
  - /news/543/the-human-cost-of-the-restructure
 category: news
 

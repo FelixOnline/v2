@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:40:14 +0000"
 id: "865"
 old_path: /news/865/sherfield-natwest-to-close-in-may
-redirect_from:
+aliases:
  - /news/865/sherfield-natwest-to-close-in-may
 category: news
 

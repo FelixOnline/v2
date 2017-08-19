@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:02:06 +0000"
 id: "4220"
 old_path: /news/4220/alan-turing-pardoned-at-christmas
-redirect_from:
+aliases:
  - /news/4220/alan-turing-pardoned-at-christmas
 category: news
 

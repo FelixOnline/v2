@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:14:07 +0100"
 id: "2458"
 old_path: /news/2458/cold-fusionlondon-event-fails-to-reach-critical-mass
-redirect_from:
+aliases:
  - /news/2458/cold-fusionlondon-event-fails-to-reach-critical-mass
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:32:31 +0000"
 id: "4959"
 old_path: /news/4959/this-years-university-challenge-team-finalised
-redirect_from:
+aliases:
  - /news/4959/this-years-university-challenge-team-finalised
 category: news
 

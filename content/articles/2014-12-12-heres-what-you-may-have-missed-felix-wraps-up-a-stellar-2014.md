@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-12 13:01:10 +0000"
 id: "5050"
 old_path: /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
-redirect_from:
+aliases:
  - /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
 category: news
 

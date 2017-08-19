@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:27:31 +0100"
 id: "1157"
 old_path: /tech/1157/miles-ahead-and-still-racing
-redirect_from:
+aliases:
  - /tech/1157/miles-ahead-and-still-racing
 category: tech
 

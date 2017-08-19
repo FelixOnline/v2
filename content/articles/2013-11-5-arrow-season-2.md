@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:44:09 +0000"
 id: "4001"
 old_path: /tv/4001/arrow-season-2
-redirect_from:
+aliases:
  - /tv/4001/arrow-season-2
 category: tv
 

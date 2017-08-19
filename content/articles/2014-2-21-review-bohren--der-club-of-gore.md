@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:31:39 +0000"
 id: "4432"
 old_path: /music/4432/review-bohren--der-club-of-gore
-redirect_from:
+aliases:
  - /music/4432/review-bohren--der-club-of-gore
 category: music
 

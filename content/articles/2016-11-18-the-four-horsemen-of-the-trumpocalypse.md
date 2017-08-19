@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:40:54 +0000"
 id: "6460"
 old_path: /comment/6460/the-four-horsemen-of-the-trumpocalypse
-redirect_from:
+aliases:
  - /comment/6460/the-four-horsemen-of-the-trumpocalypse
 category: comment
 

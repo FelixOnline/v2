@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-21 20:30:16 +0000"
 id: "5108"
 old_path: /arts/5108/black-squares-a-century-of-celebration-triumph-and-tears
-redirect_from:
+aliases:
  - /arts/5108/black-squares-a-century-of-celebration-triumph-and-tears
 category: arts
 

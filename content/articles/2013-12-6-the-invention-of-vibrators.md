@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:12:44 +0000"
 id: "4192"
 old_path: /arts/4192/the-invention-of-vibrators
-redirect_from:
+aliases:
  - /arts/4192/the-invention-of-vibrators
 category: arts
 

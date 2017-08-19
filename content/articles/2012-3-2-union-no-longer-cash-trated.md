@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 01:11:10 +0000"
 id: "2303"
 old_path: /news/2303/union-no-longer-cash-trated
-redirect_from:
+aliases:
  - /news/2303/union-no-longer-cash-trated
 category: news
 

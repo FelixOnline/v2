@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:06:47 +0000"
 id: "649"
 old_path: /news/649/life-sciences-teaching-review-
-redirect_from:
+aliases:
  - /news/649/life-sciences-teaching-review-
 category: news
 

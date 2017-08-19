@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:54:32 +0000"
 id: "5456"
 old_path: /arts/5456/be-still-my-beating-heart
-redirect_from:
+aliases:
  - /arts/5456/be-still-my-beating-heart
 category: arts
 

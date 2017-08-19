@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-08 08:26:48 +0100"
 id: "2540"
 old_path: /news/2540/planning-permission-for-new-imperial-west-campus-delayed
-redirect_from:
+aliases:
  - /news/2540/planning-permission-for-new-imperial-west-campus-delayed
 category: news
 

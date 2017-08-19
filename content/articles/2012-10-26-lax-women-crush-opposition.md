@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:02:37 +0100"
 id: "2763"
 old_path: /sport/2763/lax-women-crush-opposition
-redirect_from:
+aliases:
  - /sport/2763/lax-women-crush-opposition
 category: sport
 

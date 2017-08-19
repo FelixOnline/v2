@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:31:15 +0000"
 id: "2275"
 old_path: /news/2275/the-life-of-death
-redirect_from:
+aliases:
  - /news/2275/the-life-of-death
 category: news
 

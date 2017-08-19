@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:33:51 +0000"
 id: "4127"
 old_path: /tv/4127/the-fang-tom-menace
-redirect_from:
+aliases:
  - /tv/4127/the-fang-tom-menace
 category: tv
 

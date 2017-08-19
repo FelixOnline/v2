@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:49:49 +0100"
 id: "3804"
 old_path: /comment/3804/freshers-week-the-great-equaliser
-redirect_from:
+aliases:
  - /comment/3804/freshers-week-the-great-equaliser
 category: comment
 

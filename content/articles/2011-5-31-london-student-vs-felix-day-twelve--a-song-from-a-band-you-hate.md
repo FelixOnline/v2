@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-31 11:03:57 +0100"
 id: "1288"
 old_path: /music/1288/london-student-vs-felix-day-twelve--a-song-from-a-band-you-hate
-redirect_from:
+aliases:
  - /music/1288/london-student-vs-felix-day-twelve--a-song-from-a-band-you-hate
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:49:59 +0000"
 id: "2795"
 old_path: /arts/2795/turner-sur-prizes
-redirect_from:
+aliases:
  - /arts/2795/turner-sur-prizes
 category: arts
 

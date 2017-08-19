@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:52:46 +0000"
 id: "5973"
 old_path: /music/5973/a-foot-thumping-foray-into-modern-jazz
-redirect_from:
+aliases:
  - /music/5973/a-foot-thumping-foray-into-modern-jazz
 category: music
 

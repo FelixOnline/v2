@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:06:28 +0000"
 id: "4109"
 old_path: /comment/4109/the-role--responsibility-of-comment
-redirect_from:
+aliases:
  - /comment/4109/the-role--responsibility-of-comment
 category: comment
 

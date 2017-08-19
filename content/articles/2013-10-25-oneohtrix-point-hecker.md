@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:29:50 +0100"
 id: "3930"
 old_path: /music/3930/oneohtrix-point-hecker
-redirect_from:
+aliases:
  - /music/3930/oneohtrix-point-hecker
 category: music
 

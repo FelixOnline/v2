@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:15:20 +0000"
 id: "3010"
 old_path: /sport/3010/triathlon-climb-castle-combe
-redirect_from:
+aliases:
  - /sport/3010/triathlon-climb-castle-combe
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:40:03 +0100"
 id: "3840"
 old_path: /music/3840/no-age-an-object-live
-redirect_from:
+aliases:
  - /music/3840/no-age-an-object-live
 category: music
 

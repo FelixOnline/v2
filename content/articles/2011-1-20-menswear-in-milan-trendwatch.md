@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:46:05 +0000"
 id: "613"
 old_path: /fashion/613/menswear-in-milan-trendwatch-
-redirect_from:
+aliases:
  - /fashion/613/menswear-in-milan-trendwatch-
 category: fashion
 

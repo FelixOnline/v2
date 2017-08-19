@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 23:41:50 +0000"
 id: "5045"
 old_path: /sport/5045/liverpool-tiger-woods-and-doping--the-world-sport-column
-redirect_from:
+aliases:
  - /sport/5045/liverpool-tiger-woods-and-doping--the-world-sport-column
 category: sport
 

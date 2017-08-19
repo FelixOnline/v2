@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:39:46 +0100"
 id: "6198"
 old_path: /news/6198/david-nutt-talks-drugs-alcohol-and-research-funding
-redirect_from:
+aliases:
  - /news/6198/david-nutt-talks-drugs-alcohol-and-research-funding
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:23:10 +0000"
 id: "4425"
 old_path: /books/4425/singularity-sky
-redirect_from:
+aliases:
  - /books/4425/singularity-sky
 category: books
 

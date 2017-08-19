@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:09:31 +0100"
 id: "1303"
 old_path: /politics/1303/ratko-mladi-arrested
-redirect_from:
+aliases:
  - /politics/1303/ratko-mladi-arrested
 category: politics
 

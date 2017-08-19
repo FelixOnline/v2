@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:28:48 +0100"
 id: "2643"
 old_path: /arts/2643/superhuman
-redirect_from:
+aliases:
  - /arts/2643/superhuman
 category: arts
 

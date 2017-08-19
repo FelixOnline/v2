@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:13:55 +0000"
 id: "4364"
 old_path: /science/4364/crystallography-turns-100
-redirect_from:
+aliases:
  - /science/4364/crystallography-turns-100
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:08:31 +0000"
 id: "6566"
 old_path: /science/6566/does-this-look-burnt
-redirect_from:
+aliases:
  - /science/6566/does-this-look-burnt
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:48:13 +0000"
 id: "6009"
 old_path: /film/6009/the-top-three-car-chases-that-arent-in-fast--furious
-redirect_from:
+aliases:
  - /film/6009/the-top-three-car-chases-that-arent-in-fast--furious
 category: film
 

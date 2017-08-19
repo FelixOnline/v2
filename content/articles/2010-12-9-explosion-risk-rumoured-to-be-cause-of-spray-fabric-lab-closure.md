@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 22:04:27 +0000"
 id: "545"
 old_path: /news/545/explosion-risk-rumoured-to-be-cause-of-spray-fabric-lab-closure
-redirect_from:
+aliases:
  - /news/545/explosion-risk-rumoured-to-be-cause-of-spray-fabric-lab-closure
 category: news
 

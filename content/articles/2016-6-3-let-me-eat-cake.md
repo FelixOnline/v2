@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:32:35 +0100"
 id: "6243"
 old_path: /food/6243/let-me-eat-cake
-redirect_from:
+aliases:
  - /food/6243/let-me-eat-cake
 category: food
 

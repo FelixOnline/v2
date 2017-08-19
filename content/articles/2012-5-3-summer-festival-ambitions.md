@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:50:41 +0100"
 id: "2418"
 old_path: /travel/2418/summer-festival-ambitions
-redirect_from:
+aliases:
  - /travel/2418/summer-festival-ambitions
 category: travel
 

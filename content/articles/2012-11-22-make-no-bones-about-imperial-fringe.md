@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:03:49 +0000"
 id: "2924"
 old_path: /news/2924/make-no-bones-about-imperial-fringe
-redirect_from:
+aliases:
  - /news/2924/make-no-bones-about-imperial-fringe
 category: news
 

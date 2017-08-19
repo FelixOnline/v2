@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:36:03 +0000"
 id: "364"
 old_path: /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
-redirect_from:
+aliases:
  - /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
 category: comment
 

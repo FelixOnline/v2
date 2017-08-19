@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 01:49:21 +0100"
 id: "3806"
 old_path: /arts/3806/six-ideas-for-trafalgar-squares-fourth-plinth
-redirect_from:
+aliases:
  - /arts/3806/six-ideas-for-trafalgar-squares-fourth-plinth
 category: arts
 

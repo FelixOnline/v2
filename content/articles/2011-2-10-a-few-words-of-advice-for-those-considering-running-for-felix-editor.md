@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:00:51 +0000"
 id: "790"
 old_path: /comment/790/a-few-words-of-advice-for-those-considering-running-for-felix-editor
-redirect_from:
+aliases:
  - /comment/790/a-few-words-of-advice-for-those-considering-running-for-felix-editor
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:04:17 +0000"
 id: "2958"
 old_path: /comment/2958/virgins-quit-whining
-redirect_from:
+aliases:
  - /comment/2958/virgins-quit-whining
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:26:36 +0000"
 id: "2382"
 old_path: /music/2382/rhythm-is-the-ritalin
-redirect_from:
+aliases:
  - /music/2382/rhythm-is-the-ritalin
 category: music
 

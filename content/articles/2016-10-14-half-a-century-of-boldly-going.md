@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 10:30:03 +0100"
 id: "6334"
 old_path: /tv/6334/half-a-century-of-boldly-going
-redirect_from:
+aliases:
  - /tv/6334/half-a-century-of-boldly-going
 category: tv
 

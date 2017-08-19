@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:05:36 +0000"
 id: "734"
 old_path: /politics/734/the-arab-world-shakes-the-west-shifts-nervously
-redirect_from:
+aliases:
  - /politics/734/the-arab-world-shakes-the-west-shifts-nervously
 category: politics
 

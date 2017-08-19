@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 15:18:44 +0100"
 id: "3779"
 old_path: /books/3779/your-autumn-genre-literature-picks
-redirect_from:
+aliases:
  - /books/3779/your-autumn-genre-literature-picks
 category: books
 

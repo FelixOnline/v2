@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:45:26 +0100"
 id: "2721"
 old_path: /news/2721/more-con-men-by-campus
-redirect_from:
+aliases:
  - /news/2721/more-con-men-by-campus
 category: news
 

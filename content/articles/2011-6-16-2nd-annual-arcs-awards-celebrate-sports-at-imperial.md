@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 21:21:40 +0100"
 id: "1403"
 old_path: /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
-redirect_from:
+aliases:
  - /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
 category: sport
 

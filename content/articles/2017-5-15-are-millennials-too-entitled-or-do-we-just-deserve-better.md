@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 15:52:57 +0100"
 id: "6946"
 old_path: /comment/6946/are-millennials-too-entitled-or-do-we-just-deserve-better
-redirect_from:
+aliases:
  - /comment/6946/are-millennials-too-entitled-or-do-we-just-deserve-better
 category: comment
 

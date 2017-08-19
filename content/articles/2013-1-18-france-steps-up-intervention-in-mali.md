@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:28:23 +0000"
 id: "3133"
 old_path: /politics/3133/france-steps-up-intervention-in-mali
-redirect_from:
+aliases:
  - /politics/3133/france-steps-up-intervention-in-mali
 category: politics
 

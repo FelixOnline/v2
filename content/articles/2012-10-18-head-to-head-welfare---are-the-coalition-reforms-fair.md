@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:19:05 +0100"
 id: "2699"
 old_path: /comment/2699/head-to-head-welfare---are-the-coalition-reforms-fair
-redirect_from:
+aliases:
  - /comment/2699/head-to-head-welfare---are-the-coalition-reforms-fair
 category: comment
 

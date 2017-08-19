@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:25:00 +0100"
 id: "1156"
 old_path: /tech/1156/asus-eee-slate
-redirect_from:
+aliases:
  - /tech/1156/asus-eee-slate
 category: tech
 

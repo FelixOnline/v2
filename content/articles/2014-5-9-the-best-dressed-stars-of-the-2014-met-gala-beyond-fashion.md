@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:03:17 +0100"
 id: "4582"
 old_path: /fashion/4582/the-best-dressed-stars-of-the-2014-met-gala-beyond-fashion
-redirect_from:
+aliases:
  - /fashion/4582/the-best-dressed-stars-of-the-2014-met-gala-beyond-fashion
 category: fashion
 

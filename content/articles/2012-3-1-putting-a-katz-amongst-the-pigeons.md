@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:43:46 +0000"
 id: "2289"
 old_path: /biz/2289/putting-a-katz-amongst-the-pigeons
-redirect_from:
+aliases:
  - /biz/2289/putting-a-katz-amongst-the-pigeons
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-09-27 18:28:01 +0100"
 id: "5653"
 old_path: /comment/5653/why-ill-be-protesting-tomorrow
-redirect_from:
+aliases:
  - /comment/5653/why-ill-be-protesting-tomorrow
 category: comment
 

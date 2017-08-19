@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:48:38 +0100"
 id: "5616"
 old_path: /news/5616/students-frustrated-over-impossible-physics-exam-question
-redirect_from:
+aliases:
  - /news/5616/students-frustrated-over-impossible-physics-exam-question
 category: news
 

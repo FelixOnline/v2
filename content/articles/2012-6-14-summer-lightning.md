@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:52:22 +0100"
 id: "2571"
 old_path: /phoenix/2571/summer-lightning
-redirect_from:
+aliases:
  - /phoenix/2571/summer-lightning
 category: phoenix
 

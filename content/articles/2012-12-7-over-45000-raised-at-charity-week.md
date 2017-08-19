@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:02:07 +0000"
 id: "3029"
 old_path: /news/3029/over-45000-raised-at-charity-week
-redirect_from:
+aliases:
  - /news/3029/over-45000-raised-at-charity-week
 category: news
 

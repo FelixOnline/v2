@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 16:35:55 +0000"
 id: "2880"
 old_path: /games/2880/strike-team-sent-to-upset-ucl-mission-successful
-redirect_from:
+aliases:
  - /games/2880/strike-team-sent-to-upset-ucl-mission-successful
 category: games
 

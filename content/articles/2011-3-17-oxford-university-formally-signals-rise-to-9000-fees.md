@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:59:13 +0000"
 id: "1098"
 old_path: /news/1098/oxford-university-formally-signals-rise-to-9000-fees
-redirect_from:
+aliases:
  - /news/1098/oxford-university-formally-signals-rise-to-9000-fees
 category: news
 

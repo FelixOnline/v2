@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 10:01:26 +0000"
 id: "4041"
 old_path: /film/4041/the-return-of-the-australian-norse-god
-redirect_from:
+aliases:
  - /film/4041/the-return-of-the-australian-norse-god
 category: film
 

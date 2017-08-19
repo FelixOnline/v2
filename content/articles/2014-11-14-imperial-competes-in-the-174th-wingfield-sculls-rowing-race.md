@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:25:02 +0000"
 id: "4895"
 old_path: /sport/4895/imperial-competes-in-the-174th-wingfield-sculls-rowing-race
-redirect_from:
+aliases:
  - /sport/4895/imperial-competes-in-the-174th-wingfield-sculls-rowing-race
 category: sport
 

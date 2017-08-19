@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:31:21 +0000"
 id: "1779"
 old_path: /music/1779/apocalypse-at-the-union
-redirect_from:
+aliases:
  - /music/1779/apocalypse-at-the-union
 category: music
 

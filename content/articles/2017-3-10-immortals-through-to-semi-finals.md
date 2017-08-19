@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:49:30 +0000"
 id: "6892"
 old_path: /sport/6892/immortals-through-to-semi-finals
-redirect_from:
+aliases:
  - /sport/6892/immortals-through-to-semi-finals
 category: sport
 

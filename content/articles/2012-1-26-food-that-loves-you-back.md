@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 21:47:42 +0000"
 id: "2045"
 old_path: /food/2045/food-that-loves-you-back
-redirect_from:
+aliases:
  - /food/2045/food-that-loves-you-back
 category: food
 

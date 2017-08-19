@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:43:41 +0000"
 id: "4825"
 old_path: /film/4825/annabelle
-redirect_from:
+aliases:
  - /film/4825/annabelle
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:54:23 +0000"
 id: "6467"
 old_path: /science/6467/going-back-to-the-future-in-style
-redirect_from:
+aliases:
  - /science/6467/going-back-to-the-future-in-style
 category: science
 

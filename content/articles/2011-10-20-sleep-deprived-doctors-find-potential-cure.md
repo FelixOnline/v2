@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 20:42:20 +0100"
 id: "1557"
 old_path: /science/1557/sleep-deprived-doctors-find-potential-cure
-redirect_from:
+aliases:
  - /science/1557/sleep-deprived-doctors-find-potential-cure
 category: science
 

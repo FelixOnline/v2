@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:44:42 +0000"
 id: "6810"
 old_path: /news/6810/imperial-to-go-smoke-free
-redirect_from:
+aliases:
  - /news/6810/imperial-to-go-smoke-free
 category: news
 

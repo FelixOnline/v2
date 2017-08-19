@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:00:21 +0000"
 id: "6725"
 old_path: /arts/6725/wish-list--a-harrowing-portrait-of-zero-hours-contracts
-redirect_from:
+aliases:
  - /arts/6725/wish-list--a-harrowing-portrait-of-zero-hours-contracts
 category: arts
 

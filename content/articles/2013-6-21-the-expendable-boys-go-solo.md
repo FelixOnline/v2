@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:27:57 +0100"
 id: "3733"
 old_path: /film/3733/the-expendable-boys-go-solo
-redirect_from:
+aliases:
  - /film/3733/the-expendable-boys-go-solo
 category: film
 

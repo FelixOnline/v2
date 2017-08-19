@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:05:44 +0000"
 id: "662"
 old_path: /science/662/when-the-skies-became-green-
-redirect_from:
+aliases:
  - /science/662/when-the-skies-became-green-
 category: science
 

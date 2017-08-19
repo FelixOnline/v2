@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 14:58:40 +0100"
 id: "6971"
 old_path: /news/6971/migrant-students-gain-financial-aid
-redirect_from:
+aliases:
  - /news/6971/migrant-students-gain-financial-aid
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:24:41 +0000"
 id: "362"
 old_path: /music/362/techno-nonsense-night-slugs
-redirect_from:
+aliases:
  - /music/362/techno-nonsense-night-slugs
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:51:16 +0100"
 id: "3842"
 old_path: /film/3842/only-do-what-your-heart-tells-you
-redirect_from:
+aliases:
  - /film/3842/only-do-what-your-heart-tells-you
 category: film
 

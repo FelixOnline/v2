@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:26:04 +0100"
 id: "2614"
 old_path: /film/2614/the-best-films-from-the-1940s
-redirect_from:
+aliases:
  - /film/2614/the-best-films-from-the-1940s
 category: film
 

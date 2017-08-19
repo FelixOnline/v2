@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 18:28:06 +0000"
 id: "6442"
 old_path: /music/6442/so-long-forever--palace
-redirect_from:
+aliases:
  - /music/6442/so-long-forever--palace
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:46:52 +0000"
 id: "869"
 old_path: /news/869/kendall-criticises-teaching-review
-redirect_from:
+aliases:
  - /news/869/kendall-criticises-teaching-review
 category: news
 

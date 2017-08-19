@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:49:28 +0100"
 id: "6997"
 old_path: /news/6997/atomic-funding-pours-into-imperial
-redirect_from:
+aliases:
  - /news/6997/atomic-funding-pours-into-imperial
 category: news
 

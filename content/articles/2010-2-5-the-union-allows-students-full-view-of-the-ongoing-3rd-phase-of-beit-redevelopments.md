@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-05 15:42:16 +0000"
 id: "77"
 old_path: /news/77/the-union-allows-students-full-view-of-the-ongoing-3rd-phase-of-beit-redevelopments
-redirect_from:
+aliases:
  - /news/77/the-union-allows-students-full-view-of-the-ongoing-3rd-phase-of-beit-redevelopments
 category: news
 

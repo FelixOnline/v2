@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 08:28:16 +0000"
 id: "994"
 old_path: /sport/994/volleyball-destroy-southampton
-redirect_from:
+aliases:
  - /sport/994/volleyball-destroy-southampton
 category: sport
 

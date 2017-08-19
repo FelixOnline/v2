@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-24 11:14:14 +0100"
 id: "1135"
 old_path: /comment/1135/i-dont-hate-the-royals-i-just-dont-care
-redirect_from:
+aliases:
  - /comment/1135/i-dont-hate-the-royals-i-just-dont-care
 category: comment
 

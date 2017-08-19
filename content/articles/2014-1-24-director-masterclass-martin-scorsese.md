@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:11:38 +0000"
 id: "4297"
 old_path: /film/4297/director-masterclass-martin-scorsese
-redirect_from:
+aliases:
  - /film/4297/director-masterclass-martin-scorsese
 category: film
 

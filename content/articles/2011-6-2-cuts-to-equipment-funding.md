@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:14:03 +0100"
 id: "1293"
 old_path: /news/1293/cuts-to-equipment-funding
-redirect_from:
+aliases:
  - /news/1293/cuts-to-equipment-funding
 category: news
 

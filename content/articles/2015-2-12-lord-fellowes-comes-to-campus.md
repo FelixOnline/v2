@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 20:44:27 +0000"
 id: "5232"
 old_path: /news/5232/lord-fellowes-comes-to-campus
-redirect_from:
+aliases:
  - /news/5232/lord-fellowes-comes-to-campus
 category: news
 

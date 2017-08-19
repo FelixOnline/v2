@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:17:02 +0000"
 id: "6667"
 old_path: /tv/6667/a-series-of-final-problems--sherlock
-redirect_from:
+aliases:
  - /tv/6667/a-series-of-final-problems--sherlock
 category: tv
 

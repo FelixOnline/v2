@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-09-15 17:12:07 +0100"
 id: "156"
 old_path: /arts/156/youve-gotta-ask-yourself-one-question-do-i-feel-lucky-well-do-ya-punk
-redirect_from:
+aliases:
  - /arts/156/youve-gotta-ask-yourself-one-question-do-i-feel-lucky-well-do-ya-punk
 category: arts
 

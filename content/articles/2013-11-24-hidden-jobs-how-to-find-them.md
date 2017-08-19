@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 23:58:33 +0000"
 id: "4135"
 old_path: /features/4135/hidden-jobs-how-to-find-them
-redirect_from:
+aliases:
  - /features/4135/hidden-jobs-how-to-find-them
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-16 19:22:26 +0000"
 id: "6894"
 old_path: /sex/6894/the-felix-sex-survey-2017-callmedaddy
-redirect_from:
+aliases:
  - /sex/6894/the-felix-sex-survey-2017-callmedaddy
 category: sex
 

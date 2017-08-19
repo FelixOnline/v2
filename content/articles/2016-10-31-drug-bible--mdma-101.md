@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 23:02:47 +0000"
 id: "6371"
 old_path: /millennials/6371/drug-bible--mdma-101
-redirect_from:
+aliases:
  - /millennials/6371/drug-bible--mdma-101
 category: millennials
 

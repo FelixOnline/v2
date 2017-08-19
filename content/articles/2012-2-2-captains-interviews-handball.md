@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 22:59:09 +0000"
 id: "2104"
 old_path: /sport/2104/captains-interviews-handball
-redirect_from:
+aliases:
  - /sport/2104/captains-interviews-handball
 category: sport
 

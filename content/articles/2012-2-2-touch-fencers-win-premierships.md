@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:10:07 +0000"
 id: "2106"
 old_path: /sport/2106/touch-fencers-win-premierships
-redirect_from:
+aliases:
  - /sport/2106/touch-fencers-win-premierships
 category: sport
 

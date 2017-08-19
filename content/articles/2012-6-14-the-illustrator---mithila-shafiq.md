@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:33:04 +0100"
 id: "2567"
 old_path: /phoenix/2567/the-illustrator---mithila-shafiq
-redirect_from:
+aliases:
  - /phoenix/2567/the-illustrator---mithila-shafiq
 category: phoenix
 

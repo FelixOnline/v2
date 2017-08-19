@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:42:18 +0100"
 id: "2650"
 old_path: /science/2650/battles-of-science-and-ethics
-redirect_from:
+aliases:
  - /science/2650/battles-of-science-and-ethics
 category: science
 

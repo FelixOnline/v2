@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:46:16 +0100"
 id: "4555"
 old_path: /tech/4555/how-to-get-into-ghostblogging
-redirect_from:
+aliases:
  - /tech/4555/how-to-get-into-ghostblogging
 category: tech
 

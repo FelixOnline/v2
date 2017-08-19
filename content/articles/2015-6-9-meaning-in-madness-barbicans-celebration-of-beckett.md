@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-09 11:59:52 +0100"
 id: "5605"
 old_path: /arts/5605/meaning-in-madness-barbicans-celebration-of-beckett
-redirect_from:
+aliases:
  - /arts/5605/meaning-in-madness-barbicans-celebration-of-beckett
 category: arts
 

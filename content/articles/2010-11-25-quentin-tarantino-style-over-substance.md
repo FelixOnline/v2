@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 19:56:32 +0000"
 id: "423"
 old_path: /film/423/quentin-tarantino-style-over-substance
-redirect_from:
+aliases:
  - /film/423/quentin-tarantino-style-over-substance
 category: film
 

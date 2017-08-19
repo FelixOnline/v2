@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:23:28 +0000"
 id: "6867"
 old_path: /features/6867/higher-education-faces-depression-epidemic
-redirect_from:
+aliases:
  - /features/6867/higher-education-faces-depression-epidemic
 category: features
 

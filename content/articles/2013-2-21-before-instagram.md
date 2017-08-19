@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 20:59:36 +0000"
 id: "3345"
 old_path: /arts/3345/before-instagram-
-redirect_from:
+aliases:
  - /arts/3345/before-instagram-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:20:21 +0000"
 id: "6493"
 old_path: /news/6493/unions-three-year-strategy-proposal
-redirect_from:
+aliases:
  - /news/6493/unions-three-year-strategy-proposal
 category: news
 

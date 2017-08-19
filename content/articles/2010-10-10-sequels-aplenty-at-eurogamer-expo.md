@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:53:40 +0100"
 id: "195"
 old_path: /games/195/sequels-aplenty-at-eurogamer-expo
-redirect_from:
+aliases:
  - /games/195/sequels-aplenty-at-eurogamer-expo
 category: games
 

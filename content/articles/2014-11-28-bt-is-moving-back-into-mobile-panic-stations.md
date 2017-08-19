@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:50:52 +0000"
 id: "4967"
 old_path: /comment/4967/bt-is-moving-back-into-mobile-panic-stations
-redirect_from:
+aliases:
  - /comment/4967/bt-is-moving-back-into-mobile-panic-stations
 category: comment
 

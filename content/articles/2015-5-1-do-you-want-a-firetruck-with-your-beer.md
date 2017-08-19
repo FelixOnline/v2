@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:34:33 +0100"
 id: "5483"
 old_path: /features/5483/do-you-want-a-firetruck-with-your-beer
-redirect_from:
+aliases:
  - /features/5483/do-you-want-a-firetruck-with-your-beer
 category: features
 

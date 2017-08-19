@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-08 03:17:59 +0100"
 id: "3818"
 old_path: /food/3818/what-does-gousto-mean
-redirect_from:
+aliases:
  - /food/3818/what-does-gousto-mean
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 10:59:34 +0100"
 id: "4702"
 old_path: /news/4702/whats-happened-to-the-aldwych-group
-redirect_from:
+aliases:
  - /news/4702/whats-happened-to-the-aldwych-group
 category: news
 

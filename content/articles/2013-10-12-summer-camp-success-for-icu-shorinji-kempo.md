@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 20:21:53 +0100"
 id: "3868"
 old_path: /sport/3868/summer-camp-success-for-icu-shorinji-kempo
-redirect_from:
+aliases:
  - /sport/3868/summer-camp-success-for-icu-shorinji-kempo
 category: sport
 

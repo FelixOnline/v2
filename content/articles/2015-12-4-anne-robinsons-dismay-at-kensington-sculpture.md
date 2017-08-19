@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-04 15:11:52 +0000"
 id: "5791"
 old_path: /news/5791/anne-robinsons-dismay-at-kensington-sculpture
-redirect_from:
+aliases:
  - /news/5791/anne-robinsons-dismay-at-kensington-sculpture
 category: news
 

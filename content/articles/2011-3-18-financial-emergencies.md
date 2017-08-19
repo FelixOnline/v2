@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 08:58:23 +0000"
 id: "1116"
 old_path: /news/1116/financial-emergencies
-redirect_from:
+aliases:
  - /news/1116/financial-emergencies
 category: news
 

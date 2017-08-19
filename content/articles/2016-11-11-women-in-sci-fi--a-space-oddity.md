@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:44:59 +0000"
 id: "6420"
 old_path: /film/6420/women-in-sci-fi--a-space-oddity
-redirect_from:
+aliases:
  - /film/6420/women-in-sci-fi--a-space-oddity
 category: film
 

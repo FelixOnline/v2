@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-15 11:21:11 +0000"
 id: "5827"
 old_path: /news/5827/tube-drivers-to-strike-in-two-weeks
-redirect_from:
+aliases:
  - /news/5827/tube-drivers-to-strike-in-two-weeks
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:13:10 +0000"
 id: "6473"
 old_path: /arts/6473/james-joyce--dubliners
-redirect_from:
+aliases:
  - /arts/6473/james-joyce--dubliners
 category: arts
 

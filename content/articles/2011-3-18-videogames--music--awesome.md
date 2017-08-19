@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 08:48:49 +0000"
 id: "1115"
 old_path: /music/1115/videogames--music--awesome-
-redirect_from:
+aliases:
  - /music/1115/videogames--music--awesome-
 category: music
 

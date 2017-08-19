@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 21:55:30 +0000"
 id: "2983"
 old_path: /news/2983/clubs-with-wordpress-sites-need-to-upgrade-or-be-hacked-intense
-redirect_from:
+aliases:
  - /news/2983/clubs-with-wordpress-sites-need-to-upgrade-or-be-hacked-intense
 category: news
 

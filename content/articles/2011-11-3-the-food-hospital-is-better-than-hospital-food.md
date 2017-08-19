@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:30:51 +0000"
 id: "1668"
 old_path: /tv/1668/the-food-hospital-is-better-than-hospital-food
-redirect_from:
+aliases:
  - /tv/1668/the-food-hospital-is-better-than-hospital-food
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-09-01 15:59:31 +0100"
 id: "154"
 old_path: /arts/154/hayward-gallerys-summer-exhibition
-redirect_from:
+aliases:
  - /arts/154/hayward-gallerys-summer-exhibition
 category: arts
 

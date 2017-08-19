@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:38:50 +0000"
 id: "2259"
 old_path: /news/2259/singapore-societys-solemates
-redirect_from:
+aliases:
  - /news/2259/singapore-societys-solemates
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 00:08:00 +0100"
 id: "1468"
 old_path: /news/1468/stolen-medic-mascot-scandal
-redirect_from:
+aliases:
  - /news/1468/stolen-medic-mascot-scandal
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:58:00 +0000"
 id: "6069"
 old_path: /film/6069/the-top-three-murder-mysteries-that-arent-rear-window
-redirect_from:
+aliases:
  - /film/6069/the-top-three-murder-mysteries-that-arent-rear-window
 category: film
 

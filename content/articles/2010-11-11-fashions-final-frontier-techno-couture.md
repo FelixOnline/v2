@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:33:22 +0000"
 id: "339"
 old_path: /fashion/339/fashions-final-frontier-techno-couture
-redirect_from:
+aliases:
  - /fashion/339/fashions-final-frontier-techno-couture
 category: fashion
 

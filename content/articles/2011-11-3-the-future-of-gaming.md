@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:01:17 +0000"
 id: "1678"
 old_path: /games/1678/the-future-of-gaming
-redirect_from:
+aliases:
  - /games/1678/the-future-of-gaming
 category: games
 

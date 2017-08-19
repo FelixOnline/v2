@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 14:52:43 +0000"
 id: "6656"
 old_path: /news/6656/vigil-held-at-iranian-embasssy
-redirect_from:
+aliases:
  - /news/6656/vigil-held-at-iranian-embasssy
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:44:09 +0000"
 id: "5059"
 old_path: /arts/5059/helix-a-marriage-of-design-and-health
-redirect_from:
+aliases:
  - /arts/5059/helix-a-marriage-of-design-and-health
 category: arts
 

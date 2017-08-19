@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:21:20 +0100"
 id: "5520"
 old_path: /news/5520/amazon-soon-to-deliver-to-sherfield
-redirect_from:
+aliases:
  - /news/5520/amazon-soon-to-deliver-to-sherfield
 category: news
 

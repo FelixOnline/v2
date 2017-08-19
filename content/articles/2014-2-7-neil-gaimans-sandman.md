@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:50:45 +0000"
 id: "4348"
 old_path: /books/4348/neil-gaimans-sandman
-redirect_from:
+aliases:
  - /books/4348/neil-gaimans-sandman
 category: books
 

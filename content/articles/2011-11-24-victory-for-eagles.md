@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:44:01 +0000"
 id: "1852"
 old_path: /sport/1852/victory-for-eagles
-redirect_from:
+aliases:
  - /sport/1852/victory-for-eagles
 category: sport
 

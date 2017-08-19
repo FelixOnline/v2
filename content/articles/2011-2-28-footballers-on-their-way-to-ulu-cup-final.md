@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:54:18 +0000"
 id: "937"
 old_path: /sport/937/footballers-on-their-way-to-ulu-cup-final
-redirect_from:
+aliases:
  - /sport/937/footballers-on-their-way-to-ulu-cup-final
 category: sport
 

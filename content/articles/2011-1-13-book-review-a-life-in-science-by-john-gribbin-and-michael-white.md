@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:18:43 +0000"
 id: "578"
 old_path: /science/578/book-review-a-life-in-science-by-john-gribbin-and-michael-white
-redirect_from:
+aliases:
  - /science/578/book-review-a-life-in-science-by-john-gribbin-and-michael-white
 category: science
 

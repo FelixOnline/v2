@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:01:57 +0000"
 id: "6073"
 old_path: /tv/6073/the-future-of-netflix
-redirect_from:
+aliases:
  - /tv/6073/the-future-of-netflix
 category: tv
 

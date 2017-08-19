@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:34:53 +0000"
 id: "777"
 old_path: /tech/777/to-protect-and-charge-the-juice-pack-air
-redirect_from:
+aliases:
  - /tech/777/to-protect-and-charge-the-juice-pack-air
 category: tech
 

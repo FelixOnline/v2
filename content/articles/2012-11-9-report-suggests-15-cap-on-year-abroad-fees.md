@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:13:19 +0000"
 id: "2834"
 old_path: /news/2834/report-suggests-15-cap-on-year-abroad-fees
-redirect_from:
+aliases:
  - /news/2834/report-suggests-15-cap-on-year-abroad-fees
 category: news
 

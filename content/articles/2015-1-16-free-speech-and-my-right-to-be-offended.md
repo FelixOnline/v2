@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:24:41 +0000"
 id: "5098"
 old_path: /comment/5098/free-speech-and-my-right-to-be-offended
-redirect_from:
+aliases:
  - /comment/5098/free-speech-and-my-right-to-be-offended
 category: comment
 

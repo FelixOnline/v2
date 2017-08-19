@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:59:22 +0100"
 id: "286"
 old_path: /news/286/government-rejects-browne-review
-redirect_from:
+aliases:
  - /news/286/government-rejects-browne-review
 category: news
 

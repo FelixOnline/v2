@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:55:23 +0000"
 id: "2294"
 old_path: /games/2294/a-questionable-lifestyle
-redirect_from:
+aliases:
  - /games/2294/a-questionable-lifestyle
 category: games
 

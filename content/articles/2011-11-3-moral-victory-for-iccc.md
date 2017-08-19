@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 22:16:43 +0000"
 id: "1701"
 old_path: /sport/1701/moral-victory-for-iccc
-redirect_from:
+aliases:
  - /sport/1701/moral-victory-for-iccc
 category: sport
 

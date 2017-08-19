@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:48:26 +0100"
 id: "5536"
 old_path: /cands/5536/ladz-on-tour-in-record-numbers
-redirect_from:
+aliases:
  - /cands/5536/ladz-on-tour-in-record-numbers
 category: clubs-and-socs
 

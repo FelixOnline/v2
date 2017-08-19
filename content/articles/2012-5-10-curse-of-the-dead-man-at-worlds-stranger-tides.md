@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:26:39 +0100"
 id: "2448"
 old_path: /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
-redirect_from:
+aliases:
  - /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
 category: film
 

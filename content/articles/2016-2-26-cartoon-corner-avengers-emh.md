@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:54:48 +0000"
 id: "5975"
 old_path: /tv/5975/cartoon-corner-avengers-emh
-redirect_from:
+aliases:
  - /tv/5975/cartoon-corner-avengers-emh
 category: tv
 

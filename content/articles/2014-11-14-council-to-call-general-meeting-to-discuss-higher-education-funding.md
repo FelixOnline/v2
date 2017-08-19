@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 19:56:14 +0000"
 id: "4860"
 old_path: /news/4860/council-to-call-general-meeting-to-discuss-higher-education-funding
-redirect_from:
+aliases:
  - /news/4860/council-to-call-general-meeting-to-discuss-higher-education-funding
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 11:58:42 +0000"
 id: "6562"
 old_path: /news/6562/ongoing-investigation-into-acton-stabbing
-redirect_from:
+aliases:
  - /news/6562/ongoing-investigation-into-acton-stabbing
 category: news
 

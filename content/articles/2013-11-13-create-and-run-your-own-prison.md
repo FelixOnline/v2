@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 23:00:47 +0000"
 id: "4055"
 old_path: /games/4055/create-and-run-your-own-prison
-redirect_from:
+aliases:
  - /games/4055/create-and-run-your-own-prison
 category: games
 

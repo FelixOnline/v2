@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:35:20 +0100"
 id: "2749"
 old_path: /comment/2749/gategate-and-the-press-
-redirect_from:
+aliases:
  - /comment/2749/gategate-and-the-press-
 category: comment
 

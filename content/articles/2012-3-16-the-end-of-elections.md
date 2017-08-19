@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-16 01:41:07 +0000"
 id: "2401"
 old_path: /news/2401/the-end-of-elections
-redirect_from:
+aliases:
  - /news/2401/the-end-of-elections
 category: news
 

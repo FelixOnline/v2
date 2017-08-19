@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:41:02 +0000"
 id: "3138"
 old_path: /arts/3138/polar-oids
-redirect_from:
+aliases:
  - /arts/3138/polar-oids
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:23:08 +0000"
 id: "5803"
 old_path: /film/5803/radiator-is-a-delicate-finely-crafted-exploration-of-aging
-redirect_from:
+aliases:
  - /film/5803/radiator-is-a-delicate-finely-crafted-exploration-of-aging
 category: film
 

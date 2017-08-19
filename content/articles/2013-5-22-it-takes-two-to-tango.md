@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-22 14:24:51 +0100"
 id: "3595"
 old_path: /comment/3595/it-takes-two-to-tango-
-redirect_from:
+aliases:
  - /comment/3595/it-takes-two-to-tango-
 category: comment
 

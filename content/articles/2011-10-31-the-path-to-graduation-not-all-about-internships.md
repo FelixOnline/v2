@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-31 11:07:26 +0000"
 id: "1645"
 old_path: /comment/1645/the-path-to-graduation-not-all-about-internships
-redirect_from:
+aliases:
  - /comment/1645/the-path-to-graduation-not-all-about-internships
 category: comment
 

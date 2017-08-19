@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 18:37:43 +0000"
 id: "4383"
 old_path: /features/4383/tinder-tines-day
-redirect_from:
+aliases:
  - /features/4383/tinder-tines-day
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:14:59 +0000"
 id: "589"
 old_path: /comment/589/new-year-same-old-you-
-redirect_from:
+aliases:
  - /comment/589/new-year-same-old-you-
 category: comment
 

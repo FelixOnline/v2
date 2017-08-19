@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:29:56 +0000"
 id: "5452"
 old_path: /arts/5452/play-mas-fails-to-live-up-to-its-promise
-redirect_from:
+aliases:
  - /arts/5452/play-mas-fails-to-live-up-to-its-promise
 category: arts
 

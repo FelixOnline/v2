@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:35:38 +0000"
 id: "5130"
 old_path: /comment/5130/we-are-not-standing-up-for-free-speech
-redirect_from:
+aliases:
  - /comment/5130/we-are-not-standing-up-for-free-speech
 category: comment
 

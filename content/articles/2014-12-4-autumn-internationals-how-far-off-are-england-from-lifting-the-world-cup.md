@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:23:07 +0000"
 id: "5010"
 old_path: /sport/5010/autumn-internationals-how-far-off-are-england-from-lifting-the-world-cup
-redirect_from:
+aliases:
  - /sport/5010/autumn-internationals-how-far-off-are-england-from-lifting-the-world-cup
 category: sport
 

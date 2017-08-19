@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:58:42 +0000"
 id: "4947"
 old_path: /tech/4947/commercialisation-in-creative-technology
-redirect_from:
+aliases:
  - /tech/4947/commercialisation-in-creative-technology
 category: tech
 

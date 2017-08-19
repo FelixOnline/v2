@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:26:27 +0100"
 id: "6241"
 old_path: /games/6241/scratching-an-itch
-redirect_from:
+aliases:
  - /games/6241/scratching-an-itch
 category: games
 

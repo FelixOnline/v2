@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:27:42 +0000"
 id: "3178"
 old_path: /news/3178/academic-uprising-5-more-professors
-redirect_from:
+aliases:
  - /news/3178/academic-uprising-5-more-professors
 category: news
 

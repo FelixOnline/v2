@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:10:14 +0100"
 id: "4735"
 old_path: /news/4735/rcsu-ballin-in-moderation
-redirect_from:
+aliases:
  - /news/4735/rcsu-ballin-in-moderation
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 20:56:40 +0100"
 id: "2684"
 old_path: /arts/2684/gold-for-bronze
-redirect_from:
+aliases:
  - /arts/2684/gold-for-bronze
 category: arts
 

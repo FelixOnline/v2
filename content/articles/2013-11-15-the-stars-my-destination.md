@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 18:01:03 +0000"
 id: "4077"
 old_path: /books/4077/the-stars-my-destination
-redirect_from:
+aliases:
  - /books/4077/the-stars-my-destination
 category: books
 

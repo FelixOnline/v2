@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:30:07 +0000"
 id: "2847"
 old_path: /politics/2847/miliband-opens-debate-on-mental-health
-redirect_from:
+aliases:
  - /politics/2847/miliband-opens-debate-on-mental-health
 category: politics
 

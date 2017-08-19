@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:14:20 +0000"
 id: "2143"
 old_path: /tech/2143/etymotic-mc2-headset-review
-redirect_from:
+aliases:
  - /tech/2143/etymotic-mc2-headset-review
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:38:11 +0100"
 id: "5551"
 old_path: /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
-redirect_from:
+aliases:
  - /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
 category: features
 

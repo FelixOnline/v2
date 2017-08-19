@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 18:49:45 +0100"
 id: "1376"
 old_path: /news/1376/union-awards-honour-students
-redirect_from:
+aliases:
  - /news/1376/union-awards-honour-students
 category: news
 

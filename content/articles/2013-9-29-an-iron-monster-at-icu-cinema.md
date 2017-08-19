@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:04:55 +0100"
 id: "3785"
 old_path: /film/3785/an-iron-monster-at-icu-cinema
-redirect_from:
+aliases:
  - /film/3785/an-iron-monster-at-icu-cinema
 category: film
 

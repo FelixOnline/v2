@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 00:26:02 +0100"
 id: "5571"
 old_path: /politics/5571/our-future-as-told-by-her-majesty
-redirect_from:
+aliases:
  - /politics/5571/our-future-as-told-by-her-majesty
 category: politics
 

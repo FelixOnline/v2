@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 03:29:38 +0000"
 id: "4493"
 old_path: /news/4493/chemical-engineering-phd-receives-award
-redirect_from:
+aliases:
  - /news/4493/chemical-engineering-phd-receives-award
 category: news
 

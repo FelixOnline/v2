@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:08:10 +0000"
 id: "2027"
 old_path: /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
-redirect_from:
+aliases:
  - /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
 category: music
 

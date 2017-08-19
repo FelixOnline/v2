@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:35:13 +0000"
 id: "2930"
 old_path: /news/2930/new-research-centre-opens-at-imperial
-redirect_from:
+aliases:
  - /news/2930/new-research-centre-opens-at-imperial
 category: news
 

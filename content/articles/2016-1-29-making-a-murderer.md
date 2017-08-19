@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 10:02:21 +0000"
 id: "5857"
 old_path: /tv/5857/making-a-murderer
-redirect_from:
+aliases:
  - /tv/5857/making-a-murderer
 category: tv
 

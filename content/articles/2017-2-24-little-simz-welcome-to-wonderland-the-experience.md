@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:45:41 +0000"
 id: "6822"
 old_path: /music/6822/little-simz-welcome-to-wonderland-the-experience
-redirect_from:
+aliases:
  - /music/6822/little-simz-welcome-to-wonderland-the-experience
 category: music
 

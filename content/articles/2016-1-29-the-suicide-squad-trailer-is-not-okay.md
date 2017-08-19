@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:13:59 +0000"
 id: "5844"
 old_path: /film/5844/the-suicide-squad-trailer-is-not-okay
-redirect_from:
+aliases:
  - /film/5844/the-suicide-squad-trailer-is-not-okay
 category: film
 

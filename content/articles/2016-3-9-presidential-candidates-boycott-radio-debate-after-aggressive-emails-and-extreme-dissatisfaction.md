@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-09 19:02:53 +0000"
 id: "6015"
 old_path: /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
-redirect_from:
+aliases:
  - /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
 category: news
 

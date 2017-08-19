@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 21:17:28 +0100"
 id: "160"
 old_path: /arts/160/the-bluffers-guide-to-being-cultured
-redirect_from:
+aliases:
  - /arts/160/the-bluffers-guide-to-being-cultured
 category: arts
 

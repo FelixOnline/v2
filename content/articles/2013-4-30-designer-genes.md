@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 14:39:35 +0100"
 id: "3505"
 old_path: /arts/3505/designer-genes
-redirect_from:
+aliases:
  - /arts/3505/designer-genes
 category: arts
 

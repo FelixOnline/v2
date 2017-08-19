@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:10:22 +0100"
 id: "6276"
 old_path: /science/6276/is-vaginal-yoghurt-the-future
-redirect_from:
+aliases:
  - /science/6276/is-vaginal-yoghurt-the-future
 category: science
 

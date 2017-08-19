@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-11 22:23:15 +0000"
 id: "5231"
 old_path: /arts/5231/some-metatheatre-most-remarkable
-redirect_from:
+aliases:
  - /arts/5231/some-metatheatre-most-remarkable
 category: arts
 

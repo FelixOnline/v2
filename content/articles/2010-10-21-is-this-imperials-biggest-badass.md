@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:45:06 +0100"
 id: "250"
 old_path: /news/250/is-this-imperials-biggest-badass
-redirect_from:
+aliases:
  - /news/250/is-this-imperials-biggest-badass
 category: news
 

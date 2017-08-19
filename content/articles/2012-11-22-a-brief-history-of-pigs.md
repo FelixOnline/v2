@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:30:31 +0000"
 id: "2951"
 old_path: /science/2951/a-brief-history-of-pigs
-redirect_from:
+aliases:
  - /science/2951/a-brief-history-of-pigs
 category: science
 

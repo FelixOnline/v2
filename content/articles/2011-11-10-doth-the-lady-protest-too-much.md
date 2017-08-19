@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:24:09 +0000"
 id: "1711"
 old_path: /comment/1711/doth-the-lady-protest-too-much
-redirect_from:
+aliases:
  - /comment/1711/doth-the-lady-protest-too-much
 category: comment
 

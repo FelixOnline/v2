@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 03:25:38 +0000"
 id: "4372"
 old_path: /politics/4372/russia-and-the-situation-in-ukraine
-redirect_from:
+aliases:
  - /politics/4372/russia-and-the-situation-in-ukraine
 category: politics
 

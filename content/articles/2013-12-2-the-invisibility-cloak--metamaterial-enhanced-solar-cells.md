@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:52:28 +0000"
 id: "4157"
 old_path: /science/4157/the-invisibility-cloak--metamaterial-enhanced-solar-cells
-redirect_from:
+aliases:
  - /science/4157/the-invisibility-cloak--metamaterial-enhanced-solar-cells
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:58:39 +0000"
 id: "5187"
 old_path: /games/5187/3-space-sims-ready-for-lift-off
-redirect_from:
+aliases:
  - /games/5187/3-space-sims-ready-for-lift-off
 category: games
 

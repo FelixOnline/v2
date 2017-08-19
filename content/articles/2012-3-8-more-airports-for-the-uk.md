@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:52:51 +0000"
 id: "2320"
 old_path: /biz/2320/more-airports-for-the-uk
-redirect_from:
+aliases:
  - /biz/2320/more-airports-for-the-uk
 category: business
 

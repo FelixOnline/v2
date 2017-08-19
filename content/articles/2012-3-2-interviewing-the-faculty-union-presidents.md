@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 01:33:36 +0000"
 id: "2305"
 old_path: /news/2305/interviewing-the-faculty-union-presidents
-redirect_from:
+aliases:
  - /news/2305/interviewing-the-faculty-union-presidents
 category: news
 

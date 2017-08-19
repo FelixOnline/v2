@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 10:04:55 +0000"
 id: "4043"
 old_path: /tv/4043/its-country-music-yall
-redirect_from:
+aliases:
  - /tv/4043/its-country-music-yall
 category: tv
 

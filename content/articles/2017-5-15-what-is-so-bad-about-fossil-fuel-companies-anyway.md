@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 15:55:16 +0100"
 id: "6947"
 old_path: /comment/6947/what-is-so-bad-about-fossil-fuel-companies-anyway
-redirect_from:
+aliases:
  - /comment/6947/what-is-so-bad-about-fossil-fuel-companies-anyway
 category: comment
 

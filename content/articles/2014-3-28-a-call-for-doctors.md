@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-28 11:42:40 +0000"
 id: "4515"
 old_path: /features/4515/a-call-for-doctors
-redirect_from:
+aliases:
  - /features/4515/a-call-for-doctors
 category: features
 

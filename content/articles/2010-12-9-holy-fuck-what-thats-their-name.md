@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:26:29 +0000"
 id: "522"
 old_path: /music/522/holy-fuck-what-thats-their-name
-redirect_from:
+aliases:
  - /music/522/holy-fuck-what-thats-their-name
 category: music
 

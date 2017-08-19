@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 19:32:41 +0000"
 id: "998"
 old_path: /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
-redirect_from:
+aliases:
  - /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
 category: food
 

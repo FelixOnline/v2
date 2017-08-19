@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:00:08 +0000"
 id: "1977"
 old_path: /news/1977/imperial-and-ucl-celebrate-five-years-of-nanotechnology-research-
-redirect_from:
+aliases:
  - /news/1977/imperial-and-ucl-celebrate-five-years-of-nanotechnology-research-
 category: news
 

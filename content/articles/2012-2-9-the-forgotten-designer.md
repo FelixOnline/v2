@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:49:58 +0000"
 id: "2163"
 old_path: /fashion/2163/the-forgotten-designer
-redirect_from:
+aliases:
  - /fashion/2163/the-forgotten-designer
 category: fashion
 

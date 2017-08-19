@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-22 14:30:34 +0100"
 id: "3598"
 old_path: /science/3598/worlds-lightest-material-made
-redirect_from:
+aliases:
  - /science/3598/worlds-lightest-material-made
 category: science
 

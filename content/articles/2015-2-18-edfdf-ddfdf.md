@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-18 15:49:35 +0000"
 id: "5271"
 old_path: /politics/5271/edfdf-ddfdf
-redirect_from:
+aliases:
  - /politics/5271/edfdf-ddfdf
 category: politics
 

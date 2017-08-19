@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-30 17:28:50 +0000"
 id: "4755"
 old_path: /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
-redirect_from:
+aliases:
  - /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
 category: news
 

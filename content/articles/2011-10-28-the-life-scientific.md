@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:22:44 +0100"
 id: "1630"
 old_path: /science/1630/the-life-scientific
-redirect_from:
+aliases:
  - /science/1630/the-life-scientific
 category: science
 

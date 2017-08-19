@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:35:23 +0100"
 id: "1570"
 old_path: /biz/1570/qe-or-not-qe-that-is-the-question
-redirect_from:
+aliases:
  - /biz/1570/qe-or-not-qe-that-is-the-question
 category: business
 

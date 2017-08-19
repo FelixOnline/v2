@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:11:01 +0000"
 id: "2910"
 old_path: /politics/2910/all-around-the-world-elections
-redirect_from:
+aliases:
  - /politics/2910/all-around-the-world-elections
 category: politics
 

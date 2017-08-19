@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 11:03:28 +0100"
 id: "6335"
 old_path: /science/6335/how-safe-is-safe-sex
-redirect_from:
+aliases:
  - /science/6335/how-safe-is-safe-sex
 category: science
 

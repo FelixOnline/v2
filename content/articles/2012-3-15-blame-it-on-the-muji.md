@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:13:39 +0000"
 id: "2357"
 old_path: /arts/2357/blame-it-on-the-muji
-redirect_from:
+aliases:
  - /arts/2357/blame-it-on-the-muji
 category: arts
 

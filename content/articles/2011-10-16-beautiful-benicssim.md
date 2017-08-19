@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 15:08:10 +0100"
 id: "1550"
 old_path: /music/1550/beautiful-benicssim
-redirect_from:
+aliases:
  - /music/1550/beautiful-benicssim
 category: music
 

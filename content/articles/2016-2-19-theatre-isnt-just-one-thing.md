@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:15:30 +0000"
 id: "5940"
 old_path: /arts/5940/theatre-isnt-just-one-thing
-redirect_from:
+aliases:
  - /arts/5940/theatre-isnt-just-one-thing
 category: arts
 

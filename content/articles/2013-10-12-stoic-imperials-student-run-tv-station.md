@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 20:17:58 +0100"
 id: "3866"
 old_path: /features/3866/stoic-imperials-student-run-tv-station
-redirect_from:
+aliases:
  - /features/3866/stoic-imperials-student-run-tv-station
 category: features
 

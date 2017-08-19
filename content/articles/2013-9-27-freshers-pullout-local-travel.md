@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-27 23:20:58 +0100"
 id: "3763"
 old_path: /features/3763/freshers-pullout-local-travel
-redirect_from:
+aliases:
  - /features/3763/freshers-pullout-local-travel
 category: features
 

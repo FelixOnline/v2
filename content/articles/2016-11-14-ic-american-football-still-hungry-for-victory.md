@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:21:33 +0000"
 id: "6450"
 old_path: /sport/6450/ic-american-football-still-hungry-for-victory
-redirect_from:
+aliases:
  - /sport/6450/ic-american-football-still-hungry-for-victory
 category: sport
 

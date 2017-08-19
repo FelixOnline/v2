@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:22:12 +0000"
 id: "3404"
 old_path: /news/3404/a-problem-of-perception
-redirect_from:
+aliases:
  - /news/3404/a-problem-of-perception
 category: news
 

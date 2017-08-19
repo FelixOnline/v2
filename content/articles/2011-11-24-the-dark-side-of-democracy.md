@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:46:12 +0000"
 id: "1841"
 old_path: /comment/1841/the-dark-side-of-democracy
-redirect_from:
+aliases:
  - /comment/1841/the-dark-side-of-democracy
 category: comment
 

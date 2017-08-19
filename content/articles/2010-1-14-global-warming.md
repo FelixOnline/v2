@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 12:51:23 +0000"
 id: "24"
 old_path: /comment/24/global-warming
-redirect_from:
+aliases:
  - /comment/24/global-warming
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:50:40 +0000"
 id: "4090"
 old_path: /sport/4090/imperial-win-at-hillingdon-duathlon
-redirect_from:
+aliases:
  - /sport/4090/imperial-win-at-hillingdon-duathlon
 category: sport
 

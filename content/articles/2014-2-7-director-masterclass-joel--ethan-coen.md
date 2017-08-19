@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:43:42 +0000"
 id: "4343"
 old_path: /film/4343/director-masterclass-joel--ethan-coen
-redirect_from:
+aliases:
  - /film/4343/director-masterclass-joel--ethan-coen
 category: film
 

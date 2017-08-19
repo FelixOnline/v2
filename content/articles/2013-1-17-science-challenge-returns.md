@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:53:22 +0000"
 id: "3123"
 old_path: /news/3123/science-challenge-returns
-redirect_from:
+aliases:
  - /news/3123/science-challenge-returns
 category: news
 

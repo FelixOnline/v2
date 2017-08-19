@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 00:13:11 +0100"
 id: "5500"
 old_path: /news/5500/imperial-top-university-for-employment-prospects
-redirect_from:
+aliases:
  - /news/5500/imperial-top-university-for-employment-prospects
 category: news
 

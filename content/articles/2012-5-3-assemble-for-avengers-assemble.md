@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:33:08 +0100"
 id: "2414"
 old_path: /film/2414/assemble-for-avengers-assemble
-redirect_from:
+aliases:
  - /film/2414/assemble-for-avengers-assemble
 category: film
 

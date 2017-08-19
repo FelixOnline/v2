@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:10:14 +0100"
 id: "2431"
 old_path: /news/2431/pub-to-remain-on-level-0
-redirect_from:
+aliases:
  - /news/2431/pub-to-remain-on-level-0
 category: news
 

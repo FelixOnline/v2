@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 21:57:55 +0000"
 id: "2984"
 old_path: /news/2984/just-the-right-climate
-redirect_from:
+aliases:
  - /news/2984/just-the-right-climate
 category: news
 

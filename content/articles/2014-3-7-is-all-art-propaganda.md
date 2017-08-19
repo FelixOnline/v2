@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:56:49 +0000"
 id: "4461"
 old_path: /arts/4461/is-all-art-propaganda
-redirect_from:
+aliases:
  - /arts/4461/is-all-art-propaganda
 category: arts
 

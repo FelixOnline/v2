@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:33:57 +0000"
 id: "671"
 old_path: /fashion/671/boutique-du-jour-one-two-three
-redirect_from:
+aliases:
  - /fashion/671/boutique-du-jour-one-two-three
 category: fashion
 

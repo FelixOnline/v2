@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 18:29:42 +0100"
 id: "1248"
 old_path: /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
-redirect_from:
+aliases:
  - /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
 category: news
 

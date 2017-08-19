@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:04:34 +0000"
 id: "1880"
 old_path: /music/1880/kadhims-totally-hot-album-of-the-week-9
-redirect_from:
+aliases:
  - /music/1880/kadhims-totally-hot-album-of-the-week-9
 category: music
 

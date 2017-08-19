@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:09:17 +0000"
 id: "4838"
 old_path: /tv/4838/wir-sind-alle-freaks
-redirect_from:
+aliases:
  - /tv/4838/wir-sind-alle-freaks
 category: tv
 

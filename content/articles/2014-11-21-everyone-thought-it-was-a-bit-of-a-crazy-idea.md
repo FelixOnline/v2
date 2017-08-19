@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:34:21 +0000"
 id: "4932"
 old_path: /science/4932/everyone-thought-it-was-a-bit-of-a-crazy-idea
-redirect_from:
+aliases:
  - /science/4932/everyone-thought-it-was-a-bit-of-a-crazy-idea
 category: science
 

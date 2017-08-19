@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-22 14:29:09 +0100"
 id: "3597"
 old_path: /science/3597/cyborg-yeast-is-out-to-get-you
-redirect_from:
+aliases:
  - /science/3597/cyborg-yeast-is-out-to-get-you
 category: science
 

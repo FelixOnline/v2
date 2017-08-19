@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 13:30:46 +0000"
 id: "5180"
 old_path: /welfare/5180/overcoming-the-distance
-redirect_from:
+aliases:
  - /welfare/5180/overcoming-the-distance
 category: welfare
 

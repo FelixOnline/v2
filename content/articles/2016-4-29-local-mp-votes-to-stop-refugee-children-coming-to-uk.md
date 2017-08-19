@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:01:53 +0100"
 id: "6087"
 old_path: /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
-redirect_from:
+aliases:
  - /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
 category: news
 

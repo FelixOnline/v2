@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 13:58:55 +0000"
 id: "52"
 old_path: /comment/52/underwriting-as-a-hobby
-redirect_from:
+aliases:
  - /comment/52/underwriting-as-a-hobby
 category: comment
 

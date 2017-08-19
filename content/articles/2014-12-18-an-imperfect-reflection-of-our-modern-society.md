@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:41:59 +0000"
 id: "5058"
 old_path: /arts/5058/an-imperfect-reflection-of-our-modern-society
-redirect_from:
+aliases:
  - /arts/5058/an-imperfect-reflection-of-our-modern-society
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:44:40 +0000"
 id: "5732"
 old_path: /science/5732/lonely-wail-might-indicate-new-species-
-redirect_from:
+aliases:
  - /science/5732/lonely-wail-might-indicate-new-species-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 01:14:08 +0100"
 id: "1473"
 old_path: /sport/1473/city-and-guilds-7s-german-tour-a-success
-redirect_from:
+aliases:
  - /sport/1473/city-and-guilds-7s-german-tour-a-success
 category: sport
 

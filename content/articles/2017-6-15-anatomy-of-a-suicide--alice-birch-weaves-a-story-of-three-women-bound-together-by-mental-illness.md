@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-15 15:32:45 +0100"
 id: "7025"
 old_path: /arts/7025/anatomy-of-a-suicide--alice-birch-weaves-a-story-of-three-women-bound-together-by-mental-illness
-redirect_from:
+aliases:
  - /arts/7025/anatomy-of-a-suicide--alice-birch-weaves-a-story-of-three-women-bound-together-by-mental-illness
 category: arts
 

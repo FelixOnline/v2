@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:24:46 +0000"
 id: "3047"
 old_path: /arts/3047/minotaurs-and-major-excursions
-redirect_from:
+aliases:
  - /arts/3047/minotaurs-and-major-excursions
 category: arts
 

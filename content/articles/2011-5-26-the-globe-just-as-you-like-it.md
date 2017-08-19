@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 23:48:22 +0100"
 id: "1269"
 old_path: /arts/1269/the-globe-just-as-you-like-it
-redirect_from:
+aliases:
  - /arts/1269/the-globe-just-as-you-like-it
 category: arts
 

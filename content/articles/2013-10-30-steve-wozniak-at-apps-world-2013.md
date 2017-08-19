@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 16:10:51 +0000"
 id: "3963"
 old_path: /tech/3963/steve-wozniak-at-apps-world-2013
-redirect_from:
+aliases:
  - /tech/3963/steve-wozniak-at-apps-world-2013
 category: tech
 

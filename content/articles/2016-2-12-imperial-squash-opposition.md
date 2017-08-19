@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 12:08:35 +0000"
 id: "5920"
 old_path: /sport/5920/imperial-squash-opposition
-redirect_from:
+aliases:
  - /sport/5920/imperial-squash-opposition
 category: sport
 

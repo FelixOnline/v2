@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:52:55 +0000"
 id: "2905"
 old_path: /film/2905/hes-just-not-that-into-hernor-should-he-be
-redirect_from:
+aliases:
  - /film/2905/hes-just-not-that-into-hernor-should-he-be
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:10:24 +0000"
 id: "1003"
 old_path: /film/1003/how-long-is-too-long-for-a-sequel
-redirect_from:
+aliases:
  - /film/1003/how-long-is-too-long-for-a-sequel
 category: film
 

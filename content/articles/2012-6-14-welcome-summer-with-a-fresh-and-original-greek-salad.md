@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:28:16 +0100"
 id: "2565"
 old_path: /food/2565/welcome-summer-with-a-fresh-and-original-greek-salad
-redirect_from:
+aliases:
  - /food/2565/welcome-summer-with-a-fresh-and-original-greek-salad
 category: food
 

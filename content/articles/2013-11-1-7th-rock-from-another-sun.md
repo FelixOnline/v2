@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:38:29 +0000"
 id: "3973"
 old_path: /science/3973/7th-rock-from-another-sun
-redirect_from:
+aliases:
  - /science/3973/7th-rock-from-another-sun
 category: science
 

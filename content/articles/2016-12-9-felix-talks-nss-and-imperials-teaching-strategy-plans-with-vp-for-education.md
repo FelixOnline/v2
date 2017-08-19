@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:33:21 +0000"
 id: "6572"
 old_path: /news/6572/felix-talks-nss-and-imperials-teaching-strategy-plans-with-vp-for-education
-redirect_from:
+aliases:
  - /news/6572/felix-talks-nss-and-imperials-teaching-strategy-plans-with-vp-for-education
 category: news
 

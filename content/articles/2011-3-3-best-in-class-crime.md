@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:01:39 +0000"
 id: "1001"
 old_path: /tv/1001/best-in-class-crime
-redirect_from:
+aliases:
  - /tv/1001/best-in-class-crime
 category: tv
 

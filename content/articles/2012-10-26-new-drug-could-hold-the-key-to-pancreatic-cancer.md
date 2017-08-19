@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:29:18 +0100"
 id: "2744"
 old_path: /science/2744/new-drug-could-hold-the-key-to-pancreatic-cancer
-redirect_from:
+aliases:
  - /science/2744/new-drug-could-hold-the-key-to-pancreatic-cancer
 category: science
 

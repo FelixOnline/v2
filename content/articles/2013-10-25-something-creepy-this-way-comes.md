@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:55:41 +0100"
 id: "3943"
 old_path: /tv/3943/something-creepy-this-way-comes
-redirect_from:
+aliases:
  - /tv/3943/something-creepy-this-way-comes
 category: tv
 

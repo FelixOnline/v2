@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-06 17:22:21 +0000"
 id: "4018"
 old_path: /tech/4018/google-releases-the-nexus-5
-redirect_from:
+aliases:
  - /tech/4018/google-releases-the-nexus-5
 category: tech
 

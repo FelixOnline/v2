@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:33:23 +0000"
 id: "5726"
 old_path: /comment/5726/the-north-south-divide-is-part-of-being-a-brit
-redirect_from:
+aliases:
  - /comment/5726/the-north-south-divide-is-part-of-being-a-brit
 category: comment
 

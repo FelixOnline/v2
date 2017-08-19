@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:53:08 +0000"
 id: "6012"
 old_path: /sport/6012/ic-kendo-club-host-dojo-showdown
-redirect_from:
+aliases:
  - /sport/6012/ic-kendo-club-host-dojo-showdown
 category: sport
 

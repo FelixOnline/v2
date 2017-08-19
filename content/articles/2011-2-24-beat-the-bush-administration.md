@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:54:09 +0000"
 id: "873"
 old_path: /film/873/beat-the-bush-administration
-redirect_from:
+aliases:
  - /film/873/beat-the-bush-administration
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:14:14 +0100"
 id: "3925"
 old_path: /books/3925/take-nothing-for-granted
-redirect_from:
+aliases:
  - /books/3925/take-nothing-for-granted
 category: books
 

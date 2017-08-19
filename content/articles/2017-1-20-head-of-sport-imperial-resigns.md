@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 14:55:10 +0000"
 id: "6658"
 old_path: /news/6658/head-of-sport-imperial-resigns
-redirect_from:
+aliases:
  - /news/6658/head-of-sport-imperial-resigns
 category: news
 

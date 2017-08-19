@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-09-05 20:35:46 +0100"
 id: "6295"
 old_path: /film/6295/lff--black-mass-is-a-competent-film-but-nothing-more
-redirect_from:
+aliases:
  - /film/6295/lff--black-mass-is-a-competent-film-but-nothing-more
 category: film
 

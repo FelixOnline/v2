@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:29:41 +0000"
 id: "3476"
 old_path: /arts/3476/dont-give-a-tosca
-redirect_from:
+aliases:
  - /arts/3476/dont-give-a-tosca
 category: arts
 

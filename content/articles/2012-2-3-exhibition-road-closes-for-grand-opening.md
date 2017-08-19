@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 00:28:44 +0000"
 id: "2121"
 old_path: /news/2121/exhibition-road-closes-for-grand-opening-
-redirect_from:
+aliases:
  - /news/2121/exhibition-road-closes-for-grand-opening-
 category: news
 

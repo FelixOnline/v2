@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 14:34:24 +0100"
 id: "3630"
 old_path: /biz/3630/stop-talking-start-interviewing
-redirect_from:
+aliases:
  - /biz/3630/stop-talking-start-interviewing
 category: business
 

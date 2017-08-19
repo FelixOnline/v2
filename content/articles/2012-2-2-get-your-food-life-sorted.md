@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 21:11:54 +0000"
 id: "2101"
 old_path: /food/2101/get-your-food-life-sorted
-redirect_from:
+aliases:
  - /food/2101/get-your-food-life-sorted
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-09 12:47:51 +0000"
 id: "4046"
 old_path: /comment/4046/of-the-h-bar-boris-and-the-weather
-redirect_from:
+aliases:
  - /comment/4046/of-the-h-bar-boris-and-the-weather
 category: comment
 

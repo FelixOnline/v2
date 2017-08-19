@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 21:37:11 +0100"
 id: "4670"
 old_path: /tech/4670/programming-easy-peasy
-redirect_from:
+aliases:
  - /tech/4670/programming-easy-peasy
 category: tech
 

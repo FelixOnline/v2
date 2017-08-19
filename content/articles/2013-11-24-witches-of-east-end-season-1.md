@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:31:36 +0000"
 id: "4125"
 old_path: /tv/4125/witches-of-east-end-season-1
-redirect_from:
+aliases:
  - /tv/4125/witches-of-east-end-season-1
 category: tv
 

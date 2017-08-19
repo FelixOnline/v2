@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:11:46 +0000"
 id: "2941"
 old_path: /biz/2941/hackers-unite-
-redirect_from:
+aliases:
  - /biz/2941/hackers-unite-
 category: business
 

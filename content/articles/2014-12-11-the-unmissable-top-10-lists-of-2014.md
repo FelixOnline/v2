@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:03:19 +0000"
 id: "5033"
 old_path: /film/5033/the-unmissable-top-10-lists-of-2014
-redirect_from:
+aliases:
  - /film/5033/the-unmissable-top-10-lists-of-2014
 category: film
 

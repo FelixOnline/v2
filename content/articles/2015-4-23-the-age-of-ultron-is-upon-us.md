@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-23 14:15:31 +0100"
 id: "5468"
 old_path: /film/5468/the-age-of-ultron-is-upon-us
-redirect_from:
+aliases:
  - /film/5468/the-age-of-ultron-is-upon-us
 category: film
 

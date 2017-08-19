@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:34:25 +0100"
 id: "2463"
 old_path: /comment/2463/think-about-it-are-you-nomophobic
-redirect_from:
+aliases:
  - /comment/2463/think-about-it-are-you-nomophobic
 category: comment
 

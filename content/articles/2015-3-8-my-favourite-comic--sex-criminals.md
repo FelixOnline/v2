@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-08 16:56:18 +0000"
 id: "5366"
 old_path: /arts/5366/my-favourite-comic--sex-criminals
-redirect_from:
+aliases:
  - /arts/5366/my-favourite-comic--sex-criminals
 category: arts
 

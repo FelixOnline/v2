@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:32:39 +0100"
 id: "2450"
 old_path: /film/2450/bye-bye-miss-american-pie
-redirect_from:
+aliases:
  - /film/2450/bye-bye-miss-american-pie
 category: film
 

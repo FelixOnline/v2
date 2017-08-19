@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 15:31:54 +0100"
 id: "6931"
 old_path: /news/6931/how-high-can-student-loan-interest-rates-go
-redirect_from:
+aliases:
  - /news/6931/how-high-can-student-loan-interest-rates-go
 category: news
 

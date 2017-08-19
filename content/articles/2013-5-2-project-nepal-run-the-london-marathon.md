@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:45:39 +0100"
 id: "3535"
 old_path: /news/3535/project-nepal-run-the-london-marathon
-redirect_from:
+aliases:
  - /news/3535/project-nepal-run-the-london-marathon
 category: news
 

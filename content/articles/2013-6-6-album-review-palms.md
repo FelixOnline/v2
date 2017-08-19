@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 19:48:15 +0100"
 id: "3670"
 old_path: /music/3670/album-review-palms-
-redirect_from:
+aliases:
  - /music/3670/album-review-palms-
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:16:31 +0000"
 id: "4367"
 old_path: /science/4367/waterjet-printer-set-to-make-a-splash
-redirect_from:
+aliases:
  - /science/4367/waterjet-printer-set-to-make-a-splash
 category: science
 

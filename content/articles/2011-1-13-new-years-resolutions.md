@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:02:31 +0000"
 id: "573"
 old_path: /politics/573/new-years-resolutions
-redirect_from:
+aliases:
  - /politics/573/new-years-resolutions
 category: politics
 

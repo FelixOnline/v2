@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:07:38 +0100"
 id: "3689"
 old_path: /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
-redirect_from:
+aliases:
  - /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
 category: news
 

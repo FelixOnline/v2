@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:01:48 +0000"
 id: "906"
 old_path: /biz/906/how-they-started-up-introducing-a-week-of-interviews-with-real-entrepreneurs
-redirect_from:
+aliases:
  - /biz/906/how-they-started-up-introducing-a-week-of-interviews-with-real-entrepreneurs
 category: business
 

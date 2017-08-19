@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 19:42:52 +0100"
 id: "5629"
 old_path: /tv/5629/still-surviving-still-thriving-
-redirect_from:
+aliases:
  - /tv/5629/still-surviving-still-thriving-
 category: tv
 

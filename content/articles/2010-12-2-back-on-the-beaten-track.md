@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:26:19 +0000"
 id: "470"
 old_path: /travel/470/back-on-the-beaten-track
-redirect_from:
+aliases:
  - /travel/470/back-on-the-beaten-track
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 20:37:04 +0000"
 id: "5332"
 old_path: /comment/5332/this-house-would-accept-an-offer-from-imperial
-redirect_from:
+aliases:
  - /comment/5332/this-house-would-accept-an-offer-from-imperial
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:49:42 +0000"
 id: "6463"
 old_path: /science/6463/brain-freeze
-redirect_from:
+aliases:
  - /science/6463/brain-freeze
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:29:28 +0000"
 id: "2150"
 old_path: /science/2150/north-star-is-shrinking
-redirect_from:
+aliases:
  - /science/2150/north-star-is-shrinking
 category: science
 

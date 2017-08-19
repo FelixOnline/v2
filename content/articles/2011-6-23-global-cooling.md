@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:04:32 +0100"
 id: "1420"
 old_path: /science/1420/global-cooling
-redirect_from:
+aliases:
  - /science/1420/global-cooling
 category: science
 

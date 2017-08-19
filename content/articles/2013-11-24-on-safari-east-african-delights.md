@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:41:36 +0000"
 id: "4132"
 old_path: /travel/4132/on-safari-east-african-delights
-redirect_from:
+aliases:
  - /travel/4132/on-safari-east-african-delights
 category: travel
 

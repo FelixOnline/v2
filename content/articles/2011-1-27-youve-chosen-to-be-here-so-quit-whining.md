@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:52:34 +0000"
 id: "679"
 old_path: /comment/679/youve-chosen-to-be-here-so-quit-whining-
-redirect_from:
+aliases:
  - /comment/679/youve-chosen-to-be-here-so-quit-whining-
 category: comment
 

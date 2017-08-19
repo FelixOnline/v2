@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:38:04 +0100"
 id: "4654"
 old_path: /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
-redirect_from:
+aliases:
  - /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
 category: news
 

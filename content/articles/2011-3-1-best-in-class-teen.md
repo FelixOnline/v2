@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:00:41 +0000"
 id: "962"
 old_path: /tv/962/best-in-class-teen-
-redirect_from:
+aliases:
  - /tv/962/best-in-class-teen-
 category: tv
 

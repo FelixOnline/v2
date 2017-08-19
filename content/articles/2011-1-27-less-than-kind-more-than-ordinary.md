@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:42:03 +0000"
 id: "673"
 old_path: /arts/673/less-than-kind-more-than-ordinary
-redirect_from:
+aliases:
  - /arts/673/less-than-kind-more-than-ordinary
 category: arts
 

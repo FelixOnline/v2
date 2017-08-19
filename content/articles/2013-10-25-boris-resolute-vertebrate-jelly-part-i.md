@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:02:22 +0100"
 id: "3918"
 old_path: /comment/3918/boris-resolute-vertebrate-jelly-part-i
-redirect_from:
+aliases:
  - /comment/3918/boris-resolute-vertebrate-jelly-part-i
 category: comment
 

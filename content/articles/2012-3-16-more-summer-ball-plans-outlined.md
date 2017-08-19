@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-16 01:50:40 +0000"
 id: "2402"
 old_path: /news/2402/more-summer-ball-plans-outlined
-redirect_from:
+aliases:
  - /news/2402/more-summer-ball-plans-outlined
 category: news
 

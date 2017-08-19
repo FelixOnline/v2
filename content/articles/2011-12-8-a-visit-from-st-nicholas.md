@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:28:32 +0000"
 id: "1939"
 old_path: /games/1939/a-visit-from-st-nicholas
-redirect_from:
+aliases:
  - /games/1939/a-visit-from-st-nicholas
 category: games
 

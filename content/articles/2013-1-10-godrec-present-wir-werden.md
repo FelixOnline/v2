@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:47:42 +0000"
 id: "3094"
 old_path: /music/3094/godrec-present-wir-werden
-redirect_from:
+aliases:
  - /music/3094/godrec-present-wir-werden
 category: music
 

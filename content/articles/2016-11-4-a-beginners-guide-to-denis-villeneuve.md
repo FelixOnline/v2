@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:10:32 +0000"
 id: "6386"
 old_path: /film/6386/a-beginners-guide-to-denis-villeneuve
-redirect_from:
+aliases:
  - /film/6386/a-beginners-guide-to-denis-villeneuve
 category: film
 

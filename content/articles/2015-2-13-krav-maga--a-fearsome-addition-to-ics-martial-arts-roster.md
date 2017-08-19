@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 15:21:16 +0000"
 id: "5258"
 old_path: /cands/5258/krav-maga--a-fearsome-addition-to-ics-martial-arts-roster
-redirect_from:
+aliases:
  - /cands/5258/krav-maga--a-fearsome-addition-to-ics-martial-arts-roster
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 20:09:57 +0100"
 id: "1501"
 old_path: /news/1501/rcsu-autumn-ball-a-hit-for-freshers
-redirect_from:
+aliases:
  - /news/1501/rcsu-autumn-ball-a-hit-for-freshers
 category: news
 

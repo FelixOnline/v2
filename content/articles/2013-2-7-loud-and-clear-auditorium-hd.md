@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:34:40 +0000"
 id: "3263"
 old_path: /games/3263/loud-and-clear-auditorium-hd
-redirect_from:
+aliases:
  - /games/3263/loud-and-clear-auditorium-hd
 category: games
 

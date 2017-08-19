@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:01:40 +0000"
 id: "4356"
 old_path: /news/4356/imperial-college-publishes-animal-research-action-plan-in-responce-to-cruelty-allegations
-redirect_from:
+aliases:
  - /news/4356/imperial-college-publishes-animal-research-action-plan-in-responce-to-cruelty-allegations
 category: news
 

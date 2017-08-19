@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:22:11 +0100"
 id: "2703"
 old_path: /politics/2703/the-republicans-last-chance-to-win
-redirect_from:
+aliases:
  - /politics/2703/the-republicans-last-chance-to-win
 category: politics
 

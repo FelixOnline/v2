@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:10:39 +0000"
 id: "3458"
 old_path: /news/3458/union-council-cancelled-due-to-lack-of-agenda-items
-redirect_from:
+aliases:
  - /news/3458/union-council-cancelled-due-to-lack-of-agenda-items
 category: news
 

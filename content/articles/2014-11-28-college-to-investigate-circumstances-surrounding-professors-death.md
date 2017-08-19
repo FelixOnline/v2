@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:36:34 +0000"
 id: "4960"
 old_path: /news/4960/college-to-investigate-circumstances-surrounding-professors-death
-redirect_from:
+aliases:
  - /news/4960/college-to-investigate-circumstances-surrounding-professors-death
 category: news
 

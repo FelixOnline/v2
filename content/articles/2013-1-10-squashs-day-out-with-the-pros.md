@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:19:49 +0000"
 id: "3111"
 old_path: /sport/3111/squashs-day-out-with-the-pros
-redirect_from:
+aliases:
  - /sport/3111/squashs-day-out-with-the-pros
 category: sport
 

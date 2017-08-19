@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:23:30 +0000"
 id: "4845"
 old_path: /food/4845/quick-curry-basics-cheatsheet
-redirect_from:
+aliases:
  - /food/4845/quick-curry-basics-cheatsheet
 category: food
 

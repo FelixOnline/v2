@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 20:08:43 +0000"
 id: "2882"
 old_path: /news/2882/most-kisses-in-one-minute-record-broken-at-imperial
-redirect_from:
+aliases:
  - /news/2882/most-kisses-in-one-minute-record-broken-at-imperial
 category: news
 

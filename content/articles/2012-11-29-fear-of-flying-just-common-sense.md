@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:06:47 +0000"
 id: "3003"
 old_path: /comment/3003/fear-of-flying-just-common-sense
-redirect_from:
+aliases:
  - /comment/3003/fear-of-flying-just-common-sense
 category: comment
 

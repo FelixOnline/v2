@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:30:00 +0000"
 id: "1052"
 old_path: /tech/1052/crime-on-your-street-mapped
-redirect_from:
+aliases:
  - /tech/1052/crime-on-your-street-mapped
 category: tech
 

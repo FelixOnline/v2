@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-08 23:56:12 +0000"
 id: "2830"
 old_path: /news/2830/imperial-has-highest-international-fees
-redirect_from:
+aliases:
  - /news/2830/imperial-has-highest-international-fees
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:19:52 +0000"
 id: "886"
 old_path: /politics/886/bullets-were-coming-across-us-from-both-sides
-redirect_from:
+aliases:
  - /politics/886/bullets-were-coming-across-us-from-both-sides
 category: politics
 

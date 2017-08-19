@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:29:39 +0000"
 id: "3196"
 old_path: /news/3196/imperial-students-in-bp-semi-finals
-redirect_from:
+aliases:
  - /news/3196/imperial-students-in-bp-semi-finals
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:36:40 +0000"
 id: "4337"
 old_path: /music/4337/deer-tick-but-no-lyme-disease
-redirect_from:
+aliases:
  - /music/4337/deer-tick-but-no-lyme-disease
 category: music
 

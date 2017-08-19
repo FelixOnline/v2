@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:55:34 +0100"
 id: "181"
 old_path: /comment/181/beard-optional
-redirect_from:
+aliases:
  - /comment/181/beard-optional
 category: comment
 

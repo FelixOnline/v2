@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:51:10 +0100"
 id: "7008"
 old_path: /news/7008/union-awards-ceremony-honours-volunteers
-redirect_from:
+aliases:
  - /news/7008/union-awards-ceremony-honours-volunteers
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:05:57 +0000"
 id: "4162"
 old_path: /arts/4162/fashion-galore
-redirect_from:
+aliases:
  - /arts/4162/fashion-galore
 category: arts
 

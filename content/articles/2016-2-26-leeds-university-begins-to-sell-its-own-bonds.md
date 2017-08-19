@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:26:31 +0000"
 id: "5957"
 old_path: /news/5957/leeds-university-begins-to-sell-its-own-bonds
-redirect_from:
+aliases:
  - /news/5957/leeds-university-begins-to-sell-its-own-bonds
 category: news
 

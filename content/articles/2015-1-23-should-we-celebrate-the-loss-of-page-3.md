@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:25:29 +0000"
 id: "5123"
 old_path: /comment/5123/should-we-celebrate-the-loss-of-page-3
-redirect_from:
+aliases:
  - /comment/5123/should-we-celebrate-the-loss-of-page-3
 category: comment
 

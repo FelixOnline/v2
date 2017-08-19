@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:54:22 +0000"
 id: "5865"
 old_path: /comment/5865/the-greatest-crime-in-human-history
-redirect_from:
+aliases:
  - /comment/5865/the-greatest-crime-in-human-history
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:44:16 +0100"
 id: "3936"
 old_path: /film/3936/he-lives-for-the-applause-applause-applause
-redirect_from:
+aliases:
  - /film/3936/he-lives-for-the-applause-applause-applause
 category: film
 

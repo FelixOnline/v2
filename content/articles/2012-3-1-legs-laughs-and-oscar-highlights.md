@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:36:20 +0000"
 id: "2288"
 old_path: /film/2288/legs-laughs-and-oscar-highlights
-redirect_from:
+aliases:
  - /film/2288/legs-laughs-and-oscar-highlights
 category: film
 

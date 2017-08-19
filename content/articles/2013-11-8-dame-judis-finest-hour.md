@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 10:02:47 +0000"
 id: "4042"
 old_path: /film/4042/dame-judis-finest-hour
-redirect_from:
+aliases:
  - /film/4042/dame-judis-finest-hour
 category: film
 

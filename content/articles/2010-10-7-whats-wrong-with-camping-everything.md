@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:57:31 +0100"
 id: "182"
 old_path: /comment/182/whats-wrong-with-camping-everything
-redirect_from:
+aliases:
  - /comment/182/whats-wrong-with-camping-everything
 category: comment
 

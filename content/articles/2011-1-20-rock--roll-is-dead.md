@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:32:04 +0000"
 id: "628"
 old_path: /music/628/rock--roll-is-dead
-redirect_from:
+aliases:
  - /music/628/rock--roll-is-dead
 category: music
 

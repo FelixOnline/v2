@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 18:21:38 +0100"
 id: "3518"
 old_path: /news/3518/food-co-op-launching-at-imperial
-redirect_from:
+aliases:
  - /news/3518/food-co-op-launching-at-imperial
 category: news
 

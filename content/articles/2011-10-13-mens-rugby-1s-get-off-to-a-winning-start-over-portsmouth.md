@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:41:31 +0100"
 id: "1515"
 old_path: /sport/1515/mens-rugby-1s-get-off-to-a-winning-start-over-portsmouth
-redirect_from:
+aliases:
  - /sport/1515/mens-rugby-1s-get-off-to-a-winning-start-over-portsmouth
 category: sport
 

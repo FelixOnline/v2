@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 13:18:58 +0100"
 id: "1498"
 old_path: /news/1498/interview-dr-martin-dare-edwards
-redirect_from:
+aliases:
  - /news/1498/interview-dr-martin-dare-edwards
 category: news
 

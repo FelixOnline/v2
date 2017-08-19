@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:18:23 +0000"
 id: "2211"
 old_path: /comment/2211/this-weeks-potential-scandal
-redirect_from:
+aliases:
  - /comment/2211/this-weeks-potential-scandal
 category: comment
 

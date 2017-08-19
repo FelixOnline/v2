@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:39:51 +0000"
 id: "2977"
 old_path: /film/2977/why-dont-you-play-with-yourself
-redirect_from:
+aliases:
  - /film/2977/why-dont-you-play-with-yourself
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:30:23 +0100"
 id: "6242"
 old_path: /film/6242/documentary-corner-paris-is-burning
-redirect_from:
+aliases:
  - /film/6242/documentary-corner-paris-is-burning
 category: film
 

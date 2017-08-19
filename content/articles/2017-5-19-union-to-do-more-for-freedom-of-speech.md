@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 15:00:10 +0100"
 id: "6973"
 old_path: /news/6973/union-to-do-more-for-freedom-of-speech
-redirect_from:
+aliases:
  - /news/6973/union-to-do-more-for-freedom-of-speech
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:35:04 +0000"
 id: "5697"
 old_path: /news/5697/union-replaces-tree-in-beit-quad
-redirect_from:
+aliases:
  - /news/5697/union-replaces-tree-in-beit-quad
 category: news
 

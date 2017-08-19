@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:39:57 +0000"
 id: "2113"
 old_path: /comment/2113/competency-wompetency
-redirect_from:
+aliases:
  - /comment/2113/competency-wompetency
 category: comment
 

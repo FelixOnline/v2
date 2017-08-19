@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:31:35 +0000"
 id: "5453"
 old_path: /arts/5453/will-the-real-wellington-please-stand-up
-redirect_from:
+aliases:
  - /arts/5453/will-the-real-wellington-please-stand-up
 category: arts
 

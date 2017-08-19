@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:45:52 +0000"
 id: "724"
 old_path: /news/724/selkirk-rules-and-regulations-
-redirect_from:
+aliases:
  - /news/724/selkirk-rules-and-regulations-
 category: news
 

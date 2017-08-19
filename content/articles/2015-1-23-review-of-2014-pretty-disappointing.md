@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:22:20 +0000"
 id: "5141"
 old_path: /games/5141/review-of-2014-pretty-disappointing
-redirect_from:
+aliases:
  - /games/5141/review-of-2014-pretty-disappointing
 category: games
 

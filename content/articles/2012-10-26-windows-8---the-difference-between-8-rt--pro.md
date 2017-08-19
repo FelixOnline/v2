@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:24:14 +0100"
 id: "2741"
 old_path: /tech/2741/windows-8---the-difference-between-8-rt--pro-
-redirect_from:
+aliases:
  - /tech/2741/windows-8---the-difference-between-8-rt--pro-
 category: tech
 

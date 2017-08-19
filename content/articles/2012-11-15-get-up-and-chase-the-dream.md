@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:05:46 +0000"
 id: "2908"
 old_path: /biz/2908/get-up-and-chase-the-dream-
-redirect_from:
+aliases:
  - /biz/2908/get-up-and-chase-the-dream-
 category: business
 

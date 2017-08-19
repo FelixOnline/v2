@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:04:48 +0000"
 id: "2368"
 old_path: /travel/2368/post-exam-paris-to-dakar
-redirect_from:
+aliases:
  - /travel/2368/post-exam-paris-to-dakar
 category: travel
 

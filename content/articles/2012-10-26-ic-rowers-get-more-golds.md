@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:58:01 +0100"
 id: "2761"
 old_path: /sport/2761/ic-rowers-get-more-golds
-redirect_from:
+aliases:
  - /sport/2761/ic-rowers-get-more-golds
 category: sport
 

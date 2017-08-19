@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:36:55 +0000"
 id: "4084"
 old_path: /film/4084/like-father-like-son
-redirect_from:
+aliases:
  - /film/4084/like-father-like-son
 category: film
 

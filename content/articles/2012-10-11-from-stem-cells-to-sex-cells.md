@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:51:48 +0100"
 id: "2656"
 old_path: /science/2656/from-stem-cells-to-sex-cells
-redirect_from:
+aliases:
  - /science/2656/from-stem-cells-to-sex-cells
 category: science
 

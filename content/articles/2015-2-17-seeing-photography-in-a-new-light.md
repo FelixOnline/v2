@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 16:37:29 +0000"
 id: "5265"
 old_path: /arts/5265/seeing-photography-in-a-new-light
-redirect_from:
+aliases:
  - /arts/5265/seeing-photography-in-a-new-light
 category: arts
 

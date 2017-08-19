@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:24:50 +0000"
 id: "3360"
 old_path: /tech/3360/revolution-wearable-technology
-redirect_from:
+aliases:
  - /tech/3360/revolution-wearable-technology
 category: tech
 

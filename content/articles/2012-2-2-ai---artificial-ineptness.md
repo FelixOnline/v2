@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 20:49:16 +0000"
 id: "2099"
 old_path: /games/2099/ai---artificial-ineptness
-redirect_from:
+aliases:
  - /games/2099/ai---artificial-ineptness
 category: games
 

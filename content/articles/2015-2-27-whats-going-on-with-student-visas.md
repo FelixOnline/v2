@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:45:19 +0000"
 id: "5315"
 old_path: /news/5315/whats-going-on-with-student-visas
-redirect_from:
+aliases:
  - /news/5315/whats-going-on-with-student-visas
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:06:00 +0100"
 id: "1519"
 old_path: /tv/1519/sometimes-answers-just-lead-to-more-questions
-redirect_from:
+aliases:
  - /tv/1519/sometimes-answers-just-lead-to-more-questions
 category: tv
 

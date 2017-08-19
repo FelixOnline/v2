@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:43:15 +0000"
 id: "5833"
 old_path: /news/5833/rowers-thrown-out-of-hotel-for-partying-too-hard-
-redirect_from:
+aliases:
  - /news/5833/rowers-thrown-out-of-hotel-for-partying-too-hard-
 category: news
 

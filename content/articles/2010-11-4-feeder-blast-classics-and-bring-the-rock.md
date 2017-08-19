@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:32:26 +0000"
 id: "300"
 old_path: /music/300/feeder-blast-classics-and-bring-the-rock-
-redirect_from:
+aliases:
  - /music/300/feeder-blast-classics-and-bring-the-rock-
 category: music
 

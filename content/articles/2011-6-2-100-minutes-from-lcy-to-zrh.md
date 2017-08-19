@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:19:33 +0100"
 id: "1321"
 old_path: /travel/1321/100-minutes-from-lcy-to-zrh
-redirect_from:
+aliases:
  - /travel/1321/100-minutes-from-lcy-to-zrh
 category: travel
 

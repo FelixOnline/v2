@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:33:25 +0000"
 id: "6868"
 old_path: /science/6868/fear-food-fear-death
-redirect_from:
+aliases:
  - /science/6868/fear-food-fear-death
 category: science
 

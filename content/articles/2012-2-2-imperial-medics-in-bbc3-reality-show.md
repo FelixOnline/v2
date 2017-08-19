@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 22:49:19 +0000"
 id: "2103"
 old_path: /tv/2103/imperial-medics-in-bbc3-reality-show
-redirect_from:
+aliases:
  - /tv/2103/imperial-medics-in-bbc3-reality-show
 category: tv
 

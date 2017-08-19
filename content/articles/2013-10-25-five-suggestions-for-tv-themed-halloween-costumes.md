@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:58:20 +0100"
 id: "3944"
 old_path: /tv/3944/five-suggestions-for-tv-themed-halloween-costumes
-redirect_from:
+aliases:
  - /tv/3944/five-suggestions-for-tv-themed-halloween-costumes
 category: tv
 

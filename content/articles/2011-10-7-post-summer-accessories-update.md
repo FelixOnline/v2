@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 12:26:06 +0100"
 id: "1491"
 old_path: /fashion/1491/post-summer-accessories-update
-redirect_from:
+aliases:
  - /fashion/1491/post-summer-accessories-update
 category: fashion
 

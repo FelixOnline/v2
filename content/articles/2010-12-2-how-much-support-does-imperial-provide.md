@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:40:24 +0000"
 id: "494"
 old_path: /news/494/how-much-support-does-imperial-provide-
-redirect_from:
+aliases:
  - /news/494/how-much-support-does-imperial-provide-
 category: news
 

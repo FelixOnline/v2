@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:32:47 +0000"
 id: "929"
 old_path: /comment/929/heres-to-imperials-sportsmen-and-women
-redirect_from:
+aliases:
  - /comment/929/heres-to-imperials-sportsmen-and-women
 category: comment
 

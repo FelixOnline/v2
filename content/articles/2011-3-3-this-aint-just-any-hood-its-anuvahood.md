@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:16:59 +0000"
 id: "987"
 old_path: /film/987/this-aint-just-any-hood-its-anuvahood
-redirect_from:
+aliases:
  - /film/987/this-aint-just-any-hood-its-anuvahood
 category: film
 

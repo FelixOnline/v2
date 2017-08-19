@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-06-16 19:49:04 +0100"
 id: "147"
 old_path: /tech/147/wikileaks---freedom-of-informations-greatest-assett
-redirect_from:
+aliases:
  - /tech/147/wikileaks---freedom-of-informations-greatest-assett
 category: tech
 

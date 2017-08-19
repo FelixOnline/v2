@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 23:45:20 +0000"
 id: "5197"
 old_path: /news/5197/physics-apologise-over-test-and-coursework-blunders
-redirect_from:
+aliases:
  - /news/5197/physics-apologise-over-test-and-coursework-blunders
 category: news
 

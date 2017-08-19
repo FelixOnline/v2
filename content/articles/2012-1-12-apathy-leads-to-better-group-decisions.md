@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:02:27 +0000"
 id: "1978"
 old_path: /science/1978/apathy-leads-to-better-group-decisions
-redirect_from:
+aliases:
  - /science/1978/apathy-leads-to-better-group-decisions
 category: science
 

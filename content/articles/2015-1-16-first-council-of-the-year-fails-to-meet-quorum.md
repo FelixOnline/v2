@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:02:05 +0000"
 id: "5093"
 old_path: /news/5093/first-council-of-the-year-fails-to-meet-quorum
-redirect_from:
+aliases:
  - /news/5093/first-council-of-the-year-fails-to-meet-quorum
 category: news
 

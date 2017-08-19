@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:38:07 +0000"
 id: "3303"
 old_path: /books/3303/the-nano-flower
-redirect_from:
+aliases:
  - /books/3303/the-nano-flower
 category: books
 

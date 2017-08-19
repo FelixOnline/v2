@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:37:45 +0100"
 id: "4634"
 old_path: /news/4634/yoyo-secure-seed-funding-worth-5m
-redirect_from:
+aliases:
  - /news/4634/yoyo-secure-seed-funding-worth-5m
 category: news
 

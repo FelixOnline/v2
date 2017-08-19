@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:37:47 +0100"
 id: "1262"
 old_path: /music/1262/star-slinger
-redirect_from:
+aliases:
  - /music/1262/star-slinger
 category: music
 

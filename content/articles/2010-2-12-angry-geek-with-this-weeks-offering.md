@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 02:13:20 +0000"
 id: "88"
 old_path: /comment/88/angry-geek-with-this-weeks-offering
-redirect_from:
+aliases:
  - /comment/88/angry-geek-with-this-weeks-offering
 category: comment
 

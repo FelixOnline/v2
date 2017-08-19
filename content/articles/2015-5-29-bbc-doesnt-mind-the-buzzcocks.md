@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 10:59:07 +0100"
 id: "5585"
 old_path: /tv/5585/bbc-doesnt-mind-the-buzzcocks
-redirect_from:
+aliases:
  - /tv/5585/bbc-doesnt-mind-the-buzzcocks
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 22:13:01 +0100"
 id: "4676"
 old_path: /film/4676/summers-finally-here
-redirect_from:
+aliases:
  - /film/4676/summers-finally-here
 category: film
 

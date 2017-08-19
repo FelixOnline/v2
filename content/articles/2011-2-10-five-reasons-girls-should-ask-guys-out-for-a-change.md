@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:09:13 +0000"
 id: "795"
 old_path: /comment/795/five-reasons-girls-should-ask-guys-out-for-a-change
-redirect_from:
+aliases:
  - /comment/795/five-reasons-girls-should-ask-guys-out-for-a-change
 category: comment
 

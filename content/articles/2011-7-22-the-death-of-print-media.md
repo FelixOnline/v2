@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-07-22 10:33:12 +0100"
 id: "1452"
 old_path: /comment/1452/the-death-of-print-media
-redirect_from:
+aliases:
  - /comment/1452/the-death-of-print-media
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:32:53 +0000"
 id: "2344"
 old_path: /tech/2344/what-is-zynga-up-to-now
-redirect_from:
+aliases:
  - /tech/2344/what-is-zynga-up-to-now
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 15:53:53 +0000"
 id: "101"
 old_path: /film/101/micmacs-review
-redirect_from:
+aliases:
  - /film/101/micmacs-review
 category: film
 

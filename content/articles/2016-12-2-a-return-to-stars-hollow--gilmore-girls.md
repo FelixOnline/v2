@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:04:54 +0000"
 id: "6539"
 old_path: /tv/6539/a-return-to-stars-hollow--gilmore-girls-
-redirect_from:
+aliases:
  - /tv/6539/a-return-to-stars-hollow--gilmore-girls-
 category: tv
 

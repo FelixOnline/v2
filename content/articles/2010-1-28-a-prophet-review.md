@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-28 15:52:46 +0000"
 id: "57"
 old_path: /film/57/a-prophet-review
-redirect_from:
+aliases:
  - /film/57/a-prophet-review
 category: film
 

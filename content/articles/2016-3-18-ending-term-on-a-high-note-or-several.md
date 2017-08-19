@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:05:31 +0000"
 id: "6076"
 old_path: /cands/6076/ending-term-on-a-high-note-or-several
-redirect_from:
+aliases:
  - /cands/6076/ending-term-on-a-high-note-or-several
 category: clubs-and-socs
 

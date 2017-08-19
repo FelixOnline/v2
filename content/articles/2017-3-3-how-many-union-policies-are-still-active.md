@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:16:55 +0000"
 id: "6835"
 old_path: /news/6835/how-many-union-policies-are-still-active
-redirect_from:
+aliases:
  - /news/6835/how-many-union-policies-are-still-active
 category: news
 

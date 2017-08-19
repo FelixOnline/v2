@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:47:17 +0000"
 id: "312"
 old_path: /science/312/hawkings-lesson-for-life
-redirect_from:
+aliases:
  - /science/312/hawkings-lesson-for-life
 category: science
 

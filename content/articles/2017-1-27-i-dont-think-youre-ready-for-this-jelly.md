@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:31:50 +0000"
 id: "6692"
 old_path: /science/6692/i-dont-think-youre-ready-for-this-jelly
-redirect_from:
+aliases:
  - /science/6692/i-dont-think-youre-ready-for-this-jelly
 category: science
 

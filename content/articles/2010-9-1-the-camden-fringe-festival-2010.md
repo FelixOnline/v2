@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-09-01 16:08:28 +0100"
 id: "155"
 old_path: /arts/155/the-camden-fringe-festival-2010
-redirect_from:
+aliases:
  - /arts/155/the-camden-fringe-festival-2010
 category: arts
 

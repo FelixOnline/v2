@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:50:19 +0000"
 id: "499"
 old_path: /news/499/when-will-imperial-march-
-redirect_from:
+aliases:
  - /news/499/when-will-imperial-march-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 23:12:40 +0000"
 id: "2219"
 old_path: /news/2219/gate-crashing-the-oxford-climate-forum
-redirect_from:
+aliases:
  - /news/2219/gate-crashing-the-oxford-climate-forum
 category: news
 

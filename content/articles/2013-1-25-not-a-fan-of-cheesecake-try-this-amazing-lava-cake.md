@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:34:41 +0000"
 id: "3181"
 old_path: /food/3181/not-a-fan-of-cheesecake-try-this-amazing-lava-cake
-redirect_from:
+aliases:
  - /food/3181/not-a-fan-of-cheesecake-try-this-amazing-lava-cake
 category: food
 

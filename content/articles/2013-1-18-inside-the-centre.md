@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:43:20 +0000"
 id: "3139"
 old_path: /books/3139/inside-the-centre
-redirect_from:
+aliases:
  - /books/3139/inside-the-centre
 category: books
 

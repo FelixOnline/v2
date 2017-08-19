@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:01:21 +0000"
 id: "4834"
 old_path: /sport/4834/early-victory-for-imperial
-redirect_from:
+aliases:
  - /sport/4834/early-victory-for-imperial
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:40:05 +0000"
 id: "305"
 old_path: /science/305/do-babies-dream-in-the-womb
-redirect_from:
+aliases:
  - /science/305/do-babies-dream-in-the-womb
 category: science
 

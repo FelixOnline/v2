@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:43:57 +0000"
 id: "6578"
 old_path: /music/6578/awaken--my-love-
-redirect_from:
+aliases:
  - /music/6578/awaken--my-love-
 category: music
 

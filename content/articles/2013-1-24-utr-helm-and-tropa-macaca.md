@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 22:05:27 +0000"
 id: "3163"
 old_path: /music/3163/utr-helm-and-tropa-macaca
-redirect_from:
+aliases:
  - /music/3163/utr-helm-and-tropa-macaca
 category: music
 

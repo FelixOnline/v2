@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 17:25:11 +0000"
 id: "6833"
 old_path: /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
-redirect_from:
+aliases:
  - /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
 category: arts
 

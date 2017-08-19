@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 12:50:21 +0100"
 id: "5507"
 old_path: /film/5507/this-week-in-film-suicide-squad
-redirect_from:
+aliases:
  - /film/5507/this-week-in-film-suicide-squad
 category: film
 

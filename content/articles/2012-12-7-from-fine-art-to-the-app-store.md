@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:04:17 +0000"
 id: "3044"
 old_path: /biz/3044/from-fine-art-to-the-app-store
-redirect_from:
+aliases:
  - /biz/3044/from-fine-art-to-the-app-store
 category: business
 

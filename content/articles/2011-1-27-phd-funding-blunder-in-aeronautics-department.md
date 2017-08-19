@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:24:32 +0000"
 id: "652"
 old_path: /news/652/phd-funding-blunder-in-aeronautics-department
-redirect_from:
+aliases:
  - /news/652/phd-funding-blunder-in-aeronautics-department
 category: news
 

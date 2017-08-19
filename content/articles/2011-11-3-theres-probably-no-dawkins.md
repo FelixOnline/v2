@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:51:14 +0000"
 id: "1693"
 old_path: /comment/1693/theres-probably-no-dawkins
-redirect_from:
+aliases:
  - /comment/1693/theres-probably-no-dawkins
 category: comment
 

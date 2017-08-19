@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-04-08 21:02:29 +0100"
 id: "6924"
 old_path: /arts/6924/consent--personal-trumps-political-
-redirect_from:
+aliases:
  - /arts/6924/consent--personal-trumps-political-
 category: arts
 

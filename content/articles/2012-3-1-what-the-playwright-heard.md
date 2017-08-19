@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:19:03 +0000"
 id: "2286"
 old_path: /arts/2286/what-the-playwright-heard
-redirect_from:
+aliases:
  - /arts/2286/what-the-playwright-heard
 category: arts
 

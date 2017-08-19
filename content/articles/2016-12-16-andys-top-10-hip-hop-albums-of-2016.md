@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:57:09 +0000"
 id: "6607"
 old_path: /music/6607/andys-top-10-hip-hop-albums-of-2016-
-redirect_from:
+aliases:
  - /music/6607/andys-top-10-hip-hop-albums-of-2016-
 category: music
 

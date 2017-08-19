@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:11:25 +0000"
 id: "5707"
 old_path: /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
-redirect_from:
+aliases:
  - /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
 category: film
 

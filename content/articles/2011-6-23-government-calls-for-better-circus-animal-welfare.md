@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:56:13 +0100"
 id: "1417"
 old_path: /science/1417/government-calls-for-better-circus-animal-welfare
-redirect_from:
+aliases:
  - /science/1417/government-calls-for-better-circus-animal-welfare
 category: science
 

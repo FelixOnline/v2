@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:12:17 +0100"
 id: "174"
 old_path: /news/174/students-give-damning-verdict-on-teaching-standards
-redirect_from:
+aliases:
  - /news/174/students-give-damning-verdict-on-teaching-standards
 category: news
 

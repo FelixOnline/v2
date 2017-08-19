@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:52:21 +0000"
 id: "4850"
 old_path: /science/4850/imperial-professor-to-lead-ebola-vaccine-trial
-redirect_from:
+aliases:
  - /science/4850/imperial-professor-to-lead-ebola-vaccine-trial
 category: science
 

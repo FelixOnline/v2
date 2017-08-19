@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:33:58 +0000"
 id: "6821"
 old_path: /arts/6821/richard-iii--the-bard-given-teutonic-overtones
-redirect_from:
+aliases:
  - /arts/6821/richard-iii--the-bard-given-teutonic-overtones
 category: arts
 

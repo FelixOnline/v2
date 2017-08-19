@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:11:15 +0000"
 id: "6638"
 old_path: /science/6638/five-a-day-to-keep-pathogens-at-bay
-redirect_from:
+aliases:
  - /science/6638/five-a-day-to-keep-pathogens-at-bay
 category: science
 

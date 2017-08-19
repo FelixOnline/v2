@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-22 03:31:42 +0000"
 id: "4095"
 old_path: /news/4095/london-underground-plans-radical-changes-to-tube-system-by-2015
-redirect_from:
+aliases:
  - /news/4095/london-underground-plans-radical-changes-to-tube-system-by-2015
 category: news
 

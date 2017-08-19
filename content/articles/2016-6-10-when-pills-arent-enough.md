@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:33:24 +0100"
 id: "6263"
 old_path: /arts/6263/when-pills-arent-enough
-redirect_from:
+aliases:
  - /arts/6263/when-pills-arent-enough
 category: arts
 

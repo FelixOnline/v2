@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:30:52 +0100"
 id: "3931"
 old_path: /music/3931/live-review---london-grammar
-redirect_from:
+aliases:
  - /music/3931/live-review---london-grammar
 category: music
 

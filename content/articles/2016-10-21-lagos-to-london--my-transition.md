@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 10:25:51 +0100"
 id: "6341"
 old_path: /comment/6341/lagos-to-london--my-transition
-redirect_from:
+aliases:
  - /comment/6341/lagos-to-london--my-transition
 category: comment
 

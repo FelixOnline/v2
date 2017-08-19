@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:28:33 +0000"
 id: "4122"
 old_path: /film/4122/jfk--vantage-point--bobby
-redirect_from:
+aliases:
  - /film/4122/jfk--vantage-point--bobby
 category: film
 

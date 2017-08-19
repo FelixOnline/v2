@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:32:13 +0000"
 id: "5127"
 old_path: /news/5127/controversy-as-imperial-joins-others-in-boycott-of-universities-green-league
-redirect_from:
+aliases:
  - /news/5127/controversy-as-imperial-joins-others-in-boycott-of-universities-green-league
 category: news
 

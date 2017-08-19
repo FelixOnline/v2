@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:22:54 +0100"
 id: "6138"
 old_path: /sport/6138/flying-high-with-imperial-frisbee
-redirect_from:
+aliases:
  - /sport/6138/flying-high-with-imperial-frisbee
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 10:42:43 +0100"
 id: "5583"
 old_path: /film/5583/dreaming-of-a-better-film
-redirect_from:
+aliases:
  - /film/5583/dreaming-of-a-better-film
 category: film
 

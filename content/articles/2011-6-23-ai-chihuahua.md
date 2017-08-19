@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 21:18:27 +0100"
 id: "1436"
 old_path: /food/1436/ai-chihuahua
-redirect_from:
+aliases:
  - /food/1436/ai-chihuahua
 category: food
 

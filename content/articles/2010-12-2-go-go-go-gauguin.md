@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:11:26 +0000"
 id: "461"
 old_path: /arts/461/go-go-go-gauguin
-redirect_from:
+aliases:
  - /arts/461/go-go-go-gauguin
 category: arts
 

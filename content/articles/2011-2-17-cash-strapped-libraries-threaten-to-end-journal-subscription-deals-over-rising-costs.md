@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 18:54:41 +0000"
 id: "808"
 old_path: /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
-redirect_from:
+aliases:
  - /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
 category: news
 

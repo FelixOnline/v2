@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:47:50 +0000"
 id: "1655"
 old_path: /science/1655/dwarf-planet-eris-is-plutos-twin
-redirect_from:
+aliases:
  - /science/1655/dwarf-planet-eris-is-plutos-twin
 category: science
 

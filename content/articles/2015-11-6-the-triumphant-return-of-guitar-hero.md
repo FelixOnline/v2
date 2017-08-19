@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:23:43 +0000"
 id: "5713"
 old_path: /games/5713/the-triumphant-return-of-guitar-hero-
-redirect_from:
+aliases:
  - /games/5713/the-triumphant-return-of-guitar-hero-
 category: games
 

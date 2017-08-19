@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 18:08:22 +0000"
 id: "4080"
 old_path: /music/4080/ams-album-of-the-week-the-albatross
-redirect_from:
+aliases:
  - /music/4080/ams-album-of-the-week-the-albatross
 category: music
 

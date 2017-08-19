@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-14 16:16:46 +0000"
 id: "5817"
 old_path: /games/5817/felixs-top-games-of-2015-gif-edition
-redirect_from:
+aliases:
  - /games/5817/felixs-top-games-of-2015-gif-edition
 category: games
 

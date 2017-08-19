@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:45:49 +0000"
 id: "6580"
 old_path: /tv/6580/invasion
-redirect_from:
+aliases:
  - /tv/6580/invasion
 category: tv
 

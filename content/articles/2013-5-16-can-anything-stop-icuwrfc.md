@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 17:52:15 +0100"
 id: "3574"
 old_path: /sport/3574/can-anything-stop-icuwrfc
-redirect_from:
+aliases:
  - /sport/3574/can-anything-stop-icuwrfc
 category: sport
 

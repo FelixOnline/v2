@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 19:44:31 +0100"
 id: "5630"
 old_path: /politics/5630/the-leadership-races-to-watch-over-the-summer-
-redirect_from:
+aliases:
  - /politics/5630/the-leadership-races-to-watch-over-the-summer-
 category: politics
 

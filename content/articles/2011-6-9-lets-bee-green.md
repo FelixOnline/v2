@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:29:41 +0100"
 id: "1351"
 old_path: /news/1351/lets-bee-green
-redirect_from:
+aliases:
  - /news/1351/lets-bee-green
 category: news
 

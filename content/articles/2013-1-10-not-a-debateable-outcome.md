@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:03:46 +0000"
 id: "3077"
 old_path: /news/3077/not-a-debateable-outcome
-redirect_from:
+aliases:
  - /news/3077/not-a-debateable-outcome
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:58:38 +0100"
 id: "6150"
 old_path: /features/6150/virtual-reality-porn-is-a-game-changer
-redirect_from:
+aliases:
  - /features/6150/virtual-reality-porn-is-a-game-changer
 category: features
 

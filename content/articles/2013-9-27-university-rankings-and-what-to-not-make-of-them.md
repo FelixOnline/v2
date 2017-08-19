@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-27 23:40:16 +0100"
 id: "3765"
 old_path: /features/3765/university-rankings-and-what-to-not-make-of-them
-redirect_from:
+aliases:
  - /features/3765/university-rankings-and-what-to-not-make-of-them
 category: features
 

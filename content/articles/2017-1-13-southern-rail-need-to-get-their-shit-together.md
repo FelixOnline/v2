@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:00:51 +0000"
 id: "6634"
 old_path: /comment/6634/southern-rail-need-to-get-their-shit-together
-redirect_from:
+aliases:
  - /comment/6634/southern-rail-need-to-get-their-shit-together
 category: comment
 

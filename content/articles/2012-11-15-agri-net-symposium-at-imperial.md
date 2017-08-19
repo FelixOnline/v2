@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:06:29 +0000"
 id: "2892"
 old_path: /science/2892/agri-net-symposium-at-imperial
-redirect_from:
+aliases:
  - /science/2892/agri-net-symposium-at-imperial
 category: science
 

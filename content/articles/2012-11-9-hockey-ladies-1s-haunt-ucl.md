@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:30:16 +0000"
 id: "2874"
 old_path: /sport/2874/hockey-ladies-1s-haunt-ucl
-redirect_from:
+aliases:
  - /sport/2874/hockey-ladies-1s-haunt-ucl
 category: sport
 

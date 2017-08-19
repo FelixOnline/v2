@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:30:30 +0000"
 id: "1761"
 old_path: /science/1761/quantum-information
-redirect_from:
+aliases:
  - /science/1761/quantum-information
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:55:00 +0000"
 id: "6065"
 old_path: /games/6065/superhot-is-super-fun
-redirect_from:
+aliases:
  - /games/6065/superhot-is-super-fun
 category: games
 

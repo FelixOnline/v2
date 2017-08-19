@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:15:40 +0000"
 id: "4366"
 old_path: /science/4366/first-gm-monkeys-born-in-china
-redirect_from:
+aliases:
  - /science/4366/first-gm-monkeys-born-in-china
 category: science
 

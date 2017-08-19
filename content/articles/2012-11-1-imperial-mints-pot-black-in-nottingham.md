@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:04:56 +0000"
 id: "2809"
 old_path: /sport/2809/imperial-mints-pot-black-in-nottingham
-redirect_from:
+aliases:
  - /sport/2809/imperial-mints-pot-black-in-nottingham
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:51:43 +0000"
 id: "316"
 old_path: /politics/316/un-calls-rector-in-india-pakistan-dispute
-redirect_from:
+aliases:
  - /politics/316/un-calls-rector-in-india-pakistan-dispute
 category: politics
 

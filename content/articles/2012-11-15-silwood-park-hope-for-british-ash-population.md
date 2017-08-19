@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:02:27 +0000"
 id: "2889"
 old_path: /science/2889/silwood-park-hope-for-british-ash-population
-redirect_from:
+aliases:
  - /science/2889/silwood-park-hope-for-british-ash-population
 category: science
 

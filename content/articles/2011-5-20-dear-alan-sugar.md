@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 04:29:05 +0100"
 id: "1217"
 old_path: /tv/1217/dear-alan-sugar
-redirect_from:
+aliases:
  - /tv/1217/dear-alan-sugar
 category: tv
 

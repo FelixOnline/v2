@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:48:50 +0000"
 id: "4466"
 old_path: /music/4466/emiels-guide-to-classical-music-episode-8
-redirect_from:
+aliases:
  - /music/4466/emiels-guide-to-classical-music-episode-8
 category: music
 

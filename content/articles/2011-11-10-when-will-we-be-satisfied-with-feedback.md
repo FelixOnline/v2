@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:30:02 +0000"
 id: "1713"
 old_path: /comment/1713/when-will-we-be-satisfied-with-feedback
-redirect_from:
+aliases:
  - /comment/1713/when-will-we-be-satisfied-with-feedback
 category: comment
 

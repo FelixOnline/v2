@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:30:20 +0000"
 id: "1835"
 old_path: /arts/1835/devil-may-blair
-redirect_from:
+aliases:
  - /arts/1835/devil-may-blair
 category: arts
 

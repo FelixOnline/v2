@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:25:37 +0000"
 id: "2927"
 old_path: /news/2927/union-hiring-new-staff
-redirect_from:
+aliases:
  - /news/2927/union-hiring-new-staff
 category: news
 

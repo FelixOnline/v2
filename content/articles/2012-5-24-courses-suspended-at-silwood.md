@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 22:36:27 +0100"
 id: "2481"
 old_path: /news/2481/courses-suspended-at-silwood
-redirect_from:
+aliases:
  - /news/2481/courses-suspended-at-silwood
 category: news
 

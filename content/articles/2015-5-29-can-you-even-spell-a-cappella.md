@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 10:54:26 +0100"
 id: "5584"
 old_path: /film/5584/can-you-even-spell-a-cappella
-redirect_from:
+aliases:
  - /film/5584/can-you-even-spell-a-cappella
 category: film
 

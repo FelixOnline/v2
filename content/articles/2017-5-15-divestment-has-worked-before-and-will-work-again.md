@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 15:57:18 +0100"
 id: "6948"
 old_path: /comment/6948/divestment-has-worked-before-and-will-work-again
-redirect_from:
+aliases:
  - /comment/6948/divestment-has-worked-before-and-will-work-again
 category: comment
 

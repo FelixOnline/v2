@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:42:33 +0000"
 id: "5969"
 old_path: /film/5969/the-good-the-bad-and-the-cannibalistic
-redirect_from:
+aliases:
  - /film/5969/the-good-the-bad-and-the-cannibalistic
 category: film
 

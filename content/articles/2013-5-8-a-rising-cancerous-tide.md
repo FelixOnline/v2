@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 16:31:22 +0100"
 id: "3549"
 old_path: /science/3549/a-rising-cancerous-tide
-redirect_from:
+aliases:
  - /science/3549/a-rising-cancerous-tide
 category: science
 

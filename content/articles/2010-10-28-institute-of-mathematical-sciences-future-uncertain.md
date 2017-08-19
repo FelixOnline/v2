@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 20:06:16 +0100"
 id: "289"
 old_path: /news/289/institute-of-mathematical-sciences-future-uncertain
-redirect_from:
+aliases:
  - /news/289/institute-of-mathematical-sciences-future-uncertain
 category: news
 

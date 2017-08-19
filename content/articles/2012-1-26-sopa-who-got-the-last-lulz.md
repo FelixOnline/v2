@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:57:20 +0000"
 id: "2071"
 old_path: /comment/2071/sopa-who-got-the-last-lulz
-redirect_from:
+aliases:
  - /comment/2071/sopa-who-got-the-last-lulz
 category: comment
 

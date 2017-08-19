@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:41:48 +0000"
 id: "2069"
 old_path: /science/2069/new-milestones-reached-in-fight-against-alzheimers-
-redirect_from:
+aliases:
  - /science/2069/new-milestones-reached-in-fight-against-alzheimers-
 category: science
 

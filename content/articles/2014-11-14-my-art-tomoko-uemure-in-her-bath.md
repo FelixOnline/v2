@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:48:51 +0000"
 id: "4876"
 old_path: /arts/4876/my-art-tomoko-uemure-in-her-bath
-redirect_from:
+aliases:
  - /arts/4876/my-art-tomoko-uemure-in-her-bath
 category: arts
 

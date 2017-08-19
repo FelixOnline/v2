@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-15 10:51:10 +0000"
 id: "5738"
 old_path: /film/5738/warriors-ambitious-subject-matter-fails-to-pack-a-punch
-redirect_from:
+aliases:
  - /film/5738/warriors-ambitious-subject-matter-fails-to-pack-a-punch
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 02:49:11 +0100"
 id: "1211"
 old_path: /sport/1211/mens-football-beat-kings-in-ulu-plate-final
-redirect_from:
+aliases:
  - /sport/1211/mens-football-beat-kings-in-ulu-plate-final
 category: sport
 

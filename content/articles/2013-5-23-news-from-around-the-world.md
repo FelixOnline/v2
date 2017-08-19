@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:12:46 +0100"
 id: "3611"
 old_path: /politics/3611/news-from-around-the-world
-redirect_from:
+aliases:
  - /politics/3611/news-from-around-the-world
 category: politics
 

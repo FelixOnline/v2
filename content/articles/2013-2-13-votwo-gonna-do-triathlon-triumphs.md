@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 15:52:02 +0000"
 id: "3308"
 old_path: /sport/3308/votwo-gonna-do-triathlon-triumphs
-redirect_from:
+aliases:
  - /sport/3308/votwo-gonna-do-triathlon-triumphs
 category: sport
 

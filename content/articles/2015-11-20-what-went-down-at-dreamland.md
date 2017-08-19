@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:25:42 +0000"
 id: "5755"
 old_path: /music/5755/what-went-down-at-dreamland
-redirect_from:
+aliases:
  - /music/5755/what-went-down-at-dreamland
 category: music
 

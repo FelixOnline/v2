@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:30:00 +0000"
 id: "647"
 old_path: /news/647/kennedy-institute-to-close-
-redirect_from:
+aliases:
  - /news/647/kennedy-institute-to-close-
 category: news
 

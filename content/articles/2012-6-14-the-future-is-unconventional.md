@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:09:00 +0100"
 id: "2557"
 old_path: /science/2557/the-future-is-unconventional
-redirect_from:
+aliases:
  - /science/2557/the-future-is-unconventional
 category: science
 

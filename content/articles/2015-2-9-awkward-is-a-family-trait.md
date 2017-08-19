@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:37:29 +0000"
 id: "5226"
 old_path: /tv/5226/awkward-is-a-family-trait
-redirect_from:
+aliases:
  - /tv/5226/awkward-is-a-family-trait
 category: tv
 

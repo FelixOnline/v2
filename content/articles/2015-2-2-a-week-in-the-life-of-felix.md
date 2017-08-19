@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-02 14:25:33 +0000"
 id: "5177"
 old_path: /cands/5177/a-week-in-the-life-of-felix
-redirect_from:
+aliases:
  - /cands/5177/a-week-in-the-life-of-felix
 category: clubs-and-socs
 

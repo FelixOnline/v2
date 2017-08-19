@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:24:37 +0000"
 id: "3114"
 old_path: /games/3114/controverz
-redirect_from:
+aliases:
  - /games/3114/controverz
 category: games
 

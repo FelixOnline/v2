@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-07 19:21:50 +0100"
 id: "3541"
 old_path: /books/3541/summer-short-reads
-redirect_from:
+aliases:
  - /books/3541/summer-short-reads
 category: books
 

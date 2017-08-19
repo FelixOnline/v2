@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-20 00:49:38 +0000"
 id: "5417"
 old_path: /science/5417/whats-your-angle-willows-and-biofuels
-redirect_from:
+aliases:
  - /science/5417/whats-your-angle-willows-and-biofuels
 category: science
 

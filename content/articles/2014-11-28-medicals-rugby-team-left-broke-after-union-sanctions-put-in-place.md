@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:42:43 +0000"
 id: "4962"
 old_path: /news/4962/medicals-rugby-team-left-broke-after-union-sanctions-put-in-place
-redirect_from:
+aliases:
  - /news/4962/medicals-rugby-team-left-broke-after-union-sanctions-put-in-place
 category: news
 

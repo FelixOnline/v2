@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:16:39 +0100"
 id: "2487"
 old_path: /comment/2487/the-tale-of-why-i-hate-food-shopping
-redirect_from:
+aliases:
  - /comment/2487/the-tale-of-why-i-hate-food-shopping
 category: comment
 

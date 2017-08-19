@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:17:23 +0100"
 id: "257"
 old_path: /arts/257/bone-chilling-west-end-ghost-stories
-redirect_from:
+aliases:
  - /arts/257/bone-chilling-west-end-ghost-stories
 category: arts
 

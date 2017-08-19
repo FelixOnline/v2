@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:47:20 +0000"
 id: "2932"
 old_path: /news/2932/imperial-kitesurf-zero2hero
-redirect_from:
+aliases:
  - /news/2932/imperial-kitesurf-zero2hero
 category: news
 

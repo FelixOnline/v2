@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:44:30 +0100"
 id: "6116"
 old_path: /news/6116/imperial-a-cappella-group-wins-world-championships
-redirect_from:
+aliases:
  - /news/6116/imperial-a-cappella-group-wins-world-championships
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 14:00:00 +0100"
 id: "4615"
 old_path: /film/4615/the-big-hit-of-sundance-2014
-redirect_from:
+aliases:
  - /film/4615/the-big-hit-of-sundance-2014
 category: film
 

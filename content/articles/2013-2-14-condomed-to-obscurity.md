@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 11:42:31 +0000"
 id: "3319"
 old_path: /science/3319/condomed-to-obscurity
-redirect_from:
+aliases:
  - /science/3319/condomed-to-obscurity
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:28:18 +0100"
 id: "3929"
 old_path: /arts/3929/cho-chang-goes-to-work-in-a-chinese-factory
-redirect_from:
+aliases:
  - /arts/3929/cho-chang-goes-to-work-in-a-chinese-factory
 category: arts
 

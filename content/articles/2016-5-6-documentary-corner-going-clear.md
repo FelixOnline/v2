@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:14:14 +0100"
 id: "6132"
 old_path: /film/6132/documentary-corner-going-clear-
-redirect_from:
+aliases:
  - /film/6132/documentary-corner-going-clear-
 category: film
 

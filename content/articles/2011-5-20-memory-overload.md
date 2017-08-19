@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:49:56 +0100"
 id: "1228"
 old_path: /comment/1228/memory-overload
-redirect_from:
+aliases:
  - /comment/1228/memory-overload
 category: comment
 

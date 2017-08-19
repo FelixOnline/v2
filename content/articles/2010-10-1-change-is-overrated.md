@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 22:34:25 +0100"
 id: "164"
 old_path: /comment/164/change-is-overrated
-redirect_from:
+aliases:
  - /comment/164/change-is-overrated
 category: comment
 

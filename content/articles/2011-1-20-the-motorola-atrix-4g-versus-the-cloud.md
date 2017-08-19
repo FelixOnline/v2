@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:16:51 +0000"
 id: "602"
 old_path: /tech/602/the-motorola-atrix-4g-versus-the-cloud
-redirect_from:
+aliases:
  - /tech/602/the-motorola-atrix-4g-versus-the-cloud
 category: tech
 

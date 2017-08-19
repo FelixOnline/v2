@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:19:41 +0000"
 id: "5711"
 old_path: /music/5711/iglooghosts-latest-ep-is-full-on-wonky
-redirect_from:
+aliases:
  - /music/5711/iglooghosts-latest-ep-is-full-on-wonky
 category: music
 

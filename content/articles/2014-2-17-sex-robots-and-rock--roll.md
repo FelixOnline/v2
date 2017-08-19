@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:16:30 +0000"
 id: "4388"
 old_path: /science/4388/sex-robots-and-rock--roll-
-redirect_from:
+aliases:
  - /science/4388/sex-robots-and-rock--roll-
 category: science
 

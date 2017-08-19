@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 20:56:27 +0000"
 id: "3420"
 old_path: /comment/3420/in-search-of-inspiration
-redirect_from:
+aliases:
  - /comment/3420/in-search-of-inspiration
 category: comment
 

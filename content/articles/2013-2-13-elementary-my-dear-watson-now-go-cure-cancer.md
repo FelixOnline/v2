@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 12:38:58 +0000"
 id: "3296"
 old_path: /tech/3296/elementary-my-dear-watson-now-go-cure-cancer
-redirect_from:
+aliases:
  - /tech/3296/elementary-my-dear-watson-now-go-cure-cancer
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 12:39:35 +0100"
 id: "1167"
 old_path: /film/1167/bollywood-bite
-redirect_from:
+aliases:
  - /film/1167/bollywood-bite
 category: film
 

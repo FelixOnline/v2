@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 18:13:46 +0000"
 id: "4083"
 old_path: /tv/4083/television-for-the-attention-deficit
-redirect_from:
+aliases:
  - /tv/4083/television-for-the-attention-deficit
 category: tv
 

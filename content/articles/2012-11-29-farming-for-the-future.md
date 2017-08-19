@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:16:55 +0000"
 id: "2987"
 old_path: /science/2987/farming-for-the-future
-redirect_from:
+aliases:
  - /science/2987/farming-for-the-future
 category: science
 

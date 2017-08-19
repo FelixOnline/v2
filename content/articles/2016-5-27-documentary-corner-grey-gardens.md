@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 09:00:24 +0100"
 id: "6216"
 old_path: /film/6216/documentary-corner-grey-gardens
-redirect_from:
+aliases:
  - /film/6216/documentary-corner-grey-gardens
 category: film
 

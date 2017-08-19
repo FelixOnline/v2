@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:02:19 +0000"
 id: "6636"
 old_path: /comment/6636/imperial-trump-and-other-things-that-piss-sara-off
-redirect_from:
+aliases:
  - /comment/6636/imperial-trump-and-other-things-that-piss-sara-off
 category: comment
 

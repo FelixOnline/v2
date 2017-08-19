@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:40:12 +0000"
 id: "6886"
 old_path: /cands/6886/netball-club-exetour
-redirect_from:
+aliases:
  - /cands/6886/netball-club-exetour
 category: clubs-and-socs
 

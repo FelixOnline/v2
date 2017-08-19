@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 22:43:14 +0000"
 id: "2102"
 old_path: /tv/2102/sex-drugs-violence-and-my-little-pony
-redirect_from:
+aliases:
  - /tv/2102/sex-drugs-violence-and-my-little-pony
 category: tv
 

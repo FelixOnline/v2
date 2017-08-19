@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:32:08 +0000"
 id: "4764"
 old_path: /comment/4764/poppies-will-put-them-to-sleep
-redirect_from:
+aliases:
  - /comment/4764/poppies-will-put-them-to-sleep
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:39:07 +0000"
 id: "4261"
 old_path: /sport/4261/ic-put-bristol-mini-tour-to-full-use
-redirect_from:
+aliases:
  - /sport/4261/ic-put-bristol-mini-tour-to-full-use
 category: sport
 

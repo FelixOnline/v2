@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 20:21:43 +0100"
 id: "1340"
 old_path: /phoenix/1340/the-continent-of-hope
-redirect_from:
+aliases:
  - /phoenix/1340/the-continent-of-hope
 category: phoenix
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 23:45:17 +0000"
 id: "3348"
 old_path: /comment/3348/all-students-deserve-the-same-experience
-redirect_from:
+aliases:
  - /comment/3348/all-students-deserve-the-same-experience
 category: comment
 

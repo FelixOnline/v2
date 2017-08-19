@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:51:52 +0000"
 id: "2904"
 old_path: /film/2904/kneel-obey-submit-comply-surrender
-redirect_from:
+aliases:
  - /film/2904/kneel-obey-submit-comply-surrender
 category: film
 

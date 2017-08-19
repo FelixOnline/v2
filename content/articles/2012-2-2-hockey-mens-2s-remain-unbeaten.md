@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:05:16 +0000"
 id: "2105"
 old_path: /sport/2105/hockey-mens-2s-remain-unbeaten
-redirect_from:
+aliases:
  - /sport/2105/hockey-mens-2s-remain-unbeaten
 category: sport
 

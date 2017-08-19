@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:32:54 +0000"
 id: "6052"
 old_path: /news/6052/business-schools-speak-of-visa-trouble
-redirect_from:
+aliases:
  - /news/6052/business-schools-speak-of-visa-trouble
 category: news
 

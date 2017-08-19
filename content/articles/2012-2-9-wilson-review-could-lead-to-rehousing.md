@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:31:49 +0000"
 id: "2152"
 old_path: /news/2152/wilson-review-could-lead-to-rehousing
-redirect_from:
+aliases:
  - /news/2152/wilson-review-could-lead-to-rehousing
 category: news
 

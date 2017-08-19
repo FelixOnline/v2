@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:17:18 +0100"
 id: "3953"
 old_path: /sport/3953/imperial-brush-aside-the-medics
-redirect_from:
+aliases:
  - /sport/3953/imperial-brush-aside-the-medics
 category: sport
 

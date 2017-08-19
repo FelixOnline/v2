@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-06 09:36:49 +0100"
 id: "3747"
 old_path: /science/3747/commute-your-way-to-good-health
-redirect_from:
+aliases:
  - /science/3747/commute-your-way-to-good-health
 category: science
 

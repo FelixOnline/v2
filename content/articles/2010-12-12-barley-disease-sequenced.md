@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 13:50:32 +0000"
 id: "550"
 old_path: /science/550/barley-disease-sequenced
-redirect_from:
+aliases:
  - /science/550/barley-disease-sequenced
 category: science
 

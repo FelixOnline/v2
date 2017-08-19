@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:38:01 +0100"
 id: "3858"
 old_path: /tech/3858/3-d-printers-take-off
-redirect_from:
+aliases:
  - /tech/3858/3-d-printers-take-off
 category: tech
 

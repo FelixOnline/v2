@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:59:00 +0000"
 id: "924"
 old_path: /sport/924/gaelic-footballers-fall-short-of-silverware
-redirect_from:
+aliases:
  - /sport/924/gaelic-footballers-fall-short-of-silverware
 category: sport
 

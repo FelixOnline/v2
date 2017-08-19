@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-03 23:08:04 +0100"
 id: "3796"
 old_path: /news/3796/fisher-halls-are-fishy-
-redirect_from:
+aliases:
  - /news/3796/fisher-halls-are-fishy-
 category: news
 

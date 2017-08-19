@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 01:41:40 +0000"
 id: "82"
 old_path: /comment/82/oh-hackery
-redirect_from:
+aliases:
  - /comment/82/oh-hackery
 category: comment
 

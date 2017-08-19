@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 17:47:18 +0100"
 id: "3666"
 old_path: /tech/3666/updating-android-without-updating
-redirect_from:
+aliases:
  - /tech/3666/updating-android-without-updating
 category: tech
 

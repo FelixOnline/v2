@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:35:27 +0100"
 id: "3679"
 old_path: /comment/3679/deportation-woes
-redirect_from:
+aliases:
  - /comment/3679/deportation-woes
 category: comment
 

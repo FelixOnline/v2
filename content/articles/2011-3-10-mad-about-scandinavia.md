@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:58:34 +0000"
 id: "1079"
 old_path: /food/1079/mad-about-scandinavia-
-redirect_from:
+aliases:
  - /food/1079/mad-about-scandinavia-
 category: food
 

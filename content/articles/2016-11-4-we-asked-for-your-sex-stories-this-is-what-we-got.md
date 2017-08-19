@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 15:48:56 +0000"
 id: "6400"
 old_path: /sex/6400/we-asked-for-your-sex-stories-this-is-what-we-got
-redirect_from:
+aliases:
  - /sex/6400/we-asked-for-your-sex-stories-this-is-what-we-got
 category: sex
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-20 14:54:52 +0100"
 id: "6085"
 old_path: /features/6085/were-having-a-mayor-off
-redirect_from:
+aliases:
  - /features/6085/were-having-a-mayor-off
 category: features
 

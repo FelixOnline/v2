@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:32:24 +0000"
 id: "5028"
 old_path: /science/5028/a-decade-of-discovery
-redirect_from:
+aliases:
  - /science/5028/a-decade-of-discovery
 category: science
 

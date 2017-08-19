@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:57:31 +0000"
 id: "4013"
 old_path: /sport/4013/imperial-thump-rums-in-shenley
-redirect_from:
+aliases:
  - /sport/4013/imperial-thump-rums-in-shenley
 category: sport
 

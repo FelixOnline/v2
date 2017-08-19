@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:48:56 +0000"
 id: "6553"
 old_path: /sport/6553/ic-deserve-leos-oscar-after-beating-bears
-redirect_from:
+aliases:
  - /sport/6553/ic-deserve-leos-oscar-after-beating-bears
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 20:42:41 +0000"
 id: "4909"
 old_path: /science/4909/shh-philae-is-fast-asleep
-redirect_from:
+aliases:
  - /science/4909/shh-philae-is-fast-asleep
 category: science
 

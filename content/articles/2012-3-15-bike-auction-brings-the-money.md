@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:20:21 +0000"
 id: "2378"
 old_path: /news/2378/bike-auction-brings-the-money-
-redirect_from:
+aliases:
  - /news/2378/bike-auction-brings-the-money-
 category: news
 

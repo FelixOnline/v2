@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 10:46:31 +0000"
 id: "3978"
 old_path: /comment/3978/royalties-from-the-royalty
-redirect_from:
+aliases:
  - /comment/3978/royalties-from-the-royalty
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 15:29:22 +0000"
 id: "5693"
 old_path: /sport/5693/immortals-put-through-their-paces
-redirect_from:
+aliases:
  - /sport/5693/immortals-put-through-their-paces
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-20 12:10:50 +0000"
 id: "2042"
 old_path: /sport/2042/hockey-mens-3s-move-into-top-spot
-redirect_from:
+aliases:
  - /sport/2042/hockey-mens-3s-move-into-top-spot
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:42:03 +0000"
 id: "6809"
 old_path: /news/6809/greens-speak-up-for-suspended-students
-redirect_from:
+aliases:
  - /news/6809/greens-speak-up-for-suspended-students
 category: news
 

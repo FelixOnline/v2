@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:54:57 +0000"
 id: "3494"
 old_path: /music/3494/so-epic-it-hurts
-redirect_from:
+aliases:
  - /music/3494/so-epic-it-hurts
 category: music
 

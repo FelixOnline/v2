@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 20:59:01 +0000"
 id: "2100"
 old_path: /books/2100/the-kingkiller-chronicle
-redirect_from:
+aliases:
  - /books/2100/the-kingkiller-chronicle
 category: books
 

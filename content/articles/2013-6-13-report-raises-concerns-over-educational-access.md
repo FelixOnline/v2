@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:22:13 +0100"
 id: "3692"
 old_path: /news/3692/report-raises-concerns-over-educational-access
-redirect_from:
+aliases:
  - /news/3692/report-raises-concerns-over-educational-access
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:25:21 +0000"
 id: "5996"
 old_path: /news/5996/ucl-rent-strike-steps-up-a-gear
-redirect_from:
+aliases:
  - /news/5996/ucl-rent-strike-steps-up-a-gear
 category: news
 

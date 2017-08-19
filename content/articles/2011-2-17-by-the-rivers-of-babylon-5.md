@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:39:21 +0000"
 id: "847"
 old_path: /science/847/by-the-rivers-of-babylon-5
-redirect_from:
+aliases:
  - /science/847/by-the-rivers-of-babylon-5
 category: science
 

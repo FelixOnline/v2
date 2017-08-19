@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 22:30:46 +0100"
 id: "163"
 old_path: /comment/163/you-must-join-the-debate
-redirect_from:
+aliases:
  - /comment/163/you-must-join-the-debate
 category: comment
 

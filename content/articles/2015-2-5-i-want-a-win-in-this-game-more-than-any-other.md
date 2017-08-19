@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 13:22:53 +0000"
 id: "5192"
 old_path: /sport/5192/i-want-a-win-in-this-game-more-than-any-other
-redirect_from:
+aliases:
  - /sport/5192/i-want-a-win-in-this-game-more-than-any-other
 category: sport
 

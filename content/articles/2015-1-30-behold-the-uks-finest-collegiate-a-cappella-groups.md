@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-30 00:06:41 +0000"
 id: "5162"
 old_path: /features/5162/behold-the-uks-finest-collegiate-a-cappella-groups
-redirect_from:
+aliases:
  - /features/5162/behold-the-uks-finest-collegiate-a-cappella-groups
 category: features
 

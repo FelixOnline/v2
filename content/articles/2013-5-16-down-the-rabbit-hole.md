@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 15:13:26 +0100"
 id: "3568"
 old_path: /music/3568/down-the-rabbit-hole
-redirect_from:
+aliases:
  - /music/3568/down-the-rabbit-hole
 category: music
 

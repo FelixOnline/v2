@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:14:42 +0100"
 id: "4624"
 old_path: /film/4624/youre-gonna-hear-me-roar
-redirect_from:
+aliases:
  - /film/4624/youre-gonna-hear-me-roar
 category: film
 

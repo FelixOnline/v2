@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:08:27 +0100"
 id: "1410"
 old_path: /news/1410/disappointing-summer-ball-turnout
-redirect_from:
+aliases:
  - /news/1410/disappointing-summer-ball-turnout
 category: news
 

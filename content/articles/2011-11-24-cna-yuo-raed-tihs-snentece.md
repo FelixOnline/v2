@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:04:17 +0000"
 id: "1813"
 old_path: /science/1813/cna-yuo-raed-tihs-snentece
-redirect_from:
+aliases:
  - /science/1813/cna-yuo-raed-tihs-snentece
 category: science
 

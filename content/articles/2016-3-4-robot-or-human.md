@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:42:49 +0000"
 id: "6006"
 old_path: /tv/6006/robot-or-human
-redirect_from:
+aliases:
  - /tv/6006/robot-or-human
 category: tv
 

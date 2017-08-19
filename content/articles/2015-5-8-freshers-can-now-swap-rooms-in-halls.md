@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 00:10:19 +0100"
 id: "5499"
 old_path: /news/5499/freshers-can-now-swap-rooms-in-halls
-redirect_from:
+aliases:
  - /news/5499/freshers-can-now-swap-rooms-in-halls
 category: news
 

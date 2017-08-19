@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:13:09 +0000"
 id: "6666"
 old_path: /science/6666/fish-from-the-med-good-for-the-head
-redirect_from:
+aliases:
  - /science/6666/fish-from-the-med-good-for-the-head
 category: science
 

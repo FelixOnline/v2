@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 17:09:39 +0000"
 id: "65"
 old_path: /comment/65/the-abuse-of-sympathy
-redirect_from:
+aliases:
  - /comment/65/the-abuse-of-sympathy
 category: comment
 

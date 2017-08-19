@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:53:50 +0000"
 id: "1876"
 old_path: /music/1876/origin-of-symmetry
-redirect_from:
+aliases:
  - /music/1876/origin-of-symmetry
 category: music
 

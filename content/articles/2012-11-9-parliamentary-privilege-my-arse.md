@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 11:51:51 +0000"
 id: "2842"
 old_path: /comment/2842/parliamentary-privilege-my-arse
-redirect_from:
+aliases:
  - /comment/2842/parliamentary-privilege-my-arse
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:51:08 +0000"
 id: "2199"
 old_path: /science/2199/worlds-thinnest-pane-of-glass-unveiled
-redirect_from:
+aliases:
  - /science/2199/worlds-thinnest-pane-of-glass-unveiled
 category: science
 

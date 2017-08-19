@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:09:18 +0000"
 id: "5426"
 old_path: /tv/5426/house-a-post-mortem
-redirect_from:
+aliases:
  - /tv/5426/house-a-post-mortem
 category: tv
 

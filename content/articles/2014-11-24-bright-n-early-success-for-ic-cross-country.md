@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 20:16:32 +0000"
 id: "4951"
 old_path: /sport/4951/bright-n-early-success-for-ic-cross-country
-redirect_from:
+aliases:
  - /sport/4951/bright-n-early-success-for-ic-cross-country
 category: sport
 

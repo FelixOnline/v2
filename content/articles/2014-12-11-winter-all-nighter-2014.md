@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:59:27 +0000"
 id: "5032"
 old_path: /film/5032/winter-all-nighter-2014
-redirect_from:
+aliases:
  - /film/5032/winter-all-nighter-2014
 category: film
 

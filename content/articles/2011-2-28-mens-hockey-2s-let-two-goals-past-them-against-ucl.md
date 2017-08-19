@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:08:26 +0000"
 id: "940"
 old_path: /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
-redirect_from:
+aliases:
  - /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
 category: sport
 

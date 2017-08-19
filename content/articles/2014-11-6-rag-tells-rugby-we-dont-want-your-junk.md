@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 22:09:43 +0000"
 id: "4811"
 old_path: /news/4811/rag-tells-rugby-we-dont-want-your-junk
-redirect_from:
+aliases:
  - /news/4811/rag-tells-rugby-we-dont-want-your-junk
 category: news
 

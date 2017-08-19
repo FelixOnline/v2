@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:01:06 +0000"
 id: "5704"
 old_path: /science/5704/go-home-comet-youre-drunk
-redirect_from:
+aliases:
  - /science/5704/go-home-comet-youre-drunk
 category: science
 

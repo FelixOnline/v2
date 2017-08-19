@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:35:22 +0000"
 id: "5806"
 old_path: /film/5806/the-top-western-films-that-arent-the-good-the-bad-and-the-ugly
-redirect_from:
+aliases:
  - /film/5806/the-top-western-films-that-arent-the-good-the-bad-and-the-ugly
 category: film
 

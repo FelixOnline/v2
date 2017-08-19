@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:43:16 +0000"
 id: "2158"
 old_path: /news/2158/holland-club-change-on-the-cards-
-redirect_from:
+aliases:
  - /news/2158/holland-club-change-on-the-cards-
 category: news
 

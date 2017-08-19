@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:03:42 +0100"
 id: "231"
 old_path: /science/231/radical-change-needed-to-fight-co2-emissions
-redirect_from:
+aliases:
  - /science/231/radical-change-needed-to-fight-co2-emissions
 category: science
 

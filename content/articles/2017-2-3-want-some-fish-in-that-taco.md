@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:37:58 +0000"
 id: "6734"
 old_path: /food/6734/want-some-fish-in-that-taco
-redirect_from:
+aliases:
  - /food/6734/want-some-fish-in-that-taco
 category: food
 

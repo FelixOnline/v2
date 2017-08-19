@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 18:54:25 +0100"
 id: "6306"
 old_path: /comment/6306/remaining-to-keep-africa-impoverished
-redirect_from:
+aliases:
  - /comment/6306/remaining-to-keep-africa-impoverished
 category: comment
 

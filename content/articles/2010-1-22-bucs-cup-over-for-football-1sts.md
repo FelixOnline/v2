@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 13:18:32 +0000"
 id: "47"
 old_path: /sport/47/bucs-cup-over-for-football-1sts
-redirect_from:
+aliases:
  - /sport/47/bucs-cup-over-for-football-1sts
 category: sport
 

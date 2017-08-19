@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 15:29:43 +0000"
 id: "99"
 old_path: /film/99/the-road-review
-redirect_from:
+aliases:
  - /film/99/the-road-review
 category: film
 

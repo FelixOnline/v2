@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:14:05 +0000"
 id: "4193"
 old_path: /arts/4193/the-government-inspector
-redirect_from:
+aliases:
  - /arts/4193/the-government-inspector
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:40:20 +0000"
 id: "2093"
 old_path: /science/2093/putting-a-pause-on-influenza-research
-redirect_from:
+aliases:
  - /science/2093/putting-a-pause-on-influenza-research
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:50:59 +0100"
 id: "3940"
 old_path: /film/3940/feeling-blue
-redirect_from:
+aliases:
  - /film/3940/feeling-blue
 category: film
 

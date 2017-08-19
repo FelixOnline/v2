@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:32:56 +0100"
 id: "1538"
 old_path: /comment/1538/im-a-girl-with-opinions-just-deal-with-it
-redirect_from:
+aliases:
  - /comment/1538/im-a-girl-with-opinions-just-deal-with-it
 category: comment
 

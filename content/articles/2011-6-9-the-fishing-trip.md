@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 18:36:33 +0100"
 id: "1333"
 old_path: /phoenix/1333/the-fishing-trip
-redirect_from:
+aliases:
  - /phoenix/1333/the-fishing-trip
 category: phoenix
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:38:02 +0000"
 id: "583"
 old_path: /tech/583/top-tech-to-keep-your-eye-on-in-2011
-redirect_from:
+aliases:
  - /tech/583/top-tech-to-keep-your-eye-on-in-2011
 category: tech
 

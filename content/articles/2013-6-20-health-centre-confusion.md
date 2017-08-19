@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:42:31 +0100"
 id: "3726"
 old_path: /news/3726/health-centre-confusion
-redirect_from:
+aliases:
  - /news/3726/health-centre-confusion
 category: news
 

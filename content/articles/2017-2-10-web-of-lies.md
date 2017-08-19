@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:03:57 +0000"
 id: "6752"
 old_path: /science/6752/web-of-lies
-redirect_from:
+aliases:
  - /science/6752/web-of-lies
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:01:18 +0100"
 id: "6152"
 old_path: /features/6152/what-makes-a-good-gum-clinic
-redirect_from:
+aliases:
  - /features/6152/what-makes-a-good-gum-clinic
 category: features
 

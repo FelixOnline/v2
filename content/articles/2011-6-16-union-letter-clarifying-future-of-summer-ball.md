@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:38:52 +0100"
 id: "1395"
 old_path: /comment/1395/union-letter-clarifying-future-of-summer-ball
-redirect_from:
+aliases:
  - /comment/1395/union-letter-clarifying-future-of-summer-ball
 category: comment
 

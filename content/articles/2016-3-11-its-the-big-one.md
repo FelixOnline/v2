@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:14:01 +0000"
 id: "6046"
 old_path: /sport/6046/its-the-big-one
-redirect_from:
+aliases:
  - /sport/6046/its-the-big-one
 category: sport
 

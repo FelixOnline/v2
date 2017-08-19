@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 16:49:40 +0000"
 id: "61"
 old_path: /science/61/reversing-the-arrow-of-time
-redirect_from:
+aliases:
  - /science/61/reversing-the-arrow-of-time
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 01:12:30 +0000"
 id: "3151"
 old_path: /film/3151/inception-the-theory-of-the-ring
-redirect_from:
+aliases:
  - /film/3151/inception-the-theory-of-the-ring
 category: film
 

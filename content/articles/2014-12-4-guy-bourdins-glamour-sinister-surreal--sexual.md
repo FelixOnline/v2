@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:01:06 +0000"
 id: "5007"
 old_path: /arts/5007/guy-bourdins-glamour-sinister-surreal--sexual
-redirect_from:
+aliases:
  - /arts/5007/guy-bourdins-glamour-sinister-surreal--sexual
 category: arts
 

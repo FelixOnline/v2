@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:53:50 +0000"
 id: "3027"
 old_path: /news/3027/podcasting-arrives-well-sort-of
-redirect_from:
+aliases:
  - /news/3027/podcasting-arrives-well-sort-of
 category: news
 

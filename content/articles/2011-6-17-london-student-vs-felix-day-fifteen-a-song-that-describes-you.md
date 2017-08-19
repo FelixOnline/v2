@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-17 12:37:40 +0100"
 id: "1407"
 old_path: /music/1407/london-student-vs-felix-day-fifteen-a-song-that-describes-you
-redirect_from:
+aliases:
  - /music/1407/london-student-vs-felix-day-fifteen-a-song-that-describes-you
 category: music
 

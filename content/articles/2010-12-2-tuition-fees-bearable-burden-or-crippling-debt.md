@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:57:33 +0000"
 id: "501"
 old_path: /news/501/tuition-fees-bearable-burden-or-crippling-debt-
-redirect_from:
+aliases:
  - /news/501/tuition-fees-bearable-burden-or-crippling-debt-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:47:25 +0000"
 id: "851"
 old_path: /science/851/imperial-science-blog-star-up-for-award-
-redirect_from:
+aliases:
  - /science/851/imperial-science-blog-star-up-for-award-
 category: science
 

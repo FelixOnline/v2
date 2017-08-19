@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:30:14 +0000"
 id: "928"
 old_path: /comment/928/pain-in-the-career-
-redirect_from:
+aliases:
  - /comment/928/pain-in-the-career-
 category: comment
 

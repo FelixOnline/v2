@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:06:10 +0000"
 id: "3282"
 old_path: /news/3282/secretary-of-state-for-energy-and-climate-change-to-give-talk-at-imperial
-redirect_from:
+aliases:
  - /news/3282/secretary-of-state-for-energy-and-climate-change-to-give-talk-at-imperial
 category: news
 

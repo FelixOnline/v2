@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 00:58:24 +0100"
 id: "5576"
 old_path: /news/5576/mentality-we-need-to-learn-to-address-stress-and-realise-we-are-all-in-this-together-
-redirect_from:
+aliases:
  - /news/5576/mentality-we-need-to-learn-to-address-stress-and-realise-we-are-all-in-this-together-
 category: news
 

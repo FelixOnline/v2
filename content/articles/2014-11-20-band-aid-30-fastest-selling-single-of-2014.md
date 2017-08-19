@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:43:55 +0000"
 id: "4919"
 old_path: /music/4919/band-aid-30-fastest-selling-single-of-2014
-redirect_from:
+aliases:
  - /music/4919/band-aid-30-fastest-selling-single-of-2014
 category: music
 

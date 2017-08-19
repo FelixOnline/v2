@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:06:33 +0100"
 id: "3577"
 old_path: /science/3577/hipster-mice-display-neurological-individuality
-redirect_from:
+aliases:
  - /science/3577/hipster-mice-display-neurological-individuality
 category: science
 

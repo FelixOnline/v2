@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-25 14:28:57 +0000"
 id: "5832"
 old_path: /comment/5832/the-royals-should-pay-for-themselves
-redirect_from:
+aliases:
  - /comment/5832/the-royals-should-pay-for-themselves
 category: comment
 

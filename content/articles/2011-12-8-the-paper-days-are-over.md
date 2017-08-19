@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:03:21 +0000"
 id: "1907"
 old_path: /biz/1907/the-paper-days-are-over
-redirect_from:
+aliases:
  - /biz/1907/the-paper-days-are-over
 category: business
 

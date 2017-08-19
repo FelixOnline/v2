@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:50:49 +0000"
 id: "920"
 old_path: /sport/920/tennis-first-team-ease-past-exeter-in-bucs-champs-trophy
-redirect_from:
+aliases:
  - /sport/920/tennis-first-team-ease-past-exeter-in-bucs-champs-trophy
 category: sport
 

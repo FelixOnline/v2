@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 04:24:22 +0100"
 id: "1215"
 old_path: /travel/1215/venice-a-pragmatists-guide
-redirect_from:
+aliases:
  - /travel/1215/venice-a-pragmatists-guide
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 12:42:16 +0100"
 id: "6322"
 old_path: /tv/6322/charting-the-evolution-of-south-park
-redirect_from:
+aliases:
  - /tv/6322/charting-the-evolution-of-south-park
 category: tv
 

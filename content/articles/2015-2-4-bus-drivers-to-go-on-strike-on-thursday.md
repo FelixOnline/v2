@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-04 13:32:25 +0000"
 id: "5191"
 old_path: /news/5191/bus-drivers-to-go-on-strike-on-thursday
-redirect_from:
+aliases:
  - /news/5191/bus-drivers-to-go-on-strike-on-thursday
 category: news
 

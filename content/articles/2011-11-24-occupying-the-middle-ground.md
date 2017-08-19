@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:13:57 +0000"
 id: "1848"
 old_path: /comment/1848/occupying-the-middle-ground
-redirect_from:
+aliases:
  - /comment/1848/occupying-the-middle-ground
 category: comment
 

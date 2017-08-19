@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:07:00 +0000"
 id: "6565"
 old_path: /science/6565/spotted--the-seagull-of-nightmares
-redirect_from:
+aliases:
  - /science/6565/spotted--the-seagull-of-nightmares
 category: science
 

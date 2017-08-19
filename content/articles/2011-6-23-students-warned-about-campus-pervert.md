@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 18:55:24 +0100"
 id: "1409"
 old_path: /news/1409/students-warned-about-campus-pervert
-redirect_from:
+aliases:
  - /news/1409/students-warned-about-campus-pervert
 category: news
 

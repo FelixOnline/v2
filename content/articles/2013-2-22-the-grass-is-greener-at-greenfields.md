@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 03:02:19 +0000"
 id: "3378"
 old_path: /food/3378/the-grass-is-greener-at-greenfields
-redirect_from:
+aliases:
  - /food/3378/the-grass-is-greener-at-greenfields
 category: food
 

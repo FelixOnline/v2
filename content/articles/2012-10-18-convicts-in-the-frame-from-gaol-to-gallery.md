@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:00:23 +0100"
 id: "2687"
 old_path: /arts/2687/convicts-in-the-frame-from-gaol-to-gallery
-redirect_from:
+aliases:
  - /arts/2687/convicts-in-the-frame-from-gaol-to-gallery
 category: arts
 

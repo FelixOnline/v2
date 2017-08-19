@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:25:28 +0100"
 id: "5550"
 old_path: /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
-redirect_from:
+aliases:
  - /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
 category: sport
 

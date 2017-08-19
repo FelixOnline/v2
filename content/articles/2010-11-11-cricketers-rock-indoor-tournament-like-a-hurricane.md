@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:45:43 +0000"
 id: "343"
 old_path: /sport/343/cricketers-rock-indoor-tournament-like-a-hurricane
-redirect_from:
+aliases:
  - /sport/343/cricketers-rock-indoor-tournament-like-a-hurricane
 category: sport
 

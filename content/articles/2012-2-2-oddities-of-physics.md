@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:31:41 +0000"
 id: "2090"
 old_path: /science/2090/oddities-of-physics
-redirect_from:
+aliases:
  - /science/2090/oddities-of-physics
 category: science
 

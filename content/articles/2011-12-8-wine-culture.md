@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:43:37 +0000"
 id: "1943"
 old_path: /food/1943/wine-culture
-redirect_from:
+aliases:
  - /food/1943/wine-culture
 category: food
 

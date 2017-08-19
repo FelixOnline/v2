@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:35:13 +0000"
 id: "1824"
 old_path: /food/1824/warm-up-your-winter
-redirect_from:
+aliases:
  - /food/1824/warm-up-your-winter
 category: food
 

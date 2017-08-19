@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-07-15 16:49:28 +0100"
 id: "1450"
 old_path: /news/1450/summer-ball-suffers-100000-loss
-redirect_from:
+aliases:
  - /news/1450/summer-ball-suffers-100000-loss
 category: news
 

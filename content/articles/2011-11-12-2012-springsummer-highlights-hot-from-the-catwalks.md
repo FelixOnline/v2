@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-12 17:25:06 +0000"
 id: "1753"
 old_path: /fashion/1753/2012-springsummer-highlights-hot-from-the-catwalks
-redirect_from:
+aliases:
  - /fashion/1753/2012-springsummer-highlights-hot-from-the-catwalks
 category: fashion
 

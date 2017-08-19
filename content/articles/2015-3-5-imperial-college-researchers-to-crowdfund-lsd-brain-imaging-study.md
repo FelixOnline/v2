@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 20:07:00 +0000"
 id: "5337"
 old_path: /news/5337/imperial-college-researchers-to-crowdfund-lsd-brain-imaging-study
-redirect_from:
+aliases:
  - /news/5337/imperial-college-researchers-to-crowdfund-lsd-brain-imaging-study
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:29:38 +0100"
 id: "2566"
 old_path: /food/2566/summer-sweetness
-redirect_from:
+aliases:
  - /food/2566/summer-sweetness
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:46:44 +0100"
 id: "1161"
 old_path: /comment/1161/nothing-wrong-with-a-few-arts-students--for-decorative-purposes
-redirect_from:
+aliases:
  - /comment/1161/nothing-wrong-with-a-few-arts-students--for-decorative-purposes
 category: comment
 

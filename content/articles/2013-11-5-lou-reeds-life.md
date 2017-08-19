@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:35:56 +0000"
 id: "3994"
 old_path: /music/3994/lou-reeds-life
-redirect_from:
+aliases:
  - /music/3994/lou-reeds-life
 category: music
 

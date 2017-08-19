@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:36:50 +0100"
 id: "1384"
 old_path: /news/1384/the-tooth-fairys-palace
-redirect_from:
+aliases:
  - /news/1384/the-tooth-fairys-palace
 category: news
 

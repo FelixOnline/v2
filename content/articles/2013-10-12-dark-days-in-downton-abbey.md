@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:18:36 +0100"
 id: "3851"
 old_path: /tv/3851/dark-days-in-downton-abbey
-redirect_from:
+aliases:
  - /tv/3851/dark-days-in-downton-abbey
 category: tv
 

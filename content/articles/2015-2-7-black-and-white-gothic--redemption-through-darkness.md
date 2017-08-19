@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:34:01 +0000"
 id: "5210"
 old_path: /arts/5210/black-and-white-gothic--redemption-through-darkness
-redirect_from:
+aliases:
  - /arts/5210/black-and-white-gothic--redemption-through-darkness
 category: arts
 

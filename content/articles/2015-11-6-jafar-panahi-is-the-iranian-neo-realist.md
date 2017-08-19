@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:07:05 +0000"
 id: "5706"
 old_path: /film/5706/jafar-panahi-is-the-iranian-neo-realist
-redirect_from:
+aliases:
  - /film/5706/jafar-panahi-is-the-iranian-neo-realist
 category: film
 

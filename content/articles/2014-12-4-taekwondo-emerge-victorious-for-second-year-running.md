@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:42:16 +0000"
 id: "5013"
 old_path: /sport/5013/taekwondo-emerge-victorious-for-second-year-running
-redirect_from:
+aliases:
  - /sport/5013/taekwondo-emerge-victorious-for-second-year-running
 category: sport
 

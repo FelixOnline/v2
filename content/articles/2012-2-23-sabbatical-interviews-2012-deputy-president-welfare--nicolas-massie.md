@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:23:49 +0000"
 id: "2265"
 old_path: /news/2265/sabbatical-interviews-2012-deputy-president-welfare--nicolas-massie
-redirect_from:
+aliases:
  - /news/2265/sabbatical-interviews-2012-deputy-president-welfare--nicolas-massie
 category: news
 

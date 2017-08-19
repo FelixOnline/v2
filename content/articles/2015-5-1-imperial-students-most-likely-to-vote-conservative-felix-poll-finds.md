@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:09:01 +0100"
 id: "5477"
 old_path: /news/5477/imperial-students-most-likely-to-vote-conservative-felix-poll-finds
-redirect_from:
+aliases:
  - /news/5477/imperial-students-most-likely-to-vote-conservative-felix-poll-finds
 category: news
 

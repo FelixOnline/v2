@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:32:54 +0000"
 id: "2287"
 old_path: /film/2287/silent-film-the-artist-and-3d-film-hugo-dominate-on-oscar-night
-redirect_from:
+aliases:
  - /film/2287/silent-film-the-artist-and-3d-film-hugo-dominate-on-oscar-night
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-07 11:12:38 +0100"
 id: "4720"
 old_path: /news/4720/sport-imperial-to-suspend-sporting-activities-at-teddington
-redirect_from:
+aliases:
  - /news/4720/sport-imperial-to-suspend-sporting-activities-at-teddington
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:02:00 +0100"
 id: "2733"
 old_path: /news/2733/limun-comes-to-imperial
-redirect_from:
+aliases:
  - /news/2733/limun-comes-to-imperial
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-05 10:29:30 +0000"
 id: "4335"
 old_path: /games/4335/medic-training-simulator
-redirect_from:
+aliases:
  - /games/4335/medic-training-simulator
 category: games
 

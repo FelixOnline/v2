@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:12:55 +0000"
 id: "884"
 old_path: /science/884/black-holes-cut-down-to-size
-redirect_from:
+aliases:
  - /science/884/black-holes-cut-down-to-size
 category: science
 

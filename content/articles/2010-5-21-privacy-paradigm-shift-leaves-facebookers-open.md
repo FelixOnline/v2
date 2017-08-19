@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-21 12:15:12 +0100"
 id: "139"
 old_path: /tech/139/privacy-paradigm-shift-leaves-facebookers-open
-redirect_from:
+aliases:
  - /tech/139/privacy-paradigm-shift-leaves-facebookers-open
 category: tech
 

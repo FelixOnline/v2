@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:46:53 +0000"
 id: "2852"
 old_path: /science/2852/executing-justice-at-the-dana-centre
-redirect_from:
+aliases:
  - /science/2852/executing-justice-at-the-dana-centre
 category: science
 

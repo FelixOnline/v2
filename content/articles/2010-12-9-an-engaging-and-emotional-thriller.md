@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:29:23 +0000"
 id: "506"
 old_path: /film/506/an-engaging-and-emotional-thriller
-redirect_from:
+aliases:
  - /film/506/an-engaging-and-emotional-thriller
 category: film
 

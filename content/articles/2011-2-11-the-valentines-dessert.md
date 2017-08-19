@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-11 06:51:44 +0000"
 id: "802"
 old_path: /food/802/the-valentines-dessert
-redirect_from:
+aliases:
  - /food/802/the-valentines-dessert
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 12:19:06 +0100"
 id: "1490"
 old_path: /games/1490/an-ex-po-citing-expo
-redirect_from:
+aliases:
  - /games/1490/an-ex-po-citing-expo
 category: games
 

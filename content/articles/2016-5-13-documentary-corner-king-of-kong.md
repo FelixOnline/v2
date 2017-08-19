@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:09:44 +0100"
 id: "6159"
 old_path: /film/6159/documentary-corner-king-of-kong
-redirect_from:
+aliases:
  - /film/6159/documentary-corner-king-of-kong
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:54:14 +0000"
 id: "827"
 old_path: /comment/827/pop-star-politicians-
-redirect_from:
+aliases:
  - /comment/827/pop-star-politicians-
 category: comment
 

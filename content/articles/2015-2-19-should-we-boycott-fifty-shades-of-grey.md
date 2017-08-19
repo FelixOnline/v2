@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-19 23:52:10 +0000"
 id: "5276"
 old_path: /comment/5276/should-we-boycott-fifty-shades-of-grey
-redirect_from:
+aliases:
  - /comment/5276/should-we-boycott-fifty-shades-of-grey
 category: comment
 

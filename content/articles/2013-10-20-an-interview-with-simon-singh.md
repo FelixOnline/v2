@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 01:30:06 +0100"
 id: "3901"
 old_path: /books/3901/an-interview-with-simon-singh
-redirect_from:
+aliases:
  - /books/3901/an-interview-with-simon-singh
 category: books
 

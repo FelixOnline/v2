@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:35:57 +0000"
 id: "6002"
 old_path: /science/6002/the-deadly-orangutan-cocktail
-redirect_from:
+aliases:
  - /science/6002/the-deadly-orangutan-cocktail
 category: science
 

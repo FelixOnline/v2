@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-20 00:48:13 +0000"
 id: "5416"
 old_path: /science/5416/facing-difficult-decisions-in-medicine
-redirect_from:
+aliases:
  - /science/5416/facing-difficult-decisions-in-medicine
 category: science
 

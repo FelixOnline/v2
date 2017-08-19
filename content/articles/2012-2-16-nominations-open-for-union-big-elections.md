@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:51:17 +0000"
 id: "2216"
 old_path: /news/2216/nominations-open-for-union-big-elections
-redirect_from:
+aliases:
  - /news/2216/nominations-open-for-union-big-elections
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:15:26 +0000"
 id: "909"
 old_path: /arts/909/the-art-of-addiction-and-of-seduction-
-redirect_from:
+aliases:
  - /arts/909/the-art-of-addiction-and-of-seduction-
 category: arts
 

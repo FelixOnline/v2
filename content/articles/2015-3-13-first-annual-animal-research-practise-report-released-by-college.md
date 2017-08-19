@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:22:15 +0000"
 id: "5392"
 old_path: /news/5392/first-annual-animal-research-practise-report-released-by-college
-redirect_from:
+aliases:
  - /news/5392/first-annual-animal-research-practise-report-released-by-college
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:32:07 +0000"
 id: "2897"
 old_path: /music/2897/japandroids-live
-redirect_from:
+aliases:
  - /music/2897/japandroids-live
 category: music
 

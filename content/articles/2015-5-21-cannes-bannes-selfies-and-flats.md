@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 23:19:04 +0100"
 id: "5557"
 old_path: /film/5557/cannes-bannes-selfies-and-flats
-redirect_from:
+aliases:
  - /film/5557/cannes-bannes-selfies-and-flats
 category: film
 

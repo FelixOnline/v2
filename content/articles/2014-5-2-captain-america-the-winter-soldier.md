@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:07:47 +0100"
 id: "4541"
 old_path: /film/4541/captain-america-the-winter-soldier
-redirect_from:
+aliases:
  - /film/4541/captain-america-the-winter-soldier
 category: film
 

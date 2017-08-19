@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-15 13:11:24 +0000"
 id: "5823"
 old_path: /science/5823/cosmonauts-at-the-science-museum
-redirect_from:
+aliases:
  - /science/5823/cosmonauts-at-the-science-museum
 category: science
 

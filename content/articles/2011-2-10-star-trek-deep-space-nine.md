@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:30:45 +0000"
 id: "775"
 old_path: /science/775/star-trek-deep-space-nine
-redirect_from:
+aliases:
  - /science/775/star-trek-deep-space-nine
 category: science
 

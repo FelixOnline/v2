@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-19 13:17:19 +0000"
 id: "3496"
 old_path: /news/3496/big-elections-2013-results
-redirect_from:
+aliases:
  - /news/3496/big-elections-2013-results
 category: news
 

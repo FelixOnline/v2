@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 16:49:12 +0000"
 id: "32"
 old_path: /sport/32/footballs-coming-home
-redirect_from:
+aliases:
  - /sport/32/footballs-coming-home
 category: sport
 

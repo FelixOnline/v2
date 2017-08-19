@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:28:44 +0000"
 id: "6672"
 old_path: /arts/6672/taking-a-leaf-out-of-tove-janssons-book
-redirect_from:
+aliases:
  - /arts/6672/taking-a-leaf-out-of-tove-janssons-book
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:33:10 +0100"
 id: "1297"
 old_path: /science/1297/back-to-the-past-
-redirect_from:
+aliases:
  - /science/1297/back-to-the-past-
 category: science
 

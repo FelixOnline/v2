@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:16:36 +0000"
 id: "6845"
 old_path: /arts/6845/twelfth-night--a-contrast-between-subtlety-and-aplomb-
-redirect_from:
+aliases:
  - /arts/6845/twelfth-night--a-contrast-between-subtlety-and-aplomb-
 category: arts
 

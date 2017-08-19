@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 18:00:58 +0000"
 id: "3383"
 old_path: /science/3383/graphite-supercapacitors-are-taking-charge
-redirect_from:
+aliases:
  - /science/3383/graphite-supercapacitors-are-taking-charge
 category: science
 

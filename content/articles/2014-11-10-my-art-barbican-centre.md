@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:18:05 +0000"
 id: "4817"
 old_path: /arts/4817/my-art-barbican-centre
-redirect_from:
+aliases:
  - /arts/4817/my-art-barbican-centre
 category: arts
 

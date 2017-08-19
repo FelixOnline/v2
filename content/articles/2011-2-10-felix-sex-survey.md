@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:02:39 +0000"
 id: "791"
 old_path: /news/791/felix-sex-survey
-redirect_from:
+aliases:
  - /news/791/felix-sex-survey
 category: news
 

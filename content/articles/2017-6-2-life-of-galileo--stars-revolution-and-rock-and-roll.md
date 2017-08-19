@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:17:14 +0100"
 id: "6991"
 old_path: /arts/6991/life-of-galileo--stars-revolution-and-rock-and-roll
-redirect_from:
+aliases:
  - /arts/6991/life-of-galileo--stars-revolution-and-rock-and-roll
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:54:11 +0100"
 id: "6210"
 old_path: /science/6210/ice-sheet-melting-faster-than-predicted
-redirect_from:
+aliases:
  - /science/6210/ice-sheet-melting-faster-than-predicted
 category: science
 

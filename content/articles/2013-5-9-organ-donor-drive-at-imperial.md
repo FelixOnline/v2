@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 22:03:21 +0100"
 id: "3563"
 old_path: /news/3563/organ-donor-drive-at-imperial
-redirect_from:
+aliases:
  - /news/3563/organ-donor-drive-at-imperial
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:00:23 +0100"
 id: "5518"
 old_path: /news/5518/can-religion-and-science-get-on
-redirect_from:
+aliases:
  - /news/5518/can-religion-and-science-get-on
 category: news
 

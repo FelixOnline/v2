@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:46:01 +0100"
 id: "1398"
 old_path: /arts/1398/looking-for-a-better-book-to-read
-redirect_from:
+aliases:
  - /arts/1398/looking-for-a-better-book-to-read
 category: arts
 

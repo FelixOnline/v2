@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 18:25:50 +0000"
 id: "6441"
 old_path: /sport/6441/imperial-girls-can-always-have-been-and-will-continue-to-
-redirect_from:
+aliases:
  - /sport/6441/imperial-girls-can-always-have-been-and-will-continue-to-
 category: sport
 

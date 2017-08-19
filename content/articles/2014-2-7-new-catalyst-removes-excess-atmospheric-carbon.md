@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:14:43 +0000"
 id: "4365"
 old_path: /science/4365/new-catalyst-removes-excess-atmospheric-carbon
-redirect_from:
+aliases:
  - /science/4365/new-catalyst-removes-excess-atmospheric-carbon
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:38:37 +0000"
 id: "5056"
 old_path: /arts/5056/top-5-memberships-in-london
-redirect_from:
+aliases:
  - /arts/5056/top-5-memberships-in-london
 category: arts
 

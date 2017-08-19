@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:33:53 +0100"
 id: "6285"
 old_path: /tv/6285/your-summer-of-binge-watching
-redirect_from:
+aliases:
  - /tv/6285/your-summer-of-binge-watching
 category: tv
 

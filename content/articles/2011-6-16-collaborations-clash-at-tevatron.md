@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:04:01 +0100"
 id: "1388"
 old_path: /science/1388/collaborations-clash-at-tevatron
-redirect_from:
+aliases:
  - /science/1388/collaborations-clash-at-tevatron
 category: science
 

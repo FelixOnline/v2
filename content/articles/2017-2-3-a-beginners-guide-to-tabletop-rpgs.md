@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:33:24 +0000"
 id: "6732"
 old_path: /games/6732/a-beginners-guide-to-tabletop-rpgs
-redirect_from:
+aliases:
  - /games/6732/a-beginners-guide-to-tabletop-rpgs
 category: games
 

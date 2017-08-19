@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:23:58 +0000"
 id: "667"
 old_path: /politics/667/-obamas-state-of-the-union-address-
-redirect_from:
+aliases:
  - /politics/667/-obamas-state-of-the-union-address-
 category: politics
 

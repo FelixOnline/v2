@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-19 12:31:41 +0000"
 id: "96"
 old_path: /news/96/imperial-falter-in-university-challenge
-redirect_from:
+aliases:
  - /news/96/imperial-falter-in-university-challenge
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 15:40:44 +0100"
 id: "6933"
 old_path: /news/6933/chemical-spill-culprit-confirmed
-redirect_from:
+aliases:
  - /news/6933/chemical-spill-culprit-confirmed
 category: news
 

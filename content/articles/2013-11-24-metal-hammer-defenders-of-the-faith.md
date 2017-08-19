@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:24:21 +0000"
 id: "4119"
 old_path: /music/4119/metal-hammer-defenders-of-the-faith
-redirect_from:
+aliases:
  - /music/4119/metal-hammer-defenders-of-the-faith
 category: music
 

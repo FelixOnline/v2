@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 19:59:48 +0000"
 id: "1905"
 old_path: /news/1905/griffon-studios--up-to-scratch
-redirect_from:
+aliases:
  - /news/1905/griffon-studios--up-to-scratch
 category: news
 

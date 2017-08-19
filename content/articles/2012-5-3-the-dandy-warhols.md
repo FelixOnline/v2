@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 17:52:14 +0100"
 id: "2407"
 old_path: /music/2407/the-dandy-warhols
-redirect_from:
+aliases:
  - /music/2407/the-dandy-warhols
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:45:27 +0000"
 id: "2242"
 old_path: /travel/2242/the-heart-of-hyderabad-
-redirect_from:
+aliases:
  - /travel/2242/the-heart-of-hyderabad-
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:50:21 +0000"
 id: "6583"
 old_path: /film/6583/documentary-corner--citizenfour
-redirect_from:
+aliases:
  - /film/6583/documentary-corner--citizenfour
 category: film
 

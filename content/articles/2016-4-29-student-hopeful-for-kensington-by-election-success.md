@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:00:44 +0100"
 id: "6086"
 old_path: /news/6086/student-hopeful-for-kensington-by-election-success
-redirect_from:
+aliases:
  - /news/6086/student-hopeful-for-kensington-by-election-success
 category: news
 

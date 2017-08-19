@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:52:39 +0000"
 id: "6517"
 old_path: /sport/6517/american-football-make-pirates-walk-plank
-redirect_from:
+aliases:
  - /sport/6517/american-football-make-pirates-walk-plank
 category: sport
 

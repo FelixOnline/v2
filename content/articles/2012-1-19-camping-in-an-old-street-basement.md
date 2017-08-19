@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:03:54 +0000"
 id: "2025"
 old_path: /music/2025/camping-in-an-old-street-basement
-redirect_from:
+aliases:
  - /music/2025/camping-in-an-old-street-basement
 category: music
 

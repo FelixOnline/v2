@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:03:50 +0100"
 id: "4570"
 old_path: /features/4570/felix-goes-to-spanc-for-the-weekend
-redirect_from:
+aliases:
  - /features/4570/felix-goes-to-spanc-for-the-weekend
 category: features
 

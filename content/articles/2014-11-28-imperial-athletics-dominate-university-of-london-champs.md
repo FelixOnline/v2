@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:15:46 +0000"
 id: "4979"
 old_path: /sport/4979/imperial-athletics-dominate-university-of-london-champs
-redirect_from:
+aliases:
  - /sport/4979/imperial-athletics-dominate-university-of-london-champs
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:31:18 +0000"
 id: "3049"
 old_path: /arts/3049/dealing-with-trust-issues
-redirect_from:
+aliases:
  - /arts/3049/dealing-with-trust-issues
 category: arts
 

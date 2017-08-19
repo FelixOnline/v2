@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:00:01 +0000"
 id: "2269"
 old_path: /politics/2269/freedom-to-fornicate
-redirect_from:
+aliases:
  - /politics/2269/freedom-to-fornicate
 category: politics
 

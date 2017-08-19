@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:02:15 +0000"
 id: "810"
 old_path: /arts/810/imperial-colleges-vagina-monologues
-redirect_from:
+aliases:
  - /arts/810/imperial-colleges-vagina-monologues
 category: arts
 

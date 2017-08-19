@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:46:00 +0100"
 id: "6986"
 old_path: /news/6986/mentality-launches-new-survey
-redirect_from:
+aliases:
  - /news/6986/mentality-launches-new-survey
 category: news
 

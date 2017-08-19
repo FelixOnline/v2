@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:58:09 +0100"
 id: "4602"
 old_path: /comment/4602/confessions-of-a-gta-part-15
-redirect_from:
+aliases:
  - /comment/4602/confessions-of-a-gta-part-15
 category: comment
 

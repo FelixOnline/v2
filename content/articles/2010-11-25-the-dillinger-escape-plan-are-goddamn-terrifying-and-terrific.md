@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:55:03 +0000"
 id: "435"
 old_path: /music/435/the-dillinger-escape-plan-are-goddamn-terrifying-and-terrific
-redirect_from:
+aliases:
  - /music/435/the-dillinger-escape-plan-are-goddamn-terrifying-and-terrific
 category: music
 

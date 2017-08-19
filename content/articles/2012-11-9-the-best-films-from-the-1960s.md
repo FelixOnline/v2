@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:55:32 +0000"
 id: "2863"
 old_path: /film/2863/the-best-films-from-the-1960s
-redirect_from:
+aliases:
  - /film/2863/the-best-films-from-the-1960s
 category: film
 

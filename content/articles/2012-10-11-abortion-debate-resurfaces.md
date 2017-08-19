@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:14:01 +0100"
 id: "2666"
 old_path: /politics/2666/abortion-debate-resurfaces
-redirect_from:
+aliases:
  - /politics/2666/abortion-debate-resurfaces
 category: politics
 

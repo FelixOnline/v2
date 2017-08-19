@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 11:50:24 +0000"
 id: "2841"
 old_path: /comment/2841/remembrance-and-regret
-redirect_from:
+aliases:
  - /comment/2841/remembrance-and-regret
 category: comment
 

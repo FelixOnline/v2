@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-05 23:48:48 +0100"
 id: "1149"
 old_path: /news/1149/no-cinderella-you-shant-go-to-the-summer-ball
-redirect_from:
+aliases:
  - /news/1149/no-cinderella-you-shant-go-to-the-summer-ball
 category: news
 

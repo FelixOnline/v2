@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:49:32 +0000"
 id: "5411"
 old_path: /news/5411/imperial-entrepreneurs-receive-prize-for-sustainable-fashion-initiative
-redirect_from:
+aliases:
  - /news/5411/imperial-entrepreneurs-receive-prize-for-sustainable-fashion-initiative
 category: news
 

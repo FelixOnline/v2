@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:11:37 +0000"
 id: "5749"
 old_path: /science/5749/forgotten-oceans
-redirect_from:
+aliases:
  - /science/5749/forgotten-oceans
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 20:31:39 +0100"
 id: "1342"
 old_path: /phoenix/1342/attack-from-within
-redirect_from:
+aliases:
  - /phoenix/1342/attack-from-within
 category: phoenix
 

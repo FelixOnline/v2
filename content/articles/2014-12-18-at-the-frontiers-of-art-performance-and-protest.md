@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:20:20 +0000"
 id: "5074"
 old_path: /arts/5074/at-the-frontiers-of-art-performance-and-protest
-redirect_from:
+aliases:
  - /arts/5074/at-the-frontiers-of-art-performance-and-protest
 category: arts
 

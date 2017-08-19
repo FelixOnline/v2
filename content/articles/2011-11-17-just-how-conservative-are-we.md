@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:16:33 +0000"
 id: "1773"
 old_path: /news/1773/just-how-conservative-are-we
-redirect_from:
+aliases:
  - /news/1773/just-how-conservative-are-we
 category: news
 

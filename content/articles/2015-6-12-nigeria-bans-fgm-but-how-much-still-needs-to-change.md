@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-12 12:35:20 +0100"
 id: "5617"
 old_path: /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
-redirect_from:
+aliases:
  - /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
 category: comment
 

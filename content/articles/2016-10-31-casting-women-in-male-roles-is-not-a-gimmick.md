@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 16:20:26 +0000"
 id: "6367"
 old_path: /arts/6367/casting-women-in-male-roles-is-not-a-gimmick
-redirect_from:
+aliases:
  - /arts/6367/casting-women-in-male-roles-is-not-a-gimmick
 category: arts
 

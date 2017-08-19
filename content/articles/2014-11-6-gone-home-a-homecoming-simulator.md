@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:11:53 +0000"
 id: "4786"
 old_path: /games/4786/gone-home-a-homecoming-simulator
-redirect_from:
+aliases:
  - /games/4786/gone-home-a-homecoming-simulator
 category: games
 

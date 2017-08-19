@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:08:55 +0000"
 id: "3221"
 old_path: /arts/3221/youth-in-revolt
-redirect_from:
+aliases:
  - /arts/3221/youth-in-revolt
 category: arts
 

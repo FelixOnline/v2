@@ -70,7 +70,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
 
   old_path = "/#{r["category_slug"]}/#{r["article_id"]}/#{r["article_title"].downcase.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}"
   md << "old_path: #{old_path}"
-  md << "redirect_from:"
+  md << "aliases:"
   md << " - #{old_path}"
 
 

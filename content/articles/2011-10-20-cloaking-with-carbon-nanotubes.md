@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:01:21 +0100"
 id: "1559"
 old_path: /science/1559/cloaking-with-carbon-nanotubes
-redirect_from:
+aliases:
  - /science/1559/cloaking-with-carbon-nanotubes
 category: science
 

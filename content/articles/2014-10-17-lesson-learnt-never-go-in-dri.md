@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:07:11 +0100"
 id: "4734"
 old_path: /news/4734/lesson-learnt-never-go-in-dri
-redirect_from:
+aliases:
  - /news/4734/lesson-learnt-never-go-in-dri
 category: news
 

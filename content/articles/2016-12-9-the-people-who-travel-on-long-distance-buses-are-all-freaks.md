@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:39:01 +0000"
 id: "6575"
 old_path: /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
-redirect_from:
+aliases:
  - /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
 category: comment
 

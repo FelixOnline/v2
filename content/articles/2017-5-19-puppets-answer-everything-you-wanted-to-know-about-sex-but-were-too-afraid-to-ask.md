@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 15:07:29 +0100"
 id: "6976"
 old_path: /arts/6976/puppets-answer-everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask
-redirect_from:
+aliases:
  - /arts/6976/puppets-answer-everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask
 category: arts
 

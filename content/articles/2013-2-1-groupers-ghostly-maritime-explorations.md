@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:45:26 +0000"
 id: "3232"
 old_path: /music/3232/groupers-ghostly-maritime-explorations
-redirect_from:
+aliases:
  - /music/3232/groupers-ghostly-maritime-explorations
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:35:58 +0000"
 id: "3264"
 old_path: /games/3264/valentines-day-the-heist
-redirect_from:
+aliases:
  - /games/3264/valentines-day-the-heist
 category: games
 

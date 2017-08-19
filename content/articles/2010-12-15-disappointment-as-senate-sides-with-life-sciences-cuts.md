@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-15 17:35:35 +0000"
 id: "557"
 old_path: /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
-redirect_from:
+aliases:
  - /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
 category: news
 

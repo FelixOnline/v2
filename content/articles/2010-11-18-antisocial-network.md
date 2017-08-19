@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 22:11:25 +0000"
 id: "418"
 old_path: /comment/418/antisocial-network
-redirect_from:
+aliases:
  - /comment/418/antisocial-network
 category: comment
 

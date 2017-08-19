@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:24:40 +0000"
 id: "387"
 old_path: /politics/387/should-there-be-limits-on-the-extent-of-free-speech-
-redirect_from:
+aliases:
  - /politics/387/should-there-be-limits-on-the-extent-of-free-speech-
 category: politics
 

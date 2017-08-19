@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:39:15 +0100"
 id: "4656"
 old_path: /news/4656/college-improves-in-guardian-league-tables
-redirect_from:
+aliases:
  - /news/4656/college-improves-in-guardian-league-tables
 category: news
 

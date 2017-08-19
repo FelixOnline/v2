@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:37:55 +0000"
 id: "508"
 old_path: /food/508/brasa-a-place-your-date-will-get-a-good-grilling
-redirect_from:
+aliases:
  - /food/508/brasa-a-place-your-date-will-get-a-good-grilling
 category: food
 

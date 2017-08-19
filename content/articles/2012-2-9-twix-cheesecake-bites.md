@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:31:45 +0000"
 id: "2151"
 old_path: /food/2151/twix-cheesecake-bites
-redirect_from:
+aliases:
  - /food/2151/twix-cheesecake-bites
 category: food
 

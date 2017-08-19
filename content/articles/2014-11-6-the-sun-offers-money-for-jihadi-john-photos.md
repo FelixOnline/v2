@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:43:32 +0000"
 id: "4767"
 old_path: /news/4767/the-sun-offers-money-for-jihadi-john-photos
-redirect_from:
+aliases:
  - /news/4767/the-sun-offers-money-for-jihadi-john-photos
 category: news
 

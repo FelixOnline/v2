@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-15 12:51:30 +0000"
 id: "5821"
 old_path: /comment/5821/thatcherites-of-the-world-unite
-redirect_from:
+aliases:
  - /comment/5821/thatcherites-of-the-world-unite
 category: comment
 

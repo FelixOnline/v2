@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-13 14:23:09 +0100"
 id: "5516"
 old_path: /arts/5516/from-the-renaissance-to-the-modern
-redirect_from:
+aliases:
  - /arts/5516/from-the-renaissance-to-the-modern
 category: arts
 

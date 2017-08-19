@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:20:41 +0000"
 id: "2825"
 old_path: /news/2825/uni-applications-fall
-redirect_from:
+aliases:
  - /news/2825/uni-applications-fall
 category: news
 

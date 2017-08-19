@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:46:56 +0100"
 id: "1517"
 old_path: /tv/1517/fresh-meat-deserves-a-roasting
-redirect_from:
+aliases:
  - /tv/1517/fresh-meat-deserves-a-roasting
 category: tv
 

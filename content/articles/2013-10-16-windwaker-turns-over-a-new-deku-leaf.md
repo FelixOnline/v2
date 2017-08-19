@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-16 14:11:47 +0100"
 id: "3881"
 old_path: /games/3881/windwaker-turns-over-a-new-deku-leaf
-redirect_from:
+aliases:
  - /games/3881/windwaker-turns-over-a-new-deku-leaf
 category: games
 

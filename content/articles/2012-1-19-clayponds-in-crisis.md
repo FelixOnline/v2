@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:57:44 +0000"
 id: "2032"
 old_path: /news/2032/clayponds-in-crisis
-redirect_from:
+aliases:
  - /news/2032/clayponds-in-crisis
 category: news
 

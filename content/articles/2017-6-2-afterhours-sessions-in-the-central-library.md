@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:29:00 +0100"
 id: "6996"
 old_path: /features/6996/afterhours-sessions-in-the-central-library
-redirect_from:
+aliases:
  - /features/6996/afterhours-sessions-in-the-central-library
 category: features
 

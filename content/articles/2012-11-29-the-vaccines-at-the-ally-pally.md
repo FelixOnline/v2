@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:58:07 +0000"
 id: "2996"
 old_path: /music/2996/the-vaccines-at-the-ally-pally
-redirect_from:
+aliases:
  - /music/2996/the-vaccines-at-the-ally-pally
 category: music
 

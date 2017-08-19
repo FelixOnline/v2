@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:50:10 +0000"
 id: "5348"
 old_path: /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
-redirect_from:
+aliases:
  - /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:58:15 +0100"
 id: "216"
 old_path: /film/216/felix-likes-this
-redirect_from:
+aliases:
  - /film/216/felix-likes-this
 category: film
 

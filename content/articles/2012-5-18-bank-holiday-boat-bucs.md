@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 16:46:48 +0100"
 id: "2478"
 old_path: /sport/2478/bank-holiday-boat-bucs-
-redirect_from:
+aliases:
  - /sport/2478/bank-holiday-boat-bucs-
 category: sport
 

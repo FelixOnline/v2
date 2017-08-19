@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:36:00 +0000"
 id: "1073"
 old_path: /games/1073/make-games-its-important
-redirect_from:
+aliases:
  - /games/1073/make-games-its-important
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:44:49 +0100"
 id: "2720"
 old_path: /news/2720/new-campus-approved
-redirect_from:
+aliases:
  - /news/2720/new-campus-approved
 category: news
 

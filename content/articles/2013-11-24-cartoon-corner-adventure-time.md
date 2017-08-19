@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:33:15 +0000"
 id: "4126"
 old_path: /tv/4126/cartoon-corner-adventure-time
-redirect_from:
+aliases:
  - /tv/4126/cartoon-corner-adventure-time
 category: tv
 

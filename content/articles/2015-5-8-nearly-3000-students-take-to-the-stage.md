@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 00:07:57 +0100"
 id: "5498"
 old_path: /news/5498/nearly-3000-students-take-to-the-stage
-redirect_from:
+aliases:
  - /news/5498/nearly-3000-students-take-to-the-stage
 category: news
 

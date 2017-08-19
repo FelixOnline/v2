@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 23:16:46 +0000"
 id: "2298"
 old_path: /music/2298/george-jefferys-a-beginners-guide-to-post-hardcore-8
-redirect_from:
+aliases:
  - /music/2298/george-jefferys-a-beginners-guide-to-post-hardcore-8
 category: music
 

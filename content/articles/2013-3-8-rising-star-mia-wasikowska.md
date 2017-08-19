@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-08 00:03:46 +0000"
 id: "3453"
 old_path: /film/3453/rising-star-mia-wasikowska
-redirect_from:
+aliases:
  - /film/3453/rising-star-mia-wasikowska
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:10:44 +0100"
 id: "2443"
 old_path: /comment/2443/i-am-not-a-hipster--its-too-mainstream
-redirect_from:
+aliases:
  - /comment/2443/i-am-not-a-hipster--its-too-mainstream
 category: comment
 

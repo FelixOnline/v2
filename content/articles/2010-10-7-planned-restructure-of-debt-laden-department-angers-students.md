@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 21:51:02 +0100"
 id: "171"
 old_path: /news/171/planned-restructure-of-debt-laden-department-angers-students
-redirect_from:
+aliases:
  - /news/171/planned-restructure-of-debt-laden-department-angers-students
 category: news
 

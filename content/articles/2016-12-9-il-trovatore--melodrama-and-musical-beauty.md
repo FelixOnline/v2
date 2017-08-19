@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:56:19 +0000"
 id: "6586"
 old_path: /arts/6586/il-trovatore--melodrama-and-musical-beauty
-redirect_from:
+aliases:
  - /arts/6586/il-trovatore--melodrama-and-musical-beauty
 category: arts
 

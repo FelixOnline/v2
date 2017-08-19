@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:30:19 +0000"
 id: "4431"
 old_path: /comment/4431/communist-manifesto-turns-166
-redirect_from:
+aliases:
  - /comment/4431/communist-manifesto-turns-166
 category: comment
 

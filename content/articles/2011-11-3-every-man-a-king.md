@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:11:50 +0000"
 id: "1683"
 old_path: /biz/1683/every-man-a-king-
-redirect_from:
+aliases:
  - /biz/1683/every-man-a-king-
 category: business
 

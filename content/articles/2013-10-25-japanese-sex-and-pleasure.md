@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:15:50 +0100"
 id: "3926"
 old_path: /arts/3926/japanese-sex-and-pleasure
-redirect_from:
+aliases:
  - /arts/3926/japanese-sex-and-pleasure
 category: arts
 

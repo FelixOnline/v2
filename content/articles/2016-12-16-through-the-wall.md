@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:50:56 +0000"
 id: "6606"
 old_path: /film/6606/through-the-wall
-redirect_from:
+aliases:
  - /film/6606/through-the-wall
 category: film
 

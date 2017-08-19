@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:37:51 +0000"
 id: "3090"
 old_path: /news/3090/our-workload-woes
-redirect_from:
+aliases:
  - /news/3090/our-workload-woes
 category: news
 

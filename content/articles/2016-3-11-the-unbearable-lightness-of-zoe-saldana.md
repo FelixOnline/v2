@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:57:08 +0000"
 id: "6039"
 old_path: /film/6039/the-unbearable-lightness-of-zoe-saldana
-redirect_from:
+aliases:
  - /film/6039/the-unbearable-lightness-of-zoe-saldana
 category: film
 

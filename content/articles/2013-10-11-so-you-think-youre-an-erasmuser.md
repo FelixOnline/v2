@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:00:21 +0100"
 id: "3823"
 old_path: /features/3823/so-you-think-youre-an-erasmuser
-redirect_from:
+aliases:
  - /features/3823/so-you-think-youre-an-erasmuser
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:30:37 +0000"
 id: "4501"
 old_path: /features/4501/international-night-successes
-redirect_from:
+aliases:
  - /features/4501/international-night-successes
 category: features
 

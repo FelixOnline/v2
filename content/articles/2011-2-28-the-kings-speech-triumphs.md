@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:40:11 +0000"
 id: "931"
 old_path: /film/931/the-kings-speech-triumphs
-redirect_from:
+aliases:
  - /film/931/the-kings-speech-triumphs
 category: film
 

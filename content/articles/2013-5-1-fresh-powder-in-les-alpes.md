@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 10:21:35 +0100"
 id: "3508"
 old_path: /sport/3508/fresh-powder-in-les-alpes
-redirect_from:
+aliases:
  - /sport/3508/fresh-powder-in-les-alpes
 category: sport
 

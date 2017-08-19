@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-11 00:33:21 +0000"
 id: "4198"
 old_path: /sport/4198/whatever-this-is-its-not-football-damn-right-this-is-domination
-redirect_from:
+aliases:
  - /sport/4198/whatever-this-is-its-not-football-damn-right-this-is-domination
 category: sport
 

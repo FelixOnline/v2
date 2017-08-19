@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:38:38 +0100"
 id: "4596"
 old_path: /news/4596/new-study-claims-that-lectures-are-ineffective
-redirect_from:
+aliases:
  - /news/4596/new-study-claims-that-lectures-are-ineffective
 category: news
 

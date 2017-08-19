@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:37:21 +0000"
 id: "6884"
 old_path: /cands/6884/the-2017-ic-cinema-spring-all-nighter
-redirect_from:
+aliases:
  - /cands/6884/the-2017-ic-cinema-spring-all-nighter
 category: clubs-and-socs
 

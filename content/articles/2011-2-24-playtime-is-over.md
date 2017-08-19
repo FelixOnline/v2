@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:21:55 +0000"
 id: "888"
 old_path: /comment/888/playtime-is-over
-redirect_from:
+aliases:
  - /comment/888/playtime-is-over
 category: comment
 

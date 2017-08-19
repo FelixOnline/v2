@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:38:35 +0000"
 id: "2976"
 old_path: /film/2976/twilight-sucksand-not-in-the-good-way
-redirect_from:
+aliases:
  - /film/2976/twilight-sucksand-not-in-the-good-way
 category: film
 

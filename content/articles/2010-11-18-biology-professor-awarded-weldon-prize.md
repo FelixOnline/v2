@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:54:00 +0000"
 id: "414"
 old_path: /news/414/biology-professor-awarded-weldon-prize
-redirect_from:
+aliases:
  - /news/414/biology-professor-awarded-weldon-prize
 category: news
 

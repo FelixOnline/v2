@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:18:12 +0000"
 id: "5182"
 old_path: /travel/5182/is-buying-travel-deals-on-groupon-safe
-redirect_from:
+aliases:
  - /travel/5182/is-buying-travel-deals-on-groupon-safe
 category: travel
 

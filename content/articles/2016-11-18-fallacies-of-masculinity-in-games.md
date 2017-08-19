@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:22:28 +0000"
 id: "6476"
 old_path: /games/6476/fallacies-of-masculinity-in-games
-redirect_from:
+aliases:
  - /games/6476/fallacies-of-masculinity-in-games
 category: games
 

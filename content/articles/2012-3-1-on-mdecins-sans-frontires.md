@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:44:01 +0000"
 id: "2279"
 old_path: /news/2279/on-mdecins-sans-frontires
-redirect_from:
+aliases:
  - /news/2279/on-mdecins-sans-frontires
 category: news
 

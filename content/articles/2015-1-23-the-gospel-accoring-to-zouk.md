@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:53:13 +0000"
 id: "5148"
 old_path: /music/5148/the-gospel-accoring-to-zouk
-redirect_from:
+aliases:
  - /music/5148/the-gospel-accoring-to-zouk
 category: music
 

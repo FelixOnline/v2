@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:59:22 +0000"
 id: "6071"
 old_path: /film/6071/documentary-corner-senna
-redirect_from:
+aliases:
  - /film/6071/documentary-corner-senna
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 21:36:07 +0100"
 id: "1612"
 old_path: /film/1612/a-disgraceful-portrayal-of-the-battle-of-warsaw
-redirect_from:
+aliases:
  - /film/1612/a-disgraceful-portrayal-of-the-battle-of-warsaw
 category: film
 

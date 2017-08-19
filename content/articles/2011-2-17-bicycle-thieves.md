@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:23:05 +0000"
 id: "816"
 old_path: /film/816/bicycle-thieves
-redirect_from:
+aliases:
  - /film/816/bicycle-thieves
 category: film
 

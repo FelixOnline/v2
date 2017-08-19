@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:14:15 +0000"
 id: "3127"
 old_path: /news/3127/internship-decisons-city--or-charity
-redirect_from:
+aliases:
  - /news/3127/internship-decisons-city--or-charity
 category: news
 

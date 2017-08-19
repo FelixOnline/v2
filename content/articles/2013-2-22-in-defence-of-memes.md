@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:49:24 +0000"
 id: "3367"
 old_path: /comment/3367/in-defence-of-memes
-redirect_from:
+aliases:
  - /comment/3367/in-defence-of-memes
 category: comment
 

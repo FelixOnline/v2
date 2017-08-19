@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:53:16 +0100"
 id: "1446"
 old_path: /arts/1446/dark-tales-of-ice-and-fire
-redirect_from:
+aliases:
  - /arts/1446/dark-tales-of-ice-and-fire
 category: arts
 

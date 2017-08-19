@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:59:50 +0000"
 id: "1109"
 old_path: /sport/1109/hockey-imperial-keep-varsity-record-intact
-redirect_from:
+aliases:
  - /sport/1109/hockey-imperial-keep-varsity-record-intact
 category: sport
 

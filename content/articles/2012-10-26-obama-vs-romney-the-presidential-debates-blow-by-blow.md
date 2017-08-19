@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:17:18 +0100"
 id: "2738"
 old_path: /politics/2738/obama-vs-romney-the-presidential-debates-blow-by-blow-
-redirect_from:
+aliases:
  - /politics/2738/obama-vs-romney-the-presidential-debates-blow-by-blow-
 category: politics
 

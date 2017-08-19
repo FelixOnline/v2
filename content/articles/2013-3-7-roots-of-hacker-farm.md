@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:38:17 +0000"
 id: "3427"
 old_path: /music/3427/roots-of-hacker-farm
-redirect_from:
+aliases:
  - /music/3427/roots-of-hacker-farm
 category: music
 

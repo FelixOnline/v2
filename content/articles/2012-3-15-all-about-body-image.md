@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:42:04 +0000"
 id: "2391"
 old_path: /news/2391/all-about-body-image
-redirect_from:
+aliases:
  - /news/2391/all-about-body-image
 category: news
 

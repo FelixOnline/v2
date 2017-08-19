@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:55:27 +0000"
 id: "5413"
 old_path: /sport/5413/chemeng-soc-beat-southside-to-cup-glory
-redirect_from:
+aliases:
  - /sport/5413/chemeng-soc-beat-southside-to-cup-glory
 category: sport
 

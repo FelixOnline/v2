@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:51:01 +0000"
 id: "4828"
 old_path: /games/4828/driving-the-spinning-limousine
-redirect_from:
+aliases:
  - /games/4828/driving-the-spinning-limousine
 category: games
 

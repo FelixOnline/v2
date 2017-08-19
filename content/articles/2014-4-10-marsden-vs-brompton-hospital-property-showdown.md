@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-10 15:16:03 +0100"
 id: "4532"
 old_path: /news/4532/marsden-vs-brompton-hospital-property-showdown
-redirect_from:
+aliases:
  - /news/4532/marsden-vs-brompton-hospital-property-showdown
 category: news
 

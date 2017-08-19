@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:09:07 +0000"
 id: "384"
 old_path: /tech/384/eyeball-2-eyeball
-redirect_from:
+aliases:
  - /tech/384/eyeball-2-eyeball
 category: tech
 

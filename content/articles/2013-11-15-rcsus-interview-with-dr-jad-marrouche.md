@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:48:58 +0000"
 id: "4089"
 old_path: /features/4089/rcsus-interview-with-dr-jad-marrouche
-redirect_from:
+aliases:
  - /features/4089/rcsus-interview-with-dr-jad-marrouche
 category: features
 

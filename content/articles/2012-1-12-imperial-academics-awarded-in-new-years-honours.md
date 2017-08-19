@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:06:29 +0000"
 id: "1979"
 old_path: /news/1979/imperial-academics-awarded-in-new-years-honours
-redirect_from:
+aliases:
  - /news/1979/imperial-academics-awarded-in-new-years-honours
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-16 17:17:58 +0000"
 id: "2920"
 old_path: /comment/2920/hypocrites-and-the-bbc
-redirect_from:
+aliases:
  - /comment/2920/hypocrites-and-the-bbc
 category: comment
 

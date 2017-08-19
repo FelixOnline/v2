@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 23:02:34 +0000"
 id: "1997"
 old_path: /sport/1997/from-london-to-les-arcs
-redirect_from:
+aliases:
  - /sport/1997/from-london-to-les-arcs
 category: sport
 

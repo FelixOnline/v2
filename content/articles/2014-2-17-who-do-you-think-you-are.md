@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 18:44:27 +0000"
 id: "4398"
 old_path: /tv/4398/who-do-you-think-you-are
-redirect_from:
+aliases:
  - /tv/4398/who-do-you-think-you-are
 category: tv
 

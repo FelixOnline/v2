@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:01:12 +0000"
 id: "350"
 old_path: /science/350/brain-power-needed-for-tools
-redirect_from:
+aliases:
  - /science/350/brain-power-needed-for-tools
 category: science
 

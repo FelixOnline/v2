@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:02:34 +0100"
 id: "6230"
 old_path: /comment/6230/who-are-we-to-vote-on-eu-membership
-redirect_from:
+aliases:
  - /comment/6230/who-are-we-to-vote-on-eu-membership
 category: comment
 

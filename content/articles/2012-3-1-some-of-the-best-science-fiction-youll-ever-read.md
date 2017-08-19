@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:40:02 +0000"
 id: "2278"
 old_path: /books/2278/some-of-the-best-science-fiction-youll-ever-read
-redirect_from:
+aliases:
  - /books/2278/some-of-the-best-science-fiction-youll-ever-read
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:38:52 +0000"
 id: "611"
 old_path: /science/611/the-new-world-of-mr-tompkins-
-redirect_from:
+aliases:
  - /science/611/the-new-world-of-mr-tompkins-
 category: science
 

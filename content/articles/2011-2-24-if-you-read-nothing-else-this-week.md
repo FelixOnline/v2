@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:05:22 +0000"
 id: "858"
 old_path: /arts/858/if-you-read-nothing-else-this-week
-redirect_from:
+aliases:
  - /arts/858/if-you-read-nothing-else-this-week
 category: arts
 

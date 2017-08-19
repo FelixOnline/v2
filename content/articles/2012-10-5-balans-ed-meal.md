@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:14:44 +0100"
 id: "2623"
 old_path: /food/2623/balans-ed-meal
-redirect_from:
+aliases:
  - /food/2623/balans-ed-meal
 category: food
 

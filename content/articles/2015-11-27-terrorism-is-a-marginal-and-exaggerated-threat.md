@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 14:27:27 +0000"
 id: "5778"
 old_path: /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
-redirect_from:
+aliases:
  - /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
 category: comment
 

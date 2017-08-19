@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:56:14 +0000"
 id: "4970"
 old_path: /sport/4970/phil-hughes-the-world-mourns-death-of-young-batsman
-redirect_from:
+aliases:
  - /sport/4970/phil-hughes-the-world-mourns-death-of-young-batsman
 category: sport
 

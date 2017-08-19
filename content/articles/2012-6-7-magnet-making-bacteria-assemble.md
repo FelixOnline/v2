@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 18:46:23 +0100"
 id: "2523"
 old_path: /science/2523/magnet-making-bacteria-assemble
-redirect_from:
+aliases:
  - /science/2523/magnet-making-bacteria-assemble
 category: science
 

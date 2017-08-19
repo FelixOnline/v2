@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:19:06 +0100"
 id: "2546"
 old_path: /arts/2546/cha-cha-cha-near-the-beach
-redirect_from:
+aliases:
  - /arts/2546/cha-cha-cha-near-the-beach
 category: arts
 

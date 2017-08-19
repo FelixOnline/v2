@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:18:15 +0000"
 id: "438"
 old_path: /politics/438/a-gimmick-or-new-era-of-transparency
-redirect_from:
+aliases:
  - /politics/438/a-gimmick-or-new-era-of-transparency
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 17:20:25 +0000"
 id: "66"
 old_path: /biz/66/ic-business-school-climbs-ft-rankings
-redirect_from:
+aliases:
  - /biz/66/ic-business-school-climbs-ft-rankings
 category: business
 

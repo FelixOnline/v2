@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-21 20:31:37 +0000"
 id: "5109"
 old_path: /arts/5109/pig-girl---a-murder-most-foul
-redirect_from:
+aliases:
  - /arts/5109/pig-girl---a-murder-most-foul
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:02:54 +0000"
 id: "351"
 old_path: /science/351/deadly-bacteria-found-to-kill-cancer
-redirect_from:
+aliases:
  - /science/351/deadly-bacteria-found-to-kill-cancer
 category: science
 

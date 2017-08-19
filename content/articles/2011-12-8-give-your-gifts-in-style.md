@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:50:18 +0000"
 id: "1946"
 old_path: /fashion/1946/give-your-gifts-in-style-
-redirect_from:
+aliases:
  - /fashion/1946/give-your-gifts-in-style-
 category: fashion
 

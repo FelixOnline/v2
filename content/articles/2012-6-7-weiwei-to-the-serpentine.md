@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 18:47:55 +0100"
 id: "2524"
 old_path: /arts/2524/weiwei-to-the-serpentine-
-redirect_from:
+aliases:
  - /arts/2524/weiwei-to-the-serpentine-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 01:01:29 +0000"
 id: "3414"
 old_path: /news/3414/bird-flu-research-restarts
-redirect_from:
+aliases:
  - /news/3414/bird-flu-research-restarts
 category: news
 

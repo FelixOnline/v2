@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:45:10 +0000"
 id: "2215"
 old_path: /news/2215/new-clubs-at-risk-of-rejection-given-another-chance
-redirect_from:
+aliases:
  - /news/2215/new-clubs-at-risk-of-rejection-given-another-chance
 category: news
 

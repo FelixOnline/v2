@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:11:29 +0000"
 id: "2008"
 old_path: /books/2008/an-epic-quest-for-truth
-redirect_from:
+aliases:
  - /books/2008/an-epic-quest-for-truth
 category: books
 

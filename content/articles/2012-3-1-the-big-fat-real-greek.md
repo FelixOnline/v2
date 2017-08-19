@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:52:06 +0000"
 id: "2281"
 old_path: /food/2281/the-big-fat-real-greek
-redirect_from:
+aliases:
  - /food/2281/the-big-fat-real-greek
 category: food
 

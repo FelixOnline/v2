@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:40:33 +0000"
 id: "932"
 old_path: /politics/932/is-it-time-we-elected-the-house-of-lords
-redirect_from:
+aliases:
  - /politics/932/is-it-time-we-elected-the-house-of-lords
 category: politics
 

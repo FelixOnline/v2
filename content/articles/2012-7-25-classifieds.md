@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-07-25 13:32:58 +0100"
 id: "2587"
 old_path: /news/2587/classifieds
-redirect_from:
+aliases:
  - /news/2587/classifieds
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:40:08 +0000"
 id: "956"
 old_path: /news/956/enthusiasts-create-steve-jobs-birthday-website-
-redirect_from:
+aliases:
  - /news/956/enthusiasts-create-steve-jobs-birthday-website-
 category: news
 

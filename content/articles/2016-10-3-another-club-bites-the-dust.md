@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 17:04:40 +0100"
 id: "6302"
 old_path: /news/6302/another-club-bites-the-dust
-redirect_from:
+aliases:
  - /news/6302/another-club-bites-the-dust
 category: news
 

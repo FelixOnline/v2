@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:27:48 +0000"
 id: "297"
 old_path: /games/297/polynomial-proves-maths-isnt-fun
-redirect_from:
+aliases:
  - /games/297/polynomial-proves-maths-isnt-fun
 category: games
 

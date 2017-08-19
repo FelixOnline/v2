@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:45:46 +0000"
 id: "2393"
 old_path: /comment/2393/there-arent-enough-intellectuals
-redirect_from:
+aliases:
  - /comment/2393/there-arent-enough-intellectuals
 category: comment
 

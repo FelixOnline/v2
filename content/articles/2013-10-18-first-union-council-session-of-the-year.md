@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 20:41:43 +0100"
 id: "3884"
 old_path: /news/3884/first-union-council-session-of-the-year
-redirect_from:
+aliases:
  - /news/3884/first-union-council-session-of-the-year
 category: news
 

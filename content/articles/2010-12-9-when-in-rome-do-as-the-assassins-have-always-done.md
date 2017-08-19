@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:49:51 +0000"
 id: "510"
 old_path: /games/510/when-in-rome-do-as-the-assassins-have-always-done
-redirect_from:
+aliases:
  - /games/510/when-in-rome-do-as-the-assassins-have-always-done
 category: games
 

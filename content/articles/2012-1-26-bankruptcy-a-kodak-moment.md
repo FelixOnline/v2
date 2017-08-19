@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 21:57:38 +0000"
 id: "2048"
 old_path: /biz/2048/bankruptcy-a-kodak-moment
-redirect_from:
+aliases:
  - /biz/2048/bankruptcy-a-kodak-moment
 category: business
 

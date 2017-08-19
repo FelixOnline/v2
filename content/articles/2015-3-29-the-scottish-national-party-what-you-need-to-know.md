@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-29 23:06:37 +0100"
 id: "5458"
 old_path: /politics/5458/the-scottish-national-party-what-you-need-to-know
-redirect_from:
+aliases:
  - /politics/5458/the-scottish-national-party-what-you-need-to-know
 category: politics
 

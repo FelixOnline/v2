@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 18:07:10 +0000"
 id: "4079"
 old_path: /music/4079/chris-forsyth--solar-motel-review
-redirect_from:
+aliases:
  - /music/4079/chris-forsyth--solar-motel-review
 category: music
 

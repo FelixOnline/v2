@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:32:30 +0100"
 id: "6262"
 old_path: /film/6262/documentary-corner-portrait-of-jason
-redirect_from:
+aliases:
  - /film/6262/documentary-corner-portrait-of-jason
 category: film
 

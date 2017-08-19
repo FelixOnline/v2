@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:40:09 +0000"
 id: "4765"
 old_path: /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
-redirect_from:
+aliases:
  - /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:17:19 +0100"
 id: "3613"
 old_path: /comment/3613/farewell-to-host
-redirect_from:
+aliases:
  - /comment/3613/farewell-to-host
 category: comment
 

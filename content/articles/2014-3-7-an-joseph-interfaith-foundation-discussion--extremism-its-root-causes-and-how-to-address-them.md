@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:38:11 +0000"
 id: "4454"
 old_path: /features/4454/an-joseph-interfaith-foundation-discussion--extremism-its-root-causes-and-how-to-address-them
-redirect_from:
+aliases:
  - /features/4454/an-joseph-interfaith-foundation-discussion--extremism-its-root-causes-and-how-to-address-them
 category: features
 

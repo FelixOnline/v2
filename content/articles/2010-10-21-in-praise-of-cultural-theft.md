@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:57:14 +0100"
 id: "228"
 old_path: /comment/228/in-praise-of-cultural-theft-
-redirect_from:
+aliases:
  - /comment/228/in-praise-of-cultural-theft-
 category: comment
 

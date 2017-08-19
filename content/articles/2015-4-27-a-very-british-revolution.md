@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-27 10:57:04 +0100"
 id: "5471"
 old_path: /arts/5471/a-very-british-revolution
-redirect_from:
+aliases:
  - /arts/5471/a-very-british-revolution
 category: arts
 

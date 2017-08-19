@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:43:13 +0100"
 id: "6169"
 old_path: /news/6169/imperial-president-sends-mass-email-on-eu-stance
-redirect_from:
+aliases:
  - /news/6169/imperial-president-sends-mass-email-on-eu-stance
 category: news
 

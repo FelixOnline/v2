@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 18:13:54 +0100"
 id: "1330"
 old_path: /phoenix/1330/design-flaws
-redirect_from:
+aliases:
  - /phoenix/1330/design-flaws
 category: phoenix
 

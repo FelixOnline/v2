@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:56:56 +0000"
 id: "1677"
 old_path: /music/1677/something-brilliant-from-the-terrible-midlands
-redirect_from:
+aliases:
  - /music/1677/something-brilliant-from-the-terrible-midlands
 category: music
 

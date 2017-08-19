@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:07:19 +0000"
 id: "4110"
 old_path: /comment/4110/commonwealth-beginning-of-the-end
-redirect_from:
+aliases:
  - /comment/4110/commonwealth-beginning-of-the-end
 category: comment
 

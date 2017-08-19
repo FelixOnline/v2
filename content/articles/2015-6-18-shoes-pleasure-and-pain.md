@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 21:01:50 +0100"
 id: "5635"
 old_path: /fashion/5635/shoes-pleasure-and-pain-
-redirect_from:
+aliases:
  - /fashion/5635/shoes-pleasure-and-pain-
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:41:17 +0000"
 id: "4462"
 old_path: /arts/4462/tiny-tate-display-still-packs-a-punch
-redirect_from:
+aliases:
  - /arts/4462/tiny-tate-display-still-packs-a-punch
 category: arts
 

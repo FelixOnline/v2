@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:59:43 +0000"
 id: "2803"
 old_path: /books/2803/mitchells-cloud-atlas
-redirect_from:
+aliases:
  - /books/2803/mitchells-cloud-atlas
 category: books
 

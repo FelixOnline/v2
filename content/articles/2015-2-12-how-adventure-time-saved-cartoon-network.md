@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 23:19:04 +0000"
 id: "5248"
 old_path: /tv/5248/how-adventure-time-saved-cartoon-network
-redirect_from:
+aliases:
  - /tv/5248/how-adventure-time-saved-cartoon-network
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:46:34 +0000"
 id: "6711"
 old_path: /comment/6711/youre-putting-me-off-my-food
-redirect_from:
+aliases:
  - /comment/6711/youre-putting-me-off-my-food
 category: comment
 

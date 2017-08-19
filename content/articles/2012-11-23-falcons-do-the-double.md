@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:07:02 +0000"
 id: "2960"
 old_path: /sport/2960/falcons-do-the-double
-redirect_from:
+aliases:
  - /sport/2960/falcons-do-the-double
 category: sport
 

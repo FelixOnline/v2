@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:16:29 +0000"
 id: "2264"
 old_path: /news/2264/icu-cinema-awarded-compensation-for-friday-night-union-losses-
-redirect_from:
+aliases:
  - /news/2264/icu-cinema-awarded-compensation-for-friday-night-union-losses-
 category: news
 

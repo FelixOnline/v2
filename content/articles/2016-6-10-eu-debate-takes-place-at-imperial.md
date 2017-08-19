@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:14:37 +0100"
 id: "6247"
 old_path: /news/6247/eu-debate-takes-place-at-imperial
-redirect_from:
+aliases:
  - /news/6247/eu-debate-takes-place-at-imperial
 category: news
 

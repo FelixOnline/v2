@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:36:52 +0000"
 id: "5343"
 old_path: /comment/5343/felix-interviews-deputy-president-fs-candidate-ali-lown
-redirect_from:
+aliases:
  - /comment/5343/felix-interviews-deputy-president-fs-candidate-ali-lown
 category: comment
 

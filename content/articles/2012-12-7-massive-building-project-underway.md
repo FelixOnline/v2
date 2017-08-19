@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:57:31 +0000"
 id: "3028"
 old_path: /news/3028/massive-building-project-underway
-redirect_from:
+aliases:
  - /news/3028/massive-building-project-underway
 category: news
 

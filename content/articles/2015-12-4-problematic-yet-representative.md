@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-04 15:15:08 +0000"
 id: "5794"
 old_path: /comment/5794/problematic-yet-representative
-redirect_from:
+aliases:
  - /comment/5794/problematic-yet-representative
 category: comment
 

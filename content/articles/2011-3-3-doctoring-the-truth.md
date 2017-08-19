@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:52:23 +0000"
 id: "1016"
 old_path: /comment/1016/doctoring-the-truth
-redirect_from:
+aliases:
  - /comment/1016/doctoring-the-truth
 category: comment
 

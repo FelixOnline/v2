@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:07:12 +0000"
 id: "5067"
 old_path: /arts/5067/a-reimagination-of-biblical-size
-redirect_from:
+aliases:
  - /arts/5067/a-reimagination-of-biblical-size
 category: arts
 

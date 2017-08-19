@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:34:45 +0000"
 id: "3275"
 old_path: /news/3275/flight-of-the-phoenix
-redirect_from:
+aliases:
  - /news/3275/flight-of-the-phoenix
 category: news
 

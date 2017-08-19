@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:07:00 +0000"
 id: "833"
 old_path: /comment/833/digital-books-kindle-unease-
-redirect_from:
+aliases:
  - /comment/833/digital-books-kindle-unease-
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 03:40:04 +0000"
 id: "4496"
 old_path: /features/4496/face-to-face-with-abdulla-sheikh
-redirect_from:
+aliases:
  - /features/4496/face-to-face-with-abdulla-sheikh
 category: features
 

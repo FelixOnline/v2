@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 20:57:38 +0100"
 id: "3887"
 old_path: /science/3887/higgs-tory-through-the-ages-fifty-years-yields-nobel-prize
-redirect_from:
+aliases:
  - /science/3887/higgs-tory-through-the-ages-fifty-years-yields-nobel-prize
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:17:59 +0000"
 id: "1934"
 old_path: /music/1934/a-tearful-obituary
-redirect_from:
+aliases:
  - /music/1934/a-tearful-obituary
 category: music
 

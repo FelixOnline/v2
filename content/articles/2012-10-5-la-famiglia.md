@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:20:30 +0100"
 id: "2626"
 old_path: /food/2626/la-famiglia
-redirect_from:
+aliases:
  - /food/2626/la-famiglia
 category: food
 

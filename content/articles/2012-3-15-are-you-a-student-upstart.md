@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:52:27 +0000"
 id: "2351"
 old_path: /biz/2351/are-you-a-student-upstart
-redirect_from:
+aliases:
  - /biz/2351/are-you-a-student-upstart
 category: business
 

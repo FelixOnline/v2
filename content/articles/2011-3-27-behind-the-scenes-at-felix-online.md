@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-27 11:21:00 +0100"
 id: "1130"
 old_path: /tech/1130/behind-the-scenes-at-felix-online
-redirect_from:
+aliases:
  - /tech/1130/behind-the-scenes-at-felix-online
 category: tech
 

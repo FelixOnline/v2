@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:05:30 +0000"
 id: "2004"
 old_path: /biz/2004/democracy-and-capitalism-an-unhappy-marriage
-redirect_from:
+aliases:
  - /biz/2004/democracy-and-capitalism-an-unhappy-marriage
 category: business
 

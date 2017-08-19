@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:27:11 +0000"
 id: "1712"
 old_path: /comment/1712/why-i-hate-entrepreneurs
-redirect_from:
+aliases:
  - /comment/1712/why-i-hate-entrepreneurs
 category: comment
 

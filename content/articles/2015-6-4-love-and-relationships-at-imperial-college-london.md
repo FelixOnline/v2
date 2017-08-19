@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:33:48 +0100"
 id: "5600"
 old_path: /features/5600/love-and-relationships-at-imperial-college-london
-redirect_from:
+aliases:
  - /features/5600/love-and-relationships-at-imperial-college-london
 category: features
 

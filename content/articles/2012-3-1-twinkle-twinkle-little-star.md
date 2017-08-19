@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:26:38 +0000"
 id: "2274"
 old_path: /science/2274/twinkle-twinkle-little-star
-redirect_from:
+aliases:
  - /science/2274/twinkle-twinkle-little-star
 category: science
 

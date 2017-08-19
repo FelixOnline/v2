@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 22:03:29 +0000"
 id: "1697"
 old_path: /sport/1697/early-bucs-loss-for-8-ball
-redirect_from:
+aliases:
  - /sport/1697/early-bucs-loss-for-8-ball
 category: sport
 

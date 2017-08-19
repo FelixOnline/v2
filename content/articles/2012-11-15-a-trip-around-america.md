@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:28:56 +0000"
 id: "2896"
 old_path: /books/2896/a-trip-around-america
-redirect_from:
+aliases:
  - /books/2896/a-trip-around-america
 category: books
 

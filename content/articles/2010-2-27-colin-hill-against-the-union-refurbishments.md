@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-27 17:09:41 +0000"
 id: "112"
 old_path: /comment/112/colin-hill-against-the-union-refurbishments
-redirect_from:
+aliases:
  - /comment/112/colin-hill-against-the-union-refurbishments
 category: comment
 

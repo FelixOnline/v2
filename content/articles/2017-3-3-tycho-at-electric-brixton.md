@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:39:18 +0000"
 id: "6849"
 old_path: /music/6849/tycho-at-electric-brixton
-redirect_from:
+aliases:
  - /music/6849/tycho-at-electric-brixton
 category: music
 

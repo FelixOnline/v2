@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:21:36 +0000"
 id: "6545"
 old_path: /food/6545/whats-really-in-your-meal-
-redirect_from:
+aliases:
  - /food/6545/whats-really-in-your-meal-
 category: food
 

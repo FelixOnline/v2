@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:16:51 +0100"
 id: "6353"
 old_path: /comment/6353/there-should-be-more-to-foreign-aid-than-emergency-support
-redirect_from:
+aliases:
  - /comment/6353/there-should-be-more-to-foreign-aid-than-emergency-support
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:23:00 +0000"
 id: "5122"
 old_path: /welfare/5122/what-it-means-to-be-an-international-student
-redirect_from:
+aliases:
  - /welfare/5122/what-it-means-to-be-an-international-student
 category: welfare
 

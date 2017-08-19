@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:27:19 +0100"
 id: "3528"
 old_path: /news/3528/empty-computer-room-in-library-kept-locked-for-days
-redirect_from:
+aliases:
  - /news/3528/empty-computer-room-in-library-kept-locked-for-days
 category: news
 

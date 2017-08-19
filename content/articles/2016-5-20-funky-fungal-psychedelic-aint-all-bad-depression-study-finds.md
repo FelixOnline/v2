@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:06:23 +0100"
 id: "6182"
 old_path: /science/6182/funky-fungal-psychedelic-aint-all-bad-depression-study-finds
-redirect_from:
+aliases:
  - /science/6182/funky-fungal-psychedelic-aint-all-bad-depression-study-finds
 category: science
 

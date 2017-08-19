@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:07:07 +0000"
 id: "5798"
 old_path: /film/5798/black-mass-is-a-fine-crime-caper-but-fails-to-properly-ignite
-redirect_from:
+aliases:
  - /film/5798/black-mass-is-a-fine-crime-caper-but-fails-to-properly-ignite
 category: film
 

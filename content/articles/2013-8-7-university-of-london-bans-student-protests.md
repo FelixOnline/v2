@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-07 08:30:10 +0100"
 id: "3748"
 old_path: /news/3748/university-of-london-bans-student-protests
-redirect_from:
+aliases:
  - /news/3748/university-of-london-bans-student-protests
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-08-03 11:47:26 +0100"
 id: "2588"
 old_path: /news/2588/new-prices-of-drinks-for-next-year
-redirect_from:
+aliases:
  - /news/2588/new-prices-of-drinks-for-next-year
 category: news
 

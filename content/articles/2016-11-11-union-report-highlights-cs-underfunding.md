@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:15:32 +0000"
 id: "6416"
 old_path: /news/6416/union-report-highlights-cs-underfunding
-redirect_from:
+aliases:
  - /news/6416/union-report-highlights-cs-underfunding
 category: news
 

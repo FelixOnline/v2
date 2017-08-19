@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:39:02 +0000"
 id: "1826"
 old_path: /news/1826/why-im-striking
-redirect_from:
+aliases:
  - /news/1826/why-im-striking
 category: news
 

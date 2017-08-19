@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:39:17 +0000"
 id: "2345"
 old_path: /science/2345/lubricated-wood-grinds-better
-redirect_from:
+aliases:
  - /science/2345/lubricated-wood-grinds-better
 category: science
 

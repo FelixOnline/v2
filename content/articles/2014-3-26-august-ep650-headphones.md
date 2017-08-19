@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 15:40:39 +0000"
 id: "4511"
 old_path: /tech/4511/august-ep650-headphones
-redirect_from:
+aliases:
  - /tech/4511/august-ep650-headphones
 category: tech
 

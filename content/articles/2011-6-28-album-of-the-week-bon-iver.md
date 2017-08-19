@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:12:43 +0100"
 id: "1440"
 old_path: /music/1440/album-of-the-week-bon-iver
-redirect_from:
+aliases:
  - /music/1440/album-of-the-week-bon-iver
 category: music
 

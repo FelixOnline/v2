@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 19:57:48 +0100"
 id: "5544"
 old_path: /news/5544/imperial-citizen-science-project-expands
-redirect_from:
+aliases:
  - /news/5544/imperial-citizen-science-project-expands
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:20:16 +0000"
 id: "3014"
 old_path: /sport/3014/ichc-mens-2s-crush-portsmouth
-redirect_from:
+aliases:
  - /sport/3014/ichc-mens-2s-crush-portsmouth
 category: sport
 

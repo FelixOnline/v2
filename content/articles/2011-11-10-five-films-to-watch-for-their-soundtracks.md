@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:48:56 +0000"
 id: "1736"
 old_path: /music/1736/five-films-to-watch-for-their-soundtracks
-redirect_from:
+aliases:
  - /music/1736/five-films-to-watch-for-their-soundtracks
 category: music
 

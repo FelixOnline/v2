@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:48:20 +0100"
 id: "4556"
 old_path: /tech/4556/google-now-the-ultimate-innovators
-redirect_from:
+aliases:
  - /tech/4556/google-now-the-ultimate-innovators
 category: tech
 

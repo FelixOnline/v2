@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:57:30 +0000"
 id: "3249"
 old_path: /film/3249/the-great-and-glorious-genius-alfred-hitchcock
-redirect_from:
+aliases:
  - /film/3249/the-great-and-glorious-genius-alfred-hitchcock
 category: film
 

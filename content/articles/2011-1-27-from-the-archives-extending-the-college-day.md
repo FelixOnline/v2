@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 17:55:55 +0000"
 id: "648"
 old_path: /news/648/from-the-archives-extending-the-college-day
-redirect_from:
+aliases:
  - /news/648/from-the-archives-extending-the-college-day
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:36:52 +0000"
 id: "304"
 old_path: /food/304/the-best-of-the-1920s-prohibition-is-back-
-redirect_from:
+aliases:
  - /food/304/the-best-of-the-1920s-prohibition-is-back-
 category: food
 

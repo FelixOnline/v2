@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:19:25 +0000"
 id: "6448"
 old_path: /sport/6448/ic-dd-dazzle-dive-and-dart-at-mixed-regionals
-redirect_from:
+aliases:
  - /sport/6448/ic-dd-dazzle-dive-and-dart-at-mixed-regionals
 category: sport
 

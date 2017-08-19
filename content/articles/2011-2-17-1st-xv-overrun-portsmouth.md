@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:45:10 +0000"
 id: "850"
 old_path: /sport/850/1st-xv-overrun-portsmouth
-redirect_from:
+aliases:
  - /sport/850/1st-xv-overrun-portsmouth
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:13:04 +0100"
 id: "4623"
 old_path: /film/4623/miyazakis-swan-song
-redirect_from:
+aliases:
  - /film/4623/miyazakis-swan-song
 category: film
 

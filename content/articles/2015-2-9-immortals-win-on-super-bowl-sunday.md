@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:09:15 +0000"
 id: "5219"
 old_path: /sport/5219/immortals-win-on-super-bowl-sunday
-redirect_from:
+aliases:
  - /sport/5219/immortals-win-on-super-bowl-sunday
 category: sport
 

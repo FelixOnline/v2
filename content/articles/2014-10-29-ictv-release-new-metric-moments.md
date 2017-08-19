@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-29 23:08:00 +0000"
 id: "4754"
 old_path: /news/4754/ictv-release-new-metric-moments-
-redirect_from:
+aliases:
  - /news/4754/ictv-release-new-metric-moments-
 category: news
 

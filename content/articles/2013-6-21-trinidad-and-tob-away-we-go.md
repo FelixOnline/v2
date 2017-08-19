@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:58:11 +0100"
 id: "3737"
 old_path: /news/3737/trinidad-and-tob-away-we-go
-redirect_from:
+aliases:
  - /news/3737/trinidad-and-tob-away-we-go
 category: news
 

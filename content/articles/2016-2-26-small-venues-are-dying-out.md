@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:50:58 +0000"
 id: "5972"
 old_path: /music/5972/small-venues-are-dying-out
-redirect_from:
+aliases:
  - /music/5972/small-venues-are-dying-out
 category: music
 

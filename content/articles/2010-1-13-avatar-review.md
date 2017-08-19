@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-13 20:55:25 +0000"
 id: "22"
 old_path: /film/22/avatar-review
-redirect_from:
+aliases:
  - /film/22/avatar-review
 category: film
 

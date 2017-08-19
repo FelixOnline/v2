@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:26:32 +0000"
 id: "3260"
 old_path: /science/3260/stem-cells-aid-recovery-from-stroke-
-redirect_from:
+aliases:
  - /science/3260/stem-cells-aid-recovery-from-stroke-
 category: science
 

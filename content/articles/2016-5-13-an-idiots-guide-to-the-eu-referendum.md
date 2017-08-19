@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:57:17 +0100"
 id: "6149"
 old_path: /features/6149/an-idiots-guide-to-the-eu-referendum
-redirect_from:
+aliases:
  - /features/6149/an-idiots-guide-to-the-eu-referendum
 category: features
 

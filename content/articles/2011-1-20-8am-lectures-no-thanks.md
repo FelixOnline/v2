@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:44:04 +0000"
 id: "631"
 old_path: /comment/631/8am-lectures-no-thanks-
-redirect_from:
+aliases:
  - /comment/631/8am-lectures-no-thanks-
 category: comment
 

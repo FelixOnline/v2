@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:16:26 +0100"
 id: "6249"
 old_path: /news/6249/security-get-new-more-formal-uniforms
-redirect_from:
+aliases:
  - /news/6249/security-get-new-more-formal-uniforms
 category: news
 

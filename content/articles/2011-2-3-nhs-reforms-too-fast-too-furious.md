@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:10:58 +0000"
 id: "737"
 old_path: /politics/737/nhs-reforms-too-fast-too-furious
-redirect_from:
+aliases:
  - /politics/737/nhs-reforms-too-fast-too-furious
 category: politics
 

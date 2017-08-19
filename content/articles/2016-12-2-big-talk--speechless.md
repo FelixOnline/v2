@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:06:01 +0000"
 id: "6540"
 old_path: /tv/6540/big-talk--speechless
-redirect_from:
+aliases:
  - /tv/6540/big-talk--speechless
 category: tv
 

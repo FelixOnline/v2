@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:08:51 +0000"
 id: "5925"
 old_path: /news/5925/more-than-one-female-toilet-for-rsm
-redirect_from:
+aliases:
  - /news/5925/more-than-one-female-toilet-for-rsm
 category: news
 

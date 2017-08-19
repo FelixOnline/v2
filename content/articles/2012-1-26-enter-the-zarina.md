@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:19:28 +0000"
 id: "2059"
 old_path: /arts/2059/enter-the-zarina
-redirect_from:
+aliases:
  - /arts/2059/enter-the-zarina
 category: arts
 

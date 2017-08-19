@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 02:09:28 +0100"
 id: "4603"
 old_path: /comment/4603/of-mice-and-research-the-imperial-festival-learning-and-voting
-redirect_from:
+aliases:
  - /comment/4603/of-mice-and-research-the-imperial-festival-learning-and-voting
 category: comment
 

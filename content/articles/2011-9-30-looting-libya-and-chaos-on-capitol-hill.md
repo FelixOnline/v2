@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 11:35:59 +0100"
 id: "1459"
 old_path: /politics/1459/looting-libya-and-chaos-on-capitol-hill
-redirect_from:
+aliases:
  - /politics/1459/looting-libya-and-chaos-on-capitol-hill
 category: politics
 

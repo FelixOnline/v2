@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:41:12 +0000"
 id: "1874"
 old_path: /arts/1874/diy-whiteboard-station
-redirect_from:
+aliases:
  - /arts/1874/diy-whiteboard-station
 category: arts
 

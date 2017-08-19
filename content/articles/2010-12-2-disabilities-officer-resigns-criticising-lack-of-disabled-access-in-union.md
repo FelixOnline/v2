@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:59:49 +0000"
 id: "502"
 old_path: /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
-redirect_from:
+aliases:
  - /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
 category: news
 

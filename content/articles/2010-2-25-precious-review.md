@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 15:44:14 +0000"
 id: "100"
 old_path: /film/100/precious-review
-redirect_from:
+aliases:
  - /film/100/precious-review
 category: film
 

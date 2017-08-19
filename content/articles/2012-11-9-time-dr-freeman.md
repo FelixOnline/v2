@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 16:33:49 +0000"
 id: "2879"
 old_path: /games/2879/time-dr-freeman
-redirect_from:
+aliases:
  - /games/2879/time-dr-freeman
 category: games
 

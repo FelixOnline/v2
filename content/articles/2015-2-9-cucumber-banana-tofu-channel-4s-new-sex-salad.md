@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:36:27 +0000"
 id: "5225"
 old_path: /tv/5225/cucumber-banana-tofu-channel-4s-new-sex-salad-
-redirect_from:
+aliases:
  - /tv/5225/cucumber-banana-tofu-channel-4s-new-sex-salad-
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:01:48 +0000"
 id: "761"
 old_path: /news/761/interview-with-deputy-president-clubs--societies-heather-jones
-redirect_from:
+aliases:
  - /news/761/interview-with-deputy-president-clubs--societies-heather-jones
 category: news
 

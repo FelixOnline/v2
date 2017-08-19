@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:17:14 +0000"
 id: "665"
 old_path: /tech/665/is-it-a-bird-is-it-a-plane-no-its-super-html5-
-redirect_from:
+aliases:
  - /tech/665/is-it-a-bird-is-it-a-plane-no-its-super-html5-
 category: tech
 

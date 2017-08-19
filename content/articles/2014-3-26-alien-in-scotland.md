@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:47:22 +0000"
 id: "4504"
 old_path: /film/4504/alien-in-scotland
-redirect_from:
+aliases:
  - /film/4504/alien-in-scotland
 category: film
 

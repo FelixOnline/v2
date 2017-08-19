@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:12:19 +0000"
 id: "530"
 old_path: /news/530/staff-and-students-rail-against-job-cuts-
-redirect_from:
+aliases:
  - /news/530/staff-and-students-rail-against-job-cuts-
 category: news
 

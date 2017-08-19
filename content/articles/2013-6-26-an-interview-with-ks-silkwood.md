@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-26 17:32:33 +0100"
 id: "3741"
 old_path: /books/3741/an-interview-with-ks-silkwood
-redirect_from:
+aliases:
  - /books/3741/an-interview-with-ks-silkwood
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-16 12:18:53 +0000"
 id: "4385"
 old_path: /features/4385/im-single-what-should-i-do-today
-redirect_from:
+aliases:
  - /features/4385/im-single-what-should-i-do-today
 category: features
 

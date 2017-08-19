@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 13:10:13 +0100"
 id: "1170"
 old_path: /arts/1170/a-maestro-of-modern-literature-
-redirect_from:
+aliases:
  - /arts/1170/a-maestro-of-modern-literature-
 category: arts
 

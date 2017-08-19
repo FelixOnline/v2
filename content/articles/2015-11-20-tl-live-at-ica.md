@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:26:31 +0000"
 id: "5756"
 old_path: /music/5756/tl-live-at-ica
-redirect_from:
+aliases:
  - /music/5756/tl-live-at-ica
 category: music
 

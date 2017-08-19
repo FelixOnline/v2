@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:11:56 +0000"
 id: "3255"
 old_path: /comment/3255/the-life-of-a-total-wbanker
-redirect_from:
+aliases:
  - /comment/3255/the-life-of-a-total-wbanker
 category: comment
 

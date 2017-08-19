@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:34:48 +0000"
 id: "527"
 old_path: /music/527/the-national-do-it-their-way
-redirect_from:
+aliases:
  - /music/527/the-national-do-it-their-way
 category: music
 

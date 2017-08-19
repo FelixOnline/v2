@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:09:59 +0000"
 id: "6567"
 old_path: /science/6567/cosmic-dust-in-your-backyard
-redirect_from:
+aliases:
  - /science/6567/cosmic-dust-in-your-backyard
 category: science
 

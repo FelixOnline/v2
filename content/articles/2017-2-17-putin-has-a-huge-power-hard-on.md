@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:46:58 +0000"
 id: "6787"
 old_path: /comment/6787/putin-has-a-huge-power-hard-on
-redirect_from:
+aliases:
  - /comment/6787/putin-has-a-huge-power-hard-on
 category: comment
 

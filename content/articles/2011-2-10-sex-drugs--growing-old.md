@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:07:26 +0000"
 id: "765"
 old_path: /tv/765/sex-drugs--growing-old
-redirect_from:
+aliases:
  - /tv/765/sex-drugs--growing-old
 category: tv
 

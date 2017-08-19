@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:58:10 +0000"
 id: "348"
 old_path: /science/348/cosmic-zoom-lenses-magnify-galaxies
-redirect_from:
+aliases:
  - /science/348/cosmic-zoom-lenses-magnify-galaxies
 category: science
 

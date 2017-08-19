@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-18 13:18:43 +0000"
 id: "2923"
 old_path: /tech/2923/more-jelly-bean-and-a-new-family-of-nexus
-redirect_from:
+aliases:
  - /tech/2923/more-jelly-bean-and-a-new-family-of-nexus
 category: tech
 

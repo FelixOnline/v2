@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:27:28 +0100"
 id: "2707"
 old_path: /music/2707/heineken-opener-festival-2012
-redirect_from:
+aliases:
  - /music/2707/heineken-opener-festival-2012
 category: music
 

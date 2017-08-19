@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:36:03 +0100"
 id: "191"
 old_path: /film/191/george-clooney-a-brooding-bond
-redirect_from:
+aliases:
  - /film/191/george-clooney-a-brooding-bond
 category: film
 

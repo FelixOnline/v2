@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:24:39 +0100"
 id: "4550"
 old_path: /music/4550/gig-review-seahaven
-redirect_from:
+aliases:
  - /music/4550/gig-review-seahaven
 category: music
 

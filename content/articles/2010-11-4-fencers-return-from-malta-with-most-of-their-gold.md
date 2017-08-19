@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:47:42 +0000"
 id: "313"
 old_path: /sport/313/fencers-return-from-malta-with-most-of-their-gold-
-redirect_from:
+aliases:
  - /sport/313/fencers-return-from-malta-with-most-of-their-gold-
 category: sport
 

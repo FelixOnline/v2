@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-08 06:33:54 +0100"
 id: "184"
 old_path: /arts/184/if-you-read-nothing-else-this-week
-redirect_from:
+aliases:
  - /arts/184/if-you-read-nothing-else-this-week
 category: arts
 

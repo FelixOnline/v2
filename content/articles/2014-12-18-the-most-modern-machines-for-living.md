@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:31:08 +0000"
 id: "5054"
 old_path: /arts/5054/the-most-modern-machines-for-living
-redirect_from:
+aliases:
  - /arts/5054/the-most-modern-machines-for-living
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:22:59 +0000"
 id: "4929"
 old_path: /news/4929/new-bitcoin-competition-prize-fund
-redirect_from:
+aliases:
  - /news/4929/new-bitcoin-competition-prize-fund
 category: news
 

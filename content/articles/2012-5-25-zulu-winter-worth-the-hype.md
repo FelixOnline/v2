@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 19:09:55 +0100"
 id: "2505"
 old_path: /music/2505/zulu-winter-worth-the-hype
-redirect_from:
+aliases:
  - /music/2505/zulu-winter-worth-the-hype
 category: music
 

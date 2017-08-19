@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:55:58 +0000"
 id: "5186"
 old_path: /music/5186/girls-in-peacetime-not-as-twee-as-it-sounds
-redirect_from:
+aliases:
  - /music/5186/girls-in-peacetime-not-as-twee-as-it-sounds
 category: music
 

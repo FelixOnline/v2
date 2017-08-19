@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:53:39 +0000"
 id: "4245"
 old_path: /music/4245/tara-jane-oneil---where-shine-new-lights
-redirect_from:
+aliases:
  - /music/4245/tara-jane-oneil---where-shine-new-lights
 category: music
 

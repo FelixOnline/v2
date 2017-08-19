@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 14:48:30 +0100"
 id: "4730"
 old_path: /news/4730/nus-rejects-motion-to-condemn-islamic-state
-redirect_from:
+aliases:
  - /news/4730/nus-rejects-motion-to-condemn-islamic-state
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:11:33 +0000"
 id: "6568"
 old_path: /science/6568/mankind-is-a-virus-
-redirect_from:
+aliases:
  - /science/6568/mankind-is-a-virus-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 17:02:28 +0000"
 id: "6485"
 old_path: /sport/6485/snowsports-venture-north-of-the-wall
-redirect_from:
+aliases:
  - /sport/6485/snowsports-venture-north-of-the-wall
 category: sport
 

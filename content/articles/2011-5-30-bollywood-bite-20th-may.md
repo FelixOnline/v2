@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-30 12:08:43 +0100"
 id: "1285"
 old_path: /film/1285/bollywood-bite-20th-may
-redirect_from:
+aliases:
  - /film/1285/bollywood-bite-20th-may
 category: film
 

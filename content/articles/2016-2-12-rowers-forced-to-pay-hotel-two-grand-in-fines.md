@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:10:37 +0000"
 id: "5895"
 old_path: /news/5895/rowers-forced-to-pay-hotel-two-grand-in-fines
-redirect_from:
+aliases:
  - /news/5895/rowers-forced-to-pay-hotel-two-grand-in-fines
 category: news
 

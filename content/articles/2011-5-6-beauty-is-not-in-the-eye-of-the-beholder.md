@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:09:56 +0100"
 id: "1152"
 old_path: /science/1152/beauty-is-not-in-the-eye-of-the-beholder
-redirect_from:
+aliases:
  - /science/1152/beauty-is-not-in-the-eye-of-the-beholder
 category: science
 

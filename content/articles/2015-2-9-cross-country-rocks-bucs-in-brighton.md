@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:12:22 +0000"
 id: "5220"
 old_path: /sport/5220/cross-country-rocks-bucs-in-brighton
-redirect_from:
+aliases:
  - /sport/5220/cross-country-rocks-bucs-in-brighton
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 20:02:56 +0100"
 id: "288"
 old_path: /news/288/record-number-of-students-miss-out-on-university-says-ucas
-redirect_from:
+aliases:
  - /news/288/record-number-of-students-miss-out-on-university-says-ucas
 category: news
 

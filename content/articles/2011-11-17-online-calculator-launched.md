@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:04:58 +0000"
 id: "1768"
 old_path: /news/1768/online-calculator-launched
-redirect_from:
+aliases:
  - /news/1768/online-calculator-launched
 category: news
 

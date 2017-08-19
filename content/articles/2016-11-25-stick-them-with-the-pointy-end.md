@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:59:23 +0000"
 id: "6519"
 old_path: /sport/6519/stick-them-with-the-pointy-end
-redirect_from:
+aliases:
  - /sport/6519/stick-them-with-the-pointy-end
 category: sport
 

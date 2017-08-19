@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:15:59 +0100"
 id: "3612"
 old_path: /comment/3612/tea-a-taste-of-harmony
-redirect_from:
+aliases:
  - /comment/3612/tea-a-taste-of-harmony
 category: comment
 

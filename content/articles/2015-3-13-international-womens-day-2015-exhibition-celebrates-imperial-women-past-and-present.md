@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:20:41 +0000"
 id: "5391"
 old_path: /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
-redirect_from:
+aliases:
  - /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
 category: news
 

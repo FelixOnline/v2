@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 20:22:57 +0100"
 id: "3553"
 old_path: /music/3553/dark-folkers-wyldeck-in-conversation
-redirect_from:
+aliases:
  - /music/3553/dark-folkers-wyldeck-in-conversation
 category: music
 

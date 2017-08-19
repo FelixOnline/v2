@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 01:43:51 +0100"
 id: "2732"
 old_path: /comment/2732/real-world
-redirect_from:
+aliases:
  - /comment/2732/real-world
 category: comment
 

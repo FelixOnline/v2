@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 22:05:28 +0000"
 id: "503"
 old_path: /news/503/student-debt
-redirect_from:
+aliases:
  - /news/503/student-debt
 category: news
 

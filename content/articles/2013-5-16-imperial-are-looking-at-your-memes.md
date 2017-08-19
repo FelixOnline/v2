@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 20:53:03 +0100"
 id: "3594"
 old_path: /news/3594/imperial-are-looking-at-your-memes
-redirect_from:
+aliases:
  - /news/3594/imperial-are-looking-at-your-memes
 category: news
 

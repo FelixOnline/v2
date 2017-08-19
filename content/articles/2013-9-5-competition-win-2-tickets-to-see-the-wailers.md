@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-05 09:50:11 +0100"
 id: "3756"
 old_path: /music/3756/competition-win-2-tickets-to-see-the-wailers
-redirect_from:
+aliases:
  - /music/3756/competition-win-2-tickets-to-see-the-wailers
 category: music
 

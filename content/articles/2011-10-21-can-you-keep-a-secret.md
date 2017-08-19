@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:31:46 +0100"
 id: "1601"
 old_path: /music/1601/can-you-keep-a-secret
-redirect_from:
+aliases:
  - /music/1601/can-you-keep-a-secret
 category: music
 

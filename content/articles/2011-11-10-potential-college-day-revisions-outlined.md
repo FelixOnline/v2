@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 19:46:58 +0000"
 id: "1705"
 old_path: /news/1705/potential-college-day-revisions-outlined
-redirect_from:
+aliases:
  - /news/1705/potential-college-day-revisions-outlined
 category: news
 

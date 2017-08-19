@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:22:24 +0000"
 id: "468"
 old_path: /film/468/the-next-move-for-icu-cinema
-redirect_from:
+aliases:
  - /film/468/the-next-move-for-icu-cinema
 category: film
 

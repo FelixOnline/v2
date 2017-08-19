@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:02:21 +0000"
 id: "4413"
 old_path: /news/4413/chemistry--materials-departments-display-year-on-year-nss-participation-increase
-redirect_from:
+aliases:
  - /news/4413/chemistry--materials-departments-display-year-on-year-nss-participation-increase
 category: news
 

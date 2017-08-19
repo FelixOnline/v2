@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:59:26 +0000"
 id: "4248"
 old_path: /film/4248/the-last-samurai-movie-please
-redirect_from:
+aliases:
  - /film/4248/the-last-samurai-movie-please
 category: film
 

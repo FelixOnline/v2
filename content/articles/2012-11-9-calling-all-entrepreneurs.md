@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:53:08 +0000"
 id: "2854"
 old_path: /biz/2854/calling-all-entrepreneurs
-redirect_from:
+aliases:
  - /biz/2854/calling-all-entrepreneurs
 category: business
 

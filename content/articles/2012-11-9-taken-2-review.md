@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:33:25 +0000"
 id: "2861"
 old_path: /film/2861/taken-2-review
-redirect_from:
+aliases:
  - /film/2861/taken-2-review
 category: film
 

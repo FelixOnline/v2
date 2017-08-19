@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:57:55 +0000"
 id: "2995"
 old_path: /tv/2995/zombie-apocalypse-now
-redirect_from:
+aliases:
  - /tv/2995/zombie-apocalypse-now
 category: tv
 

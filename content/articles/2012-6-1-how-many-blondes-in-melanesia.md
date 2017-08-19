@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 13:49:46 +0100"
 id: "2517"
 old_path: /science/2517/how-many-blondes-in-melanesia
-redirect_from:
+aliases:
  - /science/2517/how-many-blondes-in-melanesia
 category: science
 

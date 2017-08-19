@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:56:48 +0100"
 id: "5660"
 old_path: /biz/5660/old-dog-new-tricks
-redirect_from:
+aliases:
  - /biz/5660/old-dog-new-tricks
 category: business
 

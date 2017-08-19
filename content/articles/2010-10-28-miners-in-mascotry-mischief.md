@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:57:44 +0100"
 id: "284"
 old_path: /news/284/miners-in-mascotry-mischief
-redirect_from:
+aliases:
  - /news/284/miners-in-mascotry-mischief
 category: news
 

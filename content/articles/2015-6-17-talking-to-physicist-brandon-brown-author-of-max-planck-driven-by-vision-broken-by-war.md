@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-17 22:44:55 +0100"
 id: "5626"
 old_path: /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
-redirect_from:
+aliases:
  - /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
 category: science
 

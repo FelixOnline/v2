@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 00:15:02 +0000"
 id: "3355"
 old_path: /news/3355/paragon-a-case-study-of-distance
-redirect_from:
+aliases:
  - /news/3355/paragon-a-case-study-of-distance
 category: news
 

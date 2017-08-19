@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:27:23 +0100"
 id: "1569"
 old_path: /comment/1569/postmodernism-wait-dont-run-away
-redirect_from:
+aliases:
  - /comment/1569/postmodernism-wait-dont-run-away
 category: comment
 

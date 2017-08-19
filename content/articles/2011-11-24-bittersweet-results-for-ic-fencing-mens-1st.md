@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:40:42 +0000"
 id: "1851"
 old_path: /sport/1851/bittersweet-results-for-ic-fencing-mens-1st
-redirect_from:
+aliases:
  - /sport/1851/bittersweet-results-for-ic-fencing-mens-1st
 category: sport
 

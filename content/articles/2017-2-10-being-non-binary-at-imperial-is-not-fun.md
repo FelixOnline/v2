@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:35:38 +0000"
 id: "6757"
 old_path: /features/6757/being-non-binary-at-imperial-is-not-fun
-redirect_from:
+aliases:
  - /features/6757/being-non-binary-at-imperial-is-not-fun
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:39:36 +0000"
 id: "6808"
 old_path: /news/6808/are-sweet-potato-fries-really-worth-it
-redirect_from:
+aliases:
  - /news/6808/are-sweet-potato-fries-really-worth-it
 category: news
 

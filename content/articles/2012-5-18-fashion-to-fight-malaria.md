@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:12:00 +0100"
 id: "2466"
 old_path: /science/2466/fashion-to-fight-malaria
-redirect_from:
+aliases:
  - /science/2466/fashion-to-fight-malaria
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-26 12:52:09 +0000"
 id: "4436"
 old_path: /features/4436/discover-islam-week
-redirect_from:
+aliases:
  - /features/4436/discover-islam-week
 category: features
 

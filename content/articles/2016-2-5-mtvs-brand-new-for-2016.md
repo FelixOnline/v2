@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:38:28 +0000"
 id: "5879"
 old_path: /music/5879/mtvs-brand-new-for-2016
-redirect_from:
+aliases:
  - /music/5879/mtvs-brand-new-for-2016
 category: music
 

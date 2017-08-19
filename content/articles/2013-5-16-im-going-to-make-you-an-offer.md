@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 20:39:54 +0100"
 id: "3589"
 old_path: /news/3589/im-going-to-make-you-an-offer
-redirect_from:
+aliases:
  - /news/3589/im-going-to-make-you-an-offer
 category: news
 

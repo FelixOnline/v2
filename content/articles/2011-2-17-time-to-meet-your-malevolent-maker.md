@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:18:27 +0000"
 id: "839"
 old_path: /comment/839/time-to-meet-your-malevolent-maker
-redirect_from:
+aliases:
  - /comment/839/time-to-meet-your-malevolent-maker
 category: comment
 

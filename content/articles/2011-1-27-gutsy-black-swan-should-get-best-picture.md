@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:09:14 +0000"
 id: "686"
 old_path: /film/686/gutsy-black-swan-should-get-best-picture
-redirect_from:
+aliases:
  - /film/686/gutsy-black-swan-should-get-best-picture
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 16:25:17 +0000"
 id: "6626"
 old_path: /sport/6626/ic-american-football-in-playoff-contention
-redirect_from:
+aliases:
  - /sport/6626/ic-american-football-in-playoff-contention
 category: sport
 

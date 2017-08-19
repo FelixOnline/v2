@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 18:47:19 +0100"
 id: "6305"
 old_path: /comment/6305/how-to-blag-your-way-through-politics
-redirect_from:
+aliases:
  - /comment/6305/how-to-blag-your-way-through-politics
 category: comment
 

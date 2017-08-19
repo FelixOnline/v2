@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:21:01 +0100"
 id: "187"
 old_path: /arts/187/discovering-art-at-imperial
-redirect_from:
+aliases:
  - /arts/187/discovering-art-at-imperial
 category: arts
 

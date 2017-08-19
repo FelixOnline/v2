@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 12:46:46 +0100"
 id: "5591"
 old_path: /welfare/5591/how-to-keep-yourself-safe-on-campus
-redirect_from:
+aliases:
  - /welfare/5591/how-to-keep-yourself-safe-on-campus
 category: welfare
 

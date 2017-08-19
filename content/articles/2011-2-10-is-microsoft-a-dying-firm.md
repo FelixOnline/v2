@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:50:21 +0000"
 id: "785"
 old_path: /biz/785/is-microsoft-a-dying-firm
-redirect_from:
+aliases:
  - /biz/785/is-microsoft-a-dying-firm
 category: business
 

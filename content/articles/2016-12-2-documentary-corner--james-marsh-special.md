@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:47:09 +0000"
 id: "6532"
 old_path: /film/6532/documentary-corner--james-marsh-special
-redirect_from:
+aliases:
  - /film/6532/documentary-corner--james-marsh-special
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:36:00 +0000"
 id: "955"
 old_path: /news/955/further-disruption-for-computing-students
-redirect_from:
+aliases:
  - /news/955/further-disruption-for-computing-students
 category: news
 

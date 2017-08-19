@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:00:58 +0000"
 id: "2998"
 old_path: /film/2998/great-expectationsnot-so-great-results
-redirect_from:
+aliases:
  - /film/2998/great-expectationsnot-so-great-results
 category: film
 

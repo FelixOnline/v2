@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 23:57:51 +0000"
 id: "4134"
 old_path: /features/4134/dont-miss-a-treat-ic-symphony-orchestra-take-you-on-a-musical-journey
-redirect_from:
+aliases:
  - /features/4134/dont-miss-a-treat-ic-symphony-orchestra-take-you-on-a-musical-journey
 category: features
 

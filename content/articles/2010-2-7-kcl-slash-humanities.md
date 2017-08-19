@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-07 03:37:55 +0000"
 id: "81"
 old_path: /news/81/kcl-slash-humanities
-redirect_from:
+aliases:
  - /news/81/kcl-slash-humanities
 category: news
 

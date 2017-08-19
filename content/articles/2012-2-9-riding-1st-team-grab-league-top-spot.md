@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:16:25 +0000"
 id: "2174"
 old_path: /sport/2174/riding-1st-team-grab-league-top-spot
-redirect_from:
+aliases:
  - /sport/2174/riding-1st-team-grab-league-top-spot
 category: sport
 

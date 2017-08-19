@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:47:21 +0100"
 id: "3682"
 old_path: /science/3682/the-hidden-secrets-of-coral-reefs
-redirect_from:
+aliases:
  - /science/3682/the-hidden-secrets-of-coral-reefs
 category: science
 

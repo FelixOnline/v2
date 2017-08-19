@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:23:13 +0000"
 id: "3131"
 old_path: /science/3131/aquatic-pornography
-redirect_from:
+aliases:
  - /science/3131/aquatic-pornography
 category: science
 

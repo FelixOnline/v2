@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:11:10 +0100"
 id: "2508"
 old_path: /news/2508/imperial-graduates-jump-at-chance-to-help-at-london-2012
-redirect_from:
+aliases:
  - /news/2508/imperial-graduates-jump-at-chance-to-help-at-london-2012
 category: news
 

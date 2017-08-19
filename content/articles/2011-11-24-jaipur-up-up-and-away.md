@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:15:47 +0000"
 id: "1802"
 old_path: /travel/1802/jaipur-up-up-and-away
-redirect_from:
+aliases:
  - /travel/1802/jaipur-up-up-and-away
 category: travel
 

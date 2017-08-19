@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-25 23:52:33 +0100"
 id: "2583"
 old_path: /science/2583/ecology-on-a-massive-scale
-redirect_from:
+aliases:
  - /science/2583/ecology-on-a-massive-scale
 category: science
 

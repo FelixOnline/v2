@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:52:24 +0000"
 id: "3055"
 old_path: /tech/3055/we-went-to-the-gadget-show
-redirect_from:
+aliases:
  - /tech/3055/we-went-to-the-gadget-show
 category: tech
 

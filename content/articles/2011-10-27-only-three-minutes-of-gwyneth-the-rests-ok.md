@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 21:29:08 +0100"
 id: "1611"
 old_path: /film/1611/only-three-minutes-of-gwyneth-the-rests-ok
-redirect_from:
+aliases:
  - /film/1611/only-three-minutes-of-gwyneth-the-rests-ok
 category: film
 

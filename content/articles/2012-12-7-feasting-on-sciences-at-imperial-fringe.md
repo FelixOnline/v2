@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:17:12 +0000"
 id: "3023"
 old_path: /news/3023/feasting-on-sciences-at-imperial-fringe
-redirect_from:
+aliases:
  - /news/3023/feasting-on-sciences-at-imperial-fringe
 category: news
 

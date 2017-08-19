@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 17:59:10 +0100"
 id: "3517"
 old_path: /comment/3517/sex-a-direct-approach
-redirect_from:
+aliases:
  - /comment/3517/sex-a-direct-approach
 category: comment
 

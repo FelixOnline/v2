@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:31:54 +0000"
 id: "6051"
 old_path: /news/6051/imperials-pigeons-with-pollution-detecting-vests
-redirect_from:
+aliases:
  - /news/6051/imperials-pigeons-with-pollution-detecting-vests
 category: news
 

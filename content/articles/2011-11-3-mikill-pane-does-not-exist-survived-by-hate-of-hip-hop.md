@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:48:27 +0000"
 id: "1674"
 old_path: /music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop
-redirect_from:
+aliases:
  - /music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop
 category: music
 

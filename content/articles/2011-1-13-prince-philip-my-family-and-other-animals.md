@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:17:18 +0000"
 id: "590"
 old_path: /comment/590/prince-philip-my-family-and-other-animals
-redirect_from:
+aliases:
  - /comment/590/prince-philip-my-family-and-other-animals
 category: comment
 

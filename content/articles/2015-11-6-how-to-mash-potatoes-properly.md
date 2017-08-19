@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:04:00 +0000"
 id: "5705"
 old_path: /food/5705/how-to-mash-potatoes-properly
-redirect_from:
+aliases:
  - /food/5705/how-to-mash-potatoes-properly
 category: food
 

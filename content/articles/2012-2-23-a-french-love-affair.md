@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:36:11 +0000"
 id: "2237"
 old_path: /comment/2237/a-french-love-affair
-redirect_from:
+aliases:
  - /comment/2237/a-french-love-affair
 category: comment
 

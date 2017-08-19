@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:10:46 +0000"
 id: "2312"
 old_path: /science/2312/less-sea-ice-more-mercury
-redirect_from:
+aliases:
  - /science/2312/less-sea-ice-more-mercury
 category: science
 

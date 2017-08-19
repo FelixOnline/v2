@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:48:03 +0000"
 id: "3410"
 old_path: /comment/3410/there-is-something-in-the-air
-redirect_from:
+aliases:
  - /comment/3410/there-is-something-in-the-air
 category: comment
 

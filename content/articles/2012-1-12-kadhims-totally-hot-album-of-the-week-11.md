@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:44:32 +0000"
 id: "1990"
 old_path: /music/1990/kadhims-totally-hot-album-of-the-week-11
-redirect_from:
+aliases:
  - /music/1990/kadhims-totally-hot-album-of-the-week-11
 category: music
 

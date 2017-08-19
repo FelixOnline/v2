@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:24:19 +0000"
 id: "3289"
 old_path: /news/3289/banned-from-ucl-union
-redirect_from:
+aliases:
  - /news/3289/banned-from-ucl-union
 category: news
 

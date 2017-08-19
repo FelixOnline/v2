@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:39:37 +0000"
 id: "5001"
 old_path: /film/5001/and-the-oscar-goes-to
-redirect_from:
+aliases:
  - /film/5001/and-the-oscar-goes-to
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:15:50 +0000"
 id: "3081"
 old_path: /science/3081/fund-cancer-research-gain-immortality-maybe
-redirect_from:
+aliases:
  - /science/3081/fund-cancer-research-gain-immortality-maybe
 category: science
 

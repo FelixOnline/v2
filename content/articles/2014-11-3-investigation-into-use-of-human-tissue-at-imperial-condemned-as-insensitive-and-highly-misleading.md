@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-03 11:24:57 +0000"
 id: "4756"
 old_path: /news/4756/investigation-into-use-of-human-tissue-at-imperial-condemned-as-insensitive-and-highly-misleading
-redirect_from:
+aliases:
  - /news/4756/investigation-into-use-of-human-tissue-at-imperial-condemned-as-insensitive-and-highly-misleading
 category: news
 

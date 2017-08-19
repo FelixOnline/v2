@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 12:50:01 +0000"
 id: "5088"
 old_path: /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
-redirect_from:
+aliases:
  - /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
 category: news
 

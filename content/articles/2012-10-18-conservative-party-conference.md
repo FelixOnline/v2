@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:24:21 +0100"
 id: "2705"
 old_path: /politics/2705/conservative-party-conference
-redirect_from:
+aliases:
  - /politics/2705/conservative-party-conference
 category: politics
 

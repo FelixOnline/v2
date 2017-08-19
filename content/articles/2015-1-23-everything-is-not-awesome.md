@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 17:29:18 +0000"
 id: "5134"
 old_path: /film/5134/everything-is-not-awesome
-redirect_from:
+aliases:
  - /film/5134/everything-is-not-awesome
 category: film
 

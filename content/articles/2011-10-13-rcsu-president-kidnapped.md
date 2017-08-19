@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 20:51:26 +0100"
 id: "1504"
 old_path: /news/1504/rcsu-president-kidnapped
-redirect_from:
+aliases:
  - /news/1504/rcsu-president-kidnapped
 category: news
 

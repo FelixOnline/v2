@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:14:53 +0100"
 id: "2445"
 old_path: /science/2445/remote-controlled-insulin-production
-redirect_from:
+aliases:
  - /science/2445/remote-controlled-insulin-production
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:52:27 +0000"
 id: "3236"
 old_path: /music/3236/my-bloody-valentine-live
-redirect_from:
+aliases:
  - /music/3236/my-bloody-valentine-live
 category: music
 

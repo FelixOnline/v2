@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-13 12:42:59 +0000"
 id: "4205"
 old_path: /games/4205/a-bright-outlook-for-zeldas-future
-redirect_from:
+aliases:
  - /games/4205/a-bright-outlook-for-zeldas-future
 category: games
 

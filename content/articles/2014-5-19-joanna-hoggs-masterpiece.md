@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:53:33 +0100"
 id: "4611"
 old_path: /film/4611/joanna-hoggs-masterpiece
-redirect_from:
+aliases:
  - /film/4611/joanna-hoggs-masterpiece
 category: film
 

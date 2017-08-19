@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:38:42 +0000"
 id: "951"
 old_path: /sport/951/solid-win-against-royal-vets
-redirect_from:
+aliases:
  - /sport/951/solid-win-against-royal-vets
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 12:45:41 +0000"
 id: "6380"
 old_path: /science/6380/wildlife-photographer-of-the-year-2016
-redirect_from:
+aliases:
  - /science/6380/wildlife-photographer-of-the-year-2016
 category: science
 

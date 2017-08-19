@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 19:58:01 +0000"
 id: "4861"
 old_path: /news/4861/office-365-roll-out-completes-amidst-technical-hitches
-redirect_from:
+aliases:
  - /news/4861/office-365-roll-out-completes-amidst-technical-hitches
 category: news
 

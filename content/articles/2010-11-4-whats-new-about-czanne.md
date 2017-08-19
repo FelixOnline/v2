@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:05:48 +0000"
 id: "290"
 old_path: /arts/290/whats-new-about-czanne
-redirect_from:
+aliases:
  - /arts/290/whats-new-about-czanne
 category: arts
 

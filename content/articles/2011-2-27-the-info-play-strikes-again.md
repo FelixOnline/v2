@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:32:22 +0000"
 id: "915"
 old_path: /arts/915/the-info-play-strikes-again
-redirect_from:
+aliases:
  - /arts/915/the-info-play-strikes-again
 category: arts
 

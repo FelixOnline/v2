@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:36:22 +0000"
 id: "303"
 old_path: /tech/303/can-you-hear-me-now
-redirect_from:
+aliases:
  - /tech/303/can-you-hear-me-now
 category: tech
 

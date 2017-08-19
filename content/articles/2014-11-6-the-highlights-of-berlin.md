@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:30:10 +0000"
 id: "4789"
 old_path: /travel/4789/the-highlights-of-berlin
-redirect_from:
+aliases:
  - /travel/4789/the-highlights-of-berlin
 category: travel
 

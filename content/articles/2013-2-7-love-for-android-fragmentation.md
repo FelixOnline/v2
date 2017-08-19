@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:40:48 +0000"
 id: "3266"
 old_path: /tech/3266/love-for-android-fragmentation
-redirect_from:
+aliases:
  - /tech/3266/love-for-android-fragmentation
 category: tech
 

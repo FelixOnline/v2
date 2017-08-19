@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:46:52 +0000"
 id: "1106"
 old_path: /comment/1106/discovering-this-weird-world
-redirect_from:
+aliases:
  - /comment/1106/discovering-this-weird-world
 category: comment
 

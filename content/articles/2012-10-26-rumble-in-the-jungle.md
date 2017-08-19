@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:07:28 +0100"
 id: "2766"
 old_path: /arts/2766/rumble-in-the-jungle
-redirect_from:
+aliases:
  - /arts/2766/rumble-in-the-jungle
 category: arts
 

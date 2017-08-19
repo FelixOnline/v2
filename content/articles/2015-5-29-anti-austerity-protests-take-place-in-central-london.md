@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 01:10:34 +0100"
 id: "5580"
 old_path: /news/5580/anti-austerity-protests-take-place-in-central-london
-redirect_from:
+aliases:
  - /news/5580/anti-austerity-protests-take-place-in-central-london
 category: news
 

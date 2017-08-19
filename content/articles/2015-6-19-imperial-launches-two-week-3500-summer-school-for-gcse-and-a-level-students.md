@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-19 13:17:22 +0100"
 id: "5641"
 old_path: /news/5641/imperial-launches-two-week-3500-summer-school-for-gcse-and-a-level-students-
-redirect_from:
+aliases:
  - /news/5641/imperial-launches-two-week-3500-summer-school-for-gcse-and-a-level-students-
 category: news
 

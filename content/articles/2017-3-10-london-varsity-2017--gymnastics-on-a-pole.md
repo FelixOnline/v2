@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:43:25 +0000"
 id: "6888"
 old_path: /sport/6888/london-varsity-2017--gymnastics-on-a-pole
-redirect_from:
+aliases:
  - /sport/6888/london-varsity-2017--gymnastics-on-a-pole
 category: sport
 

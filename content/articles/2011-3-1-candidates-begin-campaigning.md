@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:46:16 +0000"
 id: "957"
 old_path: /news/957/candidates-begin-campaigning
-redirect_from:
+aliases:
  - /news/957/candidates-begin-campaigning
 category: news
 

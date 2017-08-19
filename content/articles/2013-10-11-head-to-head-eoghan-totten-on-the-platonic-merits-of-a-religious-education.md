@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:40:58 +0100"
 id: "3830"
 old_path: /comment/3830/head-to-head-eoghan-totten-on-the-platonic-merits-of-a-religious-education
-redirect_from:
+aliases:
  - /comment/3830/head-to-head-eoghan-totten-on-the-platonic-merits-of-a-religious-education
 category: comment
 

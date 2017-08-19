@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:05:22 +0000"
 id: "5984"
 old_path: /food/5984/vegan-gluten-free-cake-surely-not
-redirect_from:
+aliases:
  - /food/5984/vegan-gluten-free-cake-surely-not
 category: food
 

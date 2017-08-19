@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:37:12 +0000"
 id: "6054"
 old_path: /comment/6054/excellence-in-education
-redirect_from:
+aliases:
  - /comment/6054/excellence-in-education
 category: comment
 

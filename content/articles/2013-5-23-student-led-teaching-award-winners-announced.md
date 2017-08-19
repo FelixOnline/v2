@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:27:16 +0100"
 id: "3618"
 old_path: /news/3618/student-led-teaching-award-winners-announced
-redirect_from:
+aliases:
  - /news/3618/student-led-teaching-award-winners-announced
 category: news
 

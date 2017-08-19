@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:06:17 +0000"
 id: "642"
 old_path: /comment/642/tv-license-to-kill-your-patience
-redirect_from:
+aliases:
  - /comment/642/tv-license-to-kill-your-patience
 category: comment
 

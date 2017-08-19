@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 14:29:14 +0100"
 id: "2494"
 old_path: /science/2494/trio-of-proteins-to-ease-food-demand
-redirect_from:
+aliases:
  - /science/2494/trio-of-proteins-to-ease-food-demand
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:46:10 +0000"
 id: "6676"
 old_path: /food/6676/melanzane-alla-parmigiana
-redirect_from:
+aliases:
  - /food/6676/melanzane-alla-parmigiana
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:36:46 +0000"
 id: "5402"
 old_path: /news/5402/the-world-reputation-rankings-place-imperial-14th
-redirect_from:
+aliases:
  - /news/5402/the-world-reputation-rankings-place-imperial-14th
 category: news
 

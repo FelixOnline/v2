@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 20:12:50 +0100"
 id: "3551"
 old_path: /music/3551/ams-album-of-the-week-18
-redirect_from:
+aliases:
  - /music/3551/ams-album-of-the-week-18
 category: music
 

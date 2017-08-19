@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:40:50 +0000"
 id: "4340"
 old_path: /film/4340/jack-steadman-vs-jack-ryan
-redirect_from:
+aliases:
  - /film/4340/jack-steadman-vs-jack-ryan
 category: film
 

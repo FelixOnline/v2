@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 12:08:52 +0100"
 id: "3559"
 old_path: /news/3559/rcs-motor-race-towards-competition-success
-redirect_from:
+aliases:
  - /news/3559/rcs-motor-race-towards-competition-success
 category: news
 

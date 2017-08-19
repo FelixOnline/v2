@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:35:31 +0000"
 id: "5728"
 old_path: /music/5728/grimes-radiant-art-angels
-redirect_from:
+aliases:
  - /music/5728/grimes-radiant-art-angels
 category: music
 

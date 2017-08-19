@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:52:12 +0100"
 id: "4523"
 old_path: /arts/4523/turner-round
-redirect_from:
+aliases:
  - /arts/4523/turner-round
 category: arts
 

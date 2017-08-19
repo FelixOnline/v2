@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:36:42 +0000"
 id: "2849"
 old_path: /food/2849/berry-yourself-in-twelve-strawberry-cupcakes
-redirect_from:
+aliases:
  - /food/2849/berry-yourself-in-twelve-strawberry-cupcakes
 category: food
 

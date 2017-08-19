@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:00:04 +0000"
 id: "6609"
 old_path: /arts/6609/the-unbearable-lightness-of-maths
-redirect_from:
+aliases:
  - /arts/6609/the-unbearable-lightness-of-maths
 category: arts
 

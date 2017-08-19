@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:12:44 +0000"
 id: "5872"
 old_path: /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
-redirect_from:
+aliases:
  - /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
 category: arts
 

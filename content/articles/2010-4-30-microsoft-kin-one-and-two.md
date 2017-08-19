@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-30 11:42:52 +0100"
 id: "134"
 old_path: /tech/134/microsoft-kin-one-and-two
-redirect_from:
+aliases:
  - /tech/134/microsoft-kin-one-and-two
 category: tech
 

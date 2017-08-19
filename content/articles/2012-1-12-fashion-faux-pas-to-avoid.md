@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 19:54:04 +0000"
 id: "1963"
 old_path: /fashion/1963/fashion-faux-pas-to-avoid
-redirect_from:
+aliases:
  - /fashion/1963/fashion-faux-pas-to-avoid
 category: fashion
 

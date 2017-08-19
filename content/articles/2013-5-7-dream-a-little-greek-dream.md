@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-07 19:32:30 +0100"
 id: "3543"
 old_path: /travel/3543/dream-a-little-greek-dream
-redirect_from:
+aliases:
  - /travel/3543/dream-a-little-greek-dream
 category: travel
 

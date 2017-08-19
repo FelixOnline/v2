@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:20:08 +0000"
 id: "1867"
 old_path: /arts/1867/free-house-verse
-redirect_from:
+aliases:
  - /arts/1867/free-house-verse
 category: arts
 

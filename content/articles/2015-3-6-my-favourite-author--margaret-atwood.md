@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 13:10:05 +0000"
 id: "5349"
 old_path: /arts/5349/my-favourite-author--margaret-atwood
-redirect_from:
+aliases:
  - /arts/5349/my-favourite-author--margaret-atwood
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:20:09 +0100"
 id: "202"
 old_path: /news/202/lib-dems-in-trouble-over-higher-fees
-redirect_from:
+aliases:
  - /news/202/lib-dems-in-trouble-over-higher-fees
 category: news
 

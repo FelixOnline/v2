@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:02:17 +0000"
 id: "6660"
 old_path: /comment/6660/2017--the-year-of-the-big-cat
-redirect_from:
+aliases:
  - /comment/6660/2017--the-year-of-the-big-cat
 category: comment
 

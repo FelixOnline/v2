@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:52:00 +0000"
 id: "4878"
 old_path: /arts/4878/finding-out-what-makes-john-tick
-redirect_from:
+aliases:
  - /arts/4878/finding-out-what-makes-john-tick
 category: arts
 

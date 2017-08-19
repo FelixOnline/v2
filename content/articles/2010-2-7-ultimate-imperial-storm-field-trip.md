@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-07 03:27:24 +0000"
 id: "80"
 old_path: /news/80/ultimate-imperial-storm-field-trip
-redirect_from:
+aliases:
  - /news/80/ultimate-imperial-storm-field-trip
 category: news
 

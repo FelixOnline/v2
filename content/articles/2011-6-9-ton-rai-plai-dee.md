@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 19:53:35 +0100"
 id: "1339"
 old_path: /phoenix/1339/ton-rai-plai-dee
-redirect_from:
+aliases:
  - /phoenix/1339/ton-rai-plai-dee
 category: phoenix
 

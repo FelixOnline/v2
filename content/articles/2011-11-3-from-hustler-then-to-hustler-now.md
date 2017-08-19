@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:51:20 +0000"
 id: "1694"
 old_path: /arts/1694/from-hustler-then-to-hustler-now
-redirect_from:
+aliases:
  - /arts/1694/from-hustler-then-to-hustler-now
 category: arts
 

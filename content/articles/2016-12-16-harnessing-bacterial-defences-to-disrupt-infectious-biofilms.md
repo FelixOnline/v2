@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:34:17 +0000"
 id: "6601"
 old_path: /science/6601/harnessing-bacterial-defences-to-disrupt-infectious-biofilms
-redirect_from:
+aliases:
  - /science/6601/harnessing-bacterial-defences-to-disrupt-infectious-biofilms
 category: science
 

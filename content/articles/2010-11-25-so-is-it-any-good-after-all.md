@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 19:52:56 +0000"
 id: "422"
 old_path: /film/422/so-is-it-any-good-after-all
-redirect_from:
+aliases:
  - /film/422/so-is-it-any-good-after-all
 category: film
 

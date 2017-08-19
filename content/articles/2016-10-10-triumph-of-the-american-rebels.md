@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 14:57:42 +0100"
 id: "6326"
 old_path: /arts/6326/triumph-of-the-american-rebels
-redirect_from:
+aliases:
  - /arts/6326/triumph-of-the-american-rebels
 category: arts
 

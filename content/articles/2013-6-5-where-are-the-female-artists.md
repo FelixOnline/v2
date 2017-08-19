@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 18:22:00 +0100"
 id: "3660"
 old_path: /arts/3660/where-are-the-female-artists
-redirect_from:
+aliases:
  - /arts/3660/where-are-the-female-artists
 category: arts
 

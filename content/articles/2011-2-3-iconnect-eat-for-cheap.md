@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:38:24 +0000"
 id: "751"
 old_path: /biz/751/iconnect-eat-for-cheap
-redirect_from:
+aliases:
  - /biz/751/iconnect-eat-for-cheap
 category: business
 

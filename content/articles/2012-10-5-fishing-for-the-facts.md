@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:56:31 +0100"
 id: "2606"
 old_path: /science/2606/fishing-for-the-facts
-redirect_from:
+aliases:
  - /science/2606/fishing-for-the-facts
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:42:40 +0000"
 id: "6745"
 old_path: /comment/6745/we-should-welcome-trump
-redirect_from:
+aliases:
  - /comment/6745/we-should-welcome-trump
 category: comment
 

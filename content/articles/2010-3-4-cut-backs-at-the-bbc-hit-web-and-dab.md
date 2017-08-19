@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-04 13:14:08 +0000"
 id: "120"
 old_path: /tech/120/cut-backs-at-the-bbc-hit-web-and-dab
-redirect_from:
+aliases:
  - /tech/120/cut-backs-at-the-bbc-hit-web-and-dab
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:23:28 +0000"
 id: "6452"
 old_path: /sport/6452/rugby-3s-open-winning-account-against-medics
-redirect_from:
+aliases:
  - /sport/6452/rugby-3s-open-winning-account-against-medics
 category: sport
 

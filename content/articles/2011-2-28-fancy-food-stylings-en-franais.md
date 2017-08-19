@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:05:25 +0000"
 id: "939"
 old_path: /food/939/fancy-food-stylings-en-franais-
-redirect_from:
+aliases:
  - /food/939/fancy-food-stylings-en-franais-
 category: food
 

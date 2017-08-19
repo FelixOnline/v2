@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-22 19:42:20 +0000"
 id: "5104"
 old_path: /news/5104/another-broken-coach-window-and-a-suspension-for-icsm-boat-club
-redirect_from:
+aliases:
  - /news/5104/another-broken-coach-window-and-a-suspension-for-icsm-boat-club
 category: news
 

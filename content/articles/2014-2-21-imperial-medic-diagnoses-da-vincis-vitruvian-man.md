@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:03:43 +0000"
 id: "4415"
 old_path: /news/4415/imperial-medic-diagnoses-da-vincis-vitruvian-man
-redirect_from:
+aliases:
  - /news/4415/imperial-medic-diagnoses-da-vincis-vitruvian-man
 category: news
 

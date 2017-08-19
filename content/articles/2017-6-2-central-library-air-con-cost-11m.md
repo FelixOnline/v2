@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:47:27 +0100"
 id: "6987"
 old_path: /news/6987/central-library-air-con-cost-11m
-redirect_from:
+aliases:
  - /news/6987/central-library-air-con-cost-11m
 category: news
 

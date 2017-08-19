@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:05:35 +0000"
 id: "2005"
 old_path: /science/2005/how-leaping-lizards-use-their-tails
-redirect_from:
+aliases:
  - /science/2005/how-leaping-lizards-use-their-tails
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:27:25 +0000"
 id: "607"
 old_path: /science/607/backing-the-future-of-parkinsons-research-
-redirect_from:
+aliases:
  - /science/607/backing-the-future-of-parkinsons-research-
 category: science
 

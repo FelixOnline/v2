@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-07 17:32:25 +0100"
 id: "6314"
 old_path: /sex/6314/ten-things-i-hate-about-you
-redirect_from:
+aliases:
  - /sex/6314/ten-things-i-hate-about-you
 category: sex
 

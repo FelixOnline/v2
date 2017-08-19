@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:31:44 +0000"
 id: "431"
 old_path: /food/431/its-just-love-and-peas-at-hummus-bros-company
-redirect_from:
+aliases:
  - /food/431/its-just-love-and-peas-at-hummus-bros-company
 category: food
 

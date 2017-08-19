@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-20 00:46:46 +0000"
 id: "5415"
 old_path: /science/5415/does-parliament-need-more-scientists
-redirect_from:
+aliases:
  - /science/5415/does-parliament-need-more-scientists
 category: science
 

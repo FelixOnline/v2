@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:16:19 +0000"
 id: "798"
 old_path: /comment/798/dating-tips-from-this-guy
-redirect_from:
+aliases:
  - /comment/798/dating-tips-from-this-guy
 category: comment
 

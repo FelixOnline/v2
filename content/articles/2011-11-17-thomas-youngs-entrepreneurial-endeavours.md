@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:02:35 +0000"
 id: "1767"
 old_path: /biz/1767/thomas-youngs-entrepreneurial-endeavours
-redirect_from:
+aliases:
  - /biz/1767/thomas-youngs-entrepreneurial-endeavours
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:07:37 +0100"
 id: "1560"
 old_path: /science/1560/on-the-oxidation-of-earths-atmosphere
-redirect_from:
+aliases:
  - /science/1560/on-the-oxidation-of-earths-atmosphere
 category: science
 

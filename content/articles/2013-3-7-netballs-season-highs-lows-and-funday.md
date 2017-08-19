@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 22:07:52 +0000"
 id: "3439"
 old_path: /sport/3439/netballs-season-highs-lows-and-funday
-redirect_from:
+aliases:
  - /sport/3439/netballs-season-highs-lows-and-funday
 category: sport
 

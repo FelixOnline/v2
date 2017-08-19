@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:26:57 +0000"
 id: "3474"
 old_path: /arts/3474/mtsocs-glittering-parade
-redirect_from:
+aliases:
  - /arts/3474/mtsocs-glittering-parade
 category: arts
 

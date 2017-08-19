@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:50:54 +0100"
 id: "4600"
 old_path: /comment/4600/the-end-of-the-great-recession
-redirect_from:
+aliases:
  - /comment/4600/the-end-of-the-great-recession
 category: comment
 

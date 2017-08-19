@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 11:47:25 +0000"
 id: "6557"
 old_path: /food/6557/chocolate-christmas-and-cheese
-redirect_from:
+aliases:
  - /food/6557/chocolate-christmas-and-cheese
 category: food
 

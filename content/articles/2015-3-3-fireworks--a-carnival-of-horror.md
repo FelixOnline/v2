@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:11:56 +0000"
 id: "5320"
 old_path: /arts/5320/fireworks--a-carnival-of-horror
-redirect_from:
+aliases:
  - /arts/5320/fireworks--a-carnival-of-horror
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:35:55 +0000"
 id: "2974"
 old_path: /film/2974/i-may-disagree-with-the-law-but-i-will-enforce-it
-redirect_from:
+aliases:
  - /film/2974/i-may-disagree-with-the-law-but-i-will-enforce-it
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 16:49:55 +0000"
 id: "4512"
 old_path: /music/4512/henriksens-cosmic-creation
-redirect_from:
+aliases:
  - /music/4512/henriksens-cosmic-creation
 category: music
 

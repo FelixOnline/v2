@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 14:16:35 +0100"
 id: "3539"
 old_path: /news/3539/alleged-animal-abuse
-redirect_from:
+aliases:
  - /news/3539/alleged-animal-abuse
 category: news
 

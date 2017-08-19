@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:44:54 +0000"
 id: "4276"
 old_path: /news/4276/victoria-line-suffers-from-civil-engineering-mishap
-redirect_from:
+aliases:
  - /news/4276/victoria-line-suffers-from-civil-engineering-mishap
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 00:15:12 +0100"
 id: "5501"
 old_path: /news/5501/imperial-student-imprisoned-after-being-caught-with-30000-child-porn-images-
-redirect_from:
+aliases:
  - /news/5501/imperial-student-imprisoned-after-being-caught-with-30000-child-porn-images-
 category: news
 

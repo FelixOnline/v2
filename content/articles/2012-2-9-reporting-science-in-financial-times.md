@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:17:54 +0000"
 id: "2146"
 old_path: /biz/2146/reporting-science-in-financial-times
-redirect_from:
+aliases:
  - /biz/2146/reporting-science-in-financial-times
 category: business
 

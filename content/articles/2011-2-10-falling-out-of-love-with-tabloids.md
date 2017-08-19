@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:05:41 +0000"
 id: "794"
 old_path: /comment/794/falling-out-of-love-with-tabloids
-redirect_from:
+aliases:
  - /comment/794/falling-out-of-love-with-tabloids
 category: comment
 

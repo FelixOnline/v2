@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-22 17:35:06 +0000"
 id: "5302"
 old_path: /arts/5302/interview-jon-haynes-in-conversation
-redirect_from:
+aliases:
  - /arts/5302/interview-jon-haynes-in-conversation
 category: arts
 

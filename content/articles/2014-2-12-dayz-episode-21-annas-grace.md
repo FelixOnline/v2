@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-12 12:08:33 +0000"
 id: "4371"
 old_path: /games/4371/dayz-episode-21-annas-grace
-redirect_from:
+aliases:
  - /games/4371/dayz-episode-21-annas-grace
 category: games
 

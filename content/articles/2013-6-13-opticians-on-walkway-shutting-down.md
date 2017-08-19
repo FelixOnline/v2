@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:16:44 +0100"
 id: "3691"
 old_path: /news/3691/opticians-on-walkway-shutting-down
-redirect_from:
+aliases:
  - /news/3691/opticians-on-walkway-shutting-down
 category: news
 

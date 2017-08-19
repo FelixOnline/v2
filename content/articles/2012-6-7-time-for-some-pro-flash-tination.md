@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:05:05 +0100"
 id: "2528"
 old_path: /games/2528/time-for-some-pro-flash-tination
-redirect_from:
+aliases:
  - /games/2528/time-for-some-pro-flash-tination
 category: games
 

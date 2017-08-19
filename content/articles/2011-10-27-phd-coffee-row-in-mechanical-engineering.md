@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 20:22:53 +0100"
 id: "1610"
 old_path: /news/1610/phd-coffee-row-in-mechanical-engineering-
-redirect_from:
+aliases:
  - /news/1610/phd-coffee-row-in-mechanical-engineering-
 category: news
 

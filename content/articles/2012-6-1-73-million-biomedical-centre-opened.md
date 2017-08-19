@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 11:59:12 +0100"
 id: "2506"
 old_path: /news/2506/73-million-biomedical-centre-opened
-redirect_from:
+aliases:
  - /news/2506/73-million-biomedical-centre-opened
 category: news
 

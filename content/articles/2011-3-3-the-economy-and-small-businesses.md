@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 05:51:15 +0000"
 id: "981"
 old_path: /biz/981/the-economy-and-small-businesses
-redirect_from:
+aliases:
  - /biz/981/the-economy-and-small-businesses
 category: business
 

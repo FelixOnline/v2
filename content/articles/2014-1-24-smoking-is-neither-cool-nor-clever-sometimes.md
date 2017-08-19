@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:58:34 +0000"
 id: "4288"
 old_path: /science/4288/smoking-is-neither-cool-nor-clever-sometimes
-redirect_from:
+aliases:
  - /science/4288/smoking-is-neither-cool-nor-clever-sometimes
 category: science
 

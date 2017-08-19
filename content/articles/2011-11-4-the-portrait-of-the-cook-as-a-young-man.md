@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-04 16:59:51 +0000"
 id: "1704"
 old_path: /comment/1704/the-portrait-of-the-cook-as-a-young-man
-redirect_from:
+aliases:
  - /comment/1704/the-portrait-of-the-cook-as-a-young-man
 category: comment
 

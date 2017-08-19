@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:16:23 +0100"
 id: "200"
 old_path: /news/200/electrical-engineering-postgrads-demand-pay-for-teaching-
-redirect_from:
+aliases:
  - /news/200/electrical-engineering-postgrads-demand-pay-for-teaching-
 category: news
 

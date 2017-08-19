@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:15:51 +0100"
 id: "1513"
 old_path: /fashion/1513/winter-is-coming-time-to-go-coat-crazy
-redirect_from:
+aliases:
  - /fashion/1513/winter-is-coming-time-to-go-coat-crazy
 category: fashion
 

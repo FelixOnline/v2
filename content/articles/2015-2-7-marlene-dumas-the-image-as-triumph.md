@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:10:45 +0000"
 id: "5204"
 old_path: /arts/5204/marlene-dumas-the-image-as-triumph
-redirect_from:
+aliases:
  - /arts/5204/marlene-dumas-the-image-as-triumph
 category: arts
 

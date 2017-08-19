@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:41:57 +0000"
 id: "1718"
 old_path: /comment/1718/on-the-flip-side-of-the-coin
-redirect_from:
+aliases:
  - /comment/1718/on-the-flip-side-of-the-coin
 category: comment
 

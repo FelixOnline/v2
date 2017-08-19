@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 00:42:20 +0000"
 id: "5386"
 old_path: /science/5386/fossil-discovery-sheds-light-on-human-origins
-redirect_from:
+aliases:
  - /science/5386/fossil-discovery-sheds-light-on-human-origins
 category: science
 

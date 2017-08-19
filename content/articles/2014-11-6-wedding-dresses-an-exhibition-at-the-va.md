@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:59:50 +0000"
 id: "4793"
 old_path: /fashion/4793/wedding-dresses-an-exhibition-at-the-va
-redirect_from:
+aliases:
  - /fashion/4793/wedding-dresses-an-exhibition-at-the-va
 category: fashion
 

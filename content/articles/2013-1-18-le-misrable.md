@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:26:07 +0000"
 id: "3132"
 old_path: /politics/3132/le-misrable
-redirect_from:
+aliases:
  - /politics/3132/le-misrable
 category: politics
 

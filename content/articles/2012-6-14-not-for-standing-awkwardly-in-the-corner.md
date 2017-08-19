@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:12:56 +0100"
 id: "2545"
 old_path: /arts/2545/not-for-standing-awkwardly-in-the-corner
-redirect_from:
+aliases:
  - /arts/2545/not-for-standing-awkwardly-in-the-corner
 category: arts
 

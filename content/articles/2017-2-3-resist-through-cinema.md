@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:55:46 +0000"
 id: "6723"
 old_path: /film/6723/resist-through-cinema-
-redirect_from:
+aliases:
  - /film/6723/resist-through-cinema-
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:42:07 +0000"
 id: "4023"
 old_path: /news/4023/peoples-question-time
-redirect_from:
+aliases:
  - /news/4023/peoples-question-time
 category: news
 

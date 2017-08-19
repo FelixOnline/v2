@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:35:24 +0100"
 id: "1221"
 old_path: /arts/1221/classic-sci-fi-arthur-c-clarke
-redirect_from:
+aliases:
  - /arts/1221/classic-sci-fi-arthur-c-clarke
 category: arts
 

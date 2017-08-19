@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:11:26 +0000"
 id: "4227"
 old_path: /news/4227/news-bites---the-news-in-short-issue-1564
-redirect_from:
+aliases:
  - /news/4227/news-bites---the-news-in-short-issue-1564
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:30:26 +0000"
 id: "3273"
 old_path: /sport/3273/mud-mud-glorious-mud
-redirect_from:
+aliases:
  - /sport/3273/mud-mud-glorious-mud
 category: sport
 

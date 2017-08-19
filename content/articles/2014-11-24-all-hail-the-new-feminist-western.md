@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:49:22 +0000"
 id: "4945"
 old_path: /film/4945/all-hail-the-new-feminist-western
-redirect_from:
+aliases:
  - /film/4945/all-hail-the-new-feminist-western
 category: film
 

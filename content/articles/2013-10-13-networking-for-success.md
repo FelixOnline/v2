@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-13 00:10:54 +0100"
 id: "3877"
 old_path: /features/3877/networking-for-success
-redirect_from:
+aliases:
  - /features/3877/networking-for-success
 category: features
 

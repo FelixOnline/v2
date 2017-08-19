@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:58:38 +0000"
 id: "2953"
 old_path: /comment/2953/totally-shambolic-policing-tactics
-redirect_from:
+aliases:
  - /comment/2953/totally-shambolic-policing-tactics
 category: comment
 

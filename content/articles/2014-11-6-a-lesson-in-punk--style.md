@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:24:59 +0000"
 id: "4800"
 old_path: /arts/4800/a-lesson-in-punk--style
-redirect_from:
+aliases:
  - /arts/4800/a-lesson-in-punk--style
 category: arts
 

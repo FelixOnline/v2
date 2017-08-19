@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:31:47 +0100"
 id: "6096"
 old_path: /comment/6096/you-have-bad-taste-if-you-like-ales
-redirect_from:
+aliases:
  - /comment/6096/you-have-bad-taste-if-you-like-ales
 category: comment
 

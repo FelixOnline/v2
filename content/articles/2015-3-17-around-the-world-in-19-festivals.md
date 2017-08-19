@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-17 18:14:38 +0000"
 id: "5400"
 old_path: /travel/5400/around-the-world-in-19-festivals
-redirect_from:
+aliases:
  - /travel/5400/around-the-world-in-19-festivals
 category: travel
 

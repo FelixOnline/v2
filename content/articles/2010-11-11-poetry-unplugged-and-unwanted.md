@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:24:23 +0000"
 id: "333"
 old_path: /arts/333/-poetry-unplugged-and-unwanted
-redirect_from:
+aliases:
  - /arts/333/-poetry-unplugged-and-unwanted
 category: arts
 

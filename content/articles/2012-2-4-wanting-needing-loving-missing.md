@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-04 17:37:13 +0000"
 id: "2137"
 old_path: /film/2137/wanting-needing-loving-missing
-redirect_from:
+aliases:
  - /film/2137/wanting-needing-loving-missing
 category: film
 

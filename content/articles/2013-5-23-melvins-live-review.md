@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:21:48 +0100"
 id: "3616"
 old_path: /music/3616/melvins-live-review
-redirect_from:
+aliases:
  - /music/3616/melvins-live-review
 category: music
 

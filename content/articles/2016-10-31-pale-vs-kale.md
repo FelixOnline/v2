@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 15:42:09 +0000"
 id: "6362"
 old_path: /science/6362/pale-vs-kale
-redirect_from:
+aliases:
  - /science/6362/pale-vs-kale
 category: science
 

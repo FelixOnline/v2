@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:50:01 +0000"
 id: "6034"
 old_path: /music/6034/hottakes-of-the-week
-redirect_from:
+aliases:
  - /music/6034/hottakes-of-the-week
 category: music
 

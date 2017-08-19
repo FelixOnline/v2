@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:48:35 +0000"
 id: "6748"
 old_path: /comment/6748/the-nhs-has-no-idea-what-its-doing-when-it-comes-to-trans-patients
-redirect_from:
+aliases:
  - /comment/6748/the-nhs-has-no-idea-what-its-doing-when-it-comes-to-trans-patients
 category: comment
 

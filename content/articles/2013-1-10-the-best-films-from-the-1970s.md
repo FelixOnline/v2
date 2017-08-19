@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:08:15 +0000"
 id: "3105"
 old_path: /film/3105/the-best-films-from-the-1970s
-redirect_from:
+aliases:
  - /film/3105/the-best-films-from-the-1970s
 category: film
 

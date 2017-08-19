@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 13:00:47 +0000"
 id: "6896"
 old_path: /news/6896/practice-room-due-to-re-open-maybe
-redirect_from:
+aliases:
  - /news/6896/practice-room-due-to-re-open-maybe
 category: news
 

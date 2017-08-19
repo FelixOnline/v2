@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 22:51:44 +0100"
 id: "3821"
 old_path: /comment/3821/technical-difficulties
-redirect_from:
+aliases:
  - /comment/3821/technical-difficulties
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:41:06 +0000"
 id: "4272"
 old_path: /news/4272/imperial-opens-new-ict-centre-at-imperial-west
-redirect_from:
+aliases:
  - /news/4272/imperial-opens-new-ict-centre-at-imperial-west
 category: news
 

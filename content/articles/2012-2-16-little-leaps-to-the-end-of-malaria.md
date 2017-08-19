@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:57:11 +0000"
 id: "2202"
 old_path: /science/2202/little-leaps-to-the-end-of-malaria
-redirect_from:
+aliases:
  - /science/2202/little-leaps-to-the-end-of-malaria
 category: science
 

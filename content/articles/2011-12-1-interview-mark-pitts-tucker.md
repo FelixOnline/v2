@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:43:34 +0000"
 id: "1875"
 old_path: /food/1875/interview-mark-pitts-tucker-
-redirect_from:
+aliases:
  - /food/1875/interview-mark-pitts-tucker-
 category: food
 

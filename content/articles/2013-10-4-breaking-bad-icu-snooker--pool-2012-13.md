@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 02:19:44 +0100"
 id: "3812"
 old_path: /sport/3812/breaking-bad-icu-snooker--pool-2012-13
-redirect_from:
+aliases:
  - /sport/3812/breaking-bad-icu-snooker--pool-2012-13
 category: sport
 

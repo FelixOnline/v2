@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:20:51 +0000"
 id: "2060"
 old_path: /science/2060/the-phenological-fallacy
-redirect_from:
+aliases:
  - /science/2060/the-phenological-fallacy
 category: science
 

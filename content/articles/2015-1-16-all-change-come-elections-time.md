@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:06:33 +0000"
 id: "5095"
 old_path: /news/5095/all-change-come-elections-time
-redirect_from:
+aliases:
  - /news/5095/all-change-come-elections-time
 category: news
 

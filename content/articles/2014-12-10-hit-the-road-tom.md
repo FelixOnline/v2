@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-10 14:55:23 +0000"
 id: "5022"
 old_path: /cands/5022/hit-the-road-tom
-redirect_from:
+aliases:
  - /cands/5022/hit-the-road-tom
 category: clubs-and-socs
 

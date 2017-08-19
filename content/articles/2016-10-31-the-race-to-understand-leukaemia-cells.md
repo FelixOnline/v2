@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 15:45:03 +0000"
 id: "6363"
 old_path: /science/6363/the-race-to-understand-leukaemia-cells
-redirect_from:
+aliases:
  - /science/6363/the-race-to-understand-leukaemia-cells
 category: science
 

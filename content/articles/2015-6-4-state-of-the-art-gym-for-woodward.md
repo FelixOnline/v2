@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:15:41 +0100"
 id: "5596"
 old_path: /news/5596/state-of-the-art-gym-for-woodward
-redirect_from:
+aliases:
  - /news/5596/state-of-the-art-gym-for-woodward
 category: news
 

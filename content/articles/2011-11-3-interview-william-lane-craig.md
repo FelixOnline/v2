@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:41:50 +0000"
 id: "1691"
 old_path: /news/1691/interview-william-lane-craig
-redirect_from:
+aliases:
  - /news/1691/interview-william-lane-craig
 category: news
 

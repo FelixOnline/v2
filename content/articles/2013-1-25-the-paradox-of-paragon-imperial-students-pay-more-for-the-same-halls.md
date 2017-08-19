@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:14:17 +0000"
 id: "3174"
 old_path: /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
-redirect_from:
+aliases:
  - /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
 category: news
 

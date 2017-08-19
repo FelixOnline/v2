@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:51:25 +0000"
 id: "6464"
 old_path: /science/6464/do-old-bonobos-need-to-go-to-specsavers-
-redirect_from:
+aliases:
  - /science/6464/do-old-bonobos-need-to-go-to-specsavers-
 category: science
 

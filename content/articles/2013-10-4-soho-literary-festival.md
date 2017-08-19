@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 02:03:16 +0100"
 id: "3808"
 old_path: /books/3808/soho-literary-festival
-redirect_from:
+aliases:
  - /books/3808/soho-literary-festival
 category: books
 

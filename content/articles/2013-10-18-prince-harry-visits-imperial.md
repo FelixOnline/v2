@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 20:34:51 +0100"
 id: "3883"
 old_path: /news/3883/prince-harry-visits-imperial-
-redirect_from:
+aliases:
  - /news/3883/prince-harry-visits-imperial-
 category: news
 

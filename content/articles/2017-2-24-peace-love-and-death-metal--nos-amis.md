@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:12:21 +0000"
 id: "6825"
 old_path: /tv/6825/peace-love-and-death-metal--nos-amis
-redirect_from:
+aliases:
  - /tv/6825/peace-love-and-death-metal--nos-amis
 category: tv
 

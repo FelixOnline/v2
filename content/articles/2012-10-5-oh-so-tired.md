@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 18:05:25 +0100"
 id: "2636"
 old_path: /comment/2636/oh-so-tired
-redirect_from:
+aliases:
  - /comment/2636/oh-so-tired
 category: comment
 

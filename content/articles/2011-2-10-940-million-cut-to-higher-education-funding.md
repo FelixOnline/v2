@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:11:47 +0000"
 id: "766"
 old_path: /news/766/940-million-cut-to-higher-education-funding-
-redirect_from:
+aliases:
  - /news/766/940-million-cut-to-higher-education-funding-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:45:25 +0100"
 id: "1355"
 old_path: /politics/1355/we-win-or-we-die
-redirect_from:
+aliases:
  - /politics/1355/we-win-or-we-die
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:39:44 +0000"
 id: "1689"
 old_path: /arts/1689/nothing-stormy-about-trevor-nunns-tempest
-redirect_from:
+aliases:
  - /arts/1689/nothing-stormy-about-trevor-nunns-tempest
 category: arts
 

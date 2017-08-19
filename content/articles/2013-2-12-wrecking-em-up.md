@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-12 20:24:08 +0000"
 id: "3294"
 old_path: /film/3294/wrecking-em-up
-redirect_from:
+aliases:
  - /film/3294/wrecking-em-up
 category: film
 

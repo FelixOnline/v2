@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:17:09 +0000"
 id: "4842"
 old_path: /welfare/4842/big-worries-about-small-problems
-redirect_from:
+aliases:
  - /welfare/4842/big-worries-about-small-problems
 category: welfare
 

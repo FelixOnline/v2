@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:21:55 +0000"
 id: "3085"
 old_path: /politics/3085/politics-prcis
-redirect_from:
+aliases:
  - /politics/3085/politics-prcis
 category: politics
 

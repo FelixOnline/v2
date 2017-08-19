@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:09:56 +0100"
 id: "3949"
 old_path: /features/3949/the-imperial-series
-redirect_from:
+aliases:
  - /features/3949/the-imperial-series
 category: features
 

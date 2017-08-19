@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 18:36:11 +0000"
 id: "6444"
 old_path: /music/6444/where-to-get-your-post-fabric-fix
-redirect_from:
+aliases:
  - /music/6444/where-to-get-your-post-fabric-fix
 category: music
 

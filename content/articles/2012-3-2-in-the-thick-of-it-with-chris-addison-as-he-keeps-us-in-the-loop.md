@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 01:48:23 +0000"
 id: "2306"
 old_path: /news/2306/in-the-thick-of-it-with-chris-addison-as-he-keeps-us-in-the-loop
-redirect_from:
+aliases:
  - /news/2306/in-the-thick-of-it-with-chris-addison-as-he-keeps-us-in-the-loop
 category: news
 

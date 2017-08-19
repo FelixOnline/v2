@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-16 15:23:06 +0000"
 id: "3075"
 old_path: /film/3075/review-django-unchained
-redirect_from:
+aliases:
  - /film/3075/review-django-unchained
 category: film
 

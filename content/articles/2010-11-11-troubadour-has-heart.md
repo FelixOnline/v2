@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:17:56 +0000"
 id: "358"
 old_path: /food/358/troubadour-has-heart
-redirect_from:
+aliases:
  - /food/358/troubadour-has-heart
 category: food
 

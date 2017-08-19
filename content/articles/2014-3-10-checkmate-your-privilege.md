@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-10 10:06:37 +0000"
 id: "4474"
 old_path: /news/4474/checkmate-your-privilege
-redirect_from:
+aliases:
  - /news/4474/checkmate-your-privilege
 category: news
 

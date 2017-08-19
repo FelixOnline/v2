@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 01:03:55 +0000"
 id: "2301"
 old_path: /news/2301/confusion-over-event-success
-redirect_from:
+aliases:
  - /news/2301/confusion-over-event-success
 category: news
 

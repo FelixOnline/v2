@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:19:01 +0100"
 id: "6095"
 old_path: /comment/6095/the-nus-doesnt-represent-jewish-students
-redirect_from:
+aliases:
  - /comment/6095/the-nus-doesnt-represent-jewish-students
 category: comment
 

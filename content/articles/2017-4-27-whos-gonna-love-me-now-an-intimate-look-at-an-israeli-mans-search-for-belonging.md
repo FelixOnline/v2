@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-04-27 15:37:59 +0100"
 id: "6926"
 old_path: /film/6926/whos-gonna-love-me-now-an-intimate-look-at-an-israeli-mans-search-for-belonging
-redirect_from:
+aliases:
  - /film/6926/whos-gonna-love-me-now-an-intimate-look-at-an-israeli-mans-search-for-belonging
 category: film
 

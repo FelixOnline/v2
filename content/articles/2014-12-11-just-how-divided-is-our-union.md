@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 19:59:46 +0000"
 id: "5024"
 old_path: /comment/5024/just-how-divided-is-our-union
-redirect_from:
+aliases:
  - /comment/5024/just-how-divided-is-our-union
 category: comment
 

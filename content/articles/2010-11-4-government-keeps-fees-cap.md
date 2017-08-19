@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:07:23 +0000"
 id: "325"
 old_path: /news/325/government-keeps-fees-cap-
-redirect_from:
+aliases:
  - /news/325/government-keeps-fees-cap-
 category: news
 

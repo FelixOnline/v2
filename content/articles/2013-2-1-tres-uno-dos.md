@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:50:54 +0000"
 id: "3235"
 old_path: /music/3235/tres-uno-dos
-redirect_from:
+aliases:
  - /music/3235/tres-uno-dos
 category: music
 

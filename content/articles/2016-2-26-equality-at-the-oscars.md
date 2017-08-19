@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:39:55 +0000"
 id: "5967"
 old_path: /film/5967/equality-at-the-oscars
-redirect_from:
+aliases:
  - /film/5967/equality-at-the-oscars
 category: film
 

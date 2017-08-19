@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:46:06 +0100"
 id: "3937"
 old_path: /film/3937/i-dont-want-to-survive-i-want-to-live
-redirect_from:
+aliases:
  - /film/3937/i-dont-want-to-survive-i-want-to-live
 category: film
 

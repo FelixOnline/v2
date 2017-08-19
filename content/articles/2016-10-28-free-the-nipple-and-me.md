@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 14:53:18 +0100"
 id: "6349"
 old_path: /comment/6349/free-the-nipple-and-me
-redirect_from:
+aliases:
  - /comment/6349/free-the-nipple-and-me
 category: comment
 

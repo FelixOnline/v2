@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-03 10:40:20 +0100"
 id: "4718"
 old_path: /news/4718/new-report-published-about-animal-research-problems-at-college
-redirect_from:
+aliases:
  - /news/4718/new-report-published-about-animal-research-problems-at-college
 category: news
 

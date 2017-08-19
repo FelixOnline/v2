@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 22:33:45 +0000"
 id: "40"
 old_path: /sport/40/felixsport-enters-2010-at-a-quick-jog
-redirect_from:
+aliases:
  - /sport/40/felixsport-enters-2010-at-a-quick-jog
 category: sport
 

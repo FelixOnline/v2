@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 16:14:26 +0000"
 id: "5262"
 old_path: /arts/5262/little-light--a-family-affair
-redirect_from:
+aliases:
  - /arts/5262/little-light--a-family-affair
 category: arts
 

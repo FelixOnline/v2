@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:03:17 +0000"
 id: "1680"
 old_path: /biz/1680/you-there-make-way-for-liberty
-redirect_from:
+aliases:
  - /biz/1680/you-there-make-way-for-liberty
 category: business
 

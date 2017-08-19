@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 20:57:50 +0100"
 id: "2685"
 old_path: /arts/2685/flicks-on-bricks
-redirect_from:
+aliases:
  - /arts/2685/flicks-on-bricks
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:40:55 +0000"
 id: "1859"
 old_path: /science/1859/flemings-fungus-finally-identified
-redirect_from:
+aliases:
  - /science/1859/flemings-fungus-finally-identified
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:35:18 +0000"
 id: "5727"
 old_path: /features/5727/alumnus-goes-galactic
-redirect_from:
+aliases:
  - /features/5727/alumnus-goes-galactic
 category: features
 

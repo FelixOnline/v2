@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 14:56:11 +0100"
 id: "4716"
 old_path: /music/4716/n_polytope-behaviours-in-light--sound-after-iannis-xenakis
-redirect_from:
+aliases:
  - /music/4716/n_polytope-behaviours-in-light--sound-after-iannis-xenakis
 category: music
 

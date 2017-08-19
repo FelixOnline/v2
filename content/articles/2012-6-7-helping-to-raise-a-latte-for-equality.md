@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:53:00 +0100"
 id: "2535"
 old_path: /comment/2535/helping-to-raise-a-latte-for-equality
-redirect_from:
+aliases:
  - /comment/2535/helping-to-raise-a-latte-for-equality
 category: comment
 

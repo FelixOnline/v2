@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:41:52 +0000"
 id: "952"
 old_path: /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
-redirect_from:
+aliases:
  - /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
 category: sport
 

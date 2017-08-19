@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:14:33 +0000"
 id: "4760"
 old_path: /comment/4760/research-ethics-at-the-bottom-of-the-ice-bucket
-redirect_from:
+aliases:
  - /comment/4760/research-ethics-at-the-bottom-of-the-ice-bucket
 category: comment
 

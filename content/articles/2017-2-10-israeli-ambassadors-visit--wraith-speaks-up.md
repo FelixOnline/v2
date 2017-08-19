@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:36:12 +0000"
 id: "6742"
 old_path: /news/6742/israeli-ambassadors-visit--wraith-speaks-up
-redirect_from:
+aliases:
  - /news/6742/israeli-ambassadors-visit--wraith-speaks-up
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:53:52 +0000"
 id: "2352"
 old_path: /science/2352/honey-bees-seek-thrills-just-like-us
-redirect_from:
+aliases:
  - /science/2352/honey-bees-seek-thrills-just-like-us
 category: science
 

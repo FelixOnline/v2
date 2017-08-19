@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 02:00:08 +0100"
 id: "3905"
 old_path: /features/3905/the-careers-service-supporting-you-beyond-graduation
-redirect_from:
+aliases:
  - /features/3905/the-careers-service-supporting-you-beyond-graduation
 category: features
 

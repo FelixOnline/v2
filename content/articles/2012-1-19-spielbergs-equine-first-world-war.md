@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:29:30 +0000"
 id: "2014"
 old_path: /film/2014/spielbergs-equine-first-world-war
-redirect_from:
+aliases:
  - /film/2014/spielbergs-equine-first-world-war
 category: film
 

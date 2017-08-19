@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:29:36 +0100"
 id: "2413"
 old_path: /film/2413/my-chart-reign-will-go-on-and-on-and-on
-redirect_from:
+aliases:
  - /film/2413/my-chart-reign-will-go-on-and-on-and-on
 category: film
 

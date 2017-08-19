@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:15:46 +0000"
 id: "967"
 old_path: /travel/967/regal-charms-of-new-zealand
-redirect_from:
+aliases:
  - /travel/967/regal-charms-of-new-zealand
 category: travel
 

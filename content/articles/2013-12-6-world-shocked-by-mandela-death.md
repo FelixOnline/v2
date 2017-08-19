@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:41:56 +0000"
 id: "4175"
 old_path: /news/4175/world-shocked-by-mandela-death
-redirect_from:
+aliases:
  - /news/4175/world-shocked-by-mandela-death
 category: news
 

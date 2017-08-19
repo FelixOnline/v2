@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:40:51 +0000"
 id: "4942"
 old_path: /film/4942/once-more-unto-the-breach-felix-reviews-mockingjay-part-1
-redirect_from:
+aliases:
  - /film/4942/once-more-unto-the-breach-felix-reviews-mockingjay-part-1
 category: film
 

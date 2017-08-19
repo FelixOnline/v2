@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:56:13 +0000"
 id: "828"
 old_path: /comment/828/i-cant-stand-intolerant-people
-redirect_from:
+aliases:
  - /comment/828/i-cant-stand-intolerant-people
 category: comment
 

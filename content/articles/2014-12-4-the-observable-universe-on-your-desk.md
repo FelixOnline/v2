@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:31:25 +0000"
 id: "4999"
 old_path: /games/4999/the-observable-universe-on-your-desk
-redirect_from:
+aliases:
  - /games/4999/the-observable-universe-on-your-desk
 category: games
 

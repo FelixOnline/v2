@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-07-08 11:39:02 +0100"
 id: "3743"
 old_path: /music/3743/kentish-fire-put-fresh-spin-on-music-video-with-360-camera
-redirect_from:
+aliases:
  - /music/3743/kentish-fire-put-fresh-spin-on-music-video-with-360-camera
 category: music
 

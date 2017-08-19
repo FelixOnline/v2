@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:26:54 +0100"
 id: "2743"
 old_path: /science/2743/the-shrinking-of-the-fish
-redirect_from:
+aliases:
  - /science/2743/the-shrinking-of-the-fish
 category: science
 

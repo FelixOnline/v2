@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:52:32 +0000"
 id: "5887"
 old_path: /cands/5887/friendship-in-the-name-of-art
-redirect_from:
+aliases:
  - /cands/5887/friendship-in-the-name-of-art
 category: clubs-and-socs
 

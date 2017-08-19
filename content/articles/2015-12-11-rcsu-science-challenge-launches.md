@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-11 15:23:47 +0000"
 id: "5811"
 old_path: /news/5811/rcsu-science-challenge-launches
-redirect_from:
+aliases:
  - /news/5811/rcsu-science-challenge-launches
 category: news
 

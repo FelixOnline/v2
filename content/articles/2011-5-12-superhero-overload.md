@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:43:28 +0100"
 id: "1198"
 old_path: /film/1198/superhero-overload
-redirect_from:
+aliases:
  - /film/1198/superhero-overload
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:17:57 +0000"
 id: "5072"
 old_path: /arts/5072/daring-to-hope-in-the-face-of-austerity
-redirect_from:
+aliases:
  - /arts/5072/daring-to-hope-in-the-face-of-austerity
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:06:48 +0000"
 id: "1062"
 old_path: /comment/1062/up-is-the-new-down
-redirect_from:
+aliases:
  - /comment/1062/up-is-the-new-down
 category: comment
 

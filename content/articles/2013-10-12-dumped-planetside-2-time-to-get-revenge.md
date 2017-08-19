@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:27:57 +0100"
 id: "3854"
 old_path: /games/3854/dumped-planetside-2-time-to-get-revenge
-redirect_from:
+aliases:
  - /games/3854/dumped-planetside-2-time-to-get-revenge
 category: games
 

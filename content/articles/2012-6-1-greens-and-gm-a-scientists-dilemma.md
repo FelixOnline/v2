@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:43:40 +0100"
 id: "2512"
 old_path: /comment/2512/greens-and-gm-a-scientists-dilemma
-redirect_from:
+aliases:
  - /comment/2512/greens-and-gm-a-scientists-dilemma
 category: comment
 

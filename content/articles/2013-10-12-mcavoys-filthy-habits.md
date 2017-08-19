@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:12:53 +0100"
 id: "3849"
 old_path: /film/3849/mcavoys-filthy-habits
-redirect_from:
+aliases:
  - /film/3849/mcavoys-filthy-habits
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:30:28 +0000"
 id: "670"
 old_path: /biz/670/a-look-into-the-bank-of-englands-monetary-policy-
-redirect_from:
+aliases:
  - /biz/670/a-look-into-the-bank-of-englands-monetary-policy-
 category: business
 

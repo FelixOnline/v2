@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:39:28 +0000"
 id: "5455"
 old_path: /arts/5455/comic-books-where-to-start
-redirect_from:
+aliases:
  - /arts/5455/comic-books-where-to-start
 category: arts
 

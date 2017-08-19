@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:12:01 +0000"
 id: "3301"
 old_path: /food/3301/aperitivo-all-italiana
-redirect_from:
+aliases:
  - /food/3301/aperitivo-all-italiana
 category: food
 

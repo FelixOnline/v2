@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:08:11 +0100"
 id: "1584"
 old_path: /sport/1584/ic-hockey-friendlies-yield-mixed-results
-redirect_from:
+aliases:
  - /sport/1584/ic-hockey-friendlies-yield-mixed-results
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:23:54 +0000"
 id: "1969"
 old_path: /news/1969/an-interview-with-medic-president-suzie-rayner
-redirect_from:
+aliases:
  - /news/1969/an-interview-with-medic-president-suzie-rayner
 category: news
 

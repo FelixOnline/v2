@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:05:23 +0100"
 id: "6156"
 old_path: /music/6156/the-protest-album-of-the-decade
-redirect_from:
+aliases:
  - /music/6156/the-protest-album-of-the-decade
 category: music
 

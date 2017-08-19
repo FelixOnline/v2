@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-15 23:41:10 +0000"
 id: "6593"
 old_path: /news/6593/islamic-society-charity-week-success-
-redirect_from:
+aliases:
  - /news/6593/islamic-society-charity-week-success-
 category: news
 

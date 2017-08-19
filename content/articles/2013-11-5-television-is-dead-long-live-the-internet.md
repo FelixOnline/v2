@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:45:48 +0000"
 id: "4003"
 old_path: /tv/4003/television-is-dead-long-live-the-internet
-redirect_from:
+aliases:
  - /tv/4003/television-is-dead-long-live-the-internet
 category: tv
 

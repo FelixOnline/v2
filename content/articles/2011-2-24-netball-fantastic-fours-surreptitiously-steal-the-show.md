@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:11:27 +0000"
 id: "883"
 old_path: /sport/883/netball-fantastic-fours-surreptitiously-steal-the-show
-redirect_from:
+aliases:
  - /sport/883/netball-fantastic-fours-surreptitiously-steal-the-show
 category: sport
 

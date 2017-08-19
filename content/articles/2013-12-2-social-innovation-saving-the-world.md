@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:29:18 +0000"
 id: "4150"
 old_path: /features/4150/social-innovation-saving-the-world
-redirect_from:
+aliases:
  - /features/4150/social-innovation-saving-the-world
 category: features
 

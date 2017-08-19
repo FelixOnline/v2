@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:00:31 +0000"
 id: "4772"
 old_path: /news/4772/1000000-ex-council-flat-sold-in-chelsea
-redirect_from:
+aliases:
  - /news/4772/1000000-ex-council-flat-sold-in-chelsea
 category: news
 

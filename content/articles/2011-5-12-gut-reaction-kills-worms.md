@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:27:20 +0100"
 id: "1188"
 old_path: /science/1188/gut-reaction-kills-worms
-redirect_from:
+aliases:
  - /science/1188/gut-reaction-kills-worms
 category: science
 

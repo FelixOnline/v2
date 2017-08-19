@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:34:28 +0000"
 id: "608"
 old_path: /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
-redirect_from:
+aliases:
  - /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
 category: science
 

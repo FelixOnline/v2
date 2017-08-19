@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:29:08 +0000"
 id: "5125"
 old_path: /comment/5125/i-want-to-say-thank-you-to-the-bad-people
-redirect_from:
+aliases:
  - /comment/5125/i-want-to-say-thank-you-to-the-bad-people
 category: comment
 

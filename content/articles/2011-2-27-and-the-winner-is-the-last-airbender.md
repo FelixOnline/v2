@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:09:30 +0000"
 id: "908"
 old_path: /film/908/and-the-winner-is-the-last-airbender
-redirect_from:
+aliases:
  - /film/908/and-the-winner-is-the-last-airbender
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:49:32 +0100"
 id: "279"
 old_path: /comment/279/the-event-went-off-with-a-pfft-
-redirect_from:
+aliases:
  - /comment/279/the-event-went-off-with-a-pfft-
 category: comment
 

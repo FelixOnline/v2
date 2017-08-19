@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:09:31 +0100"
 id: "1292"
 old_path: /news/1292/imperial-joins-600-million-medical-research-centre-project
-redirect_from:
+aliases:
  - /news/1292/imperial-joins-600-million-medical-research-centre-project
 category: news
 

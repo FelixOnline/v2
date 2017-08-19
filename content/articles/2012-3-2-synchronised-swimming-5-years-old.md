@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 17:31:10 +0000"
 id: "2308"
 old_path: /sport/2308/synchronised-swimming-5-years-old
-redirect_from:
+aliases:
  - /sport/2308/synchronised-swimming-5-years-old
 category: sport
 

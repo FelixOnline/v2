@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:07:00 +0000"
 id: "764"
 old_path: /news/764/deterring-internationals-
-redirect_from:
+aliases:
  - /news/764/deterring-internationals-
 category: news
 

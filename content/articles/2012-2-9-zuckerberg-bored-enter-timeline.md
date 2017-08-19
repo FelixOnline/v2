@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:18:37 +0000"
 id: "2147"
 old_path: /tech/2147/zuckerberg-bored-enter-timeline
-redirect_from:
+aliases:
  - /tech/2147/zuckerberg-bored-enter-timeline
 category: tech
 

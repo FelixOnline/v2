@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:42:31 +0000"
 id: "5731"
 old_path: /science/5731/conservation-in-aid-of-cancer-research-
-redirect_from:
+aliases:
  - /science/5731/conservation-in-aid-of-cancer-research-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:41:34 +0100"
 id: "3698"
 old_path: /news/3698/e-lighting-up
-redirect_from:
+aliases:
  - /news/3698/e-lighting-up
 category: news
 

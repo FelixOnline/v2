@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:33:42 +0000"
 id: "3180"
 old_path: /food/3180/this-is-not-just-a-cheesecake
-redirect_from:
+aliases:
  - /food/3180/this-is-not-just-a-cheesecake
 category: food
 

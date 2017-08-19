@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:16:04 +0000"
 id: "5379"
 old_path: /science/5379/this-does-not-threaten-the-fabric-of-our-society
-redirect_from:
+aliases:
  - /science/5379/this-does-not-threaten-the-fabric-of-our-society
 category: science
 

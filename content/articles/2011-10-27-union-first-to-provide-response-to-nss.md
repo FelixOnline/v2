@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 19:38:51 +0100"
 id: "1606"
 old_path: /news/1606/union-first-to-provide-response-to-nss
-redirect_from:
+aliases:
  - /news/1606/union-first-to-provide-response-to-nss
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:21:41 +0000"
 id: "5720"
 old_path: /news/5720/new-observatory-keeps-any-eye-on-big-data
-redirect_from:
+aliases:
  - /news/5720/new-observatory-keeps-any-eye-on-big-data
 category: news
 

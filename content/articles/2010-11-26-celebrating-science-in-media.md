@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 07:20:23 +0000"
 id: "449"
 old_path: /news/449/celebrating-science-in-media-
-redirect_from:
+aliases:
  - /news/449/celebrating-science-in-media-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-29 16:19:28 +0000"
 id: "4304"
 old_path: /tech/4304/paying-in-style-yoyonotyolo
-redirect_from:
+aliases:
  - /tech/4304/paying-in-style-yoyonotyolo
 category: tech
 

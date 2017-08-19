@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:42:00 +0000"
 id: "5314"
 old_path: /news/5314/visa-expiry-causes-commemoration-day-to-move
-redirect_from:
+aliases:
  - /news/5314/visa-expiry-causes-commemoration-day-to-move
 category: news
 

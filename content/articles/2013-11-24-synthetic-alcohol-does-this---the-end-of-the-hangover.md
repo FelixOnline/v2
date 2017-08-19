@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:05:01 +0000"
 id: "4108"
 old_path: /science/4108/synthetic-alcohol-does-this---the-end-of-the-hangover
-redirect_from:
+aliases:
  - /science/4108/synthetic-alcohol-does-this---the-end-of-the-hangover
 category: science
 

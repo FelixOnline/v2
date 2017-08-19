@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:24:06 +0100"
 id: "6139"
 old_path: /sport/6139/trials-and-tribulations-at-bucs-sprint-16
-redirect_from:
+aliases:
  - /sport/6139/trials-and-tribulations-at-bucs-sprint-16
 category: sport
 

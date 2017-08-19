@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:20:50 +0000"
 id: "4211"
 old_path: /tech/4211/who-doesnt-need-a-roomba
-redirect_from:
+aliases:
  - /tech/4211/who-doesnt-need-a-roomba
 category: tech
 

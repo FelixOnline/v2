@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:12:58 +0000"
 id: "2142"
 old_path: /news/2142/offermation-for-the-nation
-redirect_from:
+aliases:
  - /news/2142/offermation-for-the-nation
 category: news
 

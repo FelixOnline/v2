@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:15:52 +0000"
 id: "5927"
 old_path: /features/5927/things-youre-desperate-to-ask-your-muslim-lab-partner
-redirect_from:
+aliases:
  - /features/5927/things-youre-desperate-to-ask-your-muslim-lab-partner
 category: features
 

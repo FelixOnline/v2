@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:43:25 +0100"
 id: "4598"
 old_path: /news/4598/imperial-sign-pledge-to-be-more-open-about-animals-in-research
-redirect_from:
+aliases:
  - /news/4598/imperial-sign-pledge-to-be-more-open-about-animals-in-research
 category: news
 

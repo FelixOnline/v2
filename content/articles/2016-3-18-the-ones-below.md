@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:57:14 +0000"
 id: "6068"
 old_path: /film/6068/the-ones-below
-redirect_from:
+aliases:
  - /film/6068/the-ones-below
 category: film
 

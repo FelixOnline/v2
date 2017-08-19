@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:06:58 +0100"
 id: "6183"
 old_path: /science/6183/science--the-city
-redirect_from:
+aliases:
  - /science/6183/science--the-city
 category: science
 

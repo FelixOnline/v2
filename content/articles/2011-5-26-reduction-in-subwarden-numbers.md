@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 18:39:22 +0100"
 id: "1250"
 old_path: /news/1250/reduction-in-subwarden-numbers
-redirect_from:
+aliases:
  - /news/1250/reduction-in-subwarden-numbers
 category: news
 

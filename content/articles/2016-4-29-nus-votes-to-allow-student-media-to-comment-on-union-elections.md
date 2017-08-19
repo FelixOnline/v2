@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:06:02 +0100"
 id: "6089"
 old_path: /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
-redirect_from:
+aliases:
  - /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
 category: news
 

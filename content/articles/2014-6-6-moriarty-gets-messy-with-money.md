@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:48:26 +0100"
 id: "4664"
 old_path: /arts/4664/moriarty-gets-messy-with-money
-redirect_from:
+aliases:
  - /arts/4664/moriarty-gets-messy-with-money
 category: arts
 

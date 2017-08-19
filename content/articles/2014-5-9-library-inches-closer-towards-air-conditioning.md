@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 01:56:19 +0100"
 id: "4565"
 old_path: /news/4565/library-inches-closer-towards-air-conditioning
-redirect_from:
+aliases:
  - /news/4565/library-inches-closer-towards-air-conditioning
 category: news
 

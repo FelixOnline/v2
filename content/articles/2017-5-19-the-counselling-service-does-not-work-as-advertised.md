@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 15:05:28 +0100"
 id: "6975"
 old_path: /comment/6975/the-counselling-service-does-not-work-as-advertised
-redirect_from:
+aliases:
  - /comment/6975/the-counselling-service-does-not-work-as-advertised
 category: comment
 

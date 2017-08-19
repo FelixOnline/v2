@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:32:36 +0100"
 id: "5599"
 old_path: /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
-redirect_from:
+aliases:
  - /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
 category: features
 

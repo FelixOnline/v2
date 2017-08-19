@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:19:15 +0000"
 id: "4255"
 old_path: /tv/4255/girls-uninterrupted
-redirect_from:
+aliases:
  - /tv/4255/girls-uninterrupted
 category: tv
 

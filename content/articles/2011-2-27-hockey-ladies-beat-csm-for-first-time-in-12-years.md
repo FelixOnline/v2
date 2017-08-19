@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:54:46 +0000"
 id: "922"
 old_path: /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
-redirect_from:
+aliases:
  - /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
 category: sport
 

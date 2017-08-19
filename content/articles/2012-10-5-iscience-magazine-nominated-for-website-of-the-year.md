@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 15:53:31 +0100"
 id: "2633"
 old_path: /news/2633/iscience-magazine-nominated-for-website-of-the-year
-redirect_from:
+aliases:
  - /news/2633/iscience-magazine-nominated-for-website-of-the-year
 category: news
 

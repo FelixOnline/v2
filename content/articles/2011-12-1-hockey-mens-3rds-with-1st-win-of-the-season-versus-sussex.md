@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:20:29 +0000"
 id: "1889"
 old_path: /sport/1889/hockey-mens-3rds-with-1st-win-of-the-season-versus-sussex-
-redirect_from:
+aliases:
  - /sport/1889/hockey-mens-3rds-with-1st-win-of-the-season-versus-sussex-
 category: sport
 

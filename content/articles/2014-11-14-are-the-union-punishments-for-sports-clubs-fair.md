@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:27:17 +0000"
 id: "4896"
 old_path: /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
-redirect_from:
+aliases:
  - /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
 category: sport
 

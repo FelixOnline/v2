@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:08:59 +0000"
 id: "5377"
 old_path: /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
-redirect_from:
+aliases:
  - /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
 category: comment
 

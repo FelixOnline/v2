@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:56:36 +0000"
 id: "481"
 old_path: /music/481/hidden-treasures
-redirect_from:
+aliases:
  - /music/481/hidden-treasures
 category: music
 

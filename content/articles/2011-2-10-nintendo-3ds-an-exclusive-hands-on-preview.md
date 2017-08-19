@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:44:23 +0000"
 id: "782"
 old_path: /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
-redirect_from:
+aliases:
  - /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
 category: games
 

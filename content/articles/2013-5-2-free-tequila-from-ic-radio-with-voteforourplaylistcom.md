@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:37:18 +0100"
 id: "3531"
 old_path: /news/3531/free-tequila-from-ic-radio-with-voteforourplaylistcom
-redirect_from:
+aliases:
  - /news/3531/free-tequila-from-ic-radio-with-voteforourplaylistcom
 category: news
 

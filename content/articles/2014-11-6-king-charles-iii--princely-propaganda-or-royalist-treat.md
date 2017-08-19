@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:44:52 +0000"
 id: "4808"
 old_path: /arts/4808/king-charles-iii--princely-propaganda-or-royalist-treat
-redirect_from:
+aliases:
  - /arts/4808/king-charles-iii--princely-propaganda-or-royalist-treat
 category: arts
 

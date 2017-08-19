@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:34:18 +0000"
 id: "2017"
 old_path: /film/2017/her-madgesty-takes-on-the-royal-family
-redirect_from:
+aliases:
  - /film/2017/her-madgesty-takes-on-the-royal-family
 category: film
 

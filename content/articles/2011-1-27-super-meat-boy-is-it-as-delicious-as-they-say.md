@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:23:59 +0000"
 id: "692"
 old_path: /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
-redirect_from:
+aliases:
  - /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
 category: games
 

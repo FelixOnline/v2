@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 19:51:07 +0000"
 id: "2227"
 old_path: /comment/2227/i-have-a-smartphone-progress-at-last
-redirect_from:
+aliases:
  - /comment/2227/i-have-a-smartphone-progress-at-last
 category: comment
 

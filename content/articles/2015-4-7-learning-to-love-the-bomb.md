@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-07 16:34:11 +0100"
 id: "5462"
 old_path: /arts/5462/learning-to-love-the-bomb
-redirect_from:
+aliases:
  - /arts/5462/learning-to-love-the-bomb
 category: arts
 

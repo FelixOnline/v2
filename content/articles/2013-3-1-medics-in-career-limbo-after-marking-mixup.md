@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 01:22:20 +0000"
 id: "3418"
 old_path: /news/3418/medics-in-career-limbo-after-marking-mixup
-redirect_from:
+aliases:
  - /news/3418/medics-in-career-limbo-after-marking-mixup
 category: news
 

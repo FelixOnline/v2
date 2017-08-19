@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:43:36 +0000"
 id: "5882"
 old_path: /games/5882/lands-end-is-a-vr-gem
-redirect_from:
+aliases:
  - /games/5882/lands-end-is-a-vr-gem
 category: games
 

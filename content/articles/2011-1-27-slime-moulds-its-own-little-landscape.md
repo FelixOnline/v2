@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:57:52 +0000"
 id: "660"
 old_path: /science/660/slime-moulds-its-own-little-landscape-
-redirect_from:
+aliases:
  - /science/660/slime-moulds-its-own-little-landscape-
 category: science
 

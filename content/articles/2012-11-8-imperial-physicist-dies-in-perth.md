@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-08 23:50:07 +0000"
 id: "2829"
 old_path: /news/2829/imperial-physicist-dies-in-perth
-redirect_from:
+aliases:
  - /news/2829/imperial-physicist-dies-in-perth
 category: news
 

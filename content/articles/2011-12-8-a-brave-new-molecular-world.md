@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:50:09 +0000"
 id: "1923"
 old_path: /science/1923/a-brave-new-molecular-world
-redirect_from:
+aliases:
  - /science/1923/a-brave-new-molecular-world
 category: science
 

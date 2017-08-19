@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:28:01 +0000"
 id: "4500"
 old_path: /books/4500/the-dying-earth
-redirect_from:
+aliases:
  - /books/4500/the-dying-earth
 category: books
 

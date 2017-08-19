@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-11 06:43:35 +0000"
 id: "800"
 old_path: /arts/800/get-hot-at-pole-dancing-class
-redirect_from:
+aliases:
  - /arts/800/get-hot-at-pole-dancing-class
 category: arts
 

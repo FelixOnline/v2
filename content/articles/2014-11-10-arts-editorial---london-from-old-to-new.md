@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:20:53 +0000"
 id: "4818"
 old_path: /arts/4818/arts-editorial---london-from-old-to-new
-redirect_from:
+aliases:
  - /arts/4818/arts-editorial---london-from-old-to-new
 category: arts
 

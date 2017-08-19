@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-12 18:30:26 +0000"
 id: "3293"
 old_path: /film/3293/4-stars-for-4ty
-redirect_from:
+aliases:
  - /film/3293/4-stars-for-4ty
 category: film
 

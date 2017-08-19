@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:45:55 +0000"
 id: "6811"
 old_path: /news/6811/eating-disorder-awareness-week-hits-ic
-redirect_from:
+aliases:
  - /news/6811/eating-disorder-awareness-week-hits-ic
 category: news
 

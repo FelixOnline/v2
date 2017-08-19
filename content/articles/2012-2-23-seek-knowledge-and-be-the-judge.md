@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:45:35 +0000"
 id: "2261"
 old_path: /news/2261/seek-knowledge-and-be-the-judge-
-redirect_from:
+aliases:
  - /news/2261/seek-knowledge-and-be-the-judge-
 category: news
 

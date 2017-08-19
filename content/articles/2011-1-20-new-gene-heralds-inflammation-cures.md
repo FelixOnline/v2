@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:24:19 +0000"
 id: "605"
 old_path: /science/605/new-gene-heralds-inflammation-cures-
-redirect_from:
+aliases:
  - /science/605/new-gene-heralds-inflammation-cures-
 category: science
 

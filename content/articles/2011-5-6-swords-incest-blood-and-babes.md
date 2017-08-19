@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 13:00:38 +0100"
 id: "1169"
 old_path: /tv/1169/swords-incest-blood-and-babes
-redirect_from:
+aliases:
  - /tv/1169/swords-incest-blood-and-babes
 category: tv
 

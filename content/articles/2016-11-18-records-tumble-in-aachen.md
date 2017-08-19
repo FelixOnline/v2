@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 17:08:36 +0000"
 id: "6489"
 old_path: /sport/6489/records-tumble-in-aachen
-redirect_from:
+aliases:
  - /sport/6489/records-tumble-in-aachen
 category: sport
 

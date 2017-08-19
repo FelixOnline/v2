@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 16:50:36 +0000"
 id: "5131"
 old_path: /film/5131/you-all-look-the-same-to-me
-redirect_from:
+aliases:
  - /film/5131/you-all-look-the-same-to-me
 category: film
 

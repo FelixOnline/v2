@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:52:44 +0000"
 id: "1948"
 old_path: /comment/1948/ashura-a-lesson-from-islams-history
-redirect_from:
+aliases:
  - /comment/1948/ashura-a-lesson-from-islams-history
 category: comment
 

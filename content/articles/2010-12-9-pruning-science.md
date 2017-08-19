@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:29:54 +0000"
 id: "524"
 old_path: /comment/524/pruning-science
-redirect_from:
+aliases:
  - /comment/524/pruning-science
 category: comment
 

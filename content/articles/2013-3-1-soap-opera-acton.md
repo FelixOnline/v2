@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:58:00 +0000"
 id: "3413"
 old_path: /comment/3413/soap-opera-acton
-redirect_from:
+aliases:
  - /comment/3413/soap-opera-acton
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:30:05 +0000"
 id: "6457"
 old_path: /news/6457/education-demo-still-happening
-redirect_from:
+aliases:
  - /news/6457/education-demo-still-happening
 category: news
 

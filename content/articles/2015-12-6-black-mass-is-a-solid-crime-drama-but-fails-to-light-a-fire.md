@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:11:10 +0000"
 id: "5799"
 old_path: /film/5799/black-mass-is-a-solid-crime-drama-but-fails-to-light-a-fire
-redirect_from:
+aliases:
  - /film/5799/black-mass-is-a-solid-crime-drama-but-fails-to-light-a-fire
 category: film
 

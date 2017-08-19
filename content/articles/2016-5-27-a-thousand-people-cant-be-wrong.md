@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:46:44 +0100"
 id: "6203"
 old_path: /comment/6203/a-thousand-people-cant-be-wrong
-redirect_from:
+aliases:
  - /comment/6203/a-thousand-people-cant-be-wrong
 category: comment
 

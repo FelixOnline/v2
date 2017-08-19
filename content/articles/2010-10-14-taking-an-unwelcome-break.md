@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 20:03:30 +0100"
 id: "219"
 old_path: /comment/219/taking-an-unwelcome-break
-redirect_from:
+aliases:
  - /comment/219/taking-an-unwelcome-break
 category: comment
 

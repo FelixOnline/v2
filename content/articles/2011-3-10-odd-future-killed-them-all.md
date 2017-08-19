@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:24:12 +0000"
 id: "1069"
 old_path: /music/1069/odd-future-killed-them-all
-redirect_from:
+aliases:
  - /music/1069/odd-future-killed-them-all
 category: music
 

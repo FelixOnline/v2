@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:59:28 +0000"
 id: "1812"
 old_path: /games/1812/fort-dwarfness-wait-what
-redirect_from:
+aliases:
  - /games/1812/fort-dwarfness-wait-what
 category: games
 

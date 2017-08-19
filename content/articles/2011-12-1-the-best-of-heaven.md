@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:01:37 +0000"
 id: "1878"
 old_path: /music/1878/the-best-of-heaven
-redirect_from:
+aliases:
  - /music/1878/the-best-of-heaven
 category: music
 

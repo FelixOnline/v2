@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:41:30 +0000"
 id: "5968"
 old_path: /film/5968/review--the-smuggler
-redirect_from:
+aliases:
  - /film/5968/review--the-smuggler
 category: film
 

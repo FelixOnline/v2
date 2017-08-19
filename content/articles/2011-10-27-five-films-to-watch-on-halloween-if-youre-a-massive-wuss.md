@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 22:02:01 +0100"
 id: "1614"
 old_path: /film/1614/five-films-to-watch-on-halloween-if-youre-a-massive-wuss
-redirect_from:
+aliases:
  - /film/1614/five-films-to-watch-on-halloween-if-youre-a-massive-wuss
 category: film
 

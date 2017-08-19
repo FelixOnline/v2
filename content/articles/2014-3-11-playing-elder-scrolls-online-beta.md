@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-11 17:45:50 +0000"
 id: "4476"
 old_path: /games/4476/playing-elder-scrolls-online-beta
-redirect_from:
+aliases:
  - /games/4476/playing-elder-scrolls-online-beta
 category: games
 

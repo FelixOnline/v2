@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-18 16:43:26 +0000"
 id: "92"
 old_path: /arts/92/broadway-royalty-coming-through
-redirect_from:
+aliases:
  - /arts/92/broadway-royalty-coming-through
 category: arts
 

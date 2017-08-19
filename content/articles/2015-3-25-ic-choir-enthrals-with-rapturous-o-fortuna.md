@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:21:15 +0000"
 id: "5449"
 old_path: /music/5449/ic-choir-enthrals-with-rapturous-o-fortuna
-redirect_from:
+aliases:
  - /music/5449/ic-choir-enthrals-with-rapturous-o-fortuna
 category: music
 

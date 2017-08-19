@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:55:49 +0000"
 id: "6815"
 old_path: /science/6815/workings-of-a-ticks-immune-system
-redirect_from:
+aliases:
  - /science/6815/workings-of-a-ticks-immune-system
 category: science
 

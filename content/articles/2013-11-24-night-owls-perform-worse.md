@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:02:59 +0000"
 id: "4107"
 old_path: /science/4107/night-owls-perform-worse
-redirect_from:
+aliases:
  - /science/4107/night-owls-perform-worse
 category: science
 

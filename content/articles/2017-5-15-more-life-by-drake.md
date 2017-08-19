@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:24:25 +0100"
 id: "6953"
 old_path: /music/6953/more-life-by-drake-
-redirect_from:
+aliases:
  - /music/6953/more-life-by-drake-
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-11 15:22:25 +0000"
 id: "5810"
 old_path: /news/5810/pigs-head-found-in-australian-university-mosques-bathroom
-redirect_from:
+aliases:
  - /news/5810/pigs-head-found-in-australian-university-mosques-bathroom
 category: news
 

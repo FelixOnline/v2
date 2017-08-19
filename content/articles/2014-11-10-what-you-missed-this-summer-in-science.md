@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:48:27 +0000"
 id: "4848"
 old_path: /science/4848/what-you-missed-this-summer-in-science
-redirect_from:
+aliases:
  - /science/4848/what-you-missed-this-summer-in-science
 category: science
 

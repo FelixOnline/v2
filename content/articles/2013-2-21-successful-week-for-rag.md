@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 23:57:47 +0000"
 id: "3351"
 old_path: /news/3351/successful-week-for-rag
-redirect_from:
+aliases:
  - /news/3351/successful-week-for-rag
 category: news
 

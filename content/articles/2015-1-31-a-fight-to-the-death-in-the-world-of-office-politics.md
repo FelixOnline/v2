@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 19:24:04 +0000"
 id: "5175"
 old_path: /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
-redirect_from:
+aliases:
  - /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
 category: arts
 

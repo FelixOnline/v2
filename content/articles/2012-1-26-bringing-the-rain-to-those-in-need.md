@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:30:24 +0000"
 id: "2065"
 old_path: /news/2065/bringing-the-rain-to-those-in-need
-redirect_from:
+aliases:
  - /news/2065/bringing-the-rain-to-those-in-need
 category: news
 

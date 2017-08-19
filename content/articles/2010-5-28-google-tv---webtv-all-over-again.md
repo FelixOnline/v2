@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-28 10:48:44 +0100"
 id: "141"
 old_path: /tech/141/google-tv---webtv-all-over-again
-redirect_from:
+aliases:
  - /tech/141/google-tv---webtv-all-over-again
 category: tech
 

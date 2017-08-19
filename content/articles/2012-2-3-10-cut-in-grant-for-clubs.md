@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 00:18:48 +0000"
 id: "2119"
 old_path: /news/2119/10-cut-in-grant-for-clubs
-redirect_from:
+aliases:
  - /news/2119/10-cut-in-grant-for-clubs
 category: news
 

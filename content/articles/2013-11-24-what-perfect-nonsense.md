@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:13:02 +0000"
 id: "4115"
 old_path: /arts/4115/what-perfect-nonsense
-redirect_from:
+aliases:
  - /arts/4115/what-perfect-nonsense
 category: arts
 

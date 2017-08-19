@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:16:17 +0000"
 id: "3082"
 old_path: /news/3082/head-of-library-sevices-retires
-redirect_from:
+aliases:
  - /news/3082/head-of-library-sevices-retires
 category: news
 

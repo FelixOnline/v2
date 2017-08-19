@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 20:22:42 +0000"
 id: "4906"
 old_path: /news/4906/local-news-dog-saves-owner-from-house-fire-in-shepherds-bush
-redirect_from:
+aliases:
  - /news/4906/local-news-dog-saves-owner-from-house-fire-in-shepherds-bush
 category: news
 

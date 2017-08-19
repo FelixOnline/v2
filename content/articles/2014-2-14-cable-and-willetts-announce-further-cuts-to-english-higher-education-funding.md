@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 05:04:47 +0000"
 id: "4379"
 old_path: /news/4379/cable-and-willetts-announce-further-cuts-to-english-higher-education-funding
-redirect_from:
+aliases:
  - /news/4379/cable-and-willetts-announce-further-cuts-to-english-higher-education-funding
 category: news
 

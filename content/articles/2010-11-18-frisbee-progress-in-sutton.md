@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:06:51 +0000"
 id: "401"
 old_path: /sport/401/frisbee-progress-in-sutton
-redirect_from:
+aliases:
  - /sport/401/frisbee-progress-in-sutton
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:48:35 +0100"
 id: "2533"
 old_path: /film/2533/shut-up-and-deal-shirley-maclaines-afi-glory
-redirect_from:
+aliases:
  - /film/2533/shut-up-and-deal-shirley-maclaines-afi-glory
 category: film
 

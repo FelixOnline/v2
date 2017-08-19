@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:48:52 +0100"
 id: "6173"
 old_path: /news/6173/tuition-fees-will-rise-with-inflation
-redirect_from:
+aliases:
  - /news/6173/tuition-fees-will-rise-with-inflation
 category: news
 

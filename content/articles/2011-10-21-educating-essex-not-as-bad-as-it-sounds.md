@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:40:21 +0100"
 id: "1592"
 old_path: /tv/1592/educating-essex-not-as-bad-as-it-sounds
-redirect_from:
+aliases:
  - /tv/1592/educating-essex-not-as-bad-as-it-sounds
 category: tv
 

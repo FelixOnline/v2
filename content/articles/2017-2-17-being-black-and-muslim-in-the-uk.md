@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:41:42 +0000"
 id: "6786"
 old_path: /comment/6786/being-black-and-muslim-in-the-uk
-redirect_from:
+aliases:
  - /comment/6786/being-black-and-muslim-in-the-uk
 category: comment
 

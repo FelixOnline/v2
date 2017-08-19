@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:03:47 +0100"
 id: "2440"
 old_path: /comment/2440/league-table-woes-not-a-problem
-redirect_from:
+aliases:
  - /comment/2440/league-table-woes-not-a-problem
 category: comment
 

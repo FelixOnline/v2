@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 15:52:59 +0000"
 id: "6401"
 old_path: /millennials/6401/weed--the-politics-of-legalisation
-redirect_from:
+aliases:
  - /millennials/6401/weed--the-politics-of-legalisation
 category: millennials
 

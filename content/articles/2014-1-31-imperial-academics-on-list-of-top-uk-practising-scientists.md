@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:13:00 +0000"
 id: "4311"
 old_path: /news/4311/imperial-academics-on-list-of-top-uk-practising-scientists
-redirect_from:
+aliases:
  - /news/4311/imperial-academics-on-list-of-top-uk-practising-scientists
 category: news
 

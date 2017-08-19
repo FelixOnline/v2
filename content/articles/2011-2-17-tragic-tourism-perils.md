@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:25:28 +0000"
 id: "842"
 old_path: /travel/842/tragic-tourism-perils
-redirect_from:
+aliases:
  - /travel/842/tragic-tourism-perils
 category: travel
 

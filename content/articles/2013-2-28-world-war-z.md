@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 18:04:30 +0000"
 id: "3384"
 old_path: /books/3384/world-war-z
-redirect_from:
+aliases:
  - /books/3384/world-war-z
 category: books
 

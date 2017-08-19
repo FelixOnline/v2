@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:20:15 +0000"
 id: "5285"
 old_path: /sport/5285/immortals-lose-to-birmingham-41-0
-redirect_from:
+aliases:
  - /sport/5285/immortals-lose-to-birmingham-41-0
 category: sport
 

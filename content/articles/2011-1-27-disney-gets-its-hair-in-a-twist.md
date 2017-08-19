@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:01:28 +0000"
 id: "683"
 old_path: /film/683/disney-gets-its-hair-in-a-twist
-redirect_from:
+aliases:
  - /film/683/disney-gets-its-hair-in-a-twist
 category: film
 

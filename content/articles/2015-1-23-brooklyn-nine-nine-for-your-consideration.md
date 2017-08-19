@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:40:58 +0000"
 id: "5145"
 old_path: /tv/5145/brooklyn-nine-nine-for-your-consideration
-redirect_from:
+aliases:
  - /tv/5145/brooklyn-nine-nine-for-your-consideration
 category: tv
 

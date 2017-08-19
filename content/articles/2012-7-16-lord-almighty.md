@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-07-16 11:36:46 +0100"
 id: "2585"
 old_path: /politics/2585/lord-almighty-
-redirect_from:
+aliases:
  - /politics/2585/lord-almighty-
 category: politics
 

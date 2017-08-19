@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:15:40 +0100"
 id: "2560"
 old_path: /science/2560/inspired-by-iron-man
-redirect_from:
+aliases:
  - /science/2560/inspired-by-iron-man
 category: science
 

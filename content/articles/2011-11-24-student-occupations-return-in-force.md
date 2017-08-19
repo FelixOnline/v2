@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:08:36 +0000"
 id: "1828"
 old_path: /news/1828/student-occupations-return-in-force
-redirect_from:
+aliases:
  - /news/1828/student-occupations-return-in-force
 category: news
 

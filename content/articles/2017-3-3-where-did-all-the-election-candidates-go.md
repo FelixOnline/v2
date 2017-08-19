@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:15:41 +0000"
 id: "6834"
 old_path: /news/6834/where-did-all-the-election-candidates-go
-redirect_from:
+aliases:
  - /news/6834/where-did-all-the-election-candidates-go
 category: news
 

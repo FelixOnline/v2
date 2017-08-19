@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:54:46 +0100"
 id: "6105"
 old_path: /arts/6105/your-guide-to-whats-hot-in-art-this-term
-redirect_from:
+aliases:
  - /arts/6105/your-guide-to-whats-hot-in-art-this-term
 category: arts
 

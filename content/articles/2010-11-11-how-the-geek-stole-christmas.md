@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:46:16 +0000"
 id: "367"
 old_path: /comment/367/how-the-geek-stole-christmas
-redirect_from:
+aliases:
  - /comment/367/how-the-geek-stole-christmas
 category: comment
 

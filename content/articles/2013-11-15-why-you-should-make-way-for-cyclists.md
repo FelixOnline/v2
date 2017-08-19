@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:24:21 +0000"
 id: "4067"
 old_path: /comment/4067/why-you-should-make-way-for-cyclists
-redirect_from:
+aliases:
  - /comment/4067/why-you-should-make-way-for-cyclists
 category: comment
 

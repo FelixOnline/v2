@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:50:56 +0000"
 id: "4505"
 old_path: /features/4505/a-night-of-sun-sex-and-slavery-with-imperial-cinema
-redirect_from:
+aliases:
  - /features/4505/a-night-of-sun-sex-and-slavery-with-imperial-cinema
 category: features
 

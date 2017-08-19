@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:09:20 +0100"
 id: "253"
 old_path: /politics/253/nick-brown-argues-lib-dems-have-lost-support-
-redirect_from:
+aliases:
  - /politics/253/nick-brown-argues-lib-dems-have-lost-support-
 category: politics
 

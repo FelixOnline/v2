@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 13:53:07 +0000"
 id: "51"
 old_path: /comment/51/welcome-to-wales
-redirect_from:
+aliases:
  - /comment/51/welcome-to-wales
 category: comment
 

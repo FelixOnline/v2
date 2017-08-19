@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:13:59 +0100"
 id: "175"
 old_path: /news/175/can-we-solve-a-problem-like-teaching
-redirect_from:
+aliases:
  - /news/175/can-we-solve-a-problem-like-teaching
 category: news
 

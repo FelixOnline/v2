@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-06 10:15:34 +0100"
 id: "3816"
 old_path: /tv/3816/a-bewildering-journey-into-ancient-greece
-redirect_from:
+aliases:
  - /tv/3816/a-bewildering-journey-into-ancient-greece
 category: tv
 

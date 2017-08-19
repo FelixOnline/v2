@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:17:28 +0000"
 id: "464"
 old_path: /film/464/classic-cinema
-redirect_from:
+aliases:
  - /film/464/classic-cinema
 category: film
 

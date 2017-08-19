@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:54:14 +0000"
 id: "5839"
 old_path: /comment/5839/masters-of-self-sabotage
-redirect_from:
+aliases:
  - /comment/5839/masters-of-self-sabotage
 category: comment
 

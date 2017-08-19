@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-07 21:06:20 +0100"
 id: "1131"
 old_path: /science/1131/interview-with-professor-stanley-siegelman
-redirect_from:
+aliases:
  - /science/1131/interview-with-professor-stanley-siegelman
 category: science
 

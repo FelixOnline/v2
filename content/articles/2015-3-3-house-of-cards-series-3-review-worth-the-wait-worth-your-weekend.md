@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 12:34:49 +0000"
 id: "5317"
 old_path: /tv/5317/house-of-cards-series-3-review-worth-the-wait-worth-your-weekend
-redirect_from:
+aliases:
  - /tv/5317/house-of-cards-series-3-review-worth-the-wait-worth-your-weekend
 category: tv
 

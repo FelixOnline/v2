@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:08:13 +0000"
 id: "1742"
 old_path: /news/1742/european-success-for-imperial-at-igem
-redirect_from:
+aliases:
  - /news/1742/european-success-for-imperial-at-igem
 category: news
 

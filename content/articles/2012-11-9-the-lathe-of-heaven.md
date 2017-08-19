@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:20:49 +0000"
 id: "2856"
 old_path: /books/2856/the-lathe-of-heaven
-redirect_from:
+aliases:
  - /books/2856/the-lathe-of-heaven
 category: books
 

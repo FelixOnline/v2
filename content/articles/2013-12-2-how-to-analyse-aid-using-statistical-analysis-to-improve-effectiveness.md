@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 13:11:22 +0000"
 id: "4147"
 old_path: /features/4147/how-to-analyse-aid-using-statistical-analysis-to-improve-effectiveness
-redirect_from:
+aliases:
  - /features/4147/how-to-analyse-aid-using-statistical-analysis-to-improve-effectiveness
 category: features
 

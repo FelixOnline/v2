@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 19:03:36 +0000"
 id: "5149"
 old_path: /travel/5149/up-in-ubud-dabbling-the-delights-in-balis-undisputed-cultural-capital
-redirect_from:
+aliases:
  - /travel/5149/up-in-ubud-dabbling-the-delights-in-balis-undisputed-cultural-capital
 category: travel
 

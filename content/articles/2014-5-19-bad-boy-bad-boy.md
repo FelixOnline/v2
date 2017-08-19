@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:59:08 +0100"
 id: "4614"
 old_path: /film/4614/bad-boy-bad-boy
-redirect_from:
+aliases:
  - /film/4614/bad-boy-bad-boy
 category: film
 

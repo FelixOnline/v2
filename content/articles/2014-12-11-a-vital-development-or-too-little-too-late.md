@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:39:37 +0000"
 id: "5029"
 old_path: /science/5029/a-vital-development-or-too-little-too-late
-redirect_from:
+aliases:
  - /science/5029/a-vital-development-or-too-little-too-late
 category: science
 

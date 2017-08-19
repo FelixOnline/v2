@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:28:04 +0000"
 id: "2110"
 old_path: /comment/2110/a-possible-high-society
-redirect_from:
+aliases:
  - /comment/2110/a-possible-high-society
 category: comment
 

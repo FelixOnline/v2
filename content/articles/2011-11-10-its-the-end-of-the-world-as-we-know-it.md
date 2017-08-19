@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:44:15 +0000"
 id: "1735"
 old_path: /film/1735/its-the-end-of-the-world-as-we-know-it
-redirect_from:
+aliases:
  - /film/1735/its-the-end-of-the-world-as-we-know-it
 category: film
 

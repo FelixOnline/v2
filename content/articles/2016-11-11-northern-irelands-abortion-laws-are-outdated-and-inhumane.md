@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:57:33 +0000"
 id: "6422"
 old_path: /comment/6422/northern-irelands-abortion-laws-are-outdated-and-inhumane
-redirect_from:
+aliases:
  - /comment/6422/northern-irelands-abortion-laws-are-outdated-and-inhumane
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 22:25:48 +0000"
 id: "2399"
 old_path: /comment/2399/ics-international-scene
-redirect_from:
+aliases:
  - /comment/2399/ics-international-scene
 category: comment
 

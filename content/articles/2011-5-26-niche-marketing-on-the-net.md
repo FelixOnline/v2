@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:22:41 +0100"
 id: "1259"
 old_path: /biz/1259/niche-marketing-on-the-net
-redirect_from:
+aliases:
  - /biz/1259/niche-marketing-on-the-net
 category: business
 

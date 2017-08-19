@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:15:10 +0100"
 id: "3825"
 old_path: /science/3825/hype-hope-and-headlines
-redirect_from:
+aliases:
  - /science/3825/hype-hope-and-headlines
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:43:17 +0000"
 id: "3304"
 old_path: /books/3304/we-be-light-we-be-life-we-be-fire
-redirect_from:
+aliases:
  - /books/3304/we-be-light-we-be-life-we-be-fire
 category: books
 

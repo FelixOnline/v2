@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 19:04:23 +0000"
 id: "5170"
 old_path: /arts/5170/theres-more-to-art-than-white-western-males
-redirect_from:
+aliases:
  - /arts/5170/theres-more-to-art-than-white-western-males
 category: arts
 

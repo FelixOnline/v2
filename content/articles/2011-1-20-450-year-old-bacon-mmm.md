@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:37:34 +0000"
 id: "610"
 old_path: /science/610/450-year-old-bacon-mmm-
-redirect_from:
+aliases:
  - /science/610/450-year-old-bacon-mmm-
 category: science
 

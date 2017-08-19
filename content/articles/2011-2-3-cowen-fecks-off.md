@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:15:25 +0000"
 id: "740"
 old_path: /politics/740/cowen-fecks-off
-redirect_from:
+aliases:
  - /politics/740/cowen-fecks-off
 category: politics
 

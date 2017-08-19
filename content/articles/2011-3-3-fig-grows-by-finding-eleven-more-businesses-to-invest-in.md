@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:36:57 +0000"
 id: "1013"
 old_path: /biz/1013/fig-grows-by-finding-eleven-more-businesses-to-invest-in-
-redirect_from:
+aliases:
  - /biz/1013/fig-grows-by-finding-eleven-more-businesses-to-invest-in-
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 21:56:31 +0100"
 id: "1511"
 old_path: /science/1511/are-particles-self-aware
-redirect_from:
+aliases:
  - /science/1511/are-particles-self-aware
 category: science
 

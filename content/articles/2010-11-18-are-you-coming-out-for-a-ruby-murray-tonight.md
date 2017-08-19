@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:05:21 +0000"
 id: "400"
 old_path: /food/400/are-you-coming-out-for-a-ruby-murray-tonight
-redirect_from:
+aliases:
  - /food/400/are-you-coming-out-for-a-ruby-murray-tonight
 category: food
 

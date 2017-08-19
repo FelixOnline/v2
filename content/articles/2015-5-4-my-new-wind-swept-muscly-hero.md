@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:58:10 +0100"
 id: "5492"
 old_path: /tv/5492/my-new-wind-swept-muscly-hero
-redirect_from:
+aliases:
  - /tv/5492/my-new-wind-swept-muscly-hero
 category: tv
 

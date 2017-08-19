@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:31:10 +0100"
 id: "1487"
 old_path: /arts/1487/bobby-whats-the-french-for-maths
-redirect_from:
+aliases:
  - /arts/1487/bobby-whats-the-french-for-maths
 category: arts
 

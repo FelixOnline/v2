@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:02:09 +0000"
 id: "5200"
 old_path: /arts/5200/a-journey-to-the-heart-of-western-art
-redirect_from:
+aliases:
  - /arts/5200/a-journey-to-the-heart-of-western-art
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:12:07 +0000"
 id: "331"
 old_path: /arts/331/homework-at-bethnal-green-working-mens-club
-redirect_from:
+aliases:
  - /arts/331/homework-at-bethnal-green-working-mens-club
 category: arts
 

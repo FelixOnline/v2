@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:53:55 +0000"
 id: "3217"
 old_path: /biz/3217/identify-your-dream-team
-redirect_from:
+aliases:
  - /biz/3217/identify-your-dream-team
 category: business
 

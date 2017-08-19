@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:35:55 +0000"
 id: "2112"
 old_path: /comment/2112/give-tfl-a-break
-redirect_from:
+aliases:
  - /comment/2112/give-tfl-a-break
 category: comment
 

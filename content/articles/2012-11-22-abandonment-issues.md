@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:09:38 +0000"
 id: "2940"
 old_path: /games/2940/abandonment-issues-
-redirect_from:
+aliases:
  - /games/2940/abandonment-issues-
 category: games
 

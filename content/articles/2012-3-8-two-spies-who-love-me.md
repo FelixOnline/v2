@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:53:12 +0000"
 id: "2329"
 old_path: /film/2329/two-spies-who-love-me
-redirect_from:
+aliases:
  - /film/2329/two-spies-who-love-me
 category: film
 

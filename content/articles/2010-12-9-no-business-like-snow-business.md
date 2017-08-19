@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:31:33 +0000"
 id: "525"
 old_path: /comment/525/no-business-like-snow-business
-redirect_from:
+aliases:
  - /comment/525/no-business-like-snow-business
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:04:16 +0000"
 id: "4187"
 old_path: /comment/4187/silvio-berlusconi-down-and-out
-redirect_from:
+aliases:
  - /comment/4187/silvio-berlusconi-down-and-out
 category: comment
 

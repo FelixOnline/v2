@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:48:21 +0000"
 id: "852"
 old_path: /sport/852/swimmers-in-command-of-the-situation
-redirect_from:
+aliases:
  - /sport/852/swimmers-in-command-of-the-situation
 category: sport
 

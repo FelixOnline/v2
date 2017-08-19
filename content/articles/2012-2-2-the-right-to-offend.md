@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:32:44 +0000"
 id: "2111"
 old_path: /comment/2111/the-right-to-offend
-redirect_from:
+aliases:
  - /comment/2111/the-right-to-offend
 category: comment
 

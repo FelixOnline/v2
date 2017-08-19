@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:49:06 +0000"
 id: "3121"
 old_path: /news/3121/engineers-left-frustrated-over-exchange
-redirect_from:
+aliases:
  - /news/3121/engineers-left-frustrated-over-exchange
 category: news
 

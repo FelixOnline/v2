@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:47:07 +0000"
 id: "6581"
 old_path: /film/6581/the-sound-and-the-fury-of-spike-lee
-redirect_from:
+aliases:
  - /film/6581/the-sound-and-the-fury-of-spike-lee
 category: film
 

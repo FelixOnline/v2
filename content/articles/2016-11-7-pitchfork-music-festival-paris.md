@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 17:34:50 +0000"
 id: "6412"
 old_path: /music/6412/pitchfork-music-festival-paris
-redirect_from:
+aliases:
  - /music/6412/pitchfork-music-festival-paris
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:53:42 +0100"
 id: "6147"
 old_path: /comment/6147/reflections-on-the-barbican-estate
-redirect_from:
+aliases:
  - /comment/6147/reflections-on-the-barbican-estate
 category: comment
 

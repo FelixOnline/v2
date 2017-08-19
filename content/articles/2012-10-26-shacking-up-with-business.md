@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:09:55 +0100"
 id: "2735"
 old_path: /biz/2735/shacking-up-with-business
-redirect_from:
+aliases:
  - /biz/2735/shacking-up-with-business
 category: business
 

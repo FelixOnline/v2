@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:21:01 +0000"
 id: "1007"
 old_path: /news/1007/varsity-is-just-two-weeks-away
-redirect_from:
+aliases:
  - /news/1007/varsity-is-just-two-weeks-away
 category: news
 

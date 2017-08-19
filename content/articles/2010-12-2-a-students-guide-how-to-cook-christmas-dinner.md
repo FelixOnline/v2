@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:18:29 +0000"
 id: "465"
 old_path: /food/465/a-students-guide-how-to-cook-christmas-dinner
-redirect_from:
+aliases:
  - /food/465/a-students-guide-how-to-cook-christmas-dinner
 category: food
 

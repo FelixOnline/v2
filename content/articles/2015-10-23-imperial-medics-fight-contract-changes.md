@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 10:54:55 +0100"
 id: "5663"
 old_path: /news/5663/imperial-medics-fight-contract-changes
-redirect_from:
+aliases:
  - /news/5663/imperial-medics-fight-contract-changes
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-10 16:56:11 +0100"
 id: "4724"
 old_path: /news/4724/college-animal-research-licence-holder-resigns-from-role-after-animals-in-science-committee-report
-redirect_from:
+aliases:
  - /news/4724/college-animal-research-licence-holder-resigns-from-role-after-animals-in-science-committee-report
 category: news
 

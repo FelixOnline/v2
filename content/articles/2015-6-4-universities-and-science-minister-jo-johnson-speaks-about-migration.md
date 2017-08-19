@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:18:14 +0100"
 id: "5597"
 old_path: /news/5597/universities-and-science-minister-jo-johnson-speaks-about-migration
-redirect_from:
+aliases:
  - /news/5597/universities-and-science-minister-jo-johnson-speaks-about-migration
 category: news
 

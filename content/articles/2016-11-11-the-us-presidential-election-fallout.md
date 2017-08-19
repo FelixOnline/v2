@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 11:24:05 +0000"
 id: "6414"
 old_path: /news/6414/the-us-presidential-election-fallout
-redirect_from:
+aliases:
  - /news/6414/the-us-presidential-election-fallout
 category: news
 

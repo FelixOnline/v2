@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:10:39 +0000"
 id: "6471"
 old_path: /arts/6471/deconstructing-the-myth-of-prancing-princes
-redirect_from:
+aliases:
  - /arts/6471/deconstructing-the-myth-of-prancing-princes
 category: arts
 

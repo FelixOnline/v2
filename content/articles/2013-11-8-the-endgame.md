@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:59:18 +0000"
 id: "4039"
 old_path: /film/4039/the-endgame
-redirect_from:
+aliases:
  - /film/4039/the-endgame
 category: film
 

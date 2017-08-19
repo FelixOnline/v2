@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 10:35:35 +0100"
 id: "4699"
 old_path: /news/4699/professor-is-inventor-of-the-year
-redirect_from:
+aliases:
  - /news/4699/professor-is-inventor-of-the-year
 category: news
 

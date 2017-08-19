@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:16:21 +0000"
 id: "5751"
 old_path: /film/5751/the-cinema-is-an-instrument-of-poetry
-redirect_from:
+aliases:
  - /film/5751/the-cinema-is-an-instrument-of-poetry
 category: film
 

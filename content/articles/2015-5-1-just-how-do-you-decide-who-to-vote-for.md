@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:28:13 +0100"
 id: "5481"
 old_path: /politics/5481/just-how-do-you-decide-who-to-vote-for
-redirect_from:
+aliases:
  - /politics/5481/just-how-do-you-decide-who-to-vote-for
 category: politics
 

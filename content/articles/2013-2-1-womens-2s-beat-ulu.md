@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:29:45 +0000"
 id: "3229"
 old_path: /sport/3229/womens-2s-beat-ulu
-redirect_from:
+aliases:
  - /sport/3229/womens-2s-beat-ulu
 category: sport
 

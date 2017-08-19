@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 17:07:19 +0000"
 id: "5364"
 old_path: /science/5364/new-antibodies-could-treat-dengue-fever
-redirect_from:
+aliases:
  - /science/5364/new-antibodies-could-treat-dengue-fever
 category: science
 

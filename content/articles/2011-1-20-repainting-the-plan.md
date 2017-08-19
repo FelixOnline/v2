@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:53:57 +0000"
 id: "635"
 old_path: /comment/635/repainting-the-plan
-redirect_from:
+aliases:
  - /comment/635/repainting-the-plan
 category: comment
 

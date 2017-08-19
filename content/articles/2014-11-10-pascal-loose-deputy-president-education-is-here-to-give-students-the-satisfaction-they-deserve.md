@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 23:29:11 +0000"
 id: "4852"
 old_path: /features/4852/pascal-loose-deputy-president-education-is-here-to-give-students-the-satisfaction-they-deserve
-redirect_from:
+aliases:
  - /features/4852/pascal-loose-deputy-president-education-is-here-to-give-students-the-satisfaction-they-deserve
 category: features
 

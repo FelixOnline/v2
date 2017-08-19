@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:40:58 +0000"
 id: "1104"
 old_path: /comment/1104/higher-education-lunacy
-redirect_from:
+aliases:
  - /comment/1104/higher-education-lunacy
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:48:22 +0000"
 id: "2793"
 old_path: /arts/2793/the-naked-truth-about-the-late-works
-redirect_from:
+aliases:
  - /arts/2793/the-naked-truth-about-the-late-works
 category: arts
 

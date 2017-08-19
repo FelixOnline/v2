@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:32:59 +0000"
 id: "2015"
 old_path: /comment/2015/time-for-change
-redirect_from:
+aliases:
  - /comment/2015/time-for-change
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:40:55 +0100"
 id: "4597"
 old_path: /news/4597/bad-blood-between-marsden-and-brompton-
-redirect_from:
+aliases:
  - /news/4597/bad-blood-between-marsden-and-brompton-
 category: news
 

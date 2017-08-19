@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 13:48:09 +0000"
 id: "549"
 old_path: /science/549/we-are-7-billion
-redirect_from:
+aliases:
  - /science/549/we-are-7-billion
 category: science
 

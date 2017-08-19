@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:11:22 +0100"
 id: "1568"
 old_path: /comment/1568/the-hell-of-heaven
-redirect_from:
+aliases:
  - /comment/1568/the-hell-of-heaven
 category: comment
 

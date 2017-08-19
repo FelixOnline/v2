@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 21:46:57 +0000"
 id: "2044"
 old_path: /tech/2044/kindling-dissatisfaction
-redirect_from:
+aliases:
  - /tech/2044/kindling-dissatisfaction
 category: tech
 

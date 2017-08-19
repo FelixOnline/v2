@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:04:29 +0000"
 id: "4835"
 old_path: /sport/4835/imperial-rugby-1st-xv-cant-prevent-defeat-to-rums
-redirect_from:
+aliases:
  - /sport/4835/imperial-rugby-1st-xv-cant-prevent-defeat-to-rums
 category: sport
 

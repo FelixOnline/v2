@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:30:52 +0100"
 id: "6260"
 old_path: /film/6260/neo-noir-shadows-and-californian-sun
-redirect_from:
+aliases:
  - /film/6260/neo-noir-shadows-and-californian-sun
 category: film
 

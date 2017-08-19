@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:54:28 +0000"
 id: "4468"
 old_path: /tv/4468/the-sound-of-cringe
-redirect_from:
+aliases:
  - /tv/4468/the-sound-of-cringe
 category: tv
 

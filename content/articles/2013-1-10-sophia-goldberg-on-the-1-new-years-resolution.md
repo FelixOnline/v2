@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:08:44 +0000"
 id: "3106"
 old_path: /food/3106/sophia-goldberg-on-the-1-new-years-resolution
-redirect_from:
+aliases:
  - /food/3106/sophia-goldberg-on-the-1-new-years-resolution
 category: food
 

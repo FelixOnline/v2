@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:10:10 +0000"
 id: "2053"
 old_path: /arts/2053/hockneys-biggest-splash-yet
-redirect_from:
+aliases:
  - /arts/2053/hockneys-biggest-splash-yet
 category: arts
 

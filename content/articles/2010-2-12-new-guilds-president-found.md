@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 16:23:43 +0000"
 id: "89"
 old_path: /news/89/new-guilds-president-found
-redirect_from:
+aliases:
  - /news/89/new-guilds-president-found
 category: news
 

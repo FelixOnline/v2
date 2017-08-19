@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:10:29 +0000"
 id: "3486"
 old_path: /film/3486/a-tale-of-two-all-nighters
-redirect_from:
+aliases:
  - /film/3486/a-tale-of-two-all-nighters
 category: film
 

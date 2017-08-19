@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:28:55 +0100"
 id: "1207"
 old_path: /politics/1207/blasta-from-the-pasta
-redirect_from:
+aliases:
  - /politics/1207/blasta-from-the-pasta
 category: politics
 

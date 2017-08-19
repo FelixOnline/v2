@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:26:43 +0000"
 id: "430"
 old_path: /biz/430/rifts-reappear-less-than-a-fortnight-after-g-20-pact
-redirect_from:
+aliases:
  - /biz/430/rifts-reappear-less-than-a-fortnight-after-g-20-pact
 category: business
 

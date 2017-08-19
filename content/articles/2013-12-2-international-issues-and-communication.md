@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:47:17 +0000"
 id: "4154"
 old_path: /comment/4154/international-issues-and-communication
-redirect_from:
+aliases:
  - /comment/4154/international-issues-and-communication
 category: comment
 

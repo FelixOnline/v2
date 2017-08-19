@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-17 17:30:50 +0000"
 id: "4485"
 old_path: /news/4485/imperial-rises-to-13th-place-in-the-the-world-reputation-rankings
-redirect_from:
+aliases:
  - /news/4485/imperial-rises-to-13th-place-in-the-the-world-reputation-rankings
 category: news
 

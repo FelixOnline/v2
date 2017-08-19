@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:10:35 +0100"
 id: "3836"
 old_path: /books/3836/scalzis-old-mans-war
-redirect_from:
+aliases:
  - /books/3836/scalzis-old-mans-war
 category: books
 

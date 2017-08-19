@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 18:52:18 +0000"
 id: "706"
 old_path: /food/706/so-you-think-you-can-eat-meet-the-meat-challenge-
-redirect_from:
+aliases:
  - /food/706/so-you-think-you-can-eat-meet-the-meat-challenge-
 category: food
 

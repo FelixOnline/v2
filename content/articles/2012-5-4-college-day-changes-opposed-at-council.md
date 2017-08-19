@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 01:22:07 +0100"
 id: "2427"
 old_path: /news/2427/college-day-changes-opposed-at-council
-redirect_from:
+aliases:
  - /news/2427/college-day-changes-opposed-at-council
 category: news
 

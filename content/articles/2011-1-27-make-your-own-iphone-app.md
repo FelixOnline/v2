@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:24:52 +0000"
 id: "668"
 old_path: /tech/668/make-your-own-iphone-app-
-redirect_from:
+aliases:
  - /tech/668/make-your-own-iphone-app-
 category: tech
 

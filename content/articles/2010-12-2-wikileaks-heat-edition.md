@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:10:29 +0000"
 id: "459"
 old_path: /tech/459/wikileaks-heat-edition
-redirect_from:
+aliases:
  - /tech/459/wikileaks-heat-edition
 category: tech
 

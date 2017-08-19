@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 11:27:26 +0100"
 id: "1640"
 old_path: /music/1640/noel-gallagher-a-real-high-flyer
-redirect_from:
+aliases:
  - /music/1640/noel-gallagher-a-real-high-flyer
 category: music
 

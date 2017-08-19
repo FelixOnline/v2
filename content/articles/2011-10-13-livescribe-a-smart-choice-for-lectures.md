@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:07:42 +0100"
 id: "1520"
 old_path: /tech/1520/livescribe-a-smart-choice-for-lectures
-redirect_from:
+aliases:
  - /tech/1520/livescribe-a-smart-choice-for-lectures
 category: tech
 

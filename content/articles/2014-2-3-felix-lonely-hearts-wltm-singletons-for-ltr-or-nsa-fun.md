@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-03 15:41:36 +0000"
 id: "4331"
 old_path: /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
-redirect_from:
+aliases:
  - /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
 category: features
 

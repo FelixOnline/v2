@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:05:35 +0000"
 id: "6043"
 old_path: /tv/6043/what-makes-an-adaptation
-redirect_from:
+aliases:
  - /tv/6043/what-makes-an-adaptation
 category: tv
 

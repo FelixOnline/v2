@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:43:20 +0000"
 id: "918"
 old_path: /travel/918/popping-your-travel-cherry
-redirect_from:
+aliases:
  - /travel/918/popping-your-travel-cherry
 category: travel
 

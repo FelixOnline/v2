@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:07:18 +0000"
 id: "4358"
 old_path: /comment/4358/on-age-and-respect-for-your-elders
-redirect_from:
+aliases:
  - /comment/4358/on-age-and-respect-for-your-elders
 category: comment
 

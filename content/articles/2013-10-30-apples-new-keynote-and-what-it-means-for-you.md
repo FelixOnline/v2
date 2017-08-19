@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 15:59:20 +0000"
 id: "3961"
 old_path: /tech/3961/apples-new-keynote-and-what-it-means-for-you
-redirect_from:
+aliases:
  - /tech/3961/apples-new-keynote-and-what-it-means-for-you
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 09:22:38 +0100"
 id: "6327"
 old_path: /news/6327/government-asks-for-listing-of-foreign-workers
-redirect_from:
+aliases:
  - /news/6327/government-asks-for-listing-of-foreign-workers
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:06:10 +0000"
 id: "2051"
 old_path: /science/2051/nano-ear-can-hear-microorganisms
-redirect_from:
+aliases:
  - /science/2051/nano-ear-can-hear-microorganisms
 category: science
 

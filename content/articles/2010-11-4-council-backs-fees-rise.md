@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:59:27 +0000"
 id: "321"
 old_path: /news/321/council-backs-fees-rise
-redirect_from:
+aliases:
  - /news/321/council-backs-fees-rise
 category: news
 

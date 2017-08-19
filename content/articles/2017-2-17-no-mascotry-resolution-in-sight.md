@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:21:49 +0000"
 id: "6777"
 old_path: /news/6777/no-mascotry-resolution-in-sight
-redirect_from:
+aliases:
  - /news/6777/no-mascotry-resolution-in-sight
 category: news
 

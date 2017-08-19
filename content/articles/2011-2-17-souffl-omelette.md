@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:46:49 +0000"
 id: "825"
 old_path: /food/825/souffl-omelette
-redirect_from:
+aliases:
  - /food/825/souffl-omelette
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 23:03:30 +0000"
 id: "5247"
 old_path: /sport/5247/immortals-lose-at-home-to-hurricanes-24-6
-redirect_from:
+aliases:
  - /sport/5247/immortals-lose-at-home-to-hurricanes-24-6
 category: sport
 

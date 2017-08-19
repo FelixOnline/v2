@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:19:30 +0100"
 id: "4739"
 old_path: /news/4739/imperial-professors-win-awards
-redirect_from:
+aliases:
  - /news/4739/imperial-professors-win-awards
 category: news
 

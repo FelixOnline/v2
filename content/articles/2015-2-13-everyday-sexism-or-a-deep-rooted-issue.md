@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 14:56:44 +0000"
 id: "5255"
 old_path: /cands/5255/everyday-sexism-or-a-deep-rooted-issue
-redirect_from:
+aliases:
  - /cands/5255/everyday-sexism-or-a-deep-rooted-issue
 category: clubs-and-socs
 

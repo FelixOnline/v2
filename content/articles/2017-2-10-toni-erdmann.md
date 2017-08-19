@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:19:14 +0000"
 id: "6760"
 old_path: /film/6760/toni-erdmann
-redirect_from:
+aliases:
  - /film/6760/toni-erdmann
 category: film
 

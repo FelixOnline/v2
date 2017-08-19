@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:04:05 +0000"
 id: "1928"
 old_path: /sport/1928/mens-and-womens-fencers-make-progress-in-bucs-knockouts
-redirect_from:
+aliases:
  - /sport/1928/mens-and-womens-fencers-make-progress-in-bucs-knockouts
 category: sport
 

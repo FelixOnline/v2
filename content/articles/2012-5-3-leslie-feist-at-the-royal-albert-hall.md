@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 17:56:43 +0100"
 id: "2408"
 old_path: /music/2408/leslie-feist-at-the-royal-albert-hall
-redirect_from:
+aliases:
  - /music/2408/leslie-feist-at-the-royal-albert-hall
 category: music
 

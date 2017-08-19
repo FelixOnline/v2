@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:25:13 +0000"
 id: "4120"
 old_path: /music/4120/ams-album-of-the-week-too-weird-to-live-too-rare-to-die
-redirect_from:
+aliases:
  - /music/4120/ams-album-of-the-week-too-weird-to-live-too-rare-to-die
 category: music
 

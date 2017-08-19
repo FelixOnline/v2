@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:34:20 +0000"
 id: "6733"
 old_path: /games/6733/8-bit-snacking
-redirect_from:
+aliases:
  - /games/6733/8-bit-snacking
 category: games
 

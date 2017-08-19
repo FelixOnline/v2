@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:28:47 +0100"
 id: "4608"
 old_path: /sport/4608/a-slip-a-headbutt-and-david-moyes
-redirect_from:
+aliases:
  - /sport/4608/a-slip-a-headbutt-and-david-moyes
 category: sport
 

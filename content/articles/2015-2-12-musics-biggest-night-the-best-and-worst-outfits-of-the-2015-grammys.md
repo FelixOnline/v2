@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 23:50:18 +0000"
 id: "5250"
 old_path: /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
-redirect_from:
+aliases:
  - /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
 category: fashion
 

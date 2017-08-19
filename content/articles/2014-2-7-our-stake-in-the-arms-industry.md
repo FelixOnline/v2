@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:08:19 +0000"
 id: "4359"
 old_path: /comment/4359/our-stake-in-the-arms-industry
-redirect_from:
+aliases:
  - /comment/4359/our-stake-in-the-arms-industry
 category: comment
 

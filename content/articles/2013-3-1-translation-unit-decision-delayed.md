@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 01:06:55 +0000"
 id: "3416"
 old_path: /news/3416/translation-unit-decision-delayed
-redirect_from:
+aliases:
  - /news/3416/translation-unit-decision-delayed
 category: news
 

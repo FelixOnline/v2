@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:06:18 +0000"
 id: "878"
 old_path: /sport/878/boat-club-bring-in-111-bucs-points
-redirect_from:
+aliases:
  - /sport/878/boat-club-bring-in-111-bucs-points
 category: sport
 

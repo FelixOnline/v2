@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-13 13:33:46 +0100"
 id: "1373"
 old_path: /tv/1373/made-in-shitville
-redirect_from:
+aliases:
  - /tv/1373/made-in-shitville
 category: tv
 

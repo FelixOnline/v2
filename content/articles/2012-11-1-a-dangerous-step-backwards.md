@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:51:22 +0000"
 id: "2797"
 old_path: /comment/2797/a-dangerous-step-backwards
-redirect_from:
+aliases:
  - /comment/2797/a-dangerous-step-backwards
 category: comment
 

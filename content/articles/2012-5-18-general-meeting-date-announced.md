@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:01:31 +0100"
 id: "2455"
 old_path: /news/2455/general-meeting-date-announced
-redirect_from:
+aliases:
  - /news/2455/general-meeting-date-announced
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:25:26 +0000"
 id: "2214"
 old_path: /news/2214/union-to-lobby-council-over-exhibition-road
-redirect_from:
+aliases:
  - /news/2214/union-to-lobby-council-over-exhibition-road
 category: news
 

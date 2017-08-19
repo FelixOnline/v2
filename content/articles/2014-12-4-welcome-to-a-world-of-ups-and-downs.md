@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:24:35 +0000"
 id: "4997"
 old_path: /tech/4997/welcome-to-a-world-of-ups-and-downs
-redirect_from:
+aliases:
  - /tech/4997/welcome-to-a-world-of-ups-and-downs
 category: tech
 

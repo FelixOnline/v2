@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:13:29 +0100"
 id: "6131"
 old_path: /film/6131/captain-america-civil-war
-redirect_from:
+aliases:
  - /film/6131/captain-america-civil-war
 category: film
 

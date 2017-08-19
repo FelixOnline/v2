@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:14:02 +0100"
 id: "2529"
 old_path: /film/2529/review-men-in-black-iii
-redirect_from:
+aliases:
  - /film/2529/review-men-in-black-iii
 category: film
 

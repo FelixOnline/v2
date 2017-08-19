@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 20:01:16 +0100"
 id: "2536"
 old_path: /comment/2536/reaching-metrics-full-potential
-redirect_from:
+aliases:
  - /comment/2536/reaching-metrics-full-potential
 category: comment
 

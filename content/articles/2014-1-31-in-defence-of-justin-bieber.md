@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:50:29 +0000"
 id: "4321"
 old_path: /comment/4321/in-defence-of-justin-bieber
-redirect_from:
+aliases:
  - /comment/4321/in-defence-of-justin-bieber
 category: comment
 

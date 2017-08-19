@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:18:43 +0100"
 id: "6136"
 old_path: /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
-redirect_from:
+aliases:
  - /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
 category: clubs-and-socs
 

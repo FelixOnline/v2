@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:22:02 +0000"
 id: "691"
 old_path: /sport/691/imperials-ultimate-frisbee-full-of-double-ds
-redirect_from:
+aliases:
  - /sport/691/imperials-ultimate-frisbee-full-of-double-ds
 category: sport
 

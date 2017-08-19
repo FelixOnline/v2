@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 22:07:58 +0000"
 id: "3440"
 old_path: /music/3440/ams-album-of-the-week-16
-redirect_from:
+aliases:
  - /music/3440/ams-album-of-the-week-16
 category: music
 

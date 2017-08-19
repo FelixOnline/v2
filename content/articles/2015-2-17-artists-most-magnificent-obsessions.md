@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 16:39:50 +0000"
 id: "5266"
 old_path: /arts/5266/artists-most-magnificent-obsessions
-redirect_from:
+aliases:
  - /arts/5266/artists-most-magnificent-obsessions
 category: arts
 

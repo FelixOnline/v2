@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:10:38 +0000"
 id: "3254"
 old_path: /comment/3254/friends-with-benefits
-redirect_from:
+aliases:
  - /comment/3254/friends-with-benefits
 category: comment
 

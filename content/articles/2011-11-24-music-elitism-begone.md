@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:32:15 +0000"
 id: "1822"
 old_path: /music/1822/music-elitism-begone
-redirect_from:
+aliases:
  - /music/1822/music-elitism-begone
 category: music
 

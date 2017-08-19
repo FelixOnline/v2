@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:19:00 +0000"
 id: "6389"
 old_path: /film/6389/in-defence-of-nasty-women
-redirect_from:
+aliases:
  - /film/6389/in-defence-of-nasty-women
 category: film
 

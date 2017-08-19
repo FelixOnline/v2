@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:38:13 +0100"
 id: "2647"
 old_path: /biz/2647/productivity-solutions
-redirect_from:
+aliases:
  - /biz/2647/productivity-solutions
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 22:29:48 +0000"
 id: "1794"
 old_path: /sport/1794/rugby--1st-xv-edge-out-chichester
-redirect_from:
+aliases:
  - /sport/1794/rugby--1st-xv-edge-out-chichester
 category: sport
 

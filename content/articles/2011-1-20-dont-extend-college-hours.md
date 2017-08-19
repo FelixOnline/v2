@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:49:44 +0000"
 id: "615"
 old_path: /sport/615/dont-extend-college-hours
-redirect_from:
+aliases:
  - /sport/615/dont-extend-college-hours
 category: sport
 

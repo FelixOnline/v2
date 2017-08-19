@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:01:22 +0100"
 id: "4569"
 old_path: /features/4569/tell-me-friends-what-is-your-secret
-redirect_from:
+aliases:
  - /features/4569/tell-me-friends-what-is-your-secret
 category: features
 

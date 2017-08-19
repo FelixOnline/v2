@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 11:54:24 +0000"
 id: "5336"
 old_path: /comment/5336/why-im-voting-lucinda-for-union-president
-redirect_from:
+aliases:
  - /comment/5336/why-im-voting-lucinda-for-union-president
 category: comment
 

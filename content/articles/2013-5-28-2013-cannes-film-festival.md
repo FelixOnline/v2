@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-28 13:50:09 +0100"
 id: "3624"
 old_path: /film/3624/2013-cannes-film-festival
-redirect_from:
+aliases:
  - /film/3624/2013-cannes-film-festival
 category: film
 

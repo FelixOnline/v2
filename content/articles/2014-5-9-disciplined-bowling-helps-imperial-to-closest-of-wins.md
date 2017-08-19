@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:55:19 +0100"
 id: "4591"
 old_path: /sport/4591/disciplined-bowling-helps-imperial-to-closest-of-wins
-redirect_from:
+aliases:
  - /sport/4591/disciplined-bowling-helps-imperial-to-closest-of-wins
 category: sport
 

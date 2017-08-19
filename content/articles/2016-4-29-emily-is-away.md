@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:57:17 +0100"
 id: "6107"
 old_path: /games/6107/emily-is-away
-redirect_from:
+aliases:
  - /games/6107/emily-is-away
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:27:15 +0000"
 id: "693"
 old_path: /sport/693/hockey-1st-out-one-cup-but-still-in-another
-redirect_from:
+aliases:
  - /sport/693/hockey-1st-out-one-cup-but-still-in-another
 category: sport
 

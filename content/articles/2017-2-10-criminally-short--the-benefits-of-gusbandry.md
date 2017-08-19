@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:56:39 +0000"
 id: "6769"
 old_path: /tv/6769/criminally-short--the-benefits-of-gusbandry
-redirect_from:
+aliases:
  - /tv/6769/criminally-short--the-benefits-of-gusbandry
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 12:33:51 +0000"
 id: "4145"
 old_path: /comment/4145/campus-services-silence-abounds
-redirect_from:
+aliases:
  - /comment/4145/campus-services-silence-abounds
 category: comment
 

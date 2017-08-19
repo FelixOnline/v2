@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:25:58 +0100"
 id: "6255"
 old_path: /science/6255/how-will-a-brexit-scenario-impact-science-
-redirect_from:
+aliases:
  - /science/6255/how-will-a-brexit-scenario-impact-science-
 category: science
 

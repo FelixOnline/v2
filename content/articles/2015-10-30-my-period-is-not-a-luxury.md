@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 12:42:21 +0000"
 id: "5685"
 old_path: /comment/5685/my-period-is-not-a-luxury
-redirect_from:
+aliases:
  - /comment/5685/my-period-is-not-a-luxury
 category: comment
 

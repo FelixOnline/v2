@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:55:30 +0100"
 id: "3860"
 old_path: /food/3860/the-self-catering-cheatsheet
-redirect_from:
+aliases:
  - /food/3860/the-self-catering-cheatsheet
 category: food
 

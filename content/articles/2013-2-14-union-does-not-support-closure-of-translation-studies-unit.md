@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:22:02 +0000"
 id: "3337"
 old_path: /news/3337/union-does-not-support-closure-of-translation-studies-unit
-redirect_from:
+aliases:
  - /news/3337/union-does-not-support-closure-of-translation-studies-unit
 category: news
 

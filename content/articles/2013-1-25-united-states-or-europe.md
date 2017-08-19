@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:46:31 +0000"
 id: "3184"
 old_path: /comment/3184/united-states-or-europe
-redirect_from:
+aliases:
  - /comment/3184/united-states-or-europe
 category: comment
 

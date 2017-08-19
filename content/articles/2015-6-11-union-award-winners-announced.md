@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:18:34 +0100"
 id: "5614"
 old_path: /news/5614/union-award-winners-announced
-redirect_from:
+aliases:
  - /news/5614/union-award-winners-announced
 category: news
 

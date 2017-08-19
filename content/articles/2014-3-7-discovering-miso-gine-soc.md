@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:28:58 +0000"
 id: "4450"
 old_path: /news/4450/discovering-miso-gine-soc
-redirect_from:
+aliases:
  - /news/4450/discovering-miso-gine-soc
 category: news
 

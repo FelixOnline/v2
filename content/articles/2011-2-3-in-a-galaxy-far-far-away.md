@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:59:03 +0000"
 id: "732"
 old_path: /science/732/in-a-galaxy-far-far-away-
-redirect_from:
+aliases:
  - /science/732/in-a-galaxy-far-far-away-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:40:55 +0100"
 id: "2752"
 old_path: /tv/2752/grand-designs-100th-episode
-redirect_from:
+aliases:
  - /tv/2752/grand-designs-100th-episode
 category: tv
 

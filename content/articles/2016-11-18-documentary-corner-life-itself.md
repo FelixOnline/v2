@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:36:00 +0000"
 id: "6480"
 old_path: /film/6480/documentary-corner-life-itself
-redirect_from:
+aliases:
  - /film/6480/documentary-corner-life-itself
 category: film
 

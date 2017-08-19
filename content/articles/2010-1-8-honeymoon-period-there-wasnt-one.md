@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-08 16:44:21 +0000"
 id: "18"
 old_path: /comment/18/honeymoon-period-there-wasnt-one
-redirect_from:
+aliases:
  - /comment/18/honeymoon-period-there-wasnt-one
 category: comment
 

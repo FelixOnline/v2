@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 14:11:55 +0000"
 id: "6681"
 old_path: /news/6681/student-calls-out-career-services-
-redirect_from:
+aliases:
  - /news/6681/student-calls-out-career-services-
 category: news
 

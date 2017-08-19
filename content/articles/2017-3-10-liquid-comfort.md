@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:00:18 +0000"
 id: "6879"
 old_path: /food/6879/liquid-comfort
-redirect_from:
+aliases:
  - /food/6879/liquid-comfort
 category: food
 

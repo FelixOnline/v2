@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:58:37 +0000"
 id: "830"
 old_path: /music/830/music-tech-bring-the-noise-to-1902-
-redirect_from:
+aliases:
  - /music/830/music-tech-bring-the-noise-to-1902-
 category: music
 

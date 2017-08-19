@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:22:50 +0000"
 id: "1664"
 old_path: /tv/1664/thought-the-government-were-in-trouble
-redirect_from:
+aliases:
  - /tv/1664/thought-the-government-were-in-trouble
 category: tv
 

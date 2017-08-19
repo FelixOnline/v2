@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:37:30 +0000"
 id: "341"
 old_path: /fashion/341/the-search-of-the-perfect-winter-boot
-redirect_from:
+aliases:
  - /fashion/341/the-search-of-the-perfect-winter-boot
 category: fashion
 

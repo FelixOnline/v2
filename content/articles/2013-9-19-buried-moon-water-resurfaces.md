@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-19 12:23:48 +0100"
 id: "3760"
 old_path: /science/3760/buried-moon-water-resurfaces
-redirect_from:
+aliases:
  - /science/3760/buried-moon-water-resurfaces
 category: science
 

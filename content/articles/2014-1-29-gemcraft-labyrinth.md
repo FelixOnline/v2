@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-29 16:37:25 +0000"
 id: "4306"
 old_path: /games/4306/gemcraft-labyrinth
-redirect_from:
+aliases:
  - /games/4306/gemcraft-labyrinth
 category: games
 

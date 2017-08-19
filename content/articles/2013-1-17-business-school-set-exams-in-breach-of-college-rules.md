@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:40:57 +0000"
 id: "3116"
 old_path: /news/3116/business-school-set-exams-in-breach-of-college-rules
-redirect_from:
+aliases:
  - /news/3116/business-school-set-exams-in-breach-of-college-rules
 category: news
 

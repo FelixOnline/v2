@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 10:16:53 +0100"
 id: "1456"
 old_path: /comment/1456/the-clock-is-ticking
-redirect_from:
+aliases:
  - /comment/1456/the-clock-is-ticking
 category: comment
 

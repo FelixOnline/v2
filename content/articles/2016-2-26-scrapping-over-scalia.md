@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:29:15 +0000"
 id: "5959"
 old_path: /comment/5959/scrapping-over-scalia
-redirect_from:
+aliases:
  - /comment/5959/scrapping-over-scalia
 category: comment
 

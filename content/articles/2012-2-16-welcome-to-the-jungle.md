@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:11:18 +0000"
 id: "2186"
 old_path: /travel/2186/welcome-to-the-jungle
-redirect_from:
+aliases:
  - /travel/2186/welcome-to-the-jungle
 category: travel
 

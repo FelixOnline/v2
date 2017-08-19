@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 13:23:17 +0100"
 id: "1642"
 old_path: /tv/1642/childrens-sugar-intake-boosts-ego
-redirect_from:
+aliases:
  - /tv/1642/childrens-sugar-intake-boosts-ego
 category: tv
 

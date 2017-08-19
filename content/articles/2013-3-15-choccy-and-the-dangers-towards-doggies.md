@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:03:57 +0000"
 id: "3468"
 old_path: /science/3468/choccy-and-the-dangers-towards-doggies
-redirect_from:
+aliases:
  - /science/3468/choccy-and-the-dangers-towards-doggies
 category: science
 

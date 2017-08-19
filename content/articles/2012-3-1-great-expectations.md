@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:45:01 +0000"
 id: "2290"
 old_path: /arts/2290/great-expectations
-redirect_from:
+aliases:
  - /arts/2290/great-expectations
 category: arts
 

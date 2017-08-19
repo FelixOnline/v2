@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 20:00:52 +0100"
 id: "218"
 old_path: /comment/218/youre-a-bunch-of-greedy-tts
-redirect_from:
+aliases:
  - /comment/218/youre-a-bunch-of-greedy-tts
 category: comment
 

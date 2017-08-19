@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:25:09 +0000"
 id: "6690"
 old_path: /comment/6690/so-you-went-to-the-march-whats-next
-redirect_from:
+aliases:
  - /comment/6690/so-you-went-to-the-march-whats-next
 category: comment
 

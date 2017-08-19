@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 14:49:06 +0100"
 id: "3506"
 old_path: /books/3506/the-fault-in-our-stars
-redirect_from:
+aliases:
  - /books/3506/the-fault-in-our-stars
 category: books
 

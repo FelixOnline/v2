@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:02:06 +0000"
 id: "1847"
 old_path: /news/1847/get-out-there-and-volunteer
-redirect_from:
+aliases:
  - /news/1847/get-out-there-and-volunteer
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:14:49 +0000"
 id: "3333"
 old_path: /news/3333/students-in-final-of-bp-ultimate-field-trip
-redirect_from:
+aliases:
  - /news/3333/students-in-final-of-bp-ultimate-field-trip
 category: news
 

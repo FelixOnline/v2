@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-12 18:23:48 +0000"
 id: "3290"
 old_path: /film/3290/goodbye-george
-redirect_from:
+aliases:
  - /film/3290/goodbye-george
 category: film
 

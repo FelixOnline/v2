@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 11:54:36 +0000"
 id: "6560"
 old_path: /news/6560/crying-epidemic-hits-imperial
-redirect_from:
+aliases:
  - /news/6560/crying-epidemic-hits-imperial
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:10:11 +0000"
 id: "4839"
 old_path: /tv/4839/where-the-hell-did-this-come-from
-redirect_from:
+aliases:
  - /tv/4839/where-the-hell-did-this-come-from
 category: tv
 

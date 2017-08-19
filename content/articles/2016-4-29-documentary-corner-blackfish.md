@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:39:19 +0100"
 id: "6101"
 old_path: /film/6101/documentary-corner-blackfish
-redirect_from:
+aliases:
  - /film/6101/documentary-corner-blackfish
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:29:34 +0000"
 id: "2316"
 old_path: /arts/2316/cant-pay-wont-pay-must-see
-redirect_from:
+aliases:
  - /arts/2316/cant-pay-wont-pay-must-see
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:44:46 +0100"
 id: "1160"
 old_path: /comment/1160/take-up-arms-to-defend-freedom
-redirect_from:
+aliases:
  - /comment/1160/take-up-arms-to-defend-freedom
 category: comment
 

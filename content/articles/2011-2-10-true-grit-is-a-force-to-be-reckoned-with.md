@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:40:55 +0000"
 id: "780"
 old_path: /film/780/true-grit-is-a-force-to-be-reckoned-with
-redirect_from:
+aliases:
  - /film/780/true-grit-is-a-force-to-be-reckoned-with
 category: film
 

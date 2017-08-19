@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 18:39:49 +0100"
 id: "6304"
 old_path: /comment/6304/the-vital-importance-of-being-mediocre
-redirect_from:
+aliases:
  - /comment/6304/the-vital-importance-of-being-mediocre
 category: comment
 

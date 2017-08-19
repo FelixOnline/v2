@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:03:47 +0100"
 id: "4539"
 old_path: /comment/4539/does-union-council-need-a-fresh-coat-of-paint
-redirect_from:
+aliases:
  - /comment/4539/does-union-council-need-a-fresh-coat-of-paint
 category: comment
 

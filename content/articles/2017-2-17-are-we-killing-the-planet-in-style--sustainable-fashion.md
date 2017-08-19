@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:47:22 +0000"
 id: "6796"
 old_path: /features/6796/are-we-killing-the-planet-in-style--sustainable-fashion
-redirect_from:
+aliases:
  - /features/6796/are-we-killing-the-planet-in-style--sustainable-fashion
 category: features
 

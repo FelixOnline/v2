@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:09:52 +0000"
 id: "4978"
 old_path: /games/4978/enforcing-the-law-simulator-style
-redirect_from:
+aliases:
  - /games/4978/enforcing-the-law-simulator-style
 category: games
 

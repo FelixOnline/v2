@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:35:38 +0000"
 id: "1053"
 old_path: /news/1053/post-study-work-route-could-be-saved
-redirect_from:
+aliases:
  - /news/1053/post-study-work-route-could-be-saved
 category: news
 

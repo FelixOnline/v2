@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-09 17:50:48 +0000"
 id: "4203"
 old_path: /news/4203/imperial-alumnus-in-new-teaching-documentary
-redirect_from:
+aliases:
  - /news/4203/imperial-alumnus-in-new-teaching-documentary
 category: news
 

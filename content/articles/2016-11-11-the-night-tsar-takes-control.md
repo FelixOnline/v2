@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 18:30:36 +0000"
 id: "6443"
 old_path: /music/6443/the-night-tsar-takes-control
-redirect_from:
+aliases:
  - /music/6443/the-night-tsar-takes-control
 category: music
 

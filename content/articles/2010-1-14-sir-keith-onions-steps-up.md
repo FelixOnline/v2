@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 17:58:48 +0000"
 id: "36"
 old_path: /news/36/sir-keith-onions-steps-up
-redirect_from:
+aliases:
  - /news/36/sir-keith-onions-steps-up
 category: news
 

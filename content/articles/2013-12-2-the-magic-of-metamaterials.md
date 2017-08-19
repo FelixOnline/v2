@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:50:13 +0000"
 id: "4156"
 old_path: /science/4156/the-magic-of-metamaterials
-redirect_from:
+aliases:
  - /science/4156/the-magic-of-metamaterials
 category: science
 

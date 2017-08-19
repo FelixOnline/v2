@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:33:57 +0000"
 id: "5312"
 old_path: /news/5312/imperial-team-prepares-for-mission-to-the-sun
-redirect_from:
+aliases:
  - /news/5312/imperial-team-prepares-for-mission-to-the-sun
 category: news
 

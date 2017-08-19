@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 23:33:27 +0000"
 id: "2267"
 old_path: /comment/2267/still-summer-ballin
-redirect_from:
+aliases:
  - /comment/2267/still-summer-ballin
 category: comment
 

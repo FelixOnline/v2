@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 23:03:46 +0100"
 id: "5555"
 old_path: /comment/5555/summer-ball-headliner-slap-happy
-redirect_from:
+aliases:
  - /comment/5555/summer-ball-headliner-slap-happy
 category: comment
 

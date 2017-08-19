@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-08 17:41:22 +0000"
 id: "5892"
 old_path: /tv/5892/retro-retrospective-mad-men
-redirect_from:
+aliases:
  - /tv/5892/retro-retrospective-mad-men
 category: tv
 

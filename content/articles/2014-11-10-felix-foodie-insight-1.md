@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:21:04 +0000"
 id: "4843"
 old_path: /food/4843/felix-foodie-insight-1
-redirect_from:
+aliases:
  - /food/4843/felix-foodie-insight-1
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:14:04 +0000"
 id: "4116"
 old_path: /books/4116/raw-words-part-one
-redirect_from:
+aliases:
  - /books/4116/raw-words-part-one
 category: books
 

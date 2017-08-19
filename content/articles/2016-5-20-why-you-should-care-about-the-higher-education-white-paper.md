@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:56:57 +0100"
 id: "6177"
 old_path: /comment/6177/why-you-should-care-about-the-higher-education-white-paper
-redirect_from:
+aliases:
  - /comment/6177/why-you-should-care-about-the-higher-education-white-paper
 category: comment
 

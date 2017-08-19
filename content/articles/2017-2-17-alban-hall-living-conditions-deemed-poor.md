@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:27:44 +0000"
 id: "6779"
 old_path: /news/6779/alban-hall-living-conditions-deemed-poor
-redirect_from:
+aliases:
  - /news/6779/alban-hall-living-conditions-deemed-poor
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 19:55:42 +0000"
 id: "1904"
 old_path: /tech/1904/nokiasoft-a-match-made-in-heaven
-redirect_from:
+aliases:
  - /tech/1904/nokiasoft-a-match-made-in-heaven
 category: tech
 

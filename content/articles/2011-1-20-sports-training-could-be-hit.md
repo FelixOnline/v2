@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:01:06 +0000"
 id: "640"
 old_path: /news/640/sports-training-could-be-hit-
-redirect_from:
+aliases:
  - /news/640/sports-training-could-be-hit-
 category: news
 

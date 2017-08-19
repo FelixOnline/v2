@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 20:53:00 +0100"
 id: "3886"
 old_path: /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
-redirect_from:
+aliases:
  - /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
 category: features
 

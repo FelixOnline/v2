@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:48:48 +0000"
 id: "726"
 old_path: /film/726/-mean-streets
-redirect_from:
+aliases:
  - /film/726/-mean-streets
 category: film
 

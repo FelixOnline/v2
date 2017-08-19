@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:04:59 +0000"
 id: "5217"
 old_path: /film/5217/mine-eyes-have-seen-the-glory
-redirect_from:
+aliases:
  - /film/5217/mine-eyes-have-seen-the-glory
 category: film
 

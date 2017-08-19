@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 22:53:26 +0000"
 id: "4051"
 old_path: /tech/4051/5-things-tablets-arehave-killinged
-redirect_from:
+aliases:
  - /tech/4051/5-things-tablets-arehave-killinged
 category: tech
 

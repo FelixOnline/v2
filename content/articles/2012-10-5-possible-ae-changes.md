@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 15:52:02 +0100"
 id: "2632"
 old_path: /news/2632/possible-ae-changes
-redirect_from:
+aliases:
  - /news/2632/possible-ae-changes
 category: news
 

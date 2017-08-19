@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:23:44 +0000"
 id: "4499"
 old_path: /comment/4499/hating-headlines-that-tell-you-how-to-feel
-redirect_from:
+aliases:
  - /comment/4499/hating-headlines-that-tell-you-how-to-feel
 category: comment
 

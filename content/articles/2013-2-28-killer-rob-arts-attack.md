@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:40:19 +0000"
 id: "3392"
 old_path: /arts/3392/killer-rob-arts-attack
-redirect_from:
+aliases:
  - /arts/3392/killer-rob-arts-attack
 category: arts
 

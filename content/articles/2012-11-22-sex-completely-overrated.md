@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:28:48 +0000"
 id: "2950"
 old_path: /science/2950/sex-completely-overrated
-redirect_from:
+aliases:
  - /science/2950/sex-completely-overrated
 category: science
 

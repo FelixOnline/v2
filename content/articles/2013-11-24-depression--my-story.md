@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:52:27 +0000"
 id: "4101"
 old_path: /features/4101/depression--my-story
-redirect_from:
+aliases:
  - /features/4101/depression--my-story
 category: features
 

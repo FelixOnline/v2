@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:11:39 +0000"
 id: "1815"
 old_path: /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
-redirect_from:
+aliases:
  - /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
 category: games
 

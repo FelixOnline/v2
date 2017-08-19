@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:36:09 +0000"
 id: "6782"
 old_path: /comment/6782/you-have-no-excuse-for-not-recycling
-redirect_from:
+aliases:
  - /comment/6782/you-have-no-excuse-for-not-recycling
 category: comment
 

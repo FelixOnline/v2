@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:30:33 +0100"
 id: "242"
 old_path: /news/242/imperial-wins-as-science-is-spared-major-cuts
-redirect_from:
+aliases:
  - /news/242/imperial-wins-as-science-is-spared-major-cuts
 category: news
 

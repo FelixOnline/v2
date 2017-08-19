@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:18:24 +0000"
 id: "6756"
 old_path: /millennials/6756/truvada--a-cultural-symbol
-redirect_from:
+aliases:
  - /millennials/6756/truvada--a-cultural-symbol
 category: millennials
 

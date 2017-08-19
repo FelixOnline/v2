@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 19:19:53 +0000"
 id: "5173"
 old_path: /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
-redirect_from:
+aliases:
  - /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
 category: arts
 

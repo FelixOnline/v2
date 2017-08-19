@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-21 13:01:47 +0000"
 id: "5950"
 old_path: /arts/5950/an-encounter-you-wont-forget
-redirect_from:
+aliases:
  - /arts/5950/an-encounter-you-wont-forget
 category: arts
 

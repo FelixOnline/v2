@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 15:33:00 +0000"
 id: "6399"
 old_path: /film/6399/into-the-inferno-
-redirect_from:
+aliases:
  - /film/6399/into-the-inferno-
 category: film
 

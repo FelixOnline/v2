@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:08:16 +0100"
 id: "3824"
 old_path: /biz/3824/interested-in-enterprise
-redirect_from:
+aliases:
  - /biz/3824/interested-in-enterprise
 category: business
 

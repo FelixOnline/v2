@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-08 07:05:59 +0100"
 id: "186"
 old_path: /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
-redirect_from:
+aliases:
  - /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
 category: comment
 

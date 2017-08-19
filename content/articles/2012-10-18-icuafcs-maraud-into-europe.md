@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:14:39 +0100"
 id: "2696"
 old_path: /sport/2696/icuafcs-maraud-into-europe
-redirect_from:
+aliases:
  - /sport/2696/icuafcs-maraud-into-europe
 category: sport
 

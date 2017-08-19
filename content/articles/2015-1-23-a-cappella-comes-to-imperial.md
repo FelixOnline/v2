@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 00:42:08 +0000"
 id: "5113"
 old_path: /news/5113/a-cappella-comes-to-imperial
-redirect_from:
+aliases:
  - /news/5113/a-cappella-comes-to-imperial
 category: news
 

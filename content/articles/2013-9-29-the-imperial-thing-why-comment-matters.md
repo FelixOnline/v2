@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:02:56 +0100"
 id: "3769"
 old_path: /comment/3769/the-imperial-thing-why-comment-matters
-redirect_from:
+aliases:
  - /comment/3769/the-imperial-thing-why-comment-matters
 category: comment
 

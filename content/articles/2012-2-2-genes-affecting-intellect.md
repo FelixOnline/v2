@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:34:47 +0000"
 id: "2091"
 old_path: /science/2091/genes-affecting-intellect
-redirect_from:
+aliases:
  - /science/2091/genes-affecting-intellect
 category: science
 

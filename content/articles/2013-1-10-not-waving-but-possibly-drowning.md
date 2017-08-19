@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:38:26 +0000"
 id: "3091"
 old_path: /arts/3091/not-waving-but-possibly-drowning-
-redirect_from:
+aliases:
  - /arts/3091/not-waving-but-possibly-drowning-
 category: arts
 

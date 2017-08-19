@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 16:40:20 +0000"
 id: "5291"
 old_path: /film/5291/from-ex-machina-to-blade-runner
-redirect_from:
+aliases:
  - /film/5291/from-ex-machina-to-blade-runner
 category: film
 

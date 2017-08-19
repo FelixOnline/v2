@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:44:19 +0000"
 id: "4033"
 old_path: /arts/4033/british-museum-strikes-gold-with-beyond-el-dorado
-redirect_from:
+aliases:
  - /arts/4033/british-museum-strikes-gold-with-beyond-el-dorado
 category: arts
 

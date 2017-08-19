@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-17 18:19:44 +0000"
 id: "4904"
 old_path: /tv/4904/yet-another-cbs-police-procedural
-redirect_from:
+aliases:
  - /tv/4904/yet-another-cbs-police-procedural
 category: tv
 

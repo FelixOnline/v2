@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 22:57:30 +0100"
 id: "1619"
 old_path: /politics/1619/is-democracy-the-best-policy
-redirect_from:
+aliases:
  - /politics/1619/is-democracy-the-best-policy
 category: politics
 

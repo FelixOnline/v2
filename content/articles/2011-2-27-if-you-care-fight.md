@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:39:21 +0000"
 id: "902"
 old_path: /comment/902/if-you-care-fight
-redirect_from:
+aliases:
  - /comment/902/if-you-care-fight
 category: comment
 

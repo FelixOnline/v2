@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:08:41 +0000"
 id: "2209"
 old_path: /news/2209/black-tie-for-summer-ball
-redirect_from:
+aliases:
  - /news/2209/black-tie-for-summer-ball
 category: news
 

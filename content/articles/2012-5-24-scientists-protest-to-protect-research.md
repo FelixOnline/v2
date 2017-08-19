@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 22:57:50 +0100"
 id: "2484"
 old_path: /news/2484/scientists-protest-to-protect-research
-redirect_from:
+aliases:
  - /news/2484/scientists-protest-to-protect-research
 category: news
 

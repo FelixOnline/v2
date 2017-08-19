@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:39:38 +0000"
 id: "6674"
 old_path: /food/6674/an-immaculate-conception-
-redirect_from:
+aliases:
  - /food/6674/an-immaculate-conception-
 category: food
 

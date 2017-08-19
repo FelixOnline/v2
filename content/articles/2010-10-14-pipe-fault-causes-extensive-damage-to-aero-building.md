@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:04:55 +0100"
 id: "197"
 old_path: /news/197/pipe-fault-causes-extensive-damage-to-aero-building-
-redirect_from:
+aliases:
  - /news/197/pipe-fault-causes-extensive-damage-to-aero-building-
 category: news
 

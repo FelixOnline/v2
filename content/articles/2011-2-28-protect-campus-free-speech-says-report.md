@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:13:35 +0000"
 id: "941"
 old_path: /news/941/protect-campus-free-speech-says-report
-redirect_from:
+aliases:
  - /news/941/protect-campus-free-speech-says-report
 category: news
 

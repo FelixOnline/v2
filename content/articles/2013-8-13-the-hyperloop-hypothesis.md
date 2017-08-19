@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-13 09:32:12 +0100"
 id: "3750"
 old_path: /tech/3750/the-hyperloop-hypothesis
-redirect_from:
+aliases:
  - /tech/3750/the-hyperloop-hypothesis
 category: tech
 

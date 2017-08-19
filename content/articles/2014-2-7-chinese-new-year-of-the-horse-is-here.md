@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:47:24 +0000"
 id: "4345"
 old_path: /food/4345/chinese-new-year-of-the-horse-is-here
-redirect_from:
+aliases:
  - /food/4345/chinese-new-year-of-the-horse-is-here
 category: food
 

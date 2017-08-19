@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:31:20 +0100"
 id: "2510"
 old_path: /comment/2510/the-summer-ball-you-asked-for
-redirect_from:
+aliases:
  - /comment/2510/the-summer-ball-you-asked-for
 category: comment
 

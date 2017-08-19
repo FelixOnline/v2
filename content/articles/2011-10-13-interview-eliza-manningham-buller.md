@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 21:24:06 +0100"
 id: "1507"
 old_path: /news/1507/interview-eliza-manningham-buller
-redirect_from:
+aliases:
  - /news/1507/interview-eliza-manningham-buller
 category: news
 

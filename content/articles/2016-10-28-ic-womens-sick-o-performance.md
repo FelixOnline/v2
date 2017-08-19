@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:46:07 +0100"
 id: "6355"
 old_path: /sport/6355/ic-womens-sick-o-performance
-redirect_from:
+aliases:
  - /sport/6355/ic-womens-sick-o-performance
 category: sport
 

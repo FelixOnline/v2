@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:35:27 +0000"
 id: "2786"
 old_path: /food/2786/the-simplest-chocolate-tart-ever
-redirect_from:
+aliases:
  - /food/2786/the-simplest-chocolate-tart-ever
 category: food
 

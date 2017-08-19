@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:53:38 +0000"
 id: "4879"
 old_path: /arts/4879/wounded-is-this-wars-true-legacy
-redirect_from:
+aliases:
  - /arts/4879/wounded-is-this-wars-true-legacy
 category: arts
 

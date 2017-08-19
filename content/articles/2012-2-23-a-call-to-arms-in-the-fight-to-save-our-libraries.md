@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:34:54 +0000"
 id: "2236"
 old_path: /books/2236/a-call-to-arms-in-the-fight-to-save-our-libraries
-redirect_from:
+aliases:
  - /books/2236/a-call-to-arms-in-the-fight-to-save-our-libraries
 category: books
 

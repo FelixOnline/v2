@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:47:26 +0000"
 id: "4827"
 old_path: /games/4827/are-we-falling-for-this-game
-redirect_from:
+aliases:
  - /games/4827/are-we-falling-for-this-game
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 11:00:59 +0100"
 id: "6110"
 old_path: /sport/6110/batavierenrace-racing-through-the-dark
-redirect_from:
+aliases:
  - /sport/6110/batavierenrace-racing-through-the-dark
 category: sport
 

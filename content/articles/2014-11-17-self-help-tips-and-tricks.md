@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-17 18:21:04 +0000"
 id: "4905"
 old_path: /welfare/4905/self-help-tips-and-tricks
-redirect_from:
+aliases:
  - /welfare/4905/self-help-tips-and-tricks
 category: welfare
 

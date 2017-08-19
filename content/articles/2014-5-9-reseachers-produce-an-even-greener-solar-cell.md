@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:07:26 +0100"
 id: "4573"
 old_path: /science/4573/reseachers-produce-an-even-greener-solar-cell
-redirect_from:
+aliases:
  - /science/4573/reseachers-produce-an-even-greener-solar-cell
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:22:19 +0000"
 id: "6451"
 old_path: /sport/6451/ic-fencing-sweep-aside-all-comers-
-redirect_from:
+aliases:
  - /sport/6451/ic-fencing-sweep-aside-all-comers-
 category: sport
 

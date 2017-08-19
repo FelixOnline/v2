@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:50:29 +0000"
 id: "634"
 old_path: /sport/634/he-must-be-friesian
-redirect_from:
+aliases:
  - /sport/634/he-must-be-friesian
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 11:56:34 +0100"
 id: "3556"
 old_path: /news/3556/hab-you-seen-our-balloons
-redirect_from:
+aliases:
  - /news/3556/hab-you-seen-our-balloons
 category: news
 

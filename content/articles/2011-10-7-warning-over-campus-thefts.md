@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 00:19:31 +0100"
 id: "1469"
 old_path: /news/1469/warning-over-campus-thefts
-redirect_from:
+aliases:
  - /news/1469/warning-over-campus-thefts
 category: news
 

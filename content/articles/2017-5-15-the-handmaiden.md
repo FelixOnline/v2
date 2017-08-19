@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:23:13 +0100"
 id: "6963"
 old_path: /film/6963/the-handmaiden
-redirect_from:
+aliases:
  - /film/6963/the-handmaiden
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:40:11 +0100"
 id: "3533"
 old_path: /news/3533/union-awards-open
-redirect_from:
+aliases:
  - /news/3533/union-awards-open
 category: news
 

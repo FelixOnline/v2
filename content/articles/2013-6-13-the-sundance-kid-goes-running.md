@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:37:23 +0100"
 id: "3696"
 old_path: /film/3696/the-sundance-kid-goes-running
-redirect_from:
+aliases:
  - /film/3696/the-sundance-kid-goes-running
 category: film
 

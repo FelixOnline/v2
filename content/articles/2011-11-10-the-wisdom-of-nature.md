@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:56:15 +0000"
 id: "1737"
 old_path: /food/1737/the-wisdom-of-nature
-redirect_from:
+aliases:
  - /food/1737/the-wisdom-of-nature
 category: food
 

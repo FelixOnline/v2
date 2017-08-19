@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:46:19 +0000"
 id: "392"
 old_path: /film/392/a-cracking-series
-redirect_from:
+aliases:
  - /film/392/a-cracking-series
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 17:06:08 +0000"
 id: "6487"
 old_path: /sport/6487/ic-snag-draw-against-ucl-before-teeing-up-
-redirect_from:
+aliases:
  - /sport/6487/ic-snag-draw-against-ucl-before-teeing-up-
 category: sport
 

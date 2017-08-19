@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:25:23 +0000"
 id: "5039"
 old_path: /cands/5039/bridge-team-place-in-london-cup
-redirect_from:
+aliases:
  - /cands/5039/bridge-team-place-in-london-cup
 category: clubs-and-socs
 

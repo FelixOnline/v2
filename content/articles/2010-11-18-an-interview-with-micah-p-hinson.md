@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:34:01 +0000"
 id: "388"
 old_path: /music/388/an-interview-with-micah-p-hinson-
-redirect_from:
+aliases:
  - /music/388/an-interview-with-micah-p-hinson-
 category: music
 

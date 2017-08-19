@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:07:56 +0000"
 id: "2184"
 old_path: /books/2184/a-moving-reminder-of-simpler-times
-redirect_from:
+aliases:
  - /books/2184/a-moving-reminder-of-simpler-times
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:54:28 +0000"
 id: "1096"
 old_path: /news/1096/strike-to-go-ahead-but-numbers-still-unknown
-redirect_from:
+aliases:
  - /news/1096/strike-to-go-ahead-but-numbers-still-unknown
 category: news
 

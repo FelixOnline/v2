@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 17:57:17 +0000"
 id: "5137"
 old_path: /science/5137/have-we-entered-a-new-human-dominated-epochthe-anthropocene
-redirect_from:
+aliases:
  - /science/5137/have-we-entered-a-new-human-dominated-epochthe-anthropocene
 category: science
 

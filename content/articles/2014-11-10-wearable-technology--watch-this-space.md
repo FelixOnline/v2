@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:13:47 +0000"
 id: "4841"
 old_path: /tech/4841/wearable-technology--watch-this-space
-redirect_from:
+aliases:
  - /tech/4841/wearable-technology--watch-this-space
 category: tech
 

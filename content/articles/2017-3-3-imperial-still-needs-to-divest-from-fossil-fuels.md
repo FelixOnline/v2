@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:49:18 +0000"
 id: "6839"
 old_path: /comment/6839/imperial-still-needs-to-divest-from-fossil-fuels
-redirect_from:
+aliases:
  - /comment/6839/imperial-still-needs-to-divest-from-fossil-fuels
 category: comment
 

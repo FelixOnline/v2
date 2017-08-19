@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:54:21 +0000"
 id: "6767"
 old_path: /arts/6767/caliente-burning-up-the-stage-with-tango-fire
-redirect_from:
+aliases:
  - /arts/6767/caliente-burning-up-the-stage-with-tango-fire
 category: arts
 

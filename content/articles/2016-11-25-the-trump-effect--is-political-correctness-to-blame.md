@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:30:51 +0000"
 id: "6496"
 old_path: /comment/6496/the-trump-effect--is-political-correctness-to-blame-
-redirect_from:
+aliases:
  - /comment/6496/the-trump-effect--is-political-correctness-to-blame-
 category: comment
 

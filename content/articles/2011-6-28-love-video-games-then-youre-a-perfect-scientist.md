@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 10:52:59 +0100"
 id: "1437"
 old_path: /games/1437/love-video-games-then-youre-a-perfect-scientist
-redirect_from:
+aliases:
  - /games/1437/love-video-games-then-youre-a-perfect-scientist
 category: games
 

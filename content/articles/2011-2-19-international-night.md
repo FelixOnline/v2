@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-19 15:55:07 +0000"
 id: "857"
 old_path: /arts/857/international-night
-redirect_from:
+aliases:
  - /arts/857/international-night
 category: arts
 

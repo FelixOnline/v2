@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 13:14:15 +0000"
 id: "3321"
 old_path: /news/3321/heads-of-department-extend-their-tenure
-redirect_from:
+aliases:
  - /news/3321/heads-of-department-extend-their-tenure
 category: news
 

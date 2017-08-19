@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 23:32:15 +0000"
 id: "2221"
 old_path: /sport/2221/hockey-pre-varsity-tension-builds
-redirect_from:
+aliases:
  - /sport/2221/hockey-pre-varsity-tension-builds
 category: sport
 

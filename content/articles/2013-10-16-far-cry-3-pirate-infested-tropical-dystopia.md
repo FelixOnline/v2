@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-16 14:13:31 +0100"
 id: "3882"
 old_path: /games/3882/far-cry-3-pirate-infested-tropical-dystopia
-redirect_from:
+aliases:
  - /games/3882/far-cry-3-pirate-infested-tropical-dystopia
 category: games
 

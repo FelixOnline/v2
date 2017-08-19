@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:48:13 +0000"
 id: "870"
 old_path: /biz/870/will-the-boe-raise-its-rates
-redirect_from:
+aliases:
  - /biz/870/will-the-boe-raise-its-rates
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:33:37 +0000"
 id: "3390"
 old_path: /arts/3390/the-imperial-fringe-puts-on-a-banging-show
-redirect_from:
+aliases:
  - /arts/3390/the-imperial-fringe-puts-on-a-banging-show
 category: arts
 

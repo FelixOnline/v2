@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:28:09 +0100"
 id: "3790"
 old_path: /features/3790/my-speech-my-little-story
-redirect_from:
+aliases:
  - /features/3790/my-speech-my-little-story
 category: features
 

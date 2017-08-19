@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:07:10 +0000"
 id: "486"
 old_path: /comment/486/for-a-61-year-old-you-do-swear-a-lot-dont-you-felix
-redirect_from:
+aliases:
  - /comment/486/for-a-61-year-old-you-do-swear-a-lot-dont-you-felix
 category: comment
 

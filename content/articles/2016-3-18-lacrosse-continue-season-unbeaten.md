@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:06:46 +0000"
 id: "6077"
 old_path: /sport/6077/lacrosse-continue-season-unbeaten
-redirect_from:
+aliases:
  - /sport/6077/lacrosse-continue-season-unbeaten
 category: sport
 

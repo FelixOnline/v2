@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:49:01 +0000"
 id: "5061"
 old_path: /arts/5061/two-worlds-of-fashion-complete-poles-apart
-redirect_from:
+aliases:
  - /arts/5061/two-worlds-of-fashion-complete-poles-apart
 category: arts
 

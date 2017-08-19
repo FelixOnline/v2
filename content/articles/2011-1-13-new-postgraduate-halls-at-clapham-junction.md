@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:47:22 +0000"
 id: "596"
 old_path: /news/596/new-postgraduate-halls-at-clapham-junction-
-redirect_from:
+aliases:
  - /news/596/new-postgraduate-halls-at-clapham-junction-
 category: news
 

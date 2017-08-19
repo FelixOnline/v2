@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:30:00 +0000"
 id: "3461"
 old_path: /news/3461/big-elections-voting-shuts-at-midday-on-friday
-redirect_from:
+aliases:
  - /news/3461/big-elections-voting-shuts-at-midday-on-friday
 category: news
 

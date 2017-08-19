@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:55:31 +0000"
 id: "2365"
 old_path: /fashion/2365/fashion-week-highlights-for-autumnwinter-2012
-redirect_from:
+aliases:
  - /fashion/2365/fashion-week-highlights-for-autumnwinter-2012
 category: fashion
 

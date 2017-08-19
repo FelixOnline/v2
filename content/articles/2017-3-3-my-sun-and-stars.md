@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:13:38 +0000"
 id: "6843"
 old_path: /science/6843/my-sun-and-stars
-redirect_from:
+aliases:
  - /science/6843/my-sun-and-stars
 category: science
 

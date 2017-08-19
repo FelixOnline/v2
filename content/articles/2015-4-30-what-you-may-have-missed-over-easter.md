@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-30 22:58:02 +0100"
 id: "5472"
 old_path: /news/5472/what-you-may-have-missed-over-easter
-redirect_from:
+aliases:
  - /news/5472/what-you-may-have-missed-over-easter
 category: news
 

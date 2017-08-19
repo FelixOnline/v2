@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:48:39 +0000"
 id: "314"
 old_path: /politics/314/the-imperial-college-of-north-korea-
-redirect_from:
+aliases:
  - /politics/314/the-imperial-college-of-north-korea-
 category: politics
 

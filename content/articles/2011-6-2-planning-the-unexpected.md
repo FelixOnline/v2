@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:27:31 +0100"
 id: "1307"
 old_path: /comment/1307/planning-the-unexpected
-redirect_from:
+aliases:
  - /comment/1307/planning-the-unexpected
 category: comment
 

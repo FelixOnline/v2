@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 00:30:27 +0100"
 id: "1470"
 old_path: /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
-redirect_from:
+aliases:
  - /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
 category: news
 

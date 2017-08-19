@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:08:03 +0000"
 id: "3485"
 old_path: /sport/3485/7-medals-snow-big-deal
-redirect_from:
+aliases:
  - /sport/3485/7-medals-snow-big-deal
 category: sport
 

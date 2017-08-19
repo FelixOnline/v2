@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 17:02:39 +0000"
 id: "5293"
 old_path: /film/5293/aniston-does-drama
-redirect_from:
+aliases:
  - /film/5293/aniston-does-drama
 category: film
 

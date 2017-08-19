@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:10:39 +0100"
 id: "5609"
 old_path: /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
-redirect_from:
+aliases:
  - /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 07:13:21 +0000"
 id: "447"
 old_path: /news/447/discouraged-by-higher-fees-
-redirect_from:
+aliases:
  - /news/447/discouraged-by-higher-fees-
 category: news
 

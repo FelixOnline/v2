@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:59:14 +0000"
 id: "5979"
 old_path: /arts/5979/a-trippy-look-at-first-time-parenthood
-redirect_from:
+aliases:
  - /arts/5979/a-trippy-look-at-first-time-parenthood
 category: arts
 

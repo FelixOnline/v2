@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:03:21 +0000"
 id: "2003"
 old_path: /science/2003/the-next-ice-age-may-be-late
-redirect_from:
+aliases:
  - /science/2003/the-next-ice-age-may-be-late
 category: science
 

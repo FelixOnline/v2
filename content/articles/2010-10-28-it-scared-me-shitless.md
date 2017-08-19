@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:39:47 +0100"
 id: "270"
 old_path: /travel/270/it-scared-me-shitless
-redirect_from:
+aliases:
  - /travel/270/it-scared-me-shitless
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:49:29 +0100"
 id: "2654"
 old_path: /news/2654/rcsu-on-top
-redirect_from:
+aliases:
  - /news/2654/rcsu-on-top
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:08:42 +0000"
 id: "426"
 old_path: /science/426/new-anti-psychotic-drugs-in-pipeline
-redirect_from:
+aliases:
  - /science/426/new-anti-psychotic-drugs-in-pipeline
 category: science
 

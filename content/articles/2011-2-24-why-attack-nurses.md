@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:31:46 +0000"
 id: "891"
 old_path: /comment/891/why-attack-nurses
-redirect_from:
+aliases:
  - /comment/891/why-attack-nurses
 category: comment
 

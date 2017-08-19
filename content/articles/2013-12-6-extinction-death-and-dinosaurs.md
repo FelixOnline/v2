@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:01:15 +0000"
 id: "4185"
 old_path: /science/4185/extinction-death-and-dinosaurs
-redirect_from:
+aliases:
  - /science/4185/extinction-death-and-dinosaurs
 category: science
 

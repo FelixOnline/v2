@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:38:51 +0100"
 id: "192"
 old_path: /film/192/how-comic-book-geeks-get-girls-exhibit-a
-redirect_from:
+aliases:
  - /film/192/how-comic-book-geeks-get-girls-exhibit-a
 category: film
 

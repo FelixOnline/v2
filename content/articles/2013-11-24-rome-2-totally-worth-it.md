@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:35:36 +0000"
 id: "4128"
 old_path: /games/4128/rome-2-totally-worth-it
-redirect_from:
+aliases:
  - /games/4128/rome-2-totally-worth-it
 category: games
 

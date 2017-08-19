@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:37:53 +0100"
 id: "3932"
 old_path: /music/3932/ams-album-of-the-week-bitter-rivals
-redirect_from:
+aliases:
  - /music/3932/ams-album-of-the-week-bitter-rivals
 category: music
 

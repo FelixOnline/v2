@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:51:56 +0100"
 id: "2604"
 old_path: /news/2604/time-to-rest-my-bones
-redirect_from:
+aliases:
  - /news/2604/time-to-rest-my-bones
 category: news
 

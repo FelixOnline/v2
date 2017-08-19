@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:00:54 +0100"
 id: "5545"
 old_path: /news/5545/five-imperial-researchers-elected-academy-fellows
-redirect_from:
+aliases:
  - /news/5545/five-imperial-researchers-elected-academy-fellows
 category: news
 

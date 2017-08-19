@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:13:12 +0100"
 id: "2736"
 old_path: /biz/2736/entrepreneurs-hail-new-app
-redirect_from:
+aliases:
  - /biz/2736/entrepreneurs-hail-new-app
 category: business
 

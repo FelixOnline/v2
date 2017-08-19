@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-09-05 20:31:48 +0100"
 id: "6294"
 old_path: /film/6294/lff--carol--a-ravishing-relentless-romance
-redirect_from:
+aliases:
  - /film/6294/lff--carol--a-ravishing-relentless-romance
 category: film
 

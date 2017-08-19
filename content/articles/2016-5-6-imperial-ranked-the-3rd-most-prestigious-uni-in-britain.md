@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:43:45 +0100"
 id: "6115"
 old_path: /news/6115/imperial-ranked-the-3rd-most-prestigious-uni-in-britain
-redirect_from:
+aliases:
  - /news/6115/imperial-ranked-the-3rd-most-prestigious-uni-in-britain
 category: news
 

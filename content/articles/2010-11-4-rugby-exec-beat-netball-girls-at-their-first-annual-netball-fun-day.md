@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:51:10 +0000"
 id: "315"
 old_path: /sport/315/rugby-exec-beat-netball-girls-at-their-first-annual-netball-fun-day-
-redirect_from:
+aliases:
  - /sport/315/rugby-exec-beat-netball-girls-at-their-first-annual-netball-fun-day-
 category: sport
 

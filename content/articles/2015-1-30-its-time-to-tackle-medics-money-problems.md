@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-30 00:03:33 +0000"
 id: "5161"
 old_path: /comment/5161/its-time-to-tackle-medics-money-problems
-redirect_from:
+aliases:
  - /comment/5161/its-time-to-tackle-medics-money-problems
 category: comment
 

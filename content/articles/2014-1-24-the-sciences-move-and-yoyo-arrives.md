@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:55:39 +0000"
 id: "4286"
 old_path: /comment/4286/the-sciences-move-and-yoyo-arrives
-redirect_from:
+aliases:
  - /comment/4286/the-sciences-move-and-yoyo-arrives
 category: comment
 

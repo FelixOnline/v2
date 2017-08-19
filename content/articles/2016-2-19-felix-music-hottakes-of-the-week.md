@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:21:32 +0000"
 id: "5943"
 old_path: /music/5943/felix-music-hottakes-of-the-week
-redirect_from:
+aliases:
  - /music/5943/felix-music-hottakes-of-the-week
 category: music
 

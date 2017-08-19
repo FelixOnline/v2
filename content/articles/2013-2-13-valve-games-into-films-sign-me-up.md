@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:50:53 +0000"
 id: "3305"
 old_path: /games/3305/valve-games-into-films-sign-me-up
-redirect_from:
+aliases:
  - /games/3305/valve-games-into-films-sign-me-up
 category: games
 

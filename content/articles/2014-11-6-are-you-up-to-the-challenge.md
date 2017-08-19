@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:04:43 +0000"
 id: "4773"
 old_path: /features/4773/are-you-up-to-the-challenge
-redirect_from:
+aliases:
  - /features/4773/are-you-up-to-the-challenge
 category: features
 

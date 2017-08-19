@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:04:28 +0100"
 id: "3784"
 old_path: /games/3784/broke-and-bored-felix-has-the-answer
-redirect_from:
+aliases:
  - /games/3784/broke-and-bored-felix-has-the-answer
 category: games
 

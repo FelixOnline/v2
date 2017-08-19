@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:03:01 +0100"
 id: "1531"
 old_path: /music/1531/ic-radio-wants-you
-redirect_from:
+aliases:
  - /music/1531/ic-radio-wants-you
 category: music
 

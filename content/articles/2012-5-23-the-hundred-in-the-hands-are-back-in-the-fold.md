@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-23 16:27:45 +0100"
 id: "2480"
 old_path: /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
-redirect_from:
+aliases:
  - /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
 category: music
 

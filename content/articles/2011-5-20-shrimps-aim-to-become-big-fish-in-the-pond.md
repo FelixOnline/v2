@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 02:51:49 +0100"
 id: "1212"
 old_path: /sport/1212/shrimps-aim-to-become-big-fish-in-the-pond
-redirect_from:
+aliases:
  - /sport/1212/shrimps-aim-to-become-big-fish-in-the-pond
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:24:31 +0100"
 id: "6161"
 old_path: /tv/6161/-cartoon-corner-vixen
-redirect_from:
+aliases:
  - /tv/6161/-cartoon-corner-vixen
 category: tv
 

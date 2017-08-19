@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:38:41 +0100"
 id: "4655"
 old_path: /news/4655/imperial-innovations-in-bid-to-raise-150-million-via-investment
-redirect_from:
+aliases:
  - /news/4655/imperial-innovations-in-bid-to-raise-150-million-via-investment
 category: news
 

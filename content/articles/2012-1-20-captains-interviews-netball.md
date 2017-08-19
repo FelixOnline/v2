@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-20 17:19:46 +0000"
 id: "2043"
 old_path: /sport/2043/captains-interviews-netball
-redirect_from:
+aliases:
  - /sport/2043/captains-interviews-netball
 category: sport
 

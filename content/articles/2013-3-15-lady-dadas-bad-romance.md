@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:28:44 +0000"
 id: "3475"
 old_path: /arts/3475/lady-dadas-bad-romance
-redirect_from:
+aliases:
  - /arts/3475/lady-dadas-bad-romance
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:25:31 +0000"
 id: "2253"
 old_path: /music/2253/a-very-print-unfriendly-band
-redirect_from:
+aliases:
  - /music/2253/a-very-print-unfriendly-band
 category: music
 

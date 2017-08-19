@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:39:16 +0000"
 id: "5852"
 old_path: /arts/5852/the-ancient-art-of-being-illustrated-
-redirect_from:
+aliases:
  - /arts/5852/the-ancient-art-of-being-illustrated-
 category: arts
 

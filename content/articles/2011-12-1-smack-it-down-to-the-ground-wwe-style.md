@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:08:15 +0000"
 id: "1865"
 old_path: /games/1865/smack-it-down-to-the-ground-wwe-style
-redirect_from:
+aliases:
  - /games/1865/smack-it-down-to-the-ground-wwe-style
 category: games
 

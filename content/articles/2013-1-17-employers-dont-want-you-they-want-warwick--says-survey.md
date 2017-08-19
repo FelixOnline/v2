@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:47:12 +0000"
 id: "3120"
 old_path: /news/3120/employers-dont-want-you-they-want-warwick--says-survey
-redirect_from:
+aliases:
  - /news/3120/employers-dont-want-you-they-want-warwick--says-survey
 category: news
 

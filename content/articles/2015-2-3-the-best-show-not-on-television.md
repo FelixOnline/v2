@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:51:24 +0000"
 id: "5183"
 old_path: /tv/5183/the-best-show-not-on-television
-redirect_from:
+aliases:
  - /tv/5183/the-best-show-not-on-television
 category: tv
 

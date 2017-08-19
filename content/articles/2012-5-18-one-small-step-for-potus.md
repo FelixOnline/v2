@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:23:37 +0100"
 id: "2471"
 old_path: /politics/2471/one-small-step-for-potus
-redirect_from:
+aliases:
  - /politics/2471/one-small-step-for-potus
 category: politics
 

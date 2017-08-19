@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:11:43 +0000"
 id: "3222"
 old_path: /arts/3222/putting-the-camp-back-into-campaign
-redirect_from:
+aliases:
  - /arts/3222/putting-the-camp-back-into-campaign
 category: arts
 

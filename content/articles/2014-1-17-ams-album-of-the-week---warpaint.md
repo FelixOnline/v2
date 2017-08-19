@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:55:25 +0000"
 id: "4246"
 old_path: /music/4246/ams-album-of-the-week---warpaint
-redirect_from:
+aliases:
  - /music/4246/ams-album-of-the-week---warpaint
 category: music
 

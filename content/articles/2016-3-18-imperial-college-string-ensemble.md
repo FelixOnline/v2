@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:04:41 +0000"
 id: "6075"
 old_path: /cands/6075/imperial-college-string-ensemble
-redirect_from:
+aliases:
  - /cands/6075/imperial-college-string-ensemble
 category: clubs-and-socs
 

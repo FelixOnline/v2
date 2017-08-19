@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 12:53:37 +0100"
 id: "1168"
 old_path: /film/1168/valhallas-fury
-redirect_from:
+aliases:
  - /film/1168/valhallas-fury
 category: film
 

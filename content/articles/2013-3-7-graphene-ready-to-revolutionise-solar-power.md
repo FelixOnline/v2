@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:22:31 +0000"
 id: "3424"
 old_path: /science/3424/graphene-ready-to-revolutionise-solar-power
-redirect_from:
+aliases:
  - /science/3424/graphene-ready-to-revolutionise-solar-power
 category: science
 

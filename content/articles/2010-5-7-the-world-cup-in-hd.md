@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-07 11:50:20 +0100"
 id: "136"
 old_path: /tech/136/the-world-cup-in-hd
-redirect_from:
+aliases:
  - /tech/136/the-world-cup-in-hd
 category: tech
 

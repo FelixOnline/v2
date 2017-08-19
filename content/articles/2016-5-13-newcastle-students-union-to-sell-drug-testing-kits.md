@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:52:30 +0100"
 id: "6146"
 old_path: /news/6146/newcastle-students-union-to-sell-drug-testing-kits
-redirect_from:
+aliases:
  - /news/6146/newcastle-students-union-to-sell-drug-testing-kits
 category: news
 

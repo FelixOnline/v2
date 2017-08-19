@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 18:11:04 +0000"
 id: "3385"
 old_path: /books/3385/richard-morgans-altered-carbon
-redirect_from:
+aliases:
  - /books/3385/richard-morgans-altered-carbon
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:23:42 +0000"
 id: "1091"
 old_path: /arts/1091/no-image-test-article
-redirect_from:
+aliases:
  - /arts/1091/no-image-test-article
 category: arts
 

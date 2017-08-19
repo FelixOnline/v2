@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 18:35:22 +0000"
 id: "4397"
 old_path: /tv/4397/three-musketeers-one-review-
-redirect_from:
+aliases:
  - /tv/4397/three-musketeers-one-review-
 category: tv
 

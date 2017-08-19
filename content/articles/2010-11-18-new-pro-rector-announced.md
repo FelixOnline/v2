@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:47:22 +0000"
 id: "410"
 old_path: /news/410/new-pro-rector-announced-
-redirect_from:
+aliases:
  - /news/410/new-pro-rector-announced-
 category: news
 

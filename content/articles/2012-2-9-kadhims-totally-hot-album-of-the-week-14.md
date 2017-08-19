@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:23:05 +0000"
 id: "2148"
 old_path: /music/2148/kadhims-totally-hot-album-of-the-week-14
-redirect_from:
+aliases:
  - /music/2148/kadhims-totally-hot-album-of-the-week-14
 category: music
 

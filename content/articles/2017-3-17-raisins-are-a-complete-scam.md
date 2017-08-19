@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 16:57:16 +0000"
 id: "6907"
 old_path: /comment/6907/raisins-are-a-complete-scam
-redirect_from:
+aliases:
  - /comment/6907/raisins-are-a-complete-scam
 category: comment
 

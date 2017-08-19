@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:57:17 +0000"
 id: "513"
 old_path: /games/513/stuck-for-gift-ideas-for-your-pet-gamer
-redirect_from:
+aliases:
  - /games/513/stuck-for-gift-ideas-for-your-pet-gamer
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 02:21:36 +0100"
 id: "3813"
 old_path: /sport/3813/canoe-club-summer-tour-travels-to-3-countries
-redirect_from:
+aliases:
  - /sport/3813/canoe-club-summer-tour-travels-to-3-countries
 category: sport
 

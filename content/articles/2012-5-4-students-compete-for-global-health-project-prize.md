@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 00:26:40 +0100"
 id: "2421"
 old_path: /news/2421/students-compete-for-global-health-project-prize
-redirect_from:
+aliases:
  - /news/2421/students-compete-for-global-health-project-prize
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:10:23 +0000"
 id: "5717"
 old_path: /news/5717/college-fees-likely-to-rise-under-new-plans
-redirect_from:
+aliases:
  - /news/5717/college-fees-likely-to-rise-under-new-plans
 category: news
 

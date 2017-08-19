@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:09:37 +0100"
 id: "6128"
 old_path: /music/6128/a-guide-to-eurovision-2016
-redirect_from:
+aliases:
  - /music/6128/a-guide-to-eurovision-2016
 category: music
 

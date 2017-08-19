@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:53:10 +0000"
 id: "618"
 old_path: /film/618/director-profile-danny-boyle
-redirect_from:
+aliases:
  - /film/618/director-profile-danny-boyle
 category: film
 

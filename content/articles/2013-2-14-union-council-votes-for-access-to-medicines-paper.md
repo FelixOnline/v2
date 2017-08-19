@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:12:53 +0000"
 id: "3332"
 old_path: /news/3332/union-council-votes-for-access-to-medicines-paper
-redirect_from:
+aliases:
  - /news/3332/union-council-votes-for-access-to-medicines-paper
 category: news
 

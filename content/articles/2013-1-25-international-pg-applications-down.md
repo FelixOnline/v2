@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:30:12 +0000"
 id: "3179"
 old_path: /news/3179/international-pg-applications-down
-redirect_from:
+aliases:
  - /news/3179/international-pg-applications-down
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:48:03 +0100"
 id: "5604"
 old_path: /welfare/5604/concepts-at-a-glance-gender-and-sexuality
-redirect_from:
+aliases:
  - /welfare/5604/concepts-at-a-glance-gender-and-sexuality
 category: welfare
 

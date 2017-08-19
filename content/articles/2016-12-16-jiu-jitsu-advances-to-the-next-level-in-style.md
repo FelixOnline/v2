@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 16:26:47 +0000"
 id: "6627"
 old_path: /sport/6627/jiu-jitsu-advances-to-the-next-level-in-style
-redirect_from:
+aliases:
  - /sport/6627/jiu-jitsu-advances-to-the-next-level-in-style
 category: sport
 

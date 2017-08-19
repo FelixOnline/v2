@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 23:18:16 +0000"
 id: "6373"
 old_path: /food/6373/plates-of-simple-luxury
-redirect_from:
+aliases:
  - /food/6373/plates-of-simple-luxury
 category: food
 

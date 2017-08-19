@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-18 08:06:03 +0100"
 id: "5466"
 old_path: /arts/5466/a-measure-of-success
-redirect_from:
+aliases:
  - /arts/5466/a-measure-of-success
 category: arts
 

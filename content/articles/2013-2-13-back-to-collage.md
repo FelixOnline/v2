@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 17:00:05 +0000"
 id: "3313"
 old_path: /arts/3313/back-to-collage
-redirect_from:
+aliases:
  - /arts/3313/back-to-collage
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:39:01 +0000"
 id: "5760"
 old_path: /arts/5760/birth-death-and-the-messiness-in-between
-redirect_from:
+aliases:
  - /arts/5760/birth-death-and-the-messiness-in-between
 category: arts
 

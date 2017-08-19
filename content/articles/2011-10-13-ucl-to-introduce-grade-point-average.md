@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 20:33:51 +0100"
 id: "1503"
 old_path: /news/1503/ucl-to-introduce-grade-point-average
-redirect_from:
+aliases:
  - /news/1503/ucl-to-introduce-grade-point-average
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 12:55:17 +0000"
 id: "5090"
 old_path: /news/5090/one-city-mourns-for-another-citys-loss
-redirect_from:
+aliases:
  - /news/5090/one-city-mourns-for-another-citys-loss
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:45:29 +0000"
 id: "4239"
 old_path: /arts/4239/an-epic-poem-of-everyday-gods
-redirect_from:
+aliases:
  - /arts/4239/an-epic-poem-of-everyday-gods
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:39:10 +0000"
 id: "6744"
 old_path: /news/6744/imperial-students-launch-campaign-to-make-medical-curriculum-lgbt-inclusive
-redirect_from:
+aliases:
  - /news/6744/imperial-students-launch-campaign-to-make-medical-curriculum-lgbt-inclusive
 category: news
 

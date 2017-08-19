@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 17:29:01 +0000"
 id: "5369"
 old_path: /comment/5369/felix-interviews-deputy-president-fs-candidate-chris-kaye
-redirect_from:
+aliases:
  - /comment/5369/felix-interviews-deputy-president-fs-candidate-chris-kaye
 category: comment
 

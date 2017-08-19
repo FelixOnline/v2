@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:25:39 +0100"
 id: "1187"
 old_path: /science/1187/device-reaches-the-final-heat
-redirect_from:
+aliases:
  - /science/1187/device-reaches-the-final-heat
 category: science
 

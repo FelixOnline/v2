@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:24:12 +0000"
 id: "744"
 old_path: /tech/744/egypt-in-complete-internet-blackout-
-redirect_from:
+aliases:
  - /tech/744/egypt-in-complete-internet-blackout-
 category: tech
 

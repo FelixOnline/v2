@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-07 17:09:04 +0100"
 id: "6313"
 old_path: /science/6313/the-nobel-vs-ig-nobel-prizes
-redirect_from:
+aliases:
  - /science/6313/the-nobel-vs-ig-nobel-prizes
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:07:25 +0000"
 id: "2810"
 old_path: /film/2810/2012-london-korean-film-festival
-redirect_from:
+aliases:
  - /film/2810/2012-london-korean-film-festival
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:36:09 +0000"
 id: "4805"
 old_path: /arts/4805/tis-pity-shes-a-whore--shakespeares-moral-dilemma
-redirect_from:
+aliases:
  - /arts/4805/tis-pity-shes-a-whore--shakespeares-moral-dilemma
 category: arts
 

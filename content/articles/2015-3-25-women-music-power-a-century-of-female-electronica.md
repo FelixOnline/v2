@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:35:47 +0000"
 id: "5431"
 old_path: /music/5431/women-music-power-a-century-of-female-electronica
-redirect_from:
+aliases:
  - /music/5431/women-music-power-a-century-of-female-electronica
 category: music
 

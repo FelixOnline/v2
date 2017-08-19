@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 16:57:20 +0100"
 id: "4685"
 old_path: /science/4685/making-light-of-the-matter
-redirect_from:
+aliases:
  - /science/4685/making-light-of-the-matter
 category: science
 

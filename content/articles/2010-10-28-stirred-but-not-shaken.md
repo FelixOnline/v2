@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:25:18 +0100"
 id: "260"
 old_path: /science/260/stirred-but-not-shaken-
-redirect_from:
+aliases:
  - /science/260/stirred-but-not-shaken-
 category: science
 

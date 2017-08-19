@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:29:13 +0000"
 id: "6050"
 old_path: /news/6050/38-increase-in-imperial-students-seeking-counselling
-redirect_from:
+aliases:
  - /news/6050/38-increase-in-imperial-students-seeking-counselling
 category: news
 

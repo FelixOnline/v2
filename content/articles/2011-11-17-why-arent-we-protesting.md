@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:12:18 +0000"
 id: "1771"
 old_path: /news/1771/why-arent-we-protesting
-redirect_from:
+aliases:
  - /news/1771/why-arent-we-protesting
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 18:45:50 +0100"
 id: "1375"
 old_path: /news/1375/union-forced-to-clarify-future-of-summer-ball
-redirect_from:
+aliases:
  - /news/1375/union-forced-to-clarify-future-of-summer-ball
 category: news
 

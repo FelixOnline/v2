@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 12:15:59 +0100"
 id: "3510"
 old_path: /sport/3510/bridge-team-wins-university-bridge-championship
-redirect_from:
+aliases:
  - /sport/3510/bridge-team-wins-university-bridge-championship
 category: sport
 

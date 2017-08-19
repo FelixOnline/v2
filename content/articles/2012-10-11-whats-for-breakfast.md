@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:19:08 +0100"
 id: "2670"
 old_path: /food/2670/whats-for-breakfast
-redirect_from:
+aliases:
  - /food/2670/whats-for-breakfast
 category: food
 

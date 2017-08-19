@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:16:54 +0100"
 id: "2669"
 old_path: /film/2669/56th-bfi-london-film-festival
-redirect_from:
+aliases:
  - /film/2669/56th-bfi-london-film-festival
 category: film
 

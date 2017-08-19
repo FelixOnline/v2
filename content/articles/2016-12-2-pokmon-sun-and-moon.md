@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:17:10 +0000"
 id: "6542"
 old_path: /games/6542/pokmon-sun-and-moon
-redirect_from:
+aliases:
  - /games/6542/pokmon-sun-and-moon
 category: games
 

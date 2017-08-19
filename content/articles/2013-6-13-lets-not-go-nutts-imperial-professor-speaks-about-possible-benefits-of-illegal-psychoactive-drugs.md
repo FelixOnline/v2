@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:44:19 +0100"
 id: "3681"
 old_path: /science/3681/lets-not-go-nutts-imperial-professor-speaks-about-possible-benefits-of-illegal-psychoactive-drugs
-redirect_from:
+aliases:
  - /science/3681/lets-not-go-nutts-imperial-professor-speaks-about-possible-benefits-of-illegal-psychoactive-drugs
 category: science
 

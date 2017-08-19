@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 13:03:08 +0100"
 id: "4530"
 old_path: /comment/4530/adonis-georgiadis-comes-to-imperial-great
-redirect_from:
+aliases:
  - /comment/4530/adonis-georgiadis-comes-to-imperial-great
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:37:03 +0000"
 id: "1806"
 old_path: /science/1806/wavefunction-may-be-real-after-all
-redirect_from:
+aliases:
  - /science/1806/wavefunction-may-be-real-after-all
 category: science
 

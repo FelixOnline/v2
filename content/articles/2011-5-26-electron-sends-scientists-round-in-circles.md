@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:16:12 +0100"
 id: "1257"
 old_path: /science/1257/electron-sends-scientists-round-in-circles-
-redirect_from:
+aliases:
  - /science/1257/electron-sends-scientists-round-in-circles-
 category: science
 

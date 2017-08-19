@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-28 11:47:17 +0000"
 id: "4517"
 old_path: /features/4517/the-cancer-envy-campaign-
-redirect_from:
+aliases:
  - /features/4517/the-cancer-envy-campaign-
 category: features
 

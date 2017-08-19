@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:25:40 +0100"
 id: "2447"
 old_path: /arts/2447/smack-my-etch-up
-redirect_from:
+aliases:
  - /arts/2447/smack-my-etch-up
 category: arts
 

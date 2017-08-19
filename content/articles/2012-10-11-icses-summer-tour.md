@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:45:15 +0100"
 id: "2651"
 old_path: /news/2651/icses-summer-tour
-redirect_from:
+aliases:
  - /news/2651/icses-summer-tour
 category: news
 

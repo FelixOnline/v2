@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:43:37 +0100"
 id: "1311"
 old_path: /arts/1311/million-dollar-quartet
-redirect_from:
+aliases:
  - /arts/1311/million-dollar-quartet
 category: arts
 

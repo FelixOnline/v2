@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:26:59 +0100"
 id: "6938"
 old_path: /news/6938/nus-votes-in-new-president--nas-endorses-candidate
-redirect_from:
+aliases:
  - /news/6938/nus-votes-in-new-president--nas-endorses-candidate
 category: news
 

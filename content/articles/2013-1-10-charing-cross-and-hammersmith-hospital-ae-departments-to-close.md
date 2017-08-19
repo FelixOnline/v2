@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:50:29 +0000"
 id: "3095"
 old_path: /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
-redirect_from:
+aliases:
  - /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
 category: news
 

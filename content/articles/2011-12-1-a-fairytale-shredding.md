@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:26:58 +0000"
 id: "1870"
 old_path: /arts/1870/a-fairytale-shredding
-redirect_from:
+aliases:
  - /arts/1870/a-fairytale-shredding
 category: arts
 

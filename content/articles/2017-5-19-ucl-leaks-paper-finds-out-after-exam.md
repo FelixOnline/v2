@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 14:59:15 +0100"
 id: "6972"
 old_path: /news/6972/ucl-leaks-paper-finds-out-after-exam
-redirect_from:
+aliases:
  - /news/6972/ucl-leaks-paper-finds-out-after-exam
 category: news
 

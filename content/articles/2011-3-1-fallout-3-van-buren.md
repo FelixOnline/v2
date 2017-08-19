@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:09:29 +0000"
 id: "966"
 old_path: /games/966/fallout-3-van-buren
-redirect_from:
+aliases:
  - /games/966/fallout-3-van-buren
 category: games
 

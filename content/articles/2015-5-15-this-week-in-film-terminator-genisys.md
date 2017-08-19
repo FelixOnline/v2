@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:10:26 +0100"
 id: "5528"
 old_path: /film/5528/this-week-in-film-terminator-genisys
-redirect_from:
+aliases:
  - /film/5528/this-week-in-film-terminator-genisys
 category: film
 

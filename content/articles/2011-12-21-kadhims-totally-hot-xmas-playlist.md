@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-21 01:18:40 +0000"
 id: "1961"
 old_path: /music/1961/kadhims-totally-hot-xmas-playlist
-redirect_from:
+aliases:
  - /music/1961/kadhims-totally-hot-xmas-playlist
 category: music
 

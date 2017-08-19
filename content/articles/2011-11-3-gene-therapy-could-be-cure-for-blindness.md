@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:56:52 +0000"
 id: "1659"
 old_path: /science/1659/gene-therapy-could-be-cure-for-blindness
-redirect_from:
+aliases:
  - /science/1659/gene-therapy-could-be-cure-for-blindness
 category: science
 

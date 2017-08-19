@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:23:25 +0000"
 id: "532"
 old_path: /comment/532/the-nativity-from-a-ladies-point-of-view
-redirect_from:
+aliases:
  - /comment/532/the-nativity-from-a-ladies-point-of-view
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 16:08:33 +0000"
 id: "6623"
 old_path: /millennials/6623/the-fight-to-use-lsd-for-research-purposes
-redirect_from:
+aliases:
  - /millennials/6623/the-fight-to-use-lsd-for-research-purposes
 category: millennials
 

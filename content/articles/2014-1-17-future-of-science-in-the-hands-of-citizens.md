@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:24:54 +0000"
 id: "4231"
 old_path: /features/4231/future-of-science-in-the-hands-of-citizens
-redirect_from:
+aliases:
  - /features/4231/future-of-science-in-the-hands-of-citizens
 category: features
 

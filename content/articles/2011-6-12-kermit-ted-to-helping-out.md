@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 15:46:36 +0100"
 id: "1362"
 old_path: /science/1362/kermit-ted-to-helping-out-
-redirect_from:
+aliases:
  - /science/1362/kermit-ted-to-helping-out-
 category: science
 

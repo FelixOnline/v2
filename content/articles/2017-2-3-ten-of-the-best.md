@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:50:05 +0000"
 id: "6736"
 old_path: /food/6736/ten-of-the-best
-redirect_from:
+aliases:
  - /food/6736/ten-of-the-best
 category: food
 

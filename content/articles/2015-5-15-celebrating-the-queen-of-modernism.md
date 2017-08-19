@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:58:42 +0100"
 id: "5541"
 old_path: /arts/5541/celebrating-the-queen-of-modernism
-redirect_from:
+aliases:
  - /arts/5541/celebrating-the-queen-of-modernism
 category: arts
 

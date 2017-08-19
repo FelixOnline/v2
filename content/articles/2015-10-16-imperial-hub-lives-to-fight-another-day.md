@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:32:16 +0100"
 id: "5657"
 old_path: /news/5657/imperial-hub-lives-to-fight-another-day
-redirect_from:
+aliases:
  - /news/5657/imperial-hub-lives-to-fight-another-day
 category: news
 

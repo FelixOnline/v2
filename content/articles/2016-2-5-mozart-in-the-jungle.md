@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:45:50 +0000"
 id: "5883"
 old_path: /tv/5883/mozart-in-the-jungle
-redirect_from:
+aliases:
  - /tv/5883/mozart-in-the-jungle
 category: tv
 

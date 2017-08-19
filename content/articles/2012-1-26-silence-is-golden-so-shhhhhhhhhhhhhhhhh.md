@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:19:14 +0000"
 id: "2057"
 old_path: /film/2057/silence-is-golden-so-shhhhhhhhhhhhhhhhh
-redirect_from:
+aliases:
  - /film/2057/silence-is-golden-so-shhhhhhhhhhhhhhhhh
 category: film
 

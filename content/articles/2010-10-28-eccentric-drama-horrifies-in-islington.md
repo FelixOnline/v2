@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:15:10 +0100"
 id: "256"
 old_path: /arts/256/eccentric-drama-horrifies-in-islington
-redirect_from:
+aliases:
  - /arts/256/eccentric-drama-horrifies-in-islington
 category: arts
 

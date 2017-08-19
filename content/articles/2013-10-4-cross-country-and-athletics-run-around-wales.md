@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 02:17:57 +0100"
 id: "3811"
 old_path: /sport/3811/cross-country-and-athletics-run-around-wales
-redirect_from:
+aliases:
  - /sport/3811/cross-country-and-athletics-run-around-wales
 category: sport
 

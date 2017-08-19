@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 09:56:51 +0100"
 id: "6330"
 old_path: /news/6330/government-accused-of-barring-foreign-expertise
-redirect_from:
+aliases:
  - /news/6330/government-accused-of-barring-foreign-expertise
 category: news
 

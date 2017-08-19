@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:35:17 +0000"
 id: "537"
 old_path: /comment/537/is-christmas-just-for-christians
-redirect_from:
+aliases:
  - /comment/537/is-christmas-just-for-christians
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:51:19 +0000"
 id: "3186"
 old_path: /science/3186/royal-institution-may-sell-its-mayfair-home
-redirect_from:
+aliases:
  - /science/3186/royal-institution-may-sell-its-mayfair-home
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:19:16 +0000"
 id: "4062"
 old_path: /science/4062/inside-the-collider-a-review-of-the-new-exhibition
-redirect_from:
+aliases:
  - /science/4062/inside-the-collider-a-review-of-the-new-exhibition
 category: science
 

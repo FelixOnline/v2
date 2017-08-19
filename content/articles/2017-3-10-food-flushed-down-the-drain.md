@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:36:17 +0000"
 id: "6870"
 old_path: /science/6870/food-flushed-down-the-drain
-redirect_from:
+aliases:
  - /science/6870/food-flushed-down-the-drain
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:56:00 +0100"
 id: "1400"
 old_path: /music/1400/techno-nonsense-boiler-room
-redirect_from:
+aliases:
  - /music/1400/techno-nonsense-boiler-room
 category: music
 

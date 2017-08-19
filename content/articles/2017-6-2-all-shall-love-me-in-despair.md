@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:51:33 +0100"
 id: "6989"
 old_path: /comment/6989/all-shall-love-me-in-despair
-redirect_from:
+aliases:
  - /comment/6989/all-shall-love-me-in-despair
 category: comment
 

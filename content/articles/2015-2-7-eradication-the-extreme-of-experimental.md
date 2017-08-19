@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:17:15 +0000"
 id: "5207"
 old_path: /arts/5207/eradication-the-extreme-of-experimental
-redirect_from:
+aliases:
  - /arts/5207/eradication-the-extreme-of-experimental
 category: arts
 

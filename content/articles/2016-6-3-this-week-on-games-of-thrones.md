@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:24:14 +0100"
 id: "6239"
 old_path: /tv/6239/this-week-on-games-of-thrones
-redirect_from:
+aliases:
  - /tv/6239/this-week-on-games-of-thrones
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:29:53 +0000"
 id: "5311"
 old_path: /news/5311/jihadi-john-identified-as-westminster-graduate
-redirect_from:
+aliases:
  - /news/5311/jihadi-john-identified-as-westminster-graduate
 category: news
 

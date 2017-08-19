@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:08:32 +0000"
 id: "5870"
 old_path: /science/5870/the-elusive-green-business-model
-redirect_from:
+aliases:
  - /science/5870/the-elusive-green-business-model
 category: science
 

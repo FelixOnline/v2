@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:46:42 +0100"
 id: "5535"
 old_path: /cands/5535/law-society-to-host-careers-fair-on-campus
-redirect_from:
+aliases:
  - /cands/5535/law-society-to-host-careers-fair-on-campus
 category: clubs-and-socs
 

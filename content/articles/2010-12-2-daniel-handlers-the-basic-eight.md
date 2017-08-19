@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:18:46 +0000"
 id: "466"
 old_path: /arts/466/daniel-handlers-the-basic-eight
-redirect_from:
+aliases:
  - /arts/466/daniel-handlers-the-basic-eight
 category: arts
 

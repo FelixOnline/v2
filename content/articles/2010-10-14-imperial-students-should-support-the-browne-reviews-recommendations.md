@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:59:11 +0100"
 id: "217"
 old_path: /comment/217/imperial-students-should-support-the-browne-reviews-recommendations
-redirect_from:
+aliases:
  - /comment/217/imperial-students-should-support-the-browne-reviews-recommendations
 category: comment
 

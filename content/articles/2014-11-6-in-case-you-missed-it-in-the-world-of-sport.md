@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:28:28 +0000"
 id: "4779"
 old_path: /sport/4779/in-case-you-missed-it-in-the-world-of-sport
-redirect_from:
+aliases:
  - /sport/4779/in-case-you-missed-it-in-the-world-of-sport
 category: sport
 

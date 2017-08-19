@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:14:52 +0100"
 id: "5486"
 old_path: /comment/5486/it-doesnt-take-much-effort-to-vote
-redirect_from:
+aliases:
  - /comment/5486/it-doesnt-take-much-effort-to-vote
 category: comment
 

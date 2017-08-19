@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:35:14 +0100"
 id: "1424"
 old_path: /tech/1424/everything-everywhere-a-reality
-redirect_from:
+aliases:
  - /tech/1424/everything-everywhere-a-reality
 category: tech
 

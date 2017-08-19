@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 09:39:00 +0100"
 id: "6339"
 old_path: /news/6339/professor-hawking-visits-imperial
-redirect_from:
+aliases:
  - /news/6339/professor-hawking-visits-imperial
 category: news
 

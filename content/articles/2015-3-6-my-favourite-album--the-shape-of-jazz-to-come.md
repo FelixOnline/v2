@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 13:18:48 +0000"
 id: "5350"
 old_path: /music/5350/my-favourite-album--the-shape-of-jazz-to-come
-redirect_from:
+aliases:
  - /music/5350/my-favourite-album--the-shape-of-jazz-to-come
 category: music
 

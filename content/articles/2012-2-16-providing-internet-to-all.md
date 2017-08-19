@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 20:55:36 +0000"
 id: "2179"
 old_path: /tech/2179/providing-internet-to-all
-redirect_from:
+aliases:
  - /tech/2179/providing-internet-to-all
 category: tech
 

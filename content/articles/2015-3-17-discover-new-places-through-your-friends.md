@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-17 14:38:40 +0000"
 id: "5397"
 old_path: /travel/5397/discover-new-places-through-your-friends
-redirect_from:
+aliases:
  - /travel/5397/discover-new-places-through-your-friends
 category: travel
 

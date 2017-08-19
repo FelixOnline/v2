@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-04 15:07:37 +0000"
 id: "5790"
 old_path: /news/5790/beit-basement-project-deemed-inferior
-redirect_from:
+aliases:
  - /news/5790/beit-basement-project-deemed-inferior
 category: news
 

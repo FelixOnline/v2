@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-08-07 20:04:24 +0100"
 id: "2590"
 old_path: /comment/2590/bar-changes-and-reasons-for-them
-redirect_from:
+aliases:
  - /comment/2590/bar-changes-and-reasons-for-them
 category: comment
 

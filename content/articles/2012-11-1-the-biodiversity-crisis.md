@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:41:54 +0000"
 id: "2789"
 old_path: /science/2789/the-biodiversity-crisis
-redirect_from:
+aliases:
  - /science/2789/the-biodiversity-crisis
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:43:45 +0100"
 id: "4609"
 old_path: /sport/4609/the-verdict-premier-league-2013-14
-redirect_from:
+aliases:
  - /sport/4609/the-verdict-premier-league-2013-14
 category: sport
 

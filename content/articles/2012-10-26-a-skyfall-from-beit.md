@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 01:38:02 +0100"
 id: "2729"
 old_path: /news/2729/a-skyfall-from-beit
-redirect_from:
+aliases:
  - /news/2729/a-skyfall-from-beit
 category: news
 

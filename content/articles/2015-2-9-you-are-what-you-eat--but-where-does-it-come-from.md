@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:30:25 +0000"
 id: "5222"
 old_path: /science/5222/you-are-what-you-eat--but-where-does-it-come-from
-redirect_from:
+aliases:
  - /science/5222/you-are-what-you-eat--but-where-does-it-come-from
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 10:42:20 +0000"
 id: "3977"
 old_path: /comment/3977/an-80km-jaunt-in-wales
-redirect_from:
+aliases:
  - /comment/3977/an-80km-jaunt-in-wales
 category: comment
 

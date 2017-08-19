@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:26:08 +0000"
 id: "5429"
 old_path: /music/5429/jazz-a-revolutionary-chapter-in-music
-redirect_from:
+aliases:
  - /music/5429/jazz-a-revolutionary-chapter-in-music
 category: music
 

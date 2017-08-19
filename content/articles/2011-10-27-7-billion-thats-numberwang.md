@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 22:52:57 +0100"
 id: "1618"
 old_path: /politics/1618/7-billion-thats-numberwang
-redirect_from:
+aliases:
  - /politics/1618/7-billion-thats-numberwang
 category: politics
 

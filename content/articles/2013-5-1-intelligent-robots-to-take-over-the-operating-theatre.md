@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 19:16:37 +0100"
 id: "3520"
 old_path: /science/3520/intelligent-robots-to-take-over-the-operating-theatre-
-redirect_from:
+aliases:
  - /science/3520/intelligent-robots-to-take-over-the-operating-theatre-
 category: science
 

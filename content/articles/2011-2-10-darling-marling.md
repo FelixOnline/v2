@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:22:51 +0000"
 id: "771"
 old_path: /music/771/darling-marling
-redirect_from:
+aliases:
  - /music/771/darling-marling
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:56:03 +0000"
 id: "636"
 old_path: /science/636/young-scientists-symposium-2010-
-redirect_from:
+aliases:
  - /science/636/young-scientists-symposium-2010-
 category: science
 

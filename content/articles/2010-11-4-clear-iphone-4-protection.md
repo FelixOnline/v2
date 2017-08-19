@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:46:48 +0000"
 id: "311"
 old_path: /tech/311/clear-iphone-4-protection
-redirect_from:
+aliases:
  - /tech/311/clear-iphone-4-protection
 category: tech
 

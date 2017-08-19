@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:43:12 +0000"
 id: "4274"
 old_path: /news/4274/imperial-college-nhs-trust-in-consultation-to-become-a-foundation-trust
-redirect_from:
+aliases:
  - /news/4274/imperial-college-nhs-trust-in-consultation-to-become-a-foundation-trust
 category: news
 

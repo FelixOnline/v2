@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:58:32 +0000"
 id: "1018"
 old_path: /music/1018/imagination-is-more-important-than-knowledge-for-it-is-limitless
-redirect_from:
+aliases:
  - /music/1018/imagination-is-more-important-than-knowledge-for-it-is-limitless
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:28:52 +0100"
 id: "2708"
 old_path: /music/2708/kaleidoscopes-of-canada
-redirect_from:
+aliases:
  - /music/2708/kaleidoscopes-of-canada
 category: music
 

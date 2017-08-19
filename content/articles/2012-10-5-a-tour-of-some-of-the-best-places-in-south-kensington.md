@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:47:52 +0100"
 id: "2603"
 old_path: /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
-redirect_from:
+aliases:
  - /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
 category: food
 

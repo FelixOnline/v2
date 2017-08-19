@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 13:59:43 +0000"
 id: "5797"
 old_path: /film/5797/unbranded-charts-a-tale-of-survival-in-the-wilderness
-redirect_from:
+aliases:
  - /film/5797/unbranded-charts-a-tale-of-survival-in-the-wilderness
 category: film
 

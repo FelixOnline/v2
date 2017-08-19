@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:51:26 +0000"
 id: "6797"
 old_path: /food/6797/hit-me-up-homeslice
-redirect_from:
+aliases:
  - /food/6797/hit-me-up-homeslice
 category: food
 

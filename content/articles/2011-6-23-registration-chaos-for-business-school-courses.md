@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:13:08 +0100"
 id: "1412"
 old_path: /news/1412/registration-chaos-for-business-school-courses
-redirect_from:
+aliases:
  - /news/1412/registration-chaos-for-business-school-courses
 category: news
 

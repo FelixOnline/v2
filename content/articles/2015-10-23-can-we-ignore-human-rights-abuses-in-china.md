@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:58:00 +0100"
 id: "5679"
 old_path: /comment/5679/can-we-ignore-human-rights-abuses-in-china
-redirect_from:
+aliases:
  - /comment/5679/can-we-ignore-human-rights-abuses-in-china
 category: comment
 

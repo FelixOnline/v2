@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:50:08 +0100"
 id: "6119"
 old_path: /comment/6119/we-need-to-talk-about-israel
-redirect_from:
+aliases:
  - /comment/6119/we-need-to-talk-about-israel
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 18:41:51 +0000"
 id: "104"
 old_path: /sport/104/clover-power-cant-help-ic-snooker-at-midlands-cup
-redirect_from:
+aliases:
  - /sport/104/clover-power-cant-help-ic-snooker-at-midlands-cup
 category: sport
 

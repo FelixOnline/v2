@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:38:52 +0100"
 id: "5668"
 old_path: /arts/5668/the-hilarious-world-of-ahir-shah
-redirect_from:
+aliases:
  - /arts/5668/the-hilarious-world-of-ahir-shah
 category: arts
 

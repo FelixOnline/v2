@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 12:49:40 +0100"
 id: "6346"
 old_path: /sex/6346/are-you-a-tinder-racist
-redirect_from:
+aliases:
  - /sex/6346/are-you-a-tinder-racist
 category: sex
 

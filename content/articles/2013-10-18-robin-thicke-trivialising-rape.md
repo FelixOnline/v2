@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:43:20 +0100"
 id: "3895"
 old_path: /comment/3895/robin-thicke-trivialising-rape
-redirect_from:
+aliases:
  - /comment/3895/robin-thicke-trivialising-rape
 category: comment
 

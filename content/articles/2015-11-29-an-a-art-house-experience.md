@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:40:49 +0000"
 id: "5782"
 old_path: /film/5782/an-a-art-house-experience
-redirect_from:
+aliases:
  - /film/5782/an-a-art-house-experience
 category: film
 

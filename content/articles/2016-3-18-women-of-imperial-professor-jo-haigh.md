@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:54:03 +0000"
 id: "6064"
 old_path: /science/6064/women-of-imperial-professor-jo-haigh
-redirect_from:
+aliases:
  - /science/6064/women-of-imperial-professor-jo-haigh
 category: science
 

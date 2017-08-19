@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:57:34 +0100"
 id: "7000"
 old_path: /features/7000/an-idiots-guide-to-the-uk-general-election
-redirect_from:
+aliases:
  - /features/7000/an-idiots-guide-to-the-uk-general-election
 category: features
 

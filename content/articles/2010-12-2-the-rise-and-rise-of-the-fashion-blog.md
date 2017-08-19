@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:10:32 +0000"
 id: "460"
 old_path: /fashion/460/the-rise-and-rise-of-the-fashion-blog-
-redirect_from:
+aliases:
  - /fashion/460/the-rise-and-rise-of-the-fashion-blog-
 category: fashion
 

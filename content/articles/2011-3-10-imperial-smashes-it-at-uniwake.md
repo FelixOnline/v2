@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 21:19:48 +0000"
 id: "1083"
 old_path: /sport/1083/imperial-smashes-it-at-uniwake
-redirect_from:
+aliases:
  - /sport/1083/imperial-smashes-it-at-uniwake
 category: sport
 

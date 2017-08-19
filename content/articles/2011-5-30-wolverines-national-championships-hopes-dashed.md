@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-30 13:11:02 +0100"
 id: "1286"
 old_path: /sport/1286/wolverines-national-championships-hopes-dashed-
-redirect_from:
+aliases:
  - /sport/1286/wolverines-national-championships-hopes-dashed-
 category: sport
 

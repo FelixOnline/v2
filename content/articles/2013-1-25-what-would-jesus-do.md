@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:42:19 +0000"
 id: "3183"
 old_path: /comment/3183/what-would-jesus-do
-redirect_from:
+aliases:
  - /comment/3183/what-would-jesus-do
 category: comment
 

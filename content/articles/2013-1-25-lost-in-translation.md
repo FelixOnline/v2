@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 00:52:37 +0000"
 id: "3172"
 old_path: /comment/3172/lost-in-translation
-redirect_from:
+aliases:
  - /comment/3172/lost-in-translation
 category: comment
 

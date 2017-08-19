@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:21:37 +0100"
 id: "2702"
 old_path: /fashion/2702/new-term-new-season-and-a-new-colour-palette-to-match
-redirect_from:
+aliases:
  - /fashion/2702/new-term-new-season-and-a-new-colour-palette-to-match
 category: fashion
 

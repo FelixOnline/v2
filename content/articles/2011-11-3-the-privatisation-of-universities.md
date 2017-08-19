@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:05:41 +0000"
 id: "1661"
 old_path: /politics/1661/the-privatisation-of-universities
-redirect_from:
+aliases:
  - /politics/1661/the-privatisation-of-universities
 category: politics
 

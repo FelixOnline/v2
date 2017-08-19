@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:43:42 +0000"
 id: "1840"
 old_path: /comment/1840/sri-lankas-silent-genocide-
-redirect_from:
+aliases:
  - /comment/1840/sri-lankas-silent-genocide-
 category: comment
 

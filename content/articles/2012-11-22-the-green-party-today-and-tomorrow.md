@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:18:37 +0000"
 id: "2944"
 old_path: /politics/2944/the-green-party-today-and-tomorrow
-redirect_from:
+aliases:
  - /politics/2944/the-green-party-today-and-tomorrow
 category: politics
 

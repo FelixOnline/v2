@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:36:52 +0000"
 id: "5744"
 old_path: /comment/5744/france-must-change
-redirect_from:
+aliases:
  - /comment/5744/france-must-change
 category: comment
 

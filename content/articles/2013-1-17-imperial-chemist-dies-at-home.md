@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:42:34 +0000"
 id: "3117"
 old_path: /news/3117/imperial-chemist-dies-at-home
-redirect_from:
+aliases:
  - /news/3117/imperial-chemist-dies-at-home
 category: news
 

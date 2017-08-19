@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:08:09 +0000"
 id: "4250"
 old_path: /film/4250/every-day-im-hustlin
-redirect_from:
+aliases:
  - /film/4250/every-day-im-hustlin
 category: film
 

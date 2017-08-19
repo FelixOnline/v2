@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-24 11:04:15 +0100"
 id: "1134"
 old_path: /news/1134/40-million-shortfall-in-imperial-nhs-trust-budget
-redirect_from:
+aliases:
  - /news/1134/40-million-shortfall-in-imperial-nhs-trust-budget
 category: news
 

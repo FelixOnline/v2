@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:55:05 +0000"
 id: "4103"
 old_path: /features/4103/the-launch-of-a-challenger-rcsu-prepares-for-the-next-science-challenge
-redirect_from:
+aliases:
  - /features/4103/the-launch-of-a-challenger-rcsu-prepares-for-the-next-science-challenge
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 14:02:29 +0100"
 id: "1644"
 old_path: /food/1644/imperial-food-awards-the-results
-redirect_from:
+aliases:
  - /food/1644/imperial-food-awards-the-results
 category: food
 

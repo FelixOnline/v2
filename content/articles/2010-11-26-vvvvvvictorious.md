@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 14:56:21 +0000"
 id: "454"
 old_path: /games/454/vvvvvvictorious
-redirect_from:
+aliases:
  - /games/454/vvvvvvictorious
 category: games
 

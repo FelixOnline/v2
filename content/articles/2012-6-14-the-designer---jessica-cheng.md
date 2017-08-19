@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:09:20 +0100"
 id: "2558"
 old_path: /phoenix/2558/the-designer---jessica-cheng
-redirect_from:
+aliases:
  - /phoenix/2558/the-designer---jessica-cheng
 category: phoenix
 

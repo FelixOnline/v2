@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-11 18:12:38 +0000"
 id: "4480"
 old_path: /games/4480/the-dino-killing-simulator-johns-verdict
-redirect_from:
+aliases:
  - /games/4480/the-dino-killing-simulator-johns-verdict
 category: games
 

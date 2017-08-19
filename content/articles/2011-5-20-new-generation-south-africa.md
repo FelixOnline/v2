@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:45:45 +0100"
 id: "1226"
 old_path: /arts/1226/new-generation-south-africa
-redirect_from:
+aliases:
  - /arts/1226/new-generation-south-africa
 category: arts
 

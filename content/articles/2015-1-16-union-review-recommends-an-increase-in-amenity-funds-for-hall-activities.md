@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 12:59:54 +0000"
 id: "5092"
 old_path: /news/5092/union-review-recommends-an-increase-in-amenity-funds-for-hall-activities
-redirect_from:
+aliases:
  - /news/5092/union-review-recommends-an-increase-in-amenity-funds-for-hall-activities
 category: news
 

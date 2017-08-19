@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 20:59:38 +0000"
 id: "5237"
 old_path: /news/5237/union-council-condemns-counter-terrorism-bill
-redirect_from:
+aliases:
  - /news/5237/union-council-condemns-counter-terrorism-bill
 category: news
 

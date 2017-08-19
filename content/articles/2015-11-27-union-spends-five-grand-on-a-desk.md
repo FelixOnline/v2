@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 11:52:12 +0000"
 id: "5773"
 old_path: /news/5773/union-spends-five-grand-on-a-desk
-redirect_from:
+aliases:
  - /news/5773/union-spends-five-grand-on-a-desk
 category: news
 

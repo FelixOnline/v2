@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:37:23 +0000"
 id: "3443"
 old_path: /news/3443/queens-first-concert-honoured-in-metric
-redirect_from:
+aliases:
  - /news/3443/queens-first-concert-honoured-in-metric
 category: news
 

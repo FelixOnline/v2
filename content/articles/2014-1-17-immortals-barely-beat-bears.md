@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:41:27 +0000"
 id: "4262"
 old_path: /sport/4262/immortals-barely-beat-bears
-redirect_from:
+aliases:
  - /sport/4262/immortals-barely-beat-bears
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-07-01 02:01:04 +0100"
 id: "148"
 old_path: /sport/148/icurfc-barbarians-hampered-by-hangover
-redirect_from:
+aliases:
  - /sport/148/icurfc-barbarians-hampered-by-hangover
 category: sport
 

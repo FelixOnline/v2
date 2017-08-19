@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:50:16 +0000"
 id: "2292"
 old_path: /comment/2292/its-time-for-a-union-general-meeting
-redirect_from:
+aliases:
  - /comment/2292/its-time-for-a-union-general-meeting
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 23:17:27 +0000"
 id: "3347"
 old_path: /news/3347/anger-over-new-halls
-redirect_from:
+aliases:
  - /news/3347/anger-over-new-halls
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:43:19 +0000"
 id: "5853"
 old_path: /arts/5853/hit--miss-at-knock2bag-comedy
-redirect_from:
+aliases:
  - /arts/5853/hit--miss-at-knock2bag-comedy
 category: arts
 

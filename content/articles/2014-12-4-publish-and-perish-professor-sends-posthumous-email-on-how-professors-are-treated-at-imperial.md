@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 04:05:53 +0000"
 id: "4984"
 old_path: /news/4984/publish-and-perish-professor-sends-posthumous-email-on-how-professors-are-treated-at-imperial
-redirect_from:
+aliases:
  - /news/4984/publish-and-perish-professor-sends-posthumous-email-on-how-professors-are-treated-at-imperial
 category: news
 

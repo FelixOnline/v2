@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 17:02:09 +0100"
 id: "6301"
 old_path: /news/6301/night-tube-dream-finally-a-reality
-redirect_from:
+aliases:
  - /news/6301/night-tube-dream-finally-a-reality
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:43:40 +0000"
 id: "5860"
 old_path: /news/5860/rag-mag-accused-of-harassment-and-bullying
-redirect_from:
+aliases:
  - /news/5860/rag-mag-accused-of-harassment-and-bullying
 category: news
 

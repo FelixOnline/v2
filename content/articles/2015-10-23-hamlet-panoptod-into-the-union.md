@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:46:29 +0100"
 id: "5672"
 old_path: /arts/5672/hamlet-panoptod-into-the-union
-redirect_from:
+aliases:
  - /arts/5672/hamlet-panoptod-into-the-union
 category: arts
 

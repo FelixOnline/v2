@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 16:10:44 +0100"
 id: "1367"
 old_path: /food/1367/are-you-madd
-redirect_from:
+aliases:
  - /food/1367/are-you-madd
 category: food
 

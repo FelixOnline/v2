@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:54:16 +0100"
 id: "3685"
 old_path: /tech/3685/apple-drops-cat-names-with-os-x-mavericks
-redirect_from:
+aliases:
  - /tech/3685/apple-drops-cat-names-with-os-x-mavericks
 category: tech
 

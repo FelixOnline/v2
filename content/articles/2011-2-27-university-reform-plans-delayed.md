@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:00:55 +0000"
 id: "897"
 old_path: /news/897/university-reform-plans-delayed
-redirect_from:
+aliases:
  - /news/897/university-reform-plans-delayed
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:08:49 +0000"
 id: "5096"
 old_path: /news/5096/medics-laughing-all-the-way-to-the-food-bank
-redirect_from:
+aliases:
  - /news/5096/medics-laughing-all-the-way-to-the-food-bank
 category: news
 

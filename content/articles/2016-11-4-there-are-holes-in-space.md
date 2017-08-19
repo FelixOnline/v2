@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 12:53:24 +0000"
 id: "6382"
 old_path: /science/6382/there-are-holes-in-space
-redirect_from:
+aliases:
  - /science/6382/there-are-holes-in-space
 category: science
 

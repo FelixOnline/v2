@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:46:00 +0000"
 id: "754"
 old_path: /tv/754/our-hbo-fest-continues
-redirect_from:
+aliases:
  - /tv/754/our-hbo-fest-continues
 category: tv
 

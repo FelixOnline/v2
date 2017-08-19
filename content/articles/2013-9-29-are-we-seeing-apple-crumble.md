@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:36:05 +0100"
 id: "3793"
 old_path: /tech/3793/are-we-seeing-apple-crumble
-redirect_from:
+aliases:
  - /tech/3793/are-we-seeing-apple-crumble
 category: tech
 

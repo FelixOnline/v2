@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 23:10:36 +0100"
 id: "1578"
 old_path: /comment/1578/when-equality-is-unfair
-redirect_from:
+aliases:
  - /comment/1578/when-equality-is-unfair
 category: comment
 

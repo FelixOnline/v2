@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:18:32 +0100"
 id: "237"
 old_path: /film/237/a-return-to-form-for-icu-cinema-
-redirect_from:
+aliases:
  - /film/237/a-return-to-form-for-icu-cinema-
 category: film
 

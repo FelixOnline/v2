@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 18:56:20 +0000"
 id: "4990"
 old_path: /welfare/4990/a-personal-look-at-psychological-abuse
-redirect_from:
+aliases:
  - /welfare/4990/a-personal-look-at-psychological-abuse
 category: welfare
 

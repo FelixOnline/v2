@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-08 11:46:29 +0100"
 id: "3819"
 old_path: /food/3819/farmers-food-at-the-doorstep
-redirect_from:
+aliases:
  - /food/3819/farmers-food-at-the-doorstep
 category: food
 

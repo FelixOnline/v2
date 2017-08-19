@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:43:00 +0000"
 id: "5747"
 old_path: /comment/5747/the-modern-way-of-dealing-with-crises-
-redirect_from:
+aliases:
  - /comment/5747/the-modern-way-of-dealing-with-crises-
 category: comment
 

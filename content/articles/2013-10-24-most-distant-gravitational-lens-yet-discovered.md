@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:51:55 +0100"
 id: "3915"
 old_path: /science/3915/most-distant-gravitational-lens-yet-discovered
-redirect_from:
+aliases:
  - /science/3915/most-distant-gravitational-lens-yet-discovered
 category: science
 

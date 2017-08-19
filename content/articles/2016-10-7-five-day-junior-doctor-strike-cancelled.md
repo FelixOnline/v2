@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-07 16:55:52 +0100"
 id: "6311"
 old_path: /news/6311/five-day-junior-doctor-strike-cancelled
-redirect_from:
+aliases:
  - /news/6311/five-day-junior-doctor-strike-cancelled
 category: news
 

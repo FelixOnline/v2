@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:25:51 +0000"
 id: "3177"
 old_path: /news/3177/the-brian-cox-effect
-redirect_from:
+aliases:
  - /news/3177/the-brian-cox-effect
 category: news
 

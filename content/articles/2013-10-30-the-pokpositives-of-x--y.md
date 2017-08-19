@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 15:49:05 +0000"
 id: "3959"
 old_path: /games/3959/the-pokpositives-of-x--y
-redirect_from:
+aliases:
  - /games/3959/the-pokpositives-of-x--y
 category: games
 

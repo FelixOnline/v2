@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:51:36 +0000"
 id: "3096"
 old_path: /music/3096/return-of-the-duke
-redirect_from:
+aliases:
  - /music/3096/return-of-the-duke
 category: music
 

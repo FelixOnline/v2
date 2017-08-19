@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-07 08:14:36 +0100"
 id: "7005"
 old_path: /arts/7005/feverish-progress--giacometti-at-the-tate-modern-is-comprehensive-retrospective-on-a-man-with-man
-redirect_from:
+aliases:
  - /arts/7005/feverish-progress--giacometti-at-the-tate-modern-is-comprehensive-retrospective-on-a-man-with-man
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-07 19:37:17 +0100"
 id: "3544"
 old_path: /travel/3544/making-a-splash-in-mexico
-redirect_from:
+aliases:
  - /travel/3544/making-a-splash-in-mexico
 category: travel
 

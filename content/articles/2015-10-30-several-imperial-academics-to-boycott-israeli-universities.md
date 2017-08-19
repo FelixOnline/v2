@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 12:26:54 +0000"
 id: "5681"
 old_path: /news/5681/several-imperial-academics-to-boycott-israeli-universities
-redirect_from:
+aliases:
  - /news/5681/several-imperial-academics-to-boycott-israeli-universities
 category: news
 

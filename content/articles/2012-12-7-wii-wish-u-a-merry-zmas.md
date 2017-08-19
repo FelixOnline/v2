@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:39:14 +0000"
 id: "3052"
 old_path: /games/3052/wii-wish-u-a-merry-zmas
-redirect_from:
+aliases:
  - /games/3052/wii-wish-u-a-merry-zmas
 category: games
 

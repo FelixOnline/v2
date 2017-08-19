@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 23:57:26 +0100"
 id: "3874"
 old_path: /features/3874/hardcore-pawn-ic-chess-takes-the-americas-by-storm-
-redirect_from:
+aliases:
  - /features/3874/hardcore-pawn-ic-chess-takes-the-americas-by-storm-
 category: features
 

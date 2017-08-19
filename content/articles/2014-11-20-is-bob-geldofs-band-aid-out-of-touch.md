@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:23:23 +0000"
 id: "4915"
 old_path: /comment/4915/is-bob-geldofs-band-aid-out-of-touch
-redirect_from:
+aliases:
  - /comment/4915/is-bob-geldofs-band-aid-out-of-touch
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-08 00:02:40 +0000"
 id: "3452"
 old_path: /film/3452/rising-star-andrea-riseborough
-redirect_from:
+aliases:
  - /film/3452/rising-star-andrea-riseborough
 category: film
 

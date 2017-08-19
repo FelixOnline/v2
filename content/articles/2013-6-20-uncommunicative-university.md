@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:49:50 +0100"
 id: "3728"
 old_path: /news/3728/uncommunicative-university
-redirect_from:
+aliases:
  - /news/3728/uncommunicative-university
 category: news
 

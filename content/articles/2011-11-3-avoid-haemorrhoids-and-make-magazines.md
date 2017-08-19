@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:18:44 +0000"
 id: "1685"
 old_path: /comment/1685/avoid-haemorrhoids-and-make-magazines
-redirect_from:
+aliases:
  - /comment/1685/avoid-haemorrhoids-and-make-magazines
 category: comment
 

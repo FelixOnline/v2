@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:55:16 +0000"
 id: "1078"
 old_path: /food/1078/foodcycle-save-food-save-us
-redirect_from:
+aliases:
  - /food/1078/foodcycle-save-food-save-us
 category: food
 

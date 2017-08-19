@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:09:33 +0000"
 id: "5025"
 old_path: /comment/5025/the-economics-column-government-taxation-under-the-microscope
-redirect_from:
+aliases:
  - /comment/5025/the-economics-column-government-taxation-under-the-microscope
 category: comment
 

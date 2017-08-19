@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:57:07 +0100"
 id: "3861"
 old_path: /food/3861/prime-meat-soc-meet
-redirect_from:
+aliases:
  - /food/3861/prime-meat-soc-meet
 category: food
 

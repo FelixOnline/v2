@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:06:39 +0000"
 id: "6770"
 old_path: /games/6770/left-or-right
-redirect_from:
+aliases:
  - /games/6770/left-or-right
 category: games
 

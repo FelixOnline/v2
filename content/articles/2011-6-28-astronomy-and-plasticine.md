@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:08:05 +0100"
 id: "1439"
 old_path: /music/1439/astronomy-and-plasticine
-redirect_from:
+aliases:
  - /music/1439/astronomy-and-plasticine
 category: music
 

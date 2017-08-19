@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:34:02 +0000"
 id: "5223"
 old_path: /science/5223/all-nighters-might-not-be-such-a-good-idea
-redirect_from:
+aliases:
  - /science/5223/all-nighters-might-not-be-such-a-good-idea
 category: science
 

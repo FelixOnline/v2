@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:42:52 +0000"
 id: "3214"
 old_path: /comment/3214/how-to-look-good-dead
-redirect_from:
+aliases:
  - /comment/3214/how-to-look-good-dead
 category: comment
 

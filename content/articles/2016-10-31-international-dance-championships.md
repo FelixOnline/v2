@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 22:18:24 +0000"
 id: "6369"
 old_path: /culture/6369/international-dance-championships
-redirect_from:
+aliases:
  - /culture/6369/international-dance-championships
 category: culture
 

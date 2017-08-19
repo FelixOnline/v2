@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:03:32 +0100"
 id: "6231"
 old_path: /comment/6231/can-we-stop-talking-over-women
-redirect_from:
+aliases:
  - /comment/6231/can-we-stop-talking-over-women
 category: comment
 

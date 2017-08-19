@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:23:41 +0000"
 id: "2916"
 old_path: /sport/2916/fencing-avoid-the-fake-tan
-redirect_from:
+aliases:
  - /sport/2916/fencing-avoid-the-fake-tan
 category: sport
 

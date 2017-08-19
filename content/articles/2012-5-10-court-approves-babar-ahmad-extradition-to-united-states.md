@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 18:55:36 +0100"
 id: "2429"
 old_path: /news/2429/court-approves-babar-ahmad-extradition-to-united-states
-redirect_from:
+aliases:
  - /news/2429/court-approves-babar-ahmad-extradition-to-united-states
 category: news
 

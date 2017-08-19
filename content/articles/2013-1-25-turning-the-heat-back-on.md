@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:49:39 +0000"
 id: "3185"
 old_path: /science/3185/turning-the-heat-back-on
-redirect_from:
+aliases:
  - /science/3185/turning-the-heat-back-on
 category: science
 

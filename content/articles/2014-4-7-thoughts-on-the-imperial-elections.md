@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 13:02:11 +0100"
 id: "4529"
 old_path: /comment/4529/thoughts-on-the-imperial-elections
-redirect_from:
+aliases:
  - /comment/4529/thoughts-on-the-imperial-elections
 category: comment
 

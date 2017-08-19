@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:19:51 +0100"
 id: "258"
 old_path: /games/258/felixs-guide-to-surviving-the-zombie-apocalypse-
-redirect_from:
+aliases:
  - /games/258/felixs-guide-to-surviving-the-zombie-apocalypse-
 category: games
 

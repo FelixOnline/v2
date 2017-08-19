@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:56:30 +0100"
 id: "1314"
 old_path: /music/1314/boned-at-metric
-redirect_from:
+aliases:
  - /music/1314/boned-at-metric
 category: music
 

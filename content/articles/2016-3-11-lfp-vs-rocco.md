@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:08:20 +0000"
 id: "6045"
 old_path: /food/6045/lfp-vs-rocco
-redirect_from:
+aliases:
  - /food/6045/lfp-vs-rocco
 category: food
 

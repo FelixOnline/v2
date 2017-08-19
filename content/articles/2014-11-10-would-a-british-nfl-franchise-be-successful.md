@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:58:35 +0000"
 id: "4833"
 old_path: /sport/4833/would-a-british-nfl-franchise-be-successful
-redirect_from:
+aliases:
  - /sport/4833/would-a-british-nfl-franchise-be-successful
 category: sport
 

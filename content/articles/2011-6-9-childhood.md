@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 18:49:04 +0100"
 id: "1334"
 old_path: /phoenix/1334/childhood
-redirect_from:
+aliases:
  - /phoenix/1334/childhood
 category: phoenix
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:02:00 +0000"
 id: "3467"
 old_path: /science/3467/resistance-on-the-rise
-redirect_from:
+aliases:
  - /science/3467/resistance-on-the-rise
 category: science
 

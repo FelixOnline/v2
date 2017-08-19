@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 12:14:48 +0100"
 id: "3525"
 old_path: /sport/3525/cycling-through-the-pain
-redirect_from:
+aliases:
  - /sport/3525/cycling-through-the-pain
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 13:57:11 +0100"
 id: "1275"
 old_path: /food/1275/cheap-chicken
-redirect_from:
+aliases:
  - /food/1275/cheap-chicken
 category: food
 

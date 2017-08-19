@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:24:37 +0000"
 id: "5393"
 old_path: /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
-redirect_from:
+aliases:
  - /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
 category: news
 

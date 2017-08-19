@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:07:29 +0100"
 id: "2457"
 old_path: /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
-redirect_from:
+aliases:
  - /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
 category: news
 

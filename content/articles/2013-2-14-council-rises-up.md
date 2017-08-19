@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:16:55 +0000"
 id: "3334"
 old_path: /comment/3334/council-rises-up
-redirect_from:
+aliases:
  - /comment/3334/council-rises-up
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:21:55 +0100"
 id: "3731"
 old_path: /film/3731/fit-cavill-in-tights
-redirect_from:
+aliases:
  - /film/3731/fit-cavill-in-tights
 category: film
 

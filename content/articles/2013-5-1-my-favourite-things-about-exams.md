@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 17:54:15 +0100"
 id: "3516"
 old_path: /comment/3516/my-favourite-things-about-exams
-redirect_from:
+aliases:
  - /comment/3516/my-favourite-things-about-exams
 category: comment
 

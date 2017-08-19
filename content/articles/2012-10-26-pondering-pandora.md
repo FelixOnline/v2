@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:42:25 +0100"
 id: "2753"
 old_path: /games/2753/pondering-pandora-
-redirect_from:
+aliases:
  - /games/2753/pondering-pandora-
 category: games
 

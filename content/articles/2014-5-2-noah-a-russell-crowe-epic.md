@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:17:36 +0100"
 id: "4545"
 old_path: /film/4545/noah-a-russell-crowe-epic
-redirect_from:
+aliases:
  - /film/4545/noah-a-russell-crowe-epic
 category: film
 

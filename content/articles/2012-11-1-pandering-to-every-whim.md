@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:54:06 +0000"
 id: "2799"
 old_path: /games/2799/pandering-to-every-whim-
-redirect_from:
+aliases:
  - /games/2799/pandering-to-every-whim-
 category: games
 

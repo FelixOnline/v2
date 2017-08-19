@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 17:10:45 +0000"
 id: "556"
 old_path: /arts/556/fela-leave-your-shy-outside-
-redirect_from:
+aliases:
  - /arts/556/fela-leave-your-shy-outside-
 category: arts
 

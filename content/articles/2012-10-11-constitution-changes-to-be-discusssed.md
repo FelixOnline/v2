@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:23:05 +0100"
 id: "2641"
 old_path: /news/2641/constitution-changes-to-be-discusssed
-redirect_from:
+aliases:
  - /news/2641/constitution-changes-to-be-discusssed
 category: news
 

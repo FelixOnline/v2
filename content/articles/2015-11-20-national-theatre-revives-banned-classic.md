@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:37:35 +0000"
 id: "5759"
 old_path: /arts/5759/national-theatre-revives-banned-classic
-redirect_from:
+aliases:
  - /arts/5759/national-theatre-revives-banned-classic
 category: arts
 

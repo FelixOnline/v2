@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:03:59 +0100"
 id: "7015"
 old_path: /science/7015/bionic-skin-could-give-robots-the-sense-of-touch
-redirect_from:
+aliases:
  - /science/7015/bionic-skin-could-give-robots-the-sense-of-touch
 category: science
 

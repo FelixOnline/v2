@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 17:07:02 +0000"
 id: "4217"
 old_path: /games/4217/virtual-reality
-redirect_from:
+aliases:
  - /games/4217/virtual-reality
 category: games
 

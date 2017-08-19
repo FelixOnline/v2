@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:55:56 +0000"
 id: "512"
 old_path: /food/512/no-missiles-at-assa
-redirect_from:
+aliases:
  - /food/512/no-missiles-at-assa
 category: food
 

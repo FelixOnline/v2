@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:33:07 +0000"
 id: "5342"
 old_path: /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
-redirect_from:
+aliases:
  - /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
 category: comment
 

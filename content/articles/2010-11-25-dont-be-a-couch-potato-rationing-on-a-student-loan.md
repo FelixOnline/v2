@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:39:06 +0000"
 id: "433"
 old_path: /food/433/dont-be-a-couch-potato-rationing-on-a-student-loan
-redirect_from:
+aliases:
  - /food/433/dont-be-a-couch-potato-rationing-on-a-student-loan
 category: food
 

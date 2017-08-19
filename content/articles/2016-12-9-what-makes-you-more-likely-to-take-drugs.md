@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 16:15:55 +0000"
 id: "6592"
 old_path: /millennials/6592/what-makes-you-more-likely-to-take-drugs
-redirect_from:
+aliases:
  - /millennials/6592/what-makes-you-more-likely-to-take-drugs
 category: millennials
 

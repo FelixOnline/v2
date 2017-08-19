@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:34:19 +0000"
 id: "6694"
 old_path: /science/6694/choosing-mates-using-logic
-redirect_from:
+aliases:
  - /science/6694/choosing-mates-using-logic
 category: science
 

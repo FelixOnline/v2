@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 12:57:52 +0100"
 id: "3654"
 old_path: /games/3654/an-otherworldly-tutor-
-redirect_from:
+aliases:
  - /games/3654/an-otherworldly-tutor-
 category: games
 

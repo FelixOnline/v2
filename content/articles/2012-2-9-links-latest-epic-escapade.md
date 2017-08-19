@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:44:40 +0000"
 id: "2160"
 old_path: /games/2160/links-latest-epic-escapade
-redirect_from:
+aliases:
  - /games/2160/links-latest-epic-escapade
 category: games
 

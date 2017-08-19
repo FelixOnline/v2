@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:28:34 +0000"
 id: "2030"
 old_path: /arts/2030/in-the-tweet-of-the-moment
-redirect_from:
+aliases:
  - /arts/2030/in-the-tweet-of-the-moment
 category: arts
 

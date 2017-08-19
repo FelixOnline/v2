@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:13:59 +0000"
 id: "2855"
 old_path: /arts/2855/fusion-achieved-at-last-in-huxley
-redirect_from:
+aliases:
  - /arts/2855/fusion-achieved-at-last-in-huxley
 category: arts
 

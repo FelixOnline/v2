@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:13:37 +0000"
 id: "3223"
 old_path: /arts/3223/privates-on-parade--a-review
-redirect_from:
+aliases:
  - /arts/3223/privates-on-parade--a-review
 category: arts
 

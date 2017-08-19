@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:32:28 +0000"
 id: "3990"
 old_path: /arts/3990/london-undergrounds-greatest-poster-designs
-redirect_from:
+aliases:
  - /arts/3990/london-undergrounds-greatest-poster-designs
 category: arts
 

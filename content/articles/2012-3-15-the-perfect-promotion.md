@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 22:13:31 +0000"
 id: "2395"
 old_path: /sport/2395/the-perfect-promotion
-redirect_from:
+aliases:
  - /sport/2395/the-perfect-promotion
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:06:25 +0000"
 id: "879"
 old_path: /politics/879/why-i-still-agree-with-nick
-redirect_from:
+aliases:
  - /politics/879/why-i-still-agree-with-nick
 category: politics
 

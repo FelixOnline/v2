@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-16 19:34:17 +0100"
 id: "1132"
 old_path: /sport/1132/medics-netball-win-bucs-final-with-uh-final-around-the-corner
-redirect_from:
+aliases:
  - /sport/1132/medics-netball-win-bucs-final-with-uh-final-around-the-corner
 category: sport
 

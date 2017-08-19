@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 20:04:04 +0000"
 id: "3315"
 old_path: /science/3315/electricity-and-bubbles
-redirect_from:
+aliases:
  - /science/3315/electricity-and-bubbles
 category: science
 

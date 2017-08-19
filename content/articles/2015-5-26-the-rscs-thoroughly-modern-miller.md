@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 12:47:27 +0100"
 id: "5562"
 old_path: /arts/5562/the-rscs-thoroughly-modern-miller
-redirect_from:
+aliases:
  - /arts/5562/the-rscs-thoroughly-modern-miller
 category: arts
 

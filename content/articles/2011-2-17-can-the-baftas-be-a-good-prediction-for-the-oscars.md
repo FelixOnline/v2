@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:27:58 +0000"
 id: "817"
 old_path: /film/817/can-the-baftas-be-a-good-prediction-for-the-oscars
-redirect_from:
+aliases:
  - /film/817/can-the-baftas-be-a-good-prediction-for-the-oscars
 category: film
 

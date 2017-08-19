@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-26 13:10:35 +0000"
 id: "5680"
 old_path: /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
-redirect_from:
+aliases:
  - /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:43:28 +0000"
 id: "4263"
 old_path: /sport/4263/ic-fencing-win-in-oxford
-redirect_from:
+aliases:
  - /sport/4263/ic-fencing-win-in-oxford
 category: sport
 

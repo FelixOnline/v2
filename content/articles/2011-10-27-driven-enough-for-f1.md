@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 23:39:41 +0100"
 id: "1622"
 old_path: /news/1622/driven-enough-for-f1
-redirect_from:
+aliases:
  - /news/1622/driven-enough-for-f1
 category: news
 

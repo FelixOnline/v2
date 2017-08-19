@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:46:44 +0000"
 id: "5835"
 old_path: /news/5835/lse-students-start-free-speech-society
-redirect_from:
+aliases:
  - /news/5835/lse-students-start-free-speech-society
 category: news
 

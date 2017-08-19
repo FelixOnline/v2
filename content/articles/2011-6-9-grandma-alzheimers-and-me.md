@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:34:52 +0100"
 id: "1352"
 old_path: /science/1352/grandma-alzheimers-and-me
-redirect_from:
+aliases:
  - /science/1352/grandma-alzheimers-and-me
 category: science
 

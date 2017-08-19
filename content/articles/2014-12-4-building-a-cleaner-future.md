@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 18:49:47 +0000"
 id: "4989"
 old_path: /cands/4989/building-a-cleaner-future
-redirect_from:
+aliases:
  - /cands/4989/building-a-cleaner-future
 category: clubs-and-socs
 

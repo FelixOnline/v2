@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:00:29 +0100"
 id: "2762"
 old_path: /sport/2762/freshers-get-wet-in-cambridge
-redirect_from:
+aliases:
  - /sport/2762/freshers-get-wet-in-cambridge
 category: sport
 

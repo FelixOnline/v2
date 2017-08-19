@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:52:18 +0000"
 id: "4323"
 old_path: /comment/4323/on-trains-and-privatisation
-redirect_from:
+aliases:
  - /comment/4323/on-trains-and-privatisation
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:43:09 +0100"
 id: "2754"
 old_path: /games/2754/i-left-my-will-to-live-in-san-francisco
-redirect_from:
+aliases:
  - /games/2754/i-left-my-will-to-live-in-san-francisco
 category: games
 

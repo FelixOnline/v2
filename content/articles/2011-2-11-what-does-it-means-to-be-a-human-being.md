@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-11 06:22:51 +0000"
 id: "799"
 old_path: /film/799/what-does-it-means-to-be-a-human-being
-redirect_from:
+aliases:
  - /film/799/what-does-it-means-to-be-a-human-being
 category: film
 

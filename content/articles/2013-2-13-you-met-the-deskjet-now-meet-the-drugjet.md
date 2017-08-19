@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 20:09:00 +0000"
 id: "3316"
 old_path: /science/3316/you-met-the-deskjet-now-meet-the-drugjet
-redirect_from:
+aliases:
  - /science/3316/you-met-the-deskjet-now-meet-the-drugjet
 category: science
 

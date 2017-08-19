@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:33:38 +0100"
 id: "209"
 old_path: /biz/209/two-miners-rumble-in-the-congo-
-redirect_from:
+aliases:
  - /biz/209/two-miners-rumble-in-the-congo-
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 15:29:59 +0100"
 id: "3780"
 old_path: /tv/3780/the-body-count-keeps-going-up-and-up
-redirect_from:
+aliases:
  - /tv/3780/the-body-count-keeps-going-up-and-up
 category: tv
 

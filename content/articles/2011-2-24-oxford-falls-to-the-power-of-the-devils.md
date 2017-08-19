@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:20:30 +0000"
 id: "887"
 old_path: /sport/887/oxford-falls-to-the-power-of-the-devils
-redirect_from:
+aliases:
  - /sport/887/oxford-falls-to-the-power-of-the-devils
 category: sport
 

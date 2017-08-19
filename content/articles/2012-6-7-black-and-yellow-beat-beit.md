@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:23:40 +0100"
 id: "2531"
 old_path: /sport/2531/black-and-yellow-beat-beit
-redirect_from:
+aliases:
  - /sport/2531/black-and-yellow-beat-beit
 category: sport
 

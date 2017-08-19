@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-11 17:29:56 +0100"
 id: "1359"
 old_path: /comment/1359/embrace-your-mediocrity
-redirect_from:
+aliases:
  - /comment/1359/embrace-your-mediocrity
 category: comment
 

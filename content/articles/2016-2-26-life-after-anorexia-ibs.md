@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:02:52 +0000"
 id: "5982"
 old_path: /welfare/5982/life-after-anorexia-ibs
-redirect_from:
+aliases:
  - /welfare/5982/life-after-anorexia-ibs
 category: welfare
 

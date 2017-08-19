@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:51:35 +0000"
 id: "3480"
 old_path: /fashion/3480/autumn-week-1314-highlights
-redirect_from:
+aliases:
  - /fashion/3480/autumn-week-1314-highlights
 category: fashion
 

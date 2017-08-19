@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:47:23 +0000"
 id: "6890"
 old_path: /sport/6890/try-as-you-might-you-cannot-beat-em
-redirect_from:
+aliases:
  - /sport/6890/try-as-you-might-you-cannot-beat-em
 category: sport
 

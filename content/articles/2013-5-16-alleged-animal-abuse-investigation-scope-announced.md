@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 20:47:44 +0100"
 id: "3593"
 old_path: /news/3593/alleged-animal-abuse-investigation-scope-announced
-redirect_from:
+aliases:
  - /news/3593/alleged-animal-abuse-investigation-scope-announced
 category: news
 

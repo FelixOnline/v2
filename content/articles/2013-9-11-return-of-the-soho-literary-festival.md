@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-11 10:55:14 +0100"
 id: "3759"
 old_path: /books/3759/return-of-the-soho-literary-festival
-redirect_from:
+aliases:
  - /books/3759/return-of-the-soho-literary-festival
 category: books
 

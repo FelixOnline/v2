@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:30:55 +0100"
 id: "3791"
 old_path: /sport/3791/tour-de-football-poland-edition
-redirect_from:
+aliases:
  - /sport/3791/tour-de-football-poland-edition
 category: sport
 

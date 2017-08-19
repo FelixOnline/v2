@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 22:20:43 +0000"
 id: "2332"
 old_path: /games/2332/the-impact-of-immaturity
-redirect_from:
+aliases:
  - /games/2332/the-impact-of-immaturity
 category: games
 

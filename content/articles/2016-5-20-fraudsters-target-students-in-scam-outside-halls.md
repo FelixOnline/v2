@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:49:23 +0100"
 id: "6174"
 old_path: /news/6174/fraudsters-target-students-in-scam-outside-halls
-redirect_from:
+aliases:
  - /news/6174/fraudsters-target-students-in-scam-outside-halls
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 16:16:21 +0100"
 id: "7023"
 old_path: /sex/7023/how-to-dump-someone-you-met-in-metric-and-subsequently-fell-in-love-with
-redirect_from:
+aliases:
  - /sex/7023/how-to-dump-someone-you-met-in-metric-and-subsequently-fell-in-love-with
 category: sex
 

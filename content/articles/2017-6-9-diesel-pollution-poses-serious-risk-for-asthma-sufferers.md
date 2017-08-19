@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:00:32 +0100"
 id: "7013"
 old_path: /science/7013/diesel-pollution-poses-serious-risk-for-asthma-sufferers
-redirect_from:
+aliases:
  - /science/7013/diesel-pollution-poses-serious-risk-for-asthma-sufferers
 category: science
 

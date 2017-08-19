@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:39:37 +0000"
 id: "4270"
 old_path: /news/4270/imperial-debating-comes-in-top-16-at-the-world-university-debating-championships
-redirect_from:
+aliases:
  - /news/4270/imperial-debating-comes-in-top-16-at-the-world-university-debating-championships
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 18:29:25 +0000"
 id: "4986"
 old_path: /comment/4986/who-is-accountable-for-the-death-of-michael-brown
-redirect_from:
+aliases:
  - /comment/4986/who-is-accountable-for-the-death-of-michael-brown
 category: comment
 

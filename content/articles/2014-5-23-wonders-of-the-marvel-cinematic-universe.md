@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 13:58:28 +0100"
 id: "4622"
 old_path: /film/4622/wonders-of-the-marvel-cinematic-universe
-redirect_from:
+aliases:
  - /film/4622/wonders-of-the-marvel-cinematic-universe
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:21:34 +0100"
 id: "1441"
 old_path: /music/1441/famous-last-words
-redirect_from:
+aliases:
  - /music/1441/famous-last-words
 category: music
 

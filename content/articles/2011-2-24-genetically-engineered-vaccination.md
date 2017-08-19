@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:17:54 +0000"
 id: "885"
 old_path: /science/885/genetically-engineered-vaccination
-redirect_from:
+aliases:
  - /science/885/genetically-engineered-vaccination
 category: science
 

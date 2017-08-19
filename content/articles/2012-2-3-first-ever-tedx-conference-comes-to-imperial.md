@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 00:23:17 +0000"
 id: "2120"
 old_path: /news/2120/first-ever-tedx-conference-comes-to-imperial
-redirect_from:
+aliases:
  - /news/2120/first-ever-tedx-conference-comes-to-imperial
 category: news
 

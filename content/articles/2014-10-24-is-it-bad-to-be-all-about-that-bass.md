@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 13:16:57 +0100"
 id: "4751"
 old_path: /comment/4751/is-it-bad-to-be-all-about-that-bass
-redirect_from:
+aliases:
  - /comment/4751/is-it-bad-to-be-all-about-that-bass
 category: comment
 

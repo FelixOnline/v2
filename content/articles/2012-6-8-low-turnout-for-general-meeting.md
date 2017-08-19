@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-08 08:35:07 +0100"
 id: "2542"
 old_path: /news/2542/low-turnout-for-general-meeting
-redirect_from:
+aliases:
  - /news/2542/low-turnout-for-general-meeting
 category: news
 

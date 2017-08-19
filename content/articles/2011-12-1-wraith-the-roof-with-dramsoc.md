@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:34:03 +0000"
 id: "1872"
 old_path: /arts/1872/wraith-the-roof-with-dramsoc
-redirect_from:
+aliases:
  - /arts/1872/wraith-the-roof-with-dramsoc
 category: arts
 

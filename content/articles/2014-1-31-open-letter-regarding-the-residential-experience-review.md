@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:54:16 +0000"
 id: "4325"
 old_path: /comment/4325/open-letter-regarding-the-residential-experience-review
-redirect_from:
+aliases:
  - /comment/4325/open-letter-regarding-the-residential-experience-review
 category: comment
 

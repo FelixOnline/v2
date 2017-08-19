@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-17 14:40:55 +0000"
 id: "5398"
 old_path: /travel/5398/the-unforgettable-amazing-oaxaca
-redirect_from:
+aliases:
  - /travel/5398/the-unforgettable-amazing-oaxaca
 category: travel
 

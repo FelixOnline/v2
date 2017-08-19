@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 19:53:16 +0000"
 id: "759"
 old_path: /travel/759/its-time-to-get-away
-redirect_from:
+aliases:
  - /travel/759/its-time-to-get-away
 category: travel
 

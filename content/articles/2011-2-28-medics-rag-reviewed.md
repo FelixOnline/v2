@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:15:09 +0000"
 id: "942"
 old_path: /news/942/medics-rag-reviewed
-redirect_from:
+aliases:
  - /news/942/medics-rag-reviewed
 category: news
 

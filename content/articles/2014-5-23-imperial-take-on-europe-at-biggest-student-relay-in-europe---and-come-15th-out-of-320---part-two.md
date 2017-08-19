@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:19:06 +0100"
 id: "4625"
 old_path: /sport/4625/imperial-take-on-europe-at-biggest-student-relay-in-europe---and-come-15th-out-of-320---part-two
-redirect_from:
+aliases:
  - /sport/4625/imperial-take-on-europe-at-biggest-student-relay-in-europe---and-come-15th-out-of-320---part-two
 category: sport
 

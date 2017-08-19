@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:16:27 +0000"
 id: "5035"
 old_path: /tv/5035/tis-the-season-for-stand-up-comedy-dvds
-redirect_from:
+aliases:
  - /tv/5035/tis-the-season-for-stand-up-comedy-dvds
 category: tv
 

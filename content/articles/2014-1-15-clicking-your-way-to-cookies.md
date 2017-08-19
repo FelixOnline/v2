@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:11:06 +0000"
 id: "4208"
 old_path: /games/4208/-clicking-your-way-to-cookies
-redirect_from:
+aliases:
  - /games/4208/-clicking-your-way-to-cookies
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:02:44 +0000"
 id: "2938"
 old_path: /tv/2938/shamazeballs-
-redirect_from:
+aliases:
  - /tv/2938/shamazeballs-
 category: tv
 

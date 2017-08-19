@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:33:47 +0000"
 id: "2153"
 old_path: /games/2153/total-annihilation-totally-annihilates-boredom
-redirect_from:
+aliases:
  - /games/2153/total-annihilation-totally-annihilates-boredom
 category: games
 

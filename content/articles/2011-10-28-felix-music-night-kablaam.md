@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 10:30:22 +0100"
 id: "1637"
 old_path: /music/1637/felix-music-night-kablaam
-redirect_from:
+aliases:
  - /music/1637/felix-music-night-kablaam
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:19:09 +0000"
 id: "2968"
 old_path: /music/2968/an-education-in-guitar
-redirect_from:
+aliases:
  - /music/2968/an-education-in-guitar
 category: music
 

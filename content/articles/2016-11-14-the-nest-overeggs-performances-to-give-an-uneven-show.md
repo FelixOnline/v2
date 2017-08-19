@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:18:00 +0000"
 id: "6447"
 old_path: /arts/6447/the-nest-overeggs-performances-to-give-an-uneven-show
-redirect_from:
+aliases:
  - /arts/6447/the-nest-overeggs-performances-to-give-an-uneven-show
 category: arts
 

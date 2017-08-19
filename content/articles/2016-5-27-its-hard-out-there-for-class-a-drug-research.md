@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:49:56 +0100"
 id: "6207"
 old_path: /science/6207/its-hard-out-there-for-class-a-drug-research-
-redirect_from:
+aliases:
  - /science/6207/its-hard-out-there-for-class-a-drug-research-
 category: science
 

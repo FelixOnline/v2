@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:22:36 +0000"
 id: "1775"
 old_path: /arts/1775/13-unlucky-for-most
-redirect_from:
+aliases:
  - /arts/1775/13-unlucky-for-most
 category: arts
 

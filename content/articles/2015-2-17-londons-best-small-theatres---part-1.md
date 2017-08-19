@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 16:55:18 +0000"
 id: "5268"
 old_path: /arts/5268/londons-best-small-theatres---part-1
-redirect_from:
+aliases:
  - /arts/5268/londons-best-small-theatres---part-1
 category: arts
 

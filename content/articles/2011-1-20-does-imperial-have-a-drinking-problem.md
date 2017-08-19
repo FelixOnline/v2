@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:11:48 +0000"
 id: "643"
 old_path: /news/643/does-imperial-have-a-drinking-problem-
-redirect_from:
+aliases:
  - /news/643/does-imperial-have-a-drinking-problem-
 category: news
 

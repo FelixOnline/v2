@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:08:18 +0000"
 id: "326"
 old_path: /news/326/students-hit-by-visa-changes
-redirect_from:
+aliases:
  - /news/326/students-hit-by-visa-changes
 category: news
 

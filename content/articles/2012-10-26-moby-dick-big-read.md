@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:45:35 +0100"
 id: "2756"
 old_path: /books/2756/moby-dick-big-read
-redirect_from:
+aliases:
  - /books/2756/moby-dick-big-read
 category: books
 

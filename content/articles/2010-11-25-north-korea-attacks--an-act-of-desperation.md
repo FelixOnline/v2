@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:08:53 +0000"
 id: "437"
 old_path: /politics/437/north-korea-attacks--an-act-of-desperation
-redirect_from:
+aliases:
  - /politics/437/north-korea-attacks--an-act-of-desperation
 category: politics
 

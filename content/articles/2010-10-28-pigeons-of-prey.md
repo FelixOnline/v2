@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:46:44 +0100"
 id: "277"
 old_path: /comment/277/pigeons-of-prey-
-redirect_from:
+aliases:
  - /comment/277/pigeons-of-prey-
 category: comment
 

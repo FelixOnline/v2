@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 12:17:51 +0100"
 id: "3527"
 old_path: /sport/3527/discdoctors-scoop-podium-finish-at-nationals
-redirect_from:
+aliases:
  - /sport/3527/discdoctors-scoop-podium-finish-at-nationals
 category: sport
 

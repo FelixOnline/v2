@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:59:51 +0000"
 id: "4040"
 old_path: /film/4040/only-tilda-and-tom-left-alive
-redirect_from:
+aliases:
  - /film/4040/only-tilda-and-tom-left-alive
 category: film
 

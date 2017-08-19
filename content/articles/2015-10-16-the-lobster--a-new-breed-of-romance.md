@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 15:09:17 +0100"
 id: "5661"
 old_path: /film/5661/the-lobster--a-new-breed-of-romance
-redirect_from:
+aliases:
  - /film/5661/the-lobster--a-new-breed-of-romance
 category: film
 

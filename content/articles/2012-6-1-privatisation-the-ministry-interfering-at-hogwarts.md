@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:20:48 +0100"
 id: "2509"
 old_path: /news/2509/privatisation-the-ministry-interfering-at-hogwarts
-redirect_from:
+aliases:
  - /news/2509/privatisation-the-ministry-interfering-at-hogwarts
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:26:08 +0000"
 id: "6670"
 old_path: /music/6670/robs-sad-playlist
-redirect_from:
+aliases:
  - /music/6670/robs-sad-playlist
 category: music
 

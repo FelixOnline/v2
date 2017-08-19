@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:01:53 +0100"
 id: "6275"
 old_path: /features/6275/the-felix-sex-survey-2016
-redirect_from:
+aliases:
  - /features/6275/the-felix-sex-survey-2016
 category: features
 

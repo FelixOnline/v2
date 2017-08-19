@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 12:04:12 +0000"
 id: "1123"
 old_path: /travel/1123/tall-tales-and-the-runs
-redirect_from:
+aliases:
  - /travel/1123/tall-tales-and-the-runs
 category: travel
 

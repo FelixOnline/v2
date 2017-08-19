@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:47:21 +0100"
 id: "1302"
 old_path: /tech/1302/o2-has-best-mobile-broadband-says-ofcom
-redirect_from:
+aliases:
  - /tech/1302/o2-has-best-mobile-broadband-says-ofcom
 category: tech
 

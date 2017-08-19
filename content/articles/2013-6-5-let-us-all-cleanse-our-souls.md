@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 12:28:48 +0100"
 id: "3653"
 old_path: /film/3653/let-us-all-cleanse-our-souls
-redirect_from:
+aliases:
  - /film/3653/let-us-all-cleanse-our-souls
 category: film
 

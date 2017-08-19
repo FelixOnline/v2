@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 18:44:34 +0000"
 id: "4988"
 old_path: /comment/4988/true-caliphate-promotes-peace-not-terror
-redirect_from:
+aliases:
  - /comment/4988/true-caliphate-promotes-peace-not-terror
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:41:13 +0100"
 id: "210"
 old_path: /sport/210/footballers-spread-culture-to-budapest-and-bratislava-
-redirect_from:
+aliases:
  - /sport/210/footballers-spread-culture-to-budapest-and-bratislava-
 category: sport
 

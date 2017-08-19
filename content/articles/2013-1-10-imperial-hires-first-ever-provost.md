@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:12:52 +0000"
 id: "3079"
 old_path: /news/3079/imperial-hires-first-ever-provost
-redirect_from:
+aliases:
  - /news/3079/imperial-hires-first-ever-provost
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:36:32 +0100"
 id: "4653"
 old_path: /news/4653/college-holds-north-acton-consultation-with-students
-redirect_from:
+aliases:
  - /news/4653/college-holds-north-acton-consultation-with-students
 category: news
 

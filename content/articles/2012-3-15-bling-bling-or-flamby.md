@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:49:29 +0000"
 id: "2350"
 old_path: /politics/2350/bling-bling-or-flamby
-redirect_from:
+aliases:
  - /politics/2350/bling-bling-or-flamby
 category: politics
 

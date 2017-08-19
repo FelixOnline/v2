@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-21 20:35:01 +0000"
 id: "5110"
 old_path: /arts/5110/office-politics---a-car-crash-of-a-play
-redirect_from:
+aliases:
  - /arts/5110/office-politics---a-car-crash-of-a-play
 category: arts
 

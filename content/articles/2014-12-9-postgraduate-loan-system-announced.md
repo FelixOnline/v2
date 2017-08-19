@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-09 13:45:25 +0000"
 id: "5016"
 old_path: /news/5016/postgraduate-loan-system-announced
-redirect_from:
+aliases:
  - /news/5016/postgraduate-loan-system-announced
 category: news
 

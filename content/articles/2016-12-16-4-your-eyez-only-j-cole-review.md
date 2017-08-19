@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:58:25 +0000"
 id: "6608"
 old_path: /music/6608/4-your-eyez-only-j-cole-review
-redirect_from:
+aliases:
  - /music/6608/4-your-eyez-only-j-cole-review
 category: music
 

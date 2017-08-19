@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 20:11:46 +0000"
 id: "4950"
 old_path: /sport/4950/imperial-immortals-put-up-a-good-fight-in-their-first-away-game
-redirect_from:
+aliases:
  - /sport/4950/imperial-immortals-put-up-a-good-fight-in-their-first-away-game
 category: sport
 

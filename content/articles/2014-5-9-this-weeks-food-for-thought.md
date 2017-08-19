@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:43:12 +0100"
 id: "4589"
 old_path: /food/4589/this-weeks-food-for-thought
-redirect_from:
+aliases:
  - /food/4589/this-weeks-food-for-thought
 category: food
 

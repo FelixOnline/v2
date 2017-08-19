@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:16:10 +0000"
 id: "6883"
 old_path: /sex/6883/self-love-
-redirect_from:
+aliases:
  - /sex/6883/self-love-
 category: sex
 

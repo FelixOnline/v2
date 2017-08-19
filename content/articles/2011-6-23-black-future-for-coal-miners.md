@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:00:06 +0100"
 id: "1418"
 old_path: /science/1418/black-future-for-coal-miners
-redirect_from:
+aliases:
  - /science/1418/black-future-for-coal-miners
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:58:28 +0100"
 id: "1234"
 old_path: /tech/1234/can-we-simply-ctrls-our-past
-redirect_from:
+aliases:
  - /tech/1234/can-we-simply-ctrls-our-past
 category: tech
 

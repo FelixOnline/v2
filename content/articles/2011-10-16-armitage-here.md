@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 14:42:06 +0100"
 id: "1548"
 old_path: /arts/1548/armitage-here
-redirect_from:
+aliases:
  - /arts/1548/armitage-here
 category: arts
 

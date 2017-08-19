@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 18:43:18 +0000"
 id: "704"
 old_path: /travel/704/finding-tranquility-in-chaos
-redirect_from:
+aliases:
  - /travel/704/finding-tranquility-in-chaos
 category: travel
 

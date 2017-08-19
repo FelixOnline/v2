@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 10:02:06 +0100"
 id: "6331"
 old_path: /millennials/6331/cherry-popping--drugs
-redirect_from:
+aliases:
  - /millennials/6331/cherry-popping--drugs
 category: millennials
 

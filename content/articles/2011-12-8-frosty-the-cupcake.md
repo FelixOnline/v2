@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:50:23 +0000"
 id: "1947"
 old_path: /food/1947/frosty-the-cupcake-
-redirect_from:
+aliases:
  - /food/1947/frosty-the-cupcake-
 category: food
 

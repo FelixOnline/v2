@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:20:12 +0100"
 id: "3954"
 old_path: /sport/3954/synchronised-swimming-is-in
-redirect_from:
+aliases:
  - /sport/3954/synchronised-swimming-is-in
 category: sport
 

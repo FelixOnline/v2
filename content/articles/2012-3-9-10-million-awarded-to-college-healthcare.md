@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-09 01:05:28 +0000"
 id: "2334"
 old_path: /news/2334/10-million-awarded-to-college-healthcare
-redirect_from:
+aliases:
  - /news/2334/10-million-awarded-to-college-healthcare
 category: news
 

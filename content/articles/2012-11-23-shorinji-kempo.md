@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:08:36 +0000"
 id: "2961"
 old_path: /sport/2961/shorinji-kempo
-redirect_from:
+aliases:
  - /sport/2961/shorinji-kempo
 category: sport
 

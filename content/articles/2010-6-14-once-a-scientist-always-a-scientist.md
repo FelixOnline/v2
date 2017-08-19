@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-06-14 10:35:40 +0100"
 id: "144"
 old_path: /music/144/once-a-scientist-always-a-scientist
-redirect_from:
+aliases:
  - /music/144/once-a-scientist-always-a-scientist
 category: music
 

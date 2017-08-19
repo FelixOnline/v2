@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:00:13 +0000"
 id: "2181"
 old_path: /tech/2181/a-new-best-method-for-creating-passwords
-redirect_from:
+aliases:
  - /tech/2181/a-new-best-method-for-creating-passwords
 category: tech
 

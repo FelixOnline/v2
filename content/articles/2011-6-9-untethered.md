@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 20:20:28 +0100"
 id: "1343"
 old_path: /phoenix/1343/untethered
-redirect_from:
+aliases:
  - /phoenix/1343/untethered
 category: phoenix
 

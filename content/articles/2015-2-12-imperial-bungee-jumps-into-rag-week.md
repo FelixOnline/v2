@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 21:36:57 +0000"
 id: "5239"
 old_path: /news/5239/imperial-bungee-jumps-into-rag-week
-redirect_from:
+aliases:
  - /news/5239/imperial-bungee-jumps-into-rag-week
 category: news
 

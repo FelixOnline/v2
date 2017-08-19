@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:11:44 +0100"
 id: "6094"
 old_path: /comment/6094/let-me-and-beyonc-feel-our-feelings
-redirect_from:
+aliases:
  - /comment/6094/let-me-and-beyonc-feel-our-feelings
 category: comment
 

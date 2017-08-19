@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:54:18 +0000"
 id: "6649"
 old_path: /food/6649/breakfast-hong-kong-style
-redirect_from:
+aliases:
  - /food/6649/breakfast-hong-kong-style
 category: food
 

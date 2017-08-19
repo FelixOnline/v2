@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 01:05:24 +0000"
 id: "3239"
 old_path: /film/3239/fdr-gets-some
-redirect_from:
+aliases:
  - /film/3239/fdr-gets-some
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:41:51 +0000"
 id: "4824"
 old_path: /film/4824/creatures-of-the-night
-redirect_from:
+aliases:
  - /film/4824/creatures-of-the-night
 category: film
 

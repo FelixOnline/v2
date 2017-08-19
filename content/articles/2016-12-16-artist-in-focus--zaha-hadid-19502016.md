@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:01:28 +0000"
 id: "6610"
 old_path: /arts/6610/artist-in-focus--zaha-hadid-19502016
-redirect_from:
+aliases:
  - /arts/6610/artist-in-focus--zaha-hadid-19502016
 category: arts
 

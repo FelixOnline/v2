@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:54:28 +0000"
 id: "480"
 old_path: /politics/480/will-you-join-my-miliband-
-redirect_from:
+aliases:
  - /politics/480/will-you-join-my-miliband-
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:20:30 +0000"
 id: "860"
 old_path: /travel/860/the-underrated-sound-of-silence-
-redirect_from:
+aliases:
  - /travel/860/the-underrated-sound-of-silence-
 category: travel
 

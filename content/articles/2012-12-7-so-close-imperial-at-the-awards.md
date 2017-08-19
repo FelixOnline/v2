@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:38:20 +0000"
 id: "3025"
 old_path: /news/3025/so-close-imperial-at-the-awards
-redirect_from:
+aliases:
  - /news/3025/so-close-imperial-at-the-awards
 category: news
 

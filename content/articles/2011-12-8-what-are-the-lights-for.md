@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 22:19:49 +0000"
 id: "1954"
 old_path: /comment/1954/what-are-the-lights-for
-redirect_from:
+aliases:
  - /comment/1954/what-are-the-lights-for
 category: comment
 

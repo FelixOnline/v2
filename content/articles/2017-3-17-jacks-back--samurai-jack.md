@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:04:54 +0000"
 id: "6909"
 old_path: /tv/6909/jacks-back--samurai-jack
-redirect_from:
+aliases:
  - /tv/6909/jacks-back--samurai-jack
 category: tv
 

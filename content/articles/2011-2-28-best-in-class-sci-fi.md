@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:35:32 +0000"
 id: "930"
 old_path: /tv/930/best-in-class-sci-fi
-redirect_from:
+aliases:
  - /tv/930/best-in-class-sci-fi
 category: tv
 

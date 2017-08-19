@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:03:47 +0100"
 id: "2556"
 old_path: /tech/2556/viva-la-digital-revolution
-redirect_from:
+aliases:
  - /tech/2556/viva-la-digital-revolution
 category: tech
 

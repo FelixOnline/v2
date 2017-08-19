@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:39:53 +0100"
 id: "3725"
 old_path: /news/3725/complaints-on-the-rise
-redirect_from:
+aliases:
  - /news/3725/complaints-on-the-rise
 category: news
 

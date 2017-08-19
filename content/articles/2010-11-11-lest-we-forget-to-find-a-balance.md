@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:27:12 +0000"
 id: "334"
 old_path: /travel/334/lest-we-forget-to-find-a-balance-
-redirect_from:
+aliases:
  - /travel/334/lest-we-forget-to-find-a-balance-
 category: travel
 

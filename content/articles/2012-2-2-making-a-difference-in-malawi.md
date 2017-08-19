@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:19:54 +0000"
 id: "2108"
 old_path: /travel/2108/making-a-difference-in-malawi
-redirect_from:
+aliases:
  - /travel/2108/making-a-difference-in-malawi
 category: travel
 

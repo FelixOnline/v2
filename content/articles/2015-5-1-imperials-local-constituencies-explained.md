@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:24:42 +0100"
 id: "5479"
 old_path: /politics/5479/imperials-local-constituencies-explained
-redirect_from:
+aliases:
  - /politics/5479/imperials-local-constituencies-explained
 category: politics
 

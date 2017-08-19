@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 00:09:59 +0000"
 id: "3353"
 old_path: /news/3353/ae-department-closures-announced
-redirect_from:
+aliases:
  - /news/3353/ae-department-closures-announced
 category: news
 

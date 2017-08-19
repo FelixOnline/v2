@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:37:58 +0000"
 id: "6501"
 old_path: /science/6501/chester-the-first-published-felix
-redirect_from:
+aliases:
  - /science/6501/chester-the-first-published-felix
 category: science
 

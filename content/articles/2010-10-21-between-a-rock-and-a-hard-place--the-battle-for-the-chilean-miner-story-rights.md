@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:16:47 +0100"
 id: "236"
 old_path: /film/236/between-a-rock-and-a-hard-place--the-battle-for-the-chilean-miner-story-rights-
-redirect_from:
+aliases:
  - /film/236/between-a-rock-and-a-hard-place--the-battle-for-the-chilean-miner-story-rights-
 category: film
 

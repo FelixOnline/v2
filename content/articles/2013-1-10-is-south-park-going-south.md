@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:57:25 +0000"
 id: "3099"
 old_path: /tv/3099/is-south-park-going-south
-redirect_from:
+aliases:
  - /tv/3099/is-south-park-going-south
 category: tv
 

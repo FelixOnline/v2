@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:16:25 +0000"
 id: "5898"
 old_path: /features/5898/could-imperial-ever-go-on-a-rent-strike
-redirect_from:
+aliases:
  - /features/5898/could-imperial-ever-go-on-a-rent-strike
 category: features
 

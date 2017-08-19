@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:37:32 +0000"
 id: "4940"
 old_path: /books/4940/notes-from-the-underground
-redirect_from:
+aliases:
  - /books/4940/notes-from-the-underground
 category: books
 

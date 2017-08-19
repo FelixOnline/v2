@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:28:02 +0100"
 id: "2678"
 old_path: /sport/2678/ic-rowers-take-on-world-u23s-in-trakai-
-redirect_from:
+aliases:
  - /sport/2678/ic-rowers-take-on-world-u23s-in-trakai-
 category: sport
 

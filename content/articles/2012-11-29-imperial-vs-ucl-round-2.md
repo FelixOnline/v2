@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:54:46 +0000"
 id: "2993"
 old_path: /games/2993/imperial-vs-ucl-round-2-
-redirect_from:
+aliases:
  - /games/2993/imperial-vs-ucl-round-2-
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-03 16:10:41 +0100"
 id: "2521"
 old_path: /food/2521/has-the-time-come-to-accept-insect-cuisine
-redirect_from:
+aliases:
  - /food/2521/has-the-time-come-to-accept-insect-cuisine
 category: food
 

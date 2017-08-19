@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-11 09:18:07 +0100"
 id: "1182"
 old_path: /science/1182/chaotic-cards--dynamic-dice
-redirect_from:
+aliases:
  - /science/1182/chaotic-cards--dynamic-dice
 category: science
 

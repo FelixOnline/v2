@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:25:30 +0000"
 id: "4930"
 old_path: /news/4930/marking-boycott-comes-to-an-end
-redirect_from:
+aliases:
  - /news/4930/marking-boycott-comes-to-an-end
 category: news
 

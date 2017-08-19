@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-31 11:12:22 +0000"
 id: "1646"
 old_path: /comment/1646/imperial-versus-university-applications
-redirect_from:
+aliases:
  - /comment/1646/imperial-versus-university-applications
 category: comment
 

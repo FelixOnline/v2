@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:43:40 +0100"
 id: "5670"
 old_path: /comment/5670/hating-on-graduation-is-hard
-redirect_from:
+aliases:
  - /comment/5670/hating-on-graduation-is-hard
 category: comment
 

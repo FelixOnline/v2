@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:20:34 +0000"
 id: "4064"
 old_path: /science/4064/collisions-unbound-what-is-the-future-for-cern-
-redirect_from:
+aliases:
  - /science/4064/collisions-unbound-what-is-the-future-for-cern-
 category: science
 

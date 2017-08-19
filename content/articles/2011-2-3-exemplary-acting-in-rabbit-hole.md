@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:46:26 +0000"
 id: "725"
 old_path: /film/725/exemplary-acting-in-rabbit-hole
-redirect_from:
+aliases:
  - /film/725/exemplary-acting-in-rabbit-hole
 category: film
 

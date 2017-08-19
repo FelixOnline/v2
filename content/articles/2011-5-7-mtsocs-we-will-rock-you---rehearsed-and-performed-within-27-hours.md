@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-07 16:56:47 +0100"
 id: "1177"
 old_path: /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
-redirect_from:
+aliases:
  - /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
 category: arts
 

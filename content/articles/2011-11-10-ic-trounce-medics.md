@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:31:45 +0000"
 id: "1750"
 old_path: /sport/1750/ic-trounce-medics
-redirect_from:
+aliases:
  - /sport/1750/ic-trounce-medics
 category: sport
 

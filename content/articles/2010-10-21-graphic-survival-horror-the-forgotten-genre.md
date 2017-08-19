@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:33:22 +0100"
 id: "244"
 old_path: /games/244/graphic-survival-horror-the-forgotten-genre-
-redirect_from:
+aliases:
  - /games/244/graphic-survival-horror-the-forgotten-genre-
 category: games
 

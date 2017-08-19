@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:42:55 +0000"
 id: "568"
 old_path: /film/568/happy-new-year-
-redirect_from:
+aliases:
  - /film/568/happy-new-year-
 category: film
 

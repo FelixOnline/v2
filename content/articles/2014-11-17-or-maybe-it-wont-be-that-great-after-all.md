@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-17 18:14:12 +0000"
 id: "4901"
 old_path: /film/4901/or-maybe-it-wont-be-that-great-after-all
-redirect_from:
+aliases:
  - /film/4901/or-maybe-it-wont-be-that-great-after-all
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:20:40 +0000"
 id: "332"
 old_path: /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
-redirect_from:
+aliases:
  - /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
 category: arts
 

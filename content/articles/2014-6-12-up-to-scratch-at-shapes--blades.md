@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 17:56:55 +0100"
 id: "4688"
 old_path: /features/4688/up-to-scratch-at-shapes--blades
-redirect_from:
+aliases:
  - /features/4688/up-to-scratch-at-shapes--blades
 category: features
 

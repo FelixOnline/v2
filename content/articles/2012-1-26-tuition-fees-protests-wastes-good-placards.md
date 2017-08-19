@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:58:23 +0000"
 id: "2072"
 old_path: /comment/2072/tuition-fees-protests-wastes-good-placards
-redirect_from:
+aliases:
  - /comment/2072/tuition-fees-protests-wastes-good-placards
 category: comment
 

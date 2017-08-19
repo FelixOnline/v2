@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 13:32:40 +0100"
 id: "1643"
 old_path: /tv/1643/arrest-yourself-for-not-developing-a-love-for-this-show
-redirect_from:
+aliases:
  - /tv/1643/arrest-yourself-for-not-developing-a-love-for-this-show
 category: tv
 

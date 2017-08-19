@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 21:33:26 +0100"
 id: "4669"
 old_path: /tech/4669/os-x-ios-and-full-frontal-apple
-redirect_from:
+aliases:
  - /tech/4669/os-x-ios-and-full-frontal-apple
 category: tech
 

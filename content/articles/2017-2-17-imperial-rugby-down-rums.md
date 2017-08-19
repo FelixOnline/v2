@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 16:22:13 +0000"
 id: "6802"
 old_path: /sport/6802/imperial-rugby-down-rums
-redirect_from:
+aliases:
  - /sport/6802/imperial-rugby-down-rums
 category: sport
 

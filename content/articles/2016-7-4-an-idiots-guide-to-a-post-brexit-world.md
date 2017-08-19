@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-07-04 09:55:26 +0100"
 id: "6292"
 old_path: /features/6292/an-idiots-guide-to-a-post-brexit-world
-redirect_from:
+aliases:
  - /features/6292/an-idiots-guide-to-a-post-brexit-world
 category: features
 

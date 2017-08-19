@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:00:48 +0000"
 id: "2205"
 old_path: /science/2205/my-body-clock-and-i
-redirect_from:
+aliases:
  - /science/2205/my-body-clock-and-i
 category: science
 

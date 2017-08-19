@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 14:54:11 +0000"
 id: "6657"
 old_path: /news/6657/central-library-to-get-air-con
-redirect_from:
+aliases:
  - /news/6657/central-library-to-get-air-con
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 09:39:41 +0100"
 id: "1479"
 old_path: /science/1479/cells-captured-in-highest-detail
-redirect_from:
+aliases:
  - /science/1479/cells-captured-in-highest-detail
 category: science
 

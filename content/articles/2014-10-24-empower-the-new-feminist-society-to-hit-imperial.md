@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 13:02:01 +0100"
 id: "4750"
 old_path: /news/4750/empower-the-new-feminist-society-to-hit-imperial
-redirect_from:
+aliases:
  - /news/4750/empower-the-new-feminist-society-to-hit-imperial
 category: news
 

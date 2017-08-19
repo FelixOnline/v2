@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:44:08 +0100"
 id: "273"
 old_path: /film/273/felixs-dvd-guide-to-october-31st
-redirect_from:
+aliases:
  - /film/273/felixs-dvd-guide-to-october-31st
 category: film
 

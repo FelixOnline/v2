@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 17:25:00 +0000"
 id: "5368"
 old_path: /comment/5368/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
-redirect_from:
+aliases:
  - /comment/5368/felix-interviews-deputy-president-welfare-candidate-jennifer-watson
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:47:40 +0000"
 id: "5765"
 old_path: /sport/5765/rugby-soas-fail-to-knock-out-ic
-redirect_from:
+aliases:
  - /sport/5765/rugby-soas-fail-to-knock-out-ic
 category: sport
 

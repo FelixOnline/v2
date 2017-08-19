@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:22:56 +0100"
 id: "3674"
 old_path: /sport/3674/icucc-beaten-by-ucl
-redirect_from:
+aliases:
  - /sport/3674/icucc-beaten-by-ucl
 category: sport
 

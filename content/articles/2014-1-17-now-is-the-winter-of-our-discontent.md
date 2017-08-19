@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:34:39 +0000"
 id: "4236"
 old_path: /comment/4236/now-is-the-winter-of-our-discontent
-redirect_from:
+aliases:
  - /comment/4236/now-is-the-winter-of-our-discontent
 category: comment
 

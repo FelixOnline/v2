@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:43:23 +0000"
 id: "584"
 old_path: /travel/584/festive-antics-in-amsterdam-
-redirect_from:
+aliases:
  - /travel/584/festive-antics-in-amsterdam-
 category: travel
 

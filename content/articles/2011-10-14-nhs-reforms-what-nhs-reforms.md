@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:20:56 +0100"
 id: "1534"
 old_path: /comment/1534/nhs-reforms-what-nhs-reforms
-redirect_from:
+aliases:
  - /comment/1534/nhs-reforms-what-nhs-reforms
 category: comment
 

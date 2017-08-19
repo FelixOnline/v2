@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 12:38:18 +0000"
 id: "2085"
 old_path: /music/2085/inescapable-fate
-redirect_from:
+aliases:
  - /music/2085/inescapable-fate
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:43:02 +0000"
 id: "3479"
 old_path: /games/3479/the-humble-end-of-term-bundle
-redirect_from:
+aliases:
  - /games/3479/the-humble-end-of-term-bundle
 category: games
 

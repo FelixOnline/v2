@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:14:22 +0100"
 id: "2770"
 old_path: /music/2770/supersonic-festival-2012
-redirect_from:
+aliases:
  - /music/2770/supersonic-festival-2012
 category: music
 

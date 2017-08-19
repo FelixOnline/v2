@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 13:10:56 +0100"
 id: "1497"
 old_path: /travel/1497/acclimatising-to-incredible-india
-redirect_from:
+aliases:
  - /travel/1497/acclimatising-to-incredible-india
 category: travel
 

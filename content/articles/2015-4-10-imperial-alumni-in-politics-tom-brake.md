@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-10 19:56:18 +0100"
 id: "5463"
 old_path: /politics/5463/imperial-alumni-in-politics-tom-brake
-redirect_from:
+aliases:
  - /politics/5463/imperial-alumni-in-politics-tom-brake
 category: politics
 

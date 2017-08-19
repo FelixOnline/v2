@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 15:48:31 +0100"
 id: "1363"
 old_path: /tech/1363/windows-8-preview-promises-app-bonanza
-redirect_from:
+aliases:
  - /tech/1363/windows-8-preview-promises-app-bonanza
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:53:06 +0000"
 id: "5184"
 old_path: /tech/5184/engineering-the-hyperloop-prototype
-redirect_from:
+aliases:
  - /tech/5184/engineering-the-hyperloop-prototype
 category: tech
 

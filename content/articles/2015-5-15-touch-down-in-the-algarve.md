@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:50:14 +0100"
 id: "5537"
 old_path: /cands/5537/touch-down-in-the-algarve
-redirect_from:
+aliases:
  - /cands/5537/touch-down-in-the-algarve
 category: clubs-and-socs
 

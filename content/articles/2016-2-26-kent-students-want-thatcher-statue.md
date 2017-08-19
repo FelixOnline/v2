@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:25:29 +0000"
 id: "5956"
 old_path: /news/5956/kent-students-want-thatcher-statue
-redirect_from:
+aliases:
  - /news/5956/kent-students-want-thatcher-statue
 category: news
 

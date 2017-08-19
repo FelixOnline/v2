@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:02:48 +0100"
 id: "5546"
 old_path: /news/5546/imperial-professor-is-made-fellow-of-the-royal-academy-
-redirect_from:
+aliases:
  - /news/5546/imperial-professor-is-made-fellow-of-the-royal-academy-
 category: news
 

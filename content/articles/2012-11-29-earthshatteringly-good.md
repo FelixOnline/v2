@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:06:01 +0000"
 id: "2986"
 old_path: /arts/2986/earthshatteringly-good
-redirect_from:
+aliases:
  - /arts/2986/earthshatteringly-good
 category: arts
 

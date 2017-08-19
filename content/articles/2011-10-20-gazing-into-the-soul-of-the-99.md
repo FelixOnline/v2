@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:52:10 +0100"
 id: "1566"
 old_path: /politics/1566/gazing-into-the-soul-of-the-99
-redirect_from:
+aliases:
  - /politics/1566/gazing-into-the-soul-of-the-99
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 15:10:50 +0000"
 id: "5256"
 old_path: /cands/5256/mascot-mayhem-at-tri-union-bar-night
-redirect_from:
+aliases:
  - /cands/5256/mascot-mayhem-at-tri-union-bar-night
 category: clubs-and-socs
 

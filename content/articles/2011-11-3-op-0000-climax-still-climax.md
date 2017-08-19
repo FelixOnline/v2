@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:53:55 +0000"
 id: "1676"
 old_path: /music/1676/op-0000-climax-still-climax
-redirect_from:
+aliases:
  - /music/1676/op-0000-climax-still-climax
 category: music
 

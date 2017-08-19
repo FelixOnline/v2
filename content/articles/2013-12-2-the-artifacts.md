@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:04:28 +0000"
 id: "4161"
 old_path: /arts/4161/the-artifacts
-redirect_from:
+aliases:
  - /arts/4161/the-artifacts
 category: arts
 

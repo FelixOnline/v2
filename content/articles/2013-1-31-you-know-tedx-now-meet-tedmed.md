@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:06:55 +0000"
 id: "3203"
 old_path: /news/3203/you-know-tedx-now-meet-tedmed
-redirect_from:
+aliases:
  - /news/3203/you-know-tedx-now-meet-tedmed
 category: news
 

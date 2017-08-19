@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:31:30 +0000"
 id: "299"
 old_path: /food/299/the-cooking-society
-redirect_from:
+aliases:
  - /food/299/the-cooking-society
 category: food
 

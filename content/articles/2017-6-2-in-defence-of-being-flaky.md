@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:25:42 +0100"
 id: "6995"
 old_path: /features/6995/in-defence-of-being-flaky
-redirect_from:
+aliases:
  - /features/6995/in-defence-of-being-flaky
 category: features
 

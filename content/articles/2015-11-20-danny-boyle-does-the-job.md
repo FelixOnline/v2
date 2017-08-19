@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:13:51 +0000"
 id: "5750"
 old_path: /film/5750/danny-boyle-does-the-job
-redirect_from:
+aliases:
  - /film/5750/danny-boyle-does-the-job
 category: film
 

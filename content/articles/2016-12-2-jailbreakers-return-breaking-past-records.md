@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 13:43:30 +0000"
 id: "6522"
 old_path: /news/6522/jailbreakers-return-breaking-past-records
-redirect_from:
+aliases:
  - /news/6522/jailbreakers-return-breaking-past-records
 category: news
 

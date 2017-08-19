@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 22:29:17 +0100"
 id: "1616"
 old_path: /biz/1616/business-in-history
-redirect_from:
+aliases:
  - /biz/1616/business-in-history
 category: business
 

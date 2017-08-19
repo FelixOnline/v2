@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:16:07 +0000"
 id: "5282"
 old_path: /cands/5282/crystals-and-concertos
-redirect_from:
+aliases:
  - /cands/5282/crystals-and-concertos
 category: clubs-and-socs
 

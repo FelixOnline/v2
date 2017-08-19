@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 17:30:54 +0000"
 id: "67"
 old_path: /politics/67/france-to-ban-the-wearing-of-the-niqab-
-redirect_from:
+aliases:
  - /politics/67/france-to-ban-the-wearing-of-the-niqab-
 category: politics
 

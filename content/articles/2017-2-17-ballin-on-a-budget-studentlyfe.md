@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 18:25:24 +0000"
 id: "6806"
 old_path: /food/6806/ballin-on-a-budget-studentlyfe
-redirect_from:
+aliases:
  - /food/6806/ballin-on-a-budget-studentlyfe
 category: food
 

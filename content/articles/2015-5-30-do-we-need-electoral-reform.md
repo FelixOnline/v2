@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-30 09:43:43 +0100"
 id: "5592"
 old_path: /politics/5592/do-we-need-electoral-reform
-redirect_from:
+aliases:
  - /politics/5592/do-we-need-electoral-reform
 category: politics
 

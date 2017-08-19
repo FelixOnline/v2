@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:24:54 +0000"
 id: "2360"
 old_path: /games/2360/space-invaders-not-on-my-watch
-redirect_from:
+aliases:
  - /games/2360/space-invaders-not-on-my-watch
 category: games
 

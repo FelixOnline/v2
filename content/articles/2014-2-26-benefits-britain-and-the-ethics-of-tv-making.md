@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-26 12:58:17 +0000"
 id: "4437"
 old_path: /tv/4437/benefits-britain-and-the-ethics-of-tv-making
-redirect_from:
+aliases:
  - /tv/4437/benefits-britain-and-the-ethics-of-tv-making
 category: tv
 

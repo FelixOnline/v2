@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:10:21 +0100"
 id: "3786"
 old_path: /games/3786/as-hitler-once-said-execute-plan-z
-redirect_from:
+aliases:
  - /games/3786/as-hitler-once-said-execute-plan-z
 category: games
 

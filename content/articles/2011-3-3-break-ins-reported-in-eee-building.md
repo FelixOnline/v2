@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 05:45:56 +0000"
 id: "980"
 old_path: /news/980/break-ins-reported-in-eee-building
-redirect_from:
+aliases:
  - /news/980/break-ins-reported-in-eee-building
 category: news
 

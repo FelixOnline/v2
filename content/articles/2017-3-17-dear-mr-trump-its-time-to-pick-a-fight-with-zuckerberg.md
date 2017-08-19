@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 15:12:28 +0000"
 id: "6904"
 old_path: /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
-redirect_from:
+aliases:
  - /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
 category: comment
 

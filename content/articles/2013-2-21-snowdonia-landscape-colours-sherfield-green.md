@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 20:55:39 +0000"
 id: "3344"
 old_path: /arts/3344/snowdonia-landscape-colours-sherfield-green
-redirect_from:
+aliases:
  - /arts/3344/snowdonia-landscape-colours-sherfield-green
 category: arts
 

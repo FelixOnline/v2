@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 16:18:39 +0000"
 id: "3311"
 old_path: /comment/3311/the-slow-extinction-of-political-dinosaurs
-redirect_from:
+aliases:
  - /comment/3311/the-slow-extinction-of-political-dinosaurs
 category: comment
 

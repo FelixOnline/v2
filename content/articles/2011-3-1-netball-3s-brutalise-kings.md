@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:29:20 +0000"
 id: "971"
 old_path: /sport/971/netball-3s-brutalise-kings
-redirect_from:
+aliases:
  - /sport/971/netball-3s-brutalise-kings
 category: sport
 

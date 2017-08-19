@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-13 12:47:34 +0000"
 id: "4206"
 old_path: /games/4206/steamy-love-for-pc-gaming
-redirect_from:
+aliases:
  - /games/4206/steamy-love-for-pc-gaming
 category: games
 

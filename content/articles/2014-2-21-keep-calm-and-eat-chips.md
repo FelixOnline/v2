@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:34:47 +0000"
 id: "4434"
 old_path: /food/4434/keep-calm-and-eat-chips
-redirect_from:
+aliases:
  - /food/4434/keep-calm-and-eat-chips
 category: food
 

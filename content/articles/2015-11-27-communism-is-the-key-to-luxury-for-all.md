@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 14:20:35 +0000"
 id: "5776"
 old_path: /comment/5776/communism-is-the-key-to-luxury-for-all
-redirect_from:
+aliases:
  - /comment/5776/communism-is-the-key-to-luxury-for-all
 category: comment
 

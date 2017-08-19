@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:45:13 +0000"
 id: "3409"
 old_path: /news/3409/smokers-told-to-stop-lighting-up-by-buildings
-redirect_from:
+aliases:
  - /news/3409/smokers-told-to-stop-lighting-up-by-buildings
 category: news
 

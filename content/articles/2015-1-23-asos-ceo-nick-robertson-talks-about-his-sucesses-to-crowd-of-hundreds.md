@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:18:08 +0000"
 id: "5120"
 old_path: /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
-redirect_from:
+aliases:
  - /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
 category: news
 

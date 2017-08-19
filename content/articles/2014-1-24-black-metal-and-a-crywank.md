@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:07:17 +0000"
 id: "4293"
 old_path: /music/4293/black-metal-and-a-crywank
-redirect_from:
+aliases:
  - /music/4293/black-metal-and-a-crywank
 category: music
 

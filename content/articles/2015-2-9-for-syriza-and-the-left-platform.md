@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:49:57 +0000"
 id: "5229"
 old_path: /comment/5229/for-syriza-and-the-left-platform-
-redirect_from:
+aliases:
  - /comment/5229/for-syriza-and-the-left-platform-
 category: comment
 

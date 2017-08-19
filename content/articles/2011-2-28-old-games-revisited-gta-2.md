@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:52:28 +0000"
 id: "936"
 old_path: /games/936/old-games-revisited-gta-2
-redirect_from:
+aliases:
  - /games/936/old-games-revisited-gta-2
 category: games
 

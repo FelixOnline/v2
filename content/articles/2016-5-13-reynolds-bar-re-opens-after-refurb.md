@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:50:44 +0100"
 id: "6144"
 old_path: /news/6144/reynolds-bar-re-opens-after-refurb
-redirect_from:
+aliases:
  - /news/6144/reynolds-bar-re-opens-after-refurb
 category: news
 

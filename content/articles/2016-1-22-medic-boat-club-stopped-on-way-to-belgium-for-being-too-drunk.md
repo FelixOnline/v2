@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-22 12:42:32 +0000"
 id: "5830"
 old_path: /news/5830/medic-boat-club-stopped-on-way-to-belgium-for-being-too-drunk
-redirect_from:
+aliases:
  - /news/5830/medic-boat-club-stopped-on-way-to-belgium-for-being-too-drunk
 category: news
 

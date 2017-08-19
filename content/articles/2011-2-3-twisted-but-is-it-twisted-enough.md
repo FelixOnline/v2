@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:34:55 +0000"
 id: "718"
 old_path: /arts/718/twisted-but-is-it-twisted-enough
-redirect_from:
+aliases:
  - /arts/718/twisted-but-is-it-twisted-enough
 category: arts
 

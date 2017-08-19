@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:03:04 +0000"
 id: "621"
 old_path: /politics/621/remembering-the-holocaust-
-redirect_from:
+aliases:
  - /politics/621/remembering-the-holocaust-
 category: politics
 

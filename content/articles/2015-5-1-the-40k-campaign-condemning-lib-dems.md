@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 00:11:44 +0100"
 id: "5478"
 old_path: /news/5478/the-40k-campaign-condemning-lib-dems
-redirect_from:
+aliases:
  - /news/5478/the-40k-campaign-condemning-lib-dems
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:02:12 +0100"
 id: "2609"
 old_path: /science/2609/unexpected-science-at-the-imperial-fringe
-redirect_from:
+aliases:
  - /science/2609/unexpected-science-at-the-imperial-fringe
 category: science
 

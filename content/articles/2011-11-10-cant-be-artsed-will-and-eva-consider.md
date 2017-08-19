@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:39:07 +0000"
 id: "1734"
 old_path: /arts/1734/cant-be-artsed-will-and-eva-consider
-redirect_from:
+aliases:
  - /arts/1734/cant-be-artsed-will-and-eva-consider
 category: arts
 

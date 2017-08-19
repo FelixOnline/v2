@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:00:27 +0000"
 id: "5980"
 old_path: /arts/5980/the-unflinching-inner-life-of-a-girl-growing-up
-redirect_from:
+aliases:
  - /arts/5980/the-unflinching-inner-life-of-a-girl-growing-up
 category: arts
 

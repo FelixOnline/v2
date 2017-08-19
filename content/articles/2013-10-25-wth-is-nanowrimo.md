@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:12:31 +0100"
 id: "3924"
 old_path: /books/3924/wth-is-nanowrimo
-redirect_from:
+aliases:
  - /books/3924/wth-is-nanowrimo
 category: books
 

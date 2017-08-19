@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:51:21 +0000"
 id: "2200"
 old_path: /food/2200/fairtrade-cooking-competition
-redirect_from:
+aliases:
  - /food/2200/fairtrade-cooking-competition
 category: food
 

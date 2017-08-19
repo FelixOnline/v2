@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 02:13:54 +0100"
 id: "4605"
 old_path: /food/4605/introducing-stir-fry-pasta
-redirect_from:
+aliases:
  - /food/4605/introducing-stir-fry-pasta
 category: food
 

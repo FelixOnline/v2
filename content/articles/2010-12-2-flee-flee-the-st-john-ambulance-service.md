@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:46:59 +0000"
 id: "496"
 old_path: /comment/496/flee-flee-the-st-john-ambulance-service
-redirect_from:
+aliases:
  - /comment/496/flee-flee-the-st-john-ambulance-service
 category: comment
 

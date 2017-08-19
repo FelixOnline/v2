@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 13:23:05 +0000"
 id: "98"
 old_path: /tech/98/facebook-login-search-dimwits-come-unstuck
-redirect_from:
+aliases:
  - /tech/98/facebook-login-search-dimwits-come-unstuck
 category: tech
 

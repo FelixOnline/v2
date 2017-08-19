@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-12 12:59:30 +0000"
 id: "5049"
 old_path: /news/5049/the-curiosity-of-one-imperial-scientist-
-redirect_from:
+aliases:
  - /news/5049/the-curiosity-of-one-imperial-scientist-
 category: news
 

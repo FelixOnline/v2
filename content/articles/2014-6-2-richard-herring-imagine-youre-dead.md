@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 13:07:11 +0100"
 id: "4647"
 old_path: /film/4647/richard-herring-imagine-youre-dead
-redirect_from:
+aliases:
  - /film/4647/richard-herring-imagine-youre-dead
 category: film
 

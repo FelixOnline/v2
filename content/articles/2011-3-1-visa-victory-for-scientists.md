@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:32:36 +0000"
 id: "954"
 old_path: /news/954/visa-victory-for-scientists
-redirect_from:
+aliases:
  - /news/954/visa-victory-for-scientists
 category: news
 

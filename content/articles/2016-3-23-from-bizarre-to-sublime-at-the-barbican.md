@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-23 14:50:48 +0000"
 id: "6080"
 old_path: /arts/6080/from-bizarre-to-sublime-at-the-barbican
-redirect_from:
+aliases:
  - /arts/6080/from-bizarre-to-sublime-at-the-barbican
 category: arts
 

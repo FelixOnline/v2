@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-19 21:18:16 +0000"
 id: "4405"
 old_path: /tech/4405/future-of-social-media
-redirect_from:
+aliases:
  - /tech/4405/future-of-social-media
 category: tech
 

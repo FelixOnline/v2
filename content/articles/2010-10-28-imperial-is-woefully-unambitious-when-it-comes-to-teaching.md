@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:45:29 +0100"
 id: "275"
 old_path: /comment/275/imperial-is-woefully-unambitious-when-it-comes-to-teaching-
-redirect_from:
+aliases:
  - /comment/275/imperial-is-woefully-unambitious-when-it-comes-to-teaching-
 category: comment
 

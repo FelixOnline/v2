@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:10:22 +0000"
 id: "3204"
 old_path: /news/3204/student-volunteering-week--10---16-february
-redirect_from:
+aliases:
  - /news/3204/student-volunteering-week--10---16-february
 category: news
 

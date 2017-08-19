@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 19:18:11 +0000"
 id: "5172"
 old_path: /arts/5172/send-in-the-clowns--a-return-to-traditional-circus
-redirect_from:
+aliases:
  - /arts/5172/send-in-the-clowns--a-return-to-traditional-circus
 category: arts
 

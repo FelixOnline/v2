@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:37:22 +0000"
 id: "4130"
 old_path: /games/4130/indied-games-that-you-will-surely-love
-redirect_from:
+aliases:
  - /games/4130/indied-games-that-you-will-surely-love
 category: games
 

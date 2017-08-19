@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:15:13 +0000"
 id: "4798"
 old_path: /cands/4798/you-want-me-to-put-my-hands-where
-redirect_from:
+aliases:
  - /cands/4798/you-want-me-to-put-my-hands-where
 category: clubs-and-socs
 

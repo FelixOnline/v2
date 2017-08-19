@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:31:34 +0000"
 id: "5341"
 old_path: /comment/5341/felix-interviews-deputy-president-cs-candidate-isabelle-barrett
-redirect_from:
+aliases:
  - /comment/5341/felix-interviews-deputy-president-cs-candidate-isabelle-barrett
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:45:17 +0000"
 id: "5004"
 old_path: /film/5004/the-first-time-ever-i-saw-your-face
-redirect_from:
+aliases:
  - /film/5004/the-first-time-ever-i-saw-your-face
 category: film
 

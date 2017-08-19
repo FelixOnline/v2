@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:38:13 +0000"
 id: "475"
 old_path: /sport/475/netball-pummel-brunel
-redirect_from:
+aliases:
  - /sport/475/netball-pummel-brunel
 category: sport
 

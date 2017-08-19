@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 22:59:35 +0000"
 id: "4054"
 old_path: /games/4054/xbox-one-for-you
-redirect_from:
+aliases:
  - /games/4054/xbox-one-for-you
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:46:40 +0000"
 id: "4088"
 old_path: /features/4088/syria-items-collect-
-redirect_from:
+aliases:
  - /features/4088/syria-items-collect-
 category: features
 

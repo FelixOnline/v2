@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:56:37 +0000"
 id: "5977"
 old_path: /games/5977/unravelling-the-past
-redirect_from:
+aliases:
  - /games/5977/unravelling-the-past
 category: games
 

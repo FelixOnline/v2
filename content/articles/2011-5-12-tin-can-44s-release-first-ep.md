@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:03:07 +0100"
 id: "1201"
 old_path: /music/1201/tin-can-44s-release-first-ep
-redirect_from:
+aliases:
  - /music/1201/tin-can-44s-release-first-ep
 category: music
 

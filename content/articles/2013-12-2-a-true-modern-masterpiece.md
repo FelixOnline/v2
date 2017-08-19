@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:07:23 +0000"
 id: "4163"
 old_path: /arts/4163/a-true-modern-masterpiece
-redirect_from:
+aliases:
  - /arts/4163/a-true-modern-masterpiece
 category: arts
 

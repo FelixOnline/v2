@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:13:46 +0000"
 id: "4891"
 old_path: /sport/4891/fifa-rohit-sharma-and-andy-murray---the-world-sport-column
-redirect_from:
+aliases:
  - /sport/4891/fifa-rohit-sharma-and-andy-murray---the-world-sport-column
 category: sport
 

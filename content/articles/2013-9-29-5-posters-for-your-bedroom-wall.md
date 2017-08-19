@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:23:12 +0100"
 id: "3772"
 old_path: /arts/3772/5-posters-for-your-bedroom-wall
-redirect_from:
+aliases:
  - /arts/3772/5-posters-for-your-bedroom-wall
 category: arts
 

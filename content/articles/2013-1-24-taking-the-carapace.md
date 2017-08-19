@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 23:11:13 +0000"
 id: "3171"
 old_path: /arts/3171/taking-the-carapace
-redirect_from:
+aliases:
  - /arts/3171/taking-the-carapace
 category: arts
 

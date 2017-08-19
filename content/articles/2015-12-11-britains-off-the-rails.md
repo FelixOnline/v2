@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-11 15:32:38 +0000"
 id: "5815"
 old_path: /comment/5815/britains-off-the-rails
-redirect_from:
+aliases:
  - /comment/5815/britains-off-the-rails
 category: comment
 

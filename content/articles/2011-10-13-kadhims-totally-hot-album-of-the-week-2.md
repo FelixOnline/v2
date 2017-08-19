@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:40:33 +0100"
 id: "1526"
 old_path: /music/1526/kadhims-totally-hot-album-of-the-week-2
-redirect_from:
+aliases:
  - /music/1526/kadhims-totally-hot-album-of-the-week-2
 category: music
 

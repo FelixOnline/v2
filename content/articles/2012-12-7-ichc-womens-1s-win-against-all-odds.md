@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:01:18 +0000"
 id: "3058"
 old_path: /sport/3058/ichc-womens-1s-win-against-all-odds
-redirect_from:
+aliases:
  - /sport/3058/ichc-womens-1s-win-against-all-odds
 category: sport
 

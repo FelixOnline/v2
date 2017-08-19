@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 16:46:17 +0000"
 id: "5358"
 old_path: /games/5358/the-magical-world-of-rpgs
-redirect_from:
+aliases:
  - /games/5358/the-magical-world-of-rpgs
 category: games
 

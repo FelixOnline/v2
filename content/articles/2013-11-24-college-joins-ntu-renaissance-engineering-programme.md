@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:38:52 +0000"
 id: "4096"
 old_path: /news/4096/college-joins-ntu-renaissance-engineering-programme
-redirect_from:
+aliases:
  - /news/4096/college-joins-ntu-renaissance-engineering-programme
 category: news
 

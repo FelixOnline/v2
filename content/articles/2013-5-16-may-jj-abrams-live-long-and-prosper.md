@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:21:13 +0100"
 id: "3583"
 old_path: /film/3583/may-jj-abrams-live-long-and-prosper
-redirect_from:
+aliases:
  - /film/3583/may-jj-abrams-live-long-and-prosper
 category: film
 

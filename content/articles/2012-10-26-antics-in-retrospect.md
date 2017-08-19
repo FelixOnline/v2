@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:16:07 +0100"
 id: "2772"
 old_path: /music/2772/antics-in-retrospect
-redirect_from:
+aliases:
  - /music/2772/antics-in-retrospect
 category: music
 

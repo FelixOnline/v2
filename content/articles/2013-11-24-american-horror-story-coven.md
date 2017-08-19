@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:30:57 +0000"
 id: "4124"
 old_path: /tv/4124/american-horror-story-coven
-redirect_from:
+aliases:
  - /tv/4124/american-horror-story-coven
 category: tv
 

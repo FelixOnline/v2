@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:48:54 +0100"
 id: "6941"
 old_path: /news/6941/union-reels-in-34000-from-postgrad-graduation-day
-redirect_from:
+aliases:
  - /news/6941/union-reels-in-34000-from-postgrad-graduation-day
 category: news
 

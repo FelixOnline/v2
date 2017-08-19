@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:38:55 +0000"
 id: "2877"
 old_path: /sport/2877/icuafc-1s-conquering-london
-redirect_from:
+aliases:
  - /sport/2877/icuafc-1s-conquering-london
 category: sport
 

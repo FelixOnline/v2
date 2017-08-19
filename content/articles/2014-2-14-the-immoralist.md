@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 03:29:51 +0000"
 id: "4375"
 old_path: /books/4375/the-immoralist
-redirect_from:
+aliases:
  - /books/4375/the-immoralist
 category: books
 

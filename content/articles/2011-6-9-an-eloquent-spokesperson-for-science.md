@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:07:08 +0100"
 id: "1347"
 old_path: /news/1347/an-eloquent-spokesperson-for-science
-redirect_from:
+aliases:
  - /news/1347/an-eloquent-spokesperson-for-science
 category: news
 

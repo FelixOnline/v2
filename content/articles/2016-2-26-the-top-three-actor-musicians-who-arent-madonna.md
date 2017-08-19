@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:37:51 +0000"
 id: "5966"
 old_path: /film/5966/the-top-three-actor-musicians-who-arent-madonna
-redirect_from:
+aliases:
  - /film/5966/the-top-three-actor-musicians-who-arent-madonna
 category: film
 

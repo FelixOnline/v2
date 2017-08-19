@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 14:27:33 +0100"
 id: "3514"
 old_path: /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
-redirect_from:
+aliases:
  - /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
 category: music
 

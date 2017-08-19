@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:51:42 +0000"
 id: "3411"
 old_path: /comment/3411/losing-my-religion
-redirect_from:
+aliases:
  - /comment/3411/losing-my-religion
 category: comment
 

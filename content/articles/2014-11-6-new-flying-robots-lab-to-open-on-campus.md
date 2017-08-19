@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 14:27:21 +0000"
 id: "4757"
 old_path: /news/4757/new-flying-robots-lab-to-open-on-campus
-redirect_from:
+aliases:
  - /news/4757/new-flying-robots-lab-to-open-on-campus
 category: news
 

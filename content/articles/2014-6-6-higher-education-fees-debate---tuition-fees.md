@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:42:25 +0100"
 id: "4659"
 old_path: /comment/4659/higher-education-fees-debate---tuition-fees
-redirect_from:
+aliases:
  - /comment/4659/higher-education-fees-debate---tuition-fees
 category: comment
 

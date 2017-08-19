@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 14:24:10 +0000"
 id: "54"
 old_path: /science/54/a-glimpse-of-dark-matter
-redirect_from:
+aliases:
  - /science/54/a-glimpse-of-dark-matter
 category: science
 

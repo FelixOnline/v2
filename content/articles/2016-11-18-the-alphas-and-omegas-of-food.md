@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:48:24 +0000"
 id: "6462"
 old_path: /science/6462/the-alphas-and-omegas-of-food
-redirect_from:
+aliases:
  - /science/6462/the-alphas-and-omegas-of-food
 category: science
 

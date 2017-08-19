@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 01:40:46 +0100"
 id: "2730"
 old_path: /news/2730/constitution-changes-to-be-decided-at-council
-redirect_from:
+aliases:
  - /news/2730/constitution-changes-to-be-decided-at-council
 category: news
 

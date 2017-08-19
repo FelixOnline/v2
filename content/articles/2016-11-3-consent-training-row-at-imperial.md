@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-03 23:06:26 +0000"
 id: "6378"
 old_path: /news/6378/consent-training-row-at-imperial
-redirect_from:
+aliases:
  - /news/6378/consent-training-row-at-imperial
 category: news
 

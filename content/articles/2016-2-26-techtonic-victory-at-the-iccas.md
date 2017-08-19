@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:07:06 +0000"
 id: "5985"
 old_path: /cands/5985/techtonic-victory-at-the-iccas-
-redirect_from:
+aliases:
  - /cands/5985/techtonic-victory-at-the-iccas-
 category: clubs-and-socs
 

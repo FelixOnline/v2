@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:01:55 +0000"
 id: "5981"
 old_path: /arts/5981/on-the-shoulders-of-literary-giants
-redirect_from:
+aliases:
  - /arts/5981/on-the-shoulders-of-literary-giants
 category: arts
 

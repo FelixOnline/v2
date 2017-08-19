@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:54:18 +0000"
 id: "415"
 old_path: /news/415/further-blow-to-liberal-democrats-credibility-
-redirect_from:
+aliases:
  - /news/415/further-blow-to-liberal-democrats-credibility-
 category: news
 

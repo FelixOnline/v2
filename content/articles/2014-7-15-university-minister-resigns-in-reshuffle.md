@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-15 02:51:30 +0100"
 id: "4725"
 old_path: /news/4725/university-minister-resigns-in-reshuffle
-redirect_from:
+aliases:
  - /news/4725/university-minister-resigns-in-reshuffle
 category: news
 

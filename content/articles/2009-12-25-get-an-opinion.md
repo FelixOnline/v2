@@ -6,7 +6,7 @@ subtitle: >
 date: "2009-12-25 00:49:48 +0000"
 id: "0"
 old_path: /arts/0/get-an-opinion
-redirect_from:
+aliases:
  - /arts/0/get-an-opinion
 category: arts
 

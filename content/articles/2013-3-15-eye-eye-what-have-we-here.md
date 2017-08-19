@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:08:39 +0000"
 id: "3470"
 old_path: /science/3470/eye-eye-what-have-we-here
-redirect_from:
+aliases:
  - /science/3470/eye-eye-what-have-we-here
 category: science
 

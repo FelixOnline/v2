@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:32:19 +0000"
 id: "1985"
 old_path: /news/1985/imperial-west-masterplan-unveiled
-redirect_from:
+aliases:
  - /news/1985/imperial-west-masterplan-unveiled
 category: news
 

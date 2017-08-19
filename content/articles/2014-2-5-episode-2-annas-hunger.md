@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-05 10:36:13 +0000"
 id: "4336"
 old_path: /games/4336/episode-2-annas-hunger
-redirect_from:
+aliases:
  - /games/4336/episode-2-annas-hunger
 category: games
 

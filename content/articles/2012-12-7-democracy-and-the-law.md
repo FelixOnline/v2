@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:36:16 +0000"
 id: "3051"
 old_path: /comment/3051/democracy-and-the-law
-redirect_from:
+aliases:
  - /comment/3051/democracy-and-the-law
 category: comment
 

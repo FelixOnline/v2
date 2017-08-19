@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 02:52:01 +0000"
 id: "4410"
 old_path: /news/4410/immigration-bill-has-second-reading-in-lords
-redirect_from:
+aliases:
  - /news/4410/immigration-bill-has-second-reading-in-lords
 category: news
 

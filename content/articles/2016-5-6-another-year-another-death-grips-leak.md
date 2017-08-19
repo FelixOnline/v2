@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:58:16 +0100"
 id: "6126"
 old_path: /music/6126/another-year-another-death-grips-leak
-redirect_from:
+aliases:
  - /music/6126/another-year-another-death-grips-leak
 category: music
 

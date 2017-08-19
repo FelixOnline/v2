@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-17 12:51:58 +0100"
 id: "1408"
 old_path: /music/1408/london-student-vs-felix-day-nineteen-a-song-from-your-favorite-album
-redirect_from:
+aliases:
  - /music/1408/london-student-vs-felix-day-nineteen-a-song-from-your-favorite-album
 category: music
 

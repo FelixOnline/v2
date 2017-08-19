@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:58:03 +0000"
 id: "4247"
 old_path: /film/4247/nebraska-nebraska-i-love-you
-redirect_from:
+aliases:
  - /film/4247/nebraska-nebraska-i-love-you
 category: film
 

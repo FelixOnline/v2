@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:56:18 +0000"
 id: "1854"
 old_path: /sport/1854/captains-interviews-synchronised-swimming
-redirect_from:
+aliases:
  - /sport/1854/captains-interviews-synchronised-swimming
 category: sport
 

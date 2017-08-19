@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:54:58 +0100"
 id: "1604"
 old_path: /food/1604/byron-means-burger
-redirect_from:
+aliases:
  - /food/1604/byron-means-burger
 category: food
 

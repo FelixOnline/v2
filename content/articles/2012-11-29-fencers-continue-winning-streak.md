@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:21:47 +0000"
 id: "3015"
 old_path: /sport/3015/fencers-continue-winning-streak
-redirect_from:
+aliases:
  - /sport/3015/fencers-continue-winning-streak
 category: sport
 

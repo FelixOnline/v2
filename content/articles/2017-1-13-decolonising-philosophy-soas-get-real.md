@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:01:29 +0000"
 id: "6635"
 old_path: /comment/6635/decolonising-philosophy-soas-get-real
-redirect_from:
+aliases:
  - /comment/6635/decolonising-philosophy-soas-get-real
 category: comment
 

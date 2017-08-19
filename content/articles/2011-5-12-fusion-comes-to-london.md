@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:23:06 +0100"
 id: "1194"
 old_path: /arts/1194/fusion-comes-to-london
-redirect_from:
+aliases:
  - /arts/1194/fusion-comes-to-london
 category: arts
 

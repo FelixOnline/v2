@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:05:53 +0000"
 id: "5389"
 old_path: /news/5389/college-in-mourning-after-first-year-student-passes-away
-redirect_from:
+aliases:
  - /news/5389/college-in-mourning-after-first-year-student-passes-away
 category: news
 

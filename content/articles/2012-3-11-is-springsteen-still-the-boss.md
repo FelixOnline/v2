@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-11 16:15:17 +0000"
 id: "2339"
 old_path: /music/2339/is-springsteen-still-the-boss
-redirect_from:
+aliases:
  - /music/2339/is-springsteen-still-the-boss
 category: music
 

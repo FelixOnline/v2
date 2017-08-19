@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:49:04 +0100"
 id: "2436"
 old_path: /news/2436/super-mutant-algae-declared-winner
-redirect_from:
+aliases:
  - /news/2436/super-mutant-algae-declared-winner
 category: news
 

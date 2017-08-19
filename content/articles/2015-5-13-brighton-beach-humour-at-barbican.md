@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-13 14:16:54 +0100"
 id: "5514"
 old_path: /arts/5514/brighton-beach-humour-at-barbican
-redirect_from:
+aliases:
  - /arts/5514/brighton-beach-humour-at-barbican
 category: arts
 

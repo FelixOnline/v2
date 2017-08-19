@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:03:45 +0000"
 id: "424"
 old_path: /science/424/students-with-parasight
-redirect_from:
+aliases:
  - /science/424/students-with-parasight
 category: science
 

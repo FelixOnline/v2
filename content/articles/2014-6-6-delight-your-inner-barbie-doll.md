@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:47:21 +0100"
 id: "4663"
 old_path: /arts/4663/delight-your-inner-barbie-doll
-redirect_from:
+aliases:
  - /arts/4663/delight-your-inner-barbie-doll
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 11:09:09 +0100"
 id: "1639"
 old_path: /music/1639/do-you-have-a-bassface
-redirect_from:
+aliases:
  - /music/1639/do-you-have-a-bassface
 category: music
 

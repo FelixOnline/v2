@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:20:53 +0100"
 id: "4586"
 old_path: /film/4586/an-inconvenient-truth
-redirect_from:
+aliases:
  - /film/4586/an-inconvenient-truth
 category: film
 

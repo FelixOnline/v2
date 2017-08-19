@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:32:52 +0000"
 id: "3037"
 old_path: /science/3037/dont-let-your-heart-rule-your-head
-redirect_from:
+aliases:
  - /science/3037/dont-let-your-heart-rule-your-head
 category: science
 

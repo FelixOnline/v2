@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:24:37 +0100"
 id: "3827"
 old_path: /science/3827/hartley-science-attack-of-the-hornets
-redirect_from:
+aliases:
  - /science/3827/hartley-science-attack-of-the-hornets
 category: science
 

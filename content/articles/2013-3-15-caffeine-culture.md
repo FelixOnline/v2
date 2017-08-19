@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 03:15:17 +0000"
 id: "3495"
 old_path: /news/3495/caffeine-culture
-redirect_from:
+aliases:
  - /news/3495/caffeine-culture
 category: news
 

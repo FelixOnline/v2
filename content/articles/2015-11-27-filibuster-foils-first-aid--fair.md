@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 14:22:06 +0000"
 id: "5777"
 old_path: /comment/5777/filibuster-foils-first-aid--fair
-redirect_from:
+aliases:
  - /comment/5777/filibuster-foils-first-aid--fair
 category: comment
 

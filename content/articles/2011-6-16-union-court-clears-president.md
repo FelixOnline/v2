@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:00:32 +0100"
 id: "1379"
 old_path: /news/1379/union-court-clears-president
-redirect_from:
+aliases:
  - /news/1379/union-court-clears-president
 category: news
 

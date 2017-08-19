@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:27:43 +0100"
 id: "5489"
 old_path: /science/5489/kings-of-the-jungle-de-throned
-redirect_from:
+aliases:
  - /science/5489/kings-of-the-jungle-de-throned
 category: science
 

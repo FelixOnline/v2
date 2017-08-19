@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:41:03 +0100"
 id: "1426"
 old_path: /comment/1426/try-harder-next-week
-redirect_from:
+aliases:
  - /comment/1426/try-harder-next-week
 category: comment
 

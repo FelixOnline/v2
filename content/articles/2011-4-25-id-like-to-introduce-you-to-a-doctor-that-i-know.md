@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-25 21:57:09 +0100"
 id: "1142"
 old_path: /tv/1142/id-like-to-introduce-you-to-a-doctor-that-i-know
-redirect_from:
+aliases:
  - /tv/1142/id-like-to-introduce-you-to-a-doctor-that-i-know
 category: tv
 

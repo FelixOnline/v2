@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 23:10:14 +0000"
 id: "2074"
 old_path: /comment/2074/pigs--our-friends-and-maybe-our-equals
-redirect_from:
+aliases:
  - /comment/2074/pigs--our-friends-and-maybe-our-equals
 category: comment
 

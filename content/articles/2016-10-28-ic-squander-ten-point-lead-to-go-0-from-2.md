@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:51:15 +0100"
 id: "6357"
 old_path: /sport/6357/ic-squander-ten-point-lead-to-go-0-from-2
-redirect_from:
+aliases:
  - /sport/6357/ic-squander-ten-point-lead-to-go-0-from-2
 category: sport
 

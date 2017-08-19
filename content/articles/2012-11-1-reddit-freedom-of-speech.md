@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:36:50 +0000"
 id: "2787"
 old_path: /tech/2787/reddit-freedom-of-speech-
-redirect_from:
+aliases:
  - /tech/2787/reddit-freedom-of-speech-
 category: tech
 

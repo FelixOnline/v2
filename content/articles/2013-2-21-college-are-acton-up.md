@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 23:15:39 +0000"
 id: "3346"
 old_path: /comment/3346/college-are-acton-up
-redirect_from:
+aliases:
  - /comment/3346/college-are-acton-up
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-29 11:04:08 +0100"
 id: "1282"
 old_path: /music/1282/london-student-vs-felix-day-ten--a-song-that-makes-you-fall-asleep
-redirect_from:
+aliases:
  - /music/1282/london-student-vs-felix-day-ten--a-song-that-makes-you-fall-asleep
 category: music
 

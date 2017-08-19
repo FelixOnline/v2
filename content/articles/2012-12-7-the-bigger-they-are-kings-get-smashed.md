@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:05:29 +0000"
 id: "3059"
 old_path: /sport/3059/the-bigger-they-are-kings-get-smashed
-redirect_from:
+aliases:
  - /sport/3059/the-bigger-they-are-kings-get-smashed
 category: sport
 

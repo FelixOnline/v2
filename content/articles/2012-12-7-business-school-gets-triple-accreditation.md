@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:12:35 +0000"
 id: "3022"
 old_path: /news/3022/business-school-gets-triple-accreditation
-redirect_from:
+aliases:
  - /news/3022/business-school-gets-triple-accreditation
 category: news
 

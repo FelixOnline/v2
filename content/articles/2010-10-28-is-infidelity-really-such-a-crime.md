@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:48:21 +0100"
 id: "278"
 old_path: /comment/278/is-infidelity-really-such-a-crime-
-redirect_from:
+aliases:
  - /comment/278/is-infidelity-really-such-a-crime-
 category: comment
 

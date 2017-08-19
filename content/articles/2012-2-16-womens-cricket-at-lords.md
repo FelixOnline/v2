@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 23:38:47 +0000"
 id: "2222"
 old_path: /sport/2222/womens-cricket-at-lords
-redirect_from:
+aliases:
  - /sport/2222/womens-cricket-at-lords
 category: sport
 

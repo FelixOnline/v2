@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:44:52 +0100"
 id: "5659"
 old_path: /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
-redirect_from:
+aliases:
  - /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
 category: music
 

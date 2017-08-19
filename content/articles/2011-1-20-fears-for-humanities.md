@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:58:26 +0000"
 id: "639"
 old_path: /news/639/fears-for-humanities-
-redirect_from:
+aliases:
  - /news/639/fears-for-humanities-
 category: news
 

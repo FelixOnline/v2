@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:14:40 +0000"
 id: "4209"
 old_path: /games/4209/santas-checking-his-gaming-list
-redirect_from:
+aliases:
  - /games/4209/santas-checking-his-gaming-list
 category: games
 

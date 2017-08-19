@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:34:43 +0000"
 id: "5878"
 old_path: /film/5878/documentary-corner-chimpanzee
-redirect_from:
+aliases:
  - /film/5878/documentary-corner-chimpanzee
 category: film
 

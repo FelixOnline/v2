@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 21:00:28 +0100"
 id: "2574"
 old_path: /phoenix/2574/a-dream-of-liquid-light-
-redirect_from:
+aliases:
  - /phoenix/2574/a-dream-of-liquid-light-
 category: phoenix
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 13:27:19 +0100"
 id: "4680"
 old_path: /books/4680/authors-to-look-out-for
-redirect_from:
+aliases:
  - /books/4680/authors-to-look-out-for
 category: books
 

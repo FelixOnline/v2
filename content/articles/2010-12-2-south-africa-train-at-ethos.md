@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:47:52 +0000"
 id: "478"
 old_path: /sport/478/south-africa-train-at-ethos
-redirect_from:
+aliases:
  - /sport/478/south-africa-train-at-ethos
 category: sport
 

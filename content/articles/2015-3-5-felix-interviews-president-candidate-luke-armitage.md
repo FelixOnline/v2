@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:25:56 +0000"
 id: "5338"
 old_path: /comment/5338/felix-interviews-president-candidate-luke-armitage
-redirect_from:
+aliases:
  - /comment/5338/felix-interviews-president-candidate-luke-armitage
 category: comment
 

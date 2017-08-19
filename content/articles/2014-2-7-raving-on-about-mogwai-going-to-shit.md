@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:37:23 +0000"
 id: "4338"
 old_path: /music/4338/raving-on-about-mogwai-going-to-shit
-redirect_from:
+aliases:
  - /music/4338/raving-on-about-mogwai-going-to-shit
 category: music
 

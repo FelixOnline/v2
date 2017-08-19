@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:24:50 +0000"
 id: "6847"
 old_path: /music/6847/gang-signs-and-prayer-
-redirect_from:
+aliases:
  - /music/6847/gang-signs-and-prayer-
 category: music
 

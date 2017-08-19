@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:06:18 +0100"
 id: "3835"
 old_path: /arts/3835/figaro-gets-married-everyones-happy
-redirect_from:
+aliases:
  - /arts/3835/figaro-gets-married-everyones-happy
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-16 14:00:22 +0100"
 id: "3879"
 old_path: /tech/3879/nsa-peeling-the-skin-off-tor-users
-redirect_from:
+aliases:
  - /tech/3879/nsa-peeling-the-skin-off-tor-users
 category: tech
 

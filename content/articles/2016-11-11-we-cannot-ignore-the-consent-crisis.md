@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:59:12 +0000"
 id: "6423"
 old_path: /comment/6423/we-cannot-ignore-the-consent-crisis
-redirect_from:
+aliases:
  - /comment/6423/we-cannot-ignore-the-consent-crisis
 category: comment
 

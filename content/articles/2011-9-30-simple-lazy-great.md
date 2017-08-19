@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 12:40:38 +0100"
 id: "1462"
 old_path: /film/1462/simple-lazy-great
-redirect_from:
+aliases:
  - /film/1462/simple-lazy-great
 category: film
 

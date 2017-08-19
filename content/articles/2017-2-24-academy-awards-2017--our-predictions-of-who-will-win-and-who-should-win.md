@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:21:57 +0000"
 id: "6819"
 old_path: /features/6819/academy-awards-2017--our-predictions-of-who-will-win-and-who-should-win
-redirect_from:
+aliases:
  - /features/6819/academy-awards-2017--our-predictions-of-who-will-win-and-who-should-win
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 14:19:55 +0000"
 id: "6684"
 old_path: /features/6684/beep-beep-beep--brexit-update
-redirect_from:
+aliases:
  - /features/6684/beep-beep-beep--brexit-update
 category: features
 

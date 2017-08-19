@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-12 12:43:51 +0100"
 id: "5622"
 old_path: /welfare/5622/dont-keep-it-all-bottled-up
-redirect_from:
+aliases:
  - /welfare/5622/dont-keep-it-all-bottled-up
 category: welfare
 

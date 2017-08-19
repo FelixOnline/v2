@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:18:21 +0000"
 id: "6668"
 old_path: /tv/6668/rebooted--a-series-of-unfortunate-events
-redirect_from:
+aliases:
  - /tv/6668/rebooted--a-series-of-unfortunate-events
 category: tv
 

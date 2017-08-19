@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:31:45 +0100"
 id: "3838"
 old_path: /music/3838/armchair-techno
-redirect_from:
+aliases:
  - /music/3838/armchair-techno
 category: music
 

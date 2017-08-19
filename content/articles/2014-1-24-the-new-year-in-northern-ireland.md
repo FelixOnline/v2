@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:52:05 +0000"
 id: "4281"
 old_path: /comment/4281/the-new-year-in-northern-ireland
-redirect_from:
+aliases:
  - /comment/4281/the-new-year-in-northern-ireland
 category: comment
 

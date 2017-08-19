@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:14:56 +0100"
 id: "3952"
 old_path: /sport/3952/imperial-4th-s-put-six-past-greenwich
-redirect_from:
+aliases:
  - /sport/3952/imperial-4th-s-put-six-past-greenwich
 category: sport
 

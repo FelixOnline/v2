@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:52:36 +0000"
 id: "4181"
 old_path: /features/4181/interview-adam-kay-musical-comedy
-redirect_from:
+aliases:
  - /features/4181/interview-adam-kay-musical-comedy
 category: features
 

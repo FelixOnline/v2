@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:17:23 +0000"
 id: "3012"
 old_path: /sport/3012/storming-success-for-equestrian-team
-redirect_from:
+aliases:
  - /sport/3012/storming-success-for-equestrian-team
 category: sport
 

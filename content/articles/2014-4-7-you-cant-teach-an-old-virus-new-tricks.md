@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:57:37 +0100"
 id: "4526"
 old_path: /science/4526/you-cant-teach-an-old-virus-new-tricks
-redirect_from:
+aliases:
  - /science/4526/you-cant-teach-an-old-virus-new-tricks
 category: science
 

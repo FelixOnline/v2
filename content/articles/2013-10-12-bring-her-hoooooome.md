@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:48:01 +0100"
 id: "3841"
 old_path: /film/3841/bring-her-hoooooome
-redirect_from:
+aliases:
  - /film/3841/bring-her-hoooooome
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 20:52:49 +0000"
 id: "3343"
 old_path: /arts/3343/not-an-italian-job
-redirect_from:
+aliases:
  - /arts/3343/not-an-italian-job
 category: arts
 

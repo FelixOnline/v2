@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:02:09 +0000"
 id: "514"
 old_path: /tech/514/christmas-gift-guide
-redirect_from:
+aliases:
  - /tech/514/christmas-gift-guide
 category: tech
 

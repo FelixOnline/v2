@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:54:05 +0100"
 id: "2658"
 old_path: /fashion/2658/a-guide-to-blagging-fashion-month
-redirect_from:
+aliases:
  - /fashion/2658/a-guide-to-blagging-fashion-month
 category: fashion
 

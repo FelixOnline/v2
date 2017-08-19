@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:52:19 +0000"
 id: "3216"
 old_path: /food/3216/cubby-away-with-the-fox
-redirect_from:
+aliases:
  - /food/3216/cubby-away-with-the-fox
 category: food
 

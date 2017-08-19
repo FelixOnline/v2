@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-29 18:04:35 +0000"
 id: "2774"
 old_path: /news/2774/election-results-announced-for-reps-and-council-positions
-redirect_from:
+aliases:
  - /news/2774/election-results-announced-for-reps-and-council-positions
 category: news
 

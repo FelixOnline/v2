@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:07:11 +0000"
 id: "6541"
 old_path: /tv/6541/working-girls--the-girlfriend-experience
-redirect_from:
+aliases:
  - /tv/6541/working-girls--the-girlfriend-experience
 category: tv
 

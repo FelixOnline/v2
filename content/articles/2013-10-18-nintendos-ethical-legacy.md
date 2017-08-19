@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:26:31 +0100"
 id: "3891"
 old_path: /comment/3891/nintendos-ethical-legacy
-redirect_from:
+aliases:
  - /comment/3891/nintendos-ethical-legacy
 category: comment
 

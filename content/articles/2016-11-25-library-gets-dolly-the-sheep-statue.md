@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:21:28 +0000"
 id: "6494"
 old_path: /news/6494/library-gets-dolly-the-sheep-statue
-redirect_from:
+aliases:
  - /news/6494/library-gets-dolly-the-sheep-statue
 category: news
 

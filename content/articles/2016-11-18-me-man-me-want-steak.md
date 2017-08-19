@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:24:49 +0000"
 id: "6477"
 old_path: /food/6477/me-man-me-want-steak
-redirect_from:
+aliases:
  - /food/6477/me-man-me-want-steak
 category: food
 

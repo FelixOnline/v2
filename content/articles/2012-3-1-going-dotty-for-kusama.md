@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:50:30 +0000"
 id: "2280"
 old_path: /arts/2280/going-dotty-for-kusama
-redirect_from:
+aliases:
  - /arts/2280/going-dotty-for-kusama
 category: arts
 

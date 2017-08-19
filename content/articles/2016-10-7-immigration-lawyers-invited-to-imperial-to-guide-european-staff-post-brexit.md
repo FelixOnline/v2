@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-07 17:01:00 +0100"
 id: "6312"
 old_path: /news/6312/immigration-lawyers-invited-to-imperial-to-guide-european-staff-post-brexit
-redirect_from:
+aliases:
  - /news/6312/immigration-lawyers-invited-to-imperial-to-guide-european-staff-post-brexit
 category: news
 

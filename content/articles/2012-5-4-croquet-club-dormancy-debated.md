@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 00:47:06 +0100"
 id: "2423"
 old_path: /news/2423/croquet-club-dormancy-debated
-redirect_from:
+aliases:
  - /news/2423/croquet-club-dormancy-debated
 category: news
 

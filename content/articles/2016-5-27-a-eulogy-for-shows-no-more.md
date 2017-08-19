@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 09:03:54 +0100"
 id: "6219"
 old_path: /tv/6219/-a-eulogy-for-shows-no-more
-redirect_from:
+aliases:
  - /tv/6219/-a-eulogy-for-shows-no-more
 category: tv
 

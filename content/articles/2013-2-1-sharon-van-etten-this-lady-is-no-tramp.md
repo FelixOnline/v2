@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:48:17 +0000"
 id: "3233"
 old_path: /music/3233/sharon-van-etten-this-lady-is-no-tramp
-redirect_from:
+aliases:
  - /music/3233/sharon-van-etten-this-lady-is-no-tramp
 category: music
 

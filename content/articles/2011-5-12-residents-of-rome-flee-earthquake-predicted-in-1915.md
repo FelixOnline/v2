@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:35:39 +0100"
 id: "1190"
 old_path: /science/1190/residents-of-rome-flee-earthquake-predicted-in-1915
-redirect_from:
+aliases:
  - /science/1190/residents-of-rome-flee-earthquake-predicted-in-1915
 category: science
 

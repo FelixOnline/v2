@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:40:54 +0000"
 id: "2239"
 old_path: /comment/2239/library-doors-a-refutation
-redirect_from:
+aliases:
  - /comment/2239/library-doors-a-refutation
 category: comment
 

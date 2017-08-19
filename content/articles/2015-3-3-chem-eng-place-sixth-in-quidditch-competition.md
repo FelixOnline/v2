@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:51:18 +0000"
 id: "5325"
 old_path: /cands/5325/chem-eng-place-sixth-in-quidditch-competition
-redirect_from:
+aliases:
  - /cands/5325/chem-eng-place-sixth-in-quidditch-competition
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 13:27:59 +0000"
 id: "5351"
 old_path: /arts/5351/my-favourite-musical--next-to-normal
-redirect_from:
+aliases:
  - /arts/5351/my-favourite-musical--next-to-normal
 category: arts
 

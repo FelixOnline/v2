@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-08 07:02:08 +0100"
 id: "185"
 old_path: /arts/185/interesting-reflections-in-hyde-park-
-redirect_from:
+aliases:
  - /arts/185/interesting-reflections-in-hyde-park-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:03:08 +0000"
 id: "2866"
 old_path: /music/2866/everything-is-good
-redirect_from:
+aliases:
  - /music/2866/everything-is-good
 category: music
 

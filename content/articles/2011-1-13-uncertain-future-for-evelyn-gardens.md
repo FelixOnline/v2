@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:45:23 +0000"
 id: "595"
 old_path: /news/595/uncertain-future-for-evelyn-gardens-
-redirect_from:
+aliases:
  - /news/595/uncertain-future-for-evelyn-gardens-
 category: news
 

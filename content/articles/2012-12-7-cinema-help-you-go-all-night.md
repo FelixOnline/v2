@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:22:42 +0000"
 id: "3033"
 old_path: /film/3033/cinema-help-you-go-all-night
-redirect_from:
+aliases:
  - /film/3033/cinema-help-you-go-all-night
 category: film
 

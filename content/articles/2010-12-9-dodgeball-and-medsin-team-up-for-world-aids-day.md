@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:06:11 +0000"
 id: "515"
 old_path: /sport/515/dodgeball-and-medsin-team-up-for-world-aids-day
-redirect_from:
+aliases:
  - /sport/515/dodgeball-and-medsin-team-up-for-world-aids-day
 category: sport
 

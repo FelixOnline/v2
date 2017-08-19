@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:41:06 +0000"
 id: "5434"
 old_path: /arts/5434/an-ode-to-medicine-mortality-and-art
-redirect_from:
+aliases:
  - /arts/5434/an-ode-to-medicine-mortality-and-art
 category: arts
 

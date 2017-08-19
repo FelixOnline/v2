@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 18:56:01 +0000"
 id: "707"
 old_path: /food/707/spend-your-moolah-on-moolis
-redirect_from:
+aliases:
  - /food/707/spend-your-moolah-on-moolis
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 18:57:41 +0000"
 id: "809"
 old_path: /arts/809/100-years-of-solitude
-redirect_from:
+aliases:
  - /arts/809/100-years-of-solitude
 category: arts
 

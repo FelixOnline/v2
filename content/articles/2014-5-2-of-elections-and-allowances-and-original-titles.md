@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:04:46 +0100"
 id: "4540"
 old_path: /comment/4540/of-elections-and-allowances-and-original-titles
-redirect_from:
+aliases:
  - /comment/4540/of-elections-and-allowances-and-original-titles
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-30 10:47:38 +0100"
 id: "130"
 old_path: /tech/130/apples-ipad-launch
-redirect_from:
+aliases:
  - /tech/130/apples-ipad-launch
 category: tech
 

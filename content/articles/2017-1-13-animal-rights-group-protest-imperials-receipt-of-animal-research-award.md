@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 13:54:18 +0000"
 id: "6630"
 old_path: /news/6630/animal-rights-group-protest-imperials-receipt-of-animal-research-award
-redirect_from:
+aliases:
  - /news/6630/animal-rights-group-protest-imperials-receipt-of-animal-research-award
 category: news
 

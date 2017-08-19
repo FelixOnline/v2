@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 22:20:19 +0000"
 id: "2033"
 old_path: /news/2033/concerns-over-future-of-humanities
-redirect_from:
+aliases:
  - /news/2033/concerns-over-future-of-humanities
 category: news
 

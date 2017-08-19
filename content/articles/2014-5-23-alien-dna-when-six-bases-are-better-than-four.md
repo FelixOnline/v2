@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 13:48:35 +0100"
 id: "4619"
 old_path: /science/4619/alien-dna-when-six-bases-are-better-than-four-
-redirect_from:
+aliases:
  - /science/4619/alien-dna-when-six-bases-are-better-than-four-
 category: science
 

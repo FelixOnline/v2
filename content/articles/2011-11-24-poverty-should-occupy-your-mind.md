@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 23:36:03 +0000"
 id: "1850"
 old_path: /comment/1850/poverty-should-occupy-your-mind
-redirect_from:
+aliases:
  - /comment/1850/poverty-should-occupy-your-mind
 category: comment
 

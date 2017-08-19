@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:12:33 +0100"
 id: "2694"
 old_path: /biz/2694/silicon-valley-south-ken-
-redirect_from:
+aliases:
  - /biz/2694/silicon-valley-south-ken-
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 14:54:29 +0000"
 id: "6901"
 old_path: /science/6901/can-dessert-be-good-for-you
-redirect_from:
+aliases:
  - /science/6901/can-dessert-be-good-for-you
 category: science
 

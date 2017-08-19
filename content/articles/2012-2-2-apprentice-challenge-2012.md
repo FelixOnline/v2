@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:58:11 +0000"
 id: "2097"
 old_path: /biz/2097/apprentice-challenge-2012
-redirect_from:
+aliases:
  - /biz/2097/apprentice-challenge-2012
 category: business
 

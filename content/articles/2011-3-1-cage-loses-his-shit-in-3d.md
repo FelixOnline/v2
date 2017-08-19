@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:03:08 +0000"
 id: "963"
 old_path: /film/963/cage-loses-his-shit-in-3d
-redirect_from:
+aliases:
  - /film/963/cage-loses-his-shit-in-3d
 category: film
 

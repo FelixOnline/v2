@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:26:20 +0000"
 id: "6848"
 old_path: /music/6848/bonobo-at-o2-academy-brixton
-redirect_from:
+aliases:
  - /music/6848/bonobo-at-o2-academy-brixton
 category: music
 

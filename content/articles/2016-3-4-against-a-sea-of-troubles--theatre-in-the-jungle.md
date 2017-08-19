@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:47:07 +0000"
 id: "6008"
 old_path: /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
-redirect_from:
+aliases:
  - /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
 category: arts
 

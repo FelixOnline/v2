@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 17:00:48 +0000"
 id: "63"
 old_path: /comment/63/worries-for-irish-politics
-redirect_from:
+aliases:
  - /comment/63/worries-for-irish-politics
 category: comment
 

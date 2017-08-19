@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:21:08 +0000"
 id: "467"
 old_path: /film/467/a-festive-comedy-horror-from-finland
-redirect_from:
+aliases:
  - /film/467/a-festive-comedy-horror-from-finland
 category: film
 

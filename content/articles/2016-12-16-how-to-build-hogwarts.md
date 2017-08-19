@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 16:06:16 +0000"
 id: "6622"
 old_path: /food/6622/how-to-build-hogwarts
-redirect_from:
+aliases:
  - /food/6622/how-to-build-hogwarts
 category: food
 

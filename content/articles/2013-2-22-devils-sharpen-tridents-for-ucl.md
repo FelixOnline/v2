@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:06:21 +0000"
 id: "3371"
 old_path: /sport/3371/devils-sharpen-tridents-for-ucl
-redirect_from:
+aliases:
  - /sport/3371/devils-sharpen-tridents-for-ucl
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 20:36:24 +0000"
 id: "1965"
 old_path: /sport/1965/discdoctors-grab-bucs-points
-redirect_from:
+aliases:
  - /sport/1965/discdoctors-grab-bucs-points
 category: sport
 

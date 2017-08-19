@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:07:33 +0000"
 id: "880"
 old_path: /tech/880/ai-geek-bests-human-rivals
-redirect_from:
+aliases:
  - /tech/880/ai-geek-bests-human-rivals
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:44:17 +0000"
 id: "4275"
 old_path: /news/4275/college-imperial-college-india-foundation-scholarship-programme
-redirect_from:
+aliases:
  - /news/4275/college-imperial-college-india-foundation-scholarship-programme
 category: news
 

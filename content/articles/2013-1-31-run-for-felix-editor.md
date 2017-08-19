@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:32:51 +0000"
 id: "3197"
 old_path: /comment/3197/run-for-felix-editor
-redirect_from:
+aliases:
  - /comment/3197/run-for-felix-editor
 category: comment
 

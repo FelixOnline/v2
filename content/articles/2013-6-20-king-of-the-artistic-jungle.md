@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 15:46:33 +0100"
 id: "3701"
 old_path: /books/3701/king-of-the-artistic-jungle
-redirect_from:
+aliases:
  - /books/3701/king-of-the-artistic-jungle
 category: books
 

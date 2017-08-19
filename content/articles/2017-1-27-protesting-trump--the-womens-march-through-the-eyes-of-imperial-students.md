@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 14:54:38 +0000"
 id: "6685"
 old_path: /features/6685/protesting-trump--the-womens-march-through-the-eyes-of-imperial-students-
-redirect_from:
+aliases:
  - /features/6685/protesting-trump--the-womens-march-through-the-eyes-of-imperial-students-
 category: features
 

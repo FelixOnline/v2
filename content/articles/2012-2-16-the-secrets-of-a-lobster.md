@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:48:30 +0000"
 id: "2197"
 old_path: /food/2197/the-secrets-of-a-lobster
-redirect_from:
+aliases:
  - /food/2197/the-secrets-of-a-lobster
 category: food
 

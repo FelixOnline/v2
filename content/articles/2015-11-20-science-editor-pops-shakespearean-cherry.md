@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:41:24 +0000"
 id: "5762"
 old_path: /arts/5762/science-editor-pops-shakespearean-cherry-
-redirect_from:
+aliases:
  - /arts/5762/science-editor-pops-shakespearean-cherry-
 category: arts
 

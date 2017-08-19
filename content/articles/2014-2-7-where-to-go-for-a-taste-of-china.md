@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:48:12 +0000"
 id: "4346"
 old_path: /food/4346/where-to-go-for-a-taste-of-china
-redirect_from:
+aliases:
  - /food/4346/where-to-go-for-a-taste-of-china
 category: food
 

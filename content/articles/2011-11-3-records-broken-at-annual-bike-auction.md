@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:29:24 +0000"
 id: "1652"
 old_path: /news/1652/records-broken-at-annual-bike-auction
-redirect_from:
+aliases:
  - /news/1652/records-broken-at-annual-bike-auction
 category: news
 

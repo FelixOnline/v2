@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:59:17 +0100"
 id: "2659"
 old_path: /news/2659/better-than-the-olympics
-redirect_from:
+aliases:
  - /news/2659/better-than-the-olympics
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:09:17 +0000"
 id: "1909"
 old_path: /news/1909/avoid-student-scammers
-redirect_from:
+aliases:
  - /news/1909/avoid-student-scammers
 category: news
 

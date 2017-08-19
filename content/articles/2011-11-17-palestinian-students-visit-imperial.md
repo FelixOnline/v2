@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:28:16 +0000"
 id: "1759"
 old_path: /politics/1759/palestinian-students-visit-imperial
-redirect_from:
+aliases:
  - /politics/1759/palestinian-students-visit-imperial
 category: politics
 

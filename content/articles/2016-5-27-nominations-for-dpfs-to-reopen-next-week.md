@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:40:28 +0100"
 id: "6199"
 old_path: /news/6199/nominations-for-dpfs-to-reopen-next-week
-redirect_from:
+aliases:
  - /news/6199/nominations-for-dpfs-to-reopen-next-week
 category: news
 

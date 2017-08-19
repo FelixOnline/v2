@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:55:53 +0100"
 id: "4525"
 old_path: /arts/4525/an-alcoholic-bucolic-frolic
-redirect_from:
+aliases:
  - /arts/4525/an-alcoholic-bucolic-frolic
 category: arts
 

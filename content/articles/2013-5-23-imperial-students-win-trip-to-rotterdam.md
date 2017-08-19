@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:30:48 +0100"
 id: "3620"
 old_path: /news/3620/imperial-students-win-trip-to-rotterdam
-redirect_from:
+aliases:
  - /news/3620/imperial-students-win-trip-to-rotterdam
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:53:59 +0000"
 id: "6698"
 old_path: /music/6698/most-anticipated-hip-hop-albums-of-2017-
-redirect_from:
+aliases:
  - /music/6698/most-anticipated-hip-hop-albums-of-2017-
 category: music
 

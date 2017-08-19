@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 19:56:51 +0100"
 id: "5631"
 old_path: /music/5631/the-years-biggest-moments-in-music
-redirect_from:
+aliases:
  - /music/5631/the-years-biggest-moments-in-music
 category: music
 

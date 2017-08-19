@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:46:59 +0100"
 id: "2653"
 old_path: /news/2653/do-you-have-a-cloud-of-ideas
-redirect_from:
+aliases:
  - /news/2653/do-you-have-a-cloud-of-ideas
 category: news
 

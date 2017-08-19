@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:14:25 +0000"
 id: "292"
 old_path: /arts/292/marclays-24hr-masterpiece-
-redirect_from:
+aliases:
  - /arts/292/marclays-24hr-masterpiece-
 category: arts
 

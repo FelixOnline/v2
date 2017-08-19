@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:04:15 +0100"
 id: "2662"
 old_path: /film/2662/emma-watsons-tasty-wallflower
-redirect_from:
+aliases:
  - /film/2662/emma-watsons-tasty-wallflower
 category: film
 

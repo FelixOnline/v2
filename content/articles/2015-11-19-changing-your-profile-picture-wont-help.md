@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:40:44 +0000"
 id: "5745"
 old_path: /comment/5745/changing-your-profile-picture-wont-help
-redirect_from:
+aliases:
  - /comment/5745/changing-your-profile-picture-wont-help
 category: comment
 

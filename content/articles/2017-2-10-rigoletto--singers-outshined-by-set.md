@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:52:05 +0000"
 id: "6765"
 old_path: /arts/6765/rigoletto--singers-outshined-by-set
-redirect_from:
+aliases:
  - /arts/6765/rigoletto--singers-outshined-by-set
 category: arts
 

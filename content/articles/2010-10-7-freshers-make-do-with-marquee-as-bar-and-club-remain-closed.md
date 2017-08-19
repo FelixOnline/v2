@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 21:59:43 +0100"
 id: "172"
 old_path: /news/172/freshers-make-do-with-marquee-as-bar-and-club-remain-closed
-redirect_from:
+aliases:
  - /news/172/freshers-make-do-with-marquee-as-bar-and-club-remain-closed
 category: news
 

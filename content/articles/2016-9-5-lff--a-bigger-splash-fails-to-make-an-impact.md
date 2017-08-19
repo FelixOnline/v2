@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-09-05 20:25:55 +0100"
 id: "6293"
 old_path: /film/6293/lff--a-bigger-splash-fails-to-make-an-impact
-redirect_from:
+aliases:
  - /film/6293/lff--a-bigger-splash-fails-to-make-an-impact
 category: film
 

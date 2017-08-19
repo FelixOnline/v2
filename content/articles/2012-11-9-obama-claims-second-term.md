@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:16:23 +0000"
 id: "2845"
 old_path: /politics/2845/obama-claims-second-term
-redirect_from:
+aliases:
  - /politics/2845/obama-claims-second-term
 category: politics
 

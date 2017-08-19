@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:41:45 +0000"
 id: "443"
 old_path: /comment/443/justice-is-a-powerful-word-and-it-must-not-be-misused
-redirect_from:
+aliases:
  - /comment/443/justice-is-a-powerful-word-and-it-must-not-be-misused
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:10:33 +0000"
 id: "2140"
 old_path: /politics/2140/bringing-down-the-bankers
-redirect_from:
+aliases:
  - /politics/2140/bringing-down-the-bankers
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 16:37:57 +0000"
 id: "5290"
 old_path: /welfare/5290/recovering-one-day-at-a-time
-redirect_from:
+aliases:
  - /welfare/5290/recovering-one-day-at-a-time
 category: welfare
 

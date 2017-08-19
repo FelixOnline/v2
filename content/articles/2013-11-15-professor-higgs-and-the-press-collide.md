@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:18:41 +0000"
 id: "4061"
 old_path: /science/4061/professor-higgs-and-the-press-collide-
-redirect_from:
+aliases:
  - /science/4061/professor-higgs-and-the-press-collide-
 category: science
 

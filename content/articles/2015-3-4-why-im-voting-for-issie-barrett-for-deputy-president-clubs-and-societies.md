@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-04 13:58:37 +0000"
 id: "5333"
 old_path: /comment/5333/why-im-voting-for-issie-barrett-for-deputy-president-clubs-and-societies
-redirect_from:
+aliases:
  - /comment/5333/why-im-voting-for-issie-barrett-for-deputy-president-clubs-and-societies
 category: comment
 

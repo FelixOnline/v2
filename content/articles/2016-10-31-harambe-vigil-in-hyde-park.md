@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 13:41:12 +0000"
 id: "6361"
 old_path: /news/6361/harambe-vigil-in-hyde-park
-redirect_from:
+aliases:
  - /news/6361/harambe-vigil-in-hyde-park
 category: news
 

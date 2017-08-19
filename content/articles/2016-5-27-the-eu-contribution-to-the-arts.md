@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 09:01:56 +0100"
 id: "6217"
 old_path: /arts/6217/the-eu-contribution-to-the-arts-
-redirect_from:
+aliases:
  - /arts/6217/the-eu-contribution-to-the-arts-
 category: arts
 

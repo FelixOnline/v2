@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 22:59:20 +0100"
 id: "3715"
 old_path: /music/3715/positive-prediction-for-free-improv
-redirect_from:
+aliases:
  - /music/3715/positive-prediction-for-free-improv
 category: music
 

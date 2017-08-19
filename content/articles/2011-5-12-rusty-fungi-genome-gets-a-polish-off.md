@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 16:31:55 +0100"
 id: "1189"
 old_path: /science/1189/rusty-fungi-genome-gets-a-polish-off
-redirect_from:
+aliases:
  - /science/1189/rusty-fungi-genome-gets-a-polish-off
 category: science
 

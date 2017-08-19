@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:23:36 +0000"
 id: "6019"
 old_path: /news/6019/squatting-in-the-shadow-of-harrods
-redirect_from:
+aliases:
  - /news/6019/squatting-in-the-shadow-of-harrods
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:19:48 +0000"
 id: "769"
 old_path: /science/769/mysterious-chopin-list-of-brain-disorders-
-redirect_from:
+aliases:
  - /science/769/mysterious-chopin-list-of-brain-disorders-
 category: science
 

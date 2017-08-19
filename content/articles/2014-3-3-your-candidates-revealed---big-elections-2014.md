@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-03 14:14:24 +0000"
 id: "4449"
 old_path: /news/4449/your-candidates-revealed---big-elections-2014
-redirect_from:
+aliases:
  - /news/4449/your-candidates-revealed---big-elections-2014
 category: news
 

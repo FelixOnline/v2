@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-18 16:50:10 +0000"
 id: "93"
 old_path: /arts/93/jerusalem--perfection-in-the-west-end
-redirect_from:
+aliases:
  - /arts/93/jerusalem--perfection-in-the-west-end
 category: arts
 

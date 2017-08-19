@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:25:59 +0000"
 id: "2837"
 old_path: /news/2837/down-to-business
-redirect_from:
+aliases:
  - /news/2837/down-to-business
 category: news
 

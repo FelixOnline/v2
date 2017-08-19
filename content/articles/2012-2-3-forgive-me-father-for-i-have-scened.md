@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 11:16:20 +0000"
 id: "2130"
 old_path: /music/2130/forgive-me-father-for-i-have-scened
-redirect_from:
+aliases:
  - /music/2130/forgive-me-father-for-i-have-scened
 category: music
 

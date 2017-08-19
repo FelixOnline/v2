@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:47:20 +0000"
 id: "6677"
 old_path: /games/6677/game-spotlight--persona-5
-redirect_from:
+aliases:
  - /games/6677/game-spotlight--persona-5
 category: games
 

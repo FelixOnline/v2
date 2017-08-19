@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 18:07:32 +0000"
 id: "6737"
 old_path: /features/6737/starving-anxiety-into-submission--anorexia
-redirect_from:
+aliases:
  - /features/6737/starving-anxiety-into-submission--anorexia
 category: features
 

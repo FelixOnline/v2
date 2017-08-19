@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 18:04:05 +0000"
 id: "68"
 old_path: /arts/68/omigod-you-guys-like-a-new-musical
-redirect_from:
+aliases:
  - /arts/68/omigod-you-guys-like-a-new-musical
 category: arts
 

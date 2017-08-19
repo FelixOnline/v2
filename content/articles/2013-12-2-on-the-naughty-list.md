@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:46:35 +0000"
 id: "4153"
 old_path: /comment/4153/on-the-naughty-list
-redirect_from:
+aliases:
  - /comment/4153/on-the-naughty-list
 category: comment
 

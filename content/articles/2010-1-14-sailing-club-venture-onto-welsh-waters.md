@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 22:27:49 +0000"
 id: "39"
 old_path: /sport/39/sailing-club-venture-onto-welsh-waters
-redirect_from:
+aliases:
  - /sport/39/sailing-club-venture-onto-welsh-waters
 category: sport
 

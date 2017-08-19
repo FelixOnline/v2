@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-14 11:52:43 +0100"
 id: "137"
 old_path: /tech/137/lanchiya-mi-football-ipod-dock-review
-redirect_from:
+aliases:
  - /tech/137/lanchiya-mi-football-ipod-dock-review
 category: tech
 

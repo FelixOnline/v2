@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:19:26 +0000"
 id: "1100"
 old_path: /tech/1100/ipad-2-blows-away-rivals
-redirect_from:
+aliases:
  - /tech/1100/ipad-2-blows-away-rivals
 category: tech
 

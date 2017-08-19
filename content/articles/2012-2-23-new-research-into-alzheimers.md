@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:58:40 +0000"
 id: "2249"
 old_path: /science/2249/new-research-into-alzheimers-
-redirect_from:
+aliases:
  - /science/2249/new-research-into-alzheimers-
 category: science
 

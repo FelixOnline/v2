@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:40:08 +0000"
 id: "5761"
 old_path: /arts/5761/stand-up-stars-raise-money-for-refugees
-redirect_from:
+aliases:
  - /arts/5761/stand-up-stars-raise-money-for-refugees
 category: arts
 

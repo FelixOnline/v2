@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 14:54:39 +0000"
 id: "5185"
 old_path: /science/5185/artificial-intelligence-with-a-consciousness-
-redirect_from:
+aliases:
  - /science/5185/artificial-intelligence-with-a-consciousness-
 category: science
 

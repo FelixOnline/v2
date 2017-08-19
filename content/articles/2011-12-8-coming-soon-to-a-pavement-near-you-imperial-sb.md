@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:48:59 +0000"
 id: "1922"
 old_path: /sport/1922/coming-soon-to-a-pavement-near-you-imperial-sb
-redirect_from:
+aliases:
  - /sport/1922/coming-soon-to-a-pavement-near-you-imperial-sb
 category: sport
 

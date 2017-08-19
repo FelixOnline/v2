@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:39:48 +0100"
 id: "7021"
 old_path: /food/7021/lazy-food-edition--chilled-rice-pudding-with-berry-compote
-redirect_from:
+aliases:
  - /food/7021/lazy-food-edition--chilled-rice-pudding-with-berry-compote
 category: food
 

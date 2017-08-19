@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 22:14:52 +0000"
 id: "1792"
 old_path: /comment/1792/calm-down-dear-its-only-an-opinion
-redirect_from:
+aliases:
  - /comment/1792/calm-down-dear-its-only-an-opinion
 category: comment
 

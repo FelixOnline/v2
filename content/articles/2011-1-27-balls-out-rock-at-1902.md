@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:38:28 +0000"
 id: "698"
 old_path: /music/698/balls-out-rock-at-1902-
-redirect_from:
+aliases:
  - /music/698/balls-out-rock-at-1902-
 category: music
 

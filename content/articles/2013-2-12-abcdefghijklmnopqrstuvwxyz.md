@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-12 18:28:18 +0000"
 id: "3291"
 old_path: /film/3291/abcdefghijklmnopqrstuvwxyz
-redirect_from:
+aliases:
  - /film/3291/abcdefghijklmnopqrstuvwxyz
 category: film
 

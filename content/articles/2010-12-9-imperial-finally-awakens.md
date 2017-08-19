@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:45:21 +0000"
 id: "541"
 old_path: /news/541/imperial-finally-awakens
-redirect_from:
+aliases:
  - /news/541/imperial-finally-awakens
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:48:03 +0100"
 id: "6988"
 old_path: /news/6988/college-increases-security-in-wake-of-manchester-attack
-redirect_from:
+aliases:
  - /news/6988/college-increases-security-in-wake-of-manchester-attack
 category: news
 

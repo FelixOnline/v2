@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 03:30:22 +0000"
 id: "4494"
 old_path: /news/4494/rcsu-science-challenge-winners-announced
-redirect_from:
+aliases:
  - /news/4494/rcsu-science-challenge-winners-announced
 category: news
 

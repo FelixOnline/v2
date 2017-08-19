@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:56:22 +0000"
 id: "1976"
 old_path: /science/1976/its-raining-methane
-redirect_from:
+aliases:
  - /science/1976/its-raining-methane
 category: science
 

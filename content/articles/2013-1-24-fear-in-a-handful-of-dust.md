@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 22:33:31 +0000"
 id: "3166"
 old_path: /music/3166/fear-in-a-handful-of-dust
-redirect_from:
+aliases:
  - /music/3166/fear-in-a-handful-of-dust
 category: music
 

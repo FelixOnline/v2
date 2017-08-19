@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-16 13:56:28 +0100"
 id: "3878"
 old_path: /tech/3878/get-rich-quick-youtube-style
-redirect_from:
+aliases:
  - /tech/3878/get-rich-quick-youtube-style
 category: tech
 

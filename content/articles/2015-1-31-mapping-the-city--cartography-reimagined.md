@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 18:56:46 +0000"
 id: "5168"
 old_path: /arts/5168/mapping-the-city--cartography-reimagined
-redirect_from:
+aliases:
  - /arts/5168/mapping-the-city--cartography-reimagined
 category: arts
 

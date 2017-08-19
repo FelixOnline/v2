@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:27:07 +0000"
 id: "1892"
 old_path: /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
-redirect_from:
+aliases:
  - /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
 category: comment
 

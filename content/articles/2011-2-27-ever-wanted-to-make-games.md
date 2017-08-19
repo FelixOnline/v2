@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:58:25 +0000"
 id: "903"
 old_path: /games/903/ever-wanted-to-make-games
-redirect_from:
+aliases:
  - /games/903/ever-wanted-to-make-games
 category: games
 

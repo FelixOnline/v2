@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-12 12:47:06 +0000"
 id: "5047"
 old_path: /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
-redirect_from:
+aliases:
  - /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
 category: news
 

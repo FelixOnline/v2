@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-13 03:03:09 +0100"
 id: "4690"
 old_path: /news/4690/college-to-close-its-4-year-graduate-entry-medicine-course
-redirect_from:
+aliases:
  - /news/4690/college-to-close-its-4-year-graduate-entry-medicine-course
 category: news
 

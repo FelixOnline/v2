@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:32:21 +0000"
 id: "3441"
 old_path: /news/3441/protest-over-garden-closure
-redirect_from:
+aliases:
  - /news/3441/protest-over-garden-closure
 category: news
 

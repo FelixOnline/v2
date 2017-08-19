@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-18 16:53:16 +0000"
 id: "94"
 old_path: /arts/94/soza-boy-by-ken-saro-wiwa
-redirect_from:
+aliases:
  - /arts/94/soza-boy-by-ken-saro-wiwa
 category: arts
 

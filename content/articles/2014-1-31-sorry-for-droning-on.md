@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:51:34 +0000"
 id: "4322"
 old_path: /comment/4322/sorry-for-droning-on-
-redirect_from:
+aliases:
  - /comment/4322/sorry-for-droning-on-
 category: comment
 

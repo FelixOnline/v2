@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:19:07 +0000"
 id: "5073"
 old_path: /arts/5073/a-warm-refuge-from-the-heart-of-a-bitter-winter
-redirect_from:
+aliases:
  - /arts/5073/a-warm-refuge-from-the-heart-of-a-bitter-winter
 category: arts
 

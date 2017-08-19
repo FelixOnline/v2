@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:32:26 +0000"
 id: "2191"
 old_path: /news/2191/vintage-bar-night-for-hockey-club
-redirect_from:
+aliases:
  - /news/2191/vintage-bar-night-for-hockey-club
 category: news
 

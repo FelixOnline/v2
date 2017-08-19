@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:46:58 +0000"
 id: "3366"
 old_path: /comment/3366/populist-legislation-sure-to-destroy-londons-economy
-redirect_from:
+aliases:
  - /comment/3366/populist-legislation-sure-to-destroy-londons-economy
 category: comment
 

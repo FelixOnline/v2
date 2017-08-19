@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:54:20 +0000"
 id: "4102"
 old_path: /features/4102/natural-history-museum-skate--drink-review
-redirect_from:
+aliases:
  - /features/4102/natural-history-museum-skate--drink-review
 category: features
 

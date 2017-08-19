@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:48:07 +0000"
 id: "935"
 old_path: /games/935/dirty-harry-the-game
-redirect_from:
+aliases:
  - /games/935/dirty-harry-the-game
 category: games
 

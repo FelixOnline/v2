@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 21:01:05 +0100"
 id: "1431"
 old_path: /arts/1431/psycho-alice-in-post-exam-wonderland
-redirect_from:
+aliases:
  - /arts/1431/psycho-alice-in-post-exam-wonderland
 category: arts
 

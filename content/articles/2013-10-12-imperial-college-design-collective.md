@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 20:10:42 +0100"
 id: "3865"
 old_path: /features/3865/imperial-college-design-collective
-redirect_from:
+aliases:
  - /features/3865/imperial-college-design-collective
 category: features
 

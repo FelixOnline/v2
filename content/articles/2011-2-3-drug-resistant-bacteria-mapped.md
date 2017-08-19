@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:57:17 +0000"
 id: "730"
 old_path: /science/730/drug-resistant-bacteria-mapped-
-redirect_from:
+aliases:
  - /science/730/drug-resistant-bacteria-mapped-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:13:55 +0100"
 id: "3718"
 old_path: /arts/3718/outsider-art
-redirect_from:
+aliases:
  - /arts/3718/outsider-art
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:41:30 +0100"
 id: "4637"
 old_path: /news/4637/oxford-student-union-in-nus-u-turn
-redirect_from:
+aliases:
  - /news/4637/oxford-student-union-in-nus-u-turn
 category: news
 

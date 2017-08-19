@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:30:52 +0100"
 id: "3600"
 old_path: /sport/3600/bucs-bronze-for-water-polo
-redirect_from:
+aliases:
  - /sport/3600/bucs-bronze-for-water-polo
 category: sport
 

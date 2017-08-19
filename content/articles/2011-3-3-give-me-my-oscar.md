@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:26:59 +0000"
 id: "1009"
 old_path: /film/1009/give-me-my-oscar
-redirect_from:
+aliases:
  - /film/1009/give-me-my-oscar
 category: film
 

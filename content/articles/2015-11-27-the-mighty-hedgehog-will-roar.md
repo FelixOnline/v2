@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 14:17:33 +0000"
 id: "5774"
 old_path: /comment/5774/the-mighty-hedgehog-will-roar
-redirect_from:
+aliases:
  - /comment/5774/the-mighty-hedgehog-will-roar
 category: comment
 

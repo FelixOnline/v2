@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-19 11:09:54 +0100"
 id: "1552"
 old_path: /science/1552/genetic-link-for-heavy-heart-condition-identified
-redirect_from:
+aliases:
  - /science/1552/genetic-link-for-heavy-heart-condition-identified
 category: science
 

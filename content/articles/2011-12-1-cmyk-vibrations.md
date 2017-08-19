@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:09:34 +0000"
 id: "1882"
 old_path: /music/1882/cmyk-vibrations-
-redirect_from:
+aliases:
  - /music/1882/cmyk-vibrations-
 category: music
 

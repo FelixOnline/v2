@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:44:27 +0100"
 id: "2602"
 old_path: /tech/2602/omg-new-smartphones
-redirect_from:
+aliases:
  - /tech/2602/omg-new-smartphones
 category: tech
 

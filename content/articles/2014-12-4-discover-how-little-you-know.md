@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:41:34 +0000"
 id: "5002"
 old_path: /film/5002/discover-how-little-you-know
-redirect_from:
+aliases:
  - /film/5002/discover-how-little-you-know
 category: film
 

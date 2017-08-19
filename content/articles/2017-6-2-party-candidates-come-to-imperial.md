@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:50:59 +0100"
 id: "6998"
 old_path: /news/6998/party-candidates-come-to-imperial
-redirect_from:
+aliases:
  - /news/6998/party-candidates-come-to-imperial
 category: news
 

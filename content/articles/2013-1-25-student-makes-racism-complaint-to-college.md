@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:16:33 +0000"
 id: "3175"
 old_path: /news/3175/student-makes-racism-complaint-to-college
-redirect_from:
+aliases:
  - /news/3175/student-makes-racism-complaint-to-college
 category: news
 

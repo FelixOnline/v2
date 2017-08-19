@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 10:49:37 +0100"
 id: "5662"
 old_path: /news/5662/president-xi-comes-to-imperial
-redirect_from:
+aliases:
  - /news/5662/president-xi-comes-to-imperial
 category: news
 

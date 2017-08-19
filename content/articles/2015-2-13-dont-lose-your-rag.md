@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 15:16:45 +0000"
 id: "5257"
 old_path: /cands/5257/dont-lose-your-rag
-redirect_from:
+aliases:
  - /cands/5257/dont-lose-your-rag
 category: clubs-and-socs
 

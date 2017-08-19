@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 00:39:34 +0000"
 id: "5385"
 old_path: /science/5385/methods-developed-at-imperial-could-make-burning-fossil-fuels-guilt-free-
-redirect_from:
+aliases:
  - /science/5385/methods-developed-at-imperial-could-make-burning-fossil-fuels-guilt-free-
 category: science
 

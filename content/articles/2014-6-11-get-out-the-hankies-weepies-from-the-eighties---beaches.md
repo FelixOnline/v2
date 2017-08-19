@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 22:18:33 +0100"
 id: "4677"
 old_path: /film/4677/get-out-the-hankies-weepies-from-the-eighties---beaches
-redirect_from:
+aliases:
  - /film/4677/get-out-the-hankies-weepies-from-the-eighties---beaches
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 16:18:19 +0100"
 id: "3788"
 old_path: /features/3788/kops-visit-to-kenya
-redirect_from:
+aliases:
  - /features/3788/kops-visit-to-kenya
 category: features
 

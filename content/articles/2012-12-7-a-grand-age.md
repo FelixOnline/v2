@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:27:00 +0000"
 id: "3048"
 old_path: /arts/3048/a-grand-age
-redirect_from:
+aliases:
  - /arts/3048/a-grand-age
 category: arts
 

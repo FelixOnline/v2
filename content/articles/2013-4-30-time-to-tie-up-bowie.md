@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 14:32:29 +0100"
 id: "3504"
 old_path: /arts/3504/time-to-tie-up-bowie
-redirect_from:
+aliases:
  - /arts/3504/time-to-tie-up-bowie
 category: arts
 

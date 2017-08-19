@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:34:43 +0000"
 id: "3405"
 old_path: /news/3405/the-marrowthon
-redirect_from:
+aliases:
  - /news/3405/the-marrowthon
 category: news
 

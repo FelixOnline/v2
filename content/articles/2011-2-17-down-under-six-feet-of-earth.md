@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:31:48 +0000"
 id: "818"
 old_path: /film/818/down-under-six-feet-of-earth
-redirect_from:
+aliases:
  - /film/818/down-under-six-feet-of-earth
 category: film
 

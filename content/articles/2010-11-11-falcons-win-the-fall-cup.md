@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:49:34 +0000"
 id: "345"
 old_path: /sport/345/falcons-win-the-fall-cup-
-redirect_from:
+aliases:
  - /sport/345/falcons-win-the-fall-cup-
 category: sport
 

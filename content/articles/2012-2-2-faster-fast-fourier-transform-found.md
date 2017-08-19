@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:37:09 +0000"
 id: "2092"
 old_path: /science/2092/faster-fast-fourier-transform-found
-redirect_from:
+aliases:
  - /science/2092/faster-fast-fourier-transform-found
 category: science
 

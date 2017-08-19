@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 21:02:48 +0100"
 id: "3524"
 old_path: /news/3524/venture-catalyst-challenge-13--icstartup-just-the-start-
-redirect_from:
+aliases:
  - /news/3524/venture-catalyst-challenge-13--icstartup-just-the-start-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:22:57 +0000"
 id: "564"
 old_path: /arts/564/blown-away-by-the-soleil
-redirect_from:
+aliases:
  - /arts/564/blown-away-by-the-soleil
 category: arts
 

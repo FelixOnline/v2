@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:39:09 +0000"
 id: "5403"
 old_path: /sport/5403/late-tries-add-gloss-to-college-victory
-redirect_from:
+aliases:
  - /sport/5403/late-tries-add-gloss-to-college-victory
 category: sport
 

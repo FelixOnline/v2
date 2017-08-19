@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:05:30 +0000"
 id: "3281"
 old_path: /news/3281/money-week-offers-prizes
-redirect_from:
+aliases:
  - /news/3281/money-week-offers-prizes
 category: news
 

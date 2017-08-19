@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:37:27 +0000"
 id: "3363"
 old_path: /comment/3363/action-against-acton
-redirect_from:
+aliases:
  - /comment/3363/action-against-acton
 category: comment
 

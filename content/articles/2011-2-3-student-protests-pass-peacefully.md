@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:52:39 +0000"
 id: "728"
 old_path: /news/728/student-protests-pass-peacefully-
-redirect_from:
+aliases:
  - /news/728/student-protests-pass-peacefully-
 category: news
 

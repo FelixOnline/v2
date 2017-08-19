@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-02 11:14:20 +0100"
 id: "4518"
 old_path: /science/4518/scientists-discover-dwarf-planet
-redirect_from:
+aliases:
  - /science/4518/scientists-discover-dwarf-planet
 category: science
 

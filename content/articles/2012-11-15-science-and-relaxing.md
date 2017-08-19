@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 20:59:12 +0000"
 id: "2887"
 old_path: /comment/2887/science-and-relaxing
-redirect_from:
+aliases:
  - /comment/2887/science-and-relaxing
 category: comment
 

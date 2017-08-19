@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:55:35 +0000"
 id: "6714"
 old_path: /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
-redirect_from:
+aliases:
  - /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
 category: comment
 

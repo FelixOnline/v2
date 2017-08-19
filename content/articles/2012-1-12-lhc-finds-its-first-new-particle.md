@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:23:12 +0000"
 id: "1982"
 old_path: /science/1982/lhc-finds-its-first-new-particle
-redirect_from:
+aliases:
  - /science/1982/lhc-finds-its-first-new-particle
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:47:00 +0000"
 id: "569"
 old_path: /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
-redirect_from:
+aliases:
  - /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:38:26 +0100"
 id: "5534"
 old_path: /news/5534/anti-austerity-riots-break-out-in-whitehall-and-beyond
-redirect_from:
+aliases:
  - /news/5534/anti-austerity-riots-break-out-in-whitehall-and-beyond
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 10:55:12 +0000"
 id: "1119"
 old_path: /food/1119/whats-the-fuss-with-truffles
-redirect_from:
+aliases:
  - /food/1119/whats-the-fuss-with-truffles
 category: food
 

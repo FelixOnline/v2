@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:46:07 +0000"
 id: "1861"
 old_path: /biz/1861/a-western-tragedy
-redirect_from:
+aliases:
  - /biz/1861/a-western-tragedy
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-25 14:56:37 +0000"
 id: "1127"
 old_path: /sport/1127/double-bucs-fencing-champions
-redirect_from:
+aliases:
  - /sport/1127/double-bucs-fencing-champions
 category: sport
 

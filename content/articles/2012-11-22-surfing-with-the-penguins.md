@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:56:32 +0000"
 id: "2936"
 old_path: /news/2936/surfing-with-the-penguins
-redirect_from:
+aliases:
  - /news/2936/surfing-with-the-penguins
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:10:54 +0000"
 id: "487"
 old_path: /politics/487/norman-finkelstein-on-hamas-boycotts-and-liberty
-redirect_from:
+aliases:
  - /politics/487/norman-finkelstein-on-hamas-boycotts-and-liberty
 category: politics
 

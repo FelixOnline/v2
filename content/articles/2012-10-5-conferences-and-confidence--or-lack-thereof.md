@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:09:43 +0100"
 id: "2622"
 old_path: /politics/2622/conferences-and-confidence--or-lack-thereof
-redirect_from:
+aliases:
  - /politics/2622/conferences-and-confidence--or-lack-thereof
 category: politics
 

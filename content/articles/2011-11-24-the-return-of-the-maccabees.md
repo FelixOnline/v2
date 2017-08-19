@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:17:34 +0000"
 id: "1830"
 old_path: /music/1830/the-return-of-the-maccabees
-redirect_from:
+aliases:
  - /music/1830/the-return-of-the-maccabees
 category: music
 

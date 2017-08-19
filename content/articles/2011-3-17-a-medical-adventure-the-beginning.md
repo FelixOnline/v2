@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:34:47 +0000"
 id: "1093"
 old_path: /science/1093/a-medical-adventure-the-beginning
-redirect_from:
+aliases:
  - /science/1093/a-medical-adventure-the-beginning
 category: science
 

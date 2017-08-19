@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:31:54 +0000"
 id: "6919"
 old_path: /games/6919/my-first-week-with-switch
-redirect_from:
+aliases:
  - /games/6919/my-first-week-with-switch
 category: games
 

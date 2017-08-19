@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:18:54 +0100"
 id: "3719"
 old_path: /science/3719/science-and-the-students-
-redirect_from:
+aliases:
  - /science/3719/science-and-the-students-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:15:47 +0000"
 id: "6047"
 old_path: /sport/6047/caped-crusaders-swim-to-victory
-redirect_from:
+aliases:
  - /sport/6047/caped-crusaders-swim-to-victory
 category: sport
 

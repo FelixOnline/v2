@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:31:49 +0000"
 id: "3209"
 old_path: /science/3209/influenza-research-restart
-redirect_from:
+aliases:
  - /science/3209/influenza-research-restart
 category: science
 

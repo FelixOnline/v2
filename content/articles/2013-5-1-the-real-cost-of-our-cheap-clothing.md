@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 14:50:36 +0100"
 id: "3515"
 old_path: /news/3515/the-real-cost-of-our-cheap-clothing
-redirect_from:
+aliases:
  - /news/3515/the-real-cost-of-our-cheap-clothing
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:19:18 +0000"
 id: "563"
 old_path: /arts/563/the-clothes-youre-not-supposed-to-wear
-redirect_from:
+aliases:
  - /arts/563/the-clothes-youre-not-supposed-to-wear
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:46:25 +0000"
 id: "6551"
 old_path: /sport/6551/yacht-clubs-far-eastern-adventure
-redirect_from:
+aliases:
  - /sport/6551/yacht-clubs-far-eastern-adventure
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:06:09 +0000"
 id: "352"
 old_path: /science/352/diabetes-is-it-too-late
-redirect_from:
+aliases:
  - /science/352/diabetes-is-it-too-late
 category: science
 

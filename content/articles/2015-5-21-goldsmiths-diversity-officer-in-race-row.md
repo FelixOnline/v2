@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:06:28 +0100"
 id: "5547"
 old_path: /news/5547/goldsmiths-diversity-officer-in-race-row
-redirect_from:
+aliases:
  - /news/5547/goldsmiths-diversity-officer-in-race-row
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 23:25:34 +0000"
 id: "5249"
 old_path: /features/5249/getting-close-to-cowley
-redirect_from:
+aliases:
  - /features/5249/getting-close-to-cowley
 category: features
 

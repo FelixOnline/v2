@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:13:19 +0000"
 id: "5708"
 old_path: /film/5708/documentary-corner
-redirect_from:
+aliases:
  - /film/5708/documentary-corner
 category: film
 

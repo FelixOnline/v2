@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-04 15:13:48 +0000"
 id: "5793"
 old_path: /news/5793/imperials-charity-week-raises-over-61000
-redirect_from:
+aliases:
  - /news/5793/imperials-charity-week-raises-over-61000
 category: news
 

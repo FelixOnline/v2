@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:53:40 +0100"
 id: "4524"
 old_path: /arts/4524/can-you-sense-a-space
-redirect_from:
+aliases:
  - /arts/4524/can-you-sense-a-space
 category: arts
 

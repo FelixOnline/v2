@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:27:10 +0100"
 id: "2627"
 old_path: /sport/2627/harvard-take-a-hammering
-redirect_from:
+aliases:
  - /sport/2627/harvard-take-a-hammering
 category: sport
 

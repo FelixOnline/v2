@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 14:06:14 +0000"
 id: "5355"
 old_path: /sport/5355/imperial-falcons-finish-third-in-loughborough
-redirect_from:
+aliases:
  - /sport/5355/imperial-falcons-finish-third-in-loughborough
 category: sport
 

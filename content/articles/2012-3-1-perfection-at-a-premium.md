@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:18:03 +0000"
 id: "2272"
 old_path: /tech/2272/perfection-at-a-premium
-redirect_from:
+aliases:
  - /tech/2272/perfection-at-a-premium
 category: tech
 

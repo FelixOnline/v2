@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:38:48 +0100"
 id: "1300"
 old_path: /tech/1300/bada-make-things-happen
-redirect_from:
+aliases:
  - /tech/1300/bada-make-things-happen
 category: tech
 

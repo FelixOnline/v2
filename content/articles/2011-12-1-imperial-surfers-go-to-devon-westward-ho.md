@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:28:11 +0000"
 id: "1894"
 old_path: /sport/1894/imperial-surfers-go-to-devon-westward-ho
-redirect_from:
+aliases:
  - /sport/1894/imperial-surfers-go-to-devon-westward-ho
 category: sport
 

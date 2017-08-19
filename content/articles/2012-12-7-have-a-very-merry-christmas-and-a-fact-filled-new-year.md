@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:44:59 +0000"
 id: "3041"
 old_path: /science/3041/have-a-very-merry-christmas-and-a-fact-filled-new-year
-redirect_from:
+aliases:
  - /science/3041/have-a-very-merry-christmas-and-a-fact-filled-new-year
 category: science
 

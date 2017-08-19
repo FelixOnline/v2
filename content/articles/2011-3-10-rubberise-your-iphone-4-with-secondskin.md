@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:38:54 +0000"
 id: "1054"
 old_path: /tech/1054/rubberise-your-iphone-4-with-secondskin
-redirect_from:
+aliases:
  - /tech/1054/rubberise-your-iphone-4-with-secondskin
 category: tech
 

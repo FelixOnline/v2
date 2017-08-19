@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-07-23 10:47:50 +0100"
 id: "153"
 old_path: /arts/153/robot-the-musical-set-in-ikea
-redirect_from:
+aliases:
  - /arts/153/robot-the-musical-set-in-ikea
 category: arts
 

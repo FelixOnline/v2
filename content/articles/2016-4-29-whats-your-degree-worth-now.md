@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:34:03 +0100"
 id: "6097"
 old_path: /features/6097/whats-your-degree-worth-now
-redirect_from:
+aliases:
  - /features/6097/whats-your-degree-worth-now
 category: features
 

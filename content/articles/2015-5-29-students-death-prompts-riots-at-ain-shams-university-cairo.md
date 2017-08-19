@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 01:13:26 +0100"
 id: "5581"
 old_path: /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
-redirect_from:
+aliases:
  - /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
 category: news
 

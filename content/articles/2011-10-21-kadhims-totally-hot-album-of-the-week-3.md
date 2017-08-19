@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:23:55 +0100"
 id: "1597"
 old_path: /music/1597/kadhims-totally-hot-album-of-the-week-3
-redirect_from:
+aliases:
  - /music/1597/kadhims-totally-hot-album-of-the-week-3
 category: music
 

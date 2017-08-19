@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:27:24 +0000"
 id: "1893"
 old_path: /news/1893/babar-ahmad-petition-leads-to-debate
-redirect_from:
+aliases:
  - /news/1893/babar-ahmad-petition-leads-to-debate
 category: news
 

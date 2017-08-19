@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:15:08 +0000"
 id: "651"
 old_path: /news/651/increasing-obstacles-for-prospective-students-
-redirect_from:
+aliases:
  - /news/651/increasing-obstacles-for-prospective-students-
 category: news
 

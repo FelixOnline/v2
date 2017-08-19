@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:54:30 +0000"
 id: "6851"
 old_path: /games/6851/game-review--the-last-guardian
-redirect_from:
+aliases:
  - /games/6851/game-review--the-last-guardian
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 15:50:27 +0100"
 id: "2631"
 old_path: /news/2631/healthcare-trust-keep-records-poorly
-redirect_from:
+aliases:
  - /news/2631/healthcare-trust-keep-records-poorly
 category: news
 

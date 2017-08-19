@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-17 14:35:26 +0100"
 id: "4693"
 old_path: /news/4693/sabbatical-officer-name-change
-redirect_from:
+aliases:
  - /news/4693/sabbatical-officer-name-change
 category: news
 

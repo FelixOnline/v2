@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 17:16:32 +0000"
 id: "5133"
 old_path: /film/5133/wahlbergs-gamble
-redirect_from:
+aliases:
  - /film/5133/wahlbergs-gamble
 category: film
 

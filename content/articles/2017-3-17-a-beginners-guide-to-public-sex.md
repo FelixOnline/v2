@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:28:08 +0000"
 id: "6916"
 old_path: /sex/6916/a-beginners-guide-to-public-sex
-redirect_from:
+aliases:
  - /sex/6916/a-beginners-guide-to-public-sex
 category: sex
 

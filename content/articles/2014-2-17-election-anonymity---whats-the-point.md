@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:25:19 +0000"
 id: "4394"
 old_path: /comment/4394/election-anonymity---whats-the-point
-redirect_from:
+aliases:
  - /comment/4394/election-anonymity---whats-the-point
 category: comment
 

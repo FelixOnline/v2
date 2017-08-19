@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:17:58 +0000"
 id: "3158"
 old_path: /tech/3158/iphone-5-review-is-finally-here
-redirect_from:
+aliases:
  - /tech/3158/iphone-5-review-is-finally-here
 category: tech
 

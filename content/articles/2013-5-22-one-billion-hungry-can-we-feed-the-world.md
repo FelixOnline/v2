@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-22 14:35:58 +0100"
 id: "3599"
 old_path: /news/3599/one-billion-hungry-can-we-feed-the-world
-redirect_from:
+aliases:
  - /news/3599/one-billion-hungry-can-we-feed-the-world
 category: news
 

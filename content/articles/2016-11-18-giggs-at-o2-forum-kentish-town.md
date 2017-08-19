@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:43:48 +0000"
 id: "6484"
 old_path: /music/6484/giggs-at-o2-forum-kentish-town-
-redirect_from:
+aliases:
  - /music/6484/giggs-at-o2-forum-kentish-town-
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:53:26 +0000"
 id: "3396"
 old_path: /sport/3396/womens-rugby-top-of-bucs
-redirect_from:
+aliases:
  - /sport/3396/womens-rugby-top-of-bucs
 category: sport
 

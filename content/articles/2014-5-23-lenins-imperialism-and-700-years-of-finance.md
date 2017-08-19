@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 13:50:56 +0100"
 id: "4620"
 old_path: /comment/4620/lenins-imperialism-and-700-years-of-finance
-redirect_from:
+aliases:
  - /comment/4620/lenins-imperialism-and-700-years-of-finance
 category: comment
 

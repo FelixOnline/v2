@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:46:45 +0100"
 id: "2722"
 old_path: /news/2722/a-response-to-the-possible-ae-changes-article
-redirect_from:
+aliases:
  - /news/2722/a-response-to-the-possible-ae-changes-article
 category: news
 

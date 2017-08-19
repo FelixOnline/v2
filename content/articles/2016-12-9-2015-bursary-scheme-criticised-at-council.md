@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 11:53:33 +0000"
 id: "6559"
 old_path: /news/6559/2015-bursary-scheme-criticised-at-council
-redirect_from:
+aliases:
  - /news/6559/2015-bursary-scheme-criticised-at-council
 category: news
 

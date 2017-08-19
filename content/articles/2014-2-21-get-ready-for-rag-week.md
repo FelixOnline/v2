@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:08:46 +0000"
 id: "4417"
 old_path: /features/4417/get-ready-for-rag-week
-redirect_from:
+aliases:
  - /features/4417/get-ready-for-rag-week
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:00:36 +0000"
 id: "6072"
 old_path: /music/6072/grimes-electrifies-at-brixton
-redirect_from:
+aliases:
  - /music/6072/grimes-electrifies-at-brixton
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:33:02 +0000"
 id: "6001"
 old_path: /comment/6001/the-rent-guarantor-trap
-redirect_from:
+aliases:
  - /comment/6001/the-rent-guarantor-trap
 category: comment
 

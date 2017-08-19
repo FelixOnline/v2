@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 22:57:18 +0000"
 id: "4052"
 old_path: /tech/4052/the-ultimate-luxury-tech-list
-redirect_from:
+aliases:
  - /tech/4052/the-ultimate-luxury-tech-list
 category: tech
 

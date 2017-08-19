@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:15:36 +0000"
 id: "6445"
 old_path: /arts/6445/cymbeline
-redirect_from:
+aliases:
  - /arts/6445/cymbeline
 category: arts
 

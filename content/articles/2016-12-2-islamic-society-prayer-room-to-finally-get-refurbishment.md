@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 13:48:30 +0000"
 id: "6523"
 old_path: /news/6523/islamic-society-prayer-room-to-finally-get-refurbishment-
-redirect_from:
+aliases:
  - /news/6523/islamic-society-prayer-room-to-finally-get-refurbishment-
 category: news
 

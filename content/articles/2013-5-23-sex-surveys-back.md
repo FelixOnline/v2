@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:35:06 +0100"
 id: "3622"
 old_path: /comment/3622/sex-surveys-back
-redirect_from:
+aliases:
  - /comment/3622/sex-surveys-back
 category: comment
 

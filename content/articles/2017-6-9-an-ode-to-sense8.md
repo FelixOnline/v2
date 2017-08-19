@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:11:14 +0100"
 id: "7017"
 old_path: /tv/7017/an-ode-to-sense8
-redirect_from:
+aliases:
  - /tv/7017/an-ode-to-sense8
 category: tv
 

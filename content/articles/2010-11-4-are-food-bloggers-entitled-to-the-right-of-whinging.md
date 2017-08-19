@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:22:53 +0000"
 id: "295"
 old_path: /food/295/are-food-bloggers-entitled-to-the-right-of-whinging-
-redirect_from:
+aliases:
  - /food/295/are-food-bloggers-entitled-to-the-right-of-whinging-
 category: food
 

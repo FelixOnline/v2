@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-07-05 15:09:21 +0100"
 id: "3742"
 old_path: /music/3742/secret-garden-party-a-four-day-party-like-no-other
-redirect_from:
+aliases:
  - /music/3742/secret-garden-party-a-four-day-party-like-no-other
 category: music
 

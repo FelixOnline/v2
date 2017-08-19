@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:03:43 +0000"
 id: "2957"
 old_path: /comment/2957/moar-elections
-redirect_from:
+aliases:
  - /comment/2957/moar-elections
 category: comment
 

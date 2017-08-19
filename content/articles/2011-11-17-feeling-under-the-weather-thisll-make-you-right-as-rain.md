@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:50:25 +0000"
 id: "1788"
 old_path: /tv/1788/feeling-under-the-weather-thisll-make-you-right-as-rain
-redirect_from:
+aliases:
  - /tv/1788/feeling-under-the-weather-thisll-make-you-right-as-rain
 category: tv
 

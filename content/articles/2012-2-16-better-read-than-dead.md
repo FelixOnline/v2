@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:04:13 +0000"
 id: "2183"
 old_path: /books/2183/better-read-than-dead
-redirect_from:
+aliases:
  - /books/2183/better-read-than-dead
 category: books
 

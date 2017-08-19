@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:39:05 +0000"
 id: "6481"
 old_path: /music/6481/cohens-light-has-gone-dark-but-the-night-will-not-have-him
-redirect_from:
+aliases:
  - /music/6481/cohens-light-has-gone-dark-but-the-night-will-not-have-him
 category: music
 

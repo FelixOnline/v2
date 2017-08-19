@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:40:04 +0100"
 id: "5669"
 old_path: /science/5669/money-is-green-bank-of-england-in-awe
-redirect_from:
+aliases:
  - /science/5669/money-is-green-bank-of-england-in-awe
 category: science
 

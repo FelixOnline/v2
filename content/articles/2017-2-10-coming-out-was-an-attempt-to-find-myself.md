@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:44:25 +0000"
 id: "6746"
 old_path: /comment/6746/coming-out-was-an-attempt-to-find-myself
-redirect_from:
+aliases:
  - /comment/6746/coming-out-was-an-attempt-to-find-myself
 category: comment
 

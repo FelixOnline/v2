@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-09-23 10:31:31 +0100"
 id: "159"
 old_path: /arts/159/the-enos-new-season-kicks-off-with-a-new-version-of-gounods-faust
-redirect_from:
+aliases:
  - /arts/159/the-enos-new-season-kicks-off-with-a-new-version-of-gounods-faust
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:53:00 +0000"
 id: "6585"
 old_path: /film/6585/the-unknown-girl-ties-everything-up-in-the-end
-redirect_from:
+aliases:
  - /film/6585/the-unknown-girl-ties-everything-up-in-the-end
 category: film
 

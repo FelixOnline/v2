@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 16:24:46 +0000"
 id: "6804"
 old_path: /sport/6804/it-aint-easy-being-green
-redirect_from:
+aliases:
  - /sport/6804/it-aint-easy-being-green
 category: sport
 

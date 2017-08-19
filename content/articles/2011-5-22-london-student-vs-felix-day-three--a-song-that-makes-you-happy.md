@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-22 10:19:57 +0100"
 id: "1238"
 old_path: /music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy
-redirect_from:
+aliases:
  - /music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy
 category: music
 

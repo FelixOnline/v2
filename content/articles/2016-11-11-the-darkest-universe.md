@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 18:07:18 +0000"
 id: "6440"
 old_path: /film/6440/the-darkest-universe
-redirect_from:
+aliases:
  - /film/6440/the-darkest-universe
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 15:35:01 +0000"
 id: "5102"
 old_path: /sport/5102/kp-southampton-and-roger-federer-what-have-you-missed-in-sport
-redirect_from:
+aliases:
  - /sport/5102/kp-southampton-and-roger-federer-what-have-you-missed-in-sport
 category: sport
 

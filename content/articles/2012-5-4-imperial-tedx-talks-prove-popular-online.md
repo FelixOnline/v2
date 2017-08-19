@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 00:52:54 +0100"
 id: "2424"
 old_path: /news/2424/imperial-tedx-talks-prove-popular-online
-redirect_from:
+aliases:
  - /news/2424/imperial-tedx-talks-prove-popular-online
 category: news
 

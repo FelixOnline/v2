@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:05:07 +0000"
 id: "832"
 old_path: /comment/832/dont-be-afraid-to-ask-for-help
-redirect_from:
+aliases:
  - /comment/832/dont-be-afraid-to-ask-for-help
 category: comment
 

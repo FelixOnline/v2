@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:25:44 +0000"
 id: "5286"
 old_path: /cands/5286/hit-the-highway-with-indian-society
-redirect_from:
+aliases:
  - /cands/5286/hit-the-highway-with-indian-society
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:43:51 +0000"
 id: "6875"
 old_path: /arts/6875/ugly-lies-the-bone--vr-therapy-and-emotional-trauma
-redirect_from:
+aliases:
  - /arts/6875/ugly-lies-the-bone--vr-therapy-and-emotional-trauma
 category: arts
 

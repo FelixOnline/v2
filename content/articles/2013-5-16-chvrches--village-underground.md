@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 15:46:30 +0100"
 id: "3570"
 old_path: /music/3570/chvrches--village-underground
-redirect_from:
+aliases:
  - /music/3570/chvrches--village-underground
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:29:38 +0000"
 id: "5695"
 old_path: /news/5695/jeremy-hunts-for-a-solution-to-junior-doctor-drama
-redirect_from:
+aliases:
  - /news/5695/jeremy-hunts-for-a-solution-to-junior-doctor-drama
 category: news
 

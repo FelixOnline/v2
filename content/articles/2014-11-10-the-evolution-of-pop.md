@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:52:25 +0000"
 id: "4829"
 old_path: /music/4829/the-evolution-of-pop
-redirect_from:
+aliases:
  - /music/4829/the-evolution-of-pop
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 17:54:18 +0000"
 id: "6436"
 old_path: /tv/6436/the-good-place
-redirect_from:
+aliases:
  - /tv/6436/the-good-place
 category: tv
 

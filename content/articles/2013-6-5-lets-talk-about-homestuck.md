@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 11:23:03 +0100"
 id: "3649"
 old_path: /books/3649/lets-talk-about-homestuck
-redirect_from:
+aliases:
  - /books/3649/lets-talk-about-homestuck
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:13:15 +0100"
 id: "1256"
 old_path: /science/1256/top-banana-fights-fungal-infection-
-redirect_from:
+aliases:
  - /science/1256/top-banana-fights-fungal-infection-
 category: science
 

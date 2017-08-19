@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 11:41:22 +0000"
 id: "453"
 old_path: /news/453/royal-college-of-art-students-block-kensington-road-
-redirect_from:
+aliases:
  - /news/453/royal-college-of-art-students-block-kensington-road-
 category: news
 

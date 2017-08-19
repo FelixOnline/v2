@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:08:26 +0000"
 id: "4976"
 old_path: /sport/4976/phil-hughes-lewis-hamilton-and-spoty---the-world-sport-column
-redirect_from:
+aliases:
  - /sport/4976/phil-hughes-lewis-hamilton-and-spoty---the-world-sport-column
 category: sport
 

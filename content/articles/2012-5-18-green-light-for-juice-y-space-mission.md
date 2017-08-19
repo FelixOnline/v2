@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:20:08 +0100"
 id: "2470"
 old_path: /science/2470/green-light-for-juice-y-space-mission
-redirect_from:
+aliases:
  - /science/2470/green-light-for-juice-y-space-mission
 category: science
 

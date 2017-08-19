@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 12:01:28 +0000"
 id: "2133"
 old_path: /comment/2133/elephants-cant-hide-exhibition-road-worries
-redirect_from:
+aliases:
  - /comment/2133/elephants-cant-hide-exhibition-road-worries
 category: comment
 

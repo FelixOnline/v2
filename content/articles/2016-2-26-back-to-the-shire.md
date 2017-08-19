@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:33:57 +0000"
 id: "5962"
 old_path: /science/5962/back-to-the-shire
-redirect_from:
+aliases:
  - /science/5962/back-to-the-shire
 category: science
 

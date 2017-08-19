@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:40:03 +0000"
 id: "4823"
 old_path: /fashion/4823/fashion-rules-regal-fashion-at-kensington-palace
-redirect_from:
+aliases:
  - /fashion/4823/fashion-rules-regal-fashion-at-kensington-palace
 category: fashion
 

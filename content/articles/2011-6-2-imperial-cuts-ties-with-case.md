@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:02:29 +0100"
 id: "1291"
 old_path: /news/1291/imperial-cuts-ties-with-case
-redirect_from:
+aliases:
  - /news/1291/imperial-cuts-ties-with-case
 category: news
 

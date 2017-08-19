@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 22:40:03 +0000"
 id: "5242"
 old_path: /sport/5242/imperial-devils-face-crunch-clashes-this-weekend
-redirect_from:
+aliases:
  - /sport/5242/imperial-devils-face-crunch-clashes-this-weekend
 category: sport
 

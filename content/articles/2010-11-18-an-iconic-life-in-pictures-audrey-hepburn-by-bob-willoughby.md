@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:07:01 +0000"
 id: "383"
 old_path: /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
-redirect_from:
+aliases:
  - /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
 category: fashion
 

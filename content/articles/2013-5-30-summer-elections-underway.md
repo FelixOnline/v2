@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 12:05:18 +0100"
 id: "3641"
 old_path: /news/3641/summer-elections-underway
-redirect_from:
+aliases:
  - /news/3641/summer-elections-underway
 category: news
 

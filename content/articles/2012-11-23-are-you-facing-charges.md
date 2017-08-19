@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:02:35 +0000"
 id: "2955"
 old_path: /comment/2955/are-you-facing-charges
-redirect_from:
+aliases:
  - /comment/2955/are-you-facing-charges
 category: comment
 

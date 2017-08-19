@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 13:25:17 +0100"
 id: "1172"
 old_path: /arts/1172/sex-drugs-and-a-pair-of-pink-boots
-redirect_from:
+aliases:
  - /arts/1172/sex-drugs-and-a-pair-of-pink-boots
 category: arts
 

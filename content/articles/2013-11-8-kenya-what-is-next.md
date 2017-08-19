@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:46:01 +0000"
 id: "4026"
 old_path: /comment/4026/kenya-what-is-next
-redirect_from:
+aliases:
  - /comment/4026/kenya-what-is-next
 category: comment
 

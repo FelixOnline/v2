@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 12:00:04 +0100"
 id: "1460"
 old_path: /tech/1460/the-felix-tech-guide-2011
-redirect_from:
+aliases:
  - /tech/1460/the-felix-tech-guide-2011
 category: tech
 

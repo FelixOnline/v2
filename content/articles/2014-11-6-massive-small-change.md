@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:58:35 +0000"
 id: "4792"
 old_path: /cands/4792/massive-small-change
-redirect_from:
+aliases:
  - /cands/4792/massive-small-change
 category: clubs-and-socs
 

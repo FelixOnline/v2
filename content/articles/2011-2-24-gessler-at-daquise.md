@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:39:07 +0000"
 id: "864"
 old_path: /food/864/-gessler-at-daquise
-redirect_from:
+aliases:
  - /food/864/-gessler-at-daquise
 category: food
 

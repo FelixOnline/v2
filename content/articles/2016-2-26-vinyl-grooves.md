@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:55:31 +0000"
 id: "5976"
 old_path: /tv/5976/-vinyl-grooves
-redirect_from:
+aliases:
  - /tv/5976/-vinyl-grooves
 category: tv
 

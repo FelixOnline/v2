@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 20:32:00 +0000"
 id: "5331"
 old_path: /comment/5331/this-house-would-create-an-unelected-legislative-of-science-technocrats
-redirect_from:
+aliases:
  - /comment/5331/this-house-would-create-an-unelected-legislative-of-science-technocrats
 category: comment
 

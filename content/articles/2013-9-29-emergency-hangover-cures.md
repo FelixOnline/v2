@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 15:39:40 +0100"
 id: "3781"
 old_path: /food/3781/emergency-hangover-cures
-redirect_from:
+aliases:
  - /food/3781/emergency-hangover-cures
 category: food
 

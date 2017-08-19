@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:09:56 +0000"
 id: "4207"
 old_path: /games/4207/kingdom-rushing-to-the-frontier
-redirect_from:
+aliases:
  - /games/4207/kingdom-rushing-to-the-frontier
 category: games
 

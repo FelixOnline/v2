@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-22 13:08:27 +0100"
 id: "1242"
 old_path: /news/1242/union-president-maggie-dallman-misinformed-college-council
-redirect_from:
+aliases:
  - /news/1242/union-president-maggie-dallman-misinformed-college-council
 category: news
 

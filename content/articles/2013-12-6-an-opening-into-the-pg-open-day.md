@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:54:36 +0000"
 id: "4182"
 old_path: /features/4182/an-opening-into-the-pg-open-day
-redirect_from:
+aliases:
  - /features/4182/an-opening-into-the-pg-open-day
 category: features
 

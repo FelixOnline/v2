@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-09 09:56:40 +0100"
 id: "1180"
 old_path: /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
-redirect_from:
+aliases:
  - /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
 category: sport
 

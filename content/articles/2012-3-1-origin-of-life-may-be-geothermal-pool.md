@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:21:48 +0000"
 id: "2273"
 old_path: /science/2273/origin-of-life-may-be-geothermal-pool
-redirect_from:
+aliases:
  - /science/2273/origin-of-life-may-be-geothermal-pool
 category: science
 

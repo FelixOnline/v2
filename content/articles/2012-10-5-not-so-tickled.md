@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:30:11 +0100"
 id: "2596"
 old_path: /arts/2596/not-so-tickled
-redirect_from:
+aliases:
  - /arts/2596/not-so-tickled
 category: arts
 

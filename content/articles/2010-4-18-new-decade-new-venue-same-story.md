@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-18 17:11:41 +0100"
 id: "128"
 old_path: /sport/128/new-decade-new-venue-same-story
-redirect_from:
+aliases:
  - /sport/128/new-decade-new-venue-same-story
 category: sport
 

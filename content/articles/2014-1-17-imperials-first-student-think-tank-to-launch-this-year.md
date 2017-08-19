@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:09:14 +0000"
 id: "4226"
 old_path: /news/4226/imperials-first-student-think-tank-to-launch-this-year
-redirect_from:
+aliases:
  - /news/4226/imperials-first-student-think-tank-to-launch-this-year
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:12:02 +0000"
 id: "4191"
 old_path: /arts/4191/world-class-opera-in-our-backyard
-redirect_from:
+aliases:
  - /arts/4191/world-class-opera-in-our-backyard
 category: arts
 

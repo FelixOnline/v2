@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:38:38 +0000"
 id: "529"
 old_path: /music/529/the-tallest-man-on-earth
-redirect_from:
+aliases:
  - /music/529/the-tallest-man-on-earth
 category: music
 

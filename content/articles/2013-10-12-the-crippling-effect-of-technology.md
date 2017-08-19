@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 23:50:07 +0100"
 id: "3872"
 old_path: /tech/3872/the-crippling-effect-of-technology
-redirect_from:
+aliases:
  - /tech/3872/the-crippling-effect-of-technology
 category: tech
 

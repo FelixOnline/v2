@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:44:36 +0100"
 id: "1301"
 old_path: /tech/1301/skype-pushes-unwanted-software-to-users
-redirect_from:
+aliases:
  - /tech/1301/skype-pushes-unwanted-software-to-users
 category: tech
 

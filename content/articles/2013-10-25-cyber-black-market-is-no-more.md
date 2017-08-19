@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:59:42 +0100"
 id: "3945"
 old_path: /tech/3945/cyber-black-market-is-no-more
-redirect_from:
+aliases:
  - /tech/3945/cyber-black-market-is-no-more
 category: tech
 

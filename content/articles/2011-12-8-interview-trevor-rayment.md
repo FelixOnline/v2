@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:26:54 +0000"
 id: "1912"
 old_path: /news/1912/interview-trevor-rayment
-redirect_from:
+aliases:
  - /news/1912/interview-trevor-rayment
 category: news
 

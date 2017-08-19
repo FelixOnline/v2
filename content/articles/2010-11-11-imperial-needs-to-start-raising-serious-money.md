@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:50:35 +0000"
 id: "368"
 old_path: /biz/368/imperial-needs-to-start-raising-serious-money-
-redirect_from:
+aliases:
  - /biz/368/imperial-needs-to-start-raising-serious-money-
 category: business
 

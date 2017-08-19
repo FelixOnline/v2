@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 22:02:17 +0100"
 id: "5639"
 old_path: /arts/5639/art-in-the-city-our-summer-guide
-redirect_from:
+aliases:
  - /arts/5639/art-in-the-city-our-summer-guide
 category: arts
 

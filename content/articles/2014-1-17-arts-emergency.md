@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:47:52 +0000"
 id: "4241"
 old_path: /arts/4241/arts-emergency
-redirect_from:
+aliases:
  - /arts/4241/arts-emergency
 category: arts
 

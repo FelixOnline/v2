@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 13:09:16 +0100"
 id: "4648"
 old_path: /film/4648/the-best-x-men-film-ever
-redirect_from:
+aliases:
  - /film/4648/the-best-x-men-film-ever
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:09:24 +0000"
 id: "2868"
 old_path: /music/2868/jeni-pillai-gives-peace-a-chance
-redirect_from:
+aliases:
  - /music/2868/jeni-pillai-gives-peace-a-chance
 category: music
 

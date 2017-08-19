@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:23:22 +0000"
 id: "521"
 old_path: /music/521/the-drums-play-the-forum
-redirect_from:
+aliases:
  - /music/521/the-drums-play-the-forum
 category: music
 

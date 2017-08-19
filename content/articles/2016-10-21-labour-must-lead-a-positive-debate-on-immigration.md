@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 12:28:51 +0100"
 id: "6344"
 old_path: /comment/6344/labour-must-lead-a-positive-debate-on-immigration
-redirect_from:
+aliases:
  - /comment/6344/labour-must-lead-a-positive-debate-on-immigration
 category: comment
 

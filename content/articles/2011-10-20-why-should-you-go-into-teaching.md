@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 19:48:15 +0100"
 id: "1556"
 old_path: /news/1556/why-should-you-go-into-teaching
-redirect_from:
+aliases:
  - /news/1556/why-should-you-go-into-teaching
 category: news
 

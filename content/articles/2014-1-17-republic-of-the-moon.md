@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:41:20 +0000"
 id: "4238"
 old_path: /arts/4238/republic-of-the-moon
-redirect_from:
+aliases:
  - /arts/4238/republic-of-the-moon
 category: arts
 

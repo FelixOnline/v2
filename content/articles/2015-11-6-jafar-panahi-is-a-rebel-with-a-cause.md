@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:15:03 +0000"
 id: "5709"
 old_path: /film/5709/-jafar-panahi-is-a-rebel-with-a-cause
-redirect_from:
+aliases:
  - /film/5709/-jafar-panahi-is-a-rebel-with-a-cause
 category: film
 

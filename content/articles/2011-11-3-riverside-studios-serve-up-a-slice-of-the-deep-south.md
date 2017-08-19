@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 22:01:05 +0000"
 id: "1696"
 old_path: /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
-redirect_from:
+aliases:
  - /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
 category: arts
 

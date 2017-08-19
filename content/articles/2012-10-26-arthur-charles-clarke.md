@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:44:56 +0100"
 id: "2755"
 old_path: /books/2755/arthur-charles-clarke
-redirect_from:
+aliases:
  - /books/2755/arthur-charles-clarke
 category: books
 

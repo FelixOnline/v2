@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:48:02 +0000"
 id: "3395"
 old_path: /sport/3395/tenpin-bowling-climb-bucs-rankings
-redirect_from:
+aliases:
  - /sport/3395/tenpin-bowling-climb-bucs-rankings
 category: sport
 

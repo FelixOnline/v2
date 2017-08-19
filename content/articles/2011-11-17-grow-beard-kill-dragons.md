@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:44:35 +0000"
 id: "1764"
 old_path: /games/1764/grow-beard-kill-dragons
-redirect_from:
+aliases:
  - /games/1764/grow-beard-kill-dragons
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:48:01 +0100"
 id: "4747"
 old_path: /news/4747/fire-alarm-interrupts-bar-night-again
-redirect_from:
+aliases:
  - /news/4747/fire-alarm-interrupts-bar-night-again
 category: news
 

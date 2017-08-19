@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:23:06 +0000"
 id: "3024"
 old_path: /news/3024/its-the-return-of-the-yard
-redirect_from:
+aliases:
  - /news/3024/its-the-return-of-the-yard
 category: news
 

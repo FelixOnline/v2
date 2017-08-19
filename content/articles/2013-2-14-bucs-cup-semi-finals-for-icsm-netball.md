@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 19:29:54 +0000"
 id: "3326"
 old_path: /sport/3326/bucs-cup-semi-finals-for-icsm-netball
-redirect_from:
+aliases:
  - /sport/3326/bucs-cup-semi-finals-for-icsm-netball
 category: sport
 

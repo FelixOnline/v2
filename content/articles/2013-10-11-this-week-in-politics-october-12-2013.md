@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:32:48 +0100"
 id: "3828"
 old_path: /politics/3828/this-week-in-politics-october-12-2013
-redirect_from:
+aliases:
  - /politics/3828/this-week-in-politics-october-12-2013
 category: politics
 

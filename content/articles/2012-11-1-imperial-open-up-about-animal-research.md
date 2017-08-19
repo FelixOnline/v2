@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:18:49 +0000"
 id: "2780"
 old_path: /news/2780/imperial-open-up-about-animal-research
-redirect_from:
+aliases:
  - /news/2780/imperial-open-up-about-animal-research
 category: news
 

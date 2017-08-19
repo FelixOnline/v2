@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:38:56 +0000"
 id: "4318"
 old_path: /science/4318/do-you-want-brains-with-that
-redirect_from:
+aliases:
  - /science/4318/do-you-want-brains-with-that
 category: science
 

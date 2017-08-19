@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:47:14 +0000"
 id: "1921"
 old_path: /biz/1921/why-is-the-uk-economy-sinking-too-
-redirect_from:
+aliases:
  - /biz/1921/why-is-the-uk-economy-sinking-too-
 category: business
 

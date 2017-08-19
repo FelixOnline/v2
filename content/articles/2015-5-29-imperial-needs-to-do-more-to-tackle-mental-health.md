@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 01:00:26 +0100"
 id: "5577"
 old_path: /comment/5577/imperial-needs-to-do-more-to-tackle-mental-health
-redirect_from:
+aliases:
  - /comment/5577/imperial-needs-to-do-more-to-tackle-mental-health
 category: comment
 

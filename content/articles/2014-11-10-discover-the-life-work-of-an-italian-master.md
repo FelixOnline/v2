@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:08:41 +0000"
 id: "4814"
 old_path: /arts/4814/discover-the-life-work-of-an-italian-master
-redirect_from:
+aliases:
  - /arts/4814/discover-the-life-work-of-an-italian-master
 category: arts
 

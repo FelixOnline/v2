@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:20:39 +0000"
 id: "5740"
 old_path: /news/5740/junior-doctors-vote-to-strike-in-december
-redirect_from:
+aliases:
  - /news/5740/junior-doctors-vote-to-strike-in-december
 category: news
 

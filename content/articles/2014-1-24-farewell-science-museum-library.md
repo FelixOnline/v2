@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:40:27 +0000"
 id: "4271"
 old_path: /news/4271/farewell-science-museum-library
-redirect_from:
+aliases:
  - /news/4271/farewell-science-museum-library
 category: news
 

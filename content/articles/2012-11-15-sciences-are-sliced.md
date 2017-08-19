@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 20:45:02 +0000"
 id: "2883"
 old_path: /news/2883/sciences-are-sliced
-redirect_from:
+aliases:
  - /news/2883/sciences-are-sliced
 category: news
 

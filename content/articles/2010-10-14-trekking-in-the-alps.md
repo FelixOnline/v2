@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:41:29 +0100"
 id: "211"
 old_path: /travel/211/trekking-in-the-alps
-redirect_from:
+aliases:
  - /travel/211/trekking-in-the-alps
 category: travel
 

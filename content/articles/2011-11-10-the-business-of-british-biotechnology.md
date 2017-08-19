@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:26:10 +0000"
 id: "1730"
 old_path: /biz/1730/the-business-of-british-biotechnology
-redirect_from:
+aliases:
  - /biz/1730/the-business-of-british-biotechnology
 category: business
 

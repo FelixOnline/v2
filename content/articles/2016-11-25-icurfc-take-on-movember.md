@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 15:02:30 +0000"
 id: "6520"
 old_path: /sport/6520/icurfc-take-on-movember
-redirect_from:
+aliases:
  - /sport/6520/icurfc-take-on-movember
 category: sport
 

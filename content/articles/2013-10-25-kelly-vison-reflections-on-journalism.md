@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:09:54 +0100"
 id: "3922"
 old_path: /comment/3922/kelly-vison-reflections-on-journalism
-redirect_from:
+aliases:
  - /comment/3922/kelly-vison-reflections-on-journalism
 category: comment
 

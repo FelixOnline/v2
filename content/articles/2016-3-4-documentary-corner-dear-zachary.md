@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:51:34 +0000"
 id: "6011"
 old_path: /film/6011/documentary-corner-dear-zachary
-redirect_from:
+aliases:
  - /film/6011/documentary-corner-dear-zachary
 category: film
 

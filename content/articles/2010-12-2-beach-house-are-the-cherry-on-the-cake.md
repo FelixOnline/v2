@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:01:22 +0000"
 id: "484"
 old_path: /music/484/beach-house-are-the-cherry-on-the-cake
-redirect_from:
+aliases:
  - /music/484/beach-house-are-the-cherry-on-the-cake
 category: music
 

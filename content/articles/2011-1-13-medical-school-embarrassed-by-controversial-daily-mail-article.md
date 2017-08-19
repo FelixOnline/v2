@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:38:32 +0000"
 id: "593"
 old_path: /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
-redirect_from:
+aliases:
  - /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
 category: news
 

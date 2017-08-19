@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 13:21:11 +0000"
 id: "48"
 old_path: /sport/48/murray--co-down-under
-redirect_from:
+aliases:
  - /sport/48/murray--co-down-under
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 19:50:16 +0000"
 id: "758"
 old_path: /news/758/phd-funding-woes-hit-business-school-
-redirect_from:
+aliases:
  - /news/758/phd-funding-woes-hit-business-school-
 category: news
 

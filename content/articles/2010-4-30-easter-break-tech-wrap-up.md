@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-30 10:40:22 +0100"
 id: "129"
 old_path: /tech/129/easter-break-tech-wrap-up
-redirect_from:
+aliases:
  - /tech/129/easter-break-tech-wrap-up
 category: tech
 

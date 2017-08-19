@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:25:17 +0000"
 id: "5875"
 old_path: /film/5875/youth-is-a-masterful-reflection-of-old-age
-redirect_from:
+aliases:
  - /film/5875/youth-is-a-masterful-reflection-of-old-age
 category: film
 

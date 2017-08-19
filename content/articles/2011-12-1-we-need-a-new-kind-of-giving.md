@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:35:39 +0000"
 id: "1897"
 old_path: /comment/1897/we-need-a-new-kind-of-giving
-redirect_from:
+aliases:
  - /comment/1897/we-need-a-new-kind-of-giving
 category: comment
 

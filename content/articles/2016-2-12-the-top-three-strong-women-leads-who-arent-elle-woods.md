@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:48:57 +0000"
 id: "5912"
 old_path: /film/5912/the-top-three-strong-women-leads-who-arent-elle-woods
-redirect_from:
+aliases:
  - /film/5912/the-top-three-strong-women-leads-who-arent-elle-woods
 category: film
 

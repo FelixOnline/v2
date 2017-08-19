@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 21:43:05 +0100"
 id: "1509"
 old_path: /science/1509/blood-sugar-measured-by-lasers
-redirect_from:
+aliases:
  - /science/1509/blood-sugar-measured-by-lasers
 category: science
 

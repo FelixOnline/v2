@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:13:43 +0000"
 id: "1004"
 old_path: /news/1004/a-stoic-effort
-redirect_from:
+aliases:
  - /news/1004/a-stoic-effort
 category: news
 

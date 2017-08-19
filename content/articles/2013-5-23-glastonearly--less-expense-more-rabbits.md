@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:33:11 +0100"
 id: "3621"
 old_path: /news/3621/glastonearly--less-expense-more-rabbits
-redirect_from:
+aliases:
  - /news/3621/glastonearly--less-expense-more-rabbits
 category: news
 

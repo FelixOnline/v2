@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:14:31 +0100"
 id: "2695"
 old_path: /comment/2695/changing-the-rules-why-bother
-redirect_from:
+aliases:
  - /comment/2695/changing-the-rules-why-bother
 category: comment
 

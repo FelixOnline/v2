@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 19:35:17 +0000"
 id: "5224"
 old_path: /games/5224/slendy-is-always-always-watching
-redirect_from:
+aliases:
  - /games/5224/slendy-is-always-always-watching
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:00:56 +0000"
 id: "323"
 old_path: /comment/323/chairman-of-the-bored
-redirect_from:
+aliases:
  - /comment/323/chairman-of-the-bored
 category: comment
 

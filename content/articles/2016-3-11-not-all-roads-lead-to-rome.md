@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:51:35 +0000"
 id: "6035"
 old_path: /film/6035/not-all-roads-lead-to-rome
-redirect_from:
+aliases:
  - /film/6035/not-all-roads-lead-to-rome
 category: film
 

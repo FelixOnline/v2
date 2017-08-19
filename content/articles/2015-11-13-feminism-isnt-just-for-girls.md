@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:25:24 +0000"
 id: "5722"
 old_path: /comment/5722/feminism-isnt-just-for-girls
-redirect_from:
+aliases:
  - /comment/5722/feminism-isnt-just-for-girls
 category: comment
 

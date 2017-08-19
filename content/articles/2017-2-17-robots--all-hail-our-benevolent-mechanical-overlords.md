@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:17:32 +0000"
 id: "6794"
 old_path: /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
-redirect_from:
+aliases:
  - /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
 category: arts
 

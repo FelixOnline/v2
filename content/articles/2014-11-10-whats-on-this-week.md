@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:53:55 +0000"
 id: "4830"
 old_path: /music/4830/whats-on-this-week
-redirect_from:
+aliases:
  - /music/4830/whats-on-this-week
 category: music
 

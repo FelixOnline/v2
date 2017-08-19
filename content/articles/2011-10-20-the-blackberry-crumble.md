@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:25:19 +0100"
 id: "1563"
 old_path: /tech/1563/the-blackberry-crumble
-redirect_from:
+aliases:
  - /tech/1563/the-blackberry-crumble
 category: tech
 

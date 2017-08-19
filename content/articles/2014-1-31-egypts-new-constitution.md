@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:56:17 +0000"
 id: "4326"
 old_path: /politics/4326/egypts-new-constitution
-redirect_from:
+aliases:
  - /politics/4326/egypts-new-constitution
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-24 18:38:10 +0000"
 id: "5953"
 old_path: /film/5953/its-all-going-wrong-down-under
-redirect_from:
+aliases:
  - /film/5953/its-all-going-wrong-down-under
 category: film
 

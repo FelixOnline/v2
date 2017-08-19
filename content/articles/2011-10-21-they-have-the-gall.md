@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:20:38 +0100"
 id: "1596"
 old_path: /music/1596/they-have-the-gall
-redirect_from:
+aliases:
  - /music/1596/they-have-the-gall
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:46:41 +0000"
 id: "6031"
 old_path: /cands/6031/speaking-against-stigma
-redirect_from:
+aliases:
  - /cands/6031/speaking-against-stigma
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:55:29 +0100"
 id: "6148"
 old_path: /comment/6148/the-bury-your-gays-trope-needs-to-die
-redirect_from:
+aliases:
  - /comment/6148/the-bury-your-gays-trope-needs-to-die
 category: comment
 

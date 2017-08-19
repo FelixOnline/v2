@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:41:35 +0000"
 id: "6887"
 old_path: /cands/6887/the-dance-imperial-show-2017
-redirect_from:
+aliases:
  - /cands/6887/the-dance-imperial-show-2017
 category: clubs-and-socs
 

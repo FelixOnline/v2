@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:48:09 +0100"
 id: "6205"
 old_path: /comment/6205/the-eu-is-not-perfect-but-is-the-better-option
-redirect_from:
+aliases:
  - /comment/6205/the-eu-is-not-perfect-but-is-the-better-option
 category: comment
 

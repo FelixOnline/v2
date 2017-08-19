@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 14:58:37 +0000"
 id: "455"
 old_path: /games/455/its-raining-games-cloud-gaming-hits-tvs-
-redirect_from:
+aliases:
  - /games/455/its-raining-games-cloud-gaming-hits-tvs-
 category: games
 

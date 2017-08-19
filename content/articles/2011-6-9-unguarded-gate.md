@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 17:41:31 +0100"
 id: "1326"
 old_path: /phoenix/1326/unguarded-gate
-redirect_from:
+aliases:
  - /phoenix/1326/unguarded-gate
 category: phoenix
 

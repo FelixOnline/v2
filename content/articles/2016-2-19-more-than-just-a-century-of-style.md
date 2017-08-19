@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:11:53 +0000"
 id: "5939"
 old_path: /arts/5939/more-than-just-a-century-of-style
-redirect_from:
+aliases:
  - /arts/5939/more-than-just-a-century-of-style
 category: arts
 

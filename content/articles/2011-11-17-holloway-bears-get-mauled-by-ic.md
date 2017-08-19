@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 23:01:15 +0000"
 id: "1796"
 old_path: /sport/1796/holloway-bears-get-mauled-by-ic
-redirect_from:
+aliases:
  - /sport/1796/holloway-bears-get-mauled-by-ic
 category: sport
 

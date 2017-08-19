@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 10:36:50 +0000"
 id: "3976"
 old_path: /biz/3976/shell-ideas360-comes-to-students
-redirect_from:
+aliases:
  - /biz/3976/shell-ideas360-comes-to-students
 category: business
 

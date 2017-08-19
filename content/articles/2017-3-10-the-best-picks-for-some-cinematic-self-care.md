@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:41:15 +0000"
 id: "6873"
 old_path: /film/6873/the-best-picks-for-some-cinematic-self-care
-redirect_from:
+aliases:
  - /film/6873/the-best-picks-for-some-cinematic-self-care
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:29:26 +0000"
 id: "4123"
 old_path: /film/4123/the-badfellas
-redirect_from:
+aliases:
  - /film/4123/the-badfellas
 category: film
 

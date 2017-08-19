@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:46:02 +0100"
 id: "2652"
 old_path: /science/2652/deadly-snake-venom-better-pain-killer-than-morphine
-redirect_from:
+aliases:
  - /science/2652/deadly-snake-venom-better-pain-killer-than-morphine
 category: science
 

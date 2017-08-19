@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-25 12:59:52 +0100"
 id: "5561"
 old_path: /travel/5561/losing-yourself-in-venice-to-boat-or-not-to-boat
-redirect_from:
+aliases:
  - /travel/5561/losing-yourself-in-venice-to-boat-or-not-to-boat
 category: travel
 

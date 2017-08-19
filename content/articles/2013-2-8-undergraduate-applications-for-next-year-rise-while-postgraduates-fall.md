@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:09:13 +0000"
 id: "3284"
 old_path: /news/3284/undergraduate-applications-for-next-year-rise-while-postgraduates-fall
-redirect_from:
+aliases:
  - /news/3284/undergraduate-applications-for-next-year-rise-while-postgraduates-fall
 category: news
 

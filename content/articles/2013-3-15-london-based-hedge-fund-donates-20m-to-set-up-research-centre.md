@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:14:08 +0000"
 id: "3459"
 old_path: /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
-redirect_from:
+aliases:
  - /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
 category: news
 

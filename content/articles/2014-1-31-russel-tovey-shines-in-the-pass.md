@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 18:05:23 +0000"
 id: "4330"
 old_path: /arts/4330/russel-tovey-shines-in-the-pass
-redirect_from:
+aliases:
  - /arts/4330/russel-tovey-shines-in-the-pass
 category: arts
 

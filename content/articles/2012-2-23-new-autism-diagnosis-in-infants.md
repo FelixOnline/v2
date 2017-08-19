@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:48:52 +0000"
 id: "2245"
 old_path: /science/2245/new-autism-diagnosis-in-infants
-redirect_from:
+aliases:
  - /science/2245/new-autism-diagnosis-in-infants
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:22:21 +0100"
 id: "6962"
 old_path: /film/6962/lady-macbeth
-redirect_from:
+aliases:
  - /film/6962/lady-macbeth
 category: film
 

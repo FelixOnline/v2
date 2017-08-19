@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 12:11:08 +0100"
 id: "5586"
 old_path: /music/5586/get-on-the-zine
-redirect_from:
+aliases:
  - /music/5586/get-on-the-zine
 category: music
 

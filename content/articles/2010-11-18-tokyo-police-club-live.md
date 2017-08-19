@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:35:58 +0000"
 id: "389"
 old_path: /music/389/tokyo-police-club-live
-redirect_from:
+aliases:
  - /music/389/tokyo-police-club-live
 category: music
 

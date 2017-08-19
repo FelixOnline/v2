@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:43:24 +0000"
 id: "4176"
 old_path: /news/4176/uuks-report-on-gender-segregated-seating
-redirect_from:
+aliases:
  - /news/4176/uuks-report-on-gender-segregated-seating
 category: news
 

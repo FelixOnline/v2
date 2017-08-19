@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 02:07:59 +0100"
 id: "3810"
 old_path: /music/3810/on-tour-with-the-national-youth-choir
-redirect_from:
+aliases:
  - /music/3810/on-tour-with-the-national-youth-choir
 category: music
 

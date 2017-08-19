@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:33:07 +0000"
 id: "3274"
 old_path: /news/3274/picocon-30-at-imperial
-redirect_from:
+aliases:
  - /news/3274/picocon-30-at-imperial
 category: news
 

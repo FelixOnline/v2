@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:34:51 +0100"
 id: "2630"
 old_path: /sport/2630/a-lemon-fresh-look-at-fresher-trials
-redirect_from:
+aliases:
  - /sport/2630/a-lemon-fresh-look-at-fresher-trials
 category: sport
 

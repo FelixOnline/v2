@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:01:51 +0000"
 id: "2321"
 old_path: /biz/2321/imperial-college-hackathon-launched
-redirect_from:
+aliases:
  - /biz/2321/imperial-college-hackathon-launched
 category: business
 

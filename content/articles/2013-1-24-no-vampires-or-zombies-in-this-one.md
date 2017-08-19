@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 21:42:04 +0000"
 id: "3161"
 old_path: /film/3161/no-vampires-or-zombies-in-this-one
-redirect_from:
+aliases:
  - /film/3161/no-vampires-or-zombies-in-this-one
 category: film
 

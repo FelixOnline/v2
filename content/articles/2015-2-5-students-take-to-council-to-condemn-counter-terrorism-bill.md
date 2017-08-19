@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 23:40:35 +0000"
 id: "5195"
 old_path: /news/5195/students-take-to-council-to-condemn-counter-terrorism-bill
-redirect_from:
+aliases:
  - /news/5195/students-take-to-council-to-condemn-counter-terrorism-bill
 category: news
 

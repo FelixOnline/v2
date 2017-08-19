@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:32:03 +0000"
 id: "5949"
 old_path: /sport/5949/bucs-victory-for-waterpolo-
-redirect_from:
+aliases:
  - /sport/5949/bucs-victory-for-waterpolo-
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 18:17:29 +0100"
 id: "1246"
 old_path: /news/1246/life-sciences-teaching-review-proposals-approved
-redirect_from:
+aliases:
  - /news/1246/life-sciences-teaching-review-proposals-approved
 category: news
 

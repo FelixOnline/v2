@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:41:00 +0100"
 id: "1310"
 old_path: /arts/1310/the-acid-test-makes-the-grade
-redirect_from:
+aliases:
  - /arts/1310/the-acid-test-makes-the-grade
 category: arts
 

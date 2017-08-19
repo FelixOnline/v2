@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:01:13 +0000"
 id: "6726"
 old_path: /arts/6726/shappi-khorsandi--oh-my-country
-redirect_from:
+aliases:
  - /arts/6726/shappi-khorsandi--oh-my-country
 category: arts
 

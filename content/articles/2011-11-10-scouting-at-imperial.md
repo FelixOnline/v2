@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:10:33 +0000"
 id: "1744"
 old_path: /news/1744/scouting-at-imperial
-redirect_from:
+aliases:
  - /news/1744/scouting-at-imperial
 category: news
 

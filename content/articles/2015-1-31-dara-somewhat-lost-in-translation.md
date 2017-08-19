@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 18:49:34 +0000"
 id: "5167"
 old_path: /arts/5167/dara-somewhat-lost-in-translation
-redirect_from:
+aliases:
  - /arts/5167/dara-somewhat-lost-in-translation
 category: arts
 

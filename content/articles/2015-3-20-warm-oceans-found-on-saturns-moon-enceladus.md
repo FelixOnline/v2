@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-20 00:54:00 +0000"
 id: "5418"
 old_path: /science/5418/warm-oceans-found-on-saturns-moon-enceladus
-redirect_from:
+aliases:
  - /science/5418/warm-oceans-found-on-saturns-moon-enceladus
 category: science
 

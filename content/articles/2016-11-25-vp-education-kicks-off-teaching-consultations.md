@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:17:49 +0000"
 id: "6491"
 old_path: /news/6491/vp-education-kicks-off-teaching-consultations
-redirect_from:
+aliases:
  - /news/6491/vp-education-kicks-off-teaching-consultations
 category: news
 

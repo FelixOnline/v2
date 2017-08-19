@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:29:54 +0100"
 id: "1393"
 old_path: /comment/1393/the-minefield-of-social-etiquette
-redirect_from:
+aliases:
  - /comment/1393/the-minefield-of-social-etiquette
 category: comment
 

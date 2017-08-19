@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 11:49:29 +0000"
 id: "5771"
 old_path: /news/5771/shadow-chancellor-praises-imperial-on-visit
-redirect_from:
+aliases:
  - /news/5771/shadow-chancellor-praises-imperial-on-visit
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:42:58 +0000"
 id: "3093"
 old_path: /books/3093/a-journey-to-earths-distant-future
-redirect_from:
+aliases:
  - /books/3093/a-journey-to-earths-distant-future
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:45:20 +0000"
 id: "3975"
 old_path: /science/3975/apparently-money-does-grow-on-trees
-redirect_from:
+aliases:
  - /science/3975/apparently-money-does-grow-on-trees
 category: science
 

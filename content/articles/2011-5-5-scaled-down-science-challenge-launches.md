@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-05 23:35:59 +0100"
 id: "1147"
 old_path: /news/1147/scaled-down-science-challenge-launches
-redirect_from:
+aliases:
  - /news/1147/scaled-down-science-challenge-launches
 category: news
 

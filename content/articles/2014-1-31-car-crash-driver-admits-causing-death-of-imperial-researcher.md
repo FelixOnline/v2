@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:12:20 +0000"
 id: "4310"
 old_path: /news/4310/car-crash-driver-admits-causing-death-of-imperial-researcher
-redirect_from:
+aliases:
  - /news/4310/car-crash-driver-admits-causing-death-of-imperial-researcher
 category: news
 

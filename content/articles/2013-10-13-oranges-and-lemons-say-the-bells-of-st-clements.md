@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-13 00:05:50 +0100"
 id: "3875"
 old_path: /features/3875/oranges-and-lemons-say-the-bells-of-st-clements
-redirect_from:
+aliases:
  - /features/3875/oranges-and-lemons-say-the-bells-of-st-clements
 category: features
 

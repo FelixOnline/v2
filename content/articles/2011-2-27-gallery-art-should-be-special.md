@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:22:11 +0000"
 id: "911"
 old_path: /arts/911/gallery-art-should-be-special
-redirect_from:
+aliases:
  - /arts/911/gallery-art-should-be-special
 category: arts
 

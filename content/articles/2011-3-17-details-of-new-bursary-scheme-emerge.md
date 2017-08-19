@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 19:46:55 +0000"
 id: "1089"
 old_path: /news/1089/details-of-new-bursary-scheme-emerge
-redirect_from:
+aliases:
  - /news/1089/details-of-new-bursary-scheme-emerge
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:16:29 +0100"
 id: "1562"
 old_path: /science/1562/mini-little-ice-age-periods-explained-
-redirect_from:
+aliases:
  - /science/1562/mini-little-ice-age-periods-explained-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:06:33 +0100"
 id: "6090"
 old_path: /news/6090/imperial-appoints-new-vp-for-communications
-redirect_from:
+aliases:
  - /news/6090/imperial-appoints-new-vp-for-communications
 category: news
 

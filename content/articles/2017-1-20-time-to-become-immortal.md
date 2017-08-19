@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:49:08 +0000"
 id: "6678"
 old_path: /sport/6678/time-to-become-immortal
-redirect_from:
+aliases:
  - /sport/6678/time-to-become-immortal
 category: sport
 

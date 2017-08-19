@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 23:39:21 +0000"
 id: "5194"
 old_path: /news/5194/phone-app-designed-to-aid-sickle-cell-anaemia-management
-redirect_from:
+aliases:
  - /news/5194/phone-app-designed-to-aid-sickle-cell-anaemia-management
 category: news
 

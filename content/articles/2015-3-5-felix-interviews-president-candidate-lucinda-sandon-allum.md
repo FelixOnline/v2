@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:27:41 +0000"
 id: "5339"
 old_path: /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
-redirect_from:
+aliases:
  - /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
 category: comment
 

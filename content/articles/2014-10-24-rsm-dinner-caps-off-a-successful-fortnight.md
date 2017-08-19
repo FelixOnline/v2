@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:41:48 +0100"
 id: "4746"
 old_path: /news/4746/rsm-dinner-caps-off-a-successful-fortnight
-redirect_from:
+aliases:
  - /news/4746/rsm-dinner-caps-off-a-successful-fortnight
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:33:51 +0000"
 id: "5849"
 old_path: /music/5849/sophie-sweet-like-whipped-cream
-redirect_from:
+aliases:
  - /music/5849/sophie-sweet-like-whipped-cream
 category: music
 

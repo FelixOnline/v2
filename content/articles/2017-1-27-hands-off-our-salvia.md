@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 17:42:10 +0000"
 id: "6704"
 old_path: /millennials/6704/hands-off-our-salvia
-redirect_from:
+aliases:
  - /millennials/6704/hands-off-our-salvia
 category: millennials
 

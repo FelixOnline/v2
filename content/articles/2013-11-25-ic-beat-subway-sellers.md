@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-25 00:00:48 +0000"
 id: "4138"
 old_path: /sport/4138/ic-beat-subway-sellers
-redirect_from:
+aliases:
  - /sport/4138/ic-beat-subway-sellers
 category: sport
 

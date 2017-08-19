@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:10:38 +0000"
 id: "354"
 old_path: /food/354/fulhams-newest-venture-broadway-bar-and-grill
-redirect_from:
+aliases:
  - /food/354/fulhams-newest-venture-broadway-bar-and-grill
 category: food
 

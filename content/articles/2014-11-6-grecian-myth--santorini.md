@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:42:43 +0000"
 id: "4790"
 old_path: /travel/4790/grecian-myth--santorini
-redirect_from:
+aliases:
  - /travel/4790/grecian-myth--santorini
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:12:09 +0000"
 id: "2833"
 old_path: /news/2833/millions-of-pounds-of-extra-funding-for-imperial
-redirect_from:
+aliases:
  - /news/2833/millions-of-pounds-of-extra-funding-for-imperial
 category: news
 

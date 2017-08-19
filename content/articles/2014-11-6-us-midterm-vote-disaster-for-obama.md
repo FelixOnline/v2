@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:56:54 +0000"
 id: "4770"
 old_path: /news/4770/us-midterm-vote-disaster-for-obama
-redirect_from:
+aliases:
  - /news/4770/us-midterm-vote-disaster-for-obama
 category: news
 

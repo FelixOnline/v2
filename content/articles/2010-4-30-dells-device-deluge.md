@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-30 11:39:05 +0100"
 id: "133"
 old_path: /tech/133/dells-device-deluge
-redirect_from:
+aliases:
  - /tech/133/dells-device-deluge
 category: tech
 

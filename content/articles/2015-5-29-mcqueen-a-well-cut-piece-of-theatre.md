@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 12:44:22 +0100"
 id: "5590"
 old_path: /arts/5590/mcqueen-a-well-cut-piece-of-theatre
-redirect_from:
+aliases:
  - /arts/5590/mcqueen-a-well-cut-piece-of-theatre
 category: arts
 

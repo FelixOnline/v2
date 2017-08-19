@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-04-08 22:52:55 +0100"
 id: "6925"
 old_path: /arts/6925/michelangelo--sebastiano--a-tale-of-two-masters
-redirect_from:
+aliases:
  - /arts/6925/michelangelo--sebastiano--a-tale-of-two-masters
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:04:28 +0000"
 id: "964"
 old_path: /film/964/read-me-my-last-rites
-redirect_from:
+aliases:
  - /film/964/read-me-my-last-rites
 category: film
 

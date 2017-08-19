@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-22 17:44:28 +0000"
 id: "5305"
 old_path: /arts/5305/utterly-overpowered-by-arthur-miller
-redirect_from:
+aliases:
  - /arts/5305/utterly-overpowered-by-arthur-miller
 category: arts
 

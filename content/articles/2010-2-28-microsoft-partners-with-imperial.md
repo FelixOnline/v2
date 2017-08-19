@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-28 16:07:59 +0000"
 id: "116"
 old_path: /news/116/microsoft-partners-with-imperial
-redirect_from:
+aliases:
  - /news/116/microsoft-partners-with-imperial
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:24:08 +0000"
 id: "1804"
 old_path: /biz/1804/silicon-valley-comes-to-imperial
-redirect_from:
+aliases:
  - /biz/1804/silicon-valley-comes-to-imperial
 category: business
 

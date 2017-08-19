@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:55:01 +0100"
 id: "6211"
 old_path: /science/6211/on-the-verge-of-a-global-health-crisis
-redirect_from:
+aliases:
  - /science/6211/on-the-verge-of-a-global-health-crisis
 category: science
 

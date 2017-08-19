@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 18:45:11 +0100"
 id: "196"
 old_path: /arts/196/fun-and-fighting-at-the-finborough-
-redirect_from:
+aliases:
  - /arts/196/fun-and-fighting-at-the-finborough-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:20:31 +0000"
 id: "603"
 old_path: /science/603/shooting-the-stars-to-find-meteorites-
-redirect_from:
+aliases:
  - /science/603/shooting-the-stars-to-find-meteorites-
 category: science
 

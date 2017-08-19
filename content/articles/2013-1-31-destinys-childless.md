@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:28:46 +0000"
 id: "3208"
 old_path: /science/3208/destinys-childless
-redirect_from:
+aliases:
  - /science/3208/destinys-childless
 category: science
 

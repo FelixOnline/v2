@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:14:51 +0100"
 id: "2737"
 old_path: /politics/2737/trade-union-members-march-against-austerity
-redirect_from:
+aliases:
  - /politics/2737/trade-union-members-march-against-austerity
 category: politics
 

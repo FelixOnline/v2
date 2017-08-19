@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-22 17:39:10 +0000"
 id: "5303"
 old_path: /arts/5303/sargent--a-bridge-to-the-modern
-redirect_from:
+aliases:
  - /arts/5303/sargent--a-bridge-to-the-modern
 category: arts
 

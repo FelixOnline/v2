@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:33:22 +0000"
 id: "3991"
 old_path: /books/3991/are-they-worse-than-animals
-redirect_from:
+aliases:
  - /books/3991/are-they-worse-than-animals
 category: books
 

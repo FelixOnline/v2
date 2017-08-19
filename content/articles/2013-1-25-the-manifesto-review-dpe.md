@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 02:03:19 +0000"
 id: "3191"
 old_path: /news/3191/the-manifesto-review-dpe
-redirect_from:
+aliases:
  - /news/3191/the-manifesto-review-dpe
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 22:19:42 +0100"
 id: "1615"
 old_path: /biz/1615/how-apples-iphone-stands-in-the-current-market-or-how-we-apples-swim
-redirect_from:
+aliases:
  - /biz/1615/how-apples-iphone-stands-in-the-current-market-or-how-we-apples-swim
 category: business
 

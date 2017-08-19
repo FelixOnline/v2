@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:09:21 +0100"
 id: "6092"
 old_path: /news/6092/union-may-affiliate-with-campaigning-charity
-redirect_from:
+aliases:
  - /news/6092/union-may-affiliate-with-campaigning-charity
 category: news
 

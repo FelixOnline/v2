@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:30:38 +0000"
 id: "6418"
 old_path: /news/6418/us-embassy-protest-in-pictures
-redirect_from:
+aliases:
  - /news/6418/us-embassy-protest-in-pictures
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 03:05:58 +0100"
 id: "2765"
 old_path: /arts/2765/bromance-of-the-renaissance-men
-redirect_from:
+aliases:
  - /arts/2765/bromance-of-the-renaissance-men
 category: arts
 

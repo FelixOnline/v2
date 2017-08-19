@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:03:51 +0000"
 id: "4357"
 old_path: /news/4357/imperials-defence-investment-holdings-top-of-list-of-london-universities
-redirect_from:
+aliases:
  - /news/4357/imperials-defence-investment-holdings-top-of-list-of-london-universities
 category: news
 

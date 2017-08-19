@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:35:24 +0000"
 id: "2362"
 old_path: /games/2362/games-by-angelina-artificial-intelligence-and-game-design
-redirect_from:
+aliases:
  - /games/2362/games-by-angelina-artificial-intelligence-and-game-design
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 00:14:28 +0000"
 id: "2079"
 old_path: /news/2079/dawn-on-the-horizons
-redirect_from:
+aliases:
  - /news/2079/dawn-on-the-horizons
 category: news
 

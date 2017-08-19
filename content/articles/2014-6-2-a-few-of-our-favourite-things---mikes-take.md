@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 13:12:34 +0100"
 id: "4649"
 old_path: /food/4649/a-few-of-our-favourite-things---mikes-take
-redirect_from:
+aliases:
  - /food/4649/a-few-of-our-favourite-things---mikes-take
 category: food
 

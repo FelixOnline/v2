@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:03:06 +0000"
 id: "876"
 old_path: /news/876/college-meets-with-postgraduates-to-hear-accommodation-concerns
-redirect_from:
+aliases:
  - /news/876/college-meets-with-postgraduates-to-hear-accommodation-concerns
 category: news
 

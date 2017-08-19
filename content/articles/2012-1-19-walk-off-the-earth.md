@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:55:10 +0000"
 id: "2023"
 old_path: /music/2023/walk-off-the-earth
-redirect_from:
+aliases:
  - /music/2023/walk-off-the-earth
 category: music
 

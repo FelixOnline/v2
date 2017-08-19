@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:51:02 +0000"
 id: "3122"
 old_path: /news/3122/with-the-university-challenge-team-coasting-into-the-next-round-the-team-for-next-year-is-chosen
-redirect_from:
+aliases:
  - /news/3122/with-the-university-challenge-team-coasting-into-the-next-round-the-team-for-next-year-is-chosen
 category: news
 

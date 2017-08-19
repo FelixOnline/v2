@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 13:40:02 +0000"
 id: "6360"
 old_path: /news/6360/union-launches-social-enterprise-scheme
-redirect_from:
+aliases:
  - /news/6360/union-launches-social-enterprise-scheme
 category: news
 

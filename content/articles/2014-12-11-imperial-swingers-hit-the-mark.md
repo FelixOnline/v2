@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:22:02 +0000"
 id: "5037"
 old_path: /cands/5037/imperial-swingers-hit-the-mark
-redirect_from:
+aliases:
  - /cands/5037/imperial-swingers-hit-the-mark
 category: clubs-and-socs
 

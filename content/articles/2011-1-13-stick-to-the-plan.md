@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:46:58 +0000"
 id: "585"
 old_path: /travel/585/stick-to-the-plan
-redirect_from:
+aliases:
  - /travel/585/stick-to-the-plan
 category: travel
 

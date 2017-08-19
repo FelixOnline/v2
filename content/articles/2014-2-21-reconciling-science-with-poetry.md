@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:28:21 +0000"
 id: "4429"
 old_path: /comment/4429/reconciling-science-with-poetry
-redirect_from:
+aliases:
  - /comment/4429/reconciling-science-with-poetry
 category: comment
 

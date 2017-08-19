@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:01:28 +0000"
 id: "4412"
 old_path: /news/4412/college-indirectly-invests-785000-in-tobacco-industry
-redirect_from:
+aliases:
  - /news/4412/college-indirectly-invests-785000-in-tobacco-industry
 category: news
 

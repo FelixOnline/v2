@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:03:51 +0100"
 id: "1512"
 old_path: /science/1512/decade-old-hubble-data-reveals-planets
-redirect_from:
+aliases:
  - /science/1512/decade-old-hubble-data-reveals-planets
 category: science
 

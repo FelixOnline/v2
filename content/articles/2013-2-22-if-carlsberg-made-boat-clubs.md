@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:08:01 +0000"
 id: "3372"
 old_path: /sport/3372/if-carlsberg-made-boat-clubs
-redirect_from:
+aliases:
  - /sport/3372/if-carlsberg-made-boat-clubs
 category: sport
 

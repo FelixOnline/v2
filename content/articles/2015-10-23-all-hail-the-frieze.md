@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:43:58 +0100"
 id: "5671"
 old_path: /arts/5671/all-hail-the-frieze
-redirect_from:
+aliases:
  - /arts/5671/all-hail-the-frieze
 category: arts
 

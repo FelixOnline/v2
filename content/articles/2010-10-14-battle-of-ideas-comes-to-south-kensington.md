@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:13:21 +0100"
 id: "199"
 old_path: /news/199/battle-of-ideas-comes-to-south-kensington
-redirect_from:
+aliases:
  - /news/199/battle-of-ideas-comes-to-south-kensington
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-17 18:18:02 +0000"
 id: "4903"
 old_path: /tv/4903/is-mindy-kaling-too-ugly-or-are-you-just-too-rude
-redirect_from:
+aliases:
  - /tv/4903/is-mindy-kaling-too-ugly-or-are-you-just-too-rude
 category: tv
 

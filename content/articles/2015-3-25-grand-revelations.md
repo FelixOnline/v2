@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 14:00:15 +0000"
 id: "5457"
 old_path: /arts/5457/grand-revelations
-redirect_from:
+aliases:
  - /arts/5457/grand-revelations
 category: arts
 

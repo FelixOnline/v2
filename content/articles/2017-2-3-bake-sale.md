@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:07:18 +0000"
 id: "6730"
 old_path: /tv/6730/bake-sale
-redirect_from:
+aliases:
  - /tv/6730/bake-sale
 category: tv
 

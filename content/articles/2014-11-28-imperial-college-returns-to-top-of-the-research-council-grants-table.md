@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:38:06 +0000"
 id: "4961"
 old_path: /news/4961/imperial-college-returns-to-top-of-the-research-council-grants-table
-redirect_from:
+aliases:
  - /news/4961/imperial-college-returns-to-top-of-the-research-council-grants-table
 category: news
 

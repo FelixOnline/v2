@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:34:21 +0100"
 id: "1443"
 old_path: /tv/1443/two-girls-one-cup
-redirect_from:
+aliases:
  - /tv/1443/two-girls-one-cup
 category: tv
 

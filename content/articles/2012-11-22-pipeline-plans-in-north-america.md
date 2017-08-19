@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:19:33 +0000"
 id: "2945"
 old_path: /politics/2945/pipeline-plans-in-north-america
-redirect_from:
+aliases:
  - /politics/2945/pipeline-plans-in-north-america
 category: politics
 

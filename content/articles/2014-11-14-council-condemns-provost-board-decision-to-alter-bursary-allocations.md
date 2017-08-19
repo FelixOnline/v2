@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:03:22 +0000"
 id: "4865"
 old_path: /news/4865/council-condemns-provost-board-decision-to-alter-bursary-allocations
-redirect_from:
+aliases:
  - /news/4865/council-condemns-provost-board-decision-to-alter-bursary-allocations
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 12:26:02 +0100"
 id: "3643"
 old_path: /comment/3643/engineering-a-good-course
-redirect_from:
+aliases:
  - /comment/3643/engineering-a-good-course
 category: comment
 

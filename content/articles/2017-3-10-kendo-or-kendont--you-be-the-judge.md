@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:46:13 +0000"
 id: "6889"
 old_path: /sport/6889/kendo-or-kendont--you-be-the-judge
-redirect_from:
+aliases:
  - /sport/6889/kendo-or-kendont--you-be-the-judge
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 23:02:32 +0100"
 id: "5554"
 old_path: /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
-redirect_from:
+aliases:
  - /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
 category: news
 

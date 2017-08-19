@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:07:16 +0000"
 id: "5376"
 old_path: /comment/5376/how-do-you-like-your-tea
-redirect_from:
+aliases:
  - /comment/5376/how-do-you-like-your-tea
 category: comment
 

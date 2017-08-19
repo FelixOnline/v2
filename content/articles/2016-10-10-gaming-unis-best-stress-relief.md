@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 12:16:54 +0100"
 id: "6320"
 old_path: /games/6320/gaming-unis-best-stress-relief
-redirect_from:
+aliases:
  - /games/6320/gaming-unis-best-stress-relief
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:17:48 +0000"
 id: "6388"
 old_path: /comment/6388/stop-trying-to-domesticate-the-wild
-redirect_from:
+aliases:
  - /comment/6388/stop-trying-to-domesticate-the-wild
 category: comment
 

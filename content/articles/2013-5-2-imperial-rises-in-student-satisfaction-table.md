@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:33:35 +0100"
 id: "3530"
 old_path: /news/3530/imperial-rises-in-student-satisfaction-table
-redirect_from:
+aliases:
  - /news/3530/imperial-rises-in-student-satisfaction-table
 category: news
 

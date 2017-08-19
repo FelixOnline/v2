@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:08:34 +0000"
 id: "4977"
 old_path: /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
-redirect_from:
+aliases:
  - /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
 category: games
 

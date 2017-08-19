@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:17:06 +0100"
 id: "1390"
 old_path: /biz/1390/a-new-tech-bubble
-redirect_from:
+aliases:
  - /biz/1390/a-new-tech-bubble
 category: business
 

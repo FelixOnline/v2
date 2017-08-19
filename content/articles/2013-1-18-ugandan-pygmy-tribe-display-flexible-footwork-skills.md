@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:19:35 +0000"
 id: "3129"
 old_path: /science/3129/ugandan-pygmy-tribe-display-flexible-footwork-skills
-redirect_from:
+aliases:
  - /science/3129/ugandan-pygmy-tribe-display-flexible-footwork-skills
 category: science
 

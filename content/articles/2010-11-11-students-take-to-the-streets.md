@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 22:19:44 +0000"
 id: "376"
 old_path: /news/376/students-take-to-the-streets
-redirect_from:
+aliases:
  - /news/376/students-take-to-the-streets
 category: news
 

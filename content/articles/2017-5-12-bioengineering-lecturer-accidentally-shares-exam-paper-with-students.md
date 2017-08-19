@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:51:40 +0100"
 id: "6942"
 old_path: /news/6942/bioengineering-lecturer-accidentally-shares-exam-paper-with-students
-redirect_from:
+aliases:
  - /news/6942/bioengineering-lecturer-accidentally-shares-exam-paper-with-students
 category: news
 

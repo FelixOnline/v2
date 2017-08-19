@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:01:26 +0000"
 id: "3020"
 old_path: /news/3020/grantham-says-scientists-should-be-more-vocal
-redirect_from:
+aliases:
  - /news/3020/grantham-says-scientists-should-be-more-vocal
 category: news
 

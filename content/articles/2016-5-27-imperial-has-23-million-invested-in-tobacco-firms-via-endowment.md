@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:36:24 +0100"
 id: "6194"
 old_path: /news/6194/-imperial-has-23-million-invested-in-tobacco-firms-via-endowment
-redirect_from:
+aliases:
  - /news/6194/-imperial-has-23-million-invested-in-tobacco-firms-via-endowment
 category: news
 

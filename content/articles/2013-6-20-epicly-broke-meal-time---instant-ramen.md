@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:25:45 +0100"
 id: "3721"
 old_path: /food/3721/epicly-broke-meal-time---instant-ramen
-redirect_from:
+aliases:
  - /food/3721/epicly-broke-meal-time---instant-ramen
 category: food
 

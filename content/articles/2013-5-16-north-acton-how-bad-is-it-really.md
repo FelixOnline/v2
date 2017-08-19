@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:55:19 +0100"
 id: "3587"
 old_path: /comment/3587/north-acton-how-bad-is-it-really
-redirect_from:
+aliases:
  - /comment/3587/north-acton-how-bad-is-it-really
 category: comment
 

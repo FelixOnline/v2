@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 13:20:44 +0100"
 id: "5563"
 old_path: /arts/5563/in-conversation-ian-macneil
-redirect_from:
+aliases:
  - /arts/5563/in-conversation-ian-macneil
 category: arts
 

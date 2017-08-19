@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-10 21:29:44 +0000"
 id: "4048"
 old_path: /books/4048/chortle-festival-comes-to-london
-redirect_from:
+aliases:
  - /books/4048/chortle-festival-comes-to-london
 category: books
 

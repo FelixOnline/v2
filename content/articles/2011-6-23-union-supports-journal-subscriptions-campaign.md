@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:19:42 +0100"
 id: "1414"
 old_path: /news/1414/union-supports-journal-subscriptions-campaign
-redirect_from:
+aliases:
  - /news/1414/union-supports-journal-subscriptions-campaign
 category: news
 

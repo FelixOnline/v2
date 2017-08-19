@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 18:04:34 +0000"
 id: "5213"
 old_path: /cands/5213/how-dare-you-accuse-us-of-being-communist
-redirect_from:
+aliases:
  - /cands/5213/how-dare-you-accuse-us-of-being-communist
 category: clubs-and-socs
 

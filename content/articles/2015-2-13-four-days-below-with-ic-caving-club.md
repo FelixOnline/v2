@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 15:26:08 +0000"
 id: "5259"
 old_path: /cands/5259/four-days-below-with-ic-caving-club
-redirect_from:
+aliases:
  - /cands/5259/four-days-below-with-ic-caving-club
 category: clubs-and-socs
 

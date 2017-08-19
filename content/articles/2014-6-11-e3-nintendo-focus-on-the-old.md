@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 21:43:39 +0100"
 id: "4673"
 old_path: /games/4673/e3-nintendo-focus-on-the-old-
-redirect_from:
+aliases:
  - /games/4673/e3-nintendo-focus-on-the-old-
 category: games
 

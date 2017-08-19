@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-25 00:01:18 +0000"
 id: "4139"
 old_path: /sport/4139/ic-win-in-cup
-redirect_from:
+aliases:
  - /sport/4139/ic-win-in-cup
 category: sport
 

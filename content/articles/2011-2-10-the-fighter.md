@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:48:17 +0000"
 id: "784"
 old_path: /film/784/the-fighter-
-redirect_from:
+aliases:
  - /film/784/the-fighter-
 category: film
 

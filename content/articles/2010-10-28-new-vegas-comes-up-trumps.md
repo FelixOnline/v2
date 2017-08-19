@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:26:46 +0100"
 id: "262"
 old_path: /games/262/new-vegas-comes-up-trumps
-redirect_from:
+aliases:
  - /games/262/new-vegas-comes-up-trumps
 category: games
 

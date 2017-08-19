@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 16:00:41 +0100"
 id: "2634"
 old_path: /news/2634/fire-in-chem-eng-labs
-redirect_from:
+aliases:
  - /news/2634/fire-in-chem-eng-labs
 category: news
 

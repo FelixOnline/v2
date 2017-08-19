@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:14:57 +0100"
 id: "6187"
 old_path: /music/6187/in-the-music-streaming-wars-we-all-lose
-redirect_from:
+aliases:
  - /music/6187/in-the-music-streaming-wars-we-all-lose
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:17:09 +0000"
 id: "531"
 old_path: /comment/531/both-students-and-staff-deserve-better-than-this
-redirect_from:
+aliases:
  - /comment/531/both-students-and-staff-deserve-better-than-this
 category: comment
 

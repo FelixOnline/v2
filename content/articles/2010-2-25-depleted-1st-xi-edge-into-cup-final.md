@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 18:52:49 +0000"
 id: "106"
 old_path: /sport/106/depleted-1st-xi-edge-into-cup-final
-redirect_from:
+aliases:
  - /sport/106/depleted-1st-xi-edge-into-cup-final
 category: sport
 

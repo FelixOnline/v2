@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:05:21 +0100"
 id: "1316"
 old_path: /music/1316/rodrigo-braga-imperials-own-stevie-wonder
-redirect_from:
+aliases:
  - /music/1316/rodrigo-braga-imperials-own-stevie-wonder
 category: music
 

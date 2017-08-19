@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:53:29 +0100"
 id: "281"
 old_path: /film/281/felix-film-review--conviction
-redirect_from:
+aliases:
  - /film/281/felix-film-review--conviction
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:42:00 +0000"
 id: "477"
 old_path: /politics/477/washington-we-have-a-problem
-redirect_from:
+aliases:
  - /politics/477/washington-we-have-a-problem
 category: politics
 

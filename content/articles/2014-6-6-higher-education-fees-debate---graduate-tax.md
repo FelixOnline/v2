@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:43:11 +0100"
 id: "4660"
 old_path: /comment/4660/higher-education-fees-debate---graduate-tax
-redirect_from:
+aliases:
  - /comment/4660/higher-education-fees-debate---graduate-tax
 category: comment
 

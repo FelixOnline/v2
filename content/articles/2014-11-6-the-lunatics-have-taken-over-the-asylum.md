@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:41:09 +0000"
 id: "4781"
 old_path: /science/4781/the-lunatics-have-taken-over-the-asylum-
-redirect_from:
+aliases:
  - /science/4781/the-lunatics-have-taken-over-the-asylum-
 category: science
 

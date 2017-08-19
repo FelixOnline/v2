@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:05:52 +0100"
 id: "3770"
 old_path: /science/3770/tired-or-drunk-you-might-be-feeling-quite-creative
-redirect_from:
+aliases:
  - /science/3770/tired-or-drunk-you-might-be-feeling-quite-creative
 category: science
 

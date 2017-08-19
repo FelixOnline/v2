@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:41:43 +0000"
 id: "4273"
 old_path: /news/4273/yoyo-mobile-payments-app-rolled-out-on-campus
-redirect_from:
+aliases:
  - /news/4273/yoyo-mobile-payments-app-rolled-out-on-campus
 category: news
 

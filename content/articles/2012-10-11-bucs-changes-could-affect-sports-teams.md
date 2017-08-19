@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:21:56 +0100"
 id: "2640"
 old_path: /news/2640/bucs-changes-could-affect-sports-teams
-redirect_from:
+aliases:
  - /news/2640/bucs-changes-could-affect-sports-teams
 category: news
 

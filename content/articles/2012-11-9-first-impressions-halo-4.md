@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 16:03:55 +0000"
 id: "2878"
 old_path: /games/2878/first-impressions-halo-4
-redirect_from:
+aliases:
  - /games/2878/first-impressions-halo-4
 category: games
 

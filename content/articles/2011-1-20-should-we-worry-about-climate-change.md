@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:22:20 +0000"
 id: "645"
 old_path: /comment/645/should-we-worry-about-climate-change
-redirect_from:
+aliases:
  - /comment/645/should-we-worry-about-climate-change
 category: comment
 

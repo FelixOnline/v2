@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:21:33 +0000"
 id: "945"
 old_path: /news/945/college-steps-back-from-8am-lectures
-redirect_from:
+aliases:
  - /news/945/college-steps-back-from-8am-lectures
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:23:45 +0100"
 id: "1522"
 old_path: /news/1522/matrices-and-monkeys
-redirect_from:
+aliases:
  - /news/1522/matrices-and-monkeys
 category: news
 

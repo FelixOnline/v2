@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:52:34 +0000"
 id: "6504"
 old_path: /film/6504/films-in-protest
-redirect_from:
+aliases:
  - /film/6504/films-in-protest
 category: film
 

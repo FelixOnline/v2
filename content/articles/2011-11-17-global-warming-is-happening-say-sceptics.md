@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:16:32 +0000"
 id: "1754"
 old_path: /science/1754/global-warming-is-happening-say-sceptics
-redirect_from:
+aliases:
  - /science/1754/global-warming-is-happening-say-sceptics
 category: science
 

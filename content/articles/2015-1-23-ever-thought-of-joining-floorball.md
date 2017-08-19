@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 19:19:42 +0000"
 id: "5151"
 old_path: /sport/5151/ever-thought-of-joining-floorball
-redirect_from:
+aliases:
  - /sport/5151/ever-thought-of-joining-floorball
 category: sport
 

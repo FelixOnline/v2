@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:39:38 +0000"
 id: "3039"
 old_path: /science/3039/building-a-virtual-brain
-redirect_from:
+aliases:
  - /science/3039/building-a-virtual-brain
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 14:08:28 +0000"
 id: "5768"
 old_path: /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
-redirect_from:
+aliases:
  - /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
 category: film
 

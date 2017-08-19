@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:21:21 +0000"
 id: "815"
 old_path: /news/815/the-summer-ball
-redirect_from:
+aliases:
  - /news/815/the-summer-ball
 category: news
 

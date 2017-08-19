@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 14:57:36 +0100"
 id: "6970"
 old_path: /news/6970/fossil-fuel-divestment-finally-on-the-table
-redirect_from:
+aliases:
  - /news/6970/fossil-fuel-divestment-finally-on-the-table
 category: news
 

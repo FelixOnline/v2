@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-24 13:57:25 +0100"
 id: "5470"
 old_path: /arts/5470/lost-in-the-wild
-redirect_from:
+aliases:
  - /arts/5470/lost-in-the-wild
 category: arts
 

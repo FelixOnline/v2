@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:45:08 +0000"
 id: "310"
 old_path: /science/310/swine-flu-carried-deadly-mutation
-redirect_from:
+aliases:
  - /science/310/swine-flu-carried-deadly-mutation
 category: science
 

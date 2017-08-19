@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:26:38 +0000"
 id: "5901"
 old_path: /science/5901/the-neurobiology-of-anorexia
-redirect_from:
+aliases:
  - /science/5901/the-neurobiology-of-anorexia
 category: science
 

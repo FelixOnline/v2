@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:14:09 +0100"
 id: "6959"
 old_path: /tv/6959/worthy-of-worship--american-gods
-redirect_from:
+aliases:
  - /tv/6959/worthy-of-worship--american-gods
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:47:33 +0000"
 id: "2328"
 old_path: /film/2328/ten-new-releases-to-look-out-for-over-the-easter-break
-redirect_from:
+aliases:
  - /film/2328/ten-new-releases-to-look-out-for-over-the-easter-break
 category: film
 

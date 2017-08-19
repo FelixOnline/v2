@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:00:48 +0000"
 id: "4411"
 old_path: /news/4411/office-of-fair-trading-claims-sanctions-on-students-in-debt-unlawful
-redirect_from:
+aliases:
  - /news/4411/office-of-fair-trading-claims-sanctions-on-students-in-debt-unlawful
 category: news
 

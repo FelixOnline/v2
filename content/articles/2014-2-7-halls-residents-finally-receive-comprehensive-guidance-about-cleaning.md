@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:59:48 +0000"
 id: "4354"
 old_path: /news/4354/halls-residents-finally-receive-comprehensive-guidance-about-cleaning
-redirect_from:
+aliases:
  - /news/4354/halls-residents-finally-receive-comprehensive-guidance-about-cleaning
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:31:11 +0000"
 id: "5323"
 old_path: /cands/5323/international-development-in-a-changing-world
-redirect_from:
+aliases:
  - /cands/5323/international-development-in-a-changing-world
 category: clubs-and-socs
 

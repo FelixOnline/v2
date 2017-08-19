@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 21:41:59 +0100"
 id: "4672"
 old_path: /games/4672/e3-sony-exclusives-now
-redirect_from:
+aliases:
  - /games/4672/e3-sony-exclusives-now
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:55:48 +0000"
 id: "444"
 old_path: /comment/444/three-lambs-on-the-shirt
-redirect_from:
+aliases:
  - /comment/444/three-lambs-on-the-shirt
 category: comment
 

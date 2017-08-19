@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:54:56 +0000"
 id: "4969"
 old_path: /features/4969/lets-go-hyper
-redirect_from:
+aliases:
  - /features/4969/lets-go-hyper
 category: features
 

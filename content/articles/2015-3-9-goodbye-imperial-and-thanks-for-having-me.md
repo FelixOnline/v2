@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 18:19:59 +0000"
 id: "5372"
 old_path: /comment/5372/goodbye-imperial-and-thanks-for-having-me
-redirect_from:
+aliases:
  - /comment/5372/goodbye-imperial-and-thanks-for-having-me
 category: comment
 

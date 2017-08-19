@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:57:03 +0000"
 id: "4327"
 old_path: /news/4327/care-data-live-saving-tool-or-invasion-of-privacy
-redirect_from:
+aliases:
  - /news/4327/care-data-live-saving-tool-or-invasion-of-privacy
 category: news
 

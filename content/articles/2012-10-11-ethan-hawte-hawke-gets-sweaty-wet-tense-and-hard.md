@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:09:10 +0100"
 id: "2664"
 old_path: /film/2664/ethan-hawte-hawke-gets-sweaty-wet-tense-and-hard
-redirect_from:
+aliases:
  - /film/2664/ethan-hawte-hawke-gets-sweaty-wet-tense-and-hard
 category: film
 

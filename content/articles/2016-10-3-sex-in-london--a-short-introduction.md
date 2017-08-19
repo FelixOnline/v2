@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 20:32:39 +0100"
 id: "6309"
 old_path: /sex/6309/sex-in-london--a-short-introduction
-redirect_from:
+aliases:
  - /sex/6309/sex-in-london--a-short-introduction
 category: sex
 

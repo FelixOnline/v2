@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:34:01 +0000"
 id: "6498"
 old_path: /comment/6498/they-want-our-data--the-uks-internet-crisis
-redirect_from:
+aliases:
  - /comment/6498/they-want-our-data--the-uks-internet-crisis
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:18:25 +0000"
 id: "6016"
 old_path: /news/6016/renovated-evelyn-gardens-halls-will-cost-up-to-225-per-week
-redirect_from:
+aliases:
  - /news/6016/renovated-evelyn-gardens-halls-will-cost-up-to-225-per-week
 category: news
 

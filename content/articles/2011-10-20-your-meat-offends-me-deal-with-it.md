@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:49:04 +0100"
 id: "1575"
 old_path: /comment/1575/your-meat-offends-me-deal-with-it
-redirect_from:
+aliases:
  - /comment/1575/your-meat-offends-me-deal-with-it
 category: comment
 

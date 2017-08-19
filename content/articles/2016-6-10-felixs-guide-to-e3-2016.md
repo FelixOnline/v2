@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:36:08 +0100"
 id: "6266"
 old_path: /games/6266/felixs-guide-to-e3-2016
-redirect_from:
+aliases:
  - /games/6266/felixs-guide-to-e3-2016
 category: games
 

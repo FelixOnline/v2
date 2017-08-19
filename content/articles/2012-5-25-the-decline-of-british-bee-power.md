@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:42:40 +0100"
 id: "2500"
 old_path: /science/2500/the-decline-of-british-bee-power
-redirect_from:
+aliases:
  - /science/2500/the-decline-of-british-bee-power
 category: science
 

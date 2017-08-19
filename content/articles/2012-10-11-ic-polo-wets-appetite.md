@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:24:15 +0100"
 id: "2674"
 old_path: /sport/2674/ic-polo-wets-appetite
-redirect_from:
+aliases:
  - /sport/2674/ic-polo-wets-appetite
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:40:57 +0000"
 id: "6759"
 old_path: /sex/6759/fuck-valentines-day--asexual-and-aromantic
-redirect_from:
+aliases:
  - /sex/6759/fuck-valentines-day--asexual-and-aromantic
 category: sex
 

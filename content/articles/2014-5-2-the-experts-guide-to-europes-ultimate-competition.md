@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:34:04 +0100"
 id: "4552"
 old_path: /music/4552/the-experts-guide-to-europes-ultimate-competition
-redirect_from:
+aliases:
  - /music/4552/the-experts-guide-to-europes-ultimate-competition
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:12:12 +0000"
 id: "3356"
 old_path: /comment/3356/the-life-of-a-paragon-fresher
-redirect_from:
+aliases:
  - /comment/3356/the-life-of-a-paragon-fresher
 category: comment
 

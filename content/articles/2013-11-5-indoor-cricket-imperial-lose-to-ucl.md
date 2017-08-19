@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:59:23 +0000"
 id: "4014"
 old_path: /sport/4014/indoor-cricket-imperial-lose-to-ucl
-redirect_from:
+aliases:
  - /sport/4014/indoor-cricket-imperial-lose-to-ucl
 category: sport
 

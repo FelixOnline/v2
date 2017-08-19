@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 22:00:23 +0000"
 id: "6807"
 old_path: /arts/6807/richard-iii--an-exploration-of-a-monster
-redirect_from:
+aliases:
  - /arts/6807/richard-iii--an-exploration-of-a-monster
 category: arts
 

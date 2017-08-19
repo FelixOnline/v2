@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:31:42 +0100"
 id: "1514"
 old_path: /games/1514/gaming-in-reverse---quake
-redirect_from:
+aliases:
  - /games/1514/gaming-in-reverse---quake
 category: games
 

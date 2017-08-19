@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 14:26:34 +0000"
 id: "26"
 old_path: /music/26/yeasayer-interview
-redirect_from:
+aliases:
  - /music/26/yeasayer-interview
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-08 18:12:46 +0100"
 id: "1500"
 old_path: /news/1500/fast-times-for-charity
-redirect_from:
+aliases:
  - /news/1500/fast-times-for-charity
 category: news
 

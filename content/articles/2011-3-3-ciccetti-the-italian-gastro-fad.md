@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 19:39:35 +0000"
 id: "999"
 old_path: /food/999/ciccetti-the-italian-gastro-fad
-redirect_from:
+aliases:
  - /food/999/ciccetti-the-italian-gastro-fad
 category: food
 

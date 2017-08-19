@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:24:04 +0100"
 id: "1322"
 old_path: /news/1322/rifles-polar-bears-and-sub-zero-temperatures
-redirect_from:
+aliases:
  - /news/1322/rifles-polar-bears-and-sub-zero-temperatures
 category: news
 

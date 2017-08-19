@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 18:46:32 +0000"
 id: "6860"
 old_path: /news/6860/chemical-spill-causes-closure-of-rsm
-redirect_from:
+aliases:
  - /news/6860/chemical-spill-causes-closure-of-rsm
 category: news
 

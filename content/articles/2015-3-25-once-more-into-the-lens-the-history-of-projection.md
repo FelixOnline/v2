@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 11:55:51 +0000"
 id: "5423"
 old_path: /arts/5423/once-more-into-the-lens-the-history-of-projection
-redirect_from:
+aliases:
  - /arts/5423/once-more-into-the-lens-the-history-of-projection
 category: arts
 

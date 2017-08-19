@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:45:40 +0000"
 id: "3394"
 old_path: /sport/3394/icsm-conquer-ic-in-lusl-vase
-redirect_from:
+aliases:
  - /sport/3394/icsm-conquer-ic-in-lusl-vase
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 22:58:47 +0000"
 id: "4053"
 old_path: /games/4053/playstation-4-you
-redirect_from:
+aliases:
  - /games/4053/playstation-4-you
 category: games
 

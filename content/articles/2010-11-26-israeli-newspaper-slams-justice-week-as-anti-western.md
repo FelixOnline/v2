@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 07:16:31 +0000"
 id: "448"
 old_path: /news/448/israeli-newspaper-slams-justice-week-as-anti-western-
-redirect_from:
+aliases:
  - /news/448/israeli-newspaper-slams-justice-week-as-anti-western-
 category: news
 

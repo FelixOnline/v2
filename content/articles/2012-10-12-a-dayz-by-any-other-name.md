@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-12 10:57:10 +0100"
 id: "2682"
 old_path: /games/2682/a-dayz-by-any-other-name
-redirect_from:
+aliases:
  - /games/2682/a-dayz-by-any-other-name
 category: games
 

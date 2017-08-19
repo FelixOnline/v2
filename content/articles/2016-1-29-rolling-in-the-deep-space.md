@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 10:07:22 +0000"
 id: "5859"
 old_path: /games/5859/rolling-in-the-deep-space
-redirect_from:
+aliases:
  - /games/5859/rolling-in-the-deep-space
 category: games
 

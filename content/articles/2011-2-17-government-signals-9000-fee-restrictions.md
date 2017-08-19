@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:15:29 +0000"
 id: "814"
 old_path: /news/814/government-signals-9000-fee-restrictions
-redirect_from:
+aliases:
  - /news/814/government-signals-9000-fee-restrictions
 category: news
 

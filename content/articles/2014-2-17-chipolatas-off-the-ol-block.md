@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 18:30:35 +0000"
 id: "4396"
 old_path: /food/4396/chipolatas-off-the-ol-block
-redirect_from:
+aliases:
  - /food/4396/chipolatas-off-the-ol-block
 category: food
 

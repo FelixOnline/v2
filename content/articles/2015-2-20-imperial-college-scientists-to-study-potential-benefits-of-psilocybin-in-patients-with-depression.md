@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:02:08 +0000"
 id: "5279"
 old_path: /news/5279/imperial-college-scientists-to-study-potential-benefits-of-psilocybin-in-patients-with-depression
-redirect_from:
+aliases:
  - /news/5279/imperial-college-scientists-to-study-potential-benefits-of-psilocybin-in-patients-with-depression
 category: news
 

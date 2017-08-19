@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:05:42 +0000"
 id: "1681"
 old_path: /biz/1681/give-me-liberty-or-give-me-death-
-redirect_from:
+aliases:
  - /biz/1681/give-me-liberty-or-give-me-death-
 category: business
 

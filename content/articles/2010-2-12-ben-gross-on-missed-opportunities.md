@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 02:07:10 +0000"
 id: "87"
 old_path: /comment/87/ben-gross-on-missed-opportunities
-redirect_from:
+aliases:
  - /comment/87/ben-gross-on-missed-opportunities
 category: comment
 

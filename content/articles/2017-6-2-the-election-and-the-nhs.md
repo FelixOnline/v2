@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 14:25:02 +0100"
 id: "7004"
 old_path: /features/7004/the-election-and-the-nhs
-redirect_from:
+aliases:
  - /features/7004/the-election-and-the-nhs
 category: features
 

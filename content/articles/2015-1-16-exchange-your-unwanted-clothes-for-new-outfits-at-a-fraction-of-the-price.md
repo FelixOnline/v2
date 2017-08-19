@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 15:45:38 +0000"
 id: "5103"
 old_path: /features/5103/exchange-your-unwanted-clothes-for-new-outfits-at-a-fraction-of-the-price
-redirect_from:
+aliases:
  - /features/5103/exchange-your-unwanted-clothes-for-new-outfits-at-a-fraction-of-the-price
 category: features
 

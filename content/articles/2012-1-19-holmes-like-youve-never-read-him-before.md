@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:15:46 +0000"
 id: "2010"
 old_path: /books/2010/holmes-like-youve-never-read-him-before
-redirect_from:
+aliases:
  - /books/2010/holmes-like-youve-never-read-him-before
 category: books
 

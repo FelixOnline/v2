@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 09:30:09 +0100"
 id: "6328"
 old_path: /news/6328/science-museum-exhibition-criticised
-redirect_from:
+aliases:
  - /news/6328/science-museum-exhibition-criticised
 category: news
 

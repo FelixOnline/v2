@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:49:21 +0100"
 id: "7007"
 old_path: /news/7007/consent-matters-pilot-launched
-redirect_from:
+aliases:
  - /news/7007/consent-matters-pilot-launched
 category: news
 

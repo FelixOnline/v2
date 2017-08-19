@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:13:27 +0000"
 id: "1064"
 old_path: /comment/1064/is-our-society-less-homophobic-than-it-was-in-the-past
-redirect_from:
+aliases:
  - /comment/1064/is-our-society-less-homophobic-than-it-was-in-the-past
 category: comment
 

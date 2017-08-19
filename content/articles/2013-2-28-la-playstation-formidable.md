@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 17:48:10 +0000"
 id: "3381"
 old_path: /games/3381/la-playstation-formidable
-redirect_from:
+aliases:
  - /games/3381/la-playstation-formidable
 category: games
 

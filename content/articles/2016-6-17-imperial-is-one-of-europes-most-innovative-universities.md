@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 08:52:51 +0100"
 id: "6271"
 old_path: /news/6271/imperial-is-one-of-europes-most-innovative-universities
-redirect_from:
+aliases:
  - /news/6271/imperial-is-one-of-europes-most-innovative-universities
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:35:10 +0000"
 id: "3089"
 old_path: /comment/3089/nus-a-pottered-history
-redirect_from:
+aliases:
  - /comment/3089/nus-a-pottered-history
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 23:53:10 +0100"
 id: "3873"
 old_path: /travel/3873/some-guys-just-cant-handle-la-paz-
-redirect_from:
+aliases:
  - /travel/3873/some-guys-just-cant-handle-la-paz-
 category: travel
 

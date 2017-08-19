@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:24:17 +0000"
 id: "5142"
 old_path: /games/5142/the-next-big-gaming-trend-space-simulations
-redirect_from:
+aliases:
  - /games/5142/the-next-big-gaming-trend-space-simulations
 category: games
 

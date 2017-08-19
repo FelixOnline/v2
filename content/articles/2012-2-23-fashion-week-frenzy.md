@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:28:41 +0000"
 id: "2255"
 old_path: /fashion/2255/fashion-week-frenzy
-redirect_from:
+aliases:
  - /fashion/2255/fashion-week-frenzy
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:33:50 +0100"
 id: "2748"
 old_path: /comment/2748/the-problem-with-green-week
-redirect_from:
+aliases:
  - /comment/2748/the-problem-with-green-week
 category: comment
 

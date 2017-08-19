@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:29:46 +0000"
 id: "2190"
 old_path: /games/2190/virtual-dating-for-those-despondent-valentines
-redirect_from:
+aliases:
  - /games/2190/virtual-dating-for-those-despondent-valentines
 category: games
 

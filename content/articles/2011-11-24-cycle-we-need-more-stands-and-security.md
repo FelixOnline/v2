@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:55:01 +0000"
 id: "1844"
 old_path: /news/1844/cycle-we-need-more-stands-and-security
-redirect_from:
+aliases:
  - /news/1844/cycle-we-need-more-stands-and-security
 category: news
 

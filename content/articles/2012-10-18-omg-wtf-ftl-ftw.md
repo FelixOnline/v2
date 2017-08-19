@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:38:35 +0100"
 id: "2717"
 old_path: /games/2717/omg-wtf-ftl-ftw
-redirect_from:
+aliases:
  - /games/2717/omg-wtf-ftl-ftw
 category: games
 

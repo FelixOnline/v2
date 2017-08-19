@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 22:07:13 +0000"
 id: "1791"
 old_path: /film/1791/to-believe-or-not-to-believe
-redirect_from:
+aliases:
  - /film/1791/to-believe-or-not-to-believe
 category: film
 

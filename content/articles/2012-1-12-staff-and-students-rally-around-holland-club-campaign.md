@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:40:11 +0000"
 id: "1972"
 old_path: /news/1972/staff-and-students-rally-around-holland-club-campaign
-redirect_from:
+aliases:
  - /news/1972/staff-and-students-rally-around-holland-club-campaign
 category: news
 

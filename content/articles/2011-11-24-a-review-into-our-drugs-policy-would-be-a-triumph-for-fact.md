@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:40:22 +0000"
 id: "1839"
 old_path: /comment/1839/a-review-into-our-drugs-policy-would-be-a-triumph-for-fact
-redirect_from:
+aliases:
  - /comment/1839/a-review-into-our-drugs-policy-would-be-a-triumph-for-fact
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-22 03:31:14 +0000"
 id: "4094"
 old_path: /news/4094/campus-services-dept-contacts-students-about-cleaning-error
-redirect_from:
+aliases:
  - /news/4094/campus-services-dept-contacts-students-about-cleaning-error
 category: news
 

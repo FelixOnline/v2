@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:58:49 +0000"
 id: "1811"
 old_path: /science/1811/shallow-lakes-on-europa
-redirect_from:
+aliases:
  - /science/1811/shallow-lakes-on-europa
 category: science
 

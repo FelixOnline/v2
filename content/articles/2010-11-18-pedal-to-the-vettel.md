@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:04:33 +0000"
 id: "399"
 old_path: /sport/399/pedal-to-the-vettel
-redirect_from:
+aliases:
  - /sport/399/pedal-to-the-vettel
 category: sport
 

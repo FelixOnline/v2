@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 12:36:55 +0000"
 id: "5684"
 old_path: /comment/5684/why-are-imperial-students-so-apathetic-about-politics
-redirect_from:
+aliases:
  - /comment/5684/why-are-imperial-students-so-apathetic-about-politics
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 14:51:01 +0000"
 id: "6654"
 old_path: /news/6654/why-should-the-union-consult-college-on-tef-
-redirect_from:
+aliases:
  - /news/6654/why-should-the-union-consult-college-on-tef-
 category: news
 

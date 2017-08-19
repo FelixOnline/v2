@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:23:10 +0000"
 id: "3086"
 old_path: /news/3086/union-to-hold-referendum-on-nus
-redirect_from:
+aliases:
  - /news/3086/union-to-hold-referendum-on-nus
 category: news
 

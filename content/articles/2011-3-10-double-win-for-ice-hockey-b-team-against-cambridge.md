@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 21:15:36 +0000"
 id: "1081"
 old_path: /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
-redirect_from:
+aliases:
  - /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
 category: sport
 

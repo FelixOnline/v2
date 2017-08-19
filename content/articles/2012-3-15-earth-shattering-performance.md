@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:23:23 +0000"
 id: "2380"
 old_path: /music/2380/earth-shattering-performance
-redirect_from:
+aliases:
  - /music/2380/earth-shattering-performance
 category: music
 

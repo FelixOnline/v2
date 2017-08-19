@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:30:29 +0000"
 id: "1102"
 old_path: /politics/1102/leaking-wikileaks
-redirect_from:
+aliases:
  - /politics/1102/leaking-wikileaks
 category: politics
 

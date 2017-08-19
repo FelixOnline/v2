@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:36:26 +0000"
 id: "6500"
 old_path: /science/6500/wounds-heal-with-a-lot-of-time
-redirect_from:
+aliases:
  - /science/6500/wounds-heal-with-a-lot-of-time
 category: science
 

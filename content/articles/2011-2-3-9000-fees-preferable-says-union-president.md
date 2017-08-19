@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:33:34 +0000"
 id: "717"
 old_path: /news/717/9000-fees-preferable-says-union-president-
-redirect_from:
+aliases:
  - /news/717/9000-fees-preferable-says-union-president-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:35:18 +0000"
 id: "2067"
 old_path: /comment/2067/imperial-doesnt-seem-to-care-about-its-postgraduates
-redirect_from:
+aliases:
  - /comment/2067/imperial-doesnt-seem-to-care-about-its-postgraduates
 category: comment
 

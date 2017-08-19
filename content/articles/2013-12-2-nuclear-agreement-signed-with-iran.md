@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:57:41 +0000"
 id: "4160"
 old_path: /politics/4160/nuclear-agreement-signed-with-iran
-redirect_from:
+aliases:
  - /politics/4160/nuclear-agreement-signed-with-iran
 category: politics
 

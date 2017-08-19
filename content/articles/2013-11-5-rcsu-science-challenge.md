@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:48:27 +0000"
 id: "4006"
 old_path: /features/4006/rcsu-science-challenge
-redirect_from:
+aliases:
  - /features/4006/rcsu-science-challenge
 category: features
 

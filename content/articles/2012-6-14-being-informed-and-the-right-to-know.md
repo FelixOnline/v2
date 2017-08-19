@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:37:10 +0100"
 id: "2548"
 old_path: /comment/2548/being-informed-and-the-right-to-know
-redirect_from:
+aliases:
  - /comment/2548/being-informed-and-the-right-to-know
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:42:20 +0000"
 id: "6646"
 old_path: /arts/6646/this-term-in-arts
-redirect_from:
+aliases:
  - /arts/6646/this-term-in-arts
 category: arts
 

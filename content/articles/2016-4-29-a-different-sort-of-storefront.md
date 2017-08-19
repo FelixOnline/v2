@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:56:13 +0100"
 id: "6106"
 old_path: /games/6106/a-different-sort-of-storefront
-redirect_from:
+aliases:
  - /games/6106/a-different-sort-of-storefront
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:09:41 +0000"
 id: "4759"
 old_path: /comment/4759/a-council-divided-a-house-which-can-have-fun
-redirect_from:
+aliases:
  - /comment/4759/a-council-divided-a-house-which-can-have-fun
 category: comment
 

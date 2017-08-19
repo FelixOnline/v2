@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-28 21:37:52 +0100"
 id: "4633"
 old_path: /games/4633/the-games-i-played-during-my-revision
-redirect_from:
+aliases:
  - /games/4633/the-games-i-played-during-my-revision
 category: games
 

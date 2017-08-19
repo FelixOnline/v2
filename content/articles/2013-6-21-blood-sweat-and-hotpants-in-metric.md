@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 01:25:41 +0100"
 id: "3740"
 old_path: /sport/3740/blood-sweat-and-hotpants-in-metric
-redirect_from:
+aliases:
  - /sport/3740/blood-sweat-and-hotpants-in-metric
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 16:21:09 +0000"
 id: "6624"
 old_path: /sex/6624/tossing-fruit-salad-
-redirect_from:
+aliases:
  - /sex/6624/tossing-fruit-salad-
 category: sex
 

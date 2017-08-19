@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:42:56 +0100"
 id: "7022"
 old_path: /sport/7022/keeping-track-of-imperials-cross-country--athletics-club
-redirect_from:
+aliases:
  - /sport/7022/keeping-track-of-imperials-cross-country--athletics-club
 category: sport
 

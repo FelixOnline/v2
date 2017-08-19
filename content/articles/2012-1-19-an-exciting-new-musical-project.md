@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:43:45 +0000"
 id: "2020"
 old_path: /film/2020/an-exciting-new-musical-project
-redirect_from:
+aliases:
  - /film/2020/an-exciting-new-musical-project
 category: film
 

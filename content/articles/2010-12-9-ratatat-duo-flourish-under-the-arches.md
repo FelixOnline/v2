@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:29:22 +0000"
 id: "523"
 old_path: /music/523/ratatat-duo-flourish-under-the-arches
-redirect_from:
+aliases:
  - /music/523/ratatat-duo-flourish-under-the-arches
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 01:57:05 +0100"
 id: "3807"
 old_path: /arts/3807/the-artistic-influences-of-mountain-sitting
-redirect_from:
+aliases:
  - /arts/3807/the-artistic-influences-of-mountain-sitting
 category: arts
 

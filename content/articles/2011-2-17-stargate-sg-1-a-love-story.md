@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:29:24 +0000"
 id: "844"
 old_path: /tv/844/stargate-sg-1-a-love-story
-redirect_from:
+aliases:
  - /tv/844/stargate-sg-1-a-love-story
 category: tv
 

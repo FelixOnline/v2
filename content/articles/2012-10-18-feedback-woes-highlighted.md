@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:50:17 +0100"
 id: "2726"
 old_path: /news/2726/feedback-woes-highlighted
-redirect_from:
+aliases:
  - /news/2726/feedback-woes-highlighted
 category: news
 

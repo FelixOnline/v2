@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 13:08:27 +0100"
 id: "1496"
 old_path: /food/1496/london-restaurant-festival-showcases-culinary-diversity
-redirect_from:
+aliases:
  - /food/1496/london-restaurant-festival-showcases-culinary-diversity
 category: food
 

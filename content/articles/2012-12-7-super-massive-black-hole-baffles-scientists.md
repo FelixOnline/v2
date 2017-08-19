@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:36:28 +0000"
 id: "3038"
 old_path: /science/3038/super-massive-black-hole-baffles-scientists
-redirect_from:
+aliases:
  - /science/3038/super-massive-black-hole-baffles-scientists
 category: science
 

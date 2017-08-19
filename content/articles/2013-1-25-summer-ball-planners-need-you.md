@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:19:18 +0000"
 id: "3176"
 old_path: /news/3176/summer-ball-planners-need-you
-redirect_from:
+aliases:
  - /news/3176/summer-ball-planners-need-you
 category: news
 

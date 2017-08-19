@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:20:40 +0000"
 id: "3084"
 old_path: /news/3084/imperials-got-no-sole
-redirect_from:
+aliases:
  - /news/3084/imperials-got-no-sole
 category: news
 

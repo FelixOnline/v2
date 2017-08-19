@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 19:57:45 +0000"
 id: "2002"
 old_path: /biz/2002/brand-identity
-redirect_from:
+aliases:
  - /biz/2002/brand-identity
 category: business
 

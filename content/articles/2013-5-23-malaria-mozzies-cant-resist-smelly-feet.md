@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:05:55 +0100"
 id: "3607"
 old_path: /science/3607/malaria-mozzies-cant-resist-smelly-feet
-redirect_from:
+aliases:
  - /science/3607/malaria-mozzies-cant-resist-smelly-feet
 category: science
 

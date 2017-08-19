@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:45:15 +0100"
 id: "6117"
 old_path: /news/6117/laing-orourke-awarded-another-imperial-contract
-redirect_from:
+aliases:
  - /news/6117/laing-orourke-awarded-another-imperial-contract
 category: news
 

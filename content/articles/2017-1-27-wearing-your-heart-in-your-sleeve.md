@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:33:30 +0000"
 id: "6693"
 old_path: /science/6693/wearing-your-heart-in-your-sleeve
-redirect_from:
+aliases:
  - /science/6693/wearing-your-heart-in-your-sleeve
 category: science
 

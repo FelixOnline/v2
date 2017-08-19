@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-15 18:08:26 +0100"
 id: "6084"
 old_path: /arts/6084/but-first-let-me-take-a-selfie
-redirect_from:
+aliases:
  - /arts/6084/but-first-let-me-take-a-selfie
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:09:32 +0000"
 id: "1770"
 old_path: /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
-redirect_from:
+aliases:
  - /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 20:43:51 +0100"
 id: "3885"
 old_path: /news/3885/union-elections-now-open
-redirect_from:
+aliases:
  - /news/3885/union-elections-now-open
 category: news
 

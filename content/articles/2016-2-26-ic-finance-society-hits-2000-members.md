@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:10:41 +0000"
 id: "5988"
 old_path: /cands/5988/ic-finance-society-hits-2000-members
-redirect_from:
+aliases:
  - /cands/5988/ic-finance-society-hits-2000-members
 category: clubs-and-socs
 

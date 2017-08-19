@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 03:27:19 +0000"
 id: "4374"
 old_path: /arts/4374/vas-boiler-room
-redirect_from:
+aliases:
  - /arts/4374/vas-boiler-room
 category: arts
 

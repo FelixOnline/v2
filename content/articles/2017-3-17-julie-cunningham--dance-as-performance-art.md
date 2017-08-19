@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:10:53 +0000"
 id: "6913"
 old_path: /arts/6913/julie-cunningham--dance-as-performance-art
-redirect_from:
+aliases:
  - /arts/6913/julie-cunningham--dance-as-performance-art
 category: arts
 

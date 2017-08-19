@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:58:48 +0000"
 id: "445"
 old_path: /comment/445/the-f-word-not-that-one
-redirect_from:
+aliases:
  - /comment/445/the-f-word-not-that-one
 category: comment
 

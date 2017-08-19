@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:33:33 +0100"
 id: "3678"
 old_path: /books/3678/death-of-an-icon--iain-banks-
-redirect_from:
+aliases:
  - /books/3678/death-of-an-icon--iain-banks-
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:28:59 +0000"
 id: "5998"
 old_path: /news/5998/meet-the-candidates-broadcast-with-nine-presidents
-redirect_from:
+aliases:
  - /news/5998/meet-the-candidates-broadcast-with-nine-presidents
 category: news
 

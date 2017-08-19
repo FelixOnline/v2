@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:18:23 +0000"
 id: "4776"
 old_path: /news/4776/imperial-igem-team-come-second-in-the-world
-redirect_from:
+aliases:
  - /news/4776/imperial-igem-team-come-second-in-the-world
 category: news
 

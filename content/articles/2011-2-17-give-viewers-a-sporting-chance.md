@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:58:21 +0000"
 id: "829"
 old_path: /comment/829/give-viewers-a-sporting-chance
-redirect_from:
+aliases:
  - /comment/829/give-viewers-a-sporting-chance
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 08:25:40 +0000"
 id: "993"
 old_path: /sport/993/convincing-victory-over-southampton
-redirect_from:
+aliases:
  - /sport/993/convincing-victory-over-southampton
 category: sport
 

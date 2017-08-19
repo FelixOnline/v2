@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:51:21 +0000"
 id: "4280"
 old_path: /comment/4280/the-reappraisal-of-the-british-state
-redirect_from:
+aliases:
  - /comment/4280/the-reappraisal-of-the-british-state
 category: comment
 

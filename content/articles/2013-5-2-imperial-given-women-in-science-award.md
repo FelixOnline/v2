@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:39:15 +0100"
 id: "3532"
 old_path: /news/3532/imperial-given-women-in-science-award
-redirect_from:
+aliases:
  - /news/3532/imperial-given-women-in-science-award
 category: news
 

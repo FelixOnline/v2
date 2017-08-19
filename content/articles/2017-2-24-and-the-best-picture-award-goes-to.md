@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:19:17 +0000"
 id: "6818"
 old_path: /film/6818/and-the-best-picture-award-goes-to
-redirect_from:
+aliases:
  - /film/6818/and-the-best-picture-award-goes-to
 category: film
 

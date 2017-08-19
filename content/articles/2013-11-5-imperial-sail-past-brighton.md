@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 10:01:22 +0000"
 id: "4015"
 old_path: /sport/4015/imperial-sail-past-brighton
-redirect_from:
+aliases:
  - /sport/4015/imperial-sail-past-brighton
 category: sport
 

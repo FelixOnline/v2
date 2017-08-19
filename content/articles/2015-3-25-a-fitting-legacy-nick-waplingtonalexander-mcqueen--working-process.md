@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:34:23 +0000"
 id: "5454"
 old_path: /arts/5454/a-fitting-legacy-nick-waplingtonalexander-mcqueen--working-process
-redirect_from:
+aliases:
  - /arts/5454/a-fitting-legacy-nick-waplingtonalexander-mcqueen--working-process
 category: arts
 

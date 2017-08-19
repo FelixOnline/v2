@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:32:54 +0100"
 id: "3857"
 old_path: /tech/3857/the-torrid-state-of-the-onion
-redirect_from:
+aliases:
  - /tech/3857/the-torrid-state-of-the-onion
 category: tech
 

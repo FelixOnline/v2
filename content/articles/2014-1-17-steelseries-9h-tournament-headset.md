@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:21:15 +0000"
 id: "4256"
 old_path: /tech/4256/steelseries-9h-tournament-headset
-redirect_from:
+aliases:
  - /tech/4256/steelseries-9h-tournament-headset
 category: tech
 

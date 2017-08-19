@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:39:32 +0000"
 id: "1716"
 old_path: /music/1716/be-sure-not-to-miss
-redirect_from:
+aliases:
  - /music/1716/be-sure-not-to-miss
 category: music
 

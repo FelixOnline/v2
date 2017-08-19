@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-09-21 14:12:54 +0100"
 id: "157"
 old_path: /arts/157/libert-galit-fraternit
-redirect_from:
+aliases:
  - /arts/157/libert-galit-fraternit
 category: arts
 

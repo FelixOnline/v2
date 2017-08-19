@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-15 23:59:52 +0000"
 id: "6598"
 old_path: /news/6598/imperial-wins-animal-testing-award
-redirect_from:
+aliases:
  - /news/6598/imperial-wins-animal-testing-award
 category: news
 

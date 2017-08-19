@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-24 13:14:31 +0100"
 id: "1244"
 old_path: /music/1244/london-student-vs-felix-day-five--a-song-that-reminds-you-of-someone
-redirect_from:
+aliases:
  - /music/1244/london-student-vs-felix-day-five--a-song-that-reminds-you-of-someone
 category: music
 

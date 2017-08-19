@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 12:08:30 +0000"
 id: "6078"
 old_path: /sport/6078/the-imperial-march
-redirect_from:
+aliases:
  - /sport/6078/the-imperial-march
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-25 09:27:46 +0100"
 id: "1138"
 old_path: /tv/1138/not-the-worst-way-to-avoid-revision
-redirect_from:
+aliases:
  - /tv/1138/not-the-worst-way-to-avoid-revision
 category: tv
 

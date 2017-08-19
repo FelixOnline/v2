@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:30:15 +0000"
 id: "716"
 old_path: /arts/716/eat-meat-but-think-twice
-redirect_from:
+aliases:
  - /arts/716/eat-meat-but-think-twice
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 18:17:36 +0000"
 id: "1648"
 old_path: /tech/1648/engineering-tomorrows-humanity
-redirect_from:
+aliases:
  - /tech/1648/engineering-tomorrows-humanity
 category: tech
 

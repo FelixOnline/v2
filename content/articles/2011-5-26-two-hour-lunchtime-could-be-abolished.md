@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 18:42:38 +0100"
 id: "1251"
 old_path: /news/1251/two-hour-lunchtime-could-be-abolished
-redirect_from:
+aliases:
  - /news/1251/two-hour-lunchtime-could-be-abolished
 category: news
 

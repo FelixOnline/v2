@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:50:56 +0000"
 id: "4099"
 old_path: /features/4099/the-student-academic-choice-awards-are-back
-redirect_from:
+aliases:
  - /features/4099/the-student-academic-choice-awards-are-back
 category: features
 

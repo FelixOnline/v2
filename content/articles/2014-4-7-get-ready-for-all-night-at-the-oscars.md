@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:47:32 +0100"
 id: "4521"
 old_path: /film/4521/get-ready-for-all-night-at-the-oscars
-redirect_from:
+aliases:
  - /film/4521/get-ready-for-all-night-at-the-oscars
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:57:44 +0000"
 id: "3450"
 old_path: /books/3450/your-chance-to-meet-the-publishers
-redirect_from:
+aliases:
  - /books/3450/your-chance-to-meet-the-publishers
 category: books
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:26:34 +0000"
 id: "2233"
 old_path: /books/2233/never-let-ishiguro-go
-redirect_from:
+aliases:
  - /books/2233/never-let-ishiguro-go
 category: books
 

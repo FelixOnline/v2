@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:13:52 +0000"
 id: "688"
 old_path: /tv/688/new-hbo-channel-on-sky-
-redirect_from:
+aliases:
  - /tv/688/new-hbo-channel-on-sky-
 category: tv
 

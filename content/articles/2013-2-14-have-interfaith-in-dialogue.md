@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 00:38:29 +0000"
 id: "3317"
 old_path: /news/3317/have-interfaith-in-dialogue
-redirect_from:
+aliases:
  - /news/3317/have-interfaith-in-dialogue
 category: news
 

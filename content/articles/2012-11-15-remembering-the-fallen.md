@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:14:46 +0000"
 id: "2911"
 old_path: /comment/2911/remembering-the-fallen
-redirect_from:
+aliases:
  - /comment/2911/remembering-the-fallen
 category: comment
 

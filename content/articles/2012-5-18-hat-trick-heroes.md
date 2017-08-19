@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 16:43:04 +0100"
 id: "2477"
 old_path: /sport/2477/hat-trick-heroes
-redirect_from:
+aliases:
  - /sport/2477/hat-trick-heroes
 category: sport
 

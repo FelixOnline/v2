@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:43:18 +0000"
 id: "4032"
 old_path: /politics/4032/the-situation-in-iraq-after-the-war-with-us
-redirect_from:
+aliases:
  - /politics/4032/the-situation-in-iraq-after-the-war-with-us
 category: politics
 

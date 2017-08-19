@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:52:56 +0000"
 id: "413"
 old_path: /news/413/students-occupy-uni-buildings-
-redirect_from:
+aliases:
  - /news/413/students-occupy-uni-buildings-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:19:26 +0100"
 id: "2671"
 old_path: /sport/2671/imperial-wolverines-dodge-victory
-redirect_from:
+aliases:
  - /sport/2671/imperial-wolverines-dodge-victory
 category: sport
 

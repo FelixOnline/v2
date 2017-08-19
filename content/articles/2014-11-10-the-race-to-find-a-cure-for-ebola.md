@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:36:03 +0000"
 id: "4822"
 old_path: /science/4822/the-race-to-find-a-cure-for-ebola
-redirect_from:
+aliases:
  - /science/4822/the-race-to-find-a-cure-for-ebola
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:30:51 +0000"
 id: "472"
 old_path: /science/472/finding-moonshine
-redirect_from:
+aliases:
  - /science/472/finding-moonshine
 category: science
 

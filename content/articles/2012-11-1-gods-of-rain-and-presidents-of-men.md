@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:42:58 +0000"
 id: "2790"
 old_path: /politics/2790/gods-of-rain-and-presidents-of-men
-redirect_from:
+aliases:
  - /politics/2790/gods-of-rain-and-presidents-of-men
 category: politics
 

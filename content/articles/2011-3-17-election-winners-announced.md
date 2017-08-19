@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:18:17 +0000"
 id: "1090"
 old_path: /news/1090/election-winners-announced
-redirect_from:
+aliases:
  - /news/1090/election-winners-announced
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 12:18:57 +0100"
 id: "3561"
 old_path: /news/3561/dialogue-over-acton
-redirect_from:
+aliases:
  - /news/3561/dialogue-over-acton
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:36:52 +0000"
 id: "2157"
 old_path: /food/2157/geography-cake
-redirect_from:
+aliases:
  - /food/2157/geography-cake
 category: food
 

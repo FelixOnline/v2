@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-04 13:44:44 +0000"
 id: "3982"
 old_path: /comment/3982/jonathan-peek-on-the-warpath
-redirect_from:
+aliases:
  - /comment/3982/jonathan-peek-on-the-warpath
 category: comment
 

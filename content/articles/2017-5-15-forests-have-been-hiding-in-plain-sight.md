@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 17:33:43 +0100"
 id: "6965"
 old_path: /science/6965/forests-have-been-hiding-in-plain-sight
-redirect_from:
+aliases:
  - /science/6965/forests-have-been-hiding-in-plain-sight
 category: science
 

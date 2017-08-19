@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:44:56 +0000"
 id: "309"
 old_path: /sport/309/injury-and-illness-stalks-rowing-club-at-trials-
-redirect_from:
+aliases:
  - /sport/309/injury-and-illness-stalks-rowing-club-at-trials-
 category: sport
 

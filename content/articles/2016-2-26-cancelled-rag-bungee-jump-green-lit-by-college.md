@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:27:32 +0000"
 id: "5958"
 old_path: /news/5958/cancelled-rag-bungee-jump-green-lit-by-college
-redirect_from:
+aliases:
  - /news/5958/cancelled-rag-bungee-jump-green-lit-by-college
 category: news
 

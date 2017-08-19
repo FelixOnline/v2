@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:12:44 +0100"
 id: "6130"
 old_path: /film/6130/the-top-three-superhero-films-that-arent-marvel
-redirect_from:
+aliases:
  - /film/6130/the-top-three-superhero-films-that-arent-marvel
 category: film
 

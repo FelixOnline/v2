@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:54:45 +0000"
 id: "5327"
 old_path: /tv/5327/two-lawyers-one-degree-and-some-great-television
-redirect_from:
+aliases:
  - /tv/5327/two-lawyers-one-degree-and-some-great-television
 category: tv
 

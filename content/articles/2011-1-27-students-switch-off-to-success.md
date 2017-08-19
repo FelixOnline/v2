@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:31:56 +0000"
 id: "654"
 old_path: /news/654/students-switch-off-to-success-
-redirect_from:
+aliases:
  - /news/654/students-switch-off-to-success-
 category: news
 

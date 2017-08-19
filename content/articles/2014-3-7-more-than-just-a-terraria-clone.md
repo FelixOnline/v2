@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 06:00:14 +0000"
 id: "4472"
 old_path: /games/4472/more-than-just-a-terraria-clone
-redirect_from:
+aliases:
  - /games/4472/more-than-just-a-terraria-clone
 category: games
 

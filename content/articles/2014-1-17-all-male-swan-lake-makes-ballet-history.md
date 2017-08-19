@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:47:05 +0000"
 id: "4240"
 old_path: /arts/4240/all-male-swan-lake-makes-ballet-history
-redirect_from:
+aliases:
  - /arts/4240/all-male-swan-lake-makes-ballet-history
 category: arts
 

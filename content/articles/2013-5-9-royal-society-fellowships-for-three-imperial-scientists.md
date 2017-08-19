@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 12:07:54 +0100"
 id: "3558"
 old_path: /news/3558/royal-society-fellowships-for-three-imperial-scientists
-redirect_from:
+aliases:
  - /news/3558/royal-society-fellowships-for-three-imperial-scientists
 category: news
 

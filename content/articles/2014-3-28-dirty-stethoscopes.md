@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-28 10:42:15 +0000"
 id: "4514"
 old_path: /features/4514/dirty-stethoscopes-
-redirect_from:
+aliases:
  - /features/4514/dirty-stethoscopes-
 category: features
 

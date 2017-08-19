@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:42:13 +0000"
 id: "3429"
 old_path: /food/3429/healthy-procrastination
-redirect_from:
+aliases:
  - /food/3429/healthy-procrastination
 category: food
 

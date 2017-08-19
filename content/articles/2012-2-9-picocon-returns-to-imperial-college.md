@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:01:45 +0000"
 id: "2138"
 old_path: /news/2138/picocon-returns-to-imperial-college
-redirect_from:
+aliases:
  - /news/2138/picocon-returns-to-imperial-college
 category: news
 

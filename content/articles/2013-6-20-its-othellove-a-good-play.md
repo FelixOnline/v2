@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 20:52:24 +0100"
 id: "3709"
 old_path: /arts/3709/its-othellove-a-good-play
-redirect_from:
+aliases:
  - /arts/3709/its-othellove-a-good-play
 category: arts
 

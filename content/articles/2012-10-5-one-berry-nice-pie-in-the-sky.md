@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:19:15 +0100"
 id: "2625"
 old_path: /food/2625/one-berry-nice-pie-in-the-sky
-redirect_from:
+aliases:
  - /food/2625/one-berry-nice-pie-in-the-sky
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:15:53 +0000"
 id: "4925"
 old_path: /news/4925/first-ever-royal-mixer-is-held-at-imperial-college-union
-redirect_from:
+aliases:
  - /news/4925/first-ever-royal-mixer-is-held-at-imperial-college-union
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:22:14 +0000"
 id: "1936"
 old_path: /games/1936/the-top-picks-from-2011
-redirect_from:
+aliases:
  - /games/1936/the-top-picks-from-2011
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 21:02:27 +0000"
 id: "1080"
 old_path: /sport/1080/guilds-rugby-day-trip-to-oxford-
-redirect_from:
+aliases:
  - /sport/1080/guilds-rugby-day-trip-to-oxford-
 category: sport
 

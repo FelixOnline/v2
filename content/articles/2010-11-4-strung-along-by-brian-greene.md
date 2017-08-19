@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:41:59 +0000"
 id: "306"
 old_path: /science/306/strung-along-by-brian-greene
-redirect_from:
+aliases:
  - /science/306/strung-along-by-brian-greene
 category: science
 

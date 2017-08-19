@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-19 20:52:33 +0000"
 id: "4201"
 old_path: /arts/4201/drawn-in-black-chalk
-redirect_from:
+aliases:
  - /arts/4201/drawn-in-black-chalk
 category: arts
 

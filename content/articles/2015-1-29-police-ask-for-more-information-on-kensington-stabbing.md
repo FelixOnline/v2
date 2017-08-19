@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:40:19 +0000"
 id: "5155"
 old_path: /news/5155/police-ask-for-more-information-on-kensington-stabbing
-redirect_from:
+aliases:
  - /news/5155/police-ask-for-more-information-on-kensington-stabbing
 category: news
 

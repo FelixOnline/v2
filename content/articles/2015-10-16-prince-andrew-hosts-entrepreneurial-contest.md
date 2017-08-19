@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:05:12 +0100"
 id: "5654"
 old_path: /news/5654/prince-andrew-hosts-entrepreneurial-contest
-redirect_from:
+aliases:
  - /news/5654/prince-andrew-hosts-entrepreneurial-contest
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:19:59 +0000"
 id: "4063"
 old_path: /science/4063/unblinded-by-greatness
-redirect_from:
+aliases:
  - /science/4063/unblinded-by-greatness
 category: science
 

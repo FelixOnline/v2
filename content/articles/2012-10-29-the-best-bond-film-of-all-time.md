@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-29 18:33:05 +0000"
 id: "2776"
 old_path: /film/2776/the-best-bond-film-of-all-time
-redirect_from:
+aliases:
  - /film/2776/the-best-bond-film-of-all-time
 category: film
 

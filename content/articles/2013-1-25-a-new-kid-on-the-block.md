@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:56:24 +0000"
 id: "3189"
 old_path: /news/3189/a-new-kid-on-the-block
-redirect_from:
+aliases:
  - /news/3189/a-new-kid-on-the-block
 category: news
 

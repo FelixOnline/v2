@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:50:57 +0000"
 id: "3431"
 old_path: /food/3431/ode-to-smoothies
-redirect_from:
+aliases:
  - /food/3431/ode-to-smoothies
 category: food
 

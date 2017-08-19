@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 15:41:46 +0100"
 id: "3782"
 old_path: /film/3782/57th-bfi-london-film-festival-film-forever
-redirect_from:
+aliases:
  - /film/3782/57th-bfi-london-film-festival-film-forever
 category: film
 

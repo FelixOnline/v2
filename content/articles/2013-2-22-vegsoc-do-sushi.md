@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 03:01:14 +0000"
 id: "3377"
 old_path: /food/3377/vegsoc-do-sushi
-redirect_from:
+aliases:
  - /food/3377/vegsoc-do-sushi
 category: food
 

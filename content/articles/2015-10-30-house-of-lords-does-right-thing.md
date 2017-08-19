@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 13:07:59 +0000"
 id: "5689"
 old_path: /comment/5689/house-of-lords-does-right-thing
-redirect_from:
+aliases:
  - /comment/5689/house-of-lords-does-right-thing
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:18:54 +0000"
 id: "1024"
 old_path: /games/1024/lord-of-the-rings-white-council
-redirect_from:
+aliases:
  - /games/1024/lord-of-the-rings-white-council
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:15:58 +0000"
 id: "2210"
 old_path: /comment/2210/icsm-vs-rcsu
-redirect_from:
+aliases:
  - /comment/2210/icsm-vs-rcsu
 category: comment
 

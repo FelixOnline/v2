@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:26:31 +0000"
 id: "2088"
 old_path: /science/2088/quantum-information-rate-measured
-redirect_from:
+aliases:
  - /science/2088/quantum-information-rate-measured
 category: science
 

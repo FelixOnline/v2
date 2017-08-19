@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 17:54:48 +0100"
 id: "3575"
 old_path: /sport/3575/triic-sprint-to-the-finish
-redirect_from:
+aliases:
  - /sport/3575/triic-sprint-to-the-finish
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:45:23 +0000"
 id: "4344"
 old_path: /tv/4344/sherlocks-success-its-elementary
-redirect_from:
+aliases:
  - /tv/4344/sherlocks-success-its-elementary
 category: tv
 

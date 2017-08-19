@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:46:35 +0000"
 id: "4768"
 old_path: /comment/4768/will-the-labour-conservative-duopoly-break
-redirect_from:
+aliases:
  - /comment/4768/will-the-labour-conservative-duopoly-break
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:02:25 +0100"
 id: "3686"
 old_path: /music/3686/this-week-at-oto-rushford--talia
-redirect_from:
+aliases:
  - /music/3686/this-week-at-oto-rushford--talia
 category: music
 

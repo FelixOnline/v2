@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:40:45 +0000"
 id: "6514"
 old_path: /food/6514/following-a-recipe-is-not-as-easy-as-it-sounds
-redirect_from:
+aliases:
  - /food/6514/following-a-recipe-is-not-as-easy-as-it-sounds
 category: food
 

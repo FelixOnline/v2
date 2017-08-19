@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 11:46:28 +0000"
 id: "2840"
 old_path: /news/2840/a-view-from-the-top
-redirect_from:
+aliases:
  - /news/2840/a-view-from-the-top
 category: news
 

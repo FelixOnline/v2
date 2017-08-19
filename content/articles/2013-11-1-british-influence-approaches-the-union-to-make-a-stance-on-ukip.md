@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:07:09 +0000"
 id: "3964"
 old_path: /news/3964/british-influence-approaches-the-union-to-make-a-stance-on-ukip
-redirect_from:
+aliases:
  - /news/3964/british-influence-approaches-the-union-to-make-a-stance-on-ukip
 category: news
 

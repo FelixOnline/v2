@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 23:22:56 +0000"
 id: "2299"
 old_path: /music/2299/kurt-vile-we-like-your-style
-redirect_from:
+aliases:
  - /music/2299/kurt-vile-we-like-your-style
 category: music
 

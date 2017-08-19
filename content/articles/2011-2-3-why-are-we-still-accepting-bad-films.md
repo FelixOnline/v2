@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:52:50 +0000"
 id: "729"
 old_path: /film/729/why-are-we-still-accepting-bad-films
-redirect_from:
+aliases:
  - /film/729/why-are-we-still-accepting-bad-films
 category: film
 

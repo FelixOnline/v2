@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:17:11 +0000"
 id: "6827"
 old_path: /games/6827/pokmon-go-on-a-bike
-redirect_from:
+aliases:
  - /games/6827/pokmon-go-on-a-bike
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:09:08 +0000"
 id: "4112"
 old_path: /comment/4112/since-when-was-wealth-common
-redirect_from:
+aliases:
  - /comment/4112/since-when-was-wealth-common
 category: comment
 

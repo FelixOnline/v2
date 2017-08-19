@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 22:59:05 +0000"
 id: "5246"
 old_path: /sport/5246/imperial-leave-it-late-to-snatch-victory-against-hult
-redirect_from:
+aliases:
  - /sport/5246/imperial-leave-it-late-to-snatch-victory-against-hult
 category: sport
 

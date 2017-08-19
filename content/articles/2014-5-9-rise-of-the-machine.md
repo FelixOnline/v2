@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:14:34 +0100"
 id: "4583"
 old_path: /film/4583/rise-of-the-machine
-redirect_from:
+aliases:
  - /film/4583/rise-of-the-machine
 category: film
 

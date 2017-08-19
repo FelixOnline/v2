@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:17:13 +0100"
 id: "5519"
 old_path: /news/5519/car-flipped-over-on-exhibition-road-two-injured
-redirect_from:
+aliases:
  - /news/5519/car-flipped-over-on-exhibition-road-two-injured
 category: news
 

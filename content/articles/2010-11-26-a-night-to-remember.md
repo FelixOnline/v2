@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 07:24:37 +0000"
 id: "451"
 old_path: /news/451/a-night-to-remember
-redirect_from:
+aliases:
  - /news/451/a-night-to-remember
 category: news
 

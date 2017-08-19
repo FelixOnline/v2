@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:08:06 +0100"
 id: "3847"
 old_path: /film/3847/bfi-london-film-festival-adore
-redirect_from:
+aliases:
  - /film/3847/bfi-london-film-festival-adore
 category: film
 

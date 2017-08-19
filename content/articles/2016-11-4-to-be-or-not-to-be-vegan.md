@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 12:59:50 +0000"
 id: "6385"
 old_path: /science/6385/to-be-or-not-to-be-vegan
-redirect_from:
+aliases:
  - /science/6385/to-be-or-not-to-be-vegan
 category: science
 

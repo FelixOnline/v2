@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:17:55 +0000"
 id: "3335"
 old_path: /news/3335/nss-flaw-found
-redirect_from:
+aliases:
  - /news/3335/nss-flaw-found
 category: news
 

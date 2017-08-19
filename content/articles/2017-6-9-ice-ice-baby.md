@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:02:44 +0100"
 id: "7014"
 old_path: /science/7014/ice-ice-baby-
-redirect_from:
+aliases:
  - /science/7014/ice-ice-baby-
 category: science
 

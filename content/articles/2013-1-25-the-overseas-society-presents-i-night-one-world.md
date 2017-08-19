@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 02:17:54 +0000"
 id: "3194"
 old_path: /news/3194/the-overseas-society-presents-i-night-one-world
-redirect_from:
+aliases:
  - /news/3194/the-overseas-society-presents-i-night-one-world
 category: news
 

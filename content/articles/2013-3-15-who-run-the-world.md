@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:18:28 +0000"
 id: "3472"
 old_path: /tv/3472/who-run-the-world
-redirect_from:
+aliases:
  - /tv/3472/who-run-the-world
 category: tv
 

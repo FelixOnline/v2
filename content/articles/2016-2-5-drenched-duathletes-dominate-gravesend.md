@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:57:52 +0000"
 id: "5890"
 old_path: /sport/5890/drenched-duathletes-dominate-gravesend
-redirect_from:
+aliases:
  - /sport/5890/drenched-duathletes-dominate-gravesend
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:16:01 +0000"
 id: "1709"
 old_path: /politics/1709/news-from-the-outside-world
-redirect_from:
+aliases:
  - /politics/1709/news-from-the-outside-world
 category: politics
 

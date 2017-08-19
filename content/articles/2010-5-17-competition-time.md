@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-17 17:17:36 +0100"
 id: "138"
 old_path: /music/138/competition-time
-redirect_from:
+aliases:
  - /music/138/competition-time
 category: music
 

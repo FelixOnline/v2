@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:16:53 +0000"
 id: "2144"
 old_path: /music/2144/a-beginners-guide-to-post-hardcore-5
-redirect_from:
+aliases:
  - /music/2144/a-beginners-guide-to-post-hardcore-5
 category: music
 

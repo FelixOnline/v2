@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 21:14:28 +0100"
 id: "1506"
 old_path: /news/1506/babar-ahmad-should-face-trial-in-the-uk-says-sister
-redirect_from:
+aliases:
  - /news/1506/babar-ahmad-should-face-trial-in-the-uk-says-sister
 category: news
 

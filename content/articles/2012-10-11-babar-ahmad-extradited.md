@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:19:43 +0100"
 id: "2638"
 old_path: /news/2638/babar-ahmad-extradited
-redirect_from:
+aliases:
  - /news/2638/babar-ahmad-extradited
 category: news
 

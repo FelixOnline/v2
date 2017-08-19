@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:58:32 +0000"
 id: "2354"
 old_path: /science/2354/last-great-ape-genome-sequenced
-redirect_from:
+aliases:
  - /science/2354/last-great-ape-genome-sequenced
 category: science
 

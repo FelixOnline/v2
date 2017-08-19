@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 13:19:14 +0100"
 id: "4650"
 old_path: /food/4650/a-few-of-our-favourite-things---cazs-take
-redirect_from:
+aliases:
  - /food/4650/a-few-of-our-favourite-things---cazs-take
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:06:50 +0000"
 id: "425"
 old_path: /science/425/light-and-death-for-hospital-superbugs
-redirect_from:
+aliases:
  - /science/425/light-and-death-for-hospital-superbugs
 category: science
 

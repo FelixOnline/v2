@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:12:52 +0100"
 id: "4543"
 old_path: /film/4543/muppets-most-wanted
-redirect_from:
+aliases:
  - /film/4543/muppets-most-wanted
 category: film
 

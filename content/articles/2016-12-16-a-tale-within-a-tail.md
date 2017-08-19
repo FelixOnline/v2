@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:39:24 +0000"
 id: "6604"
 old_path: /science/6604/a-tale-within-a-tail
-redirect_from:
+aliases:
  - /science/6604/a-tale-within-a-tail
 category: science
 

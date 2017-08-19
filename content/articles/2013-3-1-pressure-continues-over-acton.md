@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 01:10:56 +0000"
 id: "3417"
 old_path: /news/3417/pressure-continues-over-acton
-redirect_from:
+aliases:
  - /news/3417/pressure-continues-over-acton
 category: news
 

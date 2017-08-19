@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:05:34 +0000"
 id: "382"
 old_path: /tech/382/whats-that-an-isquid
-redirect_from:
+aliases:
  - /tech/382/whats-that-an-isquid
 category: tech
 

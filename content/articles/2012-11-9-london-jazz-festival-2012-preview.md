@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:59:26 +0000"
 id: "2864"
 old_path: /music/2864/london-jazz-festival-2012-preview
-redirect_from:
+aliases:
  - /music/2864/london-jazz-festival-2012-preview
 category: music
 

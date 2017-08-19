@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:26:20 +0000"
 id: "5209"
 old_path: /arts/5209/bonkers-but-not-brilliant---bat-boy-the-musical
-redirect_from:
+aliases:
  - /arts/5209/bonkers-but-not-brilliant---bat-boy-the-musical
 category: arts
 

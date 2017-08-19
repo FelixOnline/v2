@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:33:19 +0100"
 id: "1308"
 old_path: /comment/1308/when-conflict-begets-wisdom
-redirect_from:
+aliases:
  - /comment/1308/when-conflict-begets-wisdom
 category: comment
 

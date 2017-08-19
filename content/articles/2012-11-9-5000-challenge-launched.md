@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:15:46 +0000"
 id: "2836"
 old_path: /news/2836/5000-challenge-launched
-redirect_from:
+aliases:
  - /news/2836/5000-challenge-launched
 category: news
 

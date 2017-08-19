@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:06:22 +0000"
 id: "5202"
 old_path: /arts/5202/a-history-of-islands--patterns
-redirect_from:
+aliases:
  - /arts/5202/a-history-of-islands--patterns
 category: arts
 

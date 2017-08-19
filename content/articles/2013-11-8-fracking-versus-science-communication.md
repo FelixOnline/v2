@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:45:07 +0000"
 id: "4025"
 old_path: /comment/4025/fracking-versus-science-communication
-redirect_from:
+aliases:
  - /comment/4025/fracking-versus-science-communication
 category: comment
 

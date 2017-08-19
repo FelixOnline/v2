@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 17:01:54 +0000"
 id: "6432"
 old_path: /games/6432/are-you-making-the-switch
-redirect_from:
+aliases:
  - /games/6432/are-you-making-the-switch
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:18:57 +0000"
 id: "1663"
 old_path: /travel/1663/gallivanting-the-golden-sands-of-gorgeous-goa
-redirect_from:
+aliases:
  - /travel/1663/gallivanting-the-golden-sands-of-gorgeous-goa
 category: travel
 

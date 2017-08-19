@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:20:22 +0000"
 id: "3288"
 old_path: /comment/3288/action-syria
-redirect_from:
+aliases:
  - /comment/3288/action-syria
 category: comment
 

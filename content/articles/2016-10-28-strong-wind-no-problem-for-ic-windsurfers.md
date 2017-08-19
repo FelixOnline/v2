@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:49:28 +0100"
 id: "6356"
 old_path: /sport/6356/strong-wind-no-problem-for-ic-windsurfers
-redirect_from:
+aliases:
  - /sport/6356/strong-wind-no-problem-for-ic-windsurfers
 category: sport
 

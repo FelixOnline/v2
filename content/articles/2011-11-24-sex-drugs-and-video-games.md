@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:55:36 +0000"
 id: "1809"
 old_path: /games/1809/sex-drugs-and-video-games
-redirect_from:
+aliases:
  - /games/1809/sex-drugs-and-video-games
 category: games
 

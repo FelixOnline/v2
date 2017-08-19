@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:18:33 +0100"
 id: "2469"
 old_path: /science/2469/brainy-gene
-redirect_from:
+aliases:
  - /science/2469/brainy-gene
 category: science
 

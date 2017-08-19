@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:33:10 +0000"
 id: "6393"
 old_path: /arts/6393/harrogate-
-redirect_from:
+aliases:
  - /arts/6393/harrogate-
 category: arts
 

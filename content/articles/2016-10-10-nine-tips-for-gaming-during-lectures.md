@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 12:21:40 +0100"
 id: "6321"
 old_path: /games/6321/nine-tips-for-gaming-during-lectures-
-redirect_from:
+aliases:
  - /games/6321/nine-tips-for-gaming-during-lectures-
 category: games
 

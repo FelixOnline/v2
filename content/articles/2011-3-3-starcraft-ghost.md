@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:21:37 +0000"
 id: "989"
 old_path: /games/989/starcraft-ghost
-redirect_from:
+aliases:
  - /games/989/starcraft-ghost
 category: games
 

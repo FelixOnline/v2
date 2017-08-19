@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:48:26 +0000"
 id: "6059"
 old_path: /science/6059/its-not-all-about-the-d
-redirect_from:
+aliases:
  - /science/6059/its-not-all-about-the-d
 category: science
 

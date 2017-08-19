@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:58:02 +0000"
 id: "4104"
 old_path: /biz/4104/what-happens-at-unistays-at-uniicom
-redirect_from:
+aliases:
  - /biz/4104/what-happens-at-unistays-at-uniicom
 category: business
 

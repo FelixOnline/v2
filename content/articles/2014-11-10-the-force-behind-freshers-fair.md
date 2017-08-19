@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 23:51:55 +0000"
 id: "4856"
 old_path: /features/4856/the-force-behind-freshers-fair
-redirect_from:
+aliases:
  - /features/4856/the-force-behind-freshers-fair
 category: features
 

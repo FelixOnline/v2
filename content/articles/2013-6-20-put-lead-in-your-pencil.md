@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 21:11:35 +0100"
 id: "3710"
 old_path: /arts/3710/put-lead-in-your-pencil
-redirect_from:
+aliases:
  - /arts/3710/put-lead-in-your-pencil
 category: arts
 

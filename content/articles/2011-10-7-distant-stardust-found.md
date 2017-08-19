@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 09:31:43 +0100"
 id: "1477"
 old_path: /science/1477/distant-stardust-found
-redirect_from:
+aliases:
  - /science/1477/distant-stardust-found
 category: science
 

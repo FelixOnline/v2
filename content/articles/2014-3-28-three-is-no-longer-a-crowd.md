@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-28 11:44:15 +0000"
 id: "4516"
 old_path: /features/4516/three-is-no-longer-a-crowd
-redirect_from:
+aliases:
  - /features/4516/three-is-no-longer-a-crowd
 category: features
 

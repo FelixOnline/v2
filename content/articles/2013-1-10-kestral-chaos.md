@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:07:26 +0000"
 id: "3078"
 old_path: /news/3078/kestral-chaos
-redirect_from:
+aliases:
  - /news/3078/kestral-chaos
 category: news
 

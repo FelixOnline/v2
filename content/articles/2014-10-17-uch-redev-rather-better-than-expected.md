@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:00:16 +0100"
 id: "4733"
 old_path: /news/4733/uch-redev-rather-better-than-expected
-redirect_from:
+aliases:
  - /news/4733/uch-redev-rather-better-than-expected
 category: news
 

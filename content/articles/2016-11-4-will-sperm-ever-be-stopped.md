@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 12:57:38 +0000"
 id: "6384"
 old_path: /science/6384/will-sperm-ever-be-stopped
-redirect_from:
+aliases:
  - /science/6384/will-sperm-ever-be-stopped
 category: science
 

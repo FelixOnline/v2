@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:50:21 +0000"
 id: "4180"
 old_path: /features/4180/science-challenges-original-aim-exposed
-redirect_from:
+aliases:
  - /features/4180/science-challenges-original-aim-exposed
 category: features
 

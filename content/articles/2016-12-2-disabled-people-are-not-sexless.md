@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:33:01 +0000"
 id: "6548"
 old_path: /sex/6548/disabled-people-are-not-sexless
-redirect_from:
+aliases:
  - /sex/6548/disabled-people-are-not-sexless
 category: sex
 

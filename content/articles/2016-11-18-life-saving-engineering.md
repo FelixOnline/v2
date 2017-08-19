@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:55:05 +0000"
 id: "6468"
 old_path: /science/6468/life-saving-engineering-
-redirect_from:
+aliases:
  - /science/6468/life-saving-engineering-
 category: science
 

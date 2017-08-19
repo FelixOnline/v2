@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 19:28:37 +0000"
 id: "3325"
 old_path: /sport/3325/bucs-points-galore-for-icbc-in-boston
-redirect_from:
+aliases:
  - /sport/3325/bucs-points-galore-for-icbc-in-boston
 category: sport
 

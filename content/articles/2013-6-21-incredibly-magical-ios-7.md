@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:30:46 +0100"
 id: "3735"
 old_path: /tech/3735/incredibly-magical-ios-7
-redirect_from:
+aliases:
  - /tech/3735/incredibly-magical-ios-7
 category: tech
 

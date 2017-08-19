@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:32:57 +0100"
 id: "3910"
 old_path: /news/3910/imperial-ranked-5th-in-qs-university-rankings
-redirect_from:
+aliases:
  - /news/3910/imperial-ranked-5th-in-qs-university-rankings
 category: news
 

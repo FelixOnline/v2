@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:48:04 +0000"
 id: "411"
 old_path: /news/411/has-feedback-improved
-redirect_from:
+aliases:
  - /news/411/has-feedback-improved
 category: news
 

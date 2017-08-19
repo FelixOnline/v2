@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:04:20 +0000"
 id: "4249"
 old_path: /film/4249/director-masterclass-david-lynch
-redirect_from:
+aliases:
  - /film/4249/director-masterclass-david-lynch
 category: film
 

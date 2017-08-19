@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:07:46 +0000"
 id: "1881"
 old_path: /sport/1881/14-medal-haul-for-ic-judokas-
-redirect_from:
+aliases:
  - /sport/1881/14-medal-haul-for-ic-judokas-
 category: sport
 

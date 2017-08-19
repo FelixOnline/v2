@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:08:32 +0100"
 id: "5548"
 old_path: /news/5548/international-students-boost-economy-by-23-billion
-redirect_from:
+aliases:
  - /news/5548/international-students-boost-economy-by-23-billion
 category: news
 

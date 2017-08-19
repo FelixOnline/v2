@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:55:42 +0000"
 id: "1877"
 old_path: /film/1877/cure-for-teen-pregnancy
-redirect_from:
+aliases:
  - /film/1877/cure-for-teen-pregnancy
 category: film
 

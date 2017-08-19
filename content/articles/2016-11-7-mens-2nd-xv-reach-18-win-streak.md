@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:16:26 +0000"
 id: "6405"
 old_path: /sport/6405/mens-2nd-xv-reach-18-win-streak-
-redirect_from:
+aliases:
  - /sport/6405/mens-2nd-xv-reach-18-win-streak-
 category: sport
 

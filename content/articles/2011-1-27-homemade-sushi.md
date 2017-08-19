@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:31:56 +0000"
 id: "696"
 old_path: /food/696/homemade-sushi
-redirect_from:
+aliases:
  - /food/696/homemade-sushi
 category: food
 

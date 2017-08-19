@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:31:35 +0100"
 id: "2746"
 old_path: /science/2746/recording-dreams
-redirect_from:
+aliases:
  - /science/2746/recording-dreams
 category: science
 

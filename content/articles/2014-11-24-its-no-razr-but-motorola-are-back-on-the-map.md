@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:56:51 +0000"
 id: "4946"
 old_path: /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
-redirect_from:
+aliases:
  - /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:56:44 +0000"
 id: "1017"
 old_path: /comment/1017/london-is-a-sad-place-in-winter
-redirect_from:
+aliases:
  - /comment/1017/london-is-a-sad-place-in-winter
 category: comment
 

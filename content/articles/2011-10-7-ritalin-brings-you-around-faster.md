@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 09:37:27 +0100"
 id: "1478"
 old_path: /science/1478/ritalin-brings-you-around-faster
-redirect_from:
+aliases:
  - /science/1478/ritalin-brings-you-around-faster
 category: science
 

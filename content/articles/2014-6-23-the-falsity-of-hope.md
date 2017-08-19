@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 13:14:13 +0100"
 id: "4710"
 old_path: /comment/4710/the-falsity-of-hope
-redirect_from:
+aliases:
  - /comment/4710/the-falsity-of-hope
 category: comment
 

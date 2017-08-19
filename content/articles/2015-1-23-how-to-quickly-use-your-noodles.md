@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:30:51 +0000"
 id: "5143"
 old_path: /food/5143/how-to-quickly-use-your-noodles
-redirect_from:
+aliases:
  - /food/5143/how-to-quickly-use-your-noodles
 category: food
 

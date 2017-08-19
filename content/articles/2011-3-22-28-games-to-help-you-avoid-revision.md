@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-22 16:33:03 +0000"
 id: "1126"
 old_path: /games/1126/28-games-to-help-you-avoid-revision
-redirect_from:
+aliases:
  - /games/1126/28-games-to-help-you-avoid-revision
 category: games
 

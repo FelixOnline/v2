@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:01:13 +0100"
 id: "1419"
 old_path: /science/1419/quantum-uncertainty-does-god-play-dice
-redirect_from:
+aliases:
  - /science/1419/quantum-uncertainty-does-god-play-dice
 category: science
 

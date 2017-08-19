@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:24:12 +0000"
 id: "2894"
 old_path: /arts/2894/the-writer-of-spring
-redirect_from:
+aliases:
  - /arts/2894/the-writer-of-spring
 category: arts
 

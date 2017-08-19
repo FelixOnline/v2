@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:24:36 +0000"
 id: "2917"
 old_path: /sport/2917/hockey-mens-1s-make-first-bid-for-sliverware-
-redirect_from:
+aliases:
  - /sport/2917/hockey-mens-1s-make-first-bid-for-sliverware-
 category: sport
 

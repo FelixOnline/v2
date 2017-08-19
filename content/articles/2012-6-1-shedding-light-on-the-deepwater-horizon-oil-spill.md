@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 13:56:07 +0100"
 id: "2518"
 old_path: /science/2518/shedding-light-on-the-deepwater-horizon-oil-spill
-redirect_from:
+aliases:
  - /science/2518/shedding-light-on-the-deepwater-horizon-oil-spill
 category: science
 

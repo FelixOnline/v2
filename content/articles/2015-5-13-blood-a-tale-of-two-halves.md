@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-13 14:12:19 +0100"
 id: "5513"
 old_path: /arts/5513/blood-a-tale-of-two-halves
-redirect_from:
+aliases:
  - /arts/5513/blood-a-tale-of-two-halves
 category: arts
 

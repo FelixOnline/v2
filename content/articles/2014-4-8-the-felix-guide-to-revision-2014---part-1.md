@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-08 13:52:16 +0100"
 id: "4531"
 old_path: /features/4531/the-felix-guide-to-revision-2014---part-1
-redirect_from:
+aliases:
  - /features/4531/the-felix-guide-to-revision-2014---part-1
 category: features
 

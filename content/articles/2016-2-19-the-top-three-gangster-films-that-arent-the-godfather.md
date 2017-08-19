@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:07:53 +0000"
 id: "5937"
 old_path: /film/5937/the-top-three-gangster-films-that-arent-the-godfather
-redirect_from:
+aliases:
  - /film/5937/the-top-three-gangster-films-that-arent-the-godfather
 category: film
 

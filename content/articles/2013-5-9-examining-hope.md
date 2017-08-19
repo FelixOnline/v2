@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 15:35:35 +0100"
 id: "3562"
 old_path: /comment/3562/examining-hope
-redirect_from:
+aliases:
  - /comment/3562/examining-hope
 category: comment
 

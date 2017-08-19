@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:58:19 +0000"
 id: "349"
 old_path: /film/349/outstanding-british-cinema
-redirect_from:
+aliases:
  - /film/349/outstanding-british-cinema
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:51:03 +0000"
 id: "4968"
 old_path: /news/4968/world-news-ferguson-unrest-calms-on-thanksgiving
-redirect_from:
+aliases:
  - /news/4968/world-news-ferguson-unrest-calms-on-thanksgiving
 category: news
 

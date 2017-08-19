@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-08 23:44:30 +0000"
 id: "2828"
 old_path: /news/2828/heres-your-report
-redirect_from:
+aliases:
  - /news/2828/heres-your-report
 category: news
 

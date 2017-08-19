@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 16:43:18 +0000"
 id: "60"
 old_path: /news/60/smoking-stubbed-out-on-campus
-redirect_from:
+aliases:
  - /news/60/smoking-stubbed-out-on-campus
 category: news
 

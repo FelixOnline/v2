@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-02 07:17:04 +0100"
 id: "169"
 old_path: /music/169/an-ode-to-the-city
-redirect_from:
+aliases:
  - /music/169/an-ode-to-the-city
 category: music
 

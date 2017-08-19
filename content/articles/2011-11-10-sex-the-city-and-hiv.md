@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:49:15 +0000"
 id: "1721"
 old_path: /science/1721/sex-the-city-and-hiv
-redirect_from:
+aliases:
  - /science/1721/sex-the-city-and-hiv
 category: science
 

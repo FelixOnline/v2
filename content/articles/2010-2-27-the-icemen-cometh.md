@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-27 17:13:41 +0000"
 id: "113"
 old_path: /comment/113/the-icemen-cometh
-redirect_from:
+aliases:
  - /comment/113/the-icemen-cometh
 category: comment
 

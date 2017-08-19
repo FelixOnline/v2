@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-31 23:02:46 +0100"
 id: "6979"
 old_path: /arts/6979/twelfth-night-at-the-globe--emma-rice-remixes-shakespeare-with-disco-anthems-and-glittery-fun
-redirect_from:
+aliases:
  - /arts/6979/twelfth-night-at-the-globe--emma-rice-remixes-shakespeare-with-disco-anthems-and-glittery-fun
 category: arts
 

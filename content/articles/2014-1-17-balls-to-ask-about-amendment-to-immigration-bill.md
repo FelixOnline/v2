@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:22:24 +0000"
 id: "4230"
 old_path: /features/4230/balls-to-ask-about-amendment-to-immigration-bill
-redirect_from:
+aliases:
  - /features/4230/balls-to-ask-about-amendment-to-immigration-bill
 category: features
 

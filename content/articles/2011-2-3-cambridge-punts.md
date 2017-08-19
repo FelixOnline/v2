@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:21:10 +0000"
 id: "743"
 old_path: /comment/743/cambridge-punts-
-redirect_from:
+aliases:
  - /comment/743/cambridge-punts-
 category: comment
 

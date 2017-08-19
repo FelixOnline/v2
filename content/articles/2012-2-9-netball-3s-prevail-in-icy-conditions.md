@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:09:12 +0000"
 id: "2170"
 old_path: /sport/2170/netball-3s-prevail-in-icy-conditions
-redirect_from:
+aliases:
  - /sport/2170/netball-3s-prevail-in-icy-conditions
 category: sport
 

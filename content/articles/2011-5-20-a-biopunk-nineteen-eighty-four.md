@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:37:36 +0100"
 id: "1222"
 old_path: /arts/1222/a-biopunk-nineteen-eighty-four
-redirect_from:
+aliases:
  - /arts/1222/a-biopunk-nineteen-eighty-four
 category: arts
 

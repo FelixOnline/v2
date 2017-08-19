@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-12 12:44:59 +0000"
 id: "5046"
 old_path: /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
-redirect_from:
+aliases:
  - /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
 category: news
 

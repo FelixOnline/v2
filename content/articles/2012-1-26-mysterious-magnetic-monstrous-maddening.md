@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:10:47 +0000"
 id: "2054"
 old_path: /film/2054/mysterious-magnetic-monstrous-maddening
-redirect_from:
+aliases:
  - /film/2054/mysterious-magnetic-monstrous-maddening
 category: film
 

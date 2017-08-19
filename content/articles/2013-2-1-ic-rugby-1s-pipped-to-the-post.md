@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:26:14 +0000"
 id: "3227"
 old_path: /sport/3227/ic-rugby-1s-pipped-to-the-post
-redirect_from:
+aliases:
  - /sport/3227/ic-rugby-1s-pipped-to-the-post
 category: sport
 

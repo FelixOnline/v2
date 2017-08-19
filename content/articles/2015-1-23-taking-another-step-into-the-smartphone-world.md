@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 18:04:49 +0000"
 id: "5138"
 old_path: /tech/5138/taking-another-step-into-the-smartphone-world
-redirect_from:
+aliases:
  - /tech/5138/taking-another-step-into-the-smartphone-world
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:07:40 +0000"
 id: "4837"
 old_path: /sport/4837/taking-the-plunge--the-story-of-skydiving
-redirect_from:
+aliases:
  - /sport/4837/taking-the-plunge--the-story-of-skydiving
 category: sport
 

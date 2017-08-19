@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:32:15 +0000"
 id: "4451"
 old_path: /news/4451/imperial-student-mines-dogecoins
-redirect_from:
+aliases:
  - /news/4451/imperial-student-mines-dogecoins
 category: news
 

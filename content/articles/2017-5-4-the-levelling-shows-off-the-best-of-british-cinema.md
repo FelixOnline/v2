@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-04 08:29:55 +0100"
 id: "6928"
 old_path: /film/6928/the-levelling-shows-off-the-best-of-british-cinema
-redirect_from:
+aliases:
  - /film/6928/the-levelling-shows-off-the-best-of-british-cinema
 category: film
 

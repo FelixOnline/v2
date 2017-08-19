@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:13:45 +0000"
 id: "2942"
 old_path: /food/2942/bring-cyprus-to-london
-redirect_from:
+aliases:
  - /food/2942/bring-cyprus-to-london
 category: food
 

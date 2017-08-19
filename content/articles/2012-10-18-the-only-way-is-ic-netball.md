@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:08:53 +0100"
 id: "2690"
 old_path: /sport/2690/the-only-way-is-ic-netball
-redirect_from:
+aliases:
  - /sport/2690/the-only-way-is-ic-netball
 category: sport
 

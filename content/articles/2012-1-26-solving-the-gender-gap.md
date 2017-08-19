@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 23:29:43 +0000"
 id: "2076"
 old_path: /news/2076/solving-the-gender-gap
-redirect_from:
+aliases:
  - /news/2076/solving-the-gender-gap
 category: news
 

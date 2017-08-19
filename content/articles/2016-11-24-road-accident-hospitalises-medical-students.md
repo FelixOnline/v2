@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-24 16:44:23 +0000"
 id: "6490"
 old_path: /news/6490/road-accident-hospitalises-medical-students
-redirect_from:
+aliases:
  - /news/6490/road-accident-hospitalises-medical-students
 category: news
 

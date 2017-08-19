@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 15:25:00 +0000"
 id: "6710"
 old_path: /comment/6710/making-my-life-great-again
-redirect_from:
+aliases:
  - /comment/6710/making-my-life-great-again
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:34:16 +0000"
 id: "301"
 old_path: /travel/301/an-unforgettable-hitchhiking-debut
-redirect_from:
+aliases:
  - /travel/301/an-unforgettable-hitchhiking-debut
 category: travel
 

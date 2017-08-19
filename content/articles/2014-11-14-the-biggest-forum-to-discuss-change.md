@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:40:39 +0000"
 id: "4872"
 old_path: /features/4872/the-biggest-forum-to-discuss-change
-redirect_from:
+aliases:
  - /features/4872/the-biggest-forum-to-discuss-change
 category: features
 

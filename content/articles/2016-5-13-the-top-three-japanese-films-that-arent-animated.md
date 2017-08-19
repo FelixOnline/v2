@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:06:33 +0100"
 id: "6157"
 old_path: /film/6157/the-top-three-japanese-films-that-arent-animated
-redirect_from:
+aliases:
  - /film/6157/the-top-three-japanese-films-that-arent-animated
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 00:44:47 +0100"
 id: "1633"
 old_path: /comment/1633/should-public-sector-strikes-and-mass-action-be-stopped
-redirect_from:
+aliases:
  - /comment/1633/should-public-sector-strikes-and-mass-action-be-stopped
 category: comment
 

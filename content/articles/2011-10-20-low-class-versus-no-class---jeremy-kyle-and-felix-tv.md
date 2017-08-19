@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:42:10 +0100"
 id: "1572"
 old_path: /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
-redirect_from:
+aliases:
  - /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
 category: comment
 

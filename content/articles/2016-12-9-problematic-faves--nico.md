@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:41:34 +0000"
 id: "6576"
 old_path: /music/6576/problematic-faves--nico-
-redirect_from:
+aliases:
  - /music/6576/problematic-faves--nico-
 category: music
 

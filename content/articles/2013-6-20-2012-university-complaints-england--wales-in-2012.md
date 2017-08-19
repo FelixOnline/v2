@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 16:30:58 +0100"
 id: "3704"
 old_path: /comment/3704/2012-university-complaints-england--wales-in-2012
-redirect_from:
+aliases:
  - /comment/3704/2012-university-complaints-england--wales-in-2012
 category: comment
 

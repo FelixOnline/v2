@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:42:16 +0000"
 id: "6483"
 old_path: /music/6483/ante-up--a-new-age-of-hip-hop
-redirect_from:
+aliases:
  - /music/6483/ante-up--a-new-age-of-hip-hop
 category: music
 

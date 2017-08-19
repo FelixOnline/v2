@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 16:57:03 +0000"
 id: "62"
 old_path: /comment/62/diet-tips-for-the-fat-and-lazy
-redirect_from:
+aliases:
  - /comment/62/diet-tips-for-the-fat-and-lazy
 category: comment
 

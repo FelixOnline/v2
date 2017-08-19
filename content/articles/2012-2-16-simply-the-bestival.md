@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:47:22 +0000"
 id: "2196"
 old_path: /music/2196/simply-the-bestival
-redirect_from:
+aliases:
  - /music/2196/simply-the-bestival
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:26:59 +0000"
 id: "4763"
 old_path: /comment/4763/reflections-on-oscar-pistorius-marikana-and-the-media
-redirect_from:
+aliases:
  - /comment/4763/reflections-on-oscar-pistorius-marikana-and-the-media
 category: comment
 

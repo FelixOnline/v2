@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-12 12:40:00 +0100"
 id: "5620"
 old_path: /games/5620/war-war-never-changes-part-4
-redirect_from:
+aliases:
  - /games/5620/war-war-never-changes-part-4
 category: games
 

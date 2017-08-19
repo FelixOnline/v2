@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:53:51 +0000"
 id: "4010"
 old_path: /sport/4010/imperial-has-good-showing-at-spooky-duathlon
-redirect_from:
+aliases:
  - /sport/4010/imperial-has-good-showing-at-spooky-duathlon
 category: sport
 

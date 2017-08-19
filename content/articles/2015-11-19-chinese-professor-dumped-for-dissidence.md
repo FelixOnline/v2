@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:28:24 +0000"
 id: "5743"
 old_path: /news/5743/chinese-professor-dumped-for-dissidence
-redirect_from:
+aliases:
  - /news/5743/chinese-professor-dumped-for-dissidence
 category: news
 

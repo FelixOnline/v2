@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-22 17:42:01 +0000"
 id: "5304"
 old_path: /arts/5304/radical-histories-what-does-it-mean-to-be-british-today
-redirect_from:
+aliases:
  - /arts/5304/radical-histories-what-does-it-mean-to-be-british-today
 category: arts
 

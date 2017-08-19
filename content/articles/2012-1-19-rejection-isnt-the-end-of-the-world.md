@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 23:16:24 +0000"
 id: "2037"
 old_path: /comment/2037/rejection-isnt-the-end-of-the-world
-redirect_from:
+aliases:
  - /comment/2037/rejection-isnt-the-end-of-the-world
 category: comment
 

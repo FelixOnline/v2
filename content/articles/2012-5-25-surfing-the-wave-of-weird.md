@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:26:35 +0100"
 id: "2498"
 old_path: /arts/2498/surfing-the-wave-of-weird-
-redirect_from:
+aliases:
  - /arts/2498/surfing-the-wave-of-weird-
 category: arts
 

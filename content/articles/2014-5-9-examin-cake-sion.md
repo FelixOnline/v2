@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:39:35 +0100"
 id: "4588"
 old_path: /food/4588/examin-cake-sion
-redirect_from:
+aliases:
  - /food/4588/examin-cake-sion
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 18:58:05 +0000"
 id: "5373"
 old_path: /comment/5373/is-there-inequality-in-kensington-and-chelsea
-redirect_from:
+aliases:
  - /comment/5373/is-there-inequality-in-kensington-and-chelsea
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 13:26:03 +0000"
 id: "49"
 old_path: /comment/49/the-lack-of-human-rights-in-gaza
-redirect_from:
+aliases:
  - /comment/49/the-lack-of-human-rights-in-gaza
 category: comment
 

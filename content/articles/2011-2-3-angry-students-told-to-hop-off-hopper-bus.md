@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:19:21 +0000"
 id: "712"
 old_path: /news/712/angry-students-told-to-hop-off-hopper-bus-
-redirect_from:
+aliases:
  - /news/712/angry-students-told-to-hop-off-hopper-bus-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 17:01:21 +0100"
 id: "5493"
 old_path: /tv/5493/beautiful-beaches-of-britain
-redirect_from:
+aliases:
  - /tv/5493/beautiful-beaches-of-britain
 category: tv
 

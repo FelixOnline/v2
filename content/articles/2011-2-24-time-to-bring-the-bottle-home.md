@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:34:46 +0000"
 id: "893"
 old_path: /sport/893/time-to-bring-the-bottle-home
-redirect_from:
+aliases:
  - /sport/893/time-to-bring-the-bottle-home
 category: sport
 

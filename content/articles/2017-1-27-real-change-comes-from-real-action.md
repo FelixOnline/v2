@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:22:47 +0000"
 id: "6687"
 old_path: /comment/6687/real-change-comes-from-real-action
-redirect_from:
+aliases:
  - /comment/6687/real-change-comes-from-real-action
 category: comment
 

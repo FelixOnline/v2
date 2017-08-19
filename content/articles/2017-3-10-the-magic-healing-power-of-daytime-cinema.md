@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:38:58 +0000"
 id: "6872"
 old_path: /film/6872/the-magic-healing-power-of-daytime-cinema
-redirect_from:
+aliases:
  - /film/6872/the-magic-healing-power-of-daytime-cinema
 category: film
 

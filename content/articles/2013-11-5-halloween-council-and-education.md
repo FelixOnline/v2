@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:26:32 +0000"
 id: "3984"
 old_path: /comment/3984/halloween-council-and-education
-redirect_from:
+aliases:
  - /comment/3984/halloween-council-and-education
 category: comment
 

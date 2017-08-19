@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:16:04 +0100"
 id: "6134"
 old_path: /arts/6134/the-suicide-
-redirect_from:
+aliases:
  - /arts/6134/the-suicide-
 category: arts
 

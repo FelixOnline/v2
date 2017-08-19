@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 22:56:40 +0000"
 id: "1795"
 old_path: /sport/1795/captains-interviews-rowing-club-captain
-redirect_from:
+aliases:
  - /sport/1795/captains-interviews-rowing-club-captain
 category: sport
 

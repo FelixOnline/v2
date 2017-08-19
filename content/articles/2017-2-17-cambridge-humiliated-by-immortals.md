@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 16:23:43 +0000"
 id: "6803"
 old_path: /sport/6803/cambridge-humiliated-by-immortals
-redirect_from:
+aliases:
  - /sport/6803/cambridge-humiliated-by-immortals
 category: sport
 

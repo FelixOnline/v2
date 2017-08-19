@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:09:31 +0000"
 id: "1002"
 old_path: /news/1002/exeter-declares-9000-fees
-redirect_from:
+aliases:
  - /news/1002/exeter-declares-9000-fees
 category: news
 

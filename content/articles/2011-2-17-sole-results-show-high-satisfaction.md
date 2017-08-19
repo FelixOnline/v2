@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:43:50 +0000"
 id: "824"
 old_path: /news/824/sole-results-show-high-satisfaction
-redirect_from:
+aliases:
  - /news/824/sole-results-show-high-satisfaction
 category: news
 

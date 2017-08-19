@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:27:43 +0000"
 id: "4069"
 old_path: /comment/4069/where-has-londons-lesbian-scene-gone
-redirect_from:
+aliases:
  - /comment/4069/where-has-londons-lesbian-scene-gone
 category: comment
 

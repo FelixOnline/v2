@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:57:36 +0000"
 id: "6534"
 old_path: /arts/6534/the-children-is-a-triumph-of-acting-and-staging-
-redirect_from:
+aliases:
  - /arts/6534/the-children-is-a-triumph-of-acting-and-staging-
 category: arts
 

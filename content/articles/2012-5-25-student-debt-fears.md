@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:49:08 +0100"
 id: "2502"
 old_path: /politics/2502/student-debt-fears
-redirect_from:
+aliases:
  - /politics/2502/student-debt-fears
 category: politics
 

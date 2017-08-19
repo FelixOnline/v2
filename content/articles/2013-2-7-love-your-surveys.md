@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:07:25 +0000"
 id: "3252"
 old_path: /comment/3252/love-your-surveys
-redirect_from:
+aliases:
  - /comment/3252/love-your-surveys
 category: comment
 

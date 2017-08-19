@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 15:42:39 +0000"
 id: "3958"
 old_path: /games/3958/a-summer-at-gunpoint
-redirect_from:
+aliases:
  - /games/3958/a-summer-at-gunpoint
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:48:37 +0000"
 id: "6533"
 old_path: /music/6533/time-for-a-fresh-approach-to-club-drugs
-redirect_from:
+aliases:
  - /music/6533/time-for-a-fresh-approach-to-club-drugs
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:02:48 +0100"
 id: "1253"
 old_path: /tech/1253/one-stumble-too-many
-redirect_from:
+aliases:
  - /tech/1253/one-stumble-too-many
 category: tech
 

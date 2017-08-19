@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 16:18:17 +0000"
 id: "6858"
 old_path: /sport/6858/ic-american-football--divison-champs
-redirect_from:
+aliases:
  - /sport/6858/ic-american-football--divison-champs
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 18:56:01 +0000"
 id: "5214"
 old_path: /cands/5214/starting-a-new-club-at-imperial
-redirect_from:
+aliases:
  - /cands/5214/starting-a-new-club-at-imperial
 category: clubs-and-socs
 

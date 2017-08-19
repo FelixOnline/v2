@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:46:48 +0000"
 id: "1015"
 old_path: /music/1015/pythagoras-had-a-theory-of-music
-redirect_from:
+aliases:
  - /music/1015/pythagoras-had-a-theory-of-music
 category: music
 

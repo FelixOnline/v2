@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:26:15 +0000"
 id: "5715"
 old_path: /sport/5715/medic-kings-toppled-by-imperial-might
-redirect_from:
+aliases:
  - /sport/5715/medic-kings-toppled-by-imperial-might
 category: sport
 

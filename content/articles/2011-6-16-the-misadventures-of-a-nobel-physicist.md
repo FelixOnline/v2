@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:43:56 +0100"
 id: "1397"
 old_path: /arts/1397/the-misadventures-of-a-nobel-physicist-
-redirect_from:
+aliases:
  - /arts/1397/the-misadventures-of-a-nobel-physicist-
 category: arts
 

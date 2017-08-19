@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 21:05:41 +0100"
 id: "1432"
 old_path: /arts/1432/get-doon-for-gogol-at-the-young-vic
-redirect_from:
+aliases:
  - /arts/1432/get-doon-for-gogol-at-the-young-vic
 category: arts
 

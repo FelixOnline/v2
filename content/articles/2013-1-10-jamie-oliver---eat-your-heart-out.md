@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:02:55 +0000"
 id: "3103"
 old_path: /food/3103/jamie-oliver---eat-your-heart-out
-redirect_from:
+aliases:
  - /food/3103/jamie-oliver---eat-your-heart-out
 category: food
 

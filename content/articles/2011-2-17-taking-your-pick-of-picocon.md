@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:05:35 +0000"
 id: "811"
 old_path: /arts/811/taking-your-pick-of-picocon
-redirect_from:
+aliases:
  - /arts/811/taking-your-pick-of-picocon
 category: arts
 

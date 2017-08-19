@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:06:52 +0000"
 id: "3328"
 old_path: /news/3328/sos-syria-is-underway
-redirect_from:
+aliases:
  - /news/3328/sos-syria-is-underway
 category: news
 

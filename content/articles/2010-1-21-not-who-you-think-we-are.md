@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-21 21:29:15 +0000"
 id: "43"
 old_path: /news/43/not-who-you-think-we-are
-redirect_from:
+aliases:
  - /news/43/not-who-you-think-we-are
 category: news
 

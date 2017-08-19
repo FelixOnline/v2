@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:30:11 +0100"
 id: "3676"
 old_path: /arts/3676/a-life-of-sex-drugs-and-pas-de-cheval
-redirect_from:
+aliases:
  - /arts/3676/a-life-of-sex-drugs-and-pas-de-cheval
 category: arts
 

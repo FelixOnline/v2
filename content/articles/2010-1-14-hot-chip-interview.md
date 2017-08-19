@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 14:34:14 +0000"
 id: "27"
 old_path: /music/27/hot-chip-interview
-redirect_from:
+aliases:
  - /music/27/hot-chip-interview
 category: music
 

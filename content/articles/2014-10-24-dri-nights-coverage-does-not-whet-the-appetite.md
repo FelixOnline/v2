@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 13:43:03 +0100"
 id: "4752"
 old_path: /comment/4752/dri-nights-coverage-does-not-whet-the-appetite
-redirect_from:
+aliases:
  - /comment/4752/dri-nights-coverage-does-not-whet-the-appetite
 category: comment
 

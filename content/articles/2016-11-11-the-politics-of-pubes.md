@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 15:44:32 +0000"
 id: "6426"
 old_path: /sex/6426/the-politics-of-pubes
-redirect_from:
+aliases:
  - /sex/6426/the-politics-of-pubes
 category: sex
 

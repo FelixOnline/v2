@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 13:11:07 +0000"
 id: "6900"
 old_path: /news/6900/imperial-to-get-hefce-funding
-redirect_from:
+aliases:
  - /news/6900/imperial-to-get-hefce-funding
 category: news
 

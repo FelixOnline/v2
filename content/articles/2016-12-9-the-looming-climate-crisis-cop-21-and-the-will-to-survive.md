@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:37:23 +0000"
 id: "6573"
 old_path: /comment/6573/the-looming-climate-crisis-cop-21-and-the-will-to-survive
-redirect_from:
+aliases:
  - /comment/6573/the-looming-climate-crisis-cop-21-and-the-will-to-survive
 category: comment
 

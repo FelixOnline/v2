@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:42:57 +0000"
 id: "2902"
 old_path: /film/2902/great-films-i-hate-or-why-i-shouldnt-be-a-film-editor-the-sequel
-redirect_from:
+aliases:
  - /film/2902/great-films-i-hate-or-why-i-shouldnt-be-a-film-editor-the-sequel
 category: film
 

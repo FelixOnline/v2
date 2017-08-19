@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 08:51:48 +0100"
 id: "6270"
 old_path: /news/6270/top-investor-buys-shares-in-imperial-innovations
-redirect_from:
+aliases:
  - /news/6270/top-investor-buys-shares-in-imperial-innovations
 category: news
 

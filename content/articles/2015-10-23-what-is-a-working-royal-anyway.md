@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:48:16 +0100"
 id: "5673"
 old_path: /comment/5673/what-is-a-working-royal-anyway
-redirect_from:
+aliases:
  - /comment/5673/what-is-a-working-royal-anyway
 category: comment
 

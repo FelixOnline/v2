@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-20 16:13:51 +0100"
 id: "4698"
 old_path: /features/4698/pirates-a-review-with-scientists
-redirect_from:
+aliases:
  - /features/4698/pirates-a-review-with-scientists
 category: features
 

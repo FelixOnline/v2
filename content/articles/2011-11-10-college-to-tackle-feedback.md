@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 19:50:09 +0000"
 id: "1707"
 old_path: /news/1707/college-to-tackle-feedback-
-redirect_from:
+aliases:
  - /news/1707/college-to-tackle-feedback-
 category: news
 

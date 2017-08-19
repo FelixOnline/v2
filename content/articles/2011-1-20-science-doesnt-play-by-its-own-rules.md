@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 21:25:07 +0000"
 id: "646"
 old_path: /comment/646/science-doesnt-play-by-its-own-rules
-redirect_from:
+aliases:
  - /comment/646/science-doesnt-play-by-its-own-rules
 category: comment
 

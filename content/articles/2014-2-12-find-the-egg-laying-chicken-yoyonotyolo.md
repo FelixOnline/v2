@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-12 12:01:43 +0000"
 id: "4370"
 old_path: /tech/4370/find-the-egg-laying-chicken-yoyonotyolo
-redirect_from:
+aliases:
  - /tech/4370/find-the-egg-laying-chicken-yoyonotyolo
 category: tech
 

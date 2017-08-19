@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 18:08:53 +0100"
 id: "6303"
 old_path: /comment/6303/ten-things-i-wish-id-known-as-a-fresher
-redirect_from:
+aliases:
  - /comment/6303/ten-things-i-wish-id-known-as-a-fresher
 category: comment
 

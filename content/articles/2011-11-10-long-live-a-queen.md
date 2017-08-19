@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:18:00 +0000"
 id: "1710"
 old_path: /politics/1710/long-live-a-queen
-redirect_from:
+aliases:
  - /politics/1710/long-live-a-queen
 category: politics
 

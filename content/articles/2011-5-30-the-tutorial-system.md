@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-30 14:18:49 +0100"
 id: "1287"
 old_path: /news/1287/the-tutorial-system
-redirect_from:
+aliases:
  - /news/1287/the-tutorial-system
 category: news
 

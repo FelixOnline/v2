@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 15:31:20 +0000"
 id: "4509"
 old_path: /sport/4509/hitotsubashi-university-meeting
-redirect_from:
+aliases:
  - /sport/4509/hitotsubashi-university-meeting
 category: sport
 

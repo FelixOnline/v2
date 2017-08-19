@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:37:49 +0000"
 id: "5851"
 old_path: /music/5851/is-it-human-to-adore-life-
-redirect_from:
+aliases:
  - /music/5851/is-it-human-to-adore-life-
 category: music
 

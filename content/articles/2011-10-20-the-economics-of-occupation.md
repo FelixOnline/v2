@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:43:41 +0100"
 id: "1565"
 old_path: /politics/1565/the-economics-of-occupation
-redirect_from:
+aliases:
  - /politics/1565/the-economics-of-occupation
 category: politics
 

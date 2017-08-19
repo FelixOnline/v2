@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:52:03 +0000"
 id: "1107"
 old_path: /sport/1107/nine-in-a-row-for-medicals
-redirect_from:
+aliases:
  - /sport/1107/nine-in-a-row-for-medicals
 category: sport
 

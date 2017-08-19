@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:27:06 +0000"
 id: "4801"
 old_path: /arts/4801/editorial--the-style-week
-redirect_from:
+aliases:
  - /arts/4801/editorial--the-style-week
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 20:05:24 +0100"
 id: "3863"
 old_path: /features/3863/why-volunteer
-redirect_from:
+aliases:
  - /features/3863/why-volunteer
 category: features
 

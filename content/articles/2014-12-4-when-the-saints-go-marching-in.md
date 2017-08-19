@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:43:21 +0000"
 id: "5003"
 old_path: /film/5003/when-the-saints-go-marching-in
-redirect_from:
+aliases:
  - /film/5003/when-the-saints-go-marching-in
 category: film
 

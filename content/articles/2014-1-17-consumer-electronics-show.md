@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:24:10 +0000"
 id: "4257"
 old_path: /tech/4257/consumer-electronics-show
-redirect_from:
+aliases:
  - /tech/4257/consumer-electronics-show
 category: tech
 

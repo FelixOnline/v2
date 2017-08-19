@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:21:48 +0100"
 id: "2672"
 old_path: /food/2672/delicious-green-dishes
-redirect_from:
+aliases:
  - /food/2672/delicious-green-dishes
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:19:52 +0000"
 id: "5942"
 old_path: /music/5942/the-life-of-pablo
-redirect_from:
+aliases:
  - /music/5942/the-life-of-pablo
 category: music
 

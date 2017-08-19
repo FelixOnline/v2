@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:48:53 +0000"
 id: "826"
 old_path: /news/826/the-hidden-homeless
-redirect_from:
+aliases:
  - /news/826/the-hidden-homeless
 category: news
 

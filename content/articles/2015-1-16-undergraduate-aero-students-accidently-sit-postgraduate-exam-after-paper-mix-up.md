@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 12:52:40 +0000"
 id: "5089"
 old_path: /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
-redirect_from:
+aliases:
  - /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
 category: news
 

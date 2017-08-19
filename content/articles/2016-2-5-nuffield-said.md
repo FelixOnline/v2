@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 11:47:50 +0000"
 id: "5862"
 old_path: /news/5862/nuffield-said
-redirect_from:
+aliases:
  - /news/5862/nuffield-said
 category: news
 

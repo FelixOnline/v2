@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:38:30 +0100"
 id: "6100"
 old_path: /film/6100/kung-fu-kickstarter-and-how-crowdfunding-is-changing-cinema
-redirect_from:
+aliases:
  - /film/6100/kung-fu-kickstarter-and-how-crowdfunding-is-changing-cinema
 category: film
 

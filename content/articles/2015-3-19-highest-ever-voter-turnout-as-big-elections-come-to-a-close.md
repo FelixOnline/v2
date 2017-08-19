@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:44:39 +0000"
 id: "5408"
 old_path: /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
-redirect_from:
+aliases:
  - /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
 category: news
 

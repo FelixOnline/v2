@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-21 00:29:40 +0100"
 id: "3734"
 old_path: /tech/3734/microsoft-kicked-everyones-asshard
-redirect_from:
+aliases:
  - /tech/3734/microsoft-kicked-everyones-asshard
 category: tech
 

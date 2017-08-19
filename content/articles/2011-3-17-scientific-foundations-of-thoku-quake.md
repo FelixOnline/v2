@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:55:14 +0000"
 id: "1097"
 old_path: /science/1097/scientific-foundations-of-thoku-quake
-redirect_from:
+aliases:
  - /science/1097/scientific-foundations-of-thoku-quake
 category: science
 

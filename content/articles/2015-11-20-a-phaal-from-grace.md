@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 09:46:39 +0000"
 id: "5764"
 old_path: /sport/5764/a-phaal-from-grace
-redirect_from:
+aliases:
  - /sport/5764/a-phaal-from-grace
 category: sport
 

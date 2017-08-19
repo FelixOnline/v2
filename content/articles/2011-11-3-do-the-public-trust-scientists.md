@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:52:21 +0000"
 id: "1657"
 old_path: /science/1657/do-the-public-trust-scientists
-redirect_from:
+aliases:
  - /science/1657/do-the-public-trust-scientists
 category: science
 

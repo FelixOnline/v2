@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 14:20:12 +0100"
 id: "2492"
 old_path: /science/2492/disney-want-to-make-all-the-world-a-touchscreen
-redirect_from:
+aliases:
  - /science/2492/disney-want-to-make-all-the-world-a-touchscreen
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:57:28 +0000"
 id: "572"
 old_path: /politics/572/south-sudan-democracy-amidst-chaos-
-redirect_from:
+aliases:
  - /politics/572/south-sudan-democracy-amidst-chaos-
 category: politics
 

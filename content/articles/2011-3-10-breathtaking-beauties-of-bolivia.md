@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:50:45 +0000"
 id: "1077"
 old_path: /travel/1077/breathtaking-beauties-of-bolivia
-redirect_from:
+aliases:
  - /travel/1077/breathtaking-beauties-of-bolivia
 category: travel
 

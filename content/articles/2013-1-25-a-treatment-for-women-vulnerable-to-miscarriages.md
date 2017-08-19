@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:52:32 +0000"
 id: "3187"
 old_path: /science/3187/a-treatment-for-women-vulnerable-to-miscarriages
-redirect_from:
+aliases:
  - /science/3187/a-treatment-for-women-vulnerable-to-miscarriages
 category: science
 

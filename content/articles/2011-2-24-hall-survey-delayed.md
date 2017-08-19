@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:42:39 +0000"
 id: "867"
 old_path: /news/867/hall-survey-delayed
-redirect_from:
+aliases:
  - /news/867/hall-survey-delayed
 category: news
 

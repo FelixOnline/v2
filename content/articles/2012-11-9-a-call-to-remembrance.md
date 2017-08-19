@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 11:54:12 +0000"
 id: "2843"
 old_path: /comment/2843/a-call-to-remembrance
-redirect_from:
+aliases:
  - /comment/2843/a-call-to-remembrance
 category: comment
 

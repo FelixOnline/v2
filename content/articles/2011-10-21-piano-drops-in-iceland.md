@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:27:07 +0100"
 id: "1599"
 old_path: /music/1599/piano-drops-in-iceland
-redirect_from:
+aliases:
  - /music/1599/piano-drops-in-iceland
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:41:34 +0000"
 id: "4341"
 old_path: /film/4341/the-brothers-grim
-redirect_from:
+aliases:
  - /film/4341/the-brothers-grim
 category: film
 

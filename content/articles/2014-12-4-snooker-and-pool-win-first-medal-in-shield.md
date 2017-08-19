@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:20:25 +0000"
 id: "5009"
 old_path: /sport/5009/snooker-and-pool-win-first-medal-in-shield
-redirect_from:
+aliases:
  - /sport/5009/snooker-and-pool-win-first-medal-in-shield
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:54:15 +0000"
 id: "6556"
 old_path: /sport/6556/the-ultimate-fan-girls-account-of-womens-eastern-regionals
-redirect_from:
+aliases:
  - /sport/6556/the-ultimate-fan-girls-account-of-womens-eastern-regionals
 category: sport
 

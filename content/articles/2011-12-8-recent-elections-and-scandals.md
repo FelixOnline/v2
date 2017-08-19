@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:09:06 +0000"
 id: "1930"
 old_path: /politics/1930/recent-elections-and-scandals
-redirect_from:
+aliases:
  - /politics/1930/recent-elections-and-scandals
 category: politics
 

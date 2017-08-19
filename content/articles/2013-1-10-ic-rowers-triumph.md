@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:16:39 +0000"
 id: "3110"
 old_path: /sport/3110/ic-rowers-triumph
-redirect_from:
+aliases:
  - /sport/3110/ic-rowers-triumph
 category: sport
 

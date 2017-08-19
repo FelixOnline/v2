@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 17:56:49 +0100"
 id: "3659"
 old_path: /news/3659/best-position-on-albertopolis-
-redirect_from:
+aliases:
  - /news/3659/best-position-on-albertopolis-
 category: news
 

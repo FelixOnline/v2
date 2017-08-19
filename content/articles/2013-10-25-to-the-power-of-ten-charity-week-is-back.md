@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:08:23 +0100"
 id: "3948"
 old_path: /features/3948/to-the-power-of-ten-charity-week-is-back
-redirect_from:
+aliases:
  - /features/3948/to-the-power-of-ten-charity-week-is-back
 category: features
 

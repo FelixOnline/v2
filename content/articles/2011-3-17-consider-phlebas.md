@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 20:41:43 +0000"
 id: "1094"
 old_path: /science/1094/consider-phlebas
-redirect_from:
+aliases:
  - /science/1094/consider-phlebas
 category: science
 

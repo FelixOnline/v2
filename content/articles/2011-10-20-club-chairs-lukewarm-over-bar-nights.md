@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 19:30:32 +0100"
 id: "1555"
 old_path: /news/1555/club-chairs-lukewarm-over-bar-nights
-redirect_from:
+aliases:
  - /news/1555/club-chairs-lukewarm-over-bar-nights
 category: news
 

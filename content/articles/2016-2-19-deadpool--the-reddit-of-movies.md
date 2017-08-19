@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:01:23 +0000"
 id: "5936"
 old_path: /film/5936/deadpool--the-reddit-of-movies
-redirect_from:
+aliases:
  - /film/5936/deadpool--the-reddit-of-movies
 category: film
 

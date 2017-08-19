@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:45:15 +0000"
 id: "6550"
 old_path: /sport/6550/is-it-a-bird-is-it-a-plane-
-redirect_from:
+aliases:
  - /sport/6550/is-it-a-bird-is-it-a-plane-
 category: sport
 

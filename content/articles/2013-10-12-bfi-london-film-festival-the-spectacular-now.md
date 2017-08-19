@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:10:40 +0100"
 id: "3848"
 old_path: /film/3848/bfi-london-film-festival-the-spectacular-now
-redirect_from:
+aliases:
  - /film/3848/bfi-london-film-festival-the-spectacular-now
 category: film
 

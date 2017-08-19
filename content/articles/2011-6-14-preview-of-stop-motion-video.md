@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-14 15:05:49 +0100"
 id: "1374"
 old_path: /arts/1374/preview-of-stop-motion-video
-redirect_from:
+aliases:
  - /arts/1374/preview-of-stop-motion-video
 category: arts
 

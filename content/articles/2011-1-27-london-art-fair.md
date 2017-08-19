@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:44:35 +0000"
 id: "675"
 old_path: /arts/675/london-art-fair
-redirect_from:
+aliases:
  - /arts/675/london-art-fair
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:05:39 +0100"
 id: "2409"
 old_path: /music/2409/bloc-bigger-better-and-free-
-redirect_from:
+aliases:
  - /music/2409/bloc-bigger-better-and-free-
 category: music
 

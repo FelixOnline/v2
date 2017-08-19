@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-25 17:20:44 +0100"
 id: "1139"
 old_path: /news/1139/tricked-by-facebook-fraudster
-redirect_from:
+aliases:
  - /news/1139/tricked-by-facebook-fraudster
 category: news
 

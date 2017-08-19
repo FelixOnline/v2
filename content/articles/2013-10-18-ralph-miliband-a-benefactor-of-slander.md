@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:29:40 +0100"
 id: "3892"
 old_path: /comment/3892/ralph-miliband-a-benefactor-of-slander
-redirect_from:
+aliases:
  - /comment/3892/ralph-miliband-a-benefactor-of-slander
 category: comment
 

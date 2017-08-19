@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:07:54 +0000"
 id: "2169"
 old_path: /comment/2169/abandon-all-hope-all-ye-who-neglect-your-community
-redirect_from:
+aliases:
  - /comment/2169/abandon-all-hope-all-ye-who-neglect-your-community
 category: comment
 

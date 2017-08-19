@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:21:34 +0000"
 id: "3473"
 old_path: /tv/3473/the-miranda-effect
-redirect_from:
+aliases:
  - /tv/3473/the-miranda-effect
 category: tv
 

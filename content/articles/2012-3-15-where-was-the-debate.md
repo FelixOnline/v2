@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 22:28:27 +0000"
 id: "2400"
 old_path: /comment/2400/where-was-the-debate
-redirect_from:
+aliases:
  - /comment/2400/where-was-the-debate
 category: comment
 

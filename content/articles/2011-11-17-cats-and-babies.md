@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:48:05 +0000"
 id: "1786"
 old_path: /comment/1786/cats-and-babies
-redirect_from:
+aliases:
  - /comment/1786/cats-and-babies
 category: comment
 

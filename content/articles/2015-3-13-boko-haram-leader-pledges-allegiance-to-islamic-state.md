@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:25:37 +0000"
 id: "5394"
 old_path: /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
-redirect_from:
+aliases:
  - /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
 category: news
 

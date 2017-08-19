@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:05:44 +0000"
 id: "4866"
 old_path: /news/4866/diabetes-walk-is-a-sweet-sucess
-redirect_from:
+aliases:
  - /news/4866/diabetes-walk-is-a-sweet-sucess
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:09:47 +0000"
 id: "6912"
 old_path: /arts/6912/the-american-dream--prints-exposing-us-consumerism
-redirect_from:
+aliases:
  - /arts/6912/the-american-dream--prints-exposing-us-consumerism
 category: arts
 

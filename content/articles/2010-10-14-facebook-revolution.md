@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:44:34 +0100"
 id: "212"
 old_path: /tech/212/facebook-revolution
-redirect_from:
+aliases:
  - /tech/212/facebook-revolution
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-17 16:04:06 +0000"
 id: "124"
 old_path: /arts/124/nothing-on-go-see-noises-off
-redirect_from:
+aliases:
  - /arts/124/nothing-on-go-see-noises-off
 category: arts
 

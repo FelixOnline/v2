@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:31:03 +0000"
 id: "1731"
 old_path: /arts/1731/less-love-more-sex
-redirect_from:
+aliases:
  - /arts/1731/less-love-more-sex
 category: arts
 

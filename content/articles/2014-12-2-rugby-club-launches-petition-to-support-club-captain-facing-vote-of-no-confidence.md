@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-02 15:25:08 +0000"
 id: "4981"
 old_path: /news/4981/rugby-club-launches-petition-to-support-club-captain-facing-vote-of-no-confidence
-redirect_from:
+aliases:
  - /news/4981/rugby-club-launches-petition-to-support-club-captain-facing-vote-of-no-confidence
 category: news
 

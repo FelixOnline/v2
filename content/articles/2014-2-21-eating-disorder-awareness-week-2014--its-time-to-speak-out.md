@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:29:01 +0000"
 id: "4430"
 old_path: /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
-redirect_from:
+aliases:
  - /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
 category: comment
 

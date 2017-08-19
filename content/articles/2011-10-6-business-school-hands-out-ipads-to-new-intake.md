@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-06 22:55:41 +0100"
 id: "1464"
 old_path: /news/1464/business-school-hands-out-ipads-to-new-intake
-redirect_from:
+aliases:
  - /news/1464/business-school-hands-out-ipads-to-new-intake
 category: news
 

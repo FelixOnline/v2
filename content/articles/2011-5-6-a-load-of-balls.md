@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:32:54 +0100"
 id: "1158"
 old_path: /comment/1158/a-load-of-balls
-redirect_from:
+aliases:
  - /comment/1158/a-load-of-balls
 category: comment
 

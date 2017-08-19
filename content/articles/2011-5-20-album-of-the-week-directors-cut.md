@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:39:19 +0100"
 id: "1223"
 old_path: /music/1223/album-of-the-week-directors-cut
-redirect_from:
+aliases:
  - /music/1223/album-of-the-week-directors-cut
 category: music
 

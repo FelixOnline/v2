@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:02:42 +0000"
 id: "5443"
 old_path: /arts/5443/tokyo-no-go-when-acting-goes-wrong
-redirect_from:
+aliases:
  - /arts/5443/tokyo-no-go-when-acting-goes-wrong
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:48:05 +0000"
 id: "6697"
 old_path: /music/6697/hallelujah-money-
-redirect_from:
+aliases:
  - /music/6697/hallelujah-money-
 category: music
 

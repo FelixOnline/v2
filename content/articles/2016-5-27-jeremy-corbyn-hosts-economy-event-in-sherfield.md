@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:39:03 +0100"
 id: "6197"
 old_path: /news/6197/jeremy-corbyn-hosts-economy-event-in-sherfield
-redirect_from:
+aliases:
  - /news/6197/jeremy-corbyn-hosts-economy-event-in-sherfield
 category: news
 

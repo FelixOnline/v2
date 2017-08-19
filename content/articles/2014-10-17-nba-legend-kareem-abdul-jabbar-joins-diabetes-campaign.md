@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 14:53:34 +0100"
 id: "4731"
 old_path: /news/4731/nba-legend-kareem-abdul-jabbar-joins-diabetes-campaign
-redirect_from:
+aliases:
  - /news/4731/nba-legend-kareem-abdul-jabbar-joins-diabetes-campaign
 category: news
 

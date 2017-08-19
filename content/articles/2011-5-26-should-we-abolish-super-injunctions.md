@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 23:43:04 +0100"
 id: "1266"
 old_path: /comment/1266/should-we-abolish-super-injunctions
-redirect_from:
+aliases:
  - /comment/1266/should-we-abolish-super-injunctions
 category: comment
 

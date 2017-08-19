@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-22 15:09:45 +0000"
 id: "5951"
 old_path: /comment/5951/letters---in-response-to-your-union-president-speaks-on-rag-mag-sexism-issue-1626
-redirect_from:
+aliases:
  - /comment/5951/letters---in-response-to-your-union-president-speaks-on-rag-mag-sexism-issue-1626
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 22:05:08 +0100"
 id: "3899"
 old_path: /arts/3899/liol-gets-frisky-in-irish-sicilian-gypsy-musical
-redirect_from:
+aliases:
  - /arts/3899/liol-gets-frisky-in-irish-sicilian-gypsy-musical
 category: arts
 

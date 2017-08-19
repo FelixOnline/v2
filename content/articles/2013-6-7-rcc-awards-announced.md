@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-07 09:57:36 +0100"
 id: "3671"
 old_path: /news/3671/rcc-awards-announced
-redirect_from:
+aliases:
  - /news/3671/rcc-awards-announced
 category: news
 

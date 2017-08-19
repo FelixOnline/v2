@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:31:48 +0100"
 id: "1296"
 old_path: /science/1296/eternal-sunshine-for-the-stressful-mind
-redirect_from:
+aliases:
  - /science/1296/eternal-sunshine-for-the-stressful-mind
 category: science
 

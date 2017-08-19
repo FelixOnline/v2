@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:14:30 +0100"
 id: "1204"
 old_path: /comment/1204/what-is-the-website-for
-redirect_from:
+aliases:
  - /comment/1204/what-is-the-website-for
 category: comment
 

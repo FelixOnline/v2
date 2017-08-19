@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-24 22:48:14 +0000"
 id: "1962"
 old_path: /science/1962/plans-to-digitise-newtons-handwritten-principia-going-ahead
-redirect_from:
+aliases:
  - /science/1962/plans-to-digitise-newtons-handwritten-principia-going-ahead
 category: science
 

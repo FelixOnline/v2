@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:33:17 +0000"
 id: "2785"
 old_path: /food/2785/porridgeing-for-oats
-redirect_from:
+aliases:
  - /food/2785/porridgeing-for-oats
 category: food
 

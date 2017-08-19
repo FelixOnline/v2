@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 20:15:20 +0100"
 id: "3552"
 old_path: /music/3552/the-internet-presents-ms-mr-
-redirect_from:
+aliases:
  - /music/3552/the-internet-presents-ms-mr-
 category: music
 

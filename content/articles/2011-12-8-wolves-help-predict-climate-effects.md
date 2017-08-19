@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:31:46 +0000"
 id: "1913"
 old_path: /science/1913/wolves-help-predict-climate-effects
-redirect_from:
+aliases:
  - /science/1913/wolves-help-predict-climate-effects
 category: science
 

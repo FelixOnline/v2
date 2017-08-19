@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 22:10:59 +0000"
 id: "375"
 old_path: /news/375/acc-bar-night-brings-1000-profit
-redirect_from:
+aliases:
  - /news/375/acc-bar-night-brings-1000-profit
 category: news
 

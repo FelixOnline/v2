@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:50:57 +0100"
 id: "4666"
 old_path: /tv/4666/bergerac
-redirect_from:
+aliases:
  - /tv/4666/bergerac
 category: tv
 

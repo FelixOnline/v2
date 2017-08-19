@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 14:03:14 +0000"
 id: "4506"
 old_path: /food/4506/bored-of-your-meals
-redirect_from:
+aliases:
  - /food/4506/bored-of-your-meals
 category: food
 

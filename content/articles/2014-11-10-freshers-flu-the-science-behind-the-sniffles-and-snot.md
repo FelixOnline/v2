@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:55:06 +0000"
 id: "4851"
 old_path: /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
-redirect_from:
+aliases:
  - /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
 category: science
 

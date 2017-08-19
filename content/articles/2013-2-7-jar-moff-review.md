@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:50:24 +0000"
 id: "3246"
 old_path: /music/3246/jar-moff-review
-redirect_from:
+aliases:
  - /music/3246/jar-moff-review
 category: music
 

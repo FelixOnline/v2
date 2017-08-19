@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:17:51 +0000"
 id: "4254"
 old_path: /tv/4254/the-best-of-festive-tv
-redirect_from:
+aliases:
  - /tv/4254/the-best-of-festive-tv
 category: tv
 

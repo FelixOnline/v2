@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 15:40:11 +0000"
 id: "3307"
 old_path: /news/3307/debating-in-french
-redirect_from:
+aliases:
  - /news/3307/debating-in-french
 category: news
 

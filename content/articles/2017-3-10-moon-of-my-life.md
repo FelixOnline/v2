@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:35:40 +0000"
 id: "6869"
 old_path: /science/6869/moon-of-my-life
-redirect_from:
+aliases:
  - /science/6869/moon-of-my-life
 category: science
 

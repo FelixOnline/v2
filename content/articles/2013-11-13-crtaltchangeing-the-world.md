@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-13 22:49:33 +0000"
 id: "4050"
 old_path: /tech/4050/crtaltchangeing-the-world
-redirect_from:
+aliases:
  - /tech/4050/crtaltchangeing-the-world
 category: tech
 

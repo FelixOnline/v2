@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:11:53 +0000"
 id: "5896"
 old_path: /news/5896/rag-mag-battle-becomes-sexism-row
-redirect_from:
+aliases:
  - /news/5896/rag-mag-battle-becomes-sexism-row
 category: news
 

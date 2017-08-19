@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 19:16:05 +0100"
 id: "6307"
 old_path: /science/6307/so-i-heard-you-like-science
-redirect_from:
+aliases:
  - /science/6307/so-i-heard-you-like-science
 category: science
 

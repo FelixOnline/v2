@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:26:52 +0100"
 id: "1536"
 old_path: /comment/1536/we-must-continue-to-honour-the-past-
-redirect_from:
+aliases:
  - /comment/1536/we-must-continue-to-honour-the-past-
 category: comment
 

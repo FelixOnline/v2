@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:18:47 +0100"
 id: "1485"
 old_path: /arts/1485/sabor-sabor
-redirect_from:
+aliases:
  - /arts/1485/sabor-sabor
 category: arts
 

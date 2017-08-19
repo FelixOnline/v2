@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:16:56 +0100"
 id: "201"
 old_path: /arts/201/imperial-does-the-ugly-one
-redirect_from:
+aliases:
  - /arts/201/imperial-does-the-ugly-one
 category: arts
 

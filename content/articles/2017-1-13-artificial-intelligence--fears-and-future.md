@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:13:04 +0000"
 id: "6640"
 old_path: /science/6640/artificial-intelligence--fears-and-future
-redirect_from:
+aliases:
  - /science/6640/artificial-intelligence--fears-and-future
 category: science
 

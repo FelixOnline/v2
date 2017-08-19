@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:01:22 +0000"
 id: "6563"
 old_path: /news/6563/smelves-take-over-union-during-acc
-redirect_from:
+aliases:
  - /news/6563/smelves-take-over-union-during-acc
 category: news
 

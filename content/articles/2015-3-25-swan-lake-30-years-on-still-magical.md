@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:27:49 +0000"
 id: "5451"
 old_path: /arts/5451/swan-lake-30-years-on-still-magical
-redirect_from:
+aliases:
  - /arts/5451/swan-lake-30-years-on-still-magical
 category: arts
 

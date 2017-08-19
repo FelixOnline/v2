@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:31:32 +0000"
 id: "845"
 old_path: /tv/845/hey-rastamouse-wheres-that-cheese-me-like
-redirect_from:
+aliases:
  - /tv/845/hey-rastamouse-wheres-that-cheese-me-like
 category: tv
 

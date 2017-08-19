@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:24:47 +0000"
 id: "912"
 old_path: /arts/912/untethered
-redirect_from:
+aliases:
  - /arts/912/untethered
 category: arts
 

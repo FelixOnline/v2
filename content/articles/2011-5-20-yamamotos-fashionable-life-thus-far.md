@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:48:43 +0100"
 id: "1227"
 old_path: /arts/1227/yamamotos-fashionable-life-thus-far
-redirect_from:
+aliases:
  - /arts/1227/yamamotos-fashionable-life-thus-far
 category: arts
 

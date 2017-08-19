@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:56:32 +0100"
 id: "5540"
 old_path: /arts/5540/when-satire-starts-to-age
-redirect_from:
+aliases:
  - /arts/5540/when-satire-starts-to-age
 category: arts
 

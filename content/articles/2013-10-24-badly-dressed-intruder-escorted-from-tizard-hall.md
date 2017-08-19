@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:31:51 +0100"
 id: "3909"
 old_path: /news/3909/badly-dressed-intruder-escorted-from-tizard-hall
-redirect_from:
+aliases:
  - /news/3909/badly-dressed-intruder-escorted-from-tizard-hall
 category: news
 

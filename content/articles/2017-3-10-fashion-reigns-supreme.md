@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:10:22 +0000"
 id: "6863"
 old_path: /news/6863/fashion-reigns-supreme
-redirect_from:
+aliases:
  - /news/6863/fashion-reigns-supreme
 category: news
 

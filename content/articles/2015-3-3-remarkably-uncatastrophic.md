@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:56:21 +0000"
 id: "5328"
 old_path: /tv/5328/remarkably-uncatastrophic
-redirect_from:
+aliases:
  - /tv/5328/remarkably-uncatastrophic
 category: tv
 

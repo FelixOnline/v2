@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 09:05:28 +0100"
 id: "6221"
 old_path: /food/6221/minute-trip-to-taiwan
-redirect_from:
+aliases:
  - /food/6221/minute-trip-to-taiwan
 category: food
 

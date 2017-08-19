@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 01:16:37 +0100"
 id: "5582"
 old_path: /news/5582/imperial-scientists-create-model-of-extinct-lung-parasite
-redirect_from:
+aliases:
  - /news/5582/imperial-scientists-create-model-of-extinct-lung-parasite
 category: news
 

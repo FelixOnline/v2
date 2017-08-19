@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 16:56:45 +0000"
 id: "5132"
 old_path: /film/5132/chandors-trifecta
-redirect_from:
+aliases:
  - /film/5132/chandors-trifecta
 category: film
 

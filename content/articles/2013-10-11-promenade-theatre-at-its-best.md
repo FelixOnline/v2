@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:53:17 +0100"
 id: "3833"
 old_path: /arts/3833/promenade-theatre-at-its-best
-redirect_from:
+aliases:
  - /arts/3833/promenade-theatre-at-its-best
 category: arts
 

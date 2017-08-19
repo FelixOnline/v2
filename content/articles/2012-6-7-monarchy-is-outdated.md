@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:46:04 +0100"
 id: "2532"
 old_path: /comment/2532/monarchy-is-outdated
-redirect_from:
+aliases:
  - /comment/2532/monarchy-is-outdated
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 19:58:25 +0100"
 id: "2554"
 old_path: /news/2554/volunteering-why-should-students-get-involved
-redirect_from:
+aliases:
  - /news/2554/volunteering-why-should-students-get-involved
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:45:33 +0000"
 id: "5911"
 old_path: /film/5911/perfunctory-historical-piece-without-pizzazz
-redirect_from:
+aliases:
  - /film/5911/perfunctory-historical-piece-without-pizzazz
 category: film
 

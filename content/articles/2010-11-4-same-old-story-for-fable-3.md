@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:25:43 +0000"
 id: "296"
 old_path: /games/296/same-old-story-for-fable-3
-redirect_from:
+aliases:
  - /games/296/same-old-story-for-fable-3
 category: games
 

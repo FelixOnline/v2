@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:47:04 +0100"
 id: "1603"
 old_path: /arts/1603/want-to-get-your-horne-on
-redirect_from:
+aliases:
  - /arts/1603/want-to-get-your-horne-on
 category: arts
 

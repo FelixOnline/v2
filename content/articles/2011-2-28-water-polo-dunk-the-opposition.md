@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:43:20 +0000"
 id: "953"
 old_path: /sport/953/water-polo-dunk-the-opposition
-redirect_from:
+aliases:
  - /sport/953/water-polo-dunk-the-opposition
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:06:53 +0000"
 id: "6614"
 old_path: /arts/6614/arts-in-2016--a-year-in-review
-redirect_from:
+aliases:
  - /arts/6614/arts-in-2016--a-year-in-review
 category: arts
 

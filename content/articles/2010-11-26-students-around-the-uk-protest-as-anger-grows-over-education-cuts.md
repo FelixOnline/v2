@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-26 07:26:43 +0000"
 id: "452"
 old_path: /news/452/students-around-the-uk-protest-as-anger-grows-over-education-cuts-
-redirect_from:
+aliases:
  - /news/452/students-around-the-uk-protest-as-anger-grows-over-education-cuts-
 category: news
 

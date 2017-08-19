@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:15:26 +0000"
 id: "2323"
 old_path: /news/2323/reporting-on-the-latest-from-raincatcher-imperial
-redirect_from:
+aliases:
  - /news/2323/reporting-on-the-latest-from-raincatcher-imperial
 category: news
 

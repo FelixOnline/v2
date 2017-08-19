@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 13:48:09 +0100"
 id: "3548"
 old_path: /arts/3548/breaking-the-backdrop
-redirect_from:
+aliases:
  - /arts/3548/breaking-the-backdrop
 category: arts
 

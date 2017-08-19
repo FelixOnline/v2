@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:37:18 +0000"
 id: "2975"
 old_path: /film/2975/genuinely-interesting-diaries
-redirect_from:
+aliases:
  - /film/2975/genuinely-interesting-diaries
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:11:11 +0000"
 id: "1814"
 old_path: /science/1814/extreme-weather-set-to-increase
-redirect_from:
+aliases:
  - /science/1814/extreme-weather-set-to-increase
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:35:10 +0000"
 id: "2899"
 old_path: /music/2899/ic-radio-special
-redirect_from:
+aliases:
  - /music/2899/ic-radio-special
 category: music
 

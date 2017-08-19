@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:38:17 +0000"
 id: "6574"
 old_path: /comment/6574/fake-news-you-wont-believe-what-i-think
-redirect_from:
+aliases:
  - /comment/6574/fake-news-you-wont-believe-what-i-think
 category: comment
 

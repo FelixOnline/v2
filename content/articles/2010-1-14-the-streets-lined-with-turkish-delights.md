@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 16:27:07 +0000"
 id: "31"
 old_path: /food/31/the-streets-lined-with-turkish-delights
-redirect_from:
+aliases:
  - /food/31/the-streets-lined-with-turkish-delights
 category: food
 

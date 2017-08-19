@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 16:07:16 +0000"
 id: "6366"
 old_path: /science/6366/why-vegetables-are-saving-the-planet
-redirect_from:
+aliases:
  - /science/6366/why-vegetables-are-saving-the-planet
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:23:46 +0000"
 id: "361"
 old_path: /food/361/anyone-up-for-a-snog-its-juicy-saucy-its-yoghurt
-redirect_from:
+aliases:
  - /food/361/anyone-up-for-a-snog-its-juicy-saucy-its-yoghurt
 category: food
 

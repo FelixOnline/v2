@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:25:31 +0000"
 id: "5846"
 old_path: /film/5846/alls-fair-in-love-and-finance
-redirect_from:
+aliases:
  - /film/5846/alls-fair-in-love-and-finance
 category: film
 

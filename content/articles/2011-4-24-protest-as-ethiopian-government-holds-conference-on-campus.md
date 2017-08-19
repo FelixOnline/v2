@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-24 10:55:01 +0100"
 id: "1133"
 old_path: /news/1133/protest-as-ethiopian-government-holds-conference-on-campus
-redirect_from:
+aliases:
  - /news/1133/protest-as-ethiopian-government-holds-conference-on-campus
 category: news
 

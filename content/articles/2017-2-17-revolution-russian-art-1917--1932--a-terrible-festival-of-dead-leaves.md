@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:13:11 +0000"
 id: "6791"
 old_path: /arts/6791/revolution-russian-art-1917--1932--a-terrible-festival-of-dead-leaves
-redirect_from:
+aliases:
  - /arts/6791/revolution-russian-art-1917--1932--a-terrible-festival-of-dead-leaves
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-02 12:22:19 +0100"
 id: "170"
 old_path: /arts/170/the-descent-into-dotage
-redirect_from:
+aliases:
  - /arts/170/the-descent-into-dotage
 category: arts
 

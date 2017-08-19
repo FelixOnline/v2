@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:43:01 +0000"
 id: "3277"
 old_path: /news/3277/imperial-college-international-development-conference
-redirect_from:
+aliases:
  - /news/3277/imperial-college-international-development-conference
 category: news
 

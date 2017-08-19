@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:53:31 +0000"
 id: "3145"
 old_path: /music/3145/d-beat-review-krmosom--live-forever
-redirect_from:
+aliases:
  - /music/3145/d-beat-review-krmosom--live-forever
 category: music
 

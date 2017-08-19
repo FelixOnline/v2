@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:09:02 +0100"
 id: "3578"
 old_path: /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
-redirect_from:
+aliases:
  - /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 09:09:58 +0000"
 id: "1117"
 old_path: /news/1117/faculty-elections-swing-around
-redirect_from:
+aliases:
  - /news/1117/faculty-elections-swing-around
 category: news
 

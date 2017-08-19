@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-24 03:36:50 +0000"
 id: "4495"
 old_path: /features/4495/house-of-cards-from-the-house-of-lords
-redirect_from:
+aliases:
  - /features/4495/house-of-cards-from-the-house-of-lords
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:23:08 +0000"
 id: "429"
 old_path: /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
-redirect_from:
+aliases:
  - /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:56:52 +0000"
 id: "500"
 old_path: /news/500/protest-monopoly
-redirect_from:
+aliases:
  - /news/500/protest-monopoly
 category: news
 

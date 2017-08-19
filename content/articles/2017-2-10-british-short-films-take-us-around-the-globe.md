@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:21:07 +0000"
 id: "6761"
 old_path: /film/6761/british-short-films-take-us-around-the-globe
-redirect_from:
+aliases:
  - /film/6761/british-short-films-take-us-around-the-globe
 category: film
 

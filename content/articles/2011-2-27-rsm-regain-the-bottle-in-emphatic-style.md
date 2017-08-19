@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:52:53 +0000"
 id: "921"
 old_path: /sport/921/rsm-regain-the-bottle-in-emphatic-style
-redirect_from:
+aliases:
  - /sport/921/rsm-regain-the-bottle-in-emphatic-style
 category: sport
 

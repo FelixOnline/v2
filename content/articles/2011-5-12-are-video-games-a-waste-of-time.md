@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:05:57 +0100"
 id: "1202"
 old_path: /games/1202/are-video-games-a-waste-of-time
-redirect_from:
+aliases:
  - /games/1202/are-video-games-a-waste-of-time
 category: games
 

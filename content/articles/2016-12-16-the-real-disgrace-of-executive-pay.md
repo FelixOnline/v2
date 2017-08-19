@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:31:26 +0000"
 id: "6600"
 old_path: /comment/6600/the-real-disgrace-of-executive-pay
-redirect_from:
+aliases:
  - /comment/6600/the-real-disgrace-of-executive-pay
 category: comment
 

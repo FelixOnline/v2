@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:10:17 +0000"
 id: "2962"
 old_path: /sport/2962/undefeated-womens-rugby-top-lusl
-redirect_from:
+aliases:
  - /sport/2962/undefeated-womens-rugby-top-lusl
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:20:48 +0100"
 id: "2639"
 old_path: /news/2639/con-man-near-campus-takes-students-money
-redirect_from:
+aliases:
  - /news/2639/con-man-near-campus-takes-students-money
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:49:30 +0000"
 id: "1863"
 old_path: /biz/1863/autumn-harvest
-redirect_from:
+aliases:
  - /biz/1863/autumn-harvest
 category: business
 

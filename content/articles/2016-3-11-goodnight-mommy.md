@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:52:31 +0000"
 id: "6036"
 old_path: /film/6036/goodnight-mommy
-redirect_from:
+aliases:
  - /film/6036/goodnight-mommy
 category: film
 

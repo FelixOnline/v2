@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:51:05 +0000"
 id: "5886"
 old_path: /welfare/5886/reflecting-on-mentality
-redirect_from:
+aliases:
  - /welfare/5886/reflecting-on-mentality
 category: welfare
 

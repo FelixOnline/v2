@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-05 23:32:50 +0100"
 id: "1146"
 old_path: /news/1146/football-team-fined-after-ulu-cup-fight
-redirect_from:
+aliases:
  - /news/1146/football-team-fined-after-ulu-cup-fight
 category: news
 

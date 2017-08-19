@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:26:25 +0000"
 id: "4931"
 old_path: /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
-redirect_from:
+aliases:
  - /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
 category: news
 

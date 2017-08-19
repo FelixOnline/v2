@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:16:31 +0000"
 id: "6755"
 old_path: /sex/6755/a-gay-and-a-lesbian-walk-into-a-bar
-redirect_from:
+aliases:
  - /sex/6755/a-gay-and-a-lesbian-walk-into-a-bar
 category: sex
 

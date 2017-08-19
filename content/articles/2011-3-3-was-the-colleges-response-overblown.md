@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:17:46 +0000"
 id: "1006"
 old_path: /news/1006/was-the-colleges-response-overblown
-redirect_from:
+aliases:
  - /news/1006/was-the-colleges-response-overblown
 category: news
 

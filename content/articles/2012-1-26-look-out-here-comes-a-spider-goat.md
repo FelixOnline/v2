@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 21:53:47 +0000"
 id: "2047"
 old_path: /science/2047/look-out-here-comes-a-spider-goat
-redirect_from:
+aliases:
  - /science/2047/look-out-here-comes-a-spider-goat
 category: science
 

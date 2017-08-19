@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 08:56:34 +0100"
 id: "6274"
 old_path: /comment/6274/does-anyone-benefit-from-sabblife
-redirect_from:
+aliases:
  - /comment/6274/does-anyone-benefit-from-sabblife
 category: comment
 

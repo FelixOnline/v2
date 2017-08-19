@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:53:06 +0000"
 id: "617"
 old_path: /sport/617/rugby-1st-xv-record-stylish-victory
-redirect_from:
+aliases:
  - /sport/617/rugby-1st-xv-record-stylish-victory
 category: sport
 

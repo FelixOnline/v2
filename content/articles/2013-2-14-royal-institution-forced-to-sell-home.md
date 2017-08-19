@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:11:42 +0000"
 id: "3331"
 old_path: /news/3331/royal-institution-forced-to-sell-home
-redirect_from:
+aliases:
  - /news/3331/royal-institution-forced-to-sell-home
 category: news
 

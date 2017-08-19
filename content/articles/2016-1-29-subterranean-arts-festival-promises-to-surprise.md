@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:45:11 +0000"
 id: "5854"
 old_path: /arts/5854/subterranean-arts-festival-promises-to-surprise
-redirect_from:
+aliases:
  - /arts/5854/subterranean-arts-festival-promises-to-surprise
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:52:00 +0000"
 id: "3306"
 old_path: /games/3306/welcome-to-the-insane-asylum-
-redirect_from:
+aliases:
  - /games/3306/welcome-to-the-insane-asylum-
 category: games
 

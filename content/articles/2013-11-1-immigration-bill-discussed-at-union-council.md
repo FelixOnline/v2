@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:09:20 +0000"
 id: "3965"
 old_path: /news/3965/immigration-bill-discussed-at-union-council
-redirect_from:
+aliases:
  - /news/3965/immigration-bill-discussed-at-union-council
 category: news
 

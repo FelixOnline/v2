@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 13:47:42 +0100"
 id: "3814"
 old_path: /games/3814/awesomenauts-awesomesauce-
-redirect_from:
+aliases:
  - /games/3814/awesomenauts-awesomesauce-
 category: games
 

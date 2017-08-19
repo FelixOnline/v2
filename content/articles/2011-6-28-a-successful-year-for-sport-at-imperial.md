@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 12:10:11 +0100"
 id: "1447"
 old_path: /sport/1447/a-successful-year-for-sport-at-imperial
-redirect_from:
+aliases:
  - /sport/1447/a-successful-year-for-sport-at-imperial
 category: sport
 

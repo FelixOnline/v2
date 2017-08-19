@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:54:35 +0000"
 id: "6505"
 old_path: /film/6505/fantastic-beasts-and-where-to-find-them
-redirect_from:
+aliases:
  - /film/6505/fantastic-beasts-and-where-to-find-them
 category: film
 

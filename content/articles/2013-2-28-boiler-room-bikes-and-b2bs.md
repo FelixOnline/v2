@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:28:10 +0000"
 id: "3387"
 old_path: /music/3387/boiler-room-bikes-and-b2bs
-redirect_from:
+aliases:
  - /music/3387/boiler-room-bikes-and-b2bs
 category: music
 

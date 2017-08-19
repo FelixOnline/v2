@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:54:50 +0000"
 id: "2116"
 old_path: /comment/2116/awkward-conversations
-redirect_from:
+aliases:
  - /comment/2116/awkward-conversations
 category: comment
 

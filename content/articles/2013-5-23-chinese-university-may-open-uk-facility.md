@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:25:37 +0100"
 id: "3617"
 old_path: /news/3617/chinese-university-may-open-uk-facility
-redirect_from:
+aliases:
  - /news/3617/chinese-university-may-open-uk-facility
 category: news
 

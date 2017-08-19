@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:36:22 +0100"
 id: "1488"
 old_path: /tech/1488/electricity-through-the-air
-redirect_from:
+aliases:
  - /tech/1488/electricity-through-the-air
 category: tech
 

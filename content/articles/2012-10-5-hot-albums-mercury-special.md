@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:37:53 +0100"
 id: "2600"
 old_path: /music/2600/hot-albums-mercury-special
-redirect_from:
+aliases:
  - /music/2600/hot-albums-mercury-special
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:21:57 +0000"
 id: "1774"
 old_path: /music/1774/reports-from-a-sick-night-in-metric-no-seriously
-redirect_from:
+aliases:
  - /music/1774/reports-from-a-sick-night-in-metric-no-seriously
 category: music
 

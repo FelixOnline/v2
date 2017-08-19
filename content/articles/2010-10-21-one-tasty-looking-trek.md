@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:49:10 +0100"
 id: "223"
 old_path: /travel/223/one-tasty-looking-trek
-redirect_from:
+aliases:
  - /travel/223/one-tasty-looking-trek
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-05 23:43:43 +0000"
 id: "5196"
 old_path: /news/5196/universities-dismiss-milibands-tuition-fee-policy
-redirect_from:
+aliases:
  - /news/5196/universities-dismiss-milibands-tuition-fee-policy
 category: news
 

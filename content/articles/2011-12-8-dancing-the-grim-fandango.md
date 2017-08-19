@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:25:58 +0000"
 id: "1937"
 old_path: /games/1937/dancing-the-grim-fandango
-redirect_from:
+aliases:
  - /games/1937/dancing-the-grim-fandango
 category: games
 

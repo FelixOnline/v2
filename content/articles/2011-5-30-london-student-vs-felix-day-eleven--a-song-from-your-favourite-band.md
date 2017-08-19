@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-30 10:40:21 +0100"
 id: "1283"
 old_path: /music/1283/london-student-vs-felix-day-eleven--a-song-from-your-favourite-band
-redirect_from:
+aliases:
  - /music/1283/london-student-vs-felix-day-eleven--a-song-from-your-favourite-band
 category: music
 

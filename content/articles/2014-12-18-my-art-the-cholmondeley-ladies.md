@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:14:27 +0000"
 id: "5051"
 old_path: /arts/5051/my-art-the-cholmondeley-ladies
-redirect_from:
+aliases:
  - /arts/5051/my-art-the-cholmondeley-ladies
 category: arts
 

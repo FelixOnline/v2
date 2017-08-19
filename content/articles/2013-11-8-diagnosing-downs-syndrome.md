@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:36:29 +0000"
 id: "4028"
 old_path: /science/4028/diagnosing-downs-syndrome
-redirect_from:
+aliases:
  - /science/4028/diagnosing-downs-syndrome
 category: science
 

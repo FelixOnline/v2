@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:24:32 +0000"
 id: "6778"
 old_path: /news/6778/kings-fossil-free-leads-to-student-arrest
-redirect_from:
+aliases:
  - /news/6778/kings-fossil-free-leads-to-student-arrest
 category: news
 

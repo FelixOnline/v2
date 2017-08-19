@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:01:12 +0000"
 id: "2937"
 old_path: /news/2937/life-after-the-earthquake
-redirect_from:
+aliases:
  - /news/2937/life-after-the-earthquake
 category: news
 

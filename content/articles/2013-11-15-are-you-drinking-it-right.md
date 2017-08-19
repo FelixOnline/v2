@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:41:45 +0000"
 id: "4086"
 old_path: /food/4086/are-you-drinking-it-right
-redirect_from:
+aliases:
  - /food/4086/are-you-drinking-it-right
 category: food
 

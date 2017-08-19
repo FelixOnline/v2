@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:56:39 +0000"
 id: "3449"
 old_path: /books/3449/julian-assange-in-sweden
-redirect_from:
+aliases:
  - /books/3449/julian-assange-in-sweden
 category: books
 

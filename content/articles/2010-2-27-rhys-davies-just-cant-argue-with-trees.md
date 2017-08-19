@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-27 17:02:27 +0000"
 id: "110"
 old_path: /comment/110/rhys-davies-just-cant-argue-with-trees
-redirect_from:
+aliases:
  - /comment/110/rhys-davies-just-cant-argue-with-trees
 category: comment
 

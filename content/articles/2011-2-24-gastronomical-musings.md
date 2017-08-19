@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:42:12 +0000"
 id: "866"
 old_path: /food/866/gastronomical-musings
-redirect_from:
+aliases:
  - /food/866/gastronomical-musings
 category: food
 

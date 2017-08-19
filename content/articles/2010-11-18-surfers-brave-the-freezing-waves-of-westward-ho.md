@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:22:17 +0000"
 id: "406"
 old_path: /sport/406/surfers-brave-the-freezing-waves-of-westward-ho
-redirect_from:
+aliases:
  - /sport/406/surfers-brave-the-freezing-waves-of-westward-ho
 category: sport
 

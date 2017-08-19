@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-04 15:12:44 +0000"
 id: "5792"
 old_path: /news/5792/imperial-represents-at-climate-march
-redirect_from:
+aliases:
  - /news/5792/imperial-represents-at-climate-march
 category: news
 

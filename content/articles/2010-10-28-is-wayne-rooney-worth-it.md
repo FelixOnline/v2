@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:44:22 +0100"
 id: "274"
 old_path: /comment/274/is-wayne-rooney-worth-it
-redirect_from:
+aliases:
  - /comment/274/is-wayne-rooney-worth-it
 category: comment
 

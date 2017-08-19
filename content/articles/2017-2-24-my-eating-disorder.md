@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 13:48:26 +0000"
 id: "6812"
 old_path: /comment/6812/my-eating-disorder
-redirect_from:
+aliases:
  - /comment/6812/my-eating-disorder
 category: comment
 

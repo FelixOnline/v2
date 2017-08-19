@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:59:15 +0000"
 id: "6588"
 old_path: /arts/6588/arts-interviews--edie-edmundson
-redirect_from:
+aliases:
  - /arts/6588/arts-interviews--edie-edmundson
 category: arts
 

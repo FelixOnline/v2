@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:54:18 +0000"
 id: "4460"
 old_path: /comment/4460/manifesto-place-in-marxist-thought
-redirect_from:
+aliases:
  - /comment/4460/manifesto-place-in-marxist-thought
 category: comment
 

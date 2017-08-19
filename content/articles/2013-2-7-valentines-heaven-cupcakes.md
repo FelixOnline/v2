@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:00:57 +0000"
 id: "3250"
 old_path: /food/3250/valentines-heaven-cupcakes
-redirect_from:
+aliases:
  - /food/3250/valentines-heaven-cupcakes
 category: food
 

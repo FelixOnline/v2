@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-30 11:03:34 +0100"
 id: "131"
 old_path: /tech/131/apples-iphone-os-4-unveiled
-redirect_from:
+aliases:
  - /tech/131/apples-iphone-os-4-unveiled
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:52:52 +0100"
 id: "4601"
 old_path: /comment/4601/4-steps-to-easy-climate-action
-redirect_from:
+aliases:
  - /comment/4601/4-steps-to-easy-climate-action
 category: comment
 

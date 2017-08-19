@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-07 22:46:26 +0000"
 id: "1047"
 old_path: /arts/1047/testing-multiple-authors
-redirect_from:
+aliases:
  - /arts/1047/testing-multiple-authors
 category: arts
 

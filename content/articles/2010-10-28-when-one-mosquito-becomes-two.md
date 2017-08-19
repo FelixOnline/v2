@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:22:19 +0100"
 id: "259"
 old_path: /science/259/when-one-mosquito-becomes-two-
-redirect_from:
+aliases:
  - /science/259/when-one-mosquito-becomes-two-
 category: science
 

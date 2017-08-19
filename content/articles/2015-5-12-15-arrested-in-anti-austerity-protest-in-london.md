@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-12 15:59:28 +0100"
 id: "5512"
 old_path: /news/5512/15-arrested-in-anti-austerity-protest-in-london
-redirect_from:
+aliases:
  - /news/5512/15-arrested-in-anti-austerity-protest-in-london
 category: news
 

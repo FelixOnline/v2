@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 17:54:37 +0000"
 id: "5136"
 old_path: /science/5136/hubble-takes-15-billion-pixel-photo-of-andromeda
-redirect_from:
+aliases:
  - /science/5136/hubble-takes-15-billion-pixel-photo-of-andromeda
 category: science
 

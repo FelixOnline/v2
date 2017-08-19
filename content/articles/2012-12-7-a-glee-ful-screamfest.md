@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:42:36 +0000"
 id: "3054"
 old_path: /tv/3054/a-glee-ful-screamfest
-redirect_from:
+aliases:
  - /tv/3054/a-glee-ful-screamfest
 category: tv
 

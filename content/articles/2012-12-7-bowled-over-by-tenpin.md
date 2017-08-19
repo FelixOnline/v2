@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:08:38 +0000"
 id: "3061"
 old_path: /sport/3061/bowled-over-by-tenpin
-redirect_from:
+aliases:
  - /sport/3061/bowled-over-by-tenpin
 category: sport
 

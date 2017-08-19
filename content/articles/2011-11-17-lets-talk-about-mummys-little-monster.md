@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 22:21:57 +0000"
 id: "1793"
 old_path: /film/1793/lets-talk-about-mummys-little-monster
-redirect_from:
+aliases:
  - /film/1793/lets-talk-about-mummys-little-monster
 category: film
 

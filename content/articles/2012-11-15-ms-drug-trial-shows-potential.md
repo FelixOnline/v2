@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:03:20 +0000"
 id: "2890"
 old_path: /science/2890/ms-drug-trial-shows-potential
-redirect_from:
+aliases:
  - /science/2890/ms-drug-trial-shows-potential
 category: science
 

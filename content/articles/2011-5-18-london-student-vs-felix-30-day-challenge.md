@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-18 07:07:06 +0100"
 id: "1210"
 old_path: /music/1210/london-student-vs-felix-30-day-challenge
-redirect_from:
+aliases:
  - /music/1210/london-student-vs-felix-30-day-challenge
 category: music
 

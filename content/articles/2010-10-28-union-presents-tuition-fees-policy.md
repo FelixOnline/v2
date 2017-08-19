@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:59:08 +0100"
 id: "285"
 old_path: /news/285/union-presents-tuition-fees-policy-
-redirect_from:
+aliases:
  - /news/285/union-presents-tuition-fees-policy-
 category: news
 

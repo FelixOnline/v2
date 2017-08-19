@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 23:49:58 +0100"
 id: "1270"
 old_path: /arts/1270/a-bumper-bard-evening
-redirect_from:
+aliases:
  - /arts/1270/a-bumper-bard-evening
 category: arts
 

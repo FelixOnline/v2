@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 17:46:30 +0000"
 id: "5135"
 old_path: /science/5135/first-uk-organ-transplant-from-a-newborn
-redirect_from:
+aliases:
  - /science/5135/first-uk-organ-transplant-from-a-newborn
 category: science
 

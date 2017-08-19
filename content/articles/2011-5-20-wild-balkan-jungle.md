@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:41:31 +0100"
 id: "1224"
 old_path: /music/1224/wild-balkan-jungle
-redirect_from:
+aliases:
  - /music/1224/wild-balkan-jungle
 category: music
 

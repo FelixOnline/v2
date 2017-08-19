@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:48:49 +0100"
 id: "4522"
 old_path: /film/4522/modern-family
-redirect_from:
+aliases:
  - /film/4522/modern-family
 category: film
 

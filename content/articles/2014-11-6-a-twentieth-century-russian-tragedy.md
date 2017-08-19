@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:38:04 +0000"
 id: "4806"
 old_path: /arts/4806/a-twentieth-century-russian-tragedy
-redirect_from:
+aliases:
  - /arts/4806/a-twentieth-century-russian-tragedy
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-24 13:49:14 +0100"
 id: "5469"
 old_path: /arts/5469/an-american-in-the-wilderness
-redirect_from:
+aliases:
  - /arts/5469/an-american-in-the-wilderness
 category: arts
 

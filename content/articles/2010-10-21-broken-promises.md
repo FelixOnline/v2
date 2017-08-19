@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:36:54 +0100"
 id: "246"
 old_path: /news/246/broken-promises
-redirect_from:
+aliases:
  - /news/246/broken-promises
 category: news
 

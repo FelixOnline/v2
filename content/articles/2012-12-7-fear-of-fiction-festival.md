@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:35:53 +0000"
 id: "3064"
 old_path: /music/3064/fear-of-fiction-festival
-redirect_from:
+aliases:
  - /music/3064/fear-of-fiction-festival
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:35:39 +0000"
 id: "3136"
 old_path: /comment/3136/failed-your-exams-huh
-redirect_from:
+aliases:
  - /comment/3136/failed-your-exams-huh
 category: comment
 

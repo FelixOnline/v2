@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:12:27 +0100"
 id: "5610"
 old_path: /news/5610/ucl-students-threatened-after-rent-strikes
-redirect_from:
+aliases:
  - /news/5610/ucl-students-threatened-after-rent-strikes
 category: news
 

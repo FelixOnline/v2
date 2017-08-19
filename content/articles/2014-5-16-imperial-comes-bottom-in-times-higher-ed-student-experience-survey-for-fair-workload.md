@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:37:21 +0100"
 id: "4594"
 old_path: /news/4594/imperial-comes-bottom-in-times-higher-ed-student-experience-survey-for-fair-workload
-redirect_from:
+aliases:
  - /news/4594/imperial-comes-bottom-in-times-higher-ed-student-experience-survey-for-fair-workload
 category: news
 

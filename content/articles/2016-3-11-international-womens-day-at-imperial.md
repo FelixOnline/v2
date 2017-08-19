@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:21:24 +0000"
 id: "6018"
 old_path: /news/6018/international-womens-day-at-imperial
-redirect_from:
+aliases:
  - /news/6018/international-womens-day-at-imperial
 category: news
 

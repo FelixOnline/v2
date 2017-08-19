@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:49:58 +0100"
 id: "251"
 old_path: /news/251/metric-launch-delayed
-redirect_from:
+aliases:
  - /news/251/metric-launch-delayed
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:47:28 +0000"
 id: "1842"
 old_path: /film/1842/give-yourself-over-to-absolute-pleasure
-redirect_from:
+aliases:
  - /film/1842/give-yourself-over-to-absolute-pleasure
 category: film
 

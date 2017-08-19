@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 19:58:53 +0000"
 id: "4862"
 old_path: /news/4862/penalties-for-rugby-teams-announced-
-redirect_from:
+aliases:
  - /news/4862/penalties-for-rugby-teams-announced-
 category: news
 

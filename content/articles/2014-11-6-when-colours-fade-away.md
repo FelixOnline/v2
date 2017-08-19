@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:22:02 +0000"
 id: "4788"
 old_path: /welfare/4788/when-colours-fade-away
-redirect_from:
+aliases:
  - /welfare/4788/when-colours-fade-away
 category: welfare
 

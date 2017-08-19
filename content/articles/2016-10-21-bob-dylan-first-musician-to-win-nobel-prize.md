@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 12:24:54 +0100"
 id: "6343"
 old_path: /arts/6343/-bob-dylan-first-musician-to-win-nobel-prize
-redirect_from:
+aliases:
  - /arts/6343/-bob-dylan-first-musician-to-win-nobel-prize
 category: arts
 

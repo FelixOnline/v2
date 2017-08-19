@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:46:13 +0100"
 id: "1312"
 old_path: /arts/1312/cherries-ripe-for-watching
-redirect_from:
+aliases:
  - /arts/1312/cherries-ripe-for-watching
 category: arts
 

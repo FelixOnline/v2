@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:59:16 +0100"
 id: "4559"
 old_path: /games/4559/final-fantasy-xiv-a-social-mmorpg
-redirect_from:
+aliases:
  - /games/4559/final-fantasy-xiv-a-social-mmorpg
 category: games
 

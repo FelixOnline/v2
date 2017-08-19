@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-12 16:54:59 +0000"
 id: "121"
 old_path: /tech/121/e-inks-not-ready-for-prime-time
-redirect_from:
+aliases:
  - /tech/121/e-inks-not-ready-for-prime-time
 category: tech
 

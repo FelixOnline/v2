@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 19:58:42 +0000"
 id: "760"
 old_path: /news/760/oxbridge-aim-for-9000-fees-
-redirect_from:
+aliases:
  - /news/760/oxbridge-aim-for-9000-fees-
 category: news
 

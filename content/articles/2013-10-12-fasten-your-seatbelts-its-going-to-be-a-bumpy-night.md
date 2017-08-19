@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 12:02:01 +0100"
 id: "3843"
 old_path: /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
-redirect_from:
+aliases:
  - /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
 category: film
 

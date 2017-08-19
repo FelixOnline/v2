@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 19:00:43 +0100"
 id: "3661"
 old_path: /arts/3661/beauty-and-the-beholders-eye
-redirect_from:
+aliases:
  - /arts/3661/beauty-and-the-beholders-eye
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-08 11:07:23 +0100"
 id: "4721"
 old_path: /sport/4721/le-tour-returns-to-london
-redirect_from:
+aliases:
  - /sport/4721/le-tour-returns-to-london
 category: sport
 

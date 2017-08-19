@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-03 16:27:38 +0100"
 id: "2522"
 old_path: /film/2522/long-live-the-evil-queen
-redirect_from:
+aliases:
  - /film/2522/long-live-the-evil-queen
 category: film
 

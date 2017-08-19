@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:32:24 +0000"
 id: "3087"
 old_path: /news/3087/highlight-everything-
-redirect_from:
+aliases:
  - /news/3087/highlight-everything-
 category: news
 

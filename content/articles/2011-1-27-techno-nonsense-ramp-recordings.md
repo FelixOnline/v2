@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:43:24 +0000"
 id: "701"
 old_path: /music/701/techno-nonsense-ramp-recordings
-redirect_from:
+aliases:
  - /music/701/techno-nonsense-ramp-recordings
 category: music
 

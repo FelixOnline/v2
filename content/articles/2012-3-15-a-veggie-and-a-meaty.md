@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:54:23 +0000"
 id: "2364"
 old_path: /food/2364/a-veggie-and-a-meaty
-redirect_from:
+aliases:
  - /food/2364/a-veggie-and-a-meaty
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:07:15 +0000"
 id: "3400"
 old_path: /news/3400/here-is-the-plan
-redirect_from:
+aliases:
  - /news/3400/here-is-the-plan
 category: news
 

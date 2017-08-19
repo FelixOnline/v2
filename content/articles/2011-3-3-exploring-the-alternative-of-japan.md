@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:30:23 +0000"
 id: "991"
 old_path: /food/991/exploring-the-alternative-of-japan
-redirect_from:
+aliases:
  - /food/991/exploring-the-alternative-of-japan
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:43:18 +0000"
 id: "4000"
 old_path: /film/4000/the-grandmaster-cut-up-by-weinstein
-redirect_from:
+aliases:
  - /film/4000/the-grandmaster-cut-up-by-weinstein
 category: film
 

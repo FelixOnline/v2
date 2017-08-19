@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-07-10 11:43:58 +0100"
 id: "2584"
 old_path: /tv/2584/review-the-newsroom-uk-premiere
-redirect_from:
+aliases:
  - /tv/2584/review-the-newsroom-uk-premiere
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:09:59 +0000"
 id: "2813"
 old_path: /sport/2813/knights-in-shining-armour-win-again
-redirect_from:
+aliases:
  - /sport/2813/knights-in-shining-armour-win-again
 category: sport
 

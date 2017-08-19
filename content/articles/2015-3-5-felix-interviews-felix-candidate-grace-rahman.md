@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:48:28 +0000"
 id: "5347"
 old_path: /comment/5347/felix-interviews-felix-candidate-grace-rahman
-redirect_from:
+aliases:
  - /comment/5347/felix-interviews-felix-candidate-grace-rahman
 category: comment
 

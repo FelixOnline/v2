@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-02 14:36:31 +0000"
 id: "5178"
 old_path: /cands/5178/society-funding-in-review
-redirect_from:
+aliases:
  - /cands/5178/society-funding-in-review
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:37:54 +0100"
 id: "3829"
 old_path: /comment/3829/head-to-head-rory-fenton-on-integrated-education
-redirect_from:
+aliases:
  - /comment/3829/head-to-head-rory-fenton-on-integrated-education
 category: comment
 

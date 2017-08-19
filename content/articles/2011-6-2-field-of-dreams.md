@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:03:54 +0100"
 id: "1315"
 old_path: /music/1315/field-of-dreams
-redirect_from:
+aliases:
  - /music/1315/field-of-dreams
 category: music
 

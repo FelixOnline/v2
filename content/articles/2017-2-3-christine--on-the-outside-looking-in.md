@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:48:43 +0000"
 id: "6720"
 old_path: /film/6720/christine--on-the-outside-looking-in
-redirect_from:
+aliases:
  - /film/6720/christine--on-the-outside-looking-in
 category: film
 

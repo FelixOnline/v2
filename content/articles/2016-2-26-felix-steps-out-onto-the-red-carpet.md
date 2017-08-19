@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:48:52 +0000"
 id: "5970"
 old_path: /film/5970/felix-steps-out-onto-the-red-carpet
-redirect_from:
+aliases:
  - /film/5970/felix-steps-out-onto-the-red-carpet
 category: film
 

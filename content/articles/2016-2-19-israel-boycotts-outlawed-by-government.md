@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:07:51 +0000"
 id: "5924"
 old_path: /news/5924/israel-boycotts-outlawed-by-government
-redirect_from:
+aliases:
  - /news/5924/israel-boycotts-outlawed-by-government
 category: news
 

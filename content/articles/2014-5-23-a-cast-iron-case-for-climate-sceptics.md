@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 13:46:04 +0100"
 id: "4618"
 old_path: /science/4618/a-cast-iron-case-for-climate-sceptics
-redirect_from:
+aliases:
  - /science/4618/a-cast-iron-case-for-climate-sceptics
 category: science
 

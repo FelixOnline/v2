@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 02:54:36 +0100"
 id: "1213"
 old_path: /sport/1213/boat-club-win-raft-of-medals-in-nottingham
-redirect_from:
+aliases:
  - /sport/1213/boat-club-win-raft-of-medals-in-nottingham
 category: sport
 

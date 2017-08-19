@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:24:17 +0000"
 id: "889"
 old_path: /comment/889/lessons-to-learn
-redirect_from:
+aliases:
  - /comment/889/lessons-to-learn
 category: comment
 

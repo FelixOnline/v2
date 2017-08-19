@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:21:26 +0000"
 id: "2826"
 old_path: /news/2826/students-scare-the-living-daylights-out-of-health-and-safety
-redirect_from:
+aliases:
  - /news/2826/students-scare-the-living-daylights-out-of-health-and-safety
 category: news
 

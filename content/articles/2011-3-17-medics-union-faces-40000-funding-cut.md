@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 19:20:44 +0000"
 id: "1087"
 old_path: /news/1087/medics-union-faces-40000-funding-cut
-redirect_from:
+aliases:
  - /news/1087/medics-union-faces-40000-funding-cut
 category: news
 

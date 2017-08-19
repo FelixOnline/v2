@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 11:08:33 +0100"
 id: "6298"
 old_path: /news/6298/college-contemplating-smoking-ban
-redirect_from:
+aliases:
  - /news/6298/college-contemplating-smoking-ban
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:55:07 +0000"
 id: "659"
 old_path: /science/659/how-to-teach-quantum-physics-to-your-dog
-redirect_from:
+aliases:
  - /science/659/how-to-teach-quantum-physics-to-your-dog
 category: science
 

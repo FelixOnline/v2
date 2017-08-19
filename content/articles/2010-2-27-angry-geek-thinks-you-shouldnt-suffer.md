@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-27 17:07:29 +0000"
 id: "111"
 old_path: /comment/111/angry-geek-thinks-you-shouldnt-suffer
-redirect_from:
+aliases:
  - /comment/111/angry-geek-thinks-you-shouldnt-suffer
 category: comment
 

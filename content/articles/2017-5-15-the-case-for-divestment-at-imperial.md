@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:00:44 +0100"
 id: "6949"
 old_path: /comment/6949/the-case-for-divestment-at-imperial
-redirect_from:
+aliases:
  - /comment/6949/the-case-for-divestment-at-imperial
 category: comment
 

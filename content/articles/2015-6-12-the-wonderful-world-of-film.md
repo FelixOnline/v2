@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-12 12:42:08 +0100"
 id: "5621"
 old_path: /film/5621/the-wonderful-world-of-film
-redirect_from:
+aliases:
  - /film/5621/the-wonderful-world-of-film
 category: film
 

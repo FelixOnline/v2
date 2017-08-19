@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:50:13 +0000"
 id: "1765"
 old_path: /games/1765/a-ode-to-the-beauty-of-minecraft
-redirect_from:
+aliases:
  - /games/1765/a-ode-to-the-beauty-of-minecraft
 category: games
 

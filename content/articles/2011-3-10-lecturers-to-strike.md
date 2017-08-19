@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:26:55 +0000"
 id: "1051"
 old_path: /news/1051/lecturers-to-strike
-redirect_from:
+aliases:
  - /news/1051/lecturers-to-strike
 category: news
 

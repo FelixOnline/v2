@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 16:20:56 +0000"
 id: "6801"
 old_path: /sport/6801/because-playing-hockey-on-land-is-so-last-year
-redirect_from:
+aliases:
  - /sport/6801/because-playing-hockey-on-land-is-so-last-year
 category: sport
 

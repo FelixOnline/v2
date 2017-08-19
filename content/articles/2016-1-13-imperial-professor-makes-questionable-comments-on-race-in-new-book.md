@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-13 14:45:36 +0000"
 id: "5825"
 old_path: /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
-redirect_from:
+aliases:
  - /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
 category: news
 

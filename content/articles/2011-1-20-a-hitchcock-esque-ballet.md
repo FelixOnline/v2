@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:51:28 +0000"
 id: "616"
 old_path: /film/616/a-hitchcock-esque-ballet-
-redirect_from:
+aliases:
  - /film/616/a-hitchcock-esque-ballet-
 category: film
 

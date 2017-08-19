@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:20:32 +0100"
 id: "2701"
 old_path: /science/2701/good-news-bad-news
-redirect_from:
+aliases:
  - /science/2701/good-news-bad-news
 category: science
 

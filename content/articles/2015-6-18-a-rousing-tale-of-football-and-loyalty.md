@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 21:18:02 +0100"
 id: "5638"
 old_path: /arts/5638/a-rousing-tale-of-football-and-loyalty
-redirect_from:
+aliases:
  - /arts/5638/a-rousing-tale-of-football-and-loyalty
 category: arts
 

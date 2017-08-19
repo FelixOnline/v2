@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:15:41 +0000"
 id: "2055"
 old_path: /film/2055/clooney-is-a-family-man
-redirect_from:
+aliases:
  - /film/2055/clooney-is-a-family-man
 category: film
 

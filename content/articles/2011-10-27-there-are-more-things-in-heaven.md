@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 23:55:33 +0100"
 id: "1625"
 old_path: /comment/1625/there-are-more-things-in-heaven
-redirect_from:
+aliases:
  - /comment/1625/there-are-more-things-in-heaven
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:22:22 +0000"
 id: "4844"
 old_path: /food/4844/new-ideas-aplentystarring-you
-redirect_from:
+aliases:
  - /food/4844/new-ideas-aplentystarring-you
 category: food
 

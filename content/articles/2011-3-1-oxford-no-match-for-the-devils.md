@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:33:48 +0000"
 id: "973"
 old_path: /sport/973/oxford-no-match-for-the-devils
-redirect_from:
+aliases:
  - /sport/973/oxford-no-match-for-the-devils
 category: sport
 

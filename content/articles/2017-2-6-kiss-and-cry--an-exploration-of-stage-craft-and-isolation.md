@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-06 16:15:17 +0000"
 id: "6740"
 old_path: /arts/6740/kiss-and-cry--an-exploration-of-stage-craft-and-isolation
-redirect_from:
+aliases:
  - /arts/6740/kiss-and-cry--an-exploration-of-stage-craft-and-isolation
 category: arts
 

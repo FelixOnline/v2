@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 12:11:48 +0100"
 id: "3642"
 old_path: /news/3642/st-marys-library-gets-revamp
-redirect_from:
+aliases:
  - /news/3642/st-marys-library-gets-revamp
 category: news
 

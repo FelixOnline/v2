@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:45:14 +0100"
 id: "6985"
 old_path: /news/6985/eee-library-to-close-at-the-end-of-term
-redirect_from:
+aliases:
  - /news/6985/eee-library-to-close-at-the-end-of-term
 category: news
 

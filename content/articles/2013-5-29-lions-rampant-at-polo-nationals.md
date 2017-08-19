@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 15:44:17 +0100"
 id: "3633"
 old_path: /sport/3633/lions-rampant-at-polo-nationals
-redirect_from:
+aliases:
  - /sport/3633/lions-rampant-at-polo-nationals
 category: sport
 

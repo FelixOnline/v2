@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:30:06 +0100"
 id: "2709"
 old_path: /film/2709/the-best-films-from-the-1950s
-redirect_from:
+aliases:
  - /film/2709/the-best-films-from-the-1950s
 category: film
 

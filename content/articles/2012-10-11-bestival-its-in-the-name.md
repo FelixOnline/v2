@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:26:41 +0100"
 id: "2677"
 old_path: /music/2677/bestival-its-in-the-name
-redirect_from:
+aliases:
  - /music/2677/bestival-its-in-the-name
 category: music
 

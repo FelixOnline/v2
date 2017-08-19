@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:58:11 +0000"
 id: "398"
 old_path: /food/398/curry-at-naan-oclock-the-real-deal-about-curries
-redirect_from:
+aliases:
  - /food/398/curry-at-naan-oclock-the-real-deal-about-curries
 category: food
 

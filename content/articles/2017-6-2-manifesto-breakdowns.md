@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:59:21 +0100"
 id: "7001"
 old_path: /features/7001/manifesto-breakdowns
-redirect_from:
+aliases:
  - /features/7001/manifesto-breakdowns
 category: features
 

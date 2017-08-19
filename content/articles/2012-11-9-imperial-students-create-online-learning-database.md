@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:09:05 +0000"
 id: "2831"
 old_path: /news/2831/imperial-students-create-online-learning-database
-redirect_from:
+aliases:
  - /news/2831/imperial-students-create-online-learning-database
 category: news
 

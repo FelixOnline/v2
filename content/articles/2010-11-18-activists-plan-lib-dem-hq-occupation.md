@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:50:55 +0000"
 id: "412"
 old_path: /news/412/activists-plan-lib-dem-hq-occupation-
-redirect_from:
+aliases:
  - /news/412/activists-plan-lib-dem-hq-occupation-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:25:49 +0100"
 id: "2676"
 old_path: /comment/2676/mandatory-castrations-for-all
-redirect_from:
+aliases:
  - /comment/2676/mandatory-castrations-for-all
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:23:17 +0000"
 id: "6914"
 old_path: /features/6914/the-national-wedding-show-is-decadent-and-depraved-
-redirect_from:
+aliases:
  - /features/6914/the-national-wedding-show-is-decadent-and-depraved-
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:42:20 +0000"
 id: "5700"
 old_path: /comment/5700/bond-leaves-feminists-shaken-not-stirred
-redirect_from:
+aliases:
  - /comment/5700/bond-leaves-feminists-shaken-not-stirred
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:44:47 +0000"
 id: "1919"
 old_path: /science/1919/graphene-makes-inkjet-printer-electronics-a-possibilty
-redirect_from:
+aliases:
  - /science/1919/graphene-makes-inkjet-printer-electronics-a-possibilty
 category: science
 

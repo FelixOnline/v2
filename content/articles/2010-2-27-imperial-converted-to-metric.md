@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-27 17:40:05 +0000"
 id: "114"
 old_path: /news/114/imperial-converted-to-metric
-redirect_from:
+aliases:
  - /news/114/imperial-converted-to-metric
 category: news
 

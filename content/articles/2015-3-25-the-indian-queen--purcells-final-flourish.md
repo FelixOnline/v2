@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:12:51 +0000"
 id: "5446"
 old_path: /arts/5446/the-indian-queen--purcells-final-flourish
-redirect_from:
+aliases:
  - /arts/5446/the-indian-queen--purcells-final-flourish
 category: arts
 

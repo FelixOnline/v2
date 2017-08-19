@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:33:58 +0000"
 id: "1805"
 old_path: /science/1805/have-sex-then-select
-redirect_from:
+aliases:
  - /science/1805/have-sex-then-select
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:34:47 +0000"
 id: "4259"
 old_path: /features/4259/marrow-volunteers-needed
-redirect_from:
+aliases:
  - /features/4259/marrow-volunteers-needed
 category: features
 

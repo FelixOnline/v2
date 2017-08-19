@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 23:10:56 +0100"
 id: "3717"
 old_path: /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
-redirect_from:
+aliases:
  - /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
 category: music
 

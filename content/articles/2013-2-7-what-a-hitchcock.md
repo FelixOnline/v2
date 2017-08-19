@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:56:00 +0000"
 id: "3248"
 old_path: /film/3248/what-a-hitchcock
-redirect_from:
+aliases:
  - /film/3248/what-a-hitchcock
 category: film
 

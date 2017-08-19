@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:44:32 +0100"
 id: "1427"
 old_path: /comment/1427/well-meet-again
-redirect_from:
+aliases:
  - /comment/1427/well-meet-again
 category: comment
 

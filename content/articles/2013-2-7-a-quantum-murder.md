@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:39:16 +0000"
 id: "3243"
 old_path: /books/3243/a-quantum-murder
-redirect_from:
+aliases:
  - /books/3243/a-quantum-murder
 category: books
 

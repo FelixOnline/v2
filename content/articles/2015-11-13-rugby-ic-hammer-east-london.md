@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 15:06:14 +0000"
 id: "5737"
 old_path: /sport/5737/rugby-ic-hammer-east-london
-redirect_from:
+aliases:
  - /sport/5737/rugby-ic-hammer-east-london
 category: sport
 

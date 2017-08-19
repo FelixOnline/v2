@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-17 18:12:30 +0000"
 id: "4900"
 old_path: /film/4900/mankinds-next-step-will-be-our-greatest
-redirect_from:
+aliases:
  - /film/4900/mankinds-next-step-will-be-our-greatest
 category: film
 

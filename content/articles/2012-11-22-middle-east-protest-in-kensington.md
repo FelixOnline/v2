@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:32:40 +0000"
 id: "2929"
 old_path: /news/2929/middle-east-protest-in-kensington
-redirect_from:
+aliases:
  - /news/2929/middle-east-protest-in-kensington
 category: news
 

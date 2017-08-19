@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 10:28:11 +0100"
 id: "1457"
 old_path: /comment/1457/why-didnt-we-riot
-redirect_from:
+aliases:
  - /comment/1457/why-didnt-we-riot
 category: comment
 

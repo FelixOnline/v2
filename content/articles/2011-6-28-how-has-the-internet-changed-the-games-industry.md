@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:02:32 +0100"
 id: "1438"
 old_path: /games/1438/how-has-the-internet-changed-the-games-industry
-redirect_from:
+aliases:
  - /games/1438/how-has-the-internet-changed-the-games-industry
 category: games
 

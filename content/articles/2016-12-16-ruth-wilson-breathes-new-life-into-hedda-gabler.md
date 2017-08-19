@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:05:19 +0000"
 id: "6613"
 old_path: /arts/6613/ruth-wilson-breathes-new-life-into-hedda-gabler
-redirect_from:
+aliases:
  - /arts/6613/ruth-wilson-breathes-new-life-into-hedda-gabler
 category: arts
 

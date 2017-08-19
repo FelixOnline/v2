@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:27:45 +0000"
 id: "1777"
 old_path: /music/1777/now-not-then-jcq
-redirect_from:
+aliases:
  - /music/1777/now-not-then-jcq
 category: music
 

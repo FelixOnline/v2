@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:16:05 +0000"
 id: "4059"
 old_path: /news/4059/201-million-donation-creates-imperials-brevan-howard-centre
-redirect_from:
+aliases:
  - /news/4059/201-million-donation-creates-imperials-brevan-howard-centre
 category: news
 

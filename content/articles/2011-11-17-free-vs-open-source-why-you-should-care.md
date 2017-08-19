@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:38:11 +0000"
 id: "1782"
 old_path: /tech/1782/free-vs-open-source-why-you-should-care
-redirect_from:
+aliases:
  - /tech/1782/free-vs-open-source-why-you-should-care
 category: tech
 

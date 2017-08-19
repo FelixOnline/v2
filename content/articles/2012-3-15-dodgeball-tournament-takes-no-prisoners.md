@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:18:16 +0000"
 id: "2376"
 old_path: /news/2376/dodgeball-tournament-takes-no-prisoners
-redirect_from:
+aliases:
  - /news/2376/dodgeball-tournament-takes-no-prisoners
 category: news
 

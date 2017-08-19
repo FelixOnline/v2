@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:58:20 +0100"
 id: "4558"
 old_path: /tv/4558/game-of-thrones-returns
-redirect_from:
+aliases:
  - /tv/4558/game-of-thrones-returns
 category: tv
 

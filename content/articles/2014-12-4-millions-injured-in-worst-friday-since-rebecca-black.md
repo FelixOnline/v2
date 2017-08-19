@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:29:15 +0000"
 id: "4998"
 old_path: /tech/4998/millions-injured-in-worst-friday-since-rebecca-black
-redirect_from:
+aliases:
  - /tech/4998/millions-injured-in-worst-friday-since-rebecca-black
 category: tech
 

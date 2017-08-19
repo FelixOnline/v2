@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:21:56 +0000"
 id: "690"
 old_path: /food/690/the-hazards-of-eating-out
-redirect_from:
+aliases:
  - /food/690/the-hazards-of-eating-out
 category: food
 

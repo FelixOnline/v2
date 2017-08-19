@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 05:07:15 +0000"
 id: "4382"
 old_path: /news/4382/calls-for-university-of-london-vice-chancellor-to-stand-down
-redirect_from:
+aliases:
  - /news/4382/calls-for-university-of-london-vice-chancellor-to-stand-down
 category: news
 

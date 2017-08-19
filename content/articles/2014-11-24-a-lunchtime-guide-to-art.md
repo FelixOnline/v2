@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:25:30 +0000"
 id: "4938"
 old_path: /arts/4938/a-lunchtime-guide-to-art
-redirect_from:
+aliases:
  - /arts/4938/a-lunchtime-guide-to-art
 category: arts
 

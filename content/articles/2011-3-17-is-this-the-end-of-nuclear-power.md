@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:26:00 +0000"
 id: "1101"
 old_path: /politics/1101/is-this-the-end-of-nuclear-power
-redirect_from:
+aliases:
  - /politics/1101/is-this-the-end-of-nuclear-power
 category: politics
 

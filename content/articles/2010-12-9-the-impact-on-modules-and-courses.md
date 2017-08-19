@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:27:40 +0000"
 id: "534"
 old_path: /news/534/the-impact-on-modules-and-courses-
-redirect_from:
+aliases:
  - /news/534/the-impact-on-modules-and-courses-
 category: news
 

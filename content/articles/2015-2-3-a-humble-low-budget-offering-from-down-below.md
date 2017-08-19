@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 15:03:51 +0000"
 id: "5190"
 old_path: /film/5190/a-humble-low-budget-offering-from-down-below
-redirect_from:
+aliases:
  - /film/5190/a-humble-low-budget-offering-from-down-below
 category: film
 

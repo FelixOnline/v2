@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:54:02 +0000"
 id: "1975"
 old_path: /news/1975/julia-buckingham-steps-down-as-pro-rector
-redirect_from:
+aliases:
  - /news/1975/julia-buckingham-steps-down-as-pro-rector
 category: news
 

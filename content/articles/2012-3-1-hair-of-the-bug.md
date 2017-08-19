@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:31:37 +0000"
 id: "2276"
 old_path: /science/2276/hair-of-the-bug
-redirect_from:
+aliases:
  - /science/2276/hair-of-the-bug
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:47:02 +0000"
 id: "4944"
 old_path: /film/4944/new-films-out-now-
-redirect_from:
+aliases:
  - /film/4944/new-films-out-now-
 category: film
 

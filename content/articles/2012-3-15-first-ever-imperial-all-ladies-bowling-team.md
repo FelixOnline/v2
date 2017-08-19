@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 22:19:26 +0000"
 id: "2397"
 old_path: /sport/2397/first-ever-imperial-all-ladies-bowling-team
-redirect_from:
+aliases:
  - /sport/2397/first-ever-imperial-all-ladies-bowling-team
 category: sport
 

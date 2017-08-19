@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 22:56:54 +0100"
 id: "5552"
 old_path: /comment/5552/why-is-televised-rape-so-controversial
-redirect_from:
+aliases:
  - /comment/5552/why-is-televised-rape-so-controversial
 category: comment
 

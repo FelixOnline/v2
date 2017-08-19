@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:07:14 +0000"
 id: "1908"
 old_path: /news/1908/dinner-in-the-house-of-lords-anyone
-redirect_from:
+aliases:
  - /news/1908/dinner-in-the-house-of-lords-anyone
 category: news
 

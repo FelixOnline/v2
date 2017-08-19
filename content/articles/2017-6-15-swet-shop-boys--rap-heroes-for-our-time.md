@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-15 17:13:19 +0100"
 id: "7027"
 old_path: /music/7027/swet-shop-boys--rap-heroes-for-our-time-
-redirect_from:
+aliases:
  - /music/7027/swet-shop-boys--rap-heroes-for-our-time-
 category: music
 

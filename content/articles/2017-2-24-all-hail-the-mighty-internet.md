@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:21:01 +0000"
 id: "6828"
 old_path: /food/6828/all-hail-the-mighty-internet
-redirect_from:
+aliases:
  - /food/6828/all-hail-the-mighty-internet
 category: food
 

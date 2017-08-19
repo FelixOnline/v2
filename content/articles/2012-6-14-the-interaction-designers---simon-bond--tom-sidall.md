@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:16:07 +0100"
 id: "2561"
 old_path: /phoenix/2561/the-interaction-designers---simon-bond--tom-sidall
-redirect_from:
+aliases:
  - /phoenix/2561/the-interaction-designers---simon-bond--tom-sidall
 category: phoenix
 

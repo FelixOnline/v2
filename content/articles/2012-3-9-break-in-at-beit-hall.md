@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-09 01:15:40 +0000"
 id: "2336"
 old_path: /news/2336/break-in-at-beit-hall
-redirect_from:
+aliases:
  - /news/2336/break-in-at-beit-hall
 category: news
 

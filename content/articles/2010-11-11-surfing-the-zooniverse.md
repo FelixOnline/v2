@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:58:31 +0000"
 id: "370"
 old_path: /news/370/surfing-the-zooniverse
-redirect_from:
+aliases:
  - /news/370/surfing-the-zooniverse
 category: news
 

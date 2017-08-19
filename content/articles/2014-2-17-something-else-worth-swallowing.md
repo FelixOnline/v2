@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:13:55 +0000"
 id: "4386"
 old_path: /science/4386/something-else-worth-swallowing
-redirect_from:
+aliases:
  - /science/4386/something-else-worth-swallowing
 category: science
 

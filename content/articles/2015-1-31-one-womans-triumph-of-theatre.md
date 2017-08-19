@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 18:42:16 +0000"
 id: "5166"
 old_path: /arts/5166/one-womans-triumph-of-theatre
-redirect_from:
+aliases:
  - /arts/5166/one-womans-triumph-of-theatre
 category: arts
 

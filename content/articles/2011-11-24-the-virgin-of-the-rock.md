@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:19:05 +0000"
 id: "1803"
 old_path: /biz/1803/the-virgin-of-the-rock
-redirect_from:
+aliases:
  - /biz/1803/the-virgin-of-the-rock
 category: business
 

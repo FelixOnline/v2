@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:13:03 +0100"
 id: "1561"
 old_path: /science/1561/graphene-based-electronics
-redirect_from:
+aliases:
  - /science/1561/graphene-based-electronics
 category: science
 

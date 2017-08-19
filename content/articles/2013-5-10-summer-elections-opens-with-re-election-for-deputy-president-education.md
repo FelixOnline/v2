@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-10 17:47:26 +0100"
 id: "3564"
 old_path: /news/3564/summer-elections-opens-with-re-election-for-deputy-president-education
-redirect_from:
+aliases:
  - /news/3564/summer-elections-opens-with-re-election-for-deputy-president-education
 category: news
 

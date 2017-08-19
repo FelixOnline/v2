@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-02 11:23:21 +0000"
 id: "2827"
 old_path: /comment/2827/dont-diss-repute-me
-redirect_from:
+aliases:
  - /comment/2827/dont-diss-repute-me
 category: comment
 

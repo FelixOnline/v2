@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:36:59 +0000"
 id: "1670"
 old_path: /tv/1670/an-extraterrestial-plan-to-destroy-earth
-redirect_from:
+aliases:
  - /tv/1670/an-extraterrestial-plan-to-destroy-earth
 category: tv
 

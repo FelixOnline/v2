@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:50:07 +0000"
 id: "6411"
 old_path: /music/6411/glass-animals-at-the-roundhouse
-redirect_from:
+aliases:
  - /music/6411/glass-animals-at-the-roundhouse
 category: music
 

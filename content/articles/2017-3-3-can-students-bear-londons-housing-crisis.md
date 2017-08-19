@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:19:40 +0000"
 id: "6836"
 old_path: /news/6836/can-students-bear-londons-housing-crisis
-redirect_from:
+aliases:
  - /news/6836/can-students-bear-londons-housing-crisis
 category: news
 

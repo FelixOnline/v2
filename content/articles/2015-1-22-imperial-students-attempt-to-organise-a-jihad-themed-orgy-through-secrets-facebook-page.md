@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-22 16:35:15 +0000"
 id: "5111"
 old_path: /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
-redirect_from:
+aliases:
  - /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
 category: news
 

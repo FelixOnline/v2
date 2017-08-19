@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:59:28 +0000"
 id: "4471"
 old_path: /games/4471/is-competition-really-that-good
-redirect_from:
+aliases:
  - /games/4471/is-competition-really-that-good
 category: games
 

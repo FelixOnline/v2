@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:51:07 +0000"
 id: "2990"
 old_path: /games/2990/force-persuade-play-kotor
-redirect_from:
+aliases:
  - /games/2990/force-persuade-play-kotor
 category: games
 

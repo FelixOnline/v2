@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:08:13 +0000"
 id: "5068"
 old_path: /arts/5068/taking-on-the-classics-a-directors-how-to
-redirect_from:
+aliases:
  - /arts/5068/taking-on-the-classics-a-directors-how-to
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:42:08 +0000"
 id: "307"
 old_path: /sport/307/all-blacks-visit-ethos-
-redirect_from:
+aliases:
  - /sport/307/all-blacks-visit-ethos-
 category: sport
 

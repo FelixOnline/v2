@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-19 18:37:25 +0100"
 id: "4694"
 old_path: /games/4694/battlefield-hardline
-redirect_from:
+aliases:
  - /games/4694/battlefield-hardline
 category: games
 

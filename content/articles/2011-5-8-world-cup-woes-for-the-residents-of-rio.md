@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-08 13:28:45 +0100"
 id: "1179"
 old_path: /travel/1179/world-cup-woes-for-the-residents-of-rio
-redirect_from:
+aliases:
  - /travel/1179/world-cup-woes-for-the-residents-of-rio
 category: travel
 

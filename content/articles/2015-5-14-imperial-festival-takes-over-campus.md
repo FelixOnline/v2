@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:25:40 +0100"
 id: "5521"
 old_path: /news/5521/imperial-festival-takes-over-campus
-redirect_from:
+aliases:
  - /news/5521/imperial-festival-takes-over-campus
 category: news
 

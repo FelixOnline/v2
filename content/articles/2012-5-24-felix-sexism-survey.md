@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:40:07 +0100"
 id: "2490"
 old_path: /news/2490/felix-sexism-survey
-redirect_from:
+aliases:
  - /news/2490/felix-sexism-survey
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 22:14:51 +0000"
 id: "420"
 old_path: /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
-redirect_from:
+aliases:
  - /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 22:50:19 +0100"
 id: "2483"
 old_path: /news/2483/lecture-podcasting-to-become-reality
-redirect_from:
+aliases:
  - /news/2483/lecture-podcasting-to-become-reality
 category: news
 

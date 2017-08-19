@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:37:20 +0000"
 id: "1916"
 old_path: /sport/1916/blades-of-glory-a-successful-term-for-ic-rowers
-redirect_from:
+aliases:
  - /sport/1916/blades-of-glory-a-successful-term-for-ic-rowers
 category: sport
 

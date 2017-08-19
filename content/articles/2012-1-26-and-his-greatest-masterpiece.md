@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:33:03 +0000"
 id: "2066"
 old_path: /books/2066/and-his-greatest-masterpiece
-redirect_from:
+aliases:
  - /books/2066/and-his-greatest-masterpiece
 category: books
 

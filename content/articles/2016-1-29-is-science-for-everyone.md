@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:05:39 +0000"
 id: "5841"
 old_path: /science/5841/is-science-for-everyone
-redirect_from:
+aliases:
  - /science/5841/is-science-for-everyone
 category: science
 

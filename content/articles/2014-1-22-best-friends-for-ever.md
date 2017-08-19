@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-22 14:15:57 +0000"
 id: "4266"
 old_path: /games/4266/best-friends-for-ever
-redirect_from:
+aliases:
  - /games/4266/best-friends-for-ever
 category: games
 

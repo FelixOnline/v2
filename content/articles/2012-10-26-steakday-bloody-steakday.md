@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:48:48 +0100"
 id: "2757"
 old_path: /food/2757/steakday-bloody-steakday
-redirect_from:
+aliases:
  - /food/2757/steakday-bloody-steakday
 category: food
 

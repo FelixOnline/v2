@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:17:10 +0000"
 id: "294"
 old_path: /film/294/a-warm-and-witty-modern-family-film-
-redirect_from:
+aliases:
  - /film/294/a-warm-and-witty-modern-family-film-
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:53:33 +0000"
 id: "5326"
 old_path: /politics/5326/an-interview-with-robin-mcghee
-redirect_from:
+aliases:
  - /politics/5326/an-interview-with-robin-mcghee
 category: politics
 

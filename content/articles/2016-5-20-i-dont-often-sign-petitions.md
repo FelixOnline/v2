@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:57:42 +0100"
 id: "6178"
 old_path: /comment/6178/i-dont-often-sign-petitions
-redirect_from:
+aliases:
  - /comment/6178/i-dont-often-sign-petitions
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:38:50 +0100"
 id: "269"
 old_path: /food/269/lets-talk-about-coffee---what-else
-redirect_from:
+aliases:
  - /food/269/lets-talk-about-coffee---what-else
 category: food
 

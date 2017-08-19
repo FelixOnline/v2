@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:24:48 +0100"
 id: "5530"
 old_path: /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
-redirect_from:
+aliases:
  - /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
 category: music
 

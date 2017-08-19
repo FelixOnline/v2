@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:17:19 +0100"
 id: "4580"
 old_path: /arts/4580/whats-that-in-the-background
-redirect_from:
+aliases:
  - /arts/4580/whats-that-in-the-background
 category: arts
 

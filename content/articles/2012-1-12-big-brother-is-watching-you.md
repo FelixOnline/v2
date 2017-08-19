@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:40:33 +0000"
 id: "1973"
 old_path: /comment/1973/big-brother-is-watching-you
-redirect_from:
+aliases:
  - /comment/1973/big-brother-is-watching-you
 category: comment
 

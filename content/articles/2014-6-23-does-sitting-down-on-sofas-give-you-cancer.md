@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 14:49:05 +0100"
 id: "4713"
 old_path: /science/4713/does-sitting-down-on-sofas-give-you-cancer
-redirect_from:
+aliases:
  - /science/4713/does-sitting-down-on-sofas-give-you-cancer
 category: science
 

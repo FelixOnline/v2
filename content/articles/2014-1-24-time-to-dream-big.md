@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:16:17 +0000"
 id: "4302"
 old_path: /film/4302/time-to-dream-big
-redirect_from:
+aliases:
  - /film/4302/time-to-dream-big
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:38:32 +0000"
 id: "4029"
 old_path: /science/4029/antibody-treatment-for-cancer
-redirect_from:
+aliases:
  - /science/4029/antibody-treatment-for-cancer
 category: science
 

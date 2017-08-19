@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 13:19:38 +0000"
 id: "5448"
 old_path: /arts/5448/man-and-superman-comedy-and-philosophy
-redirect_from:
+aliases:
  - /arts/5448/man-and-superman-comedy-and-philosophy
 category: arts
 

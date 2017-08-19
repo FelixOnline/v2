@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:42:45 +0000"
 id: "3393"
 old_path: /arts/3393/get-your-tats-out
-redirect_from:
+aliases:
  - /arts/3393/get-your-tats-out
 category: arts
 

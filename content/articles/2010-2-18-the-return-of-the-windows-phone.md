@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-18 13:38:31 +0000"
 id: "90"
 old_path: /tech/90/the-return-of-the-windows-phone
-redirect_from:
+aliases:
  - /tech/90/the-return-of-the-windows-phone
 category: tech
 

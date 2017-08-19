@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 08:31:46 +0000"
 id: "1113"
 old_path: /arts/1113/amateur-serpents-and-super-amorists
-redirect_from:
+aliases:
  - /arts/1113/amateur-serpents-and-super-amorists
 category: arts
 

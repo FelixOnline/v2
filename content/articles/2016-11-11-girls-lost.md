@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 18:05:53 +0000"
 id: "6439"
 old_path: /film/6439/girls-lost
-redirect_from:
+aliases:
  - /film/6439/girls-lost
 category: film
 

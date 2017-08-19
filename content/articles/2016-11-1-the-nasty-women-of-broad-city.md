@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-01 00:02:00 +0000"
 id: "6375"
 old_path: /tv/6375/the-nasty-women-of-broad-city
-redirect_from:
+aliases:
  - /tv/6375/the-nasty-women-of-broad-city
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-05 10:22:51 +0000"
 id: "4333"
 old_path: /tech/4333/tired-of-all-those-wires
-redirect_from:
+aliases:
  - /tech/4333/tired-of-all-those-wires
 category: tech
 

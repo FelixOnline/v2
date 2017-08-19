@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:27:22 +0000"
 id: "669"
 old_path: /politics/669/the-world-beyond-college-walls
-redirect_from:
+aliases:
  - /politics/669/the-world-beyond-college-walls
 category: politics
 

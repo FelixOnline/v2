@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-25 01:54:20 +0000"
 id: "3188"
 old_path: /science/3188/quadruple-dna-go-home-dna-youre-drunk
-redirect_from:
+aliases:
  - /science/3188/quadruple-dna-go-home-dna-youre-drunk
 category: science
 

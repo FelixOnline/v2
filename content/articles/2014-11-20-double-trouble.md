@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:41:01 +0000"
 id: "4918"
 old_path: /sport/4918/double-trouble
-redirect_from:
+aliases:
  - /sport/4918/double-trouble
 category: sport
 

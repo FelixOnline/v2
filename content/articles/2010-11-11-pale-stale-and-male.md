@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:35:50 +0000"
 id: "363"
 old_path: /comment/363/pale-stale-and-male
-redirect_from:
+aliases:
  - /comment/363/pale-stale-and-male
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:05:07 +0000"
 id: "4795"
 old_path: /food/4795/red-in-my-ledger
-redirect_from:
+aliases:
  - /food/4795/red-in-my-ledger
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 14:36:38 +0000"
 id: "1125"
 old_path: /music/1125/light-asylum--corsica-studios
-redirect_from:
+aliases:
  - /music/1125/light-asylum--corsica-studios
 category: music
 

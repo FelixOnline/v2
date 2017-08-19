@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:16:41 +0000"
 id: "4315"
 old_path: /science/4315/shine-bright-like-a-vagina
-redirect_from:
+aliases:
  - /science/4315/shine-bright-like-a-vagina
 category: science
 

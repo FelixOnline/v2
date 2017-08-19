@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:52:27 +0100"
 id: "1199"
 old_path: /film/1199/classic-cinema-on-the-waterfront
-redirect_from:
+aliases:
  - /film/1199/classic-cinema-on-the-waterfront
 category: film
 

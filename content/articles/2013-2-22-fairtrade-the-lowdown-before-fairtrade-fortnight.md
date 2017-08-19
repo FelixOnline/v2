@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:40:20 +0000"
 id: "3375"
 old_path: /news/3375/fairtrade-the-lowdown-before-fairtrade-fortnight
-redirect_from:
+aliases:
  - /news/3375/fairtrade-the-lowdown-before-fairtrade-fortnight
 category: news
 

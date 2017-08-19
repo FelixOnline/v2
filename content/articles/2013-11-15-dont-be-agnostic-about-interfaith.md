@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:26:21 +0000"
 id: "4068"
 old_path: /comment/4068/dont-be-agnostic-about-interfaith
-redirect_from:
+aliases:
  - /comment/4068/dont-be-agnostic-about-interfaith
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 22:40:23 +0100"
 id: "1617"
 old_path: /biz/1617/blackberrys-outage-and-its-aftermath
-redirect_from:
+aliases:
  - /biz/1617/blackberrys-outage-and-its-aftermath
 category: business
 

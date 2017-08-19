@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:06:55 +0000"
 id: "4867"
 old_path: /news/4867/anger-over-odeon-cinema-demolition
-redirect_from:
+aliases:
  - /news/4867/anger-over-odeon-cinema-demolition
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:24:47 +0000"
 id: "625"
 old_path: /music/625/attics--basements
-redirect_from:
+aliases:
  - /music/625/attics--basements
 category: music
 

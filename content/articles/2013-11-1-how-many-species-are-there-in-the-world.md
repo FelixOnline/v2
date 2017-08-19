@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:34:32 +0000"
 id: "3972"
 old_path: /science/3972/how-many-species-are-there-in-the-world
-redirect_from:
+aliases:
  - /science/3972/how-many-species-are-there-in-the-world
 category: science
 

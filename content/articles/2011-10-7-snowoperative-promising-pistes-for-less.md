@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 01:06:43 +0100"
 id: "1472"
 old_path: /sport/1472/snowoperative-promising-pistes-for-less
-redirect_from:
+aliases:
  - /sport/1472/snowoperative-promising-pistes-for-less
 category: sport
 

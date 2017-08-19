@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:18:17 +0000"
 id: "1831"
 old_path: /news/1831/the-history-of-legalisation
-redirect_from:
+aliases:
  - /news/1831/the-history-of-legalisation
 category: news
 

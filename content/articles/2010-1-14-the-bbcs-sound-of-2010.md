@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 14:41:18 +0000"
 id: "28"
 old_path: /music/28/the-bbcs-sound-of-2010
-redirect_from:
+aliases:
  - /music/28/the-bbcs-sound-of-2010
 category: music
 

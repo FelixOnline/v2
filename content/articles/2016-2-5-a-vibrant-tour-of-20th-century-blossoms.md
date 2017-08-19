@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:17:59 +0000"
 id: "5874"
 old_path: /science/5874/a-vibrant-tour-of-20th-century-blossoms
-redirect_from:
+aliases:
  - /science/5874/a-vibrant-tour-of-20th-century-blossoms
 category: science
 

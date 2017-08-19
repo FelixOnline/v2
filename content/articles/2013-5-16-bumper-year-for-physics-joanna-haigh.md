@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:11:30 +0100"
 id: "3579"
 old_path: /science/3579/bumper-year-for-physics-joanna-haigh
-redirect_from:
+aliases:
  - /science/3579/bumper-year-for-physics-joanna-haigh
 category: science
 

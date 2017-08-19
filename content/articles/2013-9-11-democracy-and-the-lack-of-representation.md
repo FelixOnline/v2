@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-11 00:47:14 +0100"
 id: "3758"
 old_path: /comment/3758/democracy-and-the-lack-of-representation
-redirect_from:
+aliases:
  - /comment/3758/democracy-and-the-lack-of-representation
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:26:14 +0000"
 id: "4395"
 old_path: /comment/4395/elections-confession
-redirect_from:
+aliases:
  - /comment/4395/elections-confession
 category: comment
 

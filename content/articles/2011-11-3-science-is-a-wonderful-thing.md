@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:44:31 +0000"
 id: "1654"
 old_path: /science/1654/science-is-a-wonderful-thing
-redirect_from:
+aliases:
  - /science/1654/science-is-a-wonderful-thing
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:38:43 +0000"
 id: "442"
 old_path: /comment/442/dont-be-a-james-blunt-
-redirect_from:
+aliases:
  - /comment/442/dont-be-a-james-blunt-
 category: comment
 

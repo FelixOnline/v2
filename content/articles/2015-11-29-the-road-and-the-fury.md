@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:37:25 +0000"
 id: "5781"
 old_path: /film/5781/the-road-and-the-fury
-redirect_from:
+aliases:
  - /film/5781/the-road-and-the-fury
 category: film
 

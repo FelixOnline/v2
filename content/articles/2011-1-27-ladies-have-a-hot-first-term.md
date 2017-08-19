@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:52:20 +0000"
 id: "702"
 old_path: /sport/702/ladies-have-a-hot-first-term
-redirect_from:
+aliases:
  - /sport/702/ladies-have-a-hot-first-term
 category: sport
 

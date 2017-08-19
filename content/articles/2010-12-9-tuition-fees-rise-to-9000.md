@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 22:11:43 +0000"
 id: "546"
 old_path: /news/546/tuition-fees-rise-to-9000-
-redirect_from:
+aliases:
  - /news/546/tuition-fees-rise-to-9000-
 category: news
 

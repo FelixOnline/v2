@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:43:39 +0100"
 id: "3604"
 old_path: /film/3604/the-billion-dollar-babies
-redirect_from:
+aliases:
  - /film/3604/the-billion-dollar-babies
 category: film
 

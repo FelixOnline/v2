@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:54:10 +0000"
 id: "3043"
 old_path: /biz/3043/getting-in-with-the-crowd
-redirect_from:
+aliases:
  - /biz/3043/getting-in-with-the-crowd
 category: business
 

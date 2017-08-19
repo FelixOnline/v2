@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:44:44 +0000"
 id: "676"
 old_path: /comment/676/goves-in-charge-seriously-
-redirect_from:
+aliases:
  - /comment/676/goves-in-charge-seriously-
 category: comment
 

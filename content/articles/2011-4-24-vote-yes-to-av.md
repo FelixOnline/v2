@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-24 11:26:11 +0100"
 id: "1136"
 old_path: /comment/1136/vote-yes-to-av
-redirect_from:
+aliases:
  - /comment/1136/vote-yes-to-av
 category: comment
 

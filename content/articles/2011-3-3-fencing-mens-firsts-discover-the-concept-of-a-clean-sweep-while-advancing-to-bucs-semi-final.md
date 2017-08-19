@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:27:07 +0000"
 id: "1027"
 old_path: /sport/1027/fencing-mens-firsts-discover-the-concept-of-a-clean-sweep-while-advancing-to-bucs-semi-final
-redirect_from:
+aliases:
  - /sport/1027/fencing-mens-firsts-discover-the-concept-of-a-clean-sweep-while-advancing-to-bucs-semi-final
 category: sport
 

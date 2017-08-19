@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:38:45 +0000"
 id: "822"
 old_path: /news/822/measures-to-reduce-hall-rents-considered
-redirect_from:
+aliases:
  - /news/822/measures-to-reduce-hall-rents-considered
 category: news
 

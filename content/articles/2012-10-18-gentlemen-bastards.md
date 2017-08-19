@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:10:51 +0100"
 id: "2693"
 old_path: /books/2693/gentlemen-bastards
-redirect_from:
+aliases:
  - /books/2693/gentlemen-bastards
 category: books
 

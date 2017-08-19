@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 15:04:35 +0100"
 id: "1549"
 old_path: /music/1549/outlook-festival-returns
-redirect_from:
+aliases:
  - /music/1549/outlook-festival-returns
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:21:14 +0000"
 id: "2232"
 old_path: /film/2232/extremely-long-and-incredibly-clumsy
-redirect_from:
+aliases:
  - /film/2232/extremely-long-and-incredibly-clumsy
 category: film
 

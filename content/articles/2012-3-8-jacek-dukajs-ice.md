@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:40:24 +0000"
 id: "2318"
 old_path: /books/2318/jacek-dukajs-ice
-redirect_from:
+aliases:
  - /books/2318/jacek-dukajs-ice
 category: books
 

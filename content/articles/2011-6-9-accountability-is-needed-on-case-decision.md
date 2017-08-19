@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:47:41 +0100"
 id: "1356"
 old_path: /comment/1356/accountability-is-needed-on-case-decision
-redirect_from:
+aliases:
  - /comment/1356/accountability-is-needed-on-case-decision
 category: comment
 

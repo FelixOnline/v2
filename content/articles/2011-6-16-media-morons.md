@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:28:06 +0100"
 id: "1392"
 old_path: /comment/1392/media-morons-
-redirect_from:
+aliases:
  - /comment/1392/media-morons-
 category: comment
 

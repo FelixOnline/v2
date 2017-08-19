@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:48:04 +0100"
 id: "3938"
 old_path: /film/3938/kates-fast-approaching-labour-day
-redirect_from:
+aliases:
  - /film/3938/kates-fast-approaching-labour-day
 category: film
 

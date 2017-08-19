@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 10:46:10 +0000"
 id: "2127"
 old_path: /arts/2127/go-hajj-or-go-home
-redirect_from:
+aliases:
  - /arts/2127/go-hajj-or-go-home
 category: arts
 

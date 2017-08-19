@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-15 23:45:18 +0000"
 id: "6596"
 old_path: /news/6596/transphobic-incident-in-reynolds-bar
-redirect_from:
+aliases:
  - /news/6596/transphobic-incident-in-reynolds-bar
 category: news
 

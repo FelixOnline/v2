@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:05:24 +0000"
 id: "6729"
 old_path: /music/6729/percolate--mind-fundraiser
-redirect_from:
+aliases:
  - /music/6729/percolate--mind-fundraiser
 category: music
 

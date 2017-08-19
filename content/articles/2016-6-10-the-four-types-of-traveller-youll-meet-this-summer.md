@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:20:16 +0100"
 id: "6251"
 old_path: /comment/6251/the-four-types-of-traveller-youll-meet-this-summer
-redirect_from:
+aliases:
  - /comment/6251/the-four-types-of-traveller-youll-meet-this-summer
 category: comment
 

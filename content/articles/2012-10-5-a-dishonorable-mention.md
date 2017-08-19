@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:38:34 +0100"
 id: "2601"
 old_path: /games/2601/a-dishonorable-mention
-redirect_from:
+aliases:
  - /games/2601/a-dishonorable-mention
 category: games
 

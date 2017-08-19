@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 12:01:47 +0000"
 id: "5918"
 old_path: /cands/5918/picocon-33-origins---20th-february
-redirect_from:
+aliases:
  - /cands/5918/picocon-33-origins---20th-february
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-17 14:21:34 +0100"
 id: "4692"
 old_path: /news/4692/higher-education-policy-decision-deferred-to-campus-wide-referendum
-redirect_from:
+aliases:
  - /news/4692/higher-education-policy-decision-deferred-to-campus-wide-referendum
 category: news
 

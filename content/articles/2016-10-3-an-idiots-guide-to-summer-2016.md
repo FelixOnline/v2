@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 16:53:49 +0100"
 id: "6300"
 old_path: /news/6300/an-idiots-guide-to-summer-2016
-redirect_from:
+aliases:
  - /news/6300/an-idiots-guide-to-summer-2016
 category: news
 

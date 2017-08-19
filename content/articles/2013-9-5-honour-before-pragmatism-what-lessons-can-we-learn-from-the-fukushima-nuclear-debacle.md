@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-05 18:40:37 +0100"
 id: "3757"
 old_path: /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
-redirect_from:
+aliases:
  - /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 04:35:28 +0100"
 id: "1219"
 old_path: /games/1219/retribution-is-a-dish-best-served-cold-with-friends
-redirect_from:
+aliases:
  - /games/1219/retribution-is-a-dish-best-served-cold-with-friends
 category: games
 

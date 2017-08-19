@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-09 11:39:03 +0100"
 id: "3555"
 old_path: /news/3555/business-school-appoint-new-dean
-redirect_from:
+aliases:
  - /news/3555/business-school-appoint-new-dean
 category: news
 

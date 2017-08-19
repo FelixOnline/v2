@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:13:31 +0100"
 id: "3771"
 old_path: /politics/3771/the-summer-in-politics
-redirect_from:
+aliases:
  - /politics/3771/the-summer-in-politics
 category: politics
 

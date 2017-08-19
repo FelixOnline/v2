@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 15:30:56 +0100"
 id: "1281"
 old_path: /tech/1281/the-ferrari-ff-phwoar-wheel-drive
-redirect_from:
+aliases:
  - /tech/1281/the-ferrari-ff-phwoar-wheel-drive
 category: tech
 

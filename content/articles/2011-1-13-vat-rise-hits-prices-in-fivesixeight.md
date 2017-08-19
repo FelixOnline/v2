@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:35:20 +0000"
 id: "592"
 old_path: /news/592/vat-rise-hits-prices-in-fivesixeight
-redirect_from:
+aliases:
  - /news/592/vat-rise-hits-prices-in-fivesixeight
 category: news
 

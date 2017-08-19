@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 14:43:10 +0100"
 id: "3566"
 old_path: /music/3566/dentistry-make-an-appointment-soon
-redirect_from:
+aliases:
  - /music/3566/dentistry-make-an-appointment-soon
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:53:54 +0100"
 id: "2605"
 old_path: /tech/2605/add-me-on-myspace
-redirect_from:
+aliases:
  - /tech/2605/add-me-on-myspace
 category: tech
 

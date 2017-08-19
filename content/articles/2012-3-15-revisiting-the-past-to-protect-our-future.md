@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:07:26 +0000"
 id: "2370"
 old_path: /news/2370/revisiting-the-past-to-protect-our-future
-redirect_from:
+aliases:
  - /news/2370/revisiting-the-past-to-protect-our-future
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-24 11:29:03 +0100"
 id: "1137"
 old_path: /comment/1137/reject-the-alternative-vote-av-system
-redirect_from:
+aliases:
  - /comment/1137/reject-the-alternative-vote-av-system
 category: comment
 

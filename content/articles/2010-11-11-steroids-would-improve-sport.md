@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:37:28 +0000"
 id: "365"
 old_path: /comment/365/steroids-would-improve-sport
-redirect_from:
+aliases:
  - /comment/365/steroids-would-improve-sport
 category: comment
 

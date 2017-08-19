@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 22:42:39 +0000"
 id: "4846"
 old_path: /features/4846/everyone-loves-a-bit-of-d-pw
-redirect_from:
+aliases:
  - /features/4846/everyone-loves-a-bit-of-d-pw
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-17 14:20:33 +0000"
 id: "561"
 old_path: /comment/561/we-werent-allowed-to-protest-freely
-redirect_from:
+aliases:
  - /comment/561/we-werent-allowed-to-protest-freely
 category: comment
 

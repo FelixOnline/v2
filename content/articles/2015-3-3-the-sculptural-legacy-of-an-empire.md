@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:13:07 +0000"
 id: "5321"
 old_path: /arts/5321/the-sculptural-legacy-of-an-empire
-redirect_from:
+aliases:
  - /arts/5321/the-sculptural-legacy-of-an-empire
 category: arts
 

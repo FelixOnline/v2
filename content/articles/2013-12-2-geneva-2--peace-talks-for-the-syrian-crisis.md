@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:56:48 +0000"
 id: "4159"
 old_path: /politics/4159/geneva-2--peace-talks-for-the-syrian-crisis
-redirect_from:
+aliases:
  - /politics/4159/geneva-2--peace-talks-for-the-syrian-crisis
 category: politics
 

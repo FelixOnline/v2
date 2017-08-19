@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 16:51:14 +0000"
 id: "6554"
 old_path: /sport/6554/octopush-show-diving-isnt-always-bad-in-sport
-redirect_from:
+aliases:
  - /sport/6554/octopush-show-diving-isnt-always-bad-in-sport
 category: sport
 

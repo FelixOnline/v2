@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:04:29 +0000"
 id: "2808"
 old_path: /film/2808/argo-f-yourself
-redirect_from:
+aliases:
  - /film/2808/argo-f-yourself
 category: film
 

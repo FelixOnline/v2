@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 09:46:29 +0100"
 id: "1635"
 old_path: /arts/1635/lets-do-the-vime-warp-again
-redirect_from:
+aliases:
  - /arts/1635/lets-do-the-vime-warp-again
 category: arts
 

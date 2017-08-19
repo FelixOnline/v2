@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:46:14 +0100"
 id: "1574"
 old_path: /biz/1574/the-economy-in-history
-redirect_from:
+aliases:
  - /biz/1574/the-economy-in-history
 category: business
 

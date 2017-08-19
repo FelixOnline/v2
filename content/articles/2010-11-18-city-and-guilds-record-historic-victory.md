@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:10:08 +0000"
 id: "402"
 old_path: /sport/402/city-and-guilds-record-historic-victory
-redirect_from:
+aliases:
  - /sport/402/city-and-guilds-record-historic-victory
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:05:56 +0000"
 id: "3030"
 old_path: /comment/3030/merry-christmas
-redirect_from:
+aliases:
  - /comment/3030/merry-christmas
 category: comment
 

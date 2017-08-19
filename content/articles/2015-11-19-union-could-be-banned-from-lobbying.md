@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:25:33 +0000"
 id: "5742"
 old_path: /news/5742/union-could-be-banned-from-lobbying-
-redirect_from:
+aliases:
  - /news/5742/union-could-be-banned-from-lobbying-
 category: news
 

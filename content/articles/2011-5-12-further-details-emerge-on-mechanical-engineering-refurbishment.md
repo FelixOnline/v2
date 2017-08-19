@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 15:42:13 +0100"
 id: "1183"
 old_path: /news/1183/further-details-emerge-on-mechanical-engineering-refurbishment
-redirect_from:
+aliases:
  - /news/1183/further-details-emerge-on-mechanical-engineering-refurbishment
 category: news
 

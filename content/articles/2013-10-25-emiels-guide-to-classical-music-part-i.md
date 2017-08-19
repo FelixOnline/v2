@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:40:43 +0100"
 id: "3934"
 old_path: /music/3934/emiels-guide-to-classical-music-part-i
-redirect_from:
+aliases:
  - /music/3934/emiels-guide-to-classical-music-part-i
 category: music
 

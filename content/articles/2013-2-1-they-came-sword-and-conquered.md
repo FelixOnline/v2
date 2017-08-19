@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:31:18 +0000"
 id: "3230"
 old_path: /sport/3230/they-came-sword-and-conquered
-redirect_from:
+aliases:
  - /sport/3230/they-came-sword-and-conquered
 category: sport
 

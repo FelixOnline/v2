@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 12:27:03 +0000"
 id: "4144"
 old_path: /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
-redirect_from:
+aliases:
  - /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
 category: news
 

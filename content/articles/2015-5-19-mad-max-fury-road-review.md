@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-19 21:22:27 +0100"
 id: "5543"
 old_path: /film/5543/mad-max-fury-road-review-
-redirect_from:
+aliases:
  - /film/5543/mad-max-fury-road-review-
 category: film
 

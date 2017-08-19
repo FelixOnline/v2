@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:35:53 +0100"
 id: "3911"
 old_path: /features/3911/imperial-college-chess-congress-2013
-redirect_from:
+aliases:
  - /features/3911/imperial-college-chess-congress-2013
 category: features
 

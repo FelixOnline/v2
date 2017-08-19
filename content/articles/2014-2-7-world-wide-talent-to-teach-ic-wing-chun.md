@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 04:53:18 +0000"
 id: "4350"
 old_path: /sport/4350/world-wide-talent-to-teach-ic-wing-chun
-redirect_from:
+aliases:
  - /sport/4350/world-wide-talent-to-teach-ic-wing-chun
 category: sport
 

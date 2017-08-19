@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:08:10 +0000"
 id: "5986"
 old_path: /cands/5986/dramsoc-presents-birdland
-redirect_from:
+aliases:
  - /cands/5986/dramsoc-presents-birdland
 category: clubs-and-socs
 

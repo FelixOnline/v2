@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:13:29 +0000"
 id: "985"
 old_path: /tv/985/best-in-class-comedy-
-redirect_from:
+aliases:
  - /tv/985/best-in-class-comedy-
 category: tv
 

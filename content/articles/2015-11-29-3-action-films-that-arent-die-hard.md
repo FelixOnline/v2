@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:48:07 +0000"
 id: "5785"
 old_path: /film/5785/3-action-films-that-arent-die-hard
-redirect_from:
+aliases:
  - /film/5785/3-action-films-that-arent-die-hard
 category: film
 

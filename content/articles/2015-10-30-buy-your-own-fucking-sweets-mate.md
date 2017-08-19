@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 12:49:53 +0000"
 id: "5687"
 old_path: /comment/5687/buy-your-own-fucking-sweets-mate
-redirect_from:
+aliases:
  - /comment/5687/buy-your-own-fucking-sweets-mate
 category: comment
 

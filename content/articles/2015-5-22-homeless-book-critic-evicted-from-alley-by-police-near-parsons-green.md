@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-22 11:08:00 +0100"
 id: "5559"
 old_path: /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
-redirect_from:
+aliases:
  - /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
 category: news
 

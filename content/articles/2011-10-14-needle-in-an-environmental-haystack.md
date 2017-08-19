@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:39:31 +0100"
 id: "1540"
 old_path: /comment/1540/needle-in-an-environmental-haystack
-redirect_from:
+aliases:
  - /comment/1540/needle-in-an-environmental-haystack
 category: comment
 

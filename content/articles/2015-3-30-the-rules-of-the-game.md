@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-30 14:36:07 +0100"
 id: "5459"
 old_path: /arts/5459/the-rules-of-the-game
-redirect_from:
+aliases:
  - /arts/5459/the-rules-of-the-game
 category: arts
 

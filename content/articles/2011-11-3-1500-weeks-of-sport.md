@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 22:12:22 +0000"
 id: "1700"
 old_path: /sport/1700/1500-weeks-of-sport
-redirect_from:
+aliases:
  - /sport/1700/1500-weeks-of-sport
 category: sport
 

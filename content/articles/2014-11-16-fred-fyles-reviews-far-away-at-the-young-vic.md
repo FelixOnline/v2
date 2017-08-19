@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-16 00:10:34 +0000"
 id: "4899"
 old_path: /arts/4899/fred-fyles-reviews-far-away-at-the-young-vic
-redirect_from:
+aliases:
  - /arts/4899/fred-fyles-reviews-far-away-at-the-young-vic
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:29:15 +0100"
 id: "1295"
 old_path: /science/1295/partners-protected-by-early-hiv-treatment
-redirect_from:
+aliases:
  - /science/1295/partners-protected-by-early-hiv-treatment
 category: science
 

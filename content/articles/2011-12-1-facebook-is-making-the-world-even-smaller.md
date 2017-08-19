@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:49:05 +0000"
 id: "1862"
 old_path: /science/1862/facebook-is-making-the-world-even-smaller
-redirect_from:
+aliases:
  - /science/1862/facebook-is-making-the-world-even-smaller
 category: science
 

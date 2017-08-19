@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:33:38 +0000"
 id: "5401"
 old_path: /news/5401/budget-2015-government-announces-plans-for-25000-loans-for-phd-students
-redirect_from:
+aliases:
  - /news/5401/budget-2015-government-announces-plans-for-25000-loans-for-phd-students
 category: news
 

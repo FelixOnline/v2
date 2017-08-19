@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:34:01 +0000"
 id: "4804"
 old_path: /arts/4804/when-art-and-fashion-collide
-redirect_from:
+aliases:
  - /arts/4804/when-art-and-fashion-collide
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:49:25 +0000"
 id: "5837"
 old_path: /news/5837/rebranded-union-election-nominations-open-today
-redirect_from:
+aliases:
  - /news/5837/rebranded-union-election-nominations-open-today
 category: news
 

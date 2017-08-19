@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-11 15:27:39 +0000"
 id: "5812"
 old_path: /news/5812/ibm-in-sexism-row-over-hackahairdryer
-redirect_from:
+aliases:
  - /news/5812/ibm-in-sexism-row-over-hackahairdryer
 category: news
 

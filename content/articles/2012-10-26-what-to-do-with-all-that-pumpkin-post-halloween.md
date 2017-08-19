@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:51:20 +0100"
 id: "2758"
 old_path: /food/2758/what-to-do-with-all-that-pumpkin-post-halloween
-redirect_from:
+aliases:
  - /food/2758/what-to-do-with-all-that-pumpkin-post-halloween
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:00:36 +0000"
 id: "2907"
 old_path: /food/2907/whats-in-my-lunchbox-01
-redirect_from:
+aliases:
  - /food/2907/whats-in-my-lunchbox-01
 category: food
 

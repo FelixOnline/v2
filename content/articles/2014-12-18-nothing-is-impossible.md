@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:10:40 +0000"
 id: "5070"
 old_path: /arts/5070/nothing-is-impossible
-redirect_from:
+aliases:
  - /arts/5070/nothing-is-impossible
 category: arts
 

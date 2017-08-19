@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:38:18 +0000"
 id: "2390"
 old_path: /news/2390/imperial-take-on-bp-grand-final
-redirect_from:
+aliases:
  - /news/2390/imperial-take-on-bp-grand-final
 category: news
 

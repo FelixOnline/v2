@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:35:39 +0100"
 id: "4553"
 old_path: /fashion/4553/the-cutest-spring-2014-trends
-redirect_from:
+aliases:
  - /fashion/4553/the-cutest-spring-2014-trends
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 02:38:45 +0100"
 id: "3906"
 old_path: /features/3906/tessas-top-ten-tips-for-graduation
-redirect_from:
+aliases:
  - /features/3906/tessas-top-ten-tips-for-graduation
 category: features
 

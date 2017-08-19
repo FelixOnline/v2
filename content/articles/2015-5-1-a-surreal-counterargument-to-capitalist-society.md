@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-01 10:13:06 +0100"
 id: "5484"
 old_path: /arts/5484/a-surreal-counterargument-to-capitalist-society
-redirect_from:
+aliases:
  - /arts/5484/a-surreal-counterargument-to-capitalist-society
 category: arts
 

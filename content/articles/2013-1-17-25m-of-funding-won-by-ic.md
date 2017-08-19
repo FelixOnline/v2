@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:45:55 +0000"
 id: "3119"
 old_path: /news/3119/25m-of-funding-won-by-ic
-redirect_from:
+aliases:
  - /news/3119/25m-of-funding-won-by-ic
 category: news
 

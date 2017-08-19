@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:24:41 +0000"
 id: "1983"
 old_path: /news/1983/permission-granted-for-fisher-hall-development
-redirect_from:
+aliases:
  - /news/1983/permission-granted-for-fisher-hall-development
 category: news
 

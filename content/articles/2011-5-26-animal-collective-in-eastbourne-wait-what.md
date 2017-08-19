@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:52:26 +0100"
 id: "1264"
 old_path: /music/1264/animal-collective-in-eastbourne-wait-what
-redirect_from:
+aliases:
  - /music/1264/animal-collective-in-eastbourne-wait-what
 category: music
 

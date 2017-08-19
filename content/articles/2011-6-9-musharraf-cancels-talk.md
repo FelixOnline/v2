@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:16:39 +0100"
 id: "1349"
 old_path: /news/1349/musharraf-cancels-talk
-redirect_from:
+aliases:
  - /news/1349/musharraf-cancels-talk
 category: news
 

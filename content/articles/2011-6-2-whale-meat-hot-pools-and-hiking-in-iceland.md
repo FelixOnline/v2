@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:15:10 +0100"
 id: "1319"
 old_path: /travel/1319/whale-meat-hot-pools-and-hiking-in-iceland
-redirect_from:
+aliases:
  - /travel/1319/whale-meat-hot-pools-and-hiking-in-iceland
 category: travel
 

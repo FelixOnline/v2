@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:01:00 +0000"
 id: "6659"
 old_path: /comment/6659/im-sorry-i-made-a-mistake
-redirect_from:
+aliases:
  - /comment/6659/im-sorry-i-made-a-mistake
 category: comment
 

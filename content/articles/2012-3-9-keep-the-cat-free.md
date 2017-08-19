@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-09 13:06:03 +0000"
 id: "2338"
 old_path: /comment/2338/keep-the-cat-free
-redirect_from:
+aliases:
  - /comment/2338/keep-the-cat-free
 category: comment
 

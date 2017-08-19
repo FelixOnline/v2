@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 23:22:05 +0100"
 id: "5558"
 old_path: /film/5558/avengers-subtitles-too-literal
-redirect_from:
+aliases:
  - /film/5558/avengers-subtitles-too-literal
 category: film
 

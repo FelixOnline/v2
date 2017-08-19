@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:28:30 +0000"
 id: "1821"
 old_path: /politics/1821/from-the-united-states-with-love
-redirect_from:
+aliases:
  - /politics/1821/from-the-united-states-with-love
 category: politics
 

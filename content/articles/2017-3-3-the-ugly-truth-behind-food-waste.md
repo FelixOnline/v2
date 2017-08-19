@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:57:58 +0000"
 id: "6853"
 old_path: /food/6853/the-ugly-truth-behind-food-waste
-redirect_from:
+aliases:
  - /food/6853/the-ugly-truth-behind-food-waste
 category: food
 

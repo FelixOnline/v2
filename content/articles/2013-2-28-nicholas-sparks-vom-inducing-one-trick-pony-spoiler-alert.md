@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:25:11 +0000"
 id: "3386"
 old_path: /film/3386/nicholas-sparks-vom-inducing-one-trick-pony-spoiler-alert
-redirect_from:
+aliases:
  - /film/3386/nicholas-sparks-vom-inducing-one-trick-pony-spoiler-alert
 category: film
 

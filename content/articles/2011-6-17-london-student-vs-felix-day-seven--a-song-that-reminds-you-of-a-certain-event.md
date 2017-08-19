@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-17 12:11:38 +0100"
 id: "1404"
 old_path: /music/1404/london-student-vs-felix-day-seven--a-song-that-reminds-you-of-a-certain-event
-redirect_from:
+aliases:
  - /music/1404/london-student-vs-felix-day-seven--a-song-that-reminds-you-of-a-certain-event
 category: music
 

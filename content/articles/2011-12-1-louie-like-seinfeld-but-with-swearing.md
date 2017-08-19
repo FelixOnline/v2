@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:29:58 +0000"
 id: "1871"
 old_path: /tv/1871/louie-like-seinfeld-but-with-swearing
-redirect_from:
+aliases:
  - /tv/1871/louie-like-seinfeld-but-with-swearing
 category: tv
 

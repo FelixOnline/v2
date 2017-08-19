@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:39:06 +0000"
 id: "3067"
 old_path: /music/3067/get-katatonic-with-dead-end-kings
-redirect_from:
+aliases:
  - /music/3067/get-katatonic-with-dead-end-kings
 category: music
 

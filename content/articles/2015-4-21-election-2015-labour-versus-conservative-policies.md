@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-21 13:49:49 +0100"
 id: "5467"
 old_path: /politics/5467/election-2015-labour-versus-conservative-policies
-redirect_from:
+aliases:
  - /politics/5467/election-2015-labour-versus-conservative-policies
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:47:07 +0000"
 id: "5324"
 old_path: /cands/5324/amersham-overrun-by-pumpkins
-redirect_from:
+aliases:
  - /cands/5324/amersham-overrun-by-pumpkins
 category: clubs-and-socs
 

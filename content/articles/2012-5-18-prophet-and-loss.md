@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 15:49:56 +0100"
 id: "2472"
 old_path: /arts/2472/prophet-and-loss
-redirect_from:
+aliases:
  - /arts/2472/prophet-and-loss
 category: arts
 

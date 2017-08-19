@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:39:07 +0000"
 id: "4780"
 old_path: /sport/4780/is-formula-1-on-a-track-to-disaster-and-uncompetitiveness
-redirect_from:
+aliases:
  - /sport/4780/is-formula-1-on-a-track-to-disaster-and-uncompetitiveness
 category: sport
 

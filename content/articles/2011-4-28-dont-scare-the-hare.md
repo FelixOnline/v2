@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-04-28 13:43:55 +0100"
 id: "1145"
 old_path: /tv/1145/dont-scare-the-hare
-redirect_from:
+aliases:
  - /tv/1145/dont-scare-the-hare
 category: tv
 

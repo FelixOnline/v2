@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:08:54 +0000"
 id: "710"
 old_path: /food/710/ski-food
-redirect_from:
+aliases:
  - /food/710/ski-food
 category: food
 

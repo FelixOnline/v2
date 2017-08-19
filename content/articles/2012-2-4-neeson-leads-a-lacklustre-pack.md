@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-04 17:28:41 +0000"
 id: "2136"
 old_path: /film/2136/-neeson-leads-a-lacklustre-pack
-redirect_from:
+aliases:
  - /film/2136/-neeson-leads-a-lacklustre-pack
 category: film
 

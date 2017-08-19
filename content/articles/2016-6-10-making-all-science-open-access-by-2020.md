@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:24:30 +0100"
 id: "6254"
 old_path: /science/6254/making-all-science-open-access-by-2020
-redirect_from:
+aliases:
  - /science/6254/making-all-science-open-access-by-2020
 category: science
 

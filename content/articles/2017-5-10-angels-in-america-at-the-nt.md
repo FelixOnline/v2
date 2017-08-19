@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-10 18:57:52 +0100"
 id: "6929"
 old_path: /arts/6929/angels-in-america-at-the-nt
-redirect_from:
+aliases:
  - /arts/6929/angels-in-america-at-the-nt
 category: arts
 

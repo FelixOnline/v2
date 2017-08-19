@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:37:02 +0000"
 id: "950"
 old_path: /sport/950/did-the-best-team-really-win
-redirect_from:
+aliases:
  - /sport/950/did-the-best-team-really-win
 category: sport
 

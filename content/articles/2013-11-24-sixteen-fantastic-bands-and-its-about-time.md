@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:21:26 +0000"
 id: "4117"
 old_path: /music/4117/sixteen-fantastic-bands-and-its-about-time
-redirect_from:
+aliases:
  - /music/4117/sixteen-fantastic-bands-and-its-about-time
 category: music
 

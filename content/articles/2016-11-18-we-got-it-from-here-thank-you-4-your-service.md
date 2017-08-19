@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:39:58 +0000"
 id: "6482"
 old_path: /music/6482/we-got-it-from-here-thank-you-4-your-service
-redirect_from:
+aliases:
  - /music/6482/we-got-it-from-here-thank-you-4-your-service
 category: music
 

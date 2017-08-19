@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 18:39:48 +0000"
 id: "103"
 old_path: /sport/103/imperial-college-football-and-kick-4-life-join-forces
-redirect_from:
+aliases:
  - /sport/103/imperial-college-football-and-kick-4-life-join-forces
 category: sport
 

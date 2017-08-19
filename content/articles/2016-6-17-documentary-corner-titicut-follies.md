@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:34:57 +0100"
 id: "6286"
 old_path: /film/6286/documentary-corner-titicut-follies
-redirect_from:
+aliases:
  - /film/6286/documentary-corner-titicut-follies
 category: film
 

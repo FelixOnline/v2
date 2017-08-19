@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 19:04:58 +0000"
 id: "109"
 old_path: /sport/109/boat-club-shore-up-106-bucs-points-in-one-weekend
-redirect_from:
+aliases:
  - /sport/109/boat-club-shore-up-106-bucs-points-in-one-weekend
 category: sport
 

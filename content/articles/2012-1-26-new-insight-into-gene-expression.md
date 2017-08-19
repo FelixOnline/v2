@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:27:38 +0000"
 id: "2063"
 old_path: /science/2063/new-insight-into-gene-expression
-redirect_from:
+aliases:
  - /science/2063/new-insight-into-gene-expression
 category: science
 

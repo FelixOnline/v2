@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 16:27:05 +0000"
 id: "6805"
 old_path: /sport/6805/ic-dance-slays-at-southern-universities
-redirect_from:
+aliases:
  - /sport/6805/ic-dance-slays-at-southern-universities
 category: sport
 

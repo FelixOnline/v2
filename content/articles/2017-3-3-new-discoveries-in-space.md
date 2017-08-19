@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:12:43 +0000"
 id: "6842"
 old_path: /science/6842/new-discoveries-in-space
-redirect_from:
+aliases:
  - /science/6842/new-discoveries-in-space
 category: science
 

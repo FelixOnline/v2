@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:12:36 +0100"
 id: "4736"
 old_path: /news/4736/heston-opens-as-the-new-home-of-sport
-redirect_from:
+aliases:
  - /news/4736/heston-opens-as-the-new-home-of-sport
 category: news
 

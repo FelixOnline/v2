@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:38:19 +0000"
 id: "6055"
 old_path: /comment/6055/my-fight-for-dpcs
-redirect_from:
+aliases:
  - /comment/6055/my-fight-for-dpcs
 category: comment
 

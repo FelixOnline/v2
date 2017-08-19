@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:33:03 +0000"
 id: "6820"
 old_path: /arts/6820/macbeth--breathing-new-life-into-shakespeare
-redirect_from:
+aliases:
  - /arts/6820/macbeth--breathing-new-life-into-shakespeare
 category: arts
 

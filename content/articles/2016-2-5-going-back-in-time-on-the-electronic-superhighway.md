@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:14:45 +0000"
 id: "5873"
 old_path: /arts/5873/going-back-in-time-on-the-electronic-superhighway
-redirect_from:
+aliases:
  - /arts/5873/going-back-in-time-on-the-electronic-superhighway
 category: arts
 

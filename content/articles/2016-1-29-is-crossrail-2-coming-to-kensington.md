@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:44:56 +0000"
 id: "5834"
 old_path: /news/5834/is-crossrail-2-coming-to-kensington
-redirect_from:
+aliases:
  - /news/5834/is-crossrail-2-coming-to-kensington
 category: news
 

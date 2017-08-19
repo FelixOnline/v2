@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:50:28 +0000"
 id: "4243"
 old_path: /books/4243/a-story-of-loss-and-beauty
-redirect_from:
+aliases:
  - /books/4243/a-story-of-loss-and-beauty
 category: books
 

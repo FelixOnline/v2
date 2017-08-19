@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:03:42 +0000"
 id: "2024"
 old_path: /news/2024/have-you-heard-about-raincatcher-imperial
-redirect_from:
+aliases:
  - /news/2024/have-you-heard-about-raincatcher-imperial
 category: news
 

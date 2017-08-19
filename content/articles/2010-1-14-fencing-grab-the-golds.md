@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 19:24:16 +0000"
 id: "37"
 old_path: /sport/37/fencing-grab-the-golds
-redirect_from:
+aliases:
  - /sport/37/fencing-grab-the-golds
 category: sport
 

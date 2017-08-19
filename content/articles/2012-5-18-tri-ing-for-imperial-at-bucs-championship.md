@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 17:03:46 +0100"
 id: "2479"
 old_path: /sport/2479/tri-ing-for-imperial-at-bucs-championship
-redirect_from:
+aliases:
  - /sport/2479/tri-ing-for-imperial-at-bucs-championship
 category: sport
 

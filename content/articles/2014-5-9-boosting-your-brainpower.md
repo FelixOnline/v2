@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:05:50 +0100"
 id: "4572"
 old_path: /science/4572/boosting-your-brainpower
-redirect_from:
+aliases:
  - /science/4572/boosting-your-brainpower
 category: science
 

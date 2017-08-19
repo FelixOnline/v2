@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:28:21 +0100"
 id: "1590"
 old_path: /arts/1590/a-saturday-afternoon-in-the-park
-redirect_from:
+aliases:
  - /arts/1590/a-saturday-afternoon-in-the-park
 category: arts
 

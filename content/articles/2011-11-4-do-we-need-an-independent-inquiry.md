@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-04 12:06:52 +0000"
 id: "1703"
 old_path: /comment/1703/do-we-need-an-independent-inquiry
-redirect_from:
+aliases:
  - /comment/1703/do-we-need-an-independent-inquiry
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:30:06 +0000"
 id: "748"
 old_path: /biz/748/the-brand-spanking-new-bloomberg-assessment-test
-redirect_from:
+aliases:
  - /biz/748/the-brand-spanking-new-bloomberg-assessment-test
 category: business
 

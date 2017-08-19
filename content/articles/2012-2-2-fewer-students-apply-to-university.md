@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:58:42 +0000"
 id: "2117"
 old_path: /news/2117/fewer-students-apply-to-university
-redirect_from:
+aliases:
  - /news/2117/fewer-students-apply-to-university
 category: news
 

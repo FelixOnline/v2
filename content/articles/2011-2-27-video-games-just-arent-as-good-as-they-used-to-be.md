@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:36:02 +0000"
 id: "901"
 old_path: /comment/901/video-games-just-arent-as-good-as-they-used-to-be
-redirect_from:
+aliases:
  - /comment/901/video-games-just-arent-as-good-as-they-used-to-be
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 14:29:49 +0000"
 id: "3070"
 old_path: /music/3070/ams-albums-of-the-year
-redirect_from:
+aliases:
  - /music/3070/ams-albums-of-the-year
 category: music
 

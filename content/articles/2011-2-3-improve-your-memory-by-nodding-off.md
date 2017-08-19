@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:05:58 +0000"
 id: "735"
 old_path: /science/735/improve-your-memory-by-nodding-off
-redirect_from:
+aliases:
  - /science/735/improve-your-memory-by-nodding-off
 category: science
 

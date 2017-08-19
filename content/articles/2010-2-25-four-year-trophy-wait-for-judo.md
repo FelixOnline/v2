@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-25 18:55:55 +0000"
 id: "107"
 old_path: /sport/107/four-year-trophy-wait-for-judo
-redirect_from:
+aliases:
  - /sport/107/four-year-trophy-wait-for-judo
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:42:58 +0000"
 id: "4791"
 old_path: /games/4791/twitch-plays-pokmon-alive-and-kicking
-redirect_from:
+aliases:
  - /games/4791/twitch-plays-pokmon-alive-and-kicking
 category: games
 

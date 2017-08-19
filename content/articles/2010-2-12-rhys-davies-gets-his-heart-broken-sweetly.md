@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 01:58:55 +0000"
 id: "85"
 old_path: /comment/85/rhys-davies-gets-his-heart-broken-sweetly
-redirect_from:
+aliases:
  - /comment/85/rhys-davies-gets-his-heart-broken-sweetly
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 14:27:10 +0000"
 id: "552"
 old_path: /politics/552/immigration-cap-will-hit-international-students-the-hardest-
-redirect_from:
+aliases:
  - /politics/552/immigration-cap-will-hit-international-students-the-hardest-
 category: politics
 

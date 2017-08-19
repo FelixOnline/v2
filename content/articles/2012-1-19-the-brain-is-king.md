@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:10:18 +0000"
 id: "2007"
 old_path: /science/2007/the-brain-is-king
-redirect_from:
+aliases:
  - /science/2007/the-brain-is-king
 category: science
 

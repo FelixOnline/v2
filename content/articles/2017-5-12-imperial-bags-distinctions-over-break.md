@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:16:56 +0100"
 id: "6936"
 old_path: /news/6936/imperial-bags-distinctions-over-break
-redirect_from:
+aliases:
  - /news/6936/imperial-bags-distinctions-over-break
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:59:23 +0000"
 id: "1739"
 old_path: /tv/1739/frozen-planet--a-true-masterpiece
-redirect_from:
+aliases:
  - /tv/1739/frozen-planet--a-true-masterpiece
 category: tv
 

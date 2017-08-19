@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:15:02 +0000"
 id: "1829"
 old_path: /news/1829/council-chairman-calls-on-government-to-reconsider-drug-policy
-redirect_from:
+aliases:
  - /news/1829/council-chairman-calls-on-government-to-reconsider-drug-policy
 category: news
 

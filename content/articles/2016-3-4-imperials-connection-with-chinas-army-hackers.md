@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-04 11:19:21 +0000"
 id: "5993"
 old_path: /news/5993/imperials-connection-with-chinas-army-hackers
-redirect_from:
+aliases:
  - /news/5993/imperials-connection-with-chinas-army-hackers
 category: news
 

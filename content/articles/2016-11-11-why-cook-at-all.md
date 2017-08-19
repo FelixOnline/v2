@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 17:06:30 +0000"
 id: "6434"
 old_path: /food/6434/why-cook-at-all-
-redirect_from:
+aliases:
  - /food/6434/why-cook-at-all-
 category: food
 

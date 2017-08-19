@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-21 12:51:36 +0100"
 id: "6347"
 old_path: /comment/6347/stop-silencing-those-who-speak-out-about-sexual-assault
-redirect_from:
+aliases:
  - /comment/6347/stop-silencing-those-who-speak-out-about-sexual-assault
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:34:03 +0000"
 id: "5000"
 old_path: /games/5000/dance-dance-revolution-kung-fu-style
-redirect_from:
+aliases:
  - /games/5000/dance-dance-revolution-kung-fu-style
 category: games
 

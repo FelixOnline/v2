@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:17:27 +0000"
 id: "1886"
 old_path: /sport/1886/captains-interviews-dodgeball-club-captain
-redirect_from:
+aliases:
  - /sport/1886/captains-interviews-dodgeball-club-captain
 category: sport
 

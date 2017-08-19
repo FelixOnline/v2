@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-05-01 19:12:48 +0100"
 id: "135"
 old_path: /news/135/taking-your-pick-general-election-2010
-redirect_from:
+aliases:
  - /news/135/taking-your-pick-general-election-2010
 category: news
 

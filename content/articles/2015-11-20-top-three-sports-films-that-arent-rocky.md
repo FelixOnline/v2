@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 14:01:48 +0000"
 id: "5766"
 old_path: /film/5766/top-three-sports-films-that-arent-rocky
-redirect_from:
+aliases:
  - /film/5766/top-three-sports-films-that-arent-rocky
 category: film
 

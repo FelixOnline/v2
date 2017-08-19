@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:53:46 +0100"
 id: "2657"
 old_path: /politics/2657/short-stories-of-the-week-
-redirect_from:
+aliases:
  - /politics/2657/short-stories-of-the-week-
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-30 01:25:58 +0100"
 id: "6081"
 old_path: /arts/6081/earnestly-unpredictable-and-stylistically-important
-redirect_from:
+aliases:
  - /arts/6081/earnestly-unpredictable-and-stylistically-important
 category: arts
 

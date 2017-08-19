@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:24:07 +0000"
 id: "6495"
 old_path: /news/6495/what-went-down-at-the-education-demo
-redirect_from:
+aliases:
  - /news/6495/what-went-down-at-the-education-demo
 category: news
 

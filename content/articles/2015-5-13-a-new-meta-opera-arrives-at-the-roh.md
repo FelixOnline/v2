@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-13 14:19:43 +0100"
 id: "5515"
 old_path: /arts/5515/a-new-meta-opera-arrives-at-the-roh
-redirect_from:
+aliases:
  - /arts/5515/a-new-meta-opera-arrives-at-the-roh
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:27:45 +0000"
 id: "5902"
 old_path: /science/5902/iron-supplement-safety-questioned
-redirect_from:
+aliases:
  - /science/5902/iron-supplement-safety-questioned
 category: science
 

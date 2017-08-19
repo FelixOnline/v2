@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:24:08 +0000"
 id: "4937"
 old_path: /arts/4937/a-very-different-type-of-selfie
-redirect_from:
+aliases:
  - /arts/4937/a-very-different-type-of-selfie
 category: arts
 

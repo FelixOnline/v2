@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 13:36:31 +0000"
 id: "6359"
 old_path: /news/6359/ic-girls-can---only-do-girl-things
-redirect_from:
+aliases:
  - /news/6359/ic-girls-can---only-do-girl-things
 category: news
 

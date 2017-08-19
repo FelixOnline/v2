@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 19:21:05 +0100"
 id: "1336"
 old_path: /phoenix/1336/strippers
-redirect_from:
+aliases:
  - /phoenix/1336/strippers
 category: phoenix
 

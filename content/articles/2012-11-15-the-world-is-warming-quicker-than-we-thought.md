@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:01:39 +0000"
 id: "2888"
 old_path: /science/2888/the-world-is-warming-quicker-than-we-thought
-redirect_from:
+aliases:
  - /science/2888/the-world-is-warming-quicker-than-we-thought
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:08:22 +0000"
 id: "4796"
 old_path: /food/4796/whats-up-with-all-these-diets
-redirect_from:
+aliases:
  - /food/4796/whats-up-with-all-these-diets
 category: food
 

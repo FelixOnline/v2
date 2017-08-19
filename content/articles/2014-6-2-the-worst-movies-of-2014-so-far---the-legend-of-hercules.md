@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:56:58 +0100"
 id: "4644"
 old_path: /film/4644/the-worst-movies-of-2014-so-far---the-legend-of-hercules
-redirect_from:
+aliases:
  - /film/4644/the-worst-movies-of-2014-so-far---the-legend-of-hercules
 category: film
 

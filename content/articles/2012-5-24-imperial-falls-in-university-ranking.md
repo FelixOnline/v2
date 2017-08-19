@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 22:44:38 +0100"
 id: "2482"
 old_path: /news/2482/imperial-falls-in-university-ranking
-redirect_from:
+aliases:
  - /news/2482/imperial-falls-in-university-ranking
 category: news
 

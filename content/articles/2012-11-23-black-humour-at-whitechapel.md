@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:17:47 +0000"
 id: "2967"
 old_path: /arts/2967/black-humour-at-whitechapel
-redirect_from:
+aliases:
  - /arts/2967/black-humour-at-whitechapel
 category: arts
 

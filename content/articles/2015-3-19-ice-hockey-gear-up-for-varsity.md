@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:47:08 +0000"
 id: "5410"
 old_path: /sport/5410/ice-hockey-gear-up-for-varsity
-redirect_from:
+aliases:
  - /sport/5410/ice-hockey-gear-up-for-varsity
 category: sport
 

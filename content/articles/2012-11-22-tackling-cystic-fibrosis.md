@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:26:36 +0000"
 id: "2949"
 old_path: /science/2949/tackling-cystic-fibrosis
-redirect_from:
+aliases:
  - /science/2949/tackling-cystic-fibrosis
 category: science
 

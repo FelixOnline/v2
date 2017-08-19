@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:50:39 +0000"
 id: "727"
 old_path: /news/727/complaint-to-rector-leads-to-radio-shutdown-
-redirect_from:
+aliases:
  - /news/727/complaint-to-rector-leads-to-radio-shutdown-
 category: news
 

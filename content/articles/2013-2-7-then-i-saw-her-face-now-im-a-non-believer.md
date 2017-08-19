@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:09:33 +0000"
 id: "3253"
 old_path: /comment/3253/then-i-saw-her-face-now-im-a-non-believer
-redirect_from:
+aliases:
  - /comment/3253/then-i-saw-her-face-now-im-a-non-believer
 category: comment
 

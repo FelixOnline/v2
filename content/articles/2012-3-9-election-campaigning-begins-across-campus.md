@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-09 01:11:41 +0000"
 id: "2335"
 old_path: /news/2335/election-campaigning-begins-across-campus
-redirect_from:
+aliases:
  - /news/2335/election-campaigning-begins-across-campus
 category: news
 

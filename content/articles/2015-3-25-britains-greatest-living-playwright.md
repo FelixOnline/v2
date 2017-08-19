@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:51:56 +0000"
 id: "5438"
 old_path: /arts/5438/britains-greatest-living-playwright
-redirect_from:
+aliases:
  - /arts/5438/britains-greatest-living-playwright
 category: arts
 

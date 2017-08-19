@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 14:01:02 +0100"
 id: "4616"
 old_path: /film/4616/the-governators-war-on-drugs
-redirect_from:
+aliases:
  - /film/4616/the-governators-war-on-drugs
 category: film
 

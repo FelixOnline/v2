@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:06:31 +0000"
 id: "2867"
 old_path: /music/2867/soul-hero-terry-callier-passes-on
-redirect_from:
+aliases:
  - /music/2867/soul-hero-terry-callier-passes-on
 category: music
 

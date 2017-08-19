@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:33:30 +0100"
 id: "208"
 old_path: /science/208/defend-our-geeks
-redirect_from:
+aliases:
  - /science/208/defend-our-geeks
 category: science
 

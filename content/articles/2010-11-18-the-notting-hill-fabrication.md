@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 19:54:31 +0000"
 id: "380"
 old_path: /arts/380/the-notting-hill-fabrication
-redirect_from:
+aliases:
  - /arts/380/the-notting-hill-fabrication
 category: arts
 

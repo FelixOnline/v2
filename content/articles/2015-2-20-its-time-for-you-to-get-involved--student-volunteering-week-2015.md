@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:29:03 +0000"
 id: "5287"
 old_path: /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
-redirect_from:
+aliases:
  - /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
 category: clubs-and-socs
 

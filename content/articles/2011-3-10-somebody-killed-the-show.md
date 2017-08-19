@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:16:55 +0000"
 id: "1066"
 old_path: /arts/1066/somebody-killed-the-show
-redirect_from:
+aliases:
  - /arts/1066/somebody-killed-the-show
 category: arts
 

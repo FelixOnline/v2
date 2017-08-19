@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:08:26 +0000"
 id: "4295"
 old_path: /music/4295/the-pelican-brief
-redirect_from:
+aliases:
  - /music/4295/the-pelican-brief
 category: music
 

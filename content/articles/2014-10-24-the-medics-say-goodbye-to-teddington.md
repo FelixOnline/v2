@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:57:07 +0100"
 id: "4749"
 old_path: /news/4749/the-medics-say-goodbye-to-teddington
-redirect_from:
+aliases:
  - /news/4749/the-medics-say-goodbye-to-teddington
 category: news
 

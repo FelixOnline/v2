@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 22:23:03 +0100"
 id: "4678"
 old_path: /film/4678/get-out-the-hankies-weepies-from-the-eighties---steel-magnolias
-redirect_from:
+aliases:
  - /film/4678/get-out-the-hankies-weepies-from-the-eighties---steel-magnolias
 category: film
 

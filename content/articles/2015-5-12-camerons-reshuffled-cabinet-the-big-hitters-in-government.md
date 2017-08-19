@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-12 09:06:23 +0100"
 id: "5511"
 old_path: /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
-redirect_from:
+aliases:
  - /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
 category: politics
 

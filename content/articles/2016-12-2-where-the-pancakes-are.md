@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:20:16 +0000"
 id: "6544"
 old_path: /food/6544/where-the-pancakes-are
-redirect_from:
+aliases:
  - /food/6544/where-the-pancakes-are
 category: food
 

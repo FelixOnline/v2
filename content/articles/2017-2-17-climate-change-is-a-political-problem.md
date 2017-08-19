@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:32:52 +0000"
 id: "6781"
 old_path: /comment/6781/climate-change-is-a-political-problem
-redirect_from:
+aliases:
  - /comment/6781/climate-change-is-a-political-problem
 category: comment
 

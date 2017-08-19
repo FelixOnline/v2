@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:23:13 +0000"
 id: "6762"
 old_path: /music/6762/londons-new-music-scene-
-redirect_from:
+aliases:
  - /music/6762/londons-new-music-scene-
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:59:56 +0000"
 id: "4290"
 old_path: /science/4290/mdma---a-new-high-in-research
-redirect_from:
+aliases:
  - /science/4290/mdma---a-new-high-in-research
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 13:50:14 +0000"
 id: "6628"
 old_path: /news/6628/national-student-survey-open-for-2017
-redirect_from:
+aliases:
  - /news/6628/national-student-survey-open-for-2017
 category: news
 

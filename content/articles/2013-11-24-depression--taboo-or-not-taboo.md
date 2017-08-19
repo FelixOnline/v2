@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:51:36 +0000"
 id: "4100"
 old_path: /features/4100/depression--taboo-or-not-taboo
-redirect_from:
+aliases:
  - /features/4100/depression--taboo-or-not-taboo
 category: features
 

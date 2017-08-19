@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:28:01 +0000"
 id: "3361"
 old_path: /film/3361/why-wont-you-just-die
-redirect_from:
+aliases:
  - /film/3361/why-wont-you-just-die
 category: film
 

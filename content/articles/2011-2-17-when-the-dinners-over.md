@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:42:56 +0000"
 id: "823"
 old_path: /food/823/when-the-dinners-over
-redirect_from:
+aliases:
  - /food/823/when-the-dinners-over
 category: food
 

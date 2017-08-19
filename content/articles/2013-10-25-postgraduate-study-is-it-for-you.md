@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:11:11 +0100"
 id: "3950"
 old_path: /features/3950/postgraduate-study-is-it-for-you
-redirect_from:
+aliases:
  - /features/3950/postgraduate-study-is-it-for-you
 category: features
 

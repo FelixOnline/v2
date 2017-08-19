@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:14:23 +0000"
 id: "1021"
 old_path: /sport/1021/gold-for-harriet-scott-in-bucs-indoor-athletics-championships
-redirect_from:
+aliases:
  - /sport/1021/gold-for-harriet-scott-in-bucs-indoor-athletics-championships
 category: sport
 

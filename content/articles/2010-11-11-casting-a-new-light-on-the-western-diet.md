@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:46:19 +0000"
 id: "344"
 old_path: /film/344/casting-a-new-light-on-the-western-diet
-redirect_from:
+aliases:
  - /film/344/casting-a-new-light-on-the-western-diet
 category: film
 

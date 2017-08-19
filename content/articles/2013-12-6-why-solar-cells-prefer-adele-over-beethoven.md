@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:56:59 +0000"
 id: "4184"
 old_path: /science/4184/why-solar-cells-prefer-adele-over-beethoven
-redirect_from:
+aliases:
  - /science/4184/why-solar-cells-prefer-adele-over-beethoven
 category: science
 

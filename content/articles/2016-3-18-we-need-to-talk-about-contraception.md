@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:46:12 +0000"
 id: "6057"
 old_path: /features/6057/we-need-to-talk-about-contraception
-redirect_from:
+aliases:
  - /features/6057/we-need-to-talk-about-contraception
 category: features
 

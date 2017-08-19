@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:51:20 +0000"
 id: "2796"
 old_path: /arts/2796/pedal-powered-comedy
-redirect_from:
+aliases:
  - /arts/2796/pedal-powered-comedy
 category: arts
 

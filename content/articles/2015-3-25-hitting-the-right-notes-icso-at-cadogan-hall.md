@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:37:55 +0000"
 id: "5432"
 old_path: /music/5432/hitting-the-right-notes-icso-at-cadogan-hall
-redirect_from:
+aliases:
  - /music/5432/hitting-the-right-notes-icso-at-cadogan-hall
 category: music
 

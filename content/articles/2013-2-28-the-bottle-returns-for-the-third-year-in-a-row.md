@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:56:32 +0000"
 id: "3397"
 old_path: /sport/3397/the-bottle-returns-for-the-third-year-in-a-row
-redirect_from:
+aliases:
  - /sport/3397/the-bottle-returns-for-the-third-year-in-a-row
 category: sport
 

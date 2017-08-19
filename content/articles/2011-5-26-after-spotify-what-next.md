@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:08:25 +0100"
 id: "1254"
 old_path: /tech/1254/after-spotify-what-next
-redirect_from:
+aliases:
  - /tech/1254/after-spotify-what-next
 category: tech
 

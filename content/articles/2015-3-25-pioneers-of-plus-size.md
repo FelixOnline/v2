@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:02:24 +0000"
 id: "5424"
 old_path: /fashion/5424/pioneers-of-plus-size
-redirect_from:
+aliases:
  - /fashion/5424/pioneers-of-plus-size
 category: fashion
 

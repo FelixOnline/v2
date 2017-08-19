@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 15:33:22 +0000"
 id: "6831"
 old_path: /sport/6831/you-can-run-but-you-cannot-hyde
-redirect_from:
+aliases:
  - /sport/6831/you-can-run-but-you-cannot-hyde
 category: sport
 

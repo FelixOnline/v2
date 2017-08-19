@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:23:55 +0000"
 id: "1890"
 old_path: /comment/1890/this-title-has-been-delayed
-redirect_from:
+aliases:
  - /comment/1890/this-title-has-been-delayed
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:45:00 +0000"
 id: "934"
 old_path: /games/934/when-in-doubt-leave-it-out
-redirect_from:
+aliases:
  - /games/934/when-in-doubt-leave-it-out
 category: games
 

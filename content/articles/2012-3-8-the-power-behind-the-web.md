@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:36:28 +0000"
 id: "2326"
 old_path: /tech/2326/the-power-behind-the-web
-redirect_from:
+aliases:
  - /tech/2326/the-power-behind-the-web
 category: tech
 

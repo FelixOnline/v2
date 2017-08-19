@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:11:11 +0000"
 id: "4418"
 old_path: /science/4418/ants-in-your-pants-thats-crazy
-redirect_from:
+aliases:
  - /science/4418/ants-in-your-pants-thats-crazy
 category: science
 

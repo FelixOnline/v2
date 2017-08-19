@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:35:19 +0000"
 id: "6479"
 old_path: /film/6479/yariv-mozer---the-invisible-men
-redirect_from:
+aliases:
  - /film/6479/yariv-mozer---the-invisible-men
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-16 03:09:10 +0100"
 id: "4726"
 old_path: /news/4726/who-is-the-new-universities-minister-greg-clark
-redirect_from:
+aliases:
  - /news/4726/who-is-the-new-universities-minister-greg-clark
 category: news
 

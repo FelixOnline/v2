@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 23:38:10 +0000"
 id: "3391"
 old_path: /arts/3391/may-the-farce-be-with-you-young-one
-redirect_from:
+aliases:
  - /arts/3391/may-the-farce-be-with-you-young-one
 category: arts
 

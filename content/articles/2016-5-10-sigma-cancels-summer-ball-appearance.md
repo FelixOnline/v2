@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-10 13:11:34 +0100"
 id: "6140"
 old_path: /news/6140/sigma-cancels-summer-ball-appearance
-redirect_from:
+aliases:
  - /news/6140/sigma-cancels-summer-ball-appearance
 category: news
 

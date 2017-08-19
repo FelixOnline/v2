@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 14:23:49 +0100"
 id: "2493"
 old_path: /science/2493/humans-are-still-evolving
-redirect_from:
+aliases:
  - /science/2493/humans-are-still-evolving
 category: science
 

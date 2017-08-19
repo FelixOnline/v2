@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-20 21:36:53 +0000"
 id: "6920"
 old_path: /arts/6920/roman-tragedies-a-medieval-masterpiece-for-a-facebook-live-world
-redirect_from:
+aliases:
  - /arts/6920/roman-tragedies-a-medieval-masterpiece-for-a-facebook-live-world
 category: arts
 

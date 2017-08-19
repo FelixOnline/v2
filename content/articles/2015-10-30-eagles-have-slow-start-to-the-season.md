@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 15:08:43 +0000"
 id: "5692"
 old_path: /sport/5692/eagles-have-slow-start-to-the-season
-redirect_from:
+aliases:
  - /sport/5692/eagles-have-slow-start-to-the-season
 category: sport
 

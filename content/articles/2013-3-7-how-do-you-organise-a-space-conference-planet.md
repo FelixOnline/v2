@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:48:39 +0000"
 id: "3430"
 old_path: /news/3430/how-do-you-organise-a-space-conference-planet
-redirect_from:
+aliases:
  - /news/3430/how-do-you-organise-a-space-conference-planet
 category: news
 

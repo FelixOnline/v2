@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:43:46 +0000"
 id: "6647"
 old_path: /tv/6647/trivial-pursuits--sherlock
-redirect_from:
+aliases:
  - /tv/6647/trivial-pursuits--sherlock
 category: tv
 

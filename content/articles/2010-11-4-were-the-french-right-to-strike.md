@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:09:40 +0000"
 id: "328"
 old_path: /comment/328/were-the-french-right-to-strike
-redirect_from:
+aliases:
  - /comment/328/were-the-french-right-to-strike
 category: comment
 

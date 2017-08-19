@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-13 14:25:43 +0000"
 id: "4857"
 old_path: /news/4857/4-million-miniature-robot-laboratory-opens-on-campus
-redirect_from:
+aliases:
  - /news/4857/4-million-miniature-robot-laboratory-opens-on-campus
 category: news
 

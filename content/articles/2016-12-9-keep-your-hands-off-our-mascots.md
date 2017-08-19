@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 11:57:30 +0000"
 id: "6561"
 old_path: /news/6561/keep-your-hands-off-our-mascots
-redirect_from:
+aliases:
  - /news/6561/keep-your-hands-off-our-mascots
 category: news
 

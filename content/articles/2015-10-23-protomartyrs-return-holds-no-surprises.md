@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:49:29 +0100"
 id: "5674"
 old_path: /music/5674/protomartyrs-return-holds-no-surprises-
-redirect_from:
+aliases:
  - /music/5674/protomartyrs-return-holds-no-surprises-
 category: music
 

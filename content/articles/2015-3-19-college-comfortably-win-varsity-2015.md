@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-19 23:44:30 +0000"
 id: "5407"
 old_path: /sport/5407/college-comfortably-win-varsity-2015
-redirect_from:
+aliases:
  - /sport/5407/college-comfortably-win-varsity-2015
 category: sport
 

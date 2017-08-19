@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:24:05 +0100"
 id: "1260"
 old_path: /comment/1260/lunchtimes-over
-redirect_from:
+aliases:
  - /comment/1260/lunchtimes-over
 category: comment
 

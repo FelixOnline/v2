@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:26:04 +0000"
 id: "2918"
 old_path: /sport/2918/water-polo-storm-germany
-redirect_from:
+aliases:
  - /sport/2918/water-polo-storm-germany
 category: sport
 

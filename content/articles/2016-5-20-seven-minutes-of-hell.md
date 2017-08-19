@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:05:30 +0100"
 id: "6181"
 old_path: /science/6181/seven-minutes-of-hell
-redirect_from:
+aliases:
  - /science/6181/seven-minutes-of-hell
 category: science
 

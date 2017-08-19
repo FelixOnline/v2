@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 12:24:11 +0100"
 id: "3652"
 old_path: /film/3652/sexism-in-the-vampire-world
-redirect_from:
+aliases:
  - /film/3652/sexism-in-the-vampire-world
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 22:00:02 +0100"
 id: "162"
 old_path: /tech/162/imperial-technology-survival-guide-2010
-redirect_from:
+aliases:
  - /tech/162/imperial-technology-survival-guide-2010
 category: tech
 

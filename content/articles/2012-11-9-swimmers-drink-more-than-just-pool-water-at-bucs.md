@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:31:54 +0000"
 id: "2875"
 old_path: /sport/2875/swimmers-drink-more-than-just-pool-water-at-bucs
-redirect_from:
+aliases:
  - /sport/2875/swimmers-drink-more-than-just-pool-water-at-bucs
 category: sport
 

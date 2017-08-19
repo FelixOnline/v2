@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:01:20 +0000"
 id: "6506"
 old_path: /film/6506/i-olga-hepnarov
-redirect_from:
+aliases:
  - /film/6506/i-olga-hepnarov
 category: film
 

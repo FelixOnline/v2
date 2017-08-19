@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:57:34 +0000"
 id: "1899"
 old_path: /news/1899/public-sector-protests
-redirect_from:
+aliases:
  - /news/1899/public-sector-protests
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:55:22 +0000"
 id: "4881"
 old_path: /arts/4881/the-ethics-of-war-photography
-redirect_from:
+aliases:
  - /arts/4881/the-ethics-of-war-photography
 category: arts
 

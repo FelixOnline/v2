@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:44:50 +0000"
 id: "1860"
 old_path: /science/1860/earths-core-deprived-of-oxygen
-redirect_from:
+aliases:
  - /science/1860/earths-core-deprived-of-oxygen
 category: science
 

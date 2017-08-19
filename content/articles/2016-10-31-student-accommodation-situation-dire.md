@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 13:35:24 +0000"
 id: "6358"
 old_path: /news/6358/student-accommodation-situation-dire
-redirect_from:
+aliases:
  - /news/6358/student-accommodation-situation-dire
 category: news
 

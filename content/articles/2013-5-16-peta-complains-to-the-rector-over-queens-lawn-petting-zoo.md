@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 20:46:01 +0100"
 id: "3592"
 old_path: /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
-redirect_from:
+aliases:
  - /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
 category: news
 

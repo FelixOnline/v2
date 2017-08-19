@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 13:03:25 +0000"
 id: "6897"
 old_path: /news/6897/your-new-sabbs-are-here
-redirect_from:
+aliases:
  - /news/6897/your-new-sabbs-are-here
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:27:05 +0100"
 id: "1261"
 old_path: /comment/1261/broken-promises
-redirect_from:
+aliases:
  - /comment/1261/broken-promises
 category: comment
 

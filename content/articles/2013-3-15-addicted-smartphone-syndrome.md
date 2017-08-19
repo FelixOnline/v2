@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:16:13 +0000"
 id: "3471"
 old_path: /tech/3471/addicted-smartphone-syndrome
-redirect_from:
+aliases:
  - /tech/3471/addicted-smartphone-syndrome
 category: tech
 

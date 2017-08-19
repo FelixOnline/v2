@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 14:13:14 +0000"
 id: "6682"
 old_path: /news/6682/mental-health-officer-joins-union-roles
-redirect_from:
+aliases:
  - /news/6682/mental-health-officer-joins-union-roles
 category: news
 

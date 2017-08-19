@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:16:07 +0000"
 id: "4816"
 old_path: /arts/4816/im-depressed-lets-sing-about-it
-redirect_from:
+aliases:
  - /arts/4816/im-depressed-lets-sing-about-it
 category: arts
 

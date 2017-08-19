@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 21:14:21 +0100"
 id: "1348"
 old_path: /news/1348/humanities-staff-attack-college-day-proposals
-redirect_from:
+aliases:
  - /news/1348/humanities-staff-attack-college-day-proposals
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:38:46 +0000"
 id: "2931"
 old_path: /news/2931/holland-club-closed
-redirect_from:
+aliases:
  - /news/2931/holland-club-closed
 category: news
 

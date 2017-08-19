@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:32:37 +0000"
 id: "4075"
 old_path: /arts/4075/the-magic-flute-needs-a-fairy-godmother
-redirect_from:
+aliases:
  - /arts/4075/the-magic-flute-needs-a-fairy-godmother
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 22:04:25 +0000"
 id: "1698"
 old_path: /arts/1698/minotaur-de-force
-redirect_from:
+aliases:
  - /arts/1698/minotaur-de-force
 category: arts
 

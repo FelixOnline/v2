@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:38:57 +0100"
 id: "6226"
 old_path: /news/6226/imperial-academics-warn-against-brexit
-redirect_from:
+aliases:
  - /news/6226/imperial-academics-warn-against-brexit
 category: news
 

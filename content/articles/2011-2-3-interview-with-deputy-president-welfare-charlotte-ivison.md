@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:42:57 +0000"
 id: "723"
 old_path: /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
-redirect_from:
+aliases:
  - /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
 category: news
 

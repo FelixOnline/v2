@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 20:00:36 +0000"
 id: "4785"
 old_path: /arts/4785/godus-more-like-god-awful-us
-redirect_from:
+aliases:
  - /arts/4785/godus-more-like-god-awful-us
 category: arts
 

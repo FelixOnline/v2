@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 21:35:29 +0000"
 id: "441"
 old_path: /comment/441/losing-proportion
-redirect_from:
+aliases:
  - /comment/441/losing-proportion
 category: comment
 

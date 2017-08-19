@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:42:51 +0000"
 id: "3231"
 old_path: /music/3231/dandy-warhols-silently-rock-le-trianon
-redirect_from:
+aliases:
  - /music/3231/dandy-warhols-silently-rock-le-trianon
 category: music
 

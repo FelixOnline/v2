@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-16 14:28:40 +0100"
 id: "5656"
 old_path: /news/5656/potential-pay-rise-for-union-bar-staff
-redirect_from:
+aliases:
  - /news/5656/potential-pay-rise-for-union-bar-staff
 category: news
 

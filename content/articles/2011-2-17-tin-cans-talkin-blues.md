@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:09:37 +0000"
 id: "834"
 old_path: /music/834/tin-cans-talkin-blues
-redirect_from:
+aliases:
  - /music/834/tin-cans-talkin-blues
 category: music
 

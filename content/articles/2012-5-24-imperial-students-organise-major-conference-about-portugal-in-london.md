@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:04:54 +0100"
 id: "2485"
 old_path: /news/2485/imperial-students-organise-major-conference-about-portugal-in-london
-redirect_from:
+aliases:
  - /news/2485/imperial-students-organise-major-conference-about-portugal-in-london
 category: news
 

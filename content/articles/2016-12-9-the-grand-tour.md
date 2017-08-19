@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:44:56 +0000"
 id: "6579"
 old_path: /tv/6579/the-grand-tour
-redirect_from:
+aliases:
  - /tv/6579/the-grand-tour
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:24:11 +0100"
 id: "2592"
 old_path: /books/2592/believe-the-hype
-redirect_from:
+aliases:
  - /books/2592/believe-the-hype
 category: books
 

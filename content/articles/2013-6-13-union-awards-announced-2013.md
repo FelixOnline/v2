@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:06:22 +0100"
 id: "3688"
 old_path: /news/3688/union-awards-announced-2013
-redirect_from:
+aliases:
  - /news/3688/union-awards-announced-2013
 category: news
 

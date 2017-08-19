@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:32:13 +0000"
 id: "507"
 old_path: /biz/507/books-for-intellectual-city-type-sellouts
-redirect_from:
+aliases:
  - /biz/507/books-for-intellectual-city-type-sellouts
 category: business
 

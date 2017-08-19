@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:01:11 +0000"
 id: "5374"
 old_path: /comment/5374/its-time-for-football-fans-to-reap-the-benefits
-redirect_from:
+aliases:
  - /comment/5374/its-time-for-football-fans-to-reap-the-benefits
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:45:04 +0100"
 id: "6170"
 old_path: /news/6170/aero-students-invited-to-william-gig-because-director-liked-their-boiler-suits
-redirect_from:
+aliases:
  - /news/6170/aero-students-invited-to-william-gig-because-director-liked-their-boiler-suits
 category: news
 

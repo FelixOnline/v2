@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:45:59 +0000"
 id: "434"
 old_path: /music/434/techno-nonsense-turbo-records
-redirect_from:
+aliases:
  - /music/434/techno-nonsense-turbo-records
 category: music
 

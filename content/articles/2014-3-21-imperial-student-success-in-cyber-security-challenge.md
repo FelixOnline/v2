@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-21 02:40:46 +0000"
 id: "4490"
 old_path: /news/4490/imperial-student-success-in-cyber-security-challenge
-redirect_from:
+aliases:
  - /news/4490/imperial-student-success-in-cyber-security-challenge
 category: news
 

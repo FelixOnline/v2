@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-07-18 12:45:22 +0100"
 id: "1451"
 old_path: /travel/1451/priyas-epic-south-american-adventure
-redirect_from:
+aliases:
  - /travel/1451/priyas-epic-south-american-adventure
 category: travel
 

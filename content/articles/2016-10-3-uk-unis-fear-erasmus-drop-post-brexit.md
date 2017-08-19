@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-03 16:00:25 +0100"
 id: "6299"
 old_path: /news/6299/uk-unis-fear-erasmus-drop-post-brexit
-redirect_from:
+aliases:
  - /news/6299/uk-unis-fear-erasmus-drop-post-brexit
 category: news
 

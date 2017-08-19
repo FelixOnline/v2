@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:33:03 +0100"
 id: "264"
 old_path: /music/264/easy-star-all-stars--scala
-redirect_from:
+aliases:
  - /music/264/easy-star-all-stars--scala
 category: music
 

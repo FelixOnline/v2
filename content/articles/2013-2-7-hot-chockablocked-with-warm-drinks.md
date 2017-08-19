@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:03:08 +0000"
 id: "3251"
 old_path: /food/3251/hot-chockablocked-with-warm-drinks
-redirect_from:
+aliases:
  - /food/3251/hot-chockablocked-with-warm-drinks
 category: food
 

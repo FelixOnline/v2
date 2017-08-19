@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 20:08:40 +0100"
 id: "3864"
 old_path: /features/3864/skateboarding--bmx
-redirect_from:
+aliases:
  - /features/3864/skateboarding--bmx
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-08 16:48:22 +0000"
 id: "5365"
 old_path: /arts/5365/antigone-an-atonal-atypical-astonishment
-redirect_from:
+aliases:
  - /arts/5365/antigone-an-atonal-atypical-astonishment
 category: arts
 

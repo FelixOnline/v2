@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:33:51 +0000"
 id: "1941"
 old_path: /comment/1941/concerns-must-at-least-be-considered
-redirect_from:
+aliases:
  - /comment/1941/concerns-must-at-least-be-considered
 category: comment
 

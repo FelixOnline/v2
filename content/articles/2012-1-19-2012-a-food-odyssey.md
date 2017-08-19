@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:35:34 +0000"
 id: "2031"
 old_path: /food/2031/2012-a-food-odyssey
-redirect_from:
+aliases:
  - /food/2031/2012-a-food-odyssey
 category: food
 

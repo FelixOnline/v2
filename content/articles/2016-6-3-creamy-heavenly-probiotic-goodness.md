@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:11:55 +0100"
 id: "6234"
 old_path: /science/6234/creamy-heavenly-probiotic-goodness
-redirect_from:
+aliases:
  - /science/6234/creamy-heavenly-probiotic-goodness
 category: science
 

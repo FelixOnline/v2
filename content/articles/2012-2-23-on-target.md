@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 21:10:17 +0000"
 id: "2251"
 old_path: /sport/2251/on-target-
-redirect_from:
+aliases:
  - /sport/2251/on-target-
 category: sport
 

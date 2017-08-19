@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:17:34 +0100"
 id: "4738"
 old_path: /news/4738/leicesters-paper-censored-by-union
-redirect_from:
+aliases:
  - /news/4738/leicesters-paper-censored-by-union
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:02:06 +0000"
 id: "762"
 old_path: /travel/762/ambling-argentinean-escapades-
-redirect_from:
+aliases:
  - /travel/762/ambling-argentinean-escapades-
 category: travel
 

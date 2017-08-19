@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:46:24 +0000"
 id: "4964"
 old_path: /news/4964/imperial-prepare-to-get-pitch-slapped
-redirect_from:
+aliases:
  - /news/4964/imperial-prepare-to-get-pitch-slapped
 category: news
 

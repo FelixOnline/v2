@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-27 17:44:04 +0100"
 id: "5569"
 old_path: /arts/5569/a-return-to-tradition-for-the-national-theatre
-redirect_from:
+aliases:
  - /arts/5569/a-return-to-tradition-for-the-national-theatre
 category: arts
 

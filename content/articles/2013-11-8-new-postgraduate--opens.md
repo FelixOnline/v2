@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:37:28 +0000"
 id: "4019"
 old_path: /news/4019/new-postgraduate--opens
-redirect_from:
+aliases:
  - /news/4019/new-postgraduate--opens
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:17:20 +0000"
 id: "2175"
 old_path: /comment/2175/have-your-say-on-the-holland-club-and-clayponds
-redirect_from:
+aliases:
  - /comment/2175/have-your-say-on-the-holland-club-and-clayponds
 category: comment
 

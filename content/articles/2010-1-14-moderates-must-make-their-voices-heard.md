@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 17:46:23 +0000"
 id: "34"
 old_path: /comment/34/moderates-must-make-their-voices-heard
-redirect_from:
+aliases:
  - /comment/34/moderates-must-make-their-voices-heard
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:28:08 +0000"
 id: "746"
 old_path: /comment/746/does-watching-tv-ruin-your-life
-redirect_from:
+aliases:
  - /comment/746/does-watching-tv-ruin-your-life
 category: comment
 

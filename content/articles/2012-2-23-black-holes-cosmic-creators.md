@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:46:05 +0000"
 id: "2244"
 old_path: /science/2244/black-holes-cosmic-creators
-redirect_from:
+aliases:
  - /science/2244/black-holes-cosmic-creators
 category: science
 

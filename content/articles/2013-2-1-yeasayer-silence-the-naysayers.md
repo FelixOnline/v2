@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:49:51 +0000"
 id: "3234"
 old_path: /music/3234/yeasayer-silence-the-naysayers
-redirect_from:
+aliases:
  - /music/3234/yeasayer-silence-the-naysayers
 category: music
 

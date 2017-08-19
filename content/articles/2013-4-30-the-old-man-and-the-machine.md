@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 10:23:37 +0100"
 id: "3498"
 old_path: /film/3498/the-old-man-and-the-machine
-redirect_from:
+aliases:
  - /film/3498/the-old-man-and-the-machine
 category: film
 

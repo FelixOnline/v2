@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:15:12 +0000"
 id: "4444"
 old_path: /comment/4444/where-are-the-queens-in-chess
-redirect_from:
+aliases:
  - /comment/4444/where-are-the-queens-in-chess
 category: comment
 

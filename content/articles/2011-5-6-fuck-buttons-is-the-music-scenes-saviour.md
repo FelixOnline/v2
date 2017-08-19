@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:59:25 +0100"
 id: "1165"
 old_path: /music/1165/fuck-buttons-is-the-music-scenes-saviour
-redirect_from:
+aliases:
  - /music/1165/fuck-buttons-is-the-music-scenes-saviour
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:39:05 +0000"
 id: "4941"
 old_path: /film/4941/are-you-paying-attention
-redirect_from:
+aliases:
  - /film/4941/are-you-paying-attention
 category: film
 

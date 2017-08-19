@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:30:36 +0100"
 id: "6164"
 old_path: /games/6164/itchio-game-of-the-week
-redirect_from:
+aliases:
  - /games/6164/itchio-game-of-the-week
 category: games
 

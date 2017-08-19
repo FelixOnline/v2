@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:16:29 +0000"
 id: "3487"
 old_path: /film/3487/which-witch-is-the-wicked-witch
-redirect_from:
+aliases:
  - /film/3487/which-witch-is-the-wicked-witch
 category: film
 

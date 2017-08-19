@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:22:01 +0000"
 id: "6409"
 old_path: /sport/6409/ic-cross-country-record-turnout-at-first-race
-redirect_from:
+aliases:
  - /sport/6409/ic-cross-country-record-turnout-at-first-race
 category: sport
 

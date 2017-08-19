@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 19:31:26 +0100"
 id: "5628"
 old_path: /welfare/5628/when-diversity-becomes-adversity
-redirect_from:
+aliases:
  - /welfare/5628/when-diversity-becomes-adversity
 category: welfare
 

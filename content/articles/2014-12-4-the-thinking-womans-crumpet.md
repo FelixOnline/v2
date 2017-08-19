@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:19:05 +0000"
 id: "4995"
 old_path: /tv/4995/the-thinking-womans-crumpet
-redirect_from:
+aliases:
  - /tv/4995/the-thinking-womans-crumpet
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:39:30 +0000"
 id: "720"
 old_path: /arts/720/gilbert--george-wish-you-were-here-
-redirect_from:
+aliases:
  - /arts/720/gilbert--george-wish-you-were-here-
 category: arts
 

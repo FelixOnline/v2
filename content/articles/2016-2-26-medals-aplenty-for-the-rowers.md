@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:13:30 +0000"
 id: "5990"
 old_path: /sport/5990/medals-aplenty-for-the-rowers
-redirect_from:
+aliases:
  - /sport/5990/medals-aplenty-for-the-rowers
 category: sport
 

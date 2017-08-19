@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:21:23 +0000"
 id: "2947"
 old_path: /politics/2947/uks-green-success
-redirect_from:
+aliases:
  - /politics/2947/uks-green-success
 category: politics
 

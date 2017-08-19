@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 18:51:25 +0100"
 id: "2525"
 old_path: /science/2525/sweet-sweet-serendipity
-redirect_from:
+aliases:
  - /science/2525/sweet-sweet-serendipity
 category: science
 

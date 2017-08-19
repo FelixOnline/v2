@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:50:39 +0000"
 id: "3200"
 old_path: /news/3200/imperial-launches-education-and-student-strategy-survey
-redirect_from:
+aliases:
  - /news/3200/imperial-launches-education-and-student-strategy-survey
 category: news
 

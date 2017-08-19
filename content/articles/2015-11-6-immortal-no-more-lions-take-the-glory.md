@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 14:24:47 +0000"
 id: "5714"
 old_path: /sport/5714/immortal-no-more-lions-take-the-glory
-redirect_from:
+aliases:
  - /sport/5714/immortal-no-more-lions-take-the-glory
 category: sport
 

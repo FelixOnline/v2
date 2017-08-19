@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:41:04 +0000"
 id: "6838"
 old_path: /comment/6838/trumps-cabinet-is-cleverer-than-you-think
-redirect_from:
+aliases:
  - /comment/6838/trumps-cabinet-is-cleverer-than-you-think
 category: comment
 

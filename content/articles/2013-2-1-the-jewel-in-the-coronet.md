@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 01:03:03 +0000"
 id: "3238"
 old_path: /film/3238/the-jewel-in-the-coronet
-redirect_from:
+aliases:
  - /film/3238/the-jewel-in-the-coronet
 category: film
 

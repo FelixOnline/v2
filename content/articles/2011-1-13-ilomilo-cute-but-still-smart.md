@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:54:40 +0000"
 id: "571"
 old_path: /games/571/ilomilo-cute-but-still-smart-
-redirect_from:
+aliases:
  - /games/571/ilomilo-cute-but-still-smart-
 category: games
 

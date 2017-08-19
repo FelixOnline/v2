@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 23:20:37 +0100"
 id: "1580"
 old_path: /comment/1580/my-life-after-graduation
-redirect_from:
+aliases:
  - /comment/1580/my-life-after-graduation
 category: comment
 

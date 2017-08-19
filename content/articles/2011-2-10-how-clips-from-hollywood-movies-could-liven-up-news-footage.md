@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:12:21 +0000"
 id: "796"
 old_path: /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
-redirect_from:
+aliases:
  - /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
 category: comment
 

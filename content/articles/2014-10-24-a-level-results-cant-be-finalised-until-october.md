@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:24:20 +0100"
 id: "4744"
 old_path: /news/4744/a-level-results-cant-be-finalised-until-october
-redirect_from:
+aliases:
  - /news/4744/a-level-results-cant-be-finalised-until-october
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:03:54 +0000"
 id: "6529"
 old_path: /science/6529/a-foundation-in-fractals
-redirect_from:
+aliases:
  - /science/6529/a-foundation-in-fractals
 category: science
 

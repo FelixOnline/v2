@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:09:56 +0000"
 id: "3373"
 old_path: /sport/3373/checkmate-at-chess-congress-
-redirect_from:
+aliases:
  - /sport/3373/checkmate-at-chess-congress-
 category: sport
 

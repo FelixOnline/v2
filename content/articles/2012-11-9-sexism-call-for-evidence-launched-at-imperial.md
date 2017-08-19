@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:11:06 +0000"
 id: "2832"
 old_path: /news/2832/sexism-call-for-evidence-launched-at-imperial
-redirect_from:
+aliases:
  - /news/2832/sexism-call-for-evidence-launched-at-imperial
 category: news
 

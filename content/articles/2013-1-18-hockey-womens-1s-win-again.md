@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 01:01:31 +0000"
 id: "3147"
 old_path: /sport/3147/hockey-womens-1s-win-again
-redirect_from:
+aliases:
  - /sport/3147/hockey-womens-1s-win-again
 category: sport
 

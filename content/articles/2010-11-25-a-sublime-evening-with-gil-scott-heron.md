@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:58:50 +0000"
 id: "436"
 old_path: /music/436/a-sublime-evening-with-gil-scott-heron
-redirect_from:
+aliases:
  - /music/436/a-sublime-evening-with-gil-scott-heron
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 15:15:52 +0100"
 id: "4737"
 old_path: /news/4737/the-future-of-college-bursaries-in-your-hands
-redirect_from:
+aliases:
  - /news/4737/the-future-of-college-bursaries-in-your-hands
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:24:35 +0000"
 id: "2062"
 old_path: /science/2062/ancient-popcorn-found-in-peru
-redirect_from:
+aliases:
  - /science/2062/ancient-popcorn-found-in-peru
 category: science
 

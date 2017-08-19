@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-09 15:12:30 +0000"
 id: "5212"
 old_path: /games/5212/baboon-its-not-just-monkeying-around
-redirect_from:
+aliases:
  - /games/5212/baboon-its-not-just-monkeying-around
 category: games
 

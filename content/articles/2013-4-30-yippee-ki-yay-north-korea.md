@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 10:40:06 +0100"
 id: "3501"
 old_path: /film/3501/yippee-ki-yay-north-korea
-redirect_from:
+aliases:
  - /film/3501/yippee-ki-yay-north-korea
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:45:48 +0000"
 id: "5784"
 old_path: /film/5784/at-the-heart-of-craftsmanship-
-redirect_from:
+aliases:
  - /film/5784/at-the-heart-of-craftsmanship-
 category: film
 

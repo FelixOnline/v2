@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:30:37 +0100"
 id: "2499"
 old_path: /arts/2499/wittank-spoons-out-hilarity-at-kings-place
-redirect_from:
+aliases:
  - /arts/2499/wittank-spoons-out-hilarity-at-kings-place
 category: arts
 

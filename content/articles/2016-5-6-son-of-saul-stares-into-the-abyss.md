@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:11:49 +0100"
 id: "6129"
 old_path: /film/6129/son-of-saul-stares-into-the-abyss
-redirect_from:
+aliases:
  - /film/6129/son-of-saul-stares-into-the-abyss
 category: film
 

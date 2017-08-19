@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:22:48 +0000"
 id: "3460"
 old_path: /news/3460/imperial-launches-new-campus
-redirect_from:
+aliases:
  - /news/3460/imperial-launches-new-campus
 category: news
 

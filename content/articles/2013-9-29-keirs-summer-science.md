@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:48:34 +0100"
 id: "3775"
 old_path: /science/3775/keirs-summer-science
-redirect_from:
+aliases:
  - /science/3775/keirs-summer-science
 category: science
 

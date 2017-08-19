@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:31:58 +0100"
 id: "178"
 old_path: /news/178/scientists-rally-to-fight-funding-cuts
-redirect_from:
+aliases:
  - /news/178/scientists-rally-to-fight-funding-cuts
 category: news
 

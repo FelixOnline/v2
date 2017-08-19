@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:52:19 +0000"
 id: "317"
 old_path: /comment/317/bans-dont-work
-redirect_from:
+aliases:
  - /comment/317/bans-dont-work
 category: comment
 

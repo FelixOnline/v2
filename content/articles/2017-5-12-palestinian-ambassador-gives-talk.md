@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:54:06 +0100"
 id: "6943"
 old_path: /news/6943/palestinian-ambassador-gives-talk
-redirect_from:
+aliases:
  - /news/6943/palestinian-ambassador-gives-talk
 category: news
 

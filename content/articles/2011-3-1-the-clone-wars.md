@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:45:12 +0000"
 id: "977"
 old_path: /science/977/the-clone-wars
-redirect_from:
+aliases:
  - /science/977/the-clone-wars
 category: science
 

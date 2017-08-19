@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:01:41 +0000"
 id: "4884"
 old_path: /arts/4884/a-tempting-trio-of-modern-dance
-redirect_from:
+aliases:
  - /arts/4884/a-tempting-trio-of-modern-dance
 category: arts
 

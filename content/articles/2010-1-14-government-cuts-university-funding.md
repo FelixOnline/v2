@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-14 17:47:40 +0000"
 id: "35"
 old_path: /news/35/government-cuts-university-funding
-redirect_from:
+aliases:
  - /news/35/government-cuts-university-funding
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:34:40 +0000"
 id: "1856"
 old_path: /tech/1856/lost-focus-try-the-lytro
-redirect_from:
+aliases:
  - /tech/1856/lost-focus-try-the-lytro
 category: tech
 

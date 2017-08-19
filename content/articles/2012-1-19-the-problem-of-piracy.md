@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:33:39 +0000"
 id: "2016"
 old_path: /games/2016/the-problem-of-piracy
-redirect_from:
+aliases:
  - /games/2016/the-problem-of-piracy
 category: games
 

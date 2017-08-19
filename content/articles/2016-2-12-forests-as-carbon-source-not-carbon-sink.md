@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:29:33 +0000"
 id: "5903"
 old_path: /science/5903/forests-as-carbon-source-not-carbon-sink
-redirect_from:
+aliases:
  - /science/5903/forests-as-carbon-source-not-carbon-sink
 category: science
 

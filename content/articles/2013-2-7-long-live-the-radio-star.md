@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:47:39 +0000"
 id: "3245"
 old_path: /music/3245/long-live-the-radio-star
-redirect_from:
+aliases:
  - /music/3245/long-live-the-radio-star
 category: music
 

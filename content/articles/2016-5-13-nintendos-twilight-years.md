@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:29:36 +0100"
 id: "6163"
 old_path: /games/6163/nintendos-twilight-years
-redirect_from:
+aliases:
  - /games/6163/nintendos-twilight-years
 category: games
 

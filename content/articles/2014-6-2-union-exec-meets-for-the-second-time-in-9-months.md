@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:40:42 +0100"
 id: "4636"
 old_path: /news/4636/union-exec-meets-for-the-second-time-in-9-months
-redirect_from:
+aliases:
  - /news/4636/union-exec-meets-for-the-second-time-in-9-months
 category: news
 

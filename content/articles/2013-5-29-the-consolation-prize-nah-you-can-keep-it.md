@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 16:23:49 +0100"
 id: "3635"
 old_path: /games/3635/the-consolation-prize-nah-you-can-keep-it
-redirect_from:
+aliases:
  - /games/3635/the-consolation-prize-nah-you-can-keep-it
 category: games
 

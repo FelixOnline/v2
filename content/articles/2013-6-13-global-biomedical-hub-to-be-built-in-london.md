@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:10:21 +0100"
 id: "3690"
 old_path: /news/3690/global-biomedical-hub-to-be-built-in-london
-redirect_from:
+aliases:
  - /news/3690/global-biomedical-hub-to-be-built-in-london
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 18:19:49 +0000"
 id: "905"
 old_path: /arts/905/a-view-from-the-bridge
-redirect_from:
+aliases:
  - /arts/905/a-view-from-the-bridge
 category: arts
 

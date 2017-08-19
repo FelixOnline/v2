@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:45:10 +0000"
 id: "6719"
 old_path: /science/6719/is-meat-really-manly
-redirect_from:
+aliases:
  - /science/6719/is-meat-really-manly
 category: science
 

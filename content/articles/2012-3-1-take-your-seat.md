@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:13:17 +0000"
 id: "2284"
 old_path: /arts/2284/take-your-seat
-redirect_from:
+aliases:
  - /arts/2284/take-your-seat
 category: arts
 

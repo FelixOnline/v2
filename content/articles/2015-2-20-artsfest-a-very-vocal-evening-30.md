@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 00:19:59 +0000"
 id: "5284"
 old_path: /cands/5284/artsfest-a-very-vocal-evening-30
-redirect_from:
+aliases:
  - /cands/5284/artsfest-a-very-vocal-evening-30
 category: clubs-and-socs
 

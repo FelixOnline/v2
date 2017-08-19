@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:08:17 +0100"
 id: "7016"
 old_path: /tv/7016/death-in-dreamland--archer-s8
-redirect_from:
+aliases:
  - /tv/7016/death-in-dreamland--archer-s8
 category: tv
 

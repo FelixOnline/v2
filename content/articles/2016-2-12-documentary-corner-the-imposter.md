@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:44:06 +0000"
 id: "5910"
 old_path: /film/5910/documentary-corner-the-imposter
-redirect_from:
+aliases:
  - /film/5910/documentary-corner-the-imposter
 category: film
 

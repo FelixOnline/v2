@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:15:25 +0000"
 id: "3256"
 old_path: /politics/3256/egypt-two-years-on-new-protests
-redirect_from:
+aliases:
  - /politics/3256/egypt-two-years-on-new-protests
 category: politics
 

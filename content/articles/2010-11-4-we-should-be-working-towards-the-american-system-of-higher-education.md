@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:08:28 +0000"
 id: "327"
 old_path: /news/327/we-should-be-working-towards-the-american-system-of-higher-education
-redirect_from:
+aliases:
  - /news/327/we-should-be-working-towards-the-american-system-of-higher-education
 category: news
 

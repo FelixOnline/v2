@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:20:43 +0000"
 id: "428"
 old_path: /arts/428/imperial-talent-class-of-10
-redirect_from:
+aliases:
  - /arts/428/imperial-talent-class-of-10
 category: arts
 

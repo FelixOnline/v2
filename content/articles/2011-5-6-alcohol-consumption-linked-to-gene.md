@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 08:13:33 +0100"
 id: "1153"
 old_path: /science/1153/alcohol-consumption-linked-to-gene
-redirect_from:
+aliases:
  - /science/1153/alcohol-consumption-linked-to-gene
 category: science
 

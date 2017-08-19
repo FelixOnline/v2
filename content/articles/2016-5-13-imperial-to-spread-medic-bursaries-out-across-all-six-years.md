@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:48:29 +0100"
 id: "6141"
 old_path: /news/6141/imperial-to-spread-medic-bursaries-out-across-all-six-years
-redirect_from:
+aliases:
  - /news/6141/imperial-to-spread-medic-bursaries-out-across-all-six-years
 category: news
 

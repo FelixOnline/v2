@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:52:21 +0000"
 id: "853"
 old_path: /sport/853/cricket-have-tough-time-at-bucs-indoor-tournament
-redirect_from:
+aliases:
  - /sport/853/cricket-have-tough-time-at-bucs-indoor-tournament
 category: sport
 

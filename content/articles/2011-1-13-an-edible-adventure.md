@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 19:49:35 +0000"
 id: "570"
 old_path: /food/570/an-edible-adventure-
-redirect_from:
+aliases:
  - /food/570/an-edible-adventure-
 category: food
 

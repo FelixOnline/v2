@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 14:59:01 +0100"
 id: "7012"
 old_path: /comment/7012/an-ode-to-shepherds-bush
-redirect_from:
+aliases:
  - /comment/7012/an-ode-to-shepherds-bush
 category: comment
 

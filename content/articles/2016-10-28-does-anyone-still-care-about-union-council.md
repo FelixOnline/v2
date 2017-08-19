@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 14:40:26 +0100"
 id: "6348"
 old_path: /news/6348/does-anyone-still-care-about-union-council
-redirect_from:
+aliases:
  - /news/6348/does-anyone-still-care-about-union-council
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:41:25 +0000"
 id: "1783"
 old_path: /tech/1783/boosting-mobile-innovation
-redirect_from:
+aliases:
  - /tech/1783/boosting-mobile-innovation
 category: tech
 

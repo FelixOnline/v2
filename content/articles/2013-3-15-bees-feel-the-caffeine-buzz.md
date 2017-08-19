@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:00:54 +0000"
 id: "3466"
 old_path: /science/3466/bees-feel-the-caffeine-buzz
-redirect_from:
+aliases:
  - /science/3466/bees-feel-the-caffeine-buzz
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:19:10 +0000"
 id: "5036"
 old_path: /tv/5036/christmas-at-downton-abbey--year-5
-redirect_from:
+aliases:
  - /tv/5036/christmas-at-downton-abbey--year-5
 category: tv
 

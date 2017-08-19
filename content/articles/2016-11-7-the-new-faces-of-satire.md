@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:47:56 +0000"
 id: "6410"
 old_path: /tv/6410/the-new-faces-of-satire
-redirect_from:
+aliases:
  - /tv/6410/the-new-faces-of-satire
 category: tv
 

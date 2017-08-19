@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 23:26:48 +0000"
 id: "2220"
 old_path: /sport/2220/kicking-up-a-storm-
-redirect_from:
+aliases:
  - /sport/2220/kicking-up-a-storm-
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 21:11:42 +0000"
 id: "4797"
 old_path: /cands/4797/barracuda-the-world-cup-and-suspicious-gopros-
-redirect_from:
+aliases:
  - /cands/4797/barracuda-the-world-cup-and-suspicious-gopros-
 category: clubs-and-socs
 

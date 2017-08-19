@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:22:01 +0000"
 id: "5097"
 old_path: /comment/5097/freedom-of-speech-in-a-civilised-society
-redirect_from:
+aliases:
  - /comment/5097/freedom-of-speech-in-a-civilised-society
 category: comment
 

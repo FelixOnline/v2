@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:53:44 +0000"
 id: "959"
 old_path: /politics/959/should-prisoners-be-allowed-to-vote
-redirect_from:
+aliases:
  - /politics/959/should-prisoners-be-allowed-to-vote
 category: politics
 

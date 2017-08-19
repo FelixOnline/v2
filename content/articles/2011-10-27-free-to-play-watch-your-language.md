@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 23:25:52 +0100"
 id: "1621"
 old_path: /games/1621/free-to-play-watch-your-language
-redirect_from:
+aliases:
  - /games/1621/free-to-play-watch-your-language
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:52:39 +0100"
 id: "6209"
 old_path: /science/6209/cosmic-dust-hints-at-alternate-history-
-redirect_from:
+aliases:
  - /science/6209/cosmic-dust-hints-at-alternate-history-
 category: science
 

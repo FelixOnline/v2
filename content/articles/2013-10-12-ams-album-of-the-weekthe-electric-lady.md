@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 00:35:33 +0100"
 id: "3839"
 old_path: /music/3839/ams-album-of-the-weekthe-electric-lady
-redirect_from:
+aliases:
  - /music/3839/ams-album-of-the-weekthe-electric-lady
 category: music
 

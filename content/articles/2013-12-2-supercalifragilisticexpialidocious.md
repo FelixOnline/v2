@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:18:56 +0000"
 id: "4171"
 old_path: /film/4171/supercalifragilisticexpialidocious
-redirect_from:
+aliases:
  - /film/4171/supercalifragilisticexpialidocious
 category: film
 

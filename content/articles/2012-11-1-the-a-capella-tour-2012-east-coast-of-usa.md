@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:24:35 +0000"
 id: "2781"
 old_path: /news/2781/the-a-capella-tour-2012-east-coast-of-usa
-redirect_from:
+aliases:
  - /news/2781/the-a-capella-tour-2012-east-coast-of-usa
 category: news
 

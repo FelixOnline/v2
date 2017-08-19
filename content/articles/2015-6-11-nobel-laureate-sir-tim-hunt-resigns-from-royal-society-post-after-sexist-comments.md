@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:23:29 +0100"
 id: "5615"
 old_path: /news/5615/nobel-laureate-sir-tim-hunt-resigns-from-royal-society-post-after-sexist-comments
-redirect_from:
+aliases:
  - /news/5615/nobel-laureate-sir-tim-hunt-resigns-from-royal-society-post-after-sexist-comments
 category: news
 

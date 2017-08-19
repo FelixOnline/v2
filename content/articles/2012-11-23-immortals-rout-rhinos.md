@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:05:05 +0000"
 id: "2959"
 old_path: /sport/2959/immortals-rout-rhinos
-redirect_from:
+aliases:
  - /sport/2959/immortals-rout-rhinos
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 22:51:20 +0000"
 id: "3167"
 old_path: /music/3167/a-doomy-night-with-katatonia-and-alcest
-redirect_from:
+aliases:
  - /music/3167/a-doomy-night-with-katatonia-and-alcest
 category: music
 

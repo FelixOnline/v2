@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:08:05 +0000"
 id: "6662"
 old_path: /science/6662/is-it-stupid-to-take-smart-drugs
-redirect_from:
+aliases:
  - /science/6662/is-it-stupid-to-take-smart-drugs
 category: science
 

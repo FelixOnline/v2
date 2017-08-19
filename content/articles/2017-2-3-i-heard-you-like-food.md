@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 18:11:26 +0000"
 id: "6738"
 old_path: /sex/6738/i-heard-you-like-food
-redirect_from:
+aliases:
  - /sex/6738/i-heard-you-like-food
 category: sex
 

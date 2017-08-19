@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 21:05:00 +0100"
 id: "2575"
 old_path: /phoenix/2575/brief-history-of-phoenix
-redirect_from:
+aliases:
  - /phoenix/2575/brief-history-of-phoenix
 category: phoenix
 

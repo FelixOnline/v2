@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 21:01:24 +0100"
 id: "1505"
 old_path: /news/1505/fire-engine-jezebel-clocks-up-50000-miles
-redirect_from:
+aliases:
  - /news/1505/fire-engine-jezebel-clocks-up-50000-miles
 category: news
 

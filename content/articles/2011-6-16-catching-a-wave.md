@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:49:29 +0100"
 id: "1386"
 old_path: /science/1386/catching-a-wave-
-redirect_from:
+aliases:
  - /science/1386/catching-a-wave-
 category: science
 

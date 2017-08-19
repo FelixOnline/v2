@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-28 07:10:16 +0000"
 id: "4440"
 old_path: /news/4440/imperial-students-win-inter-university-hackathon
-redirect_from:
+aliases:
  - /news/4440/imperial-students-win-inter-university-hackathon
 category: news
 

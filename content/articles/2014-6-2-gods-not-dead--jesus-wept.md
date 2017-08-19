@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 13:05:56 +0100"
 id: "4646"
 old_path: /film/4646/gods-not-dead--jesus-wept
-redirect_from:
+aliases:
  - /film/4646/gods-not-dead--jesus-wept
 category: film
 

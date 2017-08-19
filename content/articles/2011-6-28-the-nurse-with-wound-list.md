@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:29:13 +0100"
 id: "1442"
 old_path: /music/1442/the-nurse-with-wound-list
-redirect_from:
+aliases:
  - /music/1442/the-nurse-with-wound-list
 category: music
 

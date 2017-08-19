@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:16:41 +0000"
 id: "6865"
 old_path: /news/6865/imperial-celebrates-women-in-science
-redirect_from:
+aliases:
  - /news/6865/imperial-celebrates-women-in-science
 category: news
 

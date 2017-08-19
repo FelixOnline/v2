@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-21 10:49:17 +0000"
 id: "1118"
 old_path: /food/1118/the-big-meat-fight
-redirect_from:
+aliases:
  - /food/1118/the-big-meat-fight
 category: food
 

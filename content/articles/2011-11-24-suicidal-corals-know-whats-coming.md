@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:14:41 +0000"
 id: "1816"
 old_path: /science/1816/suicidal-corals-know-whats-coming
-redirect_from:
+aliases:
  - /science/1816/suicidal-corals-know-whats-coming
 category: science
 

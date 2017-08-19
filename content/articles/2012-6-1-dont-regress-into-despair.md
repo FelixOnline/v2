@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 13:30:27 +0100"
 id: "2516"
 old_path: /science/2516/dont-regress-into-despair
-redirect_from:
+aliases:
  - /science/2516/dont-regress-into-despair
 category: science
 

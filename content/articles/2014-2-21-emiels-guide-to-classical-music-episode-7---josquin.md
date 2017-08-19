@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:33:39 +0000"
 id: "4433"
 old_path: /music/4433/emiels-guide-to-classical-music-episode-7---josquin
-redirect_from:
+aliases:
  - /music/4433/emiels-guide-to-classical-music-episode-7---josquin
 category: music
 

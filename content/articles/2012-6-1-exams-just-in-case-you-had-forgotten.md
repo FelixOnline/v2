@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:48:42 +0100"
 id: "2513"
 old_path: /comment/2513/exams-just-in-case-you-had-forgotten
-redirect_from:
+aliases:
  - /comment/2513/exams-just-in-case-you-had-forgotten
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 12:46:00 +0100"
 id: "6323"
 old_path: /film/6323/five-great-true-crime-films-that-arent-goodfellas
-redirect_from:
+aliases:
  - /film/6323/five-great-true-crime-films-that-arent-goodfellas
 category: film
 

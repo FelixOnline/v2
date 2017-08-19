@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:36:27 +0000"
 id: "4129"
 old_path: /games/4129/wii-u-no-consider-nintendo
-redirect_from:
+aliases:
  - /games/4129/wii-u-no-consider-nintendo
 category: games
 

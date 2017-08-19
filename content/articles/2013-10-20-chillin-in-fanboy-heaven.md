@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-20 01:50:36 +0100"
 id: "3903"
 old_path: /music/3903/chillin-in-fanboy-heaven-
-redirect_from:
+aliases:
  - /music/3903/chillin-in-fanboy-heaven-
 category: music
 

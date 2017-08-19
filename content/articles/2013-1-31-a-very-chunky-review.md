@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:46:42 +0000"
 id: "3215"
 old_path: /food/3215/a-very-chunky-review
-redirect_from:
+aliases:
  - /food/3215/a-very-chunky-review
 category: food
 

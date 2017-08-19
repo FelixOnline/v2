@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:49:31 +0100"
 id: "2725"
 old_path: /food/2725/yiangos-coconut-cake
-redirect_from:
+aliases:
  - /food/2725/yiangos-coconut-cake
 category: food
 

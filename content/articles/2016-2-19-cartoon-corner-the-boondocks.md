@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:23:12 +0000"
 id: "5944"
 old_path: /tv/5944/-cartoon-corner-the-boondocks
-redirect_from:
+aliases:
  - /tv/5944/-cartoon-corner-the-boondocks
 category: tv
 

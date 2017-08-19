@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 18:53:44 +0100"
 id: "1252"
 old_path: /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
-redirect_from:
+aliases:
  - /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
 category: news
 

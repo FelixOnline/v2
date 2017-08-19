@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 13:32:10 +0000"
 id: "2860"
 old_path: /film/2860/disney-buys-lucasfilm
-redirect_from:
+aliases:
  - /film/2860/disney-buys-lucasfilm
 category: film
 

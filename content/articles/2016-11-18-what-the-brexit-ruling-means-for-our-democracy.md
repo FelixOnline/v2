@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:46:17 +0000"
 id: "6461"
 old_path: /comment/6461/what-the-brexit-ruling-means-for-our-democracy
-redirect_from:
+aliases:
  - /comment/6461/what-the-brexit-ruling-means-for-our-democracy
 category: comment
 

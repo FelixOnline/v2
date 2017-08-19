@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:02:44 +0000"
 id: "831"
 old_path: /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
-redirect_from:
+aliases:
  - /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
 category: games
 

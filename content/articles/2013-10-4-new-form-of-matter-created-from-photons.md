@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:33:27 +0100"
 id: "3799"
 old_path: /science/3799/new-form-of-matter-created-from-photons
-redirect_from:
+aliases:
  - /science/3799/new-form-of-matter-created-from-photons
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:36:28 +0100"
 id: "3800"
 old_path: /science/3800/link-found-between-hiv-and-cocaine
-redirect_from:
+aliases:
  - /science/3800/link-found-between-hiv-and-cocaine
 category: science
 

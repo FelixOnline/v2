@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-05 23:00:00 +0100"
 id: "750"
 old_path: /tv/750/what-we-watched-
-redirect_from:
+aliases:
  - /tv/750/what-we-watched-
 category: tv
 

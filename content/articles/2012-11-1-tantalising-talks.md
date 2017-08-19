@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:26:19 +0000"
 id: "2782"
 old_path: /news/2782/tantalising-talks
-redirect_from:
+aliases:
  - /news/2782/tantalising-talks
 category: news
 

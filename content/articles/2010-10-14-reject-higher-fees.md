@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 20:05:56 +0100"
 id: "220"
 old_path: /comment/220/reject-higher-fees-
-redirect_from:
+aliases:
  - /comment/220/reject-higher-fees-
 category: comment
 

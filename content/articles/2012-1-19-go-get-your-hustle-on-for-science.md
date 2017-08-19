@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:23:49 +0000"
 id: "2013"
 old_path: /games/2013/go-get-your-hustle-on-for-science
-redirect_from:
+aliases:
  - /games/2013/go-get-your-hustle-on-for-science
 category: games
 

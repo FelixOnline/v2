@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:10:21 +0100"
 id: "1381"
 old_path: /news/1381/dyson-provides-money-for-imperial-engineering-scholarships
-redirect_from:
+aliases:
  - /news/1381/dyson-provides-money-for-imperial-engineering-scholarships
 category: news
 

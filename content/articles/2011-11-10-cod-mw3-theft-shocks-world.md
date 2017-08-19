@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:28:59 +0000"
 id: "1749"
 old_path: /games/1749/cod-mw3-theft-shocks-world
-redirect_from:
+aliases:
  - /games/1749/cod-mw3-theft-shocks-world
 category: games
 

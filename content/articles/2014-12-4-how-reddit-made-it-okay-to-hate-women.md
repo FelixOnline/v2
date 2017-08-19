@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 18:26:52 +0000"
 id: "4985"
 old_path: /comment/4985/how-reddit-made-it-okay-to-hate-women
-redirect_from:
+aliases:
  - /comment/4985/how-reddit-made-it-okay-to-hate-women
 category: comment
 

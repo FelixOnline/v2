@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:43:57 +0000"
 id: "2195"
 old_path: /science/2195/mind-reading-programs
-redirect_from:
+aliases:
  - /science/2195/mind-reading-programs
 category: science
 

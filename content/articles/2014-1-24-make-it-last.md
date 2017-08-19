@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:13:37 +0000"
 id: "4299"
 old_path: /film/4299/make-it-last
-redirect_from:
+aliases:
  - /film/4299/make-it-last
 category: film
 

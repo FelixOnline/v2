@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 10:19:40 +0100"
 id: "1541"
 old_path: /politics/1541/one-little-piggy-went-to-market
-redirect_from:
+aliases:
  - /politics/1541/one-little-piggy-went-to-market
 category: politics
 

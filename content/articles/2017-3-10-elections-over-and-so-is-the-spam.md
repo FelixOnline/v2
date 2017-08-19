@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:18:10 +0000"
 id: "6866"
 old_path: /news/6866/elections-over-and-so-is-the-spam
-redirect_from:
+aliases:
  - /news/6866/elections-over-and-so-is-the-spam
 category: news
 

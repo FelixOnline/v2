@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 15:50:06 +0100"
 id: "1364"
 old_path: /music/1364/south-west-four
-redirect_from:
+aliases:
  - /music/1364/south-west-four
 category: music
 

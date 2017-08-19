@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 21:03:40 +0100"
 id: "1401"
 old_path: /travel/1401/return-of-the-mummy
-redirect_from:
+aliases:
  - /travel/1401/return-of-the-mummy
 category: travel
 

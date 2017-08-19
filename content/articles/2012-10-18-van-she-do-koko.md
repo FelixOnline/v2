@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:33:46 +0100"
 id: "2712"
 old_path: /music/2712/van-she-do-koko
-redirect_from:
+aliases:
  - /music/2712/van-she-do-koko
 category: music
 

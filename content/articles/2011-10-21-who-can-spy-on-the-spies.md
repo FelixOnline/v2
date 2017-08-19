@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 09:44:39 +0100"
 id: "1582"
 old_path: /film/1582/who-can-spy-on-the-spies
-redirect_from:
+aliases:
  - /film/1582/who-can-spy-on-the-spies
 category: film
 

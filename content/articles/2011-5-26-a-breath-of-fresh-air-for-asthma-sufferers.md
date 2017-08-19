@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 19:20:06 +0100"
 id: "1258"
 old_path: /science/1258/a-breath-of-fresh-air-for-asthma-sufferers
-redirect_from:
+aliases:
  - /science/1258/a-breath-of-fresh-air-for-asthma-sufferers
 category: science
 

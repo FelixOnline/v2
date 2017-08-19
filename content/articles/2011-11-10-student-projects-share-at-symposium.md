@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:06:39 +0000"
 id: "1741"
 old_path: /news/1741/student-projects-share-at-symposium
-redirect_from:
+aliases:
  - /news/1741/student-projects-share-at-symposium
 category: news
 

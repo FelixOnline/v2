@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 11:07:00 +0000"
 id: "5923"
 old_path: /news/5923/rag-mag-battle-reaches-national-newspapers
-redirect_from:
+aliases:
  - /news/5923/rag-mag-battle-reaches-national-newspapers
 category: news
 

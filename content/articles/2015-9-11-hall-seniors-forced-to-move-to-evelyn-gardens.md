@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-09-11 19:09:48 +0100"
 id: "5652"
 old_path: /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
-redirect_from:
+aliases:
  - /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 20:54:09 +0000"
 id: "4911"
 old_path: /comment/4911/the-retirement-of-dapper-laughs
-redirect_from:
+aliases:
  - /comment/4911/the-retirement-of-dapper-laughs
 category: comment
 

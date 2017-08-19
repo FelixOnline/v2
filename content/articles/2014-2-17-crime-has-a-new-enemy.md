@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 19:30:15 +0000"
 id: "4400"
 old_path: /film/4400/crime-has-a-new-enemy
-redirect_from:
+aliases:
  - /film/4400/crime-has-a-new-enemy
 category: film
 

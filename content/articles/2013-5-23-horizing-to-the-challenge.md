@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:49:59 +0100"
 id: "3606"
 old_path: /news/3606/horizing-to-the-challenge
-redirect_from:
+aliases:
  - /news/3606/horizing-to-the-challenge
 category: news
 

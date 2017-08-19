@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:13:56 +0000"
 id: "385"
 old_path: /science/385/huge-leap-forward-in-quantum-computing
-redirect_from:
+aliases:
  - /science/385/huge-leap-forward-in-quantum-computing
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:36:51 +0100"
 id: "1196"
 old_path: /food/1196/dinner-at-hestons
-redirect_from:
+aliases:
  - /food/1196/dinner-at-hestons
 category: food
 

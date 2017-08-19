@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-01 00:09:44 +0000"
 id: "6377"
 old_path: /tv/6377/humans-20-human-harder
-redirect_from:
+aliases:
  - /tv/6377/humans-20-human-harder
 category: tv
 

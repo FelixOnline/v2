@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:57:46 +0000"
 id: "5159"
 old_path: /news/5159/outcomes-of-union-council-email-vote-released-to-members-
-redirect_from:
+aliases:
  - /news/5159/outcomes-of-union-council-email-vote-released-to-members-
 category: news
 

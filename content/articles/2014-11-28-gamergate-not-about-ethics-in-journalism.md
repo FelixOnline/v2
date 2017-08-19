@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 01:07:27 +0000"
 id: "4975"
 old_path: /games/4975/gamergate-not-about-ethics-in-journalism
-redirect_from:
+aliases:
  - /games/4975/gamergate-not-about-ethics-in-journalism
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:26:35 +0000"
 id: "5040"
 old_path: /cands/5040/metalwork-guild-at-imperial
-redirect_from:
+aliases:
  - /cands/5040/metalwork-guild-at-imperial
 category: clubs-and-socs
 

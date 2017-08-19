@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:13:35 +0100"
 id: "2559"
 old_path: /science/2559/extremophiles-found-in-atacama
-redirect_from:
+aliases:
  - /science/2559/extremophiles-found-in-atacama
 category: science
 

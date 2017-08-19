@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 17:24:04 +0000"
 id: "2307"
 old_path: /sport/2307/pulling-their-weight-
-redirect_from:
+aliases:
  - /sport/2307/pulling-their-weight-
 category: sport
 

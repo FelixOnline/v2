@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:54:21 +0000"
 id: "4284"
 old_path: /comment/4284/on-adaptations-and-dragons
-redirect_from:
+aliases:
  - /comment/4284/on-adaptations-and-dragons
 category: comment
 

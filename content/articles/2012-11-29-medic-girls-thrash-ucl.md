@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:14:34 +0000"
 id: "3009"
 old_path: /sport/3009/medic-girls-thrash-ucl
-redirect_from:
+aliases:
  - /sport/3009/medic-girls-thrash-ucl
 category: sport
 

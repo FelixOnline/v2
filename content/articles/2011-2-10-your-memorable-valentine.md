@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:58:19 +0000"
 id: "789"
 old_path: /arts/789/your-memorable-valentine
-redirect_from:
+aliases:
  - /arts/789/your-memorable-valentine
 category: arts
 

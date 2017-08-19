@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:46:51 +0000"
 id: "1076"
 old_path: /food/1076/the-nandos-health-service
-redirect_from:
+aliases:
  - /food/1076/the-nandos-health-service
 category: food
 

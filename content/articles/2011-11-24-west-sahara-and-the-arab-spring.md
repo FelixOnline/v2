@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:26:08 +0000"
 id: "1820"
 old_path: /politics/1820/west-sahara-and-the-arab-spring
-redirect_from:
+aliases:
  - /politics/1820/west-sahara-and-the-arab-spring
 category: politics
 

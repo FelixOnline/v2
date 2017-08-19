@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:09:24 +0100"
 id: "2691"
 old_path: /arts/2691/frieze-art-fair-10
-redirect_from:
+aliases:
  - /arts/2691/frieze-art-fair-10
 category: arts
 

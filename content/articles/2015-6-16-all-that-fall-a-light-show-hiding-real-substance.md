@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-16 18:55:52 +0100"
 id: "5624"
 old_path: /arts/5624/all-that-fall-a-light-show-hiding-real-substance
-redirect_from:
+aliases:
  - /arts/5624/all-that-fall-a-light-show-hiding-real-substance
 category: arts
 

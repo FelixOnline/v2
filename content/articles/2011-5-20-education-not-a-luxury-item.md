@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:55:00 +0100"
 id: "1231"
 old_path: /comment/1231/education-not-a-luxury-item
-redirect_from:
+aliases:
  - /comment/1231/education-not-a-luxury-item
 category: comment
 

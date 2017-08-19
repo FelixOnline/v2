@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:28:35 +0000"
 id: "2928"
 old_path: /news/2928/student-protest-march-held-in-london-on-wednesday
-redirect_from:
+aliases:
  - /news/2928/student-protest-march-held-in-london-on-wednesday
 category: news
 

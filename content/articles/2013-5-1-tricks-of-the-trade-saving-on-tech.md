@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-01 13:42:11 +0100"
 id: "3511"
 old_path: /tech/3511/tricks-of-the-trade-saving-on-tech
-redirect_from:
+aliases:
  - /tech/3511/tricks-of-the-trade-saving-on-tech
 category: tech
 

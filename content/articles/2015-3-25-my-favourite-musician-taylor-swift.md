@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 11:49:45 +0000"
 id: "5421"
 old_path: /music/5421/my-favourite-musician-taylor-swift
-redirect_from:
+aliases:
  - /music/5421/my-favourite-musician-taylor-swift
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:53:10 +0000"
 id: "4459"
 old_path: /comment/4459/berlin-a-night-life-review
-redirect_from:
+aliases:
  - /comment/4459/berlin-a-night-life-review
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:46:33 +0000"
 id: "2792"
 old_path: /science/2792/fancy-a-change-of-pace-go-planet-hunting
-redirect_from:
+aliases:
  - /science/2792/fancy-a-change-of-pace-go-planet-hunting
 category: science
 

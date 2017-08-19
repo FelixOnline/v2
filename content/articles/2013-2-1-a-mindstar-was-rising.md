@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:24:39 +0000"
 id: "3226"
 old_path: /books/3226/a-mindstar-was-rising
-redirect_from:
+aliases:
  - /books/3226/a-mindstar-was-rising
 category: books
 

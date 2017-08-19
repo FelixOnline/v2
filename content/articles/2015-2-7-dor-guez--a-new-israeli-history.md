@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:15:22 +0000"
 id: "5206"
 old_path: /arts/5206/dor-guez--a-new-israeli-history
-redirect_from:
+aliases:
  - /arts/5206/dor-guez--a-new-israeli-history
 category: arts
 

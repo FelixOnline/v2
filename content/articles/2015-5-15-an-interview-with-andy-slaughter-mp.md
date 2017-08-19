@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:15:16 +0100"
 id: "5529"
 old_path: /politics/5529/an-interview-with-andy-slaughter-mp
-redirect_from:
+aliases:
  - /politics/5529/an-interview-with-andy-slaughter-mp
 category: politics
 

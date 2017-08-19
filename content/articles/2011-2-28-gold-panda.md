@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:34:07 +0000"
 id: "949"
 old_path: /music/949/gold-panda
-redirect_from:
+aliases:
  - /music/949/gold-panda
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:42:00 +0100"
 id: "1489"
 old_path: /tech/1489/iphone-4s-debuts-to-mixed-reactions
-redirect_from:
+aliases:
  - /tech/1489/iphone-4s-debuts-to-mixed-reactions
 category: tech
 

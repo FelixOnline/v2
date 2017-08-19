@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 15:59:49 +0000"
 id: "6429"
 old_path: /science/6429/spotlight-on-medicine
-redirect_from:
+aliases:
  - /science/6429/spotlight-on-medicine
 category: science
 

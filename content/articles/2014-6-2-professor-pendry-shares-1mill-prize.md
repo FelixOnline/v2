@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:42:30 +0100"
 id: "4638"
 old_path: /news/4638/professor-pendry-shares-1mill-prize-
-redirect_from:
+aliases:
  - /news/4638/professor-pendry-shares-1mill-prize-
 category: news
 

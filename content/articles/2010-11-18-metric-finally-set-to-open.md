@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:44:54 +0000"
 id: "409"
 old_path: /news/409/metric-finally-set-to-open-
-redirect_from:
+aliases:
  - /news/409/metric-finally-set-to-open-
 category: news
 

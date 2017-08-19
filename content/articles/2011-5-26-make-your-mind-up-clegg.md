@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 23:46:03 +0100"
 id: "1268"
 old_path: /comment/1268/make-your-mind-up-clegg
-redirect_from:
+aliases:
  - /comment/1268/make-your-mind-up-clegg
 category: comment
 

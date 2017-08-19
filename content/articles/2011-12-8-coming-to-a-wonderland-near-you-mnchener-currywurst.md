@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:53:38 +0000"
 id: "1949"
 old_path: /food/1949/coming-to-a-wonderland-near-you-mnchener-currywurst
-redirect_from:
+aliases:
  - /food/1949/coming-to-a-wonderland-near-you-mnchener-currywurst
 category: food
 

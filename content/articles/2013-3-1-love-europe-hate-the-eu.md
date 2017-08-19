@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:55:44 +0000"
 id: "3412"
 old_path: /comment/3412/love-europe-hate-the-eu
-redirect_from:
+aliases:
  - /comment/3412/love-europe-hate-the-eu
 category: comment
 

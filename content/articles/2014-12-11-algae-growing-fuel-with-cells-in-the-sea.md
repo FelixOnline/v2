@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:29:47 +0000"
 id: "5027"
 old_path: /science/5027/algae-growing-fuel-with-cells-in-the-sea
-redirect_from:
+aliases:
  - /science/5027/algae-growing-fuel-with-cells-in-the-sea
 category: science
 

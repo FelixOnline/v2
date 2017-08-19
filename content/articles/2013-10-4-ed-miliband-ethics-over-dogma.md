@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:46:26 +0100"
 id: "3803"
 old_path: /comment/3803/ed-miliband-ethics-over-dogma
-redirect_from:
+aliases:
  - /comment/3803/ed-miliband-ethics-over-dogma
 category: comment
 

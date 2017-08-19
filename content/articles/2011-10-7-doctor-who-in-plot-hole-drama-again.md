@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 12:44:03 +0100"
 id: "1493"
 old_path: /tv/1493/doctor-who-in-plot-hole-drama-again
-redirect_from:
+aliases:
  - /tv/1493/doctor-who-in-plot-hole-drama-again
 category: tv
 

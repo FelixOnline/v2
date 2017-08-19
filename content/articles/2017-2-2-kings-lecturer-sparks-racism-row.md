@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-02 23:30:07 +0000"
 id: "6705"
 old_path: /news/6705/kings-lecturer-sparks-racism-row
-redirect_from:
+aliases:
  - /news/6705/kings-lecturer-sparks-racism-row
 category: news
 

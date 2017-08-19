@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:23:12 +0000"
 id: "4173"
 old_path: /film/4173/will-swedens-bechdel-rating-work
-redirect_from:
+aliases:
  - /film/4173/will-swedens-bechdel-rating-work
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-03 15:02:16 +0000"
 id: "5189"
 old_path: /film/5189/stoner-detective
-redirect_from:
+aliases:
  - /film/5189/stoner-detective
 category: film
 

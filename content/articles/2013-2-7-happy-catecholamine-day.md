@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 23:28:13 +0000"
 id: "3261"
 old_path: /science/3261/happy-catecholamine-day
-redirect_from:
+aliases:
  - /science/3261/happy-catecholamine-day
 category: science
 

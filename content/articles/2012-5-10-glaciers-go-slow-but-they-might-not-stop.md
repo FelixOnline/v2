@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:37:52 +0100"
 id: "2452"
 old_path: /science/2452/glaciers-go-slow-but-they-might-not-stop
-redirect_from:
+aliases:
  - /science/2452/glaciers-go-slow-but-they-might-not-stop
 category: science
 

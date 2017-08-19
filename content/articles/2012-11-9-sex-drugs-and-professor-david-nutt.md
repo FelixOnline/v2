@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:48:17 +0000"
 id: "2853"
 old_path: /science/2853/sex-drugs-and-professor-david-nutt
-redirect_from:
+aliases:
  - /science/2853/sex-drugs-and-professor-david-nutt
 category: science
 

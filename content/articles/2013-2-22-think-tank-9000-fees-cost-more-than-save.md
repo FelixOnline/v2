@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 00:01:34 +0000"
 id: "3352"
 old_path: /news/3352/think-tank-9000-fees-cost-more-than-save
-redirect_from:
+aliases:
  - /news/3352/think-tank-9000-fees-cost-more-than-save
 category: news
 

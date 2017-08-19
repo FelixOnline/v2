@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:58:25 +0000"
 id: "731"
 old_path: /film/731/the-late-great-john-barry-remembered
-redirect_from:
+aliases:
  - /film/731/the-late-great-john-barry-remembered
 category: film
 

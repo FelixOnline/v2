@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:28:55 +0000"
 id: "6599"
 old_path: /features/6599/an-idiots-guide-to-2016
-redirect_from:
+aliases:
  - /features/6599/an-idiots-guide-to-2016
 category: features
 

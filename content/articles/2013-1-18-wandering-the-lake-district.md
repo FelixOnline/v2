@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 01:07:23 +0000"
 id: "3149"
 old_path: /sport/3149/wandering-the-lake-district
-redirect_from:
+aliases:
  - /sport/3149/wandering-the-lake-district
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 18:56:34 +0100"
 id: "2526"
 old_path: /science/2526/butterflies-get-boost-from-climate
-redirect_from:
+aliases:
  - /science/2526/butterflies-get-boost-from-climate
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 20:19:51 +0000"
 id: "2314"
 old_path: /science/2314/bottoms-up-in-zero-g
-redirect_from:
+aliases:
  - /science/2314/bottoms-up-in-zero-g
 category: science
 

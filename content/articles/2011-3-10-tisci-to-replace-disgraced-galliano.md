@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:38:53 +0000"
 id: "1075"
 old_path: /fashion/1075/tisci-to-replace-disgraced-galliano
-redirect_from:
+aliases:
  - /fashion/1075/tisci-to-replace-disgraced-galliano
 category: fashion
 

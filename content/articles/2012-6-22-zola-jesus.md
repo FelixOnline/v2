@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-22 16:45:10 +0100"
 id: "2581"
 old_path: /music/2581/zola-jesus
-redirect_from:
+aliases:
  - /music/2581/zola-jesus
 category: music
 

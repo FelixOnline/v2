@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 13:44:23 +0000"
 id: "3339"
 old_path: /politics/3339/lifting-the-barriers
-redirect_from:
+aliases:
  - /politics/3339/lifting-the-barriers
 category: politics
 

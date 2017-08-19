@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:57:48 +0100"
 id: "1430"
 old_path: /comment/1430/murrayfail
-redirect_from:
+aliases:
  - /comment/1430/murrayfail
 category: comment
 

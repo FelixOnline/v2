@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-09 15:03:47 +0100"
 id: "5606"
 old_path: /travel/5606/packing-tips-for-budget-airline
-redirect_from:
+aliases:
  - /travel/5606/packing-tips-for-budget-airline
 category: travel
 

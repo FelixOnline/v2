@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:02:00 +0000"
 id: "2806"
 old_path: /books/2806/the-goalies-anxiety
-redirect_from:
+aliases:
  - /books/2806/the-goalies-anxiety
 category: books
 

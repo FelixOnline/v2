@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:32:17 +0100"
 id: "2681"
 old_path: /sport/2681/ichc-party-in-porto
-redirect_from:
+aliases:
  - /sport/2681/ichc-party-in-porto
 category: sport
 

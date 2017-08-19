@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:36:57 +0100"
 id: "1299"
 old_path: /science/1299/mystery-molecule-found-for-heroin-high
-redirect_from:
+aliases:
  - /science/1299/mystery-molecule-found-for-heroin-high
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 05:43:00 +0000"
 id: "979"
 old_path: /news/979/recriminations-as-bo-gets-cut
-redirect_from:
+aliases:
  - /news/979/recriminations-as-bo-gets-cut
 category: news
 

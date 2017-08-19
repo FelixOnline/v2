@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 21:08:12 +0100"
 id: "1402"
 old_path: /travel/1402/why-drive
-redirect_from:
+aliases:
  - /travel/1402/why-drive
 category: travel
 

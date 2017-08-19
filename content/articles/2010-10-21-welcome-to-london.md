@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:09:36 +0100"
 id: "233"
 old_path: /fashion/233/welcome-to-london-
-redirect_from:
+aliases:
  - /fashion/233/welcome-to-london-
 category: fashion
 

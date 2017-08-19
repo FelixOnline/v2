@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:49:13 +0100"
 id: "3896"
 old_path: /arts/3896/undercover-at-an-auction
-redirect_from:
+aliases:
  - /arts/3896/undercover-at-an-auction
 category: arts
 

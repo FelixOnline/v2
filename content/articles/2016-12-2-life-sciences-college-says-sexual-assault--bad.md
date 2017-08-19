@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 13:49:04 +0000"
 id: "6524"
 old_path: /news/6524/life-sciences-college-says-sexual-assault--bad
-redirect_from:
+aliases:
  - /news/6524/life-sciences-college-says-sexual-assault--bad
 category: news
 

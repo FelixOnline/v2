@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:24:43 +0000"
 id: "745"
 old_path: /comment/745/speak-responsibly-even-if-no-one-is-listening
-redirect_from:
+aliases:
  - /comment/745/speak-responsibly-even-if-no-one-is-listening
 category: comment
 

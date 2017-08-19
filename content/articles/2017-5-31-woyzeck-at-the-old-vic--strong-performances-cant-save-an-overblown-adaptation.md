@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-31 23:31:19 +0100"
 id: "6980"
 old_path: /arts/6980/woyzeck-at-the-old-vic--strong-performances-cant-save-an-overblown-adaptation
-redirect_from:
+aliases:
  - /arts/6980/woyzeck-at-the-old-vic--strong-performances-cant-save-an-overblown-adaptation
 category: arts
 

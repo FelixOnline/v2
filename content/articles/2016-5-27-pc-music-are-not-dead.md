@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:58:26 +0100"
 id: "6214"
 old_path: /music/6214/pc-music-are-not-dead
-redirect_from:
+aliases:
  - /music/6214/pc-music-are-not-dead
 category: music
 

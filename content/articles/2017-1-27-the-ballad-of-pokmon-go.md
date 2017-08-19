@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 17:34:31 +0000"
 id: "6702"
 old_path: /games/6702/the-ballad-of-pokmon-go
-redirect_from:
+aliases:
  - /games/6702/the-ballad-of-pokmon-go
 category: games
 

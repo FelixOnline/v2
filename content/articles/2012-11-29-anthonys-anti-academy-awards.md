@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:08:12 +0000"
 id: "3004"
 old_path: /film/3004/anthonys-anti-academy-awards
-redirect_from:
+aliases:
  - /film/3004/anthonys-anti-academy-awards
 category: film
 

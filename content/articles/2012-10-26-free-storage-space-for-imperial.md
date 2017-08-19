@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 01:42:21 +0100"
 id: "2731"
 old_path: /news/2731/free-storage-space-for-imperial
-redirect_from:
+aliases:
  - /news/2731/free-storage-space-for-imperial
 category: news
 

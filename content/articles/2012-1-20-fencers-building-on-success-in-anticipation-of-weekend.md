@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-20 12:06:04 +0000"
 id: "2040"
 old_path: /sport/2040/fencers-building-on-success-in-anticipation-of-weekend
-redirect_from:
+aliases:
  - /sport/2040/fencers-building-on-success-in-anticipation-of-weekend
 category: sport
 

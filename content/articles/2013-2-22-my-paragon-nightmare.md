@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:57:19 +0000"
 id: "3369"
 old_path: /comment/3369/my-paragon-nightmare
-redirect_from:
+aliases:
  - /comment/3369/my-paragon-nightmare
 category: comment
 

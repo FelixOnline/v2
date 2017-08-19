@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 23:03:32 +0100"
 id: "183"
 old_path: /biz/183/the-summer-begins-right-now
-redirect_from:
+aliases:
  - /biz/183/the-summer-begins-right-now
 category: business
 

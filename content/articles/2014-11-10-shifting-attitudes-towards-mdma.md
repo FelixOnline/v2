@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 21:28:48 +0000"
 id: "4820"
 old_path: /science/4820/shifting-attitudes-towards-mdma
-redirect_from:
+aliases:
  - /science/4820/shifting-attitudes-towards-mdma
 category: science
 

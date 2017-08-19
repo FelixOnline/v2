@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:20:58 +0000"
 id: "4935"
 old_path: /arts/4935/a-lacklustre-show-from-the-father-of-misogyny
-redirect_from:
+aliases:
  - /arts/4935/a-lacklustre-show-from-the-father-of-misogyny
 category: arts
 

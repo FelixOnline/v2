@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:55:04 +0000"
 id: "2935"
 old_path: /news/2935/international-week-2012
-redirect_from:
+aliases:
  - /news/2935/international-week-2012
 category: news
 

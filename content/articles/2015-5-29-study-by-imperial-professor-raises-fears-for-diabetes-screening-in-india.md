@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 01:03:26 +0100"
 id: "5578"
 old_path: /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
-redirect_from:
+aliases:
  - /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
 category: news
 

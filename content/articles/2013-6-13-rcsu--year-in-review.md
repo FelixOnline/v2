@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 23:42:58 +0100"
 id: "3699"
 old_path: /news/3699/rcsu--year-in-review
-redirect_from:
+aliases:
  - /news/3699/rcsu--year-in-review
 category: news
 

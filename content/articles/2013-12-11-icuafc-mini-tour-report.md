@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-11 00:37:48 +0000"
 id: "4199"
 old_path: /sport/4199/icuafc-mini-tour-report
-redirect_from:
+aliases:
  - /sport/4199/icuafc-mini-tour-report
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:24:11 +0000"
 id: "624"
 old_path: /food/624/russian-service-or-french
-redirect_from:
+aliases:
  - /food/624/russian-service-or-french
 category: food
 

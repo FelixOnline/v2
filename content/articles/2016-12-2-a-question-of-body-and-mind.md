@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 13:59:04 +0000"
 id: "6526"
 old_path: /science/6526/a-question-of-body-and-mind
-redirect_from:
+aliases:
  - /science/6526/a-question-of-body-and-mind
 category: science
 

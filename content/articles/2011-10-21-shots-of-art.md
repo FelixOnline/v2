@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 11:25:40 +0100"
 id: "1598"
 old_path: /arts/1598/shots-of-art
-redirect_from:
+aliases:
  - /arts/1598/shots-of-art
 category: arts
 

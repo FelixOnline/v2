@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:41:02 +0000"
 id: "781"
 old_path: /games/781/playstation-suite-to-bring-big-titles-to-android-phones-
-redirect_from:
+aliases:
  - /games/781/playstation-suite-to-bring-big-titles-to-android-phones-
 category: games
 

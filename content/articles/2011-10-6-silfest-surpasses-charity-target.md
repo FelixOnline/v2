@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-06 23:26:17 +0100"
 id: "1466"
 old_path: /news/1466/silfest-surpasses-charity-target
-redirect_from:
+aliases:
  - /news/1466/silfest-surpasses-charity-target
 category: news
 

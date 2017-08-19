@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:51:43 +0100"
 id: "3776"
 old_path: /music/3776/four-of-the-best
-redirect_from:
+aliases:
  - /music/3776/four-of-the-best
 category: music
 

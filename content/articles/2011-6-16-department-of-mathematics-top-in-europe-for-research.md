@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:43:32 +0100"
 id: "1385"
 old_path: /news/1385/department-of-mathematics-top-in-europe-for-research
-redirect_from:
+aliases:
  - /news/1385/department-of-mathematics-top-in-europe-for-research
 category: news
 

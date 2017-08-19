@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:53:34 +0000"
 id: "4092"
 old_path: /sport/4092/imperial-reach-next-round-in-cup
-redirect_from:
+aliases:
  - /sport/4092/imperial-reach-next-round-in-cup
 category: sport
 

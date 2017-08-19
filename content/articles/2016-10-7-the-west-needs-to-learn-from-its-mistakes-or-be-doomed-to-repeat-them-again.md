@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-07 18:02:25 +0100"
 id: "6315"
 old_path: /comment/6315/the-west-needs-to-learn-from-its-mistakes-or-be-doomed-to-repeat-them-again
-redirect_from:
+aliases:
  - /comment/6315/the-west-needs-to-learn-from-its-mistakes-or-be-doomed-to-repeat-them-again
 category: comment
 

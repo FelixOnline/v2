@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 21:35:40 +0000"
 id: "2277"
 old_path: /books/2277/how-to-be-a-woman
-redirect_from:
+aliases:
  - /books/2277/how-to-be-a-woman
 category: books
 

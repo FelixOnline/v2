@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-07 09:46:52 +0000"
 id: "562"
 old_path: /arts/562/swinging-from-the-chandeliers
-redirect_from:
+aliases:
  - /arts/562/swinging-from-the-chandeliers
 category: arts
 

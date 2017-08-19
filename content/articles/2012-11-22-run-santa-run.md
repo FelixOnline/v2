@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 22:49:45 +0000"
 id: "2933"
 old_path: /news/2933/run-santa-run
-redirect_from:
+aliases:
  - /news/2933/run-santa-run
 category: news
 

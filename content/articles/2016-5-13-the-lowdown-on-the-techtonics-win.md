@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:39:22 +0100"
 id: "6167"
 old_path: /cands/6167/the-lowdown-on-the-techtonics-win
-redirect_from:
+aliases:
  - /cands/6167/the-lowdown-on-the-techtonics-win
 category: clubs-and-socs
 

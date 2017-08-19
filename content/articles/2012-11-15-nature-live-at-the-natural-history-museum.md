@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:04:54 +0000"
 id: "2891"
 old_path: /science/2891/nature-live-at-the-natural-history-museum
-redirect_from:
+aliases:
  - /science/2891/nature-live-at-the-natural-history-museum
 category: science
 

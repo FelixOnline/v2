@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 12:20:44 +0100"
 id: "5588"
 old_path: /games/5588/squad-go-go-go
-redirect_from:
+aliases:
  - /games/5588/squad-go-go-go
 category: games
 

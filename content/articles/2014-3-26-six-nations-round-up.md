@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 15:33:55 +0000"
 id: "4510"
 old_path: /sport/4510/six-nations-round-up
-redirect_from:
+aliases:
  - /sport/4510/six-nations-round-up
 category: sport
 

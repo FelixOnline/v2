@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-11 18:11:54 +0000"
 id: "4479"
 old_path: /games/4479/the-dino-killing-simulator-maxs-verdict
-redirect_from:
+aliases:
  - /games/4479/the-dino-killing-simulator-maxs-verdict
 category: games
 

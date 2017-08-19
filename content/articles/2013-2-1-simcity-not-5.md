@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:00:06 +0000"
 id: "3219"
 old_path: /games/3219/simcity-not-5
-redirect_from:
+aliases:
  - /games/3219/simcity-not-5
 category: games
 

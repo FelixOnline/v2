@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-15 15:17:14 +0100"
 id: "7024"
 old_path: /arts/7024/the-summer-exhibition-at-the-royal-academy
-redirect_from:
+aliases:
  - /arts/7024/the-summer-exhibition-at-the-royal-academy
 category: arts
 

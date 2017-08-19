@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 17:58:15 +0100"
 id: "5509"
 old_path: /news/5509/general-election-2015-the-winners-and-losers
-redirect_from:
+aliases:
  - /news/5509/general-election-2015-the-winners-and-losers
 category: news
 

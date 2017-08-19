@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:16:44 +0000"
 id: "2375"
 old_path: /music/2375/kadhims-totally-hot-revision-playlist
-redirect_from:
+aliases:
  - /music/2375/kadhims-totally-hot-revision-playlist
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 20:51:03 +0100"
 id: "2655"
 old_path: /news/2655/one-night-in-gem-bar
-redirect_from:
+aliases:
  - /news/2655/one-night-in-gem-bar
 category: news
 

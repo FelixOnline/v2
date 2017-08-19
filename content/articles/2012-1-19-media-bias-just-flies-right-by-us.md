@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:41:09 +0000"
 id: "2019"
 old_path: /comment/2019/media-bias-just-flies-right-by-us
-redirect_from:
+aliases:
  - /comment/2019/media-bias-just-flies-right-by-us
 category: comment
 

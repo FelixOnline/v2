@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:39:40 +0000"
 id: "390"
 old_path: /music/390/magnetic-man-rumbles-heaven
-redirect_from:
+aliases:
  - /music/390/magnetic-man-rumbles-heaven
 category: music
 

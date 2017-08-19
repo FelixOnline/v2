@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 13:56:28 +0000"
 id: "6525"
 old_path: /comment/6525/imperial-doesnt-need-your-money
-redirect_from:
+aliases:
  - /comment/6525/imperial-doesnt-need-your-money
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:46:05 +0000"
 id: "4215"
 old_path: /games/4215/dayz-nothing-about-flowers
-redirect_from:
+aliases:
  - /games/4215/dayz-nothing-about-flowers
 category: games
 

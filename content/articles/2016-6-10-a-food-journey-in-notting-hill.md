@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:37:07 +0100"
 id: "6267"
 old_path: /food/6267/a-food-journey-in-notting-hill
-redirect_from:
+aliases:
  - /food/6267/a-food-journey-in-notting-hill
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:41:11 +0000"
 id: "5909"
 old_path: /games/5909/the-witness
-redirect_from:
+aliases:
  - /games/5909/the-witness
 category: games
 

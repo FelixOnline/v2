@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:03:47 +0000"
 id: "587"
 old_path: /comment/587/imperial-needs-to-learn-that-affordable-is-not-a-dirty-word-
-redirect_from:
+aliases:
  - /comment/587/imperial-needs-to-learn-that-affordable-is-not-a-dirty-word-
 category: comment
 

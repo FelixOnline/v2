@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:19:28 +0000"
 id: "1818"
 old_path: /fashion/1818/men-how-to-dress-for-an-interview
-redirect_from:
+aliases:
  - /fashion/1818/men-how-to-dress-for-an-interview
 category: fashion
 

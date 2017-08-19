@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 15:37:26 +0000"
 id: "3957"
 old_path: /games/3957/android-humble-bundle
-redirect_from:
+aliases:
  - /games/3957/android-humble-bundle
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:32:16 +0000"
 id: "2325"
 old_path: /tv/2325/today-your-diary-entry-will-read-took-a-prozzie-hostage-and-was-shot-by-three-armed-bastards
-redirect_from:
+aliases:
  - /tv/2325/today-your-diary-entry-will-read-took-a-prozzie-hostage-and-was-shot-by-three-armed-bastards
 category: tv
 

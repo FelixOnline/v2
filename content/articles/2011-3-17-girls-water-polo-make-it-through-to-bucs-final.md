@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:54:55 +0000"
 id: "1108"
 old_path: /sport/1108/girls-water-polo-make-it-through-to-bucs-final
-redirect_from:
+aliases:
  - /sport/1108/girls-water-polo-make-it-through-to-bucs-final
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:04:47 +0000"
 id: "485"
 old_path: /music/485/botown-bring-the-bollywood-funk
-redirect_from:
+aliases:
  - /music/485/botown-bring-the-bollywood-funk
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 00:49:05 +0100"
 id: "5575"
 old_path: /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
-redirect_from:
+aliases:
  - /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
 category: news
 

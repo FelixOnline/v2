@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 17:42:22 +0000"
 id: "2309"
 old_path: /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
-redirect_from:
+aliases:
  - /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
 category: sport
 

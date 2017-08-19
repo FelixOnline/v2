@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:53:57 +0000"
 id: "6518"
 old_path: /sport/6518/weekend-action-for-ic-fencing
-redirect_from:
+aliases:
  - /sport/6518/weekend-action-for-ic-fencing
 category: sport
 

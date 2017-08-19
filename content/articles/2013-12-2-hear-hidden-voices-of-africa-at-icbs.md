@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 13:13:04 +0000"
 id: "4148"
 old_path: /features/4148/hear-hidden-voices-of-africa-at-icbs
-redirect_from:
+aliases:
  - /features/4148/hear-hidden-voices-of-africa-at-icbs
 category: features
 

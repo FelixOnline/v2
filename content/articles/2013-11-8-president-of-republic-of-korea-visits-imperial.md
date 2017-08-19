@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:39:22 +0000"
 id: "4021"
 old_path: /news/4021/president-of-republic-of-korea-visits-imperial
-redirect_from:
+aliases:
  - /news/4021/president-of-republic-of-korea-visits-imperial
 category: news
 

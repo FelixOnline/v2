@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:17:30 +0100"
 id: "6235"
 old_path: /science/6235/mars-under-the-magnifying-glass
-redirect_from:
+aliases:
  - /science/6235/mars-under-the-magnifying-glass
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:02:27 +0000"
 id: "1879"
 old_path: /film/1879/michelles-mesmeric-monroe
-redirect_from:
+aliases:
  - /film/1879/michelles-mesmeric-monroe
 category: film
 

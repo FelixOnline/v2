@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:38:30 +0000"
 id: "974"
 old_path: /science/974/words-will-not-feed-the-world
-redirect_from:
+aliases:
  - /science/974/words-will-not-feed-the-world
 category: science
 

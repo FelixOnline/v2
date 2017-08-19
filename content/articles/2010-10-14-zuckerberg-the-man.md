@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:48:30 +0100"
 id: "213"
 old_path: /tech/213/zuckerberg-the-man
-redirect_from:
+aliases:
  - /tech/213/zuckerberg-the-man
 category: tech
 

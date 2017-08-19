@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:30:34 +0000"
 id: "1010"
 old_path: /science/1010/has-the-media-failed-science
-redirect_from:
+aliases:
  - /science/1010/has-the-media-failed-science
 category: science
 

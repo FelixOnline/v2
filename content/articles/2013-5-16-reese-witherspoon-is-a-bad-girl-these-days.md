@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:12:56 +0100"
 id: "3580"
 old_path: /film/3580/reese-witherspoon-is-a-bad-girl-these-days
-redirect_from:
+aliases:
  - /film/3580/reese-witherspoon-is-a-bad-girl-these-days
 category: film
 

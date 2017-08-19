@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:53:08 +0000"
 id: "396"
 old_path: /film/396/cannibals-and-modern-family-dysfunction
-redirect_from:
+aliases:
  - /film/396/cannibals-and-modern-family-dysfunction
 category: film
 

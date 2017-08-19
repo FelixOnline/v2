@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-17 14:45:32 +0000"
 id: "5399"
 old_path: /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
-redirect_from:
+aliases:
  - /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
 category: travel
 

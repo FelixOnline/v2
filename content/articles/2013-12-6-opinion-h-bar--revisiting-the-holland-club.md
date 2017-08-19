@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:47:48 +0000"
 id: "4179"
 old_path: /features/4179/opinion-h-bar--revisiting-the-holland-club
-redirect_from:
+aliases:
  - /features/4179/opinion-h-bar--revisiting-the-holland-club
 category: features
 

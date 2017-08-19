@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 20:51:01 +0000"
 id: "5233"
 old_path: /news/5233/animal-protection-and-education-society-organise-animal-testing-debate
-redirect_from:
+aliases:
  - /news/5233/animal-protection-and-education-society-organise-animal-testing-debate
 category: news
 

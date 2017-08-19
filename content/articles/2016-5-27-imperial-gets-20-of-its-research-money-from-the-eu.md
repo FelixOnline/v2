@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:37:39 +0100"
 id: "6195"
 old_path: /news/6195/imperial-gets-20-of-its-research-money-from-the-eu
-redirect_from:
+aliases:
  - /news/6195/imperial-gets-20-of-its-research-money-from-the-eu
 category: news
 

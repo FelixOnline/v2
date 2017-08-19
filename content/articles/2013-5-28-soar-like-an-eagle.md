@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-28 14:04:31 +0100"
 id: "3625"
 old_path: /music/3625/soar-like-an-eagle
-redirect_from:
+aliases:
  - /music/3625/soar-like-an-eagle
 category: music
 

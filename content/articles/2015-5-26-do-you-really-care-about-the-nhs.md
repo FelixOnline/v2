@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 13:41:45 +0100"
 id: "5565"
 old_path: /arts/5565/do-you-really-care-about-the-nhs
-redirect_from:
+aliases:
  - /arts/5565/do-you-really-care-about-the-nhs
 category: arts
 

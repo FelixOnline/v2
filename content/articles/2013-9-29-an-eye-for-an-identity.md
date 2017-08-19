@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:33:41 +0100"
 id: "3774"
 old_path: /arts/3774/an-eye-for-an-identity
-redirect_from:
+aliases:
  - /arts/3774/an-eye-for-an-identity
 category: arts
 

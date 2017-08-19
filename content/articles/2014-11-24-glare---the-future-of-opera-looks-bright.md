@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 12:22:53 +0000"
 id: "4936"
 old_path: /arts/4936/glare---the-future-of-opera-looks-bright
-redirect_from:
+aliases:
  - /arts/4936/glare---the-future-of-opera-looks-bright
 category: arts
 

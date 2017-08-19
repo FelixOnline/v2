@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-04-07 12:58:27 +0100"
 id: "4527"
 old_path: /science/4527/epigenetics-implicated-in-type-2-diabetes
-redirect_from:
+aliases:
  - /science/4527/epigenetics-implicated-in-type-2-diabetes
 category: science
 

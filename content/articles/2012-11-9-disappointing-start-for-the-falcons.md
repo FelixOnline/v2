@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 14:33:30 +0000"
 id: "2876"
 old_path: /sport/2876/disappointing-start-for-the-falcons
-redirect_from:
+aliases:
  - /sport/2876/disappointing-start-for-the-falcons
 category: sport
 

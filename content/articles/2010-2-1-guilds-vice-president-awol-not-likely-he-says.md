@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 16:34:52 +0000"
 id: "59"
 old_path: /news/59/guilds-vice-president-awol-not-likely-he-says
-redirect_from:
+aliases:
  - /news/59/guilds-vice-president-awol-not-likely-he-says
 category: news
 

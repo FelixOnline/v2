@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:34:03 +0000"
 id: "1986"
 old_path: /film/1986/this-ladys-not-for-turning
-redirect_from:
+aliases:
  - /film/1986/this-ladys-not-for-turning
 category: film
 

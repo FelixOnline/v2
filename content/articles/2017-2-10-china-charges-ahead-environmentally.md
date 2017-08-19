@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 14:04:55 +0000"
 id: "6753"
 old_path: /science/6753/china-charges-ahead-environmentally
-redirect_from:
+aliases:
  - /science/6753/china-charges-ahead-environmentally
 category: science
 

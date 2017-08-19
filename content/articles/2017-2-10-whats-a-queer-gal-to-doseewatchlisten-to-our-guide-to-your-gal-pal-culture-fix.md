@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:35:16 +0000"
 id: "6764"
 old_path: /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
-redirect_from:
+aliases:
  - /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
 category: features
 

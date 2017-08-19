@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 01:28:27 +0100"
 id: "4551"
 old_path: /music/4551/ams-albums-you-may-have-missed
-redirect_from:
+aliases:
  - /music/4551/ams-albums-you-may-have-missed
 category: music
 

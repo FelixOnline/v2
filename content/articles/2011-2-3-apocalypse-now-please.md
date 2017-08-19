@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:17:27 +0000"
 id: "741"
 old_path: /comment/741/apocalypse-now-please-
-redirect_from:
+aliases:
  - /comment/741/apocalypse-now-please-
 category: comment
 

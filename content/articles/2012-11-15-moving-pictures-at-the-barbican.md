@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:25:51 +0000"
 id: "2895"
 old_path: /arts/2895/moving-pictures-at-the-barbican-
-redirect_from:
+aliases:
  - /arts/2895/moving-pictures-at-the-barbican-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 21:35:48 +0000"
 id: "4916"
 old_path: /sport/4916/has-the-big-four-become-a-big-two
-redirect_from:
+aliases:
  - /sport/4916/has-the-big-four-become-a-big-two
 category: sport
 

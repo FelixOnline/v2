@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:28:52 +0100"
 id: "2595"
 old_path: /arts/2595/exquisite-corpses
-redirect_from:
+aliases:
  - /arts/2595/exquisite-corpses
 category: arts
 

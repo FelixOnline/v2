@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 11:13:50 +0100"
 id: "2467"
 old_path: /science/2467/a-cheaper-way-to-make-hydrogen
-redirect_from:
+aliases:
  - /science/2467/a-cheaper-way-to-make-hydrogen
 category: science
 

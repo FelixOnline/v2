@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 13:29:05 +0100"
 id: "4651"
 old_path: /sport/4651/so-you-wanna-be-the-very-best
-redirect_from:
+aliases:
  - /sport/4651/so-you-wanna-be-the-very-best
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 14:09:35 +0000"
 id: "5356"
 old_path: /sport/5356/shots-fired-at-bucs
-redirect_from:
+aliases:
  - /sport/5356/shots-fired-at-bucs
 category: sport
 

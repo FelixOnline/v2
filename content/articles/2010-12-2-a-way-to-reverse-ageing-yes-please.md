@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:48:36 +0000"
 id: "497"
 old_path: /comment/497/a-way-to-reverse-ageing-yes-please
-redirect_from:
+aliases:
  - /comment/497/a-way-to-reverse-ageing-yes-please
 category: comment
 

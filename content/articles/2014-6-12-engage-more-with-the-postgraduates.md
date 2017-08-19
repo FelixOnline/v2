@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 16:38:45 +0100"
 id: "4683"
 old_path: /comment/4683/engage-more-with-the-postgraduates
-redirect_from:
+aliases:
  - /comment/4683/engage-more-with-the-postgraduates
 category: comment
 

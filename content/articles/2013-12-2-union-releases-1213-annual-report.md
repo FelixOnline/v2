@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 13:05:19 +0000"
 id: "4146"
 old_path: /news/4146/union-releases-1213-annual-report
-redirect_from:
+aliases:
  - /news/4146/union-releases-1213-annual-report
 category: news
 

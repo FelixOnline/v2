@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:21:42 +0100"
 id: "239"
 old_path: /film/239/cynics-beware-julia-roberts-eat-pray-love-
-redirect_from:
+aliases:
  - /film/239/cynics-beware-julia-roberts-eat-pray-love-
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:51:14 +0100"
 id: "6120"
 old_path: /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
-redirect_from:
+aliases:
  - /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
 category: comment
 

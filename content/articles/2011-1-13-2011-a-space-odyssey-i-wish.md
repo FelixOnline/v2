@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:21:07 +0000"
 id: "591"
 old_path: /comment/591/2011-a-space-odyssey-i-wish-
-redirect_from:
+aliases:
  - /comment/591/2011-a-space-odyssey-i-wish-
 category: comment
 

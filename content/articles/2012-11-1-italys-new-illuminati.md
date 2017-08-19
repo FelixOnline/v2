@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:49:33 +0000"
 id: "2794"
 old_path: /comment/2794/italys-new-illuminati
-redirect_from:
+aliases:
  - /comment/2794/italys-new-illuminati
 category: comment
 

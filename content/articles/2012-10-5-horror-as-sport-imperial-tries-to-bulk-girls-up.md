@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 13:32:18 +0100"
 id: "2629"
 old_path: /sport/2629/horror-as-sport-imperial-tries-to-bulk-girls-up
-redirect_from:
+aliases:
  - /sport/2629/horror-as-sport-imperial-tries-to-bulk-girls-up
 category: sport
 

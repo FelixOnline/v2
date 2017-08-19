@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 16:24:24 +0000"
 id: "5779"
 old_path: /film/5779/documentary-corner-indie-game-the-movie
-redirect_from:
+aliases:
  - /film/5779/documentary-corner-indie-game-the-movie
 category: film
 

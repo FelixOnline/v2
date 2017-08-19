@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-10 23:47:23 +0000"
 id: "4855"
 old_path: /features/4855/im-a-massive-nerd-i-like-sci-fi-and-riding-horses
-redirect_from:
+aliases:
  - /features/4855/im-a-massive-nerd-i-like-sci-fi-and-riding-horses
 category: features
 

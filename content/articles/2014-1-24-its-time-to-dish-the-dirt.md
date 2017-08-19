@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:14:34 +0000"
 id: "4300"
 old_path: /film/4300/its-time-to-dish-the-dirt
-redirect_from:
+aliases:
  - /film/4300/its-time-to-dish-the-dirt
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-14 10:12:01 +0100"
 id: "6333"
 old_path: /science/6333/science-post-brexit-reasons-to-worry
-redirect_from:
+aliases:
  - /science/6333/science-post-brexit-reasons-to-worry
 category: science
 

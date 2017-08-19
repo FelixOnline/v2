@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:27:57 +0000"
 id: "774"
 old_path: /science/774/take-two-leeches-and-call-me-tomorrow-
-redirect_from:
+aliases:
  - /science/774/take-two-leeches-and-call-me-tomorrow-
 category: science
 

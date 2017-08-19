@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-11 18:13:31 +0000"
 id: "4481"
 old_path: /games/4481/the-dino-killing-simulator-calums-verdict
-redirect_from:
+aliases:
  - /games/4481/the-dino-killing-simulator-calums-verdict
 category: games
 

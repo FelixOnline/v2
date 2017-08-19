@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:42:05 +0000"
 id: "5881"
 old_path: /games/5881/felix-reacts-to-virtual-reality
-redirect_from:
+aliases:
  - /games/5881/felix-reacts-to-virtual-reality
 category: games
 

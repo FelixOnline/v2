@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:26:50 +0000"
 id: "714"
 old_path: /news/714/interview-with-deputy-president-education-alex-dahinten-
-redirect_from:
+aliases:
  - /news/714/interview-with-deputy-president-education-alex-dahinten-
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-02 15:22:44 +0000"
 id: "4980"
 old_path: /news/4980/imperial-college-rugby-launch-petition-to-support-club-captain-facing-a-vote-of-no-confidence
-redirect_from:
+aliases:
  - /news/4980/imperial-college-rugby-launch-petition-to-support-club-captain-facing-a-vote-of-no-confidence
 category: news
 

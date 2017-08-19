@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:46:27 +0100"
 id: "3585"
 old_path: /news/3585/how-far-would-you-go-to-save-your-life
-redirect_from:
+aliases:
  - /news/3585/how-far-would-you-go-to-save-your-life
 category: news
 

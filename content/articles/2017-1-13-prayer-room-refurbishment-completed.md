@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 13:55:23 +0000"
 id: "6631"
 old_path: /news/6631/prayer-room-refurbishment-completed
-redirect_from:
+aliases:
  - /news/6631/prayer-room-refurbishment-completed
 category: news
 

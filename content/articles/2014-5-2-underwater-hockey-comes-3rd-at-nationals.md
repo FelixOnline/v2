@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-02 02:03:12 +0100"
 id: "4561"
 old_path: /sport/4561/underwater-hockey-comes-3rd-at-nationals
-redirect_from:
+aliases:
  - /sport/4561/underwater-hockey-comes-3rd-at-nationals
 category: sport
 

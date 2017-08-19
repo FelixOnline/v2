@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 11:03:09 +0000"
 id: "4045"
 old_path: /food/4045/some-like-it-hotwell-not-all
-redirect_from:
+aliases:
  - /food/4045/some-like-it-hotwell-not-all
 category: food
 

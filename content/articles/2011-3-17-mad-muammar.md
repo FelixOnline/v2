@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 21:33:47 +0000"
 id: "1103"
 old_path: /comment/1103/mad-muammar-
-redirect_from:
+aliases:
  - /comment/1103/mad-muammar-
 category: comment
 

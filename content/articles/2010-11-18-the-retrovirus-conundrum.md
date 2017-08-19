@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:15:42 +0000"
 id: "386"
 old_path: /science/386/the-retrovirus-conundrum
-redirect_from:
+aliases:
  - /science/386/the-retrovirus-conundrum
 category: science
 

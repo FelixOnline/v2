@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:24:49 +0100"
 id: "1588"
 old_path: /fashion/1588/a-mans-shoe-haven
-redirect_from:
+aliases:
  - /fashion/1588/a-mans-shoe-haven
 category: fashion
 

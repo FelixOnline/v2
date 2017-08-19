@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:36:51 +0000"
 id: "656"
 old_path: /news/656/jewish-and-muslim-student-ambassadors-to-promote-interfaith-relations-
-redirect_from:
+aliases:
  - /news/656/jewish-and-muslim-student-ambassadors-to-promote-interfaith-relations-
 category: news
 

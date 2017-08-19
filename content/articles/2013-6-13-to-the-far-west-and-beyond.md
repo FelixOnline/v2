@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:28:43 +0100"
 id: "3675"
 old_path: /travel/3675/to-the-far-west-and-beyond
-redirect_from:
+aliases:
  - /travel/3675/to-the-far-west-and-beyond
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-05 10:20:15 +0000"
 id: "4332"
 old_path: /tech/4332/return-to-paper
-redirect_from:
+aliases:
  - /tech/4332/return-to-paper
 category: tech
 

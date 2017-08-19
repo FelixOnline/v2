@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 22:24:22 +0000"
 id: "2398"
 old_path: /comment/2398/back-boris-not-bloody-likely
-redirect_from:
+aliases:
  - /comment/2398/back-boris-not-bloody-likely
 category: comment
 

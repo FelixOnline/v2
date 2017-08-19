@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:50:57 +0000"
 id: "4008"
 old_path: /features/4008/presidents-open-letter-on-behalf-of-the-cgcu
-redirect_from:
+aliases:
  - /features/4008/presidents-open-letter-on-behalf-of-the-cgcu
 category: features
 

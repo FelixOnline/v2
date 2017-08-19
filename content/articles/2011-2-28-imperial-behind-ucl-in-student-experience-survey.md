@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:16:53 +0000"
 id: "943"
 old_path: /news/943/imperial-behind-ucl-in-student-experience-survey
-redirect_from:
+aliases:
  - /news/943/imperial-behind-ucl-in-student-experience-survey
 category: news
 

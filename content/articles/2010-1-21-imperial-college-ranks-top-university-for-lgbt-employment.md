@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-21 22:26:08 +0000"
 id: "46"
 old_path: /news/46/imperial-college-ranks-top-university-for-lgbt-employment
-redirect_from:
+aliases:
  - /news/46/imperial-college-ranks-top-university-for-lgbt-employment
 category: news
 

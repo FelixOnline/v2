@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-29 23:56:47 +0000"
 id: "5158"
 old_path: /news/5158/great-hall-packed-as-hundreds-flock-to-see-the-a-cappella-semi-finals
-redirect_from:
+aliases:
  - /news/5158/great-hall-packed-as-hundreds-flock-to-see-the-a-cappella-semi-finals
 category: news
 

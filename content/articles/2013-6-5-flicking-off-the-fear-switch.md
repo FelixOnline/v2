@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-05 16:10:57 +0100"
 id: "3655"
 old_path: /science/3655/flicking-off-the-fear-switch
-redirect_from:
+aliases:
  - /science/3655/flicking-off-the-fear-switch
 category: science
 

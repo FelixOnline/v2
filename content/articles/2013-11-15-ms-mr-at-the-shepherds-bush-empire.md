@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 18:09:35 +0000"
 id: "4081"
 old_path: /music/4081/ms-mr-at-the-shepherds-bush-empire
-redirect_from:
+aliases:
  - /music/4081/ms-mr-at-the-shepherds-bush-empire
 category: music
 

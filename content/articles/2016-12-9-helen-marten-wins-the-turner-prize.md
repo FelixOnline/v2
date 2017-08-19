@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 12:32:40 +0000"
 id: "6569"
 old_path: /arts/6569/helen-marten-wins-the-turner-prize
-redirect_from:
+aliases:
  - /arts/6569/helen-marten-wins-the-turner-prize
 category: arts
 

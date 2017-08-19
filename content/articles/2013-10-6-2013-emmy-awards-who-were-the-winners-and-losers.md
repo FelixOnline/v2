@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-06 09:23:26 +0100"
 id: "3815"
 old_path: /tv/3815/2013-emmy-awards-who-were-the-winners-and-losers
-redirect_from:
+aliases:
  - /tv/3815/2013-emmy-awards-who-were-the-winners-and-losers
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:06:49 +0000"
 id: "458"
 old_path: /arts/458/the-looking-glass-club-reviewed
-redirect_from:
+aliases:
  - /arts/458/the-looking-glass-club-reviewed
 category: arts
 

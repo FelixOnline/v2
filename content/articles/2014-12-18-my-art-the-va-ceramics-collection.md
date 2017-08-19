@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:28:35 +0000"
 id: "5053"
 old_path: /arts/5053/my-art-the-va-ceramics-collection
-redirect_from:
+aliases:
  - /arts/5053/my-art-the-va-ceramics-collection
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:44:23 +0000"
 id: "2159"
 old_path: /news/2159/registration-opens-for-tedx
-redirect_from:
+aliases:
  - /news/2159/registration-opens-for-tedx
 category: news
 

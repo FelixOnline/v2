@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:42:10 +0000"
 id: "408"
 old_path: /news/408/imperial-students-make-mountaineering-history
-redirect_from:
+aliases:
  - /news/408/imperial-students-make-mountaineering-history
 category: news
 

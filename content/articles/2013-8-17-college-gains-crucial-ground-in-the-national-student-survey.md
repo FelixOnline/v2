@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-08-17 18:33:35 +0100"
 id: "3751"
 old_path: /comment/3751/college-gains-crucial-ground-in-the-national-student-survey
-redirect_from:
+aliases:
  - /comment/3751/college-gains-crucial-ground-in-the-national-student-survey
 category: comment
 

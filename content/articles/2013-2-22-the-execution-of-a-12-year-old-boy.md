@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 10:34:48 +0000"
 id: "3379"
 old_path: /comment/3379/the-execution-of-a-12-year-old-boy
-redirect_from:
+aliases:
  - /comment/3379/the-execution-of-a-12-year-old-boy
 category: comment
 

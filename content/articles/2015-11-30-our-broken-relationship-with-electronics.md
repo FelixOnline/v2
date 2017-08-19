@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-30 12:03:51 +0000"
 id: "5788"
 old_path: /cands/5788/our-broken-relationship-with-electronics-
-redirect_from:
+aliases:
  - /cands/5788/our-broken-relationship-with-electronics-
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:16:53 +0000"
 id: "1911"
 old_path: /news/1911/uk-extradition-laws-to-be-reformed
-redirect_from:
+aliases:
  - /news/1911/uk-extradition-laws-to-be-reformed
 category: news
 

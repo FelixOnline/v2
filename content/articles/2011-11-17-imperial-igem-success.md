@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:21:18 +0000"
 id: "1756"
 old_path: /science/1756/imperial-igem-success
-redirect_from:
+aliases:
  - /science/1756/imperial-igem-success
 category: science
 

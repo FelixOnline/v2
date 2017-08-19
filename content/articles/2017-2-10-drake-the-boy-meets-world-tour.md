@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 15:25:43 +0000"
 id: "6763"
 old_path: /music/6763/drake-the-boy-meets-world-tour
-redirect_from:
+aliases:
  - /music/6763/drake-the-boy-meets-world-tour
 category: music
 

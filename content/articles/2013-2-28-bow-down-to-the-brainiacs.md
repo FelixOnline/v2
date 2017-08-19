@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-28 17:55:51 +0000"
 id: "3382"
 old_path: /science/3382/bow-down-to-the-brainiacs
-redirect_from:
+aliases:
  - /science/3382/bow-down-to-the-brainiacs
 category: science
 

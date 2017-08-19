@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:30:19 +0100"
 id: "190"
 old_path: /music/190/willy-mason-whipped-it-out-for-the-bush-last-thursday
-redirect_from:
+aliases:
  - /music/190/willy-mason-whipped-it-out-for-the-bush-last-thursday
 category: music
 

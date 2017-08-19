@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:00:09 +0000"
 id: "6633"
 old_path: /comment/6633/corbyn-finally-said-something-and-im-not-impressed
-redirect_from:
+aliases:
  - /comment/6633/corbyn-finally-said-something-and-im-not-impressed
 category: comment
 

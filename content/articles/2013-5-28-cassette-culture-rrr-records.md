@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-28 14:42:50 +0100"
 id: "3626"
 old_path: /music/3626/cassette-culture-rrr-records
-redirect_from:
+aliases:
  - /music/3626/cassette-culture-rrr-records
 category: music
 

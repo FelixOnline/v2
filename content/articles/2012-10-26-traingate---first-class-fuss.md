@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-26 02:37:18 +0100"
 id: "2750"
 old_path: /comment/2750/traingate---first-class-fuss
-redirect_from:
+aliases:
  - /comment/2750/traingate---first-class-fuss
 category: comment
 

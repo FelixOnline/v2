@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:16:44 +0000"
 id: "2966"
 old_path: /arts/2966/whatcha-doin-just-roman-around
-redirect_from:
+aliases:
  - /arts/2966/whatcha-doin-just-roman-around
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:18:03 +0000"
 id: "3225"
 old_path: /books/3225/a-look-at-doctor-who-fandom
-redirect_from:
+aliases:
  - /books/3225/a-look-at-doctor-who-fandom
 category: books
 

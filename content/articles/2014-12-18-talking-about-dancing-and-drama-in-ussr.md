@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:22:52 +0000"
 id: "5077"
 old_path: /arts/5077/talking-about-dancing-and-drama-in-ussr
-redirect_from:
+aliases:
  - /arts/5077/talking-about-dancing-and-drama-in-ussr
 category: arts
 

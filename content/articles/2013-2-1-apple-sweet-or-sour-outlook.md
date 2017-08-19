@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 01:13:21 +0000"
 id: "3241"
 old_path: /tech/3241/apple-sweet-or-sour-outlook-
-redirect_from:
+aliases:
  - /tech/3241/apple-sweet-or-sour-outlook-
 category: tech
 

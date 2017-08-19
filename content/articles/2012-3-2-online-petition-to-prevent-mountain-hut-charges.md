@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 00:58:34 +0000"
 id: "2300"
 old_path: /news/2300/online-petition-to-prevent-mountain-hut-charges
-redirect_from:
+aliases:
  - /news/2300/online-petition-to-prevent-mountain-hut-charges
 category: news
 

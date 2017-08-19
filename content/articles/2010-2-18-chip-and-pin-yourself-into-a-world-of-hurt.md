@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-18 14:29:05 +0000"
 id: "91"
 old_path: /tech/91/chip-and-pin-yourself-into-a-world-of-hurt
-redirect_from:
+aliases:
  - /tech/91/chip-and-pin-yourself-into-a-world-of-hurt
 category: tech
 

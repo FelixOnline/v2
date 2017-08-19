@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 11:52:03 +0000"
 id: "4091"
 old_path: /sport/4091/ic-3s-take-care-of-business-against-lsa
-redirect_from:
+aliases:
  - /sport/4091/ic-3s-take-care-of-business-against-lsa
 category: sport
 

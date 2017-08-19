@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 23:52:27 +0000"
 id: "3350"
 old_path: /news/3350/wood-lane-studios-running-on-a-tight-schedule
-redirect_from:
+aliases:
  - /news/3350/wood-lane-studios-running-on-a-tight-schedule
 category: news
 

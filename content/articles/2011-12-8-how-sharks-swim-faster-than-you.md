@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:35:42 +0000"
 id: "1915"
 old_path: /science/1915/how-sharks-swim-faster-than-you
-redirect_from:
+aliases:
  - /science/1915/how-sharks-swim-faster-than-you
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:36:53 +0000"
 id: "2238"
 old_path: /food/2238/vegan-diary-week-one
-redirect_from:
+aliases:
  - /food/2238/vegan-diary-week-one
 category: food
 

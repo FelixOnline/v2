@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:45:41 +0000"
 id: "4265"
 old_path: /sport/4265/ic-taekwondo-produce-strong-showing
-redirect_from:
+aliases:
  - /sport/4265/ic-taekwondo-produce-strong-showing
 category: sport
 

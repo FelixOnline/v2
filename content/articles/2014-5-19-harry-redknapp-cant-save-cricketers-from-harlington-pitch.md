@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 13:21:32 +0100"
 id: "4606"
 old_path: /sport/4606/harry-redknapp-cant-save-cricketers-from-harlington-pitch
-redirect_from:
+aliases:
  - /sport/4606/harry-redknapp-cant-save-cricketers-from-harlington-pitch
 category: sport
 

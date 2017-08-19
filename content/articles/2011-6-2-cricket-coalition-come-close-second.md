@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:34:04 +0100"
 id: "1323"
 old_path: /sport/1323/cricket-coalition-come-close-second
-redirect_from:
+aliases:
  - /sport/1323/cricket-coalition-come-close-second
 category: sport
 

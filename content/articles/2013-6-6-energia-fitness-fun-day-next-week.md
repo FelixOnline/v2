@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-06 12:57:34 +0100"
 id: "3663"
 old_path: /news/3663/energia-fitness-fun-day-next-week
-redirect_from:
+aliases:
  - /news/3663/energia-fitness-fun-day-next-week
 category: news
 

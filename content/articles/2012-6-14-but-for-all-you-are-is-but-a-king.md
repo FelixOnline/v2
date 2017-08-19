@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:55:31 +0100"
 id: "2572"
 old_path: /phoenix/2572/but-for-all-you-are-is-but-a-king-
-redirect_from:
+aliases:
  - /phoenix/2572/but-for-all-you-are-is-but-a-king-
 category: phoenix
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:28:42 +0100"
 id: "6983"
 old_path: /news/6983/physics-flops-in-league-tables
-redirect_from:
+aliases:
  - /news/6983/physics-flops-in-league-tables
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-20 16:25:29 +0100"
 id: "3703"
 old_path: /news/3703/letting-old-cats-out-of-their-bags-michael-llewellyn-williams
-redirect_from:
+aliases:
  - /news/3703/letting-old-cats-out-of-their-bags-michael-llewellyn-williams
 category: news
 

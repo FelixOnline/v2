@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 23:42:28 +0000"
 id: "2114"
 old_path: /comment/2114/cutting-through-the-pain-of-haircuts
-redirect_from:
+aliases:
  - /comment/2114/cutting-through-the-pain-of-haircuts
 category: comment
 

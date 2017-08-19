@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:11:40 +0000"
 id: "835"
 old_path: /comment/835/manipulative-mediums-
-redirect_from:
+aliases:
  - /comment/835/manipulative-mediums-
 category: comment
 

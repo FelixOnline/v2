@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:41:29 +0100"
 id: "193"
 old_path: /fashion/193/renaissance-of-the-chino
-redirect_from:
+aliases:
  - /fashion/193/renaissance-of-the-chino
 category: fashion
 

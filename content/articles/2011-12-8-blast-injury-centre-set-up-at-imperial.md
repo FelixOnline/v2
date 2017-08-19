@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:03:06 +0000"
 id: "1906"
 old_path: /news/1906/blast-injury-centre-set-up-at-imperial
-redirect_from:
+aliases:
  - /news/1906/blast-injury-centre-set-up-at-imperial
 category: news
 

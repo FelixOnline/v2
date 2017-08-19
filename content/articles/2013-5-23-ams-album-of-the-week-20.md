@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:18:39 +0100"
 id: "3614"
 old_path: /music/3614/ams-album-of-the-week-20
-redirect_from:
+aliases:
  - /music/3614/ams-album-of-the-week-20
 category: music
 

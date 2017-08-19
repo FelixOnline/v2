@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 14:10:33 +0100"
 id: "5568"
 old_path: /arts/5568/zero-hours-in-an-hour-and-a-half
-redirect_from:
+aliases:
  - /arts/5568/zero-hours-in-an-hour-and-a-half
 category: arts
 

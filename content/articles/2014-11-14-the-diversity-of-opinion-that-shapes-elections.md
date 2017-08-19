@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:31:03 +0000"
 id: "4870"
 old_path: /comment/4870/the-diversity-of-opinion-that-shapes-elections
-redirect_from:
+aliases:
  - /comment/4870/the-diversity-of-opinion-that-shapes-elections
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 22:41:37 +0100"
 id: "1516"
 old_path: /games/1516/minecraft-so-much-more-than-just-lego-for-nerds
-redirect_from:
+aliases:
  - /games/1516/minecraft-so-much-more-than-just-lego-for-nerds
 category: games
 

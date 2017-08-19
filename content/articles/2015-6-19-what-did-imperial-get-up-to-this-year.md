@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-19 13:26:15 +0100"
 id: "5643"
 old_path: /news/5643/what-did-imperial-get-up-to-this-year
-redirect_from:
+aliases:
  - /news/5643/what-did-imperial-get-up-to-this-year
 category: news
 

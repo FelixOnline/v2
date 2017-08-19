@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:49:08 +0100"
 id: "4641"
 old_path: /music/4641/supersonic-festival-preview
-redirect_from:
+aliases:
  - /music/4641/supersonic-festival-preview
 category: music
 

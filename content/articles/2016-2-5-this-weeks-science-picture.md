@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:10:22 +0000"
 id: "5871"
 old_path: /science/5871/this-weeks-science-picture
-redirect_from:
+aliases:
  - /science/5871/this-weeks-science-picture
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 15:53:17 +0000"
 id: "6427"
 old_path: /science/6427/a-trump-presidency--a-new-era-for-america-a-disaster-for-earth
-redirect_from:
+aliases:
  - /science/6427/a-trump-presidency--a-new-era-for-america-a-disaster-for-earth
 category: science
 

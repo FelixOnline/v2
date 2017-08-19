@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:43:57 +0000"
 id: "4133"
 old_path: /travel/4133/travel-and-other-narcotics
-redirect_from:
+aliases:
  - /travel/4133/travel-and-other-narcotics
 category: travel
 

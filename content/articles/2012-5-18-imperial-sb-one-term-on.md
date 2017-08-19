@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 16:28:31 +0100"
 id: "2476"
 old_path: /sport/2476/imperial-sb-one-term-on
-redirect_from:
+aliases:
  - /sport/2476/imperial-sb-one-term-on
 category: sport
 

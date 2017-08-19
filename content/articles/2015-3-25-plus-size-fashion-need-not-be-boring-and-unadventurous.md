@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:06:45 +0000"
 id: "5425"
 old_path: /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
-redirect_from:
+aliases:
  - /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
 category: arts
 

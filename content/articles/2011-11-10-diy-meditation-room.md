@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:21:00 +0000"
 id: "1746"
 old_path: /arts/1746/diy-meditation-room
-redirect_from:
+aliases:
  - /arts/1746/diy-meditation-room
 category: arts
 

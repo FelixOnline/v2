@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-07-02 11:17:14 +0100"
 id: "150"
 old_path: /sport/150/imperial-ninjas-triumph-against-kyoto-1st-xv
-redirect_from:
+aliases:
  - /sport/150/imperial-ninjas-triumph-against-kyoto-1st-xv
 category: sport
 

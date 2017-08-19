@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-15 11:22:37 +0000"
 id: "5828"
 old_path: /news/5828/imperial-professor-to-edit-robotics-journal
-redirect_from:
+aliases:
  - /news/5828/imperial-professor-to-edit-robotics-journal
 category: news
 

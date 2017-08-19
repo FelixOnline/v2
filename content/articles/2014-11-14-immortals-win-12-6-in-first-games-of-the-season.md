@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:17:10 +0000"
 id: "4892"
 old_path: /sport/4892/immortals-win-12-6-in-first-games-of-the-season
-redirect_from:
+aliases:
  - /sport/4892/immortals-win-12-6-in-first-games-of-the-season
 category: sport
 

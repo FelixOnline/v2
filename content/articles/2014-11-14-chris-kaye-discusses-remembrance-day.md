@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 19:55:16 +0000"
 id: "4859"
 old_path: /comment/4859/chris-kaye-discusses-remembrance-day
-redirect_from:
+aliases:
  - /comment/4859/chris-kaye-discusses-remembrance-day
 category: comment
 

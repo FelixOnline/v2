@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:29:52 +0000"
 id: "5847"
 old_path: /film/5847/the-assassin-fails-to-impress
-redirect_from:
+aliases:
  - /film/5847/the-assassin-fails-to-impress
 category: film
 

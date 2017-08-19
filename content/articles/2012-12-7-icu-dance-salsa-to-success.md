@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:22:27 +0000"
 id: "3063"
 old_path: /sport/3063/icu-dance-salsa-to-success
-redirect_from:
+aliases:
  - /sport/3063/icu-dance-salsa-to-success
 category: sport
 

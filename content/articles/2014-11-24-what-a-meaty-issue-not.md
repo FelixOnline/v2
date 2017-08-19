@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 20:38:39 +0000"
 id: "4956"
 old_path: /food/4956/what-a-meaty-issue-not-
-redirect_from:
+aliases:
  - /food/4956/what-a-meaty-issue-not-
 category: food
 

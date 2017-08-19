@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-25 20:12:59 +0000"
 id: "427"
 old_path: /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
-redirect_from:
+aliases:
  - /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
 category: tech
 

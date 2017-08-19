@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 22:34:17 +0000"
 id: "5241"
 old_path: /sport/5241/imperial-host-hyde-park-relays
-redirect_from:
+aliases:
  - /sport/5241/imperial-host-hyde-park-relays
 category: sport
 

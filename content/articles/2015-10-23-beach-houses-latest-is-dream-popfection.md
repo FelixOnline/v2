@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:51:43 +0100"
 id: "5675"
 old_path: /music/5675/beach-houses-latest-is-dream-popfection
-redirect_from:
+aliases:
  - /music/5675/beach-houses-latest-is-dream-popfection
 category: music
 

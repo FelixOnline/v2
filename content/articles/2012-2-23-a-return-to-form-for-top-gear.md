@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:56:34 +0000"
 id: "2247"
 old_path: /tv/2247/a-return-to-form-for-top-gear
-redirect_from:
+aliases:
  - /tv/2247/a-return-to-form-for-top-gear
 category: tv
 

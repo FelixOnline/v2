@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 21:20:11 +0000"
 id: "3336"
 old_path: /news/3336/charing-cross-ae-department-saved
-redirect_from:
+aliases:
  - /news/3336/charing-cross-ae-department-saved
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-15 01:18:07 +0000"
 id: "4897"
 old_path: /arts/4897/dmitry-krymov-a-midsummer-nights-dream-as-you-like-it-
-redirect_from:
+aliases:
  - /arts/4897/dmitry-krymov-a-midsummer-nights-dream-as-you-like-it-
 category: arts
 

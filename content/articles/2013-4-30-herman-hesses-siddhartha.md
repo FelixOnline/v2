@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-04-30 14:59:57 +0100"
 id: "3507"
 old_path: /books/3507/herman-hesses-siddhartha
-redirect_from:
+aliases:
  - /books/3507/herman-hesses-siddhartha
 category: books
 

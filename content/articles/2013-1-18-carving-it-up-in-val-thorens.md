@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 01:04:37 +0000"
 id: "3148"
 old_path: /sport/3148/carving-it-up-in-val-thorens
-redirect_from:
+aliases:
  - /sport/3148/carving-it-up-in-val-thorens
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:36:39 +0100"
 id: "2464"
 old_path: /comment/2464/the-puzzling-problem-with-ponderings
-redirect_from:
+aliases:
  - /comment/2464/the-puzzling-problem-with-ponderings
 category: comment
 

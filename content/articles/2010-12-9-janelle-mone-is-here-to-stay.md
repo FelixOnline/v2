@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:32:47 +0000"
 id: "526"
 old_path: /music/526/janelle-mone-is-here-to-stay
-redirect_from:
+aliases:
  - /music/526/janelle-mone-is-here-to-stay
 category: music
 

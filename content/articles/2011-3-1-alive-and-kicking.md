@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:57:56 +0000"
 id: "961"
 old_path: /comment/961/alive-and-kicking
-redirect_from:
+aliases:
  - /comment/961/alive-and-kicking
 category: comment
 

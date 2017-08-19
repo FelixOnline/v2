@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:01:43 +0000"
 id: "4864"
 old_path: /news/4864/unions-annual-report-celebrates-a-succesful-year
-redirect_from:
+aliases:
  - /news/4864/unions-annual-report-celebrates-a-succesful-year
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 16:06:08 +0000"
 id: "6431"
 old_path: /science/6431/overpopulation--is-it-a-myth-is-it-inevitable-should-we-be-worried-
-redirect_from:
+aliases:
  - /science/6431/overpopulation--is-it-a-myth-is-it-inevitable-should-we-be-worried-
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:18:44 +0000"
 id: "3488"
 old_path: /film/3488/steven-soderberghs-swan-song
-redirect_from:
+aliases:
  - /film/3488/steven-soderberghs-swan-song
 category: film
 

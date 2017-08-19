@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:51:09 +0000"
 id: "1808"
 old_path: /science/1808/particles-from-thin-air
-redirect_from:
+aliases:
  - /science/1808/particles-from-thin-air
 category: science
 

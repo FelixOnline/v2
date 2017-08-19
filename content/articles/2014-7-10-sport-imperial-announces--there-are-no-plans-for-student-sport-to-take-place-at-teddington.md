@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-07-10 13:13:08 +0100"
 id: "4722"
 old_path: /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
-redirect_from:
+aliases:
  - /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
 category: news
 

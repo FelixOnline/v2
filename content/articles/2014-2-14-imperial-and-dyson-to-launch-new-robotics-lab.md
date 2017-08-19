@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 04:30:09 +0000"
 id: "4376"
 old_path: /news/4376/imperial-and-dyson-to-launch-new-robotics-lab
-redirect_from:
+aliases:
  - /news/4376/imperial-and-dyson-to-launch-new-robotics-lab
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 21:04:34 +0000"
 id: "793"
 old_path: /comment/793/puppy-love-no-not-that-kind
-redirect_from:
+aliases:
  - /comment/793/puppy-love-no-not-that-kind
 category: comment
 

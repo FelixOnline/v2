@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:19:51 +0000"
 id: "2359"
 old_path: /tv/2359/abrams-vs-alcatraz
-redirect_from:
+aliases:
  - /tv/2359/abrams-vs-alcatraz
 category: tv
 

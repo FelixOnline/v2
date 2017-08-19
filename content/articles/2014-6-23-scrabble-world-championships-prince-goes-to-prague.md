@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 13:02:31 +0100"
 id: "4704"
 old_path: /features/4704/scrabble-world-championships-prince-goes-to-prague
-redirect_from:
+aliases:
  - /features/4704/scrabble-world-championships-prince-goes-to-prague
 category: features
 

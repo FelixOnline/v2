@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 19:05:58 +0000"
 id: "907"
 old_path: /film/907/a-sci-fi-brom-com
-redirect_from:
+aliases:
  - /film/907/a-sci-fi-brom-com
 category: film
 

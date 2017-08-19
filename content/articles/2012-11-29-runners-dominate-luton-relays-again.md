@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 23:12:42 +0000"
 id: "3008"
 old_path: /sport/3008/runners-dominate-luton-relays-again
-redirect_from:
+aliases:
  - /sport/3008/runners-dominate-luton-relays-again
 category: sport
 

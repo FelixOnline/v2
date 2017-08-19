@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:45:31 +0000"
 id: "1014"
 old_path: /politics/1014/is-immigration-a-problem
-redirect_from:
+aliases:
  - /politics/1014/is-immigration-a-problem
 category: politics
 

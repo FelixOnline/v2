@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 18:59:11 +0000"
 id: "1048"
 old_path: /science/1048/theres-no-need-to-fear-robots
-redirect_from:
+aliases:
  - /science/1048/theres-no-need-to-fear-robots
 category: science
 

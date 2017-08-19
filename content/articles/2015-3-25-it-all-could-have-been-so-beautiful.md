@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:58:53 +0000"
 id: "5441"
 old_path: /arts/5441/it-all-could-have-been-so-beautiful
-redirect_from:
+aliases:
  - /arts/5441/it-all-could-have-been-so-beautiful
 category: arts
 

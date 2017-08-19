@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 00:49:01 +0000"
 id: "5114"
 old_path: /news/5114/womens-rugby-team-to-headline-at-the-stoop
-redirect_from:
+aliases:
  - /news/5114/womens-rugby-team-to-headline-at-the-stoop
 category: news
 

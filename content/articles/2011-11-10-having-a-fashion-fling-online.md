@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:09:46 +0000"
 id: "1743"
 old_path: /fashion/1743/having-a-fashion-fling-online
-redirect_from:
+aliases:
  - /fashion/1743/having-a-fashion-fling-online
 category: fashion
 

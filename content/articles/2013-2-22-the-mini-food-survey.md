@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 02:59:45 +0000"
 id: "3376"
 old_path: /food/3376/the-mini-food-survey
-redirect_from:
+aliases:
  - /food/3376/the-mini-food-survey
 category: food
 

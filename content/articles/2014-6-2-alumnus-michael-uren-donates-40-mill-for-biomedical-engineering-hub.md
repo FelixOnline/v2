@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:38:30 +0100"
 id: "4635"
 old_path: /news/4635/alumnus-michael-uren-donates-40-mill-for-biomedical-engineering-hub
-redirect_from:
+aliases:
  - /news/4635/alumnus-michael-uren-donates-40-mill-for-biomedical-engineering-hub
 category: news
 

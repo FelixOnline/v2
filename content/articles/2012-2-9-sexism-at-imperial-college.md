@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:01:33 +0000"
 id: "2167"
 old_path: /comment/2167/sexism-at-imperial-college
-redirect_from:
+aliases:
  - /comment/2167/sexism-at-imperial-college
 category: comment
 

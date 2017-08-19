@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:37:43 +0000"
 id: "6743"
 old_path: /news/6743/-union-bars-get-new-tills
-redirect_from:
+aliases:
  - /news/6743/-union-bars-get-new-tills
 category: news
 

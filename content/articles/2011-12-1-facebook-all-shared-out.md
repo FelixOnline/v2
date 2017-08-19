@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:33:08 +0000"
 id: "1855"
 old_path: /tech/1855/facebook-all-shared-out
-redirect_from:
+aliases:
  - /tech/1855/facebook-all-shared-out
 category: tech
 

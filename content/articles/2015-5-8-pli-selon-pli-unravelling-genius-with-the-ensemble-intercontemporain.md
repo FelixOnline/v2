@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 12:53:44 +0100"
 id: "5508"
 old_path: /music/5508/pli-selon-pli-unravelling-genius-with-the-ensemble-intercontemporain
-redirect_from:
+aliases:
  - /music/5508/pli-selon-pli-unravelling-genius-with-the-ensemble-intercontemporain
 category: music
 

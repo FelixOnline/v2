@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 18:33:25 +0000"
 id: "4987"
 old_path: /comment/4987/what-does-the-economy-have-to-do-with-me
-redirect_from:
+aliases:
  - /comment/4987/what-does-the-economy-have-to-do-with-me
 category: comment
 

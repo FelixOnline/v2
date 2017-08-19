@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:55:34 +0000"
 id: "6038"
 old_path: /film/6038/the-top-three-oscar-winners-who-arent-leo-dicaprio
-redirect_from:
+aliases:
  - /film/6038/the-top-three-oscar-winners-who-arent-leo-dicaprio
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-17 17:17:17 +0000"
 id: "4389"
 old_path: /science/4389/come-one-come-all-the-female-orgasm
-redirect_from:
+aliases:
  - /science/4389/come-one-come-all-the-female-orgasm
 category: science
 

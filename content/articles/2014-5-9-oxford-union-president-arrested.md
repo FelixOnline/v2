@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 01:59:05 +0100"
 id: "4568"
 old_path: /news/4568/oxford-union-president-arrested
-redirect_from:
+aliases:
  - /news/4568/oxford-union-president-arrested
 category: news
 

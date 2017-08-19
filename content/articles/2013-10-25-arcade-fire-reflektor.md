@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 00:39:41 +0100"
 id: "3933"
 old_path: /music/3933/arcade-fire-reflektor
-redirect_from:
+aliases:
  - /music/3933/arcade-fire-reflektor
 category: music
 

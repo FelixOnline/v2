@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:28:01 +0000"
 id: "2234"
 old_path: /film/2234/the-return-of-the-muppet-puppets
-redirect_from:
+aliases:
  - /film/2234/the-return-of-the-muppet-puppets
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 16:51:35 +0000"
 id: "6905"
 old_path: /comment/6905/imperial-students-react-to-the-ecjs-motion-on-the-banning-of-religious-symbols
-redirect_from:
+aliases:
  - /comment/6905/imperial-students-react-to-the-ecjs-motion-on-the-banning-of-religious-symbols
 category: comment
 

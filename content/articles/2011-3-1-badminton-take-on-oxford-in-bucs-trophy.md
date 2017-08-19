@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:23:08 +0000"
 id: "969"
 old_path: /sport/969/badminton-take-on-oxford-in-bucs-trophy
-redirect_from:
+aliases:
  - /sport/969/badminton-take-on-oxford-in-bucs-trophy
 category: sport
 

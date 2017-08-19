@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:46:54 +0000"
 id: "4035"
 old_path: /books/4035/the-dangers-of-being-strange
-redirect_from:
+aliases:
  - /books/4035/the-dangers-of-being-strange
 category: books
 

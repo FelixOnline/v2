@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:39:11 +0000"
 id: "5433"
 old_path: /arts/5433/1600-a-year-to-go-down-in-history
-redirect_from:
+aliases:
  - /arts/5433/1600-a-year-to-go-down-in-history
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:12:16 +0000"
 id: "6639"
 old_path: /science/6639/the-secret-to-immortality
-redirect_from:
+aliases:
  - /science/6639/the-secret-to-immortality
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:48:23 +0100"
 id: "222"
 old_path: /biz/222/did-physics-break-the-economy-can-it-save-it-
-redirect_from:
+aliases:
  - /biz/222/did-physics-break-the-economy-can-it-save-it-
 category: business
 

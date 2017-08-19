@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:03:48 +0100"
 id: "6088"
 old_path: /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
-redirect_from:
+aliases:
  - /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
 category: news
 

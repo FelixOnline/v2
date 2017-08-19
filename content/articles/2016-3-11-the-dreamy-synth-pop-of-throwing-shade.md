@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:49:02 +0000"
 id: "6033"
 old_path: /music/6033/the-dreamy-synth-pop-of-throwing-shade
-redirect_from:
+aliases:
  - /music/6033/the-dreamy-synth-pop-of-throwing-shade
 category: music
 

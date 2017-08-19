@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-14 14:20:28 +0000"
 id: "6449"
 old_path: /sport/6449/tennis-social-proves-great-success
-redirect_from:
+aliases:
  - /sport/6449/tennis-social-proves-great-success
 category: sport
 

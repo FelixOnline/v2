@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 22:19:34 +0000"
 id: "2212"
 old_path: /news/2212/flaws-exposed-in-national-student-survey
-redirect_from:
+aliases:
  - /news/2212/flaws-exposed-in-national-student-survey
 category: news
 

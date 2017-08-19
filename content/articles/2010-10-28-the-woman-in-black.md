@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:25:34 +0100"
 id: "261"
 old_path: /arts/261/the-woman-in-black-
-redirect_from:
+aliases:
  - /arts/261/the-woman-in-black-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-18 00:09:23 +0000"
 id: "1797"
 old_path: /comment/1797/flogging-a-dead-god
-redirect_from:
+aliases:
  - /comment/1797/flogging-a-dead-god
 category: comment
 

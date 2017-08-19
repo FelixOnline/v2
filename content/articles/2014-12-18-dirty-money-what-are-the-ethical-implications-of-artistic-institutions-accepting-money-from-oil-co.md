@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:21:51 +0000"
 id: "5076"
 old_path: /arts/5076/dirty-money-what-are-the-ethical-implications-of-artistic-institutions-accepting-money-from-oil-co
-redirect_from:
+aliases:
  - /arts/5076/dirty-money-what-are-the-ethical-implications-of-artistic-institutions-accepting-money-from-oil-co
 category: arts
 

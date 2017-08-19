@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 02:50:58 +0000"
 id: "4409"
 old_path: /news/4409/neknominations---a-fifth-reported-fatality
-redirect_from:
+aliases:
  - /news/4409/neknominations---a-fifth-reported-fatality
 category: news
 

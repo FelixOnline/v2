@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:25:30 +0000"
 id: "3983"
 old_path: /comment/3983/atheism-and-the-irony-of-religion
-redirect_from:
+aliases:
  - /comment/3983/atheism-and-the-irony-of-religion
 category: comment
 

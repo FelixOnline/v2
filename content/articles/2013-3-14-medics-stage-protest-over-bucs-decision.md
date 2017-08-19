@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-14 23:58:26 +0000"
 id: "3456"
 old_path: /news/3456/medics-stage-protest-over-bucs-decision
-redirect_from:
+aliases:
  - /news/3456/medics-stage-protest-over-bucs-decision
 category: news
 

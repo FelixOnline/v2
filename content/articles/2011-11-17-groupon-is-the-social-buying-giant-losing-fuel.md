@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:58:39 +0000"
 id: "1766"
 old_path: /biz/1766/groupon-is-the-social-buying-giant-losing-fuel
-redirect_from:
+aliases:
  - /biz/1766/groupon-is-the-social-buying-giant-losing-fuel
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-12 11:34:57 +0000"
 id: "5716"
 old_path: /arts/5716/kieran-hodgson-doping-his-way-to-the-top
-redirect_from:
+aliases:
  - /arts/5716/kieran-hodgson-doping-his-way-to-the-top
 category: arts
 

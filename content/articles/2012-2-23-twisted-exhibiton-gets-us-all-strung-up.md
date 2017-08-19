@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 19:50:32 +0000"
 id: "2226"
 old_path: /arts/2226/twisted-exhibiton-gets-us-all-strung-up-
-redirect_from:
+aliases:
  - /arts/2226/twisted-exhibiton-gets-us-all-strung-up-
 category: arts
 

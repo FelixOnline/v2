@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-28 18:37:24 +0000"
 id: "5152"
 old_path: /arts/5152/the-peculiar-and-unexpected-world-of-secret-theatre
-redirect_from:
+aliases:
  - /arts/5152/the-peculiar-and-unexpected-world-of-secret-theatre
 category: arts
 

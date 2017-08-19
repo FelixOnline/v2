@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 14:15:32 +0000"
 id: "5367"
 old_path: /comment/5367/why-im-voting-for-ben-howitt-for-deputy-president-clubs-and-societies
-redirect_from:
+aliases:
  - /comment/5367/why-im-voting-for-ben-howitt-for-deputy-president-clubs-and-societies
 category: comment
 

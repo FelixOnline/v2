@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:27:04 +0000"
 id: "626"
 old_path: /biz/626/municipal-bonds-the-latest-bubble-
-redirect_from:
+aliases:
  - /biz/626/municipal-bonds-the-latest-bubble-
 category: business
 

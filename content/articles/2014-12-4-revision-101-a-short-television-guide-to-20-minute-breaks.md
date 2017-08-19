@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:16:42 +0000"
 id: "4994"
 old_path: /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
-redirect_from:
+aliases:
  - /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
 category: tv
 

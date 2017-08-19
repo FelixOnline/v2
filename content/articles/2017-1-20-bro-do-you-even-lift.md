@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:08:49 +0000"
 id: "6663"
 old_path: /science/6663/bro-do-you-even-lift
-redirect_from:
+aliases:
  - /science/6663/bro-do-you-even-lift
 category: science
 

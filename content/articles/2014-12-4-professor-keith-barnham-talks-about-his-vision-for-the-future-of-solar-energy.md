@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 21:32:01 +0000"
 id: "5015"
 old_path: /science/5015/professor-keith-barnham-talks-about-his-vision-for-the-future-of-solar-energy
-redirect_from:
+aliases:
  - /science/5015/professor-keith-barnham-talks-about-his-vision-for-the-future-of-solar-energy
 category: science
 

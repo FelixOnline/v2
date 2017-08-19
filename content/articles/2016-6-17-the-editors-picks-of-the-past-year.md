@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:29:29 +0100"
 id: "6282"
 old_path: /arts/6282/the-editors-picks-of-the-past-year
-redirect_from:
+aliases:
  - /arts/6282/the-editors-picks-of-the-past-year
 category: arts
 

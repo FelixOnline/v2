@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 00:03:28 +0000"
 id: "3021"
 old_path: /news/3021/an-international-response
-redirect_from:
+aliases:
  - /news/3021/an-international-response
 category: news
 

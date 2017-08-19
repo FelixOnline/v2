@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:08:12 +0000"
 id: "4164"
 old_path: /arts/4164/murder-poverty-passion-rage
-redirect_from:
+aliases:
  - /arts/4164/murder-poverty-passion-rage
 category: arts
 

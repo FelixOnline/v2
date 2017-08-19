@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:43:42 +0000"
 id: "3199"
 old_path: /news/3199/looking-into-the-gender-balance
-redirect_from:
+aliases:
  - /news/3199/looking-into-the-gender-balance
 category: news
 

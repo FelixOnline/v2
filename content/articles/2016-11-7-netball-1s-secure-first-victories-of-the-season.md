@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:18:57 +0000"
 id: "6407"
 old_path: /sport/6407/netball-1s-secure-first-victories-of-the-season-
-redirect_from:
+aliases:
  - /sport/6407/netball-1s-secure-first-victories-of-the-season-
 category: sport
 

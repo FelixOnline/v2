@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:33:46 +0000"
 id: "697"
 old_path: /food/697/100-ways-to-eat-eggs-actually-just-three-
-redirect_from:
+aliases:
  - /food/697/100-ways-to-eat-eggs-actually-just-three-
 category: food
 

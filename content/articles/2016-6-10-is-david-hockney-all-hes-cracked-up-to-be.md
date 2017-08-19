@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:34:21 +0100"
 id: "6264"
 old_path: /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
-redirect_from:
+aliases:
  - /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
 category: arts
 

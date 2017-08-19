@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 19:53:26 +0000"
 id: "4858"
 old_path: /news/4858/silwood-redevelopments-still-uncertain
-redirect_from:
+aliases:
  - /news/4858/silwood-redevelopments-still-uncertain
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:23:50 +0100"
 id: "4628"
 old_path: /news/4628/imperial-students-to-take-part-in-summer-of-student-innovation-competition
-redirect_from:
+aliases:
  - /news/4628/imperial-students-to-take-part-in-summer-of-student-innovation-competition
 category: news
 

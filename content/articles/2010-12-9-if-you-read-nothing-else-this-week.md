@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:28:39 +0000"
 id: "535"
 old_path: /arts/535/if-you-read-nothing-else-this-week
-redirect_from:
+aliases:
  - /arts/535/if-you-read-nothing-else-this-week
 category: arts
 

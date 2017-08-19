@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:07:10 +0000"
 id: "1662"
 old_path: /politics/1662/the-conservatives-in-europe
-redirect_from:
+aliases:
  - /politics/1662/the-conservatives-in-europe
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 12:32:37 +0100"
 id: "1492"
 old_path: /music/1492/music-through-the-ages
-redirect_from:
+aliases:
  - /music/1492/music-through-the-ages
 category: music
 

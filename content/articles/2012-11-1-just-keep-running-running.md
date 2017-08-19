@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:15:17 +0000"
 id: "2819"
 old_path: /sport/2819/just-keep-running-running
-redirect_from:
+aliases:
  - /sport/2819/just-keep-running-running
 category: sport
 

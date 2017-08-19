@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-19 14:05:48 +0100"
 id: "4617"
 old_path: /tv/4617/2013-14-television-renewal-and-cancellation
-redirect_from:
+aliases:
  - /tv/4617/2013-14-television-renewal-and-cancellation
 category: tv
 

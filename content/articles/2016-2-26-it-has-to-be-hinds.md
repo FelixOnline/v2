@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:50:09 +0000"
 id: "5971"
 old_path: /music/5971/it-has-to-be-hinds
-redirect_from:
+aliases:
  - /music/5971/it-has-to-be-hinds
 category: music
 

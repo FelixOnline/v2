@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 22:32:50 +0000"
 id: "1836"
 old_path: /arts/1836/friends-of-the-mirth
-redirect_from:
+aliases:
  - /arts/1836/friends-of-the-mirth
 category: arts
 

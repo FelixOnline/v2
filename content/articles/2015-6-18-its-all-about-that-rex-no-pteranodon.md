@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-18 20:16:46 +0100"
 id: "5632"
 old_path: /film/5632/its-all-about-that-rex-no-pteranodon
-redirect_from:
+aliases:
  - /film/5632/its-all-about-that-rex-no-pteranodon
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-05 21:29:53 +0000"
 id: "5340"
 old_path: /comment/5340/felix-interviews-deputy-president-cs-candidate-benjamin-howitt
-redirect_from:
+aliases:
  - /comment/5340/felix-interviews-deputy-president-cs-candidate-benjamin-howitt
 category: comment
 

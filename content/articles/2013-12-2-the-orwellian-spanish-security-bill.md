@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:36:02 +0000"
 id: "4151"
 old_path: /comment/4151/the-orwellian-spanish-security-bill
-redirect_from:
+aliases:
  - /comment/4151/the-orwellian-spanish-security-bill
 category: comment
 

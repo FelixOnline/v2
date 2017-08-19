@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:28:44 +0000"
 id: "890"
 old_path: /sport/890/gaelic-footballers-go-to-birmingham-
-redirect_from:
+aliases:
  - /sport/890/gaelic-footballers-go-to-birmingham-
 category: sport
 

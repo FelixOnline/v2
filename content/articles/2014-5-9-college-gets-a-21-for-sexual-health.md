@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 01:55:00 +0100"
 id: "4564"
 old_path: /news/4564/college-gets-a-21-for-sexual-health
-redirect_from:
+aliases:
  - /news/4564/college-gets-a-21-for-sexual-health
 category: news
 

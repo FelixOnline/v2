@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 12:28:28 +0000"
 id: "5682"
 old_path: /news/5682/ucas-to-anonymise-university-applications
-redirect_from:
+aliases:
  - /news/5682/ucas-to-anonymise-university-applications
 category: news
 

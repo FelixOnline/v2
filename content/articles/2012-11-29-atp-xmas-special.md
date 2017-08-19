@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:56:17 +0000"
 id: "2994"
 old_path: /music/2994/atp-xmas-special
-redirect_from:
+aliases:
  - /music/2994/atp-xmas-special
 category: music
 

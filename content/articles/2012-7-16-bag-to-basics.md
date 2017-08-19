@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-07-16 12:03:13 +0100"
 id: "2586"
 old_path: /fashion/2586/bag-to-basics
-redirect_from:
+aliases:
  - /fashion/2586/bag-to-basics
 category: fashion
 

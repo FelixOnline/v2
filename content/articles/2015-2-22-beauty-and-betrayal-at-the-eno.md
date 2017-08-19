@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-22 17:32:13 +0000"
 id: "5301"
 old_path: /arts/5301/beauty-and-betrayal-at-the-eno
-redirect_from:
+aliases:
  - /arts/5301/beauty-and-betrayal-at-the-eno
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:14:40 +0000"
 id: "768"
 old_path: /news/768/union-minimum-english-requirement-should-rise-
-redirect_from:
+aliases:
  - /news/768/union-minimum-english-requirement-should-rise-
 category: news
 

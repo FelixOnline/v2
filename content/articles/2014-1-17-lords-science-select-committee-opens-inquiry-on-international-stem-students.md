@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 02:58:59 +0000"
 id: "4218"
 old_path: /news/4218/lords-science-select-committee-opens-inquiry-on-international-stem-students
-redirect_from:
+aliases:
  - /news/4218/lords-science-select-committee-opens-inquiry-on-international-stem-students
 category: news
 

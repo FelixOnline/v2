@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:41:57 +0100"
 id: "6291"
 old_path: /food/6291/brb-im-drowning-in-cocktails
-redirect_from:
+aliases:
  - /food/6291/brb-im-drowning-in-cocktails
 category: food
 

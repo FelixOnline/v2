@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 14:59:56 +0100"
 id: "6350"
 old_path: /comment/6350/the-donald-was-not-created-in-a-vacuum
-redirect_from:
+aliases:
  - /comment/6350/the-donald-was-not-created-in-a-vacuum
 category: comment
 

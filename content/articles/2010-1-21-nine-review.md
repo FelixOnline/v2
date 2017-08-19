@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-21 14:03:10 +0000"
 id: "41"
 old_path: /film/41/nine-review
-redirect_from:
+aliases:
  - /film/41/nine-review
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:33:04 +0000"
 id: "5877"
 old_path: /film/5877/the-top-three-korean-films-that-arent-oldboy
-redirect_from:
+aliases:
  - /film/5877/the-top-three-korean-films-that-arent-oldboy
 category: film
 

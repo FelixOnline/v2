@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 21:19:48 +0000"
 id: "944"
 old_path: /news/944/1300-lose-home-directory-access
-redirect_from:
+aliases:
  - /news/944/1300-lose-home-directory-access
 category: news
 

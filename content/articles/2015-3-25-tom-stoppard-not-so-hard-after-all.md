@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:56:39 +0000"
 id: "5440"
 old_path: /arts/5440/tom-stoppard-not-so-hard-after-all
-redirect_from:
+aliases:
  - /arts/5440/tom-stoppard-not-so-hard-after-all
 category: arts
 

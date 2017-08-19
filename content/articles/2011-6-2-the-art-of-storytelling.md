@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 20:10:42 +0100"
 id: "1318"
 old_path: /arts/1318/the-art-of-storytelling
-redirect_from:
+aliases:
  - /arts/1318/the-art-of-storytelling
 category: arts
 

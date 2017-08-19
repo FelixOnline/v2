@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:28:30 +0000"
 id: "1071"
 old_path: /music/1071/the-streets-release-final-album
-redirect_from:
+aliases:
  - /music/1071/the-streets-release-final-album
 category: music
 

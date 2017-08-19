@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:22:29 +0000"
 id: "1728"
 old_path: /biz/1728/the-end-of-the-big-four
-redirect_from:
+aliases:
  - /biz/1728/the-end-of-the-big-four
 category: business
 

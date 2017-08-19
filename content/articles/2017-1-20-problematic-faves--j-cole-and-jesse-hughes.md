@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:21:08 +0000"
 id: "6669"
 old_path: /music/6669/problematic-faves--j-cole-and-jesse-hughes
-redirect_from:
+aliases:
  - /music/6669/problematic-faves--j-cole-and-jesse-hughes
 category: music
 

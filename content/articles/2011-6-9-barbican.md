@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 18:22:05 +0100"
 id: "1331"
 old_path: /phoenix/1331/barbican
-redirect_from:
+aliases:
  - /phoenix/1331/barbican
 category: phoenix
 

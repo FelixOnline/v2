@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 13:31:10 +0000"
 id: "5101"
 old_path: /comment/5101/why-all-the-fuss-about-charlie-hebdo
-redirect_from:
+aliases:
  - /comment/5101/why-all-the-fuss-about-charlie-hebdo
 category: comment
 

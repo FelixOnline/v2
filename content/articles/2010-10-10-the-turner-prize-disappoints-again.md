@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-10 15:24:17 +0100"
 id: "188"
 old_path: /arts/188/the-turner-prize-disappoints-again-
-redirect_from:
+aliases:
  - /arts/188/the-turner-prize-disappoints-again-
 category: arts
 

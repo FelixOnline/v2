@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:23:24 +0000"
 id: "5038"
 old_path: /cands/5038/carrying-the-banner-coffee-newspapers--jazzhands
-redirect_from:
+aliases:
  - /cands/5038/carrying-the-banner-coffee-newspapers--jazzhands
 category: clubs-and-socs
 

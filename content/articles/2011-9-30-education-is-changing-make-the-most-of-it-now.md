@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 12:54:30 +0100"
 id: "1463"
 old_path: /comment/1463/education-is-changing-make-the-most-of-it-now
-redirect_from:
+aliases:
  - /comment/1463/education-is-changing-make-the-most-of-it-now
 category: comment
 

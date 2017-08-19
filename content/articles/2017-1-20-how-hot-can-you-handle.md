@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 15:12:23 +0000"
 id: "6665"
 old_path: /science/6665/how-hot-can-you-handle
-redirect_from:
+aliases:
  - /science/6665/how-hot-can-you-handle
 category: science
 

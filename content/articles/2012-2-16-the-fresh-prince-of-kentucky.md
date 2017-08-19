@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:55:45 +0000"
 id: "2201"
 old_path: /music/2201/the-fresh-prince-of-kentucky
-redirect_from:
+aliases:
  - /music/2201/the-fresh-prince-of-kentucky
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:09:47 +0000"
 id: "1063"
 old_path: /politics/1063/the-middle-east-protests-are-secular
-redirect_from:
+aliases:
  - /politics/1063/the-middle-east-protests-are-secular
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:42:07 +0000"
 id: "3407"
 old_path: /news/3407/imperial-pulls-out-of-new-university-ranking-system
-redirect_from:
+aliases:
  - /news/3407/imperial-pulls-out-of-new-university-ranking-system
 category: news
 

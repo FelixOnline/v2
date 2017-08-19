@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:40:17 +0000"
 id: "3364"
 old_path: /comment/3364/w3-a-welfare-perspective
-redirect_from:
+aliases:
  - /comment/3364/w3-a-welfare-perspective
 category: comment
 

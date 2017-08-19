@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:55:57 +0000"
 id: "960"
 old_path: /comment/960/catch-i-science-on-the-11th-march
-redirect_from:
+aliases:
  - /comment/960/catch-i-science-on-the-11th-march
 category: comment
 

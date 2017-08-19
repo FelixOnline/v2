@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:19:48 +0100"
 id: "6951"
 old_path: /arts/6951/lost-gem-rediscovered--the-wipers-times
-redirect_from:
+aliases:
  - /arts/6951/lost-gem-rediscovered--the-wipers-times
 category: arts
 

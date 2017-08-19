@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:27:28 +0100"
 id: "1523"
 old_path: /food/1523/dishoom-one-of-the-best-bombay-cafs-that-london-has-to-offer
-redirect_from:
+aliases:
  - /food/1523/dishoom-one-of-the-best-bombay-cafs-that-london-has-to-offer
 category: food
 

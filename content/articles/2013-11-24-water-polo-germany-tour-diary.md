@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 23:59:44 +0000"
 id: "4137"
 old_path: /sport/4137/water-polo-germany-tour-diary
-redirect_from:
+aliases:
  - /sport/4137/water-polo-germany-tour-diary
 category: sport
 

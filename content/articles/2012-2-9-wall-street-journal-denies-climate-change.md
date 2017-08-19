@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:46:28 +0000"
 id: "2161"
 old_path: /science/2161/wall-street-journal-denies-climate-change
-redirect_from:
+aliases:
  - /science/2161/wall-street-journal-denies-climate-change
 category: science
 

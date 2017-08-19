@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 16:16:41 +0000"
 id: "6856"
 old_path: /sport/6856/club-developments-going-smart
-redirect_from:
+aliases:
  - /sport/6856/club-developments-going-smart
 category: sport
 

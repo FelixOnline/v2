@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 08:51:43 +0100"
 id: "6145"
 old_path: /news/6145/eu-debate-to-be-held-at-imperial
-redirect_from:
+aliases:
  - /news/6145/eu-debate-to-be-held-at-imperial
 category: news
 

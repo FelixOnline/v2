@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:46:43 +0000"
 id: "2349"
 old_path: /biz/2349/graduates-from-the-university-of-sife
-redirect_from:
+aliases:
  - /biz/2349/graduates-from-the-university-of-sife
 category: business
 

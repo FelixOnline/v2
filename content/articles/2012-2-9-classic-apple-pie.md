@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:34:29 +0000"
 id: "2154"
 old_path: /food/2154/classic-apple-pie
-redirect_from:
+aliases:
  - /food/2154/classic-apple-pie
 category: food
 

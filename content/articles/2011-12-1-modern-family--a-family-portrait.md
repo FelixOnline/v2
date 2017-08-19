@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 20:36:11 +0000"
 id: "1873"
 old_path: /tv/1873/modern-family--a-family-portrait
-redirect_from:
+aliases:
  - /tv/1873/modern-family--a-family-portrait
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-15 11:37:07 +0100"
 id: "5623"
 old_path: /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality
-redirect_from:
+aliases:
  - /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality
 category: arts
 

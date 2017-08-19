@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-19 23:58:41 +0000"
 id: "5277"
 old_path: /politics/5277/2015-general-election-its-complicated
-redirect_from:
+aliases:
  - /politics/5277/2015-general-election-its-complicated
 category: politics
 

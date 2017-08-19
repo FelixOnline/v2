@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:22:26 +0000"
 id: "4777"
 old_path: /film/4777/the-talented-mr-turner
-redirect_from:
+aliases:
  - /film/4777/the-talented-mr-turner
 category: film
 

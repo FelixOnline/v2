@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-01 00:28:12 +0000"
 id: "3228"
 old_path: /sport/3228/friends-and-foe
-redirect_from:
+aliases:
  - /sport/3228/friends-and-foe
 category: sport
 

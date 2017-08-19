@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-29 16:24:43 +0000"
 id: "4305"
 old_path: /tech/4305/felix-on-the-move
-redirect_from:
+aliases:
  - /tech/4305/felix-on-the-move
 category: tech
 

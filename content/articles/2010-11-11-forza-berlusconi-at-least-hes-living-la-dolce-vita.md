@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 21:13:17 +0000"
 id: "355"
 old_path: /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
-redirect_from:
+aliases:
  - /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
 category: politics
 

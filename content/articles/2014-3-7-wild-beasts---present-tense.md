@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:47:10 +0000"
 id: "4465"
 old_path: /music/4465/wild-beasts---present-tense
-redirect_from:
+aliases:
  - /music/4465/wild-beasts---present-tense
 category: music
 

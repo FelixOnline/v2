@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:44:26 +0000"
 id: "3445"
 old_path: /news/3445/imperial-trailing-in-equal-access-to-education
-redirect_from:
+aliases:
  - /news/3445/imperial-trailing-in-equal-access-to-education
 category: news
 

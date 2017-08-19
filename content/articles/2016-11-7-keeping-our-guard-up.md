@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:20:14 +0000"
 id: "6408"
 old_path: /sport/6408/keeping-our-guard-up
-redirect_from:
+aliases:
  - /sport/6408/keeping-our-guard-up
 category: sport
 

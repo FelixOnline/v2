@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-16 14:31:56 +0100"
 id: "1547"
 old_path: /arts/1547/frieze-a-preview-of-the-madness
-redirect_from:
+aliases:
  - /arts/1547/frieze-a-preview-of-the-madness
 category: arts
 

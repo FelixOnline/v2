@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:14:10 +0000"
 id: "6792"
 old_path: /arts/6792/hockney-makes-a-splash-at-this-tate-britain-retrospective
-redirect_from:
+aliases:
  - /arts/6792/hockney-makes-a-splash-at-this-tate-britain-retrospective
 category: arts
 

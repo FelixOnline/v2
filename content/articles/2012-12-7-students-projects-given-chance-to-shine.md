@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:16:01 +0000"
 id: "3045"
 old_path: /biz/3045/students-projects-given-chance-to-shine
-redirect_from:
+aliases:
  - /biz/3045/students-projects-given-chance-to-shine
 category: business
 

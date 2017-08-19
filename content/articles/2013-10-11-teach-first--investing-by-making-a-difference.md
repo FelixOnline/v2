@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:45:19 +0100"
 id: "3831"
 old_path: /comment/3831/teach-first--investing-by-making-a-difference
-redirect_from:
+aliases:
  - /comment/3831/teach-first--investing-by-making-a-difference
 category: comment
 

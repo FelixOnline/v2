@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-19 13:19:35 +0100"
 id: "5642"
 old_path: /news/5642/union-bar-name-competition-hijacked-by-4chan
-redirect_from:
+aliases:
  - /news/5642/union-bar-name-competition-hijacked-by-4chan
 category: news
 

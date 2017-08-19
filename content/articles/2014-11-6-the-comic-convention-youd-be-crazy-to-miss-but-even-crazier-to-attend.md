@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:12:21 +0000"
 id: "4774"
 old_path: /features/4774/the-comic-convention-youd-be-crazy-to-miss-but-even-crazier-to-attend
-redirect_from:
+aliases:
  - /features/4774/the-comic-convention-youd-be-crazy-to-miss-but-even-crazier-to-attend
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-19 21:26:31 +0000"
 id: "4407"
 old_path: /games/4407/episode-22-annas-friend
-redirect_from:
+aliases:
  - /games/4407/episode-22-annas-friend
 category: games
 

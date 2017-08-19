@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 15:09:18 +0100"
 id: "1176"
 old_path: /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
-redirect_from:
+aliases:
  - /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
 category: food
 

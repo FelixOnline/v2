@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 20:22:03 +0100"
 id: "2446"
 old_path: /music/2446/i-am-an-anti-christ-i-am-an-anarchist
-redirect_from:
+aliases:
  - /music/2446/i-am-an-anti-christ-i-am-an-anarchist
 category: music
 

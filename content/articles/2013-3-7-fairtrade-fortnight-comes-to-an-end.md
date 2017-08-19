@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:33:59 +0000"
 id: "3425"
 old_path: /news/3425/fairtrade-fortnight-comes-to-an-end
-redirect_from:
+aliases:
  - /news/3425/fairtrade-fortnight-comes-to-an-end
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 21:29:25 +0000"
 id: "1940"
 old_path: /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
-redirect_from:
+aliases:
  - /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
 category: comment
 

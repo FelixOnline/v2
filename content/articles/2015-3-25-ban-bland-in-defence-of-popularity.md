@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-25 12:46:19 +0000"
 id: "5437"
 old_path: /arts/5437/ban-bland-in-defence-of-popularity
-redirect_from:
+aliases:
  - /arts/5437/ban-bland-in-defence-of-popularity
 category: arts
 

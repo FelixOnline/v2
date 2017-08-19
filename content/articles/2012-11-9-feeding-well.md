@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 00:28:51 +0000"
 id: "2838"
 old_path: /comment/2838/feeding-well
-redirect_from:
+aliases:
  - /comment/2838/feeding-well
 category: comment
 

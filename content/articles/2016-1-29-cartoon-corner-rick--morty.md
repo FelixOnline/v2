@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:59:29 +0000"
 id: "5856"
 old_path: /tv/5856/cartoon-corner-rick--morty
-redirect_from:
+aliases:
  - /tv/5856/cartoon-corner-rick--morty
 category: tv
 

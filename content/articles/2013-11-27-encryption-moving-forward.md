@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-27 16:04:41 +0000"
 id: "4141"
 old_path: /tech/4141/encryption-moving-forward
-redirect_from:
+aliases:
  - /tech/4141/encryption-moving-forward
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-04 09:38:49 +0000"
 id: "1702"
 old_path: /science/1702/women-in-science
-redirect_from:
+aliases:
  - /science/1702/women-in-science
 category: science
 

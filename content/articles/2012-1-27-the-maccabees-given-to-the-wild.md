@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 12:18:08 +0000"
 id: "2083"
 old_path: /music/2083/the-maccabees-given-to-the-wild-
-redirect_from:
+aliases:
  - /music/2083/the-maccabees-given-to-the-wild-
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:29:01 +0100"
 id: "2679"
 old_path: /music/2679/french-radio-pourqoui-pas
-redirect_from:
+aliases:
  - /music/2679/french-radio-pourqoui-pas
 category: music
 

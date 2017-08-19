@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 17:53:47 +0100"
 id: "1327"
 old_path: /phoenix/1327/mum-i-need-a-doctor
-redirect_from:
+aliases:
  - /phoenix/1327/mum-i-need-a-doctor
 category: phoenix
 

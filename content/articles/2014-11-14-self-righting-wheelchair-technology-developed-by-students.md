@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:00:37 +0000"
 id: "4863"
 old_path: /news/4863/self-righting-wheelchair-technology-developed-by-students
-redirect_from:
+aliases:
  - /news/4863/self-righting-wheelchair-technology-developed-by-students
 category: news
 

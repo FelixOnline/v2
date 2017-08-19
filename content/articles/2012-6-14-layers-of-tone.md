@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:57:28 +0100"
 id: "2573"
 old_path: /phoenix/2573/layers-of-tone-
-redirect_from:
+aliases:
  - /phoenix/2573/layers-of-tone-
 category: phoenix
 

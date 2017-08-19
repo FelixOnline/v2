@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:03:26 +0000"
 id: "2807"
 old_path: /film/2807/size-doesnt-matter
-redirect_from:
+aliases:
  - /film/2807/size-doesnt-matter
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 11:05:24 +0100"
 id: "1166"
 old_path: /music/1166/acoustic-guitar-and-avant-garde-orchestral-music-unite
-redirect_from:
+aliases:
  - /music/1166/acoustic-guitar-and-avant-garde-orchestral-music-unite
 category: music
 

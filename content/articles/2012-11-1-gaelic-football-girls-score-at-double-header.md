@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:07:40 +0000"
 id: "2811"
 old_path: /sport/2811/gaelic-football-girls-score-at-double-header
-redirect_from:
+aliases:
  - /sport/2811/gaelic-football-girls-score-at-double-header
 category: sport
 

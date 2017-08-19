@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:56:20 +0100"
 id: "5678"
 old_path: /comment/5678/my-morning-with-the-president-of-china
-redirect_from:
+aliases:
  - /comment/5678/my-morning-with-the-president-of-china
 category: comment
 

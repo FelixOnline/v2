@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-06 13:45:19 +0000"
 id: "5701"
 old_path: /comment/5701/poppies-are-not-a-source-of-pride
-redirect_from:
+aliases:
  - /comment/5701/poppies-are-not-a-source-of-pride
 category: comment
 

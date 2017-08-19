@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:27:58 +0000"
 id: "1666"
 old_path: /tv/1666/brilliant-shows-youve-never-heard-of
-redirect_from:
+aliases:
  - /tv/1666/brilliant-shows-youve-never-heard-of
 category: tv
 

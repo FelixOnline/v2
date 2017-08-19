@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:50:54 +0100"
 id: "2534"
 old_path: /comment/2534/the-importance-of-funded-scholarships
-redirect_from:
+aliases:
  - /comment/2534/the-importance-of-funded-scholarships
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:37:10 +0100"
 id: "3602"
 old_path: /film/3602/big-cast-big-names-big-mess-big-failure
-redirect_from:
+aliases:
  - /film/3602/big-cast-big-names-big-mess-big-failure
 category: film
 

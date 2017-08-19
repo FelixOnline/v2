@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 22:14:29 +0000"
 id: "2331"
 old_path: /food/2331/imperial-fairtrade-food-awards-the-results
-redirect_from:
+aliases:
  - /food/2331/imperial-fairtrade-food-awards-the-results
 category: food
 

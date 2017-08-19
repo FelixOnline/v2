@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 21:34:01 +0100"
 id: "1564"
 old_path: /tech/1564/dennis-ritchie--an-unsung-hero
-redirect_from:
+aliases:
  - /tech/1564/dennis-ritchie--an-unsung-hero
 category: tech
 

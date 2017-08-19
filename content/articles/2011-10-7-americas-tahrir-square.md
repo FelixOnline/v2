@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-07 10:02:03 +0100"
 id: "1482"
 old_path: /politics/1482/americas-tahrir-square
-redirect_from:
+aliases:
  - /politics/1482/americas-tahrir-square
 category: politics
 

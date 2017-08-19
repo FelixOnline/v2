@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:10:37 +0100"
 id: "1411"
 old_path: /news/1411/physics-lectures-in-saf
-redirect_from:
+aliases:
  - /news/1411/physics-lectures-in-saf
 category: news
 

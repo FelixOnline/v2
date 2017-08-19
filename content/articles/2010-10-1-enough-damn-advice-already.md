@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 22:40:15 +0100"
 id: "165"
 old_path: /comment/165/enough-damn-advice-already
-redirect_from:
+aliases:
  - /comment/165/enough-damn-advice-already
 category: comment
 

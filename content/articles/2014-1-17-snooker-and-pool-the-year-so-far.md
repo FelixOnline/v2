@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:37:10 +0000"
 id: "4260"
 old_path: /sport/4260/snooker-and-pool-the-year-so-far
-redirect_from:
+aliases:
  - /sport/4260/snooker-and-pool-the-year-so-far
 category: sport
 

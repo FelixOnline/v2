@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 21:29:00 +0000"
 id: "1778"
 old_path: /arts/1778/yerma-d-not-to-see-this
-redirect_from:
+aliases:
  - /arts/1778/yerma-d-not-to-see-this
 category: arts
 

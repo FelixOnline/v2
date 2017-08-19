@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:16:31 +0000"
 id: "5992"
 old_path: /sport/5992/batons-bevs-and-baked-potatoes
-redirect_from:
+aliases:
  - /sport/5992/batons-bevs-and-baked-potatoes
 category: sport
 

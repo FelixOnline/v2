@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 21:18:12 +0000"
 id: "2029"
 old_path: /arts/2029/dazed--confused-at-somerset-house
-redirect_from:
+aliases:
  - /arts/2029/dazed--confused-at-somerset-house
 category: arts
 

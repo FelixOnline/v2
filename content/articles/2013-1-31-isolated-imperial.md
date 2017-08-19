@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:41:15 +0000"
 id: "3213"
 old_path: /comment/3213/isolated-imperial
-redirect_from:
+aliases:
  - /comment/3213/isolated-imperial
 category: comment
 

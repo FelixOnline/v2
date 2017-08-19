@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:30:55 +0100"
 id: "2710"
 old_path: /music/2710/movements-in-the-deep-of-night
-redirect_from:
+aliases:
  - /music/2710/movements-in-the-deep-of-night
 category: music
 

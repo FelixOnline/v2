@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:19:05 +0000"
 id: "520"
 old_path: /sport/520/formula-1-an-alternative-view-to-pedal-to-the-vettel
-redirect_from:
+aliases:
  - /sport/520/formula-1-an-alternative-view-to-pedal-to-the-vettel
 category: sport
 

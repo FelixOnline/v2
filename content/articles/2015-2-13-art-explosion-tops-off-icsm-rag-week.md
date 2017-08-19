@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 14:52:13 +0000"
 id: "5254"
 old_path: /cands/5254/art-explosion-tops-off-icsm-rag-week
-redirect_from:
+aliases:
  - /cands/5254/art-explosion-tops-off-icsm-rag-week
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-22 18:53:14 +0000"
 id: "5952"
 old_path: /news/5952/college-puts-a-stop-to-rag-bungee-jump
-redirect_from:
+aliases:
  - /news/5952/college-puts-a-stop-to-rag-bungee-jump
 category: news
 

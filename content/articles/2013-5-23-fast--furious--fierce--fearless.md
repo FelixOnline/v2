@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:39:11 +0100"
 id: "3603"
 old_path: /film/3603/fast--furious--fierce--fearless
-redirect_from:
+aliases:
  - /film/3603/fast--furious--fierce--fearless
 category: film
 

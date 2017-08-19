@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:14:24 +0100"
 id: "235"
 old_path: /politics/235/welfare-cuts-could-pay-for-science
-redirect_from:
+aliases:
  - /politics/235/welfare-cuts-could-pay-for-science
 category: politics
 

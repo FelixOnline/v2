@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:36:47 +0000"
 id: "2156"
 old_path: /science/2156/graphene-oxide-filters-out-water
-redirect_from:
+aliases:
  - /science/2156/graphene-oxide-filters-out-water
 category: science
 

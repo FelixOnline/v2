@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-17 17:31:39 +0000"
 id: "4486"
 old_path: /news/4486/medics-take-the-jpr-williams-cup-at-varsity
-redirect_from:
+aliases:
  - /news/4486/medics-take-the-jpr-williams-cup-at-varsity
 category: news
 

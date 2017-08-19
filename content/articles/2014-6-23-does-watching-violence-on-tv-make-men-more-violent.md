@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 14:52:45 +0100"
 id: "4714"
 old_path: /science/4714/does-watching-violence-on-tv-make-men-more-violent
-redirect_from:
+aliases:
  - /science/4714/does-watching-violence-on-tv-make-men-more-violent
 category: science
 

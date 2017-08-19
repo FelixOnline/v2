@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-19 18:31:04 +0000"
 id: "4093"
 old_path: /sport/4093/the-ashes-column
-redirect_from:
+aliases:
  - /sport/4093/the-ashes-column
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 20:39:37 +0000"
 id: "1717"
 old_path: /arts/1717/whats-the-point-again
-redirect_from:
+aliases:
  - /arts/1717/whats-the-point-again
 category: arts
 

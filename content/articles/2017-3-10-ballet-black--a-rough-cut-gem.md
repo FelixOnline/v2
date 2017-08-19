@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:44:42 +0000"
 id: "6876"
 old_path: /arts/6876/ballet-black--a-rough-cut-gem
-redirect_from:
+aliases:
  - /arts/6876/ballet-black--a-rough-cut-gem
 category: arts
 

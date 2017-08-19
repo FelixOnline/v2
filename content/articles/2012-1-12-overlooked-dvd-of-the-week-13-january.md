@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:38:38 +0000"
 id: "1987"
 old_path: /film/1987/overlooked-dvd-of-the-week-13-january
-redirect_from:
+aliases:
  - /film/1987/overlooked-dvd-of-the-week-13-january
 category: film
 

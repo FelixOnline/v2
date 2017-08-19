@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 13:51:58 +0100"
 id: "1273"
 old_path: /tv/1273/a-never-ending-story
-redirect_from:
+aliases:
  - /tv/1273/a-never-ending-story
 category: tv
 

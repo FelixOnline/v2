@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-06 23:53:30 +0100"
 id: "1467"
 old_path: /news/1467/student-satisfaction-hits-tables
-redirect_from:
+aliases:
  - /news/1467/student-satisfaction-hits-tables
 category: news
 

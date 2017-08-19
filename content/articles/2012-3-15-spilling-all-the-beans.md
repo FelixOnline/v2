@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:41:10 +0000"
 id: "2346"
 old_path: /biz/2346/spilling-all-the-beans
-redirect_from:
+aliases:
  - /biz/2346/spilling-all-the-beans
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-29 16:44:02 +0000"
 id: "4308"
 old_path: /games/4308/dayz-stories-episode-1-yannicks-tale
-redirect_from:
+aliases:
  - /games/4308/dayz-stories-episode-1-yannicks-tale
 category: games
 

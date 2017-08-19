@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-07 05:00:33 +0000"
 id: "4355"
 old_path: /news/4355/imperial-spin-off-seeks-175m-in-stock-market-ipo
-redirect_from:
+aliases:
  - /news/4355/imperial-spin-off-seeks-175m-in-stock-market-ipo
 category: news
 

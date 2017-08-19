@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 21:56:48 +0000"
 id: "5240"
 old_path: /news/5240/union-council-vote-to-support-closure-of-weeks-hall-in-princes-gardens
-redirect_from:
+aliases:
  - /news/5240/union-council-vote-to-support-closure-of-weeks-hall-in-princes-gardens
 category: news
 

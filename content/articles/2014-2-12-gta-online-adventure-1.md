@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-12 11:34:54 +0000"
 id: "4368"
 old_path: /games/4368/gta-online-adventure-1
-redirect_from:
+aliases:
  - /games/4368/gta-online-adventure-1
 category: games
 

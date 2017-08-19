@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:33:42 +0000"
 id: "1011"
 old_path: /science/1011/deep-voice-sign-of-shallow-personality
-redirect_from:
+aliases:
  - /science/1011/deep-voice-sign-of-shallow-personality
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:15:08 +0000"
 id: "4194"
 old_path: /arts/4194/who-is-paul-smith
-redirect_from:
+aliases:
  - /arts/4194/who-is-paul-smith
 category: arts
 

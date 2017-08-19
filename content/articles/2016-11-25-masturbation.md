@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:46:59 +0000"
 id: "6516"
 old_path: /sex/6516/masturbation
-redirect_from:
+aliases:
  - /sex/6516/masturbation
 category: sex
 

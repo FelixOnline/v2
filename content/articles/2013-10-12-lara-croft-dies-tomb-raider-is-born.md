@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 19:29:29 +0100"
 id: "3855"
 old_path: /games/3855/lara-croft-dies-tomb-raider-is-born
-redirect_from:
+aliases:
  - /games/3855/lara-croft-dies-tomb-raider-is-born
 category: games
 

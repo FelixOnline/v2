@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:39:46 +0000"
 id: "1690"
 old_path: /comment/1690/a-response-to-all-of-the-critics
-redirect_from:
+aliases:
  - /comment/1690/a-response-to-all-of-the-critics
 category: comment
 

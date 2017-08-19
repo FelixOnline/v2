@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:23:15 +0000"
 id: "5721"
 old_path: /news/5721/labour-hq-moving-to-high-street-kensington
-redirect_from:
+aliases:
  - /news/5721/labour-hq-moving-to-high-street-kensington
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:09:55 +0000"
 id: "882"
 old_path: /games/882/cities-in-motion-finally-a-simcity-destroyer
-redirect_from:
+aliases:
  - /games/882/cities-in-motion-finally-a-simcity-destroyer
 category: games
 

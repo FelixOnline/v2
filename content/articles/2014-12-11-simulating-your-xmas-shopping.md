@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 20:48:11 +0000"
 id: "5031"
 old_path: /games/5031/simulating-your-xmas-shopping
-redirect_from:
+aliases:
  - /games/5031/simulating-your-xmas-shopping
 category: games
 

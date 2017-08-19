@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 19:45:35 +0000"
 id: "868"
 old_path: /music/868/the-musical-emodiment-of-energy-rock-heaven
-redirect_from:
+aliases:
  - /music/868/the-musical-emodiment-of-energy-rock-heaven
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 20:28:58 +0000"
 id: "5011"
 old_path: /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
-redirect_from:
+aliases:
  - /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
 category: sport
 

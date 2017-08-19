@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 10:37:32 +0100"
 id: "6316"
 old_path: /comment/6316/junior-doctors-have-been-striking-because-the-nhs-is-worth-fighting-for
-redirect_from:
+aliases:
  - /comment/6316/junior-doctors-have-been-striking-because-the-nhs-is-worth-fighting-for
 category: comment
 

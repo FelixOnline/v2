@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:56:42 +0000"
 id: "1925"
 old_path: /biz/1925/the-uk-should-adopt-the-euro
-redirect_from:
+aliases:
  - /biz/1925/the-uk-should-adopt-the-euro
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-21 13:19:09 +0000"
 id: "4927"
 old_path: /news/4927/cardiff-media-strike-comes-to-an-end
-redirect_from:
+aliases:
  - /news/4927/cardiff-media-strike-comes-to-an-end
 category: news
 

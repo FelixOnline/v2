@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 22:00:25 +0000"
 id: "2330"
 old_path: /film/2330/total-mayhem-and-carnage-just-your-average-night-at-metric
-redirect_from:
+aliases:
  - /film/2330/total-mayhem-and-carnage-just-your-average-night-at-metric
 category: film
 

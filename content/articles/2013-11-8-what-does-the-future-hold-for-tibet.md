@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:48:00 +0000"
 id: "4027"
 old_path: /comment/4027/what-does-the-future-hold-for-tibet
-redirect_from:
+aliases:
  - /comment/4027/what-does-the-future-hold-for-tibet
 category: comment
 

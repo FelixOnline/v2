@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-04 23:12:52 +0100"
 id: "5594"
 old_path: /news/5594/no-dash-for-gas-activist-group-protests-at-royal-school-of-mines
-redirect_from:
+aliases:
  - /news/5594/no-dash-for-gas-activist-group-protests-at-royal-school-of-mines
 category: news
 

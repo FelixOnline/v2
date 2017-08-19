@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 00:27:43 +0100"
 id: "5572"
 old_path: /news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition
-redirect_from:
+aliases:
  - /news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 17:43:13 +0000"
 id: "4319"
 old_path: /science/4319/ancient-traces-of-water-found-on-mars
-redirect_from:
+aliases:
  - /science/4319/ancient-traces-of-water-found-on-mars
 category: science
 

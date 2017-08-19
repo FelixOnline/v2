@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:43:27 +0000"
 id: "976"
 old_path: /science/976/sex-drugs-and-rock-n-roll
-redirect_from:
+aliases:
  - /science/976/sex-drugs-and-rock-n-roll
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:37:34 +0000"
 id: "2901"
 old_path: /music/2901/you-dont-have-to-call-it-music-6
-redirect_from:
+aliases:
  - /music/2901/you-dont-have-to-call-it-music-6
 category: music
 

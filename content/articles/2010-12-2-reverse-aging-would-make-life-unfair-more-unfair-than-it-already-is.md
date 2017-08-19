@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:50:12 +0000"
 id: "498"
 old_path: /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
-redirect_from:
+aliases:
  - /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
 category: comment
 

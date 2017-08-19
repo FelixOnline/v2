@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-19 21:24:18 +0000"
 id: "4406"
 old_path: /games/4406/gaming-in-the-future
-redirect_from:
+aliases:
  - /games/4406/gaming-in-the-future
 category: games
 

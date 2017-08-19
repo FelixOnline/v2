@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:34:23 +0000"
 id: "3462"
 old_path: /news/3462/273-staff-members-on-over-100000
-redirect_from:
+aliases:
  - /news/3462/273-staff-members-on-over-100000
 category: news
 

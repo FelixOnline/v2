@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:04:11 +0000"
 id: "6728"
 old_path: /music/6728/musicians-against-trump-
-redirect_from:
+aliases:
  - /music/6728/musicians-against-trump-
 category: music
 

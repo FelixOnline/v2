@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-27 20:12:33 +0100"
 id: "1608"
 old_path: /news/1608/cgcu-dinner-brings-in-the-engineers
-redirect_from:
+aliases:
  - /news/1608/cgcu-dinner-brings-in-the-engineers
 category: news
 

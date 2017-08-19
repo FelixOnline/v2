@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 09:07:51 +0000"
 id: "5842"
 old_path: /features/5842/an-idiots-guide-to-the-us-election
-redirect_from:
+aliases:
  - /features/5842/an-idiots-guide-to-the-us-election
 category: features
 

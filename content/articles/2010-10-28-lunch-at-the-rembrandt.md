@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:35:46 +0100"
 id: "266"
 old_path: /food/266/lunch-at-the-rembrandt
-redirect_from:
+aliases:
  - /food/266/lunch-at-the-rembrandt
 category: food
 

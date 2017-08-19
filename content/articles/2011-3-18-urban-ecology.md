@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-18 06:56:19 +0000"
 id: "1111"
 old_path: /science/1111/urban-ecology
-redirect_from:
+aliases:
  - /science/1111/urban-ecology
 category: science
 

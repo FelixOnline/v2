@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 00:14:17 +0000"
 id: "3268"
 old_path: /sport/3268/not-drowning-but-waving
-redirect_from:
+aliases:
  - /sport/3268/not-drowning-but-waving
 category: sport
 

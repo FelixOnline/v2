@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 15:55:06 +0100"
 id: "3783"
 old_path: /film/3783/57th-bfi-london-film-festival-categories
-redirect_from:
+aliases:
  - /film/3783/57th-bfi-london-film-festival-categories
 category: film
 

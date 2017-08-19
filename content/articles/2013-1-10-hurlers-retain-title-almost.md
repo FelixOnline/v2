@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:23:27 +0000"
 id: "3113"
 old_path: /sport/3113/hurlers-retain-title-almost
-redirect_from:
+aliases:
  - /sport/3113/hurlers-retain-title-almost
 category: sport
 

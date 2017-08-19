@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:08:06 +0100"
 id: "6091"
 old_path: /news/6091/nus-elects-controversial-new-president
-redirect_from:
+aliases:
  - /news/6091/nus-elects-controversial-new-president
 category: news
 

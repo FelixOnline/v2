@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:16:02 +0100"
 id: "6188"
 old_path: /film/6188/documentary-corner-a-riot-of-our-own
-redirect_from:
+aliases:
  - /film/6188/documentary-corner-a-riot-of-our-own
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-07-22 19:45:35 +0100"
 id: "7028"
 old_path: /film/7028/francois-ozons-wit-doesnt-shine-through-in-franz
-redirect_from:
+aliases:
  - /film/7028/francois-ozons-wit-doesnt-shine-through-in-franz
 category: film
 

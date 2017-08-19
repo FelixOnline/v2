@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 20:43:32 +0000"
 id: "391"
 old_path: /music/391/cinematic-orchestra
-redirect_from:
+aliases:
  - /music/391/cinematic-orchestra
 category: music
 

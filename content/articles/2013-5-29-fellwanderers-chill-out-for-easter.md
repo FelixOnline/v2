@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 15:42:41 +0100"
 id: "3632"
 old_path: /sport/3632/fellwanderers-chill-out-for-easter
-redirect_from:
+aliases:
  - /sport/3632/fellwanderers-chill-out-for-easter
 category: sport
 

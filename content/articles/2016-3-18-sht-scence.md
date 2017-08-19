@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-18 11:49:50 +0000"
 id: "6061"
 old_path: /science/6061/sht-scence
-redirect_from:
+aliases:
  - /science/6061/sht-scence
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 22:02:11 +0000"
 id: "1790"
 old_path: /film/1790/brett-ratner-resigns-as-oscar-producer
-redirect_from:
+aliases:
  - /film/1790/brett-ratner-resigns-as-oscar-producer
 category: film
 

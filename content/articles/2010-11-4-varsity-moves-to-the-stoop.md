@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 18:54:23 +0000"
 id: "318"
 old_path: /sport/318/varsity-moves-to-the-stoop-
-redirect_from:
+aliases:
  - /sport/318/varsity-moves-to-the-stoop-
 category: sport
 

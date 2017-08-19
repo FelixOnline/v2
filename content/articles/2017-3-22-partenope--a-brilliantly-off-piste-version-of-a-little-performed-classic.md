@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-22 17:09:08 +0000"
 id: "6921"
 old_path: /arts/6921/partenope--a-brilliantly-off-piste-version-of-a-little-performed-classic
-redirect_from:
+aliases:
  - /arts/6921/partenope--a-brilliantly-off-piste-version-of-a-little-performed-classic
 category: arts
 

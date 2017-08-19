@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-24 20:34:58 +0000"
 id: "4954"
 old_path: /food/4954/foodie-insight-02-why-im-vegetarian
-redirect_from:
+aliases:
  - /food/4954/foodie-insight-02-why-im-vegetarian
 category: food
 

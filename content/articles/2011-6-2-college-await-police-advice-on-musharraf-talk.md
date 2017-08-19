@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:21:50 +0100"
 id: "1294"
 old_path: /news/1294/college-await-police-advice-on-musharraf-talk
-redirect_from:
+aliases:
  - /news/1294/college-await-police-advice-on-musharraf-talk
 category: news
 

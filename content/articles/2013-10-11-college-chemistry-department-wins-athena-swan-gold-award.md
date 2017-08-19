@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 22:57:24 +0100"
 id: "3822"
 old_path: /news/3822/college-chemistry-department-wins-athena-swan-gold-award
-redirect_from:
+aliases:
  - /news/3822/college-chemistry-department-wins-athena-swan-gold-award
 category: news
 

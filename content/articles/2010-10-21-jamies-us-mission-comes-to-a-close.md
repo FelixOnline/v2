@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:30:09 +0100"
 id: "241"
 old_path: /food/241/jamies-us-mission-comes-to-a-close-
-redirect_from:
+aliases:
  - /food/241/jamies-us-mission-comes-to-a-close-
 category: food
 

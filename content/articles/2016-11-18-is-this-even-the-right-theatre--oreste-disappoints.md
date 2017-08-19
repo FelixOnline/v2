@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 15:11:48 +0000"
 id: "6472"
 old_path: /arts/6472/is-this-even-the-right-theatre--oreste-disappoints
-redirect_from:
+aliases:
  - /arts/6472/is-this-even-the-right-theatre--oreste-disappoints
 category: arts
 

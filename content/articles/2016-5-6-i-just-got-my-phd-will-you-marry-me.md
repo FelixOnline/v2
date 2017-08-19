@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:42:53 +0100"
 id: "6114"
 old_path: /news/6114/i-just-got-my-phd-will-you-marry-me
-redirect_from:
+aliases:
  - /news/6114/i-just-got-my-phd-will-you-marry-me
 category: news
 

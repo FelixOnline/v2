@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:15:46 +0000"
 id: "2820"
 old_path: /music/2820/gonzales-at-the-barbican
-redirect_from:
+aliases:
  - /music/2820/gonzales-at-the-barbican
 category: music
 

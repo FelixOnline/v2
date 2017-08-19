@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 16:30:10 +0100"
 id: "6940"
 old_path: /news/6940/mascotry-saga-draws-to-an-end
-redirect_from:
+aliases:
  - /news/6940/mascotry-saga-draws-to-an-end
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 20:48:40 +0000"
 id: "69"
 old_path: /music/69/ten-years-of-independence-tru-thoughts
-redirect_from:
+aliases:
  - /music/69/ten-years-of-independence-tru-thoughts
 category: music
 

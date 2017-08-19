@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:44:02 +0100"
 id: "272"
 old_path: /food/272/union-food-worthy-of-a-michelin-star-
-redirect_from:
+aliases:
  - /food/272/union-food-worthy-of-a-michelin-star-
 category: food
 

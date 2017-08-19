@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 19:19:03 +0100"
 id: "1554"
 old_path: /news/1554/largest-ever-graduation
-redirect_from:
+aliases:
  - /news/1554/largest-ever-graduation
 category: news
 

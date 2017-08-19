@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:57:13 +0000"
 id: "3218"
 old_path: /biz/3218/finding-your-way-around-the-valley
-redirect_from:
+aliases:
  - /biz/3218/finding-your-way-around-the-valley
 category: business
 

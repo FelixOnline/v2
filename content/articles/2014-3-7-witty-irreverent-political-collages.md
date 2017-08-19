@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:42:22 +0000"
 id: "4463"
 old_path: /arts/4463/witty-irreverent-political-collages
-redirect_from:
+aliases:
  - /arts/4463/witty-irreverent-political-collages
 category: arts
 

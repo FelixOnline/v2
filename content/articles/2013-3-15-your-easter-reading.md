@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 01:38:17 +0000"
 id: "3478"
 old_path: /books/3478/your-easter-reading
-redirect_from:
+aliases:
  - /books/3478/your-easter-reading
 category: books
 

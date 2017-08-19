@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:08:23 +0000"
 id: "516"
 old_path: /travel/516/small-world-huh
-redirect_from:
+aliases:
  - /travel/516/small-world-huh
 category: travel
 

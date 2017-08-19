@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:59:26 +0100"
 id: "6109"
 old_path: /food/6109/live-and-let-live-as-long-as-youre-not-tasty
-redirect_from:
+aliases:
  - /food/6109/live-and-let-live-as-long-as-youre-not-tasty
 category: food
 

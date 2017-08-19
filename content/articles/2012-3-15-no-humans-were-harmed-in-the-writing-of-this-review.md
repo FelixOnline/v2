@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:09:08 +0000"
 id: "2371"
 old_path: /books/2371/no-humans-were-harmed-in-the-writing-of-this-review
-redirect_from:
+aliases:
  - /books/2371/no-humans-were-harmed-in-the-writing-of-this-review
 category: books
 

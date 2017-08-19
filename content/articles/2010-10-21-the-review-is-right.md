@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 18:53:49 +0100"
 id: "225"
 old_path: /comment/225/the-review-is-right-
-redirect_from:
+aliases:
  - /comment/225/the-review-is-right-
 category: comment
 

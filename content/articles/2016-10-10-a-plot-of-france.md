@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-10 12:11:42 +0100"
 id: "6319"
 old_path: /food/6319/a-plot-of-france
-redirect_from:
+aliases:
  - /food/6319/a-plot-of-france
 category: food
 

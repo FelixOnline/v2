@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 22:22:37 +0100"
 id: "2538"
 old_path: /music/2538/xvi-records-take-over-metric
-redirect_from:
+aliases:
  - /music/2538/xvi-records-take-over-metric
 category: music
 

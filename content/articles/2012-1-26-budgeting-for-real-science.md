@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:19:26 +0000"
 id: "2058"
 old_path: /games/2058/budgeting-for-real-science
-redirect_from:
+aliases:
  - /games/2058/budgeting-for-real-science
 category: games
 

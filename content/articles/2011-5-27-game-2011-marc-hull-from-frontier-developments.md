@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 13:39:19 +0100"
 id: "1272"
 old_path: /games/1272/game-2011-marc-hull-from-frontier-developments
-redirect_from:
+aliases:
  - /games/1272/game-2011-marc-hull-from-frontier-developments
 category: games
 

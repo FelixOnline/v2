@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:11:40 +0000"
 id: "3966"
 old_path: /news/3966/lord-darzi-elected-by-institute-of-medicine
-redirect_from:
+aliases:
  - /news/3966/lord-darzi-elected-by-institute-of-medicine
 category: news
 

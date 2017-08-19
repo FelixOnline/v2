@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:15:07 +0000"
 id: "577"
 old_path: /science/577/sir-francis-dalton-crime-fighter-
-redirect_from:
+aliases:
  - /science/577/sir-francis-dalton-crime-fighter-
 category: science
 

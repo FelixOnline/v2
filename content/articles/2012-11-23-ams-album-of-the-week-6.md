@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-23 00:21:38 +0000"
 id: "2971"
 old_path: /music/2971/ams-album-of-the-week-6
-redirect_from:
+aliases:
  - /music/2971/ams-album-of-the-week-6
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-09-22 13:18:32 +0100"
 id: "158"
 old_path: /travel/158/test-article---do-not-use
-redirect_from:
+aliases:
  - /travel/158/test-article---do-not-use
 category: travel
 

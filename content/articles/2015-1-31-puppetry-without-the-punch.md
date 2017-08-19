@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-31 17:25:44 +0000"
 id: "5163"
 old_path: /arts/5163/puppetry-without-the-punch
-redirect_from:
+aliases:
  - /arts/5163/puppetry-without-the-punch
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 22:32:41 +0100"
 id: "4679"
 old_path: /film/4679/get-out-the-hankies-weepies-from-the-eighties---the-fabulous-baker
-redirect_from:
+aliases:
  - /film/4679/get-out-the-hankies-weepies-from-the-eighties---the-fabulous-baker
 category: film
 

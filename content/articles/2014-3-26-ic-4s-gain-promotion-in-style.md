@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 15:29:45 +0000"
 id: "4508"
 old_path: /sport/4508/ic-4s-gain-promotion-in-style
-redirect_from:
+aliases:
  - /sport/4508/ic-4s-gain-promotion-in-style
 category: sport
 

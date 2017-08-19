@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:37:03 +0000"
 id: "4269"
 old_path: /news/4269/union-concert-hall-refurbished-with-220000-grant
-redirect_from:
+aliases:
  - /news/4269/union-concert-hall-refurbished-with-220000-grant
 category: news
 

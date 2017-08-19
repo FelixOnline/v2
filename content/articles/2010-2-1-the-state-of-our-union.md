@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-01 16:23:46 +0000"
 id: "58"
 old_path: /news/58/the-state-of-our-union
-redirect_from:
+aliases:
  - /news/58/the-state-of-our-union
 category: news
 

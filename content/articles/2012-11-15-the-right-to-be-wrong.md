@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 22:17:13 +0000"
 id: "2913"
 old_path: /comment/2913/the-right-to-be-wrong
-redirect_from:
+aliases:
  - /comment/2913/the-right-to-be-wrong
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 16:22:48 +0100"
 id: "2475"
 old_path: /books/2475/a-heartwrenching-and-powerful-read
-redirect_from:
+aliases:
  - /books/2475/a-heartwrenching-and-powerful-read
 category: books
 

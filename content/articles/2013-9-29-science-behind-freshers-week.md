@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 14:30:49 +0100"
 id: "3773"
 old_path: /science/3773/science-behind-freshers-week
-redirect_from:
+aliases:
  - /science/3773/science-behind-freshers-week
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-19 18:45:50 +0100"
 id: "4696"
 old_path: /tech/4696/yearly-review-the-big-ones
-redirect_from:
+aliases:
  - /tech/4696/yearly-review-the-big-ones
 category: tech
 

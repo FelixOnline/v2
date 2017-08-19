@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:32:07 +0000"
 id: "536"
 old_path: /arts/536/a-mind-blowing-stroboscopic-light-pod-
-redirect_from:
+aliases:
  - /arts/536/a-mind-blowing-stroboscopic-light-pod-
 category: arts
 

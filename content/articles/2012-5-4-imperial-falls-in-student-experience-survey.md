@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 01:02:21 +0100"
 id: "2425"
 old_path: /news/2425/imperial-falls-in-student-experience-survey
-redirect_from:
+aliases:
  - /news/2425/imperial-falls-in-student-experience-survey
 category: news
 

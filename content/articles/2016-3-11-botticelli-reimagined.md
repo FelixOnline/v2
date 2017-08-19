@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:01:26 +0000"
 id: "6041"
 old_path: /arts/6041/botticelli-reimagined-
-redirect_from:
+aliases:
  - /arts/6041/botticelli-reimagined-
 category: arts
 

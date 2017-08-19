@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 14:32:27 +0000"
 id: "554"
 old_path: /politics/554/weakness-plagues-british-politics-but-not-top-gear-
-redirect_from:
+aliases:
  - /politics/554/weakness-plagues-british-politics-but-not-top-gear-
 category: politics
 

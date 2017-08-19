@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 16:43:32 +0000"
 id: "3312"
 old_path: /arts/3312/flukeworms
-redirect_from:
+aliases:
  - /arts/3312/flukeworms
 category: arts
 

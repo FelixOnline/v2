@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:51:37 +0100"
 id: "5491"
 old_path: /sport/5491/imperials-volleyball-club-is-served-sweet-sucess-this-year
-redirect_from:
+aliases:
  - /sport/5491/imperials-volleyball-club-is-served-sweet-sucess-this-year
 category: sport
 

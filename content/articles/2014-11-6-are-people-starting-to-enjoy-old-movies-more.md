@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:16:09 +0000"
 id: "4761"
 old_path: /comment/4761/are-people-starting-to-enjoy-old-movies-more
-redirect_from:
+aliases:
  - /comment/4761/are-people-starting-to-enjoy-old-movies-more
 category: comment
 

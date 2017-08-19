@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:28:43 +0100"
 id: "6955"
 old_path: /food/6955/easter-egg-hunting
-redirect_from:
+aliases:
  - /food/6955/easter-egg-hunting
 category: food
 

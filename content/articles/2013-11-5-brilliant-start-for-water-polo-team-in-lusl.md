@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:56:20 +0000"
 id: "4012"
 old_path: /sport/4012/brilliant-start-for-water-polo-team-in-lusl
-redirect_from:
+aliases:
  - /sport/4012/brilliant-start-for-water-polo-team-in-lusl
 category: sport
 

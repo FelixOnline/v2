@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 16:12:55 +0000"
 id: "5071"
 old_path: /arts/5071/transforming-modern-perceptions-of-medieval-art
-redirect_from:
+aliases:
  - /arts/5071/transforming-modern-perceptions-of-medieval-art
 category: arts
 

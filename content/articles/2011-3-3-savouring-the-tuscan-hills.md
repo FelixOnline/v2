@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 19:25:14 +0000"
 id: "997"
 old_path: /food/997/savouring-the-tuscan-hills
-redirect_from:
+aliases:
  - /food/997/savouring-the-tuscan-hills
 category: food
 

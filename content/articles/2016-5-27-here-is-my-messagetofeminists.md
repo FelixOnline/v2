@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:46:04 +0100"
 id: "6202"
 old_path: /comment/6202/here-is-my-messagetofeminists
-redirect_from:
+aliases:
  - /comment/6202/here-is-my-messagetofeminists
 category: comment
 

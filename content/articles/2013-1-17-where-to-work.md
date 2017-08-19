@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-17 23:44:37 +0000"
 id: "3118"
 old_path: /comment/3118/where-to-work
-redirect_from:
+aliases:
  - /comment/3118/where-to-work
 category: comment
 

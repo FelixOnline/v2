@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:46:49 +0000"
 id: "6696"
 old_path: /film/6696/our-academy-award-hottake
-redirect_from:
+aliases:
  - /film/6696/our-academy-award-hottake
 category: film
 

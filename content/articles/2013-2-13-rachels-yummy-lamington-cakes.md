@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 14:00:09 +0000"
 id: "3300"
 old_path: /food/3300/rachels-yummy-lamington-cakes
-redirect_from:
+aliases:
  - /food/3300/rachels-yummy-lamington-cakes
 category: food
 

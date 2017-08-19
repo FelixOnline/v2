@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:56:41 +0100"
 id: "6212"
 old_path: /science/6212/drones-evolve-from-killing-to-rebuilding-
-redirect_from:
+aliases:
  - /science/6212/drones-evolve-from-killing-to-rebuilding-
 category: science
 

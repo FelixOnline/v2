@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:49:55 +0000"
 id: "6776"
 old_path: /sport/6776/patriots-leave-it-late-to-secure-historic-win
-redirect_from:
+aliases:
  - /sport/6776/patriots-leave-it-late-to-secure-historic-win
 category: sport
 

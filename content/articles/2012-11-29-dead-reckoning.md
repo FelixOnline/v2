@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 22:04:45 +0000"
 id: "2985"
 old_path: /arts/2985/dead-reckoning-
-redirect_from:
+aliases:
  - /arts/2985/dead-reckoning-
 category: arts
 

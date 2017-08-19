@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-14 20:48:07 +0100"
 id: "2570"
 old_path: /phoenix/2570/the-poet---kadhim-shubber
-redirect_from:
+aliases:
  - /phoenix/2570/the-poet---kadhim-shubber
 category: phoenix
 

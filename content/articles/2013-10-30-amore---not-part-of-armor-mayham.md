@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-30 15:54:38 +0000"
 id: "3960"
 old_path: /games/3960/amore---not-part-of-armor-mayham
-redirect_from:
+aliases:
  - /games/3960/amore---not-part-of-armor-mayham
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:23:39 +0100"
 id: "6981"
 old_path: /news/6981/mental-health-related-drop-outs-on-the-rise
-redirect_from:
+aliases:
  - /news/6981/mental-health-related-drop-outs-on-the-rise
 category: news
 

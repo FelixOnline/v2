@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:23:21 +0000"
 id: "6688"
 old_path: /comment/6688/eurovision-make-an-effort
-redirect_from:
+aliases:
  - /comment/6688/eurovision-make-an-effort
 category: comment
 

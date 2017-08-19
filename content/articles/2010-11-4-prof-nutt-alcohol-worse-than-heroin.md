@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:06:09 +0000"
 id: "324"
 old_path: /news/324/prof-nutt-alcohol-worse-than-heroin
-redirect_from:
+aliases:
  - /news/324/prof-nutt-alcohol-worse-than-heroin
 category: news
 

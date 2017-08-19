@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:16:57 +0000"
 id: "2821"
 old_path: /music/2821/cave-painting-votive-life
-redirect_from:
+aliases:
  - /music/2821/cave-painting-votive-life
 category: music
 

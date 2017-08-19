@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:16:19 +0100"
 id: "5612"
 old_path: /news/5612/transport-for-london-to-accept-apple-pay
-redirect_from:
+aliases:
  - /news/5612/transport-for-london-to-accept-apple-pay
 category: news
 

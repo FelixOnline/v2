@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:26:37 +0000"
 id: "606"
 old_path: /tech/606/facebook-in-address-privacy-u-turn-
-redirect_from:
+aliases:
  - /tech/606/facebook-in-address-privacy-u-turn-
 category: tech
 

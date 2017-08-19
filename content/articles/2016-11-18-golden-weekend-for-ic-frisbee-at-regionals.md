@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 17:04:12 +0000"
 id: "6486"
 old_path: /sport/6486/golden-weekend-for-ic-frisbee-at-regionals
-redirect_from:
+aliases:
  - /sport/6486/golden-weekend-for-ic-frisbee-at-regionals
 category: sport
 

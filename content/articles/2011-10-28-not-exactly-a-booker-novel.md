@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-28 09:33:27 +0100"
 id: "1634"
 old_path: /arts/1634/not-exactly-a-booker-novel
-redirect_from:
+aliases:
  - /arts/1634/not-exactly-a-booker-novel
 category: arts
 

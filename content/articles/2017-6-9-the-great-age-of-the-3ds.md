@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-09 15:25:07 +0100"
 id: "7018"
 old_path: /games/7018/the-great-age-of-the-3ds
-redirect_from:
+aliases:
  - /games/7018/the-great-age-of-the-3ds
 category: games
 

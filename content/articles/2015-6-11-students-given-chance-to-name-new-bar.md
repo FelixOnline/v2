@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-11 22:17:15 +0100"
 id: "5613"
 old_path: /news/5613/students-given-chance-to-name-new-bar
-redirect_from:
+aliases:
  - /news/5613/students-given-chance-to-name-new-bar
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-24 23:47:45 +0100"
 id: "3913"
 old_path: /features/3913/ipcc-climate-report-2013-an-ultimate-warning
-redirect_from:
+aliases:
  - /features/3913/ipcc-climate-report-2013-an-ultimate-warning
 category: features
 

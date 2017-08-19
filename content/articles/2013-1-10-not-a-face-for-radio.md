@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 22:34:35 +0000"
 id: "3088"
 old_path: /arts/3088/not-a-face-for-radio-
-redirect_from:
+aliases:
  - /arts/3088/not-a-face-for-radio-
 category: arts
 

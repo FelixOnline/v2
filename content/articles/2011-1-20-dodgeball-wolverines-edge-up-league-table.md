@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:43:04 +0000"
 id: "612"
 old_path: /sport/612/dodgeball-wolverines-edge-up-league-table-
-redirect_from:
+aliases:
  - /sport/612/dodgeball-wolverines-edge-up-league-table-
 category: sport
 

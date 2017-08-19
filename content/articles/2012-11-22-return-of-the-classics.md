@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:07:43 +0000"
 id: "2939"
 old_path: /books/2939/return-of-the-classics
-redirect_from:
+aliases:
  - /books/2939/return-of-the-classics
 category: books
 

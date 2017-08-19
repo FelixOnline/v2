@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-14 23:57:17 +0000"
 id: "3455"
 old_path: /comment/3455/hall-so-hard-college-cant-affordably-locate-me
-redirect_from:
+aliases:
  - /comment/3455/hall-so-hard-college-cant-affordably-locate-me
 category: comment
 

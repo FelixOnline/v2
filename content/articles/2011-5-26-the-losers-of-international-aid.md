@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 23:36:54 +0100"
 id: "1265"
 old_path: /politics/1265/the-losers-of-international-aid
-redirect_from:
+aliases:
  - /politics/1265/the-losers-of-international-aid
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:59:53 +0100"
 id: "2438"
 old_path: /music/2438/bombay-fever-hits-london
-redirect_from:
+aliases:
  - /music/2438/bombay-fever-hits-london
 category: music
 

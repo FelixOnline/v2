@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-15 23:04:02 +0000"
 id: "5260"
 old_path: /news/5260/union-council-votes-in-favour-of-new-rent-proposals
-redirect_from:
+aliases:
  - /news/5260/union-council-votes-in-favour-of-new-rent-proposals
 category: news
 

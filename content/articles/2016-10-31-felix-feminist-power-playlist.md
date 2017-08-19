@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-31 23:48:03 +0000"
 id: "6374"
 old_path: /music/6374/felix-feminist-power-playlist
-redirect_from:
+aliases:
  - /music/6374/felix-feminist-power-playlist
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:42:26 +0100"
 id: "1593"
 old_path: /tv/1593/dexter-is-my-favourite-psychotic-serial-killer
-redirect_from:
+aliases:
  - /tv/1593/dexter-is-my-favourite-psychotic-serial-killer
 category: tv
 

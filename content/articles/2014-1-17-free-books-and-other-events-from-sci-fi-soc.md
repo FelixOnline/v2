@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:34:07 +0000"
 id: "4258"
 old_path: /features/4258/free-books-and-other-events-from-sci-fi-soc
-redirect_from:
+aliases:
  - /features/4258/free-books-and-other-events-from-sci-fi-soc
 category: features
 

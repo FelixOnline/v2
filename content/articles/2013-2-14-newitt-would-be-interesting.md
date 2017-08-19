@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-14 01:18:38 +0000"
 id: "3318"
 old_path: /news/3318/newitt-would-be-interesting
-redirect_from:
+aliases:
  - /news/3318/newitt-would-be-interesting
 category: news
 

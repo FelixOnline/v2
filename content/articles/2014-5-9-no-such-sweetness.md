@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:14:04 +0100"
 id: "4578"
 old_path: /arts/4578/no-such-sweetness
-redirect_from:
+aliases:
  - /arts/4578/no-such-sweetness
 category: arts
 

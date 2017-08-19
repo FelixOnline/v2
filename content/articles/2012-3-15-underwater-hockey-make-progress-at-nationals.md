@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:23:30 +0000"
 id: "2381"
 old_path: /news/2381/underwater-hockey-make-progress-at-nationals
-redirect_from:
+aliases:
  - /news/2381/underwater-hockey-make-progress-at-nationals
 category: news
 

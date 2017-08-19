@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 19:58:03 +0000"
 id: "2353"
 old_path: /arts/2353/showing-some-flesh
-redirect_from:
+aliases:
  - /arts/2353/showing-some-flesh
 category: arts
 

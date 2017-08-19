@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 22:01:12 +0000"
 id: "371"
 old_path: /news/371/no-help-for-volunteers-as-outreach-takes-budget-cut
-redirect_from:
+aliases:
  - /news/371/no-help-for-volunteers-as-outreach-takes-budget-cut
 category: news
 

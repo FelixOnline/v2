@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:51:30 +0000"
 id: "6648"
 old_path: /games/6648/most-anticipated-games-of-2017
-redirect_from:
+aliases:
  - /games/6648/most-anticipated-games-of-2017
 category: games
 

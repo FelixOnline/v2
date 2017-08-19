@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:11:40 +0100"
 id: "1382"
 old_path: /news/1382/treasury-finally-appoints-chief-scientific-advisor
-redirect_from:
+aliases:
  - /news/1382/treasury-finally-appoints-chief-scientific-advisor
 category: news
 

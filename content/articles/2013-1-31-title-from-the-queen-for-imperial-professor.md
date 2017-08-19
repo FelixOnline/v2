@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 22:34:04 +0000"
 id: "3198"
 old_path: /news/3198/title-from-the-queen-for-imperial-professor
-redirect_from:
+aliases:
  - /news/3198/title-from-the-queen-for-imperial-professor
 category: news
 

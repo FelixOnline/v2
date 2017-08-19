@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:13:07 +0000"
 id: "4228"
 old_path: /news/4228/legosoc-to-host-lego-star-warren-elsmore
-redirect_from:
+aliases:
  - /news/4228/legosoc-to-host-lego-star-warren-elsmore
 category: news
 

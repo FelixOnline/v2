@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 18:18:04 +0000"
 id: "5371"
 old_path: /comment/5371/is-imperial-changing-for-the-better
-redirect_from:
+aliases:
  - /comment/5371/is-imperial-changing-for-the-better
 category: comment
 

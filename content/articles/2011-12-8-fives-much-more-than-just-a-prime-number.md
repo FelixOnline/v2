@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:43:52 +0000"
 id: "1918"
 old_path: /sport/1918/fives-much-more-than-just-a-prime-number
-redirect_from:
+aliases:
  - /sport/1918/fives-much-more-than-just-a-prime-number
 category: sport
 

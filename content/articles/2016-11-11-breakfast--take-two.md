@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 16:01:12 +0000"
 id: "6430"
 old_path: /science/6430/breakfast--take-two
-redirect_from:
+aliases:
  - /science/6430/breakfast--take-two
 category: science
 

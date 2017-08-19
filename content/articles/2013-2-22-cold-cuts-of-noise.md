@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:20:32 +0000"
 id: "3358"
 old_path: /news/3358/cold-cuts-of-noise
-redirect_from:
+aliases:
  - /news/3358/cold-cuts-of-noise
 category: news
 

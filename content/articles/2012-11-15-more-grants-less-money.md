@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 20:56:23 +0000"
 id: "2886"
 old_path: /news/2886/more-grants-less-money
-redirect_from:
+aliases:
  - /news/2886/more-grants-less-money
 category: news
 

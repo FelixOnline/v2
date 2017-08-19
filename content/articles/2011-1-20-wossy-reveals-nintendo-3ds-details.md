@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:04:37 +0000"
 id: "623"
 old_path: /games/623/wossy-reveals-nintendo-3ds-details-
-redirect_from:
+aliases:
  - /games/623/wossy-reveals-nintendo-3ds-details-
 category: games
 

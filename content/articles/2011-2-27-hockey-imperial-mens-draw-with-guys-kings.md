@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 20:00:45 +0000"
 id: "925"
 old_path: /sport/925/hockey-imperial-mens-draw-with-guys-kings
-redirect_from:
+aliases:
  - /sport/925/hockey-imperial-mens-draw-with-guys-kings
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:20:32 +0000"
 id: "6846"
 old_path: /arts/6846/danza-contempornea-de-cuba--electrifying-dance-with-a-cuban-flavour
-redirect_from:
+aliases:
  - /arts/6846/danza-contempornea-de-cuba--electrifying-dance-with-a-cuban-flavour
 category: arts
 

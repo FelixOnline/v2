@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 21:14:06 +0000"
 id: "2374"
 old_path: /news/2374/imperial-kvn-team-take-comedy-crown-
-redirect_from:
+aliases:
  - /news/2374/imperial-kvn-team-take-comedy-crown-
 category: news
 

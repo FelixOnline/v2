@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 20:14:59 +0000"
 id: "1005"
 old_path: /film/1005/obscure-japanese-kamikaze-girls-gets-belated-praise
-redirect_from:
+aliases:
  - /film/1005/obscure-japanese-kamikaze-girls-gets-belated-praise
 category: film
 

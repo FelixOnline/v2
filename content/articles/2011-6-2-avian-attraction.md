@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 18:34:40 +0100"
 id: "1298"
 old_path: /science/1298/avian-attraction
-redirect_from:
+aliases:
  - /science/1298/avian-attraction
 category: science
 

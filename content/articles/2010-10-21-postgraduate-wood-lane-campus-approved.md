@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:32:55 +0100"
 id: "243"
 old_path: /news/243/postgraduate-wood-lane-campus-approved
-redirect_from:
+aliases:
  - /news/243/postgraduate-wood-lane-campus-approved
 category: news
 

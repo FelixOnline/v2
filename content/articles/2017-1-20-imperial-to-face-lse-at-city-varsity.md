@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 14:51:57 +0000"
 id: "6655"
 old_path: /news/6655/imperial-to-face-lse-at-city-varsity
-redirect_from:
+aliases:
  - /news/6655/imperial-to-face-lse-at-city-varsity
 category: news
 

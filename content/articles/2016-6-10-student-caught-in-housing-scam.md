@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-10 08:16:00 +0100"
 id: "6248"
 old_path: /news/6248/student-caught-in-housing-scam
-redirect_from:
+aliases:
  - /news/6248/student-caught-in-housing-scam
 category: news
 

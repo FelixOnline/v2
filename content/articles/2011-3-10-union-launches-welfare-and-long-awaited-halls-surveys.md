@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:45:28 +0000"
 id: "1056"
 old_path: /news/1056/union-launches-welfare-and-long-awaited-halls-surveys
-redirect_from:
+aliases:
  - /news/1056/union-launches-welfare-and-long-awaited-halls-surveys
 category: news
 

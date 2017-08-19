@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 23:29:31 +0100"
 id: "1524"
 old_path: /news/1524/fellwanderers-freshers-walk-across-the-seven-sisters
-redirect_from:
+aliases:
  - /news/1524/fellwanderers-freshers-walk-across-the-seven-sisters
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:56:13 +0000"
 id: "4037"
 old_path: /music/4037/ams-album-of-the-week-reflektor
-redirect_from:
+aliases:
  - /music/4037/ams-album-of-the-week-reflektor
 category: music
 

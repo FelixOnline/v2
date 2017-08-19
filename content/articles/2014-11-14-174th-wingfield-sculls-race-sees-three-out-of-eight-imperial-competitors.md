@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:22:40 +0000"
 id: "4894"
 old_path: /sport/4894/174th-wingfield-sculls-race-sees-three-out-of-eight-imperial-competitors
-redirect_from:
+aliases:
  - /sport/4894/174th-wingfield-sculls-race-sees-three-out-of-eight-imperial-competitors
 category: sport
 

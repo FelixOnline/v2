@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-03 23:00:32 +0100"
 id: "3794"
 old_path: /news/3794/imperials-tsu-moves-to-ucl
-redirect_from:
+aliases:
  - /news/3794/imperials-tsu-moves-to-ucl
 category: news
 

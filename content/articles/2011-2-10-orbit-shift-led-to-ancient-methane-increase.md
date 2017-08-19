@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:21:53 +0000"
 id: "770"
 old_path: /science/770/orbit-shift-led-to-ancient-methane-increase-
-redirect_from:
+aliases:
  - /science/770/orbit-shift-led-to-ancient-methane-increase-
 category: science
 

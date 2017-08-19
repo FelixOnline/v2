@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:20:42 +0000"
 id: "4172"
 old_path: /film/4172/and-may-the-odds-be-ever-in-your-favouragain
-redirect_from:
+aliases:
  - /film/4172/and-may-the-odds-be-ever-in-your-favouragain
 category: film
 

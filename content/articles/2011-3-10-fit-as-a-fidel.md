@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 20:06:23 +0000"
 id: "1061"
 old_path: /politics/1061/fit-as-a-fidel
-redirect_from:
+aliases:
  - /politics/1061/fit-as-a-fidel
 category: politics
 

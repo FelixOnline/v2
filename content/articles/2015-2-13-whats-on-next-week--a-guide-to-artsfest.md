@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 14:41:55 +0000"
 id: "5253"
 old_path: /cands/5253/whats-on-next-week--a-guide-to-artsfest
-redirect_from:
+aliases:
  - /cands/5253/whats-on-next-week--a-guide-to-artsfest
 category: clubs-and-socs
 

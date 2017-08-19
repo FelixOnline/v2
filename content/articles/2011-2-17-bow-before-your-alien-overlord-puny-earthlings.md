@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:18:07 +0000"
 id: "838"
 old_path: /music/838/bow-before-your-alien-overlord-puny-earthlings
-redirect_from:
+aliases:
  - /music/838/bow-before-your-alien-overlord-puny-earthlings
 category: music
 

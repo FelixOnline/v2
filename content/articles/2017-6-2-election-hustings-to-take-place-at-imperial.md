@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 12:25:50 +0100"
 id: "6982"
 old_path: /news/6982/election-hustings-to-take-place-at-imperial
-redirect_from:
+aliases:
  - /news/6982/election-hustings-to-take-place-at-imperial
 category: news
 

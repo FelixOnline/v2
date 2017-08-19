@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-11 21:08:34 +0100"
 id: "2663"
 old_path: /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
-redirect_from:
+aliases:
  - /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
 category: comment
 

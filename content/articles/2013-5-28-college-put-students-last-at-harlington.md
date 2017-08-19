@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-28 14:52:07 +0100"
 id: "3627"
 old_path: /comment/3627/college-put-students-last-at-harlington
-redirect_from:
+aliases:
  - /comment/3627/college-put-students-last-at-harlington
 category: comment
 

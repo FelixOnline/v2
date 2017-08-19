@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 21:17:31 +0000"
 id: "1684"
 old_path: /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
-redirect_from:
+aliases:
  - /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
 category: fashion
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 21:47:33 +0100"
 id: "3605"
 old_path: /arts/3605/top-10-book-covers
-redirect_from:
+aliases:
  - /arts/3605/top-10-book-covers
 category: arts
 

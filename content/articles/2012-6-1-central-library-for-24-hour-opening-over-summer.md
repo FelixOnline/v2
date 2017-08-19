@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 12:04:02 +0100"
 id: "2507"
 old_path: /news/2507/central-library-for-24-hour-opening-over-summer
-redirect_from:
+aliases:
  - /news/2507/central-library-for-24-hour-opening-over-summer
 category: news
 

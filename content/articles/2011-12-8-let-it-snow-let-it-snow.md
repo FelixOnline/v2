@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:38:48 +0000"
 id: "1917"
 old_path: /science/1917/let-it-snow-let-it-snow
-redirect_from:
+aliases:
  - /science/1917/let-it-snow-let-it-snow
 category: science
 

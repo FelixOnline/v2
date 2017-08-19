@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:13:37 +0000"
 id: "2817"
 old_path: /sport/2817/icsm-netballs-storming-start-to-the-season-
-redirect_from:
+aliases:
  - /sport/2817/icsm-netballs-storming-start-to-the-season-
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-20 11:58:48 +0100"
 id: "5645"
 old_path: /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
-redirect_from:
+aliases:
  - /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
 category: arts
 

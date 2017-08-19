@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:59:29 +0100"
 id: "2437"
 old_path: /news/2437/unseen-imperial
-redirect_from:
+aliases:
  - /news/2437/unseen-imperial
 category: news
 

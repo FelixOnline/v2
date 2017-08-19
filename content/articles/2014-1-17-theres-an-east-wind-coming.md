@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:35:25 +0000"
 id: "4237"
 old_path: /comment/4237/theres-an-east-wind-coming
-redirect_from:
+aliases:
  - /comment/4237/theres-an-east-wind-coming
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:38:49 +0000"
 id: "6784"
 old_path: /comment/6784/referendums-are-not-democratic
-redirect_from:
+aliases:
  - /comment/6784/referendums-are-not-democratic
 category: comment
 

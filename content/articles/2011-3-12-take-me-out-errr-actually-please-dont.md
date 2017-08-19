@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-12 12:41:03 +0000"
 id: "1085"
 old_path: /tv/1085/take-me-out-errr-actually-please-dont
-redirect_from:
+aliases:
  - /tv/1085/take-me-out-errr-actually-please-dont
 category: tv
 

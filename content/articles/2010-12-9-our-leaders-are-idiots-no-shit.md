@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:34:54 +0000"
 id: "528"
 old_path: /comment/528/our-leaders-are-idiots-no-shit
-redirect_from:
+aliases:
  - /comment/528/our-leaders-are-idiots-no-shit
 category: comment
 

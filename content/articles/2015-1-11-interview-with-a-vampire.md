@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-11 11:55:38 +0000"
 id: "5087"
 old_path: /music/5087/interview-with-a-vampire
-redirect_from:
+aliases:
  - /music/5087/interview-with-a-vampire
 category: music
 

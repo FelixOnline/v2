@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:40:39 +0000"
 id: "1827"
 old_path: /news/1827/is-there-too-much-aid-for-aids
-redirect_from:
+aliases:
  - /news/1827/is-there-too-much-aid-for-aids
 category: news
 

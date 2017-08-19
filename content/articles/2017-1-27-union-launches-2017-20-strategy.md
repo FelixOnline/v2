@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 14:17:43 +0000"
 id: "6683"
 old_path: /news/6683/union-launches-2017-20-strategy
-redirect_from:
+aliases:
  - /news/6683/union-launches-2017-20-strategy
 category: news
 

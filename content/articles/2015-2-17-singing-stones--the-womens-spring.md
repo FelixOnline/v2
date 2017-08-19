@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-17 16:28:06 +0000"
 id: "5263"
 old_path: /arts/5263/singing-stones--the-womens-spring
-redirect_from:
+aliases:
  - /arts/5263/singing-stones--the-womens-spring
 category: arts
 

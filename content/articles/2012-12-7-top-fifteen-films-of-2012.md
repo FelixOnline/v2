@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 14:53:35 +0000"
 id: "3073"
 old_path: /film/3073/top-fifteen-films-of-2012
-redirect_from:
+aliases:
  - /film/3073/top-fifteen-films-of-2012
 category: film
 

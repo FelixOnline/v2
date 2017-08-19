@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:21:16 +0000"
 id: "3130"
 old_path: /science/3130/your-atomic-numbers-up
-redirect_from:
+aliases:
  - /science/3130/your-atomic-numbers-up
 category: science
 

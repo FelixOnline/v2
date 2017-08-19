@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:58:46 +0000"
 id: "682"
 old_path: /comment/682/is-social-networking-ruining-our-lives
-redirect_from:
+aliases:
  - /comment/682/is-social-networking-ruining-our-lives
 category: comment
 

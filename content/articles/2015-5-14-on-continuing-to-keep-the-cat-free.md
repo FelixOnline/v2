@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:41:41 +0100"
 id: "5525"
 old_path: /comment/5525/on-continuing-to-keep-the-cat-free
-redirect_from:
+aliases:
  - /comment/5525/on-continuing-to-keep-the-cat-free
 category: comment
 

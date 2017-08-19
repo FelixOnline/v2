@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:49:24 +0000"
 id: "2022"
 old_path: /comment/2022/kim-jong-jesus
-redirect_from:
+aliases:
  - /comment/2022/kim-jong-jesus
 category: comment
 

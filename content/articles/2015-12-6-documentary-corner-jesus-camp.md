@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-06 14:42:45 +0000"
 id: "5807"
 old_path: /film/5807/documentary-corner-jesus-camp
-redirect_from:
+aliases:
  - /film/5807/documentary-corner-jesus-camp
 category: film
 

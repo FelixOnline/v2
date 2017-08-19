@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-15 16:02:45 +0100"
 id: "6950"
 old_path: /comment/6950/imperial-colleges-white-vision-for-white-city
-redirect_from:
+aliases:
  - /comment/6950/imperial-colleges-white-vision-for-white-city
 category: comment
 

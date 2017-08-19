@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-26 13:43:53 +0000"
 id: "4502"
 old_path: /film/4502/jesse-feels-the-need-for-delmethdel-speed
-redirect_from:
+aliases:
  - /film/4502/jesse-feels-the-need-for-delmethdel-speed
 category: film
 

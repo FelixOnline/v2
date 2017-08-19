@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:49:04 +0000"
 id: "677"
 old_path: /comment/677/in-praise-of-imperials-clubs--societies-
-redirect_from:
+aliases:
  - /comment/677/in-praise-of-imperials-clubs--societies-
 category: comment
 

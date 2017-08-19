@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-26 13:30:10 +0100"
 id: "5564"
 old_path: /arts/5564/a-fractured-take-on-a-fractured-world
-redirect_from:
+aliases:
  - /arts/5564/a-fractured-take-on-a-fractured-world
 category: arts
 

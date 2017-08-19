@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:12:44 +0000"
 id: "4298"
 old_path: /film/4298/brrrrrrrrrrrrrrrrrrr
-redirect_from:
+aliases:
  - /film/4298/brrrrrrrrrrrrrrrrrrr
 category: film
 

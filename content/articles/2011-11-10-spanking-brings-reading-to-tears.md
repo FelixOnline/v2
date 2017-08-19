@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:40:01 +0000"
 id: "1751"
 old_path: /sport/1751/spanking-brings-reading-to-tears
-redirect_from:
+aliases:
  - /sport/1751/spanking-brings-reading-to-tears
 category: sport
 

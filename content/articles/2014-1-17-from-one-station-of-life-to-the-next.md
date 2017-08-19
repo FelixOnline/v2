@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 04:09:33 +0000"
 id: "4251"
 old_path: /film/4251/from-one-station-of-life-to-the-next
-redirect_from:
+aliases:
  - /film/4251/from-one-station-of-life-to-the-next
 category: film
 

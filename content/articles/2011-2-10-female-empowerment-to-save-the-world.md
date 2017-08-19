@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:56:06 +0000"
 id: "788"
 old_path: /politics/788/female-empowerment-to-save-the-world-
-redirect_from:
+aliases:
  - /politics/788/female-empowerment-to-save-the-world-
 category: politics
 

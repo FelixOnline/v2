@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 15:00:58 +0000"
 id: "5329"
 old_path: /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
-redirect_from:
+aliases:
  - /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 18:53:10 +0000"
 id: "807"
 old_path: /arts/807/high-art-awaits-at-the-wellcome-trust
-redirect_from:
+aliases:
  - /arts/807/high-art-awaits-at-the-wellcome-trust
 category: arts
 

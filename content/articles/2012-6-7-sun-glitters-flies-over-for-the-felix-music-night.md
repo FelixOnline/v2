@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 22:29:10 +0100"
 id: "2539"
 old_path: /music/2539/sun-glitters-flies-over-for-the-felix-music-night
-redirect_from:
+aliases:
  - /music/2539/sun-glitters-flies-over-for-the-felix-music-night
 category: music
 

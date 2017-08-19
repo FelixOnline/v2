@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:30:40 +0000"
 id: "972"
 old_path: /sport/972/hockey-varsity-battle-lines-drawn-early
-redirect_from:
+aliases:
  - /sport/972/hockey-varsity-battle-lines-drawn-early
 category: sport
 

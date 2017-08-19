@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 03:44:28 +0000"
 id: "4177"
 old_path: /news/4177/ulu-students-protest-in-senate-house-occupation
-redirect_from:
+aliases:
  - /news/4177/ulu-students-protest-in-senate-house-occupation
 category: news
 

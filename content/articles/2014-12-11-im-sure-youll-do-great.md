@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 21:29:38 +0000"
 id: "5041"
 old_path: /welfare/5041/im-sure-youll-do-great
-redirect_from:
+aliases:
  - /welfare/5041/im-sure-youll-do-great
 category: welfare
 

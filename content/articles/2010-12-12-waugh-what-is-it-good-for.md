@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-12 17:07:29 +0000"
 id: "555"
 old_path: /arts/555/waugh-what-is-it-good-for-
-redirect_from:
+aliases:
  - /arts/555/waugh-what-is-it-good-for-
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:56:40 +0000"
 id: "2801"
 old_path: /comment/2801/50-shades-of-grenoble
-redirect_from:
+aliases:
  - /comment/2801/50-shades-of-grenoble
 category: comment
 

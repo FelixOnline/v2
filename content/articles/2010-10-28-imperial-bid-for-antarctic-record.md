@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-28 19:14:15 +0100"
 id: "255"
 old_path: /science/255/imperial-bid-for-antarctic-record-
-redirect_from:
+aliases:
  - /science/255/imperial-bid-for-antarctic-record-
 category: science
 

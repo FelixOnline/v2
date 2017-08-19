@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-29 21:43:48 +0000"
 id: "2980"
 old_path: /news/2980/imperial-teams-on-top
-redirect_from:
+aliases:
  - /news/2980/imperial-teams-on-top
 category: news
 

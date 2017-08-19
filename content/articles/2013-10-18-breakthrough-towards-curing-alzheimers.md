@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-18 21:12:14 +0100"
 id: "3888"
 old_path: /science/3888/breakthrough-towards-curing-alzheimers
-redirect_from:
+aliases:
  - /science/3888/breakthrough-towards-curing-alzheimers
 category: science
 

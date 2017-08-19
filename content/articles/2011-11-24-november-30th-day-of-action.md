@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:38:15 +0000"
 id: "1825"
 old_path: /news/1825/november-30th-day-of-action
-redirect_from:
+aliases:
  - /news/1825/november-30th-day-of-action
 category: news
 

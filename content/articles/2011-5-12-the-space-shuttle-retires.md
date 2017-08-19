@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:42:24 +0100"
 id: "1209"
 old_path: /news/1209/the-space-shuttle-retires
-redirect_from:
+aliases:
  - /news/1209/the-space-shuttle-retires
 category: news
 

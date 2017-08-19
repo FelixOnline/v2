@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:47:53 +0000"
 id: "5836"
 old_path: /news/5836/business-school-still-4th-best-in-uk-says-ft
-redirect_from:
+aliases:
  - /news/5836/business-school-still-4th-best-in-uk-says-ft
 category: news
 

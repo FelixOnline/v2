@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:44:19 +0100"
 id: "2719"
 old_path: /food/2719/the-white-horse
-redirect_from:
+aliases:
  - /food/2719/the-white-horse
 category: food
 

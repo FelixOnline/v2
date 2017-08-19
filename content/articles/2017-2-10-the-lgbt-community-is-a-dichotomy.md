@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 13:51:43 +0000"
 id: "6749"
 old_path: /comment/6749/the-lgbt-community-is-a-dichotomy
-redirect_from:
+aliases:
  - /comment/6749/the-lgbt-community-is-a-dichotomy
 category: comment
 

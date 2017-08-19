@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 22:14:22 +0000"
 id: "4169"
 old_path: /music/4169/ams-album-of-the-week-government-plates
-redirect_from:
+aliases:
  - /music/4169/ams-album-of-the-week-government-plates
 category: music
 

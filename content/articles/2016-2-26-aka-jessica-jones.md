@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:54:03 +0000"
 id: "5974"
 old_path: /tv/5974/aka-jessica-jones
-redirect_from:
+aliases:
  - /tv/5974/aka-jessica-jones
 category: tv
 

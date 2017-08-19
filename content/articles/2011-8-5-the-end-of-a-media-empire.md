@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-08-05 13:29:36 +0100"
 id: "1453"
 old_path: /comment/1453/the-end-of-a-media-empire
-redirect_from:
+aliases:
  - /comment/1453/the-end-of-a-media-empire
 category: comment
 

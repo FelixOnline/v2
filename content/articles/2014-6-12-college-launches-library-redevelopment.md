@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-12 17:59:34 +0100"
 id: "4689"
 old_path: /news/4689/college-launches-library-redevelopment
-redirect_from:
+aliases:
  - /news/4689/college-launches-library-redevelopment
 category: news
 

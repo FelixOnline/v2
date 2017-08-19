@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 09:48:17 +0000"
 id: "4278"
 old_path: /arts/4278/the-secret-photographers
-redirect_from:
+aliases:
  - /arts/4278/the-secret-photographers
 category: arts
 

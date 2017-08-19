@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:49:47 +0000"
 id: "4007"
 old_path: /features/4007/keeping-up-with-the-engineers
-redirect_from:
+aliases:
  - /features/4007/keeping-up-with-the-engineers
 category: features
 

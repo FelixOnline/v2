@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 15:03:53 +0000"
 id: "6651"
 old_path: /features/6651/the-university-meme-page-revolution
-redirect_from:
+aliases:
  - /features/6651/the-university-meme-page-revolution
 category: features
 

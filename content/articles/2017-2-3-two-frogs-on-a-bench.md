@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 16:36:58 +0000"
 id: "6717"
 old_path: /science/6717/two-frogs-on-a-bench
-redirect_from:
+aliases:
  - /science/6717/two-frogs-on-a-bench
 category: science
 

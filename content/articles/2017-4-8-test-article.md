@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-04-08 20:43:20 +0100"
 id: "6923"
 old_path: /fashion/6923/test-article
-redirect_from:
+aliases:
  - /fashion/6923/test-article
 category: fashion
 

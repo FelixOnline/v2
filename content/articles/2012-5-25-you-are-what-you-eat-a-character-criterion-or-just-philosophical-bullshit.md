@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-25 18:11:35 +0100"
 id: "2496"
 old_path: /food/2496/you-are-what-you-eat-a-character-criterion-or-just-philosophical-bullshit
-redirect_from:
+aliases:
  - /food/2496/you-are-what-you-eat-a-character-criterion-or-just-philosophical-bullshit
 category: food
 

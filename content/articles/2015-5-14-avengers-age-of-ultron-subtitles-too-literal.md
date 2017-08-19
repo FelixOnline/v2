@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 21:47:27 +0100"
 id: "5517"
 old_path: /film/5517/avengers-age-of-ultron-subtitles-too-literal
-redirect_from:
+aliases:
  - /film/5517/avengers-age-of-ultron-subtitles-too-literal
 category: film
 

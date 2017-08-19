@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 14:48:33 +0000"
 id: "6891"
 old_path: /sport/6891/this-soggy-cockney-is-no-wet-dog
-redirect_from:
+aliases:
  - /sport/6891/this-soggy-cockney-is-no-wet-dog
 category: sport
 

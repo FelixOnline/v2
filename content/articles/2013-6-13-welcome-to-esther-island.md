@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-06-13 22:37:03 +0100"
 id: "3680"
 old_path: /games/3680/welcome-to-esther-island
-redirect_from:
+aliases:
  - /games/3680/welcome-to-esther-island
 category: games
 

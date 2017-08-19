@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:04:17 +0000"
 id: "6612"
 old_path: /arts/6612/julius-caesar--a-bold-retelling-of-shakespeare
-redirect_from:
+aliases:
  - /arts/6612/julius-caesar--a-bold-retelling-of-shakespeare
 category: arts
 

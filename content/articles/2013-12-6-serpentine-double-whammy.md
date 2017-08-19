@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:16:02 +0000"
 id: "4195"
 old_path: /arts/4195/serpentine-double-whammy
-redirect_from:
+aliases:
  - /arts/4195/serpentine-double-whammy
 category: arts
 

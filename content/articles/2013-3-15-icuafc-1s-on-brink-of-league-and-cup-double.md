@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:05:48 +0000"
 id: "3484"
 old_path: /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
-redirect_from:
+aliases:
  - /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
 category: sport
 

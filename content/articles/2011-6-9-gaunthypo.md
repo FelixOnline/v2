@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 20:24:30 +0100"
 id: "1341"
 old_path: /phoenix/1341/gaunthypo
-redirect_from:
+aliases:
  - /phoenix/1341/gaunthypo
 category: phoenix
 

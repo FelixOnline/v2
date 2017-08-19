@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:50:10 +0000"
 id: "1675"
 old_path: /music/1675/music-tech-warm-up-kablaam--boil-after-party
-redirect_from:
+aliases:
  - /music/1675/music-tech-warm-up-kablaam--boil-after-party
 category: music
 

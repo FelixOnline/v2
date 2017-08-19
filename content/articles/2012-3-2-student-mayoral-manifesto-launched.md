@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-02 01:06:57 +0000"
 id: "2302"
 old_path: /news/2302/student-mayoral-manifesto-launched-
-redirect_from:
+aliases:
  - /news/2302/student-mayoral-manifesto-launched-
 category: news
 

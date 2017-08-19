@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:18:18 +0000"
 id: "3032"
 old_path: /news/3032/reporting-back-on-an-extraordinary-experience-in-mongolia
-redirect_from:
+aliases:
  - /news/3032/reporting-back-on-an-extraordinary-experience-in-mongolia
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-15 21:49:42 +0000"
 id: "2903"
 old_path: /film/2903/the-shining-of-room-237
-redirect_from:
+aliases:
  - /film/2903/the-shining-of-room-237
 category: film
 

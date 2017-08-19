@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-12 20:20:35 +0100"
 id: "3867"
 old_path: /sport/3867/triathlon-club-make-a-splash-at-aquathlon
-redirect_from:
+aliases:
  - /sport/3867/triathlon-club-make-a-splash-at-aquathlon
 category: sport
 

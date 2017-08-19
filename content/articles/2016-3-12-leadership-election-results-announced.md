@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-12 13:31:47 +0000"
 id: "6048"
 old_path: /news/6048/leadership-election-results-announced
-redirect_from:
+aliases:
  - /news/6048/leadership-election-results-announced
 category: news
 

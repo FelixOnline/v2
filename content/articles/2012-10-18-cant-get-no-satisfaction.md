@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:37:29 +0100"
 id: "2716"
 old_path: /comment/2716/cant-get-no-satisfaction
-redirect_from:
+aliases:
  - /comment/2716/cant-get-no-satisfaction
 category: comment
 

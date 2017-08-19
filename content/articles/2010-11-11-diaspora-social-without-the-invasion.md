@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:32:09 +0000"
 id: "338"
 old_path: /tech/338/diaspora-social-without-the-invasion
-redirect_from:
+aliases:
  - /tech/338/diaspora-social-without-the-invasion
 category: tech
 

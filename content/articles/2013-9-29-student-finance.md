@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 13:35:28 +0100"
 id: "3767"
 old_path: /biz/3767/student-finance
-redirect_from:
+aliases:
  - /biz/3767/student-finance
 category: business
 

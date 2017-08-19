@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 20:56:31 +0000"
 id: "1810"
 old_path: /science/1810/neutrinos-still-faster-than-light
-redirect_from:
+aliases:
  - /science/1810/neutrinos-still-faster-than-light
 category: science
 

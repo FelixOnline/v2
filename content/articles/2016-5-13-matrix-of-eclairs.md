@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-13 09:34:05 +0100"
 id: "6165"
 old_path: /food/6165/matrix-of-eclairs
-redirect_from:
+aliases:
  - /food/6165/matrix-of-eclairs
 category: food
 

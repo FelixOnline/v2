@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-18 00:03:22 +0000"
 id: "3125"
 old_path: /news/3125/holocaust-memorial-day-at-ic
-redirect_from:
+aliases:
  - /news/3125/holocaust-memorial-day-at-ic
 category: news
 

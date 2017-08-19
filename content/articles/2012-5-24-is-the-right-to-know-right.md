@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-24 23:14:21 +0100"
 id: "2486"
 old_path: /comment/2486/is-the-right-to-know-right
-redirect_from:
+aliases:
  - /comment/2486/is-the-right-to-know-right
 category: comment
 

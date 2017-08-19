@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 11:34:56 +0000"
 id: "6024"
 old_path: /features/6024/the-women-of-imperial
-redirect_from:
+aliases:
  - /features/6024/the-women-of-imperial
 category: features
 

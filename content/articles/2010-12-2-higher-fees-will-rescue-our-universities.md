@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 21:39:27 +0000"
 id: "493"
 old_path: /comment/493/higher-fees-will-rescue-our-universities
-redirect_from:
+aliases:
  - /comment/493/higher-fees-will-rescue-our-universities
 category: comment
 

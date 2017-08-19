@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-13 21:22:46 +0000"
 id: "23"
 old_path: /news/23/recycled-questions-rile-biology-students
-redirect_from:
+aliases:
  - /news/23/recycled-questions-rile-biology-students
 category: news
 

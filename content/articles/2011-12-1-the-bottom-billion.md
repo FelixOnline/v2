@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 19:39:49 +0000"
 id: "1858"
 old_path: /politics/1858/the-bottom-billion
-redirect_from:
+aliases:
  - /politics/1858/the-bottom-billion
 category: politics
 

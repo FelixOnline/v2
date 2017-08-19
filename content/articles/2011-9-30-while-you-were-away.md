@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 11:02:39 +0100"
 id: "1458"
 old_path: /science/1458/while-you-were-away
-redirect_from:
+aliases:
  - /science/1458/while-you-were-away
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-12-11 15:29:30 +0000"
 id: "5813"
 old_path: /comment/5813/all-i-want-for-christmas-is-the-truth
-redirect_from:
+aliases:
  - /comment/5813/all-i-want-for-christmas-is-the-truth
 category: comment
 

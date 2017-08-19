@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-07 19:19:30 +0100"
 id: "2530"
 old_path: /film/2530/review-prometheus
-redirect_from:
+aliases:
  - /film/2530/review-prometheus
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-19 15:03:17 +0100"
 id: "6974"
 old_path: /comment/6974/fuelling-the-resistance
-redirect_from:
+aliases:
  - /comment/6974/fuelling-the-resistance
 category: comment
 

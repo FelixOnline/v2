@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:32:43 +0000"
 id: "6497"
 old_path: /comment/6497/cocaines-bloody-trail-into-the-uk
-redirect_from:
+aliases:
  - /comment/6497/cocaines-bloody-trail-into-the-uk
 category: comment
 

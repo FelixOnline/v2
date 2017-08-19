@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 19:17:50 +0000"
 id: "4775"
 old_path: /film/4775/are-you-feeling-horny
-redirect_from:
+aliases:
  - /film/4775/are-you-feeling-horny
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-12 22:52:59 +0000"
 id: "5244"
 old_path: /sport/5244/what-is-the-best-format
-redirect_from:
+aliases:
  - /sport/5244/what-is-the-best-format
 category: sport
 

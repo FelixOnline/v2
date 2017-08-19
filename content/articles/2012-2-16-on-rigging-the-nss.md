@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:59:13 +0000"
 id: "2203"
 old_path: /comment/2203/on-rigging-the-nss
-redirect_from:
+aliases:
  - /comment/2203/on-rigging-the-nss
 category: comment
 

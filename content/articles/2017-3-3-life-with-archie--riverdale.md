@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:40:58 +0000"
 id: "6850"
 old_path: /tv/6850/life-with-archie--riverdale
-redirect_from:
+aliases:
  - /tv/6850/life-with-archie--riverdale
 category: tv
 

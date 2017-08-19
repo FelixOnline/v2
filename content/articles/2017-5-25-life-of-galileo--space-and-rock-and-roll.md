@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-25 12:42:02 +0100"
 id: "6978"
 old_path: /arts/6978/life-of-galileo--space-and-rock-and-roll
-redirect_from:
+aliases:
  - /arts/6978/life-of-galileo--space-and-rock-and-roll
 category: arts
 

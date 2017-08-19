@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:04:47 +0000"
 id: "6530"
 old_path: /science/6530/barrier-bleaching-isnt-so-great
-redirect_from:
+aliases:
  - /science/6530/barrier-bleaching-isnt-so-great
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-04-18 16:50:08 +0100"
 id: "126"
 old_path: /sport/126/sports-of-yesteryear-rectors-cup
-redirect_from:
+aliases:
  - /sport/126/sports-of-yesteryear-rectors-cup
 category: sport
 

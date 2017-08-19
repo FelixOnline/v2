@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-08 16:36:43 +0100"
 id: "3550"
 old_path: /science/3550/helter-skelter-helicenes
-redirect_from:
+aliases:
  - /science/3550/helter-skelter-helicenes
 category: science
 

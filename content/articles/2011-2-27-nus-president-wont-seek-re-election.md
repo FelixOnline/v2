@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-27 12:15:48 +0000"
 id: "899"
 old_path: /news/899/nus-president-wont-seek-re-election
-redirect_from:
+aliases:
  - /news/899/nus-president-wont-seek-re-election
 category: news
 

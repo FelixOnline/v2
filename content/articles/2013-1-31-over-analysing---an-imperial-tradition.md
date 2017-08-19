@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:37:43 +0000"
 id: "3212"
 old_path: /comment/3212/over-analysing---an-imperial-tradition
-redirect_from:
+aliases:
  - /comment/3212/over-analysing---an-imperial-tradition
 category: comment
 

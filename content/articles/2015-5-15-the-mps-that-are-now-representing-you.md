@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:31:28 +0100"
 id: "5532"
 old_path: /news/5532/the-mps-that-are-now-representing-you
-redirect_from:
+aliases:
  - /news/5532/the-mps-that-are-now-representing-you
 category: news
 

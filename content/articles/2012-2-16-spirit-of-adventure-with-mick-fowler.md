@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:28:07 +0000"
 id: "2189"
 old_path: /news/2189/spirit-of-adventure-with-mick-fowler
-redirect_from:
+aliases:
  - /news/2189/spirit-of-adventure-with-mick-fowler
 category: news
 

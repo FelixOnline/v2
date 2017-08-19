@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:29:50 +0100"
 id: "6222"
 old_path: /news/6222/imperial-staff-pensions-invested-in-tobacco-firms
-redirect_from:
+aliases:
  - /news/6222/imperial-staff-pensions-invested-in-tobacco-firms
 category: news
 

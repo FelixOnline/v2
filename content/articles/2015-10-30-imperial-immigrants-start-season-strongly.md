@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 15:32:15 +0000"
 id: "5694"
 old_path: /sport/5694/imperial-immigrants-start-season-strongly
-redirect_from:
+aliases:
  - /sport/5694/imperial-immigrants-start-season-strongly
 category: sport
 

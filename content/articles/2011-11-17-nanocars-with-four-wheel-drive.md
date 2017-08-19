@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:18:34 +0000"
 id: "1755"
 old_path: /science/1755/nanocars-with-four-wheel-drive
-redirect_from:
+aliases:
  - /science/1755/nanocars-with-four-wheel-drive
 category: science
 

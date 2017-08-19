@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 16:00:09 +0000"
 id: "6589"
 old_path: /arts/6589/the-duke--innovative-political-theatre-
-redirect_from:
+aliases:
  - /arts/6589/the-duke--innovative-political-theatre-
 category: arts
 

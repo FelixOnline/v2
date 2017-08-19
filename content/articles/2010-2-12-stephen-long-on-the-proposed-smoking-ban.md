@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-12 02:03:02 +0000"
 id: "86"
 old_path: /comment/86/stephen-long-on-the-proposed-smoking-ban
-redirect_from:
+aliases:
  - /comment/86/stephen-long-on-the-proposed-smoking-ban
 category: comment
 

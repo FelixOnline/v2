@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-10 18:51:11 +0000"
 id: "4197"
 old_path: /news/4197/further-council-discussion-on-international-nhs-fees-campaign
-redirect_from:
+aliases:
  - /news/4197/further-council-discussion-on-international-nhs-fees-campaign
 category: news
 

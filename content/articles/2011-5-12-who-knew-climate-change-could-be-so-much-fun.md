@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 18:41:25 +0100"
 id: "1197"
 old_path: /games/1197/who-knew-climate-change-could-be-so-much-fun
-redirect_from:
+aliases:
  - /games/1197/who-knew-climate-change-could-be-so-much-fun
 category: games
 

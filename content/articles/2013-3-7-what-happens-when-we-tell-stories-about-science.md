@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:17:39 +0000"
 id: "3422"
 old_path: /science/3422/what-happens-when-we-tell-stories-about-science
-redirect_from:
+aliases:
  - /science/3422/what-happens-when-we-tell-stories-about-science
 category: science
 

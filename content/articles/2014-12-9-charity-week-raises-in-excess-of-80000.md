@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-09 13:49:03 +0000"
 id: "5018"
 old_path: /news/5018/charity-week-raises-in-excess-of-80000
-redirect_from:
+aliases:
  - /news/5018/charity-week-raises-in-excess-of-80000
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:28:37 +0100"
 id: "1591"
 old_path: /games/1591/dlc---to-pay-or-not-to-pay
-redirect_from:
+aliases:
  - /games/1591/dlc---to-pay-or-not-to-pay
 category: games
 

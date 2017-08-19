@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:53:33 +0000"
 id: "787"
 old_path: /politics/787/u-turn-ahead-
-redirect_from:
+aliases:
  - /politics/787/u-turn-ahead-
 category: politics
 

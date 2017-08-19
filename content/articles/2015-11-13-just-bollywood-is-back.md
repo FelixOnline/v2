@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:48:03 +0000"
 id: "5733"
 old_path: /cands/5733/just-bollywood-is-back
-redirect_from:
+aliases:
  - /cands/5733/just-bollywood-is-back
 category: clubs-and-socs
 

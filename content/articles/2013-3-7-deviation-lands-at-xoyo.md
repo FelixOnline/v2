@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:34:04 +0000"
 id: "3426"
 old_path: /music/3426/deviation-lands-at-xoyo
-redirect_from:
+aliases:
  - /music/3426/deviation-lands-at-xoyo
 category: music
 

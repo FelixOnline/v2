@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-02 19:51:53 +0100"
 id: "1313"
 old_path: /music/1313/inescapable-fate-are-bringing-the-noise-to-boned
-redirect_from:
+aliases:
  - /music/1313/inescapable-fate-are-bringing-the-noise-to-boned
 category: music
 

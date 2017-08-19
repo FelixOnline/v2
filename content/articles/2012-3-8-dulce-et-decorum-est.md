@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:39:28 +0000"
 id: "2327"
 old_path: /politics/2327/dulce-et-decorum-est
-redirect_from:
+aliases:
  - /politics/2327/dulce-et-decorum-est
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-27 23:30:30 +0100"
 id: "3764"
 old_path: /features/3764/freshers-pullout-food-near-and-on-campus
-redirect_from:
+aliases:
  - /features/3764/freshers-pullout-food-near-and-on-campus
 category: features
 

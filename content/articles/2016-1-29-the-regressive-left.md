@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 08:56:22 +0000"
 id: "5840"
 old_path: /comment/5840/the-regressive-left
-redirect_from:
+aliases:
  - /comment/5840/the-regressive-left
 category: comment
 

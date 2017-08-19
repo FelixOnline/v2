@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 17:26:12 +0000"
 id: "6915"
 old_path: /food/6915/spiced-rack-of-lamb-with-char-grilled-smoked-aubergine-dip
-redirect_from:
+aliases:
  - /food/6915/spiced-rack-of-lamb-with-char-grilled-smoked-aubergine-dip
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:13:50 +0000"
 id: "2818"
 old_path: /music/2818/obama-and-hip-hope
-redirect_from:
+aliases:
  - /music/2818/obama-and-hip-hope
 category: music
 

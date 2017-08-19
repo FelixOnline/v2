@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 22:00:08 +0100"
 id: "4675"
 old_path: /film/4675/amazing-grace
-redirect_from:
+aliases:
  - /film/4675/amazing-grace
 category: film
 

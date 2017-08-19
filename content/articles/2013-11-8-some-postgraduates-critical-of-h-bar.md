@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 03:40:36 +0000"
 id: "4022"
 old_path: /news/4022/some-postgraduates-critical-of-h-bar
-redirect_from:
+aliases:
  - /news/4022/some-postgraduates-critical-of-h-bar
 category: news
 

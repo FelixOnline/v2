@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:35:25 +0000"
 id: "474"
 old_path: /sport/474/i-propose-a-game-of-fives
-redirect_from:
+aliases:
  - /sport/474/i-propose-a-game-of-fives
 category: sport
 

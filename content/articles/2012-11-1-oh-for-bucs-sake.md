@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:11:32 +0000"
 id: "2778"
 old_path: /news/2778/oh-for-bucs-sake
-redirect_from:
+aliases:
  - /news/2778/oh-for-bucs-sake
 category: news
 

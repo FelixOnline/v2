@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-05 12:28:39 +0000"
 id: "5876"
 old_path: /film/5876/hollywood-and-the-duvernay-test
-redirect_from:
+aliases:
  - /film/5876/hollywood-and-the-duvernay-test
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-11 23:37:31 +0000"
 id: "5043"
 old_path: /sport/5043/icrfl-freshers-attend-invitational
-redirect_from:
+aliases:
  - /sport/5043/icrfl-freshers-attend-invitational
 category: sport
 

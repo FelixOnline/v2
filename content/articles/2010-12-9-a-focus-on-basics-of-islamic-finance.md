@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 19:29:02 +0000"
 id: "505"
 old_path: /biz/505/a-focus-on-basics-of-islamic-finance
-redirect_from:
+aliases:
  - /biz/505/a-focus-on-basics-of-islamic-finance
 category: business
 

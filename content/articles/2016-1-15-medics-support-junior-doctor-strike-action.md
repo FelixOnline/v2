@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-15 11:20:14 +0000"
 id: "5826"
 old_path: /news/5826/medics-support-junior-doctor-strike-action
-redirect_from:
+aliases:
  - /news/5826/medics-support-junior-doctor-strike-action
 category: news
 

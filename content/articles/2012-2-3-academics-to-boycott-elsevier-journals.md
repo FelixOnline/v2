@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-03 00:14:09 +0000"
 id: "2118"
 old_path: /news/2118/academics-to-boycott-elsevier-journals-
-redirect_from:
+aliases:
  - /news/2118/academics-to-boycott-elsevier-journals-
 category: news
 

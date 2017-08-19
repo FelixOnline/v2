@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-01 13:27:31 +0100"
 id: "2515"
 old_path: /science/2515/sugar-and-the-brain
-redirect_from:
+aliases:
  - /science/2515/sugar-and-the-brain
 category: science
 

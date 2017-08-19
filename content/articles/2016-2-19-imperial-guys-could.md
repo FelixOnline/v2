@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-19 12:30:21 +0000"
 id: "5948"
 old_path: /sport/5948/imperial-guys-could
-redirect_from:
+aliases:
  - /sport/5948/imperial-guys-could
 category: sport
 

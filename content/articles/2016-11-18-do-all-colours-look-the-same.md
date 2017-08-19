@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-18 14:53:33 +0000"
 id: "6466"
 old_path: /science/6466/do-all-colours-look-the-same
-redirect_from:
+aliases:
  - /science/6466/do-all-colours-look-the-same
 category: science
 

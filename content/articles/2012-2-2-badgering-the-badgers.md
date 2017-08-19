@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:29:32 +0000"
 id: "2089"
 old_path: /science/2089/badgering-the-badgers
-redirect_from:
+aliases:
  - /science/2089/badgering-the-badgers
 category: science
 

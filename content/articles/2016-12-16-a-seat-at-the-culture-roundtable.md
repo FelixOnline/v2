@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:43:54 +0000"
 id: "6618"
 old_path: /features/6618/a-seat-at-the-culture-roundtable
-redirect_from:
+aliases:
  - /features/6618/a-seat-at-the-culture-roundtable
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 20:43:14 +0000"
 id: "1672"
 old_path: /music/1672/be-sure-not-to-miss-negativwobblyland
-redirect_from:
+aliases:
  - /music/1672/be-sure-not-to-miss-negativwobblyland
 category: music
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 15:25:20 +0000"
 id: "6425"
 old_path: /millennials/6425/drug-bible--ketamine-101
-redirect_from:
+aliases:
  - /millennials/6425/drug-bible--ketamine-101
 category: millennials
 

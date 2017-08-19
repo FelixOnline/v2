@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-16 01:46:17 +0100"
 id: "4599"
 old_path: /science/4599/wait-are-people-actually-starting-to-enjoy-science
-redirect_from:
+aliases:
  - /science/4599/wait-are-people-actually-starting-to-enjoy-science
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 09:25:07 +0100"
 id: "6240"
 old_path: /tv/6240/the-complex-and-real-parts-of-love
-redirect_from:
+aliases:
  - /tv/6240/the-complex-and-real-parts-of-love
 category: tv
 

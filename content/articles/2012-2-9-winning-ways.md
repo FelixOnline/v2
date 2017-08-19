@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:02:01 +0000"
 id: "2168"
 old_path: /sport/2168/winning-ways-
-redirect_from:
+aliases:
  - /sport/2168/winning-ways-
 category: sport
 

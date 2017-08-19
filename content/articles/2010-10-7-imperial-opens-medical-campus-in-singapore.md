@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:25:58 +0100"
 id: "177"
 old_path: /news/177/imperial-opens-medical-campus-in-singapore
-redirect_from:
+aliases:
  - /news/177/imperial-opens-medical-campus-in-singapore
 category: news
 

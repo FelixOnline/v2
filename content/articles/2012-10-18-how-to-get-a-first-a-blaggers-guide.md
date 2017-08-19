@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:24:10 +0100"
 id: "2704"
 old_path: /news/2704/how-to-get-a-first-a-blaggers-guide
-redirect_from:
+aliases:
  - /news/2704/how-to-get-a-first-a-blaggers-guide
 category: news
 

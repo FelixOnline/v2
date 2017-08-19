@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-28 00:46:24 +0000"
 id: "4965"
 old_path: /comment/4965/attending-university-can-be-a-risky-business
-redirect_from:
+aliases:
  - /comment/4965/attending-university-can-be-a-risky-business
 category: comment
 

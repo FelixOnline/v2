@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:08:16 +0000"
 id: "4190"
 old_path: /comment/4190/student-protests-in-ukraine
-redirect_from:
+aliases:
  - /comment/4190/student-protests-in-ukraine
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-04 19:11:47 +0000"
 id: "329"
 old_path: /comment/329/the-dawkins-delusion-
-redirect_from:
+aliases:
  - /comment/329/the-dawkins-delusion-
 category: comment
 

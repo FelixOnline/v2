@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:47:54 +0000"
 id: "2162"
 old_path: /travel/2162/things-to-do-in-saariselk
-redirect_from:
+aliases:
  - /travel/2162/things-to-do-in-saariselk
 category: travel
 

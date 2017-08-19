@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 23:09:29 +0100"
 id: "5556"
 old_path: /film/5556/tribal-warfare-on-the-big-screen
-redirect_from:
+aliases:
  - /film/5556/tribal-warfare-on-the-big-screen
 category: film
 

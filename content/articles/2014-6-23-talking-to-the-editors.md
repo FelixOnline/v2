@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 14:34:50 +0100"
 id: "4711"
 old_path: /comment/4711/talking-to-the-editors
-redirect_from:
+aliases:
  - /comment/4711/talking-to-the-editors
 category: comment
 

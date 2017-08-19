@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:06:28 +0000"
 id: "2052"
 old_path: /travel/2052/positive-social-change-for-honduras
-redirect_from:
+aliases:
  - /travel/2052/positive-social-change-for-honduras
 category: travel
 

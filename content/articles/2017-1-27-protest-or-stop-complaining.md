@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:22:15 +0000"
 id: "6686"
 old_path: /comment/6686/protest-or-stop-complaining-
-redirect_from:
+aliases:
  - /comment/6686/protest-or-stop-complaining-
 category: comment
 

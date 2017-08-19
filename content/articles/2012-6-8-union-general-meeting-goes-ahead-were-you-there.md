@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-08 08:41:39 +0100"
 id: "2543"
 old_path: /comment/2543/union-general-meeting-goes-ahead-were-you-there
-redirect_from:
+aliases:
  - /comment/2543/union-general-meeting-goes-ahead-were-you-there
 category: comment
 

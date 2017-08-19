@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:10:38 +0000"
 id: "2814"
 old_path: /music/2814/the-cribs-are-back-on-top
-redirect_from:
+aliases:
  - /music/2814/the-cribs-are-back-on-top
 category: music
 

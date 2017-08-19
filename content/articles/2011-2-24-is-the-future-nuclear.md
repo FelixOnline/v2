@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-24 20:00:29 +0000"
 id: "875"
 old_path: /news/875/is-the-future-nuclear
-redirect_from:
+aliases:
  - /news/875/is-the-future-nuclear
 category: news
 

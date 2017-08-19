@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-11 21:46:40 +0100"
 id: "4674"
 old_path: /games/4674/trialling-the-fusion
-redirect_from:
+aliases:
  - /games/4674/trialling-the-fusion
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 01:03:18 +0100"
 id: "3805"
 old_path: /comment/3805/imperial-men-how-to-talk-about-gender
-redirect_from:
+aliases:
  - /comment/3805/imperial-men-how-to-talk-about-gender
 category: comment
 

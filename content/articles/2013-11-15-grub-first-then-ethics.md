@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:29:00 +0000"
 id: "4071"
 old_path: /comment/4071/grub-first-then-ethics
-redirect_from:
+aliases:
  - /comment/4071/grub-first-then-ethics
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-28 20:26:07 +0000"
 id: "927"
 old_path: /biz/927/draw-yourself-a-new-path
-redirect_from:
+aliases:
  - /biz/927/draw-yourself-a-new-path
 category: business
 

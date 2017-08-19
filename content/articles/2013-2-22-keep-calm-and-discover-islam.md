@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-22 01:17:00 +0000"
 id: "3357"
 old_path: /news/3357/keep-calm-and-discover-islam
-redirect_from:
+aliases:
  - /news/3357/keep-calm-and-discover-islam
 category: news
 

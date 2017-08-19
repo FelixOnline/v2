@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 03:15:02 +0000"
 id: "3062"
 old_path: /sport/3062/netball-girls-on-a-roll
-redirect_from:
+aliases:
  - /sport/3062/netball-girls-on-a-roll
 category: sport
 

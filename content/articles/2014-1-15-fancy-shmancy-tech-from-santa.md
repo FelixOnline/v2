@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-15 16:27:22 +0000"
 id: "4213"
 old_path: /tech/4213/fancy-shmancy-tech-from-santa
-redirect_from:
+aliases:
  - /tech/4213/fancy-shmancy-tech-from-santa
 category: tech
 

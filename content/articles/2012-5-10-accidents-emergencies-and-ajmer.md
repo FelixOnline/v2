@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:09:42 +0100"
 id: "2430"
 old_path: /travel/2430/accidents-emergencies-and-ajmer
-redirect_from:
+aliases:
  - /travel/2430/accidents-emergencies-and-ajmer
 category: travel
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:42:18 +0000"
 id: "674"
 old_path: /comment/674/wish-i-was-there-
-redirect_from:
+aliases:
  - /comment/674/wish-i-was-there-
 category: comment
 

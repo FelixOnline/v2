@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:24:49 +0000"
 id: "2176"
 old_path: /film/2176/witness-the-birth-of-psychoanalysis
-redirect_from:
+aliases:
  - /film/2176/witness-the-birth-of-psychoanalysis
 category: film
 

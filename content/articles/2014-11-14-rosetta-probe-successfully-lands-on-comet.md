@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:09:31 +0000"
 id: "4889"
 old_path: /science/4889/rosetta-probe-successfully-lands-on-comet
-redirect_from:
+aliases:
  - /science/4889/rosetta-probe-successfully-lands-on-comet
 category: science
 

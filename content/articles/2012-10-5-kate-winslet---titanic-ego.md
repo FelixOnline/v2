@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:09:20 +0100"
 id: "2611"
 old_path: /film/2611/kate-winslet---titanic-ego
-redirect_from:
+aliases:
  - /film/2611/kate-winslet---titanic-ego
 category: film
 

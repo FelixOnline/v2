@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:29:15 +0000"
 id: "747"
 old_path: /tv/747/national-television-awards
-redirect_from:
+aliases:
  - /tv/747/national-television-awards
 category: tv
 

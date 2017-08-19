@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 10:15:20 +0100"
 id: "6133"
 old_path: /arts/6133/people-places-and-things-
-redirect_from:
+aliases:
  - /arts/6133/people-places-and-things-
 category: arts
 

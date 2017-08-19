@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:05:13 +0000"
 id: "3399"
 old_path: /food/3399/so-whats-the-big-deal
-redirect_from:
+aliases:
  - /food/3399/so-whats-the-big-deal
 category: food
 

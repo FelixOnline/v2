@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:59:41 +0000"
 id: "2204"
 old_path: /music/2204/ramas-hip-hop-tune-of-the-week-1
-redirect_from:
+aliases:
  - /music/2204/ramas-hip-hop-tune-of-the-week-1
 category: music
 

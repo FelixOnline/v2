@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-12 19:17:59 +0100"
 id: "1205"
 old_path: /comment/1205/money-matters
-redirect_from:
+aliases:
  - /comment/1205/money-matters
 category: comment
 

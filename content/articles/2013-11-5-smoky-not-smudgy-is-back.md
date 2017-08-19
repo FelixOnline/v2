@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:47:50 +0000"
 id: "4005"
 old_path: /features/4005/smoky-not-smudgy-is-back
-redirect_from:
+aliases:
  - /features/4005/smoky-not-smudgy-is-back
 category: features
 

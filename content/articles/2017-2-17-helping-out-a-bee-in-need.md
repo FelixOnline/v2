@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 15:09:12 +0000"
 id: "6789"
 old_path: /science/6789/helping-out-a-bee-in-need
-redirect_from:
+aliases:
  - /science/6789/helping-out-a-bee-in-need
 category: science
 

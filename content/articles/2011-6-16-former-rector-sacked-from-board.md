@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 19:25:14 +0100"
 id: "1383"
 old_path: /news/1383/former-rector-sacked-from-board
-redirect_from:
+aliases:
  - /news/1383/former-rector-sacked-from-board
 category: news
 

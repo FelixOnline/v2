@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 17:37:41 +0000"
 id: "6413"
 old_path: /music/6413/felix-meets--formation
-redirect_from:
+aliases:
  - /music/6413/felix-meets--formation
 category: music
 

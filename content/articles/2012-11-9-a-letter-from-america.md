@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 12:26:24 +0000"
 id: "2846"
 old_path: /politics/2846/a-letter-from-america
-redirect_from:
+aliases:
  - /politics/2846/a-letter-from-america
 category: politics
 

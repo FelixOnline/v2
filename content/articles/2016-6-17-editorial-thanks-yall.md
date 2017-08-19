@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-17 09:36:27 +0100"
 id: "6287"
 old_path: /film/6287/editorial-thanks-yall
-redirect_from:
+aliases:
  - /film/6287/editorial-thanks-yall
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 12:15:50 +0100"
 id: "2612"
 old_path: /film/2612/what-we-watched-in-september
-redirect_from:
+aliases:
  - /film/2612/what-we-watched-in-september
 category: film
 

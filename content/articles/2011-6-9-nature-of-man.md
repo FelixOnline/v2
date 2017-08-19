@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-09 19:50:42 +0100"
 id: "1338"
 old_path: /phoenix/1338/nature-of-man
-redirect_from:
+aliases:
  - /phoenix/1338/nature-of-man
 category: phoenix
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-20 17:10:06 +0000"
 id: "5295"
 old_path: /tv/5295/dont-drink-and-drive--but-if-you-do-call-me
-redirect_from:
+aliases:
  - /tv/5295/dont-drink-and-drive--but-if-you-do-call-me
 category: tv
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-27 15:27:43 +0100"
 id: "1279"
 old_path: /travel/1279/bolivia-calamity-and-comfort
-redirect_from:
+aliases:
  - /travel/1279/bolivia-calamity-and-comfort
 category: travel
 

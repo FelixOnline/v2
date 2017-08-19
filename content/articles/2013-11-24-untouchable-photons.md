@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 16:01:55 +0000"
 id: "4106"
 old_path: /science/4106/untouchable-photons
-redirect_from:
+aliases:
  - /science/4106/untouchable-photons
 category: science
 

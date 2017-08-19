@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-20 14:49:27 +0000"
 id: "6653"
 old_path: /news/6653/union-to-participate-in-tef-submission
-redirect_from:
+aliases:
  - /news/6653/union-to-participate-in-tef-submission
 category: news
 

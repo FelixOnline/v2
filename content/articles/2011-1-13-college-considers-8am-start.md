@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 21:42:00 +0000"
 id: "594"
 old_path: /news/594/college-considers-8am-start-
-redirect_from:
+aliases:
  - /news/594/college-considers-8am-start-
 category: news
 

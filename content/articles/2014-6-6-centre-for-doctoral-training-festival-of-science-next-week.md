@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:39:44 +0100"
 id: "4657"
 old_path: /news/4657/centre-for-doctoral-training-festival-of-science-next-week
-redirect_from:
+aliases:
  - /news/4657/centre-for-doctoral-training-festival-of-science-next-week
 category: news
 

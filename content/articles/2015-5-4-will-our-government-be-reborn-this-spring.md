@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-04 16:17:07 +0100"
 id: "5487"
 old_path: /comment/5487/will-our-government-be-reborn-this-spring
-redirect_from:
+aliases:
  - /comment/5487/will-our-government-be-reborn-this-spring
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-14 04:34:18 +0000"
 id: "4378"
 old_path: /news/4378/union-big-election-nominations-2014-open
-redirect_from:
+aliases:
  - /news/4378/union-big-election-nominations-2014-open
 category: news
 

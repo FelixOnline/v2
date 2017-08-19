@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:04:21 +0100"
 id: "6180"
 old_path: /science/6180/science-whats-good
-redirect_from:
+aliases:
  - /science/6180/science-whats-good
 category: science
 

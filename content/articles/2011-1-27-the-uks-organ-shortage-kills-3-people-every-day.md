@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 18:41:01 +0000"
 id: "657"
 old_path: /news/657/the-uks-organ-shortage-kills-3-people-every-day
-redirect_from:
+aliases:
  - /news/657/the-uks-organ-shortage-kills-3-people-every-day
 category: news
 

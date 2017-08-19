@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 23:53:18 +0000"
 id: "2178"
 old_path: /film/2178/felix-film-talks-to-aragorn
-redirect_from:
+aliases:
  - /film/2178/felix-film-talks-to-aragorn
 category: film
 

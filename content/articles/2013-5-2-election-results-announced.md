@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-02 13:41:11 +0100"
 id: "3534"
 old_path: /news/3534/election-results-announced
-redirect_from:
+aliases:
  - /news/3534/election-results-announced
 category: news
 

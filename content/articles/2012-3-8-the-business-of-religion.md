@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-08 21:13:08 +0000"
 id: "2322"
 old_path: /news/2322/the-business-of-religion
-redirect_from:
+aliases:
  - /news/2322/the-business-of-religion
 category: news
 

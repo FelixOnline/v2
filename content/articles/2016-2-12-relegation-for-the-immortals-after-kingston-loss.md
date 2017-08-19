@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 12:09:20 +0000"
 id: "5921"
 old_path: /sport/5921/relegation-for-the-immortals-after-kingston-loss
-redirect_from:
+aliases:
  - /sport/5921/relegation-for-the-immortals-after-kingston-loss
 category: sport
 

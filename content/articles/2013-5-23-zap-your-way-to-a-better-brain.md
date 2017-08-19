@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:07:38 +0100"
 id: "3608"
 old_path: /science/3608/zap-your-way-to-a-better-brain
-redirect_from:
+aliases:
  - /science/3608/zap-your-way-to-a-better-brain
 category: science
 

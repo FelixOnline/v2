@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:18:53 +0100"
 id: "4743"
 old_path: /news/4743/imperial-graduands-flock-to-royal-albert-hall-for-graduation
-redirect_from:
+aliases:
  - /news/4743/imperial-graduands-flock-to-royal-albert-hall-for-graduation
 category: news
 

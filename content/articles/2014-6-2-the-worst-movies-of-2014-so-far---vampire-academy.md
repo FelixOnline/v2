@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-02 12:58:29 +0100"
 id: "4645"
 old_path: /film/4645/the-worst-movies-of-2014-so-far---vampire-academy
-redirect_from:
+aliases:
  - /film/4645/the-worst-movies-of-2014-so-far---vampire-academy
 category: film
 

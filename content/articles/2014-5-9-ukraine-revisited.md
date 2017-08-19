@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:10:53 +0100"
 id: "4575"
 old_path: /comment/4575/ukraine-revisited
-redirect_from:
+aliases:
  - /comment/4575/ukraine-revisited
 category: comment
 

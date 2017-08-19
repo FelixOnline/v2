@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-29 18:15:03 +0000"
 id: "2775"
 old_path: /film/2775/which-bond-is-the-best
-redirect_from:
+aliases:
  - /film/2775/which-bond-is-the-best
 category: film
 

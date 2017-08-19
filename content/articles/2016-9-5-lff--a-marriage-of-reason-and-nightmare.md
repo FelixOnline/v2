@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-09-05 20:40:30 +0100"
 id: "6296"
 old_path: /film/6296/lff--a-marriage-of-reason-and-nightmare
-redirect_from:
+aliases:
  - /film/6296/lff--a-marriage-of-reason-and-nightmare
 category: film
 

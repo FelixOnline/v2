@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:59:27 +0100"
 id: "1235"
 old_path: /tech/1235/driverless-cars-on-the-way
-redirect_from:
+aliases:
  - /tech/1235/driverless-cars-on-the-way
 category: tech
 

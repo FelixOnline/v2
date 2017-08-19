@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 14:40:05 +0000"
 id: "6837"
 old_path: /comment/6837/labour-has-a-one-way-ticket-to-switzerland
-redirect_from:
+aliases:
  - /comment/6837/labour-has-a-one-way-ticket-to-switzerland
 category: comment
 

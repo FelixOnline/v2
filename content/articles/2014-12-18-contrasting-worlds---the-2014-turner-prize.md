@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-18 15:40:43 +0000"
 id: "5057"
 old_path: /arts/5057/contrasting-worlds---the-2014-turner-prize
-redirect_from:
+aliases:
  - /arts/5057/contrasting-worlds---the-2014-turner-prize
 category: arts
 

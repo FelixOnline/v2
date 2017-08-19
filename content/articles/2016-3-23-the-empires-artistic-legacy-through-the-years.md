@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-23 14:27:56 +0000"
 id: "6079"
 old_path: /arts/6079/the-empires-artistic-legacy-through-the-years
-redirect_from:
+aliases:
  - /arts/6079/the-empires-artistic-legacy-through-the-years
 category: arts
 

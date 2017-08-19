@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-01 22:56:22 +0100"
 id: "167"
 old_path: /film/167/critically-acclaimed-films-that-are-actually-terrible
-redirect_from:
+aliases:
  - /film/167/critically-acclaimed-films-that-are-actually-terrible
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-03 17:02:19 +0000"
 id: "6727"
 old_path: /arts/6727/la-traviata
-redirect_from:
+aliases:
  - /arts/6727/la-traviata
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-29 10:05:50 +0000"
 id: "5858"
 old_path: /games/5858/that-dragon-cancer
-redirect_from:
+aliases:
  - /games/5858/that-dragon-cancer
 category: games
 

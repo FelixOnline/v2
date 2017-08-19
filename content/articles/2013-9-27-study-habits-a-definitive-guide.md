@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-27 17:05:51 +0100"
 id: "3761"
 old_path: /features/3761/study-habits-a-definitive-guide
-redirect_from:
+aliases:
  - /features/3761/study-habits-a-definitive-guide
 category: features
 

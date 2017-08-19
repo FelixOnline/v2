@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:28:07 +0000"
 id: "2064"
 old_path: /books/2064/a-tribute-to-a-reclusive-author
-redirect_from:
+aliases:
  - /books/2064/a-tribute-to-a-reclusive-author
 category: books
 

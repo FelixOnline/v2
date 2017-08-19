@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-03-11 12:04:24 +0000"
 id: "6042"
 old_path: /arts/6042/the-boys-wanna-be-her-
-redirect_from:
+aliases:
  - /arts/6042/the-boys-wanna-be-her-
 category: arts
 

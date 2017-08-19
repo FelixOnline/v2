@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:17:43 +0000"
 id: "1887"
 old_path: /comment/1887/imperial-is-unique-rather-than-active
-redirect_from:
+aliases:
  - /comment/1887/imperial-is-unique-rather-than-active
 category: comment
 

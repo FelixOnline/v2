@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 00:03:13 +0000"
 id: "3398"
 old_path: /food/3398/pasta-la-vista-baby
-redirect_from:
+aliases:
  - /food/3398/pasta-la-vista-baby
 category: food
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-04 19:05:19 +0000"
 id: "4992"
 old_path: /travel/4992/oh-christmas-lights-so-christmas-y
-redirect_from:
+aliases:
  - /travel/4992/oh-christmas-lights-so-christmas-y
 category: travel
 

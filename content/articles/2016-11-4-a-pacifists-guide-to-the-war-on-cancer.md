@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:25:18 +0000"
 id: "6392"
 old_path: /arts/6392/a-pacifists-guide-to-the-war-on-cancer
-redirect_from:
+aliases:
  - /arts/6392/a-pacifists-guide-to-the-war-on-cancer
 category: arts
 

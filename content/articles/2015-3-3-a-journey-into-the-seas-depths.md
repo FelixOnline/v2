@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-03 14:09:35 +0000"
 id: "5318"
 old_path: /arts/5318/a-journey-into-the-seas-depths
-redirect_from:
+aliases:
  - /arts/5318/a-journey-into-the-seas-depths
 category: arts
 

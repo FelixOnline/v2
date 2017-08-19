@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-17 19:29:13 +0000"
 id: "1088"
 old_path: /news/1088/the-next-medic-president
-redirect_from:
+aliases:
  - /news/1088/the-next-medic-president
 category: news
 

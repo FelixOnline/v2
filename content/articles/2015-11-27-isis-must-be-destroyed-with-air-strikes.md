@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-27 14:19:37 +0000"
 id: "5775"
 old_path: /comment/5775/isis-must-be-destroyed-with-air-strikes
-redirect_from:
+aliases:
  - /comment/5775/isis-must-be-destroyed-with-air-strikes
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-30 14:48:51 +0000"
 id: "5691"
 old_path: /news/5691/ictv-meet-top-gear-host
-redirect_from:
+aliases:
  - /news/5691/ictv-meet-top-gear-host
 category: news
 

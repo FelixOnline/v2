@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:47:15 +0000"
 id: "632"
 old_path: /news/632/oxfam-talk
-redirect_from:
+aliases:
  - /news/632/oxfam-talk
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 21:11:35 +0100"
 id: "1434"
 old_path: /food/1434/confessions-of-a-food-editor
-redirect_from:
+aliases:
  - /food/1434/confessions-of-a-food-editor
 category: food
 

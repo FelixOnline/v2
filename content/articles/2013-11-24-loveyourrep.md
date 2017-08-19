@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-24 15:48:52 +0000"
 id: "4098"
 old_path: /features/4098/loveyourrep
-redirect_from:
+aliases:
  - /features/4098/loveyourrep
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 21:40:06 +0000"
 id: "4152"
 old_path: /comment/4152/sach-a-life-so-long-and-farewell
-redirect_from:
+aliases:
  - /comment/4152/sach-a-life-so-long-and-farewell
 category: comment
 

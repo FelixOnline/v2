@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-24 14:48:03 +0000"
 id: "6823"
 old_path: /music/6823/no-unsolicited-mail
-redirect_from:
+aliases:
  - /music/6823/no-unsolicited-mail
 category: music
 

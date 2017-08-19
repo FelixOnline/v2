@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 08:23:37 +0000"
 id: "992"
 old_path: /sport/992/reading-stun-lacklustre-imperial-at-the-death
-redirect_from:
+aliases:
  - /sport/992/reading-stun-lacklustre-imperial-at-the-death
 category: sport
 

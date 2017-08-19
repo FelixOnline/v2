@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 21:21:18 +0000"
 id: "1025"
 old_path: /games/1025/duke-nukem-forever
-redirect_from:
+aliases:
  - /games/1025/duke-nukem-forever
 category: games
 

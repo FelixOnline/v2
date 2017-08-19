@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:17:49 +0000"
 id: "4422"
 old_path: /arts/4422/not-such-happy-days
-redirect_from:
+aliases:
  - /arts/4422/not-such-happy-days
 category: arts
 

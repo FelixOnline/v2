@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:10:46 +0100"
 id: "6093"
 old_path: /comment/6093/check-your-privilege
-redirect_from:
+aliases:
  - /comment/6093/check-your-privilege
 category: comment
 

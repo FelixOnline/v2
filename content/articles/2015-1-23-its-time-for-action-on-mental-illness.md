@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:33:53 +0000"
 id: "5128"
 old_path: /comment/5128/its-time-for-action-on-mental-illness
-redirect_from:
+aliases:
  - /comment/5128/its-time-for-action-on-mental-illness
 category: comment
 

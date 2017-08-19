@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:46:53 +0100"
 id: "6171"
 old_path: /news/6171/petition-started-to-get-air-conditioning-in-library
-redirect_from:
+aliases:
  - /news/6171/petition-started-to-get-air-conditioning-in-library
 category: news
 

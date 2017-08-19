@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-11 23:57:46 +0100"
 id: "3834"
 old_path: /arts/3834/charles-saatchis-divorce-paper
-redirect_from:
+aliases:
  - /arts/3834/charles-saatchis-divorce-paper
 category: arts
 

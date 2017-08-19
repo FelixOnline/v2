@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 20:08:14 +0000"
 id: "4868"
 old_path: /news/4868/world-news-47-killed-by-a-suicide-bomb-in-nigeria
-redirect_from:
+aliases:
  - /news/4868/world-news-47-killed-by-a-suicide-bomb-in-nigeria
 category: news
 

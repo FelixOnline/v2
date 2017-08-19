@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:10:50 +0100"
 id: "2692"
 old_path: /sport/2692/ic-hockey-mens-2s-show-the-medics-whos-boss
-redirect_from:
+aliases:
  - /sport/2692/ic-hockey-mens-2s-show-the-medics-whos-boss
 category: sport
 

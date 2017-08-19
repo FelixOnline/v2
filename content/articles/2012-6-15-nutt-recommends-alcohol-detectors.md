@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-06-15 07:41:12 +0100"
 id: "2577"
 old_path: /news/2577/nutt-recommends-alcohol-detectors
-redirect_from:
+aliases:
  - /news/2577/nutt-recommends-alcohol-detectors
 category: news
 

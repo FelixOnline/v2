@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-10 23:05:14 +0000"
 id: "3104"
 old_path: /film/3104/what-we-watched-over-christmas-
-redirect_from:
+aliases:
  - /film/3104/what-we-watched-over-christmas-
 category: film
 

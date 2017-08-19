@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:45:32 +0000"
 id: "542"
 old_path: /comment/542/if-tube-lines-had-a-christmas-party
-redirect_from:
+aliases:
  - /comment/542/if-tube-lines-had-a-christmas-party
 category: comment
 

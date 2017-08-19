@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 14:02:53 +0000"
 id: "5353"
 old_path: /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
-redirect_from:
+aliases:
  - /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
 category: sport
 

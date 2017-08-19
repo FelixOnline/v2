@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:01:43 +0000"
 id: "457"
 old_path: /arts/457/come-and-join-the-looking-glass-club-
-redirect_from:
+aliases:
  - /arts/457/come-and-join-the-looking-glass-club-
 category: arts
 

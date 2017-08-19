@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-07 22:22:09 +0100"
 id: "176"
 old_path: /news/176/reynolds-bar-given-new-lease-of-life-with-summer-refurbishment
-redirect_from:
+aliases:
  - /news/176/reynolds-bar-given-new-lease-of-life-with-summer-refurbishment
 category: news
 

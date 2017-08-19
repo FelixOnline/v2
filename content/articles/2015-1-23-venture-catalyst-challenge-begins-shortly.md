@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-23 01:35:17 +0000"
 id: "5129"
 old_path: /news/5129/venture-catalyst-challenge-begins-shortly
-redirect_from:
+aliases:
  - /news/5129/venture-catalyst-challenge-begins-shortly
 category: news
 

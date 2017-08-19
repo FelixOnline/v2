@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-09 15:52:43 +0100"
 id: "5608"
 old_path: /travel/5608/london-calling---summer-in-the-captial
-redirect_from:
+aliases:
  - /travel/5608/london-calling---summer-in-the-captial
 category: travel
 

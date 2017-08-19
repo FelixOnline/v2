@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 21:35:55 +0000"
 id: "1971"
 old_path: /comment/1971/mystery-over-masters-fee-rises
-redirect_from:
+aliases:
  - /comment/1971/mystery-over-masters-fee-rises
 category: comment
 

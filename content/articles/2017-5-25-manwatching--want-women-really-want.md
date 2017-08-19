@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-25 12:03:55 +0100"
 id: "6977"
 old_path: /arts/6977/manwatching--want-women-really-want
-redirect_from:
+aliases:
  - /arts/6977/manwatching--want-women-really-want
 category: arts
 

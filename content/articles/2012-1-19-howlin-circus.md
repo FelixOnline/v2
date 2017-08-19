@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 20:46:02 +0000"
 id: "2021"
 old_path: /music/2021/howlin-circus
-redirect_from:
+aliases:
  - /music/2021/howlin-circus
 category: music
 

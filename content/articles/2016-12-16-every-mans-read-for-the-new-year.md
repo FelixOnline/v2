@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:03:18 +0000"
 id: "6611"
 old_path: /arts/6611/every-mans-read-for-the-new-year
-redirect_from:
+aliases:
  - /arts/6611/every-mans-read-for-the-new-year
 category: arts
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 11:42:55 +0100"
 id: "1445"
 old_path: /arts/1445/master-of-epic-fantasy
-redirect_from:
+aliases:
  - /arts/1445/master-of-epic-fantasy
 category: arts
 

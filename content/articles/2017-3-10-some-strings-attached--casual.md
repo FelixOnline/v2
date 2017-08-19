@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-10 13:46:26 +0000"
 id: "6877"
 old_path: /tv/6877/some-strings-attached--casual
-redirect_from:
+aliases:
  - /tv/6877/some-strings-attached--casual
 category: tv
 

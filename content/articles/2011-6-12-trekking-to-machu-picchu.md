@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-12 16:16:36 +0100"
 id: "1369"
 old_path: /travel/1369/trekking-to-machu-picchu
-redirect_from:
+aliases:
  - /travel/1369/trekking-to-machu-picchu
 category: travel
 

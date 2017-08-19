@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:31:41 +0000"
 id: "4074"
 old_path: /arts/4074/sarah-lucas-situation-still-as-controversial-as-ever
-redirect_from:
+aliases:
  - /arts/4074/sarah-lucas-situation-still-as-controversial-as-ever
 category: arts
 

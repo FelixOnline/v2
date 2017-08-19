@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-07 22:35:44 +0000"
 id: "3242"
 old_path: /arts/3242/light-entertainment
-redirect_from:
+aliases:
  - /arts/3242/light-entertainment
 category: arts
 

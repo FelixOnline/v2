@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-03 06:09:32 +0000"
 id: "984"
 old_path: /comment/984/need-sleep-ok-just-one-more-website
-redirect_from:
+aliases:
  - /comment/984/need-sleep-ok-just-one-more-website
 category: comment
 

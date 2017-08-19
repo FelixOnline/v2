@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 15:09:47 +0000"
 id: "6615"
 old_path: /tv/6615/the-worst-of-tv
-redirect_from:
+aliases:
  - /tv/6615/the-worst-of-tv
 category: tv
 

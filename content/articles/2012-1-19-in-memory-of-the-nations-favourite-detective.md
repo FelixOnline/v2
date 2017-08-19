@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-19 19:47:01 +0000"
 id: "1999"
 old_path: /tv/1999/in-memory-of-the-nations-favourite-detective
-redirect_from:
+aliases:
  - /tv/1999/in-memory-of-the-nations-favourite-detective
 category: tv
 

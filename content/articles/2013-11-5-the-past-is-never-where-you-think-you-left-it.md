@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-05 09:42:13 +0000"
 id: "3999"
 old_path: /film/3999/the-past-is-never-where-you-think-you-left-it
-redirect_from:
+aliases:
  - /film/3999/the-past-is-never-where-you-think-you-left-it
 category: film
 

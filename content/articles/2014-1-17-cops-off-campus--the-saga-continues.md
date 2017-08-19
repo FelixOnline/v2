@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:07:11 +0000"
 id: "4225"
 old_path: /news/4225/cops-off-campus--the-saga-continues
-redirect_from:
+aliases:
  - /news/4225/cops-off-campus--the-saga-continues
 category: news
 

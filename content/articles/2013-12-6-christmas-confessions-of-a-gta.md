@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-06 04:04:58 +0000"
 id: "4188"
 old_path: /comment/4188/christmas-confessions-of-a-gta
-redirect_from:
+aliases:
  - /comment/4188/christmas-confessions-of-a-gta
 category: comment
 

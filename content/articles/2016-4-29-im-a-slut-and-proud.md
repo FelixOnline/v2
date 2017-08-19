@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-04-29 10:45:18 +0100"
 id: "6103"
 old_path: /features/6103/im-a-slut-and-proud
-redirect_from:
+aliases:
  - /features/6103/im-a-slut-and-proud
 category: features
 

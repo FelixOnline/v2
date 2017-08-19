@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 16:17:27 +0000"
 id: "6857"
 old_path: /sport/6857/octopush-ing-the-limits-with-style
-redirect_from:
+aliases:
  - /sport/6857/octopush-ing-the-limits-with-style
 category: sport
 

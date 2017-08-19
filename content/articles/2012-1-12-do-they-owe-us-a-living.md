@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:49:21 +0000"
 id: "1992"
 old_path: /music/1992/do-they-owe-us-a-living
-redirect_from:
+aliases:
  - /music/1992/do-they-owe-us-a-living
 category: music
 

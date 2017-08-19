@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 16:08:23 +0000"
 id: "3310"
 old_path: /comment/3310/the-slow-extinction-of-the-dinosaurs
-redirect_from:
+aliases:
  - /comment/3310/the-slow-extinction-of-the-dinosaurs
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:04:07 +0000"
 id: "622"
 old_path: /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
-redirect_from:
+aliases:
  - /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
 category: music
 

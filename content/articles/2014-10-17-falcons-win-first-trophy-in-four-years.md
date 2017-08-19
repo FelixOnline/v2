@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-17 14:56:01 +0100"
 id: "4732"
 old_path: /sport/4732/falcons-win-first-trophy-in-four-years
-redirect_from:
+aliases:
  - /sport/4732/falcons-win-first-trophy-in-four-years
 category: sport
 

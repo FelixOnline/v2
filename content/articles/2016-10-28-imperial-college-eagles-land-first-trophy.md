@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-10-28 15:43:25 +0100"
 id: "6354"
 old_path: /sport/6354/imperial-college-eagles-land-first-trophy
-redirect_from:
+aliases:
  - /sport/6354/imperial-college-eagles-land-first-trophy
 category: sport
 

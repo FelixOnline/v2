@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-06 15:03:43 +0100"
 id: "1175"
 old_path: /food/1175/convenience-for-the-poor
-redirect_from:
+aliases:
  - /food/1175/convenience-for-the-poor
 category: food
 

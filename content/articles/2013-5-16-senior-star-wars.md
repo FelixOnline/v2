@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 18:17:08 +0100"
 id: "3582"
 old_path: /film/3582/senior-star-wars
-redirect_from:
+aliases:
  - /film/3582/senior-star-wars
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-23 14:22:04 +0100"
 id: "4627"
 old_path: /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
-redirect_from:
+aliases:
  - /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
 category: news
 

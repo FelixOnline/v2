@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-13 14:19:41 +0000"
 id: "2340"
 old_path: /comment/2340/a-revision-of-dietary-laws
-redirect_from:
+aliases:
  - /comment/2340/a-revision-of-dietary-laws
 category: comment
 

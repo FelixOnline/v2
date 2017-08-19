@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 14:42:50 +0000"
 id: "6515"
 old_path: /millennials/6515/the-changing-face-of-drug-dealing
-redirect_from:
+aliases:
  - /millennials/6515/the-changing-face-of-drug-dealing
 category: millennials
 

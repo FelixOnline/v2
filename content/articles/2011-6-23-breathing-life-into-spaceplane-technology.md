@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 19:23:37 +0100"
 id: "1415"
 old_path: /science/1415/breathing-life-into-spaceplane-technology
-redirect_from:
+aliases:
  - /science/1415/breathing-life-into-spaceplane-technology
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 21:34:33 +0000"
 id: "1732"
 old_path: /arts/1732/rhyme-gentlemen-please-
-redirect_from:
+aliases:
  - /arts/1732/rhyme-gentlemen-please-
 category: arts
 

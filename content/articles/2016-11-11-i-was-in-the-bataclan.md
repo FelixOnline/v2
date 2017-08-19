@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-11 13:18:35 +0000"
 id: "6417"
 old_path: /comment/6417/i-was-in-the-bataclan
-redirect_from:
+aliases:
  - /comment/6417/i-was-in-the-bataclan
 category: comment
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-31 18:02:20 +0000"
 id: "4328"
 old_path: /comment/4328/introducing-tedximperialcollege-2014
-redirect_from:
+aliases:
  - /comment/4328/introducing-tedximperialcollege-2014
 category: comment
 

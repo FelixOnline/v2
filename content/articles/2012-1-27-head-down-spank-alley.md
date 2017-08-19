@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 12:59:58 +0000"
 id: "2086"
 old_path: /music/2086/head-down-spank-alley
-redirect_from:
+aliases:
  - /music/2086/head-down-spank-alley
 category: music
 

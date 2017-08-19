@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:40:58 +0000"
 id: "700"
 old_path: /music/700/kill-em-all-at-fabric-with-the-legendary-erol-alkan-
-redirect_from:
+aliases:
  - /music/700/kill-em-all-at-fabric-with-the-legendary-erol-alkan-
 category: music
 

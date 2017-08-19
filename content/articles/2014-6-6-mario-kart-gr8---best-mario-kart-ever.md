@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:52:03 +0100"
 id: "4667"
 old_path: /games/4667/mario-kart-gr8---best-mario-kart-ever
-redirect_from:
+aliases:
  - /games/4667/mario-kart-gr8---best-mario-kart-ever
 category: games
 

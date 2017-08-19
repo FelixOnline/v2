@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 19:12:30 +0000"
 id: "600"
 old_path: /travel/600/big-croc-on-campus-
-redirect_from:
+aliases:
  - /travel/600/big-croc-on-campus-
 category: travel
 

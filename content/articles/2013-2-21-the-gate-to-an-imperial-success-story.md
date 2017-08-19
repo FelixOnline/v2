@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-21 13:21:28 +0000"
 id: "3338"
 old_path: /biz/3338/the-gate-to-an-imperial-success-story
-redirect_from:
+aliases:
  - /biz/3338/the-gate-to-an-imperial-success-story
 category: business
 

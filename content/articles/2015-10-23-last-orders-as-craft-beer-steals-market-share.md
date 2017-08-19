@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-10-23 11:15:09 +0100"
 id: "5664"
 old_path: /biz/5664/last-orders-as-craft-beer-steals-market-share
-redirect_from:
+aliases:
  - /biz/5664/last-orders-as-craft-beer-steals-market-share
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 21:04:01 +0000"
 id: "2182"
 old_path: /film/2182/harry-potter-and-the-deadly-woman
-redirect_from:
+aliases:
  - /film/2182/harry-potter-and-the-deadly-woman
 category: film
 

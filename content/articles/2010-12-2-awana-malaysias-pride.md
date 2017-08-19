@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:58:48 +0000"
 id: "482"
 old_path: /food/482/awana-malaysias-pride
-redirect_from:
+aliases:
  - /food/482/awana-malaysias-pride
 category: food
 

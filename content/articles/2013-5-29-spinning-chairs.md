@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-29 15:30:25 +0100"
 id: "3631"
 old_path: /tv/3631/spinning-chairs
-redirect_from:
+aliases:
  - /tv/3631/spinning-chairs
 category: tv
 

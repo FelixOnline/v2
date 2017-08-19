@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 20:20:11 +0000"
 id: "742"
 old_path: /tech/742/sony-unveils-psp-successor
-redirect_from:
+aliases:
  - /tech/742/sony-unveils-psp-successor
 category: tech
 

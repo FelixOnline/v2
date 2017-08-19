@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:33:38 +0000"
 id: "473"
 old_path: /science/473/science-fiction-column
-redirect_from:
+aliases:
  - /science/473/science-fiction-column
 category: science
 

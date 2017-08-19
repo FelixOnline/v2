@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-26 18:19:15 +0100"
 id: "1247"
 old_path: /news/1247/laptop-thief-caught-red-handed-by-college-security
-redirect_from:
+aliases:
  - /news/1247/laptop-thief-caught-red-handed-by-college-security
 category: news
 

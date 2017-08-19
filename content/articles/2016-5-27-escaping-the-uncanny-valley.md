@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:59:22 +0100"
 id: "6215"
 old_path: /games/6215/escaping-the-uncanny-valley
-redirect_from:
+aliases:
  - /games/6215/escaping-the-uncanny-valley
 category: games
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-27 08:38:19 +0100"
 id: "6196"
 old_path: /news/6196/imperial-places-7th-in-the-guardians-league-table
-redirect_from:
+aliases:
  - /news/6196/imperial-places-7th-in-the-guardians-league-table
 category: news
 

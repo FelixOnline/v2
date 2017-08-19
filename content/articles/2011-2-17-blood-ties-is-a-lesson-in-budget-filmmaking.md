@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 19:34:21 +0000"
 id: "820"
 old_path: /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
-redirect_from:
+aliases:
  - /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
 category: film
 

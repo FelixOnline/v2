@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-09-30 12:21:15 +0100"
 id: "1461"
 old_path: /food/1461/make-a-meal-of-it
-redirect_from:
+aliases:
  - /food/1461/make-a-meal-of-it
 category: food
 

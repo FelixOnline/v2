@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-14 11:16:38 +0000"
 id: "1959"
 old_path: /arts/1959/the-return-of-the-kings-
-redirect_from:
+aliases:
  - /arts/1959/the-return-of-the-kings-
 category: arts
 

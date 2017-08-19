@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-21 19:06:26 +0100"
 id: "232"
 old_path: /politics/232/welfare-for-all
-redirect_from:
+aliases:
  - /politics/232/welfare-for-all
 category: politics
 

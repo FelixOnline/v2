@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-27 00:07:40 +0000"
 id: "5309"
 old_path: /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
-redirect_from:
+aliases:
  - /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
 category: news
 

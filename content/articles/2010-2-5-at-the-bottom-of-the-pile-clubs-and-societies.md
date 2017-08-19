@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-02-05 15:33:51 +0000"
 id: "75"
 old_path: /news/75/at-the-bottom-of-the-pile-clubs-and-societies
-redirect_from:
+aliases:
  - /news/75/at-the-bottom-of-the-pile-clubs-and-societies
 category: news
 

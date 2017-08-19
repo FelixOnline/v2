@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-09 15:51:10 +0000"
 id: "6584"
 old_path: /film/6584/the-disquieting-strangeness-of-blue-velvet
-redirect_from:
+aliases:
  - /film/6584/the-disquieting-strangeness-of-blue-velvet
 category: film
 

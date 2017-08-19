@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 21:19:05 +0000"
 id: "968"
 old_path: /food/968/apocalypse-chow-in-ho-chi-minh
-redirect_from:
+aliases:
  - /food/968/apocalypse-chow-in-ho-chi-minh
 category: food
 

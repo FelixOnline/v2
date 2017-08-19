@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-06 02:45:18 +0100"
 id: "4662"
 old_path: /arts/4662/what-a-testament
-redirect_from:
+aliases:
  - /arts/4662/what-a-testament
 category: arts
 

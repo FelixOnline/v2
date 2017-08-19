@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-13 14:27:29 +0000"
 id: "5251"
 old_path: /cands/5251/le-mans-on-eight-wheels
-redirect_from:
+aliases:
  - /cands/5251/le-mans-on-eight-wheels
 category: clubs-and-socs
 

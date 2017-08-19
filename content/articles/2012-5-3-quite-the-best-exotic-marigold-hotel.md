@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-03 18:16:08 +0100"
 id: "2410"
 old_path: /film/2410/quite-the-best-exotic-marigold-hotel
-redirect_from:
+aliases:
  - /film/2410/quite-the-best-exotic-marigold-hotel
 category: film
 

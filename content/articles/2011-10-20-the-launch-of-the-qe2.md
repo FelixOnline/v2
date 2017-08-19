@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-20 22:42:28 +0100"
 id: "1573"
 old_path: /biz/1573/the-launch-of-the-qe2
-redirect_from:
+aliases:
  - /biz/1573/the-launch-of-the-qe2
 category: business
 

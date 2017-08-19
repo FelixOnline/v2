@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-10 19:17:11 +0100"
 id: "2432"
 old_path: /news/2432/wilson-house-not-listed-on-accommodation-website
-redirect_from:
+aliases:
  - /news/2432/wilson-house-not-listed-on-accommodation-website
 category: news
 

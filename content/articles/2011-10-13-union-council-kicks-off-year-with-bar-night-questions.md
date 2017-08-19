@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-13 20:22:12 +0100"
 id: "1502"
 old_path: /news/1502/union-council-kicks-off-year-with-bar-night-questions
-redirect_from:
+aliases:
  - /news/1502/union-council-kicks-off-year-with-bar-night-questions
 category: news
 

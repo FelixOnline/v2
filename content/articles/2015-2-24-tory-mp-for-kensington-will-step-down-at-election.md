@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-24 16:42:50 +0000"
 id: "5307"
 old_path: /news/5307/tory-mp-for-kensington-will-step-down-at-election
-redirect_from:
+aliases:
  - /news/5307/tory-mp-for-kensington-will-step-down-at-election
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:14:16 +0000"
 id: "462"
 old_path: /film/462/pure-entertainment
-redirect_from:
+aliases:
  - /film/462/pure-entertainment
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-25 13:40:07 +0000"
 id: "6503"
 old_path: /science/6503/the-galaxys-guide-to-hitchhiking
-redirect_from:
+aliases:
  - /science/6503/the-galaxys-guide-to-hitchhiking
 category: science
 

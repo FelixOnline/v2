@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-12-02 12:24:18 +0000"
 id: "4143"
 old_path: /news/4143/imperial-lobbies-lords-for-our-international-students
-redirect_from:
+aliases:
  - /news/4143/imperial-lobbies-lords-for-our-international-students
 category: news
 

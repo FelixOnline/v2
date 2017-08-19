@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-14 21:18:24 +0000"
 id: "4893"
 old_path: /sport/4893/immortals-win-12-6-in-first-mates-of-the-season
-redirect_from:
+aliases:
  - /sport/4893/immortals-win-12-6-in-first-mates-of-the-season
 category: sport
 

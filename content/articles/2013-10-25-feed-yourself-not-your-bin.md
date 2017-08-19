@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-25 01:04:15 +0100"
 id: "3947"
 old_path: /food/3947/feed-yourself-not-your-bin
-redirect_from:
+aliases:
  - /food/3947/feed-yourself-not-your-bin
 category: food
 

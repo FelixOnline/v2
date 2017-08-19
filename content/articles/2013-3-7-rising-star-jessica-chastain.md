@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 23:59:57 +0000"
 id: "3451"
 old_path: /film/3451/rising-star-jessica-chastain
-redirect_from:
+aliases:
  - /film/3451/rising-star-jessica-chastain
 category: film
 

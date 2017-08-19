@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-23 22:11:14 +0100"
 id: "3610"
 old_path: /politics/3610/big-headlines--little-englanders
-redirect_from:
+aliases:
  - /politics/3610/big-headlines--little-englanders
 category: politics
 

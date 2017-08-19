@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-01 01:03:36 +0000"
 id: "3415"
 old_path: /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
-redirect_from:
+aliases:
  - /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
 category: news
 

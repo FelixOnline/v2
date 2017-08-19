@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:31:36 +0000"
 id: "5904"
 old_path: /science/5904/five-facts-to-break-the-ice-on-v-day
-redirect_from:
+aliases:
  - /science/5904/five-facts-to-break-the-ice-on-v-day
 category: science
 

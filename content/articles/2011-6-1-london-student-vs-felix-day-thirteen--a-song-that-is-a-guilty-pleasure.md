@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-01 14:39:07 +0100"
 id: "1289"
 old_path: /music/1289/london-student-vs-felix-day-thirteen--a-song-that-is-a-guilty-pleasure
-redirect_from:
+aliases:
  - /music/1289/london-student-vs-felix-day-thirteen--a-song-that-is-a-guilty-pleasure
 category: music
 

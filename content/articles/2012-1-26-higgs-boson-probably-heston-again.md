@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-26 22:51:48 +0000"
 id: "2070"
 old_path: /comment/2070/higgs-boson-probably-heston-again
-redirect_from:
+aliases:
  - /comment/2070/higgs-boson-probably-heston-again
 category: comment
 

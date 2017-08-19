@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-17 14:40:14 +0000"
 id: "6785"
 old_path: /comment/6785/query-your-consumerism
-redirect_from:
+aliases:
  - /comment/6785/query-your-consumerism
 category: comment
 

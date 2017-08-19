@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 14:14:03 +0100"
 id: "7002"
 old_path: /comment/7002/why-im-voting-conservative-
-redirect_from:
+aliases:
  - /comment/7002/why-im-voting-conservative-
 category: comment
 

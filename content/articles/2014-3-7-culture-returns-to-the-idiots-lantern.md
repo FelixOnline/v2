@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 05:55:28 +0000"
 id: "4469"
 old_path: /tv/4469/culture-returns-to-the-idiots-lantern
-redirect_from:
+aliases:
  - /tv/4469/culture-returns-to-the-idiots-lantern
 category: tv
 

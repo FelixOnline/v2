@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:33:51 +0000"
 id: "846"
 old_path: /science/846/seahorse-race-to-equine-finish-line-
-redirect_from:
+aliases:
  - /science/846/seahorse-race-to-equine-finish-line-
 category: science
 

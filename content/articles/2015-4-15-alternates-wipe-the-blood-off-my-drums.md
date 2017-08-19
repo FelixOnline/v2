@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-15 22:43:58 +0100"
 id: "5465"
 old_path: /film/5465/alternates-wipe-the-blood-off-my-drums
-redirect_from:
+aliases:
  - /film/5465/alternates-wipe-the-blood-off-my-drums
 category: film
 

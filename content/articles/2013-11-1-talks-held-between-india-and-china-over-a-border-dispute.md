@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-01 09:33:33 +0000"
 id: "3971"
 old_path: /politics/3971/talks-held-between-india-and-china-over-a-border-dispute
-redirect_from:
+aliases:
  - /politics/3971/talks-held-between-india-and-china-over-a-border-dispute
 category: politics
 

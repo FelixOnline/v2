@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-22 23:57:17 +0000"
 id: "2952"
 old_path: /comment/2952/sexism-and-science
-redirect_from:
+aliases:
  - /comment/2952/sexism-and-science
 category: comment
 

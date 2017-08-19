@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-05 11:27:17 +0100"
 id: "2594"
 old_path: /books/2594/earthsea--a-truly-magical-series
-redirect_from:
+aliases:
  - /books/2594/earthsea--a-truly-magical-series
 category: books
 

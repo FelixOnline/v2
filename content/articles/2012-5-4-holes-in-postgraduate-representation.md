@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-04 00:17:13 +0100"
 id: "2419"
 old_path: /comment/2419/holes-in-postgraduate-representation
-redirect_from:
+aliases:
  - /comment/2419/holes-in-postgraduate-representation
 category: comment
 

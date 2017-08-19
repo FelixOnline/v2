@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 18:42:25 +0000"
 id: "4766"
 old_path: /comment/4766/crime-scene-memory-lane
-redirect_from:
+aliases:
  - /comment/4766/crime-scene-memory-lane
 category: comment
 

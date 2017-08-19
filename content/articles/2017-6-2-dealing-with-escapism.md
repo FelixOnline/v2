@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-06-02 13:22:54 +0100"
 id: "6994"
 old_path: /games/6994/dealing-with-escapism
-redirect_from:
+aliases:
  - /games/6994/dealing-with-escapism
 category: games
 

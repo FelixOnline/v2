@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 02:11:59 +0100"
 id: "4576"
 old_path: /comment/4576/something-important-and-totally-worth-reading-all-the-way-through
-redirect_from:
+aliases:
  - /comment/4576/something-important-and-totally-worth-reading-all-the-way-through
 category: comment
 

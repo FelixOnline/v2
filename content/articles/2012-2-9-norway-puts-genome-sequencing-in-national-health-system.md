@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-09 22:34:40 +0000"
 id: "2155"
 old_path: /science/2155/norway-puts-genome-sequencing-in-national-health-system
-redirect_from:
+aliases:
  - /science/2155/norway-puts-genome-sequencing-in-national-health-system
 category: science
 

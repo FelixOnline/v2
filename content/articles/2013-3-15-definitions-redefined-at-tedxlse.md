@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:36:03 +0000"
 id: "3490"
 old_path: /news/3490/definitions-redefined-at-tedxlse
-redirect_from:
+aliases:
  - /news/3490/definitions-redefined-at-tedxlse
 category: news
 

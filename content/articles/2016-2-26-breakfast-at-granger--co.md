@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 12:04:14 +0000"
 id: "5983"
 old_path: /food/5983/breakfast-at-granger--co
-redirect_from:
+aliases:
  - /food/5983/breakfast-at-granger--co
 category: food
 

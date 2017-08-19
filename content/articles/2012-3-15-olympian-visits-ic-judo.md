@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 22:17:30 +0000"
 id: "2396"
 old_path: /sport/2396/olympian-visits-ic-judo
-redirect_from:
+aliases:
  - /sport/2396/olympian-visits-ic-judo
 category: sport
 

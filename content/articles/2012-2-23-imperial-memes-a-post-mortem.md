@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:02:36 +0000"
 id: "2228"
 old_path: /comment/2228/imperial-memes-a-post-mortem
-redirect_from:
+aliases:
  - /comment/2228/imperial-memes-a-post-mortem
 category: comment
 

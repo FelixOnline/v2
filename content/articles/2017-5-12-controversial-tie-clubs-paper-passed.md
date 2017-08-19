@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-05-12 15:29:30 +0100"
 id: "6930"
 old_path: /news/6930/controversial-tie-clubs-paper-passed
-redirect_from:
+aliases:
  - /news/6930/controversial-tie-clubs-paper-passed
 category: news
 

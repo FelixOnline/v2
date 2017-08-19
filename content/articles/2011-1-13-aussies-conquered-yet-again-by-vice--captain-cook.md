@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-13 20:28:58 +0000"
 id: "581"
 old_path: /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
-redirect_from:
+aliases:
  - /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
 category: sport
 

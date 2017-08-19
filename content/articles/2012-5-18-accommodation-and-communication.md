@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-05-18 06:19:28 +0100"
 id: "2459"
 old_path: /comment/2459/accommodation-and-communication
-redirect_from:
+aliases:
  - /comment/2459/accommodation-and-communication
 category: comment
 

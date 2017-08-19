@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-06 22:12:45 +0000"
 id: "4812"
 old_path: /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
-redirect_from:
+aliases:
  - /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
 category: news
 

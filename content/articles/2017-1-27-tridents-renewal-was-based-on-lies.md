@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-27 16:24:12 +0000"
 id: "6689"
 old_path: /comment/6689/tridents-renewal-was-based-on-lies
-redirect_from:
+aliases:
  - /comment/6689/tridents-renewal-was-based-on-lies
 category: comment
 

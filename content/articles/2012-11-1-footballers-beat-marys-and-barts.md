@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 23:18:30 +0000"
 id: "2824"
 old_path: /sport/2824/footballers-beat-marys-and-barts
-redirect_from:
+aliases:
  - /sport/2824/footballers-beat-marys-and-barts
 category: sport
 

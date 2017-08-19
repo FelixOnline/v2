@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-10-14 19:21:52 +0100"
 id: "204"
 old_path: /news/204/theres-a-desperate-need-for-extra-money-for-universities-
-redirect_from:
+aliases:
  - /news/204/theres-a-desperate-need-for-extra-money-for-universities-
 category: news
 

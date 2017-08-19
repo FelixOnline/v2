@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-19 22:44:33 +0000"
 id: "5748"
 old_path: /comment/5748/this-is-everyones-fight
-redirect_from:
+aliases:
  - /comment/5748/this-is-everyones-fight
 category: comment
 

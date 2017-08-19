@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 08:47:49 +0100"
 id: "6172"
 old_path: /news/6172/thai-princess-visits-imperial
-redirect_from:
+aliases:
  - /news/6172/thai-princess-visits-imperial
 category: news
 

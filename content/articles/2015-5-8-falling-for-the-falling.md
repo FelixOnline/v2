@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-08 12:03:29 +0100"
 id: "5506"
 old_path: /film/5506/falling-for-the-falling
-redirect_from:
+aliases:
  - /film/5506/falling-for-the-falling
 category: film
 

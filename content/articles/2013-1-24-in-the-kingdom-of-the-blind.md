@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-24 22:55:50 +0000"
 id: "3168"
 old_path: /books/3168/in-the-kingdom-of-the-blind
-redirect_from:
+aliases:
  - /books/3168/in-the-kingdom-of-the-blind
 category: books
 

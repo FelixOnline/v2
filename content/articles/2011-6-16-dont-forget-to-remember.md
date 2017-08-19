@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-16 20:32:11 +0100"
 id: "1394"
 old_path: /comment/1394/dont-forget-to-remember
-redirect_from:
+aliases:
  - /comment/1394/dont-forget-to-remember
 category: comment
 

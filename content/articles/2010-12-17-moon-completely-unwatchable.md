@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-17 10:52:46 +0000"
 id: "558"
 old_path: /film/558/moon-completely-unwatchable
-redirect_from:
+aliases:
  - /film/558/moon-completely-unwatchable
 category: film
 

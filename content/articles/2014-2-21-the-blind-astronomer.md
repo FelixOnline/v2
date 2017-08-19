@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:14:11 +0000"
 id: "4420"
 old_path: /arts/4420/the-blind-astronomer
-redirect_from:
+aliases:
  - /arts/4420/the-blind-astronomer
 category: arts
 

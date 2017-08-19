@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-05-09 15:53:46 +0100"
 id: "4590"
 old_path: /sport/4590/discdoctors-reach-top-10
-redirect_from:
+aliases:
  - /sport/4590/discdoctors-reach-top-10
 category: sport
 

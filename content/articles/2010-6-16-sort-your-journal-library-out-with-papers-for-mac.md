@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-06-16 19:44:28 +0100"
 id: "146"
 old_path: /tech/146/sort-your-journal-library-out-with-papers-for-mac
-redirect_from:
+aliases:
  - /tech/146/sort-your-journal-library-out-with-papers-for-mac
 category: tech
 

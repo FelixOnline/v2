@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-12 22:51:17 +0000"
 id: "1993"
 old_path: /film/1993/noomi-lands-her-h-debut
-redirect_from:
+aliases:
  - /film/1993/noomi-lands-her-h-debut
 category: film
 

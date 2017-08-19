@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-28 00:03:32 +0100"
 id: "3766"
 old_path: /comment/3766/a-letter-from-the-editor
-redirect_from:
+aliases:
  - /comment/3766/a-letter-from-the-editor
 category: comment
 

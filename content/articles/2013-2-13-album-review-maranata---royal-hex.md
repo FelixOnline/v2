@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-13 13:15:46 +0000"
 id: "3299"
 old_path: /music/3299/album-review-maranata---royal-hex
-redirect_from:
+aliases:
  - /music/3299/album-review-maranata---royal-hex
 category: music
 

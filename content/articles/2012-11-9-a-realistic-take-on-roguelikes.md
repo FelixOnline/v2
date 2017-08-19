@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-09 16:42:00 +0000"
 id: "2881"
 old_path: /games/2881/a-realistic-take-on-roguelikes-
-redirect_from:
+aliases:
  - /games/2881/a-realistic-take-on-roguelikes-
 category: games
 

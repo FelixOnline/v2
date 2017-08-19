@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-21 20:15:38 +0100"
 id: "5549"
 old_path: /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
-redirect_from:
+aliases:
  - /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
 category: news
 

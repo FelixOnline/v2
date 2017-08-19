@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-02-10 16:43:25 +0000"
 id: "6775"
 old_path: /sport/6775/a-new-hope--first-victory-of-2017-
-redirect_from:
+aliases:
  - /sport/6775/a-new-hope--first-victory-of-2017-
 category: sport
 

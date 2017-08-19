@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-01-27 00:07:57 +0000"
 id: "2078"
 old_path: /news/2078/move-to-prevent-big-ben-tower-lean
-redirect_from:
+aliases:
  - /news/2078/move-to-prevent-big-ben-tower-lean
 category: news
 

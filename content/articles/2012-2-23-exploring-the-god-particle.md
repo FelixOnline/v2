@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:54:06 +0000"
 id: "2246"
 old_path: /science/2246/exploring-the-god-particle
-redirect_from:
+aliases:
  - /science/2246/exploring-the-god-particle
 category: science
 

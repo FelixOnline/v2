@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-16 23:43:38 +0000"
 id: "2223"
 old_path: /sport/2223/fencing-womens-2nds-see-off-kings
-redirect_from:
+aliases:
  - /sport/2223/fencing-womens-2nds-see-off-kings
 category: sport
 

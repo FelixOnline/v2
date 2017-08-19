@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-06 09:56:57 +0100"
 id: "6125"
 old_path: /science/6125/is-it-time-for-a-move-to-frozen-foods
-redirect_from:
+aliases:
  - /science/6125/is-it-time-for-a-move-to-frozen-foods
 category: science
 

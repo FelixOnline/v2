@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-17 20:19:20 +0000"
 id: "840"
 old_path: /tech/840/eu-ends-charger-nightmare
-redirect_from:
+aliases:
  - /tech/840/eu-ends-charger-nightmare
 category: tech
 

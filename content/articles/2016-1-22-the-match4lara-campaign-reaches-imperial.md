@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-01-22 12:48:27 +0000"
 id: "5831"
 old_path: /news/5831/the-match4lara-campaign-reaches-imperial
-redirect_from:
+aliases:
  - /news/5831/the-match4lara-campaign-reaches-imperial
 category: news
 

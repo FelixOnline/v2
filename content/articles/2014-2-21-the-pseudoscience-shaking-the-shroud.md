@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-21 03:11:45 +0000"
 id: "4419"
 old_path: /science/4419/the-pseudoscience-shaking-the-shroud
-redirect_from:
+aliases:
  - /science/4419/the-pseudoscience-shaking-the-shroud
 category: science
 

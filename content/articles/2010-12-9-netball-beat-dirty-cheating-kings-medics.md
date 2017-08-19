@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 20:15:32 +0000"
 id: "519"
 old_path: /sport/519/netball-beat-dirty-cheating-kings-medics
-redirect_from:
+aliases:
  - /sport/519/netball-beat-dirty-cheating-kings-medics
 category: sport
 

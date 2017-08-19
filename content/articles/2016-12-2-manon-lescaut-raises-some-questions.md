@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 14:59:00 +0000"
 id: "6535"
 old_path: /arts/6535/manon-lescaut-raises-some-questions
-redirect_from:
+aliases:
  - /arts/6535/manon-lescaut-raises-some-questions
 category: arts
 

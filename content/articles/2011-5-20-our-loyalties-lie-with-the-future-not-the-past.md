@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:56:44 +0100"
 id: "1233"
 old_path: /comment/1233/our-loyalties-lie-with-the-future-not-the-past
-redirect_from:
+aliases:
  - /comment/1233/our-loyalties-lie-with-the-future-not-the-past
 category: comment
 

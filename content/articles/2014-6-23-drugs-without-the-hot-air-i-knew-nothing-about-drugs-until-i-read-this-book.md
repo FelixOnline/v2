@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 14:54:59 +0100"
 id: "4715"
 old_path: /science/4715/drugs-without-the-hot-air-i-knew-nothing-about-drugs-until-i-read-this-book
-redirect_from:
+aliases:
  - /science/4715/drugs-without-the-hot-air-i-knew-nothing-about-drugs-until-i-read-this-book
 category: science
 

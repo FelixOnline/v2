@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-29 13:55:50 +0100"
 id: "3768"
 old_path: /comment/3768/let-the-world-hear-your-voice-sing
-redirect_from:
+aliases:
  - /comment/3768/let-the-world-hear-your-voice-sing
 category: comment
 

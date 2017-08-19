@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-01-16 12:57:36 +0000"
 id: "5091"
 old_path: /news/5091/it-was-a-funny-paper-written-by-funny-people
-redirect_from:
+aliases:
  - /news/5091/it-was-a-funny-paper-written-by-funny-people
 category: news
 

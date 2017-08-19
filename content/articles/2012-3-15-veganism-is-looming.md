@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-15 20:59:50 +0000"
 id: "2367"
 old_path: /food/2367/veganism-is-looming
-redirect_from:
+aliases:
  - /food/2367/veganism-is-looming
 category: food
 

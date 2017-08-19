@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-29 00:42:34 +0100"
 id: "5574"
 old_path: /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
-redirect_from:
+aliases:
  - /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
 category: news
 

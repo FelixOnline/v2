@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-28 12:16:22 +0100"
 id: "1448"
 old_path: /sport/1448/internal-tussle-sees-imperials-top-two-progress
-redirect_from:
+aliases:
  - /sport/1448/internal-tussle-sees-imperials-top-two-progress
 category: sport
 

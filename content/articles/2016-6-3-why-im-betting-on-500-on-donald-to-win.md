@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-06-03 08:58:14 +0100"
 id: "6229"
 old_path: /comment/6229/why-im-betting-on-500-on-donald-to-win
-redirect_from:
+aliases:
  - /comment/6229/why-im-betting-on-500-on-donald-to-win
 category: comment
 

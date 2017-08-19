@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:17:14 +0000"
 id: "4229"
 old_path: /news/4229/brown-report-published
-redirect_from:
+aliases:
  - /news/4229/brown-report-published
 category: news
 

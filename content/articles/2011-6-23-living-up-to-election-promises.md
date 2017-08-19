@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-06-23 20:54:33 +0100"
 id: "1429"
 old_path: /comment/1429/living-up-to-election-promises
-redirect_from:
+aliases:
  - /comment/1429/living-up-to-election-promises
 category: comment
 

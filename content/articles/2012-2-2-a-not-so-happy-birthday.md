@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-02 19:52:57 +0000"
 id: "2096"
 old_path: /biz/2096/a-not-so-happy-birthday
-redirect_from:
+aliases:
  - /biz/2096/a-not-so-happy-birthday
 category: business
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-21 10:26:55 +0100"
 id: "1589"
 old_path: /games/1589/gaming-in-reverse---final-fantasy-ix
-redirect_from:
+aliases:
  - /games/1589/gaming-in-reverse---final-fantasy-ix
 category: games
 

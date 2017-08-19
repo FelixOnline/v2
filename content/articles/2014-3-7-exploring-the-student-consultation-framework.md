@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 04:39:28 +0000"
 id: "4455"
 old_path: /features/4455/exploring-the-student-consultation-framework
-redirect_from:
+aliases:
  - /features/4455/exploring-the-student-consultation-framework
 category: features
 

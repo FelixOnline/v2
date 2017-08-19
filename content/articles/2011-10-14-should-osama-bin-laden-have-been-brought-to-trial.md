@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 00:26:54 +0100"
 id: "1537"
 old_path: /comment/1537/should-osama-bin-laden-have-been-brought-to-trial
-redirect_from:
+aliases:
  - /comment/1537/should-osama-bin-laden-have-been-brought-to-trial
 category: comment
 

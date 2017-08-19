@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:20:21 +0000"
 id: "713"
 old_path: /music/713/1902-fun-loving-funk
-redirect_from:
+aliases:
  - /music/713/1902-fun-loving-funk
 category: music
 

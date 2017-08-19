@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-07 21:59:34 +0000"
 id: "3435"
 old_path: /sport/3435/riders-rev-up-for-regionals-
-redirect_from:
+aliases:
  - /sport/3435/riders-rev-up-for-regionals-
 category: sport
 

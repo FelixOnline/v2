@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:39:05 +0000"
 id: "6395"
 old_path: /comment/6395/out-of-touch-union-staff-and-sabbs-necessitate-student-engagement
-redirect_from:
+aliases:
  - /comment/6395/out-of-touch-union-staff-and-sabbs-necessitate-student-engagement
 category: comment
 

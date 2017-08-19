@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-02-08 01:16:46 +0000"
 id: "3286"
 old_path: /news/3286/imperial-website-redesign-needs-your-input
-redirect_from:
+aliases:
  - /news/3286/imperial-website-redesign-needs-your-input
 category: news
 

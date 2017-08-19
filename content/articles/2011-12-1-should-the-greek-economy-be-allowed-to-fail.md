@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-01 21:37:50 +0000"
 id: "1898"
 old_path: /comment/1898/should-the-greek-economy-be-allowed-to-fail
-redirect_from:
+aliases:
  - /comment/1898/should-the-greek-economy-be-allowed-to-fail
 category: comment
 

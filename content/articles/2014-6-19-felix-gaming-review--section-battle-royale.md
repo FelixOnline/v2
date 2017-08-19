@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-19 18:50:29 +0100"
 id: "4697"
 old_path: /games/4697/felix-gaming-review--section-battle-royale
-redirect_from:
+aliases:
  - /games/4697/felix-gaming-review--section-battle-royale
 category: games
 

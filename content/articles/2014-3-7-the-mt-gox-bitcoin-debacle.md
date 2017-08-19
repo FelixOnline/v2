@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-03-07 06:03:25 +0000"
 id: "4473"
 old_path: /tech/4473/the-mt-gox-bitcoin-debacle
-redirect_from:
+aliases:
  - /tech/4473/the-mt-gox-bitcoin-debacle
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-24 10:07:49 +0000"
 id: "4294"
 old_path: /music/4294/i-break-horses-break-no-new-ground
-redirect_from:
+aliases:
  - /music/4294/i-break-horses-break-no-new-ground
 category: music
 

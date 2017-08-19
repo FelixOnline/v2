@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-21 21:16:20 +0000"
 id: "42"
 old_path: /news/42/game-set-match-imperial-college
-redirect_from:
+aliases:
  - /news/42/game-set-match-imperial-college
 category: news
 

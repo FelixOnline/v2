@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-15 02:15:09 +0000"
 id: "4058"
 old_path: /news/4058/cleaning-in-halls-confusion
-redirect_from:
+aliases:
  - /news/4058/cleaning-in-halls-confusion
 category: news
 

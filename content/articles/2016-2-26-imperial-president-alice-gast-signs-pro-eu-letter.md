@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-26 11:23:00 +0000"
 id: "5955"
 old_path: /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
-redirect_from:
+aliases:
  - /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
 category: news
 

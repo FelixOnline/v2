@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-07 19:03:49 +0000"
 id: "5201"
 old_path: /arts/5201/onegin--the-best-of-ballet
-redirect_from:
+aliases:
  - /arts/5201/onegin--the-best-of-ballet
 category: arts
 

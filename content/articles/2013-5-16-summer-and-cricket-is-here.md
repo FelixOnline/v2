@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-16 17:59:31 +0100"
 id: "3576"
 old_path: /sport/3576/summer-and-cricket-is-here
-redirect_from:
+aliases:
  - /sport/3576/summer-and-cricket-is-here
 category: sport
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-03 15:56:09 +0000"
 id: "6852"
 old_path: /food/6852/life-in-the-blogosphere-tablesituation
-redirect_from:
+aliases:
  - /food/6852/life-in-the-blogosphere-tablesituation
 category: food
 

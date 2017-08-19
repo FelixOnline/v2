@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-02 20:22:38 +0000"
 id: "469"
 old_path: /games/469/see-life-in-a-fresh-gamma-value
-redirect_from:
+aliases:
  - /games/469/see-life-in-a-fresh-gamma-value
 category: games
 

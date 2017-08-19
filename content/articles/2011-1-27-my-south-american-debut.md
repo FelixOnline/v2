@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 20:20:57 +0000"
 id: "689"
 old_path: /travel/689/my-south-american-debut-
-redirect_from:
+aliases:
  - /travel/689/my-south-american-debut-
 category: travel
 

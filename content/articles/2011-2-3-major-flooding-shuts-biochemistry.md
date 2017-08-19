@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-03 19:37:37 +0000"
 id: "719"
 old_path: /news/719/major-flooding-shuts-biochemistry
-redirect_from:
+aliases:
  - /news/719/major-flooding-shuts-biochemistry
 category: news
 

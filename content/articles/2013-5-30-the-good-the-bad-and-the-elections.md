@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-30 16:05:41 +0100"
 id: "3648"
 old_path: /comment/3648/the-good-the-bad-and-the-elections
-redirect_from:
+aliases:
  - /comment/3648/the-good-the-bad-and-the-elections
 category: comment
 

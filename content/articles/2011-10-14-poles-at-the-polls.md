@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-10-14 10:24:17 +0100"
 id: "1542"
 old_path: /politics/1542/poles-at-the-polls
-redirect_from:
+aliases:
  - /politics/1542/poles-at-the-polls
 category: politics
 

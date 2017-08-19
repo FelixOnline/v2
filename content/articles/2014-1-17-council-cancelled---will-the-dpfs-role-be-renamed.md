@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-01-17 03:03:58 +0000"
 id: "4223"
 old_path: /news/4223/council-cancelled---will-the-dpfs-role-be-renamed
-redirect_from:
+aliases:
  - /news/4223/council-cancelled---will-the-dpfs-role-be-renamed
 category: news
 

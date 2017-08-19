@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-01 20:49:09 +0000"
 id: "958"
 old_path: /biz/958/the-business-of-hair-styling
-redirect_from:
+aliases:
  - /biz/958/the-business-of-hair-styling
 category: business
 

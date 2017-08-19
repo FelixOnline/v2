@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-06-23 13:09:58 +0100"
 id: "4706"
 old_path: /comment/4706/so-long-and-thanks-for-all-the-physics
-redirect_from:
+aliases:
  - /comment/4706/so-long-and-thanks-for-all-the-physics
 category: comment
 

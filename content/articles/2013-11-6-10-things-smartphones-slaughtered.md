@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-06 17:20:55 +0000"
 id: "4017"
 old_path: /tech/4017/10-things-smartphones-slaughtered
-redirect_from:
+aliases:
  - /tech/4017/10-things-smartphones-slaughtered
 category: tech
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-06 11:34:29 +0000"
 id: "1903"
 old_path: /politics/1903/who-is-silvio
-redirect_from:
+aliases:
  - /politics/1903/who-is-silvio
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-14 22:35:36 +0100"
 id: "5523"
 old_path: /comment/5523/why-is-it-so-taboo-to-be-tory
-redirect_from:
+aliases:
  - /comment/5523/why-is-it-so-taboo-to-be-tory
 category: comment
 

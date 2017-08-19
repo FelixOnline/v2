@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-06-09 15:10:47 +0100"
 id: "5607"
 old_path: /travel/5607/travel-made-easy---the-world-of-apps
-redirect_from:
+aliases:
  - /travel/5607/travel-made-easy---the-world-of-apps
 category: travel
 

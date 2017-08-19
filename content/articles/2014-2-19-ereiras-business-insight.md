@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-02-19 17:27:02 +0000"
 id: "4404"
 old_path: /features/4404/ereiras-business-insight
-redirect_from:
+aliases:
  - /features/4404/ereiras-business-insight
 category: features
 

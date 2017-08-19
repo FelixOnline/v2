@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-05-15 12:52:12 +0100"
 id: "5538"
 old_path: /welfare/5538/support-for-the-supporters
-redirect_from:
+aliases:
  - /welfare/5538/support-for-the-supporters
 category: welfare
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-27 19:10:18 +0000"
 id: "663"
 old_path: /science/663/primeval-monumentally-stupid
-redirect_from:
+aliases:
  - /science/663/primeval-monumentally-stupid
 category: science
 

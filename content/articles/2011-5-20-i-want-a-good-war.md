@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-05-20 05:54:21 +0100"
 id: "1230"
 old_path: /comment/1230/i-want-a-good-war
-redirect_from:
+aliases:
  - /comment/1230/i-want-a-good-war
 category: comment
 

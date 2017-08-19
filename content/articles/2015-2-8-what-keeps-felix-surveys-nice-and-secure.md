@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-02-08 21:55:20 +0000"
 id: "5211"
 old_path: /news/5211/what-keeps-felix-surveys-nice-and-secure
-redirect_from:
+aliases:
  - /news/5211/what-keeps-felix-surveys-nice-and-secure
 category: news
 

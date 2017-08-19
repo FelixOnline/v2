@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-03-16 15:10:46 +0000"
 id: "122"
 old_path: /tech/122/the-touchscreen-patent-wars
-redirect_from:
+aliases:
  - /tech/122/the-touchscreen-patent-wars
 category: tech
 

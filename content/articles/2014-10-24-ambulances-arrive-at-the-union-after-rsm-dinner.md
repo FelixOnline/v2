@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-10-24 12:52:53 +0100"
 id: "4748"
 old_path: /news/4748/ambulances-arrive-at-the-union-after-rsm-dinner
-redirect_from:
+aliases:
  - /news/4748/ambulances-arrive-at-the-union-after-rsm-dinner
 category: news
 

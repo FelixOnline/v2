@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-01-13 14:02:52 +0000"
 id: "6637"
 old_path: /comment/6637/the-nhs-is-in-a-humanitarian-crisis
-redirect_from:
+aliases:
  - /comment/6637/the-nhs-is-in-a-humanitarian-crisis
 category: comment
 

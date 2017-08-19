@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-01-20 20:49:56 +0000"
 id: "633"
 old_path: /news/633/feasibility-of-longer-day-called-into-question-
-redirect_from:
+aliases:
  - /news/633/feasibility-of-longer-day-called-into-question-
 category: news
 

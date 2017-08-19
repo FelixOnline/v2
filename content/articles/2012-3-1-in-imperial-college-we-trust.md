@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-03-01 22:55:42 +0000"
 id: "2295"
 old_path: /comment/2295/in-imperial-college-we-trust
-redirect_from:
+aliases:
  - /comment/2295/in-imperial-college-we-trust
 category: comment
 

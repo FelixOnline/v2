@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-02-23 20:40:58 +0000"
 id: "2240"
 old_path: /food/2240/get-creative-in-the-kitchen-after-lectures
-redirect_from:
+aliases:
  - /food/2240/get-creative-in-the-kitchen-after-lectures
 category: food
 

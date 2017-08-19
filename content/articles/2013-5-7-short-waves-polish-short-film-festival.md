@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-05-07 19:30:10 +0100"
 id: "3542"
 old_path: /film/3542/short-waves-polish-short-film-festival
-redirect_from:
+aliases:
  - /film/3542/short-waves-polish-short-film-festival
 category: film
 

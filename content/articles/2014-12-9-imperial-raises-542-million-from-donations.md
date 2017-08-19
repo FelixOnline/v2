@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-12-09 13:47:15 +0000"
 id: "5017"
 old_path: /news/5017/imperial-raises-542-million-from-donations
-redirect_from:
+aliases:
  - /news/5017/imperial-raises-542-million-from-donations
 category: news
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-20 14:05:31 +0000"
 id: "5767"
 old_path: /film/5767/the-lady-doth-protest-too-much
-redirect_from:
+aliases:
  - /film/5767/the-lady-doth-protest-too-much
 category: film
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-13 01:17:22 +0000"
 id: "5390"
 old_path: /news/5390/union-council-reverses-decision-on-campaign-against-closure-of-weeks-hall
-redirect_from:
+aliases:
  - /news/5390/union-council-reverses-decision-on-campaign-against-closure-of-weeks-hall
 category: news
 

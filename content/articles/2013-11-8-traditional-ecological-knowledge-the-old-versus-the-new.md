@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-11-08 09:41:25 +0000"
 id: "4030"
 old_path: /science/4030/traditional-ecological-knowledge-the-old-versus-the-new
-redirect_from:
+aliases:
  - /science/4030/traditional-ecological-knowledge-the-old-versus-the-new
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-24 21:20:54 +0000"
 id: "1819"
 old_path: /tv/1819/so-bad-its-good--waterloo-road
-redirect_from:
+aliases:
  - /tv/1819/so-bad-its-good--waterloo-road
 category: tv
 

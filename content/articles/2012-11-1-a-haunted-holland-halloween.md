@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:57:35 +0000"
 id: "2802"
 old_path: /games/2802/a-haunted-holland-halloween
-redirect_from:
+aliases:
  - /games/2802/a-haunted-holland-halloween
 category: games
 

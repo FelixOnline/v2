@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-10 22:16:30 +0000"
 id: "1745"
 old_path: /sport/1745/imperial-immortals-take-the-sting-out-of-surrey
-redirect_from:
+aliases:
  - /sport/1745/imperial-immortals-take-the-sting-out-of-surrey
 category: sport
 

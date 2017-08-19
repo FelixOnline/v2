@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-06 16:49:11 +0000"
 id: "5359"
 old_path: /politics/5359/why-dont-more-young-people-vote
-redirect_from:
+aliases:
  - /politics/5359/why-dont-more-young-people-vote
 category: politics
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-02 15:03:09 +0000"
 id: "6538"
 old_path: /arts/6538/great-expectations--a-worthy-adaptation
-redirect_from:
+aliases:
  - /arts/6538/great-expectations--a-worthy-adaptation
 category: arts
 

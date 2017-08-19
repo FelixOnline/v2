@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-03 19:36:40 +0000"
 id: "1653"
 old_path: /news/1653/council-talk-balls-and-bars
-redirect_from:
+aliases:
  - /news/1653/council-talk-balls-and-bars
 category: news
 

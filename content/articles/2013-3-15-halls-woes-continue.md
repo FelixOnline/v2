@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 00:37:28 +0000"
 id: "3463"
 old_path: /news/3463/halls-woes-continue
-redirect_from:
+aliases:
  - /news/3463/halls-woes-continue
 category: news
 

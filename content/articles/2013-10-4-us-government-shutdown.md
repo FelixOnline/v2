@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-10-04 00:39:38 +0100"
 id: "3801"
 old_path: /politics/3801/us-government-shutdown
-redirect_from:
+aliases:
  - /politics/3801/us-government-shutdown
 category: politics
 

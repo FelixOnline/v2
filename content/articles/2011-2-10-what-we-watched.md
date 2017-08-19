@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-02-10 20:12:39 +0000"
 id: "767"
 old_path: /tv/767/what-we-watched-
-redirect_from:
+aliases:
  - /tv/767/what-we-watched-
 category: tv
 

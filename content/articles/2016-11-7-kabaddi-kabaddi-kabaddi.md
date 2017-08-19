@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-07 13:15:17 +0000"
 id: "6404"
 old_path: /sport/6404/kabaddi-kabaddi-kabaddi
-redirect_from:
+aliases:
  - /sport/6404/kabaddi-kabaddi-kabaddi
 category: sport
 

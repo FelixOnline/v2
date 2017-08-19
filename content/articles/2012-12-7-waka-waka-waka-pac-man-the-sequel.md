@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 01:29:26 +0000"
 id: "3036"
 old_path: /science/3036/waka-waka-waka-pac-man-the-sequel
-redirect_from:
+aliases:
  - /science/3036/waka-waka-waka-pac-man-the-sequel
 category: science
 

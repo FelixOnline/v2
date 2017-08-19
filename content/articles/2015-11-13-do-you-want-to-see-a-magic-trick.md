@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-13 14:53:05 +0000"
 id: "5735"
 old_path: /cands/5735/do-you-want-to-see-a-magic-trick
-redirect_from:
+aliases:
  - /cands/5735/do-you-want-to-see-a-magic-trick
 category: clubs-and-socs
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-03-09 19:06:00 +0000"
 id: "5375"
 old_path: /comment/5375/angry-geek-returns-one-last-time
-redirect_from:
+aliases:
  - /comment/5375/angry-geek-returns-one-last-time
 category: comment
 

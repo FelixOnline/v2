@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-11 20:52:21 +0000"
 id: "346"
 old_path: /sport/346/imperial-fencers-return-with-medals-of-two-metals
-redirect_from:
+aliases:
  - /sport/346/imperial-fencers-return-with-medals-of-two-metals
 category: sport
 

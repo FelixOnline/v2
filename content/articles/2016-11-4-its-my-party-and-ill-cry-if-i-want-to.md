@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-11-04 14:23:30 +0000"
 id: "6391"
 old_path: /comment/6391/its-my-party-and-ill-cry-if-i-want-to
-redirect_from:
+aliases:
  - /comment/6391/its-my-party-and-ill-cry-if-i-want-to
 category: comment
 

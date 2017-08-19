@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-12-09 21:58:57 +0000"
 id: "544"
 old_path: /news/544/i-really-dont-know-if-im-going-to-stay-at-imperial-now
-redirect_from:
+aliases:
  - /news/544/i-really-dont-know-if-im-going-to-stay-at-imperial-now
 category: news
 

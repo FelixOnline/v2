@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-11-01 22:13:55 +0000"
 id: "2779"
 old_path: /news/2779/150-million-partnership-for-imperial
-redirect_from:
+aliases:
  - /news/2779/150-million-partnership-for-imperial
 category: news
 

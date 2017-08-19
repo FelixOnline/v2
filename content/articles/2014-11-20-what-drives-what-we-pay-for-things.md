@@ -6,7 +6,7 @@ subtitle: >
 date: "2014-11-20 20:56:39 +0000"
 id: "4912"
 old_path: /comment/4912/what-drives-what-we-pay-for-things
-redirect_from:
+aliases:
  - /comment/4912/what-drives-what-we-pay-for-things
 category: comment
 

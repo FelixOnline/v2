@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-12-08 20:54:25 +0000"
 id: "1924"
 old_path: /science/1924/lasers-may-hold-key-to-cryptography
-redirect_from:
+aliases:
  - /science/1924/lasers-may-hold-key-to-cryptography
 category: science
 

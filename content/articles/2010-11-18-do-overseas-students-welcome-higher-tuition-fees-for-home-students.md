@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-11-18 21:41:11 +0000"
 id: "407"
 old_path: /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
-redirect_from:
+aliases:
  - /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
 category: news
 

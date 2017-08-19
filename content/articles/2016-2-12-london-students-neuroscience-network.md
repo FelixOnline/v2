@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-02-12 11:59:50 +0000"
 id: "5917"
 old_path: /cands/5917/london-students-neuroscience-network-
-redirect_from:
+aliases:
  - /cands/5917/london-students-neuroscience-network-
 category: clubs-and-socs
 

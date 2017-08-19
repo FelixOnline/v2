@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-09-27 23:17:01 +0100"
 id: "3762"
 old_path: /features/3762/uncle-rorys-freshers-week-tips
-redirect_from:
+aliases:
  - /features/3762/uncle-rorys-freshers-week-tips
 category: features
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-12-07 02:34:35 +0000"
 id: "3050"
 old_path: /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
-redirect_from:
+aliases:
  - /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
 category: comment
 

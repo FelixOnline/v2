@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-05-20 09:22:15 +0100"
 id: "6191"
 old_path: /food/6191/go-nuts-for-doughnuts
-redirect_from:
+aliases:
  - /food/6191/go-nuts-for-doughnuts
 category: food
 

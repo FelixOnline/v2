@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-11-17 20:29:06 +0000"
 id: "1760"
 old_path: /science/1760/china-is-living-proof-of-fishers-principle
-redirect_from:
+aliases:
  - /science/1760/china-is-living-proof-of-fishers-principle
 category: science
 

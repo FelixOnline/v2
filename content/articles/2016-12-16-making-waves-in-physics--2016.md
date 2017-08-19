@@ -6,7 +6,7 @@ subtitle: >
 date: "2016-12-16 14:38:23 +0000"
 id: "6603"
 old_path: /science/6603/making-waves-in-physics--2016
-redirect_from:
+aliases:
  - /science/6603/making-waves-in-physics--2016
 category: science
 

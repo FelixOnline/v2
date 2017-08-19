@@ -6,7 +6,7 @@ subtitle: >
 date: "2010-01-22 13:49:10 +0000"
 id: "50"
 old_path: /comment/50/the-glamour-of-american-democracy
-redirect_from:
+aliases:
  - /comment/50/the-glamour-of-american-democracy
 category: comment
 

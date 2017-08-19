@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-11-29 17:00:32 +0000"
 id: "5786"
 old_path: /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
-redirect_from:
+aliases:
  - /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
 category: film
 

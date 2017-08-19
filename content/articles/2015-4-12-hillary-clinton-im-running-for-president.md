@@ -6,7 +6,7 @@ subtitle: >
 date: "2015-04-12 22:32:08 +0100"
 id: "5464"
 old_path: /news/5464/hillary-clinton-im-running-for-president
-redirect_from:
+aliases:
  - /news/5464/hillary-clinton-im-running-for-president
 category: news
 

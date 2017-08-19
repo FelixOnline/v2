@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-01-31 23:16:30 +0000"
 id: "3206"
 old_path: /news/3206/lgbt-history-month
-redirect_from:
+aliases:
  - /news/3206/lgbt-history-month
 category: news
 

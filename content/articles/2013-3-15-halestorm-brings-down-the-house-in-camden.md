@@ -6,7 +6,7 @@ subtitle: >
 date: "2013-03-15 02:50:23 +0000"
 id: "3492"
 old_path: /music/3492/halestorm-brings-down-the-house-in-camden
-redirect_from:
+aliases:
  - /music/3492/halestorm-brings-down-the-house-in-camden
 category: music
 

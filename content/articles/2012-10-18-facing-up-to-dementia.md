@@ -6,7 +6,7 @@ subtitle: >
 date: "2012-10-18 21:17:47 +0100"
 id: "2698"
 old_path: /science/2698/facing-up-to-dementia
-redirect_from:
+aliases:
  - /science/2698/facing-up-to-dementia
 category: science
 

@@ -6,7 +6,7 @@ subtitle: >
 date: "2011-03-10 19:40:20 +0000"
 id: "1055"
 old_path: /news/1055/9000-fees-conditions-revealed
-redirect_from:
+aliases:
  - /news/1055/9000-fees-conditions-revealed
 category: news
 

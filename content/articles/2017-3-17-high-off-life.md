@@ -6,7 +6,7 @@ subtitle: >
 date: "2017-03-17 14:55:16 +0000"
 id: "6902"
 old_path: /science/6902/high-off-life
-redirect_from:
+aliases:
  - /science/6902/high-off-life
 category: science
 
