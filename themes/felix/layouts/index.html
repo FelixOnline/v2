@@ -1,28 +1,31 @@
 {{ partial "header.html" . }}
 
-  <section>
-    <ul id="all-taxonomies">
-      {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-        <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
-          <ul>
-            {{ range $key, $value := $taxonomy }}
-              <li>
-                <a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}/{{ $key }}">
-                  {{ $key }}
-                </a>
-              </li>
-              <ul>
-              {{ range $value.Pages }}
-                <li>
-                  <a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a>
-                </li>
-              {{ end }}
-              </ul>
-            {{ end }}
-          </ul>
-        </li>
-      {{ end }}
-    </ul>
-  </section>
+<div id="headlines">
+  <h1>Headlines</h1>
+
+  {{ range first 4 (where .Pages ".Params.headline" true) }}
+    <li>
+      <a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a>
+    </li>
+  {{ end }}
+</div>
+
+<div id="sections">
+  <h1>Sections</h1>
+
+  {{ range $name, $pages := .Site.Taxonomies.categories }}
+    <div>
+        <a href="/categories/{{ $name }}">
+          {{ $name }}
+        </a>
+        {{ range first 4 (where $pages.Pages ".Params.featured" true) }}
+          <li>
+            <a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a>
+          </li>
+        {{ end }}
+        </ul>
+    </div>
+  {{ end }}
+</div>
 
 {{ partial "footer.html" . }}
