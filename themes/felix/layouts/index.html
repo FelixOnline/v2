@@ -6,31 +6,63 @@
   <a href="/tags">Tags</a>
 </p>
 
-<div id="headlines">
-  <h1>Headlines</h1>
+<div class="headline-section">
+  {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
-  {{ range first 4 (where .Pages ".Params.headline" true) }}
-    <li>
-      <a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a>
-    </li>
-  {{ end }}
+  {{ $firstHeadline := index $headlinePosts 0 }}
+  <div class="main-image" style="background-image: url({{ $firstHeadline.Params.image_path }})"></div>
+
+  <div class="headline-summaries">
+    {{ range first 3 $headlinePosts }}
+      <div class="summary">
+        <div class="section">
+          {{ if (ne (index .Params.categories 0) nil) }}
+            {{ index .Params.categories 0 }}
+          {{ else }}
+            In the Current Issue
+          {{ end }}
+
+        </div>
+         <div class="title">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <span class="author">By Fred Fyles</span>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  <hr class="style-circle"></hr>
 </div>
 
-<div id="sections">
-  <h1>Sections</h1>
-
+<div class="sections">
   {{ range $name, $pages := .Site.Taxonomies.categories }}
-    <div>
-        <a href="/categories/{{ $name }}">
-          {{ $name }}
-        </a>
+    <div class="section">
+      <h1>
+        <a href="/section/{{ $name }}.html">{{ $name }}</a>
+      </h1>
+
+      <div class="post-block-container">
         {{ range first 4 (where $pages.Pages ".Params.featured" true) }}
-          <li>
-            <a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a>
-          </li>
+          <a href="{{ .RelPermalink }}">
+            <div class="post-block">
+              <div class="image" style="background-image: url({{ .Params.image_path }})"></div>
+              <div class="info">
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+
+                <div class="subtitle">
+                  {{ .Params.subtitle }}
+                </div>
+                <div class="byline">
+                  {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
+                  <span class="author">{{ $authorPage.Title }}</span>
+                  <span class="date">{{ .Date.Format "Monday Jan 2" }}</span>
+                </div>
+              </div>
+            </div>
+          </a>
         {{ end }}
-        </ul>
+      </div>
     </div>
+    <hr class="style-circle"></hr>
   {{ end }}
 </div>
 
