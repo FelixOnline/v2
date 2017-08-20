@@ -15,6 +15,7 @@ def format_username(username)
 end
 
 client = Mysql2::Client.new(host: host, username: username, password: password, database: database)
+all_referenced_images = []
 
 `rm -rf content/authors/*`
 `rm -rf content/articles/*`
@@ -42,7 +43,9 @@ client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|
   md = %w(---)
   md << "id: \"#{r["id"]}\""
   md << "title: #{r["name"]}"
-  md << "image: \"http://felixonline.co.uk/#{r["image"]}\""
+  image = "http://felixonline.co.uk/#{r["image"]}"
+  all_referenced_images << image
+  md << "image: \"#{image}\""
   md << "twitter: \"#{r["twitter"]}\""
   md << "facebook: \"#{r["facebook"]}\""
   md << "website_url: \"#{r["website"]}\""
@@ -115,9 +118,12 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
 
-  image_url = "http://felixonline.co.uk/#{r["image_path"]}"
-  md << "image: \"#{image_url}\""
-  md << "image_caption: \"#{r["image_caption"].gsub('"', '')}\"" if r["image_caption"].to_s.length > 0
+  unless r["image_path"].nil? || r["image_path"] == ""
+    image_url = "http://felixonline.co.uk/#{r["image_path"]}"
+    all_referenced_images << image_url
+    md << "image: \"#{image_url}\""
+    md << "image_caption: \"#{r["image_caption"].gsub('"', '')}\"" if r["image_caption"].to_s.length > 0
+  end
 
   if r["deleted"].nil? || r["deleted"].to_s.include?("1")
     # puts "Marking as Draft: #{r["article_id"]} #{r["article_title"]}"
@@ -185,6 +191,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
       caption = section["data"]["caption"].gsub('"', "")
       attribution = section["data"]["attribution"]
       url = images[id]
+      all_referenced_images << url
 
       md << "\n{{< figure src=\"#{url}\" title=\"#{caption}\" caption=\"#{caption}\" attr=\"#{attribution}\" >}}\n"
     elsif section["type"] == "video"
@@ -213,3 +220,5 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
 
   File.write("content/articles/#{filename}.md", contents)
 end
+
+File.write("content/all_referenced_images.txt", all_referenced_images.uniq.sort.join("\n")+"\n")
