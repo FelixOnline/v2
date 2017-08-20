@@ -23,7 +23,7 @@ highlights:
  - photos
 ---
 
-__T__he Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month. The content is purposefully chosen to be very different from what one might expect to be displayed in the V&A – this most recent Friday Late, on the 31st of January, was curated by Boiler Room, a somewhat hard to describe entity.
+The Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month. The content is purposefully chosen to be very different from what one might expect to be displayed in the V&A – this most recent Friday Late, on the 31st of January, was curated by Boiler Room, a somewhat hard to describe entity.
 
 Boiler Room, the brainchild of Blaise Bellville, started life as a guest-list only club night in Dalston that showcased the best of London’s underground electronic music scene by streaming a live TV feed online for every performance. It grew in importance and repute until it became the big name in the scene, and now has offices in New York, Berlin and Los Angeles. Importantly, it has branched out from streaming performances, and now takes part in all kinds of cultural music based forums, including Friday Late.
 

@@ -45,4 +45,4 @@ So what’s next for Students UpStarts? Right now the current batch of companies
 
 Christian and Matthew are currently in the process of getting office space for the summer startups around Shoreditch and the Silicon Roundabout, home to the new Google offices (and more hipsters than you have ever seen before!). If this sounds like something you want to be a part of, applications opened this week and you can apply online at [www.studentupstarts.com](http://www.studentupstarts.com). The brilliant part is, your company can still be at the idea stage. So what’s your excuse to not apply?
 
-_You can stay up to date with Student UpStarts on Facebook, on Twitter __[@studentupstarts](http://twitter.com/#!/studentupstarts)__, or by dropping an email to __[contact@studentupstart.com](mailto:contact@studentupstart.com)__._
+_You can stay up to date with Student UpStarts on Facebook, on Twitter [@studentupstarts](http://twitter.com/#!/studentupstarts), or by dropping an email to [contact@studentupstart.com](mailto:contact@studentupstart.com)._

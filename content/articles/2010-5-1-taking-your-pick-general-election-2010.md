@@ -29,4 +29,4 @@ Moving away from a generic comparison of the three main parties' manifesto pledg
 
 Click below to view the Felix General Election 2010 Special Edition:
 
-__[Felix General Election 2010 Special Edition pdf](http://issuu.com/feliximperial/docs/felixelectionfeature)__
+[Felix General Election 2010 Special Edition pdf](http://issuu.com/feliximperial/docs/felixelectionfeature)

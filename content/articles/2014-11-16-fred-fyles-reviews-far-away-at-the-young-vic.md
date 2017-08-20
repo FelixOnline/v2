@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-_Far Away_ by British writer Caryl Churchill makes its return to London in this production at the __Young Vic__. Beginning with a young girl who sneaks out of bed and ends a mere 40 minutes later with a world in turmoil, in between we have mediations on power, corruption, and danger, delivered at a breakneck speed by a confident cast of four, who traverse the simple set with a deft skill, making every moment look effortless.
+_Far Away_ by British writer Caryl Churchill makes its return to London in this production at the Young Vic. Beginning with a young girl who sneaks out of bed and ends a mere 40 minutes later with a world in turmoil, in between we have mediations on power, corruption, and danger, delivered at a breakneck speed by a confident cast of four, who traverse the simple set with a deft skill, making every moment look effortless.
 
 Churchill is a difficult writer to take on, with her work ranging from the surreal – _Top Girls_ begins with a dream sequence in which the protagonist meets famous women from history – to the impenetrable – her comedy about the stock market, _Serious Money_, is written in rhyming couplets. However, director Katie Hewitt takes a steady hand to the script, crafting it into a sharp-elbowed work that butts its way into your consciousness. It is little surprise that Hewitt obtained the funds to stage the performance by winning the JMK Award 2014, given to promising young theatre directors.
 

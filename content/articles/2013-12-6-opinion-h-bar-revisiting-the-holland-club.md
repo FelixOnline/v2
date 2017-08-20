@@ -42,4 +42,4 @@ Former Holland Club users will no doubt be divided between those able to accept 
 
 Sadly , the h-bar will above all remain a monument to the college’s contempt for its staff.
 
-__Save The Holland Club, 2013__
+Save The Holland Club, 2013

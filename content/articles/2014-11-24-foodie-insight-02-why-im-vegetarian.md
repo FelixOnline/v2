@@ -33,7 +33,7 @@ I haven’t always been vegetarian, mind you. In fact, it was only when I came t
 
 So, here are the reasons why I am vegetarian:
 
-__It’s super healthy and you can still get plenty of protein______
+It’s super healthy and you can still get plenty of protein
 
 So long as you are getting all of your vital vitamins and are eating a balanced diet, being vegetarian is objectively better for you, reducing your risk of cardiovascular disease and some cancers.
 
@@ -43,21 +43,21 @@ So long as you are getting all of your vital vitamins and are eating a balanced 
 
 So vegetarian food is not all doom and gloom, there is actually a universe of food out there ready and waiting to be explored.
 
-__It is easier to prepare and cook __
+It is easier to prepare and cook
 
 Whereas with meat, you are constantly worrying whether you have properly cleaned your chopping board or thoroughly cooked the meat, it doesn’t really matter with vegetables. It’s perfect if you’re quite a lazy cook and just want something to fill you up as it doesn’t matter if you over or undercook it, just throw it in a wok for a couple of minutes and you’ve got a delicious meal.
 
-__It’s cheap, perfect for students__
+It’s cheap, perfect for students
 
 Unless you’re buying some Lidl assorted meats, going vegetarian is a lot cheaper. This is very noticeable over the course of the year and as long as you’re buying in season and not going for organic, you will have plenty of money left over for going out to fancy restaurants, it’s great!
 
-__By not allowing yourself to eat meat, you develop real mental strength______
+By not allowing yourself to eat meat, you develop real mental strength
 
 This is a great way to test your resolve and develop a skill that is transferrable to all aspects of your life: mind over matter. If every time you are about to buy meat, you stop yourself, you will soon no longer need meat to be able to function. Just like any addiction, it requires strength of character to overcome.
 
 Now onto some of the more serious reasons, which, for me, form the real backbone of my switch to vegetarianism.
 
-__On the grounds of sustainability__
+On the grounds of sustainability
 
 Here, I look at the impact meat consumption has on the environment. First of all, massive deforestation is taking place across the world to create space for cattle farms, decimating these incredibly biodiverse environments as a result. This is having an important and lasting effect on the world’s ecosystems and by removing demand for these ranches, you could directly lead to more forests being saved.
 
@@ -65,7 +65,7 @@ Next, in terms of energy conservation between trophic levels (remember all that 
 
 “But what effect could I have as an individual?” It is about the principle of acting ethically and dedicating yourself to an important cause. If we took this mentality, we would never be able to achieve anything!
 
-__The morality of animal husbandry__
+The morality of animal husbandry
 
 This is a hotly contested topic, with both the vegetarians and carnivores being deeply passionate about it. For me, it does form the basis of my choice to become vegetarian but I do hope I have offered up enough reasons to make the switch so that, even if you don’t agree with me here, you would still consider it.
 
@@ -77,7 +77,7 @@ I feel issues of animal welfare, both in their rearing and slaughtering, are les
 
 In fact, our whole meat industry is designed around trying to remove you from the reality of this side of meat production. We’ve all seen the videos of battery-farmed chickens; yet, when we go to the supermarkets and buy our beautifully packaged chicken breasts, it is the last thing on our minds. I’m sure fewer people would want to eat meat if the packs came with cigarette-style warnings.
 
-__But I’m still fallible!__
+But I’m still fallible!
 
 Now, I am not perfect; becoming vegetarian is a gradual process. Especially when I go abroad and there is no concept of vegetarianism, it is particularly hard. How am I meant to experience Singapore if I never try their fish head curry? It is so fundamental to their culture that I would be missing out if I didn’t!
 

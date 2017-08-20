@@ -30,7 +30,7 @@ highlights:
 
 Do you have the same recurring New Year’s resolutions? I’ve heard them all before: stop drinking so much, do a problem sheet, get organised, text/call mum more, text/call gran more, stop texting/calling people so much and see family/friends in person, and personally, stp speakin in txt. The most common resolution of all is to tame the bulge. Do you love food and hate scales? If you want to slash the caloricious content of your food but not the scrumptiousness then throw out your old ‘thou shalt not eat’ New Year’s resolution – armed with this week’s helpful issue you’ll see that you can still enjoy your breakfast, lunch and dinner guilt-free.
 
-__Very Berry Breakfast Pancakes __
+Very Berry Breakfast Pancakes
 
 Pancakes are great because they are really quick to make and great fun. Here’s a recipe for a great healthy and filling start to the day
 
@@ -48,7 +48,7 @@ Preparation
 
 Sift the flour into a mixing bowl. Add the egg and whisk it in. Slowly add the milk and water mixture and whisk until they are combined. Mixture too liquidy? Add a little more flour if necessary. Put your (very) non-stick frying pan on a high heat and add about half a teaspoon of oil/ butter – a little goes a long way. Add a little ladleful of mixture to the pan and spread it over the whole pan. Wait a couple of minutes and flip! Remember that the first pancake is always rubbish – Delia calls it a ‘test’ pancake, so if it’s crap, it’s okay because Delia says so. Just keep making pancakes until all the mixture is used up. Now fill your pancakes with the honey, yoghurt and the fruit. Roll them up and add some more yoghurt and fruit to the top.
 
-__A Light Lunch of Pea Soup __
+A Light Lunch of Pea Soup
 
 This recipe can be made in a matter of minutes and it always tastes great – all you need is a blender. Why add other vegtables to the soup, like carrots or peppers and add that to the soup?
 

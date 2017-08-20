@@ -43,7 +43,7 @@ My acquaintance is not the only one disappointed by the apparent variety of choi
 
 This article asks why the service doesn’t do this already, and indeed, why the careers services at other universities behave in very similar ways.
 
-__A case study: Imperial__
+A case study: Imperial
 
 Imagine, for a few minutes, that you are a company. A consultancy firm, say, that offers integrated management and workplace solutions. You follow? Me neither. But never mind, let’s soldier on. You want to recruit some Imperial students: here’s a list of things you can do.
 
@@ -83,7 +83,7 @@ Another student said, “the only experience I’ve had is getting them to look 
 
 The problem, then, is not the Careers Service itself, but rather how it is perceived by students who experience sponsored aspects (careers fairs, targeted emails) instead of non-sponsored ones (the careers library, direct advice).And, of course, how this perception affects their own lives.
 
-__The Problem__
+The Problem
 
 It is so easy to get caught up in the “banking is the only option” frame of mind, especially when repeated emails, adverts and careers fair stalls all push this perspective.
 
@@ -109,7 +109,7 @@ Although it is not the case, it looks as though non-corporate job opportunities 
 
 An inevitable consequence, perhaps, of the fact that the amount of disposable income a company has determines how much we hear about them.
 
-__What it’s like elsewhere__
+What it’s like elsewhere
 
 Cambridge is much the same as Imperial, with a “Supporters Club” consisting of representatives of Banking, Finance, Technology, Law and Consulting, as well as slightly larger variety of career events, including Journalism and Charity fairs.
 
@@ -125,7 +125,7 @@ On the upside, membership of this Recruiters’ Group is free to all charities, 
 
 It seems, then, that Imperial’s Careers Service is fairly typical of the services at similar universities, though (thankfully) not quite like Oxford’s.
 
-__How to fix it__
+How to fix it
 
 Back at Imperial: the Careers Service, of course, is not to blame for this situation: they genuinely do the best they can for students with what they are given. The problem is, I think, a lack of funding from the University.
 

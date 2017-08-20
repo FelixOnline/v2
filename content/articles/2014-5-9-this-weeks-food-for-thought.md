@@ -30,9 +30,9 @@ A few issues ago we reported that some Michelin-star chefs hated food porn that 
 
 Personally I think it is pretty neat, someone just needs to mass produce these and make a fortune!
 
-__Some things are just __
+Some things are just
 
-__not meant to be…__
+not meant to be…
 
 I went to visit the family over the bank holiday weekend and my auntie got me a pack of chocolate wasabi peas. It is part of the Marks & Spencers _Summer of Flavour_ range, other things include fruit jellies, caramel sweets and even ‘Mad Frogs’, but nothing as adventurous as the peas. My first impression was “meh... that sounds weird”, and my feelings sustained when I was biting through my first one.
 

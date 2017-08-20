@@ -20,17 +20,17 @@ authors:
 highlights:
 ---
 
-__The Railway Man__
+The Railway Man
 
-__Director:__ Jonathan Teplitzky
+Director: Jonathan Teplitzky
 
-__Writers: __Frank Cottrell Boyce, Andy Paterson
+Writers: Frank Cottrell Boyce, Andy Paterson
 
-__Starring: __Colin Firth, Nicole Kidman, Stellan Skarsgard
+Starring: Colin Firth, Nicole Kidman, Stellan Skarsgard
 
-__Runtime: __116 minutes
+Runtime: 116 minutes
 
-__Certification: __15
+Certification: 15
 
 It’s an unbelievably touching story of human survival, love, and forgiveness. Young Eric Lomax (Jeremy Irvine), a prisoner of war when the allies surrendered to the Japanese in Singapore during the Second World War, goes through gruelling times to say the least when enemy soldiers discover he’s been building a radio and drawing a map. Years after the eventual victory, Lomax (now Colin Firth) has a chance encounter with Patti (Nicole Kidman), who later goes on to become his wife. It’s only then the signs of post traumatic stress disorder come to surface, which spurs on Mrs Lomax to find some sort of closure for her long-suffering husband.
 

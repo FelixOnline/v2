@@ -32,7 +32,7 @@ highlights:
  - longread
 ---
 
-#### _In Colour___Jamie xx__
+#### _In Colour_Jamie xx
 
 Oh Jamie, you can do no wrong. Not in my eyes, the eyes of anyone who went outdoors this summer who was inundated with your invariably uplifting ‘Good Times’, and presumably, not in the eyes of the Mercury Music Prize people.
 
@@ -44,18 +44,17 @@ But I wonder, while Jamie’s sipping Ka with Young Thug, do The xx really suppo
 
 This album, catchy though it is, was inconsistent, but when the best stuff is this good, it doesn’t matter. As Jamie’s first length solo record, it was a masterpiece in execution of a wide-spread appeal, boys in ironic Adidas, white people at carnival vibe. Which isn’t bad; white people can go to carnival. Maybe the fact that any song on the album could quite comfortably be the backing track on your GoPro filmed gap yah video montage is a good thing.
 
-His sampling of old rave vids, the notable downer on some tracks and lack of lyrics on others, makes for an album you just turn up Spotify’s twelve second fade option on, and play all night. ‘Obvs’ and its joyful rooftop steel drums as folks arrive, ‘Good Times’ as the party heats up, the ethereal ‘The Rest Is Noise’ as the hangers on refuse to leave, and his xx bandmate Romy’s ‘Loud Places’ as a kind of hipster ‘Mr Brightside’ that you all sing along to before collapsing or going home. It really is an album of the people. __GRACE RAHMAN
-__
+His sampling of old rave vids, the notable downer on some tracks and lack of lyrics on others, makes for an album you just turn up Spotify’s twelve second fade option on, and play all night. ‘Obvs’ and its joyful rooftop steel drums as folks arrive, ‘Good Times’ as the party heats up, the ethereal ‘The Rest Is Noise’ as the hangers on refuse to leave, and his xx bandmate Romy’s ‘Loud Places’ as a kind of hipster ‘Mr Brightside’ that you all sing along to before collapsing or going home. It really is an album of the people. GRACE RAHMAN
 
-#### _Are You Satisfied?___Slaves__
+#### _Are You Satisfied?_Slaves
 
 Slaves’ Are You Satisfied? getting nominated for a Mercury Prize is pretty weird, but then the Tunbridge Wells garage rock two-piece Slaves are far from ordinary. Playing dirty basements only a couple of years ago, Slaves have since experienced massive success that their contemporaries (such as Hookworms and the sorely missed Wet Nuns) can only marvel at, headlining large dirty clubs and weirdly signing to Virgin EMI (but then not every band can release a massive hit single like “Where’s Your Car Debbie”).
 
 The appeal of Slaves’ debut album is pure fun. Dirty, spiky guitar riffs swirl amongst simple drumming punctuated by shouty Frank Carter-esque (post Gallows) vocals. The choruses to all the songs show great gang vocals adding to the energy and live feel of the album. Minimalism is a prevailing theme throughout, which adds to the playful (but slightly aggressive) attitude. The riffs are distorted and uncomplicated whilst the drums are sparse and tribal. The lyrical content follows the same theme; you’ll find no over-complicated or pretentious lyrics from the twin vocalists here, just shouty calls to dance.
 
-The first single of this album ‘Cheer Up London’ (with the bratty refrain of “You’re dead already! Dead! Dead! Already”) is the best this album can deliver, exhibiting catchy choruses and tongue-in-cheek lyrics. Sure, this album’s not wall-to-wall bangers, but it is about three songs too long (and that’s being kind) with songs like ‘She Wants Me Now’ and ‘Wow!!!7AM’ really falling short. Let’s be honest, a band playing sloppy garage rock is never going to be consistent. __ROB GARSIDE__
+The first single of this album ‘Cheer Up London’ (with the bratty refrain of “You’re dead already! Dead! Dead! Already”) is the best this album can deliver, exhibiting catchy choruses and tongue-in-cheek lyrics. Sure, this album’s not wall-to-wall bangers, but it is about three songs too long (and that’s being kind) with songs like ‘She Wants Me Now’ and ‘Wow!!!7AM’ really falling short. Let’s be honest, a band playing sloppy garage rock is never going to be consistent. ROB GARSIDE
 
-#### _Syro___Aphex Twin__
+#### _Syro_Aphex Twin
 
 From the depths of the deep web, Aphex Twin returned in late 2014 with Syro. 138 separate pieces of equipment come together, all in absolute harmony, to create an single soundscape. Nothing ever feels auxiliary or out of place.
 
@@ -67,9 +66,9 @@ Seamlessly shifting from one track to another, Syro morphs between sub-genres in
 
 The wonky synths of ‘produk 29 [101]’ overlay a plodding bass while a ghostly female voice jabbers “Like, we were at that club / Fucking house / Disgusting / Needy slut / Fucking whore.” Although oddly disturbing, it’s just one of many weird vocal samples on the album. The razor-sharp ‘s950tx16wasr10 [163.97][earth portal mix]’ (at this point in the tracklist the titles are unpronounceable) bounces from acid to jungle, wobbling your mind in the process.
 
-It’s surprising that not a single record from his expansive career has ever been nominated for the award. Yet no figure has been more influential in modern electronic music. Syro proves that even after years of hiding in the shadows, no one can craft music as intelligently and flawlessly as Aphex Twin. __CALE TILFORD__
+It’s surprising that not a single record from his expansive career has ever been nominated for the award. Yet no figure has been more influential in modern electronic music. Syro proves that even after years of hiding in the shadows, no one can craft music as intelligently and flawlessly as Aphex Twin. CALE TILFORD
 
-#### _How Big, How Blue, How Beautiful___Florence + The Machine__
+#### _How Big, How Blue, How Beautiful_Florence + The Machine
 
 Florence + The Machine put out their third album this summer, and it rocketed to the top of the charts - #1 on the Billboard 200, and all the relevant UK metrics. Oh, and they headlined Glastonbury.
 
@@ -79,17 +78,17 @@ The *point* is Flo. And Flo crushes it in a routine, almost mundane way. Back in
 
 I’ve looked hard for one, but there isn’t a flaw with her performance. Like I mentioned earlier, the only criticism that actually lands is about the instrumentation. C’mon. It’s the Mercury Awards. Not to knock Ghostpoet, but his critically-acclaimed early work was probably composed by a Casio calculator or something.
 
-At the end of the day, the vocals are the point, and Flo’s vocals are on point. __HENRY ESHBAUGH__
+At the end of the day, the vocals are the point, and Flo’s vocals are on point. HENRY ESHBAUGH
 
-#### _Hairless Toys___Róisín Murphy__
+#### _Hairless Toys_Róisín Murphy
 
 Murphy has exercised what seems to be complete creative control over the project, extending even to the music videos, an achievement that is no mean feat; each beat seems precisely in the right place, each guitar riff timed to complete perfection. And yet dangerous emotional currents lie beneath the calm surface. Like someone trying to hold things together following a personal crisis, there is the sense that Hairless Toys could come crashing down at any minute.
 
 Murphy affords us precious few insights into this maelstrom, but there are moments where the mask slips: ‘Uninvited Guest’, a funky number reminiscent of early Grace Jones, spirals out of control, the base groove unravelling into a dreamy whispered sequence, with warm vocals swirling around Murphy’s core; during the second half of the nine-and-a-half-minute ‘exploitation’, lyrics cut out in favour of an instrumental breakdown, drums overlapping each other in a form of unpredictable randomness. In ‘Hairless Toys (Gotta Hurt)’ Murphy’s delicate cooing is ensconced within a cloak of stabbing synths before being completely subsumed, the lyrical content rendered nonsense by a wall of icy sound. But like a Baroque composer, Murphy manages to regain control, ending on a note of harmony. From dissonance comes resonance, and resolution.
 
-The turning point of Hairless Toys comes not in the middle of the album, but about four minutes from the end: during ‘Unputdownable’, where Murphy compares a lover to a favourite book, the chilly synths and claves are suddenly cut through with a burst of acoustic guitar, completely blindsiding us. It’s a sign that, even after 50 minutes of Hairless Toys and 20 years in the business, Roisin Murphy has not lost the power to surprise. ‘And when at last I turn to the end/I turn back to page one and again/pour over every word’ she sings – a perfect attitude towards this remarkable album, one to return to, again and again. __FRED FYLES__
+The turning point of Hairless Toys comes not in the middle of the album, but about four minutes from the end: during ‘Unputdownable’, where Murphy compares a lover to a favourite book, the chilly synths and claves are suddenly cut through with a burst of acoustic guitar, completely blindsiding us. It’s a sign that, even after 50 minutes of Hairless Toys and 20 years in the business, Roisin Murphy has not lost the power to surprise. ‘And when at last I turn to the end/I turn back to page one and again/pour over every word’ she sings – a perfect attitude towards this remarkable album, one to return to, again and again. FRED FYLES
 
-#### _My Love Is Cool___Wolf Alice__
+#### _My Love Is Cool_Wolf Alice
 
 This four-piece grunge rock band from North London splashed onto the music scene back in 2013 with a fresh sound described as the love child of folk and grunge.
 
@@ -103,4 +102,4 @@ This kind of unpredictability is rare and ever increasingly desirable in new mus
 
 Not only is the music of Wolf Alice a new and unique fusion, but the band itself is a flag-waving spearhead for new upcoming British bands.
 
-It only makes sense that this young and vibrant quartet are awarded the 2015 Mercury Music Prize. __PETER MUNTON__
+It only makes sense that this young and vibrant quartet are awarded the 2015 Mercury Music Prize. PETER MUNTON

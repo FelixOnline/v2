@@ -26,5 +26,5 @@ On Saturday 26th October, Imperial College 1st XI travelled to the University of
  Imperial won the toss and elected to field first, in order to gauge an idea of how to approach the run chase, and UCL got off to a relatively quick start, scoring 47 off 4 overs. But, due to a disciplined bowling effort from Mohit Kulkarni, Zain Rizvi and Vinay Babla, UCL were not able to accelerate at the end of the innings, losing their last 3 wickets for 0 runs, and finishing with an average score of 104 off their 10 overs.
  During the interval, captain Vignesh Venkateswaran spoke about the need for a sensible approach towards the run chase, as the total was not daunting in any respect. However, Imperial got off to the worst possible start with Vishal Nair being bowled off the first ball of the innings. Imperial then lost incoming batsmen Mohit Kulkarni for 1 and Zain Rizvi (6) soon after that. It then took a captain’s effort from Viggy (25) to steady the ship, together with Juhin Patel (19) and soon Imperial needed 35 runs off the last 2 overs, a gettable target given the indoor scoring system, but unfortunately the last wicket fell soon after this, which meant Imperial conceded defeat to UCL by 31 runs. A disappointing result for Imperial, especially given the talent within the team, but we will come back strongly for the next round in late November, hopefully with some more experience under our belt.
 
-__Result:
- UCL 104-6 beat Imperial 73-6 by 31 runs.__
+Result:
+ UCL 104-6 beat Imperial 73-6 by 31 runs.

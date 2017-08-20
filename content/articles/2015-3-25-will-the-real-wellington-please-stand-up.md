@@ -23,7 +23,7 @@ highlights:
  - photos
 ---
 
-The aim of the __National Portrait Gallery__’s latest collection is, explains the curator, to “put Wellington’s great reputation back on the map”. This somehow implies that it ever went away. The Duke of Wellington is such a well known figure, carved both on the national consciousness and on numerous memorials, that it makes such an exhibition – _Wellington: Triumphs, Politics, and Passions _– somewhat redundant. Unless, that is, they can stage an exhibition that allows us to look at the Duke in a new light.
+The aim of the National Portrait Gallery’s latest collection is, explains the curator, to “put Wellington’s great reputation back on the map”. This somehow implies that it ever went away. The Duke of Wellington is such a well known figure, carved both on the national consciousness and on numerous memorials, that it makes such an exhibition – _Wellington: Triumphs, Politics, and Passions _– somewhat redundant. Unless, that is, they can stage an exhibition that allows us to look at the Duke in a new light.
 
 Sadly, the National Portrait Gallery doesn’t manage this; instead, what we get are the same pictures we are used to again and again. Marking out his life through a series of portraits, Wellington stares down at us in regalia in an early John Hoppner, pensively gazes from a Goya, and considers his surroundings in a study by Sir Thomas Lawrence. These portraits are interspersed with other artefacts, such as metalware emblazoned with his face, and plates painted with the battle of Waterloo – camp artefacts of high kitsch.
 

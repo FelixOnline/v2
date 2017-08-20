@@ -31,7 +31,7 @@ During the next few weeks you may start to think that exams and work are the onl
 
 > Much like Phil Collins, you can feel it coming in the air tonight – which, incidentally, I’ve only just realised actually sounds pretty rude when you think about it
 
-__Halls__
+Halls
 
 [College and the Union ping ponged responses to each other](http://felixonline.co.uk/news/3561/dialogue-over-acton/). This is a step forward. Now there is a much more open dialogue. Before it was all things that nobody was able to tell anyone about. The fact that the Management Board have responded to students is definitely moving in the right direction. However, we must be careful. The words must turn into actions and firm guarentees. Also, we must make sure we don’t all just get bored, forget about it, and let things quietly slip by without the student voice being heard.
 

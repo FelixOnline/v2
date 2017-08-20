@@ -26,7 +26,7 @@ highlights:
  - comment
 ---
 
-Arriving on the tenth floor of the Blackett Building to watch [__Musical Theatre Society__](http://mtsoc.co.uk/)’s (MTSoc) newest performance, their big spring show [_The Wedding Singer_](http://mtsoc.co.uk/current-show/2012-wedding-singer-2/), I get the feeling that either the powers of my imagination will have to be used to their fullest extent or I should keep my expectations pretty low. I have to admit, I was rather happily surprised by the end.
+Arriving on the tenth floor of the Blackett Building to watch [Musical Theatre Society](http://mtsoc.co.uk/)’s (MTSoc) newest performance, their big spring show [_The Wedding Singer_](http://mtsoc.co.uk/current-show/2012-wedding-singer-2/), I get the feeling that either the powers of my imagination will have to be used to their fullest extent or I should keep my expectations pretty low. I have to admit, I was rather happily surprised by the end.
 
 I’m sure most of you know (and love) the Adam Sandler classic comedy that goes by the same name. Those of you who do will probably hear the words “musical adaptation” and cringe – give it a second though! For those of you who live in a box, _The Wedding Singer_ was a 1998 Rom-Com set in the 80s, starring Adam Sandler (Robbie, a lowly wedding singer) and Drew Barrymore (Julia, a loved-up cater-waitress). The story itself winds around the ‘Will they? Won’t they?’ scenario with plenty of hilarity to drag it away from the romance and into the comedy.
 

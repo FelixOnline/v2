@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is mightily impressed by the Royal Shakespeare Company's latest tour-de-force, which centres around the creation of the atomic bomb
 date: "2015-04-07 16:34:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201504071727-ff712-rsz_oppenheimer_production_photos__2014_photo_by_keith_pattison__c__rsc_rscoppie4034.jpg"
+image: "http://felixonline.co.uk/img/upload/201504071727-ff712-rsz_oppenheimer_production_photos2014_photo_by_keith_pattisoncrsc_rscoppie4034.jpg"
 image_caption: "The cast of Oppenheimer, currently on at the Vaudeville Theatre"
 headline: true
 featured: true

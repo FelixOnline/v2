@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-__Football__
+Football
 
 Men’s 3rd – 2
  Sussex 2nd – 1

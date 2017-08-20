@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-__A Dangerous Method__
+A Dangerous Method
 
-__Director__ David Cronenberg
-__Screenwriters__ Christopher Hampton (play), John Kerr (novel)
-__Cast__ Viggo Mortensen, Michael Fassbender, Keira Knightley
+Director David Cronenberg
+Screenwriters Christopher Hampton (play), John Kerr (novel)
+Cast Viggo Mortensen, Michael Fassbender, Keira Knightley
 
 A bit of an intense film, this one – a very starkly constructed look at a few strained relationships, most notably that of Carl Jung and Sigmund Freud. Having enrolled a few big names in Fassbender, Mortensen and Knightley, Cronenberg does a very good job here, despite this film not being his usual cup of tea (his previous works include _Crash _and _A History of Violence_). _A Dangerous Method_ is a clear, clever account of the overwrought relationships between top Swiss psychiatrist Carl Jung (Fassbender) and his patient – and later lover – Sabina Spielrein (Knightley) and Jung and his better-known Austrian colleague Sigmund Freud (Mortensen). The script is very carefully written by Christopher Hampton (_Atonement, Cheri_) based on his critically-acclaimed 2002 play_ The Talking Cure_, and this combined with Cronenberg’s plain, understated filming makes for a very interesting movie.
 

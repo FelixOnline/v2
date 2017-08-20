@@ -26,7 +26,7 @@ highlights:
  - comment
 ---
 
-__Update:__[Click here](https://union.ic.ac.uk/media/felix/img/exitpoll_2015.pdf) for a full breakdown of the results by faculty, year, and gender.
+Update:[Click here](https://union.ic.ac.uk/media/felix/img/exitpoll_2015.pdf) for a full breakdown of the results by faculty, year, and gender.
 
 For the first time in its history, Felix has run an exit poll for the Big Elections. Now voting has closed, we can now announce our predictions for who will be next year’s sabbatical officers.
 

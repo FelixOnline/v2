@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-Imperial’s own blues maestros, __The Tin Can 44s__, have released their first studio recording: a five-track gem called _The Speak Easy EP_. Everyone who attended the first [Felix Music Night](https://www.facebook.com/pages/Felix-Music-Nights/184739408223656) on the 19th of February will remember The Tin Cans as “that wild bunch of whiskey-swiggers” that kept us grooving during the totality of their tight, raw set. Pretty damn classy, indeed. Their EP was recorded over two day sessions at Alchemea Studios in Angel, Islington, and is available for free up on their Bandcamp.
+Imperial’s own blues maestros, The Tin Can 44s, have released their first studio recording: a five-track gem called _The Speak Easy EP_. Everyone who attended the first [Felix Music Night](https://www.facebook.com/pages/Felix-Music-Nights/184739408223656) on the 19th of February will remember The Tin Cans as “that wild bunch of whiskey-swiggers” that kept us grooving during the totality of their tight, raw set. Pretty damn classy, indeed. Their EP was recorded over two day sessions at Alchemea Studios in Angel, Islington, and is available for free up on their Bandcamp.
 
 All songs were written by bandleader Phil Overton, who possesses a God-given grace on the guitar, recalling the technical, Jazz-influenced guitar work of acts such as The Yardbirds. Whereas in concert their goal is clearly to make you dance till your feet fall off, on record the intricate level of their musicianship and the tightness of their act really becomes apparent: they chug through these five tracks like a well-oiled machine, fueled on whiskey.
 

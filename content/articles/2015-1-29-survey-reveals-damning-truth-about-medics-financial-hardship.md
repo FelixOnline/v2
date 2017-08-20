@@ -106,6 +106,6 @@ ICSMSU President, Dariush Hassanzadeh-Baboli, spoke to Felix about how the surve
 
 “We hope to see some rapid changes in the very near future.”
 
-__The survey is still open for people to fill in and have their say: __
+The survey is still open for people to fill in and have their say:
 
-__[http://goo.gl/forms/23NyQpXre2](https://exchange.imperial.ac.uk/owa/redir.aspx?C=GGR51X5nwEamExK5kumk55u_GwOeEtIIwHl-PK4pmox25PnOeLMdU_zH3jNdEzzRcs89489_RBg.&URL=http%3a%2f%2fgoo.gl%2fforms%2f23NyQpXre2)__
+[http://goo.gl/forms/23NyQpXre2](https://exchange.imperial.ac.uk/owa/redir.aspx?C=GGR51X5nwEamExK5kumk55u_GwOeEtIIwHl-PK4pmox25PnOeLMdU_zH3jNdEzzRcs89489_RBg.&URL=http%3a%2f%2fgoo.gl%2fforms%2f23NyQpXre2)

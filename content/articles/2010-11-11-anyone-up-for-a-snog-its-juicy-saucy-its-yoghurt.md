@@ -39,6 +39,6 @@ This may sound like the obsessive detail of an addict, but you’d be wrong. Kno
 
 Maybe I’m on to something. But until then do try Frozen Yoghurt in any of its incarnations. It’s delicious.
 
-__P. S. Look out for Snort__.
+P. S. Look out for Snort.
 
 Snog 32 Thurloe Place, London SW7 2HQ. GoYog! 12 C/D Hammersmith London W6 7AL. Frog 58a Queensway, Bayswater, London W2 3RL.

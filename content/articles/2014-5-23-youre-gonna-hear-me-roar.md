@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__Godzilla__
+Godzilla
 
-__Director:__ Gareth Edwards
+Director: Gareth Edwards
 
-__Writers: __Max Borenstein, Dave Callaham
+Writers: Max Borenstein, Dave Callaham
 
-__Starring: __Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe, Sally Hawkins, Juliette Binoche, David Strathairn
+Starring: Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston, Ken Watanabe, Sally Hawkins, Juliette Binoche, David Strathairn
 
-__Runtime: __123 minutes
+Runtime: 123 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 4/5
 

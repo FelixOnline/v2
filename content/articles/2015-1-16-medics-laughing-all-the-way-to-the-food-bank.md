@@ -37,4 +37,4 @@ The collection was organised by the Imperial College School of Medicine Student�
 
 ICSMSU President, Dariush Hassanzadeh-Baboli concluded: “We are very proud of our students. This goes to show the amazing community spirit at ICSM and the students’ willingness to help those in need in the local community.”
 
-Students who are keen on getting involved are welcome to contact the Food Bank directly via their website: __http://hammersmithfulham.foodbank.org.uk.__
+Students who are keen on getting involved are welcome to contact the Food Bank directly via their website: http://hammersmithfulham.foodbank.org.uk.

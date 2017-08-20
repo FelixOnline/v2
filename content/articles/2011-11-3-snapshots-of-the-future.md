@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__Douglas Heaven sees programmable cells, not silicon chips__
+Douglas Heaven sees programmable cells, not silicon chips
 
 There’s a lot of speculation about where the future of computing lies. Quantum computers and qubits promise to open up computational problems that are unfeasable using bits alone; nanotech materials such as graphene look set to change the fundamentals of computer hardware, replacing silicon as the basis for chip design; and electrons might give way to photons as we strive for higher speeds and bandwidth via optical processors. But perhaps strangest of all is the future envisioned by the fledgling field of computational biology, which aims to make computational devices out of living cells.
  Studying how cells process information could help with understanding life itself. Last year, the genome entrepreneur, [Craig Venter](http://en.wikipedia.org/wiki/Craig_Venter), famously made the first synthetic cell by copying the genetic code of one species of bacteria and inserting it into another – prompting many questions, quite literally, about the meaning of life. However, swapping around an existing DNA sequence – or biological program – only goes so far. What if we were to specify arbitrary functionality for cells – or, in other words, write our own biological programs?
@@ -33,7 +33,7 @@ That’s just what ex-Imperial student [Andrew Phillips](http://research.microso
 
 According to Phillips, through collaboration with experts in programming languages, biologists, neuroscientists, and even ecologists, his group at Microsoft Research has “the scope to research and develop what might become the key technologies of the next decade or the decade after that. It’s possible that programming biology may one day surpass the world of programming silicon”.
 
-__Smartphones must improve, says Abhimanyu Chugh__
+Smartphones must improve, says Abhimanyu Chugh
 
 Have you ever had your phone die when you least expected it? Have you ever forgotten to charge your phone the night before only to find out later you forgot to take your charger with you? Or realised you can’t use your phone for its primary purpose after too much Angry Birds or surfing on the tube? I know I have. This is one thing that I really hope smartphones overcome in the future. Personally, I am tired of having to charge my phone every night, sometimes even multiple times in a day. It’s about time we saw some innovation in the battery department.
 
@@ -42,7 +42,7 @@ Another feature I would love to see in future smartphones is seamless integratio
 Additionally, smartphones could improve on their form factor. It’s difficult to find a phone that truly suits you, or one that adapts to user’s needs. Wouldn’t it be cool to have a foldable smartphone, which can be expanded for a perfect browsing experience or compacted to facilitate calling, a smartphone/tablet hybrid? Perhaps even a hidden keyboard to make typing even easier, without having to use the on-screen keyboard and having your messages autocorrected to the point where they make no sense?
  Finally, the possibility of waterproof smartphones is something I’m sure we could all appreciate. Having experienced the porosity of smartphones first hand, I know the anguish that follows the constant failed attempts at reviving your precious phone.
 
-__Simon Worthington thinks virtual reality is the next game-changer__
+Simon Worthington thinks virtual reality is the next game-changer
 
 One technology that always seems so tantalisingly close and yet simultaneously so far is virtual reality – where a computer-generated environment can be walked around in and interacted with as if it were real. I’m waiting for one better than that; namely, _total immersion_. Think ‘The Matrix’ – people don’t just stand in a booth with some funny goggles on, rather the signals to their brain are controlled directly by the computer to simulate sight, sound and the other senses to boot.
 

@@ -61,4 +61,4 @@ At Imperial Hub, a project is being run for students interested in or studying b
 
 If you would like to spend a small amount of time developing your pro- fessional skills but make a huge impact, check out more information at www.imperialhub.org/teach-a-man-to-fish.
 
-__These are the views of the writer and not the organisations__
+These are the views of the writer and not the organisations

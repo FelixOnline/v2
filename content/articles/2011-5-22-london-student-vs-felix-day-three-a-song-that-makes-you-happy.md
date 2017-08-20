@@ -34,4 +34,4 @@ The reaction when I play someone this [Star Slinger](http://www.starslinger.net/
 
 _The London Student and Felix are [currently fighting an epic war](http://felixonline.co.uk/music/1210/london-student-vs-felix-30-day-challenge/). Like, tweet, or comment on this page to help us win today's battle. Tomorrow is 'A song that makes you sad' – help us choose by posting your suggestions below._
 
-__Look out for Felix's interview with Star Slinger in next week's issue.__
+Look out for Felix's interview with Star Slinger in next week's issue.

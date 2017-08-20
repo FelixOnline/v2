@@ -42,7 +42,7 @@ Posting on [his online blog on October 6](http://www.union.ic.ac.uk/blogs/2011/1
 
 The AEB has pledged to express the board’s concerns at the next meeting of Union Council on Monday 31 October.
 
-__Deputy President (Finance & Services) Michael Foster's response to Felix__
+Deputy President (Finance & Services) Michael Foster's response to Felix
 
 [_Note: The first two paragraphs of the following statement are not featured in the printed version of Felix Issue 1498_]
 

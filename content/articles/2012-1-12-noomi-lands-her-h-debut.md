@@ -26,9 +26,9 @@ highlights:
 
 ###  Sherlock Holmes: A Game of Shadows
 
-__Director__ Guy Ritchie
-__Screenwriters__ Michele Mulroney, Kieran Mulroney
-__Cast__ Robert Downey Jr., Jude Law, Noomi Rapace
+Director Guy Ritchie
+Screenwriters Michele Mulroney, Kieran Mulroney
+Cast Robert Downey Jr., Jude Law, Noomi Rapace
 
 I must say that my feelings about Guy Ritchie’s latest _Sherlock Holmes_ are somewhat mixed. When I first walked out of the cinema after seeing the film shortly after Christmas, there was no doubt that I felt I had gotten my money’s worth. Sure, it wasn’t exactly faithful to the original stories or even, with its heavy action focus, to the stories’ spirit. However, I always find it pointless to demand absolute verisimilitude with the source material of an adaptation. There is no reason a different interpretation, if well made, couldn’t be just as good as the original.
 

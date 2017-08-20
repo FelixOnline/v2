@@ -55,4 +55,4 @@ Silicon Valley comes to the UK has brought some of the most intelligent and crea
 
 Remember! If you are interested in entrepreneurship, starting your own company, the technology sector, or just want to listen to some very inspiring speakers, come to the talks organized by Imperial Entrepreneurs! Sign up for the mailing list at:
 
-[__www.imperialentrepreneurs.com__](http://www.imperialentrepreneurs.com)
+[www.imperialentrepreneurs.com](http://www.imperialentrepreneurs.com)

@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__T__his Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.
+This Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.
 
 The last thing I would describe myself as is a fan of musicals, but I have to say I left with a great smile on my face. The script and music are funny and witty on many levels, and though the student actors may not have the skills to fully deepen their characters, they certainly have a sense of humour. I laughed out loud on many occasions; the enthusiasm with which the whole cast pulled off their roles was simply infectious.
 

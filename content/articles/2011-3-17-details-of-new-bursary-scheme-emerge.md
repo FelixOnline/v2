@@ -55,6 +55,6 @@ Student Finance Support is currently working on the creation of a portal on the 
 
 What is clear from the results of the survey is that Imperial is already doing an exemplary job at providing financial aid to its students, a fact made all the more impressive considering how many people SFS employs. Moreover, Imperial already meets the [requirements set out by the Office for Fair Access](http://www.offa.org.uk/press-releases/offa-sets-out-what-universities-need-to-do-to-charge-fees-of-more-than-6000/) (OFFA) in response to government changes in tuition fees. The future of bursaries remains unclear – there is government pressure to offer ‘freebies’ in the form of fee waivers; but students still require substantial help with rising living costs. Kendall pointed out that the survey goes some way to settling the argument over the future of tuition fee waivers and bursaries. The future is likely to see a balance being struck between implementing fee waivers and reducing the amount of ‘cash in hand’ students receive, in order to ensure students can still afford to apply to and study at Imperial.
 
-"[__Financial Emergencies__" – How the College can help you through hardship](http://www.felixonline.co.uk/?article=1116)
+"[Financial Emergencies" – How the College can help you through hardship](http://www.felixonline.co.uk/?article=1116)
 
-"[__Bursaries make university fun__" – How the College's bursary system helps students](http://felixonline.co.uk/?article=1105)
+"[Bursaries make university fun" – How the College's bursary system helps students](http://felixonline.co.uk/?article=1105)

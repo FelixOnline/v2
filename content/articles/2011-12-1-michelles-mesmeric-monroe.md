@@ -23,11 +23,11 @@ authors:
 highlights:
 ---
 
-__My Week with Marilyn__
+My Week with Marilyn
 
-__Director__ Simon Curtis
-__Screenwriters__ Adrian Hodges, Colin Clark (novel)
-__Cast__ Michelle Williams, Eddie Redmayne, Kenneth Branagh, Judi Dench, Dominic Cooper, Emma Watson
+Director Simon Curtis
+Screenwriters Adrian Hodges, Colin Clark (novel)
+Cast Michelle Williams, Eddie Redmayne, Kenneth Branagh, Judi Dench, Dominic Cooper, Emma Watson
 
 Marilyn Monroe is without a doubt one of the most celebrated, well-known figures of the 20th Century. [_My Week with Marilyn_](http://www.youtube.com/watch?v=zJygETCXpR8), as its title may suggest, only explores a brief section of the icon’s life, but since she has accomplished so much, even the smallest slice in her showbiz-surrounded life is full of fun, romance and charm which is exactly what the film offers.
 

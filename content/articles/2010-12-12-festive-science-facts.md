@@ -28,7 +28,7 @@ highlights:
  - longread
 ---
 
-__Roasts__:
+Roasts:
 
 One of the better aspects of Christmas is the food. A juicy roast is a must, and the process of roasting sets off many chemical reactions that few other methods can match.
 
@@ -38,7 +38,7 @@ But why does roasted meat taste so good? The answer is in one of the chemical re
 
 Many different compounds are formed as the carbonyl group of the sugar reacts with the amino group of the amino acid to form N-glycosylamine. These undergo Amadori rearrangement, an important organic isomerisation reaction that creates compounds with the same molecular formula but different structures, producing ketosamines. It is this group of molecules that not only produces the rich and delicious flavours we associate with roasted meat, but also the melanoidins which give the roast that golden brown colouring.
 
-__Effects on Genes:__
+Effects on Genes:
 
 The overindulgence at Christmas may damage your health in a rather surprising way. Your genes may be adversely affected by some of the foods traditionally eaten during the festive season.
 
@@ -48,7 +48,7 @@ Not only are there general dangers with any over consumption, but the traditiona
 
 However, those of us who only like Christmas for the opportunity to gorge ourselves will be glad to hear that you can avoid this form of DNA damage by eating a specific dietary polysaccharide: the humble potato. Dr Topping says that starch that is not digested in the small intestine can produce protective compounds in the gut that prevent the damage.
 
-__Hangovers__:
+Hangovers:
 
 The most important thing about Christmas is the brilliant excuse to drink excessively. Sherry and mulled wine are the standard beverages but any alcoholic drink can lead to unwelcome side effects.
 
@@ -58,7 +58,7 @@ When the hormone concentration in the blood drops, the kidneys send water direct
 
 As blood flows through the brain, due to the low concentration of water in the blood, water is drawn out of the brain cells and shrinks the brain, causing it to pull away from the skull which ultimately causes the headache.
 
-__Christmas Trees__:
+Christmas Trees:
 
 The traditional real pine tree is slowly being replaced in homes up and down the country by fake, plastic Christmas trees. However, there is one good reason to appreciate the real thing.
 
@@ -70,7 +70,7 @@ The researchers found that the compound extracted from the pines inhibits nitric
 
 If you are suffering from pain or arthritis, it is probably still not a good idea to chomp your way through your tree.
 
-__Reindeers and Santa Claus__:
+Reindeers and Santa Claus:
 
 Roger Highfield, author of Can Reindeer Fly?, suggests that, in order for Santa to deliver the huge number of gifts in time, across the globe, he would have to achieve such high speeds that the forces on his body would be 17,500 times greater than gravity on the surface of the Earth and would crush him into a singularity.
 

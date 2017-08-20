@@ -39,7 +39,7 @@ The Council of Imperial College is defined by Royal Charter as the “governing 
 
 Members of the College are invited to encourage suitable candidates to email college.secretary@imperial.ac.uk expressing their interest by the 11th of February. As previously, the post hopes to attract senior and respected individuals with great competency in finance and politics.
 
-__Profile: Lord Kerr__
+Profile: Lord Kerr
 
 Baron Kerr of Kinlochard – more commonly known as Lord Kerr – was born in Grantown-on-Spey, Scotland in 1942. He was educated at Glasgow Academy and Pembroke College, Oxford, holding honorary degrees from the Universities of St Andrews, Aston and Glasgow. He joined the UK Diplomatic Service in 1966 which included postings at the British Embassy in Moscow, and at the High Commission in Pakistan.
 
@@ -49,7 +49,7 @@ He was awarded the Most Distinguished Order of Saint Michael and Saint George, a
 
 He also took the role of Permanent Under-Secretary at the Foreign Office and Head of the Diplomatic Service, after which he became a director of Shell Transport and Trading (now Royal Dutch Shell plc), chairing the group of Directors. He is now Deputy Chairman and Senior Independent Director. Lord Kerr is a Fellow of the Royal Society of Edinburgh and in 2004, he was created a life peer as Baron Kerr of Kinlochard. He later acquired the role of Chairman of the Court and Council of Imperial College from 2005.
 
-__Who might replace him?__
+Who might replace him?
 
 As the search for a new Chairman begins, Felix decided to gaze into its crystal ball and rather unscientifically, speculate about Lord Kerr’s successor. It is not entirely unreasonable to imagine that it would be a Lord or Sir – for example, every Rector of Imperial has been a Lord or a Sir, all except the first, Henry Bovey (poor Henry).
 

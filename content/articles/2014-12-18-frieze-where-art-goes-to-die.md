@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-When men die, they enter into history. When statues die, they enter into art. This botany of death is what we call culture. These powerful opening lines from the 1953 film ‘_Les Statues Meurent Aussi_’ (‘_Statues Also Die_’) - originally made as a critique of the West’s consumerist attitude towards African art – resonated with me as I went around London’s 12th annual __Frieze Art Fair__, where art exists only as a commodity, a soulless husk.
+When men die, they enter into history. When statues die, they enter into art. This botany of death is what we call culture. These powerful opening lines from the 1953 film ‘_Les Statues Meurent Aussi_’ (‘_Statues Also Die_’) - originally made as a critique of the West’s consumerist attitude towards African art – resonated with me as I went around London’s 12th annual Frieze Art Fair, where art exists only as a commodity, a soulless husk.
 
 I visited the fair last year and was quite upbeat; there was an air of youth and dynamism about it and you felt as if you might be seeing the ‘next big thing’. Of course, as with any fair, you were aware that the art on display was primarily there to be sold but you did occasionally forget this. It was a truly immersive art experience.
 
@@ -41,7 +41,7 @@ However, with that, the essence of the art fair ceases to exist and becomes a fa
 
 > This year's Frieze Art fair had as much personality as a kitchen showroom
 
-There were certainly some standout galleries; __Hauser & Wirth __and the __Gagosian Gallery__ in particular had just the right mix of high quality art and interactivity to attract your attention and set them apart from the crowd. Elsewhere, Jesus Rafael Soto’s Op Art piece ‘_Carré olive et vibration_’ from the __Galerie Perrotin__ proved extremely captivating and quite unique in a fair overburdened with highly decorative works of synthetics and acrylics.
+There were certainly some standout galleries; Hauser & Wirth and the Gagosian Gallery in particular had just the right mix of high quality art and interactivity to attract your attention and set them apart from the crowd. Elsewhere, Jesus Rafael Soto’s Op Art piece ‘_Carré olive et vibration_’ from the Galerie Perrotin proved extremely captivating and quite unique in a fair overburdened with highly decorative works of synthetics and acrylics.
 
 In general, the works on display seemed to fall into three categories: the mediocre, big money pieces that galleries were putting all their hopes on, like Martin Creed’s (I still have no idea why he’s famous) or Tony Cragg’s; the less well known art that bulks out a gallery’s portfolio, providing the best and worst of what was on offer; and finally the pieces designed purely for the selfie – often mirrored, always provocative, perfect to show your social media contacts just how artsy you are!
 

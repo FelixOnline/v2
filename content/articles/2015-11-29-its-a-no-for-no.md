@@ -46,4 +46,4 @@ You see, there is an issue with sex scenes in cinema: it’s not that they’re 
 
 What _Love_ really managed to do was make me long to watch other films – hardly a ringing endorsement. The flaccid erotica on display made me long for the summertime sensuality of Luca Guadagnino’s _I Am Love_, or the shimmering sexual mirage of Alain Guiraudie’s _Stranger by the Lake_; the wooden dialogue, which comes down on the audience with such force it could constitute a deadly weapon, made me yearn for the remarkable script of Richard Linklater’s _Before…_ trilogy, and the entire experience – so nauseating in its pretentiousness, in its elevation of style over any simulacra of substance – made me ache to get home, put on a miserable British social realist film, and scrub the entire 135-minute experience out of my mind
 
-__Final Verdict: 1.5 Stars__
+Final Verdict: 1.5 Stars

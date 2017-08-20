@@ -28,9 +28,9 @@ highlights:
  - comment
 ---
 
-This week I’m going back straight back to the UK post-punk/hardcore scene by way of a review of the debut full-length album of __The James Cleaver Quintet__ (JCQ), _That Was Then, This Is Now._ Nearly two years ago the JCQ released their first and only EP _Ten Stages of a Make Up_ to massive critical acclaim. Fans have been eagerly awaiting another release and on Halloween this year, they were given what they wanted.
+This week I’m going back straight back to the UK post-punk/hardcore scene by way of a review of the debut full-length album of The James Cleaver Quintet (JCQ), _That Was Then, This Is Now._ Nearly two years ago the JCQ released their first and only EP _Ten Stages of a Make Up_ to massive critical acclaim. Fans have been eagerly awaiting another release and on Halloween this year, they were given what they wanted.
 
-If you read my review of __&U&I__’s album _Light Bearer_ two weeks ago then you will know that I like my music one way and one way only: mental. _That Was Then, This Is Now_ fits perfectly into this category. The album opens with a track titled ‘Golfing Pros, Bitches and Hoes’. This track starts off with an eerie tune, reminiscent of something you would hear at a fairground, but after only 15 seconds, shit gets real.
+If you read my review of &U&I’s album _Light Bearer_ two weeks ago then you will know that I like my music one way and one way only: mental. _That Was Then, This Is Now_ fits perfectly into this category. The album opens with a track titled ‘Golfing Pros, Bitches and Hoes’. This track starts off with an eerie tune, reminiscent of something you would hear at a fairground, but after only 15 seconds, shit gets real.
 
 Their sound is completely unique, if I could describe it in any way it would be a divine combination of garage post-punk and hardcore. Punkcore? Garage post-hunk? No, that’s too weird. Sounds like a lost member of the Village People. But listen to the album and you’ll know what I mean.
 

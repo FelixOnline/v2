@@ -39,6 +39,6 @@ One sterling example of this is a scene involving a confrontation between severa
 
 Without a doubt, the direction and production behind this adaptation must be praised for taking on such a unique choice for the play, and equally the actors should be commended for bringing it to life with such sympathetic portrayals. Such a mix must be highly recommended; this is one boat you really want to catch.
 
-__Wednesday - Saturday this week, Union Concert Hall, 7pm__
+Wednesday - Saturday this week, Union Concert Hall, 7pm
 
-__Tickets £5 in advance__
+Tickets £5 in advance

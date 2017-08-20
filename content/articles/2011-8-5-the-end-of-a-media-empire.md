@@ -29,13 +29,13 @@ Events of the past few weeks have shone a new light on how our media has been op
 
  Amazingly, it was always known how this one tyrant held a vice like grip over all the media we consumed. However we chose to ignore not only this fact, but also the awareness we had of his corrupt relationship with those supposedly elected officials who operated in our interests, unfailingly attending parties and social functions to which heads of other media networks hadn’t even been invited.
 
-__Insidious Control __
+Insidious Control
 
 Through his newspapers, magazines and recently updated website and online presence – a controversial move about which observers are cautious to conclude in favour of – this foreign born tax avoider has muscled all other realistic players out of the market. Admittedly, some of his innovative new initiatives have revolutionised the way in which we received news and entertainment, with special focus on its frequency and ease of access; however the overarching aim of all this was not for our betterment, but to increase insidiously his control over our lives.
 
 Now his heir, as carefully groomed as what remains of his hair, stands in the shadows, waiting for his moment to take over the reins of this media empire. He has already been appointed to oversee one or two publications, and it is surely only a matter of time before the succession is formalised while our backs are turned.
 
-__8am Lecture__
+8am Lecture
 
 Administrators and officials have operated in fear of attack from his pages, and as such have been weak in moving to limit or regulate his organization. One false step to encourage his ire and the papers will be all over you with accusations of ‘Liar’ and ‘8am lecture.’
 

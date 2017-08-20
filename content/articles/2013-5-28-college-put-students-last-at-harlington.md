@@ -44,6 +44,6 @@ This is particularly the case with Harlington and the Boat House in Putney. It s
 
 I would like to understand for the sake of the fallen students from World War I and their memory, exactly how much money is being made from the letting of these student facilities to outside bodies and how the college justified the detriment suffered by the student body as worth the benefit of the money raise, and I would further like to see how this money is being spent to the benefit of students and in particular student sporting activities. Please note that I will not be swayed by any use of this money that in my view is being used to reduce the grant that central college has been obliged to pay to support student sport and other recreational activities since the establishment of the college back at the turn of the last century. I expect to be able to see some demonstrable improvement in benefits to the students that has arisen out of the letting of these facilities which might make it worthwhile my family being stuck by a set of bins and us all (students, alumni and their families) being treated like third class citizens.
 
-__Ian Howgate__
+Ian Howgate
 
-__Imperial College Union President 1987-88__
+Imperial College Union President 1987-88

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__The Sopranos__
+The Sopranos
 
 “A rich exploration of the paradoxes of modern life that will leave an impression on all who give it a chance.”
 
@@ -40,7 +40,7 @@ And yet for all its weight, The Sopranos is eminently enjoyable and also very fu
 
 The Sopranos is important. It is a rich, impassioned and truly unique exploration of the paradoxes of modern life. Its sheer force will leave a permanent impression on all who give it the chance. In my view – and not just in my view – this show completely outstrips the competition, taking pride of place as the greatest television series of all time.
 
-__Six Feet Under __
+Six Feet Under
 
 “It was the story of dysfunctional family of undertakers whose lives unfold while dealing with the day-to-day reality of death.”
 

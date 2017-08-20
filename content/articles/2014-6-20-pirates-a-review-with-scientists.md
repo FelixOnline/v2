@@ -24,7 +24,7 @@ highlights:
  - longread
 ---
 
-__W__ithout making so bold a claim so as to say that we’ve never watched porn, it’s fair to say that neither of us are connoisseurs of the cinematographic genre. However, the 2005 feature-length Pirates, with its million-dollar budget, was the most expensive pornographic film ever made at the time, a title now held by its 2008 sequel. This seemed like it would be viewing worthy of our comparatively innocent eyes, and certainly stood to be a good candidate to meet his quality standards.
+Without making so bold a claim so as to say that we’ve never watched porn, it’s fair to say that neither of us are connoisseurs of the cinematographic genre. However, the 2005 feature-length Pirates, with its million-dollar budget, was the most expensive pornographic film ever made at the time, a title now held by its 2008 sequel. This seemed like it would be viewing worthy of our comparatively innocent eyes, and certainly stood to be a good candidate to meet his quality standards.
 
 I wouldn’t say that it’s the best film that I’ve ever watched, but it was definitely the best porn I’ve ever seen, in terms of cinematographic value. Being 129 minutes long, it did start to drag in some parts, but the storyline did hold its weight (being very similar to Pirates of the Caribbean, although not so identical that it was boring).
 
@@ -40,4 +40,4 @@ Even with a million-dollar budget, there’s only so much money left for CGI, an
 
 This is a critical analysis, and I am picking on the bad points of the film, but I should end by saying that as far as pornographic films go, this was definitely of very high quality, and I would go as far as to say that it preaches far fewer bad habits that most porn. The media frequently reports on how damaging it is for young people to learn about sex from pornography, a sentiment that I would agree is true to an extent. However, with an immensely popular pornographic feature such as this moving towards a more realistic portrayal of sex, I see no reason to artificially shield the next generation as ours never was in the days before parental controls.
 
-__A__ll this said, the best judge of porn has to be its ability of inspire carnal lust. And did it succeed? Sadly, the only se[a]men to be seen that night were of the onscreen variety; Mr Wu’s puny gunshots were unable to arouse any other kind of shots that night, something which no amount of saltpetre could fix.
+All this said, the best judge of porn has to be its ability of inspire carnal lust. And did it succeed? Sadly, the only se[a]men to be seen that night were of the onscreen variety; Mr Wu’s puny gunshots were unable to arouse any other kind of shots that night, something which no amount of saltpetre could fix.

@@ -27,19 +27,19 @@ Most of you will be revising (or trying to) over the Easter break, either panick
 
 Either way, following on from [our Fresher's study advice article](../features/3761/study-habits-a-definitive-guide/), we at Felix would like to add our “two cents” into the revision strategies jar, giving some (unverified) hints and tips for all the budding examinees out there.
 
-__Tip #1. Think before you start – Preparation__
+Tip #1. Think before you start – Preparation
 
 After spending the first week of your Easter vacation abroad or spending every day in bed watching Netflix (in some kind of re-enactment of your Christmas break), you might be tempted to dive straight into revision today, partially out of guilt, but mostly out of desperation.
 
 Instead, take an hour or so to work out your revision schedule, this can reap rewards at exam time. Knowing when you have to finish a topic, and when you will have time to do practice papers can not only keep you calm, but makes it easier to work out when you’ve fallen behind. It also helps if you can organise your notes before you start, so if you’ve lost a set of notes you have the chance to find a replacement (_rather than the night before the exam – that was awkward – Ed._).
 
-__Tip #2. What exactly did you learn in lectures? – Preview__
+Tip #2. What exactly did you learn in lectures? – Preview
 
 So, you may or may not remember every detail of each course, and what was in each lecture you vigilantly attended, but just in case, it’s worth quickly going through each subject, both so you know how much you have to cover, and also so things aren’t a shock to you when you do your intense revision sessions.
 
 It’s methods like these that stop you from getting confused between the content of your Mechanics and Structural Mechanics exams, and only realising that you revised the wrong content after one of them is over…
 
-__Tip #3. Start Early – Uber Preparation__
+Tip #3. Start Early – Uber Preparation
 
 So, if you had actually done this you probably wouldn’t have clicked on the link to this article.
 
@@ -47,13 +47,13 @@ Oh, well. If this isn’t your final year, after you get through this year’s e
 
 In an ideal world, you wouldn’t be distracted by your social life, and would spend your time that isn’t occupied (by lectures and coursework, eating and sleeping) doing your problem sheets or going over your lecture notes. Of course, for those of you who can’t resist a good dose of social life in order to stay sane, just remember that a good work-life balance can only help you later on during the year…
 
-__Tip #4. Is that one last image/video on 9gag/YouTube really necessary? – Technology__
+Tip #4. Is that one last image/video on 9gag/YouTube really necessary? – Technology
 
 Be honest with yourself, do you really use your iDevice/Tablet/Laptop when you’re revising, or is it something you just think you have to do? Is the device work the risk of distraction? If you do need said device, do you need to be connected to the internet?
 
 For the more prepared soul, downloading all your lecture notes before you start, or printing them and binding them into a pseudo-textbook can go a long way towards keeping you focused, despite what the Kindle/iPad enthusiast next to you might say. Of course, without the internet, you would have never found this article, and of course some people work quite well with the internet, but let’s be honest, it’s not always necessary.
 
-__Tip #5. It's time to "switch things up" a bit – Distributed Practice__
+Tip #5. It's time to "switch things up" a bit – Distributed Practice
 
 So, you know how you gave yourself a week to revise that all important Aircraft Engineering module from start to finish? Yeah, not such a good idea...
 

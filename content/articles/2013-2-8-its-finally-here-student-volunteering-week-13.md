@@ -37,19 +37,19 @@ For those of you that have already pondered this topic, have decided that it’s
 
 For everyone else, read on to find out why I think we should all volunteer.
 
-__Discover your passionate side__
+Discover your passionate side
 
 Spending the afternoon in an old people’s home listening to a woman with a beard repeating the story of her son’s birth 20 times might be someone’s idea of heaven… but maybe it’s not yours. When you volunteer, you have to find a cause or organisation that you feel genuinely moved and motivated by. You will be in a much better position to learn something, to make an actual difference, and have an impact on those you’re helping if you’re doing something that you care about.
 
-__It’s a 2-way street__
+It’s a 2-way street
 
 Volunteering undoubtedly leaves you with that warm tingly feeling that comes with doing a truly good deed. So, even though the primary aim of volunteering should be to help someone, or a cause, you ultimately help yourself too. Volunteering does and should benefit both the cause AND the volunteer – it’s about doing good for others as well as for yourself. Before you volunteer, think about how you are going to help, and also ask yourself “what am I going to gain from this experience?” Whether it’s developing skills, meeting people, or just the warm tingly feeling…(mmm)
 
-__Networking__
+Networking
 
 It may seem superficial and contradictory, but networking is incredibly important – not just for corporations; not just for marketing and making a profit, but also for individuals, and for innovation. Volunteering is another way to meet a whole range of people from totally different backgrounds and walks of life. Keeping an open mind and understanding other people’s perspectives is essential to our future development. The people you meet volunteering, whether it’s fellow volunteers or the head of an NGO, could one day help you to realise your ambitions. Volunteering can also supply you with references for job and internship applications. Even without the reference, research by Reed employment found that 73% employers would hire candidates who had volunteered over those who hadn’t.
 
-__Don’t a be slave of circumstance__
+Don’t a be slave of circumstance
 
 How easy is it…You spend all day in lectures and labs, maybe do a stint in the Library, eat some dinner…you eventually have a chance to relax – what do you do? Hang out with friends? Watch an episode of something with some really good looking people in it? And then bed. And the same thing the next day. And the one after. Wake up!
 
@@ -59,19 +59,19 @@ There are many, many more reasons why you should volunteer. But really, you just
 
 For some more inspiration, read on for some examples of the great opportunities that exist here at Imperial.
 ## Great opportunities that you can get involved in...
-__Student Action for Refugees__
+Student Action for Refugees
 
 Student Action for Refugees (STAR) at Imperial is part of a national network of students working to improve the lives of asylum seekers and refugees in the UK though volunteering and campaigning projects. Students from Nottingham University originally founded STAR 20 years ago, and the STAR network now consists of 34 university groups – student volunteering at its best.
 
-__Interact__
+Interact
 
 If you’re not sure you can make a regular commitment, Interact is the society for you. They organise a variety of one-off, student-led volunteer projects in the local community around Imperial. Past opportunities include helping out at homeless shelters, visiting museums with the elderly and conservation projects.
 
-__Imperial Paediatrics__
+Imperial Paediatrics
 
 Imperial Paediatrics is an incredibly popular new initiative involving students from Imperial visiting patients in the paediatric ward at St. Mary’s hospital, dedicating their time to making inpatients’ stays as happy as possible.
 
-__Talk to me London__
+Talk to me London
 
 As part of Student Volunteering Week, LSE, UCL and Imperial are launching a collaborative project – “Talk to me London”. Thisstudent-led campaign aims to tackle the issue of social isolation by getting Londoners to talk to each other – on campus, on the tube… everywhere! Badges saying “Talk to me London” along with cards with conversation starters have been designed and will be distributed throughout the week – get yours at the JCR on Wednesday 13th, or come along to the Talk to me London pub quiz on Thursday! This project will hopefully embolden students to engage with their local community, and also create a great platform to discuss the power and impact of student volunteering.
 

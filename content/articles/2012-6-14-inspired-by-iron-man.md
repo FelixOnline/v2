@@ -30,7 +30,7 @@ highlights:
 
 A first year Physics student at Imperial has applied for a patent on a new way to make electricity. Felix Science caught up with inventor Marvin Tan Xing Haw to find out all about his (as yet hypothetical) device…
 
-__Could you tell us a bit about your invention?__
+Could you tell us a bit about your invention?
 
 It produces electricity, with power output between that of a betavoltaic battery and a nuclear fission reactor. The power output is unknown because nobody has published the results of its computational simulation yet. It works very much like a fission reactor and a betavoltaic battery.
 
@@ -38,19 +38,19 @@ Fission reactors sustain a chain reaction by using neutrons to induce the fissio
 
 The use of a semiconductor diode to convert energy from beta particles to electricity is analogous to using a diode as a solar cell (converting sunlight to electricity). Combing fission and betavoltaics, neutrons are used to artificially induce fission in the beta-radioisotope, forcing the latter to produce more beta particles than it would if it relied purely on beta decay. It’s analogous to force-feeding a goose that lays golden eggs so that you get more eggs!
 
-__How did you come up with the idea?__
+How did you come up with the idea?
 
 I was really inspired last year after watching _Iron Man _and _Iron Man 2_. The world needs a small but powerful energy source like Tony Stark’s Arc Reactor. How are vehicles going to be propelled after petroleum runs out? After daydreaming long and hard about the current technologies that can approximate Stark’s Arc Reactor, I thought of combining the best of both from fission and betavoltaics.
 
-__How far into development are you?__
+How far into development are you?
 
 The design needs to be perfected via computational simulation to find the optimal thickness and concentrations of the isotopes. Then, it needs to be tested experimentally. I don’t have the resources to carry out these two modes of research, so I’m stuck at the conceptual stage.
 
-__Have you had any interest from scientists who think this could work?__
+Have you had any interest from scientists who think this could work?
 
 Some scientists told me that the idea is interesting, but they said they’re too busy with their own work and hence don’t have the time to explore it. Patent publications are not as widely read as research journals, so until a journal article has been published on my work, it’s hard to capture the attention of the scientific community.
 
-__Finally, do you have any tips for any students who might have an idea they’d like to develop?__
+Finally, do you have any tips for any students who might have an idea they’d like to develop?
 
 Keep it top secret until your patent specification has been published. It’s stressful to balance your time between writing your patent specification and studying for an undergraduate degree, so time management is important. Also, use an image editor with layering capabilities (like Adobe Photoshop) to draw your patent diagrams.
 

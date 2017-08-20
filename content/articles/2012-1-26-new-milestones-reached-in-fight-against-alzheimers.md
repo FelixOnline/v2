@@ -29,7 +29,7 @@ A common misconception is that Alzheimer’s is a genetic disorder. Whilst there
 
 This is an incredibly saddening thing to happen to anyone, but luckily two new pieces of research may help in the quest to find a cure for this disease.
 
-__Detection__
+Detection
 
 In the minority of cases, Alzheimer’s is caused by genetics, making it hard to identify whether a person will suffer in later life. Current techniques involve a number of tests (which also ensure that the patient has Alzheimer’s, and not a different form of dementia); but before these tests are done, deterioration to the patient’s mind, as well as a proactive step of actually going to the doctor, must already have taken place. Luckily these tests have up to 90% accuracy.
 
@@ -40,7 +40,7 @@ In this development by a team lead by Shalini Prasad from the University of Texa
 
 So far, scientists have only tested samples of the fluid obtained post-mortem, but thanks to the high sensitivity of the new technique, detection in samples obtained during the early stages of Alzheimer’s looks to be a possibility. Prasad’s team hopes to take part in clinical trials, which should give an indication as to how well it works as an early indicator.
 
-__Prevention__
+Prevention
 
 Drugs are available which slow down the progression of the disease, which means that people diagnosed with Alzheimer’s can still enjoy a good quality of life for a longer time – and this is only aided by early detection that may be made possible by this research. However, a drug to stop the development of the disease does not yet exist.
 

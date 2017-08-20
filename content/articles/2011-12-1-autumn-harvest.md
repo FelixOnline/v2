@@ -40,7 +40,7 @@ Finally, Osborne made pledges concerning spending on infrastructure, building an
 
 The main message from the Autumn Statement is that everything is worse than before. Thus, the Conservatives are now on the defensive, starting to make pledges promising plans for the economy to start growing again. However, what Osborne offered this week seemed to be a lot about small policy, still too obsessed with keeping an austerity plan that seems to be slowly sinking. With these promises of action, at least they seem to discard the option of just sitting tight, crossing our fingers, and hoping we all get out of this intact.
 
-__The Autumn Statement: 10 Key Conclusions__
+The Autumn Statement: 10 Key Conclusions
  - Economic growth forecast downgraded
  - An extra £111bn of government borrowing over the next 5 years
  - 1% cap on public sector pay rise (after 2 year pay freeze is over)

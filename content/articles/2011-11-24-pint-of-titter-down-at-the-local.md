@@ -36,4 +36,4 @@ There was some real talent on show that night. Present was the much acclaimed Te
 
 Not one of the acts was poor and this is testament to the hard work the organisers put into finding great people for the event. The M.C (Master of Ceremonies) and other organisers blatantly take pride in their work. It was this and the fact that we all thoroughly enjoyed the night that makes me sure you won’t be disappointed if you take my advice: buy a ticket and get giggling!
 
-_Comedy Hoopla at __The Hoop and Toy__ (South Kensington); returns on December 7. Doors open at 7:30pm_
+_Comedy Hoopla at The Hoop and Toy (South Kensington); returns on December 7. Doors open at 7:30pm_

@@ -50,7 +50,7 @@ Following the summit is the gleeful skip back down to the crater rim camp. From 
 
 The final day involves climbing back out of the crater and heading down the other side, continuing along a different path to avoid any route repeating. It’s a tolerable eight hours that pass by fairly quickly, assuming you’re still running on the high from having managed to summit. Finishing up puts you in the perfect spot to carry on to Lombok’s famed Senaru waterfalls, where you can kick back and relax. Alternatively, you could head hop on a boat to another island to sink a few beers and revel in the fact that you survived, which is what I did. It certainly scratched my hiking itch and also helped to keep the Bintang-induced beer belly at bay; if you’re heading to the archipelago be sure to make conquering Mount Rinjani a top priority.
 
-### __Rinjani Trekking Club – Lombok’s hiking specialists__
+### Rinjani Trekking Club – Lombok’s hiking specialists
 
 When I first docked in Lombok I went to have a chat with Mr Ronie and the gang at Rinjani Trekking Club (RTC), whom several sources had told me were highly reputable. I’d stress that this is the most important step that you want to get right; you need a reputable agency with knowledgeable guides, reliable equipment, and decent food to keep your energy levels high. RTC has all three. Furthermore, they are – to my knowledge – the only organisation on Lombok dedicated to conservation work, organising sustainable hikes and also cleaning up after less environmentally-conscious groups along the way.
 

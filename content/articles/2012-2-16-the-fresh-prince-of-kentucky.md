@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-[__Bonnie ‘Prince’ Billy__](http://www.myspace.com/princebonniebilly), aka Will Oldham, is a name who should be on everyone’s lips. Instead, in the current landscape of indie-folk/Americana he has been overlooked for the watered-down beige-athon that is [__Mumford and Sons__](http://www.mumfordandsons.com/). Many commendable elements of the current scene can be seen in Bonnie ‘Prince’ Billy’s prodigious output; the stark, naked beauty of [__Bon Iver__](http://boniver.org/), the lyrical twist of [__Conor Oberst__](http://www.conoroberst.com/) and [__Laura Marling__](http://www.lauramarling.com/)’s ability to take your breath away with a tune. Thankfully, Mumford’s equation for success (an abundance of waistcoats, combined with inane choruses) is nowhere to be seen on any of the Prince’s eleven albums.
+[Bonnie ‘Prince’ Billy](http://www.myspace.com/princebonniebilly), aka Will Oldham, is a name who should be on everyone’s lips. Instead, in the current landscape of indie-folk/Americana he has been overlooked for the watered-down beige-athon that is [Mumford and Sons](http://www.mumfordandsons.com/). Many commendable elements of the current scene can be seen in Bonnie ‘Prince’ Billy’s prodigious output; the stark, naked beauty of [Bon Iver](http://boniver.org/), the lyrical twist of [Conor Oberst](http://www.conoroberst.com/) and [Laura Marling](http://www.lauramarling.com/)’s ability to take your breath away with a tune. Thankfully, Mumford’s equation for success (an abundance of waistcoats, combined with inane choruses) is nowhere to be seen on any of the Prince’s eleven albums.
 
 > Bonnie ‘Prince’ Billy embodies the DIY approach that I cherish
 

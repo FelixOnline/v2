@@ -92,7 +92,7 @@ Mr Nordin had been on interruption of studies since December 2014.
 
 Nordin graduated in 2009 from a residential school in the State of Perak, Malaysia, before commencing his studies at Imperial in October 2012.
 
-__Malaysia reacts: “How do we not know he acted on his fetish?”__
+Malaysia reacts: “How do we not know he acted on his fetish?”
 
 Malaysian news outlets are discussing little else other than Nordin’s conviction, with many politicians, organisations and prominent members of society coming forward and giving their views.
 

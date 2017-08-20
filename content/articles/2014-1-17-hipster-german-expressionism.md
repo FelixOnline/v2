@@ -23,13 +23,13 @@ authors:
 highlights:
 ---
 
-__What: __From Morning to Midnight
+What: From Morning to Midnight
 
-__Where: __National Theatre, SE1
+Where: National Theatre, SE1
 
-__When: __Until 26th January
+When: Until 26th January
 
-__Price: __Various
+Price: Various
 
 So here you are. You’ve watched all the Salvador Dali films in the house, knitted all the hipster beanies you need, the bars in Shoreditch are too mainstream on a Friday night and you’ve already spent hours listening to unknown bands on Soundcloud. So what next? Well, you get yourself a ticket for a German expressionist play at the National Theatre, obvs.
 

@@ -48,10 +48,10 @@ Meineck hopes that the box could play an important role in helping the family to
 
 As the world becomes more and more connected, and we are assaulted with more and more information, it becomes harder to keep track of personal and national identities. The designer tries to make sense of this confusing world, condensing the unstable miasma of modern culture into something tangible, something permanent. The four designers displayed at the Design Museum are paragons of this idea of the ‘new designer’, and it is ideas such as theirs that help maintain our identity in this post-internet society.
 
-___What: Designers in Residence 2013 Exhibition___
+_What: Designers in Residence 2013 Exhibition_
 
-___Where: The Design Museum, London___
+_Where: The Design Museum, London_
 
-___When: 4th Sept 2013 – 12th Jan 2014___
+_When: 4th Sept 2013 – 12th Jan 2014_
 
-___Price: £10.75 Adults, £6.50 students___
+_Price: £10.75 Adults, £6.50 students_

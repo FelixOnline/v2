@@ -32,6 +32,6 @@ TEDxImperialCollege 2014 will be moving back to campus after last year’s TEDME
 
 Ticket details haven’t be announced just yet, but if previous years of TEDx and TEDMEDLive at Imperial are anything to go by, they’ll be some of the hottest tickets in town.
 
-In the coming weeks, the full list of hand-picked speakers will be released and Felix will report on these announcements as they are made. You will find updates as well on the website and social media pages. A lot of excitement is building up as the countdown towards the next TEDxImperialCollege begins. And indeed, to become part of TEDxImperialCollege and all the exciting ideas that define our tomorrow, be sure to keep an eye on the TEDxImperialCollege website at __tedximperialcollege.co.uk__
+In the coming weeks, the full list of hand-picked speakers will be released and Felix will report on these announcements as they are made. You will find updates as well on the website and social media pages. A lot of excitement is building up as the countdown towards the next TEDxImperialCollege begins. And indeed, to become part of TEDxImperialCollege and all the exciting ideas that define our tomorrow, be sure to keep an eye on the TEDxImperialCollege website at tedximperialcollege.co.uk
 
-TEDxImperialCollege is also on Facebook (__facebook.com/tedximperialcollege__) and you can follow TEDxImperialCollege on twitter _@TEDxIC_.
+TEDxImperialCollege is also on Facebook (facebook.com/tedximperialcollege) and you can follow TEDxImperialCollege on twitter _@TEDxIC_.

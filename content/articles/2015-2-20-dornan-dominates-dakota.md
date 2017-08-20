@@ -23,13 +23,13 @@ authors:
 highlights:
 ---
 
-__FIFTY SHADES OF GREY__
+FIFTY SHADES OF GREY
 
-__Director: __Sam Taylor-Johnson
+Director: Sam Taylor-Johnson
 
-__Screenplay: __Kelly Marcel, E. L. James (novel)
+Screenplay: Kelly Marcel, E. L. James (novel)
 
-__Cast: __Dakota Johnson, Jamie Dornan, Eloise Mumford, Marcia Gay Harden
+Cast: Dakota Johnson, Jamie Dornan, Eloise Mumford, Marcia Gay Harden
 
 Rating: 3/5
 

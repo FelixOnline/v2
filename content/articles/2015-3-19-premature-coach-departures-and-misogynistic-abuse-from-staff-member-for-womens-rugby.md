@@ -103,4 +103,4 @@ Sport Imerial head Neil Mosley told Felix: “The women’s rugby teams capped 2
 
 “Everyone involved in sport at Imperial knows that players and supporters deserve better than this and we’re sorry that the problems people encountered meant that the occasion didn’t live up to the quality of sport on the field”.
 
-___The editorial on this can be read [here. ](../comment/5419/sport-imperial-have-dropped-the-ball/)___
+_The editorial on this can be read [here. ](../comment/5419/sport-imperial-have-dropped-the-ball/)_

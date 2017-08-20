@@ -38,7 +38,7 @@ Is it really our position to judge whether a band has done the wrong thing, as w
 
 I’m sorry, but if you are going to do that, then you can’t complain. It’s the equivalent of going into your favourite restaurant, which serves some luxury food you love, eating there and making a run for it without paying. Then the next time you go, the owner knows what you intend to do, but for some reason he still gives you some food, because cooking is what he loves to do (I know, not quite the same, but you get the point), which may not be as nice; and you still don’t pay. Then you go home and have a fit about it to your friends.
 
-Being in a band for over 5 years now, and pursuing the dream of being signed by some indie record label that also has bands that we listened to daily – such as __This Will Destroy You __or __Moving Mountains__ (no, not [the song by __Usher__](http://www.youtube.com/watch?v=nQr-HmfXZ-Q)) – has made me realise how tough it really is.
+Being in a band for over 5 years now, and pursuing the dream of being signed by some indie record label that also has bands that we listened to daily – such as This Will Destroy You or Moving Mountains (no, not [the song by Usher](http://www.youtube.com/watch?v=nQr-HmfXZ-Q)) – has made me realise how tough it really is.
 
 The dream started to deteriorate as we realised how many obstacles stand in the way of underground bands – the limited amount of fans, the money you just don’t have, and the fact that the record deals just suck anyway, really.
 

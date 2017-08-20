@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__Ingredients__
+Ingredients
  3 eggs
  3 glasses of self raising flour
  3⁄4 glass of sugar

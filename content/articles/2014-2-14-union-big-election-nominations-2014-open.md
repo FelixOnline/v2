@@ -33,23 +33,23 @@ Voting then opens for a week from Friday, 7 March at noon until noon on Friday, 
 
 Ahead of the full list of candidates revealed at "Candidates Revealed" on 3rd March at 1200 in Clore LT, Huxley, Felix can reveal that the following candidates have confirmed their candidacy when asked by us:
 
-__President__
+President
 
 - Pratt, Jonny
 
 - Saha, Plabon
 
-__Deputy President (Finance & Services)__
+Deputy President (Finance & Services)
 
 - Savell, Alex
 
-__Felix Editor__
+Felix Editor
 
 - Eggl, Maximilian
 
 - Skett, Phillipa
 
-__RCSU President__
+RCSU President
 
 - Borkhataria, Cécile
 

@@ -21,7 +21,7 @@ authors:
 highlights:
 ---
 
-Recently EA announced a closed beta for its newest instalment in its Battlefield franchise. All you needed to do (and still can do at __battlefield.com/hardline/beta__) was give in your details and hope that EA decided to pick you. To be honest with you, I would honestly go for it. You only lose about 2 minutes of your time, and potentially get to test a triple-A title for zilch. I mean, what do you have to lose?
+Recently EA announced a closed beta for its newest instalment in its Battlefield franchise. All you needed to do (and still can do at battlefield.com/hardline/beta) was give in your details and hope that EA decided to pick you. To be honest with you, I would honestly go for it. You only lose about 2 minutes of your time, and potentially get to test a triple-A title for zilch. I mean, what do you have to lose?
 
 Anyway, I was lucky enough to be chosen for the Beta, (although I believe that pretty much everyone is chosen) and immediately went to download the game from origin. The interface itself is very similar to battlefield 4 in that you have do everything pre-game through your browser. You have a profile, loadout and can choose your server/game mode there.
 

@@ -22,10 +22,10 @@ authors:
 highlights:
 ---
 
-__What:__ Liolà
-__Where:__ The National Theatre
-__When:__ Until 6 November 2013
-__Price:__ £12 to £34, £5 with the 16-25 Entry Pass Scheme
+What: Liolà
+Where: The National Theatre
+When: Until 6 November 2013
+Price: £12 to £34, £5 with the 16-25 Entry Pass Scheme
 
 First, a disclaimer: for those with a strong aversion to musicals avoid this play at all costs.
  Liolà opens with a group of gypsy musicians providing music to what looks like a strange village sacrifice. One point to director Richard Eyre for immediate audience captivation.

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Calvary__
+Calvary
 
-__Director:__ Marc Webb
+Director: Marc Webb
 
-__Writer: __John Michael McDonaugh
+Writer: John Michael McDonaugh
 
-__Starring: __Brendan Gleeson, Chris O’Dowd, Kelly Reilly, Aidan Gillen
+Starring: Brendan Gleeson, Chris O’Dowd, Kelly Reilly, Aidan Gillen
 
-__Runtime: __100 minutes
+Runtime: 100 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 4/5
 

@@ -26,7 +26,7 @@ highlights:
  - comment
 ---
 
-__Capital Cities__ – In a Tidal Wave of Mystery
+Capital Cities – In a Tidal Wave of Mystery
 
 Whilst we were all fussing over the hottest and driest summer since 2006, something radiant happened on the infinitely more weather-blessed West Coast of the US. I’m not talking about the small yet progressive steps our darling cousins are taking for gay rights, but I am in fact referring to the release of Capital Cities’ true gem of a debut album, Iwn a Tidal Wave of Mystery.
 

@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Don’t hope. Never hope.__
+Don’t hope. Never hope.
 
 Hope is a last resort, an admission of defeat. You hope when there is nothing left to do, nothing you can do: you can’t act, repair, work, correct or strive anymore, so you wish that things could go your way. All you’re left with is your powerlessness and the hope that cosmic coincidences will align the world in your favour. When you hope, it means that you have given up.
 

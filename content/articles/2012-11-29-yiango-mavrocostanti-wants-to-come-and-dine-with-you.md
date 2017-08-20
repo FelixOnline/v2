@@ -27,7 +27,7 @@ highlights:
 It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for once!) with your friends. You are dreaming of a huge three course meal, a delicious starter, a great main dish and a luxurious dessert accompanied with good wine of course but then you suddenly realise that you can’t afford it!
  Well, I have good news for you. Even if you think that your cooking skills are nonexistent you can make a fantastic three course meal in just 2 hours, at minimum cost and trust me it will make your friends think that you are a secret chef! So, invite your friends and follow my three extremely simple recipes that will make your dinner party a huge success. Who knows? You might get people asking to come and live with you after this. (Happened to me, just saying....)
 
-__Starter:__
+Starter:
 _Aubergine and honey heaven_
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211301314-tna08-starter.jpg" title="" caption="" attr="" >}}
@@ -51,7 +51,7 @@ Preheat your oven to 180°C. With a fork, pierce the aubergine several times and
 
 Tip: For the starter you will need about 50 minutes. Be smart and bake the aubergine in advance since this will save you a lot of time!
 
-__Main:__
+Main:
 _Penne with homemade basil pesto - pictured at the top!_
 
 Now, who doesn’t like pasta? This dish is a guaranteed success. Do not get scared by the homemade pesto. It’s super easy! I promise.
@@ -69,7 +69,7 @@ Procedure:
 
 To make the pesto, simply place the basil, oil, garlic, and salt and pepper in the blender and pulse until smooth. If you don’t have a blender then chop the basil and garlic very finely and then place them in a bowl and mix with the olive oil, salt and pepper. Set the pesto aside and move on to the pasta! In a pot, boil 1 litre of water, add the pasta and some salt. After 7 minutes (need to be exact!) remove the pasta and wash them with cold water so that they will not stick together. In a non-stick pan put the pesto and the whole cherry tomatoes and when it starts to get warm add the pasta. Stir and let cook until the tomatoes become soft. Serve in a pasta bowl and add some fresh chopped basil on top!
 
-__Dessert:__
+Dessert:
 _Rich chocolate brownies_
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211301313-tna08-brownies.jpg" title="" caption="" attr="" >}}

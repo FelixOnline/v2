@@ -54,4 +54,4 @@ As university students we are often condemned for being apathetic towards global
 
 {{< figure src="http://felixonline.co.uk/img/upload/201112012022-pk1811-tekua.jpg" title="" caption="" attr="" >}}
 
-The TEKUA Education Centre project presents _Tanzania: Art for Knowledge_ at __Chartis UK__, 58 Fenchurch St., London, EC3M 4AB, 10:00-16:00 daily until December 17.
+The TEKUA Education Centre project presents _Tanzania: Art for Knowledge_ at Chartis UK, 58 Fenchurch St., London, EC3M 4AB, 10:00-16:00 daily until December 17.

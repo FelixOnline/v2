@@ -34,8 +34,8 @@ Meghan Trainor’s super-catchy ‘All About That Bass’ has been “getting fl
 With the number of people jumping on the bandwagon of hating on this song, it would be really easy to write an article picking at all the flaws in the arguments against this song. Of course, it’s easy for them to say that the opening line:
 
 _“Because you know
-__I’m all about that bass
-__‘Bout that bass, no treble”,_
+I’m all about that bass
+‘Bout that bass, no treble”,_
 
 is completely ridiculous, given that the song in fact, is not entirely bass based. But petty niggles aside, the song can have an entirely different interpretation, depending how pragmatic or fastidious you choose to be.
 

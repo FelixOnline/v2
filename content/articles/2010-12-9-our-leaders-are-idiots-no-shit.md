@@ -48,4 +48,4 @@ Merry Christmas. Here’s to the Brave New World.
 
 Have you got any secret government documents to reveal to the world?
 
-Send them to __anangrygeek@gmail.com__ so I can achieve worldwide fame... and then get arrested on sex charges.
+Send them to anangrygeek@gmail.com so I can achieve worldwide fame... and then get arrested on sex charges.

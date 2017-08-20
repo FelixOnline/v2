@@ -49,4 +49,4 @@ So anyway I had a meeting with PR and Carol, and they said that I ought to just 
 
 Cave Johnson, we’re done here.
 
-__Portal 2 is available now from stores and from [Steam](http://store.steampowered.com/app/620/).__
+Portal 2 is available now from stores and from [Steam](http://store.steampowered.com/app/620/).

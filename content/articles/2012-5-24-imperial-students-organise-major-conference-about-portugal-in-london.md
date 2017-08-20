@@ -32,4 +32,4 @@ Some of the confirmed speakers include Nuno Crato (Portuguese Minister for Educa
 
 Notwithstanding being the annual meeting of Portuguese Researchers and Students in the United Kingdom, LUSO 2012 welcomes participants across all areas of study/work, ages and nationalities. Registration for LUSO 2012 will be open until 9 June.
 
-More information can be found on LUSO 2012 website [__http://www.2012.luso.org.uk__](http://www.2012.luso.org.uk).
+More information can be found on LUSO 2012 website [http://www.2012.luso.org.uk](http://www.2012.luso.org.uk).

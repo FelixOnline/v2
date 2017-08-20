@@ -24,15 +24,15 @@ highlights:
  - photos
 ---
 
-__Mockingjay – Part 1__
+Mockingjay – Part 1
 
-__Director: __Francis Lawrence
+Director: Francis Lawrence
 
-__Screenplay: __Peter Craig, Danny Strong, Suzanne Collins
+Screenplay: Peter Craig, Danny Strong, Suzanne Collins
 
-__Cast: __Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Julianne Moore
+Cast: Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Julianne Moore
 
-__Rating:__ 4/5
+Rating: 4/5
 
 Katniss Everdeen is broken. Being thrown into the arena for the Hunger Games twice in quick succession would be enough to break anyone. Add in the chaotic climax of the second round, and it’s a surprise she’s still going at all: the collapse of the arena, the revelation that the rebellion is underway and spear-headed by the previously lost District 13, and the crushing reveal that District 12 – home – is no more. Small wonder she spends the opening moments of this, the third film in the series (and the first part of the final book – split, predictably, into two parts), curled up in a corner, reciting her name, her home, her participation in the Hunger Games and her relationship with Peeta over and over again.
 

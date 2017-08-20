@@ -30,17 +30,17 @@ highlights:
 ---
 
 I was recently challenged to rate every film I have ever seen. Apart from being a shockingly huge task, it also threw up a massive problem. Because there are incredible films for every emotion. And of course there are some God-awful films too – less said about these the better. The problem I have is,that there are some terrible films that I adore. Films that I willwatch over and over in secret; films that I suspect everyone loves but is ashamed to admit. Well, since nobody ever thought I was cool, and since my taste in film is already universally known to be dodgy; consider this my official confession.
-## __The Fog (1980)__
+## The Fog (1980)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211091335-tna08-the-fog-original.jpg" title="" caption="" attr="" >}}
 
 The original,not the waste-of-oxygen Wainwright remake. Inhabitants of a coastal town fall victim to their troubled history. 100 years earlier, six of the town’s founders deliberately sank a boat, using its cargo to build the town, and killing all the sailors aboard. On the towns centennial, a glowing fog rolls into town, containing the zombie sailors, who kill six of the town’s residents to settle the score. For 80s horror this isn’t bad, and was John Carpenter’s first film after Halloween, which was released a couple of years earlier (also starring Jamie Lee Curtis). It is undeniably low budget: the glowing fog looks more school disco than supernatural, the gore is unrealistic, and close-up shots of the zombies reveal less than perfect prosthetics; however, I still find the film utterly terrifying. The zombie threat is understated, playing more on the fear of the unknown than explicit threat, and the score is fantastic (unusual for cheap horror) contributing to an absorbing and intense experience. This is classic independent horror – Carpenter should never have agreed to the 2005 remake, which featured the incompetent acting ‘talents’ of Tom Welling and Maggie Grace, and while had superior effects, could not compete with the original.
-## __Top Gun (1986)__
+## Top Gun (1986)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211091338-tna08-topgun.jpg" title="" caption="" attr="" >}}
 
 I was recently asked to explain the plot to a backwards friend who hasn’t seen the film. He couldn’t understand why I’d included it in the list, as it scores in all the right areas – Tom Cruise, fighter jets, fatal accidents and plenty of faux-macho behaviour. In fact, it was the highest grossing film of 1986, and caused an influx of Navy recruits after its release. When Pete ‘Maverick’ Mitchell (Cruise) and his wingman Goose are sent to the Navy’s Fighter Weapons School, Maverick falls for his female teacher, and overcomes crippling doubts after Goose is tragically killed in a training accident. This film is completely and unashamedly inaccurate – the main source of criticism is its lack of realism, but that simply doesn’t matter to me. Top Gun is about bromance, being as camp as humanly possible, and flying awesome planes. And again, the nine times platinum soundtrack is one of the most popular OSTs ever, featuring the Oscar winning “Take My Breath Away”. But none of that can save it from its relentlessly awful lines, continuous shower scenes, and the distinct impression that if the Village People rocked up at naval base, it would look a little something like Top Gun.
-## __Crocodile Dundee (1986)__
+## Crocodile Dundee (1986)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211091340-tna08-crocodile_dundee_33338_medium.jpg" title="" caption="" attr="" >}}
 

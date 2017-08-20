@@ -36,7 +36,7 @@ Certainly the band here least requiring any introduction. The industrial rock ou
 
 If you’re not familiar with their work already, darkly iconic tracks such as ‘A Hanging’ should give you a pretty good idea of what they’re about although they have a sound that covers a pretty wide range at times.
 
-__Swans__ have frequently impressed critics and fans alike with the power of their live sets and indeed much of their hugely acclaimed 2012 effort _The Seer_ was developed live. Add to this the prospect of some tracks newly released _To Be Kind_ and Swans are surely not to be missed.
+Swans have frequently impressed critics and fans alike with the power of their live sets and indeed much of their hugely acclaimed 2012 effort _The Seer_ was developed live. Add to this the prospect of some tracks newly released _To Be Kind_ and Swans are surely not to be missed.
 
 #### Basic House
 
@@ -46,7 +46,7 @@ His live performances are an extravaganza of loud, fierce and terrorising electr
 
 #### Backwards
 
-Birmingham based __Backwards__ is a supergroup of sorts, featuring members of __Napalm Death__, __Beestung Lips__ and __Una Corda__. Their set up comprises two bass guitars, drums, voice and electronics.
+Birmingham based Backwards is a supergroup of sorts, featuring members of Napalm Death, Beestung Lips and Una Corda. Their set up comprises two bass guitars, drums, voice and electronics.
 
 There’s not a whole lot of information online, but they’re kind enough to offer us a guarentee... of disappointment. A listen to small part of their music reveals a lo-fi, vitriolic dirge of distorted sludge infused with punk-like energy as they presistently blast through extended opuses of sheer bitterness. Throughout the music evokes feelings of dystopia and uneasiness.
 
@@ -54,7 +54,7 @@ Needless to say, their ugly, bleak and brutal stylings will more than likely be 
 
 #### Wolf Eyes
 
-Michigan-based group __Wolf Eyes__ are of course highly revered, with a reputation as the kings of US noise.Since the founding line-up, __Aaron Dilloway__ moved on to spend some time in Nepal and has, of course, enjoyed a glittering solo career, but Wolf Eyes have still gone from strength to strength.
+Michigan-based group Wolf Eyes are of course highly revered, with a reputation as the kings of US noise.Since the founding line-up, Aaron Dilloway moved on to spend some time in Nepal and has, of course, enjoyed a glittering solo career, but Wolf Eyes have still gone from strength to strength.
 
 Last year they released their latest effort _No Answers:Lower Floors_, their first effort to feature new guitarist ‘Crazy Jim.’ The result is more of a simmering, ominous sound that seeks less to go straight for the jugular and this imbues a lot more variety into their music.
 
@@ -62,7 +62,7 @@ This is not to say that their live shows are no longer raucous. If not for the l
 
 #### Ex-Easter Island Head
 
-This is my personal predicted highlight. __Ex-Easter Island Head __first grabbed my attention with _Mallet Guitars Three_, which, as far as I’m concerned is a wonderfully shameless __Steve Reich__ homage.
+This is my personal predicted highlight. Ex-Easter Island Head first grabbed my attention with _Mallet Guitars Three_, which, as far as I’m concerned is a wonderfully shameless Steve Reich homage.
 
 This year they’ve furthered the direction of the Mallet Guitars series, releasing _Large Electric Ensemble_. As I’m sure you don’t need me to tell you, the Supersonic performance will be in a large electric ensemble. The album balances minimalism with the minimialism inspired sounds of math rock and comes up somewhere in between in my opinion. The ensemble consists largely of prepared guitars – every noise rock fan’s favourite instrument.
 
@@ -70,8 +70,8 @@ Their work boasts classical complexity as well as hard hitting rock catchiness, 
 
 #### Extra-curricular Activities....
 
-Supersonic always delivers some extras that are commensurate to the quality of the festival. Not least among these (although not relevant to most of our readership) are the kids’ gigs, which introduce the next generation to the wonders of experimental music, this year featuring __Sarah Kenchington__.
+Supersonic always delivers some extras that are commensurate to the quality of the festival. Not least among these (although not relevant to most of our readership) are the kids’ gigs, which introduce the next generation to the wonders of experimental music, this year featuring Sarah Kenchington.
 
-Kenchington is also performing at If Wet Salon, an event set up by intstrument makers Morton Underwood aka tuba band __Ore__ (see Supersonic ‘12), along with the computer-mimetic stylings of Ryan Jordan among others. The salon showcases a variety of self-made instruments and new artists with a more interactive aspect.
+Kenchington is also performing at If Wet Salon, an event set up by intstrument makers Morton Underwood aka tuba band Ore (see Supersonic ‘12), along with the computer-mimetic stylings of Ryan Jordan among others. The salon showcases a variety of self-made instruments and new artists with a more interactive aspect.
 
-If that’s not enough, to name but one of many other attractions, there’s also a Quietus curated film programme featuring a film of __Cosey Fanni Tutti__ discussing the vissicitudes of self-sufficient vegetable gardening.
+If that’s not enough, to name but one of many other attractions, there’s also a Quietus curated film programme featuring a film of Cosey Fanni Tutti discussing the vissicitudes of self-sufficient vegetable gardening.

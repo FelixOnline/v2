@@ -33,25 +33,25 @@ International Night is a celebration of cultural diversity within the College. W
 
 Below, we hear from 2 committee members and 2 societies describing some of the events during the week.
 
-__The Queen’s Tower event__
+The Queen’s Tower event
 
 “This year we wanted to do something special to mark the International Week at Imperial and also something that would help us to raise the profile of the Overseas committee that represents all of the international societies at the college. We also hoped to raise funds for Inight that will take place on the 9th Feburary 2013. What better way, we thought, than opening the Queen’s Tower to visitors!! Going up to the top to enjoy the view and surprisingly, the good weather, did not disappoint! For those that missed out, the OSC hopes to open up the tower again in February.
 
 A big thank you to all of the OSC Executive committee who made it possible together with the college itself!” – Wasim Khouri, OSC Chair.
 
-__Cyprus Hospitality Night__
+Cyprus Hospitality Night
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211222254-tna08-people.jpg" title="" caption="" attr="" >}}
 
 “As part of the first International Week at Imperial, the Imperial College Cypriot Society organized a special event for everyone at Imperial to get to know more about Cyprus, its hospitable people and also the amazing Cypriot cuisine, defined by a splendid mixture of Mediterranean and Middle-Eastern food. Theevent, named ‘Cyprus Hospitality Night’ was an excellent opportunity for people to taste the local starters of “pitta” bread with “taramosalata”(made from smoked cods roe), “houmous” and “lountza” (delicious smoked and marinated loin of pork). Of course, the famous Cypriot cheese, “halloumi”, couldn’t be missed from the event and it was actually served grilled which made it even tastier! Moreover, attendees had the chance to try some of the island’s finest traditional deserts such as ‘Cyprus delights’ or Cypriot “loukoumia”, “soutzioukos” (made of grape must, nuts and flour) and the semolina variety of “halvas”. The event turned out to be very successful and all the food and deserts were consumed very quickly, leaving everybody amazed by the Cypriot flavours! Finally, everyone left satisfied by the friendliness of Cypriot people and enjoyed the Cypriot hospitality. “ – Ioannis Kourouklides, Cypriot society. (See Food, page 44)
 
-__Hellenic Society traditional cuisine day__
+Hellenic Society traditional cuisine day
 
 “The Hellenic Society gave Imperial College a small taste of its cuisine. On Thursday afternoon, the Society’s stand in front of the Sheffield Building and the Queen’s Tower Rooms offered a treat to anyone who passed by. Greek salad on-a-stick with tomato, cucumber and “feta”, cheese pie snacks (“tyropitakia”) and traditional “dolmadakia” were just a few of the delicacies freely offered by the Greeks of the College as part of the International Week. Of course, the menu contained traditional Greek dessert as well! So, after having some of the food provided, you could taste a nice little sweet called Greek “loukoumi” or the traditional Christmas sweets of “melomakarono” or “kourabies”, both devoured en masse during the Christmas period!
 
 The event lasted for two hours, during the lunch break that is, and was enjoyed by a very large number of Imperial students as well as members of staff. The food was also accompanied by modern Greek popular music that resulted in a feast of Greek dancing!” – Michael Dinalexi, Hellenic society
 
-__The OSC World cup__
+The OSC World cup
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211222254-tna08-iraqiteam.png" title="" caption="" attr="" >}}
 

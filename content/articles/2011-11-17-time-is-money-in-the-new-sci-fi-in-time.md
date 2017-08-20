@@ -24,13 +24,13 @@ authors:
 highlights:
 ---
 
-__In Time__
+In Time
 
-__Director __Andrew Niccol
+Director Andrew Niccol
 
-__Screenwriter __Andrew Niccol
+Screenwriter Andrew Niccol
 
-__Cast __Justin Timberlake, Amand Seyfried
+Cast Justin Timberlake, Amand Seyfried
 
 The premise: humans are engineered to die at 25, beyond this age you can only live if you have “time” on your clock. How do you accrue more time? If you are one of throng of the proletariat, by working for it, if you happen to be one of the rich, by doing evil capitalist stuff like exploiting the poor, owning banks etc. In this dystopian world you pay for everything with time, from buying a coffee to paying for your bus fare. Poor people struggling to accrue time face increases in the cost of living which drains their clock and potentially brings about their early death. To separate the haves and the have-nots, ghettos have sprung up. These are crime ridden slums where people steal time from each other. In these districts people will “murder you for a week.” Contrasting this is New Greenwich, a bastion for the rich where people are rendered practically immortal by the thousands of years they possess.
 

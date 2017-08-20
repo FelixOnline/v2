@@ -26,9 +26,9 @@ highlights:
 
 ###  The Iron Lady
 
-__Director:__ Phyllida Lloyd
-__Screenwriter: __Abi Morgan
-__Cast: __Meryl Streep, Jim Broadbent
+Director: Phyllida Lloyd
+Screenwriter: Abi Morgan
+Cast: Meryl Streep, Jim Broadbent
 
 Phyllida Lloyd is a special director. But I mean this as no compliment. With her skills behind the camera, she has managed the almost impossible. She made a Meryl Streep movie almost unwatchable.
  Opening with a hallucinatory Margaret Thatcher (Streep), in which she believes her dead husband Dennis (Jim Broadbent) is still alive, the film is already starting to show that it has its focus in all the wrong places. It is heart-breaking for the audience to learn that she has lost someone dear to her heart, and the devastating consequences this has had on her life, but it’s certainly not something we want to come back to too frequently. Perhaps trying to squeeze as many tears out of us as possible, Lloyd is strangely eager to show the current Thatcher, instead of closely examining the rise of a great leader, her politics, and her eventual decline.

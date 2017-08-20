@@ -27,7 +27,7 @@ highlights:
  - longread
 ---
 
-__Yes __
+Yes
 
 _GH_
 
@@ -43,7 +43,7 @@ In terms of the recent Act, the primary purpose of the legislation is an annual 
 
 At the recent budget, George Osborne predicted that, even taking into account the Welfare Reform Act, the welfare budget would grow to be one third of total government spending by 2015. For a country running at a considerable deficit, at a time when the world economy is in its worst shape since the Great Depression, this is a completely nonsensical position. Put simply, the country cannot afford it, and it is certainly not a necessary expenditure. The last 30 years has seen the United Kingdom become a nation too dependent on the State, mostly due to the vote grabbing, short-term policies of successive Labour governments. Now finally, as the people awaken to realise the catastrophic situation they find the country in, we need to wean the parasitic few off this unnecessary lifeline. Welfare reform could not come too soon, nor can it go too far.
 
-__No__
+No
 
 _Luke Sheldon_
 

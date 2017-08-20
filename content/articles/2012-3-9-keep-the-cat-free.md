@@ -26,11 +26,11 @@ highlights:
  - comment
 ---
 
-___Following allegations that Felix has been prevented by College from printing, I would like to take the opportunity to reassure readers that it was solely an editorial decision to not run the piece on the Careers Advisory Service.___
+_Following allegations that Felix has been prevented by College from printing, I would like to take the opportunity to reassure readers that it was solely an editorial decision to not run the piece on the Careers Advisory Service._
 
-___This was based on the fact that there were several factual inaccuracies in the piece. A full written response had been provided by College, highlighting the inaccuracies, however the revised version of the article had not yet addressed these. The decision not to run the piece in subsequent issues, again entirely an editorial choice, was because of concerns over the factual accuracy.___
+_This was based on the fact that there were several factual inaccuracies in the piece. A full written response had been provided by College, highlighting the inaccuracies, however the revised version of the article had not yet addressed these. The decision not to run the piece in subsequent issues, again entirely an editorial choice, was because of concerns over the factual accuracy._
 
-___At no point has Felix been “implicitly threatened” with any legal action, and at no point has College sought to prevent Felix from printing. A full editorial in next week’s issue will expand on this – The Editor___
+_At no point has Felix been “implicitly threatened” with any legal action, and at no point has College sought to prevent Felix from printing. A full editorial in next week’s issue will expand on this – The Editor_
 
 In last week’s Felix, I had intended to publish an article which exposed what I believe are serious problems with Imperial’s Careers Advisory Service. It detailed how the service has been susceptible to privatisation, it explained why so much of our career advice is just advertising for the financial sector and it criticised the College for allowing such an important service to become biased towards wealthy corporations.
 

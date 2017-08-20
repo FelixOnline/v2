@@ -43,7 +43,7 @@ The last film is famous for the number of Oscars it won. Best Vampire, Most Hist
 
 So there it is. A chance to see five films for the price you would usually pay to see one. And a decent excuse to miss lectures the next day. So what are you waiting for, book your tickets now. I’ll see you there!
 
-__Line Up:__
+Line Up:
 
 18:00 Lincoln
 

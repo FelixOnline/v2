@@ -28,11 +28,11 @@ Sometimes life just kicks you square in the balls. It sucks, but it is an intrin
 
 I spoke to two of the Tin Cans about what the Blues means to them, musical authenticity and what they’ll bring to the party tomorrow, when they play Felix’s Music Night, 19.02.
 
-__Would you like to introduce yourselves?__
+Would you like to introduce yourselves?
 
 Phil (guitar, vocals): Wait. What if I introduce him, he can introduce me.
 
-__Sounds like a plan.__
+Sounds like a plan.
 
 Phil: Ok, this here’s the Big Shot. He plays percussion for us, and tends to rearrange pretty much anything we intend on doing, pretty much how he wants to do it right then and we all need to hold on tight.
 
@@ -40,7 +40,7 @@ Aaron (drums): This is Phil. “The Power”. “Taylor”. Nah, it’s just Phi
 
 Phil: There was supposed to be someone else here. Boxcar Joe. Plays harmonica for us. He’s an actor and creator. Well… he calls himself that, so it’s not as omnipotent as he thinks but… Yeah, he plays harmonica for us. And fills in any of the gaps on the Delta lyrics that we’ve forgotten. That’s us at the minute. And we’re going through bassists at a pace. Umm. Having to replace them far too regularly.
 
-__Did you guys start out with Blues covers and then move towards your own songs?__
+Did you guys start out with Blues covers and then move towards your own songs?
 
 Phil: I always had my own songs that I always wanted to play, and I used to write them faster than we would get them recorded or get them rehearsed properly. Immediately when we started playing we found that we needed to play gigs now, and the kind of joints that we wanted to play require you to have a playbook. You have to be able to play a certain number of standards and not sound like an idiot.
 
@@ -50,7 +50,7 @@ Phil: I found we needed to do what was effectively the Blues – but a bit more.
 
 So we needed to do something that was a bit more – necessarily original. Because it just wouldn’t be authentic really, I can’t sing about the Delta, or my woman dying, or the flood in Tupelo. I wasn’t there!
 
-__Where do you get your inspiration?__
+Where do you get your inspiration?
 
 Phil: To set out writing a blues is really forced. Because the process by which the blues were written were from work songs from call-and-reply tunes that were sung even without any music. The percussion was breaking rocks with a pick-axe, and a sawblade and a train. That’s what you had to work with.
 
@@ -64,7 +64,7 @@ Phil: I mean certainly the great thing about the three of us – Boxcar Joe incl
 
 Aaron’s there listening to some progressive shit, in some time signature – like 9/11 time signature or something. So when I give these guys a song I could get it back in any old way, I have no idea, I can’t predict it. Certainly I write all my stuff acoustic. But then when it’s gone through the Tin Can factory, it comes out a completely different animal.
 
-__What does the Blues mean to you?__
+What does the Blues mean to you?
 
 Aaron: The Blues is when you ain’t got no money to pay yo house rent, cuz you’re thinkin evil.
 
@@ -74,7 +74,7 @@ Aaron: On a serious note, everyone feels shit during their life at certain point
 
 Phil: The Blues isn’t about moping in the corner. The Blues is about sitting on your housetop shirtless with a half-bottle of rye, shouting at the neighbour, because he done stole your woman. It’s that kind of stuff. There’s certainly a lot of commaraderie in it. When you see bluesmen talk to each other it’s something different. It’s like they’ve got a secret story. That only they know. Only they know the plot, or only they know the scene. And they can change the scripts how they want. It’s this kind of secrecy, it’s like a little club. It’s a secret handshake, it’s that kind of music. That’s what the Blues is: mythology.
 
-__What will you guys bring to 19.02?__
+What will you guys bring to 19.02?
 
 Aaron: People will be fucking dancing when we’re playing our tunes.
 

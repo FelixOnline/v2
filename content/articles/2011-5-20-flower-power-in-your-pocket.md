@@ -60,4 +60,4 @@ The Zen Garden is less of a game mode than a relaxation one. In it plants that �
 
 _Plants vs. Zombies_ is most certainly worth your money if you have yet to play it, but I would be wary about purchasing it on the DS if you have an iGadget in your possession. The [iPhone/iPad/iPod Touch versions](http://itunes.apple.com/us/app/plants-vs-zombies/id350642635) of the game, though lacking the DS’s extra mini-games, run a Hell of a lot smoother and look a hell of a lot sexier to boot. At the end of the day, _Plants vs. Zombies_ is like a bikini model – it is amazing however you look at it, but a bit of oil to smoothen it up makes it even better. You can do without the drool though, for this game.
 
-___Plants vs. Zombies DS_ is available now from PopCap Games for all Nintendo DS family consoles.__
+_Plants vs. Zombies DS_ is available now from PopCap Games for all Nintendo DS family consoles.

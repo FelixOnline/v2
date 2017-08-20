@@ -30,23 +30,23 @@ highlights:
 
 Between a live date in Oto as a duo and another in a large ensemble with Oren Ambarchi, I was able to grab an interview with Australian musucians James Rushford and Joe Talia. Aside from my aiming for an inside scoop about the night’s rendition of ‘Knots’ (from Ambarchi’s Audience Of One), we primarily discuss their work as a duo. and especially their 2013 album Manhunter.
 
-__Riaz Agahi: How does tonight’s version of ‘Knots’ differ from the record? Is it expanded?__
+Riaz Agahi: How does tonight’s version of ‘Knots’ differ from the record? Is it expanded?
 
 Joe Talia: It’s probably not expanded from the record, but it’s different. I’m playing drums tonight and I played drums on the record. Oren and I have played a lot as a duo, without the other guys. So that part of it, the interplay between the guitar and the drums has actually evolved a lot since the recording. The recording was actually done quite a long time ago, before we actually played all the shows. That element of it is definitely changed and has broadened a lot.
 
 James Rushford: For the strings arrangement I more or less transcribed Eyvind Kang’s part but there are alterations. There are certain sections that are a little more improvisatory and just the nature of the way those instruments interact with the ensemble is a bit more energetic I suppose in the performance.
 
-__RA: How long have yo____u guys been working together?__
+RA: How long have you guys been working together?
 
 JT: Since 2009? I think it [was when] first record came out
 
-__RA: I haven’t really been able to get my hands on any earlier work, and when I turned on Manhunter I was expecting noise to be honest. I thought it was interesting you created a dark atmosphere without going straight to noise which made it more suspenseful. What exactly did you do on the album, as in what instruments did you use?__
+RA: I haven’t really been able to get my hands on any earlier work, and when I turned on Manhunter I was expecting noise to be honest. I thought it was interesting you created a dark atmosphere without going straight to noise which made it more suspenseful. What exactly did you do on the album, as in what instruments did you use?
 
 JR: It’s deliberately obscure. So, a lot of things that sound like synthesisers, for instance, are generally really instruments. There’s a lot of acoustic instrumentation on the record. We wanted to make something using the studio we had available to us and we also wanted to make something very different to the last 2 records. So we deliberately didn’t play instruments that we’re usually familiar with or comfortable with.
 
 JT: Yeah, everything’s not our usual mode.
 
-__RA: Wire’s review of the album compared the album to the Twin Peaks soundtrack. Is that something that was in your head at all at the time?__
+RA: Wire’s review of the album compared the album to the Twin Peaks soundtrack. Is that something that was in your head at all at the time?
 
 Both: Not at all.
 
@@ -56,11 +56,11 @@ JR: it’s just a shame that people make a reference to Twin Peaks whenever they
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306140003-tna08-jamesrushfordjoetalia.jpg" title="JamesRushford and JoeTalia" caption="JamesRushford and JoeTalia" attr="" >}}
 
-__RA: I think it’s just wishful thinking on people’s part. But in a way, there’s a sort of darkly comedic but also bleak and just all out weird ambience in Lynch’s material that also finds some place in your music. __
+RA: I think it’s just wishful thinking on people’s part. But in a way, there’s a sort of darkly comedic but also bleak and just all out weird ambience in Lynch’s material that also finds some place in your music.
 
 JR: I think that this record more than the other ones is kind of more openly emotional, you know? We let the harmony in the music go places that we probably we would have avoided previously. I think again that kind of relates to the Lynch thing, because (Angelo) Badalamenti’s music can be so emotional earnest at times. Which makes it verge on the edge of being cheesy. That for me is kind of special, how it remains sort of cheesy but sort of austere at the same time.
 
-__RA: It does kind of have a cinematic nature to it. It sort of seems to build towards a euphoric synth at the end. Is there a sort of progression in the album or is it like separate suites?__
+RA: It does kind of have a cinematic nature to it. It sort of seems to build towards a euphoric synth at the end. Is there a sort of progression in the album or is it like separate suites?
 
 JR: It was originally gonna be over 2 hours long. So it was very much supposed to be one long piece that moved very slowly, and at times was collage based but other times very much on one trajectory.
 
@@ -72,7 +72,7 @@ JT: Yeah, we didn’t make separate songs and piece them all together later.
 
 JR: It was really about deconstructing one idea, into the next idea.
 
-__RA: I’ve only in the past year or two been aware of the amount of great artists from Australia. Is the Australian scene localized to a few cities or is it widespread?__
+RA: I’ve only in the past year or two been aware of the amount of great artists from Australia. Is the Australian scene localized to a few cities or is it widespread?
 
 JR: I think it’s quite far reaching. People often say that Melbourne is sort of the centre of that scene but I wouldn’t necessarily say that’s the case.
 

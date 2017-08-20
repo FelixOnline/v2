@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Transcendence__
+Transcendence
 
-__Director:__ Wally Pfister
+Director: Wally Pfister
 
-__Writer: __Jack Paglen
+Writer: Jack Paglen
 
-__Starring: __Johnny Depp, Rebecca Hall, Morgan Freeman, Paul Bettany, Kate Mara, Cillian Murphy
+Starring: Johnny Depp, Rebecca Hall, Morgan Freeman, Paul Bettany, Kate Mara, Cillian Murphy
 
-__Runtime: __119 minutes
+Runtime: 119 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 4/5
 

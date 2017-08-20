@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__The Spectacular Now__
+The Spectacular Now
 
 Director: James Ponsoldt
  Writers: Scott Neustadter, Michael H. Weber, Tim Tharp (novel)

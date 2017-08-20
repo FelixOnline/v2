@@ -28,4 +28,4 @@ But while this may be the reputation the film is conjuring up, the actual produc
 
 Certain aspects of the film don’t quite work: a backstory involving a sinister figure from Shepherd’s past would be better left out, and the idea to have two versions of Alan Bennett’s character – the writer and the man – does not work as well as it could have, although it is an interesting touch. Hytner, fresh from his tenure at the National Theatre, where he directed Maggie Smith in the first stage performance of _The Lady in the Van_, does a very good job at conjuring up the complex social interactions for which the North London elite have become famous. It is a film that goes down smooth, leaving a sensation of warm contentment – definitely one you can take the granny to.
 
-__Verdict: 3.5 Stars__
+Verdict: 3.5 Stars

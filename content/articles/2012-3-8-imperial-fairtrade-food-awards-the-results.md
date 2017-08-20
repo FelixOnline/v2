@@ -26,7 +26,7 @@ highlights:
  - longread
 ---
 
-__First Place:____Brigitte Jessica Janssen__’s __Gooey, Fibre And Mango infused Blackberry Muffins__ earned her the top prize: a £30 voucher for online shopping site [ethicalsuperstore.com](http://ethicalsuperstore.com). Congratulations!
+First Place:Brigitte Jessica Janssen’s Gooey, Fibre And Mango infused Blackberry Muffins earned her the top prize: a £30 voucher for online shopping site [ethicalsuperstore.com](http://ethicalsuperstore.com). Congratulations!
 
 _Ingredients_
  30g jumbo oats
@@ -55,7 +55,7 @@ _Method_
  8. Equally distribute the batter into the cases adding a few blackberries into the cases as this is done so that they are in the middle of the muffin.
  9. Place the tray into the oven for 30 minutes, letting them cool in the tray once taken out. The muffins may be quite gooey, so they should be solidified in the fridge.
 
-__Second Place: Jordan Purvis__ and __Alison Lee__ took the second spot with their __Coffee and Walnut Cake__! For a little more inspiration, the prize takes the form of book Leon: Ingredients and Recipes
+Second Place: Jordan Purvis and Alison Lee took the second spot with their Coffee and Walnut Cake! For a little more inspiration, the prize takes the form of book Leon: Ingredients and Recipes
 
 _Ingredients_
  For the cake:
@@ -86,7 +86,7 @@ _Method_
  Sieve the icing sugar in a bowl and beat in the butter with a wooden spoon. Add in the hot coffee liquid mixture slowly and mix well.
  Once the cake has cooled down enough, spread the espresso buttercream frosting on top of the cake and decorate with walnuts and some cinnamon powder.
 
-__Third Place: __The final main competition winner, __Faye Thomsit__, fired up the fruits and created a __Foxy Fairtrade Sunshine Soufflé__, winning a copy of Just Desserts: 50 sweet surprises using Fairtrade ingredients
+Third Place: The final main competition winner, Faye Thomsit, fired up the fruits and created a Foxy Fairtrade Sunshine Soufflé, winning a copy of Just Desserts: 50 sweet surprises using Fairtrade ingredients
 
 Serves 2, suitable for vegetarians, coeliacs and those who are dairy intolerant.
 
@@ -120,7 +120,7 @@ _Method_
 
 Enjoy with a partner or a friend.
 
-__Runner-up__: __Nicholas Greenwood__’s __Fairtrade Coconut Cornflake Cakes__
+Runner-up: Nicholas Greenwood’s Fairtrade Coconut Cornflake Cakes
 
 Makes approx. 6 large
 
@@ -147,7 +147,7 @@ _Method_
  9. Dust with a little coconut
  10. Place in fridge for 1 hour to set
 
-__Runner-up:__ Stephanie Lim takes on a Maple Banana Loaf
+Runner-up: Stephanie Lim takes on a Maple Banana Loaf
 
 _Ingredients_
  2 Eggs

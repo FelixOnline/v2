@@ -23,13 +23,13 @@ highlights:
  - photos
 ---
 
-__What: __Richard Hamilton
+What: Richard Hamilton
 
-__Where: __Tate Modern, SE1
+Where: Tate Modern, SE1
 
-__When: __13th February - 26th May
+When: 13th February - 26th May
 
-__Price: __£14.50, concessions £12.50
+Price: £14.50, concessions £12.50
 
 Richard Hamilton. Father of pop art, experimenter of consumer design, right? If that is all you associate with this icon of twentieth century British art, this massive retrospective at the Tate will change your mind. As far as it is even conceivable to encapsulate the works of an artist as prolific and far-reaching as Hamilton into a single exhibition, this showcase does a good job. To most of us, Hamilton is known simply as the “father of pop art”, with the figure cut-outs and domestic interior of his iconic 1956 collage _Just what is it that makes today’s homes so different, so appealing?_ heralding a new era of art that draws on popular culture as inspiration. This exhibition, however, offers us a glimpse into the colossal scope of his work – from his printmaking experiments as a student at the Slade to numerous political paintings to a roomful of Polaroid portraits of himself by other artists, we are introduced to a man who was actively engaged with the world around him and whose sense of adventure shone throughout his career – sometimes irreverently.
 

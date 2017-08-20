@@ -26,7 +26,7 @@ highlights:
  - longread
 ---
 
-__007 Blood Stone __
+007 Blood Stone
 
 He’s blonde, bad and back. No, Boris Johnson hasn’t won a snap mayoral election, but instead Daniel Craig has stepped back into the shoes of James Bond for two (count ‘em) new videogame releases. 007 Blood Stone is an original adventure for the Bond series, not being based on any current or future film, which mixes third person behind-the-shoulder shooting with classic vehicular chase sections. A departure from the previous franchise entry Quantum of Solace, Bizarre Creations (creators of popular racing series Project Gotham Racing) takes over from Treyarch and Eurocom as developers. They’ve decided to return to a formula that feels a lot like that from critically lauded 2004 console hit Everything or Nothing, but have the new kids on the block struck gold(finger), or are they simply dead on arrival?
 
@@ -50,9 +50,9 @@ While the game makes you feel like Daniel Craig, his in-game face ironically loo
 
 Bizarre Creations have obviously taken a lot of care in making sure that they do the franchise the justice that it deserves, delivering a thoroughly cinematic experience that is definitely entertaining while it lasts, yet after it does end, it doesn’t leave a lot to go back to. It’s definitely a solid experience, though one that’s more akin to a DVD than a game – you’ll return to it occasionally and certainly enjoy it, but have little reason to return to it often.
 
-__007 Blood Stone is available now on Xbox 360, PS3, DS and PC__.
+007 Blood Stone is available now on Xbox 360, PS3, DS and PC.
 
-__GoldenEye 007__
+GoldenEye 007
 
 When it was originally released on the N64, Rareware’s GoldenEye 007 was hailed as one of the most influential first person shooter games of all time and went on to sell eight million copies. Unlike traditional movie cash-ins it was released a leisurely two years after the film on which it was based and as a result featured a painstakingly crafted single player mode and the perfectly balanced multi-player. Every video game fan and almost everyone else remembers a tense GoldenEye multiplayer battle far more vividly than Diana’s death or New Labour’s election. It was immensely popular and every subsequent 3D console shooter takes inspiration from it in some way. However, after 13 years of evolution in FPSs, is Eurocom’s updated version for the Wii still worthy of such praise? The short answer is; “of course it isn’t!” But the real questions are: is it still fun? Does it work on the Wii?
 
@@ -70,4 +70,4 @@ Take the multiplayer offline and the action slows right down. With only two peop
 
 Although the offline multiplayer perhaps isn’t high octane enough for modern players, the finely crafted single player game is a delight. The levels are varied, the shoot out and stealth gameplay are deep and the graphics are fine for the Wii. The online multiplayer is a lot more fun than offline but doesn’t draw heavily enough on Bond’s rich history to stand out against others FPSs. The reason it’s worth playing is for the excellent production values, the all-star cast, the excellent Nicole Scherzinger cover of the theme tune and the chance to experience what a Brosnan classic would feel like if it were given a more anti-heroic Daniel Craig makeover. Whether you are doey-eyed with nostalgia for 1997 or not, Eurocom’s GoldenEye update provides one of the best FPS experiences on the Wii and gives another great example of how movie tie-ins can work well.
 
-__GoldenEye 007 is available now for Wii and DS, retailing at £34.99 RRP.__
+GoldenEye 007 is available now for Wii and DS, retailing at £34.99 RRP.

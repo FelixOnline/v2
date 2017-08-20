@@ -29,7 +29,7 @@ Dear Freshers and regular readers, welcome to a new year at Imperial; a new year
 
 However, since we’re all returning from the summer holidays the first issue is going to give you a short summary of what has happened over the summer while you’ve been vacationing/interning/preparing for university etc. Some of these things will be talked about for years to come, stories to tell the grandchildren, or the kind of things that you can discuss with people with whom you have nothing in common. Should also be useful for some of those awkward post-holiday conversations on the first day of term…
 
-__UK__
+UK
 
 On August 6, [the death of Mark Duggan during an investigation by police officers from Operation Trident two days earlier led to a protest outside Tottenham Police Station](http://www.bbc.co.uk/news/uk-england-london-14434318). It is said that due to uninvolved criminal elements a riot began in the area, in which two police cars were set alight.
 
@@ -39,7 +39,7 @@ Senior politicians were derided for not immediately returning from their holiday
 
 After the riots had settled, police named and shamed suspected rioters, and after political pressure the justice system handed out harsh punishments to those convicted. The Metropolitan Police were flooded by accusations of mismanaging their response to the riots with many saying that they had been too soft, leaving many residents and business owners to be subjected to the full force of the roving mobs.
 
-__Europe__
+Europe
 
 Europe’s financial stability took a huge blow this summer as Italy and Spain joined the list of Eurozone countries with unmanageable sovereign debt.
 
@@ -49,7 +49,7 @@ This summer’s events have led to people re-evaluating the effectiveness of the
 
 With the uncertain future of Eurozone fiscal stability, some consider the summer of 2011 the possible first chapter of the end of the Euro.
 
-__US__
+US
 
 President Obama’s summer hasn’t been as great as he hoped. This summer he has had to deal with trying to increase the US Debt Ceiling.
 
@@ -62,7 +62,7 @@ For a very long time the financial world has seen the US bonds as a very safe in
 
 The crisis also led to ratings agency [Standard and Poor’s decision to downgrade its assessment of US bonds from its top AAA rating in AA+](http://edition.cnn.com/2011/BUSINESS/08/05/global.economy/index.html), something that has caused the US great embarrassment.
 
-__Middle East__
+Middle East
 
 As early as March this year we saw the Arab Spring develop and pick up pace. Countries across the world were taken by surprise as a series of revolts occurred in different nations, with dissatisfied citizens rebelling against their distant and corrupt governments, led by the large amount of unemployed young people who used social networking to spread their ideals.
 

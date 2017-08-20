@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-A_rabic Night_ is a monthly Middle Eastern dance showcase in central London and is a regular favourite of the Imperial College Belly Dancing Society. Last Sunday around 15 of us headed to the fancy Moroccan and Lebanese restaurant __Maison Touareg__, located in the heart of Soho.
+A_rabic Night_ is a monthly Middle Eastern dance showcase in central London and is a regular favourite of the Imperial College Belly Dancing Society. Last Sunday around 15 of us headed to the fancy Moroccan and Lebanese restaurant Maison Touareg, located in the heart of Soho.
 
 After getting extra cosy with the other society members due to the lack of appropriate seating for the over-sold show, we tucked into various delicious mezze dishes. Let me tell you – there’s something rather satisfying about gorging yourself whilst watching professional dancers of all sizes athletically (yet still gracefully) twirl around an impossibly small stage.
 

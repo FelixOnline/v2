@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Red__
+Red
 
 Red has always held a special place in the hearts of women as a symbol of power, confidence and sensuality – an eye-catching scarlet lipstick for seduction, chic red nails for timeless elegance and, of course, scarlet-soled Louboutins for a woman truly in control.
 
@@ -31,14 +31,14 @@ Red is a colour for turning heads, and always catches an editor’s eye at fashi
 
 Season after season, red crops up as the colour for the brave and the confident. It stands alone, and requires no distraction: heads turn with the smallest of efforts.
 
-__Purple__
+Purple
 
 From sugary grape to enchanting amethyst, purple was the canvas colour for designers this autumn. In other words, purple became the backdrop upon which patterns were printed and embellishments sewn.
  Purple has long been the colour of nobility and status, so it is of little surprise to see the colour used to dye mink and rich metallic tweeds – even a touch of the colour adds something expensive and opulent to a look. Combine it with black for a simple, chic ensemble.
 
 For inspiration, refer to the different runway incarnations of the colour: from Christopher Kane’s sweet and youthful dress to Miu Miu’s luxurious deep purple suit – see Karlie’s flash of turquoise across the eyes for an idea for an extra pop of colour - purple and turquoise are a secret match made in heaven.
 
-__Oxblood__
+Oxblood
 
 A more appetising name could have been found for this colour – halfway between mahogany and dark red – currently taking the world by storm. Nevertheless, oxblood is most definitely the colour to covet this season. Already popular on the high street, this particular shade, reminiscent of a vintage red wine, took no time in filtering down from the catwalks – and it’s not hard to see why.
 
@@ -46,7 +46,7 @@ Dark enough to hint at mystery but rich enough to utter luxury; bright enough as
 
 For all those wishing to blag their fashion credentials, take note: oxblood is the colour to know.
 
-__Forest__
+Forest
 
 It may be hard for us Londoners to imagine a more common colour other than grey given that it surrounds us as concrete pavements and towering clouds, but we must try to remember that for those not living in a metropolis there is another form of life: nature. And it is from here that the colour ‘forest’ emerges.
 
@@ -54,7 +54,7 @@ Why forest as opposed to green I hear you ask: because it is neither the grassy 
 
 Keep in touch with nature, literally, with McQ’s leaf-embellished military coats or look to Natasha Poly whose iconic moment in Gucci’s show-stopping velvet leopard-print Devore dress at Cannes sealed the colour into the fashion repertoire.
 
-__Cobalt__
+Cobalt
 
 Some may call it blue, but in the fashion world we prefer cobalt this winter. Not quite dark enough to call navy, cobalt strikes somewhere between royal and midnight.
 
@@ -62,7 +62,7 @@ With enough shine, the colour is electrifying as per Moschino’s dress with its
 
 But it was Stella McCartney’s take on cobalt in neat suits and perfect tailoring that really took the colour into the collective fashion consciousness. Never before has businesswear looked so fresh and modern. Think back to the reign of Thatcher, and take away the shoulder pads, dubious politics and big hair and add a heavy dose of chic. Now that’s a conservative party I could go to.
 
-__Black__
+Black
 
 A timeless winter staple, black takes the throne of chic 0nce again. But this season, instead of taking a backstage role upon which the other pieces found their roots, black took a leap forward, hitting centre stage with a dark mythical beat – nothing boring or dull about it at all.
 

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__M__argate is like the New Brighton of the South, but a bit larger & more remote. It’s stuck between the nostalgia of the seaside’s heyday, disappointment at its current pointlessness, and the trickle of investment coming into British seaside towns. Symptomatic is the amusement park Dreamland, its entrance capped with its name in yellow capitals, closed for the last eight years.
+Margate is like the New Brighton of the South, but a bit larger & more remote. It’s stuck between the nostalgia of the seaside’s heyday, disappointment at its current pointlessness, and the trickle of investment coming into British seaside towns. Symptomatic is the amusement park Dreamland, its entrance capped with its name in yellow capitals, closed for the last eight years.
 
 The one departure from this thread, though, is the sail-shaped cluster of edgy, white buildings at the foot of the pier – the Turner Contemporary Gallery. In online photos it looks pretty garish and out of place, but in the flesh it sits on the corner of the bay around which Margate’s large beach wraps with an air of elegance; a rare example of naval-inspired architecture done well, and a bit of a counterpoint to Dreamland. Inside it’s surprisingly light, airy, and, when the sun’s out, bright. I think Turner, a regular visitor to the town in his day, would’ve approved.
 

@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-__Samuel Furse__
+Samuel Furse
 
 As avid readers of the [Comment](http://felixonline.co.uk/comment) section will know, I recently finished my PhD. I had not thought much about what came after, as there was a peculiar type of feeling that it might never end, for a while. It did, and in so happening I wanted to celebrate. The agèd Ps (they do not yet know I call them that) offered to take me out for dinner to mark it. As someone interested in food I leapt at the opportunity and looked for a restaurant that would be a chance to try some new things but also to see food done really well. Yes, I wanted to see some originality too, I like to think of my own cooking as at least a touch original so it felt like an opportunity to find some new ideas as well. So, in choosing a place I whipped out my iPod touch and cranked up the Good Food Guide 2011 application (expensive at £4.99 but it has paid for itself now) to search for somewhere. I should say that for a restaurant to even get in the Good Food Guide is an achievement: their ‘lowest’ rating is not an insult. I lit upon going to [The Kitchen, W8](http://www.kitchenw8.com/). This is styled as a Modern European Restaurant and on paper seems unpretentious, and has even been awarded a Michelin star and a GFG rating of 5. At £32 for three courses, it is not outrageous for what Michel Roux and others call ‘high-end’ dining. A once-in-a-life-time celebration and my parents were paying.
 
@@ -49,7 +49,7 @@ The last thing that also pleased me—and would doubtless please my colleague in
 
 Kitchen W8 is found at 11-13 Abingdon Road, London W8 6AH.
 
-__Charles Betts__
+Charles Betts
 
 If you have ever wondered what the Dark Ages must have been like, look no further than the British railway network. Strikes, delays, signal failures and so much more. And the piss-take service doesn’t even come cheap. How the French embarrass us with their TGVs – literally standing for “Very Fast Trains” – imagine if our rickety UK carriages were called that… at best it would be taken as a poor joke wryly reflecting our national penchant for cynical wit. Oh, the indignity of it all.
 

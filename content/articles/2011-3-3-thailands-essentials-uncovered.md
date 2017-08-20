@@ -36,7 +36,7 @@ _Costs_: Costs can be as little as £10 per day in the north, if you are willing
 
 _Cuisine_: A jamboree of flavours awaits you in the form of noodles, curries, and exotic fruit and vegetables. Stay true to the local food as much as you can: street vendors are recommended more than rival restaurants.
 
-__Charming Chiang Mai__
+Charming Chiang Mai
 
 Crammed with scenic temples and great eateries, this quaint city is your gateway to Thailand’s northern hills. Ambient by day, the city becomes vibrant at night with its young crowds and nightlife.
 
@@ -48,7 +48,7 @@ _Transport_: Grab a map and explore the city by bicycle: you’re much more like
 
 _Activities_: Arrange some trekking through your hostel or a travel company, get off the track for a few days as you venture up the hills and stay with hill tribes, stopping to revitalise at cooling waterfalls along the way, and consider twinning the trekking with elephant training at an elephant sanctuary. Unwind with a well-deserved Thai massage once you make it back to town.
 
-__Bustling Bangkok__
+Bustling Bangkok
 
 Cleverly described as “the decompression chamber between the east and the west” in ‘The Beach’, the city is both bizarre and lovable. It’s a great place to start or end a trip, and a great hub for any direction you could wish to venture.
 
@@ -60,7 +60,7 @@ _Transport_: Metered taxis are your best bet for longer distance journeys across
 
 _Activities_: Check out the tigers and floating market out of town, admire Wat Pho and the royal palace’s outstanding architecture. Delve into the city’s huge markets, sight-spot while you cruise along the river. For the bold: go and check out ‘Patpong’ at night.
 
-__The Full Moon Party__
+The Full Moon Party
 
 The ultimate beach party: nothing you witness will match the scale or madness of Haad Rin beach when the moon is full. Party until way after sunrise as music blares, drinks flow, and fire-based acrobatics surround you.
 
@@ -72,7 +72,7 @@ _Activities_: Attend the ‘Same Same Cookery School’ and learn how to cook th
 
 _Annoyances_: Spiked drinks are common, so look out for yourself and your friends. Equally, theft is more prominent here as people take advantage of drunk tourists. Stay safe and stay together in a group if possible.
 
-__Paradise on Phi Phi__
+Paradise on Phi Phi
 
 In the humble opinion of far too many, the turquoise waters and sandy white beaches of Phi Phi take the prize for paradise spot. With its resident cats, fruit shake vendors and all round good vibes it certainly feels like home.
 

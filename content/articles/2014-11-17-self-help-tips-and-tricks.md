@@ -31,7 +31,7 @@ You might have told your friends and family before and they didn’t react to it
 
 But you can beat mental illnesses by yourself. I’m not talking about making it magically disappear since it’s never going to be that easy. Instead, you can learn to cope with it. You can develop a habit to deal with those phases or make them affect you as little as possible. So here are some self-help tips that you can try out.
 
-__Self-awareness__
+Self-awareness
 
 Also known as mindfulness. Basically being aware of what you think and how you feel. Being aware of when an episode is going to rear its ugly head and what thought cycles lead up to it. When you can identify what exactly triggers those phases, you can calm yourself down and prevent it from consuming you.
 
@@ -43,7 +43,7 @@ Here’s an example. A phase of depression is often triggered by a difficult eve
 
 If the cycle of negative thoughts is broken early, you wouldn’t have to lapse into a phase at the first place.
 
-__Keeping active__
+Keeping active
 
 As difficult as it feels when, doing something active can be just the thing to wrest you from those monsters in your head. Playing sport, going to the gym, taking a walk in the park or just going out to buy some groceries can break you away from the familiar environment you’re always in whenever you experience the symptoms of the mental illness.
 
@@ -55,7 +55,7 @@ Doing something, like sports, can lift your mood and increase energy levels. Exe
 
 You will have heard all these benefits about staying active from your mum when you’re a kid, but do give it a go. Doing something is likely better than nothing.
 
-__Make a list__
+Make a list
 
 Having a list of things you have to do or achieve written down in front of you will make it feel much less threatening. This is particularly relevant for anxiety because panic attacks often come when you’re overwhelmed by everything you have to do.
 

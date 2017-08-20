@@ -42,7 +42,7 @@ Although Free Education garnered the most support, it wasn’t by a large majori
 
 Savell’s results were highly comprehensive and looked at the survey responses from various standpoints, showing the complexity of the student opinion concerning the debate. Savell therefore proposed a policy that instead of supporting one particular line of funding, will look at several components of funding as a whole instead.
 
-This includes campaigning for a regulation on Postgraduate and Overseas Fees, alongside campaigning for a reduced privatisation of the Higher Education sector as a whole. In terms of funding, Savell proposed that the Union should campaign for reduced tuition fees, as “this is what aligns best with the largest number of student views and appears to be antagonistic to the views of the fewest respondents.”____
+This includes campaigning for a regulation on Postgraduate and Overseas Fees, alongside campaigning for a reduced privatisation of the Higher Education sector as a whole. In terms of funding, Savell proposed that the Union should campaign for reduced tuition fees, as “this is what aligns best with the largest number of student views and appears to be antagonistic to the views of the fewest respondents.”
 
 Paul Beaumont, Union Council Chair, was pleased with the meeting as a whole. He told Felix that “Whilst not quorate, the students who did attend engaged fully and it was brilliant to hear their (wide ranging) views. I think that because there is such a diversity of viewpoints on this issue it is important we listen to them all and then try and work out a stance that reflects that - this General Meeting went some way to achieving that.
 

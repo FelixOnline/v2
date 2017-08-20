@@ -49,24 +49,24 @@ _We also intended to unite students from different Universities and foster close
 
 _So we were ambitious, perhaps too ambitious. Our focus was on creating an event that would last. The quality of the show had to be good enough that designers, choreographers, and promoters would work with us. We wanted to create a unique event of a high standard that would entertain, mesmerise, be remembered and recur. According to Ramil Makinano, one of the designers featured in the event; ‘...I have been to hundreds of fashion shows around the world and never seen anything quite like Fusion before...it’s exciting!’ Please bear in mind that this is the first year of Fusion @ London. In its first year, the event sold over 1,500 tickets and boasted a cast of over 130 students from different institutions. Acclaimed designers lent their collections, top hair and makeup teams styled the models, widely recognized choreographers worked with the dancers, and incredible music acts entertained the masses. The financial outcome of year one will not prevent the re-currence of Fusion @ London. The professional artists who worked closely with students to create the event have seen the potential and are excited about what the future holds._
 
-___Onto the finances___
+_Onto the finances_
 
 _Tickets were sold via Troxy box office, on KGB, TimeOut, face to face through the cast and committee and on the door during both event nights. We are still collecting income from all these avenues. There are claims to be made and expenses to be paid so we expect that it will be a few weeks before we know the exact financial status of fusion. It is now apparent that ticket sales were not sufficient to cover our budget and the show has ended with a deficit. The exact amount of this deficit will not be known until all the accounts are finalised._
 
-___So how do we plan to cover the deficit?___
+_So how do we plan to cover the deficit?_
 
 _The deficit is recoverable because it is not quite the end for Fusion @ London 2012. We are expecting more income from a wrap party expected to take place at the end of this month as well as from show DVD sales. We have the audience and the ability to make back the deficit through a wrap party – we made a substantial sum from the launch event and we can do it again. We hope Imperial students will turn up in full force to the wrap party and support us. Imperial College Union will not bear any deficit nor would it default to other societies. Should Fusion not break even from the wrap party, the debt will default to future Fusion events. Yes, Fusion @ London has a future. And many changes will be made to ensure that ticket sales and financial status only improve from here on out. One thing is certain, Imperial College Union will not be solely financially responsible for Fusion if at all responsible. Fusion will continue to seek to unite London’s youth – especially University and college students._
 
-___So what went wrong?___
+_So what went wrong?_
 
 _We did everything in our power right in creating the event. An experience and committed committee met regularly with Imperial College Union to review the progress of the event and consulted the experienced York Fusion Alumni along the way. But many of the affiliations such as with London Fashion Weekend and Beach Break Live expected to raise the profile of the event and ticket sales unfortunately took place in the final week – too late to secure a large number of ticket sales. Contractual issues prevented Made in Chelsea stars from promoting the event. Cancer Research UK were also unable to promote the event due to ongoing campaigns which took priority. Rule changes meant that we could not advertise in UCLU. The event ended up being attended largely by Kings College students._
 
 _We have learned many valuable lessons from this year and can only improve from here on._
 
-___Thank you___
+_Thank you_
 
 _If we had set a much lower goal, we would have been congratulated – so we ask that readers lend us their support and their good will._
 
-_We are very grateful to everyone who have supported Fusion @ London and attended our events. Without you none of the successes would have been possible. The financial deficit is inc__redibly disappointing and heartbreaking to some but we hope for your continued support._
+_We are very grateful to everyone who have supported Fusion @ London and attended our events. Without you none of the successes would have been possible. The financial deficit is incredibly disappointing and heartbreaking to some but we hope for your continued support._
 
-_We will continue to attempt to raise as much money as possible for Cancer Research UK and are accepting donations sent directly to the charity on a dedicated justgiving site; [__https://www.justgiving.com/fusionatlondon__](https://www.justgiving.com/fusionatlondon). Please visit the website and donate any amount that you able to spare._
+_We will continue to attempt to raise as much money as possible for Cancer Research UK and are accepting donations sent directly to the charity on a dedicated justgiving site; [https://www.justgiving.com/fusionatlondon](https://www.justgiving.com/fusionatlondon). Please visit the website and donate any amount that you able to spare._

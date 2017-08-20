@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-__Like Crazy__
+Like Crazy
 
-__Director__ Drake Doremus
-__Screenwriters__ Drake Doremus, Ben York Jones
-__Cast__ Felicity Jones, Anton Yelchin, Jennifer Lawrence
+Director Drake Doremus
+Screenwriters Drake Doremus, Ben York Jones
+Cast Felicity Jones, Anton Yelchin, Jennifer Lawrence
 
 _“I thought I understood it, that I could grasp it, but I didn’t, not really. Only the smudgeness of it; the pink-slippered, allcontainered, semi-precious eagerness of it. I didn’t realize it would sometimes be more than whole, that the wholeness was a rather luxurious idea. Because it’s the halves that halve you in half. I didn’t know, don’t know, about the in-between bits; the gory bits of you, and the gory bits of me."_
 

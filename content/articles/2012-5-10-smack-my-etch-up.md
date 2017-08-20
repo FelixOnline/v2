@@ -41,4 +41,4 @@ The rationalism of classicism is strongly intertwined with the irrationality of 
 
 I left the Vollard Suite feeling I had experienced something special: not only were the prints magnificent and displayed and curated in a very clear and informative way but I had also seen 100 prints which, before the exhibition, had only been viewed by a select few.
 
-Picasso Prints: The Vollard Suite_ at __The British Museum__ continues until 2 September. Entry is free._
+Picasso Prints: The Vollard Suite_ at The British Museum continues until 2 September. Entry is free._

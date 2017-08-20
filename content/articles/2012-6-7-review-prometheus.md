@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-[__Prometheus__](http://www.imdb.com/title/tt1446714/)
+[Prometheus](http://www.imdb.com/title/tt1446714/)
 
-__Director__ Ridley Scott
-__Screenwriters__ Jon Spaihts, Damon Lindelof
-__Cast __Noomi Rapace, Logan Marshall-Green, Charlize Theron, Michael Fassbender, Guy Pearce
+Director Ridley Scott
+Screenwriters Jon Spaihts, Damon Lindelof
+Cast Noomi Rapace, Logan Marshall-Green, Charlize Theron, Michael Fassbender, Guy Pearce
 
 _Prometheus_ is the name of a spaceship carrying 17 crew members, out to explore a new planet. The reason? Curiosity. Nosy scientists just need to find out who our makers are and solve the mysteries surrounding our creation. Where do we come from? Who we are? These are just some are the questions Dr. Elizabeth Shaw (Rapace) must have answered. After discovering a star map made by seemingly unconnected ancient cultures all over the world, she and her expedition partner Charlie Holloway (Marshall-Green) conclude that this is an invitation for the humans to venture out and find their ancestors – or makers.
 

@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-__The Twilight Saga – Breaking Dawn Part 1__
+The Twilight Saga – Breaking Dawn Part 1
 
-__Director__ Bill Condon
-__Screenwriters__ Melissa Rosenberg, Stephanie Meyers (novel)
-__Cast__ Robert Pattinson, Kristen Stewart, Taylor Lautner
+Director Bill Condon
+Screenwriters Melissa Rosenberg, Stephanie Meyers (novel)
+Cast Robert Pattinson, Kristen Stewart, Taylor Lautner
 
 Thousands of hormonal Twihards queued for days for the much-anticipated arrival of _[The Twilight Saga: Breaking Dawn – Part 1](http://www.youtube.com/watch?v=PQNLfo-SOR4)_; the fourth film in the hugely successful vampire love story franchise was released last week, setting the scene for the big finale next year. An emotionally fraught, dramatic tale, this latest film shows that the structure of the Twilight franchise – that of surging adolescent emotions quashing rational thought, and the resulting arguments and tantrums – is still foolproof.
 

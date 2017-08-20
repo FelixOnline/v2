@@ -36,11 +36,11 @@ We loved it, so why not cook something inpsired by Cyprus in your kitchen? Or he
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211222313-tna08-cheese.jpg" title="" caption="" attr="" >}}
 
-__Cypriot restaurants in London__
+Cypriot restaurants in London
 
 Don’t feel like cooking? Why not try a Cypriot restaurant in London?
 
-__The Kolossi Grill__
+The Kolossi Grill
 
 56 - 60 Rosebery Avenue, EC1R 4RR
  020 7278 5758
@@ -48,25 +48,25 @@ __The Kolossi Grill__
 Opening times: 12am-2:30pm Mon- Fri, 5:30pm-ww11pm Sat
  A cosy Cypriot restaurant where you can sample lots of different dishes in one sitting.
 
-__Yia Mas__
+Yia Mas
  40 Upper Richmond Road, SW15 2RX
  02088714671
  Opening times: 6pm - 11pm Tue-Sun
  This is reviewed as a ‘terrific’ Cypriot restaurant – the photos look pretty good too!
 
-__Yia Mas__
+Yia Mas
  73 Myddleton Road, N22 8LZ
  020 8889 8760
  Opening times: 12am-11:30pm Mon-Sat, 12am-9pm Sun
  For a lively atmosphere and superior taverna grub head to Yia Mas where, amongst other things, they have kebabs, pasticho or moussaka.
 
-__Cyprus Meze Bar & Restaurant__
+Cyprus Meze Bar & Restaurant
  524-526 Lea Bridge Road, E10 7DT
  020 8556 5866
  Opening times: 7pm-1am Tue-Thur, 7pm-2am Fri, 7pm-12.30pm Sat
  Like to pick? Here they have a wide selection of small Meze dishes that can be chosen to make a meal.
 
-__Aphrodite Taverna__
+Aphrodite Taverna
 
 15 Hereford Road, W2 4AB
  020 7229 2206

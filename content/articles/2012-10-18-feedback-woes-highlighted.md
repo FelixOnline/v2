@@ -32,7 +32,7 @@ The[ National Student Survey](http://www.thestudentsurvey.com/) (NSS) was establ
 
 Since the survey is the single biggest source of student feedback available to universities, college administrators study its results carefully. The survey has tangible influence, too, since the scores are a significant factor in the calculation of university league table rankings. In the influential [Guardian University Guide](http://www.guardian.co.uk/education/universityguide), for instance, a university’s student satisfaction result comprises 25% of its overall score. Imperial’s poor showing in these polls have been the primary reason for its recent plummet in the league tables.
 
-__How did we do?__
+How did we do?
 
 An analysis of the 2012 results makes for some interesting reading. At Imperial, 86% of respondents agreed that “overall, I am satisfied with the quality of my course.” This result is only marginally lower than the English average of 87%, though significantly lower than corresponding scores from institutions of similar prestige as Imperial.
 

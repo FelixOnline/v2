@@ -32,7 +32,7 @@ The solution to all this? A whiteboard station. The equations are up there on th
 
 And the boards can be put to a lot more use than you first might think. Ours have been used for games of Pictionary; language lessons; even just leaving messages for each other (“pay rent” being the most common). It functions as a nice little communal place for people to gather around. You might never have thought of making one, yet once you have it it somehow seems indispensable.
 
-__How to do it__
+How to do it
 
 The size of your station will depend on a few things: the number of people living in your flat, the length of uninterrupted wall space you have, and what your budget is. We have three whiteboards side-by-side, spanning about three metres in total.
 

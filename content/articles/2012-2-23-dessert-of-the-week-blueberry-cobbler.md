@@ -24,16 +24,16 @@ authors:
 highlights:
 ---
 
-__Ingredients:__
+Ingredients:
 
-___The filling:___
+_The filling:_
  - 1 cup blueberries
  - 2 tsp vodka
  - 2 tsp all purpose flour
  - 2 tsp sugar
  - 1 tsp lemon juice (optional)
  - ½ tsp lemon zest (optional)
-___The biscuit:___
+_The biscuit:_
  - ½ cup all purpose flour
  - 90ml cold milk
  - 1 tsp baking powder

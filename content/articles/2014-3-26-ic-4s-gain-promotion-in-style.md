@@ -43,7 +43,7 @@ We all wanted a bit of the action, and captain/tactical mastermind extraordinair
 
 The game was rounded off by a modern-day miracle. A goal from Guy Frankel. Henry found acres of space in the midfield once more. He turned and received a thunderous shout from Frankel to play one more, which he did. The pass was weighted perfectly, and upon cries of ‘BANG IT’ primarily from Edin Dzeko, Frankel did as he was told and BANGED IT first time from twenty yards into the bottom left corner. 9-0 and the cherry on top of the icing on the cake. Promotion secured in the most emphatic style. Changing room champagne shower and midnight KFC well earned.
 
-__ICUAFC is sponsored by:__
+ICUAFC is sponsored by:
 
 KPMG
 

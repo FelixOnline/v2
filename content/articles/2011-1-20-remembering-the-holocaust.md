@@ -46,14 +46,14 @@ Join us in order to learn a powerful lesson in the fragility of freedom and the 
 
 We are the last generation who will be able to hear from a Holocaust survivor. Come while you can.
 
-__Holocaust survivor visits Imperial__
+Holocaust survivor visits Imperial
 
-__Join IC Jewish Society for an increasingly rare opportunity that should not be missed: Holocaust Survivor, Mrs Lily Ebert at Imperial College.__
+Join IC Jewish Society for an increasingly rare opportunity that should not be missed: Holocaust Survivor, Mrs Lily Ebert at Imperial College.
 
-__In July 1944 Lilly Ebert was just 14 when she, her three sisters, brother and mother were herded into cattle- trucks and taken from their home in Hungary to the Auschwitz-Birkenau concentration camp. Upon arrival Lily was registered and tattooed with the number A-10572. __
+In July 1944 Lilly Ebert was just 14 when she, her three sisters, brother and mother were herded into cattle- trucks and taken from their home in Hungary to the Auschwitz-Birkenau concentration camp. Upon arrival Lily was registered and tattooed with the number A-10572.
 
-__She will be talking about her experiences, followed by a Q&A session. __
+She will be talking about her experiences, followed by a Q&A session.
 
-__Tuesday 25th January, 6.00pm, Huxley Building LT130__
+Tuesday 25th January, 6.00pm, Huxley Building LT130
 
-__For more info, contact jsoc@imperial.ac.uk__
+For more info, contact jsoc@imperial.ac.uk

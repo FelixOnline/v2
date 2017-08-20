@@ -27,7 +27,7 @@ It really is simple, cheap and absolutely divine. It will take you about 10 minu
 
 You will need 6 ramekins.
 
-__Ingredients:__
+Ingredients:
 
 1 1/2 cupsall purpose flour
 
@@ -50,7 +50,7 @@ Seeds of 1 vanilla pod
 
 6 ramekins
 
-__Procedure:__
+Procedure:
 
 Preheat your oven at 180 degrees.
 

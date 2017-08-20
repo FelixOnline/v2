@@ -26,7 +26,7 @@ highlights:
 
 Assuming that it’s not just your mothers that read Felix, you’ll probably be aware of the simulator surplus that has hit the Felix office. Well, [Excalibur Publishing](http://www.excalibur-publishing.co.uk/) (those lovely folk who send us these games) also publish real games. Sorry if I sound condescending to you hardcore sim-junkies (you know who you are, and I’m putting a padlock on the games chest), but these are actual games. (Let’s ignore the fact that [Farming Simulator 2013](http://www.youtube.com/watch?v=jqa6rhHfaV4) was the best selling game on Steam last week.)
 
-__The Unstoppable Gorg__
+The Unstoppable Gorg
 
 With a title like [The Unstoppable Gorg](http://www.youtube.com/watch?v=SBSkRgKjdOI), this game was either going to be one of two things – terrible or awesome (or I guess the third option is that no-one in the office knows how to spell George). Thankfully, it’s the latter of the two real options. Much like [Dredd 3D](http://www.youtube.com/watch?v=JqqgrUna28w), The Unstoppable Gorg ended up with good reviews but few people went to see or play it when it was new. A segue, I know, but I need to spread the good word, as a sworn-in member of the Disciples of Dredd.
 

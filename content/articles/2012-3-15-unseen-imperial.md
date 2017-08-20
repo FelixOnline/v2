@@ -60,7 +60,7 @@ I also had misconceptions of who and what counselling services are for, believin
 
 I’m a female Imperial Student and wrote this poem for you about my mental health experiences. I feel down every fortnight or so, wasting hours on the internet, having eating binges, not being able to get anything done that I wanted to or talk to anyone about what I’m going through. On the outside I can be quite an outgoing and upbeat person! I do think I have low self-esteem though. I have never sought any help, partly due to the stigma, partly because I deny that I do have a problem.
 
-__Underneath__
+Underneath
 
 No one knows what lies under the surface,
  Is it better that way?

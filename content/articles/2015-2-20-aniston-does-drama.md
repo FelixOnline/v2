@@ -27,13 +27,13 @@ highlights:
  - comment
 ---
 
-__CAKE__
+CAKE
 
-__Director: __Daniel Barnz
+Director: Daniel Barnz
 
-__Screenplay: __Patrick Tobin
+Screenplay: Patrick Tobin
 
-__Cast: __Jennifer Aniston, Adriana Barraza, Sam Worthington
+Cast: Jennifer Aniston, Adriana Barraza, Sam Worthington
 
 Rating: 3/5
 

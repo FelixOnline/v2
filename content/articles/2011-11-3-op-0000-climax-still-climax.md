@@ -34,52 +34,52 @@ As I pulled up to Velux Sombrito, OMC’s labyrinthian studio-cum-disco palace, 
 
 Mister Pippensworth: They’re not real you know.
 
-__Seymour Dicks: I’m sorry?__
+Seymour Dicks: I’m sorry?
 
 MP: Operation Midnight Climax. They’re a concept. An ideal. A groove. Not a band.
 
-__SD: I see… Tell me more about the groove.__
+SD: I see… Tell me more about the groove.
 
 MP: Years ago the plates shifted: this lead to increased magnetism over key hotspots in the Atlantic Ocean. The plan was to use these to re-route the Earth’s inner melody…
 
-__SD: “The Earth’s inner melody”? What the hell are you talking about?__
+SD: “The Earth’s inner melody”? What the hell are you talking about?
 
 MP: It’s everything really. It’s a key. If you can play just the right frequency at the right moment in time, you can literally blow people’s minds.
 
-__SD: … And this is what OMC is trying to do?__
+SD: … And this is what OMC is trying to do?
 
 (Silence)
 
 MP: No, OMC just plays catchy progressive ska. Explosive rock some call it. Personally I think it’s shit.
 
-__SD: Don’t be so hard on them, they’re musical geniuses.__
+SD: Don’t be so hard on them, they’re musical geniuses.
 
 MP: You try being their butler for a day, see how much you like it. They did things to me. Horrible, horrible things.
 
-__SD: Let’s get back to the topic at hand… OMC have a gig coming up on the 12th November…__
+SD: Let’s get back to the topic at hand… OMC have a gig coming up on the 12th November…
 
 MP: Let me interrupt you right there…
 
-__SD: No.__
+SD: No.
 
 MP: Let me interrupt you right there…
 
-__SD: Okay.__
+SD: Okay.
 
 MP: They prefer the term “séance”.
 
-__SD: What?__
+SD: What?
 
 MP: OMC’s next “séance” is on the 12th November.
 
-__SD: Right, yes. At Metric then.__
+SD: Right, yes. At Metric then.
 
 MP: Yes, an age-old favourite. A mature, strong scent. Something vicious.
 
-__SD: What do you foresee?__
+SD: What do you foresee?
 
 MP: So, so many heads. All of them blown. Like the jackhammer to your watermelon.
 
-__SD: That’s hot.__
+SD: That’s hot.
 
 As I spoke the words, my head tilted backwards and my eyes slowly wrapped upon themselves. I woke up the next day in my bed, covered in blood, surrounded by what appeared to be goat entrails. Or genitals. As I searched for the source of the bleeding, I realised the initials O.M.C had been carved into my chest. I brought my right hand closer to my face: I was holding a blood-splattered rusty spoon. “Damn,” I thought. “They’re good”.

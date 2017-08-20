@@ -31,7 +31,7 @@ Japanese food is widely associated with expensive prices and not a lot of food. 
 
 The best part of making your own sushi is that you can add any fish, seafood, meat or vegetables - it’s completely up to you. There are classic sushi combinations such as the Californian roll, salmon skin roll and soft shell crab roll; however nobody’s stopping you from experimenting. You only need to make your way down to Billingsgate at the crack of dawn to see that there is more to fish and seafood than Sainsbury’s ‘Fresh Fish’ counter - the word “fresh” being the overstatement of the year, as highlighted by Hugh Fearnley-Whittingstall’s recent campaign on ‘Big Fish Fight’. So if you fancy yellowtail tuna, razor clam or some fatty tuna, alter the following recipe as required, because I’m sticking to the basic Californian roll.
 
-__Get yourself equipped with__:
+Get yourself equipped with:
 
 A rolling mat (Makisu) *
 

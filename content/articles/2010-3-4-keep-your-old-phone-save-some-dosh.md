@@ -26,7 +26,7 @@ OK, listen carefully guys, we're going to try and save you some good money in fe
 
 Many of you will be able to save in the region of £180 per year by switching to a SIM-only tariff. You must have completed the original length of your contract on your phone, but then all it takes is a quick phone call to your network.
 
-__SIM-only tariffs__
+SIM-only tariffs
 
 Traditionally mobile phone contracts have always bundled a “free” phone together with a monthly allowance of minutes, texts and maybe Internet access. However, a bit of deeper analysis shows that there really is no such thing as a free phone; typically you'll pay a surcharge of about £15 per month on your bill for that “free” phone.
 
@@ -36,7 +36,7 @@ On a SIM-only tariff, you only pay for the airtime, or inclusive minutes, you do
 
 Most people find they can get the same or better airtime allowance for £15 less per month (giving a total of saving of £180/year).
 
-__Apple iPhone 3G users__
+Apple iPhone 3G users
 
 If you purchased an iPhone 3G close to launch in around June 2008, your 18-month contract will have just come to an end over the last couple of months. O2 are offering a range of SIM-only iPhone tariffs with rolling one month and 12 month options.
 
@@ -44,7 +44,7 @@ If you are on the standard iPhone tariffs, you will currently be getting 600 min
 
 iPhone users can also shop around for SIM-only tariffs on other network s too, but be aware that you'll need a decent free Internet allowance and some features such as Visual Voicemail might stop working.
 
-__How to switch tariff or network__
+How to switch tariff or network
 
 Finally, a couple of words on switching your phone tariff or network. If you are staying on the same network but want to switch tariff, you can call the customer services of your mobile network and ask to be switched over to your new tariff. Your phone number won't change, you won't need a new SIM card; all that changes is your phone bill.
 

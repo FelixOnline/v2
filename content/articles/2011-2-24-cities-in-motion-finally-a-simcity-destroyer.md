@@ -28,7 +28,7 @@ highlights:
  - photos
 ---
 
-_[C](http://www.citiesinmotion.com/)__[ities in Motion](http://www.citiesinmotion.com/)_ is a complex transport simulator based on a simple concept – you have to build and manage the public transport system in a city. While this isn’t the type of game I’d usually opt for, I decided to take the plunge and take a look at what it had to offer.
+_[C](http://www.citiesinmotion.com/)[ities in Motion](http://www.citiesinmotion.com/)_ is a complex transport simulator based on a simple concept – you have to build and manage the public transport system in a city. While this isn’t the type of game I’d usually opt for, I decided to take the plunge and take a look at what it had to offer.
 
 But first, I have to make a comment about the specification that this game demands – I had major problems getting the game to run smoothly (or at all). On my laptop (powered by a 2.27GHz i5) the tutorial crashed every time and the campaign was utterly unplayable – the screen updated about once a second. Even when I installed the software on my gaming rig there were still huge issues. Enabling anti-aliasing would cause masses of slowdown if using the mini-viewport (an area of the window where you could monitor a selected point on the map), and disabling it caused display problems with some vehicles – I was presented in places with a blank, white space that would only be drawn when and where the vehicle intersected with it. Disabling [HDR lighting](http://en.wikipedia.org/wiki/High-dynamic-range_rendering) solved the problem, and while the game looked a lot dimmer and less dynamic without it on it was the price I had to pay to have a fully functioning game.
 
@@ -50,6 +50,6 @@ Alongside the campaign is the sandbox mode which, when coupled with the quite fr
 
 I have to say, _Cities in Motion_ impressed me. It was a lot more feature-packed than I expected it to be, and once it was working properly it provided a mostly enjoyable playing experience, especially with the little features that made everything feel that little bit more immersive. It’s certainly a game that I’ll be picking up again soon, even though it may not have made me a convert to the genre.
 
-__Felix Games would like readers to be aware that we played a pre-release build and the graphical problems encountered are likely to have been fixed in the release edition. __
+Felix Games would like readers to be aware that we played a pre-release build and the graphical problems encountered are likely to have been fixed in the release edition.
 
-___Cities in Motion_ is available now from [Paradox Interactive](http://www.paradoxplaza.com/) and [Collosal Order](http://www.colossalorder.com/) for PC. __
+_Cities in Motion_ is available now from [Paradox Interactive](http://www.paradoxplaza.com/) and [Collosal Order](http://www.colossalorder.com/) for PC.

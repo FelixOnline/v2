@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__Handball__
+Handball
 
 Imperial Eagles 29
  Newham Flames 16

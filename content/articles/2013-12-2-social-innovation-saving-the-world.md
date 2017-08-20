@@ -31,4 +31,4 @@ Bet you didn’t know your one idea can save the world! You will be surprised to
  Early bird tickets are available until Saturday this week! Secure your spot today at
  imperialhub.wix.com/sib2013
 
-__Chen Yann Qi__
+Chen Yann Qi

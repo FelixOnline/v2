@@ -42,7 +42,7 @@ It was the tsunami rather than the earthquake that drove the majority of the dev
 
 _Thea Cunningham_
 
-__EARTHQUAKE PROOFING__
+EARTHQUAKE PROOFING
 
 Building in an earthquake zone is, unsurprisingly, a tricky business. Japan is no stranger to earthquakes, so it has a strict building code in place and some very sturdy buildings. After the Kobe earthquake in 1995, which killed about 6000 people, Japan put enormous resources into designing new buildings that could withstand major earthquakes and also retrofitting older, more vulnerable ones.
 
@@ -62,7 +62,7 @@ Japan is also well prepared for tsunamis, with seawalls in many coastal towns th
 
 _Kelly Oakes_
 
-__FIXING FUKUSHIMA__
+FIXING FUKUSHIMA
 
 As well as causing billions of dollars worth of damage to the buildings in the Tōhoku region of Japan, the earthquake has created one of the most serious building casualties in history – the Fukushima I Nuclear Power Plant. The earthquake, and subsequent tsunami, has resulted in a series of incidents that has lead to dangerous levels of radiation leaked to the local environment – an accident that will cost several billion more to fix.
 

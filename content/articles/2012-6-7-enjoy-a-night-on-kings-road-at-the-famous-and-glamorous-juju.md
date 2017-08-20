@@ -34,4 +34,4 @@ The amazing thing about JuJu is that it also includes a short (yet fulfilling) l
 
 So, how about organizing an end of academic year party in one of the reserved areas of JuJu, especially decorated to create the suitable atmosphere for an unforgettable night out with friends and colleagues? You shouldn’t visit JuJu if you’d prefer to have a quiet chat though; get ready to dance the night away and let the music bring you closer to your summer destination!
 
-__JuJu__ 316 – 318 King’s Road, Chelsea, SW3 5UH. Open Monday to Saturday, Sunday for private bookings. For more information, visit [www.jujulondon.com](http://www.jujulondon.com) or call 0207 351 5998.
+JuJu 316 – 318 King’s Road, Chelsea, SW3 5UH. Open Monday to Saturday, Sunday for private bookings. For more information, visit [www.jujulondon.com](http://www.jujulondon.com) or call 0207 351 5998.

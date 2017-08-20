@@ -34,4 +34,4 @@ The play’s premise and flow I found to be patchy and at times unfathomable. An
 
 One wonders whether Walsh has been inspired and influenced by Philip Ridley’s earlier plays. Misterman, written in 1999, is a surreal and messy depiction of reality where the sublime is twisted up with the violent and a young person lives in squalor and his own inner world. Jamie Vartan’s epic set design certainly recalls those used in recent productions of Ridley’s plays Mercury Fur and The Pitchfork Disney. But the light of heart and stomach need fear not: Misterman is most definitely not a Ridley play.
 
-[_Misterman_](http://www.nationaltheatre.org.uk/?lid=69371) runs until 28 May at the __National Theatre__ (Lyttleton). Tickets start at £5 for 16-25 year olds.
+[_Misterman_](http://www.nationaltheatre.org.uk/?lid=69371) runs until 28 May at the National Theatre (Lyttleton). Tickets start at £5 for 16-25 year olds.

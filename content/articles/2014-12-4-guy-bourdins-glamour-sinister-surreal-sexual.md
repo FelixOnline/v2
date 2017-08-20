@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk is enchanted by the photographer’s dark inner visions
 date: "2014-12-04 20:01:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdan__spring_1979____guy_bourdin.jpg"
+image: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdanspring_1979guy_bourdin.jpg"
 image_caption: "Charles Jourdan, Spring 1979 - an example of Bourdin's surreal and sexually sinister style"
 headline: true
 featured: true
@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-__S____omerset House__ unveiled the UK’s largest ever exhibition of Guy Bourdin’s work, which spans the 40 year career of the French photographer, and features not only his most iconic photographs, but also never before seen material including Polaroid test shots, double-page spread layouts, contact sheets, as well as Bourdin’s paintings, poetry, Super-8 films, and sketches. In content and title – _Guy Bourdin: Imagine-Maker_ – the exhibition shows Bourdin as not simply a fashion photographer, but also an artist, and portrays his unique craftsmanship and perfectionist approach.
+Somerset House unveiled the UK’s largest ever exhibition of Guy Bourdin’s work, which spans the 40 year career of the French photographer, and features not only his most iconic photographs, but also never before seen material including Polaroid test shots, double-page spread layouts, contact sheets, as well as Bourdin’s paintings, poetry, Super-8 films, and sketches. In content and title – _Guy Bourdin: Imagine-Maker_ – the exhibition shows Bourdin as not simply a fashion photographer, but also an artist, and portrays his unique craftsmanship and perfectionist approach.
 
 The exhibition begins with _Walking Legs_ – a series of photographs Bourdin took in August 1979 for a Charles Jourdan advertising campaign. His approach was most unconventional; the campaign was shot in locations on a road trip from London to Brighton which Bourdin had taken in his Cadillac, and featured no model apart from a pair of mannequin legs cut off just below the knee. Despite being simplistic due to the absence of the model, the photographs nonetheless convey a most elaborate type of dramatic narrative which is characteristic of Bourdin’s photographs.
 

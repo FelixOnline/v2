@@ -31,21 +31,21 @@ highlights:
 
 In the wake of last week’s pay scandal concerning [RBS](http://www.rbs.com/home.ashx) CEO Stephen Hester a lot has been said in regards to the opulence of bankers’ bonuses. In fact in the private student accommodation in which I live we even held a debate at the weekend, with a slim majority voting for motion which stated that the government should prevent excessive pay. Since the recession and our slow economic recovery the public has been baying for blood at the mere mention of a large bonus, with heads of public bodies afraid of the public backlash of receiving a bonus, no matter how well deserved. Over the last two weeks, the Chairman and CEO of RBS (83% state owned) both declined to take a bonus, followed by several directors of [Network Rail](http://www.networkrail.co.uk/). Now, while these companies are both controlled by the state that as majority shareholder has the right to veto executive pay packages, some people are starting to call for the government to cast its net wider and consider banning banker’s bonuses in the general financial industry.
 
-__Bonuses as incentives__
+Bonuses as incentives
 
 The general consensus is that the Global Financial Crisis of 2007-8 was caused by the financial services industry using risky sub-prime mortgages sold to a low-income section of society with a high risk of default. Some believe that the banking bonus culture propagated the system failure, arguing that mortgage sellers aimed to sell large numbers of adjustable rate mortgages to customers with a high risk of default because they were more concerned about short-term achievements such as hitting targets and getting bigger bonuses than about the long-term risk of their investments. A main criticism of bonuses is that they encourage the purchase of riskier debt by bankers, the pay of whom is only related to short-term performance and not the long term performance of the deals they make. This behaviour lumbers the bank with toxic assets, which can turn bad at short notice that, as was seen at the time, puts the customers of the bank at risk and can lead to bailouts by governments world-wide.
 
-__Too much money?__
+Too much money?
 
 Another argument for banning or capping the bonuses of bankers is that they are simply given too much money. Banking bonuses can range from tens of thousands given to graduates in their first to the odd million pounds given to a bank’s top performers and executive staff. This is in a stark contrast to the median American annual salary of $26,364 in 2011 or a mean UK household income of £26,000. Many say it is negligent to allow bankers and CEOs of top companies to be allowed to propagate income inequality by being paid many times the amount of an average employee in their company (or in the case of banks, an average person).
 
 Since banks handle such large sums of money and gain astronomical revenues, it is fairly accepted that banks have a lot of money available, however they seem to distribute a large amount of this to their employees instead of giving some benefit to their customers or investing in community programs. Banks pays their employees a lot of money simply because they can, not necessarily because it is deserved.
 
-__Performance related pay or just extra pay?__
+Performance related pay or just extra pay?
 
 People do also wonder if the amount given can be in any way related to the extra value an employee has brought to a company. Certainly there are the odd few stories of hedge fund managers having being paid 50% of the returns made by their funds in recent years. Similarly for CEOs, do million pound bonuses (like the one offered to Stephen Hester) accurately reflect the extra work and results that the payee has given? Surely they, and other employees are already compensated enough by 100,000 or million pound base packages for salaries? In fact many people believe that bonuses given to bankers are not performance related at all but are in fact an way to give their employees more money, whether earned or not.
 
-__Government Intervention__
+Government Intervention
 
 The aforementioned points are a few of the reasons that people have raised their spears in the direction of bankers’ bonuses. Why doesn’t the government do something, like tax bankers or even ban bonuses? Indeed who else can effectively regulate the financial services industry to reduce the kind of risky behaviour that can lead to another financial crash? But what should the government do? There are already some regulatory bodies like the Financial Services Authority in the UK and Federal Reserve Board of Governors and the Securities Exchange Commission in the US, however they are not always able to keep abreast of the latest developments in the financial sector and so at times they can only offer a knee-jerk reaction to negative practices which are eventually brought to light.
 
@@ -53,7 +53,7 @@ Increasing the awareness of such bodies and tightening regulations would be a go
 
 Also this may encourage such entities to use tax avoidance or evasion techniques to hide their earnings from the state. This can be a problem, especially in countries like the UK where the financial services industry is a major part of the economy and large companies pay around 60% of all taxes received by the government.
 
-__The long arm of the law__
+The long arm of the law
 
 Another problem we face is determining how involved the government should be in the affairs of private sector companies. In the western world the capitalist system is generally embraced and the ideal of the free market is roughly adhered to, excusing some interventions by the government like competition regulations and the minimum wage. With this system in place it seems impossible for a government like that of the UK to credibly place restraints on the behaviour of companies in the private sector yet some still call for the government to set a maximum salary or to ban bonuses altogether. Taking the UK government as an example, with their reluctance to employ a financial tax on banks without a similar effort being made globally it seems unrealistic to believe they would take a more hands on approach. Aside from the fact that enforcing such measures in the UK would wound our competitiveness internationally it is easy to imagine that the unease caused by the government micromanagement could send companies running to the arms of a much friendlier ruling body. Not to mention the legality of such actions. In a democratic country the government simply does not have to right to influence or penalise what they consider bad management decisions made by private companies.
 

@@ -35,7 +35,7 @@ According to the legend, whilst Al-Nasir and Musa entertained themselves in star
 
 These merchants, suddenly rich and lacking of any good incentive to save or bury their new fortunes, simply increased their consumption proportionally. But their interests clashed: they all wanted to buy then same fine things and the market became saturated with demand. They discovered that they could not get all they wanted without bidding up the prices and soon Cairo’s real estate, food and commodity market prices had doubled, reaching levels hitherto unknown. Such are the risks of QE.
 
-__Panta rei; money too__
+Panta rei; money too
 
 In 1752 the Scottish Philosopher David Hume came up with an explanation for the mechanism by which the Egyptian economy could have equilibriated following this cash injection: Hume’s price-specie-flow mechanism.
 

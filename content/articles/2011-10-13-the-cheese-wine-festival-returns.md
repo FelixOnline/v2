@@ -36,7 +36,7 @@ Finally and most importantly, all of us are either students or (very) hard-worki
 
 _Go to [www.cheesewinefestival.com](http://www.cheesewinefestival.com) to get the full list of events, participants and book tickets._
 
-__Friday 14 October – Sunday 16 October
- 11am – 8pm daily (6pm Sunday)__
+Friday 14 October – Sunday 16 October
+ 11am – 8pm daily (6pm Sunday)
 
-__Southbank Centre Square__
+Southbank Centre Square

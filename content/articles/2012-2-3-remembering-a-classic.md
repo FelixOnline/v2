@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-__The English Patient__
+The English Patient
 
-__Director__ Anthony Minghella
-__Screenwriter__ Michael Ondaatje (novel), Anthony Minghella
-__Cast__ Ralph Fiennes, Juliette Binoche, Kristin Scott-Thomas, Colin Firth
+Director Anthony Minghella
+Screenwriter Michael Ondaatje (novel), Anthony Minghella
+Cast Ralph Fiennes, Juliette Binoche, Kristin Scott-Thomas, Colin Firth
 
 _The English Patient_, winner of nine Oscars, is the story of a man, played by Ralph Fiennes, who is found badly burnt and suffering from memory loss in the wreckage of a plane in the North African desert in World War Two. As he is cared for by an army nurse, his memory slowly returns and is shown to us in a series of flashbacks. The unveiling of his past reveals a story of a love affair.
 

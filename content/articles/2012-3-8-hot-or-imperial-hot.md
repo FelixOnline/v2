@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-In the year 2000, the American Film institute named _Some Like It Hot_ the greatest American comedy film of all time. At the time of its release, it won three Golden Globes and an Academy Award. It is surely a huge undertaking, then, to successfully bring a story with such pedigree to the stage. This is the challenge that __ICSM Drama__ have set themselves this term, and from what I’ve seen, they have indeed been phenomenally successful.
+In the year 2000, the American Film institute named _Some Like It Hot_ the greatest American comedy film of all time. At the time of its release, it won three Golden Globes and an Academy Award. It is surely a huge undertaking, then, to successfully bring a story with such pedigree to the stage. This is the challenge that ICSM Drama have set themselves this term, and from what I’ve seen, they have indeed been phenomenally successful.
 
 For those who have seen neither the film nor stage adaptation,_ Some Like It Hot_ begins in 1929, where two musicians in a speakeasy witness the Saint Valentine’s Day massacre. Struggling to make money by finding work elsewhere, they disguise themselves as women in order to be part of an all female musical act and along with the rest of the group they make their way to Florida. On the journey and at the destination much hilarity, of course, ensues.
 
@@ -38,6 +38,6 @@ It is very easy with the type of humour presented in the play to become complace
 
 However, what really struck me with this play was the entire ensemble’s absolute attention to detail throughout. Not a single lapse in characterisation could be seen throughout the whole performance, and the effort put in here gives the element of believability needed in counterweight the plot’s absurdity. The energy shown by the cast never lets up and for this all performers deserve commendation.
 
-Many more words of praise could be written about this play, but all comments boil down to one simple thing: the play is incredibly entertaining. Nothing has been lost in the transformation of this classic film onto the stage, and __ICSM Drama__ are on to a definite winner.
+Many more words of praise could be written about this play, but all comments boil down to one simple thing: the play is incredibly entertaining. Nothing has been lost in the transformation of this classic film onto the stage, and ICSM Drama are on to a definite winner.
 
-_Some Like It Hot_ runs from Wednesday 14 – Saturday 17 March in the __Union Concert Hall__
+_Some Like It Hot_ runs from Wednesday 14 – Saturday 17 March in the Union Concert Hall

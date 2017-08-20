@@ -34,27 +34,27 @@ Following the success of the first [Felix Music Night - 19.02](http://felixonlin
 The line-up for the night is an exciting one, only rivaled by the line-up we had for the original Felix Music Night.
 
 _Special guest:_
-[__BECOMING REAL__](http://www.myspace.com/becomingrealmusic)
+[BECOMING REAL](http://www.myspace.com/becomingrealmusic)
  (Ghost-Step)
  Alongside James Blake and Mount Kimbie, Becoming Real is defining the landscape of post-dubstep British electronic music, and we are extremely proud to have him perform at the Felix Music Night. If you are looking for the future sound of London’s nightlife, look no further than this brilliant artist. Do not miss it! His unique live performance is unlike any other ‘dance’ artist you wil see this side of Venus.
 
-__[PHRIJ](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fphrij&h=f263c)__
+[PHRIJ](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fphrij&h=f263c)
  (Jazz & Bass)
 
-__[OPERATION MIDNIGHT CLIMAX](https://www.facebook.com/pages/Operation-Midnight-Climax/149214095152054)__
+[OPERATION MIDNIGHT CLIMAX](https://www.facebook.com/pages/Operation-Midnight-Climax/149214095152054)
  (Progressive Ska)
 
-__[NICEBERG](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fdj_niceberg&h=f263c)__
+[NICEBERG](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fdj_niceberg&h=f263c)
  (Chipstep & Breaks)
 
-__[INESCAPABLE FATE](http://felixonline.co.uk/music/1313/inescapable-fate-are-bringing-the-noise-to-boned/)__
+[INESCAPABLE FATE](http://felixonline.co.uk/music/1313/inescapable-fate-are-bringing-the-noise-to-boned/)
  (Death Metal)
 
-__[SMB](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fsmb&h=f263c)__
+[SMB](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fsmb&h=f263c)
  (Deep House)
 
 _Back due to popular demand:_
-[__SIMON HUNTER, A.K.A. MONSK__](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fuser3090840%2F1902-recorded-live&h=f263c)
+[SIMON HUNTER, A.K.A. MONSK](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fuser3090840%2F1902-recorded-live&h=f263c)
  (Badman DJ set)
 
 ... And you could play too!

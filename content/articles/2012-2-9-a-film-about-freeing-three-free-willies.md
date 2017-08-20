@@ -22,11 +22,11 @@ authors:
 highlights:
 ---
 
-__Big Miracle__
+Big Miracle
 
-__Director__ Ken Kwapis
-__Screenwriters__ Jack Amiel, Michael Begler, Thomas Rose (novel)
-__Cast__ Drew Barrymore, John Krasinski
+Director Ken Kwapis
+Screenwriters Jack Amiel, Michael Begler, Thomas Rose (novel)
+Cast Drew Barrymore, John Krasinski
 
 Whales... gotta love them; and this is exactly the kind of emotional response Big Miracle is counting on. Even for those who couldn’t care less about animals or the environment, Kwapis’ pleasant enough family picture where we see a group of brave scientists, environmental activists, reporters, native Alaskans, and Russians (??), trying to rescue three trapped California Grey Whales will have enough emotional impact to tug at the heart strings.
 

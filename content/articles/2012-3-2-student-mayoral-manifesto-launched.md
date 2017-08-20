@@ -34,4 +34,4 @@ The needs of international students are also considered, with calls against disc
 
 A potential mayoral candidate debate happening at Imperial College is being planned, with union president Scott Heath believing we are best-positioned to attract Boris Johnson to speak; however, so far there are no confirmed details on this.
 
-The Student Vision for London organisation urge all students to register to vote at their term-time address. Their manifesto, and more information, can be found at [__http://visionforlondon.org.uk/__](http://visionforlondon.org.uk/).
+The Student Vision for London organisation urge all students to register to vote at their term-time address. Their manifesto, and more information, can be found at [http://visionforlondon.org.uk/](http://visionforlondon.org.uk/).

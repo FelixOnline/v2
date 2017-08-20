@@ -29,7 +29,7 @@ A blog may seem like an attractive option. You get to share some of your interes
 
 As a student, blogging can be a good way to make sure you've really learnt the material. As an academic, it can be a way to make new connections and explore areas of science outside your almost certainly narrow specialism. But there are some pitfalls, and you need to make sure you don't fall into them.
 
-__Professor Henry Rzepa__, of the Chemistry Department at Imperial, started his [blog](http://www.ch.ic.ac.uk/rzepa/blog/) three years ago and treats it as a "research notebook". Some of his blog posts have even turned into research projects, which in turn have been published in high profile peer review journals.
+Professor Henry Rzepa, of the Chemistry Department at Imperial, started his [blog](http://www.ch.ic.ac.uk/rzepa/blog/) three years ago and treats it as a "research notebook". Some of his blog posts have even turned into research projects, which in turn have been published in high profile peer review journals.
 
 > Funding agencies want to have their cake and eat it too; the ideal is for [blogging] to be a high quality hobby
 > Professor Andrew Jaffe
@@ -42,7 +42,7 @@ You need to strike a balance: blogs often have a personal slant, and tend to fee
 
 As long as you can refrain from ranting, the benefits can be worth the time. And it will be your own time you spend on it.
 
-__[Professor Andrew Jaffe](http://www.andrewjaffe.net/blog/)__, of the Physics Department at Imperial, said that a blog is generally seen in a positive light, but only if it's done after hours and doesn't take away significantly from real research. "Funding agencies want to have their cake and eat it too; the ideal is for [blogging] to be a high quality hobby".
+[Professor Andrew Jaffe](http://www.andrewjaffe.net/blog/), of the Physics Department at Imperial, said that a blog is generally seen in a positive light, but only if it's done after hours and doesn't take away significantly from real research. "Funding agencies want to have their cake and eat it too; the ideal is for [blogging] to be a high quality hobby".
 
 Jaffe believes, and I'm sure most scientists would agree, that quality and quantity of research is the most important thing for a scientist early on in their career. As time goes on, and you've gained approval from your peers, there may be more time to spend on "extras" such as blogs and other outreach.
 

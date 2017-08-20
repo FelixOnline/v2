@@ -35,9 +35,9 @@ The Techtonics opened the show, with Ezra Kitson, first year Biologist, kicking 
 
 All the King’s Men were next up, who won last year’s Semi-Finals, and made it to Boston for the Final in 2014. This all-male group from King’s College London won Outstanding Arrangment for their set, alongside placing first.
 
-After the interval, The Scopes and the Imperielles, Imperial’s own mixed and all-female groups respectively, also performed, with Tammy Huggins, a second year Biochemist, later winning Outstanding Soloist. The Scopes delivered an impressive mash-up of top 90’s hits, whilst the Imperielles’ set included exceptional renditions of __Sia__’s _Chandelier_ and a mash up of __Massive Attack__’s _Teardrop_ and __Lorde__’s _Royals_.
+After the interval, The Scopes and the Imperielles, Imperial’s own mixed and all-female groups respectively, also performed, with Tammy Huggins, a second year Biochemist, later winning Outstanding Soloist. The Scopes delivered an impressive mash-up of top 90’s hits, whilst the Imperielles’ set included exceptional renditions of Sia’s _Chandelier_ and a mash up of Massive Attack’s _Teardrop_ and Lorde’s _Royals_.
 
-Exeter’s all-male group, Semi-Toned, delivered a brilliant rendition of __Disney__’s _I’ll Make a Man Out of You_ and won the prize for Outstanding Choreography for their entire set, along with placing second. Meanwhile, Durham University’s mixed group, the Northern Lights, won the award for Outstanding Vocal Percussion for their entire set.
+Exeter’s all-male group, Semi-Toned, delivered a brilliant rendition of Disney’s _I’ll Make a Man Out of You_ and won the prize for Outstanding Choreography for their entire set, along with placing second. Meanwhile, Durham University’s mixed group, the Northern Lights, won the award for Outstanding Vocal Percussion for their entire set.
 
 The MC’s for the evening were the Son of Pitches, a former student a cappella group from Birmingham University. They have since gone professional after getting to the ICCA Finals a few years ago.
 

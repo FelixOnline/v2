@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-Just when we thought there couldn’t possibly be another _Romeo and Juliet _reinterpretation, the __Tamasha Theatre Company __chipped in with their own modern tale of star-crossed lovers (can’t talk about that play without saying the word star-crossed folks, it’s a legal requirement for reviewing). After all, reinterpretations are all about the retelling of classic story in a way a modern audience can relate to, right? So Emteaz Hussain wrote _Blood_ – as she herself puts it, “a contemporary urban love story” of two British Muslims, Caneze and Sully, fighting their family ties for the sake of love. The result is a play even more removed from a modern audience than the 16th century one it’s inspired by.
+Just when we thought there couldn’t possibly be another _Romeo and Juliet _reinterpretation, the Tamasha Theatre Company chipped in with their own modern tale of star-crossed lovers (can’t talk about that play without saying the word star-crossed folks, it’s a legal requirement for reviewing). After all, reinterpretations are all about the retelling of classic story in a way a modern audience can relate to, right? So Emteaz Hussain wrote _Blood_ – as she herself puts it, “a contemporary urban love story” of two British Muslims, Caneze and Sully, fighting their family ties for the sake of love. The result is a play even more removed from a modern audience than the 16th century one it’s inspired by.
 
 The text oscillates between forced poetical lyricism and overeager _bradistani_ dialect – think wannabe Shakespeare, but down with kids. The drama revolves round the stereotyped lives of young, northern, working class Muslims, surrounded by gang warfare, matchmaking aunts, and discrimination.
 

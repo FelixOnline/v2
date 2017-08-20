@@ -35,7 +35,7 @@ Even the news stories were bizarre: Like the time when rowing club’s minibus e
 
 These are just a few examples taken at random from a small selection of issues from the 1997-8 academic year. The pages of _Felix_ were chock full of Union Bar nose-breakings, punch-ups, and all manner of laddish behavior, but no one seemed to care all that much.
 
-Fast forward sixteen years and we see the anti-social behaviour of Imperial students splashed across not only these hallowed pages, but also the _Evening Standard_, _The Independent_, _The__Telegraph_, and the _Huffington Post_. Incidents that were commonplace in days gone past are now occasional scandals that threaten the reputation of our University and our Students’ Union.
+Fast forward sixteen years and we see the anti-social behaviour of Imperial students splashed across not only these hallowed pages, but also the _Evening Standard_, _The Independent_, _TheTelegraph_, and the _Huffington Post_. Incidents that were commonplace in days gone past are now occasional scandals that threaten the reputation of our University and our Students’ Union.
 
 Any reasonable person can see that these incidents, past and present, are not acceptable. Today, firm sanctions are applied to those who engage in these often-criminal actions, as is right and proper. But why didn’t the same happen to our predecessors?
 

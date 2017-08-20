@@ -29,6 +29,6 @@ They formed in 1998 and their intense live shows made them a household name in t
 
 This brings me to the reason why I prefer the most recent album: because it’s the rawest. Despite their diverse sound, I have to say that for me, I like the heavier tracks and In Nothing We Trust delivers forceful riffs and ridiculous drum smashing by the truckload. Their widely varied setlist saw them attract all different types of people to their live shows. Perhaps the most engaging thing about them though was their unique sense of humour always present in their videos and gigs (watch their ‘Michael Jackson’ video on YouTube). For these reasons, Reuben were one of the gems of UK alternative rock music and all we can do is hope that one day they will return, but for now check out the recommendation below and come back next time for more UK post-hardcore thrills!
 
-__Writer’s Recommendation__
+Writer’s Recommendation
 
 A test of what we’ve learnt so far: listen to the song ‘Crushed Under the Weight of the Enormous Bullshit’ and you should recognise some of the bands and albums mentioned in the song from previous lessons.

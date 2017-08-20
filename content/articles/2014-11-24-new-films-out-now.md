@@ -27,13 +27,13 @@ highlights:
  - comment
 ---
 
-__Director: __Israel Horovitz
+Director: Israel Horovitz
 
-__Screenplay: __Israel Horovitz
+Screenplay: Israel Horovitz
 
-__Cast: __Kevin Kline, Kristin Scott Thomas, Maggie Smith
+Cast: Kevin Kline, Kristin Scott Thomas, Maggie Smith
 
-__Rating: __3/5
+Rating: 3/5
 
 Maggie Smith is _My Old Lady_, or rather, Kevin Kline’s titular _Old Lady_. Mathias Gold (Kline) is an American who inherits a nice looking apartment in Paris from his late father. As a divorced fifty-something with very little to show for himself, he considers this to be a new start for him, until he finds out that the apartment itself has an unexpected resident and the French property law that does not work in his favour in any way; turns out, he actually needs to pay the elderly resident, Mathilde (Smith), a monthly sum of 2,200 Euros, as a part of a “viager” agreement.
 

@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-Among the cultural highlights on the calender for next year, one sticks out as a particular oddity: March 2015 will see the grand opening of __The National Videogame Arcade__ in Nottingham. The £2.5 million project, which aims to become a draw for tourists visiting Nottingham, will be the first of its kind, aining to become a “hub for videogame culture”.
+Among the cultural highlights on the calender for next year, one sticks out as a particular oddity: March 2015 will see the grand opening of The National Videogame Arcade in Nottingham. The £2.5 million project, which aims to become a draw for tourists visiting Nottingham, will be the first of its kind, aining to become a “hub for videogame culture”.
 
 The Arcade, which will take up residence in a 33,000 sq foot building, will spread its permanent collection across five entire floors. A vast majority of the pieces in the gallery will come from the National Videogame Archive, a vast collectioon numbering 20,000 objects, currently held by the Science Museum, London.
 

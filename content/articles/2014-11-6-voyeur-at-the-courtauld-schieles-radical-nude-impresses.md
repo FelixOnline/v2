@@ -27,7 +27,7 @@ highlights:
 
 A mention of sex in any context, really, is usually enough to get people excited (pun intended). After all, to quote Oscar Wilde: “Everything in the world is about sex, except sex. Sex is about power”.
 
-It is clear to spectators of __The Radical Nude__ – the first solo exhibit of Egon Schiele’s nudes in the UK – that in all of the paintings, whether dark tones or vivid bright colors, there is an unexpected sense of the power of the imperfect naked human form. And so, in that sense, Schiele revolutionized the traditionally fragile and limp take on the nude.
+It is clear to spectators of The Radical Nude – the first solo exhibit of Egon Schiele’s nudes in the UK – that in all of the paintings, whether dark tones or vivid bright colors, there is an unexpected sense of the power of the imperfect naked human form. And so, in that sense, Schiele revolutionized the traditionally fragile and limp take on the nude.
 
 With his “radical nudes”, Schiele is equally successful and scandalous in breaking both the artistic conventions and social taboos of his time. Paradoxically, there is a kind of unnaturally natural and softly aesthetic beauty in the way the sharp angles, inorganic colors, and awkward poses complement each other and form the total work of art.
 

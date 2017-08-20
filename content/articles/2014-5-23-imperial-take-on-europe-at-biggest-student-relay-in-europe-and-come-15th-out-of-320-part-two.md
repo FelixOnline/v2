@@ -27,9 +27,9 @@ highlights:
  - longread
 ---
 
-[___Continued from last week’s issue___](../sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay/)
+[_Continued from last week’s issue_](../sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay/)
 
-#### __Morning Stages 12, 13 – Lina Forsman__
+#### Morning Stages 12, 13 – Lina Forsman
 
 After having been woken up by bright lights and house music at three o’clock in the morning, it’s safe to say that I was barely awake when me, Siân, Will and Sophie got into Sophie’s car at 05.45 to get to the first restart point where we were scheduled to pick up Duncan and drop of Siân and Will. Because of this, I am not entirely sure of the order of events around getting to Stage 12; I dozed off. What I can remember though is that we made a u-turn (more than once), Sophie and Duncan asked for directions from the volunteers (also more than once) and eventually they reached the conclusion that we were at the wrong stage and the one we had previously been at was in fact the right one.
 
@@ -37,7 +37,7 @@ I started running after getting the bib from Siân who finished her race with a 
 
 After passing the bib to Sophie, it took me a while to catch her up (I would like to point out that, although comfortable, the bike was hard to manoeuver...), who was running at a steady fast pace the whole way and also found, from her Garmin, that her distance was 5 kilometres rather than 5.3...
 
-#### __Morning Stages 14, 15 – Will Jones__
+#### Morning Stages 14, 15 – Will Jones
 
 Driving a small hatchback on Dutch country roads is far easier than driving a large minibus and it wasn’t long before we were at our destination. We made our way over the start, but with the crowds already built up it was difficult to see the incoming runners. Sophie and Lina had both put in top fast times in the women’s legs, pushing our team place up even higher and we had little time to get ready before they arrived at the changeover. Missing Lina cycling past, I only saw Sophie in the nick of time and had to jump over a barbed wire fence to get across to the changeover. After swapping my jacket for the running bib I set off on legs already sore from running a previous stage; Duncan promising to catch up with me shortly. The stage consisted of dead straight, paved country lanes and I could pick off one competitor at a time and steadily advance my way up the field.
 
@@ -45,13 +45,13 @@ After a chaotic and crowded changeover Duncan set off as I was almost knocked of
 
 After a brief drive over to the end of leg 17 and the end of the morning session we were finally able to get a tiny bit of sleep, crawling into our sleeping bags in the back of the minibus as we waited for the afternoon restart and the coming of the Al-Matt quadrathlon…
 
-#### __Morning Stages 16-17 – Lina Forsman__
+#### Morning Stages 16-17 – Lina Forsman
 
 So the idyllic picture from before.... Yeah, about that! At this point it was raining as if the sky was open! Luckily most of Milan’s stage was in the forest so the trees protected against the wind. Milan ran his Stage at a really good pace, but as his distance also was shorter in reality it came to an abrupt finish, followed by a really slow handover (that one is on me). The track was quite flat, (not as solid) but finished off with a really long straight finish which allowed you to see a few hundred metres ahead of you – and also gave you the motivation to sprint faster! ;)
 
-#### __Afternoon Stages 18 – 21, The Quadrathlon__
+#### Afternoon Stages 18 – 21, The Quadrathlon
 
-__By Alwyn Elliott__
+By Alwyn Elliott
 
 Despite both having driven the previous day from London, slept for a few hours, driven all morning, Matt Douthwaite and Alwyn Elliott decided to pile the pressure and complete their legs in the form of a mini Quadrathlon. Alwyn set off from Stage 18’s restart with Matt in close bike support. Chaos ensued as bikes narrowly avoided one another as all the bikes hurtled after the runners. However, within the first kilometre the dynamic duo were separated as Alwyn switched from the smooth tarmac to muddy uphill forest trail despite everyone telling him the Netherlands was completely flat. As Alwyn worked his way through the woods, Matt cycled ahead to begin the agonising wait to be reunited with his team mate at the stage’s half way marker.
 
@@ -77,9 +77,9 @@ Just as Jonathan made it to the checkpoint, Matt came hurtling in, practically t
 
 The extremely wet, tired, and hungry duo then headed to the minibus where Antoinette (the angel) Hardijzer offered to drive instead of them to the final restart, whilst they gorged themselves on a mixture of cereal bars, brownies, flapjacks, fruit, crisps, and more jelly babies!
 
-#### __Afternoon Stages 22 to 25!__
+#### Afternoon Stages 22 to 25!
 
-__By Siân Morgan__
+By Siân Morgan
 
 As the quadrathlon finished, it was the turn of Siân Morgan and Jonathan Mason to take over for the last legs before the final re-start. The first challenge of this leg involved trying to get the bike bib (and the bike for that matter) off Alwyn, who announced: ‘Matt’s coming fast’ and then looked dazed at Siân with clear signs of utter exhaustion. Once the bike bib had been handed over and Jonathan retrieved from his warm up, Matt arrived to thrust the bib over. They were off, in some lovely wet weather!
 
@@ -105,7 +105,7 @@ Imperial College’s overall cumulative time was 12:26:01 (for 178k) placing us 
 
 Finally the time came for the heavenly shower after which British flags were reapplied generously. The night kicked off with a prime example of IndoneSiân cuisine, Nasi Goreng – though all the Brits just assumed it was some type of curry… The atmosphere at the after party resembled that of an open air festival with 2 massive party tents and an open air DJ booth just outside of the campsite (who needs sleep?). There were 13000 students attending and the music options were trashy Dutch carnival music, Eurotech and house. The drink of choice was divine Dutch lager with the signature two fingers of foam – this went massively unappreciated as it took up half the volume in the cup…  The fun night ensured that the drivers woke up fresh and fruity ready to tackle the 10 hour drive back to London. We spotted another British team on the way back, allowing us to shout one more time: Follow that minibus!!! Sleep deprivation made sure even that was hilarious, as were teletubies and camper van overtaking. Miraculously both vehicles returned almost unscathed - who needs wing mirrors anyway? All that’s left to be said is that we cannot wait to repeat this mental adventure next year!
 
-__Round up – Duncan Ingram__
+Round up – Duncan Ingram
 
 The juxtaposition of fear and fun really made this experience unique, and definitely helped create one of the most unforgettable challenges we’ve ever faced; I’m sure none of us would hesitate to do it all again. So if anyone gets the chance to run or cycle at stupid o’ clock, don’t pass up the opportunity! Unless you’re trespassing or something…
 

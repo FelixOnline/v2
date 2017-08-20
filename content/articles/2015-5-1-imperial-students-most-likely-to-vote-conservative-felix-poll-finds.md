@@ -42,7 +42,7 @@ Compared to national predictions from electionforcast.co.uk, at the time of prin
 
 Conservative are expected to win 279 out of the 650 seats available, with Labour coming up close with 270. Liberal Democrats are looking at securing 27 seats, with UKIP and the Green Party winning 2 and just one seat respectively.
 
-__Five years on: the drop in Lib Dem popularity__
+Five years on: the drop in Lib Dem popularity
 
 For the last General Election in 2010, Felix ran a similar poll and found that 56% of those who responded intended to vote Liberal Democrats, 24% were going to vote for a Conservative Party candidate and only 16% were planning on casting their vote for a Labour Party candidate.
 
@@ -54,17 +54,17 @@ Interestingly, a YouGov poll at the time found that 49% of all voters would have
 
 ******
 
-__Elections in the UK: A guide for dummies __
+Elections in the UK: A guide for dummies
 
-__What is a general election?__
+What is a general election?
 
 Every 5 years, residents of the UK are able to vote on candidates to represent them in the House of Commons. The UK is split into areas of roughly equal population size, called constituencies. Each constituency will have several MP candidates standing for election, with candidates often being affiliated with a main political party. Those that are not are called “Independent” candidates.
 
-__What are the main political parties in the UK?__
+What are the main political parties in the UK?
 
 Three parties usually dominate the House of Commons, which are the Conservative party, the Labour party and the Liberal Democrats. However, many other parties may secure a small number of seats, including the Green Party, or the United Kingdom Independence Party (UKIP). Each party has various political views and stances, which their MP candidates will generally also be in favour of.
 
-__How many MPs are there?__
+How many MPs are there?
 
 There is one per constituency, and there are 650 constituencies across the whole of the UK.
 
@@ -72,19 +72,19 @@ In London due to the high population density, there are 73 different constituenc
 
 There are around 50,000 to 70,000 people in each constituency.
 
-__Who can be an MP?__
+Who can be an MP?
 
 Anyone can stand as a Member of Parliament; they simply need to be a British or Irish Commonwealth citizen, and over 18. They cannot be a public official or officeholder.
 
-__Who decides who is Prime Minister?__
+Who decides who is Prime Minister?
 
 You cannot vote on who is Prime Minister, as they are, by convention, appointed by the Monarch. The individual who is considered “to command the confidence of the House of Commons” and therefore the usually the leader of the majority political party or, if there is a coalition, the leader of the party that holds the most seats will be Prime Minister.
 
-__What voting system does the general election use?__
+What voting system does the general election use?
 
 The current system is called “First Past the Post” (FPTP). This means you can only cast one vote for an MP candidate, and the candidate that receives the most vote wins that seat and represents that constituency in the House of Commons.
 
-__How does a party form the government?__
+How does a party form the government?
 
 Each MP has a seat in the House of Commons, and the party that wins the most seats forms the government. This means that they can put their ideas and views into practise when running the country.
 

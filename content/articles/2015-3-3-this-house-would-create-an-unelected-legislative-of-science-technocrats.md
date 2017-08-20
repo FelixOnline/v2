@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-__Proposition: Anita Chandran__
+Proposition: Anita Chandran
 
 The problem with our government is that good suggestions, sensible ideas, and reasonable policy are lost to populism, the desperation for voter buy-in and the lack of political consensus. Moreover, the government is stunted by apathy in wide swathes of important issues, from green policy to parts and segments of the financial sectors: simply put, the voters care about rising immigration levels and the NHS, and our discussions about sensible energy policy never happen.
 
@@ -37,7 +37,7 @@ These problems could be mitigated by including a technocratic authority in our p
 
 Coming from a wide range of legitimate research, these bodies are able to make decisions which are grounded in research and evidence-based methods. They can, therefore, choose cost- and energy-efficient strategies. Furthermore, they are more able to look into the nooks and crannies of policy, while prioritising their areas of research, instead of pandering to solely political agendas. This is especially effective for those policies which get very little public discussion. In as much as each of these scientists has an incentive to maintain their own credibility, they are self-regulating, and best placed to understand highly technical policy decisions.
 
-__Opposition: Niall Jeffrey__
+Opposition: Niall Jeffrey
 
 Science is above politics. That is not to say that the results of science don’t have political ramifications, but the results themselves are true or false, whether or not they affect the world. For each of the issues we are discuss – climate change, drug policy or reproductive medicine – it is important that the science is deliberated in a setting with as little interference as possible.
 

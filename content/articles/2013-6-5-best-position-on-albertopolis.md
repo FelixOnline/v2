@@ -27,35 +27,35 @@ highlights:
 
 TEDxImperialCollege was a must see event. It had so much on offer (you even got your own lanyard) and must have hit home with the audience: it was trending on Twitter. Considering it contained absolutely zero Justin Bieber performances, that’s pretty special. Former Felix Editor/physics student Kadhim Shubber kindly took some time out to answer some questions. He is co-organising possibly one of the largest ever TEDx events, right on our doorsteps at the Royal Albert Hall. The team organising [TEDxAlbertopolis](http://tedxalbertopolis.com/) is almost entirely made up of Imperial alumni, and Kadhim described them as “a dream. The most intelligent, interesting and effective people you could hope to work with.”
 
-__Tim Arbabzadah: You organised TEDxImperial College, what made you want to organise another TEDx event?__
+Tim Arbabzadah: You organised TEDxImperial College, what made you want to organise another TEDx event?
 
 Kadhim Shubber: We had far more people who wanted to attend TEDxImperialCollege than we could accommodate. There was such a huge demand in this community for another TEDx event and we felt that there was more to say, and more stories to explore in this area.
 
-__TA: If the____re were anything you could have done differently at the last event, what would it have been?__
+TA: If there were anything you could have done differently at the last event, what would it have been?
 
 KS: When you organise an event, you are in a unique position to see all the niggles and flaws. There are lots of things that I thought could have been a little bit better, but on the whole I think it was a great event that people enjoyed and I wouldn’t want to point to one thing or another.
 
-__TA: The Royal Albert Hall is the venue, how did that idea come about?__
+TA: The Royal Albert Hall is the venue, how did that idea come about?
 
 KS: The Royal Albert Hall is Albertopolis’ auditorium. Its full name is the “Royal Albert Hall of Arts and Sciences”, making it the perfect place to explore the Arts, Sciences and their role in modern society. We are incredibly lucky to be able to organise TEDxAlbertopolis at the Royal Albert Hall.
 
-__TA: Is this the biggest ever TEDx event?__
+TA: Is this the biggest ever TEDx event?
 
 KS: I don’t know, but I haven’t heard of any that are bigger. TEDx events are about spreading ideas and connecting people. The size isn’t hugely important.
 
-__TA: It’s TEDxAlbertopolis. What is Albertopolis?__
+TA: It’s TEDxAlbertopolis. What is Albertopolis?
 
 KS: Albertopolis is the informal name for the area from the Royal Albert Hall down to South Kensington station, including all the museums and other institutions in this neighbourhood. It’s basically a Victorian “Tech City”, founded on the profits of The Great Exhibition of 1851 as a place where scientific innovation and creative design work hand in hand.
 
-__TA: What is the theme of this year’s event?__
+TA: What is the theme of this year’s event?
 
 KS: We aren’t giving away the theme just yet, butit’s no secret that we’ll focus on the place how art and science fit together in the modern world.
 
-__TA: Are there any big name speakers we will get to see?__
+TA: Are there any big name speakers we will get to see?
 
 KS: We’ve chosen all of our speakers because we think they have a really interesting perspective to share and a compelling story to tell. We’ve got many more to announce, but we’ve already announced Dame Sally Davies, the Chief Medical Officer for England and Emeritus Professor at Imperial; David Braben FREng, CEO of the Frontier Developments and a cofounder of the Raspberry Pi Foundation; Nicholas McCarthy, the first one-handed pianist graduate from the Royal College of Music; and John Halpern, cryptic crossword setter for the Guardian, The Times, The Financial Times and The Telegraph.
 
-__TA: Who would be your dream speaker to invite?__
+TA: Who would be your dream speaker to invite?
 
 KS: I feel incredibly privileged to be working with the speakers we’ve already been able to announce. I think this is pretty much a dream line-up. (I hope you agree!)
 ## A Great Exhibition

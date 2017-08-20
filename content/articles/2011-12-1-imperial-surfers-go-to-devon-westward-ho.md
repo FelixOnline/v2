@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Surfing__
+Surfing
 
 The first weekend of November saw 28 Imperial students hit the coast of north Devon for a weekend of surfing and initiation activities.
 

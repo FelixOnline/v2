@@ -30,7 +30,7 @@ highlights:
 You might have seen the signs around campus already – there is a new farmers market on Queens Lawn every Tuesday. You will be surprised by how much fresh vegetables and fruits this is. Apart from the expected English strawberries, raspberries, blueberries, plums, apples and pears, there are also Downland Pigs famous free range hog roast, Brambletye Farm’s organic eggs and sweet and savoury goodies from Queen of Cakes. None of which you will be able to get from your local Sainsbury’s.
 
 And with my goodies from the market I made something special for dinner:
-__Pan-seared Pigeon Breast with Stuffed Courgette Flowers and Oven Roasted Potatoes__
+Pan-seared Pigeon Breast with Stuffed Courgette Flowers and Oven Roasted Potatoes
 
 It’s simple, yet it looks restaurant-level gourmet due to the not-quite-common ingredients - you get amazing flavours and a mix of colour. You also get to experiment a bit with pretty cheffy techniques, so this recipe is perfect for those who’ve never tried stuff like deglazing pans to make gravy, etc. We’re in-between seasons at the moment, so sadly courgette flowers are sort of on their way out (they’re a summer thing) - but gamey pigeon breast is perfect for the autumn/winter.
  The beauty of this dish is its flexibility - there are no food police! If you can’t find courgette flowers, sub with your own veggies (preferably the stuff that’s more in season) - no need to pan-fry with egg wash necessarily. Or for something just as impressive, blackberry and game are known to go quite well together so you can toss blackberries and salad leaves, dress, and serve with this dish. Adjust amounts for a starter or main, tweak it to make as filling or as light as you want depending on how in-between-seasons you feel.

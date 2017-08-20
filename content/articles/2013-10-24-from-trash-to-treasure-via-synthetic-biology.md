@@ -30,11 +30,11 @@ We all know Imperial is good at Engineering. What you may not know is that they 
 
 This is the focus of Team Plasticity’s project; turning a mixed waste which is actually the result of high tech recycling facilities into a plastic made inside living cells. Hundreds of thousands of tonnes of this waste, called Solid Recovered Fuel (SRF) are shipped to Europe to be incinerated every year. Now you may think ah, fuel, that is a good thing, right? Well, I am sorry to say this but, ugh-urgh, incorrect.
 
-__No 1- it pollutes the environment and some studies have linked increased levels of cancer to nearby incinerators.__
+No 1- it pollutes the environment and some studies have linked increased levels of cancer to nearby incinerators.
 
-__No 2- it does not make economic sense, with millions of pounds per annum spent on disposal by each recycling plant.__
+No 2- it does not make economic sense, with millions of pounds per annum spent on disposal by each recycling plant.
 
-__No.3- it is a downright waste of resources.__
+No.3- it is a downright waste of resources.
 
 One third of the SRF is made of plastics and the rest is paper, wood and fibres. What if you could do something better with this? What if you could turn it into a viable alternative to petrochemical plastics which are causing so much pollution and at the same time recycle the plastics already in there? Well, this is what we have been working on.
 

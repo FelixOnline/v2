@@ -26,30 +26,30 @@ highlights:
 
 Today Prime Minister David Cameron appointed Greg Clark to the post of Universities Minister, after David Willetts resigned yesterday. But who is Greg Clark? Felix takes a look.
 
-__Name:__ Greg Clark
+Name: Greg Clark
 
-__MP for:__ Royal Tunbridge Wells since 2005
+MP for: Royal Tunbridge Wells since 2005
 
-__Age:__ 46
+Age: 46
 
-__Previous Ministerial Posts:__
+Previous Ministerial Posts:
  - Minister of State for Decentralisation
  - Minister of State for Cities and Constitution
-__Previous Shadow Cabinet Posts:__
+Previous Shadow Cabinet Posts:
  - Energy and Climate Change
-__Controversies?__
+Controversies?
  - Told fellow Conservatives in 2006 to pay less attention to the thinking of Winston Churchill
  - Accused of hypocrisy when developing policies on planning regulations
 
 > Mr Willetts is a tough act to follow.
 
-__Previous Jobs:__
+Previous Jobs:
  - Controller for BBC in Commercial Policy
  - Councillor on Westminster Council
-__Did you know?__
+Did you know?
 
 Mr Clark is an ardent supporter of homeopathic treatments and has a homeopathic hospital in his constituency.
 
-__What do the critics think?__
+What do the critics think?
 
 Mr Willetts is a tough act to follow. Critics are unconvinced as to whether Mr Clark will be able to secure the funding necessary for Universities, but it is thought his links with Chancellor George Osborne will stand him in good stead.

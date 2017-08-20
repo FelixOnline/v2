@@ -42,7 +42,7 @@ The performance of Johann Myers as Ramjohn is exceptional. Subtle and enticing, 
 
 From what feels like misguided direction, the supporting cast’s desperation in trying to squeeze another laugh out of the audience sidelines the deeply serious undertone of the play. Added to Rob Heanley’s irritatingly bad attempt at an American accent, Randall’s production comes across as farcical. It’s certainly funny, but as a complete play it doesn’t work.
 
-Performed in the round, __The Orange Tree__’s signature space can do wonders for a show as easily as it can break a show. Although the staging doesn’t fail the space completely, a degree of poor blocking leaves parts of the audience wondering why they are only seeing certain actors from behind.
+Performed in the round, The Orange Tree’s signature space can do wonders for a show as easily as it can break a show. Although the staging doesn’t fail the space completely, a degree of poor blocking leaves parts of the audience wondering why they are only seeing certain actors from behind.
 
 > It’s certainly funny, but as a complete play it doesn’t quite work
 

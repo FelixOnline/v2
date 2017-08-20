@@ -22,11 +22,11 @@ authors:
 highlights:
 ---
 
-[__American Reunion__](http://www.imdb.com/title/tt1605630/)
+[American Reunion](http://www.imdb.com/title/tt1605630/)
 
-__Directors__ Jon Hurwitz, Hayden Schlossberg
-__Screenwriters__ Jon Hurwitz, Hayden Schlossberg
-__Cast__ Jason Biggs, Alyson Hannigan, Seann William Scott, Chris Klein, Thomas Ian Nicholas, Tara Reid, Eugene Levy, Jennifer Coolidge
+Directors Jon Hurwitz, Hayden Schlossberg
+Screenwriters Jon Hurwitz, Hayden Schlossberg
+Cast Jason Biggs, Alyson Hannigan, Seann William Scott, Chris Klein, Thomas Ian Nicholas, Tara Reid, Eugene Levy, Jennifer Coolidge
 
 They’re back! Or more specifically, Stifler’s (Scott) back! And so is Jim’s Dad (Levy)! And so is Stifler’s Mom (Coolidge)! Do we really care about anyone else? A lot of the comedy that sticks to our mind revolves around these three characters, and with _American Reunion_, these three are the ones who once again steal the show, and remind us why the _American Pie_ franchise was such a hit.
 

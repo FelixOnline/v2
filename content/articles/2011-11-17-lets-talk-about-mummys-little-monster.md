@@ -24,13 +24,13 @@ authors:
 highlights:
 ---
 
-__We Need to Talk About Kevin__
+We Need to Talk About Kevin
 
-__Director__ Lynne Ramsay
+Director Lynne Ramsay
 
-__Screenwriters__ Lynne Ramsay, Rory Kinnear, Lionel Shriver (novel)
+Screenwriters Lynne Ramsay, Rory Kinnear, Lionel Shriver (novel)
 
-__Cast __Tilda Swinton, Ezra Miller, John C. Reilly
+Cast Tilda Swinton, Ezra Miller, John C. Reilly
 
 I can’t say that I walked into [_We Need to Talk About Kevin_](http://www.youtube.com/watch?v=ZLRgAe2jLaw) expecting a trippy, synaesthetic nightmare. But that’s what I got, and it was very good with it too. The film is intensely visual – sparse on dialogue and filled with kaleidoscopic and non-chronological sequences, particularly in the first half. The linearity of the closing scenes is less impressive in many ways, in spite of Ezra Miller’s hypnotically ugly and malevolent presence as the teenage Kevin.
 

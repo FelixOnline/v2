@@ -34,33 +34,33 @@ Some even throw in bonuses for an extra ten to twenty quid, such as river cruise
 
 Despite the obvious draw, some people are afraid of the fine print and hidden charges – and that’s reasonable. I had many reservations when I first saw them, and it wasn’t until a friend took the plunge that I realized this really could become the new way to travel in comfort affordably:
 
-__1) Read the fine print__
+1) Read the fine print
 
 This might sound obvious, but sometimes people get too excited by the prospect of it and forgot to check. It should state the period available to redeem the voucher as well as what is included and what isn’t. Make sure you know the refund/cancellation policy so you can get your money back if things go south.
 
-__2) Call ahead __
+2) Call ahead
 
 Call to enquire about the availability or make sure that you are relatively free during the stated time period.
 
 Sometimes the date you want might not be available – especially if it’s a holiday period.
 
-__3) Make time for the call__
+3) Make time for the call
 
 These tour operators often have a dozen calls coming in at one time. You need to expect them to take a while to answer you, as well as having to call you back to confirm certain details.
 
-__4) Be prepared to pay extra__
+4) Be prepared to pay extra
 
 Most of the time the flights included in the original price are at an ungodly hour of the morning or late at night at Luton. So if you want to make the most of your trip and the Groupon, be prepared to pay around £40 per person to upgrade to Ryanair or EasyJet at Gatwick or Stansted.
 
 Trust me, you will save half if not all of the money from not having to get a taxi to the airport.
 
-__5) Check hotel locations__
+5) Check hotel locations
 
 This is especially important with multiple hotel offers. Usually the hotel will be centrally located, and it might be worthwhile to visit its website and check its rating on TripAdvisor.
 
 Some deals will offer a choice of hotel, so if you have your heart set on one of the hotels call the travel agent ahead to check its availability to avoid disappointment. Beware that some travel agencies will try to give you another hotel – do not give out your Groupon code until you have the dates and hotel you desire.
 
-__6) Hand luggage only__
+6) Hand luggage only
 
 This one might be obvious, but unless you throw in another extra £30, you will have to adhere to the hand luggage restriction of the airline. However don’t worry; most people are in the same boat.
 

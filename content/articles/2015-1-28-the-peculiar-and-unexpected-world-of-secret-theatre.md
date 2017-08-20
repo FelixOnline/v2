@@ -23,11 +23,11 @@ authors:
 highlights:
 ---
 
-A hipster little theatre in Kilburn. A cast of young actors. An improvised piece on the meaning of life. As far as hints go, the __Secret Theatre__ production of _A Series of Increasingly Impossible Acts_ hadn’t got me too fired up. And yet, despite my initial reticence, I was completely blown away by what proved to be a brave, hilarious and heart wrenching show.
+A hipster little theatre in Kilburn. A cast of young actors. An improvised piece on the meaning of life. As far as hints go, the Secret Theatre production of _A Series of Increasingly Impossible Acts_ hadn’t got me too fired up. And yet, despite my initial reticence, I was completely blown away by what proved to be a brave, hilarious and heart wrenching show.
 
-The Secret Theatre formed a few years back when the __Lyric Theatre__ in Hammersmith was undergoing huge building works. In order to continue putting on shows ten young actors joined up to create unusual shows, in which the audience would turn up not knowing what would be performed or where it would be performed within the building site. It turned out to be a huge success and the company has carried on producing shows in much the same way, despite the fact that they know have a fully-constructed theatre.
+The Secret Theatre formed a few years back when the Lyric Theatre in Hammersmith was undergoing huge building works. In order to continue putting on shows ten young actors joined up to create unusual shows, in which the audience would turn up not knowing what would be performed or where it would be performed within the building site. It turned out to be a huge success and the company has carried on producing shows in much the same way, despite the fact that they know have a fully-constructed theatre.
 
-Confusingly, London has another Secret Theatre company (__Secret Theatre London__) which veils its shows in mysteries and forbids reviews from spilling the beans. Prepared for total secrecy, I was surprised to see that a quick Google of _A Series of Increasingly Impossible Acts_ returned reviews openly sharing the main outline was being referred to openly: a cast member gets chosen by the audience to undertake difficult, unpleasant or impossible tasks on stage.
+Confusingly, London has another Secret Theatre company (Secret Theatre London) which veils its shows in mysteries and forbids reviews from spilling the beans. Prepared for total secrecy, I was surprised to see that a quick Google of _A Series of Increasingly Impossible Acts_ returned reviews openly sharing the main outline was being referred to openly: a cast member gets chosen by the audience to undertake difficult, unpleasant or impossible tasks on stage.
 
 What’s the point of a secret if everyone knows it already? Perhaps a better name would be the Unexpected theatre — it wasn’t the show’s format which was a surprise, but the emotional charge it carried.
 

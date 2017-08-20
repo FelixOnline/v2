@@ -32,11 +32,11 @@ highlights:
 
 Just over a year ago, on 6 August 2012 (5 August Eastern Standard Time), a little something called Curiosity made its final descent towards the Martian surface. Curiosity had spent over seven months making the journey from Cape Canaveral in Florida to the outer atmosphere of Mars. After a series of perfectly executed moves, and an excruciating wait for the Mars Science Laboratory (MSL) team at NASA, the rover landed safely in Gale crater, near the Martian equator.
 
-__A short history of Mars exploration__
+A short history of Mars exploration
 
 Curiosity is not the first rover NASA has sent to the red planet. Two Viking robots landed in 1976 and Mars Pathfinder safely delivered the solar-panelled Sojourner rover in 1997, which explored Mars for 83 Martian days (just under three months here on Earth). Curiosity’s cousins Spirit and Opportunity arrived on Mars in 2004 in search of clues that water had once flowed at its surface. The two rovers have provided NASA and the world with some amazing insights into the Martian environment. They captured [striking images of geological structures](http://marsrover.nasa.gov/science/goal3-results.html) and revealed the presence of minerals such as [hematite](http://marsrover.nasa.gov/science/goal1-results.html) and [goethite](http://marsrover.nasa.gov/newsroom/pressreleases/20041213a.html), which on Earth are associated with water-rich environments. Spirit and Opportunity didn’t just focus on what was under their wheels. They also looked up and carefully monitored changes in the Martian atmosphere, measuring variations in temperature and capturing images of [dust devils](http://marsrover.nasa.gov/gallery/press/spirit/20050421a.html) and clouds.
 
-__What is Curiosity looking for?__
+What is Curiosity looking for?
 
 The question at the centre of the Curiosity mission is this one: Did Mars ever have the right environment to support microbial life? To try and find answers, the rover has been looking at the geological, physical and chemical characteristics of the planet’s surface.
 
@@ -50,11 +50,11 @@ Gale crater was chosen because of its unique structure. From its centre soars Ae
 
 Mt. Sharp is fascinating because it contains the thickest pile of sediments yet identified on Mars. The base of the mountain is of particular interest as it records a very long history of erosion and deposition from the rocks on this towering mountain. Sediments on Mars, as on Earth, accumulate over time from small particles of rock eroded and displaced from the top of mountains by physical or chemical processes linked to climatic conditions. The thick sediments of Mt Sharp therefore represent a direct view into the processes that have occurred on Mars over a huge amount of time.
 
-__So what is it about Curiosity that makes it so special?__
+So what is it about Curiosity that makes it so special?
 
 Curiosity is no common rover. It is one thousand times heavier than Sojourner and is equipped with the most advanced tools available for drilling and analysing rocky Martian samples. Curiosity can drill holes, collect rock powders and analyse them in its very own in-built laboratory. This personal laboratory contains 10 state-of-the art instruments capable of looking at the mineralogy and chemical composition of the drilled samples, the composition of the atmosphere, background radiation and other aspects of Mars’ environment, which are crucial for understanding the planet and preparing for future unmanned and manned missions. Not only are scientists receiving images of rocks that could represent an ancient water-rich environment, they are able to test these hypotheses directly in the field.
 
-__What has kept Curiosity busy in its first year?__
+What has kept Curiosity busy in its first year?
 
 The rover has driven over one kilometre from its landing site in Aeolis Palus, slowly and carefully investigating its surroundings along the way.
 

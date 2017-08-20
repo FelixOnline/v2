@@ -23,15 +23,15 @@ authors:
 highlights:
 ---
 
-__What: __Wedding Dresses 1775-2014
+What: Wedding Dresses 1775-2014
 
-__Where: __Victoria & Albert Museum, SW7
+Where: Victoria & Albert Museum, SW7
 
-__When: __Until 15th March 2015
+When: Until 15th March 2015
 
-__Price: __£12, £8 students
+Price: £12, £8 students
 
-__W__edding days: they’re everyone’s opportunity to live out their fairy tale. And, of course, the best way to feel like a princess is to look like a princess – cue the ever-fascinating obsession of the wedding dress. The V&A exhibition walks us through almost 250 years of bridal fashion and explains changes in sociocultural wedding fashion by displaying a considerable number of outfits.
+Wedding days: they’re everyone’s opportunity to live out their fairy tale. And, of course, the best way to feel like a princess is to look like a princess – cue the ever-fascinating obsession of the wedding dress. The V&A exhibition walks us through almost 250 years of bridal fashion and explains changes in sociocultural wedding fashion by displaying a considerable number of outfits.
 
 Lace, silk, patterns, brocade, tiaras, trains and shoes - if as a child you ever enjoyed making clothes for your dolls or dressing up with older relatives’ clothes, you’ll get comparable gratification out of filing past the displays of lavish dresses, veils and petticoats. From Jane Bailey’s romantic cream outfit for a 1780’s rural wedding to Mary Charteris’ skin-revealing silk dress from her recent wedding, the exhibition has plenty to coo about.
 

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Locke__
+Locke
 
-__Director:__ Steven Knight
+Director: Steven Knight
 
-__Writer: __Steven Knight
+Writer: Steven Knight
 
-__Starring: __Tom Hardy, Olivia Colman, Ruth Wilson
+Starring: Tom Hardy, Olivia Colman, Ruth Wilson
 
-__Runtime: __85 minutes
+Runtime: 85 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating 4/5
 

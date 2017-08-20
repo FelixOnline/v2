@@ -33,7 +33,7 @@ highlights:
 
 The media today is so overwhelmingly influential that it can convince anyone to jump on the bandwagon. So now is the time to clear up all the rumours, debunk some diets out there and find out what they are really all about.
 
-__Gluten Free (GF)__
+Gluten Free (GF)
 
 It has gotten a lot of attention lately for being a “healthier” diet, but the main reason for the increased hype is due to a spike in people with gluten intolerance; whether from coeliac disease, wheat allergies or non-coeliac gluten sensitivity. For clarification, only the first of these is an autoimmune disease.
 
@@ -41,7 +41,7 @@ In recent years, food manufacturers have jumped on this increased demand for GF 
 
 However, just because these specialist foods are labeled “gluten free” doesn’t necessarily mean they aren’t loaded with sugar and other unhealthy ingredients. Nevertheless, for true allergy/intolerance sufferers, these might be the only option.
 
-That said, any beneficial effects of going GF are easily nullified if you don’t supplement your carbs with enough protein, fruit or veg - in fact, it can be very easy to end up nutritionally imbalanced on this diet.__Paleo__
+That said, any beneficial effects of going GF are easily nullified if you don’t supplement your carbs with enough protein, fruit or veg - in fact, it can be very easy to end up nutritionally imbalanced on this diet.Paleo
 
 This is a slightly newer diet trend that has become popular amongst health nuts, and is in some aspects our last-ditch effort to somehow make our ‘growing’ population grow a little less (sideways, that is). This means eating how cavemen eat: anything you could hunt or find, you can eat, but everything else is forbidden.
 
@@ -51,7 +51,7 @@ As such, this diet consists of eating vegetables, fruits and meat - without any 
 
 It isn’t without its critics however, as health experts cite the increased risks of cancer that seem to be linked with higher meat consumption. Nevertheless, if you are feeling lethargic, living on 8 cups of coffee a day with energy levels near the floor, followers swear by the increase in energy Paleo provides. Perhaps switch up just one of your meals in the day to Paleo – there’s no harm in eating more fruits and vegetables!
 
-__Raw__
+Raw
 
 I’ve come across a YouTuber called “Raw Kristina” who has eaten raw for almost 10 years, and has shown her viewers that contrary to popular belief she isn’t nutritionally deficient. Proponents believe that applying heat to food actually doesn’t have any nutritional benefit (even lowering it in some cases), except for preventing us from getting food poisoning – and we wouldn’t get food poisoning in the first place if we didn’t have foods like meat as part of our diet. As most raw foods are naturally low-fat and low-calorie, weight loss naturally goes hand in hand with it.
 
@@ -61,7 +61,7 @@ Then there’s gadgetry. Dehydrators are another tool often used by raw foodies,
 
 So yes, a raw food diet can be potentially cleansing for the system, but to go all out can require a substantial amount of money, effort and time. It would be more practical to maybe try out a couple of raw meals if you are feeling bloated, or just need a mid-week pick-me-up!
 
-__Conclusion__
+Conclusion
 
 These examples are only the tip of the iceberg. In most cases, proper longstanding diets have one thing in common: balance and moderation. Your schedule might dictate that some ‘rules’ are more practical and easier to follow than others, and that’s fine as long as your body is healthy and happy.
 

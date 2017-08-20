@@ -67,7 +67,7 @@ Flexibility is an issue with all large corporations. Imperial is no different; r
 Imagine what we could do if College aimed to only make 4% profit next year; we’d have an extra £30 million to pump back into teaching, research and that other key buzzword, the ‘Student Experience.’
  What is the ‘Student Experience’? I can’t define it exactly and I’d challenge anyone else to. However, with the increasing commercialisation of higher education in the UK, universities across the board are trying to improve it, trying to draw the best students to their institutions. The people making the decisions, the College Management Board and the vast majority of College Council generally have limited contact with students, which hinders their approach to improving it. Some large strides are being made trying to make this right; the idea of talking to us to find out what we want and need is starting to take hold, but it is far from across the board.
 
-__But is the Union any better?__
+But is the Union any better?
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210053-tna08-uccimage2.jpg" title="" caption="" attr="" >}}
 

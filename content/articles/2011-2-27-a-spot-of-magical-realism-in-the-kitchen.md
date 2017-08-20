@@ -33,7 +33,7 @@ If all the exotic culinary experiences get too much for you, order a bandeja pai
 
 _Recipe_
 
-__Arepas Con Huevos__
+Arepas Con Huevos
 
 For a lighter breakfast or snack, try arepas con huevos, a deep-fried cornflour pastry with an egg inside, which originates from the coast. It’s not just eggs, though. Arepas have many forms and come with all sorts of different toppings. Head to Arepa & Co in Camden Lock Market at the weekend to taste one, or try following our recipe and make your own on a smaller budget!
 

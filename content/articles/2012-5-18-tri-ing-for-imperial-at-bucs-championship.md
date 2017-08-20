@@ -35,4 +35,4 @@ The final element, a 5km undulated run saw three of the team run under 19 minute
 
 At the top of the leaderboard, some high-jinx (in the form of cycling in a group which is not permitted) from six of the top ten competitors meant that the BUCS champion was only determined once those involved in the shenanigans were handed time penalties. Naughty boys ! For the team event, with 60 university teams qualifying, Imperial ‘A’ finished 25th and the ‘B’ team 52nd.
 
-TriIC have a number of informal and formal training sessions for all beginners to experts. Any men and women out there who would like to join in then please see __[www.union.ic.ac.uk/acc/triathlon/](http://www.union.ic.ac.uk/acc/triathlon/)__.
+TriIC have a number of informal and formal training sessions for all beginners to experts. Any men and women out there who would like to join in then please see [www.union.ic.ac.uk/acc/triathlon/](http://www.union.ic.ac.uk/acc/triathlon/).

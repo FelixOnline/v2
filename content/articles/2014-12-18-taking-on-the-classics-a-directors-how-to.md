@@ -40,5 +40,3 @@ So what is his solution to this problem, which can lead to the ‘play resisting
 Ultimately any form of adaptation is daunting, and James has set his sights high by starting with one of the founding fathers of the theatre, but during our conversation his energy and passion for the project is evident. Does he hope that this will encourage a new generation to explore Greek theatre? Perhaps. “It’s not a question of accessibility, more about communicating the things that I really want to get across. But if people get into Sophocles because of this, that would be amazing.”
 
 _Stink Foot runs at The Yard Theatre until 2nd December. Tickets are £12.50 adults, £10.00 concessions_
-
-__

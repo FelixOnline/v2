@@ -23,42 +23,42 @@ authors:
 highlights:
 ---
 
-__10. 20 Feet From Stardom__
+10. 20 Feet From Stardom
 
 An incredibly insightful documentary that looks at the lives of incredibly talented singers who provide the backing vocals.
 
-__9. The Babadook__
+9. The Babadook
 
 Australian actress Essie Davis provides a stunning performance in this year’s most intelligent, emotionally charged horror film.
 
-__8. August: Osage County__
+8. August: Osage County
 
 It is an acting masterclass packed full of juicy performances, larger-than-life characters, and the most memorable dinner scene you’ll see this year.
 
-__7. Two Days, One Night__
+7. Two Days, One Night
 
 Marion Cotillard is mesmerising in the Dardenne Brothers’ effortlessly touching, socially relevant piece that powerfully resonates.
 
-__6. Dallas Buyers Club__
+6. Dallas Buyers Club
 
 The McConaissance went well under way with Matthew McConaughey deservedly winning his Best Actor Oscar in this moving AIDS drama.
 
-__5. Nightcrawler__
+5. Nightcrawler
 
 Jake Gyllenhaal is a charming sociopath who wishes to make it to the very top. It’s a fascinating thriller as well as a character study.
 
-__4. The Wolf of Wall Street__
+4. The Wolf of Wall Street
 
 Leonardo DiCaprio is on top form as usual in Martin Scorsese’s highly energetic, completely uninhibited look at Wall Street corruption.
 
-__3. The Imitation Game__
+3. The Imitation Game
 
 The true story of British hero Alan Turing has been wonderfully translated for the big screen with Cumberbatch perfecting the role.
 
-__2. 12 Years a Slave__
+2. 12 Years a Slave
 
 A very worthy Best Picture winner earlier this year at the Oscars, Steve McQueen’s unflinching look at American slavery is unforgettable.
 
-__1. Boyhood__
+1. Boyhood
 
 Richard Linklater has managed the impossible: filming over 12 years and flawlessly putting everything together, he has made a true classic.

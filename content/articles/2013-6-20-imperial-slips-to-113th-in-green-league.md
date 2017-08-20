@@ -38,11 +38,11 @@ A continuous optimisation report by Imperial outlined that: “The examination i
 
 Manchester Metropolitan University came in top place and was named the greenest university in the UK, the University of Plymouth came in 2nd place and the University of Gloucestershire came in 3rd place. Alongside Imperial, Oxford and Cambridge also performed worse than they did in 2012. Cambridge was ranked 113th place and was awarded a 3rd class, Oxford came in 132nd and was awarded a Fail.
 
-__Imperial College London reuse scheme__
+Imperial College London reuse scheme
 
 There are green and sustainability initiatives happening at Imperial College London. For example, there is a Reuse and Recycling scheme. This has been running for five years and College say it has always been well supported. Felix have been informed that the amount of donations has been falling each year and that there are still many items appearing in the waste that could have been reused. Last year, Imperial were not last in terms of donations of this scheme, but were a long way behind other universities such as London South Bank. Last year the hall that lowered their carbon footprint the most was Orient House (38 kg CO2 reduced per student). The hall that lowered their carbon footprint the least was Holbein Willis Jackson (8 kg CO2 reduced per student)
 
-__Union applying for sizeable grant__
+Union applying for sizeable grant
 
 Imperial College Union are currently making a bid for the Students’ Green Fund. This is a fund for student unions to “take leadership and ownership of the sustainability agenda in higher education”. If the Union win this, they will get a share of a pot of £5 million.
 

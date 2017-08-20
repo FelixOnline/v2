@@ -23,15 +23,15 @@ highlights:
  - photos
 ---
 
-__What: __Photorealism
+What: Photorealism
 
-__Where: __Birmingham Museum and Art Gallery
+Where: Birmingham Museum and Art Gallery
 
-__When:__ Until 30th March
+When: Until 30th March
 
-__Price: __£6.50, £5.50 students
+Price: £6.50, £5.50 students
 
-__Y__ou’d be forgiven for thinking that London is the place to be for everything arts related. But you’d also be wrong. As vibrant as it is, the capital doesn’t have room for everything, and that’s where the UK’s second city Birmingham steps in. Being only an hour and a half away and with return train tickets as cheap as £8, it’s well worth a day trip, and you’ll be relieved to realise that being tired of London doesn’t mean you’re tired of life.
+You’d be forgiven for thinking that London is the place to be for everything arts related. But you’d also be wrong. As vibrant as it is, the capital doesn’t have room for everything, and that’s where the UK’s second city Birmingham steps in. Being only an hour and a half away and with return train tickets as cheap as £8, it’s well worth a day trip, and you’ll be relieved to realise that being tired of London doesn’t mean you’re tired of life.
 
 Currently showing at the city’s museum and art gallery is _Photorealism_, an exhibition displaying the art movement with a name as literal as its paintings. It is the biggest exhibition in the UK so far to show the style born from 1960s America but with a strong development in just 50 years, evident in its more contemporary pieces.
 

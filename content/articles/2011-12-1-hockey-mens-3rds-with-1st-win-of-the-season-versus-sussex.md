@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__Hockey__
+Hockey
 
 Men’s 3rd – 2
  Sussex 2nd – 1

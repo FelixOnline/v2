@@ -35,7 +35,7 @@ We walked away from the meal with significantly thinner wallets and a mild sense
 
 You can sponsor Hannah and Clare at [uk.virginmoneygiving.com/team/goingvegan](http://uk.virginmoneygiving.com/team/goingvegan)
 
-__Vegan recipe: Red Thai Tofu__
+Vegan recipe: Red Thai Tofu
 
 _Ingredients_
  1 block extra-firm tofu (14 ounces), cubed

@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__American Hustle__
+American Hustle
 
-__Director:__ David O. Russell
+Director: David O. Russell
 
-__Writers: __Eric Singer, David O. Russell
+Writers: Eric Singer, David O. Russell
 
-__Starring: __Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, Jennifer Lawrence
+Starring: Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, Jennifer Lawrence
 
-__Runtime: __138 minutes
+Runtime: 138 minutes
 
-__Certification: __15
+Certification: 15
 
 “Thank god for me”, says Rosalyn Rosenfeld (Jennifer Lawrence), after setting fire to her brand new microwave, ignoring her husband’s advice to not put something metallic in there. She then proceeds to furiously tackle some housework whilst listening to ‘Live and Let Die’. Yes, thank god for Jennifer Lawrence, who steals the show completely with her utmost confidence and relentless energy in David O. Russell’s smart heist comedy that is no doubt the director’s best film to date.
 

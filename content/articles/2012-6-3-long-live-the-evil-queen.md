@@ -25,11 +25,11 @@ highlights:
  - longread
 ---
 
-__Snow White and the Huntsman__
+Snow White and the Huntsman
 
-__Director__ Rupert Sanders
-__Screenwriters__ Evan Daugherty, John Lee Hancock, Hossein Amini
-__Cast__ Charlize Theron, Kristen Stewart, Chris Hemsworth, Sam Claflin
+Director Rupert Sanders
+Screenwriters Evan Daugherty, John Lee Hancock, Hossein Amini
+Cast Charlize Theron, Kristen Stewart, Chris Hemsworth, Sam Claflin
 
 When it comes to beauty, it is easy to wonder just what Charlize Theron has to worry about. She asks her magic mirror the age-old question; “Who is fairest of them all?” The mirror, which turns into a magical gooey creature, in its infinite wisdom and omniscience, answers that it is Queen Ravenna (Theron) who is the most beautiful in the land. Not so surprising and hardly difficult to believe, given how gob-smackingly stunning she looks here. She also puts on a devilishly sexy English accent, which all the more boosts her appeal. But hold on, the mirror is not finished. There is someone destined to surpass her. And this is none other than her stepdaughter, Snow White (Stewart). If you pit one against the other, it is obvious that both in terms of talent and beauty, Theron thoroughly outclasses the helpless young princess. So don’t begrudge yourself for secretly siding with the Queen throughout.
 

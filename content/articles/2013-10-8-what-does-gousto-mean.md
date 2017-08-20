@@ -43,7 +43,7 @@ Not too long after we had the final meal of the pack - rump steak with gremolata
 
 All in all we did come away with a good impression of Gousto, and we think it’s a great product - but it might not be for everyone in our readership due to cost (students, I’m looking at you.) Some of us would also like to see some one-person boxes happen in the future, though personally as a “cook ahead and eat leftovers for lunch” person (and because cooking for one produces just as much mess) I’m not sure how feasible that might be. Below we’ve made a bit of a pros and cons list/recap, but it’s up to you. We’d love to see where the Gousto boys - Timo and James - take this concept to...g’luck, chaps!
 
-__What we loved__
+What we loved
  - Little to no food waste. It’s probably the key selling point here.
  - Quality produce and ingredients. They just speak for themselves - I’m not a food snob, I’d happily eat not- quite-organic/free-range produce (I know my budget, but I buy as local
  and as not-chemically-laced as I can); but this is a major plus.
@@ -51,15 +51,15 @@ __What we loved__
  - Nothing crazily fussy, so they’re not forcing you to use insane cheffy techniques or spend hours in the kitchen (30-40 mins most from start to fin- ish, then however long you take to eat). Just the kind of food that’s simple enough to get you cooking regularly, yet great tasting to keep you from a rut.
  - Good way to try something new, be it an ingredient or recipe or technique. There’s always something new to learn!
 
-__What we didn’t dig__
+What we didn’t dig
  - You only get 3 meals for 2 people (6 portions) per week (there’s a 4-person option though) - though if you’re willing to fork out a bit more, you can privately arrange for a 5-meal box
  - It’s 42 quid a week for the above box (vegetarian boxes cost 3 quid less), which comes up to 7 quid a meal - quite a hefty tag, though the premium is because all the ingredients are organic/free-range and you’re also paying for someone to do the legwork of portioning/thinking what to cook for you.
  - It’s not as spontaneous (Kelly Hoppen, you read my mind) - you have to decide by Wednesday night what you want for the next Tuesday, which doesn’t help if you then change your
  mind - but it’s only because they need time to source and prepare ingredients. Understandable, but if there were some way to reduce how far ahead people need to decide (even if it was a few days less), it would be even better. You can’t have it all though, which is fair.
  - Not every recipe is next-day-friendly, but they’re operating on the impression that you’re cooking for two and eating it all there and then! However if you’re buying the box just for yourself, that’s the only thing you can do atm. They’re hoping to offer single-person boxes though, so watch this space...
 
-__General verdict__
+General verdict
  Would heartily recommend, but not for everyone. Perhaps ideal for busy Imperial staff who don’t like thinking about food shopping or portioning things up, but still want to cook. For students, maybe a once-in-a-blue- moon thing only because of budgetary reasons (it’s cheaper to do your own food shop and put a bit more forethought/learning) - Carol will how- ever certainly be on the lookout to see if something unique comes up on the weekly recipe rotation...
 
 Dislaimer: Gousto sent us a complimentary box back in Sept for review and consideration - special thanks to Aidan Willcocks at Gousto for arranging this for us! All opinions however are our own - our duty is to you, the reader.
- Learn more: __www.gousto.co.uk__
+ Learn more: www.gousto.co.uk

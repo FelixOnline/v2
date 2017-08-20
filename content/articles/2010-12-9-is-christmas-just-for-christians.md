@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__Maciej Matuszewski - No__
+Maciej Matuszewski - No
 
 Christmas is traditionally a time of celebration but it has recently become quite a controversial holiday. I often hear people complaining about us losing touch with its traditional values and extolling us to “keep Christ in Christmas”.
 
@@ -42,7 +42,7 @@ This was taken to extremes last year when a number of shops in Leeds were threat
 
 Everybody would be happier if we just let each other be.
 
-__Chris Richardson - Yes__
+Chris Richardson - Yes
 
 All too often I am confronted by pretentious atheists who are equally as intolerable as their religious fundamentalist counterparts: with The God Delusion as their Bible in hand these obnoxious babbling idiots often think they’re superior and fail to acknowledge their own hypocrisy.
 

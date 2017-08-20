@@ -46,4 +46,4 @@ There is only one hope left for RIM. They now rely on the shift to a new operati
 
 Remember! If you are interested in entrepreneurship, starting your own company, the technology sector, or just want to listen to some very inspiring speakers, come to the talks organized by Imperial Entrepreneurs! Sign up for the mailing list at:
 
-[__www.imperialentrepreneurs.com__](http://imperialentrepreneurs.com/)
+[www.imperialentrepreneurs.com](http://imperialentrepreneurs.com/)

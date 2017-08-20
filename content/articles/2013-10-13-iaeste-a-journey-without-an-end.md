@@ -52,12 +52,12 @@ Part of the package that comes with LC involvement is the gargantuan number of i
  Being a member of the LC isn’t just about improving your internship chances or fleshing out your CV, we are an ambitious group that does real work that shapes our members and their futures. Ultimately, the sense of working towards a greater understanding of the world, empowering other students and allowing people to create bonds across international boundaries is what makes it worthwhile.
 
 To get involved, contact one of the UK Local Committees:
-__London and England__ (info@iaestelondon.org.uk)
-__Wales__ (info@iaestelondon.org.uk)
-__Glasgow and Scotland__ (info@IAESTEGlasgow.co.uk)
-__Edinburgh__ (abi.johnston@iaeste-edinburgh.co.uk)
-__Belfast and Northern Ireland __ (iaesteni.lc@gmail.com)
+London and England (info@iaestelondon.org.uk)
+Wales (info@iaestelondon.org.uk)
+Glasgow and Scotland (info@IAESTEGlasgow.co.uk)
+Edinburgh (abi.johnston@iaeste-edinburgh.co.uk)
+Belfast and Northern Ireland  (iaesteni.lc@gmail.com)
 
 Visit www.iaestelondon.org.uk and find out how to join our Welcome Event at the beginning of the new academic year.
 
-For more information on the IAESTE programme, both if you are a student or an employer you can also contact: __iaeste@britishcouncil.org__
+For more information on the IAESTE programme, both if you are a student or an employer you can also contact: iaeste@britishcouncil.org

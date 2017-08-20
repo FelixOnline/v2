@@ -28,7 +28,7 @@ Minister for Communities and Local Government, Andrew Stunnell visited Imperial 
 
 The Minister explained that he predominantly supported the current British legal framework regarding free speech. He considered the UK as not completely secular but pluralist, and called legal amendments to allow Kosher and Halal foods and the allowance of turbans rather than motorcycle helmets as the right thing to do. Below are summaries of the speeches from each of the speakers. Please note, these are the views and religious interpretations of the individuals, not their respective societies.
 
-__A Christian perspective from Edward Ip__
+A Christian perspective from Edward Ip
 
 Jesus claimed in John 14:6 – “I am the way, the truth and the life. No one comes through the Father except through me.” This raises the question of whether Jesus’ teaching, and consequently Christians’ attitude towards human freedom, is fundamentally oppressive. I wish to show how the teaching of Jesus is not oppressive, but is actually in line with the heart of the idea of human freedom.
 
@@ -42,7 +42,7 @@ The teachings of Jesus are of such a nature. He proclaimed his teaching is uniqu
 
 Jesus’ teachings concur with the heart of why man desires freedom of speech. I challenge the reader to carefully distinguish the difference between promoting freedom to engage openly in finding the way to truth and the seeming freedom created by the acceptance of any feasible claims of truth, which is not freedom at all. For in doing so we have completely betrayed the whole purpose of desiring freedom of speech.
 
-__A secular view from IC Debating Society__
+A secular view from IC Debating Society
 
 Freedom of speech is a precious gift that should be bestowed to all. Restricting it, especially in religious settings, is inherently bad.
 
@@ -60,7 +60,7 @@ How about radical and hate speeches made by religious groups? Take the restricti
 
 Noam Chomsky famously said, “If you believe in freedom of speech, you believe in freedom of speech for views you don’t like. Goebbels was in favour of views he liked. So was Stalin”. We, as citizens of a democratic nation, should strive to remove all barriers to the freedom of speech.
 
-__A Jewish perspective from Charlotte Levene__
+A Jewish perspective from Charlotte Levene
 
 As a student it is important to me to express my opinions and stand up for what I believe in, but with Judaism playing a central role in my life what limitations does this make on my freedom of speech, or is it a right?
 
@@ -78,7 +78,7 @@ So, what has this shown me about my role as a Jewish Student, am I allowed to st
 
 Judaism gives me the tools of how to speak. It is not freedom of speech - it is responsibility of speech.
 
-__A Muslim perspective from Yasser Mahmoud__
+A Muslim perspective from Yasser Mahmoud
 
 The Universal Declaration of Human Rights says, “Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media regardless of frontiers.”
 

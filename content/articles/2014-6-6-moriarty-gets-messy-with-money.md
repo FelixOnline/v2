@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__I__t is a strange quirk of the human condition that we can enjoy being uncomfortable. Simon Stephens’ new play_ Birdland_ at the Royal Court Theatre manages to captivate an audience whilst remaining incredibly painful to watch.
+It is a strange quirk of the human condition that we can enjoy being uncomfortable. Simon Stephens’ new play_ Birdland_ at the Royal Court Theatre manages to captivate an audience whilst remaining incredibly painful to watch.
 
 Andrew Scott (best known as Moriarty on BBC’s _Sherlock_) plays pop megastar Paul towards the end of a lengthy world tour. As he goes from city to city, we see the effect that the months of late nights, illicit substances and, above all, money have had on his mind. It is the latter of these which Stephens’ piece explores, with Paul not only going on spur of the moment spending sprees, but taking time to wax lyrical about how everything can be quantified and given a value.
 

@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-We arrived at the __Royal Albert Hall__ for the Friday matinee performance of __Cirque du Soleil__’s _Kooza_, and almost immediately began a mission to find somewhere to buy the programme and video recording. It turns out that the Londoner’s assumption of “oh, they’ll probably take card” does not extend to ushers on doors at theatres – and also that I get disoriented very easily in circular buildings. Nevertheless, glossy purple programme in sweaty hand, we made our way to the Grand Circle.
+We arrived at the Royal Albert Hall for the Friday matinee performance of Cirque du Soleil’s _Kooza_, and almost immediately began a mission to find somewhere to buy the programme and video recording. It turns out that the Londoner’s assumption of “oh, they’ll probably take card” does not extend to ushers on doors at theatres – and also that I get disoriented very easily in circular buildings. Nevertheless, glossy purple programme in sweaty hand, we made our way to the Grand Circle.
 
 _Kooza _last played at the RAH in 2013, as part of its continuing world tour. It is the 20th show that Cirque has produced, and is described by Guy Laliberté, one of the company’s founders, as “the return ... to the roots of Cirque du Soleil”. David Shiner, the director, describes it as “a show ... devoted to the ‘spirit’ of the clown”.
 

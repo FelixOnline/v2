@@ -36,7 +36,7 @@ Obviously this is a topic most talked about in school history lessons but it’s
 
 Instead of a traditional modern age census this would contain photographs, accurate local area, town and city descriptions as well as accounts of the daily lives of people from all around the country. It was treated as national campaign and was taken up rapidly by local education authorities, schools, colleges and many individuals and families nationwide. Imperial College’s own lecturer Gareth Mitchell was in secondary school at the time and vividly recalls being asked back by his primary school as he was one of the only people that knew how to program the BBC microcomputer with their information.
 
-__A mammoth task__
+A mammoth task
 
 Armstrong, whose idea the whole thing was, recruited leading technological minds to the BBC including George North, head of innovation. Overall they had more than 16GB of data (a staggering amount back then) in the form of 1 inch tapes of photographs (in full HD), programmed documents on disks created by the BBC Model B microcomputer from schools all around the country and many papers related to census data and news.
 
@@ -44,11 +44,11 @@ It took two years of consultation, hard work and the finest minds to digitise th
 
 Several efforts were made to restore the discs but ended in failure due to lack of budgets or arguments over the way the project should be represented. Computer clubs maintained that the most important factor of the restoration should be the meticulous recreation of BBC microcomputers exactly as they were created. Archivists argued that the data was the most important thing and it should be extracted for use on any modern computer.
 
-__Saved at last__
+Saved at last
 
 Eventually another producer at the BBC, Alex Mansfield, was inspired to retrieve the data and make it available to the public through the internet. He got back in touch with George North, who felt that he had “unfinished business” with the project so was all too happy to start the lengthy process of data retrieval. The original 1 inch tapes were found and scanned, the laserdiscs were converted to a new digital format that could be read by more machines and the map of the UK which held the locations of all the data was resurrected. It took a lot of patience to recreate the technology of 1986 but eventually it paid off.
 
-__Online future__
+Online future
 
 The obvious question is how can we guarantee that this won’t happen again? The most important thing when it comes to data preservation and archiving is selecting a safe environment and suitably sustainable conditions surrounding the data. I’m not referring to the direct atmospheric conditions, although this is important, but to the monetary and political situations of the company that retains the information.
 

@@ -30,7 +30,7 @@ highlights:
  - photos
 ---
 
-__October__
+October
 
 Biologists took the lead in October by constructing a Tree of Life constructed for all 9,993 living bird species, discovering spitting fish that catch insects from the air and teaching three bears to count.
  It is less likely biologists at Imperial were as active, however with the first years undertaking their first practical of feeding the ducks in Hyde park.
@@ -47,7 +47,7 @@ And finally, here in Britain, the badger cull was delayed by the government, des
 
 Surprisingly, the survey was not ran by Imperial’s friends the British Union Abolition Vivisection (BUAV), but by the more creditable Ipsos Mori, although this should have provided warning signs for the animal testing facilities here on campus.
 
-__November__
+November
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210018-tna08-blue-whale-pictures_3.jpg" title="The Blue Whale: an eight on the Imperial Scale" caption="The Blue Whale: an eight on the Imperial Scale" attr="" >}}
 
@@ -57,7 +57,7 @@ A newly discovered black hole was found to be the equivalent mass of 17 billion 
 
 In Chemistry, nanoparticles that can absorb sunlight then reemit it as heat were found to convert water to steam when submerged. Not only that, thinner endoscopes were developed using single optical fibres, with researchers at Korea University demonstrating their use by making a map of a rat intestine.
 
-__December__
+December
 
 It was found out how life emerges at hydrothermal vents in December with a hypothesis formulated about how the vents could form rudimentary proton gradients. Such a gradient is thought to form as the oceanic water meets the alkaline water from vents within mineral walls in the rocks of the seabed, allowing for the conversion of carbon dioxide and hydrogen into the basic building blocks for life like nucleotides.
 
@@ -67,7 +67,7 @@ Biologists in general seemed to be having a productive month, with second years 
 
 In physics, a potential source of local comets was identified on the edge of the Solar System, known as the Kuiper Belt, whilst the US meteorite that crashed in California in April was identified as the fastest on record. Physics did also take a sad turn with CERN stopping the proton-proton collisions within the Large Hadron Collider, and the twin spacecraft mapping the gravity field of the moon coming to a halt in a controlled crash.
 
-__January__
+January
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210019-tna08-2_28_11_supremecoffee7598.jpg" title="The only love students felt in January- one indued by chemical stimulants" caption="The only love students felt in January- one indued by chemical stimulants" attr="" >}}
 
@@ -78,7 +78,7 @@ To further torment the minds of those studying hard, severe outbreaks of the fun
 Further government action in science was seen in January, with Obama renewing his commitment to climate change in his second inaugural speech and hoping to decrease greenhouse gas emissions.
  Still across the pond, the US National Institute of Health (NIH) was advised to retire its 360 chimpanzees and shut down half of its ongoing animal experiments due to suggestions that only 50 should suffice. Imperial remained oblivious to this, and heartily continued its own animal experiments, whilst BUAV prepared its assault.
 
-__February__
+February
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210019-tna08-meteor-strikes-russia-injuries_64326_600x450.jpg" title="The comet that struck Chelyabinsk" caption="The comet that struck Chelyabinsk" attr="" >}}
 
@@ -88,7 +88,7 @@ Chemists discovered a process for extracting hydrogen from the fuel methanol, wh
 
 Excitement for physicists peaked this month with a meteor strike in the Russian city of Chelyabinsk, although the same can not be said for the city’s residents with over a thousand people injured. The explosion was the equivalent of around half a megatonne of TNT and is believed to be the largest object to strike Earth since 1908.
 
-__March__
+March
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210020-tna08-lucas-higgs-ce0047h-nice2.jpg" title="The best thing physicists did all year – an attempt at a spirograph picture" caption="The best thing physicists did all year – an attempt at a spirograph picture" attr="" >}}
 
@@ -101,7 +101,7 @@ Physicists too were getting very excited this month, with evidence of the Higgs 
 
 An infant was also successfully cured of HIV in March using antiviral drugs, after being born with the retrovirus. The secret to the treatment was the speed at which it was administered, with drugs taken from 30 hours after birth. Unfortunately, this progress into HIV research was somewhat counteracted when an anti-HIV trial failed due to subjects not actually taking the drug being tested, leading to an inconclusive determination of whether the drug tenofovir actually works.
 
-__April__
+April
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210020-tna08-lab-rat-london.jpg" title="The BUAV’s poster mouse for why Imperial needs to stop science" caption="The BUAV’s poster mouse for why Imperial needs to stop science" attr="Credit: (C) The Buav" >}}
 
@@ -115,7 +115,7 @@ With students more engaged with their revision than the video of mice being guil
 On a happier note however, biologists found a new hormone within the liver that spurs the growth of insulin-secreting cells, which could be manipulated for future treatment of diabetes.
  The hormone, named betatropin, influences the beta cells of the liver and alters their gene expression to give them characteristics of their neighbours, alpha cells, that already make insulin.
 
-__May__
+May
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210021-tna08-ku-xlarge.jpg" title="What happens when you don’t print safely – a windpipe that won’t leave you breathless" caption="What happens when you don’t print safely – a windpipe that won’t leave you breathless" attr="" >}}
 

@@ -38,7 +38,7 @@ So, this is the recipe. Try it and make something your friends will always remem
 
 Baked vanilla cheesecake with blueberries and chocolate flakes
 
-__Ingredients: __
+Ingredients:
 
 10 digestive biscuits
 
@@ -52,7 +52,7 @@ __Ingredients: __
  Handful of blueberries
  25g of dark chocolate
 
-__Procedure:__
+Procedure:
 
 Preheat the oven to 180°C. Crush 10 digestive biscuits, and mix it with 50g of melted butter. Press into a 20cm spring-form tin and bake for 8 minutes, then cool. Beat the rest of the ingredients except the blueberries and dark chocolate until light and fluffy. Put the blueberries on top of the biscuit base and pour the mixture into the tin. Bake for 40 minutes and then check, it should be set but slightly wobbly in the centre. Leave in the tin to cool and put in the fridge. Cut the chocolate into small shavings and sprinkle on top of the cheesecake.
 

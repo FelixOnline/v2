@@ -33,7 +33,7 @@ PayPal co-founder Elon Musk comes from a mixed academic background of Economics 
 
 Musk created the Hyperloop as a solution for medium-distance transport after losing faith in the proposed high-speed rail project designed to provide California with a new mass transit system state-wide. However, as Musk notes in his blog post, not only is the proposed bullet train one of the slowest in the world (with an average speed of 164mph) but it is also one of the most expensive bullet trains per mile of track, worldwide.
 
-__The Hyperloop__
+The Hyperloop
 
 {{< figure src="http://felixonline.co.uk/img/upload/201308131030-jal08-screen-shot-2013-08-13-at-10.11.05-am.png" title="A rendered conceptual design of the Hyperloop" caption="A rendered conceptual design of the Hyperloop" attr="Credit: Elon Musk" >}}
 
@@ -41,7 +41,7 @@ This Hyperloop is a futuristic take on an old technology, specifically the pneum
 
  Since it would be virtually impossible to maintain a vacuum over such a long distance, this low-pressure solution is preferred, however the air present in the tube can cause a problem when the capsules are travelling at high speed. According to Musk, the Kantrowitz Limit represents the top speed of a capsule for a given tube to capsule area ratio, due to the dynamics of the air between the capsule and the tube at high speeds. However Musk believes that the addition of a compressor fan to the nose of the capsule will allow it to easily travel high subsonic speeds. This would be possible because the compressor fan would transfer the air under high pressure at the front of the capsule to a lower pressure area behind the capsule, relieving the pressure in front of the capsule. This solution would also create an air cushion around the capsule, which would contribute to the low friction suspension system.
 
-__Is The Hyperloop Viable?__
+Is The Hyperloop Viable?
 
 The Californian High-Speed Rail Project, headed by the Californian High-Speed Rail Authority will carry passengers between San Francisco and Los Angeles within 2 hours and 40 minutes, less than half the time it takes to drive the route, but still much longer than Elon Musk’s proposed solution. Phase 1 of the rail project, which connects San Francisco to Los Angeles via Central Valley and Parmdale, has an estimated cost of $68 billion (£44 billion at time of publication) and a [projected single ticket price of $105](http://bit.ly/14J4H79) (£67) which is equivalent to 66% of the price of a return plane journey (during September 2013) and 91% of the cost of a round trip by car (using a 30 mpg vehicle and petrol at $4/gallon).
 

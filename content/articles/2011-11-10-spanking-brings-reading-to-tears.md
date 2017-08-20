@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-__Hockey__
+Hockey
 
 _Imperial Ladies 1s – 5_
 

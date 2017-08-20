@@ -23,23 +23,23 @@ authors:
 highlights:
 ---
 
-__Robocop__
+Robocop
 
-__Director:__ José Padilha
+Director: José Padilha
 
-__Writer: __Joshua Zetumer
+Writer: Joshua Zetumer
 
-__Starring: __Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley, Michael K. Williams, Jennifer Ehle, Jay Baruchel, Marianne Jean-Baptiste, Samuel L. Jackson
+Starring: Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley, Michael K. Williams, Jennifer Ehle, Jay Baruchel, Marianne Jean-Baptiste, Samuel L. Jackson
 
-__Runtime: __117 minutes
+Runtime: 117 minutes
 
-__Certification: __12A
+Certification: 12A
 
-__I__mperial Cinema is back to give you some well-needed relaxation time away from central library! This week we’re showing the new remake of the 80s classic RoboCop. Set in crime-ridden Detroit in 2028, military defense company OmniCorp wants to use an injured policeman as a human guinea pig for a ‘robot soldier’ prototype for use in civilian law enforcement which has proved unpopular with the general public.
+Imperial Cinema is back to give you some well-needed relaxation time away from central library! This week we’re showing the new remake of the 80s classic RoboCop. Set in crime-ridden Detroit in 2028, military defense company OmniCorp wants to use an injured policeman as a human guinea pig for a ‘robot soldier’ prototype for use in civilian law enforcement which has proved unpopular with the general public.
 
 Coincidentally, police detective Alex Murphy (Joel Kinnaman) is severely injured in an attempted mafia arrest after it turns out that corrupt cops are working for the crime boss. Alex is selected for the task and is fitted into the cybernetic suit. After minor teething problems involving altered brain chemistry which makes him emotionless, the new, programmed Alex is let loose in the city and dramatically reduces crime. However, as Alex becomes more conscious of his transformation against his consent, he struggles to override his programming and exert his free will by seeking revenge.
 
-__RoboCop __
+RoboCop
 
 Tuesday 06/05/14
 

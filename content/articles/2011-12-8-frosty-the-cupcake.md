@@ -25,9 +25,9 @@ highlights:
 
 Follow these guidelines on how to make yourself the perfect base and frosting in time for Christmas!
 
-__Base__
+Base
 
-__Ingredients__
+Ingredients
 
 1 1/2 cups cake flour
  3/4 teaspoon baking powder
@@ -42,7 +42,7 @@ __Ingredients__
  3/4 cups full-fat yoghurt
  3 large nectarines, peeled, cored and chopped into 1-inch cubes
 
-__Method__
+Method
 
 Sift flour, baking powder, baking soda, salt and nutmeg. Mix dry mixtures thoroughly to ensure that everything is well mixed. Set mixture aside.
 
@@ -60,9 +60,9 @@ When cupcakes are done, remove from the oven and cool cupcakes for five minutes 
 
 At this point, the cupcakes can either be frosted with cream cheese frosting, or eaten just as they are.
 
-__Frosting__
+Frosting
 
-__Ingredients__
+Ingredients
 
 45 grams of unsalted butter — room temperature
  2.5 cups icing sugar
@@ -70,7 +70,7 @@ __Ingredients__
  1/2 teaspoon lemon juice
  1 teaspoon vanilla extract
 
-__Method__
+Method
 
 Ensure that butter is at room temperature and that cream cheese is fridge cold. Cut cream cheese into cubes before placing back into the fridge for at least 30 minutes.
 

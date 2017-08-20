@@ -27,17 +27,17 @@ highlights:
  - comment
 ---
 
-__INTERSTELLAR__
+INTERSTELLAR
 
-__Director: __Christopoher Nolan
+Director: Christopoher Nolan
 
-__Screenplay: __Christopher Nolan, Jonathan Nolan
+Screenplay: Christopher Nolan, Jonathan Nolan
 
-__Cast: __Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, John Lithgow, Casey Affleck, Ellen Burstyn, Wes Bentley
+Cast: Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, John Lithgow, Casey Affleck, Ellen Burstyn, Wes Bentley
 
-__Rating: __3/5
+Rating: 3/5
 
-_I__nterstellar_ is to Nolan what _Sandinista!_ was to the Clash; a brilliant work interspersed amidst layers of fatuous clutter and turgid artistic pretensions.
+_Interstellar_ is to Nolan what _Sandinista!_ was to the Clash; a brilliant work interspersed amidst layers of fatuous clutter and turgid artistic pretensions.
 
 It is a film that displays Nolan at his very best and worst: a cerebral, tense, visually stunning one-and-a-half hour space opera buried in another one-and-a half hours of pompous platitudes and mindless exposition.
 

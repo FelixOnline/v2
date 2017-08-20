@@ -32,4 +32,4 @@ If a flaw had to be found in what is a thoroughly thought-provoking production, 
 
 Leaving the theatre, the initial sensations of wonder and naïve curiosity begin to be replaced with more sombre thoughts of the serious consequences and implications of what was told. What is definitely apparent though is that despite the fact that the more you learn about the world, there is that almost daunting realisation that there is so much more that you will never witness or experience. Somehow it all feels a bit closer than it did before.
 
-___What I Heard About the World __is showing at the Soho Theatre until 3 March._
+_What I Heard About the World is showing at the Soho Theatre until 3 March._

@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Howie the Rookie__ is an 80-minute single-actor play directed by Mark O’Hove and performed by Tom Vaughan-Lawlor, currently playing in The Barbican Centre’s Pit Theatre. The piece won two prizes, attracted critical acclaim, and also won the Irish Times Best New Play award.
+Howie the Rookie is an 80-minute single-actor play directed by Mark O’Hove and performed by Tom Vaughan-Lawlor, currently playing in The Barbican Centre’s Pit Theatre. The piece won two prizes, attracted critical acclaim, and also won the Irish Times Best New Play award.
 
 Vaughan-Lawlor played one character - Howie - then in the second half of the play switched to Rookie; during this, sometimes he played others, sometimes he did not. But we know others existed, because he both mentions them while he was acting, and also since social interactions with other people were expressed by Vaughan-Lower’s original character. After this long and complicated diatribe, aimed at explaining how one actor can give birth to several ones who are playing different characters, one is very likely to ask if the storyline can be followed. The answer is yes; partly because of the wonderful acting (more about this later) and partly because of the barely existing storyline. The plot the writer wants to convey is a mixture of short stories; situations based around one guy or two. He depicts a bunch of hopeless guys and girls, and their way of living; it is sometimes funny, or eye-opening, or truly sad, or even all at the same time.
 

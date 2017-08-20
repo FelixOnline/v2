@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-If only third time lucky always worked out. With another long-winded, lacklustre display from the __Orange Tree__, I am starting to lose patience with Paul Miller’s tenure at this fantastic theatre.
+If only third time lucky always worked out. With another long-winded, lacklustre display from the Orange Tree, I am starting to lose patience with Paul Miller’s tenure at this fantastic theatre.
 
 A rare early work by the Nobel Prize winning Doris Lessing, _Each his own Wilderness _is branded a play about politics with all the passion usually reserved for sex. Although there are a number of interesting and lively passages, the piece is let down by an unnecessarily long runtime and a lack of coherence in deciding its theme.
 

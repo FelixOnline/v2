@@ -32,7 +32,7 @@ _“People don’t disappear into thin air. Not in this country. Not in Canada.�
 
 _Pig Girl_ is a gruesome story we’ve heard all too often. Although a work of fiction, the play is inspired by the disappearance and murders of predominantly indigenous women over a number of years in Canada. Plagued by poor communication and the indifference of police forces, the carnage led to the deaths of thirty three women at a single pig farm on the outskirts of Vancouver.
 
-The play depicts the interactions between a dying woman and her killer, the pain and devastation of the woman’s sister and a police officer’s role in the investigation. Staged at the intimate __Finborough Theatre__, the audience watches as the killer slowly unfolds his desire to hang the woman by a pig hook, as he has done with countless women before her.
+The play depicts the interactions between a dying woman and her killer, the pain and devastation of the woman’s sister and a police officer’s role in the investigation. Staged at the intimate Finborough Theatre, the audience watches as the killer slowly unfolds his desire to hang the woman by a pig hook, as he has done with countless women before her.
 
 > The script does little to show real development in the characters
 

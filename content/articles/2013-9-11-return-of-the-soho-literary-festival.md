@@ -26,4 +26,4 @@ The Soho Literary festival is to return for its third year at the Soho Theatre. 
 
 Highlights include historian Dan Snow's talk on the history of Syria, literary biographer and historian Richard Davenport-Hines' discussion of the Profumo Affair and illustrator Quentin Blake's exploration of "the uses of illustration". The afternoon of Sunday, September 29 will also see the return of the popular Classics Quiz, with journalists Rachel Johnson and Harry Mount leading two teams answering questions from quizmaster Professor William Fitzgerald.
 
-For more information, and to book tickets for the individual events, see [soholitfest.com](http://www.soholitfest.com). Students may get discounted tickets for £6 by entering the code __SOHOLIT6 __when booking their tickets. See a full report from the festival in _Felix _on Friday, October 4.
+For more information, and to book tickets for the individual events, see [soholitfest.com](http://www.soholitfest.com). Students may get discounted tickets for £6 by entering the code SOHOLIT6 when booking their tickets. See a full report from the festival in _Felix _on Friday, October 4.

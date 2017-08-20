@@ -29,13 +29,13 @@ highlights:
  - photos
 ---
 
-Tom Stoppard’s latest play has been a long time coming. His last work to grace the stage was 2006’s _Rock and Roll _at __The Royal Court__ – and his last work at the__ National Theatre__ was four years before that, with _The Coast of Utopia_ in 2002. Nine years since his last play. To call expectations high might just be an understatement.
+Tom Stoppard’s latest play has been a long time coming. His last work to grace the stage was 2006’s _Rock and Roll _at The Royal Court – and his last work at the National Theatre was four years before that, with _The Coast of Utopia_ in 2002. Nine years since his last play. To call expectations high might just be an understatement.
 
 Early signs are promising. The play is shaping up to be quintessentially Stoppard, blending meaningful discussions of complex scientific ideas with eloquence and wit. Where _Arcadia_ tackled the second law of thermodynamics, and _Rosencrantz and Guildenstern are Dead_ dealt with existentialism and free will, _The Hard Problem _turns to the notion of consciousness.
 
 The titular Hard Problem (capitals wholly necessary – as one character explains, “we do brain science. There is only one Hard Problem.”) is one of explaining consciousness, explaining our first person, subjective experiences, phenomena such as colour or taste. In the programme notes, Stoppard credits the Australian philosopher David Chalmers for the phrase – as would most of the internet – although he acknowledged in a later interview that he “might as well have credited Leibnitz” for coining the term.
 
-There’s an added incentive to be hopeful in the form of the location for Stoppard’s return to the stage: the __Dorfman Theatre__ at the National. A redevelopment of the old __Cottesloe Theatre__, it’s a wonderfully versatile space, offering multiple possibilities for staging.
+There’s an added incentive to be hopeful in the form of the location for Stoppard’s return to the stage: the Dorfman Theatre at the National. A redevelopment of the old Cottesloe Theatre, it’s a wonderfully versatile space, offering multiple possibilities for staging.
 
 Add in the fact it’s directed by Nicholas Hytner, in his last show at the National before departing as its Director, and the anticipation is almost unbearable.
 

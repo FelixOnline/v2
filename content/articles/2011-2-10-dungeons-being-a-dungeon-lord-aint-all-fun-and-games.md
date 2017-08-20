@@ -43,4 +43,4 @@ However, when the game comes down to just designing dungeons (in sandbox mode) w
 
 In all, the game presents a good idea, and it could have worked really well. It’s just a shame that the campaign expects so much of players right from the beginning and causes pure frustration. Had the campaign been more similar to that of the free style mode then I could easily have seen it being a much more enjoyable game. But as it is, while the sandbox mode is a lot of fun in it’s own right, the campaign just felt like more effort than enjoyment – really not what I want in a game.
 
-__Dungeons is available now from [Realmforge](http://www.realmforgestudios.com/en/) and [Kalypso Media](http://www.kalypsomedia.com/) for PC, retailing at £29.99.__
+Dungeons is available now from [Realmforge](http://www.realmforgestudios.com/en/) and [Kalypso Media](http://www.kalypsomedia.com/) for PC, retailing at £29.99.

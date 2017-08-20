@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__In London__
+In London
 
 [London Literature Festival](http://ticketing.southbankcentre.co.uk/find/festivals-series/london-literature-festival)
 
@@ -36,7 +36,7 @@ Southbank’s annual summer literary festival brings together some of the best h
 
 A relatively new festival that celebrates foreign literature. Only in its third year, luminaries speaking at the weekend include A.S. Byatt and Ramsey Nasr, Poet Laureate of the Netherlands. This year’s theme is ‘history and its traces in the present’. There will be some spotlight on crime fiction as well. Literary translation plays a big role in this festival and if you dare, try on the tranlation masterclasses.
 
-__Outside London__
+Outside London
 
 [Hay Festival of Literature and Arts](http://www.hayfestival.com/portal/index.aspx?skinid=1&localesetting=en-GB)
 

@@ -45,5 +45,3 @@ Although nothing would come close to experiencing Kate Tempest other than watchi
 _Kate Tempest: Brand New Ancients is touring now until 20th April. See_
 
 _bit.ly/1fyfaXZ for more information._
-
-__

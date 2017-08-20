@@ -28,7 +28,7 @@ highlights:
 
 I don’t know a lot about you and to be honest I don’t really care (only kidding…no really, I don’t care). but I was fortunate enough to spend Christmas in Les Alpes. Personally, and unsurprisingly (being a wannabe food critic) my favorite part was the food. So again I have another gem of a recipe to share!
 
-__Tartiflette__
+Tartiflette
 
 For those of you that ski, I’m sure you are familiar with this. Really, is there anything much better than coming after a long day on the slopes, grabbing a pint and a decent bit of tartiflette? No, didn’t think so.
 

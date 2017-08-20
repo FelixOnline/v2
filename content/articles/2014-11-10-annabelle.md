@@ -27,13 +27,13 @@ highlights:
  - comment
 ---
 
-__ANNABELLE__
+ANNABELLE
 
-__Director: __John R. Leonetti
+Director: John R. Leonetti
 
-__Screenplay: __Gary Dauberman
+Screenplay: Gary Dauberman
 
-__Cast: __Annabelle Wallis, Ward Horton, Alfre Woodard
+Cast: Annabelle Wallis, Ward Horton, Alfre Woodard
 
 2/5
 

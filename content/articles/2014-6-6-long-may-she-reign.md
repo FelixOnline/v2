@@ -24,9 +24,9 @@ highlights:
  - longread
 ---
 
-__Reign: Season 1__
+Reign: Season 1
 
-__Rating: 4/5__
+Rating: 4/5
 
 History buffs, look away now. Avert your eyes and don’t be a buzzkill to ruin television’s top guilty pleasure, the CW’s interpretation of the life of Mary, Queen of Scots. It must have been a rather bold decision, choosing to base an entire series around the English period drama concept, focusing on an individual who clearly is not someone who comes up as a daily conversation topic across the Atlantic, let alone here in the U.K. And yet the channel whose main audience target is teenagers, has done remarkably well. Giving the tale a suitable twist, _Reign _is a deceptively well-polished drama that makes it okay to have the well worn-out storytelling mechanism of a love triangle, because the stakes here are not just about broken hearts and hurting someone’s feelings, but it also concerns whether someone’s head gets chopped off or not.
 

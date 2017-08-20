@@ -36,4 +36,4 @@ I managed to play a good selection of games across the two sessions, from a rang
 
 Overall, the 3DS is looking like it’ll be a great console, and a huge hit too. Forget the (arrogantly named) “Next Generation Portable”, this is the handheld to have.
 
-__The Nintendo 3DS will be released on March 25, 2011 in the United Kingdom and Europe.__
+The Nintendo 3DS will be released on March 25, 2011 in the United Kingdom and Europe.

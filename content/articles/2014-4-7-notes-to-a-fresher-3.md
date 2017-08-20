@@ -22,21 +22,21 @@ authors:
 highlights:
 ---
 
-__Advice translated by the Mouth of the Eye of Queen’s Tower, scribed by the Hand of the Eye of Queen’s Tower__
+Advice translated by the Mouth of the Eye of Queen’s Tower, scribed by the Hand of the Eye of Queen’s Tower
 
 I sigh as I – the Eye of Queen’s Tower – frown down upon the throng in Sherfield. I sigh because it is lunchtime, and once more, there is a queue, nay, a brawl, of thirty hungry, snarling students jostling for two cash machines. My omniscient eye now flits to Essentials, on the Borderlands of SK Campus. Here resides a lonely yet fully functional ATM which gets shunned only too often. Sad violin music is the soundtrack to the mechanical life of this machine whose function is only to serve; never thanked, never applauded. The students make holograms and they claim to understand quantum, but they never think to use this lonely machine and avoid the Sherfield Battle. This neglect must be stopped, and the sheep must be shepherded. So...Fresher... as your shepherd, remember this; there is an ATM (it stands for Any Time Money in case you were wondering) in Essentials. It needs you and by Jove, you need it.
 
-___DR___
+_DR_
 
-___Physics, 2nd Year ___
+_Physics, 2nd Year _
 
 You are standing proudly on a construction site, glowing in your high visibility jacket and wearing a safety helmet that displays your own name. Your gloves are dirty with rust from the reinforcing bars you assembled this morning, and at the moment you are supervising your team erecting the first floor of a (1:10) scale version of the Gherkin. Three days later, you climb to the third floor of a building you constructed, with fifteen other students, from foundations to top dome; 247 steel bars were connected to each other and 12 cubic meters of concrete were poured. The floor you screwed together is stable under your feet. 11.2 meters above the ground, contemplating the result of a week of intense work, you realise the dedication and energy Imperial demands of you are worth it. At the end of your second year of studies, through a real construction project, Imperial makes you an engineer.
 
 Best of luck
 
-___Civil Engineering Enthusiast___
+_Civil Engineering Enthusiast_
 
-___3rd Year ___
+_3rd Year _
 
 Dear Little One,
 
@@ -46,30 +46,30 @@ Good Luck,
 
 Burj Khalifa of Dubai
 
-___AC___
+_AC_
 
-___Civil Engineering, 3rd Year ___
+_Civil Engineering, 3rd Year _
 
 Don’t forget me. Don’t leave me buried under mountains of notes and textbooks, don’t leave me stuffed in the cavernous pockets of yesterday’s jeans and, above all, don’t leave me forgotten in the recluse corners of your mind. Because the day you leave me behind, doors will flash red, printers will not print and, if you’re really unlucky, you’ll also have a test.
 
 Consider me like a part of you: we share the same face – well, you on a really bad day – and we share the same name. I am your friend, offering ease of passage and a good deal on the high street.
 
-___Jacqueline Beddoe-Rosendo___
+_Jacqueline Beddoe-Rosendo_
 
-___Bioengineering, 3rd Year___
+_Bioengineering, 3rd Year_
 
 Soon you will swarm the campus, filling every nook and cranny with your relentless excitement like wasps looking for sugar. You will have banal conversations with people you don’t really like, the insincerity echoing around the hallways. You will endlessly, endlessly queue for food.
 
 I will not queue for food. I will find somewhere else to buy my lunch, and I will sit in a different patch of grass to eat it. Because I cannot be around you. Your potential, your enthusiasm, your ridiculous naivety, makes my bones ache. I do not belong here.
 
-___Anonymous___
+_Anonymous_
 
-___Physics, 3rd Year___
+_Physics, 3rd Year_
 
 Everything goes black and I start to spin, my cool, hard innards heating up as they become a blur. Then, without warning, a twinge amplifies itself through my system and suddenly I’m in agony. Pain saturates my consciousness and a hypersonic wail escapes me, consuming the expanse of the lab. As my mind verges on unraveling, I sense panicked and desperate fingers mashing my control panel, but that won’t fix the imbalance at my core. ‘STOP THAT CENTRIFUGE!’ bellows a demonstrator, my savior, liberator, and there is swift and sweet release.
 
 I’m too old for these bloody freshers…
 
-___Miles___
+_Miles_
 
-___Biochemistry, 2nd Year___
+_Biochemistry, 2nd Year_

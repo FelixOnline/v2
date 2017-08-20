@@ -31,17 +31,17 @@ The group of apparently very rich, snobbish prats go on spontaneous holidays and
 
 “[In with the Flynns](http://www.bbc.co.uk/blogs/comedy/2011/06/in-with-the-flynns-will-mellor.shtml)” is, it seems, a poor rehashing of other BBC shitcoms like “The Life of Riley” and “My Family”, which are all based around the conveniently small (and cheap) set of a family home. The BBC seem to be under the delusion that canned laughter actually makes things funny, rather than irritating. Canned laughter is for the uneducated, those who need prompting before they realise that they need to laugh. Seriously, don’t watch it.
 
-__What to watch this week__:
+What to watch this week:
 
 _Monday | 9PM - 10PM | Channel 4_
 
-__Embarrassing Fat Bodies__ - Some people are so fat that they need to make a documentary. A husband and wife that have a combined weight of 52 stone (who goes on top?) receive medical advice (such as “try eating less”) and a 21 year old mother exhibits her colossal funbags.
+Embarrassing Fat Bodies - Some people are so fat that they need to make a documentary. A husband and wife that have a combined weight of 52 stone (who goes on top?) receive medical advice (such as “try eating less”) and a 21 year old mother exhibits her colossal funbags.
 
 _Tuesday | 9PM - 10PM | BBC1_
-__Luther__ - Psychological detective drama nominated for a Golden Globe award for its last series. Brilliant: don’t miss it.
+Luther - Psychological detective drama nominated for a Golden Globe award for its last series. Brilliant: don’t miss it.
 
 _Wednesday | 9PM - 10PM | BBC2_
-__Wonderland__ - The Kids Who Play With Fire - Documentary about three feral children with a penchant for setting fire to things. Counsellors try to guide them away from a lifetime of picking up the soap.
+Wonderland - The Kids Who Play With Fire - Documentary about three feral children with a penchant for setting fire to things. Counsellors try to guide them away from a lifetime of picking up the soap.
 
 _Thursday | 9PM - 10PM | BBC1_
-__Breaking into Britain__ - Evan Davis presents a documentary about illegal immigrants. Why couldn't it have been Bernard Manning?
+Breaking into Britain - Evan Davis presents a documentary about illegal immigrants. Why couldn't it have been Bernard Manning?

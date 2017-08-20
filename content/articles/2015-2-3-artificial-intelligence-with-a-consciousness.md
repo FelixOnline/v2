@@ -31,7 +31,7 @@ Science fiction film Ex-Machina has recently hit cinemas worldwide, a psychologi
 
 Alex Garland, the director of Ex-Machina, was inspired by Imperial Professor Murray Shanahan’s book: “Embodiment and the Inner Life: Cognition and Consciousness in the Space of Plausible Minds”. Shanahan’s research at Imperial looks into how the human brain function could be used in the field of artificial intelligence (AI). “I am interested in trying to understand how cognition is realised in the brain. To do this I build computer models, which are typically simulations of large numbers of neurones organised in a complex network,” he says in an interview at Imperial. After reading the progress in theory of consciousness detailed in Shanahan’s book, Garland contacted the professor for advice on the technical aspects of his film.
 
-__Origins of Artificial Intelligence__
+Origins of Artificial Intelligence
 
 AI and machine learning algorithms are surprisingly ubiquitous in our everyday lives: Google’s search predictions, mobile phone voice recognition systems such as Apple’s Siri, driverless cars like Tesla Motors’ latest dual-motor Model S and even closer to home – number plate recognition technology used for the London congestion charge. However, we are still a long way off being able to use robots instead of all-nighters to desperately complete our university coursework.
 
@@ -43,7 +43,7 @@ After what was termed an “AI winter” between the 1970s and 1990s, when fundi
 
 There have also been advances in robots that can develop and show emotions. Nao, a robot developed by the French robotics company _Aldebaran_, is being used as a robotic teacher in universities and schools across the UK. The uncannily human-looking robot stands two feet tall and can be programmed to listen, see, speak, touch and react. If you search ‘Nao robot’ on YouTube you can even see troops of them programmed to dance in sync with the pop-hit Gangnam Style. Their abilities extend far beyond the dancefloor however, and they can even form bonds with the people they meet – depending on how they are treated. The longer they interact with someone, the more Nao learns the person’s moods and the stronger the bond becomes.
 
-__Growing concerns __
+Growing concerns
 
 The usefulness of these technologies, with their capacity to continually learn from the data they collect, is making it ever harder to imagine a future without AI. Increasing dependence on these machines has sparked some concerns, with even Stephen Hawking warning of the perils of AI, saying in an interview with the Independent: “The development of full artificial intelligence could spell the end of the human race ... humans, who are limited by slow biological evolution, couldn’t compete, and would be superseded.” The technological singularity hypothesis represents this view that continued progress in the development of AI will ultimately cause the end of humanity as its power exceeds mankind’s intellectual capacity to control.
 

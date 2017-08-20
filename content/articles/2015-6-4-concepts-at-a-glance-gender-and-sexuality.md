@@ -31,7 +31,7 @@ highlights:
 
 When discussing gender, sexuality, and similar topics, there are a lot of terms and concepts that you might come across. This article will provide a brief introduction to these concepts, what they mean, and how to use the words correctly. Let’s start with concepts.
 
-__Sexuality__
+Sexuality
 
 This is an intrinsic part of who we are. Sexuality is very complicated; generally it is considered to be binary, but it is actually infinitely more complex. The next-most-simplified model is a spectrum, but this is also a simplification, as sexuality is more like the combination of several independent spectra. In this article we will focus on two components.
 
@@ -43,13 +43,13 @@ The other biggest part of sexuality is the one that expresses the level of attra
 
 This includes people who experience ‘normal’ or average levels of sexual attraction to others, often termed verisexual, allosexual or just plain sexual (there’s not yet a consensus on the appropriate term), demisexuals (who only experience sexual attraction to people with whom they already have a close bond), and asexuals (who do not experience sexual attraction at all).
 
-__Romantic attraction__
+Romantic attraction
 
 These same components can also apply to romantic attraction. This is frequently explained as desire for all the loving, couple-y parts of a relationship, just without the actual sex. All the elements of sexual orientation have corresponding, but independent romantic components.
 
 While it is most common for a person’s romantic and sexual orientations to align, it is entirely possible for them to differ – one common manifestation of this is to be either asexual or aromantic, but there is no reason one couldn’t be, for example, heterosexual and homoromantic (though it would probably suck).
 
-__Gender__
+Gender
 
 Gender is a nebulous concept which society tends to push as a binary of masculine and feminine, and associated with your sex. However, gender is, to bastardise a quote from the Doctor, more like a great big ball of wibbly-wobbly gendery-bendery... stuff. Gender is expressed in many ways, including hair, clothing and make-up. Gender identity and the gender you are assigned at birth according to your body’s sex do not necessarily match up.
 
@@ -59,11 +59,11 @@ You may be cisgender (you identify with the gender that your body indicates to s
 
 These things get more complicated when you consider that intersex people exist. Being “intersex” means their body and reproductive systems do not entirely match either the male or female systems. Up to 1.7% of babies exhibit some degree of sexual ambiguity at birth, and as they grow up these people may end up having any of the above gender identities.
 
-__Fluidity__
+Fluidity
 
 While all these labels are great, if you choose one because it feels right at one point in time, it is perfectly okay (and relatively common) to change it if it doesn’t seem to fit later. A person’s traits can change over time. In recognition of this, some “genderfluid” people exist, meaning that these aspects of their identity are in more constant flux.
 
-__Labels__
+Labels
 
 The most important thing about labels is that they’re descriptive, not prescriptive (and certainly not proscriptive). The fact that someone decides that a label applies to them at one point in time doesn’t place a limit on what they can be, but it can be a useful way to convey a set of traits.
 

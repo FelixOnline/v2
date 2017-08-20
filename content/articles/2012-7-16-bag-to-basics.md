@@ -32,19 +32,19 @@ So summer has finally arrived and it’s time to pack up our precious belongings
 
 Of course this all means one thing: time to buy bags! It would be a crime to not protect all of this expensive hardware upon which we base our lives around, yet unfortunately shops seem somewhat lacking in this department. Nevertheless, that does not mean there isn’t a bag out there to suit every person’s needs, just take care to choose the bag that best represents YOU.
 
-[__THE PROFESSIONAL__](http://www.jill-e.com/collections/jack-collection/jack-leather-messenger)
+[THE PROFESSIONAL](http://www.jill-e.com/collections/jack-collection/jack-leather-messenger)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201207161310-mc4509-bag1.jpg" title="Jack Leather Messenger – $299.99" caption="Jack Leather Messenger – $299.99" attr="Credit: http://www.jill-e.com/" >}}
 
 If you’re travelling the world with plenty of equipment this beast will be your saviour. Sturdy, well padded, and most definitely spacious, it can fit a 15” laptop, an SLR body, and 3 lenses AT ONCE. It has configurable Velcro dividers and a plethora of pockets, which are great for anyone wanting to look professional, and did I mention it’s weather-resistant too?
 
-[__THE FUN LOVER__](http://www.acmemade.co.uk/product/The-Bowler-Camera-Bag,23,15.htm)
+[THE FUN LOVER](http://www.acmemade.co.uk/product/The-Bowler-Camera-Bag,23,15.htm)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201207161311-mc4509-bag2.jpeg" title="The Bowler Camera Bag – £30" caption="The Bowler Camera Bag – £30" attr="Credit: http://www.acmemade.co.uk/" >}}
 
 Quirky and cute, this is for all of the beginners out there whose standard clutch is just not big enough for their new SLR. With enough space for the basics, this offers a fun alternative to the standard lug-around bags, and you may even have space for your make-up kit too.
 
-__[THE PRACTICAL ONE](http://www.jill-e.com/collections/classic-collection/everywear-gadet-bag-nougat)__
+[THE PRACTICAL ONE](http://www.jill-e.com/collections/classic-collection/everywear-gadet-bag-nougat)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201207161314-mc4509-bag3.jpg" title="Everywear Gadget Bag – Nougat – $89.99" caption="Everywear Gadget Bag – Nougat – $89.99" attr="Credit: http://www.jill-e.com/" >}}
 
@@ -52,7 +52,7 @@ With a special iPad pocket and big enough for your basic SLR kit, but small enou
 
 _For a 20% discount voucher on this bag, simply ‘like’ [Jill-e’s Facebook Page](http://www.facebook.com/Jill.e.Designs) and quote ‘Felix’ in a comment._
 
-[__THE TOURIST__](http://www.acmemade.co.uk/product/The-Union-Kit-Messenger,42,15.htm)
+[THE TOURIST](http://www.acmemade.co.uk/product/The-Union-Kit-Messenger,42,15.htm)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201207161315-mc4509-bag4.jpeg" title="The Union Kit Messenger – £35" caption="The Union Kit Messenger – £35" attr="Credit: http://www.acmemade.co.uk/" >}}
 

@@ -29,7 +29,7 @@ highlights:
  - photos
 ---
 
-__This review contains one big spoiler!__
+This review contains one big spoiler!
 
 After a year of waiting, the much anticipated third series of House of Cards has finally reared its head. The 13-episode season was uploaded to Netflix at 8am last Friday, and no doubt millions of people decided to binge on the web television series over the weekend.
 

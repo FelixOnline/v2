@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-_East Meets West_ is a student run multicultural show that accumulates the talent across Imperial College and showcases a cornucopia of cultures. It is the longest running student show in the UK and its 23rd anniversary show, _Highway_, will be held at the __Richmond Theatre__ in London on 22nd February 2015.
+_East Meets West_ is a student run multicultural show that accumulates the talent across Imperial College and showcases a cornucopia of cultures. It is the longest running student show in the UK and its 23rd anniversary show, _Highway_, will be held at the Richmond Theatre in London on 22nd February 2015.
 
 The purpose of the evening is to raise money for charity whilst enjoying a show highlighting a fusion of Eastern and Western cultures through various art forms including dance, drama, fashion shows and music. This year the show takes the form of a start to finish production where the drama element links all of the various acts together. The title ‘Highway’ represents the unforgettable journey that the characters as well as the audience will embark upon over the course of that evening.
 

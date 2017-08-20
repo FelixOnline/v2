@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-The house lights don’t dim at the start of _Beyond Caring_. That’s the first thing that went through my head. That, rapidly followed by “hang on, have we even started?” It’s a unique and bold use of the __Temporary Theatre__, and an instantly striking re-opening for the __National’__s fourth theatre. Formerly known as __The Shed__, the Temporary Theatre wasn’t even meant to be here anymore. But here we are, at the start of a new season of innovative and exciting works.
+The house lights don’t dim at the start of _Beyond Caring_. That’s the first thing that went through my head. That, rapidly followed by “hang on, have we even started?” It’s a unique and bold use of the Temporary Theatre, and an instantly striking re-opening for the National’s fourth theatre. Formerly known as The Shed, the Temporary Theatre wasn’t even meant to be here anymore. But here we are, at the start of a new season of innovative and exciting works.
 
 Kicking things off is _Beyond Caring_, originally penned by Alexander Zeldin before undergoing extensive work through devising with the company. It tells the story of three zero-hour workers, hired to clean a meat factory alongside a full-time cleaner and a vaguely sociopathic boss.
 

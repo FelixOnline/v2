@@ -29,7 +29,7 @@ highlights:
  - longread
 ---
 
-_I guess so_ – __Laurence Pope__
+_I guess so_ – Laurence Pope
 
 This was always going to be a difficult piece to write, since the answer to the above question could be summed up succinctly in a single syllable – yes. Unfortunately, my editor isn’t particularly happy with one word articles, so I suppose I’d better make something out of this question. Apparently I’m going head-to-head with Omar on this issue, but because I’m a good sport I’m going to avoid digging up dirt to discredit his argument, irreversibly wreck his reputation, and shame his family for generations to come.
 
@@ -47,7 +47,7 @@ Having fun in life is important, and if you draw pleasure from video gaming then
 
 Actually, scratch that last one.
 
-_Never!_ – __Omar Hafeez-Bore__
+_Never!_ – Omar Hafeez-Bore
 
 We’d need a whole year of Felix to crack this issue. At least. Even then, after discussing the importance of play and whether we actually deserve to have so much entertainment at our fingertips, we’d still come up short. This is Big Philosophy; a discussion of how Man Should Spend His Time, no less.
 

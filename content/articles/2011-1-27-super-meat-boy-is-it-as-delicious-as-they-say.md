@@ -38,5 +38,5 @@ The fact that _SMB _stemmed from a Flash game certainly helped, it already had a
 Sneak peeks of the game during development touted the game’s retro feel and NES-style graphics, to the delight of many eager players. I was amongst them, although I’ll admit it now I wasn’t quite swept up by the hype this game conjured up. Then again, I try to avoid getting sucked into to any of that stuff, since in many cases the overly-hyped game flops like a moist fish and you’re left feeling rather unsatisfied, like coming home from Imperial and finding some bastard’s drunk the last of the milk.
 
 _Super Meat Boy_ didn’t leave me with that feeling. It’s fresh, fiendishly difficult and quite possibly the most enjoyable way to give yourself hypertension. And let’s be brutally honest here, who hasn’t dreamed of playing a game where you command a lump of sentient meat to rescue a girl made of bandages from a top hat wearing foetus in a robot suit?
- - __Super Meat Boy official site: __<http://supermeatboy.com/>
- - __Play the original Flash version here: __<http://www.newgrounds.com/portal/view/463241>
+ - Super Meat Boy official site: <http://supermeatboy.com/>
+ - Play the original Flash version here: <http://www.newgrounds.com/portal/view/463241>

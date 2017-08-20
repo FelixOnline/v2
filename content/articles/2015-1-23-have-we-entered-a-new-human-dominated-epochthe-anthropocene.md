@@ -28,13 +28,13 @@ highlights:
  - comment
 ---
 
-__Sunset for the Holocene__
+Sunset for the Holocene
 
 Last week scientists confirmed that we have entered a new geological era called the Anthropocene. To put this into context the last epoch, known amongst geologists as the Holocene, began around 11,700 years ago after the Pleistocene, whose beginning was punctuated by the wide-spread mass extinctions of large megafauna – animals weighing over 40kg – apparently due to the synergistic impact of both climate change and the colonisation of mankind, whose populations during this time quickly spread across the world from Africa across to South America and Australia.
 
 Like an invasive species mankind gradually dominated the landscape, species therein and Earth’s energy fluxes. The proposed current Anthropocene epoch is defined as an age where this spread and expansion of human populations during the Holocene and present day has had, and continues to have, a widespread influence over the planet. The precise beginning of this era, however, has been heavily debated. Exactly when did humans start being the main drivers of environmental change?
 
-__A destructive new dawn__
+A destructive new dawn
 
 Since the late 17th century it has been recognised that mankind has had a disproportionate effect on Earth’s systems, but pinning down a precise turning point along the planet’s timeline has proved to be difficult.
 
@@ -52,7 +52,7 @@ The imprint of these agro-chemicals can still be seen today; recently corn farmi
 
 This in turn has caused fertiliser run-off into the Mississippi River and the mass deaths of marine life in the Gulf of Mexico due to nutrient enrichment. Furthermore, a rise in commerce and international transport has relocated non-native species into new habitats, such as the infamous Cane toad in Australia which has since dominated and destroyed native communities.
 
-__En-route to a sixth mass extinction?__
+En-route to a sixth mass extinction?
 
 You don’t need much imagination to envision how humans have appropriated the landscape – just look around you. Mankind has historically exploited, manipulated and destroyed parts of Earth, often without thought of the consequences for other species or long-term repercussions for humanity. This has led to what scientists suggest is the beginning of a sixth mass extinction.
 
@@ -66,7 +66,7 @@ So the future is not looking so bright, and the rapid expansion of mankind’s p
 
 > "Current extinction rates are projected to reach the same magnitude as the 'big five' mass extinctions."
 
-__Sunrise and sustainability__
+Sunrise and sustainability
 
 But it’s not all doom and gloom, I hasten to add – and you probably knew most of this already, or at least had a hunch. The introduction of government environmental policies and monitoring is reducing the impact of some of mankind’s damage to the planet, for instance in the case of agro-chemical regulation.
 

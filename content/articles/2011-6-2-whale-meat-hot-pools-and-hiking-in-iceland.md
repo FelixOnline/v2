@@ -28,7 +28,7 @@ The eruption of the glacial volcano Eyjafjallajökull last year severely disrupt
 
 However, Iceland does evoke its own sort of charm. I was in the capital of Iceland, Reykjavik for two weeks to work on my MSc project during which I had the chance to sample controversial Icelandic dishes, frequent the city’s geothermal pools popular amongst the locals and explore the great outdoors that Iceland had to offer.
 
-__Reykjavik__
+Reykjavik
 
 Reykjavik is the northernmost capital in the world and is believed to be the place where the first Viking settlers who founded Iceland settled. Today, half of Iceland’s population lives in Reykjavik.
 
@@ -40,7 +40,7 @@ From Reykjavik you can drive or follow a tour around the Golden Triangle circuit
 
 However, everything in Iceland is exorbitantly priced, especially eating out. A simple meal in a restaurant puts you back 2000 Icelandic Kronur (£10). A paperback costs £13. And a pint of beer costs £5!
 
-__Hot pools and hot chicks__
+Hot pools and hot chicks
 
 One of the distinctive attractions in Iceland is the geothermal pools. The pools are not just tourist spots; they are also the social hub for Icelanders. Maybe the cut-throat price of alcohol makes the pub less appealing for socialising. the thermal pools fulfill a social function very much like the pubs in Britain.
 
@@ -48,7 +48,7 @@ The rich geothermal resources in Iceland have given rise to a large number of th
 
 I read once that Iceland has the highest proportion of good-looking women in the world and I did not believe it until I went to the thermal pools. After visiting the thermal pools every alternate evening (to chill out of course, nothing else!) I can vouch that it’s statistically significant that there are an inordinate proportion of beautiful women in Iceland (Reykjavik at least). The thermal pools are like a beach in summer, and most of the Scandinavian beauties are clad in bikinis even though the temperature above the water is a chilling 3-4 degrees celcius. There must be something in the water.
 
-__Moby Dick and the most disgusting food on earth__
+Moby Dick and the most disgusting food on earth
 
 Culinary experience has always been one of the things I look out for when I am travelling. Iceland may not have the most innovative cuisines, but it does have cuisines that can not be found anywhere else in the world. The first is whale meat. Iceland is one of the few countries in the world where whale is commercially hunted.
 
@@ -62,7 +62,7 @@ Hakarl (pronounced hau-kat), or rotten shark, is the most infamous of Icelandic 
 
 Hakarl’s reputation stems from its overwhelming ammonia smell, which invokes a gag response from first timers. It comes in unmenacing light brown cubes. The hakarl has a chewy texture and it’s only when you munch it for a while that the ammonia stench assaults your taste buds and nostrils. Never kiss after eating it, advised a local.
 
-__Venturing into Earth’s butt-crack__
+Venturing into Earth’s butt-crack
 
 Iceland may not be well known for its outdoor activities, but it does have some very interesting and unique spots for those seeking adventure. Glacial hiking is certainly a trip worth doing. There is a glacier is two and a half hours away from the capital popular among adventure companies but is large enough that you feel that you are the only human there. You can try your hands on ice climbing on some of the ice walls.
 

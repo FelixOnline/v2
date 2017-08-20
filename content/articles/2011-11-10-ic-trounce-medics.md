@@ -24,7 +24,7 @@ highlights:
  - comment
 ---
 
-__Football__
+Football
 
 _Imperial Men's 2s – 8_
 

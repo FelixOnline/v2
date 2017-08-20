@@ -35,7 +35,7 @@ A real strength of this book is that it manages to be utterly devoid of ideology
 
 Collier, on the other hand, sits betwixt these positions, shaking his scarily educated head. Just look at the evidence, he implores. The Bottom Billion is just that; the evidence. And having been head of development research at the World Bank and now director of the Centre for the Study of African Economies at Oxford, he’s accrued quite a bit of evidence in his time, all of which has lead him to believe that yes there are some poverty traps. But they come in different forms and may be affecting a given country in different ways. These traps are; conflict, natural resources, being landlocked and poor governance.
 
-__Conflict__
+Conflict
 
 It’s pretty obvious that a country in the midst of a civil war is not going to develop very well economically but what Collier does is to quantify this truism. From the stats, a given failing state has about a 14% chance of civil war within a 5 year period. He finds that each percentage point knocks a percentage point off that risk. So a poor country growing at 2% will have the risk of civil war reduced to 12% whereas a country declining at 2% each year will have the risk increase to 16%. Of course you might think that the prospect of peace leads to greater spending and so peace causes growth and not the other way around but even when growth is caused by a rain shock (a flood, drought of very good rainy season), the same effect is found on the risk of conflict.
 
@@ -45,11 +45,11 @@ Other than the human misery caused by civil war, the impact is economically deva
 
 So the poorer a country is, the more likely it is the fall into the very conflict that keeps it poor.
 
-__Natural Resources__
+Natural Resources
 
 Natural resources should be an easy route out of poverty and yet some of the world’s poorest countries have an abundance of the stuff, just think of Angola and the Democratic Republic of Congo. Natural resources feed into the conflict trap since they provide something clearly worth fighting over, as seen in the movie Blood Diamonds set in Sierra Leone. But natural resources can damage any country because they reduce the treasury’s reliance on individual taxes, thus making politicians less accountable to their people. It is also much easier for politicians to embezzle money from natural resources and spend the money on simply bribing community leaders for their people’s votes.
 
-__What can be done?__
+What can be done?
 
 Simply giving poor countries money is the obvious answer. But when used unwisely, aid can be counterproductive. When money flows into a country in the form of foreign currency (such as with aid) it needs to be converted into local currency to be useful. However, aid isn’t the only foreign currency that needs to become local; money generated from exporting goods also needs to be converted into local cash. So aid money actively competes with exports, reducing the value of engaging in the kind of trade which could pull the country out of poverty. Added to this, many poor countries place high tariffs on imported goods, which makes it even less likely that citizens will want to purchase foreign currency; they have nothing to buy with it, reducing the exchange value of the aid.
 
@@ -59,11 +59,11 @@ And aid money doesn’t necessarily go where the West might want it to go. Colli
 
 Given this, Collier’s conclusion is not that we should give up on aid, rather that it should be given when the time is right. Corrupt governments will only waste the stuff, but once a genuine reformer gets in they should received all the help they can get.
 
-__Military intervention__
+Military intervention
 
 This is undoubtedly the most controversial section in The Bottom Billion. Remember the $64 billion lost by each civil war? Collier argues that military intervention can prove to be one of the most successful forms of aid, provided intervening forces are prepared to take real risks unlike the infamous peacekeepers in Rwanda, who would only fire when fired upon, not when civilians were at risk. The economic arguments make a novel addition to the tired (but compelling) moral ones.
 
-__Conclusion__
+Conclusion
 
 Collier, in all, seems convinced that we can chip in. International regulation is his weapon of choice to tackle companies that pay bribes and provide a bench mark for reform minded politicians. His case for military intervention is definitely the most daring of his proposals and in a post Iraq world, the least likely to take place. Aid can make a difference when directed at the right time and at the right kind of investment (like infrastructure). The book is certainly very ‘big picture’ and a proper review of how aid works at the local level will have to wait for my rereading of Poor Economics. All in all, a worthwhile, interesting read.
 

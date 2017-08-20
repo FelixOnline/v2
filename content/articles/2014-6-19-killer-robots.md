@@ -20,7 +20,7 @@ authors:
 highlights:
 ---
 
-__Recently a new breakthrough was achieved in the field of robotics. Pepper, a robot from Japan, is now able to read emotions from its human masters.__
+Recently a new breakthrough was achieved in the field of robotics. Pepper, a robot from Japan, is now able to read emotions from its human masters.
 
 Furthermore, it can change its behaviour according to this information. However, most horrifically, is the fact that pepper will be able to dance, joke and amuse its owners. All of this is done by a 121 cm robot, which learns from its environment and is permanently connected to the Internet.
 

@@ -51,13 +51,13 @@ It is just a shame that the Holland Club couldn’t have allowed to keep running
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210047-tna08-sherfield-fp.jpg" title="A floor plan of Sherfield" caption="A floor plan of Sherfield" attr="Credit: Imperial College London" >}}
 
-__Holland Club Closure__
+Holland Club Closure
 
 The Holland Club was, in practice, a pub on campus that postgraduates and lecturers would frequent. It had been inside Sherfield for many years. Although the only way for people who didn’t know of its existence to tell where it is was the discrete “Youngs” sign outside, which has now been removed.
 
 Last academic year, the space that the Holland Club occupied was [put out to tender after a feasibility study](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) into the use of the space. This [effectively closed](http://felixonline.co.uk/news/2158/holland-club-change-on-the-cards-/) the Holland Club. This caused [widespread dismay and anger](http://www2.imperial.ac.uk/blog/announcements/2012/01/11/feedback-invited-on-catering-and-amenity-offer-on-south-kensington-campus/) in the postgraduate and staff community. There was a [petition](http://www.change.org/petitions/imperial-college-save-the-holland-club-2) started to [save the Club](https://www.facebook.com/savethehollandclub). After bids from Imperial companies (of which the only real heavyweight is Taste Imperial, which is the catering arm of Imperial College London and run by Campus (formerly Commercial) Services) the space went to Campus Services. The Holland Club started bidding but pulled out at the second stage, hinting that the main crux of that phase was catering and not running a pub. College said that their reason was the need for extra space to meet demands as the food services could not cope with demand and that postgraduates wanted extra social space.
 
-__Holland Club now__
+Holland Club now
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210045-tna08-hc-.jpg" title="The pub that Kevin Young, the Holland Club Manager, has opened in Spain" caption="The pub that Kevin Young, the Holland Club Manager, has opened in Spain" attr="Credit: Photo credit: Save The Holland Club Facebook Page" >}}
 

@@ -32,7 +32,7 @@ Right, with all that out of the way, let’s discuss what is expected of the 12 
 
 I missed the auditions this season and only really tuned in once the acts made it through to Bootcamp. I picked my personal favourites quickly and was hesitantly optimistic about the quality of the acts that would compete in the finals, as it seemed that the judges were finally picking real singers, not just pretty faces. Here is a breakdown of the contestants still in the running:
 
-__The Boys__
+The Boys
 
 It was touch and go for Jahmene Douglas in the beginning. There is no denying this boy has singing talent in spades, I would even venture to say he has the best vocal range I have heard from a male contestant on the show, but his nerves almost prevented him from competing. He has thankfully overcome these pre-show jitters and continues to wow me every week.
 
@@ -40,7 +40,7 @@ James Arthur isn’t a favourite of mine, but I can see his appeal. He has a dis
 
 I honestly thought that Rylan’s presence in Nicole’s house was a joke… apparently not, as he’s still around acting like the world’s biggest diva and not adding much to the show apart from flashing lights and club tunes.
 
-__The Girls__
+The Girls
 
 Well, technically, as this goes to print, there are no longer any acts competing from this category. That being said, I will still talk about them, because two of the girls have been my favourites throughout.
 
@@ -48,14 +48,14 @@ Let’s start with Lucy Spraggan. She auditioned with an original song entitled 
 
 This week’s elimination of Ella Henderson has left me reeling. She’s only 16 years old but, together with Jahmene Douglas, she had the best voice this season. Her rendition of Cher’s “Believe” is nothing short of genius and if you don’t believe me, I urge you to watch the video on YouTube and find new meaning in the song. She has been likened to Adele and described as the best singer on the show since Leona Lewis. She was a true class act, one that didn’t need any gimmicks to make her performances special and memorable.
 
-__The Groups__
+The Groups
  To be honest, I don’t much care for this category, so this part will be short. There’s only one act left anyway – boy group Union J. As much as it pains me to say it, they’re not bad, but do we really need another band like The Wanted and One Direction? How about rewarding originality for a change?
 
-__The Over 28s__
+The Over 28s
 
 Did you know that there has only been one winner from this category and that was all the way back in 2004? Why is that? This year’s contestants have been good but apart from Christopher Maloney, they’ve all been voted off and I have a feeling Christopher won’t last much longer. It’s not that he can’t sing, but he’s quite cheesy and there has been a lot of controversy surrounding him.
 
-__This Week__
+This Week
 
 As you may have gathered, James Arthur and Ella Henderson were in the bottom two. I wish I could be mad at the judges for not unanimously saving Ella, but in this situation it was really tight as Ella’s performance from the Live Show was in my opinion better, but James was absolutely amazing as he sung for survival. Either way, neither of them should have been in the bottom two in the first place and this is what frustrates me about shows like this. This is meant to be a SINGING competition so I wish the audience would just vote for the acts with the best ABILITY TO SING, and not the guy who needs 20 scantily clad dancers on stage to distract from the fact that he can’t do much more than grind along to the music. Am I the only one who thinks this? Maybe not, as X-Factor managed to lose yet again to Strictly Come Dancing in the viewers’ ratings last week.
 

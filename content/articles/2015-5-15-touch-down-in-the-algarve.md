@@ -43,7 +43,7 @@ We were all super sad to say goodbye to the dropzone and all the skydivers. We c
 
 By the conclusion of the trip, 5 people had earnt their A license, everyone had rapidly growing jump numbers by everyone and we had participated in the first official team training jump in Imperial history!
 
-__Arrival in Lisbon__
+Arrival in Lisbon
 
 We landed in Lisbon at lunchtime, before checking-in to a hostel in the “nightlife” district. Guided by locals, we had a traditional Portuguese meal followed by a night on the town, where everyone properly got to know each other and formed a convivial spirit that would be carried forwards through the rest of the trip. After a late breakfast of the world-famous Portuguese pastry, Pasteis de Nata, we drove 4 hours south in convoy, to move in to our shared villa in the Algarve, only 15 minutes’ drive from the dropzone.
 
@@ -53,7 +53,7 @@ The group was pressed for time to finish breakfast and get to the airport to col
 
 In the Algarve, after the boring but necessary registration process, and with the day’sjumping finished before we could get there, a barbeque feast was provided by the group’s more culinary members, followed by an early night, ready for a week of non-stop skydiving.
 
-__Hitting the dropzone__
+Hitting the dropzone
 
 The five student skydivers spent the first day doing their intensive ground school training, while some of the experienced members got a taste of the incredible things the dropzone had to offer by landing on the beach, at sunset!
 
@@ -61,13 +61,13 @@ Many milestones were reached on the second day.with Jonny successfully completin
 
 After Hassan had popped off for breakfast, our AFF students were going to get their morning refresher briefing, before doing their first jump! All of our beginners got 3 jumps in this day! Day two was also trip officer José’s birthday! He forgot all about it though, as he was too busy jumping (we reminded him later on in the bar).
 
-__Rain, showers and fruit theft__
+Rain, showers and fruit theft
 
 Wednesday saw continued progression by everyone, particularly from the students, with Hassan and Iulian successfully reaching fully-solo standard, with the minimum requirement of 7 jumps.
 
 Three members departed the group on the fourth day to return home. Back at the dropzone, a passing front meant unfavourable weather for beginners after the morning, which slowed progress for the students. The remaining experienced skydivers managed to get a few jumps in between showers. Later on in the day, both Lucys completed level 7 and went solo standard! Hassan wandered into Alvor town and found a fruit he hadn’t seen since he was in Jordan around this time last year, and brought some back to the dropzone to show us. He told us he had “borrowed” them from a Portuguese farmer. Pippa hit 100 jumps, and Isaac liked Lisbon so much he missed his flight. Oops.
 
-__Solo Jumping__
+Solo Jumping
 
 By Friday, all of the novices were onto jumping solo, which meant no more waiting around for available instructors. This put them at a stage that allowed them to jump in any dropzone around the world! Nicole decided that landing on the designated landing area was too mainstream (high winds forced her to drift off) and so landed (safely!) a couple of miles away, on the other side of the river next to the dropzone. Friday was the main social night of tour – we went to the skydivers’ local haunt, which that night was overwhelmed by hordes of skydivers, and had a great time.
 

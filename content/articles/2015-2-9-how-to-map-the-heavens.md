@@ -23,13 +23,13 @@ authors:
 highlights:
 ---
 
-__Ben Fernando: So why is it important to measure distances in cosmology?__
+Ben Fernando: So why is it important to measure distances in cosmology?
 
 Alan Heavens: According to General Relativity, the Universe’s geometry is related to its matter content. So if we look at the geometry of the universe, we can tell something about what’s in it – which we’re obviously very interested in because we don’t know what 96% of the energy density is!
 
 In order to investigate the geometry of the Universe, we need to measure distances, and we do this using ‘standard rulers’. For example, in normal [Euclidian] space, if you place a ruler in the sky at a given distance and then double this distance, the size of the ruler halves. However, this is not the case in curved space. Some models predict that a distant ruler will start getting bigger again as it gets further away, so if we observe this we know that particular model is correct.
 
-__BF: So clearly these ‘standard rulers’ are very important, but what exactly are they?__
+BF: So clearly these ‘standard rulers’ are very important, but what exactly are they?
 
 AH: They’re the size of the Universe’s sound horizon, which is about 470 million light years (roughly 4.4x1024m).
 
@@ -43,7 +43,7 @@ However, when we make these measurements all we can actually do is measure the a
 
 Most calculations in the past have assumed a certain geometry and from that calculated the separation between galaxies, but it turns out this isn’t actually necessary – all we need to do is assume that the Universe has certain symmetries, we don’t even need to consider General Relativity.
 
-__BF: How does this come in useful? __
+BF: How does this come in useful?
 
 AH: Well, we now have an almost model-independent measurement of the length of the ‘standard ruler’. We’ve not made assumptions about what sort of Universe we live in, or about the nature of General Relativity.
 
@@ -51,15 +51,15 @@ All we’ve assumed is the Cosmological Principle, that we don’t live in a spe
 
 Now that we have a measurement of this length, all theories about the Universe will have to make predictions that are in agreement with our value, or else be discarded.
 
-__BF: And how long is this length? __
+BF: And how long is this length?
 
 AH: About 143±3.5 Mpc (4.4x1024m).
 
-__BF: How did you acquire the data needed to make this measurement?______
+BF: How did you acquire the data needed to make this measurement?
 
 AH: As I mentioned previously, the effect of sound waves in the early universe creates a small increase in the number of galaxies at certain separations. We looked at surveys of about a million galaxies for this, and then at data from about 750 supernova explosions to constrain the expansion history of the Universe.
 
-__BF: So what will be the next step with this research? __
+BF: So what will be the next step with this research?
 
 AH: We’d like to use some bigger surveys to make our measurements more precise. The length of the standard ruler is affected by the number of neutrino species that exist, and right now our measurements confirm that there are definitely no more than four species, and probably no more than three. More data would help us to confirm that there are indeed only three species of neutrino.
 

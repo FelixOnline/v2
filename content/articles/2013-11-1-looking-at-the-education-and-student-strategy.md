@@ -38,4 +38,4 @@ In order to achieve these aims College plans to focus on their admissions proces
 
 One strong principle of the strategy over the next five years is the availability and ease of feedback mechanisms to allow staff, students and alumni a chance to contribute ideas that can enhance the student experience. As part of this the Education department has created a new website which allows for easy communication and access to information. There students can find out more information about the College’s vision, its objectives and how they can make a difference to the student experience at Imperial.
 
-For more information, visit the new website at: __tinyurl.com/q6zueqc__
+For more information, visit the new website at: tinyurl.com/q6zueqc

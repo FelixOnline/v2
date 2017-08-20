@@ -27,15 +27,15 @@ highlights:
  - comment
 ---
 
-__THE GAMBLER__
+THE GAMBLER
 
-__Director: __Rupert Wyatt
+Director: Rupert Wyatt
 
-__Screenplay: __William Monahan
+Screenplay: William Monahan
 
-__Cast: __Mark Wahlberg, Jessica Lange, John Goodman
+Cast: Mark Wahlberg, Jessica Lange, John Goodman
 
-__Rating:__ 2/5
+Rating: 2/5
 
 Mark Wahlberg goes for the most serious, scruffy performance of his career so far, playing a gambling addict who just cannot help himself go on a majorly self-destructive path that affects not only him, but also many of people around him. Jim Bennett (Mark Wahlberg) loves the rush of playing blackjack, betting on roulette colours, and even going so far to cut cards with loan shark Neville Baraka (Michael K. Williams), the kind of person who does not look kindly on late payments. Taking part in an underground gambling ring owned by violent Koreans only takes up the night time of his life. When he is not busy losing money and owing a lot of important people lots of money, Jim is a literature professor who is struggling to keep his class interested in the subject he is teaching.
 

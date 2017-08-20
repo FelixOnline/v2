@@ -23,15 +23,15 @@ authors:
 highlights:
 ---
 
-__SON OF A GUN__
+SON OF A GUN
 
-__Directors: __Julius Avery
+Directors: Julius Avery
 
-__Screenplay: __Julius Avery, John Collee
+Screenplay: Julius Avery, John Collee
 
-__Cast: __Brenton Thwaites, Ewan McGregor, Alicia Vikander
+Cast: Brenton Thwaites, Ewan McGregor, Alicia Vikander
 
-__Rating: 3/5__
+Rating: 3/5
 
 Brenton Thwaites has filmed a variety of genres in a relatively short period of time, and this is his turn to get down and dirty in a prison thriller. Set in Australia, JR (Thwaites) lands himself in jail for a minor crime. Being the fresh, new inmate, he must fend off some unwelcome advances from a group of men with voracious sexual appetites. But before things get worse, young JR catches the attention of Brendan Lynch (Ewan McGregor), Australia’s most notorious criminal, who is supposed to be incarcerated for a lot longer than JR. But this supposed friendship and protection come at a price.
 

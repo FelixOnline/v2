@@ -36,7 +36,7 @@ While Remembrance Day was founded to remember the lives lost in the Great War, t
 
 The aim is to show you the important must-see remembrance-based activities in these places while also drawing in some of the lighter things, too: If you’re ever in the vicinity of these locations I hope that you don’t become hesitant at the mere utterance of the place, and instead embrace them with open arms as destinations that really do have something valuable to offer.
 
-__Kraków, Poland__
+Kraków, Poland
 
 One of Poland’s oldest cities, this glistening metropolis is home to some beautiful architecture, a booming nightlife and some fantastic eateries. It’s only a short drive from Auschwitz, and most hotels will organise transits and tours for you for a negligible cost. I still speak to people who have visited the city and haven’t done the Auschwitz tour, the reasons for which are just beyond me.
 
@@ -48,7 +48,7 @@ Back in Krakow many options await you. One of my highlights was sampling honey v
 
 If you’re a morning person be sure to check out one of the flea markets, or for the night owls among you check out the reasonably-priced cocktail bars and clubs like Cien which pump out endless house. The point is that it’s a great city with lots happening, and a great stop-off for anyone who is inter-railing or in the area for whatever reason.
 
-__Saigon, Vietnam__
+Saigon, Vietnam
 
 Vietnam is by far my favourite destination and Saigon was the first place on my hit list as I made my way up the coast to the China border. This urban sprawl is littered with telephone cables and posters depicting the revered Ho Chi Minh, and if the sea of motorbikes doesn’t knock you off your feet the stench of durian fruit certainly will.
 
@@ -64,7 +64,7 @@ Hop on a bike and hit up some of the parks and markets on offer, in particular t
 
 And did I mention that Vietnamese bin collection trucks sound like our ice cream vans? Saigon is such a great place to begin or wrap up your Vietnamese journey – there’s a reason it’s a focal point on the Asian backpacker circuit.
 
-__Phnom Penh, Cambodia__
+Phnom Penh, Cambodia
 
 Oh, you’re hopping between Cambodia and Vietnam and stuck in this hole for 2 hours while you wait for your bus transfer? Shit, isn’t life a bitch at times? I’m really not sure why this place has such a dire reputation on the good ol’ tourist trail, or perhaps I just continually chatted with the wrong sort of people. Hell, I loved it and stayed there way beyond the call of duty even after my ’nam visa started ticking!
 

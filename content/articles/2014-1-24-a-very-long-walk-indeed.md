@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__Mandela: Long Walk to Freedom__
+Mandela: Long Walk to Freedom
 
-__Director:__ Justin Chadwick
+Director: Justin Chadwick
 
-__Writers: __William Nicholson, Nelson Mandela (autobiography)
+Writers: William Nicholson, Nelson Mandela (autobiography)
 
-__Starring: __Idris Elba, Naomie Harris
+Starring: Idris Elba, Naomie Harris
 
-__Runtime: __141 minutes
+Runtime: 141 minutes
 
-__Certification: __12A
+Certification: 12A
 
 In putting such an iconic, widely beloved figure to the screen, the pressure is most definitely on. The film shouldn’t offend, nor should it be an unbiasedly kind portrayal, as even the most celebrated people have flaws to speak of. And _Mandela: Long Walk to Freedom_ does get that balance to a certain extent, putting the long years of Nelson Mandela’s struggle against oppression to the screen.
 

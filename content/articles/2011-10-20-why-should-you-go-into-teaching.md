@@ -44,7 +44,7 @@ Perhaps the most worrying fact is that it is children from disadvantaged backgro
 
 But all of this has a knock-on effect as, according to the [Department for Education](http://www.education.gov.uk/) (DfE), 2009 saw around half of all schools enter no pupils at all for any separate sciences at GCSE level. Deprived areas are most affected by this trend, because these are the schools that fail to attract good teachers of STEM subjects, and are consequently more likely to stop teaching those subjects altogether. This has a direct effect on the type of students who end up studying STEM subjects at university, with Imperial in particular attracting fewer and fewer students from lower socio-economic backgrounds.
 
-__Teach First__
+Teach First
 
 Teach First is an independent charity focused on delivering far-reaching social change by addressing educational disadvantage – driving up standards and raising aspirations in schools facing challenging circumstances. They have their sights set on Imperial College to help combat the so-called “[STEM challenge](http://graduates.teachfirst.org.uk/about/stem.html)”.
 
@@ -64,7 +64,7 @@ Teach First will be holding a Milkround Presentation on Monday 24 October in the
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110202049-felix-teachfirst-graphics.jpg" title="Number crunching isn’t just for the classroom as these teaching related statistics reveal" caption="Number crunching isn’t just for the classroom as these teaching related statistics reveal" attr="Credit: Veronika McQuadeova" >}}
 
-__Other Schemes__
+Other Schemes
 
 Teach First is by no means the only pathway for Imperial graduates into teaching. [YELP](http://www.yelpstudents.org/) is an organisation aimed at reducing inequality in primary and secondary education, with the stated aim to remove the (currently strong) correlation between affluence and academic achievement. Formed in 2007, the organisation already has links to Oxford, LSE, King’s and Queen Mary.
 
@@ -74,7 +74,7 @@ So, all things considered, why should you go into teaching? Maybe you genuinely 
 
 Probably, you won’t be appreciated as much or as often as you might like, but as long as you’re not too thin-skinned, that shouldn’t be a problem. So even if you didn’t get a third, it might be worth a think.
 
-__Academia: over on the other side__
+Academia: over on the other side
 
 Of course, there is one group of Imperial students who will certainly end up teaching, though they might consider it a mere aside to their primary vocation. Academics, whether they love it or hate it, spend large amounts of their time teaching. Some might regard this as a drop in the ocean when compared to the demands of research work, but such a view is misguided; aspirant lecturers should be careful not to underestimate the primacy teaching will assume in their work.
 

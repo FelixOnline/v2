@@ -36,4 +36,4 @@ I can’t decide if the fact that _Tangerine _was shot entirely on an iPhone 5s 
 
 With an exceedingly in-your-face soundtrack, at times distracting camerawork, and a thoroughly defiant attitude towards detractors of its subject matter, _Tangerine_ may prove hard to swallow for some viewers at first. But with profound moments of insight into its protagonists’ lives, and a brace of strong performances to boot, it proves to be a rewarding experience to those willing to treat it with patience.
 
-__Verdict: 3.5 Stars__
+Verdict: 3.5 Stars

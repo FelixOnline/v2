@@ -24,7 +24,7 @@ highlights:
 
 Following the story in the 5 October 2012 issue, Chelsea and Westminster Hospital NHS Foundation Trust have responded with the following:
 
-“__Patients and local residents support campaign to keep A&E at Chelsea and Westminster__
+“Patients and local residents support campaign to keep A&E at Chelsea and Westminster
 
 Thousands of patients and local residents have supported acampaign to keep Chelsea and Westminster as a major hospital with a full A&E Department, maternity and paediatric services, and many other key services.
 

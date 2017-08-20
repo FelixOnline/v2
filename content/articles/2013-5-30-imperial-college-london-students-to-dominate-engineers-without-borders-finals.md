@@ -44,9 +44,9 @@ Imperial Horizons extended an invitation to anyone interested in next year’s E
 
 [_Comment_](http://felixonline.co.uk/comment/3643/engineering-a-good-course/)
 
-__The teams in full are:__
+The teams in full are:
 
-__Team 1__
+Team 1
 
 Marcus Bishop
 
@@ -56,7 +56,7 @@ Aswhin Bhanot
 
 Monal Patel
 
-__Team 2__
+Team 2
 
 Raunaq Bagchi
 
@@ -66,7 +66,7 @@ Ahmad (Luq) Mohamed Ali
 
 Iacopo Russo
 
-__Team 3__
+Team 3
 
 Ashira Bindels
 

@@ -90,7 +90,7 @@ A GlaDOS-approved list of ramen-pimping additives:
 
 (* We’re obviously pulling your leg.)
 
-___Food Editorial disclaimer:___
+_Food Editorial disclaimer:_
 
 _Our instant ramen piece was obviously a parody. We at Food condone everything in moderation – that means consumptionof all types of food (and alcohol, obviously.) If you really *are* skint, fair enough; now you know how to bump up the nutritional value of cheap grub. But for the love of *SQUAWK*, please don’t eat this regularly. Pasta’s a better carb – just takes a few minutes extra, you can whip up a quick sauce while you wait, and it’s MSG free._
 

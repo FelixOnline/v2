@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Frank__
+Frank
 
-__Director:__ Leonard Abrahamson
+Director: Leonard Abrahamson
 
-__Writers:__ Jon Ronson, Peter Straughan
+Writers: Jon Ronson, Peter Straughan
 
-__Starring: __Michael Fassbender, Domnhall Gleeson, Maggie Gyllenhaal, Scoot McNairy, Tess Harper
+Starring: Michael Fassbender, Domnhall Gleeson, Maggie Gyllenhaal, Scoot McNairy, Tess Harper
 
-__Runtime: __95 minutes
+Runtime: 95 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 3/5
 

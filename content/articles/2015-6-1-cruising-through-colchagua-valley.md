@@ -36,7 +36,7 @@ But it’s obviously not just the solid science that gives Colchagua its appeal:
 
 Colchagua is a destination that is gaining traction every year, and one that is well worth discovering while it is still within its prime.
 
-__Recommended wineries__
+Recommended wineries
 
 Visiting a handful of wineries is clearly the main event in Colchagua. The area does continue to maintain an air of reserve – only a handful of wineries are currently open to the public – but I believe that this only adds to Colchagua’s charm and hidden gem status. The following wineries are an excellent starting point that will provide you with a solid grounding in what the region has to offer, including the essential grape varietals, as well as the contrast between industrial operations and smaller-scale outfits.
 
@@ -46,13 +46,13 @@ Lapostolle Clos Apalta Winery: Also located in Apalta, just a stone’s throw fr
 
 MontGras Winery: While some of the other wineries can sometimes feel dauntingly-large in scale, MontGras instead creates the impression of a classic, close-knit, family enterprise. Operated by the Gras brothers, the winery manages to strongly match its larger competitors, producing highest quality wines in what feels like a more exclusive setting. Their unique selling point for tours is ‘My Harvest’, an extremely fun programme that allows visitors to become a winemaker for the day, creating your own unique blend by selecting up to three grape varieties to be transformed into a premium wine. And the regular tastings come accompanied with quirky appetisers that effectively demonstrate the wines’ capabilities.
 
-__The Colchagua Museum__
+The Colchagua Museum
 
 As I alluded to earlier, the activities in Colchagua don’t start and end with the wonderful wine. Located just off Santa Cruz’s main square, the Plaza de Armas, sits Museo Colchagua, one of the continent’s best private collections, boasting well-decked exhibition halls inside a huge colonial building with a stunning courtyard attached. The museum encompasses all one could wish to know about Chile and elsewhere on the continent, including palaeontology, pre-Columbian art, the colonial era, and subsequent liberation. It is well worth a few hours – if not a few days – of your time in Colchagua: everything is beautifully presented, and finding exactly what you want is made easy by following the guided circuit through the halls.
 
 By far the most impressive collection is ‘The Big Rescue’, a series of rooms and tunnels dedicated to recounting the tale of ‘los 33’, the 33 Chilean men trapped in the San José mine in 2010, an event that captured the eyes and hearts of billions around the globe. The owners and curators have done a fantastic job of securing endless memorabilia from the mine itself, and presenting it in such a way that really captures the severity and scale of this iconic event. While there are endless attractions throughout Colchagua, the Museo certainly is a must-see.
 
-__Colchagua Wine Tours__
+Colchagua Wine Tours
 
 Colchagua as a tourist destination is still somewhat in its infancy. As a result sourcing reliable information and professional tour guides is something of a challenge, particularly if you’re looking for a good level of spoken English. Thankfully the region is now served by a local tour operator, Colchagua Wine Tours. It would be difficult to reduce CWT to a single unique selling point: they offer completely-customisable tailored tour packages, knowledgeable native English-speaking guides, and a well thought-out pricing system that far surpasses that offered by rival tour operators in Santiago. It’s a rarity to find such a good level of service, and I have no doubts that CWT will contribute to Colchagua’s continuing rise to stardom.
 

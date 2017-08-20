@@ -39,12 +39,12 @@ Pescatori is expensive, as expected from the luxe locations of Mayfair and Charl
 
 Just be sure that your date is someone who understands that your act of paying with Tesco vouchers is practical and impressive, rather than downright stingy and unattractive. Alternatively, settle the bill while they’ve gone to the bathroom and keep the romance alive.
 
-__Partridges Food Market__, Duke of York Square SW3 4LY Nearest tube: Sloane Square, Saturdays 10am to 4pm
+Partridges Food Market, Duke of York Square SW3 4LY Nearest tube: Sloane Square, Saturdays 10am to 4pm
 
-__Shell Seekers__, Middle Market inside Borough Market, Nearest tubes: London Bridge/Borough
+Shell Seekers, Middle Market inside Borough Market, Nearest tubes: London Bridge/Borough
 
-__Loch Fyne Covent Garden__, 2-4 Catherine St WC2B 5JY. 020 7240 4999 Nearest tube: Covent Garden
+Loch Fyne Covent Garden, 2-4 Catherine St WC2B 5JY. 020 7240 4999 Nearest tube: Covent Garden
 
-__Randall and Aubin__, 16 Brewer St, W1F 0SQ. 020 7287 4447 ‎ Nearest tube: Piccadilly Circus
+Randall and Aubin, 16 Brewer St, W1F 0SQ. 020 7287 4447 ‎ Nearest tube: Piccadilly Circus
 
-__Pescatori__, 11 Dover St, W1S 4LH. 020 7493 2652 Nearest tube: Green Park
+Pescatori, 11 Dover St, W1S 4LH. 020 7493 2652 Nearest tube: Green Park

@@ -36,5 +36,3 @@ A competition like no other, this year it pitted 29 Chem Eng departments from ac
 After the sporting activities and awards ceremony, held in the Barclaycared Arena, were concluded, the famous Frank Morton’s afterparty celebrations began. The IC Crowd set about proving Imperial Chem Eng students can do more than just size pumps, belting out 90s classics from the likes of Spice Girls and S Club 7 with gusto.
 
 As ever it was a fantastic event enjoyed by all who attended, proving that engineers really can operate on very little sleep! 2016’s edition will certainly be an event to look forward to.
-
-____

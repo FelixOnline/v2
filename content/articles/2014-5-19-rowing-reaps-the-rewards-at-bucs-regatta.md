@@ -30,7 +30,7 @@ The big BUCS extravaganza began as always after half the squad had just finished
 
 The trip began with a convoy of 3 minibuses filled with mens squad, womens squad and novice women and after an (for once) entirely uneventful journey, which required some big tunes and large amounts of French abuse to drivers Paul Jones and Fabien Evrard to liven things up a bit, we arrived late on Friday evening in Nottingham.
 
-__Day 1__
+Day 1
 
 Every morning saw an unnecessarily early start for everyone with time trials starting at 8am, but especially for IC’s not-so-big lads who had to weigh in at 6am, the only upside being Stu Whitelaw had actually tried booking rooms for 50 people over 2 days in advance, rather than being surprised at there being nowhere available to stay near Nottingham (as happened last year when there was some big event in Nottingham which every University in the country was going to or something). Anyway, again everything somehow went to plan.
 
@@ -46,7 +46,7 @@ The second of Saturday’s big lad gold medals came from the women’s champ 4 o
 
 The final race on Saturday was the blue ribboned event, the men’s 8. In the semi-finals, the lads had stormed through UL to take 2nd place and looked to be in the hunt for the medals. Unfortunately UL had clearly been saving themselves and had a storming finish to take the bronze medal, pushing IC back in to 4th place.
 
-__Day 2__
+Day 2
 
 Saturday evening saw a blow to our VL efforts with illness striking down MVP Mel Wilson and Lidia Cammack. On top of this, fat lad Harry Mayne had seen a good bulking opportunity on finding Mr Halls’ barbecue, weighing in at a solid 75kg back at the hotel. This called for some serious sweating down, with Harry adopting the Dan Powell 4am makeshift sauna technique. With only seconds to spare, the men’s lightweight 8 managed to weigh in and finally get some food in.
 
@@ -58,7 +58,7 @@ The two big results of the day however came in the intermediate mens double and 
 
 Words can’t really do justice to how big the beginner men went this weekend. The men’s 8 (Aris Aristodemou, Nicholas Robertson, Rob Mcpherson, Nico Lautard, Shobi Grinsted, Juha Leppanen, Tom Peake, E-Jazz Ahamadeen and cox Lucy Osbourn) brought home the silver medal, missing out on a gold by only 0.66 seconds. Bear in mind that in the last few years, the D-final was a decent result. There were a number of other strong results with the men’s coxed 4 finishing 4th, and the women’s 8 and light 4- finishing 6th.
 
-__Day 3__
+Day 3
 
 So as we got up at the crack of dawn once more, the mood was a bit melancholy - it appeared the overall VL trophy was beyond us. However there was some light at the end of the tunnel as IC lead the contest for the men’s team championship over UL by just a handful of points (the trophy for this was bigger than the VL trophy anyway) and the Monday events looked like they were in our favour.
 

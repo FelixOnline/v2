@@ -23,25 +23,25 @@ authors:
 highlights:
 ---
 
-__The Lego Movie__
+The Lego Movie
 
-__Directors:__ Phil Lord, Christopher Miller
+Directors: Phil Lord, Christopher Miller
 
-__Writers: __Phil Lord, Christopher Miller
+Writers: Phil Lord, Christopher Miller
 
-__Starring: __(voices) Chris Pratt, Elizabeth Banks, Liam Neeson, Morgan Freeman, Will Arnett, Will Ferrell
+Starring: (voices) Chris Pratt, Elizabeth Banks, Liam Neeson, Morgan Freeman, Will Arnett, Will Ferrell
 
-__Runtime: __100 minutes
+Runtime: 100 minutes
 
-__Certification: __U
+Certification: U
 
 Rating: 4/5
 
-__T__he announcement that a movie based around everyone’s favourite line of construction toys was met with rants about the extent of consumerism in cinema. However, cynics will be pleasantly surprised by the actual film that has emerged which has garnered near universal acclaim for its beautiful animation, charming humour and hilarious send up of the ‘traditional’ Hollywood blockbuster.
+The announcement that a movie based around everyone’s favourite line of construction toys was met with rants about the extent of consumerism in cinema. However, cynics will be pleasantly surprised by the actual film that has emerged which has garnered near universal acclaim for its beautiful animation, charming humour and hilarious send up of the ‘traditional’ Hollywood blockbuster.
 
 Everyman (toy) Emmet is a fairly talentless construction worker in Bricksburg who after accidentally falling into a hole, discovers an unusual piece of red lego-the ‘piece of resistance’ purported to be able to stop the evil Lord Business. Emmet is soon declared to be ‘the special’ based on an old prophecy. Even when later on this prophecy turns out to just be a load of hot air, Emmet is still tasked with saving toykind from Business’ evil clutches.
 
-__The Lego Movie __
+The Lego Movie
 
 Tuesday 13/05/14 19:00
 

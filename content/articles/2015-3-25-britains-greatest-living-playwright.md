@@ -25,9 +25,9 @@ highlights:
  - longread
 ---
 
-To call anyone “Britain’s greatest living playwright” is a bold claim. Competition for the title is fierce, and ever-growing – a simple glance at the work coming out of the likes of the __Royal Court__ shows the strength of new talent.
+To call anyone “Britain’s greatest living playwright” is a bold claim. Competition for the title is fierce, and ever-growing – a simple glance at the work coming out of the likes of the Royal Court shows the strength of new talent.
 
-But one name has been at the forefront of British drama since his debut play, first staged at the 1966 Fringe and promptly picked up and produced at the __Old Vic Theatre__ (in its __National Theatre __days) in London.
+But one name has been at the forefront of British drama since his debut play, first staged at the 1966 Fringe and promptly picked up and produced at the Old Vic Theatre (in its National Theatre days) in London.
 
 After _Rosencrantz and Guildenstern are Dead!,_ a re-telling of the events of _Hamlet_ from the perspective of the titular courtiers, mere bit-parts in the original, was a storming success, Tom Stoppard’s name was made virtually overnight.
 

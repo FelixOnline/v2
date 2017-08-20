@@ -30,11 +30,11 @@ If you opt for caster sugar, you’ll get a lovely contrast between the very pal
 
 Also, if you really want to cut a few corners, use Sainsbury’s own brand chocolate toffee biscuit fingers as dupes for Twix.
 
-__Crust:__
+Crust:
  – 20 Oreos (a typical 154g package contains about 14)
  – 50g unsalted butter, melted
 
-__Cheesecake batter:__
+Cheesecake batter:
  – 450g cream cheese, softened (leave it out at room temp for 1-2 hours before using.)
  – 100g caster/brown sugar
  – 1⁄2 tsp vanilla extract

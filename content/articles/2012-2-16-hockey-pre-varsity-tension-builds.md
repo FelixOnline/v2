@@ -24,8 +24,8 @@ authors:
 highlights:
 ---
 
-__IC Men’s 2s__ – 1
-__Imperial Medics 2s__ – 1
+IC Men’s 2s – 1
+Imperial Medics 2s – 1
 
 The second encounter between IC Hockey Men’s 2s versus their Medic counterparts was always going to be an exciting fixture and it did not disappoint. Off the back of a mediocre performance in deepest, darkest and dirtiest Portsmouth last Wednesday, we were completely ready to spring back to winning ways.
 

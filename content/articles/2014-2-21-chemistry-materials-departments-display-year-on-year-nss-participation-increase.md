@@ -36,6 +36,4 @@ Nat Kempston, the Union’s Deputy President (Education) told _Felix_: “NSS pa
 
 The Faculty of Natural Sciences are offering £5 for every student who fills in the NSS, which goes to their Dep Soc or towards an end of year party (Maths), and many other departments are offering rewards for participation (Bioengineering are giving out t-shirts!). We will see where departments end up on April 30!”
 
-The National Student Survey, commissioned by the Higher Education Funding Council for England, started in late January and is set to close on April 30, final years can access the survey at: __www.thestudentsurvey.com__
-
-____
+The National Student Survey, commissioned by the Higher Education Funding Council for England, started in late January and is set to close on April 30, final years can access the survey at: www.thestudentsurvey.com

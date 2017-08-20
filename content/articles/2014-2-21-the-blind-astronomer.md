@@ -30,7 +30,7 @@ The play is centred round the life of Max, a planetarium astronomer, who gradual
 
 After its first UK tour last year, _Going Dark _is returning to London with a run at the Science Museum. I interviewed the co-founder of _Sound&Fury_, Tom Espiner, to find out how _Going Dark _came to life and what the link between art and science is, and might become.
 
-__How did the idea for the play come about? How did the link between going blind and space discovery emerge?__
+How did the idea for the play come about? How did the link between going blind and space discovery emerge?
 
 It’s an idea which had been on our minds for a long time. There were several impulses but one of the first ones was a real attraction for the building of a planetarium: it’s a tool for education and helps our scientific understanding of the universe, but it’s also a sort of secular temple, an intimate environment in which a lot of self-reflection happens. You’re confronted with the infinite, the very large, the wonderful.
 
@@ -38,7 +38,7 @@ We were also really interested in the idea of bringing together light, sound and
 
 We also started to find that there were some interesting parallels between the way in which we, as a human race over millennia, have seen and understood celestial objects, the scale of the universe, and the dynamics of light, with how we relate to what we see in the world around us: a correlation between cosmological understanding and our own understanding of our daily lives as we interact with the world. So: life through the eye and universe through the telescope.
 
-__How much of your play is based on scientific research?__
+How much of your play is based on scientific research?
 
 It started with late Prof Richard Gregory of the University of Bristol, a neuropsychologist who spent his whole life studying the relationship between the brain and the eye, and optical illusions. He’d come to see one of our previous plays and was really interested in how in the dark we could create images and sensations in our mind’s eye.
 
@@ -46,7 +46,7 @@ I also did a residency with Birmingham Physics and Astronomy department for nine
 
 We were funded by the Wellcome Foundation to work with experts in their field: we approached Dr Fitch, a psychiatrist specialising in visual consciousness and the hallucinations often brought on by loss of sight (Charles Bonnet syndrome), elements which were incorporated in our play. We also spoke to RP Fighting Blindness, who gave us insights into the details of going blind. Research is, and always has been, a major part of our work.
 
-__To what extent to you think that the increasing public availability to scientific knowledge is making people blind to its wonders?__
+To what extent to you think that the increasing public availability to scientific knowledge is making people blind to its wonders?
 
 We have a plethora of science communicators nowadays: I grew up with Carl Sagan, who for me was one of the best science communicators ever, and of course Brian Cox is all over the place – instilling wonder for anyone who wants to see him on TV.
 
@@ -58,13 +58,11 @@ There’s almost a tendency for scientists to become part of a sort of exclusive
 
 Dr Francisco Diego, vice president of the UK Association for Astronomy Education gave one of the post-show talks and said that in our character we had created someone who instilled wonder like the old-school communicators did – a style of science communication which just isn’t around as much anymore. Which is a shame: evoking wonder and excitement about science is a powerful tool.
 
-__Could _____Going Dark _____be a good model for Science Communication in the future? Or was this a one off instance of science reflecting the human story you wanted to convey?__
+Could _Going Dark _be a good model for Science Communication in the future? Or was this a one off instance of science reflecting the human story you wanted to convey?
 
 I believe that the story comes first and foremost, and there must be plausibility in the emotional story. I think it’s a very good way of bringing science understanding into the public domain, but it’s hard to achieve – a balancing act. Audiences are smart and they will pick up on something being didactically rammed down their throat. I do think one should strive to bring art and theatre together with science.
 
-______
-
-___Going Dark _____has been described as “an Imax without the pictures”, as it is an incredibly immersive experience thanks to the sounds and minimal lighting you use. How much does your work rely on advances in technology? __
+_Going Dark _has been described as “an Imax without the pictures”, as it is an incredibly immersive experience thanks to the sounds and minimal lighting you use. How much does your work rely on advances in technology?
 
 Ever since we started we’ve wanted to push the boundaries of the technological elements of theatre – partly because technology is getting better all the time. It has to be used with caution as you can easily overdose; once again, the core elements of a good story are essential. The more refined and delicate you can be with sound and light, the more detail you can bring out.
 

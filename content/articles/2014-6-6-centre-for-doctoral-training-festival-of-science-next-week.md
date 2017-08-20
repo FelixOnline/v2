@@ -28,4 +28,4 @@ The 2014 festival focuses on the theme of “Science and the Media”. Featuring
 
 The day is also an opportunity for the four CDTs to communicate with each other and gain a more detailed understanding of the work that is carried out in each field. This year we will have presentations of the achievements and aspirations of the outgoing cohorts of each CDT, this being the graduation year of the first cohort for many CDTs.
 
-Speakers will include Johnjoe McFadden, Brian Fuchs and Lewis Darnell. There is a poster competition with a £250 prize for the best poster as well as prizes for other entrants. Find out more at: __http://www.cdtfestival.co.uk__
+Speakers will include Johnjoe McFadden, Brian Fuchs and Lewis Darnell. There is a poster competition with a £250 prize for the best poster as well as prizes for other entrants. Find out more at: http://www.cdtfestival.co.uk

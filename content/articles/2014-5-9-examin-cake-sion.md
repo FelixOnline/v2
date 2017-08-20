@@ -27,11 +27,11 @@ Who doesn’t like cake? Even Latvia’s entry to this year’s Eurovision was a
 
 Yes, baking a beautiful cake might take patience and expertise, but if you just want some cake to satisfy your sweet tooth, it feels more like a science experiment. Essentially it’s just mixing, measuring and shoving the whole thing into the oven! Here are two easy and tasty recipes, which can be made with just a few cupboard ingredients.
 
-__The Magic Custard Cake__
+The Magic Custard Cake
 
 The magic comes with 3 layers of this bake, with just one batter!
 
-__Ingredients__
+Ingredients
 
 Four medium eggs
 
@@ -55,11 +55,11 @@ Pour the batter into the baking tin and cook for 50-60 minutes until the top is 
 
 Allow to cool completely (at least three to four hours) before slicing into the cake.
 
-__Green Tea Cake__
+Green Tea Cake
 
 (if you want something lighter)
 
-__Ingredients__
+Ingredients
 
 Three large eggs
 

@@ -21,7 +21,7 @@ authors:
 highlights:
 ---
 
-__The Motorola Xoom__
+The Motorola Xoom
 
 Motorola’s Xoom has been winning accolades from far and wide after it’s launch at CES. Boasting a feature set that puts Apple’s iPad in the shade, the tablet is a sure sign that tablet manufacturers are no longer looking towards Cupertino for inspiration.
 
@@ -29,7 +29,7 @@ In the processing department, the Xoom (pronounced ‘Zoom’) packs a hefty dua
 
 Even more interesting is the promise of Android’s tablet-oriented incarnation, Honeycomb, on the device. It’s this combination of leading hardware and software that’s leading people to call it the next ‘iPad killer’, a mighty title for a product yet to have a price or launch date.
 
-__Glasses-free 3D TV__
+Glasses-free 3D TV
 
 3D was a big theme at last year’s CES, as major players in the television market attempted to convince consumers that 3D should enter the home in 2010. One of the biggest stumbling blocks of any such attempt, however, was the fact that most forms of 3D hawked in Vegas last year depended on bulky, historically unpopular 3D glasses; a requirement that put off most consumers.
 
@@ -37,7 +37,7 @@ This year, manufacturers are going one step further and removing this age-old ba
 
 With 3DTV not making the sort of market inroads the big firms would have liked, glasses-free 3D might be the tonic that the industry needs, but the consumer has spoken - the burden of proof lies squarely with the manufacturers.
 
-__Slider Tablets__
+Slider Tablets
 
 New form factors are rare in technology, but in the rapidly growing tablet market there’s still huge potential for innovation.
 
@@ -45,7 +45,7 @@ Both Samsung and Asus brought out slider-tablets, ultra-thin screens backed with
 
 With other manufacturers perfecting the docking tablet form factor, it remains to be seen whether customers really want to be burdened with lugging a keyboard around at all times. Weighing in at nearly a kilo, for example, Samsung’s device might be competitive in the netbook class, but is significantly heavier than any competing pure tablet, a burden when you just want to watch a film on the way home from work.
 
-__The Motorola Atrix 4G__
+The Motorola Atrix 4G
 
 Motorola continued in the vein of its recent revival, with its Atrix 4G attracting high praise by those who saw it at CES. On the face of it, the Atrix is just another high-end Android smartphone - running NVidia’s Tegra 2 chip and sporting a crisp 960 x 540 display that gives most other phones in the category a run for their money.
 

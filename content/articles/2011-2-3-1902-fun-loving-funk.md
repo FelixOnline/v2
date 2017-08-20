@@ -28,7 +28,7 @@ Some people take music way too seriously. Praise Jeebus then for bands like [The
 
 We spoke about crazy dancing, gig size to satisfaction ratios and what they’ll bring on February 19th, when they headline [19.02](http://www.facebook.com/event.php?eid=122685684471563).
 
-__Have you guys always played funk?__
+Have you guys always played funk?
 
 Luke (guitar, vocals): Stuff of that genre-ish. We all love the Chilli Peppers. We started off by doing Chilli Peppers covers and then started writing songs together and this is how it turned out. This ended up being what we wanted to play.
 
@@ -40,7 +40,7 @@ Jamie: It works though. Because we all have so many different ideas. We set fire
 
 Luke: I’m trying to keep a straight face here.
 
-__What are some of your influences?__
+What are some of your influences?
 
 Luke: We all have properly different influences. We have lots of different ideas and we all have to decide together whether we like it or not. It’s difficult to mix and match.
 
@@ -58,7 +58,7 @@ Luke: It’s gonna keep changing. I dunno where we’re gonna end up but we’re
 
 Jamie: We definitely have an idea of where we’re heading, but if we didn’t progress all the time, we’d get bored of it. And then people would get bored of it. It’s great to keep just writing new stuff all the time.
 
-__Do you prefer big or small gigs?__
+Do you prefer big or small gigs?
 
 Luke: It kind of varies. We’ve had a few over the past few months that have been really quite big gigs. We played Proud Camden, we’re playing it again at the end of February. We’ve played some much smaller places. We started out doing a lot, hitting the scene, just for practice. Just get our music to as many people as we could. Really small places sometimes.
 
@@ -84,7 +84,7 @@ Luke: With different backgrounds there’s always gonna be some disagreement. We
 
 Jamie: That’s definitely what’s happened writing-wise over the past year. We released “Here comes the storm” about a year ago, and we’ve been promoting that for a year. In that time we’ve written loads of songs but I think we’ve only taken two out of there cos not everyone’s been comfortable with the songs we’ve written. It’s good because the response we’ve been getting from these new songs that have come out are amazing. People are absolutely loving them which is great. “Strawberry Swing”, that’s a great one. And it’s not a Coldplay reference, contrary to what people think.
 
-__What will you guys bring to 19.02?__
+What will you guys bring to 19.02?
 
 Jamie: The best music ever.
 

@@ -57,13 +57,13 @@ Student activism has been the life-blood of organic change in our society and it
 
 {{< figure src="http://felixonline.co.uk/img/upload/201206142057-ams111-studenthubgraph.png" title="" caption="" attr="" >}}
 
-__History of the Student Hub__
+History of the Student Hub
 
 Student Hubs was founded in 2007, originally in Oxford, by a group of students who had become frustrated at the lack of support for student volunteering and social action. A network of student groups formed, each focussing on different social and environmental issues – such as climate change, development, poverty, education, and homelessness.
 
 It wasn’t long before the Oxford Hub model was re-interpreted and tested in other universities, where students felt the need to boost the culture of giving back and social action. In early 2008, Cambridge Hub, Bristol Hub and Southampton Hub were founded. More recently, in 2010 and 2011 both a Brookes Hub and Warwick Hub were launched. And now, in 2012, Imperial College will be the first London University to launch a Student Hub.
 
-__About the Imperial Hub__ Imperial Hub provides support to students and projects, aiming to be the complete guide to events going on at Imperial of an ethical, charitable or socially entrepreneurial nature.
+About the Imperial Hub Imperial Hub provides support to students and projects, aiming to be the complete guide to events going on at Imperial of an ethical, charitable or socially entrepreneurial nature.
 
 Every Sunday Imperial Hub sends out ‘The Week’ to students subscribed to the Imperial Hub mailing list. This is an email summary of all the events on campus with an ethical or charitable focus, from talks to campaign actions, society meetings to conferences. You can sign up by going to the Imperial Hub website: http://www.imperialhub.org/
 

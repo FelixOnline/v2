@@ -30,9 +30,9 @@ highlights:
 
 Professor Sir John Pendry, FRS, holds a Chair in Theoretical Solid State Physics here at Imperial. In 2014 he was awarded the $1M Kavli Prize by the Norwegian Academy of Science and Letters in recognition of his work in the field of nano-optics. This article is a summary of an interview for Felix that took place on September 26, 2014.
 
-__Ben Fernando:__ So, would you mind telling me a little bit about me and your work?
+Ben Fernando: So, would you mind telling me a little bit about me and your work?
 
-__John Pendry: __Well, I started here in 1981, but thankfully they still pay me so I guess I must still be considered worthwhile! When I arrived here I was interested in surface structure and catalysis. I worked on electron diffraction data and surface crystallography, before looking at how waves move in disordered solids. This is a really difficult thing to do, and most of my work was ignored at the time and is only now coming to the fore.
+John Pendry: Well, I started here in 1981, but thankfully they still pay me so I guess I must still be considered worthwhile! When I arrived here I was interested in surface structure and catalysis. I worked on electron diffraction data and surface crystallography, before looking at how waves move in disordered solids. This is a really difficult thing to do, and most of my work was ignored at the time and is only now coming to the fore.
 
 One result that was really important from all this came about when I was looking at the transmission of light through disordered materials – those where the light isn’t absorbed, but also isn’t transmitted because it’s all scattered away. An example would be, say, a bottle of snow.
 
@@ -72,8 +72,8 @@ By doing different mathematical transformations on the silver, we can create all
 
 We’ve also been looking into developing phased radar arrays, which instead of sweeping a beam around the sky simply sit on a silicon block that delivers the right phase of light to the lens. When a specific phase hits a specific part of the lens it sends the light in a particular direction. These could be a lot cheaper and plug into a USB port, so Bill Gates is interested as it might enable internet access to be brought to remote communities, for example in Africa. Or we might be able to use this to do MRI scans that are less risky as there are no RF fields going all over the place that can heat things up in your body.
 
-__BF: __Wow. That’s quite a set of achievements! I don’t even know where to start or what to ask. I’ll need some time to think about it I guess. For now though, just one question: are you hoping to get any more invites from Scandinavian Academies, perhaps to Stockholm?
+BF: Wow. That’s quite a set of achievements! I don’t even know where to start or what to ask. I’ll need some time to think about it I guess. For now though, just one question: are you hoping to get any more invites from Scandinavian Academies, perhaps to Stockholm?
 
-__JP: __I would like to have a flat in central London one day, so that would be nice! I had a lovely week in Norway when I won the Kavli, so we’ll see what happens next.
+JP: I would like to have a flat in central London one day, so that would be nice! I had a lovely week in Norway when I won the Kavli, so we’ll see what happens next.
 
-__BF: __Good luck! We’ll be in touch.__
+BF: Good luck! We’ll be in touch.

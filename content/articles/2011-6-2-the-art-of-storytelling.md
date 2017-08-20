@@ -28,7 +28,7 @@ highlights:
 
 Do you remember that one time when you stumbled upon a book that captivated you so much you could skip meals and read it way beyond bedtime just because you couldn’t bear to tear yourself away from the pages? Or that pang of sadness and longing as you came to the end of the novel and had to part with the wonderful cast of characters with whom you travelled though the pages of the book? There’s one thing in common with those books: good storytelling. Here’s a brief rundown of the cogs and gears of what makes a story engrossing.
 
-__Plot and pace__
+Plot and pace
 
 Plot is pretty much defined as ‘something happening’. Though plot is the backbone of the story, it’s surprising how many modern novelists forgo plot in the name of avant-garde experimentation, resulting in a piece which feels pretentious. Without a plot, a story is just a mumbo-jumbo of events.
 
@@ -42,7 +42,7 @@ On the other side of the coin, there is the deus ex machina, a plot device which
 
 The importance of plot goes way back into the antiquities: Aristotle, discussing dramatic theory in his seminal Poetics, considered plot more important than characters. Which brings us to the next main element of a story.
 
-__Characters__
+Characters
 
 Is characterisation second to plot in what makes a story good? Would Vladimir Nabokov’s Lolita achieve the masterpiece status it enjoys had Humbert Humbert not been the colourful and intriguing character he is? Would Yann Martel’s Life of Pi have won the Booker had Pi been merely as interesting as a pie? Going further back, would Milton’s Paradise Lost have stayed eternal had it not been for the charismatic Satan?
 
@@ -54,7 +54,7 @@ Or you can just make him or her tragically flawed like the Miltonian Satan whose
 
 Or it could be just that the readers find it easy to relate to the protagonist. Bella Swan of the Twilight Saga is probably the most one-dimensional character in modern literature but yet an empire was spun out of the Twilight books and movies (Kristen Stewart is no better at playing her) because she lives the dream girls and Twilight mums around the world can only fantasise about. Harry Potter started out interesting as he struggled to come to terms with the sudden heap of fame and infamy dropped on his lap as he stepped into Hogwarts for the first time, but in the last few books, he seems to have his gearstick jammed at the angsty teenager gear.
 
-__Narrative and style__
+Narrative and style
 
 A good story stays in the mind of the reader after they finish the book, but a good story with great delivery etches itself on the memory of the readers. Storytelling methods have changed drastically from the Dickensian time when an omnipotent third person narrative is conventional. The first person narrative is the norm for modern literature; the argument is that it allows the readers to get into the mind of the character more easily. The third person POV is still alive, though more often in science fiction and fantasy where there is a more pressing need to describe the world around the characters while modern literature prefers to deal with the internal, emotional environment of the character.
 
@@ -62,6 +62,6 @@ Narrative became more creative in the 20th century with literary colossuses Jame
 
 Experimentation with language forms the other facet of storytelling. No writer other than Vladimir Nabokov has such eminence as an English prose stylist. His Lolita remains the epitome of prose style; it’s the only prose work that exudes such finesse in wordplay and wit and an abundance of luxuriant imageries that it reads like poetry.
 
-__Putting it all together__
+Putting it all together
 
 Impeccable plot and pace, brilliant characterisation and innovative narrative are tenets of a good story but of course they are not the only elements that make a classic out of a novel. Ayn Rand’s Atlas Shrugged has not the best writing nor narrative (it desperately needs an editor to trim it down), but its ambitious and controversial themes were what writ her name and the novel on stone. Nevertheless, those three elements are the fundamentals of most good storytelling and are executed to perfection in some of our most cherished stories.

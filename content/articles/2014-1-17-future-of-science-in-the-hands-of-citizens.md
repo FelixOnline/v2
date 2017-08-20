@@ -36,4 +36,4 @@ But citizen science isn’t all about science; for those of you involved with In
 
 As citizen science’s momentum continues to grow, it’ll be interesting to see whether more of science research will permeate into our daily lives. In the meantime, projects are already up and running, so let’s go exploring!
 
-If you are interested to find out more about Zooniverse and citizen science in general, and how such projects could engineer social and educational change, then be sure to attend Imperial Hub’s THE Series: Citizen science in future research and science education on Thursday, 23/1. The talk lasts for only 1 hour and is FREE. Prior registration required at __hubseries.eventbrite.com. __
+If you are interested to find out more about Zooniverse and citizen science in general, and how such projects could engineer social and educational change, then be sure to attend Imperial Hub’s THE Series: Citizen science in future research and science education on Thursday, 23/1. The talk lasts for only 1 hour and is FREE. Prior registration required at hubseries.eventbrite.com.

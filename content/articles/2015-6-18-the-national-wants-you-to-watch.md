@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-Following on from _Beyond Caring_ in the __National__’s__ Temporary Theatre__, _We Want You to Watch_ is the latest venture from producing trio RashDash, written together with Alice Birch.
+Following on from _Beyond Caring_ in the National’s Temporary Theatre, _We Want You to Watch_ is the latest venture from producing trio RashDash, written together with Alice Birch.
 
 Very little is available about the show – the synopsis is a collection of short, abrupt sentences that let you know “this is about pornography.” And that it’s against pornography. That too.
 

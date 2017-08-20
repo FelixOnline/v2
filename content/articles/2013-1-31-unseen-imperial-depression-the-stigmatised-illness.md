@@ -28,7 +28,7 @@ highlights:
  - longread
 ---
 
-__What is Unseen Imp____erial?__
+What is Unseen Imperial?
 
 Unseen Imperial is a project that aims to talk about the things that we don’t really feel comfortable about, but they are there if you scratch the surface. Mental health, discrimination, bullying; all the things that sometimes we pretend aren’t happening right under our noses. It is a forum/campaign/discussion – whatever you want to call it, a project to get people talking about these ‘uncomfortable’ issues so that hopefully work can be done as a community towards de-stigmatising them. – _Becky Lane, Deputy President (Welfare)_
 

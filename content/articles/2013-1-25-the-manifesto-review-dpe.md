@@ -67,11 +67,11 @@ In addition to this, I asked each Departmental Society committee to set up a Fre
 
 The A-Z reps system was also launched in November, which allows any student to find any academic rep in any department and is regularly updated. If you log into Imperial College Union’s website it will even show you who your rep is on the “Your Union” page.
 ## “Carry on the former DPE’s work, which includes campaigning for lecture podcasts and improving the buddy system.”
-__Lecture podcasts__
+Lecture podcasts
 
 So at the end of the last academic year, the College publicly stated that it plans to roll out audio and video lecture podcasts. This is taking place over the next few years but students are generally disgruntled by the speed this is happening. ICT are rolling it out at a steady pace as they wish to ensure the quality of the service e.g. make sure they can handle the large amount of data uploaded every day. Paul and I both gave the College silver with respect to this in the NSS response for the slow rolling out pace and have had a meeting with ICT regarding this issue, reiterating that students aren’t happy with it taking so long.
 
-__Mums and Dads__
+Mums and Dads
 
 This year the buddy scheme was rebranded as Mums and Dads, which saw the highest percentages of Freshers entering their data and the highest number of parents signing up to the scheme. This was accomplished by me working with the Departmental Societies and Dep Reps over the summer. This also would not have been possible without the Union System Administrator, Philip Kent setting up the online matching system and showing the live percentages by subject (this proved very useful for the Dep Socs and Dep Reps).
 

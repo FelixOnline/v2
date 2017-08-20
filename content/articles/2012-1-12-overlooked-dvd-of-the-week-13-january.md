@@ -29,9 +29,9 @@ highlights:
 
 ###  The Whistleblower
 
-__Director __Larysa Kondracki
-__Screenwriter__ Larysa Kondracki
-__Cast __Rachel Weisz, David Strathairn, Monica Bellucci, Vanessa Redgrave
+Director Larysa Kondracki
+Screenwriter Larysa Kondracki
+Cast Rachel Weisz, David Strathairn, Monica Bellucci, Vanessa Redgrave
 
 Why this important, superior thriller only made the direct-to-DVD release is anyone’s guess but The Whistleblower, one woman’s quest for justice in which she has to go after a powerful group of individuals, may sound familiar and predictable, but anchored by a strong lead performance, assured direction and a solid script, is an unmissable treat.
 

@@ -23,15 +23,15 @@ authors:
 highlights:
 ---
 
-__BIG HERO 6__
+BIG HERO 6
 
-__Directors: __Don Hall, Chris Williams
+Directors: Don Hall, Chris Williams
 
-__Screenplay: __Jordan Roberts, Daniel Gerson, Robert L. Baird
+Screenplay: Jordan Roberts, Daniel Gerson, Robert L. Baird
 
-__Cast: __(voice) Scott Adsit, Ryan Potter, Daniel Henney, T. J. Miller, Jamie Chung, Damon Wayans Jr., Genesis Rodriguez, James Cromwell
+Cast: (voice) Scott Adsit, Ryan Potter, Daniel Henney, T. J. Miller, Jamie Chung, Damon Wayans Jr., Genesis Rodriguez, James Cromwell
 
-__Rating: 4/5__
+Rating: 4/5
 
 With an exponential rise in the number of superhero films hitting the screens over the next few years, why not have another one, this time in animated form? Based on a Marvel comic of the same name, Walt Disney has launched a sort-of independent outing of superheroes who are not linked to the Marvel Cinematic Universe in any way.
 

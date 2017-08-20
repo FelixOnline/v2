@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__Robocop__
+Robocop
 
-__Director:__ José Padilha
+Director: José Padilha
 
-__Writer: __Joshua Zetumer
+Writer: Joshua Zetumer
 
-__Starring: __Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley
+Starring: Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley
 
-__Runtime: __118 minutes
+Runtime: 118 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 4/5
 

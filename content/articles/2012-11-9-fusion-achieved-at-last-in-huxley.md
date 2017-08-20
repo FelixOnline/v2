@@ -29,7 +29,7 @@ I met Geraldine Cox in a windy garet on the roof of the physics building. The ab
 
 Over the sound of the howling wind we begun to talk about here experiences and her work. As we chatted a rainbowformed over Hyde Park.
 
-__Meredith: When did you start this residency?__
+Meredith: When did you start this residency?
 
 Geraldine: Well, it’s hazy. I started thinking about connecting physics with art about three years ago.
  I originally did a degree in Physics then I worked for Accenture for a few years. You don’t need to mention that [laughs]. Then I went to art school for four years. After you’ve learned to be an artist and you’ve learned to paint, you ask yourself – “what shall I make work about? What do I want to say?”
@@ -40,19 +40,19 @@ To me it was personal in the sense that it was like pulling strands together in 
 
 I was incredibly lucky, I went to a talk one night and met the speaker – he put me in touch with Terry Rudolf who works in quantum information. I’d had forgotten all my physics so I started reading books. It was formally, April the 1st, 2011 when the Leverhume Trust paid for an award to do that first year of work. That’s when people started calling me the artist in residence, which is a title that I never have aspired to.
 
-__M: How would you describe yourself and your work?__
+M: How would you describe yourself and your work?
 
 G: I really try to avoid any labels. Sometimes my work is educational or documentary and sometimes it is expressive or poetic. Sometimes it is about the science, sometimes it is about the people. I don’t really worry about it. I call myself an artist, but that is because I am interested in expressing different ideas. But the artist in residence thing is a bit too formal for me.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211091313-tna08-].jpg" title="" caption="" attr="" >}}
 
-__M: So what did you feel that you could gain from this relationship you have with the physics department... whatever it is?__
+M: So what did you feel that you could gain from this relationship you have with the physics department... whatever it is?
 
 G: Well, I didn’t have a clear idea when I started. I felt that there were things there that were really worth exploring and expressing as an artist. Other than that I had really no idea what I expected.
 
 I decided that, this is goingto sound a bit flaky, a bit arty-farty, but I decided that I wanted to make work that was really optimistic, about the best that humans can be. It is a really interesting aspect of humanity. I wanted to talk about humans and discovery and how they see the world. I think, philosophically there is a lot that can be learned from science for life in general. There is a sense of the power that it gives you, but also the humility. You understand the limits of your knowledge.
 
-__M: How much of a difference did your science background make?__
+M: How much of a difference did your science background make?
 
 G: Massive. It makes all thedifference. Even though when I started I was incredibly rusty. I read over 30 books in the first year. I couldn’t even think about an electron when I first met Terry.
 
@@ -60,14 +60,14 @@ When I got here I did nothing for three months apart from speak to people, just 
 
 It is the idea that you see something here and extrapolate it somewhere else and you get a deeper understanding of physics. It is incredibly exciting. You get these things that just pop up again and again on all these different scales around the world and the universe. That we can even see that and map that is amazing. Yes the physics I think is just a massive help.
 
-__M: Has the experiencelived up to your expectations?__
+M: Has the experiencelived up to your expectations?
 
 G: The thing about being here is that your mind is constantly being stretched because you are always experiencing and thinking of the world in different ways – developing different abstract models all the time. It’s just incredibly exciting. It’s more exciting than a lot of art. The ideas come so thick and fast here and it colours in your mental image of the world. So for me – this is the most stimulating place to hang out. M - Wow! Newsflash! You can definitely have too many physicists in one room. Definitely... more than two [laughs].
 
 My own experience of life is richer because anything I look at has layers of meaning. I can look at the poem I read yesterday that makes me look at the world in a different way, or I can look at what is happening to the light bouncing off the tree down there. It just makes every moment richer.
  One of the things I am really interested in is how physics identifies patterns. My project is called finding patterns. So that was a notion, and idea I had at the start. I see it really strongly now, the name is really the right name.
 
-__M: Do you feel that there is a big void between the art world as you experienced it and academia and the sciences?__
+M: Do you feel that there is a big void between the art world as you experienced it and academia and the sciences?
 
 G: I have to be so careful with this. You can be so inflammatory. This feels like home to me. I can really talk to people here. Ifeel like I understand the way they think. I am less at home in the art world and I’m not sure why that is.
 
@@ -81,17 +81,17 @@ In a way they are complementary, not competing. Part of what I am trying to do i
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211091313-tna08-gcrgb.jpg" title="" caption="" attr="" >}}
 
-__M: Where do you think these differences arise?__
+M: Where do you think these differences arise?
 
 G: Maybe our education system silos people too much, separating them out into art and science and having very different ways of thinking. I’m not sure it has to be like that. I meet young people all the time who feel this way and are trying to bridge the gap and talk about the world in all its beautiful complexity by whatever means they can.
 
 I do think that people like black and white and I think everybody could do better if they were more curious about things. More open to uncertainty, which is everywhere.
 
-__M: How do you explain your work to scientist and engineers who may be more sceptical?__
+M: How do you explain your work to scientist and engineers who may be more sceptical?
 
 G: I don’t really come across any overt scepticism, not after the first few minutes. People are very generous with their ideas and time. I always try to listen and learn as openly and attentively as possible and give something back. It is always a dialogue.
 
-__M: Can you give me some examples of projects you have worked on while you have been here?__
+M: Can you give me some examples of projects you have worked on while you have been here?
 
 G: I have made so many things and think of each one like a short poem – some hitting the mark or finding resonance better than others
 
@@ -105,13 +105,13 @@ It’s a pop up so it can just pop up anywhere. It can go onto the street or int
 
 There will be all sorts of different things we could show like Chalkboard for example to give people a sense of some of the work that goes on here in a more sensory way I suppose. It’s the poetics of discovery.
 
-__M: Is there something unique about physics because it is so fundamental to our very existence. Do you think you would ever see yourself working other departments?__
+M: Is there something unique about physics because it is so fundamental to our very existence. Do you think you would ever see yourself working other departments?
 
 G: I think I am really attracted to physics. What is it with physics? I think what personally I love the investigation into the inanimate. It is just purely a question of finding out more about the world, no matter how many business cases physicist write to say ‘that this is to make that, or this will help us make that’. Fundamentally it is curiosity based. and I love the purity of that.
 
 There is lots of good work going on other fields. But I think that pure curiosity is probably the essence of my project. And there is a great beauty in the creation of abstract models and testing and applying them around the universe. Like a casting of the human mind. It is a powerful thing to do, but also comes with great limitations inherent in the human mind. This story of power and humility is also a part of my project.
 
-__M: Do you ever feel yourself drawn to go into research yourself?__
+M: Do you ever feel yourself drawn to go into research yourself?
 
 G: I think I don’t have what it takes. I like exploring different ways of expressing ideas and as a friend of mine said the other day: we absolutely do not want self expression in the laboratory. On the theory side, I haven’t got the head for the maths and probably and on the experimental side, maybe I haven’t got the patience.
 
@@ -119,7 +119,7 @@ There is possibly useful work that I am doing. There is something strange about 
 
 I’m walking around all the time and asking questions and playing things back to people. Telling it in a different way. People say that it actually helps them think about physics. So there is some role I can play that’s of benefit as an artist. Although it is not helping in any direct way a person’s research. It seems to me that scientists can enjoy the work I produce for the guy on the street as much as the guy in the street.
 
-__M - Do you think every department shouldhave a... someone in your role?__
+M - Do you think every department shouldhave a... someone in your role?
 
 G: You know, I really don’t know. It all depends on the people – it’s not something that can necessarily be organised by shipping artists into organisations. There can certainly be great benefits.
  This is a very personal project for me, it’s very philosophical and personally driven, so I behave in a certain way. The reason I am not looking at working in other departments, is also that I am overwhelmed here. It is a really big department, I’ve changed track so many times in my life, I just can’t go and do it again. This is really enough. This is a big pie to eat.

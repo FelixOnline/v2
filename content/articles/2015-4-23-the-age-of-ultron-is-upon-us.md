@@ -28,13 +28,13 @@ highlights:
  - longread
 ---
 
-__Director: __Joss Whedon
+Director: Joss Whedon
 
-__Screenplay: __Joss Whedon
+Screenplay: Joss Whedon
 
-__Cast: __Robert Downey Jr., Chris Evans, Jeremy Renner, Scarlett Johansson, Mark Ruffalo
+Cast: Robert Downey Jr., Chris Evans, Jeremy Renner, Scarlett Johansson, Mark Ruffalo
 
-__Rating:__ 5/5
+Rating: 5/5
 
 There’s a lot to be said about sequels and their relationships to their predecessors, and it’s almost all been said before. So with the usual preamble resoundingly skipped, the heart of the matter is this: _Age of Ultron _very much shares the traditional trait of being a ‘darker’ sequel. It sheds the bombast and excitement of the first _Avengers _film for something more intense, more personal, and ultimately more fulfilling.
 
@@ -68,7 +68,7 @@ All this talk of character beats and emotions doesn’t mean _Age of Ultron _doe
 
 Whedon knows that what was magical once won’t necessarily be magical again, and he’s delivered a different film that satisfies those needs while also providing something more. It’s not as euphoric as _Avengers_, but that may well have been asking the impossible, and the unnecessary. In place of the euphoria comes something more mature and more meaningful. Where there was once only the fight, now there is a reason to keep fighting. You can’t ask for more than that.
 
-__But what about the 3D?__
+But what about the 3D?
 
 As with almost every major blockbuster being released these days, Age of Ultron has been released in both 3D and 2D. But is the extra spend on the 3D worth it?
 

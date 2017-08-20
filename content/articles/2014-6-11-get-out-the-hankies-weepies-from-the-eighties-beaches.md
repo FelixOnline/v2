@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Beaches (1988)__
+Beaches (1988)
 
-__Director:__ Garry Marshall
+Director: Garry Marshall
 
-__Writers: __Mary Agnes Donoughe, Iris Rainer (novel)
+Writers: Mary Agnes Donoughe, Iris Rainer (novel)
 
-__Starring: __Bette Midler, Barbara Hershey
+Starring: Bette Midler, Barbara Hershey
 
-__Runtime: __123 minutes
+Runtime: 123 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 3/5
 

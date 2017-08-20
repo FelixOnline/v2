@@ -38,4 +38,4 @@ Sean Dunne in centre half forward made some good catches, but showed he was a fo
 
 With a few pints in the bar, Imperial and the Mary’s lads agreed that the test drive of the amalgamated team had been successful, looking forward to next Saturday when we hope to bring it to the Northern and Scottish Universities who don’t know what’s coming!
 
-_Contact __gaelic.sports@imperial.ac.uk __for any information on the team_
+_Contact gaelic.sports@imperial.ac.uk for any information on the team_

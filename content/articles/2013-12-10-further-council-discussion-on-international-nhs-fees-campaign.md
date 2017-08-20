@@ -57,7 +57,7 @@ Member #1: Clarfication: The survey was more to gauge the reactions of intl. stu
 
 1920: Proposer: Well, I think that the issue is that people's votes should not be ignored.
 
-__Vote: 2 votes for the paper. One abstaining. Majority against. __
+Vote: 2 votes for the paper. One abstaining. Majority against.
 
 Next paper: [Union stance on cycling in London](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/13-14/Union_Council/file/2277)
 
@@ -73,7 +73,7 @@ Next paper: [Union stance on cycling in London](https://www.imperialcollegeunion
 
 1934: DPW: Proposal to chance the title of the paper to focus in cycling infrastucture.
 
-__Vote: Majority vote for the paper.__
+Vote: Majority vote for the paper.
 
 Next paper: [Motion on the Criminalisation of Student Protest with addendum](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/13-14/Union_Council/file/2280)
 
@@ -99,54 +99,54 @@ _There seems to be a general agreement with the paper, apart from the request to
 
 2004: _Council chair proposes a vote on the notes and beliefs of the paper_.
 
-__Vote: Majority vote for paper's notes and beleifs.__
+Vote: Majority vote for paper's notes and beleifs.
 
 Votes on indiviual resolves:
 
 1. To declare our refusal to be intimidated by these recent events.
 
-__Majority for__
+Majority for
 
 2. To condemn and campaign against violent policing perpetrated against
  peaceful student protests.
 
-__Majority for__
+Majority for
 
 3. To condemn and campaign against the arrest of the president of ULU and the imposition of disabling bail conditions.
 
-__Majority for__
+Majority for
 
 4. To condemn and campaign against any University’s use of violent policing and internal disciplinaries to curtail nonviolent protest.
 
-__Majority for__
+Majority for
 
 5. To support and defend any ICU member subjected to violent policing or internal disciplinary for nonviolent protest.
 
-__Majority for__
+Majority for
 
 6. Where feasible, to send delegations to protests and meetings called at ULU and the University of Sussex regarding this issue
 
-__Majority against. (Voted on twice after confusion on votes)__
+Majority against. (Voted on twice after confusion on votes)
 
 7. To release a statement describing this policy.
 
-__Majority for __
+Majority for
 
 8. To write to the Metropolitan Police informing them of this policy.
 
-__Majority for__
+Majority for
 
 9. To write to the president of ULU, informing them of this policy, expressing our solidarity and requesting further coordination to enact this policy.
 
-__ Majority for__
+ Majority for
 
 10. To describe recent events and solicit ICU members’ relevant personal experiences via the all-student e-mail.
 
-__Majority falls.__
+Majority falls.
 
 11. To form a working group to enact this policy
 
-__Majority for__
+Majority for
 
 12. To condemn the aforementioned mass arrest of protestors, journalists and
 
@@ -156,12 +156,12 @@ Majority for
 
 13.To condemn the use of bail conditions to suppress nonviolent protest.
 
-__Majority for__
+Majority for
 
 14. To condemn the use of unnecessary bail conditions which prevent students
  from studying.
 
-__Majority for__
+Majority for
 
 Proposer to organise working group.
 

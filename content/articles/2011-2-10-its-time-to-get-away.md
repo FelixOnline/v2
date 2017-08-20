@@ -27,7 +27,7 @@ Travelling alone is liberating: you can embrace people and experiences no holds 
 
 Travelling together is a bit like moving in, but a lot more intense. I guarantee that in sweltering heat and constantly in each other’s detestable company you’d soon rather be back on the Piccadilly Line, scratching your arse with your copy of the Metro, instead of gazing up at Christ the Redeemer.
 
-__Bon voyage to the budget__
+Bon voyage to the budget
 
 Oh sure, by shacking up and sharing a room it’ll probably work out marginally cheaper over the course of a long trip. I mean hey, you’re getting a room for two for less than the cost of two separate rooms, right? Well unfortunately that’s where the cost benefits of travelling as a couple end. In fact, the above logic could probably apply to tagging along with a group of fun-loving Mexicans, or just sticking to much more social dorms.
 
@@ -35,13 +35,13 @@ Couples like to do nice things. They like to eat in fancy restaurants, opt in fo
 
 And those dastardly looky-looky men that you’ve finally learnt to handle? They suddenly become a lot more ruthless. They see you coming as a couple and treat you like you’re thicker than the fat yank in the baseball cap beside you. Yes, the babbling idiot with the thick Texan accent who gets angry at the slum child for not understanding him as he requests directions, and inadvertently coats the young boy in flecks of spit when he speaks. You’re now on the same level as this guy. The looky-looky men will bleed you dry and make you pay for your monogamy.
 
-__The detestable royal “we”__
+The detestable royal “we”
 
 Ah, the royal “we”. It’s an inviting little comfort zone, isn’t it? No need for the repeated trivial conversations with people on bus journeys now, you can just further bow down to being the travelling equivalent of a Fifties housewife. Couples are the most difficult group to interact with on the road – they’re like, totally on another level of understanding of each other’s consciousness: you wouldn’t understand.
 
 Oh sure, you might rock another look: you’re one of those chilled couples who pride themselves on being social with everyone in their path. Congratulations on breaking a tiring cliché, but don’t expect anyone else to avoid the stigma. While you may have overcome the stereotypes, people will still avoid you like the plague. If you travel as a couple, you come as a package. To the people around you this package is a time bomb that they’ll do everything to avoid.
 
-__Bickering and bus bathrooms__
+Bickering and bus bathrooms
 
 The following figures are from a real life case study. Young Jimmy spent three weeks on holiday with his girlfriend, took 500 photos, of which about two look worthy of appearing in a holiday brochure. Said two photos took ten seconds to pose for – ten seconds out of 1.8 million seconds spent on holiday. Yet those photos are for some reason always the emphasis.
 

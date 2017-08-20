@@ -22,9 +22,9 @@ highlights:
  - longread
 ---
 
-__Day the First: __
+Day the First:
 
-__The Day We Didn’t Sleep__
+The Day We Didn’t Sleep
 
 On a chilly Winter day (Friday the 17th of December to be precise), thirteen Fellwanderers gathered for the Lake District Winter Tour, blissfully unaware of the epic three days that awaited them. It didn’t take long for things to start going wrong. Our intrepid President, Sir Jim Carr, blighted by a horrific cough, could not leave his London residence, so we left the union at 5pm with one less voice to sing along to the 5 CDs of Christmas music we had stockpiled.
 
@@ -34,9 +34,9 @@ Bad luck struck us again as we trundled along the M6; traffic began to form and 
 
 On waking some indeterminate time later (Radio 4 told me that the Hobbits had reached Mordor) I realised that some intrepid explorers had left the minibus stronghold to hear rumours of when we would move again, how bad the crash ahead was and, in Alex the Grey’s case, to walk up the M6 to attempt to see the beginning of the queue. Returning as Alex the White (covered in snow), he hadn’t seen the end. This, and the fact someone highlighted the problem that none of us had crampons, made me roll over and go back to sleep on that very white and spooky M6. I woke to an even whiter M6 (Lord of the Rings had finally ended), and rumours of movement were circulating. It was 3.45am. We had been stationary for 4 hours. Finally, at 4.30am, on Saturday the 18th of December, we started to move and there was much rejoicing. For the lorry in front of us, there was more concern than rejoicing, as the driver had lost his keys in the snow. Phil Power manoeuvred the bus around the lorry and after 5 hours spent staring at the back of it, burning the logo into our brains, we were happy to be rid of it.
 
-__Day the Second (technically): __
+Day the Second (technically):
 
-__The Entrance To The Hut__
+The Entrance To The Hut
 
 All I know about the rest of the journey to the hut is that Phil was the first to fall from our company, and there was much rejoicing (because he was staying with another group, not because we don’t like him).
 
@@ -46,9 +46,9 @@ After the initial ascent, we found ‘The Mine of Darkness’. The long, winding
 
 On returning to the hut, we relaxed with some tasty vegetable stew and a few ales. We were hit with more bad news however: the pipes had frozen.
 
-__Day the Third: __
+Day the Third:
 
-__Great Gable __
+Great Gable
 
 Sunday morning was marked by cat-like screeching, or as Joe and Alex liked to call it, singing. No wonder then, despite the freezing cold and lack of running water, we were up and ready so quickly.
 
@@ -58,9 +58,9 @@ The warm, steep ascent lead us to a beautiful scene of crystal clear skies to th
 
 On returning to the hut, a glorious Christmas dinner was had, with two types of gravy and enough stuffing for 5,000. The Secret Santa gifts followed and all were appreciated, especially the shoes, ale, cheesecake and selection of cream buns. All warmed with the roaring fire and after a second application of books and ale, we went to bed.
 
-__Day the Fourth: __
+Day the Fourth:
 
-__Amazing Blencathra Views__
+Amazing Blencathra Views
 
 The last day was perhaps the most enjoyable. We woke early and made our way to one of the most northerly Lake District mountains – Blencathra. We ascented the peak steadily and the spectacular views were complimented serendipitously by the rising sun. At the summit the clear skies allowed us 360° views of the surrounding landscape; it was breathtakingly beautiful.
 

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Bad Neighbours__
+Bad Neighbours
 
-__Director:__ Nicholas Stoller
+Director: Nicholas Stoller
 
-__Writers: __Andrew J. Cohen, Brendan O’Brien
+Writers: Andrew J. Cohen, Brendan O’Brien
 
-__Starring: __Seth Rogen, Rose Byrne, Zac Efron, Dave Franco
+Starring: Seth Rogen, Rose Byrne, Zac Efron, Dave Franco
 
-__Runtime: __96 minutes
+Runtime: 96 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 4/5
 

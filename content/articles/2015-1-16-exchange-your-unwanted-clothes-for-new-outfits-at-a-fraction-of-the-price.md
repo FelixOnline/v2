@@ -28,7 +28,7 @@ highlights:
  - longread
 ---
 
-__Do you want to take part in the first Clotho exchange on campus? Click attending on their [facebook event now ](https://www.facebook.com/events/904659219552534/)and don't forget to bring your clothes to Sherfield lobby on Tuesday the 20th and Thursday the 22nd of January. __
+Do you want to take part in the first Clotho exchange on campus? Click attending on their [facebook event now ](https://www.facebook.com/events/904659219552534/)and don't forget to bring your clothes to Sherfield lobby on Tuesday the 20th and Thursday the 22nd of January.
 
 Our story began two months ago, when we founded our sustainable fashion business – Clotho London. The day of our graduation, swathed in black robes amongst the deep reds and grand mahogany of the Royal Albert Hall, we twitched with excitement in our seats as our phones buzzed. Each buzz signified another transacting customer, another sign of validation that all our previous efforts had not been completely crazy.
 

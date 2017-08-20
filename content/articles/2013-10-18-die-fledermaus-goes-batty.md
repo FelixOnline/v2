@@ -24,10 +24,10 @@ authors:
 highlights:
 ---
 
-__What:__ Die Fledermaus with the English National Opera
-__Where:__ London Coliseum
-__When:__ Until 6th Nov 2013
-__Price:__ Various
+What: Die Fledermaus with the English National Opera
+Where: London Coliseum
+When: Until 6th Nov 2013
+Price: Various
 
 Die Fledermaus, the Bat, is an operetta by the king of the Viennese waltz, Johann Strauss Jr. Operetta, the ancestor of today’s musicals, is an entirely different affair from opera. The plots are frivolous and funny and mostly carried through dialogue with punctuating musical numbers. Through its development in the 19th century it became extremely popular for its crude humour, which bordered on the pornographic. Eventually even professional and ‘serious’ opera houses began to stage operetta, albeit in a toned-down style.
 

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Nothing but the Truth__
+Nothing but the Truth
 
-__Director:__ Rod Lurie
+Director: Rod Lurie
 
-__Writer: __Rod Lurie
+Writer: Rod Lurie
 
-__Starring: __Kate Beckinsale, Matt Dillon, Angela Bassett, Alan Alda, Vera Farmiga, David Schwimmer
+Starring: Kate Beckinsale, Matt Dillon, Angela Bassett, Alan Alda, Vera Farmiga, David Schwimmer
 
-__Runtime: __108 minutes
+Runtime: 108 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 4/5
 

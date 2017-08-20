@@ -28,12 +28,12 @@ How much food do we throw away? Well, a quick survey in the EEE Level 5 labs sho
  In response to this, Tesco has announced that it will end multi-buy deals on large bags of salad, removing “display until” dates from fresh fruit and vegetables, using smaller delivery cases and rearranging the bakery display to reduce the amount of bread sold in store.
  The UK government estimates that 7.2 million tonnes of food and drink were thrown away from homes every year, of which the majority can still be eaten. This comes to a cost of £12 billion a year for its effect to environment and wastes resources. A report released by the Institution of Mechanical Engineers have found up to 30% of the UK’s vegetable crop is never harvested purely for cosmetic reasons. These are the marketing policies many supermarkets adopt to meet consumer expectations: rejecting edible fruit and vegetables at the farm because of its physical characteristics, such as size and appearance.
 
-__How about Imperial?__
+How about Imperial?
 
 There are around 22,000 students and staff at Imperial, and collectively we consume a lot of food every day, but do we eat it all? The College has been separating food waste from Taste Imperial outlets at South Kensington and composting it on site instead of sending it to landfill. Its data shows that the compost processes nearly 2 tonnes of food waste a week, which includes unsold leftovers and food left on the plate. This is quite a staggering amount, bearing in mind this does not include food binned in departments.
  How about in halls? Since 2008, the College has been running the Student Hall Reuse Scheme. The scheme aims to donate or recycling items left behind in halls that would otherwise be sent to landfill. In 2012, an audit was conducted in the student kitchens and it was identified that with a refinement to the system an extra £7000 of food left behind and fit for reuse, which could be donated to causes such as FoodCycle. That is another reminder of how much money we spent on food that we did not eat.
 
-__What can you do?__
+What can you do?
 
 Remember the tips we gave you a few issues back on smart supermarket shopping. All of them will still be valid in reducing food waste - at the end of the day, buy less, waste less and save money! Writing a list and making a meal plan will help you make the most of the food you buy and not in excess if you know you will be going out with friends for the evening.
  If you have yet to find a food shopping buddy, then you can still make the most of the offers without wasting. Just make sure it says suitable for freezing and quite often the shelf life can be increased to around 1 month.

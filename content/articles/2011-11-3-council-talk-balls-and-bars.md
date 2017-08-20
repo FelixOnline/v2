@@ -33,7 +33,7 @@ highlights:
 
 Imperial College Union held its second Council meeting of the term on Monday 31 October, with all full members of Council attending for the first time. A variety of papers revolving around ongoing issues were brought forward with resolution reached for some.
 
-__Summer Ball Debrief__
+Summer Ball Debrief
 
 Serious issues about the planning of last year’s Summer Ball, which made a loss of over £100 000, were raised at this Monday’s meeting of the Union Council. In his Summer Ball 2011 Debrief, requested by last year’s council, current Deputy President (Finance and Services) (DPFS) Michael Foster outlined how he believes that the “main reason for the large loss incurred ... was a wholly unrealistic prediction of attendance.”
 
@@ -45,7 +45,7 @@ Foster rejected “the claim from last year’s Council saying there was not eno
 
 A separate paper was also put forward by Chris Darby, asking the Council “to petition the [Union] Court to carry out an independent inquiry in to exactly how much has been lost ... and how this compares to previous years”. The paper cited incomplete information regarding the loss and the need for an “independent opinion”. Despite objections from Union President Scott Heath, who said that a further investigation by himself and the Trustee Board would suffice, the motion was carried by the Council.
 
-__Alcohol Policy passed__
+Alcohol Policy passed
 
 Deputy President (Finance & Services) Michael Foster presented a paper regarding the [much debated](http://felixonline.co.uk/news/1555/club-chairs-lukewarm-over-bar-nights/) responsible retailing of alcohol.
 
@@ -57,7 +57,7 @@ The members conferred on a point which sought to allow students with a red box o
 
 At present, students with a red box are typically allowed onto premises but refused service as expected, but for some events they can be refused entry. This proposed amendment was rejected by council, following controversy with those who believed that passing this would result in a breach of the law.
 
-__Honorary Life Membership__
+Honorary Life Membership
 
 One of the most hotly debate issues was that of Honorary Life Memberships (HLMs). These lifetime memberships of the Union are traditionally awarded to Sabbatical Officers at the end of their terms in office. Last summer, however, Union Council narrowly voted against awarding HLM to the then Deputy President (Finance & Services), Ravi Pall.
 

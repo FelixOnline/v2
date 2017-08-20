@@ -26,14 +26,14 @@ I really wasn’t sure what to expect from the Chortle Comedy Books Festival –
  With a host of different comedians and other speakers ranging from Richard Herring to Shappi Khorsandi and Robin Ince, there was something here for everybody. Taking place in the August surroundings of Ealing Town Hall, some events were packed and boisterous while others were more sparsely attended – allowing for a more intimate discussion between the speaker and the audience. All in all, this was a very enjoyable experience, with the talks, in general, being both witty and interesting. I recommend that you look out for future comedy events hosted by Chortle.
 
 Dear Dan Brown
-__Robert Finn__
+Robert Finn
 
 The bestselling author Dan Brown has thrilled and infuriated readers in equal measure. With outlandish plots, insipid prose and wilful and repeated misuse of the word ‘facts’, it is somehow difficult to see how he ever managed to get published in first place. Despite all of this the author has somehow managed to amass a legion of loyal fans. Up-and-coming comedian Robert Finn, however, was not afraid to brave these fans’ wrath in this scathing and vitriolic critique of Brown’s writing skills.
  First performed at last year’s Edinburgh Fringe to broadly positive reviews, the show was in the form of an open letter to Brown from a struggling prospective author. This was certainly an interesting show, combining both good humour and fascinating insight into the oft misunderstood publishing industry and the process of writing a novel. While certainly not for fans of Dan Brown, this was a very enjoyable hour for people interested in books and writing.
  Finn is certainly a name to look out for in the future.
 
 The Trade Secret
-__Rob Newman__
+Rob Newman
 
 Rob Newman first made his name in the 1980s as a stand-up comedian working with David Baddiel. However, in more recent years he has managed to successfully re-brand himself as a popular novelist. His latest book, The Trade Secret, is a historical novel set at the start of the seventeenth century. The novel follows two friends as they attempt to discover a hidden oil well under the abandoned Temple of Mithras in Persia.
  Based on a true story that Newman found in the Rare Books Room of the British Library, this looks to be an exciting globe trotting adventure, taking place in England, Persia and Italy.
@@ -41,7 +41,7 @@ Rob Newman first made his name in the 1980s as a stand-up comedian working with 
  While I don’t normally read historical fiction, I might be tempted to check this one out.
 
 The Simpsons and their Mathematical Secrets
-__Simon Singh__
+Simon Singh
 
 Much has already been said on these pages about Imperial alumnus’ Simon Singh’s latest work, which explores the hidden mathematical depths of the popular cartoons The Simpsons and Futurama. In his festival show, one of a series of promotional appearances for the book taking place around the country, Singh aimed to give a brief outline of what the book is all about.
  It turns out that the writers of these shows are surprisingly mathematically literate, with one even leaving a maths PhD to join the writing team. As such, a standard episode is usually filled with mathematical references – some obvious, many others far more subtle. Singh has clearly put in a lot of research to identify even the most obscure of these.

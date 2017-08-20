@@ -48,7 +48,7 @@ However, it’s not just the students with hidden depths: one of Morley’s many
 
 Greta Scacchi gives a confident performance as Lydia and Abbie’s snarling form tutor; and the wonderful Maxine Peake plays Lydia’s affectionless mother.
 
-The spooky and downbeat film score is composed by Tracey Thorn, of __Everything But the Girl__.
+The spooky and downbeat film score is composed by Tracey Thorn, of Everything But the Girl.
 
 The instrumentation is sparse, mainly relying on acoustic guitar, a low, clear singing voice, and the kind of instruments you might find in a school music lesson.
 

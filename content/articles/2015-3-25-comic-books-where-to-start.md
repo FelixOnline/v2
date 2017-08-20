@@ -63,7 +63,6 @@ Also, with the upcoming demise of the multiverse (in this year’s Secret Wars e
 
 _Howard the Duck #1 is out now on Marvel Comics_
 
-__
 ## ## Spider-Gwen
 The recent Spider-Verse comic event introduced a number of new superheroes to the Marvel multiverse. The most popular of these was _Spider-Gwen_, the Spider-Woman/Gwen Stacy of Earth-65, who is forced to face off against her own reality’s version of Peter Parker when he mutates into a lizard-like creature.
 

@@ -23,15 +23,15 @@ highlights:
  - photos
 ---
 
-__What: __King Lear
+What: King Lear
 
-__Where: __National Theatre, SE1
+Where: National Theatre, SE1
 
-__When:__ 23rd January to28th May
+When: 23rd January to28th May
 
-__Price: __Various
+Price: Various
 
-__A__s I sat down in my plush theatre seat, tucking my kiddy school bag under my legs, I suddenly felt very small. Everything about the evening ahead of me seemed designed to dwarf me: the cavernous Olivier theatre, the word famous director Sam Mendes of _American Beauty_ fame, the BAFTA winning Simon Russell Beale in the main role and, of course, the play itself-_ King Lear._ More than 400 years old, it has been performed in all the major theatres on the globe and has been interpreted by the greatest actors in Britain, both on stage and on screen.
+As I sat down in my plush theatre seat, tucking my kiddy school bag under my legs, I suddenly felt very small. Everything about the evening ahead of me seemed designed to dwarf me: the cavernous Olivier theatre, the word famous director Sam Mendes of _American Beauty_ fame, the BAFTA winning Simon Russell Beale in the main role and, of course, the play itself-_ King Lear._ More than 400 years old, it has been performed in all the major theatres on the globe and has been interpreted by the greatest actors in Britain, both on stage and on screen.
 
 So it was with trepidation that I leant back in my seat for the three hour performance. And, almost immediately, I forgot my qualms as I became enveloped in a complex, dark and captivating world.
 

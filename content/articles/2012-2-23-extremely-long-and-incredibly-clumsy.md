@@ -28,11 +28,11 @@ highlights:
  - comment
 ---
 
-[__Extremely Loud and Incredibly Close__](http://www.imdb.com/title/tt0477302/)
+[Extremely Loud and Incredibly Close](http://www.imdb.com/title/tt0477302/)
 
-__Director__ Stephen Daldry
-__Screenwriters__ Eric Roth, Jonathan Safran Foer (novel)
-__Cast__ Tom Hanks, Sandra Bullock, Thomas Horn
+Director Stephen Daldry
+Screenwriters Eric Roth, Jonathan Safran Foer (novel)
+Cast Tom Hanks, Sandra Bullock, Thomas Horn
 
 A lot of negative hype surrounds the latest film from Academy Award nominated director Stephen Daldry. As the overly sentimental, manipulative film that stole the much-coveted Best Picture slot from _Drive_, the lowest rated film on Rotten Tomatoes that made it to the nominations list in this year’s Oscars, it looks as though Daldry’s most recent work won’t be receiving similar attention his previous films such as _Billy Elliot_ and _The Hours_ enjoyed.
 

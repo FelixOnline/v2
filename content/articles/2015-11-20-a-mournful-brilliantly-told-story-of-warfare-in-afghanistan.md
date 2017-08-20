@@ -38,4 +38,4 @@ They do this with considerable artistry, masterful cinematography, and a poignan
 
 The overwhelming emotion of the film is of mourning: the men mourn for their shattered country, and they mourn for their perceived futility to do anything but keep it hanging together by a thread. A gripping and thoughtful documentary,_ Tell Spring Not to Come This Year_ is essential viewing for anyone interested in the all too human aftermath of the war in Afghanistan.[](#_msocom_11)
 
-__Verdict: 4.5 Stars__
+Verdict: 4.5 Stars

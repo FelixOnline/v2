@@ -54,9 +54,9 @@ We’ll pretend, just as a null hypothesis type thing, that even if Miyamoto had
 
 I hope to choose a game or two every week, often ones that’ve since been remade or refined, and see if any of its retro chic can beat any of our modern shine.
 
-__Let’s reverse time and see what we find!__
+Let’s reverse time and see what we find!
 
-Since id’s success with [Quake 4](http://www.youtube.com/watch?v=qzXF-DvUiuI), it has produced 3 sequels including the trigger-happy [Quake 3](http://www.youtube.com/watch?v=vaVhcnBiob0), and a true strogg-and-sci-fi sequel [Quake 2](http://www.youtube.com/watch?v=1SVVKQlwTUk). But it’s in its latest incarnation (trendily called just ‘[Quake](http://www.youtube.com/watch?v=M4On9P_2__c)’) that the series has found the eeriness and atmosphere it has always strived for. id has eschewed the steel walls and electric doors of Quake 4 and its sequel too, instead opting for a uniquely baroque hybrid of gothic architecture, thunderous guns and grotesque fantasy monstrosities.
+Since id’s success with [Quake 4](http://www.youtube.com/watch?v=qzXF-DvUiuI), it has produced 3 sequels including the trigger-happy [Quake 3](http://www.youtube.com/watch?v=vaVhcnBiob0), and a true strogg-and-sci-fi sequel [Quake 2](http://www.youtube.com/watch?v=1SVVKQlwTUk). But it’s in its latest incarnation (trendily called just ‘[Quake](http://www.youtube.com/watch?v=M4On9P_2c)’) that the series has found the eeriness and atmosphere it has always strived for. id has eschewed the steel walls and electric doors of Quake 4 and its sequel too, instead opting for a uniquely baroque hybrid of gothic architecture, thunderous guns and grotesque fantasy monstrosities.
 
 Its masterstroke of horror however is in reducing the amount of frames of animation used. Instead of the fluid and familiar advances of Quake 4’s enemies, the ones in Quake are rendered with a jerky, staccato energy, as if fighting in strobe lighting. Funny as it may sound, it actually gives the gunplay a brutal immediacy of impact, and the already ghoulish designs the unnerving, alien rhythm of a Ray Harryhausen stop motion effect.
 

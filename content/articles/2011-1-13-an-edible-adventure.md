@@ -31,7 +31,7 @@ This became a double-problem. I describe above the insulation on my Adonis-like 
 
 I have never been to catering school, nor am I likely to, but if you find you want to up or down the calories on your plate, my advice is have more fun with your food. Bun fight?
 
-__Black Cherry and Almond Cake __
+Black Cherry and Almond Cake
 
 155g butter
 

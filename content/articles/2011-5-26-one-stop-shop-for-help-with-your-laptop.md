@@ -35,6 +35,6 @@ Likewise, if you have any other questions regarding your email, home directory (
 
 Here at the Service Desk we believe IT should be helpful rather than a hindrance and without wanting to sound like the world-dominating supermarket, we’re here to help. Oh and it’s also a free service – now, you can’t argue with that!
 
-__Did you know?__
+Did you know?
 
 ICT are currently running a survey and all responses will be entered into a prize draw to win one of 3 Amazon Kindles and 3 iPod Shuffles – let ICT know what you think of their services here now: <http://bit.ly/ICTSurvey2011> – deadline is Friday June 3rd 2011.

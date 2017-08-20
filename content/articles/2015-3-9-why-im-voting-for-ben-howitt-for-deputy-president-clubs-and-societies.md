@@ -41,6 +41,6 @@ Acton. It’s happening, and we can’t really fight it. More freshers are movin
 
 Look, I am biased. Ben writes for _Felix_, and can do things with a pole that would make your granny blush. But I wouldn’t tell you to vote for him if I didn’t think he was beyond capable. He’s always solving someone else’s budgeting issue, making you a snakebite down the union, or doing one of the gajillion of his own hobbies. I’m surprised he even does a degree. So for God’s sake, vote him in as Deputy President of Clubs and Societies, because I think he needs an excuse to know this much about the union.
 
-__VOTING IS OPEN NOW! [Click here](https://vote.union.ic.ac.uk) to make sure you have your say. __
+VOTING IS OPEN NOW! [Click here](https://vote.union.ic.ac.uk) to make sure you have your say.
 
 ![BE2015 Generic Promo.png](../inc/timthumb.php?src=/img/upload/201503091448-ps3110-be2015-generic-promo.png&w=460px&zc=1&a=t)

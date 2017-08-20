@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-__[Avengers Assemble](http://www.imdb.com/title/tt0848228/)__
+[Avengers Assemble](http://www.imdb.com/title/tt0848228/)
 
-__Director __Joss Whedon
-__Screenwriters __Zak Penn, Joss Whedon, Stan Lee, Jack Kirby
-__Cast__ Robert Downey Jr., Chris Hemsworth, Chris Evans, Scarlett Johansson, Mark Ruffalo, Jeremy Renner, Samuel L. Jackson, Tom Hiddleston
+Director Joss Whedon
+Screenwriters Zak Penn, Joss Whedon, Stan Lee, Jack Kirby
+Cast Robert Downey Jr., Chris Hemsworth, Chris Evans, Scarlett Johansson, Mark Ruffalo, Jeremy Renner, Samuel L. Jackson, Tom Hiddleston
 
 Whether you like it or not, The Avengers have been assembled, and the line-up is unbelievably impressive; there are six pumped up heroes, an intense director of a top-secret organisation who brings them together, and a villain commanding an army out to annihilate Earth. There, that’s the general gist of the plot; the kind of formula many superhero films put to use. But _Avengers Assemble_ (an unfortunate last-minute title change here in the U.K.) is a lot more than that. Joss Whedon’s mass ensemble, 200 million-dollar rollercoaster ride makes the two-and-a-half-hour long running time worth every minute, as Whedon pays as much attention to his many characters and humour as he does to delivering the high-budget spectacle.
 

@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-__Day 1: The Journey__
+Day 1: The Journey
 
 At the usual time of 17:30hrs, ten Fellwanderers met at the Union to embark upon the annual Winter Tour, this year to the Lake District. After introductions, Matt and Ping on their first trip, discussion immediately turned to the anticipated freezing conditions — photos from the 2010 tour had been circulating and did not inspire confidence. An efficient packing of the minibus (including walking axes) meant we were soon heading north through Hyde Park.
 
@@ -33,7 +33,7 @@ Fortunately, the London traffic didn’t prove too tortuous so we made good time
 
 The hall was reassuringly — not to mention surprisingly — warm so after unpacking the bus and sorting out the food, roll mats and sleeping bags were out and everyone bedded down for the night.
 
-__Day 2: Rain__
+Day 2: Rain
 
 To all those who have been on many Fellwanderers trips and suffered at the hands of the spreadless cheese and pickle sandwich, Saturday was a dream come true. In the lunch-preparation room, we found Claire cutting into a large joint of ham and butter on the table along with thick, seeded white bread.
 
@@ -45,7 +45,7 @@ The going was fairly easy without much steep ascent but due to the recent heavy 
 
 The circular(ish) walk ended backat the hall just at the sun was going down. Dinner preparations were quickly underway for James’ goulash with dumplings. The recipe had been attempted on a previous trip and turned out partically sucessful — the pitfall being the lack of scone-baking experience in the group. This time, there was no such trouble with Sarah in charge of dumping-making so, needless to say we ate heartily leaving just enough room for a bread and butter pudding.
 
-__Day 3: Wainwrights__
+Day 3: Wainwrights
 
 Sunday promised a long walk, navigated by Tom, to include ten Wainwrights in the North Western Fells — we knew this was going to be tough so started with a cooked English breakfast. After a short drive from the hall to Braithwaite we found ourselves ascending steeply onto a horseshoe-ridge, with eight of the peaks to be climbed during the day. Before too long the ascent was complete to take us onto Grisedale Pike (791m) and great views of the adjacent Whinlatter Forrest Park as well as the rest of the, mostly snow-topped, route.
 
@@ -59,7 +59,7 @@ The walk between Causey Pike into the valley felt very peaceful and we had just 
 
 We arrived back at the hall at about six o’clock shattered, having ascended 1600m during the course of the day.
 
-__Day 4: Rest or Run__
+Day 4: Rest or Run
 
 Monday morning offered a simple choice — a gentle walk to recover from the previous day or to run 23miles over 11 Wainwrights. Sensibly the vast majority of the group chose the former and headed off towards Conniston Water, dropping off the runners along the way. This is the last we would see of them until the evening.
 
@@ -67,7 +67,7 @@ After the walk we drove into Keswick where the group further split into those wh
 
 At about six thirty Jack and Charlie returned from their run covering Glaramara (783m), Allen Crags (785m), Great End (910m), Esk Pike (885m), Bowfell (902m), Rossett Pike (651m), Pike of Stickle (709m), Loft Crag (680m), Thunacar Knott (723m), and High Raise, (802m) so were unusually quiet for the rest of the evening! The roast beef with all the trimmings, including chestnuts, was served soon after and certainly lived up to expectation and left us all immobile once the Christmas pudding had also been demolished.
 
-__Day 5: Views and Singin__g
+Day 5: Views and Singing
 
 Tuesday morning started with a drive to a car park near Conniston to tackle another five Wainwrights in the Southern Fells. The walk started with a steep ascent with scrambling sections — the pinnacle set the tone for the rest the day. The sky was near cloudless providing stunning views of Morecambe bay in one direction and snow capped peaks in the other. Strangely, the snow on the fells made them seem much larger and more dramatic, more akin to an Alpine environment, than they actually are.
 

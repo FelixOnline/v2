@@ -48,7 +48,7 @@ There are many people doing good work at Imperial, be it at the counselling serv
 
 Our mental health is something we all have a part in, and weshould all – students, staff and academics – continue to improve one another’s.
 
-__Is there a mental health stigma? _Felix _asks students:__
+Is there a mental health stigma? _Felix _asks students:
 
 We found strong signs of a stigma around mental health problems here at Imperial – which is daft because so many of us suffer from them. “The main problem is lack of awareness and students’ lack of willingness to talk about it,” said one student.
 
@@ -64,7 +64,7 @@ It’s not easy to bring up someone’s health. One student said, “even now I 
 
 Be brave – talk about mental health.
 
-__Health Centre__
+Health Centre
 
 Every student we spoke to had used Imperial Health Centre at some point in their journey and their experiences were all positive. However, there are concerns that the relationship between Imperial and the Health Centre could be weakened.
 
@@ -84,7 +84,7 @@ Another said, “I moved out of the London jurisdiction and had to redo the proc
 
 Our investigation would challenge the recommendation that students are better getting treatment elsewhere. Mental health treatment is not equal across NHS surgeries and all students deserve equal access to treatment irrespective of where they live.
 
-__Counselling Service __
+Counselling Service
 
 The counselling process invites you to discuss any issue troubling you with someone trained to listen and respond to you. It gives people the opportunity to air problems that till then have been stuck inside them. There’s nothing you can tell them they haven’t heard before.
 
@@ -94,7 +94,7 @@ Last year they saw 540 students, which was an increase of 6.7% the previous year
 
 College is expanding the role of the counselling service to also provide ‘mentors’ who can give students practical advice to deal with problems. This will take effect next academic year.
 
-__Advice for other students__
+Advice for other students
 
 We asked students we met what advice they would give to other students in similar situations to them. The overwhelming opinion was that whilst, “when you are depressed, it’s easy to feel that there’s nothing that can be done”, it was important to realise that this wasn’t the case.
 
@@ -104,7 +104,7 @@ A recent graduate said to, “Talk to people, definitely someone academically. I
 
 They told the story of when they spoke to their new partner, “someone asked me out – I panicked and said yes... spent the whole day worrying I had to tell them... ended up blurting it out... it was horrible, but incredibly helpful”. People around you may also be able to give you advice, “my boyfriend suggested I go to the doctor so I went to the health centre... I saw the GP there who was fantastic”.
 
-__Academic departments__
+Academic departments
 
 “[Revising was] the first time I thought of dropping out of university – but my personal tutor was very supportive, the undergraduate department was great”.
 

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__Judo__
+Judo
 
 Imperial’s team of elite and not so elite judokas trekked to the edge of civilisation last Saturday, to the point where electricity is limited to 4 hours a day and counting to six on one hand gets easy. It was time for the London Open Championships in Uxbridge and the second biggest competition on the judo calendar.
 

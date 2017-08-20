@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Shirt and Tie__
+Shirt and Tie
 
 This is the one area where you can really put your personality into business dress. Well, not quite – if you are interviewing for city positions, forget any shirt that’s not blue or white.
 
@@ -33,7 +33,7 @@ If you have gone for a solid shirt and a fairly solid suit, make sure you do not
 
 If wearing a solid shirt go for a dotted or striped tie, and try to match colours as well as possible. It’s hard to go wrong with red or yellow/navy on pale blue, or any shade of blue on white. As a good general rule, your tie and shirt should never have the same pattern – if your shirt is striped, get a solid or dotted tie. If the same pattern is to be employed, make sure there is a large difference in pattern size, or the combination will be too busy and difficult on the eye.
 
-__Accessories and Grooming__
+Accessories and Grooming
 
 A very simple area for most university students preparing for interview, grooming should probably be weighted heavily at our most grand of institutions.
 
@@ -45,7 +45,7 @@ If you are going to wear a watch, try not to make too much of a statement – no
 
 A pocket square (white matches everything) can help to complete a look and help your tie patterns to pop, but be careful when considering other colours; only attempt if you are confident in your matching.
 
-__Shoes__
+Shoes
 
 They can be in any colour, as long as it’s black.
 
@@ -57,7 +57,7 @@ The kind of shoes you can go for will vary from role to role, but always make su
 
 For City roles, it is standard to go for a clean Oxford or an understated brogue. It is worth paying for quality where shoes are concerned, and even if you aren’t shopping at Church’s you should make sure your shoes are at least leather soled and fit well.
 
-__Suit__
+Suit
 
 The key to successful interview or business dress is being conservative without being boring, but forget trying to be interesting when it comes to the suit.
 

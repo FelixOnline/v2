@@ -28,34 +28,34 @@ Presented by several student representatives, the awards recognise the efforts o
 
 Students made 591 nominations, which resulted in 6 candidates being shortlisted for each of the eight awards. The winners are as follows:
 
-__Best Supervision__
+Best Supervision
 
 Prof Mark Sephton, Earth Science & Engineering
 
-__Best Tutoring__
+Best Tutoring
 
 Dr James Wilton-Ely, Chemistry
 
-__Best Graduate Teaching Assistant__
+Best Graduate Teaching Assistant
 
 Mario D'Auria, Electrical & Electronic Engineering
 
-__Best Teaching for Undergraduates__
+Best Teaching for Undergraduates
 
 Prof Omar Matar, Chemical Engineering
 
-__Best Support Staff__
+Best Support Staff
 
 Victor Boddy, Electrical & Electronic Engineering
 
-__Best Innovation__
+Best Innovation
 
 Dr David Dye, Materials
 
-__Best Feedback__
+Best Feedback
 
 Dr Jane Saffell, Department of Medicine
 
-__Best Teaching for Postgraduates__
+Best Teaching for Postgraduates
 
 Dr Mike Tennant, Centre for Environmental Policy

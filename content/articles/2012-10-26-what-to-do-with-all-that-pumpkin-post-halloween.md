@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Pumpkin Soup__
+Pumpkin Soup
 
 Extremely easy and delicious! (Even if you don’t like pumpkin!)
 
@@ -41,7 +41,7 @@ Chopped chillies
 
 Peel the pumpkin and chop it in small cubes. Chop the onion and leeks. Heat the olive oil in the pan and add the onion and leeks. Cook for about 7 minutes on medium-low heat (or until they are brown) and then add the pumpkin. Add water so that the pumpkin is covered well, add the salt and pepper and cook until the pumpkin is soft. Place the soup in a blender and blend until smooth. Place the soup back in the pan and add water until you have the consistency you prefer. Serve hot and add some fresh chopped chillies to break the sweetness of the pumpkin.
 
-__Pumpkin Chips__
+Pumpkin Chips
 
 Ingredients:
 
@@ -53,7 +53,7 @@ Two cupsof pumpkin, chopped into batons
 
 Preheat oven to 200°C. Pour honey over chopped pumpkin and sprinkle paprika evenly. Arrange pumpkin in a single layer on a baking sheet and roast for approximately half an hour, flipping them halfway through. Feel free to use any mix of spices and herbs instead of paprika to make things interesting. For a spicy flavour try chilli, or rosemary for a more mild flavour.
 
-__Pumpkin Cake__
+Pumpkin Cake
 
 NB: Nope, this is not a dessert like pumpkin pie – think savoury turnip cake from dim sum restaurants, just made with pumpkin instead! This recipe needs a bit more elbow grease and requires use of a steamer, but the results are well worth the effort.
 

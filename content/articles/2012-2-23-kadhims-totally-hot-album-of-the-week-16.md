@@ -25,7 +25,7 @@ highlights:
  - comment
 ---
 
-On Monday, __Azealia Banks__ will play at Heaven. Sadly, I will not be there. Those damned academic commitments trumped my desire to go see the hottest female rapper since __Missy Elliott__ said she wanted to [search around in my trousers](http://www.youtube.com/watch?v=UODX_pYpVxk) for Lord knows what (well, I assume she was talking to me, but one can never be quite sure when it comes to mass-distributed music).
+On Monday, Azealia Banks will play at Heaven. Sadly, I will not be there. Those damned academic commitments trumped my desire to go see the hottest female rapper since Missy Elliott said she wanted to [search around in my trousers](http://www.youtube.com/watch?v=UODX_pYpVxk) for Lord knows what (well, I assume she was talking to me, but one can never be quite sure when it comes to mass-distributed music).
 
 Missing the gig is a bit depressing for two reasons: 1) It’s probably the best opportunity I’m going to get to throw myself at Azealia Banks’ feet and propose to her, thus beginning what I term, ‘My Incredible Awesome Life as Mr B.’; and 2) I haven’t been to Heaven for a looooooong time and I’m beginning to miss it.
 

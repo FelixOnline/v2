@@ -39,19 +39,19 @@ Following close to four weeks of negotiation on the price, Henry was on the phon
 
 “As I was sitting there, I got the email through from Charles [Gallagher, Head of Hospitality and Events], at the very last minute, and… ICCA’s accepted over the phone.”
 
-Three of the eight groups competing are London-based. __Imperielles__, __The Scopes__ and __The Techtonics__ all perform regularly and have previously competed in The Voice Festival UK (VFUK), the UK version of ICCA, __The Techtonics__ reaching the final in 2014. This will be the first time that __Imperielles __and__ The Scopes__ have competed at a national competition.
+Three of the eight groups competing are London-based. Imperielles, The Scopes and The Techtonics all perform regularly and have previously competed in The Voice Festival UK (VFUK), the UK version of ICCA, The Techtonics reaching the final in 2014. This will be the first time that Imperielles and The Scopes have competed at a national competition.
 
-__All the King’s Men__, from King’s College London, round out the London-based groups, with four further groups coming from Birmingham, Durham, and Exeter. All of the teams perform regularly, including visits to the Edinburgh Fringe Festival, and many have placed in national competitions.
+All the King’s Men, from King’s College London, round out the London-based groups, with four further groups coming from Birmingham, Durham, and Exeter. All of the teams perform regularly, including visits to the Edinburgh Fringe Festival, and many have placed in national competitions.
 
 Entries to the competition were by video audition, to be submitted by 15th November. A successful audition would give a place in the College-hosted semi final, at the hefty price tag of £200 – double that of an entry to VFUK.
 
-The three groups who chose to enter filmed their audition videos in the recently renovated West Basement studio, with Media groups assisting with lighting and sound. Henry acknowledged “teething problems”, with this being one of the first times the Studio had been used in anger, but pointed out that all three groups that auditioned had been selected to compete. __Take Note__, the society’s other all-female barbershop group, chose not to enter.
+The three groups who chose to enter filmed their audition videos in the recently renovated West Basement studio, with Media groups assisting with lighting and sound. Henry acknowledged “teething problems”, with this being one of the first times the Studio had been used in anger, but pointed out that all three groups that auditioned had been selected to compete. Take Note, the society’s other all-female barbershop group, chose not to enter.
 
 The Deputy President (Clubs & Societies) and the Deputy President (Finance & Services) have already confirmed their attendance at the event, and other major figures on campus will be invited, including Charles Gallagher, the campus official who sent the eleventh hour email that saved the event.
 
-The event will also feature a guest performance from Birmingham University’s __Sons of Pitches__, who competed at the 2013 ICCA Final in New York. They have since gone semi-professional, having released their debut EP, _Not Too Shabby_ in December 2013. Despite this, they continue to compete, singing against __The Techtonics__ in the VFUK final last year.
+The event will also feature a guest performance from Birmingham University’s Sons of Pitches, who competed at the 2013 ICCA Final in New York. They have since gone semi-professional, having released their debut EP, _Not Too Shabby_ in December 2013. Despite this, they continue to compete, singing against The Techtonics in the VFUK final last year.
 
-A Cappella Society was founded in November 2010 and now comprises four groups, with two more in the works. Each of the groups has a different style, and all maintain a set to be performed over the year. Multiple groups are working on recording releases, with __The Techtonics __aiming to release a single close to Christmas, and an album in August 2015.
+A Cappella Society was founded in November 2010 and now comprises four groups, with two more in the works. Each of the groups has a different style, and all maintain a set to be performed over the year. Multiple groups are working on recording releases, with The Techtonics aiming to release a single close to Christmas, and an album in August 2015.
 
 All of the groups have expressed their excitement, with Peter Noden (The Techtonics Chair) describing it as “the opportunity to perform and meet with the best of the British and global a cappella communities”. A representative from The Scopes said:
 

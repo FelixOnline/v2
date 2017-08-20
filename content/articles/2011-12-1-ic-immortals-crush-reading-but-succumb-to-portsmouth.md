@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-__American Football__
+American Football
 
 _Imperial Immortals – 27
  Reading Knights – 6

@@ -24,15 +24,15 @@ highlights:
  - photos
 ---
 
-__What: __Building the Picture: Architecture in Italian Renaissance Painting
+What: Building the Picture: Architecture in Italian Renaissance Painting
 
-__Where: __National Gallery, WC2
+Where: National Gallery, WC2
 
-__When: __Until 21st September
+When: Until 21st September
 
-__Price: __FREE
+Price: FREE
 
-__W__hat are paintings all about anyway? In the Renaissance, paintings mainly represent stories from Saints’ lives, mythology and history. Mary and Jesus are big players on the Renaissance canvas, mostly as a mother and baby duo but also found as adults, with Jesus shown performing miracles or wondering around doing biblical stuff.
+What are paintings all about anyway? In the Renaissance, paintings mainly represent stories from Saints’ lives, mythology and history. Mary and Jesus are big players on the Renaissance canvas, mostly as a mother and baby duo but also found as adults, with Jesus shown performing miracles or wondering around doing biblical stuff.
 
 You might be familiar with Gerome and his lion, the former resembling a hybrid between Father Christmas and your nicest tutor, the latter invariably looking adorable.  Other minor saints often feature, as do stories from the Old Testament and mythological characters.
 

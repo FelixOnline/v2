@@ -38,7 +38,7 @@ A final rally in Kennington Park saw Burns heckled and pelted with eggs by the t
  Students feel their point was made with attention drawn to higher fees and the impacts from them.
  Imperial College Union did not send any representatives.
 
-__Why I didn't march__
+Why I didn't march
 
 _George Howard_
 
@@ -54,7 +54,7 @@ Rather than marching to Parliament Square to hear Prime Minister’s Questions, 
 
 As for me, I think I’ll have another cup of tea. Beats standing in the rain...
 
-__Why I did march__
+Why I did march
 
 _Luke Sheldon_
 

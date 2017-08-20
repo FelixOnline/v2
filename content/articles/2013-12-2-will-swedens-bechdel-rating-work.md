@@ -29,16 +29,16 @@ I know the Bechdel test started as a joke in a comic, but it has build a lot cul
  It is shocking how few films actually pass this test but I really don’t think this is the metric we should use to decide if a movie avoids gender bias. I believe there should be films with just men in, in exactly the same way there should be films with just women in, and like the real world you’d kind of hope there would be films with people of all genders interacting. The problem with the Bechdel Test is that it only applies to one film at a time, not the landscape of cinema.
  Run Lola Run? Fail. The Devil Wears Prada? Pass! Maybe there is a problem with the Bechdel Test, but clearly we need some mechanism to fill the vacuum of women on screen. My question is, whose job is it?
 
-__The Directors?__
+The Directors?
  Females are underrepresented behind the camera. Only 7% of directors are women. Of the entries to Sundance Film Festival, women direct 16% of entries and produce 30%. Obviously these festivals are fostering more female talent, but they seem to be a sticking point for lots of female talent. Women just don’t move on to direct blockbusters. Sundance sponsored Dr. Stacy Smith to do some great research and found that having female directors also increases the number of women on set, but still not to 50:50. However the increase of women on set will hopefully mean more women get a foot in the door.
 
-__The Producers?__
+The Producers?
 
 Who decides who directs a movie? The producers. Who produces films? 80% of the time it’s men. Now I think this is the place where, with the right kind of lobbying and nudging, we can slowly change the number of women in films. These are the positions in which women need to be given more opportunity. The producer brings together the script, actors, and director - plenty of opportunity to bring other women on board.
  I hear you cry “Exactly, I agree with Pete! It’s all the producers’ fault!”. You recline into your chair and relax feeling kind of smug.
  NOPE. It’s our fault.
 
-__The Audience?__
+The Audience?
  Why do producers do what they do? It’s because they get paid by people going to see their movies. You vote with your wallet and in 2012 the paying public spent $10,957,460,255 at the cinema. Currently women make up 51% of cinemagoers but are represented by having 1/3 of the presence on screen. Women spend $5 billion a year going to the cinema, and producers don’t think that sounds like dissatisfaction. This gender imbalance won’t change until male-oriented films start to make less money than a more mixed bag.
  If you see a film by a female director whom you admire, buy the DVD, tell your friends to go see the movie, because without legislation that impinges on creative people (no one wants that) it’s the only way the situation will improve.
  Finally, the thing that annoys me most is that because of the gender bias in front of and behind the camera we are missing angles, stories and entertainment that would actually make the producers money!

@@ -29,7 +29,7 @@ London is a quintessential fashion capital. Though we don’t have the edgy cool
 
 For those who are strangers to London, I will seek to elucidate the signatures of two of our most ubiquitous fashion sets: Chelsea and Hoxton. The point is not to identify yourself with either of them – heaven forbid! – just be armed with the knowledge that they both exist, in various degrees of extremity, and you have my permission to sniff smugly at their generic conformism: a crime that a true London fashionista would never commit.
 
-__Chelsea__
+Chelsea
 
 Commonly known as Sloanes, after the Chelsea hub of Sloane Square, this lot, with their Ugg boots and Barbour jackets in tow, have managed to disperse themselves up and down the country, which is fairly unfortunate for the rest of us.
 
@@ -39,11 +39,11 @@ The girls: She seemingly hasn’t quite gotten over the loss of her pony and so 
 
 The boys: Flip-flops, whatever the weather, is a classic hallmark. Combine these with a wardrobe composed of Jack Wills and Abercrombie/Hollister. His collar is always turned up and contrary to his true country counterpart, his hair is long and side-swept; a true country bumpkin keeps his hair short and functional, not needing to run his hand through it every 5 minutes, to maintain that perfect side parting.
 
-Where to find__ them__: Listen out for shouts of “Arabella!” or “Tarquin!” outside any of Mahiki, Boujis or The Brompton Club.
+Where to find them: Listen out for shouts of “Arabella!” or “Tarquin!” outside any of Mahiki, Boujis or The Brompton Club.
 
-__What happens when they grow up?__ Nothing good. David Cameron and Kate Middleton. I know.
+What happens when they grow up? Nothing good. David Cameron and Kate Middleton. I know.
 
-__HOXTON__
+HOXTON
 
 Welcome to East London. A land where individualism has run so rampant that it has managed to blur itself into a sea of hipsters bound by their rejection of all things mainstream.
 

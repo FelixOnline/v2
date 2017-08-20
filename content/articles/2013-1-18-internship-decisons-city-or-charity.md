@@ -29,111 +29,111 @@ Everyone wants one. Some people seem to want one more than they want their degre
 
 But what makes a good internship? What do we want to gain from a summer of work? And where can we find the best experiences? We all know that the big city firms offer up healthy pay packets in exchange for long hours and the oportunity to sample the life of an analyst. But how do internships elsewhere compare. Are internships in the not-for-profit and charity sectors valuable too? Read these reports from Imperial students who have sampled both to find out...
 ## City
-__4th year Chemist__
+4th year Chemist
 
 _Bank of America Merrill Lynch, London_
 
-__What aspect of your internship did you enjoy most?__
+What aspect of your internship did you enjoy most?
 
 Meeting and working with peoplemy age, who had the same ambitions and goals as me. Also, getting help and guidance from people who had been working at the company for a while. It felt very friendly.
 
-__What aspect of your internship did you dislike most?__
+What aspect of your internship did you dislike most?
 
 The limited number of full time offers available often meant that stress levels were high. There was a lot of pressure to produce high quality work, and this often meant working long hours. Having said that, the intensity wasn’t as high as Imperial; managers are very wary of burnout, and there is an ethos of making the job sustainable in the long term (I think this is more of a London thing rather than an industry thing).
 
-__Did you feel your work was valuedby your team?__
+Did you feel your work was valuedby your team?
 
 As an intern it is difficult to produce “valuable” work because you probably don’t have the skill set required yet. What is really valued is the amount of effort you put into the work, which is reflected in its quality. Giving interns work to do actually tends to slow full-time staff down, but it does provide them with an idea of what it would be like to work with you, which is the most important thing, as the rest can be learned.
 
-__Did your internship gave your the opportunity to develop your skills and increase your knowledge?__
+Did your internship gave your the opportunity to develop your skills and increase your knowledge?
 
 The internship was a form of immersive learning. No academic course can prepare you for the skills you learn when you are on the job. This is part of the reason why there are no prerequisites or degree requirements for the job. I learned valuable life skills very quickly, which I believe were more valuable than the technical skills I picked up.
 
-__Would you like to work at the organisation full time? Why / Why not?__
+Would you like to work at the organisation full time? Why / Why not?
 
 I loved my internship and got alongwith my team really well. The culture of the firm was very friendly and it was a great place to spend my summer. I accepted an offer to work full-time and I am really looking forward to going back.
 
 I don’t think that the work is for everyone and there are downsides to the job. But there are downsides to every job, and for me these were far outweighed by the fact I am working on something I enjoy, the opportunities the job offers, and the people I will be working with day-to-day.
 
-__4th year Physicist__
+4th year Physicist
 
 _Bank of America Merrill Lynch, London_
 
-__What aspect of your internship did you enjoy most?__
+What aspect of your internship did you enjoy most?
 
 The fact that the work I was doing actually went into active projects that would be seen by senior management and clients. It made a great change from say, writing a lab report, where the experiment has been done a hundred times previously, everyone already knows the outcome and there is little space for individuality.
 
-__What aspect of your internship didyou dislike most?__
+What aspect of your internship didyou dislike most?
 
 Deadline changes! Now and thenthe piece of work you had planned to finish for the end of the week could be required the very next morning – something that doesn’t really happen at university and that takes a bit of getting used to.
 
-__Did you feel your work was valued by your team?__
+Did you feel your work was valued by your team?
 
 Gradually, yes. Due to the nature of the work, the team you’re with can’t give you free reign with an assignment straight off the bat, however as the summer progressed I was allowed to make more of my own judgements on various aspects of a project.
 
-__Did your internship give you the opportunity to develop your skills and increase your knowledge?__
+Did your internship give you the opportunity to develop your skills and increase your knowledge?
 
 Yes, a huge amount of information was available and had to be applied continuously throughout the summer. The hours may seem very tough to some, however in practical terms I was able to gain so much more experience within a single summer compared to an ‘ordinary’ 9-5 job.
 
-__Would you like to work at the organisation full time? Why / Why not?__
+Would you like to work at the organisation full time? Why / Why not?
 
 I enjoyed working with the people within my team and the sector itself interests me greatly so I would be more than happy to go back.
 
-__4th year Chemist__
+4th year Chemist
 
 _Accenture, London_
 
-__What aspect of your internship did you enjoy most?__
+What aspect of your internship did you enjoy most?
 
 Working with a senior member of the firm to help compile some initial information for a client bid. The client project was in Africa and so I was tasked with compiling information about related work Accenture has done in Africa in the past. It meant I needed to be resourceful, show initiative and also got the chance to speak with colleagues in places such as Johannesburg and Lagos.
 
-__What aspect of your internship did you dislike most?__
+What aspect of your internship did you dislike most?
 
 As consultants often work on their client’s sites, I was based in the less than exotic Park Royal (at the end of the West bound Piccadilly line). This meant I didn’t get to join all of the intern social events in the city and sometimes felt a bit isolated
 
-__Did you feel your work was valued by your team?__
+Did you feel your work was valued by your team?
 
 Kind of. Although I felt that I didn’t have enough technical knowledge to add value most of the time
 
 Did your internship give you the opportunity to develop your skills and increase your knowledge?
  In some areas, definitely yes. However, at times I felt like I was being given mundane tasks such as preparing ppt. slides and updating spreadsheets that weren’t giving me much insight into how the firm operated.
 
-__Would you like to work at the organisation full time? Why / Why not?__
+Would you like to work at the organisation full time? Why / Why not?
 
 The people area great and the work is varied and can be interesting. Consulting work is highly dependent on your team, location and project and this gamble would be one of the things that would deter me from going back.
 ## Charity
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301180010-tna08-charity-for-features.jpg" title="" caption="" attr="" >}}
 
-__3rd year Biologist__
+3rd year Biologist
 
 _Wellcome Trust_
 
-__What aspect of your internship did you enjoy most?__
+What aspect of your internship did you enjoy most?
 
 I enjoyed the freedom and lack of hierarchy in the workplace. I was able to ask anyone questions and they were willing to talk to all the interns.
 
-__What aspect of your internship did you dislike most?__
+What aspect of your internship did you dislike most?
 
 I disliked the lack of structure in certain aspects of the internship. For example at times I felt I was doing filler-jobs that weren’t properly thought through.
 
-__Did you feel your work was valued by your team?__
+Did you feel your work was valued by your team?
 
 I do feel my work was valuedhowever I feel I could have done more.
 
-__Did your internship give you the opportunity to develop your skills and increase your knowledge?__
+Did your internship give you the opportunity to develop your skills and increase your knowledge?
 
 Yes it did. I was surrounded by intelligent people, many of them extremely knowledgeable in fields I would like to go into.
 
-__Would you like to work at the organisation full time? Why / Why not?__
+Would you like to work at the organisation full time? Why / Why not?
 
 I would definitely like to work for the organisation full-time. The Wellcome Trust funds biomedical research and although I’ve enjoyed my degree , I don’t want to become a researcher. Working in science, but not at the bench really appeals to me.
 
-__3rd year Biomedical Engineer__
+3rd year Biomedical Engineer
 
 _Ethical Internship with AHPN, the African Health Policy Network_
 
-__Rhiannon spent a six week placement with AHPN, the African Health Policy Network as part of the Imperial Hub ethical internship scheme. Here’s her report:__
+Rhiannon spent a six week placement with AHPN, the African Health Policy Network as part of the Imperial Hub ethical internship scheme. Here’s her report:
 
 I took part in the Ethical Internship Scheme just after completing my second year of a Biomedical Engineering degree at Imperial College London. I applied to the scheme as I was keen to explore slightly different career options than those of my course mates, i.e. I don’t want to be a research scientist, doctor or banker! I knew I wanted to bridge a gap between the scientific elite and the wider community, educating those who otherwise would be fearful of change and development.
 
@@ -143,27 +143,27 @@ My six week placement was with AHPN, the African Health Policy Network, a charit
 
 It was important information, previously buried under scientific vocabulary; it felt great to dig it out to genuinely help the lives of others for the long term. I suppose I used my scientific powers for good this time!.
 
-__3rd year Mathematician__
+3rd year Mathematician
 
 _Ethical Internship with CharityComms_
 
-__What aspect of your internship did you enjoy most?__
+What aspect of your internship did you enjoy most?
 
 The independence I was given. The trust too. I was PA to Director and Project Manager. The project I was in charge of aimed at analysing where communication departments sit within UK charities, how they are run as well as how they relate to the other core functions within the organization.
 
-__What aspect of your internship did you dislike most?__
+What aspect of your internship did you dislike most?
 
 The team I joined was rather small; hence we all had to contribute to the tedious yet necessary tasks such as mass emailing or database cleaning.
 
-__Did you feel your work was valued by your team?__
+Did you feel your work was valued by your team?
 
 Definitely.
 
-__Did your internship give you the opportunity to develop your skills and increase your knowledge?__
+Did your internship give you the opportunity to develop your skills and increase your knowledge?
 
 Yes, I was given a lot of autonomy and freedom in my work, and could interact with member organisations without direct supervision, which felt very gratifying.
 
-__Would you like to work at the organisation full time? Why / Why not?__
+Would you like to work at the organisation full time? Why / Why not?
 
 Not in the near future, there’s a great deal of things I would like to try my hand at first! However I have thoroughly enjoyed being an active part of such a dynamic team and don’t exclude the possibility of joining a similar professional framework at some point in the future.
 ## Conclusion?

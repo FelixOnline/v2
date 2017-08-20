@@ -26,7 +26,7 @@ The Socratic Society (SocSoc) became a full society in December of last year, as
 
 I met up with two members from the committee, Amelia Rath (Vice Chair, Nietzsche) and Abhinav Varma (Treasurer, Marx) to find out where they came from and what they’re aiming to do.
 
-__Ben: Okay, so where did the idea for SocSoc come from? I’m calling it SocSoc, is that okay?__
+Ben: Okay, so where did the idea for SocSoc come from? I’m calling it SocSoc, is that okay?
 
 Amelia: SocSoc’s fine! So, we got an email from India [Jordan, Student Activities Coordinator] and she just saw that there was a philosophy society before, but it was no longer working, and…
 
@@ -34,7 +34,7 @@ Abhinav: It was completely inactive. There’s no committee. I think the last ye
 
 Am: We signed up to something, we didn’t really know what it was...
 
-__B: So, was this one of many Fresher’s Fair signups? __
+B: So, was this one of many Fresher’s Fair signups?
 
 Ab: No, because they didn’t have anything at Fresher’s Fair. It was just the Union page that we found interesting, so she was like “would you like to start this?”. And so we met, we fixed our first meeting...
 
@@ -44,17 +44,17 @@ Ab: Yeah, there were four of us at the first meeting. We’ve expanded now, to a
 
 Am: We’ve doubled already! The committee, that is.
 
-__B: Cool! So you said eight on committee; is that eight people involved overall?__
+B: Cool! So you said eight on committee; is that eight people involved overall?
 
 Ab: I think we have around 60 or 70 members. Probably a fraction of those would be from last year. And those who just joined, without knowing exactly what it is. And of course, now we’ve got more people to join.
 
 Am: So the interest is there.
 
-__B: Which is always good!__
+B: Which is always good!
 
 Ab: On paper we have 70 members, anyway.
 
-__B: Just so I’ve got some perspective on you guys, can you talk me through who you are on the committee, and why you’re at Imperial?__
+B: Just so I’ve got some perspective on you guys, can you talk me through who you are on the committee, and why you’re at Imperial?
 
 Am: I’m doing the masters at the business school. And yeah, I wanted to join some societies, and so I looked at the societies, and philosophy was something I did already in my undergraduate in Berlin, so I thought, that would be perfect.
 
@@ -64,21 +64,21 @@ And our chair Jiayi, who couldn’t be here, she has also done it in undergrad, 
 
 You asked about the committee?
 
-__B: Yeah, just to have a perspective on who everyone is.__
+B: Yeah, just to have a perspective on who everyone is.
 
 Ab: It’s interesting. Initially, the first meeting, obviously we didn’t know each other. So deciding the committee members who would be Chair, Secretary was quite difficult, because more than one person wanted to be Chair, no-one wanted to be secretary, so there was no point trying to be democratic and voting on it, because we didn’t know each other. So we decided the most fair system would be totally anarchic, put our names in a hat and that’s exactly how we decided. That’s how I became Treasurer, that’s how she [Amelia] became Vice Chair, Jiayi became Chair, and Samuel, who’s our fourth committee member, became the Secretary.
 
-__B: That’s really cool!__
+B: That’s really cool!
 
 Ab: Well, we thought it would be the philosophical way to do it.
 
-__B: And your committee names are odd as well, right? You don’t just have a Chair or Treasurer, you decided to put names on them.__
+B: And your committee names are odd as well, right? You don’t just have a Chair or Treasurer, you decided to put names on them.
 
 Ab: Yes, we have Socrates, and I’m Marx, because I’m Treasurer, obviously. That kind of thing!
 
 Am: We have Nietzsche, we have... Yeah, everyone has a name.
 
-__B: Would you say you run SocSoc on a Marxist system?__
+B: Would you say you run SocSoc on a Marxist system?
 
 Ab: That’s an interesting question!
 
@@ -94,13 +94,13 @@ Am: And we want, actually, to find out who everybody is!
 
 Ab: There is the danger of becoming communist, we must avoid that.
 
-__B: Okay, so you’ve got 60-70 members now. What have you been doing to get new members in, what’s your club activity like on a general basis?__
+B: Okay, so you’ve got 60-70 members now. What have you been doing to get new members in, what’s your club activity like on a general basis?
 
 Am: We’re organising our plans, to set up the website, and then talk to people, invite people. We think, for example, if we have a speaker or a date where we do something together, then everybody will turn up. We are in different departments, so we can ask everybody, and they will come.
 
 Ab: On the speaker note, we’ve sent ambassadors to other universities to collaborate with the philosophy societies there, but the most immediate events are the Give it a Go events, which are coming up. Obviously this is for new members to get a taste of what it’s like, they’ll be free events. So we have booked a room, we have planned events.
 
-__B: When’s this going to be?__
+B: When’s this going to be?
 
 Ab: This will be next Tuesday, Thursday and the Tuesday after that. So for the GIAG events, we’re planning open mic debates – so semi-structured debates, where we have one person on either side. I’ll just tell you about the three events.
 
@@ -108,13 +108,13 @@ So the first one is going to be on freedom of speech vs. right to offend, the wh
 
 The second one is on feminism, so we might open up the other side for Feminist society to bring in a speaker. It’s an open mic event, so we’ll try and encourage audience participation. The third one is on privacy vs. security. So these are the three events planned for GIAG.
 
-__B: You mentioned some other uni philosophy societies?__
+B: You mentioned some other uni philosophy societies?
 
 Ab: We’re starting up – the best way to gain strength is to collaborate with other people. So far we’ve been to the UCL philosophy society. They had a talk recently, so the Chair and myself went there, we invited their speaker over to Imperial, so we have Professor Schofield, who might join us next term, who’s a utilitarian. So just to open avenues of collaboration, do joint events with UCL, steal their speakers, that sort of thing.
 
 This Friday was Kings College London – they had a philosophy event, so I went for that. It’s the same thing, just to make ties with other universities. And they were quite enthusiastic – all these universities were interested in doing a big event with all the societies. So that would give us strength.
 
-__B: That’d be exciting! What else have you got on the horizon?__
+B: That’d be exciting! What else have you got on the horizon?
 
 Am: We want to start small, with pub evenings. So we’ll also do casual, just getting together, having drinks and talking about philosophy.
 
@@ -126,7 +126,7 @@ Ab: Speakers are interesting. So like Amelia said, we’ll start small, we’ll 
 
 Eventually, we are looking to get big speakers. There’s no point speculating now, but I think that’s the biggest thing we’re dreaming for, to get someone like Noam Chomsky – that’s our Chair’s dream.
 
-__B: Do you think there are philosophers at Imperial? Obviously, we’re all scientists.__
+B: Do you think there are philosophers at Imperial? Obviously, we’re all scientists.
 
 Ab: Well, science did used to be called natural philosophy!
 
@@ -136,21 +136,21 @@ Ab: We have so many religious societies – that’s an area of philosophy.
 
 Am: Everybody has a philosophy, even if they don’t know it, even scientists!
 
-__B: Are you guys planning anything with the religious societies?__
+B: Are you guys planning anything with the religious societies?
 
 Ab: We are. I mean, the goal right now is to be at least a little bit controversial.
 
-__B: It doesn’t count if you don’t offend someone?__
+B: It doesn’t count if you don’t offend someone?
 
 Ab: The main thing is that... We have a debating soc, public speaking soc, so we need to distinguish ourselves by making the issue philosophical, not political or religious.
 
 But free speech is not about what should the government do – it’s about the philosophy behind it, the principles. Do we have certain rights? Are we born with certain rights? Those are the questions we’re trying to answer.
 
-__B: What’s your membership like? Are you mostly undergrads, postgrads, medics?__
+B: What’s your membership like? Are you mostly undergrads, postgrads, medics?
 
 Am: We want to have a mix, actually, so that everybody can come.
 
-__B: I have a couple of fun questions. First one: stranded on a desert island, and you can only take three things with you.__
+B: I have a couple of fun questions. First one: stranded on a desert island, and you can only take three things with you.
 
 Ab: Are we speaking as members of SocSoc, in which case I should say Nietzsche, or would that be too pretentious? I like to write, I’d take a notebook (and a pen, obviously).
 
@@ -164,14 +164,14 @@ Ab: Isn’t that all you need in life?
 
 Am: And a bottle of champagne! Forget the food.
 
-__B: And your favourite philosopher? Your personal one.__
+B: And your favourite philosopher? Your personal one.
 
 Am: I really like Montaigne.
 
 Ab: I love Nietzsche. I’m just that kind of person, don’t judge me. People burst into laughter when I mention Nietzsche. I was at KCL, and they’re very against continental philosophy, from what I’ve heard. I mentioned Nietzsche and almost got kicked out... Nietzsche was controversial, but you shouldn’t be afraid to be controversial.
 
-__B: Anything else you want to say?__
+B: Anything else you want to say?
 
 Ab: I want to say that everyone should join now while membership is free, because we are going to start changing for it! Right now it’s free and you should join.
 
-__B: Great, thanks guys!__
+B: Great, thanks guys!

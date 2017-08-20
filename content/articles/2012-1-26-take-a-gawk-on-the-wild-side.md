@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-If labs and essay deadlines have so far prevented you from paying a visit to the __Natural History Museum__ and you’re looking for an excuse to get out of the library: forget the dinosaurs, forget the massive blue whale and forget the Kobe earthquake room, because if there’s one exhibition that you actually have to make it to between now and March 11th this is it: _Wildlife Photographer of the Year_.
+If labs and essay deadlines have so far prevented you from paying a visit to the Natural History Museum and you’re looking for an excuse to get out of the library: forget the dinosaurs, forget the massive blue whale and forget the Kobe earthquake room, because if there’s one exhibition that you actually have to make it to between now and March 11th this is it: _Wildlife Photographer of the Year_.
 
 The NHM and BBC Wildlife have been organising and collaborating on the competition every year since 1964, when a humble 600 submissions were received for just 3 categories. This year’s panel of judges were faced with more than 40,000 entries from all round the world; proof of just how prestigious the competition has become over the last half century.
 
@@ -39,4 +39,4 @@ With outstanding contributions in many different categories and by many differen
 
 Seriously, don’t take my word for it: just go see.
 
-_[Wildlife Photographer of the Year](http://www.nhm.ac.uk/visit-us/whats-on/temporary-exhibitions/wpy/)_at the __Natural History Museum __until March 11
+_[Wildlife Photographer of the Year](http://www.nhm.ac.uk/visit-us/whats-on/temporary-exhibitions/wpy/)_at the Natural History Museum until March 11

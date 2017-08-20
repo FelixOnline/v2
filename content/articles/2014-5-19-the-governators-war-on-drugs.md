@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Sabotage__
+Sabotage
 
-__Director:__ David Ayer
+Director: David Ayer
 
-__Writers:__ Skip Woods, David Ayer
+Writers: Skip Woods, David Ayer
 
-__Starring: __Arnold Schwarzenegger, Sam Worthington, Terrence Howard, Joe Manganiello, Josh Holloway, Max Martini, Mireille Enos, Olivia Williams
+Starring: Arnold Schwarzenegger, Sam Worthington, Terrence Howard, Joe Manganiello, Josh Holloway, Max Martini, Mireille Enos, Olivia Williams
 
-__Runtime: __109 minutes
+Runtime: 109 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 2/5
 

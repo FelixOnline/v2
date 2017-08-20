@@ -32,7 +32,7 @@ highlights:
 ---
 
 Seasons come and go, but Christmas never changes and considering that it’s only 65 shopping days away, you might as well get started making your wish list (parents do need something to spend money on!). So to help you get an idea, here are 4 budget tablets that might tickle your fancy!
-## __iPad Mini__
+## iPad Mini
 On the 18th of October 2010, Steve Jobs famously said: “seven inch tablets should come with sandpaper, so users can file their fingers down.” Now, almost two years to the day, the Apple rumour mill is going crazy about what will be released within the next weeks. Yes ladies and gentlemen, it seems Apple is releasing a 7 inch tablet. However, will this be the end of Apple and their marketing genius?
 
 > Steve Jobs: “seven inch tablets should come with sandpaper, so users can file their fingers down.”
@@ -85,7 +85,7 @@ Windows 8. What else can one say. Windows 8 is Microsoft’s newest OS, and it h
 which for most students is a bonus! Two cons that I do have to mention, is, firstly, the apparent worries that many experts have about Windows 8. So when you buy the Surface, you will be buying into something that is new and untested. Secondly, programs can only be downloaded from the Windows store (“metro style”), but when you are used to tablets today, this sounds like what we all know and love. The problem with this, similarly to the Kindle, is the limiting app store. The Windows Marketplace has only about 100,000 apps. So what you ask? Well how many are going to be optimised for the Surface?
 
 The Surface seems to be a great tablet, and it surely will make some kind of impact into the tablet market. Hopefully we will be seeing cheaper iterations of the Surface in the future, but, honestly, for what you are getting it is a bit cheeky wanting it to be less than 400 pounds.
-## __Google Nexus 7__
+## Google Nexus 7
 
 {{< figure src="http://felixonline.co.uk/img/upload/201210211510-jp1409-final-nexus.jpg" title="" caption="" attr="" >}}
 

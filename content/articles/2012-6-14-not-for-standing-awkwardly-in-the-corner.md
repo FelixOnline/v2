@@ -38,4 +38,4 @@ The dynamic interplay between the trio maintains the evening’s high-tempo; the
 
 To call it revision might be something of an exaggeration, but what it lacks in applicable exam knowledge it makes up in more subtle ways. I don’t think I’m alone in having had my love of science tested during the trials and tribulations of an undergraduate degree. I came out of _FOTSN _with my chest puffed out and filled with that fuck-yeah feeling that physics hadn’t sparked in me for some time. We’ve all got a geek inside of us and it pays to indulge it, at least once in a while.
 
-You can see _FOTSN_ at this year’s [__Edinburgh Fringe Festival__](http://www.edfringe.com/whats-on/comedy/festival-of-the-spoken-nerd) from 1–7 August.
+You can see _FOTSN_ at this year’s [Edinburgh Fringe Festival](http://www.edfringe.com/whats-on/comedy/festival-of-the-spoken-nerd) from 1–7 August.

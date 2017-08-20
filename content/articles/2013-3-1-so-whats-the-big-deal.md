@@ -32,6 +32,6 @@ Think colourful. I’m a sucker for the creamy chicken and bacon pasta bake that
 
 Finally, live a little. All things in moderation is the best mantra to go by, so a little pasta won’t hurt you. Besides, eating pasta triggers a nice dose of feel-good serotonin so it’s a great dietary pick-me-up. If you’re on a diet (really?), either decrease the carb portion, or switch out to wholegrain pasta – it keeps you fuller for longer so you may not need as much, and it’s healthier. See – you really CAN have your cake (I mean, pasta) and eat it too. Viva la pasta!
 
-__Refreshing Tomato and Basil (Base) Sauce__
+Refreshing Tomato and Basil (Base) Sauce
 
 Sweat some onion and garlic in oil, then bung in pure passata/chopped tomatoes (less than half a tin – the Italians use them too) and bring to the boil. Reduce for 5+ mins if making a 1-person portion – if making a bigger batch ahead of time, you’ll need longer. Season with salt/pepper/sugar and some vinegar to taste, then add basil and Basilio’s your uncle. Add chilli flakes for arrabiata, stir in mascarpone for stuff that rivals the Sainsbury’s tubs, use other herbs... tweak it as you will.

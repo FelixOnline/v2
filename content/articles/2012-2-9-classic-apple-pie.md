@@ -28,14 +28,14 @@ This recipe was taken from the book _Vegan Pie In The Sky_ by Isa Chandra Moskow
 
 The great thing about this recipe is that you use olive oil instead of butter and this makes your apple pie much healthier. The olive oil makes the crust extremely flaky and you cannot taste it! This recipe makes a 9 inch pie.
 
-__For the crust:__
+For the crust:
  – 2.5 cups all purpose flour
  – 3⁄4 tsp salt
  – 2⁄3 cup olive oil
  – 4-8 tbsp ice water
  – 1 tbsp apple cider vinegar
 
-__For the filling:__
+For the filling:
  – 6 cups Granny Smith Apples cut in slices
  – 1⁄3 cup brown sugar
  – 1⁄2 cup white sugar
@@ -45,7 +45,7 @@ __For the filling:__
  – 3 tablespoons all purpose flour
  – Pinch of salt
 
-__For the topping:__
+For the topping:
  – 1⁄2 teaspoon cinnamon
  – 2 tablespoons sugar
  – 2 tablespoons soy milk or any milk of your choice

@@ -24,9 +24,9 @@ authors:
 highlights:
 ---
 
-The band is __The Dandy Warhols__. The location is the Kentish Town Forum. The mission? To start a mosh pit. My friend, a die-hard punk fan who is also coming to see the gig remains sceptical. A band known for producing radio-friendly power pop hits to supplement their back catalogue of psychedelic stoner rock is – in theory at least – unlikely to attract the energetic and robust crowd required to partake in behaviour traditionally more suited to more aggressive forms of music.
+The band is The Dandy Warhols. The location is the Kentish Town Forum. The mission? To start a mosh pit. My friend, a die-hard punk fan who is also coming to see the gig remains sceptical. A band known for producing radio-friendly power pop hits to supplement their back catalogue of psychedelic stoner rock is – in theory at least – unlikely to attract the energetic and robust crowd required to partake in behaviour traditionally more suited to more aggressive forms of music.
 
-We enter the venue halfway through the warm up act – an electro band called __AKDK__ who are two drummers/synth players playing arbitrary combinations of either instrument in a largely improvised set. A little rough around the edges and somewhat downbeat, the music itself is decent but lacks the dynamism that characterises good warm up performances.
+We enter the venue halfway through the warm up act – an electro band called AKDK who are two drummers/synth players playing arbitrary combinations of either instrument in a largely improvised set. A little rough around the edges and somewhat downbeat, the music itself is decent but lacks the dynamism that characterises good warm up performances.
 
 After a quick soundcheck, it is time for the main event. Courtney, Zia, Pete and Fathead stride onto the stage, each kitted in their own individual styles. There is the customary roar of anticipation as we await the first notes. Without delay the mesmeric ‘Be-In’ serenades a swaying crowd, slowly gathering in numbers. Although one of their lesser known songs, it is a perfect opener, gently building the atmosphere, priming us for what is to come. Second song of the night is the rousing ‘We Used to Be Friends’ followed without pause by the classic ‘Not If You Were the Last Junkie on Earth’, causing ripples of excitement to swirl through the crowd.
 

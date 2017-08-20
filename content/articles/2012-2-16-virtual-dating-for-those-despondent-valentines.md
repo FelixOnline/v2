@@ -28,7 +28,7 @@ highlights:
  - photos
 ---
 
-__Alyx Vance (HL2 Series)__
+Alyx Vance (HL2 Series)
 
 From: _City 17_
  The Good:_ Feisty yet incredibly practical action girl with energy and brains to spare._
@@ -39,7 +39,7 @@ If you’re looking for the best of both worlds, brains and beauty, then Miss Al
 
 Those wanting a simple life may wish to steer clear however. Expect to be running to keep up with her, both physically and mentally, never settling down for too long. Alyx certainly isn’t one to take the easy route through life, and whilst she’ll come back for you no matter what, it can make for an exhausting relationship.
 
-__Samus Aran (Metroid Series)__
+Samus Aran (Metroid Series)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201202162122-ams111-sexy-real-life-samus-aran-in-life-sized-power-suit-2.jpg" title="" caption="" attr="" >}}
 
@@ -52,20 +52,20 @@ If the term ‘strong independent woman’ were to be applied to anyone it’d a
 
 Still, you can probably see the problem arising here. Love and relationships will take second fiddle if the Space Pirates or the Metroids start becoming a problem again, and Samus isn’t one to put it all behind her for another few minutes snuggling on the couch. Expect to be left behind twiddling your thumbs whilst she’s out saving the galaxy for the umpteenth time.
 
-__Bayonetta (Bayonetta)__
+Bayonetta (Bayonetta)
 
 ![bayonetta_.jpg](/inc/timthumb.php?src=/img/upload/201202162126-ams111-bayonetta_.jpg&w=460px&zc=1&a=t)
 
 From: _Vigrid_
  The Good: _Indulges in a whole host of fetishes, some of which you’re bound to enjoy._
  The Bad: _Indulges in a whole host of fetishes, some of which you’re bound to be utterly sickened by._
- Mr Right: _A man to whom ethics, morals and decency have no meaning, or medieval dungeon keepers (often one and th__e same)._
+ Mr Right: _A man to whom ethics, morals and decency have no meaning, or medieval dungeon keepers (often one and the same)._
 
 A fetishist’s wet dream. Bayonetta is a witch, but don’t go thinking about the ugly sort with warts and all. No, Bayonetta is a gun-toting, demon slaying seductress with legs all the way up to Heaven. The vanilla amongst you will do well to steer clear – Bayonetta is not the girl for those of you looking to raise a nice family and own a cottage with a white-picket fence. Instead you’ll be getting an action-packed sex-crazed thrill ride.
 
 On the other side, an action-packed sex-crazed thrill ride is ALL you’ll be getting. Sounds fun now, but a few months down the line and you’ll be completely knackered with a woman (sorry, witch) still to please. Moreover, whilst some of her fetishes may be hot, others will inevitably scare the living daylights out of you – keep in mind that this wild cat is a witch who kills demons using BDSM techniques.
 
-__Princess Peach (Mario Series)__
+Princess Peach (Mario Series)
 
 ![BrawlPeach.jpg](/inc/timthumb.php?src=/img/upload/201202162128-ams111-brawlpeach.jpg&w=460px&zc=1&a=t)
 

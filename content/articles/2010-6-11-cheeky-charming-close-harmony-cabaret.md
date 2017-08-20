@@ -22,7 +22,7 @@ highlights:
  - longread
 ---
 
-__How did you meet and where did the name Three Little Maids come from?__
+How did you meet and where did the name Three Little Maids come from?
 
 Alex: I met Kate at Kings College where we both studied music, I went up to her on the first day and said “I think you’re really pretty” in her specs and floral shirt, Kate replied “Ok…my names Kate” and we went from there.
 
@@ -36,7 +36,7 @@ Kate: We’re called the Three Little Maids because there’s three of us, and w
 
 Alex: The Three Little Maids song is from the Hot Mikado, a jazzed up version of the G&S classic.
 
-__How would you describe your style and who do you think you appeal to most? __
+How would you describe your style and who do you think you appeal to most?
 
 All: Cheeky charming close harmony cabaret!
 
@@ -50,7 +50,7 @@ Kate: It’s a cross between cabaret and comedy! Our rule is for every serious s
 
 Alex: The thing I’m proud of is not taking ourselves seriously, we’re a little bit silly and have remained true to our individual personalities and our loves, I’ll wank over some Sondheim, Kate will pay homage to Judy Garland…
 
-__Most of you have links with Imperial through MTSoc and MTSoc tour, so can scientists make good performers/lovers?__
+Most of you have links with Imperial through MTSoc and MTSoc tour, so can scientists make good performers/lovers?
 
 Jen: My boyfriend is a scientist and he loves Musical Theatre. Scientists are good because there’s a connection between Maths and Music.
 
@@ -64,7 +64,7 @@ Alex: They have to think creatively , be brave and take risks just as actors do.
 
 All: Our conclusion is…yes!
 
-__What do you enjoy most about performing together and what’s your favourite venue and dream venue?__
+What do you enjoy most about performing together and what’s your favourite venue and dream venue?
 
 Kate: The Old Vic pit bar!
 
@@ -76,7 +76,7 @@ Kate: I enjoy our banter, we’re never quite sure what we’re doing next. Alex
 
 Alex: I feel we have a real partnership so that we can trust our instincts to know what to do on stage. We can be ourselves with people we trust.
 
-__If the Three Little Maids could be joined by 3 Little Men, who would your dream men be?__
+If the Three Little Maids could be joined by 3 Little Men, who would your dream men be?
 
 All: Oooh!
 
@@ -86,7 +86,7 @@ Kate: Can he be dead? Gene Kelly, and we’d choreograph all our numbers.
 
 Alex: I would have the Australian god Philip Quast too. Or, I think we’d push all of those in the sea if Stephen Sondheim joined us on the piano. Leo can join in and clap along, or turn the pages.
 
-__What’s your favourite song to sing?__
+What’s your favourite song to sing?
 
 Kate: I know what I like- Chattanooga Choo Choo.
 
@@ -100,7 +100,7 @@ Alex: Kate rives around on the floor
 
 Jen: Alex bursts out from a curtain
 
-__Whats in store for the Three Little Maids and yourselves individually?__
+Whats in store for the Three Little Maids and yourselves individually?
 
 Kate: Worldwide fame, millions in the bank, lots of lovers
 

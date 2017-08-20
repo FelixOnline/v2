@@ -13,7 +13,7 @@ aliases:
  - /comment/182/whats-wrong-with-camping-everything
 comments:
  - value: >
-     nothing wrong with camping but something is definitely wrong with .... and then he started to raise his voice calling me for everything. <br>____________ <br>Nikolas. <br><a href="http://www.caravanmarket.com.au" rel="dofollow">caravan sales</a>
+     nothing wrong with camping but something is definitely wrong with .... and then he started to raise his voice calling me for everything. <br> <br>Nikolas. <br><a href="http://www.caravanmarket.com.au" rel="dofollow">caravan sales</a>
 categories:
  - comment
 tags:

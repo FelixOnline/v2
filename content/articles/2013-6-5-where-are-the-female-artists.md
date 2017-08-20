@@ -85,10 +85,10 @@ Things may sound bleak, but they are not hopeless. Organisations such as The Gue
 
 In Lynn Hershman Leeson’s film ¡Women Art Revolution!, which documents the growth of feminist art, there is a particularly painful scene in which people are stopped outside the MoMA and asked to name three female artists. None can. Could you? The subjugation of female artists has to end; get in contact with the galleries, and ask them to address the imbalance. Find out more about artists like Louise Bourgeois, Tamara de Lempicka, and Cindy Sherman. Do not allow the plight of the female artist to be confined to the annals of history. The time for change is now!
 
-__Test:__
+Test:
 
 _Can you name all of the female artists that are in this article?_
 
-__Answer:__
+Answer:
 
-_Top to bottom: Yoko Ono, Yayoi Kasama, __Frida __Kahlo__. Laurie Anderson, Tracy Emin_
+_Top to bottom: Yoko Ono, Yayoi Kasama, Frida Kahlo. Laurie Anderson, Tracy Emin_

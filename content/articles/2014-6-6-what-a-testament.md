@@ -24,7 +24,7 @@ highlights:
  - photos
 ---
 
-__W__ho was Mary? From biblical sources we know that she was the mother of Jesus; from them on it gets a little fuzzy, depending on which line of Christianity you’re following.
+Who was Mary? From biblical sources we know that she was the mother of Jesus; from them on it gets a little fuzzy, depending on which line of Christianity you’re following.
 
 But who was Mary _really_? Was she a saint, who ascended to heaven during the Assumption? Or was she just an ordinary woman, who happened to raise one of the most influential men in history? It is this question that Irish writer Colm Toibin is attempting to answer with _The Testament of Mary_, a radical reinterpretation of Mary’s life that veers away from the accepted dogma. Nominated for the Booker Prize in 2013, _Testament _has since been adapted for the stage by Toibin himself, who cuts down his slim novella, which comes in at under 100 pages, to an even more slimline monologue, delivered over the course of 80 minutes by fellow countrywoman Fiona Shaw.
 

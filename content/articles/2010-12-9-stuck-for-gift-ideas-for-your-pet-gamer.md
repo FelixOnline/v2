@@ -36,5 +36,5 @@ For the unenlightened, [Steam](http://steampowered.com), created by [Valve Corpo
 Steam also offers a gifting service. When you go to make a purchase, it offers you the chance to gift the game to a friend instead (who has to be registered on Steam in order to receive the game). Once the purchase is made your friend can log on and download the game immediately, and they don’t have to waste time throwing away gift-wrap. And don’t worry, your friend is told who gifted them the game, and can read any kind, funny or hideously obnoxious message you attached with it.
 
 If Steam isn’t quite your style, why not try [GOG.com](http://www.gog.com)? Good Old Games is another online game service much like Steam which focuses it’s attention instead on the golden oldies. With over 240 titles under its belt it may be worth looking into if you prefer the older class of PC games. GOG is DRM-free and also offers a gifting service, much like Steam, where you are given an option to gift instead of buy a game for yourself. Your friend receives an email containing a virtual gift certificate and by going to the site they can ‘open’ their present – provided they have an account,of course, but setting one up is quick and easy and is something most Imperial students are likely capable of. Hopefully.
- - __Visit Steam store: <http://store.steampowered.com/>__
- - __Visit Good Old Games: <http://www.gog.com>__
+ - Visit Steam store: <http://store.steampowered.com/>
+ - Visit Good Old Games: <http://www.gog.com>

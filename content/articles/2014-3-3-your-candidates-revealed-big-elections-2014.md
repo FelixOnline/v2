@@ -25,888 +25,888 @@ highlights:
  - longread
 ---
 
-__President__
+President
 
 Ahmed Raja, Alberto Perez Robledo, Charles Prichard, Irina Moraru, Jonathan Pratt, Plabon Saha, Thomas Wheeler
 
-__Deputy President (Clubs & Societies)__
+Deputy President (Clubs & Societies)
 
 Abigail de Bruin, Christopher Witham, Irina Moraru
 
-__Deputy President (Education)__
+Deputy President (Education)
 
 Bradly Kneisel, Irina Moraru, Pascal Loose, Selina Leung
 
-__Deputy President (Finance & Services)__
+Deputy President (Finance & Services)
 
 Ahmed Raja, Alexander Savell, Irina Moraru
 
-__Deputy President (Welfare)__
+Deputy President (Welfare)
 
 Arka Sarkar, Christopher Kaye, Irina Moraru
 
-__Felix Editor__
+Felix Editor
 
 Irina Moraru, MacIej Matuszewski, Maximilian Eggl, Philippa Skett
 
-__Student Trustee__
+Student Trustee
 
 Ahmed Raja, Enric Juan Alcocer, Hiba Saleem Danish, Irina Moraru, James Murphy, Shiladitya Ghosh, Tagore Nakornchai, Thomas Lim
 
-__Council Chair__
+Council Chair
 
 Irina Moraru, Paul Beaumont, Stephen Ball
 
 ----------------------
 
-__CGCU President__
+CGCU President
 
 Robert O'Keeffe, Timothy Munday
 
-__Graduate Students' Union President__
+Graduate Students' Union President
 
 Mohammad Ahmadzadeh, Nida Mahmud
 
-__ICSMSU President__
+ICSMSU President
 
 Dariush Hassanzadeh-Baboli
 
-__RCSU President__
+RCSU President
 
 Ahmed Raja, Alberto Perez Robledo, Benjamin Fernando, Cecile Borkhataria, Irina Moraru, Serena Yuen
 
-__RSMU President__
+RSMU President
 
 Alexander Mytenka, Aneesh Misra, Benjamin Warnick
 
 ----------------------
 
-__Gender Equality Officer__
+Gender Equality Officer
 
 Elizabeth Campbell, Irina Moraru, Madeleine Maxwell
 
-__Disabilities Officer__
+Disabilities Officer
 
 Anna Selig, Courtney Williams, Irina Moraru
 
-__Campaigns Officer__
+Campaigns Officer
 
 Irina Moraru
 
-__Black & Minority Ethnic Officer__
+Black & Minority Ethnic Officer
 
 Irina Moraru, Shiqu Qiu
 
-__Ethics & Environment Officer__
+Ethics & Environment Officer
 
 Irina Moraru, Rhiannon Holden
 
-__Interfaith Officer__
+Interfaith Officer
 
 Anwar Sayed, Irina Moraru, Shamim Ahmed
 
-__International Officer__
+International Officer
 
 Cyin San, Irina Moraru, Katherine Chio, Nida Mahmud
 
-__LGBT Officer__
+LGBT Officer
 
 Elizabeth Campbell, Irina Moraru, Kyle Hellemans, Suzanna Gallery
 
 ----------------------
 
-__Aeronautics Departmental Representative__
+Aeronautics Departmental Representative
 
 Andrew Olson Gallardo, Michael Williamson-Taylor
 
-__Biochemistry Departmental Representative__
+Biochemistry Departmental Representative
 
 Adam Haltalli, Alexander Nash
 
-__Bioengineering Departmental Representative__
+Bioengineering Departmental Representative
 
 Sihao Lu
 
-__Biology Departmental Representative__
+Biology Departmental Representative
 
 Sinziana Giju
 
-__Chemical Engineering Departmental Representative__
+Chemical Engineering Departmental Representative
 
 Emilie Lunddahl, Rachel Hounslow, Yehia Amar
 
-__Chemistry Departmental Representative__
+Chemistry Departmental Representative
 
 Annina Sartor, Miriam Norbisrath, Tanitha Mulumudi
 
-__Civil Engineering Departmental Representative__
+Civil Engineering Departmental Representative
 
 Jessica Charter, Jineesha Mehta, Louiza Bartzoka, Shut Leung
 
-__Computing Departmental Representative__
+Computing Departmental Representative
 
 Luke Granger-Brown, Robert Zhou
 
-__Electrical & Electronic Engineering Departmental Representative__
+Electrical & Electronic Engineering Departmental Representative
 
 Dario Magliocchetti-Lombi, Jack Heaffey, Pascal Loose
 
-__Electronic & Information Engineering Departmental Representative__
+Electronic & Information Engineering Departmental Representative
 
 Samuel Kong
 
-__Materials Departmental Representative__
+Materials Departmental Representative
 
 Iacopo Russo, Yi Qiu
 
-__Mechanical Engineering Departmental Representative__
+Mechanical Engineering Departmental Representative
 
 Parikshat Singh, Robert O'Keeffe
 
-__Physics Departmental Representative__
+Physics Departmental Representative
 
 Ahmed Raja, Clark Baker, Victoria Carter-Cortez
 
 --------------
 
-__AeroSoc Chair__
+AeroSoc Chair
 
 Edward Kardouss
 
-__AeroSoc Events Officer__
+AeroSoc Events Officer
 
 Mohan Venugopal, Rishil Dhruva
 
-__AeroSoc Industrial Liaisons Officer__
+AeroSoc Industrial Liaisons Officer
 
 Concepcion Hermida Sanchez, Elinor Merkier, Jamell Samuels, Martin Gonzalez Ramirez, Mayurdhvajsinh Gohil
 
-__AeroSoc Secretary__
+AeroSoc Secretary
 
 Hani Haji Mohd Tahir
 
-__AeroSoc Treasurer__
+AeroSoc Treasurer
 
 Himani Mody, Karan Dhall, Manuel Arbelo Bayo, Miquel Grabulosa Lesniowski, Raam Suresh
 
-__AeroSoc Webmaster__
+AeroSoc Webmaster
 
 Sergiu Iliev
 
-__BioChemSoc President__
+BioChemSoc President
 
 Hannah Maude
 
-__BioChemSoc Secretary__
+BioChemSoc Secretary
 
 Heidi Lai
 
-__BioChemSoc Social Events Officer__
+BioChemSoc Social Events Officer
 
 Tianyuan Sun
 
-__BioChemSoc Treasurer__
+BioChemSoc Treasurer
 
 James Che
 
-__BioChemSoc Vice President__
+BioChemSoc Vice President
 
 Ana-Isabella Tanase
 
-__BioEngSoc Events Officer__
+BioEngSoc Events Officer
 
 Alexander Camuto, Amna Askari, Hugo Muller, Pargol Gheissari
 
-__BioEngSoc Industrial Liaison Officer__
+BioEngSoc Industrial Liaison Officer
 
 Cheryl Chua, Nicolas Ayoub
 
-__BioEngSoc President__
+BioEngSoc President
 
 Millie Tsang, Samuel Oxley
 
-__BioEngSoc Secretary__
+BioEngSoc Secretary
 
 Despoina Paschou
 
-__BioEngSoc Vice President__
+BioEngSoc Vice President
 
 Haroon Chughtai, Johnny Kim, Michele Tonutti
 
-__BioEngSoc Webmaster__
+BioEngSoc Webmaster
 
 Christian Mellor, Enrico Tosoratti
 
-__BioMedSoc Academic Officer__
+BioMedSoc Academic Officer
 
 Mathilde Savary, Megan Chan, Natasha Woods Kreisler, Samuel Tan
 
-__BioMedSoc President__
+BioMedSoc President
 
 Megan Chan
 
-__BioMedSoc Publicity Officer__
+BioMedSoc Publicity Officer
 
 Shiv Mahboobani
 
-__BioMedSoc Secretary__
+BioMedSoc Secretary
 
 Sarrina Tursunova
 
-__BioMedSoc Social Secretary__
+BioMedSoc Social Secretary
 
 Shiv Mahboobani, Veronica Duffy
 
-__BioMedSoc Welfare Officer__
+BioMedSoc Welfare Officer
 
 Merel Eusman
 
-__BioSoc Careers Officer__
+BioSoc Careers Officer
 
 Jack Rawson
 
-__BioSoc Events Officer__
+BioSoc Events Officer
 
 Chieh Hayes, Eva Coles
 
-__BioSoc President__
+BioSoc President
 
 Ahranee Canden
 
-__BioSoc Publicity Officer__
+BioSoc Publicity Officer
 
 Emily Backhouse, Sinziana Giju
 
-__BioSoc Secretary__
+BioSoc Secretary
 
 Alice Weightman, Jack Rawson, Ritobrata Ghose
 
-__BioSoc Treasurer__
+BioSoc Treasurer
 
 Adrian Baily
 
-__BioSoc Vice President__
+BioSoc Vice President
 
 Henry Clifford, Ritobrata Ghose, Thomas Lau
 
-__BioSoc Welfare Officer__
+BioSoc Welfare Officer
 
 Miranda Copps
 
-__CGCU Academic Affairs Officer __
+CGCU Academic Affairs Officer
 
 Ayanle Aden, James Murphy, Raam Suresh
 
-__CGCU Alumni Officer__
+CGCU Alumni Officer
 
 Rumessa Raja, Thitiphan Jarassriwilai
 
-__CGCU Bolt & Spanner Bearer__
+CGCU Bolt & Spanner Bearer
 
 Alexander Johnston, Christopher Browne, Douglas Andersen, Olisaemeka Ufodiama, Timothy Minshall
 
-__CGCU Chairman__
+CGCU Chairman
 
 Gustavo Proeglhoef
 
-__CGCU Honorary Secretary__
+CGCU Honorary Secretary
 
 Lillan Agerup, Shiladitya Ghosh
 
-__CGCU Media & Marketing Officer__
+CGCU Media & Marketing Officer
 
 Yue Yang
 
-__CGCU RAG Coordinator__
+CGCU RAG Coordinator
 
 Arran Hobson Sayers
 
-__CGCU Regalia Officer__
+CGCU Regalia Officer
 
 William Gonsalves
 
-__CGCU Sponsorship Officer__
+CGCU Sponsorship Officer
 
 Ayobami Falana, David Maguire, Hugh Wilman, Nele Bittel, Sol-Uh Park
 
-__CGCU Sports Officer__
+CGCU Sports Officer
 
 Alexander Johnston, Luke Gardner
 
-__CGCU Vice President (Activities)__
+CGCU Vice President (Activities)
 
 Yue Yang
 
-__CGCU Vice President (Finance & Societies)__
+CGCU Vice President (Finance & Societies)
 
 Andrei Hirjanu, Dmitri Ivanov, Mohammad Ali Shahadat
 
-__CGCU Welfare Officer__
+CGCU Welfare Officer
 
 Juliet Kernohan, Victoria Walshaw
 
-__ChemEngSoc Chair__
+ChemEngSoc Chair
 
 Annelisa Hussey, David Clark
 
-__ChemEngSoc Mums & Dads Coordinator__
+ChemEngSoc Mums & Dads Coordinator
 
 Fenna Sleeswijk-Visser, Georgina Bella Tabernero, Jaime Garcia Luengo
 
-__ChemEngSoc Secretary__
+ChemEngSoc Secretary
 
 Alisha Wong, Hannah Moran
 
-__ChemEngSoc Treasurer__
+ChemEngSoc Treasurer
 
 James Ellis, Makhan Gill
 
-__ChemEngSoc Vice Chair__
+ChemEngSoc Vice Chair
 
 Benedetta Bianchi, Rabia Lakhani
 
-__ChemEngSoc Vice Chair (Alumni)__
+ChemEngSoc Vice Chair (Alumni)
 
 Benjamina Bollag
 
-__ChemEngSoc Vice Chair (Events)__
+ChemEngSoc Vice Chair (Events)
 
 Heather Campbell, Jad-Gabriel Habib, Simran Sansoy, Ting Lee
 
-__ChemEngSoc Vice Chair (Industrial Relations)__
+ChemEngSoc Vice Chair (Industrial Relations)
 
 Fraser Gordon, Jana Tian, Michael Tam, Mishaal Nagda, Sarah Bousquet
 
-__ChemEngSoc Vice Chair (Sports)__
+ChemEngSoc Vice Chair (Sports)
 
 Max Fawcett, Richard Glover
 
-__ChemSoc Events Officer__
+ChemSoc Events Officer
 
 Gee Kan, Hayley Weir, Leander Dony, Sophia Hyer
 
-__ChemSoc Marketing Officer__
+ChemSoc Marketing Officer
 
 Andreea-Otilia Suiu, Nikita Bathija
 
-__ChemSoc Ordinary Member__
+ChemSoc Ordinary Member
 
 Alexander Powel, Michael Howlett, Rex Manurung
 
-__ChemSoc President__
+ChemSoc President
 
 Athanasius Andriopoulos, Matthew Blackett, Megan Midson
 
-__ChemSoc Secretary__
+ChemSoc Secretary
 
 Clara Hurst, Elisabeth Koninx, Kelsey Mills
 
-__ChemSoc Treasurer__
+ChemSoc Treasurer
 
 Areeb Mahtey, George Rapley, Joshua Carr, Yash Chawla
 
-__ChemSoc Vice President__
+ChemSoc Vice President
 
 Areeb Mahtey, Markus Artelsmair, Peter Munton
 
-__ChemSoc Webmaster__
+ChemSoc Webmaster
 
 Ryan-Rhys Griffiths, Shane Angoh
 
-__CivSoc Chair__
+CivSoc Chair
 
 Dominik Sznajder, Juliet Kernohan, Orrin Lancaster
 
-__CivSoc Events and Sports Officer__
+CivSoc Events and Sports Officer
 
 Aaron Roberts, Jack Wilkinson, Yue Yang
 
-__CivSoc Industrial Liaison Officer__
+CivSoc Industrial Liaison Officer
 
 Daniel Casas Bofarull, Katarzyna Swiatek, Luis Fernandez-Bravo, Mohamed Gaafar
 
-__CivSoc Livic Editor__
+CivSoc Livic Editor
 
 David Maguire
 
-__CivSoc Secretary__
+CivSoc Secretary
 
 Chloe Detanger, Luke Gardner
 
-__CivSoc Tour Officer__
+CivSoc Tour Officer
 
 Fiona Walport, Hiu Yip, Ian Baldwin
 
-__CivSoc Treasurer__
+CivSoc Treasurer
 
 Frederick Wong, Karoline Lende
 
-__CivSoc Vice Chair__
+CivSoc Vice Chair
 
 In-Chan Kim, Mohamed Gaafar, Paul Zhu, Thomas Baird
 
-__CivSoc Web Officer__
+CivSoc Web Officer
 
 Darren Ramdoo, Stephen Rose
 
-__DoCSoc Chair__
+DoCSoc Chair
 
 Nuri Cingillioglu, Wei He, Yulia Bulgakova
 
-__DoCSoc Events Officer__
+DoCSoc Events Officer
 
 Alexander Rozanski
 
-__DoCSoc GameDev Society Officer__
+DoCSoc GameDev Society Officer
 
 Bradley Pollard
 
-__DoCSoc Industrial Liaison Officer__
+DoCSoc Industrial Liaison Officer
 
 Lawrence Jones
 
-__DoCSoc Secretary__
+DoCSoc Secretary
 
 Charles Roelli, Joel Auterson, Nicolas Prettejohn
 
-__DoCSoc Treasurer__
+DoCSoc Treasurer
 
 Ashley Hemingway
 
-__EESoc Events Officer__
+EESoc Events Officer
 
 Pranav Malhotra, Sautrik Banerjee, Yuchen Wang
 
-__EESoc Industrial Liaison Officer__
+EESoc Industrial Liaison Officer
 
 Adi Krpo, Christopher Winchurch, Hugh MacKinnon
 
-__EESoc Junior Treasurer__
+EESoc Junior Treasurer
 
 Joao Rolo Fermoselle da S, Sol-Uh Park
 
-__EESoc Postgraduate Officer__
+EESoc Postgraduate Officer
 
 Krystallo Hadjicosti
 
-__EESoc President__
+EESoc President
 
 Hee Poh, Lillan Agerup
 
-__EESoc Secretary__
+EESoc Secretary
 
 Salman Arif
 
-__EESoc Vice President__
+EESoc Vice President
 
 Leon Zhang
 
-__EESoc Webmaster__
+EESoc Webmaster
 
 Peter Bridgman
 
-__GradMed Chair__
+GradMed Chair
 
 Harriet Jordan
 
-__GradMed Education Officer__
+GradMed Education Officer
 
 Andrew Logan, Jonathan Lumsdon, Kasim Ahmed, Mark Sykes
 
-__GradMed Journal Club Officer__
+GradMed Journal Club Officer
 
 William Spiller
 
-__GradMed Secretary__
+GradMed Secretary
 
 Rachel Hulatt, Rachel Cotton
 
-__GradMed Treasurer__
+GradMed Treasurer
 
 Eleanor Smith
 
-__GradMed Welfare Officer__
+GradMed Welfare Officer
 
 Efioanwan Andah, Hannah Wilson, Nina Wietek
 
-__GradMed Year 2 Representative __
+GradMed Year 2 Representative
 
 Jessica Thomas
 
-__GradMed Year 3 Representative__
+GradMed Year 3 Representative
 
 Hannah Wilson
 
-__GradMed Year 4 Representative__
+GradMed Year 4 Representative
 
 Matthew Murden
 
-__ICSMSU Academic Officer (Clinical Years)__
+ICSMSU Academic Officer (Clinical Years)
 
 Abdulrahman El-Hilly, Adam Sullivan, Salma Haddad
 
-__ICSMSU Academic Officer (Early Years)__
+ICSMSU Academic Officer (Early Years)
 
 Daniel Christmas, Melanie Coates, Olivia Kuo, Usama Asif
 
-__ICSMSU Academic Officer (Science Years)__
+ICSMSU Academic Officer (Science Years)
 
 Cyin San
 
-__ICSMSU Alumni and Careers Officer__
+ICSMSU Alumni and Careers Officer
 
 Steven Tran
 
-__ICSMSU Clubs and Societies Officer__
+ICSMSU Clubs and Societies Officer
 
 John Golden
 
-__ICSMSU Communications Officer__
+ICSMSU Communications Officer
 
 Daniel Price, Govindpal Kooner, Ju Yoo
 
-__ICSMSU Deputy President__
+ICSMSU Deputy President
 
 Anju George
 
-__ICSMSU Entertainments Chair__
+ICSMSU Entertainments Chair
 
 Callum Brehany
 
-__ICSMSU RAG Chair__
+ICSMSU RAG Chair
 
 Alex Compton, Obinna Abani
 
-__ICSMSU Secretary__
+ICSMSU Secretary
 
 Dina Saleh
 
-__ICSMSU Sites and Services Officer__
+ICSMSU Sites and Services Officer
 
 Kanchana Niruttan
 
-__ICSMSU Social Secretary__
+ICSMSU Social Secretary
 
 Dominic Lagrue, Gursimren Lidder, Maddison Gronager, Mala Mawkin
 
-__ICSMSU Summer Ball Chair__
+ICSMSU Summer Ball Chair
 
 Anna Hurley
 
-__ICSMSU Welfare Officer__
+ICSMSU Welfare Officer
 
 Jennifer Watson, Olaoluwamide Akinwuntan, Orsolya Vittay, Rijul Bohra
 
-__MatSoc Events Officer__
+MatSoc Events Officer
 
 Jonathan Leong
 
-__MatSoc President__
+MatSoc President
 
 Anshumaan Maheshwari, George Wilson, Raymond Zhan
 
-__MatSoc Publicity Officer__
+MatSoc Publicity Officer
 
 Rowan Hedgecock
 
-__MatSoc Vice President__
+MatSoc Vice President
 
 Julien Thevenard, Yuning Zhou
 
-__MathSoc Careers Events Officer__
+MathSoc Careers Events Officer
 
 Irina Moraru, Margherita Rosnati, Tasmin Symons
 
-__MathSoc President__
+MathSoc President
 
 Irina Moraru, Rafael Sanchez Bailo, Robert Rouse
 
-__MathSoc Publicity Officer__
+MathSoc Publicity Officer
 
 Irina Moraru, Sophie Rogers
 
-__MathSoc Social Events Officer__
+MathSoc Social Events Officer
 
 Bhagyata Kinger, Irina Moraru, Julius von Kugelgen, Rikki Rothwell
 
-__MathSoc Treasurer__
+MathSoc Treasurer
 
 Irina Moraru, Jeremy Wu, Kunal Sharma, Yirou Wang
 
-__MathSoc Vice President__
+MathSoc Vice President
 
 Irina Moraru, Rikki Rothwell
 
-__MathSoc Web Editor__
+MathSoc Web Editor
 
 Irina Moraru
 
-__Mathematics Departmental Representative__
+Mathematics Departmental Representative
 
 Arijit Gupta, Irina Moraru, Margherita Rosnati
 
-__MechSoc Chair__
+MechSoc Chair
 
 Patrick Moniz, Rachel Castola
 
-__MechSoc Sponsorship Officer__
+MechSoc Sponsorship Officer
 
 Annabel Felton, Monal Patel
 
-__MechSoc Treasurer__
+MechSoc Treasurer
 
 Ayobami Falana, Christopher Lehrter, Monal Patel
 
-__MechSoc Vice Chair__
+MechSoc Vice Chair
 
 Yeong Tyan Tsai
 
-__PhySoc Careers Officer__
+PhySoc Careers Officer
 
 Rupert Belsham, Thomas Andradi-Brown
 
-__PhySoc Chair__
+PhySoc Chair
 
 Ahmed Raja, Jake Phillips, Sukvinder Banwait, Xuan Chen
 
-__PhySoc Events Officer__
+PhySoc Events Officer
 
 Callum Deakin
 
-__PhySoc Joint Lectures Officer__
+PhySoc Joint Lectures Officer
 
 David Wu, Joseph Durnin
 
-__PhySoc Media Officer__
+PhySoc Media Officer
 
 Ahmed Raja, Joseph Durnin
 
-__PhySoc Outreach Officer__
+PhySoc Outreach Officer
 
 David Wu, Kunal Patel
 
-__PhySoc Secretary__
+PhySoc Secretary
 
 Ahmed Raja, Lucio Milanese, Uttara Raju
 
-__PhySoc Tours Officer__
+PhySoc Tours Officer
 
 Rupert Belsham
 
-__PhySoc Treasurer__
+PhySoc Treasurer
 
 Ahmed Raja, Edan Miles, Nishant Prasad, Sukvinder Banwait
 
-__PhySoc Vice Chair__
+PhySoc Vice Chair
 
 Ahmed Raja, Steven Kleinegesse
 
-__PhySoc Webmaster__
+PhySoc Webmaster
 
 Sunny Amrat
 
-__RCSU Academic Affairs Officer__
+RCSU Academic Affairs Officer
 
 Irina Moraru, Siying Wu, Zoe Hsu
 
-__RCSU Broadsheet Editor__
+RCSU Broadsheet Editor
 
 Irina Moraru
 
-__RCSU Events Officer__
+RCSU Events Officer
 
 Corinna Lamberti, Irina Moraru, Jana Smutna, Scott Adams, Tiffany Chng
 
-__RCSU Exploration Board Representative__
+RCSU Exploration Board Representative
 
 Irina Moraru
 
-__RCSU Honorary Junior Treasurer__
+RCSU Honorary Junior Treasurer
 
 Areeb Mahtey, Frederik Piech, Irina Moraru, James Badman, Philip Fortio, Sukvinder Banwait, Thomas Lau
 
-__RCSU Honorary Secretary__
+RCSU Honorary Secretary
 
 Irina Moraru, Mihaela-Veronica Foisor, Philip Kent
 
-__RCSU Publicity Officer__
+RCSU Publicity Officer
 
 Irina Moraru
 
-__RCSU RAG Champion__
+RCSU RAG Champion
 
 Irina Moraru, Kevin Kwong
 
-__RCSU Science Challenge Chair__
+RCSU Science Challenge Chair
 
 Irina Moraru
 
-__RCSU Sports Officer__
+RCSU Sports Officer
 
 Digant Tyagi, Irina Moraru
 
-__RCSU Vice President (Activities)__
+RCSU Vice President (Activities)
 
 Alan Chang, Irina Moraru, Lucinda Sandon-Allum, Oscar Farrell
 
-__RCSU Vice President (Operations)__
+RCSU Vice President (Operations)
 
 Ahmed Raja, Beichen Nie, Guillaume Trojani, Irina Moraru, Jasper Menkus
 
-__RCSU Web Communications Officer__
+RCSU Web Communications Officer
 
 Irina Moraru
 
-__RCSU Welfare Officer__
+RCSU Welfare Officer
 
 Akash Jyoti, Irina Moraru
 
-__RSMU Academic Liaison Officer__
+RSMU Academic Liaison Officer
 
 Emma Toms
 
-__RSMU Balls Officers__
+RSMU Balls Officers
 
 Abigail Trice, Bethan Clark, Madeleine Hann
 
-__RSMU Davy Bearer__
+RSMU Davy Bearer
 
 George Warner
 
-__RSMU Honorary Secretary__
+RSMU Honorary Secretary
 
 Lily-Mae Fisher, Simon Escobar Steinvall
 
-__RSMU Junior Treasurer__
+RSMU Junior Treasurer
 
 Jack Wood, Matthew Pike
 
-__RSMU Pitlicity Officers__
+RSMU Pitlicity Officers
 
 Samuel Argyle
 
-__RSMU Regalia Officers__
+RSMU Regalia Officers
 
 Charlie Singer, Eleanor Bryant, Emma Crewdson, Emma Watson, Sophie Butcher
 
-__RSMU Sponsorship Officer__
+RSMU Sponsorship Officer
 
 Stuart MacGowan
 
-__RSMU Student Welfare Officer__
+RSMU Student Welfare Officer
 
 Emma Crewdson, Rachael Shuttleworth
 
-__RSMU Vice President (Activities & Events)__
+RSMU Vice President (Activities & Events)
 
 Matthew Irwin, Victoria Tennant
 
-__RSMU Vice President (Clubs & Societies)__
+RSMU Vice President (Clubs & Societies)
 
 Edward Cox
 
 -------------------
 
-__Assassins Guild Grand High Inquisitor (President)__
+Assassins Guild Grand High Inquisitor (President)
 
 Jessica Murray
 
-__Assassins Guild Holder of the Purse (Treasurer)__
+Assassins Guild Holder of the Purse (Treasurer)
 
 Ethan Haley
 
-__Assassins Guild Keeper of the Scrolls (Secretary)__
+Assassins Guild Keeper of the Scrolls (Secretary)
 
 William Trender
 
-__Assassins Guild Patrol Officer__
+Assassins Guild Patrol Officer
 
 Sanchit Sharma
 
-__Assassins Guild Weapons Master__
+Assassins Guild Weapons Master
 
 Aaron Zack, Guy Emanuel, Iranga Tilak Weerasuriya
 
-__Bright Futures Treasurer__
+Bright Futures Treasurer
 
 Areeb Mahtey
 
-__Environmental Society Chair__
+Environmental Society Chair
 
 Martin Arnold
 
-__Environmental Society Head Apiarist__
+Environmental Society Head Apiarist
 
 Stefan Piatek
 
-__Environmental Society Treasurer__
+Environmental Society Treasurer
 
 Cyprien Brochard
 
-__Jazz & Rock Drum Technician__
+Jazz & Rock Drum Technician
 
 Caroline Scott
 
-__Jazz & Rock President__
+Jazz & Rock President
 
 James Targett, Pierre Sutter
 
-__Jazz & Rock Secretary__
+Jazz & Rock Secretary
 
 Ethan Haley, Pierre Sutter
 
-__Jazz & Rock Technical Officer__
+Jazz & Rock Technical Officer
 
 Ethan Haley, Ian Sipin
 
-__Jazz & Rock Treasurer__
+Jazz & Rock Treasurer
 
 Ethan Haley, James Targett
 
-__Jazz & Rock Web Editor__
+Jazz & Rock Web Editor
 
 James Targett, Pierre Sutter
 
-__Judo Competition Secretary__
+Judo Competition Secretary
 
 Zuzana Lednarova
 
-__Judo Men's Captain__
+Judo Men's Captain
 
 Joao Pela Arnauth Pela
 
-__Judo President__
+Judo President
 
 Guillermo Marrero Samarin, Swee Hang Chong
 
-__Judo Secretary__
+Judo Secretary
 
 Ayomide Olatunji
 
-__Judo Social Secretary__
+Judo Social Secretary
 
 Simon Escobar Steinvall
 
-__Judo Treasurer__
+Judo Treasurer
 
 Oliver Ashe, Swee Hang Chong
 
-__Judo Web Editor__
+Judo Web Editor
 
 Ayomide Olatunji, Joao Pela Arnauth Pela, Oliver Lantwin
 
-__Judo Women's Captain__
+Judo Women's Captain
 
 Zuzana Lednarova
 
-__Pole Dancing Chair__
+Pole Dancing Chair
 
 Ashleigh Horner
 
-__Pole Dancing Secretary__
+Pole Dancing Secretary
 
 Alisha Wong
 
-__Pole Dancing Treasurer__
+Pole Dancing Treasurer
 
 Benjamin Howitt

@@ -35,7 +35,7 @@ And for those with beginning of term exams, a Christmas dinner with revision at 
 
 But don’t worry, we’re all in the same boat, and here are some tips that will help you survive the exam stress this time of the year.
 
-__There’s no perfect revision schedule__
+There’s no perfect revision schedule
 
 By the time you’ve come to university, you would have realized that people work best at different times. But during exam periods, the constant comparison between you and the rest of the class can make you forget that.
 
@@ -43,7 +43,7 @@ Talking to an early bird about her revision routine doesn’t mean that you’re
 
 Everyone has their own preferences. This includes how often you take breaks, where you work best, whether you should suspend your Facebook account and even should you should go to a party this evening? The most important thing is to keep track of how well you’re covering the topics. Don’t forget that!
 
-__It’s OK to take breaks__
+It’s OK to take breaks
 
 It is closely related to the point above but very important to emphasise, especially for those preparing to have a revision-plagued holiday. Taking breaks or having a trip abroad is allowed. Diligence may be a virtue but so is temperance. So don’t be a Scrooge and do have some fun.
 
@@ -53,7 +53,7 @@ Well, look at it this way. You can’t overwork yourself and get burnt out, spen
 
 For those with exams practically glaring down their faces, breaks can mean just an evening to cool off so that your brain can have some time to consolidate what it has learned. A break when you need it will make sure what you learned stays in your head and keep you going for the next round.
 
-__People lie__
+People lie
 
 In addition to a cynical truth, it’s also what people do leading up to exams. Your course mates, people in the year above, your sister, your grandpa. If they said that they have stormed through 8 hours a day without as much as a toilet break, they’re most likely lying to you. It’s a good old intimidation technique or an attempt to become ‘holier-than-thou’.
 
@@ -63,7 +63,7 @@ This tip also applies to those guys who lean back on their chairs and said, “O
 
 Best bet? Trust yourself to assess how you’re doing and only take away what is useful, like the relevance of that last lecture. Only you know whether you should spend more or less time revising.
 
-__Take a step back__
+Take a step back
 
 Tunnel vision is the nemesis of exam revision. That’s when you judge your entire academic performance based on the one single thing you happened to focus your attention on in your panic.
 
@@ -73,7 +73,7 @@ These things aren’t going to make or break your exams. As long as what you’r
 
 Try to look at the wider picture of how you’re doing overall. What if instead of attending those revision sessions, you managed to master a particularly difficult topic? Don’t let that one thing pull everything else down.
 
-__Take an even larger step back__
+Take an even larger step back
 
 Near-spiritual anecdote coming up. When I was an undergraduate preparing for my finals, I remember being so stressed that new veins started sprouting across my temples. I was so stressed I don’t think I could hold a normal conversation anymore.
 

@@ -26,9 +26,9 @@ highlights:
 
 ###  The Girl with the Dragon Tattoo
 
-__Director__ David Fincher
-__Screenwriters__ Steven Zaillian, Stieg Larsson (novel)
-__Cast__ Rooney Mara, Daniel Craig, Christopher Plummer, Robin Wright
+Director David Fincher
+Screenwriters Steven Zaillian, Stieg Larsson (novel)
+Cast Rooney Mara, Daniel Craig, Christopher Plummer, Robin Wright
 
 Set in Sweden, the plot revolves around disgraced journalist Mikael Blomkvist (Craig) and 23-year-old hacker Lisbeth Salander (Mara). Diagnosed as mentally incompetent as a child, Salander is a Ward of the State who has, in her short life, been subjected to all manners of physical and mental abuse. Mikael Blomkvist is hired by Henrik Vanger (Plummer), former CEO of a large corporation, to solve the four decade long mystery of the death of his niece. Reluctant at first, Blomkvist finally accepts the job and moves out to the small town of Hedestad, where he is later on joined in his investigation by Lisbeth. What follows is a truly harrowing tale of murder and deceit.
 

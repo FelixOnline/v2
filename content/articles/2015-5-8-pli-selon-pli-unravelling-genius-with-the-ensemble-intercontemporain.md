@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__The Barbican__ brought their ‘Boulez at 90’ celebrations to an end last week with a tribute from the composer’s own ensemble, the __Ensemble Intercontemporain__.
+The Barbican brought their ‘Boulez at 90’ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain.
 
 This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.
 

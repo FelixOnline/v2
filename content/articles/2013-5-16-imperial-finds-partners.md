@@ -30,7 +30,7 @@ The SES-5 will aim to share infrastructure and collaborate to become better. The
 
 The SES-5 have been accused of “ganging up” on the rest of the university sector. Philip Nelson, pro Vice-Chancellor for research at Southampton said that they were not “ganging up on the rest of the sector” and trying to “run off with the loot”. This is the latest alliance to be announced, with others including the N8 group of northern English universities in 2007. The south-western GW4 alliance and the Midlands-based M5 group.
 
-__Imperial partners up for PRiME Chip Research Project__
+Imperial partners up for PRiME Chip Research Project
 
 Imperial College London has partnered with Southampton, Manchester and Newcastle have partnered to develop more efficient computer architectures in a five-year £5.6m PRiME (Power-efficient Reliable many-core Embedded systems) project.
 

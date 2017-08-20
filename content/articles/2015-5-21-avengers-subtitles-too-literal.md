@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-_A__ge of Ultron_ is rapidly approaching a worldwide box office take of one billion US dollars (a touch under £650 million), but that doesn’t mean it hasn’t encountered its fair share of problems.
+_Age of Ultron_ is rapidly approaching a worldwide box office take of one billion US dollars (a touch under £650 million), but that doesn’t mean it hasn’t encountered its fair share of problems.
 
 Joss Whedon’s latest contribution to the Marvel Cinematic Universe has just opened in China, a relative newcomer to the blockbuster film market, and one which Marvel has a record of playing to.
 

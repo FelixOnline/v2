@@ -28,7 +28,7 @@ Dor Guez is a fascinating man. Born in Jerusalem to Christian Palestinian and Je
 
 It is this theme that forms the backdrop of Guez’s first piece of the exhibition, _The Painter,_ an alternative look at the impact of the 1973 Yom Kippur War on one artist. Told with great lyricism, this wonderful piece takes you on an intensely vivid journey, recounting the story of a Jewish Tunisian immigrant who is conscripted as a reservist into the war, only to suffer from PTSD and undergo psychiatric treatment. Drawing haunting parallels to his own life story, Guez does not lay blame on anyone, simply weaving a tragic story that uses regular repetition to help show this reappraisal of past events.
 
-I had honestly never heard about Guez before I researched this show, his first major UK solo exhibition created through collaboration with the __Mosaic Rooms__. Although small, the collection of works on display does leave a great impression of this young artist, someone whose voice may become increasingly important and poignant when commenting on his country’s present.
+I had honestly never heard about Guez before I researched this show, his first major UK solo exhibition created through collaboration with the Mosaic Rooms. Although small, the collection of works on display does leave a great impression of this young artist, someone whose voice may become increasingly important and poignant when commenting on his country’s present.
 
 This exhibition is all about storytelling. Whilst this often plays a role in art exhibitions, it is rarely as integral as in this display, where every piece follows on from the last to paint a matrix of experiences. And whilst you might argue that this causes much of the exhibition to feel thrown together, a cacophony of influences, once you delve into it, you feel totally immersed in the world of Guez’s fictional character.
 
@@ -37,5 +37,3 @@ I feel art always gives such a unique viewpoint of a situation and I often turn 
 From his marginalised role in society, he can interpret a situation in a new, alternative light. This process is evident in _The Painting,_ where Guez analyses how storytelling and individual experience can change, even warp one’s sense of reality. And even if this is a fabricated story from a psychiatrist’s couch, the artist is analyzing dangerously poignant topics. I would certainly say he is one to watch in the future and this ICA exhibition is certainly worth a visit as once again, the Institute has propelled an artist into my and hopefully the public’s consciousness.
 
 _Dor Guez: Sick Man of Europe is being exhibited at the ICA until 12th April. Tickets £1, free on Tuesdays._
-
-____

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-Say “__The Maccabees__”. The response from most people, in order of frequency, would probably be a blank look, “is that something to do with the Jews?”, or one of intense gushing adoration.
+Say “The Maccabees”. The response from most people, in order of frequency, would probably be a blank look, “is that something to do with the Jews?”, or one of intense gushing adoration.
 
 In a way, they’ve had quite a bit of a struggle as five young men churning out indie-pop amongst a sea of countless others doing exactly the same. They were dismissed by many at first as just another hipster band that would no doubt fade away soon enough, and have had a lot to prove.
 

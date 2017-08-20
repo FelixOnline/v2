@@ -24,9 +24,9 @@ highlights:
 
 ###  The Artist
 
-___Director __Michel Hazanavicius
-__Screenwriter__ Michel Hazanavicius
-__Cast __Jean Dujardin, Bérénice Bejo_
+_Director Michel Hazanavicius
+Screenwriter Michel Hazanavicius
+Cast Jean Dujardin, Bérénice Bejo_
 
 The French dream team of director/producer Michel Hazanavicius and actor Jean Dujardin are famous in France for their James Bond spoofs, the OSS 117 films. Now they venture into the States, to 1920s California for a wonderful – and silent – recreation of Hollywood before sound movies really kicked in. The Artist is shot in the same speechless, black-and-white style as the old movies in which the hero, actor George Valentin (Dujardin), stars in so brilliantly, occasionally breaking out into the odd tap-dancing routine to please his adoring audience.
 

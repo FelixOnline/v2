@@ -48,7 +48,7 @@ the side streets and see what you stumble across. Of note, the Agung Rai Museum 
 
 So that’s Ubud in a nutshell. These are, of course, just the highlights. There’s many a hidden gem to be found, especially if you’re feeling adventurous. I’d also say that the rainy season is somewhat underrated; the area is a lot less crowded, room rates are remarkably lower, and the rain itself is a minor inconvenience. Oh, and the rainy season coincides perfectly with the Christmas break and end-of-exams. For me it was a true highlight of Indonesia, and a destination I’d strongly suggest making a focal point of your next holiday agenda.
 
-### __Amori Villa__
+### Amori Villa
 
 With seven gorgeous suites and villas set around a luscious infinity pool that cuts dramatically into a plush forest, this boutique resort is luxury at its finest. Carefully crafted to provide breath-taking panoramic views of the surrounding valley, accompanied by the soothing sounds of the river below, it’s no surprise that this paradise is a TripAdvisor Travellers’ Choice 2014 Winner. And given it’s the brainchild of a couple well-versed in world travel you can rest assured that attention has been paid to the smallest of details.
 

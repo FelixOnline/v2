@@ -30,7 +30,7 @@ _“Some of this actually happened.”_
 
 _“The following is a work of fiction. Any resemblance to persons living or dead is purely coincidental. Especially you Jenny Beckman. Bitch.”_
 
-_From the openings of ____Captain Phillips____, ____Fargo____, ____American Hustle____ and ____500 Days of Summer____. _
+_From the openings of Captain Phillips, Fargo, American Hustle and 500 Days of Summer. _
 
 According to the great uncitable (Wikipedia) before the year 2000 211 films had been produced based on a true story and after 2000, 221 films have been based on a true story. Why is it that this concept has become such a popular trope in modern filmmaking and should we care?
 

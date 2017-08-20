@@ -38,4 +38,4 @@ The study claims that “people are more likely to have sex for a variety of mal
 
 “[This] data provides clear support for common rebound lore, suggesting that people do indeed use sex in the aftermath of a breakup to help them cope with their feelings of distress and to get over or get back at their ex-partners.”
 
-__DOI__: 10.1007/s10508-013-0200-3
+DOI: 10.1007/s10508-013-0200-3

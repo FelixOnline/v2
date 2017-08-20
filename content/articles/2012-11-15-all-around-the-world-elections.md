@@ -29,7 +29,7 @@ highlights:
 
 Americans have chosen the man to lead them for the next four years. China is easing its way to a new leadership. How are other countries doing?
 
-__Jordan__
+Jordan
 
 _23 January 2013_
 
@@ -39,7 +39,7 @@ In reaction to public discontent and pressure for reform, King Abdullah dissolve
 
 Tensions are rising as the need for reform becomes clearer. The Muslim Brotherhood and Islamic Action Front have declared that unless the electoral system in changed, they may boycott the polls. The current system is unbalanced. 60% of the population is of Palestinian origin and vastly underrepresented, with little political power. The opposition demands a parliament where half the seats are allocated to party lists compared to just over a quarter now. The public reaction to this election will be crucial for Jordan’s future. Some observers are already arguing that this is the beginning of the Jordanian Spring.
 
-__Zimbabwe__
+Zimbabwe
 
 _March 2013 (tbc)_
 
@@ -51,7 +51,7 @@ Other than money, the date of the election is very much debated within the count
 
 One last fear remains: a repeat of the violence that followed the last presidential elections in 2008. Morgan Tsvangirai, candidate for the opposition, decided to pull out days before the vote, alluding to violence against his supporters.
 
-__Afghanistan__
+Afghanistan
 
 _5 April 2014_
 

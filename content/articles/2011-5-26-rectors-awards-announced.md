@@ -36,7 +36,7 @@ In an email to members of the Department of Life Sciences, Professor Ian Owens s
 
 The Rector’s Awards for Excellence in Research Supervision were awarded to Professor Anthony Bull and Professor Andrew Bush, who also received Rector’s Medals. The award recognises ‘staff who have made exceptional contributions in providing a supportive learning environment for postgraduate research students’.
 
-__Awards for Excellence in Teaching__
+Awards for Excellence in Teaching
 
 Professor Alan Armstrong
  Mr Greg Artus
@@ -56,16 +56,16 @@ Professor Alan Armstrong
  Professor Andrew Walden
  Professor Helen Ward
 
-__Rector’s Medals for Outstanding Contribution to Teaching Excellence__
+Rector’s Medals for Outstanding Contribution to Teaching Excellence
 
 Mr Zen Makuch
  Dr Sandra Shefelbine
 
-__Rector's Medal for Outstanding Innovation in Teaching__
+Rector's Medal for Outstanding Innovation in Teaching
 
 Dr Jane Saffell
 
-__Rector’s Medals for Excellence in Research Supervision__
+Rector’s Medals for Excellence in Research Supervision
 
 Professor Anthony Bull
  Professor Andrew Bush

@@ -26,7 +26,7 @@ highlights:
  - comment
 ---
 
-__GupShup (Chit Chat) Corner__
+GupShup (Chit Chat) Corner
 
 The [RA.One](http://www.imdb.com/title/tt1562871/) trailers have been creating a buzz ever since they were released at the end of March. This superhero flick starring the biggest movie star the world has ever seen, Shah Rukh Khan, is the most expensive in Indian history and is being predicted as a blockbuster to replace all others. With the Spiderman team in charge of the visual effects, Hans Zimmer (Gladiator, Inception) providing the background score and Akon lending his voice to a song, RA.One will undoubtedly grab the attention of a larger international market come 26th October.
 
@@ -34,7 +34,7 @@ The third instalment of the [Dhoom series](http://en.wikipedia.org/wiki/Dhoom_se
 
 Confirmed! Yash Chopra’s keenly awaited returning venture (after Veer-Zaara, 2004) to the silver screen will star his favourite King Khan alongside two leading ladies yet to be cast. And none other than the great A.R.Rahman will be composing the music for what will undoubtedly be another mesmerising love story.
 
-__Snippet Reviews__
+Snippet Reviews
 
 [Faltu](http://www.imdb.com/title/tt1667076/) ***
  Starring: Jacky Bhagnani, Arshad Warsi, Ritiesh Deshmukh

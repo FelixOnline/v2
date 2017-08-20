@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course. Last week the students sat their Operating Systems paper, but moments after the exam started there were fits of laughter as the department had accidentally left the mark scheme for the first half of the paper attached.__
+More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course. Last week the students sat their Operating Systems paper, but moments after the exam started there were fits of laughter as the department had accidentally left the mark scheme for the first half of the paper attached.
 
 After some discussion between the invigilators, the papers were collected and replaced with fresh copies minus the offending sheet. When asked by the Daily Mail for a statement the College said:
 

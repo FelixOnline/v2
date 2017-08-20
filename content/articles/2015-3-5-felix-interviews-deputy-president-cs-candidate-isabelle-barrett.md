@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-__What made you run for this position?__
+What made you run for this position?
 
 There’s a lot more to Imperial than academia. Clubs and societies are an integral part of university life; they give a feeling of achievement, belonging and ultimately happiness, which is crucial for welfare.
 
@@ -35,21 +35,21 @@ I know how the union works with experience from the society committee level to m
 
 As my #challengethecarrot campaign (challengethecarrot.co.uk) will show you, my dedication is unwavering. The campaign might appear silly, but my manifesto points are far from it. They are realistic and achievable, and given the chance to implement them, I could make a real difference to your lives at Imperial.
 
-__What is the main change you would like to implement if elected?__
+What is the main change you would like to implement if elected?
 
 The number and variety of clubs and societies at Imperial is ever increasing, which is brilliant. However, in order to most effectively oversee and support these societies, a reorganisation of the management boards is now necessary. The current DPCS, Abi, has already made brilliant progress with this: I would ensure that a reshuffle is finalised before budgeting 2016.
 
 This would especially benefit the smaller societies, developing societies, and those which, for whatever reason, might currently be struggling. Support from multiple management levels is key to fundamental club and society success!
 
-__What is your favourite thing about Imperial?__
+What is your favourite thing about Imperial?
 
 It may sound cliché, but my favourite part of Imperial by far is the people. You are the ones that make the clubs and societies here so great and so diverse, with such admirable dedication and enthusiasm. It would be incredible to be your DPCS and to be involved so directly in all the amazing things you do!
 
-__How do you plan to adjust eActivities to “improve accessibility?” Are you qualified enough to rebuild eActivities?__
+How do you plan to adjust eActivities to “improve accessibility?” Are you qualified enough to rebuild eActivities?
 
 Having sat on multiple committees during my time at Imperial, and particularly as current chair of IC Big Band, I have had extensive experience of eActivities. I know that the current issue with it is not the underpinning technology, nor is it the availability of user guides – in fact the current guides are comprehensive and clear! But it is accessing this information which is difficult and is holding the site back. As DPCS I would guide alterations to the user interface, working with other union staff to facilitate this.
 
-__In what way do you think smaller clubs need support?__
+In what way do you think smaller clubs need support?
 
 Smaller and developing clubs often lack the experienced officers that other larger and more established clubs have. They therefore require greater support and guidance from management boards and higher powers.
 
@@ -57,7 +57,7 @@ From speaking to students, it is clear there is also a fundamental sense of unfa
 
 As DPCS, I would seek to increase the fairness and transparency of funding and resource allocations, as well as increasing support available for club committees by improving training for officers at higher management levels. Setting in stone a fundamental management board reorganisation would also improve the help and support available.
 
-__How do you plan to protect “training grounds” that are not under the control of the Union?__
+How do you plan to protect “training grounds” that are not under the control of the Union?
 
 I understand that this is an issue for which resolutions cannot be set in stone, so the fight must go on! If used properly, the Union’s influence can have an impact on different college boards as well as powers outside of Imperial – with my experience and dedication I would be able to utilise this influence to the fullest possible extent.
 

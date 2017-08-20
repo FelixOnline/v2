@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-To coincide with the world premiere of her latest film installation ‘Yellow Patch’, the [__Whitechapel Gallery__](http://www.whitechapelgallery.org/exhibitions/zarina-bhimji) in East London is currently showing the first major retrospective of the artwork of Zarina Bhimji. Born in Uganda to Indian parents, Bhimji left for Britain in the early 1970s to escape the brutal regime of Idi Amin. This complex cultural history cannot help but heavily influence her work, and partly explains her passionate focus on themes of loss, pain, and human displacement.
+To coincide with the world premiere of her latest film installation ‘Yellow Patch’, the [Whitechapel Gallery](http://www.whitechapelgallery.org/exhibitions/zarina-bhimji) in East London is currently showing the first major retrospective of the artwork of Zarina Bhimji. Born in Uganda to Indian parents, Bhimji left for Britain in the early 1970s to escape the brutal regime of Idi Amin. This complex cultural history cannot help but heavily influence her work, and partly explains her passionate focus on themes of loss, pain, and human displacement.
 
 The exhibition opens with some of Bhimji’s earlier work, a collection of photographs from her series, ‘Love’. Taken on her visits back to Uganda, the photographs capture with vivid and harsh intensity the scenes of decay and abandonment she finds there. In one, an enormous chandelier lies disused, dominating the tiny room it now inhabits as the bright light refracting through its glass hints at the awe it would have once inspired. In another, a family home, bathed in warm sunlight, sits derelict and empty, poignant due to the obvious, aching absence of the family who once lived there. This idea, of places now empty where there once was such a strong human presence, echoes throughout the collection, from the mountain of abandoned paperwork that fills up one image, each file the ghost of a person now forgotten, to the mysterious bag of hypodermic syringes that invades and taints the image of an otherwise barren, natural scene. It is with great talent that Bhimji manages to somehow capture the intense beauty in such desolate and emotive moments.
 
@@ -37,4 +37,4 @@ I found myself similarly unappreciative of the two other smaller collections on 
 
 Despite these criticisms, I’d still recommend the exhibition, even if only for ‘Love’. The emotive power and haunting beauty of some of that collection is undeniable, and as for the others... Well, perhaps I just didn’t ‘get’ them.
 
-_Zarina Bhimji_ at the __Whitechapel Gallery__ until March 9
+_Zarina Bhimji_ at the Whitechapel Gallery until March 9

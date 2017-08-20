@@ -47,21 +47,21 @@ All sounds good and ready to give it a go? Well you’re not alone! Currently al
 
 Last year, 100% of SVW volunteers agreed that participating in SVW had been a positive experience for them, so it’s now time for you to get involved!
 
-__What’s On – Student Volunteering Week__
+What’s On – Student Volunteering Week
 
 Events will be running throughout next week across campus and around London. There’s something for everyone!
 
-__Throughout the week__
+Throughout the week
 
 Find us in the JCR to learn about the different opportunities some of our student led projects provide, including Imperial Co-op, Raincatcher and the El Salvador Project.
 
 Also, is there someone who has given their time to make a positive impact on your time at Imperial? Come to the stall and take part in The Great Volunteer Thank You. All you need to do is write your message on our thank you postcards and we will deliver your appreciations to them!
 
-__Tuesday__
+Tuesday
 
 Inspire school pupils at Imperial – Help give school pupils an exciting tour around Imperial and answer their questions about what university life is like. In association with the Outreach Department.
 
-__Wednesday__
+Wednesday
 
 Hang out with history – spend an afternoon cleaning and gardening at one of London’s oldest and most distinguished cemeteries.
 
@@ -73,23 +73,23 @@ Conversation Cafe – join a ‘speed-chatting’ group bringing English speaker
 
 Get fit and make a difference with GoodGym – join students from across London on a run to a community that needs your help.
 
-__Thursday__
+Thursday
 
 Science discovery afternoon – spend an afternoon inspiring the next generation of scientists in a local primary school by demonstrating some fun, interactive experiments.
 
 Help out at Imperial Co-op stall – making ethical food more accessible for students by selling a wide range of Fairtrade and organic food to students.
 
-__Friday__
+Friday
 
 Friday food collection – help out on a stall collecting dry food and tins for a local foodbank. Or bring along any un-perishable food that’s been sitting in your cupboard.
 
-__Sunday__
+Sunday
 
 Help feed the homeless – join Imperial Souprun on their weekly trip around the local area, collecting and distributing food and hot drinks amongst local homeless people.
 
 All attendees will be invited to our Thank you event, where you will be joined by some of the regular volunteers, as well as some of our beneficiaries.
 
-__If you don’t have much time__
+If you don’t have much time
 
 Desk to Difference – don’t have enough time to volunteer? Come along to our lunchtime drop in and write a letter to a child in hospital or answer queries from visually impaired people through an iPhone app. Drop in sessions on Tuesday (SAF 121) and Thursday (SAF 120) lunchtime next week.
 

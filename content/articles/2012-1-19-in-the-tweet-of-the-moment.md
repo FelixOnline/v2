@@ -34,4 +34,4 @@ At times the format is quite repetitive – knowing how the story ends certainly
 
 As contemporary theatre goes, _Pirates of Carthage_ couldn’t have embraced social media much better. I can’t say I’ve seen anything else that effectively tells its narrative from the perspective of the Internet, and I very much doubt this will be the last. And at least until then, as I despair over yet another tweet about how amazing Sherlock is, I can know that somewhere else on the Twittersphere someone is using their 140 characters for a nobler cause. Ahem, Life Sciences.
 
-Pirates of Carthage _is showing at __The Nellie Dean__ 23-24 January, tickets £5._
+Pirates of Carthage _is showing at The Nellie Dean 23-24 January, tickets £5._

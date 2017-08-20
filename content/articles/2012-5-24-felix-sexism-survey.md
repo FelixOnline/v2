@@ -34,6 +34,6 @@ Over the past year, 10 articles and 231 comments have been written about sexism 
 
 Women have always been students at Imperial College, even though it has always been a strongly male dominated environment. A lot has changed over the past few decades: Helen Kemp Porter became the first woman lecturer at Imperial in 1959, women were first allowed into the union bar in 1972 and the ratio is slowly improving, currently at 63.7:36.3. Imperial is actually doing better than the national average for female undergraduates in SET, which was 33.2% in 2007-2008 compared to 35.29% at Imperial.
 
-[__Link to results__](http://www.felixonline.co.uk/img/sexismspread.pdf)
+[Link to results](http://www.felixonline.co.uk/img/sexismspread.pdf)
 
 Update [16:07 – 25/05/2012] – In the print version that the survey results appeared in, it was incorrectly reported that the position of Imperial College Union LGBT officer would be "introduced" next academic year, despite the fact that it is already in place. Felix apologises for this error.

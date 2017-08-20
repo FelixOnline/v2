@@ -27,7 +27,7 @@ When you see me, you would probably guess that I like eating. And you couldn’t
 ## Blueberry flapjack
 Revising hard and need a snack? Need something to go with your tea and getting bored of Hobnobs and (chocolate) Digestives? Here is a yummy and healthier alternative - and it’s super easy to make!
 
-__Ingredients:__
+Ingredients:
 
 300g Porridge Oats
 
@@ -41,7 +41,7 @@ __Ingredients:__
 
 1 teaspoon cinnamon
 
-__Procedure:__
+Procedure:
 
 1. Preheat oven to 180degrees.
 
@@ -65,7 +65,7 @@ These flapjacks can be enough to give you energy for the whole day, so forget ab
 ## Spaghetti Bolognese
 Spag Bol is a typical student food. For me, this food is always exciting, you just can’t get bored of it. This was inspired by a burger recipe, but I just make it in ball shapes.
 
-__Meatballs__
+Meatballs
 
 500g ofmince beef
 

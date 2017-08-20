@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Informal Interviews__
+Informal Interviews
 
 Here we’re talking about a company dinner with a few executives, or perhaps a casual interview for a cool media post somewhere you’ll find yourself fetching everyone’s tea order for your first six months of employment. This type of interview means deciphering the impossible oxymoronic ‘smart/casual’ dress code – but fear not: this is not the Everest climbing mission that it might seem.
 
@@ -31,7 +31,7 @@ An easy ensemble that never goes out of style is the simple pairing of a high-wa
 
 For these pieces on the high street, Zara cuts a wicked jacket and their handbags are excellent too. Think Grace Kelly during the day, or classic Katharine Hepburn. The look graces runways season after season (see last season’s Paul Smith and Michael Kors shows for well-styled examples) and always looks elegant and effortless, yet fabulously stylish.
 
-__Formal Interviews__
+Formal Interviews
 
 There are a few directions a girl can go here: full on skirt suit, coordinating skirt and separates, or a dress. The choice obviously depends on your personal taste and the company you’re interviewing with, but most often, trousers are not the right choice here.
 
@@ -41,12 +41,12 @@ As mentioned before, fabric choice counts: look for cashmere blends for your swe
 
 Skirts should hit just below the knee and sweaters, shirts and jackets should be tailored but not tight. If you’re going to go for a pattern (a subtle check, houndstooth or stripe is acceptable), keep it to one item only, including accessories.
 
-__Grooming__
+Grooming
 
 It is not quite clear why some girls find it so difficult to look properly put-together at interview, the simplest things make the biggest of differences. Make-up should be kept as natural as possible: after a proper cleanse, go for a tinted moisturiser and a touch of concealer with the lightest flush of blusher on the cheeks. Take note: no bronzer, no fake tan and no full-thickness foundation. Beyond anything else, it looks like you’ve tried too hard and with all that effort, all you’ve managed is to look entirely ridiculous. A neutral eye shadow with a touch of eyeliner and a lick of mascara is all you should need.
  As for hair, wearing it up or down is a matter of how you feel most confident. It should look neat and you should not feel the need to fiddle with it. Perfume, if you usually wear it, should be fresh and never overpowering.
 
-__Accessories__
+Accessories
 
 Your shoes and handbag should be good-quality, clean and tasteful, leather (not patent) or suede, in a co-ordinating shade to the rest of your outfit. Shoes and handbag needn’t match; indeed, it can look rather contrived and frumpy if they do. Avoid any designer-emblazoned anything, and worse than that, any designer knock-offs – beyond terrible.
 

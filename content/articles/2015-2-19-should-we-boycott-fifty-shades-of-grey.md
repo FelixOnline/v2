@@ -28,7 +28,7 @@ highlights:
  - longread
 ---
 
-_F__ifty Shades of Grey_ has opened the door for us to talk about sex candidly and honestly in a way that has never been done before, something that can only be a good thing. People are more open to discussing their desires and fantasies than ever, with millions of people exploring new sensations, and rejuvenating their sex lives. But along with this comes a dark side, and ignoring that could be potentially damaging.
+_Fifty Shades of Grey_ has opened the door for us to talk about sex candidly and honestly in a way that has never been done before, something that can only be a good thing. People are more open to discussing their desires and fantasies than ever, with millions of people exploring new sensations, and rejuvenating their sex lives. But along with this comes a dark side, and ignoring that could be potentially damaging.
 
 It’s fantastic that people are starting to experiment with their sexuality. Certainly among young people, the use of restraints and role-play is completely normal. I’ve played games of Never Have I Ever where people have been given incredulous looks upon admitting that they’ve never experimented with being tied up. However, for our parents’ generation, who the books are aimed at, it’s all very risqué, and something that they’ve probably never tried.
 

@@ -26,7 +26,7 @@ highlights:
 
 After a struggle to grab the interest of viewers the last couple of years, the 84th Oscars may have created a positive future for the show. Billy Crystal kept the night running smoothly with his humorous skits, and all the attendees were charismatic and optimistic. Although comedy was present throughout the night, it was a classy and elegant event that when all mixed together, wonderfully celebrated another year of film.
 
-__A leg__
+A leg
 
 The real head-turner, attention-grabber and scene-stealer of the night was not J-Lo’s wardrobe malfunction, but the owner of that right leg pictured on the left. It belongs to none other than Angelina Jolie who, in her black dress with a slit down the (you guessed it) right side, was the talking point of Hollywood.
 
@@ -34,7 +34,7 @@ Her leg has since become so famous that it has its own Twitter page, dubbed [@an
 
 Presenting the Best Adapted Screenplay award, Jolie attracted laughter from the audience standing in her awkward pose that showed off her leg.
 
-__Speeches__
+Speeches
 
 The awards given to _The Help_’s Octavia Spencer (Best Supporting Actress), and _Beginners_’ Christopher Plummer (Best Supporting Actor,) were also well-received when both actors received a standing ovation from the audience.
 

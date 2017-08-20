@@ -26,7 +26,7 @@ highlights:
  - photos
 ---
 
-__WTF is Frieze?__
+WTF is Frieze?
 
 Frieze Art Fair, for those of you who have missed the press coverage, is big. It attracts over 60,000 visitors a year and generates enough acres of print to cover the enormous canopy in Regents Park housing the whole circus. Tickets sell out well in advance of the fair, which only lasts a few days. Every year the show kicks off hackneyed argument about the value of contemporary art and profiteering in the art world in general. This is the tenth London fair and nothing has changed.
 
@@ -36,7 +36,7 @@ There are a few really big names; the Gagosian Gallery boasted artworks from Dam
 
 Frieze is a temple to commercial art. It is very difficult to block out the distractions and focus on the perennial questions. What on earth are you looking at? Is it really worth that much and you about to walk past something that will be hanging on the walls of the Tate and 30 years time.
 
-__We hated...__
+We hated...
 
 The best that can be said about most of the contents at Frieze is that is in some way decorative but there was much this did not possess even this lowly merit. Ross Knight’s Form of Togetherness (right) is the worst form of meaningless, ugly rubbish. The sculpture, made from patinated steel, iron, foam, twine, silicon and a massage tool stands as a testament the all that is bloated, ignorant and obfuscated in contemporary art.
 
@@ -48,7 +48,7 @@ This is hardly a surprise. Art is big business and London is currently vying wit
 
 I was nonplussed by a yellow cubewith a barbecue on top and barbecue utensils hanging from the sides (see left). Completely, utterly, confused. I suppose that it is completely valid for a work of art to produce confusion as an emotion in the unsuspecting viewer. Nevertheless, combined with the cynicism I was already experiencing after a couple of hours of wandering around what must surely be one of the most clinical, soulless markets in the world, confusion led to a mere distaste. What was I looking at? Yellow is, coincidentally, one of my favourite colours. The cube was done in quite a warm, pleasant yellow, reminiscent of sunlight through some trippy sunglasses of mine. Was it representative of sunlight? Of blazing coals? Of the golden luck that those people able to own a barbecue experience? This train of thought took me to suburbia, America and the dads who love to grill surf n’ turf on Sunday evenings. Was the piece a representation of the banality, the platitudes, of this style of life? Of it slowly but surely turning into embers? Perhaps. But I’m grasping at loose ends here. In the end, it was just a barbecue mounted on yellow block.
 
-__This was okay__
+This was okay
 
 There were rays of light and plenty of good art scattered around amongst the dross. Yasumasa Morimura’s Self Portrait as Marcel Duchamp is great, clever and concise. Duchamp was famous for misappropriating other people’s work. This is exactly what Mormimura has made a career doing. She creates self portraits referencing a series of artists and artworks from history, some of which can be seen in the background of this image. Even the title is misleading as she takes the part of Duchap’s female companion in this image. Like good art the piece wraps up layers of meaning and questioning whilst retaining a striking and unique aesthetic.
 

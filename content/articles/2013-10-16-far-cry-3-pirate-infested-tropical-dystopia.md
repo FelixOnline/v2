@@ -35,4 +35,4 @@ Jason has a good range of weapons at his disposal that he can purchase at a Raky
 
 The music and sound effects deserve merit too. The realistic and frightening sound tracks truly capture the suspense of the moment and I still find myself listening to some of the legendary soundtracks off YouTube. All this combined with stunning graphics will captivate you for hours of pure joy.
 
-__Far Cry 3 was released in November 2012. It can currently be bought for around £16.99 on PS3, £17.99 on XBOX 360, and £12.99 on PC. __
+Far Cry 3 was released in November 2012. It can currently be bought for around £16.99 on PS3, £17.99 on XBOX 360, and £12.99 on PC.

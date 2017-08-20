@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-__Football__
+Football
 
 _Sunday 21st December: _
 
@@ -48,7 +48,7 @@ _FA Cup third round. _
 
 Expect numerous ‘cupsets’, as the Premier League and Championship teams enter this fabled competition.
 
-__Cricket__
+Cricket
 
 _Tuesday 6th January: _
 
@@ -56,7 +56,7 @@ _Australia v India. _
 
 The third test match in this series is admittedly also during the holidays (it starts on Boxing day), but the Sydney Test match will probably be an emotional affair. The home state of Phillip Hughes, who tragically passed away two weeks ago, will play host to its first International game since the fatal accident.
 
-__Tennis__
+Tennis
 
 _Monday 5th January: _
 
@@ -64,7 +64,7 @@ _The start of the tennis season. _
 
 The tennis season begins in earnest on the 5th January, with tournaments in China, India, New Zealand, Brisbane and Qatar. If men’s tennis is your cup of tea, then turn your attention to Doha, where the top players begin warming up for the Australian Open. The best of the women’s players will be travelling to Brisbane, so be sure to take a look at that as well.
 
-__Golf__
+Golf
 
 _Thursday 8th January: _
 

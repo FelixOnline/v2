@@ -36,6 +36,6 @@ A delightfully energetic chorus also supported the production; the factory scene
 
 The last scene was somewhat perplexing, however, with Senta clutching a model ship and careering across the stage, sobbing. In the original story, she throws herself into the sea after the Dutchman as he sails away, thinking he was sparing her a terrible fate. That is the final act of devotion and her word was proven true; the Dutchman is thus released from his curse and the two ascend into the sky. Such a conclusion is the only suitably dramatic end to such a story, where despair is redeemed by a final act of devotion. A hapless and miserable Senta mourning her love at a model ship just does not quite cut it.
 
-At times brooding, at times light-hearted and at times heart-wrenching, the __Royal Opera House__’s _Der Fliegende Höllander_ is an epic journey across both rough and calm seas, with passionate voices drifting in the wind, carried along by majestic orchestral music.
+At times brooding, at times light-hearted and at times heart-wrenching, the Royal Opera House’s _Der Fliegende Höllander_ is an epic journey across both rough and calm seas, with passionate voices drifting in the wind, carried along by majestic orchestral music.
 
 _Der Fliegende Holländer was on at the Royal Opera House 5th - 24th February_

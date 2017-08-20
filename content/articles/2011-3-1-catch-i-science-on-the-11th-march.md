@@ -36,7 +36,7 @@ However, we do have the Internet, which allows us to pool our resources, share i
 
 It is thanks to this scientific progress that that which was once out of sight, no longer has to remain out of mind.
 
-__Andrew Purcell__
+Andrew Purcell
 
 Co-Editor of [I, Science](http://dougal.union.ic.ac.uk/media/iscience/)
 

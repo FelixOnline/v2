@@ -28,11 +28,11 @@ highlights:
  - comment
 ---
 
-__The Help__
+The Help
 
-__Director__ Tate Taylor
-__Screenwriters__ Tate Taylor, Kathryn Stockett (novel)
-__Cast__ Viola Davis, Octavia Spencer, Emma Stone
+Director Tate Taylor
+Screenwriters Tate Taylor, Kathryn Stockett (novel)
+Cast Viola Davis, Octavia Spencer, Emma Stone
 
 Here is this year’s answer to [_The Blind Side_](http://www.youtube.com/watch?v=i1hG_mjQojw). A feel-good movie that looks at controversial issues involving white guilt and somehow ends up being the year’s most watchable, straightforward films. The only difference is that if any of the cast for [_The Help_](http://www.youtube.com/watch?v=WbuKgzgeUIU) do score some awards for their performances, similar to what Sandra Bullock managed to swing in 2010, the women of _The Help_ would actually deserve the shiny statuettes.
 

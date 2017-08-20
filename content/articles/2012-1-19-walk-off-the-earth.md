@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-We’ve all heard __Walk Off the Earth__’s cover of ‘_Somebody That I Used to Know_’ by Gotye, and if you haven’t then you should get on it, because these guys are actually good. Actually, they’re better than good. They’re talented. And they use their talent creatively.
+We’ve all heard Walk Off the Earth’s cover of ‘_Somebody That I Used to Know_’ by Gotye, and if you haven’t then you should get on it, because these guys are actually good. Actually, they’re better than good. They’re talented. And they use their talent creatively.
 
 A lot of stuff goes on YouTube that really does suck (search for any two random words, and you will find a home video that was not worth the effort of uploading to the web), but that’s great, because after a long day in uni, toilet television might just be what we need to totally numb our brain. But these guys really were worth going viral and I’m happy for them. I mean, come on, they’re catchy, and not just the Gotye cover, but all of their covers. (and when I say catchy, I’m not talking about that frustrating catchy where you end up with Nicole Scherzinger singing in your head... “Why? WHY?!”)
 

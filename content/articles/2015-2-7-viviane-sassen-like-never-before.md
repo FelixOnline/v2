@@ -29,15 +29,15 @@ highlights:
  - photos
 ---
 
-In my opinion, the __ICA__ is simply not appreciated enough. It is on the front line of contemporary art and this means that, although all shows aren’t guaranteed to thrill (such is the risk of pushing boundaries!), you will have an exciting time no matter what — much better this than the rather soulless blockbuster shows of the __Tate__.
+In my opinion, the ICA is simply not appreciated enough. It is on the front line of contemporary art and this means that, although all shows aren’t guaranteed to thrill (such is the risk of pushing boundaries!), you will have an exciting time no matter what — much better this than the rather soulless blockbuster shows of the Tate.
 
-And so I am greeted by Viviane Sassen’s latest exhibition _Pikin Slee_. A true innovator in fashion photography, Sassen abstracts her work to create pieces that transcend all notion of orthodoxy. We last saw her at __The Photographer’s Gallery__, her exhibition _Analemma_, which explored her work in art fashion photography. But her current exhibition at the __ICA__ represented a very different body of her work.
+And so I am greeted by Viviane Sassen’s latest exhibition _Pikin Slee_. A true innovator in fashion photography, Sassen abstracts her work to create pieces that transcend all notion of orthodoxy. We last saw her at The Photographer’s Gallery, her exhibition _Analemma_, which explored her work in art fashion photography. But her current exhibition at the ICA represented a very different body of her work.
 
 > Sassen abstracts her work to create pieces that transcend all notion of orthodoxy.
 
 In 2013, Sassen travelled to Suriname, deep into the jungle to a town where the only outside contact was via canoe — _Pikin Slee_. Here, she documents a world completely alien to her own, the life of the Saramacca people, a traditional way of life where the beauty of nature reigns supreme.
 
-It is not a particularly large collection of works; the __ICA__ is not a particularly large venue; but the exhibition manages to display many aspects of the beauty of this little town. From portraits and documents of the mundane to more abstract pieces, such as the incredible _Warrior_, an anthropomorphic arrangement of palm fronds that trick the eye into seeing something that does not exist.
+It is not a particularly large collection of works; the ICA is not a particularly large venue; but the exhibition manages to display many aspects of the beauty of this little town. From portraits and documents of the mundane to more abstract pieces, such as the incredible _Warrior_, an anthropomorphic arrangement of palm fronds that trick the eye into seeing something that does not exist.
 
 These are the Sassen works that I love, the ones that completely reinvent what one might expect to perceive, whether in fashion photography or in nature. And I do not mind her liberal use of Photoshop. She creates a modernity and dynamism in images that would otherwise pass me by.
 

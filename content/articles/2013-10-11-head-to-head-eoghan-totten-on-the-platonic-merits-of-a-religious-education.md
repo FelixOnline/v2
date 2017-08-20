@@ -42,4 +42,4 @@ Primarily, I find myself at Imperial College London as a direct consequence of t
 
 Secondly and to conclude, I suspect that integration does not need to be institutionalised or labelled and find nothing sinister in that. While my reservations may be platonic, I am convinced that the retention of a religious school system can aid conflict resolution in the North of Ireland. We must be careful not to debase the complexity of the problems in the North to religious disparity. If things are to move forward all parties must work together. This will fail if we are not confident in our own creeds, values and beliefs. In the fitting words of Seamus Heaney, valued Nobel laureate, we need ‘room to rhyme’.
 
-__Note that I disagree with Mr. Fenton’s depicted demographics of Belfast.__
+Note that I disagree with Mr. Fenton’s depicted demographics of Belfast.

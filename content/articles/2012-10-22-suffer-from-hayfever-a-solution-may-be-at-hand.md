@@ -31,11 +31,11 @@ highlights:
 ---
 
 ## What is hayfever?
-__A little history...__
+A little history...
 
 First scientifically described in 1819 by John Bostock, hay fever, also known as allergic rhinitis, is an allergic reaction to small particles in the air that most commonly causes nasal inflammation but may also result in watery eyes and itching throat. These symptoms are the result of the airborne allergens triggering the production of histamine, which produces inflammation. While most people experience only mild effects the condition can cause severe disruption in people lives and may exacerbate the symptoms of asthma.
 
-__Allergy or something else?__
+Allergy or something else?
 
 Despite the condition’s name, hay very rarely produces an allergic reaction. Sufferers instead find themselves hypersensitive to wind distributed pollen, most commonly that of grass, which is responsible for some 90% of cases, but also that of certain trees (such as birch) and other plants.
 
@@ -80,7 +80,7 @@ The evidence from these studies triggered the clinical trial for pollenLITE – 
 
 PollenLITE is currently in the recruiting phase for volunteers, with an advertising campaign including Tube adverts, for trial injections starting in early 2013.
 ## Current remedies
-__Antihistamines__
+Antihistamines
 
 Antihistamines are a group of over the counter drugs currently used to treat hay fever and other allergic reactions. As the name suggests, they work by counteracting the effects of histamine. They do this by acting as antagonists on the H1 histamine receptor. Histamine is an inflammatory mediator released by mast cells in response to immunoglobulin E activation (caused by an allergen such as pollen). Its release in the nasal mucosa causes inflammation, leading to the symptoms of hay fever: nasal congestion, runny nose, itchiness, and sneezing.
 
@@ -90,7 +90,7 @@ There are two broad classes of antihistamines: first generation and second gener
 
 include promethazine, chlorphenamine and clemastine. Second generation antihistamines are larger and less lipophilic molecules. This means they cross the blood-brain barrier less readily, and are therefore less likely to cause drowsiness. For this reason, they are usually recommended over the first generation drugs. Examples of second generation antihistamines include cetirizine, loratadine and fexofenadine.
 
-__Corticosteroids__
+Corticosteroids
 
 Corticosteroids are a form of steroid treatment, and this come with the usual warnings that steroids usually have: mood swings, weight gain, and acne. However they have the benefit of being an incredibly effective form of treatment. They also have the benefit of being a usable form of treatment for pregnant women, and those who do not respond to antihistamines.
 

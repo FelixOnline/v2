@@ -54,4 +54,4 @@ Many thanks should go to the Nottingham University Snooker and Pool Club for org
 
 As for the performance this time around, it was succinctly summed up by Chalmers: “[We’ve] had an absolute shocker!”
 
-_To relive the events as they happened, visit [__http://www.union.ic.ac.uk/rcc/snooker\_billiards/pool/english/updates.php__](http://www.union.ic.ac.uk/rcc/snooker_billiards/pool/english/updates.php) for our website page containing the live updates from the weekend._
+_To relive the events as they happened, visit [http://www.union.ic.ac.uk/rcc/snooker\_billiards/pool/english/updates.php](http://www.union.ic.ac.uk/rcc/snooker_billiards/pool/english/updates.php) for our website page containing the live updates from the weekend._

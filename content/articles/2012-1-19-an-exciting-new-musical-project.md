@@ -22,8 +22,8 @@ authors:
 highlights:
 ---
 
-__Director__ Stuart Murdoch
-__Screenwriters__ Stuart Murdoch
+Director Stuart Murdoch
+Screenwriters Stuart Murdoch
 
 [_God Help The Girl_](http://godhelpthegirl.com/) builds on from a musical project by Stuart Murdoch (of _Belle and Sebastian_ fame) that resulted in a set of EPs and an album of the same name in 2009. The tracks introduce the story of Eve, a girl with much promise and a bright future, whose life falls apart – culminating with a long stay in hospital. It is an album with a sad story to tell, yet does so in a mind-numbingly beautiful manner. Whilst based on Stuart’s band, the songs have an extra punch, making them sound wonderful. Whether this is thanks to the orchestra that Stuart makes excellent use of, or the outstanding voices of Catherine Ireton et al., is left to personal choice.
 

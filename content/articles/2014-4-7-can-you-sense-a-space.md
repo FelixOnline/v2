@@ -23,15 +23,15 @@ authors:
 highlights:
 ---
 
-__What: __Sensing Spaces: Architecture Reimagined
+What: Sensing Spaces: Architecture Reimagined
 
-__Where: __Royal Academy of Arts, W1
+Where: Royal Academy of Arts, W1
 
-__When: __Until 6th April
+When: Until 6th April
 
-__Price: __£16 adults, £9 students
+Price: £16 adults, £9 students
 
-__H__ave you ever been lost in a building? I don’t mean in the physical sense.
+Have you ever been lost in a building? I don’t mean in the physical sense.
 
 The Sensing Spaces: Architecture Reimagined exhibition at the Royal Academy is a remarkable project, that looks at what happens when you deconstruct a construction and explore its most subtle components. The smell of it, the feel of it. The way that single shaft of light alters the atmosphere of the entire room. The way the sound of your footsteps echoing off the walls reminds you of a different place altogether.
 

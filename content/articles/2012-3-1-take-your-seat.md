@@ -25,7 +25,7 @@ highlights:
 
 What starts off as the kind of play you think will predominantly explore the extremes to which political correctness is taken – sometimes creating just the awkwardness and indignity it hopes to avoid – changes course and ends up shining a very cynical light on the soulless and business-only orientated nature of today’s entertainment business.
 
-__Signal Theatre’s__ – a young Chicago company – _A Place at the Table’s_ dialogue is solid and slick. Yet these brilliant little moments are overwhelmed by the long-winded exchanges that go into much too much detail about the ins and outs of how the Biz operates – rather too much to take on board for the average punter who only watches TV… and even a bit too much for someone who works somewhere in the business (yours truly).
+Signal Theatre’s – a young Chicago company – _A Place at the Table’s_ dialogue is solid and slick. Yet these brilliant little moments are overwhelmed by the long-winded exchanges that go into much too much detail about the ins and outs of how the Biz operates – rather too much to take on board for the average punter who only watches TV… and even a bit too much for someone who works somewhere in the business (yours truly).
 
 Good job the cast of four was vibrant enough to keep us interested, each actor a delight to watch regardless of whether the script was going through one of its momentary lulls. Christopher Tester is confident and natural as “the disabled playwright” Adam, with a great Benedict Cumberbatch-esque voice, too. Someone you would think has years of acting experience already behind him.
 
@@ -37,4 +37,4 @@ Eva Tausig as Rachel is funny as the rabbit caught in the headlights intern, and
 
 Director Robert Wolstenholme – another of Signal Theatre’s founders – pulls everything together wonderfully, with some great set design that includes an eye-catching gold BAFTA award replica. Tuesday 28 February was its opening night. Besides less than a handful of barely noticeable line fumbles, one would never have guessed!
 
-___A Place at the Table__ runs until 17 March at the Tristan Bates Theatre. Tickets £10._
+_A Place at the Table runs until 17 March at the Tristan Bates Theatre. Tickets £10._

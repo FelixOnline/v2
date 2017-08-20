@@ -23,7 +23,7 @@ highlights:
  - photos
 ---
 
-__The City and the City__
+The City and the City
 
 _China Miéville_
 
@@ -31,7 +31,7 @@ _China Miéville_
 
 One of Miéville’s more recent works follows Inspector Tyador Borlu as he investigates a murder in the city of Beszel. Eventually his investigation leads him to Ul Qoma – a separate city that somehow occupies the same site as Beszel. This is a highly acclaimed novel, having won the Hugo, Nebula, Locus, Clarke and the World Fantasy Awards. If you want an introduction to Miéville’s impressive body of work you can’t go wrong with this book.
 
-__A Game of Thrones__
+A Game of Thrones
 
 _George R.R.Martin_
 
@@ -39,7 +39,7 @@ _George R.R.Martin_
 
 The first in George R.R. Martin’s Song of Ice and Fire series, now adapted into hugely popular HBO television series. A high fantasy epic following the Wars of the Roses-inspired power struggles on the continents of Westeros and Essos this is a gritty and compelling read. With five books, each having over 700 pages, having already been published, the long Easter break is the perfect opportunity to catch up on this must-read series.
 
-__Heart of Darkness__
+Heart of Darkness
 
 _Joseph Conrad_
 
@@ -47,7 +47,7 @@ _Joseph Conrad_
 
 Widely agreed to be one of the greatest English language novels, Heart of Darkness follows Joseph Conrad’s recurring character Charles Marlow as travels down the Congo River working as an ivory trader. This is a masterful and brilliantly written exploration of racism, savagery and Western hypocrisy. Best known as the inspiration for the acclaimed Vietnam War film Apocalypse Now this novel is a true masterpiece.
 
-__The Windup Girl__
+The Windup Girl
 
 _Paolo Bacigalupi_
 
@@ -55,7 +55,7 @@ _Paolo Bacigalupi_
 
 Set in the twenty-third century, Bacigalupi’s debut novel follows a cast of characters trying to survive in a Thailand ravaged by global warming and controlled by giant bioengineering companies. Both a hugely imaginative novel and astute social commentary, this The Windup Girl has won multiple awards. Selected as one of the 101 best SF novels of the last 25 years by Damien Broderick and Paul Di Filippo, this is certainly worth checking out.
 
-__More Weird Things Customers Say in Bookshops__
+More Weird Things Customers Say in Bookshops
 
 _Jen Campbell_
 

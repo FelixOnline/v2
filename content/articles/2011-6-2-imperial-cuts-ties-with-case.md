@@ -40,4 +40,4 @@ The Times Higher Education magazine has [reported Imperial’s subscription to b
 
 Imperial receives the most research funding from public sources of any university in the UK except Oxford University, which it ties with. In 2009/2010 it received almost £100 million in research council grants and reported a total annual surplus of around £40 million.
 
-__Editorial: __['Decision to cut ties with CaSE is an embarrassment to Imperial'](http://felixonline.co.uk/comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial/)
+Editorial: ['Decision to cut ties with CaSE is an embarrassment to Imperial'](http://felixonline.co.uk/comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial/)

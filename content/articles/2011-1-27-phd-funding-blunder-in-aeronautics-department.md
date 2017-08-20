@@ -49,7 +49,7 @@ Professor Aliabadi explained that failure to notify students was due to “staff
 
 A similar situation arose regarding the payment of postgraduate students in the Department of Electrical and Electronic Engineering (EEE) [last term](http://www.felixonline.co.uk/?article=200). Students were confused over whether their funding included payment for their four hours of required teaching activities per week. The department was forced to introduce a [new measure](http://www.felixonline.co.uk/?article=374) to reduce the current bursary and have students explicitly earn their lost money. After this latest run of events in the Aeronautics Department, Alex Kendall highlights that such problems “may be more widespread.” He continued “The department has a lot of explaining to do to its students and the Union is looking into whether this is happening in other departments.”
 
-__EPSRC PhD Funding__
+EPSRC PhD Funding
 
 The Engineering and Physical Sciences Research Council (EPSRC) funds research and training in engineering and physical sciences across the UK – investing in excess of £850 million per year. Imperial College London receives approximately £6m per year from the EPSRC, which it distributes to various departments.
 

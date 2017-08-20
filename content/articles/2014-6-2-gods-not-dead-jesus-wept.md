@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__God’s Not Dead__
+God’s Not Dead
 
-__Director:__ Harold Cronk
+Director: Harold Cronk
 
-__Writers: __Hunter Dennis, Chuck Konzelman, Cary Solomon
+Writers: Hunter Dennis, Chuck Konzelman, Cary Solomon
 
-__Starring: __Willie Robertson, David A. R. White, Shane Harper, Kevin Sorbo
+Starring: Willie Robertson, David A. R. White, Shane Harper, Kevin Sorbo
 
-__Runtime: __113 minutes
+Runtime: 113 minutes
 
-__Certification: __PG
+Certification: PG
 
 This film has prompted huge discussion amongst Christians and non-Christians, so, first things first, this is where I stand on the whole religion debate, so you can spot potential bias. I was brought up Catholic, I was christened and confirmed and was Catholic until I was 18 – 19. Around then I became an atheist.
 

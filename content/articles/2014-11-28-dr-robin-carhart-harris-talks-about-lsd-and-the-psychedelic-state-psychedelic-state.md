@@ -34,7 +34,7 @@ Legal restrictions and long-held preconceptions surrounding psychedelics have ha
 
 I met up with him in his offices in Hammersmith and discussed, among other things, the rise and fall of LSD in the scientific and public domain, theories behind hallucinations, near-death experiences and his research in using LSD to understand the inner workings of the mind.
 
-__LSD DISCOVERY __
+LSD DISCOVERY
 
 To fully understand where science is today we must take a brief look it’s past. The discovery of LSD’s unique effects arose accidently by Albert Hofmann during the 1930s.
 
@@ -42,7 +42,7 @@ Then a 37 year old medicinal chemist at the pharmaceutical company Sandoz in Bas
 
 During this pursuit in April 1943, he inadvertently exposed himself to LSD, an ergotamine derivative, and came home one day to find himself tripping balls, or as he puts it: “I perceived an uninterrupted stream of fantastic pictures, extraordinary shapes with intense kaleidoscopic play of colours.”
 
-__CONTROVERSY __
+CONTROVERSY
 
 Soon after this quirky discovery, further scientific research established that LSD could lower ego defences and potentially allow access to the unconscious mind, revealing it as a potential tool to use in conjunction with psychotherapy treatments.
 
@@ -56,7 +56,7 @@ People began taking LSD for pleasure and popularity of the drug grew almost syno
 
 In 1966, due to bad publicity and political concerns, the authorities took direct action against LSD and made it illegal in the United States. What shortly followed was the implementation of the UK Misuse of Drugs Act in 1973, classing LSD under Schedule I, which by definition assumes it has little or no therapeutic value.
 
-__ ____SUGGESTIBILITY______
+ SUGGESTIBILITY
 
 Since then, the story has stayed much the same and drug policies more or less haven’t changed since the 1970s. In the Centre for Neuropsychopharmacology at Imperial College, however, Dr Robin Carhart-Harris is pioneering investigations into LSD with results that suggest a change is long overdue as current drug laws suffocate the progression of neuroscience research. By piling up strong evidence-based scientific knowledge on LSD’s effects on the brain, Carhart-Harris is bringing a refreshingly scientific approach to this weird and wonderful drug.
 
@@ -74,7 +74,7 @@ When they asked participants to rate the vividness of the experience, the extrem
 
 However, it remains a territory that some people from a strict medical perspective might question. “There is this psychological element that some people might find too qualitative and abstract. But you just have to look at the placebo effect to see how effective it can be,” Carhart-Harris explains.
 
-__ADDICTIONS__
+ADDICTIONS
 
 Alongside apparent heightened suggestibility, Carhart-Harris’ research indicates that LSD could help with the treatment of addictions and depression. “Ordinarily when we experience the world, we do so in such a constrained manner...habits and routines we have are all about digging certain channels in a way that we slip into,” he says. “Psychedelics start to fill in those channels that have already been dug out so that they are shallower and you can start falling into different channels.”
 
@@ -84,7 +84,7 @@ Using psychedelics to disrupt reinforced patterns on the brain in people with ad
 
 “I have a strong conviction that [psychedelics] will develop into therapeutics in the coming decades,” Carhart-Harris says.
 
-__HALLUCINATIONS__
+HALLUCINATIONS
 
 Out of interest, I thought I’d pick the doctor’s brain on his theory behind the manifestation of hallucinations while under the influence of psychedelic drugs. These phantom visions have historically played a huge role in mysticism, the history of religion and the religious experience.
 
@@ -92,7 +92,7 @@ Out of interest, I thought I’d pick the doctor’s brain on his theory behind 
 
 What you see with psychedelics is that these priors and predictions start slipping into conscious when not induced,” he clarifies. “Essentially what you are seeing under LSD is the brain itself, the information that the brain already holds is slipping into our normal consciousness.”
 
-__DMT__
+DMT
 
 “There are always drugs we would like to look at, but are unable to because of limited resources and prioritising research” Carhart-Harris says when asked if there were any other psychedelics he would like to investigate apart from LSD and psilocybin.
 

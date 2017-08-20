@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__O__n January 20th European tensions, sparked by Prime Minister Cameron’s utilisation of migration as a political chess piece, came to a head. The tone of UK-Europe relations were reflected in the words of German Foreign Minister (and Social Democrat), Walter Steinmeier.
+On January 20th European tensions, sparked by Prime Minister Cameron’s utilisation of migration as a political chess piece, came to a head. The tone of UK-Europe relations were reflected in the words of German Foreign Minister (and Social Democrat), Walter Steinmeier.
 
 “Many young people from southern Europe are coming to us, to learn and study. That benefits us and also helps the states from which they come...Whoever questions that damages Europe and damages Germany.”
 

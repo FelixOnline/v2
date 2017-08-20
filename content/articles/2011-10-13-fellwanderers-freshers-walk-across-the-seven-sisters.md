@@ -36,4 +36,4 @@ Finally, about an hour ahead of usual schedule we arrived in Eastbourne and regr
 
 Unlike many previous years, trains were actually running from Eastbourne and this Sunday walk was devoid of dreaded bus replacement services. The journey home was much quieter, and while many took the chance for a quick nap, there were some evaluations made of the trip too. The general consensus amongst the new members was that the trip was a “success” and “good”, however one not-so-satisfied newbie did state “Beachy Head wasn’t all it was cracked up to be”.
 
-If you want to join us on a trip, either just for the day or for one of our weekend trips then come and meet us in Beit Quad where we meet every Tuesday at lunchtime. Always feel free to email __fellwa@imperial.ac.uk__ to find out more!
+If you want to join us on a trip, either just for the day or for one of our weekend trips then come and meet us in Beit Quad where we meet every Tuesday at lunchtime. Always feel free to email fellwa@imperial.ac.uk to find out more!

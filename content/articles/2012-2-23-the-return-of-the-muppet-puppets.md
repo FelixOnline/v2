@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-[__The Muppets__](http://www.imdb.com/title/tt1204342/)
+[The Muppets](http://www.imdb.com/title/tt1204342/)
 
-__Director__ James Bobin
-__Screenwriters__ Jason Segel, Nicholas Stoller, Jim Henson
-__Cast__ Jason Segel, Amy Adams, Chris Cooper
+Director James Bobin
+Screenwriters Jason Segel, Nicholas Stoller, Jim Henson
+Cast Jason Segel, Amy Adams, Chris Cooper
 
 They’re back! YES! The fantastic Muppets gang are back on the big screen with a whole new feature length movie for the first time in some years. Yes the story is ridiculous, yes the jokes are cheesy, yes the whole thing is mental but come on – you’ve got to admit you’ve missed them.
 

@@ -34,4 +34,4 @@ An interesting point to note is that because all of the planets orbit relatively
 
 Seven star systems can be quite complicated to deal with and the calculations that need to be performed can become lengthy. Looking for the right transit of the planets “seems like a task that’s perfectly designed for computers. But we keep finding, in these niche cases, in these odd cases, in these complicated cases that humans can beat the computers.”
 
-__[ArXiv: 1310.5912](http://arxiv.org/abs/1310.5912)__
+[ArXiv: 1310.5912](http://arxiv.org/abs/1310.5912)

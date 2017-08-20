@@ -48,7 +48,7 @@ So escape the humdrum of London life and dance the night away at Benicàssim, co
 
 See you in Spain next summer!
 
-__Hair__
+Hair
 
 Bring along some Batiste Dry Shampoo (£4.99 from Boots) or a sea salt spray to give you that curly beach bum look while keeping your hair manageable and deceivingly fresh. Or, if you’re feeling adventurous, try my recipe below and make some yourself!
 
@@ -62,24 +62,24 @@ Homemade Sea Salt Hairspray – a recipe for textured beach curls, for men and w
  4. Add 1 tsp of a deep conditioner to prevent your hair drying out (I recommend Aussie 3-minute miracle deep conditioner. Coconut oil works well too – anything with coconut will give your hair a lovely beachy scent)
  5. Shake bottle well and spray generously on dry or damp hair, scrunching and twisting as you go. Let your hair air dry and enjoy your tousled locks!
 
-__Accessories__
+Accessories
 
 A trilby or a panama hat is a must-have for a beach holiday festival like Benicàssim that can be jazzed up a notch by tying a scarf of flowers around it.
  Head bands, flower garlands, head scarves, and even feathered headdresses were all the rage this summer. See Asos and Dolly Bow Bow for a brilliant range of headgear!
  Headgear matched with bandeau tops are the way to go, whilst using floral print scarves as belts is an easy way to save packing space.
 
-__Toiletries__
+Toiletries
 
 Bring miniatures: your shampoo, conditioner, shaving cream, and moisturiser will only be used a few times and you don’t want to lug big bottles around.
  Take PLENTY of sunscreen – the summer sun on the Spanish coast is powerful, and a bad burn could ruin your weekend. The biggest fashion faux pas at Benicàssim had to be the stereotypically lobster-skinned Brits mooching around camp, regretting their decision to leave the factor-25 at home.
 
-__Clothing__
+Clothing
 
 Bring things that are easy to wear: getting changed in your tent can be tricky.
  Guys: Don’t try anything fancy, bring some trusty shorts and a few of your favourite vests and t-shirts. Roll up the sleeves and soak up the Spanish sun!
  Girls: Embrace the sunshine with a wispy and pretty summer dress, but don’t forget the essential denim cut-off shorts and loose vests. These are comfortable, stylish, and go with absolutely everything.
 
-__Shoes__
+Shoes
 
 For the gloriously hot Benicàssim festival, you really need a pair of comfy beach sandals to see you through the day (girls: don’t bother bringing heels). And if you like your moshpits, invest in some light and stylish trainers like Toms, Keds or Converses to protect your toes.
  Check out Dolly Bow Bow (www.dollybowbow.co.uk), an online boutique that sells affordable vintage-chic clothes and accessories. If you don’t have the time to string flowers together, you can get beautiful floral headdresses from their online store.

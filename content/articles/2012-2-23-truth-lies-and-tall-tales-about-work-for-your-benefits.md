@@ -34,7 +34,7 @@ A spectre is haunting our futures – the spectre of unemployment. Most of us ar
 
 But what kind of support do they receive? The “Work for your Benefits” [scandal](http://scandal) has flooded the media with allegations and insinuations about the government’s treatment of the unemployed: is it supportive help or slave labour? As graduation day approaches, we all need to be aware of what is really going on; we need to be prepared for when unemployment comes for us.
 
-__A case study: Cait Reilly__
+A case study: Cait Reilly
 
 You might be familiar with [the story of Cait Reilly](http://www.telegraph.co.uk/education/universityeducation/9013915/Im-a-graduate-get-me-out-of-here.html), an unemployed Birmingham University graduate who wanted to be a curator. Jobless for 18 months, she eventually managed to find unpaid work in a museum to gain experience while looking for a paid job. But a museum was not good enough for the government: she had to cancel the work and take up “training” at Poundland instead, or lose her £53 per week Jobseeker’s Allowance.
 
@@ -60,7 +60,7 @@ Who, then, is at fault? If we believe the right-wing press, then we must blame C
 
 The fact that Reilly’s adviser evidently caused her suffering raises the question of how much power advisers actually have. What do they have the authority to do, who do they work for, and are they accountable when they make mistakes?
 
-__Forced labour or not?__
+Forced labour or not?
 
 The DWP’s Get Britain Working homepage is a chaotic mixture of various overlapping schemes, programmes and initiatives. Aside from Reilly’s sector-based work academies, the government also offers two other alleged “forced labour” schemes: Work Experience and Mandatory Work Activity (MWA). These are the source of a lot of the popular anger about the Get Britain Working programme, and, as with many things that cause anger, they are not fully understood.
 
@@ -82,7 +82,7 @@ The advisers’ authority is also worth questioning. In all these cases an advis
 
 {{< figure src="http://felixonline.co.uk/img/upload/201202232357-felix-screen-shot-2012-02-23-at-23.56.30.jpg" title="Graph showing Mandatory Work Activity (MWA) referrals as a percentage of the total, compared with Work Experience (WE). A sharp increase in September 2011 coincides with the privatisation of Jobcentre Plus" caption="Graph showing Mandatory Work Activity (MWA) referrals as a percentage of the total, compared with Work Experience (WE). A sharp increase in September 2011 coincides with the privatisation of Jobcentre Plus" attr="Credit: Veronika McQuade" >}}
 
-__The Job Centre Myth__
+The Job Centre Myth
 
 In the popular imagination, Jobcentre Plus is a government agency and its careers advisers work for the government. For example, Jim Murphy, a lawyer who has been very critical of the Get Britain Working scheme, said that it “amounts to exploitation, decided at the whim of a Jobcentre Plus adviser.” None of this is true. In fact, as of last year, Jobcentre Plus doesn’t even exist at all. It is now merely the public face of the DWP.
 
@@ -98,7 +98,7 @@ Government statistics released this month (see above graph) show that the ratio 
 
 Given all the above, I think it is fair to say that the switch from Jobcentre Plus to private consultants was a bad idea. There is the corruption at A4e, the illegal behaviour at Seetec, the very high possibility of unnecessary forced labour, and the unaccountability of the advisers, and all of this just since September 2011. Conservatives... What will they do next, privatise the NHS?
 
-__Who benefits?__
+Who benefits?
 
 All premeditated crimes have motives, and the same can be said for the Get Britain Working programme. Who benefits? There are at least five parties to consider: the job seekers, the government, the taxpayers, the employment consultants, and the corporations. All could lose or gain from the work experience schemes; looking at who gets what might enlighten us to the truth.
 
@@ -118,7 +118,7 @@ Recently, however, Tesco has suffered from serious public anger. After an advert
 
 Over all, Tesco has not benefited from Get Britain Working, and the same can be said, though to a lesser extent, of the other participating corporations.
 
-__Stupid or evil?__
+Stupid or evil?
 
 We are left, then, with a government scheme in which the only beneficiaries are private employment consultants. Although, were it not for the unanticipated public anger, the government and some corporations would have benefited also. Job seekers, for whom the scheme is allegedly designed, come out worse off over all.
 

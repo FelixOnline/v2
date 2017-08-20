@@ -32,7 +32,7 @@ Pierre Boulez is _the _controversial figure at the forefront of musical developm
 
 But read past these shocking soundbites and you may find yourself in fact following his arguments. Indeed the vast literature he has produced throughout his career has swayed many, undoubtedly influencing the course of music history, and it certainly does display a penetrating and unabashed intelligence.
 
-Of course, his music is the true testament to this: original, endlessly thought provoking, and constantly being reinvented; the Guardian says “it is impossible to imagine […] the entire musical world without Pierre Boulez”. But then why haven’t you heard of him? And, at the recent 90th birthday celebrations at the __Barbican__, why was the hall half empty?
+Of course, his music is the true testament to this: original, endlessly thought provoking, and constantly being reinvented; the Guardian says “it is impossible to imagine […] the entire musical world without Pierre Boulez”. But then why haven’t you heard of him? And, at the recent 90th birthday celebrations at the Barbican, why was the hall half empty?
 
 The masterpieces of Mozart were written at a time when men wore powdered wigs and aristocrats entertained themselves at balls in ornate palaces; the Enlightenment ideals of rationality and form were manifest. When Beethoven wrote his dramatic symphonies, full of angst and triumph, society was turning inward and Napoleon’s conquests inspired the ideas of great men.
 

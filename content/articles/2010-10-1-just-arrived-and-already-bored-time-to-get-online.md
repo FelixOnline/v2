@@ -47,7 +47,7 @@ One even more illegal method would be just to use a router or share your compute
 
 So now you’re online, all that remains is to load up your favourite game and blast away to your heart’s content. Enjoy!
 
-___Response from ICT Network Manager:___
+_Response from ICT Network Manager:_
 
 _Dear Sir, _
 
@@ -63,11 +63,7 @@ _However, of most interest to me was the impression given in the article that re
 
 _Simon is kind enough to say that Imperial Internet is one of the fastest around. We work hard to achieve this. For you. We *like* it to be used, for recreational as well as academic purposes. We only try to prevent illegal activities and actions which interfere with another user. The AUP is there because the network is a shared environment, so there needs to be an operating framework._
 
-__
-
 _After all, without rules where would we be?_
-
-__
 
 _Yours sincerely,_
 

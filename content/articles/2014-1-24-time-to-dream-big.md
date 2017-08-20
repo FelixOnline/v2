@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__The Secret Life of Walter Mitty__
+The Secret Life of Walter Mitty
 
-__Director:__ Ben Stiller
+Director: Ben Stiller
 
-__Writers: __Steve Conrad, James Thurber (short story)
+Writers: Steve Conrad, James Thurber (short story)
 
-__Starring: __Ben Stiller, Kristen Wiig, Adam Scott, Sean Penn, Shirley MacLaine
+Starring: Ben Stiller, Kristen Wiig, Adam Scott, Sean Penn, Shirley MacLaine
 
-__Runtime: __114 minutes
+Runtime: 114 minutes
 
-__Certification: __PG
+Certification: PG
 
 The Secret life of Walter Mitty is a Ben Stiller film based on the short of the same name written by James Thurber for the New Yorker in 1942.
 

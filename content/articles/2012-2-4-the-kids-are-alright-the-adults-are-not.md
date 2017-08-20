@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-__Carnage__
+Carnage
 
-__Director__ Roman Polanski
-__Screenwriters__ Yasmina Reza (play), Roman Polanski
-__Cast__ Jodie Foster, Kate Winslet, John C. Reilly, Christoph Waltz
+Director Roman Polanski
+Screenwriters Yasmina Reza (play), Roman Polanski
+Cast Jodie Foster, Kate Winslet, John C. Reilly, Christoph Waltz
 
 Get ready for the craziest, most intense, and unforgettable ride of this year. Yes, Polanski’s latest _Carnage_ is a force to be reckoned with; which is odd, mostly because of its incredibly modest running time (79 minutes), small cast (four key characters), single set (a New York apartment), and what appears to be a straightforward plot. But based on the Tony Award winning play _God of Carnage_ by Yasmina Reza, this is a deceptively simple ﬁlm that has so much energy and power to dish out, even in its tiny scale. So get ready – for a hot-tempered, scream-ﬁlled, foul-mouthed, alcohol-fuelled, vomit-covered (yes, really) experience that will be hard to resist.
 

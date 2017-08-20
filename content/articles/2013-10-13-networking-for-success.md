@@ -57,4 +57,4 @@ Always read the programme for an event as soon as it is available, usually a wee
  • Even if you haven’t started to actively job hunt you will be surprised how well recruiters remember names and faces. Making a good impression now could make your job hunting easier in the future.
 
  For a full guide on networking with employers, tips on what to ask them and advice on how to build your personal brand, visit our Quick Guide to Networking at:
-__www.imperial.ac.uk/careers__
+www.imperial.ac.uk/careers

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-Negative emotional memories can be suppressed in the long-term with the help of drugs that regulate stress hormones, new research has shown. The findings, published in the [_Journal of Clinical Endocrinology & Metabolism_](http://www.google.co.uk/url?sa=t&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fjcem.endojournals.org%2F&rct=j&q=journal%20Clinical%20Endocrinology&ei=6NbnTb_OAsmn8QOhrZnvCg&usg=AFQjCNE_GxDyXohsRG0fB4S6MyXzAHWr5Q&sig2=sIV-Zz3uvxffm-W__3g1oA), could lead to new treatments for sufferers of post traumatic stress disorders (PTSD).
+Negative emotional memories can be suppressed in the long-term with the help of drugs that regulate stress hormones, new research has shown. The findings, published in the [_Journal of Clinical Endocrinology & Metabolism_](http://www.google.co.uk/url?sa=t&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fjcem.endojournals.org%2F&rct=j&q=journal%20Clinical%20Endocrinology&ei=6NbnTb_OAsmn8QOhrZnvCg&usg=AFQjCNE_GxDyXohsRG0fB4S6MyXzAHWr5Q&sig2=sIV-Zz3uvxffm-W3g1oA), could lead to new treatments for sufferers of post traumatic stress disorders (PTSD).
 
 Stress hormones such as cortisol are known to modulate memory retrieval. Both high and low levels of cortisol impair emotional memory retrieval. A collaboration between Lehigh University and McGill University have tested the effects of Metyrapone – a drug that inhibits cortisol secretion – on memory retrieval. The researchers tested 33 men, aged between 18 and 35, in an experiment based on three sessions.
 

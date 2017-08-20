@@ -37,13 +37,13 @@ There are three Presidential Candidates this year. Lucinda Jane Sandon-Allum, a 
 
 The manifestos for the candidates will be appearing online this evening, and a full list of all the candidates running in the elections can be found on the Union’s Website.
 
-__President__
+President
 
 Luke Armitage
 
 Lucinda Sandon-Allum
 
-__Deputy President (Clubs & Societies)__
+Deputy President (Clubs & Societies)
 
 Isabelle Barrett
 
@@ -51,7 +51,7 @@ Benjamin Howitt
 
 Tom Rivlin
 
-__Deputy President (Finance & Services)__
+Deputy President (Finance & Services)
 
 Elizabeth Campbell
 
@@ -59,21 +59,21 @@ Alexander Lown
 
 Christopher Kaye
 
-__Deputy President (Welfare)__
+Deputy President (Welfare)
 
 Diba Esbati
 
 Jenni Watson
 
-__Deputy President (Education)__
+Deputy President (Education)
 
 Cyin San
 
-__Felix Editor__
+Felix Editor
 
 Grace Rahman
 
-__Council Chair__
+Council Chair
 
 Richard Cameron
 
@@ -83,15 +83,15 @@ Jasper Menkus
 
 Alexander Mytenka
 
-__ICSMSU President__
+ICSMSU President
 
 Maredudd Harris
 
-__RCSU President__
+RCSU President
 
 James Badman
 
-__RSMU President__
+RSMU President
 
 Samuel Argyle
 
@@ -99,7 +99,7 @@ Madeleine Hann
 
 Matthew Wetton
 
-__CGCU President__
+CGCU President
 
 Andrew Olson Gallardo
 

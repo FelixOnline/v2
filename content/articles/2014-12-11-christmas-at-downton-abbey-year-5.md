@@ -29,13 +29,13 @@ highlights:
 
 Now in its fifth season, the internationally successful British series Downton Abbey is set to return to our screens for another Christmas episode. The quality of the show has been varying over the past couple of years, with the most recent seasons not quite living up to the high standards set by the earlier years. And yet Lord Julian Fellowes gives his audience enough intrigue and character development to keep everything going nicely. There is a reason why this show has become the most widely watched television drama in the world. With this Christmas episode the show has the tough challenge of having to tie up loose ends set up by the preceding eight episodes of season 5. So what are the plot points worth looking forward to the most? Of course, watch out for spoilers – don’t read unless you’ve seen all the episodes on offer.
 
-__Lady Mary's quest for love__
+Lady Mary's quest for love
 
 Ever since the show started, it focused heavily on finding a suitable partner for Lady Mary Crawley, the eldest daughter of Lord and Lady Grantham (Hugh Bonneville and Elizabeth McGovern, respectively). With her husband’s sudden death in the third Christmas Special that sent fans into a frenzy, Lady Mary has since recovered and also discovered her passion for sex outside of marriage.
 
 Sadly, things did not work out for her and this gentleman, but rumour has it actor Matthew Goode has been cast to sweep Mary off her feet. Will she finally be able to find happiness? Only time will tell.
 
-__Rape, murder, more prison time__
+Rape, murder, more prison time
 
 The writers refuse to leave Mr John Bates (Brendan Coyle) and Mrs Anna Bates (Joanne Froggatt), the loveliest couple the show has to offer, alone. They have had their fair share of troubles along the way, but the love that binds the sweet couple together has pushed them through this far.
 
@@ -43,16 +43,16 @@ But the season 5 finale saw the pure-hearted Anna arrested for murder of her rap
 
 And it would also be nice to close the murder investigation and see who really killed Mr Green.
 
-__Illegitimate child in the 1920s__
+Illegitimate child in the 1920s
 
 Lord Grantham was surprisingly cool about his second daughter Edith’s (Laura Carmichael) big secret; that she gave birth to a daughter with her suitor who disappeared then died before he could marry her.
 
 Edith is no longer sulking and looking miserable thanks to having her daughter back at the Downton Estate, so we will surely get a lot less of her tiresome moaning, which is a good thing.
 
-__A potential departure__
+A potential departure
 
 There are constant, unwelcome rumours of a cast member departing. Tom Branson (Allen Leech) keeps harping on about going to America with his daughter Sybbie, the Dowager Countess Violet Grantham (Maggie Smith) is the go-to person to pick on when guessing about who is going to leave. Tom can go, but the Dowager Countess absolutely cannot. Even if her character is required to die due to age, she needs to come back as a ghost or something, haunting the corridors of Downton Abbey.
 
-__Love is in the air?__
+Love is in the air?
 
 There have been lots of hints dropped throughout this season that Mr Carson (Jim Carter) and Mrs Hughes (Phyllis Logan) would eventually hook up. They are perfect for one another, and personally, it cannot happen soon enough. How long will they dilly-dally around just keeping it a close friendship?

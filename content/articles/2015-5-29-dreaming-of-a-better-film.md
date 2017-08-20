@@ -26,7 +26,7 @@ highlights:
  - comment
 ---
 
-__Director:__ Brad Bird __Screenplay:__ Damon Lindelof, Brad Bird, Jeff Jensen __Cast:__ George Clooney, Hugh Laurie, Britt Robertson, Raffedy Cassidy, Tim McGraw
+Director: Brad Bird Screenplay: Damon Lindelof, Brad Bird, Jeff Jensen Cast: George Clooney, Hugh Laurie, Britt Robertson, Raffedy Cassidy, Tim McGraw
 
 _Tomorrowland: A World Beyond _is in the running for year’s most pointless subtitle. It exists only for the UK, with every other territory simply being treated to the original title of _Tomorrowland_, sans subtitle. It’s a needless addition that tries to define the film further while failing to actually explain anything about what’s going on. It’s an apt metaphor for the film, to be honest.
 
@@ -49,5 +49,3 @@ Those explosives signal the death knell for any hope that _Tomorrowland_ might p
 _Tomorrowland _is an enjoyable ride, it should be said. It’s enjoyable, but heavily flawed. It never quite understands what its own message is, and during the few moments where that message does start to flicker into life it’s complete nonsense. Most of the acting is excellent, but it’s forced to cope with an inadequate script that has forgotten what it’s trying to do, and how it planned to do it in the first place.
 
 This is a film to watch, once, enjoy, and then forget about. It doesn’t say anything worth hearing. It fails to stick in the memory, and that’s honestly a good thing. It’s so painfully confused that it’s almost upsetting. There’s a lot of good work that went into _Tomorrowland_, from the sumptuous visuals to the sterling efforts of the cast. It’s just buried beneath a pile of meaningless junk.
-
-__

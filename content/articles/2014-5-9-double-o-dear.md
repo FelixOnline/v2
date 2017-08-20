@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__The Love Punch__
+The Love Punch
 
-__Director:__ Joel Hopkins
+Director: Joel Hopkins
 
-__Writer: __Joel Hopkins
+Writer: Joel Hopkins
 
-__Starring: __Pierce Brosnan, Emma Thompson, Timothy Spall, Celia Imrie
+Starring: Pierce Brosnan, Emma Thompson, Timothy Spall, Celia Imrie
 
-__Runtime: __94 minutes
+Runtime: 94 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 2/5
 

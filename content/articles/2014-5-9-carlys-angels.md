@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__The Other Woman__
+The Other Woman
 
-__Director:__ Nick Cassavetes
+Director: Nick Cassavetes
 
-__Writer: __Melissa Stack
+Writer: Melissa Stack
 
-__Starring: __Cameron Diaz, Leslie Mann, Kate Upton, Nikolaj Coster-Waldau, Taylor Kinney, Nicki Minaj
+Starring: Cameron Diaz, Leslie Mann, Kate Upton, Nikolaj Coster-Waldau, Taylor Kinney, Nicki Minaj
 
-__Runtime: __109 minutes
+Runtime: 109 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 3/5
 

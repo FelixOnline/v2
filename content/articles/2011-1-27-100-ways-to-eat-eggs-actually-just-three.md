@@ -27,7 +27,7 @@ Apparently eggs are the ultimate fast food. Some of you may already know this. I
 
 Anyway, the fact is they are high in protein, low in fat and carbohydrates and therefore very good for you! Here are three simple recipes that will get even the worst cooks of you making eggs like a pro.
 
-__Poached egg__
+Poached egg
 
 The simplest of the eggs in my opinion, all you need here is a fresh egg, some vinegar and a little bit of hot water.
 
@@ -39,7 +39,7 @@ Now add your eggs and turn the heat right down.
 
 Cook to your preference. If you like it runny, it will take about 2-3 minutes and the top of the egg should have a pinkish tinge. Enjoy!
 
-__Scrambled egg__
+Scrambled egg
 
 Probably the quickest of the lot, all you need here is a decent non-stick (ish) pan, a couple of good eggs, some butter and some salt and pepper.
 
@@ -47,7 +47,7 @@ Melt a blob of butter into a hot pan. Whisk 2-3 eggs in a bowl and add a decent 
 
 Pour the egg into pan. The pan should be hot enough so that the egg cooks straight away so make sure you scramble it! The cooking process should take less than two minutes.
 
-__Alpine egg__
+Alpine egg
 
 You might not have heard of these beauties but a good alpine egg can be amazing. What you need here is an egg, some butter, some grated cheese and a ramekin. If you don’t have this, just a normal coffee cup will do.
 

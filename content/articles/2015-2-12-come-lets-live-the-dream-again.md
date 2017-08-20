@@ -28,7 +28,7 @@ highlights:
 ---
 
 ## Pool A
-#### __England__
+#### England
 
 Best World Cup Performance: Final (1987, 1992)
 

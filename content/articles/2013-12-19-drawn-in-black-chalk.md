@@ -50,25 +50,25 @@ as straightforward as they first seem, for, as the author reminds us in the intr
 Once the characters move past the ingrained social rules of being respectful to others, caring
 for all, loving their neighbors as themselves, they see what actually motivates them: power, success, and the desire to be loved. Once the white chalk rules are erased, the characters’ genuine outlines are revealed, drawn in plain black chalk.
 
-___Hannah Edmondson_: What was the inspiration behind _Black Chalk_?__
+_Hannah Edmondson_: What was the inspiration behind _Black Chalk_?
 _Christopher Yates_: The inspiration for _Black Chalk_ came from real life. I really did have an idea to play a game of psychological dares much like the one played in my story. This was something me and my friends chatted about in the bar a great deal, trying to come up with interesting forfeits for each other. I think it’s very fortunate that we never did play because it means we’re all still friends.
 
-___HE_: How did your personal____experience at Oxford influence____your novel?__
+_HE_: How did your personalexperience at Oxford influenceyour novel?
 _CY_: There’s a lot of my own personal experience in_ Black Chalk_. Not a single one of the events that occur in the book actually took place in reality but I used my own experience to shape the settings and plot. And it was my own experience of Oxford that helped me in trying to build as
 plausible a tale as possible. I suppose you might say that my own Oxford experiences are the DNA of _Black Chalk_.
 
-___HE_: Why did you choose a university setting?__
+_HE_: Why did you choose a university setting?
 _CY_: I loved everything about writing a novel that used a university for its setting. I loved the age of the characters and their youthful enthusiasm for holding certain beliefs, for their desire to experience life. The intimacy of such a setting is also a huge plus to a writer; I went to a college of around 400 people which meant that, to some degree, I knew just about everyone there, and this creates an atmosphere that can be both excitingly convivial and frighteningly suffocating. All
 excellent ingredients.
 
-___HE_: In what way do you see this novel as a bildungsroman or rather a missed bildungsroman?__
+_HE_: In what way do you see this novel as a bildungsroman or rather a missed bildungsroman?
 _CY_: Yes, I suppose there’s a sense in which it’s a bildungsroman in reverse because what we see is not the psychological growth of someone but actually their decline. The narrator doesn’t come of age in the world so much as want to lock themselves away from the world that’s uncovered.
 
-___HE_: Which of the characters did____you find it hardest to write about?__
+_HE_: Which of the characters didyou find it hardest to write about?
 _CY_: The narrator was the hardest character for me to pin down. The story is told fourteen years on from when the game began. We know right from the start that the narrator’s been damaged by this mysterious game and that the narrator is a hermit living a peculiar life driven by strange routines. So the narrator has no one to talk to but the reader, which means I had to find a way to suck the reader in without using any dialogue between characters (and I have a particular love for writing dialogue). So this was a challenge to write. But challenges can be fun. And
 challenges can also lead to bursts of creative thought. So in the end, I was very happy with my peculiar hermit.
 
-___HE_: Which authors are you influenced by?__
+_HE_: Which authors are you influenced by?
 _CY_: Graham Greene for his sense of writing meaningful books with great prose; but not for one second does he ever forget to entertain and beguile his reader. And this is something Donna Tartt does brilliantly as well. Also Vladimir Nabokov for his love of language and games (he is constantly toying with his reader, a chess player who’s several moves ahead of you). And
 I love great sentence-writers such as Martin Amis, John Updike and Cormac McCarthy.
 

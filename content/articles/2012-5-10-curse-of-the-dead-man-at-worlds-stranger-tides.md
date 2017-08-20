@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All aboard the Good Ship Aardman!
 date: "2012-05-10 20:26:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102149-felix-www.fact.co.uk_pirates__in_.jpg"
+image: "http://felixonline.co.uk/img/upload/201205102149-felix-www.fact.co.uk_piratesin_.jpg"
 headline: true
 featured: true
 imported: true
@@ -23,11 +23,11 @@ authors:
 highlights:
 ---
 
-[__The Pirates! In an Adventure with Scientists!__](http://www.imdb.com/title/tt1430626/)
+[The Pirates! In an Adventure with Scientists!](http://www.imdb.com/title/tt1430626/)
 
-__Directors__ Peter Lord, Jeff Newitt
-__Screenwriter__ Gidoen Defoe
-__Cast (voice)__ Hugh Grant, Salma Hayek, Jeremy Piven
+Directors Peter Lord, Jeff Newitt
+Screenwriter Gidoen Defoe
+Cast (voice) Hugh Grant, Salma Hayek, Jeremy Piven
 
 My girlfriend sometimes says that I’m just a big kid sometimes. That doesn’t bother me – kids get all the really cool stuff. After going to see this film, that opinion is now firmly cemented in her mind.
 
@@ -37,7 +37,7 @@ There is nothing original about the story. It’s an old one, a common one, and 
 
 In addition to Grant and Tennant, the cast is filled with a host of British talent. Martin Freeman, Brendan Gleeson and Russell Tovey all take their place among the Pirate Captain’s most motley crew, Imelda Staunton plays an imperious and pirate-hating Queen Victoria, and Brian Blessed even makes an appearance as the King of the Pirates. Few films can boast of such a rosta and this one keenly avoid the mistake to cram them all onscreen. Each character is given their proper time.
 
-The film is punctuated at times by modern music such as ‘[London Calling](http://www.youtube.com/watch?v=EfK-WX2pa8c&ob=av3e)’ by __The Clash__ and ‘[I’m Not Crying](http://www.youtube.com/watch?v=ZGes7FDmHAM)’ by __Flight of the Conchords__, usually during a montage scene. While always apt for the onscreen action, it did jar me a little from the 1830s.
+The film is punctuated at times by modern music such as ‘[London Calling](http://www.youtube.com/watch?v=EfK-WX2pa8c&ob=av3e)’ by The Clash and ‘[I’m Not Crying](http://www.youtube.com/watch?v=ZGes7FDmHAM)’ by Flight of the Conchords, usually during a montage scene. While always apt for the onscreen action, it did jar me a little from the 1830s.
 
 This film is aimed at children but the humour was just as funny for (so-called) adults like myself. Children’s movies can run the risk of patronising their audience (and losing the interest of both adults and children). This film avoids that. The jokes are funny regardless of whether you’re eight or eighty. Indeed, several jokes revolve around the Pirate Captain inadvertently hinting at evolution to young Darwin, accessible only to those aware of his contribution to science.
 

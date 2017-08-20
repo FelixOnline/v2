@@ -62,7 +62,7 @@ In the public gallery a woman leant forward on her seat, watching the proceeding
 
 At the time of writing, the jury were expected to have begun deliberations on Friday.
 
-___The story of Babar Ahmad___
+_The story of Babar Ahmad_
 
 {{< figure src="http://felixonline.co.uk/img/upload/201106021850-felix-img_4576.jpg" title="Felix reports raid on campus in December 2003" caption="Felix reports raid on campus in December 2003" attr="" >}}
 

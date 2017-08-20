@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-__Alexander McQueen__
+Alexander McQueen
 
 Surely those most critical of critics in the fashion industry must get tired of singing the praises of a woman who has slipped so perfectly into the 8-inch sculpted platforms of a designer whose shoes they claimed could ne’er be filled. Alas, no dice. Sarah Burton’s latest aquatic imagining for McQueen’s line interweaved such diverse themes as oceanic life, modernist architecture and the draping techniques of the traditional haute couture. The colour palette came straight from the pearly inside of an oyster: palest pinks and silvery grey-blue were shot between ivory, gold and brightest coral.
 
@@ -33,7 +33,7 @@ But it wouldn’t be McQueen without the shadow of a sinister presence: laser-cu
 
 The ever-haunting echo of Lee McQueen, a presence both restrictive and guiding, certainly reverberated and rippled through Ms. Burton’s idyllic seascape. – _SV_
 
-__Louis Vuitton__
+Louis Vuitton
 
 Paris is no stranger to glittering displays of luxury, but no one expected the angelic dream that Marc Jacobs showcased at Louis Vuitton this season. Amidst the rumours of ‘Will He/Won’t He?’ regarding the Dior job, the curtains rose on the LV catwalk to reveal models sprinkled elegantly over an exquisite, pure white carousel.
 
@@ -43,7 +43,7 @@ As always with Marc, detail was key. The girls balanced shining tiaras in their 
 
 Fluttering by in a puffed pale pearl dress, Kate Moss’ turn on the catwalk was the perfect end to this season’s Louis Vuitton wonderland, and arguably the fairy tale ending to what may be Marc Jacobs’ last chapter there. – _AY _
 
-__Ralph Lauren__
+Ralph Lauren
 
 An unexpected highlight of the New York shows this season came from Ralph Lauren, whose Great Gatsby-themed sugary-sweet collection stole the heart of more than one hardened fashionista.
 
@@ -59,7 +59,7 @@ Accessories were kept simple, a diamond drop earring here, a long single strand 
 
 It seems superfluous to say that the Great Gatsby has never looked so, well err, great. – _SV_
 
-__Dolce & Gabbana__
+Dolce & Gabbana
 
 The scorching days of a traditional Italian summer were the roots of Dolce and Gabbana’s catwalk inspiration this season. It was a show filled to the brim with flirtatious, fun, light-hearted pieces with a dash of glamour stirred into one giant salad – definitely the recipe to follow next whenever the sun comes out again.
 
@@ -67,7 +67,7 @@ Painted aubergine prints floated down the catwalks on long flowing dresses, yell
 
 Eveningwear took a darker turn, yet frivolous femininity continued as a main theme. Appliquéd flowers covered delicate black crochet as embellishments scattered over dark sleek dresses. Rainbow gems lined collars and waists, scattered over transparent rain macs and shone over lace before finally taking over the entire runway. Dolce & Gabbana’s finale this season was a sea of beautiful models in sparkling corsets strutting under the arches of glowing festival street lights. Mambo Italiano is definitely the way to go this summer. – _AY_
 
-__DSquared2__
+DSquared2
 
 ‘An American girl goes to Glastonbury,’ was the vision, according to Dean and Dan, the dynamic duo behind the oh-so Italian brand, DSquared2. And an ultra-fabulous girl she is too, stomping her high-heeled wellington boots (only the Italians…) down the muddy Milanese runway.
 
@@ -79,7 +79,7 @@ Though by no means a fashion revelation, the DSquared2 boys’ show was high in 
 
 Production-wise, aside from the thumping soundtrack (heavy on the Lenny Kravitz please), it would be an injustice and a crime not to mention the mud-caked male models frolicking by the backdrop. If only one could find a real festival that exhibited such fine models of male anatomy, oh, and of course, such cool, sexy, rock-chic style. – _SV_
 
-__Prada__
+Prada
 
 There’s no doubt that Miuccia Prada knows how to please women with her easy to wear and elegantly chic designs, but this season she took it upon herself to please the male population too. ‘How so?’ I hear you ask, not with an extensive show of scantily clad models (although there were bare midriffs a-plenty), but rather by combining two of the things men love best – women and cars.
 

@@ -23,13 +23,13 @@ authors:
 highlights:
 ---
 
-__NIGHTCRAWLER__
+NIGHTCRAWLER
 
-__Director: __Dan Gilroy
+Director: Dan Gilroy
 
-__Screenplay: __Dan Gilroy
+Screenplay: Dan Gilroy
 
-__Cast: __Jake Gyllenhaal, Rene Russo, Bill Paxton
+Cast: Jake Gyllenhaal, Rene Russo, Bill Paxton
 
 5/5
 

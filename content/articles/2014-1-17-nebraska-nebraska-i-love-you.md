@@ -24,17 +24,17 @@ highlights:
  - photos
 ---
 
-__Nebraska__
+Nebraska
 
-__Director:__ Alexander Payne
+Director: Alexander Payne
 
-__Writer: __Bob Nelson
+Writer: Bob Nelson
 
-__Starring: __Bruce Dern, Will Forte, June Squibb
+Starring: Bruce Dern, Will Forte, June Squibb
 
-__Runtime: __115 minutes
+Runtime: 115 minutes
 
-__Certification: __15
+Certification: 15
 
 Following on from the Oscar-nominated _The Descendants_ (featuring George Clooney’s best performance in years, and introducing the amazing Shailene Woodley – soon to be seen in _The Fault in Our Stars_), _Nebraska _is Alexander Payne’s latest film as director, and (unsurprisingly) it’s almost everything you’d expect – and a little more. Shot entirely in black-and-white, Nebraska gains an ethereal kind of beauty in appearance – the frequent landscape shots, previously so full of life, colour and Hawaii in _The Descendants_ are replaced by haunting images of the wide-open spaces of Nebraska: a sunrise without any colour is an incredibly surreal shot, but a strangely picturesque one. It’s through this lens the rest of the film is viewed, and with some drop-dead gorgeous shot composition (even of a field full of cows, at one point), it’s a fantastic place to start.
 

@@ -39,4 +39,4 @@ Let’s note though that this research will not prompt an old-school gold rush. 
 
 Such a method would go some way towards addressing the problems of declining supply and quality alongside increasing demand for gold. There is also the possibility that the technique could be adapted to identify other mineral deposits, such as zinc and copper.
 
-[__DOI: 10.1038/ncomms3614__](http://www.nature.com/ncomms/2013/131022/ncomms3614/full/ncomms3614.html)
+[DOI: 10.1038/ncomms3614](http://www.nature.com/ncomms/2013/131022/ncomms3614/full/ncomms3614.html)

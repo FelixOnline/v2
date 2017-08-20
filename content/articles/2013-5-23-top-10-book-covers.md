@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-__Shirley Tucker__
+Shirley Tucker
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305240141-tna08-the-bell-jar.jpg" title="" caption="" attr="" >}}
 
@@ -35,7 +35,7 @@ The bleak outlook is perfectly encapsulated in the strikingly contemporary cover
 
 She was originally never credited with the design, a happily defunct convention. Her name now features in all modern editions.
 
-__Boris Vallejo__
+Boris Vallejo
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305241131-tna08-conan-cover.jpg" title="" caption="" attr="" >}}
 
@@ -43,7 +43,7 @@ Boris Valejio is the undisputed king of hyper-representational fantasy and sci-f
 
 Boris’ familiarity with human form so complete he seems to effortlessly inject near fatal quantities of erotic potency into his oil paintings. His sylphine, alabaster warrior princesses and axe-wielding beef-cake barbarians may seem dated, but for pure red-blooded thrills they have never been surpassed.
 
-__Michael Mitchell__
+Michael Mitchell
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305240143-tna08-enhanced-buzz-23705-1364227511-13.jpg" title="" caption="" attr="" >}}
 
@@ -51,7 +51,7 @@ Almost as mysterious as Sainger himself E. Mishael Mitchell is hard to get a han
 
 The bold design is representative of the rest of his body of work which features bold avant guard pen and ink drawings. Mitchel spent much of his career as an instructor at California Institute of the Arts. Where he built a formidable reputation with his students. Mitchell passed away in 2009 at 89, never again ascending so highin the popular imagination.
 
-__David Pelham__
+David Pelham
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305241131-tna08-clock-orange-art.jpg" title="" caption="" attr="" >}}
 
@@ -61,7 +61,7 @@ Most famously Pelhamdesigned the iconic cover for Anthony Burgess’ A Clockwork
 
 The minimal design and sinister featureless face evokes a disturbing otherworldly sense that compliments the content of the book.
 
-__Michael Gillette__
+Michael Gillette
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305240142-tna08-007-james-bond-keepdesigning-promo.jpg" title="" caption="" attr="" >}}
 
@@ -69,7 +69,7 @@ Sometimes a young or unrecognisable designer just happens to hit upon an absolut
 
 Everything is perfect from the bold lines and bright colours to the typography. The images proved extremely popular and were made available as prints and translated into a variety of languages. They feature delicate, smouldering sexy retrotastic representations of the girls in each book. “None of them are based on any one person or image, they are archetypes. I wanted a look of seductive murder about them,” he says.
 
-__Josh Kirby__
+Josh Kirby
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305241132-tna08-melisenta.jpg" title="" caption="" attr="" >}}
 
@@ -77,7 +77,7 @@ Terry Pratchett was the best selling author of the nineties. The man who put a c
 
 Working in oils, his busy, slightly grotesque depictions of the characters in the books perfectly caught the surreal atmosphere of the strange comic-fantasies. Perhaps this is why Kirby was also chosen to design the poster art for Monty Python’s Life of Brian.
 
-__Chip Kidd__
+Chip Kidd
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305240144-tna08-chip_kidd_jp.jpg" title="" caption="" attr="" >}}
 
@@ -86,7 +86,7 @@ Many of the illustrators on this list have sunk into relative anonymity. Chip Ki
 The design was so popular it came to represent the entire franchise that followed, including the three Hollywood films, making Kidd, we suspect, a very wealthy designer.
  Like many of Kidd’s covers the image is simple, striking and creepy. Kidd himself has said that “I’m very much against the idea that the cover will sell the book”.
 
-__Francis Cugat__
+Francis Cugat
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305241133-tna08-greatgatsby.jpg" title="" caption="" attr="" >}}
 
@@ -94,14 +94,14 @@ The painting for the first printing of F Scott Fitzgerald’s seminal work The G
 
 Cugat went on to work on art for over 68 Hollywood films but it is for this work, the most widely disseminated cover art of the 20th Century.
 
-__Paul Bacon__
+Paul Bacon
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305240144-tna08-paul-bacon-catch-22_1.jpg" title="" caption="" attr="" >}}
 
 Paul Bacon designed over 6500 book covers in his career. With a portfolio of that size one could argue that a big hit was inevitable. Bacon also illustrated for Jack Kerouac and John Cleever but it was his work for Joseph Heller’s Catch 22 this is considered by many to be the most memorable.
  Bacon was known for pioneering the “Big Book Look,” characterised by the title and author’s name in large, bold print, accompanied by a small conceptual illustration. He would work for around three weeks on each book, saying his skill lay in “finding something that would be a synthesis graphically of what the story was about”. His jazz record cover designs are also worth a look.
 
-__Maurice Sendak__
+Maurice Sendak
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305241133-tna08-wherewildthingsare.jpg" title="" caption="" attr="" >}}
 

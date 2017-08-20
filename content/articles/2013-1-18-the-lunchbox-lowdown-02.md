@@ -29,11 +29,11 @@ highlights:
  - photos
 ---
 
-## __Intro__
+## Intro
 I‘m picking up where my fellow Editor Sophia left off last week. If you’re stuck in a sandwich/pie rut but you’re still aiming to pack lunches to keep your wallet and waistline in check, look East for some inspiration. The Japanese have long been the purveyors of colourful, varied and nutritious bentos (bento = packed lunch in Japanese) – and you don’t need to spend hours or make everything from scratch, as you can opt to use choice leftovers. Done right, you can streamline the cooking/assembly process into 20 minutes or less.
 
 To the right is a bento I prepared some time ago, which I’ll deconstruct into its components below. This is what we’d call an Asian bento, mainly because the main carb component/staple here is rice. Of course, I’ve since been able to fit other grains in that slim Japanese bento box (namely couscous and quinoa) with other sides – the possibilities are endless.
-## __Containers__
+## Containers
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301180114-tna08-bento-box.jpg" title="" caption="" attr="" >}}
 
@@ -55,7 +55,7 @@ The Japanese (and myself) are partial to short grain rice that sticks a bit when
 
 In the event you’ve scratched your head (or the bottom of pan) plenty of times while trying to cook rice, I’ve provided a method below – rice cooker optional. Remember the cardinal rule of Asians: don’t measure rice by weight;do it by volume. We usually use the small cups that come with rice cookers; but one regular coffee mug will cook up two hearty portions depending on your appetite.
 
-__Fluffy stovetop rice__
+Fluffy stovetop rice
 
 Sayonara, Dr Ben’s! Measure rice as per the instructions in the “Carbs” section, depending on how many you’re serving or how many portions you’re planning on making ahead. We don’t advocate making a massive pot, though; a 4-person serving is much easier to control evenly during the cooking process.
 
@@ -73,7 +73,7 @@ In that case, I find chicken leg/thigh, pork shoulder, or flank from beef (cut a
 
 If you plan on making a slow-cooked stew for dinner, why not make an extra portion seeing as it takes the same amount of effort? You can reheat, pop into your bento and serve it with your other side dishes. the next day.
 
-__Asian Stir-Fried (Shaoxing) Chicken__
+Asian Stir-Fried (Shaoxing) Chicken
 
 This is the recipe I used for the chicken in this bento. Well, it’s not so much a recipe as it was me throwing in a bunch of random seasonings with the meat in the spirit of true old Asian cooking when everything was done in pinches of X and splashes of Y. Experience and tasting your wares will mean you’ll get better with time.
 
@@ -103,7 +103,7 @@ My final favourite? Pouring out a thin layer of egg on a frying pan, not unlike 
 
 Then there’s the token Asian vegetarian protein: tofu. A few slices of the firm variety, lightly pan-fried on both sides with a drizzle of soya sauce –yum!
 
-__Iri Tamago/T____amago Soboro (egg mince)__
+Iri Tamago/Tamago Soboro (egg mince)
 
 Stir as much as you want depending on how “minced” you want the it to be.
 

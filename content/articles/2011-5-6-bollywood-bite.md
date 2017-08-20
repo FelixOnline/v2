@@ -29,7 +29,7 @@ highlights:
 
 _Out on DVD_
 
-__3 Idiots__
+3 Idiots
 
 Starring: Aamir Khan, R Madhavan, Sharman Joshi, Kareena Kapoor
  Director: Rajkumar Hirani
@@ -43,13 +43,13 @@ And so I can’t help but see this as a more refined version in parts of his fir
 
 _Snippet Reviews_
 
-__Game__ **
+Game **
  Starring: Abhishek Bachchan, Kangna Ranaut, Jimmy Shergil
  Director: Abhinay Deo
  Synopsis: Crime thriller involving 4 strangers invited to play a game by a wealthy tycoon
  Review: Interesting concept that eventually becomes very tedious and predictable
 
-__Thank You__ *
+Thank You *
  Starring: Akshay Kumar, Bobby Deol, Sonam Kapoor
  Director: Aneez Basmee
  Synopsis: A private detective aims to break up the marriage of his employer after falling for her

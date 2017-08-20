@@ -33,7 +33,7 @@ The main focus of the book, however, are not the characters, nor even the plot, 
 
 This is a truly great novel: deep and profound but also very entertaining. An HBO adaptation is set to premiere next year so now is the perfect opportunity to read it.
 
-__Gaiman's other work__
+Gaiman's other work
 
 _Sandman_
 

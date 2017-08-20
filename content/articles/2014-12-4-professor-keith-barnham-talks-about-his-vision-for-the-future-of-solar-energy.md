@@ -29,7 +29,7 @@ highlights:
  - longread
 ---
 
-__James: You originally started your career in particle physics—why did you change to researching solar panels?__
+James: You originally started your career in particle physics—why did you change to researching solar panels?
 
 Prof. Barnham: I loved particle physics: I worked at CERN and Berkeley and it was very exciting at both places.
 
@@ -37,13 +37,13 @@ When I joined Imperial, I spent much of my time at CERN. Collaborations were get
 
 And how useful was particle physics—it was fascinating, but what practical use is was it in a world with a lot of problems?
 
-__Photovoltaics have historically been expensive and inefficient, but this has improved a lot in recent years. What technological advances have made this possible?__
+Photovoltaics have historically been expensive and inefficient, but this has improved a lot in recent years. What technological advances have made this possible?
 
 It’s because of the fall in the cost of silicon, by around a factor of four. This wasn’t technical, though, but political. The Germans decided to stimulate demand with a feed-in tariff. They hoped this would build the market, causing mass production and a fall in price.
 
 That happened, but it was a big surprise that EU and US industries didn’t invest as much as the Chinese. They made a political decision to put money into big systems, initiate mass production: that’s where the drop in cost really came from, to the detriment of EU production and my own company.
 
-__You group created the most efficient solar cells in the world. What was novel about your design?__
+You group created the most efficient solar cells in the world. What was novel about your design?
 
 It’s very different technology to other photovoltaics. Ours is based on Gallium Arsenide semiconductors, which most resembles the technology in mobile phones. There’s at least one such chip in everyone’s mobile phone.
 
@@ -63,7 +63,7 @@ With quantum wells, we can optimize the cell for different spectral conditions.
 
 The whole idea is just solving the Schrodinger equation for a square well: the first, simplest quantum mechanics problem we teach to physics students and here’s a practical application of it. What I really like about it is that the simplest part of quantum mechanics has practical applications in solving global warming.
 
-__How do your cells compare to other technologies like plastic electronics?__
+How do your cells compare to other technologies like plastic electronics?
 
 I would say they’re complimentary. They’re all great areas that should be researched. Ours offers three times the energy for the same area of cells. That doesn’t matter in the desert because space is cheap. However, it could be useful in applications like replacing petrol in cars, where getting three times the energy for the same area is very useful. Technology similar to ours with high efficiency and a 25 year lifetime has proved itself in satellites, for example, where they need every bit of power they can get for the minimum area.
 
@@ -71,7 +71,7 @@ Plastic cells should be cheap, but they too have run into problems. Plastic effi
 
 The Chinese intervention is great news for first generation silicon cells, as it has driven down the costs enormously, but bad news for my company and for plastic electronics. Although we had efficiency, our investors decided to sell us to an American conglomerate, because we just couldn’t produce the technology cheaply enough to compete with the Chinese.
 
-__Do you think that using sunlight to produce fuels has a complementary role alongside other photovoltaic technologies?__
+Do you think that using sunlight to produce fuels has a complementary role alongside other photovoltaic technologies?
 
 We’ve seen already that electric cars can be powered by silicon photovoltaics: there’s enough sunlight to power a car for an average domestic mileage.
 
@@ -91,7 +91,7 @@ Chemical engineers are working on an electrochemical cell, which uses photons to
 
 If we could produce our own, free, solar fuel on our rooftops, we could use it to power cars. You’d have free mileage for life.
 
-__Is solar power really reliable enough to use as our main energy source?__
+Is solar power really reliable enough to use as our main energy source?
 
 The Germans did a very important experiment in 2007 called Kombikraftwerk. It took the equivalent electricity demand of a small town and met 100% of it with renewables at all times. It showed that over a year, 70% of German demand could be met by wind and photovoltaics, with 25% from biogas and only 5% from storage.
 
@@ -103,7 +103,7 @@ There’s also another very important point against nuclear power.
 
 Offshore wind and PV are rising faster than mobile phones did when they first took off. If you extrapolate it, we could have far more PV and offshore wind than nuclear by the time the new Hinckley Point turns on. If we do what we can do with PV and wind, nuclear will be a complete irrelevance, but only if we invest in subsidies for renewable rather than nuclear.
 
-__Does your house have photovoltaics?__
+Does your house have photovoltaics?
 
 Yes! I’m extremely pleased with them. This point about what happens when the sun doesn’t shine: our excess (and we often have it) is stored in our hot water tank. Between March and October, we don’t use gas: all or hot water comes from excess solar. So the message that you will sometimes hear that we can’t store solar energy except at great expense is completely wrong.
 

@@ -81,7 +81,7 @@ Imperial College's public statement [can be found here](http://www3.imperial.ac.
 
 *****
 
-__Stefan Grimm’s email, taken from dcscience.net:__
+Stefan Grimm’s email, taken from dcscience.net:
 
 _From: Stefan Grimm <_[_professorstefangrimm@gmail.com_](mailto:professorstefangrimm@gmail.com)_>_
 
@@ -135,7 +135,7 @@ _Stefan Grimm_
 
 ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *****
 
-__Wilkin’s email to Stefan Grimm, taken from The Times Higher Education artlcle that can be found____ __[__here__](http://www.timeshighereducation.co.uk/news/imperial-college-professor-stefan-grimm-was-given-grant-income-target/2017369.article)__: __
+Wilkin’s email to Stefan Grimm, taken from The Times Higher Education artlcle that can be found [here](http://www.timeshighereducation.co.uk/news/imperial-college-professor-stefan-grimm-was-given-grant-income-target/2017369.article):
 
 _Date: 10 March 2014_
 

@@ -29,7 +29,7 @@ On Friday 9th May 2014, a team of from the Imperial College Cross Country and At
 
 The race consists of 25 stages, beginning at midnight and running 175km crossing towns, countries and borders to finish the following evening before a huge festival style party. The teams are expected to ferry their runners around the course by minibus and bike, requiring a huge amount of organisation, coordination and endurance. Sounds great right? Read on to hear an account of ICXCAC’s representation on the continent.
 
-__Arrival – Matt Douthwaite__
+Arrival – Matt Douthwaite
 
 Obtaining a team of 25 for a race in another country in exam season at Imperial is nigh on impossible, and as a result our team for the race came to a grand total of 13 people. On top of the sleep deprivation, almost everyone would have to run twice. This made it the most ambitious Cross Country trip in many years. Game on.
 
@@ -37,9 +37,9 @@ Getting to the Netherlands was the first challenge of the weekend. The first par
 
 The race is split into a number of stages with restarts after each; a night stage, a morning stage, an afternoon stage and the final men’s and women’s race to the finish. So this is how we attempted to split our undermanned team, with some overlap. This meant the day team was now preparing for what we thought would be a good 5 hours sleep on the floor of the university gym, while the night team were warming up for an action packed night of running.
 
-__The Night Shift__
+The Night Shift
 
-__By Duncan Ingram__
+By Duncan Ingram
 
 A giant relay race spanning 175km is kind of a big deal. But to tackle such a feat in completely foreign territory, with a distinct shortage of participants, is truly something else. Impeccable timing, navigation and athletic determination must all be present if any sort of success is to be achieved. Though to say that Team Imperial got off to a smooth start would be plain wrong.
 
@@ -53,7 +53,7 @@ Despite these shenanigans, the night team kept pulling through stage-by-stage. D
 
 “All good things come to an end” (said someone, presumably), and so this third of the relay had to reach its sad conclusion. Duncan was left with the Christmas bike in some weird place called Ulft, while the minibus sped off to acquire the keen bunch responsible for the remainder of Batavierenrace. Huge congratulations should be given to the night team for not losing their cool and delivering the goods when it mattered, but particularly to Mike and Anne for additionally driving us round in one piece. For most of us however this was just the start, as many had to prepare for relay legs in the Morning and Afternoon series …ah well, sleep’s overrated anyway.
 
-__Night Running by Milan__
+Night Running by Milan
 
 Just after our previously lost cycling bib was found, Alissa, Duncan, Mike and Milan jumped into the minibus to go to the start of the third leg leaving Anne and Johnny in Nijmegen for the first two legs of the race. Very quickly did we realise that it would not be too easy to find the right place. Not knowing about a printout of driving directions between changeover points and long before coming up with the ‘follow that van!’ strategy we just had to rely mostly on a minimally detailed map of the whole race and Mike’s compass. Well, we got there in the end…
 
@@ -63,7 +63,7 @@ Then it was Mike’s turn to run and Duncan’s to cycle before swapping around.
 
 I was running again this time across the river Rhine and back to the Netherlands. It was slightly uphill for most of the course which wasn’t great but I was still overtaking people so it despite tiredness building up it didn’t feel too bad. Alissa was doing a great job ringing the bike’s bell to get people out of the way and cheering (once even in Dutch by accident). At the end of the leg me and Alissa swapped around and continued to blaze past other teams until handing over to Johnny and Mike. After their leg Mike was running again and I was cycling with him during a short and intense leg finishing in Ulft which marked the end of the night section.
 
-__Morning stages 10, 11 - Will Jones__
+Morning stages 10, 11 - Will Jones
 
 After cheering off Anne at the start and making sure the first changeover went as planned the morning team of Siân, Sophie, Lina and Will along with Matt and Al found a quite spot to get as much shut-eye as possible before an early start the next day. Unfortunately this went out the window as we were woken at 3am with loud club music – only the Dutch… After finding another quite spot and trying to salvage as much sleep as we could we were off at 5:45am to head over to Ulft to meet up with the night team for the morning restart.
 
@@ -75,6 +75,6 @@ After a few hundred metres past cheering crowds we crossed over a bridge (I foun
 
 After a quick swapping of bibs Siân was off and fast. I cycled up alongside and we were soon overtaking other teams. Despite pain from her knee we continued at top effort and passed 4 teams by the end of the leg, a great result! After passing over to Sophie and Lina to set them up for a fast pair of women’s legs we limped our way over to the car park to meet up with the car with Matt and Duncan. Unfortunately they decided to drive over to the start to pick us up, we missed each other and caused a great deal of confusion. After finally meeting up we jumped into the car and drove over to waypoint 13 where Duncan and I would take over from Sophie and Lina.
 
-___Next week Felix Sport will feature a report from the second half of this event. ___
+_Next week Felix Sport will feature a report from the second half of this event. _
 
-___Stay Tuned!___
+_Stay Tuned!_

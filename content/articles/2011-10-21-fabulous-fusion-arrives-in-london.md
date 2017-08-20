@@ -52,4 +52,4 @@ We spoke to Azel, a student who’d recently joined UCL from Leicester, who told
 All this however does come with risks. Historically intercollegiate events have tended to miss the bar; one needn’t think too far back to recall [the phenomenal success of the ICL-KCL-Goldsmith’s joint Summer Ball last year and the black hole it created in Union finances](http://felixonline.co.uk/news/1450/summer-ball-suffers-100000-loss/). But the human investment that has gone into Fusion suggests this could be amongst the first to buck the trend. Never before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar.
 
 _Fusion launches later this month with their Halloween Masquerade Ball at the Café de Paris, Piccadilly, on the October 31. £9 tickets (£12 for non-students).
- Go to [__fusionatlondon.com__](http://fusionatlondon.com/) for more details._
+ Go to [fusionatlondon.com](http://fusionatlondon.com/) for more details._

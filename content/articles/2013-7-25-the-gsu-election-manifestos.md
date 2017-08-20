@@ -33,7 +33,7 @@ P.S. It's really easy, there's not much to read...
 
 ###  Graduate Students Union Elections
 
-__Position: President__
+Position: President
 
 _Candidate #1: Andreas Thomik_
 
@@ -43,7 +43,7 @@ _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Deputy President (Representation)__
+Position: Deputy President (Representation)
 
 _Candidate #1: Boshuo Guo_
 
@@ -53,13 +53,13 @@ _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Events Officer __
+Position: Events Officer
 
 _Candidate #1: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Treasurer__
+Position: Treasurer
 
 _Candidate #1: Gheorghe-teodor Bercea_
 
@@ -69,25 +69,25 @@ _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Secretary__
+Position: Secretary
 
 _Candidate #1: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Sports & Activities__
+Position: Sports & Activities
 
 _Candidate #1: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: RAG Officer__
+Position: RAG Officer
 
 _Candidate #1: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Business School Academic & Welfare Officer__
+Position: Business School Academic & Welfare Officer
 
 _Candidate #1: Ruxandra Luca_
 
@@ -97,7 +97,7 @@ _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Life Sciences Academic & Welfare Officer__
+Position: Life Sciences Academic & Welfare Officer
 
 _Candidate #1: Marta Sawicka_
 
@@ -107,13 +107,13 @@ _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Physical Sciences Academic & Welfare Officer__
+Position: Physical Sciences Academic & Welfare Officer
 
 _Candidate #1: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
 
-__Position: Medicine Academic & Welfare Officer__
+Position: Medicine Academic & Welfare Officer
 
 _Candidate #1: RON - Re-Open Nominations_
 

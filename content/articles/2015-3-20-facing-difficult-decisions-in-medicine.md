@@ -30,11 +30,11 @@ Currently, there is no consensus for when to trigger the delivery in mothers of 
 
 Women at 26-32 weeks into pregnancy who had been diagnosed with foetal growth restriction were randomly allocated to one of three different monitoring methods currently used in obstetrics. either:
 
-__Cardiotocography__ - this is the most commonly used method of foetal surveillance and monitors the variation in the foetal heart rate.
+Cardiotocography - this is the most commonly used method of foetal surveillance and monitors the variation in the foetal heart rate.
 
-__Early ductus venosus changes__ - this uses ultrasound to monitor the resistance in blood flow within the ductus venosus, a small vessel below the fetus’ heart, and gives an indication of oxygen shortage.
+Early ductus venosus changes - this uses ultrasound to monitor the resistance in blood flow within the ductus venosus, a small vessel below the fetus’ heart, and gives an indication of oxygen shortage.
 
-__Late ductus venosus changes __- this also uses ultrasound to monitor variability in the waveform of the blood flow in the ductus venosus and indicates abnormalities in the foetus’ heart contractions.
+Late ductus venosus changes - this also uses ultrasound to monitor variability in the waveform of the blood flow in the ductus venosus and indicates abnormalities in the foetus’ heart contractions.
 
 The decision on when to deliver the baby was based on the output of the monitoring technique allocated. They then recorded the rate of survival both before and after birth and followed the surviving babies for two years after to determine how many developed neurological disorders such as cerebral palsy or neurosensory impairment. They also carried out a cognitive assessment with a standardised scale of infant development known as the Bayley III score, with a score of less than 85 suggestive of problems with neurodevelopment.
 
@@ -48,4 +48,4 @@ There are current no effective treatments for pregnant women diagnosed with feta
 
 “This type of research isn’t a quick fix and requires years of hard work. The idea started off in a bar in a hotel in Turin with professors Gerry Visser and Tullia Todros in 2001 and rapidly became an international group effort. I have co-ordinated all the meetings-it’s been hard work but great fun and I am enormously indebted to my collaborators many of whom have become very good friends. And of course to the women who took part: we have at least in part with their help at a very sensitive time answered a question that many thought we could never answer,” Dr Lees explains.
 
-The researchers are planning on the ‘TRUFFLE 2’ study on women diagnosed with foetal growth restriction at a later time in pregnancy (32 to 36 weeds). Dr Lees will also be writing a textbook on foetal growth restriction with the TRUFFLE authors. The trial was published in The Lancet the 5th March. __DOI:__10.1016/S0140-6736(14)62049-3
+The researchers are planning on the ‘TRUFFLE 2’ study on women diagnosed with foetal growth restriction at a later time in pregnancy (32 to 36 weeds). Dr Lees will also be writing a textbook on foetal growth restriction with the TRUFFLE authors. The trial was published in The Lancet the 5th March. DOI:10.1016/S0140-6736(14)62049-3

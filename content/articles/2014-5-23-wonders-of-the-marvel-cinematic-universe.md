@@ -26,7 +26,7 @@ highlights:
 
 With _Captain America: The Winter Soldier_ still drifting around in cinemas almost two months after release, it’s clear that Marvel’s plan to dominate the world of (comic book) films continues to be a resounding success. But just what is that plan, and how has it been so successful?
 
-#### __Phase 1__
+#### Phase 1
 
 Think back to spring 2008. The comic book industry’s ventures into film were showing strong signs of recovery after the apparent death knell that was 1997’s _Batman & Robin_. Marvel’s cunning sales of their biggest properties (in particular _Spider-Man_ and _X-Men_) to some of the big film studios (specifically, Fox and Columbia) had paid off in a big way – until 2007.
 

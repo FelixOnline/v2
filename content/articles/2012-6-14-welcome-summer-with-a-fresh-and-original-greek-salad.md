@@ -26,7 +26,7 @@ highlights:
 
 Greek Salad is dish known worldwide. Many restaurants in London include it in their menus, even if they don’t do Greek cuisine, and most probably you have tasted it at least once. Most people may think that there is no specific recipe for a Greek Salad. If you consider a Greek Salad to be just tomatoes, green leaves and feta cheese, like the one from the JCR and the Library Café, then you need to take a look at the recipe below that includes all the ingredients you need and some useful do’s and don’ts.
 
-__What you need__
+What you need
 
 _1) Medium sized tomatoes_
  DO NOT use rotten tomatoes, put them aside for Italian pasta.
@@ -55,7 +55,7 @@ _8) Oregano_
 _9) Kalamata olives_
  DO NOT use any other kind of olives, especially not any green olives.
 
-__Procedure__
+Procedure
 
 Here’s the thing: there shouldn’t be a procedure. Greek Salad is synonymous to simplicity, so the least time it gets you to cut the tomatoes, cucumber and peppers, peel the onion and spread the feta cheese pieces the best your salad will be. That said I am not implying that you must rush. Just keep in mind to choose the right ingredients and good olive oil. Lastly, don’t forget possibly the most crucial thing when it comes to enjoying a Greek Salad properly: the so-called “papara” (probably the easiest Greek word to pronounce after “malaka”), which is fresh bread literally soaked in the left over mix of oil, vinegar and traces of feta.
 

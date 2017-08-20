@@ -35,7 +35,7 @@ In other results, Monya Zard, who ran uncontested, was elected as Deputy Preside
 
 Nathaniel Bottrell, Eugene Chang, Ravi Pall and Abdul Patel were elected to roles of student trustees, who sit on the Union’s Trustee Board, its governing body, without taking a year out. Heath praised those elected for their “broad range of skills and ideas”.
 
-__Record turnout as Union innovates with live voting stats__
+Record turnout as Union innovates with live voting stats
 
 Imperial College Union had one of the highest election turnouts, so far this year, of any UK university, with [32.5%](http://www.imperialcollegeunion.org/news/election-records-broken,469,ICUNS.html) of students voting. A record 5,033 out of around 15,000 students participated, which is an increase of 50% from last year’s 3,387 voters. For the first time ever, the Union showed [live voting stats](http://www.union.ic.ac.uk/marketing/elections/stats.html) on their websites throughout the voting period, allowing students to see turnout for different departments and halls.
 

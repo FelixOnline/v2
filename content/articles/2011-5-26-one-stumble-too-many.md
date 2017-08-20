@@ -29,7 +29,7 @@ highlights:
 
 Google – a name we all know. I’m sure that the majority of you use one of the internet giant’s services on a near-daily basis. They of course burst into popularity with the now almost ubiquitous search engine, and have since made inroads into many areas of our digital lives. So their annual [Google I/O](http://www.google.com/events/io/2011/index-live.html) event would usually have technology buffs salivating over what exciting new technologies may be announced. However, this year’s event may not have been so widely anticipated, especially with some of their releases in the last couple of years having a less than pleasing reaction.
 
-__A fading edge__
+A fading edge
 
 Firstly there was [Google Wave](http://en.wikipedia.org/wiki/Apache_Wave) – an online, real-time collaborative communication/editing tool that was first announced at I/O two years ago. It didn’t seem to me to really bring anything to the table – I couldn’t really see a real-world application for it. But everyone was raving about Wave – initial reactions to the service were positive, with invitations to the beta incredibly popular. However, it soon became evident that there was little to do once the initial hype had passed, and Google failed to come up with a solid use. To this end, Google [announced just over a year later](http://googleblog.blogspot.com/2010/08/update-on-google-wave.html) that development on the service had ceased due to lack of interest.
 
@@ -37,7 +37,7 @@ Secondly, a little over a year ago, came the infamous Google Buzz. The social ne
 
 Many users were outraged by some of the default settings, which revealed people they often emailed and automatically posted their current location. While this was probably the main factor in the service’s lack of success, it didn’t appear to have a unique or innovative feature to its name; instead it just seemed to be attempting to rival Facebook. Additionally it seems odd to me that Buzz is mainly integrated with Gmail. Surely if you’re logged into Gmail, your first thought if you wanted to talk about or share something with a contact would surely be to email them?
 
-__Innovation lost__
+Innovation lost
 
 So why does it seem that the once seemingly-untouchable Google started to struggle? It cannot be ignored that the company is huge, with over 26000 employees. With a business that large comes an inevitable amount of bureaucracy. That in turn makes it more difficult for new, innovative ideas from non-managerial employees to make it into the world as a Google product.
 
@@ -45,7 +45,7 @@ For example, those ideas that originate in engineers’ twenty per cent time (an
 
 On top of that, it’s possible that this will have a knock-on effect on new applicants to the corporation – budding new software engineers with idea-filled heads may start looking elsewhere in fear of not having their innovations even considered.
 
-__More of the same?__
+More of the same?
 
 But perhaps there is hope for Google to shed their previous failures in the newly announced products at this year’s I/O. Although their Android mobile operating system is successful, it looks like they need another big win to get rid of any negativity. So it’s worth a look at the two main services announced this year – [Google Music](http://music.google.com/about/) and [Chromebooks](http://www.google.co.uk/chromebook/#) – to see if they may provide this boost.
 

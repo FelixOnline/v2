@@ -36,36 +36,36 @@ At the event, Paul Beaumont, Union President, said: “The SACAs is our way of t
 
 Each of the winners received a trophy, and all finalists were presented with a certificate.
 
-__Full List of winners__
+Full List of winners
 
-__Best Teaching for Undergraduates__
+Best Teaching for Undergraduates
 
 Dr Alastair Donaldson, Computing
 
-__Best Innovation__
+Best Innovation
 
 Dr Jane Saffell, Department of Medicine
 
-__Best Graduate Teaching Assistant__
+Best Graduate Teaching Assistant
 
 Alan Zucconi, Computing
 
-__Best Teaching for Postgraduates__
+Best Teaching for Postgraduates
 
 Professor Andrew Purvis, Division of Ecology and Evolution
 
-__Best Tutoring__
+Best Tutoring
 
 Dr Sohag Saleh, Medicine
 
-__Best Feedback__
+Best Feedback
 
 Dr Rebecca Bell, Earth Science & Engineering
 
-__Best Support Staff__
+Best Support Staff
 
 Anna Hikel, Civil & Environmental Engineering
 
-__Best Supervision__
+Best Supervision
 
 Dr Rafael Palacios Nieto, Aeronautics

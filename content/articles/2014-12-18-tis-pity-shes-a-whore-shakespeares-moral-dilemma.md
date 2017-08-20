@@ -25,7 +25,7 @@ highlights:
 
 Despite being written almost 400 years ago in a society vastly different from our own, this Renaissance classic still evokes visceral responses. There is something deeply attractive about a story of passionate love between brother and sister, vengeful adulteresses and corrupt cardinals which all end in a bloody birthday party.
 
-This production, in particular, was an especially immersive experience due to the wonderfully intimate space of the __Sam Wanamaker Playhouse__. Opened in January, this smaller, indoor sister theatre of the__ Globe__ gives the characters extraordinary freedom to embrace the audience into the deliciously hypocritical, bloody and of course, incestuous world of 17th century Italy.
+This production, in particular, was an especially immersive experience due to the wonderfully intimate space of the Sam Wanamaker Playhouse. Opened in January, this smaller, indoor sister theatre of the Globe gives the characters extraordinary freedom to embrace the audience into the deliciously hypocritical, bloody and of course, incestuous world of 17th century Italy.
 
 The candlelit setting lends itself to the clever play of light and shadow, while its small size allows characters to come up close and the audience becomes part of the set – at one point, Anabella’s dim suitor Bergetto falls over the railings and into an audience member’s lap. Intimate scenes are played with the candle lights lowered to cast gentle shadows on faces, which are then elevated in the more public scenes. The lights are extinguished one by one as Annabella’s incestuous pregnancy is revealed and the vengeful adulteress Hippolita’s plot comes together with the schemes of each suitor – culminating in the mistaken murder of Bergetto in complete darkness.
 
@@ -42,5 +42,3 @@ There are also delightful comic interludes from James Garnon as the “dunce” 
 ‘Tis Pity is a fascinating theatrical journey that makes classical theatre accessible and enjoyable for the modern audience and is definitely not to be missed.
 
 _‘Tis Pity is on at the Sam Wanamaker Playhouse until 7th December_
-
-__

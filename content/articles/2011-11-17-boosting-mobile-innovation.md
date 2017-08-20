@@ -34,13 +34,13 @@ As each second ticks away, there’s a quiet revolution going on in every town a
 
 In the time it’s taken you to read just this sentence, over 3,000 mobile applications have been downloaded to handsets across the world. Many of these applications may just be pointless bird throwing, rope cutting and fruit slicing games but a growing number of innovative new applications are changing the way in which we communicate, shop and travel.
 
-__Freeing innovation__
+Freeing innovation
 
 Just a couple of years ago, creating a new and innovative product to solve a problem would require you to design a bespoke piece of hardware, manufacture it, distribute it and retail it through a high street store or a mail-order catalogue. You’d need to find a designer, a manufacturer and suppliers for your components. Then you’ve got to find a distributor to take your product, a retailer willing to dedicate the shelf space to it and a marketing firm to promote it. The route from idea to marketplace was slow, expensive and risk-ridden: launching a new product to solve real world problems was a process accessible only to those with the deepest pockets and those willing to take the biggest risks.
 
 The modern smartphone is a platform which democratises innovation by cutting the cost of development and the associated financial risk to almost zero. We can cut out manufacturing, design, distribution and retail – just write code, deploy it through an application store, make money and iterate. With a single piece of commodity hardware, it is possible to access realtime information from a huge array of local sensors such as GPS, a camera, microphone, accelerometer, compass and a barometer. Combine that with the ability for your smartphone to provide context (through your social networks and location) and the ability to pull in data from millions of sources online, all you need to do is to combine data from those sources in a useful way to solve a real problem and the hardware and APIs do the rest. With the ease of innovating on the smartphone platform, it’s no wonder the pace of innovation has been so quick.
 
-__Improving lives__
+Improving lives
 
 In the UK, mobile applications have helped us to communicate with our peers around the world, to live healthier lives, saved us time and saved us money. ‘Google Translate’ and ‘Word Lens’ have helped us to traverse language barriers and to communicate with people regardless of whether or not we share a common language. ‘Transport for London’ and ‘Addison Lee’ have helped us to get home safely after a night out. Various GPS navigation apps save us time by routing us around traffic jams – traffic jams reported by other users of the application. Applications such as ‘ShopSavvy’ compare prices against other high-street shops and online stores so we don’t get ripped off.
 
@@ -54,7 +54,7 @@ Several short mobile phone calls will allow a farmer or a producer to determine 
 
 Mobile banking companies such as M-Pesa allows people to invest money for their future and to pay suppliers without a long journey to the bank whilst also eliminating the risks and costs of transporting physical money. Other apps such as EpiSurveyor help with disease monitoring: they allow physicians to monitor the spread of diseases in real-time without the delay introduced by sending and collating paper forms.
 
-__Mobile innovation__
+Mobile innovation
 
 The potential to change the world and to make money in the world of mobile technology is unparalleled. The mobile application market is already worth $15bn annually and is only set to continue growing exponentially. Globally, the number of people with a mobile phone is set to pass 4.5 billion by 2012. Many of the next one billion people to be connected to a mobile network will reside in Asia, the Middle East or Africa – these are people who will be accessing the internet for the first time through their mobile phone.
 

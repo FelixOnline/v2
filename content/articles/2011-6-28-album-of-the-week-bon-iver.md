@@ -27,9 +27,9 @@ highlights:
  - comment
 ---
 
-This is certainly the best album released so far this year, and it will probably remain that way unless __Joanna Newsom__ sneaks out another before December. Often sounding very 80s with Peter Gabriel-esque synths on the opener ‘Perth’ and familiar pop-rock nuances on ‘Beth/Rest’, the album combines a huge range of influences in interesting and varied ways. Remarkably, however, the albums is completely cohesive and utterly original. This eponymous second album is streets ahead of his previous (and excellent) record _For Emma, Forever Ago_, which, when listened to after __Bon Iver__, simply sounds dull and repetitive. Finding words to describe the sheer beauty of this album is difficult, but I wrote a poem to explain how it makes me feel.
+This is certainly the best album released so far this year, and it will probably remain that way unless Joanna Newsom sneaks out another before December. Often sounding very 80s with Peter Gabriel-esque synths on the opener ‘Perth’ and familiar pop-rock nuances on ‘Beth/Rest’, the album combines a huge range of influences in interesting and varied ways. Remarkably, however, the albums is completely cohesive and utterly original. This eponymous second album is streets ahead of his previous (and excellent) record _For Emma, Forever Ago_, which, when listened to after Bon Iver, simply sounds dull and repetitive. Finding words to describe the sheer beauty of this album is difficult, but I wrote a poem to explain how it makes me feel.
 
-__Autumn__
+Autumn
 
 Autumn breeze frigidly touches ailing dreadful lives
  Harshly darkness quietly surrounds the broken souls

@@ -20,7 +20,7 @@ authors:
 highlights:
 ---
 
-__Indoor Cricket__
+Indoor Cricket
 
 _Imperial 128-3 Bournemouth 95 all out_
 
@@ -36,4 +36,4 @@ We played two matches, of 12 overs each, both against Bournemouth. We won by 33 
 
 The women’s team is now preparing for the finals which will take place on January 25th at Lord’s! Even though they’ll be up against some tough competition from Exeter, Bristol, Southampton, Birmingham and Loughborough who have also reached the final, the challenge is eagerly awaited. We will be practising hard in nets until then. If you’re interested in joining us, we’d love to hear from you so drop us a line.
 
-_Email __cricket@ic.ac.uk__ for any info or if you’re interested in joining!_
+_Email cricket@ic.ac.uk for any info or if you’re interested in joining!_

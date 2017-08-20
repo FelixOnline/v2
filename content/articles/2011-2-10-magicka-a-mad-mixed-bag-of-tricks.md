@@ -42,4 +42,4 @@ I guess now you’re looking towards me for a recommendation; I really wish you 
 
 Did I have fun? Initially, no, I didn’t, but that was down to the time I had to spend getting adjusted to the controls. Will I keep playing it? I think so. Magicka is a half-decent game that certainly deserves at least a few more hours of my time, and it’s not like I want to get good marks on my coursework anyway!
 
-__Magicka is available now from [Paradox Interactive](http://paradoxplaza.com) and [Arrowhead Game Studios](http://arrowheadgamestudios.com/).__
+Magicka is available now from [Paradox Interactive](http://paradoxplaza.com) and [Arrowhead Game Studios](http://arrowheadgamestudios.com/).

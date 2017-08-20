@@ -33,26 +33,26 @@ I had not thought of that. I guess I just did not expect to find one of the most
 
 I contacted the Nommon pharaoh [Raath-Mon-Tet](http://www.myspace.com/raathmontet), harbinger of chaos, through his delightful “Ask-A-Pharaoh” page. Little did I know that I had in fact unleashed a plague of biblical proportions upon Imperial College, under the form of a psycore/experimental techno closing set at Felix’s Music Night, 19.02....
 
-__What is Raath-Mon-Tet’s story?__
+What is Raath-Mon-Tet’s story?
 
 Since possessing a boy of your species, Raath-Mon-Tet has had many attempts at enslaving the human race using soundwaves. Notable attempts include a guerilla gig at your popular Trafalgar Square filmed on SkyArts, where the über-death-psy magnifier unfortunately never arrived, and the most recent of the heralded ALAN nights ([www.wearealan.com](http://www.wearealan.com)) where spirits channelled through a sacrificed alien also failed to brainwash your kind.
 
-__What does Raath-Mon-Tet want from us puny Earthlings?__
+What does Raath-Mon-Tet want from us puny Earthlings?
 
 Your resources, your bodies and your minds, but not your souls. Did anyone ever tell you earthlings that your souls taste like mayonnaise? Intergalactically speaking, smooth mayonnaise is the second worst tasting thing, only just falling behind chunky mayonnaise.
 
-__Why is Raath-Mon-Tet’s music so goddamn loud?__
+Why is Raath-Mon-Tet’s music so goddamn loud?
 
 Have you ever tried to harness the willpower of an entire race during a DJ set? You need to crank your tunes pretty loud for the whole world to hear them. Besides, listening to quiet music can seriously damage your credibility.
 
-__What is Raath-Mon-Tet’s favourite song to play?__
+What is Raath-Mon-Tet’s favourite song to play?
 
 The Imperial March, Darth Vader’s theme from Star Wars. The movie was good but Darth was a much more fun guy in reality. The reason I moved from that quadrant was because of the Gungans. Man were those fellas irritating.
 
-__Is your dream to perform on a giant floating pyramid?__
+Is your dream to perform on a giant floating pyramid?
 
 Raath-Mon-Tet does not dream, Raath-Mon-Tet does. And anyway, intergalactic arch-pharaohs regularly gig on collosal, crystalline trapezohedrons. Why Raath-Mon-Tet would stoop to perform on pyramids is beyond Raath-Mon-Tet’s understanding.
 
-__And why in the world should people pay to see some dude jump up and down in a pharaoh mask and poncho anyway??__
+And why in the world should people pay to see some dude jump up and down in a pharaoh mask and poncho anyway??
 
 _Raath blinks and interviewer falls to the ground unconscious._

@@ -22,11 +22,11 @@ authors:
 highlights:
 ---
 
-__Midnight in Paris__
+Midnight in Paris
 
-__Director__ Woody Allen
-__Screenwriter__ Woody Allen
-__Cast__ Owen Wilson, Rachel McAdams
+Director Woody Allen
+Screenwriter Woody Allen
+Cast Owen Wilson, Rachel McAdams
 
 Another year means another Woody Allen film – this time shot in Paris. [_Midnight in Paris_](http://www.youtube.com/watch?v=atLg2wQQxvU) is a warm, nostalgic trip around the beautiful city, with Allen taking a more casual approach to telling his original story.
 

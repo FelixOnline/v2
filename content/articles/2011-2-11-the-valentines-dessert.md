@@ -37,7 +37,7 @@ According to Cosmopolitan (the Wikipedia for understanding girls), every girl se
 
 Anyways, how true the stuff above is I don’t know. Yeah fine I could have ‘overcooked’ the stats you see above, but in all honesty this really is one tasty dessert which I highly recommend for you to try out and I can assure you, it will go down a treat!
 
-__BY’s Valentine Dessert__
+BY’s Valentine Dessert
 
 Costs: £7 max
 

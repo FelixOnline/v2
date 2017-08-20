@@ -29,7 +29,7 @@ Call me old fashioned, but I always thought that phones were for talking to peop
 
 So, in my old fashioned-ness, I never really got into playing games on my phone. Well, as they say, there’s a first time for everything, and I booked a return ticket to the land of Humble-topia, and wrote a guide for anyone who is looking for a holiday retreat over the next 5 days, 8 hours, 30 minutes and 24 seconds (note, time remaining may vary depending on when you actually read this article). There’s not enough space to cover all the tourist attractions, so here’s my top 5 places to visit.
 
-__The Sandy Beaches of Solar 2__
+The Sandy Beaches of Solar 2
 
 I was confused when I started the tutorial. I was a rock. A sentient rock. I could fly around space and smash into things. I thought I was just messing around, but it seems I was actually playing the game.
 
@@ -38,7 +38,7 @@ The game revolves around mass. As an asteroid, you can smash into other asteroid
 
 I feel I’ve only scratched the surface of the game, as I’ve seen screenshots of you controlling solar systems, and upgrading yourself to a black hole, so it’s the top of my list to play when the lectures are getting boring. That being said, I’ve a feeling the game is more fun on PC, as it’s just a little too fiddly on a small screen. It’s still a great game though on Android, and alone worth the sub-£10 that you can get the whole bundle for!
 
-__Dynamite Jack’s Caving Experience__
+Dynamite Jack’s Caving Experience
 
 {{< figure src="http://felixonline.co.uk/img/upload/201303150142-tna08-launch_boxart.jpg" title="" caption="" attr="" >}}
 
@@ -48,7 +48,7 @@ You are Dynamite Jack, a guy who loves blowing things up, hiding in the darkness
 
 Missions take place in a range of environments – such as tight tunnels where it’s easy to slip around a corner, out of sight, and large, open caves where there’s not a single piece of cover for miles.
 
-__The Super Hexagon Estate__
+The Super Hexagon Estate
 
 {{< figure src="http://felixonline.co.uk/img/upload/201303150142-tna08-ss_534dfe48501ce998f65340db88698fca6aef82c1.1920x1080.jpg" title="" caption="" attr="" >}}
 
@@ -56,7 +56,7 @@ I had heard and seen great things about Super Hexagon. You’re in control of a 
 
 I, however, seem to suck at this. I barely last 5 seconds before dying, and after multiple tries, I ragequit and need to take a breather, only to get dragged back in! I can see why people say it’s a good game – it’s quick, it’s simple and it has one heck of a difficulty cliff. It might just be that I’m rubbish at it, so if you’re a fan of this whole “let’s dodge lines” thing, then give it a go.
 
-__Crayon Physics Valley__
+Crayon Physics Valley
 
 {{< figure src="http://felixonline.co.uk/img/upload/201303150142-tna08-crayon_shot_02.jpg" title="" caption="" attr="" >}}
 
@@ -67,7 +67,7 @@ Your objective is to get a ball to hit a star, by any means necessary. There are
 
 I played the game on Windows when it came out, and it was fine. I think it’s a lot more fun on your phone, as you actually draw the objects on the screen with your body parts. The game isn’t made to be difficult, it’s made to be fun, and fun you will have.
 
-__Beat Hazard Ultra Opera House__
+Beat Hazard Ultra Opera House
 
 {{< figure src="http://felixonline.co.uk/img/upload/201303150142-tna08-beat-hazard-ultra-screenshot-ps3-2.jpg" title="" caption="" attr="" >}}
 

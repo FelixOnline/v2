@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-__A Haunted House__
+A Haunted House
 
 If your idea of fun consists of Marlon Wayans dry-humping three cute stuffed animals for an extended period of time in various positions, you should go right ahead and watch this horror movie spoof that pretty much does nothing right.
 
@@ -36,7 +36,7 @@ We get fart jokes, sex jokes, defecation, misogyny and homophobia, and no matter
 Much like the films it wants to make fun of, there’s too much time lingering over nothing, and often you want the film to just get on with it and make us laugh.
  Sadly the laughs never do come, and thankfully when it’s all over in 86 minutes, you’ll want to avert your eyes and attention to something of more quality. Let’s just say, it’s worse than the Scary Movie films – now that’s a pretty new low. – 1 Star
 
-__Bachelorette__
+Bachelorette
 
 This year’s Bridesmaids? Not quite, but it’s a wedding comedy that can proudly stand on its own two feet. It’s funny, filthy, and bold, with quirky, unlikable but redeemable characters played by actors who can handle comedy.
 
@@ -48,7 +48,7 @@ What’s difficult is that the world has moved on and they haven’t. It’s dif
 A stupid, drunken evening leads to a ripped wedding dress, which is every bride’s worst nightmare. The good news is, Becky has no idea, and they have until the next morning to get this fixed.
  They find new love and renewed friendships along the way, and perhaps finally, the three will snap out of their fantasy lives and grow up. And there’s fun to be had getting there. – 4 Stars
 
-__Stand Up Guys__
+Stand Up Guys
 
 Released from prison after almost spending three decades locked up, Val (Pacino) is looking for some good time (i.e. sex, drugs, guns) with his buddies Doc (Walken) and Hirsch (Arkin). What complicates hisnight-out is that Doc has been tasked with killing Val and delivering his body to a crime boss.
 
@@ -58,7 +58,7 @@ Awkwardly stirring up false sentimentally to bring about closure for the charact
 
 But despite the mind-numbingly dull script, it’s always worth sticking around for some banter between Pacino, Walken and Arkin. – 3 Stars
 
-__No One Lives__
+No One Lives
 
 Japanese director Kitamura’s second English-language feature is as bloody and shocking as his previous film The Midnight Meat Train, but also just as shallow. There will be blood, tons of it, with all the gore very stylishly handled, although when it comes to explaining the characters themselves, the film falls massively short.
 
@@ -70,7 +70,7 @@ Briefly glossing over the psychology of the Driver and his relationship with his
 
 Everything is very slickly put together but the content is barely there. – 3 Stars
 
-__The Call__
+The Call
 
 Halle Berry is a 911 operator having undergone a traumatic event six months beforehand of listening to a young girl get murdered, Abigail Breslin is a girl who’s kidnapped and calling her now from the boot of the car, and the two communicate trying to figure out the best solution to this little problem.
 

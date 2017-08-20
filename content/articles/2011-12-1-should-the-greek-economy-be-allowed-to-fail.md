@@ -28,7 +28,7 @@ highlights:
  - longread
 ---
 
-__Yes – James Clough__
+Yes – James Clough
 
 Greece has serious problems. Essentially they have run out of money, and lending any to them is seen as a very risky business. As such, the lenders are only willing to offer high interest loans; this worsens the problem as Greece’s interest repayments increase and their budget deficit gets ever bigger.
 
@@ -48,7 +48,7 @@ If they leave the Euro and return to their old currency, the Drachma, they can r
 
 Let Greece have its own currency, let them devalue it, and let them sort out their problems. It is the only way to save Greece and save Europe. Bailing out the countries which spend all of their money may seem like a good idea now, but one day Germany will run out of money to help with these bailouts, or its voters will just say no. And when that happens, this crisis will look very, very small in comparison.
 
-__No – Ed Middleton__
+No – Ed Middleton
 
 When, in 2001, Greece joined the Eurozone, it signed a treaty that certified its membership of this group indefinitely. There was no clause that permitted the secession or expulsion of a state from this particular community. This would make it very difficult for Greece to decide to leave or, equally likely, to be thrown out. Granted, it would not be impossible to create a pathway by which states may leave the Eurozone, but this would become problematic in the future. The same problems would form that drove Abraham Lincoln to declare war with, and reunite, the confederacy of the United States in 1860. If members of a group are free to come and go whenever they please, the authority of the community is undermined; without unanimity, it is very difficult to achieve anything. If a state feels that a policy is not in their interest, they can simply leave. This makes it impossible for strong community-based governance to occur and makes the community indecisive, stagnant and slow to implement change. It also adds an internal political element to the decision, where leaders of member countries can gain political capital by threatening to exit the Eurozone unless their state’s demands are satisfied. This would be in nobody’s interests, since it makes it very difficult for the community to fulfil its goals and aid co-operation of member states.
 

@@ -69,4 +69,4 @@ But this is precisely Reddit’s problem – these echo chambers warp the users�
 
 With this safe space for misogyny (again, 4chan’s role can’t be understated), is it any surprise that harassing women online has become so organised? Something like GamerGate was inevitable, it just needed a nucleation site like the Zoe Quinn accusations. Viewed from this perspective, it’s clear that our society still has a long way to go.
 
-_Thanks to Joseph Henderson for helping me write this by providing many details__ about how Reddit works._
+_Thanks to Joseph Henderson for helping me write this by providing many details about how Reddit works._

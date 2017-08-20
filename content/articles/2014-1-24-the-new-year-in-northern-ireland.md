@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__T__hose who complain that British politicians lack principles should look to Northern Ireland. There is surely no other part of the UK where so many political leaders have such stupid, boring and ultimately harmful principles. Take Edwin Poots, Northern Ireland’s Health Minister, who has spent £37,000 of taxpayer money on his legal efforts to ban gay men from donating blood and £57,000 trying to prevent civil partners from adopting, citing homosexuality as “an illness”. This is the Health Minister.
+Those who complain that British politicians lack principles should look to Northern Ireland. There is surely no other part of the UK where so many political leaders have such stupid, boring and ultimately harmful principles. Take Edwin Poots, Northern Ireland’s Health Minister, who has spent £37,000 of taxpayer money on his legal efforts to ban gay men from donating blood and £57,000 trying to prevent civil partners from adopting, citing homosexuality as “an illness”. This is the Health Minister.
 
 I spent the Christmas holidays at home in Belfast where I was surrounded by reminders of some of the province’s peculiarly pointless principles. Just at the end of my street, 3 men kept a weekly vigil draped in red, white, blue and drizzle, huddled in the middle of the road. A year ago there were enough of them to block that road but now they watch haplessly as cars pass them by. They are “flaggers”; Loyalists determined not to stop protesting until the Union Flag flies above Belfast City Hall 365 days of the year, as it did until December 2012 when the council voted to fly it only on royal occasions. This movement to a more inclusive, shared public space has been labelled “cultural genocide” by many of these flaggers.
 

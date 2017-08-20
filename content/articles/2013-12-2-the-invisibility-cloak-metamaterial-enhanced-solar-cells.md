@@ -26,7 +26,7 @@ highlights:
 
 The invisibility cloak
 
-__Amrita Ghosh & Arya Mehta__
+Amrita Ghosh & Arya Mehta
 
 So far, the most popular application of metamaterials being worked on is the ‘invisibility cloak’. This idea was first proposed by Professor Sir John Pendry. His team received a grant of £4.9 million to develop metamaterials for ‘invisibility cloaks’ in 2009.
 
@@ -38,7 +38,7 @@ The potential of the ‘invisibility cloak’ is unimaginable, and it only empha
 
 Metamaterial-enhanced solar cells
 
-__Emma Wills__
+Emma Wills
 
 A newly developed layer of tiny Aluminium studs has been found to enhance the efficiency of solar cells by up to 22%.
 

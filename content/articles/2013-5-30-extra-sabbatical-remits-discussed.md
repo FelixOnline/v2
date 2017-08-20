@@ -48,23 +48,23 @@ The paper is clear to mention that the Sabbaticals are “not proposing removing
 
 At the moment, it is merely a discussion and not an action.
 
-__Proposed additions to remits__
+Proposed additions to remits
 
-__President__
+President
 
 Accommodation
 
-__Deputy President (Clubs & Societies)__
+Deputy President (Clubs & Societies)
 
 Non-SK Campuses
 
 Volunteering
 
-__Deputy President (Education)__
+Deputy President (Education)
 
 Internationalisation
 
-__Deputy President (Finance & Services)__
+Deputy President (Finance & Services)
 
 Student Development and Skills Development
 
@@ -72,7 +72,7 @@ Postgraduate Social
 
 Volunteering Accreditation
 
-__Deputy President (Welfare)__
+Deputy President (Welfare)
 
 Liberation
 

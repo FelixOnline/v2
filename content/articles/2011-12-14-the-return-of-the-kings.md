@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-Here lies the end of an era – both on and off stage. Richard II as King of England and Michael Grandage as artistic director of the [__Donmar Warehouse__](http://www.donmarwarehouse.com/). After almost a decade of ne’er erring productions, Grandage gives us Shakespeare’s [_Richard II_](http://www.donmarwarehouse.com/pl133.html). The stage has the hushed and sacrosanct air of a church after benediction. The King sits in meditation on his throne, and frankincense hangs in the air like a ghost.
+Here lies the end of an era – both on and off stage. Richard II as King of England and Michael Grandage as artistic director of the [Donmar Warehouse](http://www.donmarwarehouse.com/). After almost a decade of ne’er erring productions, Grandage gives us Shakespeare’s [_Richard II_](http://www.donmarwarehouse.com/pl133.html). The stage has the hushed and sacrosanct air of a church after benediction. The King sits in meditation on his throne, and frankincense hangs in the air like a ghost.
 
 It is the end of the 1390s and King Richard is called on to settle the beef between Henry Bolingbroke and Thomas Mowbray. They are both exiled – Bolingbroke for six years and Mowbray forever. Mowbray’s anguish at the prospect of starting anew at the age of forty in a foreign land makes one realise how times have changed, though people may have not.
 

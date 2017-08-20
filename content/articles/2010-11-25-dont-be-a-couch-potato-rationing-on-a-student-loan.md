@@ -30,7 +30,7 @@ Having been in this position last week, with nothing more than potatoes and dark
 
 Since then, in far more able condition, I have played with a few embellishments; the versatility of this humble staple being music to my mouth. So here is the main recipe and a few alterations which worked, but feel free to experiment, as there’s not much that can go wrong with these.
 
-__Traditional Potato Cakes__
+Traditional Potato Cakes
 
 · 200 g plain flour
 
@@ -52,7 +52,7 @@ Spread some flour onto a chopping board and pull your dough into 4-5 patties, fo
 
 Heat some oil (leftover bacon oil is best!); fry on medium heat until brown on both sides. Serve with oodles o’ butter, bacon and tomato ketchup!
 
-__Herbed up Potato Cakes__
+Herbed up Potato Cakes
 
 Extra Ingredients:
 
@@ -64,7 +64,7 @@ Extra Ingredients:
 
 Simply add these ingredients into the mashed potato for more flavoursome potato cakes!
 
-__Salmon Potato Cakes__
+Salmon Potato Cakes
 
 · 170 g plain flour
 

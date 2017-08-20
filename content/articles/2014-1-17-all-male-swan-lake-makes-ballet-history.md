@@ -26,11 +26,11 @@ highlights:
  - comment
 ---
 
-__What: __Matthew Bourne’s Swan Lake __Where: __Sadler’s Wells, EC1
+What: Matthew Bourne’s Swan Lake Where: Sadler’s Wells, EC1
 
-__When: __Until 26th January
+When: Until 26th January
 
-__Price: __Various
+Price: Various
 
 Dance newbies: this is not frilly dresses and satin shoes. You will be exposed to raw power, unsettling emotions and unsettling scenes. Ballet aficionados: prepare to be amazed at the side of Swan Lake this performance brings out.
 

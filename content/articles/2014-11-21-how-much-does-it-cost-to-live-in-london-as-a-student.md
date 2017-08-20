@@ -49,4 +49,4 @@ Students in London are also spending the most on travel, with each student spend
 
 Imperial have it’s own estimates of how much student living costs, as shown in the pie chart opposite. Despite estimating that students need £286 to live off on a weekly basis as opposed to £322, the UCL average, Imperial still offers more financial support than our central London cousin.
 
-__PHILIPPA SKETT__
+PHILIPPA SKETT

@@ -27,13 +27,13 @@ Regular readers might know I’ve covered a few horror games in my time – [_Am
 
 Unfortunately, that’s my eternal gripe. As it is, horror has mostly lost its edge when it comes to video games. Whilst what scares people differs from person to person there are a few aspects that are vitally important when you set out to create a game intending to nudge people onto the edge of their seats. These are just a few.
 
-__Tone__
+Tone
 
 First, a game has to decide upon its tone before going any further. Is it going to be a scary horror, designed to creep you out? A light hearted horror, where the horror serves merely as a minor backdrop? Games such as _Amnesia_ or _Dead Rising 2_ have nailed this – they know what they want to be. _Amnesia_ deliberately sets out to scare you and does so with great aplomb. Likewise, _Dead Rising 2_ wants you to have mindless fun, and the ensuing goofy, off the wall gameplay with zombies thrown in does not disappoint. There is nothing wrong with games like _Dead Rising 2_ or [_Left 4 Dead_](http://www.youtube.com/watch?v=VVIdHPG0wYI), because you know from the advertising what you’re getting.
 
 No so with games such as [_Doom 3_](http://www.youtube.com/watch?v=JQ7HscCerT8) or [_Doom 3: Resurrection of Evil_](http://www.youtube.com/watch?v=Tb5i3OzwKmU). Such games are set out as horrors, when in reality they’re better suited as action shooters. The _Doom_ series up until _3_ got this — demons were just a handy enemy to massacre. Attempts to make _Doom_ overly scary have created a game that’s neither here nor there. It’s a competent shooter, but lots of darkness does not a horror game make.
 
-__Monsters__
+Monsters
 
 Monsters are right at home in horror – but not all monsters are effective. A good horror should use them sparingly. The human imagination is a wild and vivid thing, and letting people imagine what lies in a darkened room filled with heavy, laboured breathing is far more effective than showing them. What is deemed visually scary by one person may not to someone else, and vice versa. What sounds scary tends to be more common – think mewling kittens versus snarling, disembodied gurgling. Some of the scariest moments in _Doom 3_ simply involved noises in air vents and corpses being dragged away by an unseen entity.
 
@@ -41,7 +41,7 @@ Monsters are right at home in horror – but not all monsters are effective. A g
 
 When a monster is seen, it obviously has to look scary. Now this, as I’ve said, is a very subjective point. However, one concept in 3D design tends to be well accepted, that of the uncanny valley, a hypothesis in 3D computer animation that states that as a human replica becomes more and more human it will reach a point at which it looks and acts almost human. This is the point revulsion kicks in. Monsters that look human or, even better, ones that look like they could have been humans work well, such as the nurses and [Pyramid Head from _Silent Hill_](http://www.youtube.com/watch?v=vprETGvyShM) (pictured). On an unconscious level the brain creeps out, but you can’t quite work out why. This is at least a redeeming factor in _Dead Space_ – whilst the monsters may jump out at you all the time, you can clearly see they’re horrifically mutated humans, and that ‘creep’ factor worms its way into your brain. Talking of jumping out all the time...
 
-__Pacing and Tension__
+Pacing and Tension
 
 Everyone ought to be familiar with the concept of tension – after all, it is exam season – but pacing is less well understood. Pacing is how the highs and the lows of the game mix together, and is better described with examples.
 

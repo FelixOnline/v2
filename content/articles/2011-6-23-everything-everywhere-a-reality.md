@@ -25,18 +25,18 @@ highlights:
 
 As summer draws nearer and the spring round of exhibitions and trade fairs draws to a close, there’s a lot of shiny new technology to look forward to over the next few months. Driving the latest round of products is the incessant slide towards perpetual connectivity: be it mobile, tablet, laptop or the increasingly elusive desktop, all major tech players are pushing to have you wired 24/7.
 
-__NFC and mobile wallets__
+NFC and mobile wallets
 
 The most noticeable push this summer will lie in [NFC](http://en.wikipedia.org/wiki/Near_field_communication) and the possibilities it opens up for mobile wallets. To the uninitiated, NFC chips are a close relative to the RFID chips that you have in your student and Oyster cards. The new NFC technology that is being championed by telecom operators and device manufacturers alike will allow your phone to read and write data to sensors and other phones by touch alone.
 
 The applications for the technology are very promising. Tapping two phones together could transfer a song between friends, or connect them on Facebook. The real money will lie in mobile wallets, however. The concept of using your phone as a wallet (tap-to-pay on special till sensors) has been floated for at least a decade and has made some inroads in the Far East, but hasn’t kicked off in earnest yet. This is all set to change in the next few weeks, as card companies, phone manufacturers and line operators are all jockeying frantically for a slice of what might be a huge revenue pie.
  Orange’s Samsung QuickTap handset has already been introduced in the UK, and the three major mobile operators in the UK (Everything Everywhere, Telefonica and Vodafone) have just announced a move to form a mobile payment joint venture that will bring widespread coverage ‘before the end of the year’. With [Google Wallet](http://www.google.com/wallet/) also promising similar functionality in the near future, the death of cashpoints may be within sight.
 
-__Location, location, location__
+Location, location, location
 
 GPS on phones has been available for some time now, but it has taken a while for most businesses to cotton on to the potential of knowing exactly where your user is. While services that depend on location often tread the fine line between creepy and useful, there’s something to be said for the wealth of location-based discount services mushrooming on social networking sites. Check-in, publicise the restaurant, receive a coupon and everyone’s happy. It’s not everyone’s cup of tea, but on a student budget, I’m not complaining.
 
-__Take your stuff with you__
+Take your stuff with you
 
 The potential of the ‘cloud’ has been trumpeted by the media for the last few years now, but there has been a stark absence of many real cloud products beyond data backup and Google docs. If the last few months are any indication, however, 2011 is poised to be the year where you’ll never have to worry about leaving home without your books, music or videos.
 
@@ -44,7 +44,7 @@ Amazon, Google, Apple and Spotify all have huge plans for your music library - t
 
 The summer will also see the launch of Google’s Chromebooks in the UK. A radical re-envisioning of what a laptop should look like, the system only comes bundled with what is essentially a browser. In future, you will be able to find all the software you need through their online apps. It’s a bold move, and there’s no telling how far it will go just yet, but if you’re buying into the cloud philosophy and want a basic computer on the cheap, this will probably be worth having a look at.
 
-__Finally, a free lunch?__
+Finally, a free lunch?
 
 The implications of all this innovation are huge. On the one hand there are the positive consequences: we will see people finally being able to exchange media seamlessly by tapping phones together, while physical money is making it’s inexorable decline into obsolescence. Devices around us are becoming smarter and increasingly interconnected every day: integrating chips into almost everything we own is becoming an expectation rather than a luxury.
 

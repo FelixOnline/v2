@@ -33,6 +33,6 @@ While the College takes a short period of reflection over the choice of a replac
 
 This is the latest consequence of the covert investigation last year by the British Union for the Abolition of Vivisection (BUAV), which produced allegations of animal abuse in College laboratories.
 
-Michelle Thew, CEO is the BUAV stated, “_We welcome this U-turn by Imperial College, following its statement last week…. In light of the seriousness of the failings and the conclusions of the government’s __advisory body’s report__… we believe the position of the Establishment Licence Holder to be untenable. ... We also call on the Home Office to release the full report so the public is aware of all the facts.”_
+Michelle Thew, CEO is the BUAV stated, “_We welcome this U-turn by Imperial College, following its statement last week…. In light of the seriousness of the failings and the conclusions of the government’s advisory body’s report… we believe the position of the Establishment Licence Holder to be untenable. ... We also call on the Home Office to release the full report so the public is aware of all the facts.”_
 
 We spoke to a student about the issue who said, ”It was unfortunate that the BUAV targeted Imperial as part of their generalised agenda, but is it worrying that independent investigators found so may faults in the practices (that use animal experiments) in the subsequent investigation. Having said that, I feel that more information is needed before implications can be made."

@@ -59,4 +59,4 @@ All responses are confidential and most questions are optional should you uncomf
 
 Furthermore, we will be holding in-depth interview sessions to further our research, so please do your note down your email if you are interested. Alternatively, you can contact me at icu-lgbt@imperial.ac.uk, along with any questions you might have regarding this survey.
 
-__Want to share your views? Take the survey [here!](https://imperial.eu.qualtrics.com/SE/?SID=SV_0wDsnM7iiHjAVtH)__
+Want to share your views? Take the survey [here!](https://imperial.eu.qualtrics.com/SE/?SID=SV_0wDsnM7iiHjAVtH)

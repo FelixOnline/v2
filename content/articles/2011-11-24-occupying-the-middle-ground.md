@@ -44,4 +44,4 @@ George’s article is troubling. Like many people who hold views similar to him,
 
 While I joke on an almost weekly basis about my reasons for despising all of you, the truth is that there are moments of genuine disgust as I read Twitter, Felix or listen in to conversations in the JCR. Many of you aren’t just humourously dislikeable. You’re worryingly single-minded. That goes for both sides of the political spectrum, whether you cry socialists when people express opinions that differ from yours, or cheer on the Occupy protests as evidence that the Government was out to get you all along. If you think the answer to any of our future problems lies in just the one ideological textbook, then you’re going to do more harm than good.
 
-_Think I’m wrong about the Occupy protests? Do you think the shirt/jumper combination helps you score with the ladies? Feed me your wrong opinions at: __anangrygeek@gmail.com___
+_Think I’m wrong about the Occupy protests? Do you think the shirt/jumper combination helps you score with the ladies? Feed me your wrong opinions at: anangrygeek@gmail.com_

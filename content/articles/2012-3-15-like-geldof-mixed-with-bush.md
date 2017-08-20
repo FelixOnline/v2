@@ -32,7 +32,7 @@ highlights:
 
 If you’ve been online at all in the past week, chances are you’ll have seen [Kony 2012](http://www.kony2012.com/), a 30-minute video about the Lord’s Resistance Army (LRA) in central Africa made by the charity Invisible Children, officially the most viral video in the history of the internet. But along with the inevitable memes, the criticisms came hard and fast. You will likely have heard that the charity has dubious finances, spending just 30% of its income on projects in Africa, much of the rest on publicity. But this isn’t why we should be concerned by the success of Kony 2012. Now a week later, we can reflect on a video that was dangerously simplistic, misleading and ultimately deeply patronising to Africans. This article explains why.
 
-__An American Analogy__
+An American Analogy
 
 It is the year 2007 and alien visitors arrive to Earth. An American citizen, George, needs their help. He shows the aliens a video entitled Bin Laden 2007. They see the terrible events in New York in September 2001. They see airborne steel slice through tall-standing concrete, they see the dust cloud envelop New York, they see the misery and destruction, pain and anguish; all created at the order of one man – Osama Bin Laden. Why did he do all of this? “He hates America,” comes the reply. The aliens are moved. They want to help. Surely they can do something for the poor people of New York? And what about Bin Laden? “Your alien firepower can help us bring this man to justice, dead or alive.”
 
@@ -40,7 +40,7 @@ We all know how the aftermath to 9/11 turned out. We know that, contrary to what
 
 We now know that it took billions of dollars and two wars to finally kill Bin Laden. We now know that simple analyses of hostile groups, however vile they may be, are dangerous. We know that foreign interventions do not come without significant civilian casualties. So now, in 2012, have really we failed to learn this lesson?
 
-__The African Reality__
+The African Reality
 
 In a word – yes. The similarities between Kony 2012 and America’s response to 9/11 are as clear as they are disturbing, a perfect marriage between Bob Geldof and George W. Bush. Just like Manhattan, northern Uganda is no longer a war zone – the LRA left over 6 years ago, a fact brushed over by Kony 2012. As with Bin Laden, Kony cannot be explained away as an anomalous evil, Like Al Quaeda, the Lord’s Resistance Army exists because the political situation allows them to – in the LRA’s case, a complex mix of land issues, political rivalry and religion. Just as fighting the “War On Terror” meant collaborating with some very unpleasant regimes (like Egypt and Saudi Arabia) so too would the removal of Kony (the president of Uganda is all but a dictator).
 
@@ -48,7 +48,7 @@ War on Terror analogies aside, the video fails to reflect the reality on the gro
 
 America currently has 100 military “advisors” working to help the Ugandan army to track down Kony. They have been there for just 5 months without the need for a Facebook campaign and there has been no suggestion by the Obama administration that they will be withdrawn. And yet the video urges pressure on the White House to keep them there. Why? They offer no explanation.
 
-__An Attitude Problem__
+An Attitude Problem
 
 Thirty minutes of YouTube was never going to suffice to tell the complete story. But the problem with Invisible Children isn’t that they failed to tell a detailed story, it’s the very story they chose to tell. It is a centuries old story of a helpless, childlike Africa at a loss without “our” help. It is a story that must stop.
  Watch Kony 2012 and the first thing that jumps out to the politically correct among us has to be this – why so few Africans? It is supposed to be about Africa, after all, and yet so much of the video is taken up by not just the white American director but his four-year-old white American son. Most of the interviews are with white American policy makers and activists, with just two Ugandan politicians (briefly) and a former child soldier making up the African contingency. But this is a West-focussed video because it has a West-focussed message; the LRA’s continued existence is because we in the West don’t care enough but “make Kony famous” and he can finally be brought to justice. This is wildly deluded.
@@ -59,7 +59,7 @@ So why the different standards for Africa? Why was Kony 2012’s message so oppo
 
 Those who buy the bracelets and put up posters will never have to live with the consequences of their demands. But here we hit the heart of the matter – the video was never about Africans. It was about us, the West. A message that we are uniquely privileged and powerful in this world. That by simply posting or retweeting we are “making a difference”. I don’t doubt that those involved have genuine intentions, but their efforts are unlikely to do more than make them feel good about themselves and have untold consequences in central Africa.
 
-__Moving On__
+Moving On
 
 Some good may yet come from Kony 2012. The fierce backlash it promoted from development experts means that more people are questioning the motives and methods of charity campaigns in general. If it encourages viewers to take an interest in the LRA and read around the issue, it may well create and intelligent level of awareness. But neither of these was the intention of Kony 2012. In so far as it succeeds in its own goals, the campaign is likely to be harmful.
 

@@ -32,7 +32,7 @@ For those not clued up on this project, let me provide a brief summary. The Lond
 
 The Forum’s goal? To speak directly to those who are on the frontier of the climate agenda whilst entertaining the chance that the solutions we desperately seek may be nurtured within its walls. It’s a modest goal to say the least… and one which was in full swing this weekend as the Forum was expertly carried out. This is just some of those insightful talks which scratched the surface of our sustainable future.
 
-__Day One__
+Day One
 
 The first day was mostly focused on the present; what the current climate is doing, why it is doing this, what we are currently (mostly not) doing to mitigate it, and how business is adapting. Two eminent and, I’m sure they wouldn’t mind me saying this, highly outspoken campaigners filled the morning, in the form of Tony Juniper and Tom Burke, the latter part of a panel trio who, combined with the Director of our very own Grantham Institute, painted a rather desperate picture of a story we all have unfortunately come to know intimately.
 
@@ -52,7 +52,7 @@ Mark Lynas, the infamously controversial but brilliant author of multiple climat
 
 They ran over, and we barely got it finished, but the hilarity which ensued from Mark’s quick and clever comments and the astounding ambient knowledge of David provided a spectacle I, and I believe many others, could have watched for hours. It would seem the only thing that went truly wrong was the choice not to include any nuclear in the future mix, an apparent audience decision which shocked me and multiple others. “Dear God. Why did I allow it?” Mark later tweeted to me, a sentiment I wholeheartedly agree with.
 
-__Day Two__
+Day Two
 
 Sunday was a day where futurists and ‘blue-sky’ thinkers could relish in their study of trends and solutions for the coming 30 years, a day for ‘what happens next’.
 

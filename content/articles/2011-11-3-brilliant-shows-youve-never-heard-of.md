@@ -31,7 +31,7 @@ highlights:
 
 Last week, I wrote a column about how much I love [Arrested Development](http://www.youtube.com/watch?v=N9TXVMkQ29g). It was in this obscure student publication called Felix, you probably haven’t heard of it. Inspired by this, I decided to write about other, slightly obscure, TV shows that I love. Mainly, because I want more people to talk to (read: quote incessantly at) about them. So, put your eyes roughly 5mm below, and you can see some hidden TV gems. Okay, you can’t see them, but you can see my writing about them…
 
-__Archer__
+Archer
 
 I put this first as it’s by the same people who made Arrested Development. This is evident in some of the humour involved and a few of the voices.
 
@@ -43,7 +43,7 @@ All of the characters are voiced well and developed. The plots are all brilliant
 
 It’s currently in its [third season](http://www.youtube.com/watch?v=zrRM2yRhiA0), all being worth a look. Once you start, you’ll end up in the danger zone, trust me. You’ll also get that reference!
 
-__The Life and Times of Tim__
+The Life and Times of Tim
 
 Another cartoon for you, don’t worry, the next will be live-action I swear.
 
@@ -55,7 +55,7 @@ The other characters are all interesting. [The Boss](http://www.youtube.com/watc
 
 The episodes are split into two different segments. You’ll also notice that the graphics are much cruder than Archer, or other cartoons for that matter. I think that’s what makes it so appealing, in a way. It’s got a sense of homemade fun. It looks and feels like it’s being made by a bunch of people who are doing it because they love making funny sketches, not because they want to make money. With only two seasons to catch up on, before the third comes along, and no exams in sight, you have zero excuses to not watch this show.
 
-__Curb Your Enthusiasm__
+Curb Your Enthusiasm
 
 {{< figure src="http://felixonline.co.uk/img/upload/201111032027-pk1811-curb-your-enthusiasm-image-larry-david-1.jpg" title="Larry David is deep inside you" caption="Larry David is deep inside you" attr="" >}}
 

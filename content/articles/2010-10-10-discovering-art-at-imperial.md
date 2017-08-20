@@ -28,39 +28,39 @@ As the current Joint President of Imperial College’s fine arts society ‘Leon
 
 One of these people is artist, curator and general go-getter Mindy Lee, who works as the curator of Imperial’s only art gallery ‘The Blyth Gallery’. I decided to corner her for a bit of a chat and see what’s swinging at the moment in the world of Imperial art.
 
-__How long have you held the role of curator of the Blyth Gallery? __
+How long have you held the role of curator of the Blyth Gallery?
 
 Six years in December.
 
-__Longest I’ve ever worked is seven weeks… So in all that time have you ever held an exhibition that really stood out from the rest? If so what was it?__
+Longest I’ve ever worked is seven weeks… So in all that time have you ever held an exhibition that really stood out from the rest? If so what was it?
 
 I think the most unusual show was ‘Where the Wild Things Are’ by Tessa Farmer and Laura Youngson Coll in 2006. It was an exhibition of very delicate and miniature sculptures. When you first entered the gallery, it looked almost empty and then an intriguing miniature world of strange and beautiful monstrosities revealed themselves. If the viewer did not have a curious investigative nature, you could almost walk through the gallery and think it was completely empty.
 
-__Any disaster stories?__
+Any disaster stories?
 
 I think one of the most worrying moments was installing a sculptural piece of work made by Jodie Carey, which was largely made out of icing. As soon as it was installed in the gallery, the piece started to sweat under the heat of the lights. Luckily we relit the space, and the sculpture survived.
 
-__Mmm sounds tasty! As an artist, do you have a favoured medium (other than icing)?__
+Mmm sounds tasty! As an artist, do you have a favoured medium (other than icing)?
 
 I am essentially a painter, who also works with collage and drawing.
 
-__Being in the art field for so long have you ever crossed paths with any famous artists?__
+Being in the art field for so long have you ever crossed paths with any famous artists?
 
 Cornelia Parker and Banksy are probably the two most well known artists I have met.
 
-__Nice! I’m sure there’s a lot of very jealous people out there, me included! ____How about your work though, do you frequently get to exhibit your own stuff?__
+Nice! I’m sure there’s a lot of very jealous people out there, me included! How about your work though, do you frequently get to exhibit your own stuff?
 
 I exhibit reasonably frequently. I am about to show a painting and collage piece as a part of the Double Trouble exhibition. I have also just exhibited a solo collage and painting installation in the Jerwood Project Space titled: Spatter Platter. Installation was a new area for me to work in and it took me over six months to make something that would be seen site-specifically and read as one piece. It is good to test your artistic practice by making new and ambitious work you are unfamiliar or uncomfortable with. This is how your creative practice develops.
 
-__Ok, so if I happened to have a big bag of money would I be able to buy of some of your work from the upcoming ‘Double Trouble’ exhibition?__
+Ok, so if I happened to have a big bag of money would I be able to buy of some of your work from the upcoming ‘Double Trouble’ exhibition?
 
 Most pieces of work in the Double Trouble exhibition are for sale.
 
-__Well I don’t have a big bag of money, but it’s good to know. ____Moving on a bit, do you think there should be more art work around Imperial?__
+Well I don’t have a big bag of money, but it’s good to know. Moving on a bit, do you think there should be more art work around Imperial?
 
 Yes more art work around Imperial would be beneficial, as well as more exposure into reading art. This would help viewers of the work move beyond thinking about art in terms of an aesthetic eye candy and move towards a deeper understanding of visual communication. I do give regular talks on reading art in an exhibition, so if anyone is interested, please keep your eyes peeled on the following web-link: <http://www3.imperial.ac.uk/arts/visualart/artworkshops>.
 
-__Bit of subtle advertising there, I commend that. Most importantly though, what’s your favourite colour?__
+Bit of subtle advertising there, I commend that. Most importantly though, what’s your favourite colour?
 
 Red.
 

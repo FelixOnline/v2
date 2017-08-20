@@ -21,7 +21,7 @@ authors:
 highlights:
 ---
 
-__Clams Casino__
+Clams Casino
 _Instrumental Mixtape_
  2011
 

@@ -38,7 +38,7 @@ The GSU (formerly GSA) currently have elected some of their positions. RON won o
 
 Turnout for the Summer Elections was considerably lower than the Big Elections: 7.21% of the student body voted (which is 1154 voters). The turnout for the GSU elections was also very low, with it barely reaching 200 voters.
 
-__Election winners in full:__
+Election winners in full:
 
 DPE: Natalie Kempston
 
@@ -60,7 +60,7 @@ BME (Black, Ethnic, Minority) Officer: Mohammed Riyaz
 
 Campaigns Officer: Christopher Kaye
 
-__GSU Positions:__
+GSU Positions:
 
 Graduate Students' Union President: RON
 

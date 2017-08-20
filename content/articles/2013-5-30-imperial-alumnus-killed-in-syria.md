@@ -51,7 +51,7 @@ Isa was described as a dedicated volunteer who strived for good and profoundly t
 
 Aamir Shamsi, a 5th year medic at Imperial said that Isa was “a great man and an elder brother to me.” Aamir went on to say: “Isa’s patience and wisdom wasbeyond doubt even at such a young age. He had a towering presence and was highly respected in the community but he was so modest and humble that you would never have realised his incredible achievements until someone told you. He was and will continue to remain a great role model.”
 
-__Over £50,000 donated for hospital in his honour__
+Over £50,000 donated for hospital in his honour
 
 His friends set up a JustGiving page for people to donate money for a new field hospital to be set up in his memory to continue his work. The original plan was for anew ambulance in his memory. However, the £7000 needed was raised in fewer than 14 hours. His friends said that the speed with which the money was raised was “a testament to the character of Isa and the beauty of the people who know him”. The aim was changed to the more ambitious target of setting up a field hospital, which would be named after Isa. In the last week, over £50,000 has been raised, which means a field hospital in Syria can be set up after Isa and will be run by HIHS in his memory.
 
@@ -61,6 +61,6 @@ The donations, which came in thick and fast, came with comments paying tribute t
 
 Dr Mahmoud al Akraa, a close friend of Dr Isa, commented that “once you met Isa you never forgot him. He was so kind, so warm and so brave. He had the respect of everyone and would do anything to help others in need. One time one of the refugee camps in Syria had cholera and no doctor would go in, except Isa. He would risk his life for others. He worked up until midnight and would treat hundreds of patients each day. He would then sleep rough in a sleeping bag and often not wash for days.”
 
-_There is more information on the field hospital being set up in his honour on the JustGiving page, where do__nations can be made: <http://www.justgiving.com/for-Isa>_
+_There is more information on the field hospital being set up in his honour on the JustGiving page, where donations can be made: <http://www.justgiving.com/for-Isa>_
 
 [_Comment_](http://felixonline.co.uk/comment/3647/what-religion-truly-means/)

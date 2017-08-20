@@ -48,7 +48,7 @@ Go to tutorials, if you’re wavering on a grade boundary the backing of your tu
 
 This one might be a bit controversial, but, personally, I don’t think there’s much value in figuring out problem sheets from scratch. Exams are about reproducing mathematical tricks, so I generally waited for the answers before attempting any.
 
-__Courses__
+Courses
 
 Choice of courses is paramount, get it right and it can easily earn you a grade. First and foremost choose courses based on who’s lecturing. Get a duff lecturer with bad notes and you’ll be up a popular creek without a paddle. There are some lecturers who require students to think during exams – these sadists should be avoided at all costs. Fortunately there are others that perennially set easy papers. Find out who these wonderful people are and make your life a bit easier.
 
@@ -64,7 +64,7 @@ In Physics, for example, General Relativity, Quantum Field Theory and Unificatio
 
 Some of the conceptually harder courses can be a good way to go. Quantum Information might seem like a lot to get your head around. However, once you get there you can almost guarantee a high mark (~90%). Get a few of these under your belt and it can really take the strain off your average
 
-__What if you’re stuck?__
+What if you’re stuck?
 
 It’s important to recognise when you’re completely lost. Courses generally build on themselves, so when this happens it’s probably because you’ve missed something early on. Forget about keeping up with the course and go back to the start, it’s much more important to understand the basics.
 
@@ -72,10 +72,10 @@ If you can phrase your question go to office hours, they’re a massively under 
 
 If all that fails remember no explanation is ever perfect. Whether it’s textbooks or lecture notes they all inevitably miss out something. If you use more than one of these the chances are they won’t both have missed the same thing.
 
-__Revision__
+Revision
 
 Start early, the Easter Holiday has a misleading title and even this might be cutting it a bit fine. Get a timetable and stick to it. It’s better to learn half of all of your courses than all of half of them. Stop playing sports, become a recluse and for God sake don’t do 24 hour musical or any other nonsense that gets in the way of your exams.
 
-__Finally__
+Finally
 
 You’re not at school anymore. If you fail the only person that looks bad is you. Lecturers, tutors and demonstrators are too busy with their own research to drag you through your degree. You are the master of your own destiny, you can fail spectacularly and no one will blink an eye. You might not like it but “research reigns, students are pains” – even when they’re paying £9,000 a year.

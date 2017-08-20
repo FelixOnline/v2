@@ -21,7 +21,7 @@ highlights:
  - longread
 ---
 
-If we look up the work ‘Objectification’ in the dictionary, it will tell us that it describes “treating a living person as a thing, with no regard to their dignity”. It appears that Allen Jones has misinterpreted this meaning. At least, that’s how things appear when entering the retrospective of his work currently being held at the __Royal Academy__, where one is immediately faced with a semi-naked mannequin, clad in leather and staring passively down, supporting a large glass table-top on her back.
+If we look up the work ‘Objectification’ in the dictionary, it will tell us that it describes “treating a living person as a thing, with no regard to their dignity”. It appears that Allen Jones has misinterpreted this meaning. At least, that’s how things appear when entering the retrospective of his work currently being held at the Royal Academy, where one is immediately faced with a semi-naked mannequin, clad in leather and staring passively down, supporting a large glass table-top on her back.
 
 In this piece – _Table_, from 1969 – Jones has quite literally turned the female form into an object to be exploited, abused, and vilified; it is a theme that runs through an exhibition that, rather than championing Jones as the _enfant-terrible_ of British art, only reveals the extent of the deep-rooted misogyny that has permeated his work for the last 40 years. The curator, Edith Devaney, has promised that “all the [opinions on Jones’ work] are discussed here”, and yet it is difficult to approach his art in any way that diminishes its outrageous sexism.
 

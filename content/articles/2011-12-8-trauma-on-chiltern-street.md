@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-_Trauma,_[__GV Art__](http://www.gvart.co.uk/)’s new science-inspired exhibition revolves around the different manifestations of trauma. The exhibition explores physical and biological trauma, revealing the effect they have on those who suffer from them and investigating our own personal perception of them.
+_Trauma,_[GV Art](http://www.gvart.co.uk/)’s new science-inspired exhibition revolves around the different manifestations of trauma. The exhibition explores physical and biological trauma, revealing the effect they have on those who suffer from them and investigating our own personal perception of them.
 
 Science-inspired art goes beyond merely ripping off striking images of a scientific nature. It takes the knowledge beyond the lab and the blackboard, beyond the books, opening it up to be interpreted, to be put to measure with the human lives it affects.
 
@@ -39,4 +39,4 @@ Susan Aldworth uses lenticular printing, a technique that allows images to chang
 
 For anyone interested in the encounter between the Arts and Sciences this is a must-see exhibition. However, I would definitely recommend it to anyone who, as a scientist, is interested in a novel take on his or her subject. With its unusual collection of pieces, it certainly does provide food for thought. As a final note, it is worthwhile to reflect on whether, in our highly technified twenty-first century society, science-inspired art will become what pop-art was to the consumerism-based sixties.
 
-_Trauma_ at __GV Art__, 49 Chiltern Street London W1U 6LY – December 1 2011 to February 18 2012
+_Trauma_ at GV Art, 49 Chiltern Street London W1U 6LY – December 1 2011 to February 18 2012

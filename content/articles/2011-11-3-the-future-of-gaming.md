@@ -29,7 +29,7 @@ highlights:
 
 _Interested in how gaming got to where it is today? [See our companion article here!](http://felixonline.co.uk/games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour/)_
 
-__Michael Cook__
+Michael Cook
 
 It’s hard to look at where we came from and try to assess where we might be in even a few years time. How impossible something like OnLive might have seemed before the Internet was even a possibility makes it hard to guess at what technologies might pop out of nowhere in the next decade. Despite this, there seem to be a few things going on in the industry that we’ll look back on in years to come as a sign of impending change.
 
@@ -39,7 +39,7 @@ Platforms will open up because they have to –with the possible exception of Fa
 
 We’ll still see echoes of what’s going on today – single player games will be alive and well, and micro-transactions are such a psychologically effective model as to never disappear – but most aspects of gaming will be unrecognisable thanks to a shift towards openness and customisation. If console manufacturers refuse to make the shift towards these areas, they’ll risk becoming fragmented from the gaming mainstream, or die altogether. Technologies like OnLive will offer the same high quality of videogame experience without the needless external faffing of Xbox LIVE or PlayStation Home, and as broadband speeds increase the technology will easily take over from these manufacturers unless they push to offer something better.
 
-__Omar Hafeez-Bore__
+Omar Hafeez-Bore
 
 Felix Games has changed a lot since its inception. We know this because for our round-up of the year 2027 we took a look at old issues of the Felix to play a bit of spot the difference.
  But we soon lost count. The first thing we noticed is how deep into the paper (we know! quaint, right?) we had to dig before getting to the games section itself. The second is the talk of using different ‘consoles’ for different games, akin it seems to having a different television for different channels.
@@ -59,7 +59,7 @@ But reading the old accounts, of curling up with a pad and playing through games
 
 Here’s to 2028 folks, and everything games have been and can be.
 
-__Simon Worthington__
+Simon Worthington
 
 In the far future the feature I'm looking forward to the most is virtual reality, but there are still lots of improvements I can't wait to see in the next 15 years or so.
 

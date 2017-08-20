@@ -36,7 +36,7 @@ _Art is a translation of that which you do not know”_
 
 – Marlene Dumas
 
-The earliest piece of figurative art in the world, the _Venus of Hohle Fels_ dates from 40,000 years ago. In the years between then and now we have had Ingres’ bathers, Delecroix’s _Liberty_, and Moore’s voluptuous granite blocks; surely there is no angle left from which the human body has not been explored and depicted. __The Tate Modern__’s latest exhibition, _Marlene Dumas: The Image as Burden_, shatters this idea, as Dumas’ provocative, revolutionary portraits return the human figure to the centre of art.
+The earliest piece of figurative art in the world, the _Venus of Hohle Fels_ dates from 40,000 years ago. In the years between then and now we have had Ingres’ bathers, Delecroix’s _Liberty_, and Moore’s voluptuous granite blocks; surely there is no angle left from which the human body has not been explored and depicted. The Tate Modern’s latest exhibition, _Marlene Dumas: The Image as Burden_, shatters this idea, as Dumas’ provocative, revolutionary portraits return the human figure to the centre of art.
 
 Using photographs as her primary image, Dumas explores the very limits of the human form; in her _Rejects_ series, comprised of cast-offs from some of her earlier works, human faces seem made up of mere smoke. Nebulous and sinister, this ongoing series of 48 portraits assaults you with their intensity. Her first portraits, completed in 1975 whilst studying in her native South Africa, already display this signature style; they see portraiture as a form of emotional exorcism, a purging of raw emotions, resulting in a psychologically complex body of work comparable to Francis Bacon.
 

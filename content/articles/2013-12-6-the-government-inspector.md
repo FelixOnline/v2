@@ -26,7 +26,7 @@ highlights:
  - comment
 ---
 
-__Jack Williams__
+Jack Williams
 
 Dramsoc Social Secretary
 

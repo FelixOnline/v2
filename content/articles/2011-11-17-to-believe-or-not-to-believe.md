@@ -28,13 +28,13 @@ highlights:
  - comment
 ---
 
-__Anonymous__
+Anonymous
 
-__Director __Roland Emmerich
+Director Roland Emmerich
 
-__Screenwriter__ Jon Orloff
+Screenwriter Jon Orloff
 
-__Cast__ Rhys Ifans, Vanessa Redgrave, Joely Richardson, Rafe Spall, Sebastian Armesto
+Cast Rhys Ifans, Vanessa Redgrave, Joely Richardson, Rafe Spall, Sebastian Armesto
 
 Was Shakespeare a fraud? The generally accepted answer is “no” but the debate will go on, new evidence will be found, and the sceptics will always find holes in the already laid-out, widely known historical events. It’s an interesting notion though, something that shouldn’t possibly be immediately dismissed. If there is compelling reason to actually doubt the authorship of William Shakespeare, the man who has been the icon of English literature for centuries, then bring it on, which is what the brave Emmerich sets out to do.
 

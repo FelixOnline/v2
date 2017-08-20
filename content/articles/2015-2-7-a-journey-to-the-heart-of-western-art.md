@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-In collaboration with the Royal Museum of Fine Arts of Antwerp, the __Royal Academy __presents the first exhibition in the UK exploring Rubens’ influence on subsequent art history.
+In collaboration with the Royal Museum of Fine Arts of Antwerp, the Royal Academy presents the first exhibition in the UK exploring Rubens’ influence on subsequent art history.
 
 This extremely rich display demonstrates the lasting impact Peter Paul Rubens (1577-1640) had on successful painters during the three centuries following his death.
 

@@ -34,7 +34,7 @@ Now add cultural differences to the mix. Wacky food smells, strange condiments l
 
 Here are some of the ways to smooth out the ride with your international flat mates:
 
-__Address different expectations__
+Address different expectations
 
 This is the easiest way to get to the root of the problem. You’ll have to remember that being from different cultures means that you have different assumptions about how things are done. So sometimes, the annoying neatness or messiness of people can be a matter of culture.
 
@@ -46,13 +46,13 @@ Being brought up in Thailand myself, I’ve been through some adjusting. I used 
 
 It doesn’t hurt to ask how things are normally done where your flat mate was originally from. Even if they don’t change their behavior, you can at least understand where they’re coming from which would make it more tolerable or even change your thoughts. Without the understanding, you’d probably think that they’re doing it to piss you off, easily making it a personal thing rather than cultural.
 
-__There is no harm in asking!__
+There is no harm in asking!
 
 As students from another culture are probably used to their way of living, they’d probably not notice that their lifestyle is bothering anyone else. In this case, a nudge and a friendly reminder is usually enough to change someone’s way of doing things. Much better than muttering under your breath and gossiping about ‘that goddamn flat mate’, huh?
 
 For example, I used to have some sweet-smelling (opinions may vary) green curry paste in the fridge. Of course I didn’t notice it since no one ever minded back at home. One day, my flat mates told me that they’ve been discussing among themselves and decided to tell me that the curry is stinking out the fridge. I was mortified, apologized and quickly bought some cling film to cover it up. The curry’s sweet smell is now kept all to myself. The problem is solved painlessly.
 
-__No racial stereotyping__
+No racial stereotyping
 
 I’ve mentioned this briefly earlier in the article. Why not? That’s because it would leave the flat chilly for the rest of your time there, widening the chasm between you and the international students you’ve branded. There would be no chance to come to a better understanding and your flat mate will remain that caricature for the rest of your time there.
 

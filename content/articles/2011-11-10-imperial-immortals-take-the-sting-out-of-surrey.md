@@ -25,7 +25,7 @@ highlights:
  - comment
 ---
 
-__American Football__
+American Football
 
 _Imperial Immortals – 46_
 

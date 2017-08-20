@@ -24,7 +24,7 @@ highlights:
  - comment
 ---
 
-__420: Thousands gather in Hyde Park, more than 50 arrested__
+420: Thousands gather in Hyde Park, more than 50 arrested
 
 As pro-cannabis protesters openly smoked the drug in Hyde Park on April 20 (an annual global celebration of cannabis, where calls for drug law reform take place), police ended up arresting 53 people. 16 were taken into custody, whereas 21 were released on bail and required to return to the station at a later date.
 
@@ -34,7 +34,7 @@ The 420 Day event was organised by a reform-seeking group called NORML UK, along
 
 “The cannabis community is crying out for legalization and regulation. We encourage growers to register with UKCSC because we want data we can present to authorities and say: this many people grow cannabis, this many people are growing for medicinal purposes; and we can also establish which strains work with which illnesses.”
 
-__Dyson School of Design Engineering__
+Dyson School of Design Engineering
 
 Launched in late March by Chancellor George Osborne and industrial engineer Sir James Dyson, the new Dyson School of Engineering is the first new engineering department set up at Imperial in the last two decades. The School will be housed at the former Post Office Building on Exhibition Road
 
@@ -44,7 +44,7 @@ October 2015 will see the School’s first ever intake of students, where the in
 
 The new School was made possible by a £12m donation from the James Dyson Foundation, which is the charity’s largest ever single gift. This is not the first time the Dyson name has been involved with Imperial College London: Sir James Dyson is a longstanding supporter of the IDE Masters program, and in 2014, Dyson Ltd announced a £5m investment in a new robotics lab within Imperial.
 
-__Bye-bye ouchies: invisible mending for the human body__
+Bye-bye ouchies: invisible mending for the human body
 
 Researchers at Imperial College London have developed a novel way to treat severe burns and assist in organ transplants. The team, led by Molly Stevens from the Institute of Biomedical Engineering, have designed sheets of silicon bandages coated with nanoneedles for this purpose.
 
@@ -52,7 +52,7 @@ The idea is that the healing capacity of tissues can be boosted by microscopical
 
 One of the key reasons of treatment by introducing DNA into cells is to reprogram how they respond to damage. However, inserting DNA into cells can be tricky: injections only allow for one cell to receive new DNA at a time, whereas using genetically engineered viruses (perfect as they are nature’s experts at hijacking cell DNA) cannot guarantee that none of the virus’ genes will contaminate the process - something potentially lethal. The nanoneedle silicon bandage, on the other hand, will be safer and more efficient at reprogramming whole tissues.
 
-__Big Brother really IS watching you: better video emotion/likeability tracking software to be developed__
+Big Brother really IS watching you: better video emotion/likeability tracking software to be developed
 
 Tech outfit Realeyes, in conjunction with Imperial College London, have received a €3.64m grant from the European Commision for a project to improve the former’s emotion-tracking technology. Dubbed SEWA: Automatic Sentiment Analysis in the Wild, the research will be led by Professor Maja Pantic from Imperial, along with guidance from various organizations’ experts including AOL, Ipsos, Skype, and Kaplan.
 

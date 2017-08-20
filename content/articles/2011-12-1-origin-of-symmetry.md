@@ -29,7 +29,7 @@ highlights:
  - photos
 ---
 
-Back in 2001; the year iTunes was born, [__J-Lo__](http://www.jenniferlopezonline.com/) got her first UK number 1 single and George Bush began his war on terror, [__Muse__](http://muse.mu/) released the amazingly beautiful album that is _Origin of Symmetry_. Although this was the Devonshire band’s second album after _Showbiz_, it was the collection of songs that marked the greatness that was to come.
+Back in 2001; the year iTunes was born, [J-Lo](http://www.jenniferlopezonline.com/) got her first UK number 1 single and George Bush began his war on terror, [Muse](http://muse.mu/) released the amazingly beautiful album that is _Origin of Symmetry_. Although this was the Devonshire band’s second album after _Showbiz_, it was the collection of songs that marked the greatness that was to come.
 
 To celebrate this momentous occasion the band played the album in full at this year’s [Reading and Leeds Festival](http://www.readingfestival.com). The stage was decked out with colossal forks as seen on the album artwork, with Matt Bellamy’s glass piano taking pride of place.
 

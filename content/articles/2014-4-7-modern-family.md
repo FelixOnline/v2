@@ -24,17 +24,17 @@ highlights:
  - photos
 ---
 
-__Only Lovers Left Alive__
+Only Lovers Left Alive
 
-__Director:__ Jim Jarmusch
+Director: Jim Jarmusch
 
-__Writer: __Jim Jarmusch
+Writer: Jim Jarmusch
 
-__Starring: __Tom Hiddleston, Tilda Swinton, Mia Wasikowska, John Hurt, Anton Yelchin, Jeffrey Wright
+Starring: Tom Hiddleston, Tilda Swinton, Mia Wasikowska, John Hurt, Anton Yelchin, Jeffrey Wright
 
-__Runtime: __122 minutes
+Runtime: 122 minutes
 
-__Certification: __15
+Certification: 15
 
 _“It’s the zombies I’m sick of, and their fear of their own fucking imaginations.”_
 

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Muppets Most Wanted__
+Muppets Most Wanted
 
-__Director:__ James Bobin
+Director: James Bobin
 
-__Writers: __James Bobin, Nicholas Stoller
+Writers: James Bobin, Nicholas Stoller
 
-__Starring: __Ricky Gervais, Tina Fey, Ty Burrell, Steven Whitmire, Eric Jacobson, Dave Goelz, Bill Barretta, David Rudman
+Starring: Ricky Gervais, Tina Fey, Ty Burrell, Steven Whitmire, Eric Jacobson, Dave Goelz, Bill Barretta, David Rudman
 
-__Runtime: __107 minutes
+Runtime: 107 minutes
 
-__Certification: __U
+Certification: U
 
 Rating: 3/5
 

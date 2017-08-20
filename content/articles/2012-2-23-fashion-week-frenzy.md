@@ -24,7 +24,7 @@ highlights:
  - photos
 ---
 
-__To Do: [London Fashion Weekend](http://www.londonfashionweekend.co.uk/)__
+To Do: [London Fashion Weekend](http://www.londonfashionweekend.co.uk/)
 
 _23–26 February, Tickets start at £12.50_
 
@@ -40,7 +40,7 @@ Whether it’s a complete wardrobe overhaul you want or just a chance to feel li
 
 {{< figure src="http://felixonline.co.uk/img/upload/201202232124-pk1811-ifs.jpg" title="" caption="" attr="" >}}
 
-__To Visit: International Fashion Showcase__
+To Visit: International Fashion Showcase
 
 _1–29 February, Free_
 
@@ -54,7 +54,7 @@ Dotted around various parts of central London, the handy downloadable ‘passpor
 
 So if you feel that following the various fashion weeks online like the rest of us is just a bit too mainstream, or perhaps you just feel like you should put more of an effort to become culturally educated before the Olympics kick off this summer, the International Fashion Showcase has it all – air miles unnecessary.
 
-__To Look Out For: Marni for H&M__
+To Look Out For: Marni for H&M
 
 _Marni for H&M: 8 March_
 

@@ -25,9 +25,9 @@ highlights:
 
 Australia Day came and went more than two weeks ago but if, for some unfathomable reason, you forgot to celebrate, fear not: find an excuse to pay homage to your favourite antipodeans. These traditional Australian lamington cakes are ideal for sharing with your loved ones, whether it be a boyfriend or girlfriend or your flat-mates afflicted with the late-night munchies.
 
-__Ingredients:__
+Ingredients:
 
-__Sponge Cake:__
+Sponge Cake:
 
 220g caster sugar
 
@@ -43,7 +43,7 @@ __Sponge Cake:__
 
 Or (if those coursework deadlines are just a bit too imminent and you want your cake sooner rather than later) just use a light, store-bought sponge cake and skip to step 3.
 
-__Icing:__
+Icing:
 
 450g icing sugar
 

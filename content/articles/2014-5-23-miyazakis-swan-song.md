@@ -24,17 +24,17 @@ highlights:
  - longread
 ---
 
-__The Wind Rises__
+The Wind Rises
 
-__Director:__ Hayao Miyazaki
+Director: Hayao Miyazaki
 
-__Writer: __Toshio Suzuki
+Writer: Toshio Suzuki
 
-__Starring: __Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Steve Alpert, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura
+Starring: Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Steve Alpert, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura
 
-__Runtime: __126 minutes
+Runtime: 126 minutes
 
-__Certification: __PG
+Certification: PG
 
 Over the last decade, ever since _Spirited Away_ rocked the box office and became the highest grossing Japanese film in history, the release of a new Studio Ghibli film has become something of ‘An Event’, bringing with it a whirlwind of excitement and speculation. The only other studio who have managed to pull off such a feat of anticipation is Pixar, whose releases fill column inches months before they make it onto the screens. But despite all the fervour surrounding Studio Ghibli’s latest offering _The Wind Rises_, the mood can be nothing but bittersweet, for this is the last film to be directed by the animator par excellence Hayao Miyazaki, who co-founded the company. Leaving us with his final swan song, the departure of Miyazaki marks a loss for the entire world of cinema.
 

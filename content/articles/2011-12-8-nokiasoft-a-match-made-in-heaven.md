@@ -31,17 +31,17 @@ highlights:
 
 When Nokia announced their partnership with [Windows Phone 7](http://www.microsoft.com/windowsphone/en-us/default.aspx) instead of Android back in February I honestly thought that they’d made one of the biggest mistakes in the company’s history. How wrong I was.
 
-__Windows Phone 7__
+Windows Phone 7
 
 As much as I’d like to talk about the physical phone, the truth is, just like the iPhone, the greatest feature of the [Nokia Lumia 800](http://www.nokia.co.uk/gb-en/products/phone/lumia800/) has got to be the operating system. Having previously owned an iPhone, iPhone 3G, iPhone 3GS and a HTC Desire I’m quite familiar with iOS and Android, the two biggest mobile phone operating systems.
 
 So I put my bias against Windows Phone 7 to one side – just for a day – to try this OS out, and I wasn’t disappointed. We were used to listening to Steve Jobs at every keynote speech, consistently overusing the words “innovation” and “revolutionary” until they almost had no meaning. Yet what Microsoft have done is truly innovative and, well, genius. Windows Phone 7 has struck a perfect middle ground between iOS and Android: it looks slick, it’s incredibly fast and most importantly, it’s unbelievably intuitive to use.
 
-__Price__
+Price
 
 At £350-400, depending on what network you’re on, it’s £100-150 cheaper than an iPhone 4S or Samsung Galaxy S2. It’s even cheaper on contract. For example, I pay £26 a month for 600 minutes, unlimited texts, unlimited data, 2GB free BT Openzone a month and 4 months insurance, and get the phone for free.
 
-__Integration__
+Integration
 
 The integration of several separate applications into one phone is one of the main successes. I’ll quickly give you two of many examples. The first is games: all games go through a very slick Xbox Live interface which, if you have an Xbox, is made even better. The other is social networking integration: if you click on a group of contacts, e.g. “Chemistry” on “what’s new” there is a feed of all your friends’ updates, Facebook, Twitter, Live Messenger, Google+ and even LinkedIn.
 
@@ -49,7 +49,7 @@ Even with messaging it integrates social networking; imagine if text, MSN, Faceb
 
 {{< figure src="http://felixonline.co.uk/img/upload/201112081954-cac111-love.jpg" title="It’s love at first sight for Jason Parmar " caption="It’s love at first sight for Jason Parmar " attr="" >}}
 
-__Productivity__
+Productivity
 
 This phone isn’t only great on a personal use level, it’s great for work. Microsoft Office has OneNote, Excel, Powerpoint and Word so that you can edit all your documents from your SkyDrive offline or online, on the go – great for some last minute edits to your lab reports.
 
@@ -57,13 +57,13 @@ Another awesome feature for productivity is, because it’s Microsoft, Outlook a
 
 For example, threads of e-mails are kept grouped, much like in Gmail, and you swipe from “all” to “unread” to “flagged” to “urgent” and you can link as many inboxes together as you like. With calendar, not only do you get your “day” and “agenda” from your e-mail calendar (that is how I organise my life) but you have the option of including Facebook events and other calendars (which are all kept colour coded). This also links in with “tasks” of the “to-do” list as it’s called on the phone, organised in level of priority, deadline and again, colour coded. If you keep yourself organised online using Google or Outlook it’s an absolute lifesaver and helps keep you exceptionally well organised.
 
-__Criticism__
+Criticism
 
 No phone is perfect. The two biggest flaws with this phone are, firstly, the battery life, and secondly, the limited amount of apps.
 
 But I’m pretty sure Nokia and Windows Phone 7 know about these. Nokia has a “battery saver” option you can turn on, or to automatically come on at “xx%”. The “Marketplace” may be sparse in its range of products, but at the moment it has everything I can think of that I would want on a phone, and it seeing as its relatively young for an app market, it’ll definitely grow.
 
-__Conclusion__
+Conclusion
 
 I can honestly say I never thought I’d be in favour of, let alone endorse any Windows attempt at a mobile OS, but here I am, in ownership of the best phone in the world.
 

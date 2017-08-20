@@ -31,7 +31,7 @@ Depression sucks, there’s no getting around that. It’s awful and makes you f
 
 In my years of dealing with depression and anxiety, there have been a few things I’ve picked up that have helped me cope a little bit better with day to day events, and I’m sharing them with you in the hopes that it might help make recovery just that little bit easier for you.
 
-__Get Out of Your Head__
+Get Out of Your Head
 
 The most important step I have found (besides getting professional help of course!) is to learn to recognise obsessive thoughts and stop them before they can go too far. Something that depression, anxiety, and countless other mental illnesses do to us is that when we find something that makes us upset, it makes us dwell on it.
 
@@ -39,23 +39,23 @@ It’s not a conscious decision to sink deep into thought and try to overanalyse
 
 Distract yourself! Watch your favourite TV show. Call up a friend. Go out for a walk. Drag yourself out of the house, no matter how much you want to just lie on your bedroom floor and cry, I promise you’ll feel better after you get out of the house and more importantly, out of your own head.
 
-__Set Small Goals__
+Set Small Goals
 
 Set tiny little goals for each day, just something that will get you out of bed in the morning. When I was first put on medication, and every time the dosage is altered or there are other radical changes to my prescription, I take a massive hit to my motivation. Setting goals makes sure that I actually get up and stop thinking about why I’m miserable all the time.It can be something as little as washing the dishes, or reading a chapter of that book you’ve been dying to read.
 
 When you’re depressed, it’s so difficult to motivate yourself to do things, because everything seems like a challenge, even small things, so every little win counts. A word of caution though, don’t be too harsh on yourself if you’re feeling too bad to complete something on your task list. It doesn’t mean you’re a failure, it just means you’re having an off day, just try your hardest to stick to it the next day.
 
-__Don’t be alone__
+Don’t be alone
 
 I’m not saying be with people 100% of the time, we all need alone-time. But don’t isolate yourself from the world. I can’t talk for everyone, but I know for me, it gets worse when I try and just lock myself in my room all day alone with my thoughts. Try and organise activities during the week that get you to hang out with other people.
 
-__Find Happy Little Things__
+Find Happy Little Things
 
 Do something that makes you happy everyday. For me, this ended up being doodling and painting, but it can be anything, knitting, writing, playing video games, reading, anything.
 
 Depression makes you forget what you used to enjoy before it struck, so maybe take some time and try to rediscover things that used to make you happy. I know it can be frustrating to be unable to get joy from many things, but it’s worth giving it a try, especially if you can remember why you liked doing what it was you did that made you relaxed and happy.
 
-__New Hobbies are Great__
+New Hobbies are Great
 
 Discover new hobbies and activities. Learning to do something new, even if it’s something inconsequential like learning to knit, scrapbook, or draw can be super motivating. It makes you feel accomplished, which in turn makes you feel a little less annoyed and angry with yourself.
 

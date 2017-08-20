@@ -34,28 +34,28 @@ During my action-packed thrill ride of a summer I managed to find time to go to 
 
 As usual you had your slew of somewhat similar army shooters: Call of Duty: Modern Warfare 3, Battlefield 3, you know the stuff. If you’re at all interested in these games then you’ve no doubt read all about them somewhere else. So, for my first article of this term I’ll be talking/waffling about some of the things you may well have missed – that is, if you went at all (obviously if you didn’t go you’re even less likely to have seen them).
 
-__The Kinect and its kids__
+The Kinect and its kids
 
 OK, I admit, you were very unlikely to miss the stalls featuring a [Kinect](http://www.youtube.com/watch?v=KMQmnp6GTJ8) – you just had to look for those people jumping about as if their skin was crawling with flesh-eating fire ants. [Just Dance 3](http://www.youtube.com/watch?v=QRnMHfaIsHg) (Ubisoft), [Dance Central 2](http://www.youtube.com/watch?v=wQv-OEjh1So) (Harmonix Music Systems) and the infuriatingly addictive [Fruit Ninja](http://www.youtube.com/watch?v=UzsmDfKzk7M) (Halfbrick Studios) were just a few of the games offering people the chance to embarrass themselves in public. At £70+ though the Kinect is still a rather expensive party piece (that was the cheapest price I could find it for online, pre-owned). In my humble opinion it’s not worth the money unless you’ve got a group of friends who you can invite round regularly to mess about with. Bitter misanthropes such as myself would do well to invest their dosh elsewhere.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110071319-felix-kinect-003.jpg" title="The Kinect – all it's cracked up to be? " caption="The Kinect – all it's cracked up to be? " attr="" >}}
 
-__Tekken Hybrid__
+Tekken Hybrid
 
 My strategy of randomly mashing buttons, though commented upon as ‘unimaginative’ and ‘boring’, still earned me glorious victory after glorious victory. And a sore thumb. [Good game though](http://www.youtube.com/watch?v=8Meh871R1IU).
 
-__OnLive__
+OnLive
 
 Fine, you would’ve been hard pressed to miss this one as well. [OnLive, the cloud gaming platform](http://www.youtube.com/watch?v=i529HQ9HM7Q), also showed itself at the event. The OnLive system basically allows you to play games without the need for a powerful PC behind you. It achieves this by letting a remote server run games for you and stream a live feed to you, though you do need a wired 5MB+ internet connection for it to work smoothly, 10MB+ recommended. Right now the highest quality you can receive is 720p, but the company is working up to bring it to the 1080 standard. The hardware you need, the OnLive box, costs £70, and though you have to pay for a monthly subscription (£6.99/month for the PlayPack Bundle) it gives you access to a hell of a lot of features. I wrote a whole article on the system several months ago when it was still fairly new, and there’s not enough space here for me to go on, so I won’t. Sufficed to say OnLive is an exciting new advancement in the world of gaming, far more so than the Kinect, and certainly something to keep a keen eye on. Just don’t forget your revision.
 
-__MonsterMind__
+MonsterMind
 
 Finally, a game you’re unlikely to have stumbled across. [MonsterMind is a Facebook game](http://www.youtube.com/watch?v=nFXexLV82YE), but bear with me for just a moment. Normally I’m no fan of FB games, so it came as a pleasant surprise when I was introduced to MM and found it rather enjoyable. The game is currently in its infancy, running as a beta, but it has potential. The creators of the game realise that most FB games – though called ‘social games’ – are far from social, unless you count giving virtual bales of hales to your friends a form of stimulating contact. In MM you control your own city, and are tasked with attacking your friend’s settlements with various monsters whilst simultaneously protecting your own hub from theirs. It’s more interactive than many other games on the market, and doesn’t require FB credits to play - at least on paper. You do earn currency through building virtual businesses, but it can be slow going, and the temptation to spend a few pounds to get a boost is strong. Fun? Yes. Will it have a future? Watch this space. Worth some of your time certainly.
 
-__The Nintendo 3DS__
+The Nintendo 3DS
 
 [Gave me a headache](http://www.youtube.com/watch?v=Ai_FqoWrIP4). I don’t like headaches.
 
-__Reflow__
+Reflow
 
 Another game tucked away from the madding crowd. [Reflow, by the two man team Xymatic](http://www.youtube.com/watch?v=xKqADz_AoFM), is an even smaller game for the iPod/ iPhone. The game is simple but addicting – you need to direct one ore more dynamic particle flows into a bowl. This is achieved by using your body as the slopes. This led to an interesting situation where I was standing in a crowd with my arms twisting and positioning themselves madly – a little like the Kinect I guess... In addition you can also take pictures and use them to direct the flow. Need a straight path? Take a picture of the Queen’s Tower and use the architect’s good work to your advantage. It’s a fun little app, and the £0.69 price tag is unlikely to break the bank. Unless you’ve spent your student loan on booze, that is.

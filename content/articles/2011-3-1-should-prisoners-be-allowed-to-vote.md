@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-__Yes – Andrew Purcell__
+Yes – Andrew Purcell
 
 _“There are fundamental democratic reasons”_
 
@@ -41,7 +41,7 @@ As well as the obvious ethical arguments for not denying prisoners the right to 
 
 Finally, what about the sheer hypocrisy of the situation? The government is trying to remove the right to vote from people who break the law, but in doing so they are breaking European law themselves!
 
-__No – Navid N__
+No – Navid N
 
 _“This is idealistic but misguided”_
 

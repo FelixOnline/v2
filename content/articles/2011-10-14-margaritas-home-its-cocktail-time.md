@@ -32,11 +32,11 @@ Margarita is the most common tequila-based cocktail and was most probably invent
 
 You can enjoy your favourite margarita with a Mexican meal or as a dessert on its own and the good news is that it is very easy to make it at home.
 
-__Ingredients:__
+Ingredients:
  - 35 ml Tequila
  - 20 ml Triple Sec
  - 15 ml strawberry juice (or any other juice you prefer)
  - Ice cubes
-__To make:__ put everything in the blender until the texture of your cocktail becomes creamy. Rub the rim of the glass with a lime slice, add some salt on it, and carefully pour the mix into the glass.
+To make: put everything in the blender until the texture of your cocktail becomes creamy. Rub the rim of the glass with a lime slice, add some salt on it, and carefully pour the mix into the glass.
 
 Now sit back and enjoy. Viva Mexico!

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Grace of Monaco__
+Grace of Monaco
 
-__Director:__ Olivier Dahan
+Director: Olivier Dahan
 
-__Writers: __Arash Amel
+Writers: Arash Amel
 
-__Starring: __Nicole Kidman, Tim Roth, Frank Langella, Parker Posey, Derek Jacobi
+Starring: Nicole Kidman, Tim Roth, Frank Langella, Parker Posey, Derek Jacobi
 
-__Runtime: __103 minutes
+Runtime: 103 minutes
 
-__Certification: __PG
+Certification: PG
 
 Rating: 3/5
 

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Winter’s Tale__
+Winter’s Tale
 
-__Director:__ Akiva Goldsman
+Director: Akiva Goldsman
 
-__Writers: __Akiva Goldsman, Mark Helprin (novel)
+Writers: Akiva Goldsman, Mark Helprin (novel)
 
-__Starring: __Colin Farrell, Jessica Brown-Findlay, Russell Crowe, Jennifer Connelly, Will Smith, Eva Marie Saint
+Starring: Colin Farrell, Jessica Brown-Findlay, Russell Crowe, Jennifer Connelly, Will Smith, Eva Marie Saint
 
-__Runtime: __118 minutes
+Runtime: 118 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 1/5
 

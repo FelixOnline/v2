@@ -33,7 +33,7 @@ David Fincher will be down in the dumps about the lack of a statue in his cabine
 
 The Fighter surprisingly took both the supporting acting gongs and Christian Bale must be ecstatic as his third effort at massive weight loss has resulted in an Oscar. Inception predictably grabbed most of the technical awards but I’m puzzled why the Academy passed the Best Cinematography award to Christopher Nolan’s ketamine inspired mind-f**k when most of it was done on a computer. The over the shoulder camera shots and claustrophobic angles excellently used in Black Swan to produce an unnerving atmosphere were more deserved of the Cinematography award. And when will the Academy get over it’s love affair for Pixar films? How to Train Your Dragon would definately have been a more satisfying recipient for Best Animation.
 
-__Oscar Winners__
+Oscar Winners
 
 _Best Picture_
 

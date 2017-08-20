@@ -27,7 +27,7 @@ highlights:
 
 Last week was unusual in politics, with a politician making a clear statement about their position on what to some is considered a controversial topic. Barack ‘Big O’ Obama clarified what he had previously described as his evolving attitudes to same-sex marriage, finally saying [in an interview on US channel ABC](http://www.youtube.com/watch?v=kQGMTPab9GQ):
 
-“__It is important for me to go ahead and affirm that I think same sex couples should be able to get married.__”
+“It is important for me to go ahead and affirm that I think same sex couples should be able to get married.”
 
 With this action Obama has become the first sitting US president to support gay marriage and has received a large amount of praise from America’s gay community. While Obama has historically been reticent on his opinion on gay marriage, some thought that the potential political fallout might have caused him to stay his hand. However with his work on repealing the “Don’t Ask Don’t Tell” policy in 2011 he has been seen by many as friendly to the notion of gay marriage, if not an open supporter. However Obama has always expressed that his Christian belief has made him difficult to instantly accept the concept of gay marriage, although he revealed last week that his wife had a hand in his final acceptance. The President has clarified that this is his personal view, not a federal position and he will not interfere with how the states choose to form their legislation.
 

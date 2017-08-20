@@ -35,7 +35,7 @@ The marathon debate, moderated by Julie Etchingham and hosted by itv, represente
 
 The meeting was enlivened by the new female dynamic and stirred by the presence of three parties that only stand in certain areas of the UK: the SNP in Scotland, Plaid Cymru in Wales and The Green Party in England and Wales. So how well did each candidate perform?
 
-__David Cameron- Conservatives__
+David Cameron- Conservatives
 
 Cameron took the opportunity to reemphasise that five years ago the country was “on the brink” and that the “long term economic plan was working.” He spoke of two million more jobs and the coalition tax cuts. Cameron defended attacks on his immigration record by stressing that the UK currently has the fastest growing economy in any major western country, naturally resulting in people wanting to come here.
 
@@ -47,7 +47,7 @@ In response to attacks from Ed Miliband on the number of zero hour contracts, Ca
 
 On immigration, Cameron laid out plans for new policies that would stop immigrants from claiming benefits until they have lived and paid into the country for four years and prevent migrant workers from sending money to dependents who live overseas. The PM promised an in-out referendum on Europe in 2017 after renegotiations to “get a better deal for Britain.”
 
-__Ed Miliband - Labour__
+Ed Miliband - Labour
 
 Ed Miliband focused his attacks on Cameron’s record, claiming that “over the last five years wages haven’t kept up with bills.”
 
@@ -59,7 +59,7 @@ Miliband plans to prevent immigrations from receiving benefits for the first two
 
 In his closing speech, Miliband reminded the audience that he will “stand up to energy companies” and implement a price freeze.
 
-__Nick Clegg – Liberal Democrats__
+Nick Clegg – Liberal Democrats
 
 The abiding message from Nick Clegg was that the Liberal Democrats act as a moderating force in British politics, who will stop the country from “lurching to the left or right.” The deputy prime minister acknowledged that “no one is going to win outright in this election,” but that “the country is in a much better shape than it was five years ago.”
 
@@ -77,13 +77,13 @@ Mr Clegg defended his party’s success in the coalition with the pupil premium,
 
 The deputy prime minister intends to raise more money by closing reliefs in capital gains tax. He closed his speech by highlighting the Liberal Democrat mission statement: “A stronger economy and a fairer society, with opportunity for all.”
 
-__ Nicola Sturgeon – SNP__
+ Nicola Sturgeon – SNP
 
-__ __Nicola Sturgeon said she was committed to changing the Westminster system while “standing up for Scotland’s best interests.” She made it clear that she wants Scottish independence and offered an alternative to austerity, where the UK “puts investment in children, not nuclear weapons.” The SNP leader claimed that “economic policies shouldn’t be and end in itself,” and would like to see “modest spending increases” that stop “pushing people into poverty.” While admitting that this approach would “take longer to pay off the debt,” Nicola Sturgeon justified that it would “give money for infrastructure and public services.”
+ Nicola Sturgeon said she was committed to changing the Westminster system while “standing up for Scotland’s best interests.” She made it clear that she wants Scottish independence and offered an alternative to austerity, where the UK “puts investment in children, not nuclear weapons.” The SNP leader claimed that “economic policies shouldn’t be and end in itself,” and would like to see “modest spending increases” that stop “pushing people into poverty.” While admitting that this approach would “take longer to pay off the debt,” Nicola Sturgeon justified that it would “give money for infrastructure and public services.”
 
 She criticised the coalition’s “blind commitment to austerity,” insisted that “you can’t cut your way out of the deficit” and won over the audience after observing “it seems that there is nothing Nigel Farage won’t blame on foreigners.” After calling the NHS “too precious for private profit,” Nicola Sturgeon reemphasised lifting people out of poverty and scrapping trident, while creating an “education system based on the ability to learn not the ability to pay.”
 
-__Nigel Farage – UKIP__
+Nigel Farage – UKIP
 
 Nigel Farage quickly tried to distance himself from the other leaders, explaining that “all the other six here support the EU and open door immigration.”
 
@@ -99,7 +99,7 @@ Farage repeatedly claimed that “we can’t do anything” to control immigrati
 
 He highlighted issues such as wage compression and the housing crisis, but steered clear of the economy and focused on immigration and our EU membership as priorities for the UK. Mr Farage attacked the six pro-European leaders, calling them “detached”, “all the same” and declaring they have “never had a job in their lives.”
 
-__Leanne Wood – Plaid Cymru__
+Leanne Wood – Plaid Cymru
 
 Plaid Cymru leader Leanne Wood stressed that “jobs and services have been cut to the bone” and declared that “the austerity experiment has failed.”
 
@@ -115,7 +115,7 @@ In response to Farage’s comments on immigration, the Plaid Cymru leader assert
 
 In closing, Leanne Wood underlined that “austerity is not inevitable. We do have a choice” and told the audience that “for Wales to be strong, like Scotland, Plaid Cymru must be strong. Only they can win for Wales”
 
-__Natalie Bennett – the Green Party__
+Natalie Bennett – the Green Party
 
 Natalie Bennett argued that in the NHS “no public money should go into private profits” and pledged that the Green party would “stop slashing at essential public services” by raising taxes and ensuring that multinational companies and rich individuals “pay their fair share.” She criticised the government’s efforts for the poor and told the audience “one in five workers is on less than a living wage.”
 
@@ -129,7 +129,7 @@ Natalie Bennett was the only leader to mention the environment, claiming that �
 
 Ms Bennett spent her remaining time praising the “huge impact” that the Green Party’s only MP, Caroline Lucas, had made in parliament and urged the public to vote for the Greens to “deliver a new kind of politics. A peaceful political revolution.”
 
-__But just how well was this all received? __
+But just how well was this all received?
 
 Snap polls suggested that Nicola Sturgeon and David Cameron had come out on top, but for very different reasons. Many liked the aggressive and impassioned rhetoric coming from Sturgeon, who attacked Miliband for not being left enough. David Cameron remains the most ‘prime ministerial’ in the public’s eyes, after he gave a calm and convincing argument for voting Conservative.
 

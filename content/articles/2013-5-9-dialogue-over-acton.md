@@ -30,7 +30,7 @@ highlights:
 
 The North Acton campaign mustered large amounts of support from the student body at Imperial College, a body that has in the past been accused of not using their voice. [A petition organized by the Union](https://union.ic.ac.uk/presidents/againstacton/) received 709 signatures, and a [separate petition](http://www.change.org/petitions/imperial-college-save-garden-hall) from the Garden Hall Committee got to 1,461.
 
-__Union’s Requests__
+Union’s Requests
 
 Paul’s letter to the College comprised of [five key requests](http://felixonline.co.uk/news/3354/union-requests-to-college/) to resolve the complaints of the student body. First and foremost of these was to push for keeping Garden Hall, one of the cheapest and the most oversubscribed Hall of Residence.
 
@@ -42,7 +42,7 @@ Building on from this, Beaumont argued that the North Acton project should have 
 
 Finally, worried by lack of concrete promises for wardening provision at the new halls, a request was made that the wardening ratios are maintained. In 2011 Felix reported on a[ reduction in wardening provision at Eastside halls](http://felixonline.co.uk/news/1250/reduction-in-subwarden-numbers/), with these rooms since converted to ‘Deluxe’ accommodation – with a £250 per week price to match.
 
-__College respond__
+College respond
 
 The Union received a[ one-and-a-half page statement from the College’s management board](https://www.imperialcollegeunion.org/your-union/campaigns/accommodation/colleges-response), the board that authorised the purchase of the land in North Acton. Their response covered the majority of the points from.
 
@@ -59,13 +59,13 @@ Finally, it was noted that College do not make a profit from accommodation charg
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_night.jpg" title="Artist's impression of the development" caption="Artist's impression of the development" attr="Credit: Berkeley First" >}}
 
-__The way forward with North Acton__
+The way forward with North Acton
 
 Being the item of complaint with the student body, a specific mention was made of the North Acton development. College have promised that wardening provision will be made at the new hall, in addition to the receptionist service. It was not mentioned, however, how many wardens there would be in the new hall.
 
 Additionally, the development will go ahead, due to a contract being signed with property developer Berkeley First. However, consultations will be undertaken with students, wardens, and other members of College staff to ensure that the correct steps are made on the way forward.
 
-__Union Council step in__
+Union Council step in
 
 In a busy meeting of the Union Council on April 30th, one of the main agenda items was a response to the College’s document. In the paper, also by Beaumont, he listed a number of points for the Council to improve. They included:
 

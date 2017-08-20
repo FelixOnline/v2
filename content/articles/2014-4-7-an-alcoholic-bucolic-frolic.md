@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__D__ramSoc’s spring term production of _Jerusalem, _directed by Grace Surman, opens with a young girl wearing fairy wings singing the eponymous hymn in the middle of the countryside. A peaceful scene until The Prodigy’s _Invaders Must Die_ cuts in and a group of ravers rush onto the stage and scare the fairy away. This sets the tone for the play - constantly zig-zagging between romantic, nostalgic ideals and the reality of the present day.
+DramSoc’s spring term production of _Jerusalem, _directed by Grace Surman, opens with a young girl wearing fairy wings singing the eponymous hymn in the middle of the countryside. A peaceful scene until The Prodigy’s _Invaders Must Die_ cuts in and a group of ravers rush onto the stage and scare the fairy away. This sets the tone for the play - constantly zig-zagging between romantic, nostalgic ideals and the reality of the present day.
 
 _Jerusalem_ is set, confusingly not in the Holy Land, but in Wiltshire on St. George’s Day - the day of the Flintock fair. This, then, is a very English play. Not English in the sense of prim and properness (far from it) or even in the sense of cockney gangsters. But English in a way that’s not shown very often - teenagers binge drinking at a caravan in the middle of the woods.
 

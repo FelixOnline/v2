@@ -26,7 +26,7 @@ highlights:
 
 The party whip and MP Sir Malcolm Rifkind has been suspended from the Conservative party in parliament after becoming embroiled in ‘cash for access’ allegations.
 
-In an investigation conducted for an episode of __Channel 4__’s documentary series _Dispatches_, journalists met with Rifkind, pretending to represent a Chinese firm that was interested in putting experienced businessmen and politicians on the company’s board.
+In an investigation conducted for an episode of Channel 4’s documentary series _Dispatches_, journalists met with Rifkind, pretending to represent a Chinese firm that was interested in putting experienced businessmen and politicians on the company’s board.
 
 The former minister and foreign secretary was secretly filmed apparently offering his services to a fake Chinese firm, created for the purposes of the _Dispatches_ investigation, in return for cash.
 

@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-[__Men in Black III__](http://www.imdb.com/title/tt1409024/)
+[Men in Black III](http://www.imdb.com/title/tt1409024/)
 
-__Director __Rupert Sanders
-__Screenwriters __Etan Cohen, Lowell Cunningham
-__Cast __Will Smith, Tommy Lee Jones, Josh Brolin, Emma Thompson
+Director Rupert Sanders
+Screenwriters Etan Cohen, Lowell Cunningham
+Cast Will Smith, Tommy Lee Jones, Josh Brolin, Emma Thompson
 
 Let’s pretend the less than adequate direct sequel to _Men in Black_ never happened. With that logic, we can say it took almost 15 years for this new entry to hit the screens after the Will Smith-Tommy Lee Jones alien-fighting duo saved the world all the way back in 1997. So who remembers what this franchise is really about? As the title gives it away, Smith and Jones are men in black suits, a part of a top-secret government organisation that hunts down harmful extraterrestrial life forms. They have laser guns, fast cars, and all sorts of gadgets that accompany them on their missions. It’s also been far too long since we’ve seen Smith on the big screen. He’s been keeping himself busy with film-producing work, but time actually spent on screen has been absolute zero for past four years or so.
 

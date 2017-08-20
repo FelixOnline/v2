@@ -25,7 +25,7 @@ highlights:
 The coursework season has descended at Imperial - many of us are spending endless hours at the library. No matter if you are writing up your research project on rotor stator disk rim sealing, a model of the thermal structure of the North American lithosphere, or an essay answering the question “What is a gene?”, you are probably looking for ways to top up your body’s caffeine level every now and then. If you want to make the most of your tea / coffee / Redbull / Monster, you might want to read on.
  Scientists at Uniformed Services University of the Health Sciences in Bethesda, Maryland, USA, have worked out that the best time to get a daily hit of caffeine is between 9:30am and 11:30am.
 
-__The Science__
+The Science
  Steven Miller, a neuroscientist who took part in the research, explained that this is due to how caffeine interacts with a key hormone – called cortisol. This hormone helps to regulate the body’s own internal clock and promotes alertness.
  After a night’s sleep, cortisol levels are naturally high and can remain high for up to an hour afterwards, peaking between 8am and 9am on average.
  Mr Miller argues it is better to then drink caffeine after this peak as it promotes cortisol production.
@@ -34,6 +34,6 @@ __The Science__
  Mr Miller also found that cortisol also peaks between noon and 1pm, also from 5:30 to 6:30pm. He suggested that having a caffeine dose between these pikes will be most effective.
  Of course, the cortisol cycle will vary from person to person, so will the perfect time to have your cup of coffee or can of Redbull. The time you normally wake up will also affect this time - early risers may find their ideal time is earlier than those who get to enjoy a lie in.
 
-__So what is cortisol?__
+So what is cortisol?
  Cortisol helps to increase glucose in the bloodstream by converting from stores of energy. This hormone produced in high levels especially in times of stress. This energy release makes us more alert in the morning, but making us hungry at the same time.
  Scientists have also found that cortisol is also responsible for synchronising the internal daily rhythms that operate in the body.

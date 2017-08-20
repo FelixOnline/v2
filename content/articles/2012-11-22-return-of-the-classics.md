@@ -28,7 +28,7 @@ Despite of, or perhaps because of, classics being so heavily emphasised in secon
 
 Some of my favourite books, however, are classics and I believe that they are just as vibrant, interesting and powerful as the latest releases. While they may seem old fashioned, believe me, there is a reason why they have stood the test of time. Here I present just a few of these books – give them a read and I promise that you won’t be disappointed.
 
-__Ann Veronica__
+Ann Veronica
 
 _H.G. Wells_
 
@@ -38,7 +38,7 @@ One of Wells’ less known novels this is, on the face of it, a love story betwe
 
 While not a particularly major part of the novel, Ann Veronica might be of particular interest to Felix readers since the eponymous protagonist is a student at Imperial College.
 
-__Dracula__
+Dracula
 
 _Bram Stoker_
 
@@ -46,7 +46,7 @@ _Bram Stoker_
 
 Probably the most famous vampire novel ever, Dracula requires no introduction or synopsis. On one level a simple and satisfying story of the fight between good and evil, it is also a masterful exploration of temptation and primal desires. The story is told in the form of diary entries, newspaper articles and letters – giving the book a unique feel and presenting the action from many different points of view.
 
-__Sherlock Holmes__
+Sherlock Holmes
 
 _Arthur Conan Doyle_
 
@@ -54,7 +54,7 @@ _Arthur Conan Doyle_
 
 Doyle’s 56 short stories and 4 novels may not be of the highest literary quality but the accounts of Holmes’ cases always provide a fun read.
 
-__Crime and Punishment__
+Crime and Punishment
 
 _Fyodor Dostoyevsky_
 
@@ -62,7 +62,7 @@ _Fyodor Dostoyevsky_
 
 While at some times it may be fairly slow Crime and Punishment remains a powerful exploration of guilt and redemption. It does require some effort to get into but it is, ultimately, a very rewarding read.
 
-__Huckleberry Finn__
+Huckleberry Finn
 
 _Mark Twain_
 
@@ -70,7 +70,7 @@ _Mark Twain_
 
 Often called “the great American novel” the book is surprisingly engaging and readable. Following the eponymous character as he escapes from home it paints a striking picture of the southern United States.
 
-__Great Expectations__
+Great Expectations
 
 _Charles Dickens_
 
@@ -78,7 +78,7 @@ _Charles Dickens_
 
 An archetypical Dickens novel following the rise and decline of the fortunes of young Philip Pirrip, usually referred to simply as Pip. Both a brilliant character piece as well as an insightful exploration of life in early nineteenth century Britain.
 
-__Quo Vadis__
+Quo Vadis
 
 _Henryk Sienkiewicz_
 
@@ -86,7 +86,7 @@ _Henryk Sienkiewicz_
 
 The most famous novel written by Sienkiewicz. Following the struggles of Christians in the early Roman empire, many translations are available and it was made into a major Hollywood film in the 50s.
 
-__Faraon__
+Faraon
 
 _Bolesław Prus_
 

@@ -32,13 +32,13 @@ In order to enter the competition you simply need to prepare your speciality, wr
 
 Simply, the most creative and well presented submission wins! For more details, read the terms and conditions of the competition and have a look at the prizes that were kindly offered by our sponsors. We’re looking forward to receiving your submissions and wish you the best of luck!
 
-__Prizes__
+Prizes
  - Free Breakfast Voucher for 2 people by [Dishoom, Bombay Café](http://www.dishoom.com).
  - £30 Amazon gift voucher offered by the [Cypriot society](http://www.union.ic.ac.uk/osc/cypsoc/public/).
  - _[Riverford Farm Cook Book](http://www.riverford.co.uk/shop/gifts/riverford_cook_book/)_ (Best First Book & Work on British Food) by [Riverford Organic Farm](http://www.riverford.co.uk/).
  - 5 _Good Food: 101 Easy Student Dinners_ recipe books by [Ebury Press](http://www.eburypublishing.co.uk/) awarded to the best five submissions.
  - Kitchenware by [Lakeland](http://lakeland.co.uk): “The home of creative kitchenware”.
-__Terms and Conditions__
+Terms and Conditions
  - The deadline for the submissions is on Friday October 21 at 00:00.
  - The recipe can be influenced by other existing recipes but the preparation of the dish, the way you are going to write it up and present it and the photographs taken must be your own unaided work.
  - You need to include at least 2 pictures of your dish and no more than 5.

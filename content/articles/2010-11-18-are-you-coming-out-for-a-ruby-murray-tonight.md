@@ -35,7 +35,7 @@ The King Prawn Malabar combined coconut, spices and nuts in a puree as a thick s
 
 Located close to Truman Brewery, Sheba has been serving Londoners since 1972 so I am not the only happy customer they get. What’s better than sitting down to a splendid curry after a day of browsing vintage clothes and bargain hunting in Brick Lane. Although located in trendy East London, (as are all good things, Shoreditch sigh), it is definitely worth the trek.
 
-__Sheba 136 Brick Lane, London E1 6RU. www.shebabricklane.com Nearest tube: Shoreditch High Street__
+Sheba 136 Brick Lane, London E1 6RU. www.shebabricklane.com Nearest tube: Shoreditch High Street
 
 Masala Zone, Earls Ct
 
@@ -51,4 +51,4 @@ If you’re just feeling peckish, you can choose from a wide range of authentic 
 
 Finally dessert, my recommendation would be the Gulab Jamun, a warm dough ball covered in sugar syrup served with a blob of vanilla ice cream. All this washed down with a lassi yoghurt drink and you will leave very satisfied. Of course, they do take-away too. What more could you ask for!?
 
-__Masala Zone 147 Earls Ct Rd, London SW5 9RQ. 020 7373 0220 www.masalazone.com Nearest tube: Earls Court__
+Masala Zone 147 Earls Ct Rd, London SW5 9RQ. 020 7373 0220 www.masalazone.com Nearest tube: Earls Court

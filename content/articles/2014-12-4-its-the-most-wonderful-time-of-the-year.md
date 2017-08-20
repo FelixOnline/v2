@@ -31,9 +31,9 @@ Every Christmas holiday, people are often tempted to go abroad, whether to visit
 
 However, there is just as much to do on this island, especially in the capital where we are. I have scoured through the internet for the most interesting event and here are my top 3 picks in London.
 
-__Fairytales After Dark__
+Fairytales After Dark
 
-Descending to bestow Londoners a magical weekend, the Skewbald Theatre will be bringing fairy tales to life at the greens of thhe __Olympic Stadium__. Through an enchanting mix of singing, dancing and puppetry, stories familiar and strange, of bewitched frog prince to old Fisherman will come to life in this outdoor theatre.
+Descending to bestow Londoners a magical weekend, the Skewbald Theatre will be bringing fairy tales to life at the greens of thhe Olympic Stadium. Through an enchanting mix of singing, dancing and puppetry, stories familiar and strange, of bewitched frog prince to old Fisherman will come to life in this outdoor theatre.
 
 Running three times a day with free tickets, there really is no excuse not to escape into the classical ‘Once Upon a Time’ world and immerse oneself back into your childhood memories.
 
@@ -49,7 +49,7 @@ _Free_
 
 _queenelizabetholympicpark.co.uk/whats-on/events/2014/11/skewbald-theatre-presents-fairytales-at-night_
 
-__Winterville, Victorian Park__
+Winterville, Victorian Park
 
 A new winter destination in London rivalling Winter Wonderland in Hyde Park, Winterville seems to have everything and more. Ice rink, checked; Fairground, check; Market place, check; Ferris wheel, check. It even has a Kids quarter, Pantomine of Robin Hood, Spiegeltent and roller disco. Admission is free, and tickets for various events can be brought online (many comedies and shows in Spiegeltent are free though!).
 
@@ -71,7 +71,7 @@ _Nearest stations: Mile End, Bethnal Green_
 
 There is plenty more going on outside of London, be it an old tradition or something new. With consideration on the distance from London, I have picked 3 other festive events for those who want to venture out but might not have the time or the money.
 
-__Burning the clocks, Brighton__
+Burning the clocks, Brighton
 
 With thousands of flickering lights illuminating the streets every Winter Solstices for over two decades, Burning the clock parade has now become a trademark event in Brighton. With a parade of hand-made paper and willow lanterns, the festivities gather over 20,000 people for a 45 minutes parade down to the sea front of Brighton.
 
@@ -83,7 +83,7 @@ _price tbc_
 
 _Samesky.co.uk_
 
-__Living advent Calendar__
+Living advent Calendar
 
 An idea that originated from Stockholm, the living advent calendar see a festive performance popping out of a window or door at 18:30 from 1st to 24th December, delighting the gathered crowd for 30 minutes. From carol singing to dancing to tales of folklore, each performance is matched with a venue scattered across the rustic town. Raffles are sold to support charities every night, and the list of prizes can be found on the website.
 
@@ -103,7 +103,7 @@ _Free_
 
 _www.windsor.gov.uk/whats-on/windsor-and-eton-living-advent-calendar-p1000851_
 
-__Ancient Roman festival of Saturnalia parade, Chester__
+Ancient Roman festival of Saturnalia parade, Chester
 
 Before there was Christmas, the people of Rome threw a festival in honour of their deity Saturn on the 17th December. With a sacrifice at the Temple of Saturn and a public banquet; partying, gifts exchanges, masters waiting on slaves and gambling were amidst the festivities followed. To remember the glory of the old days, a torch light parade is held in Chester with Roman legions stomping through its cobbled streets. If merely watching the parade isn’t good enough for you, you can make your own lantern at Grosvenor Museum from 17:45 till 18:30 beforehand.
 

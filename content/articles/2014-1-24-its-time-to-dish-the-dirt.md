@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__August: Osage County__
+August: Osage County
 
-__Director:__ John Wells
+Director: John Wells
 
-__Writer: __Tracy Letts
+Writer: Tracy Letts
 
-__Starring: __Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Margo Martindale, Abigail Breslin, Juliette Lewis, Julianne Nicholson, Benedict Cumberbatch, Dermot Mulroney, Sam Shepard, Mitsy Upham
+Starring: Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Margo Martindale, Abigail Breslin, Juliette Lewis, Julianne Nicholson, Benedict Cumberbatch, Dermot Mulroney, Sam Shepard, Mitsy Upham
 
-__Runtime: __121 minutes
+Runtime: 121 minutes
 
-__Certification: __15
+Certification: 15
 
 Here is a film of so many mixed emotions that it will make your head spin. With larger-than-life characters having a proper go at each other at a family gathering (where else?). Those of you familiar with the Walkers of ABC’s hit TV show _Brothers and Sisters_ will know of their infamous dining scenes where no lunch/dinner party is a smooth ride. The Weston family, hailing from Osage County, Oklahoma, take things to a whole new level. There’s wine involved of course, but also pills, cursing is almost a requirement, and hurling verbal abuse is the norm.
 

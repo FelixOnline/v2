@@ -28,7 +28,7 @@ highlights:
  - comment
 ---
 
-__Yes – Haralambos Dayantis__
+Yes – Haralambos Dayantis
 
 _“It often leads to ghettoisation”_
 
@@ -40,7 +40,7 @@ The implications of mass immigration are not simply practical; they are also cul
 
 The issue is clearly a controversial one, since many who take a stance against mass immigration are often branded racist by the liberal media. The likes of Nick Griffin and, to a lesser extent, Nigel Farage do the debate no favours with their strong anti-immigration views. Too often, the opinions of sensible individuals with legitimate concerns are tarnished by association with the extreme views of such far-right figures. To accept that immigration is a problem in the UK is not racism; it is simply pragmatism.
 
-__No – Tagore Nakornchai __
+No – Tagore Nakornchai
 
 _"A lot of Britons’ fears about immigration come from the media”_
 

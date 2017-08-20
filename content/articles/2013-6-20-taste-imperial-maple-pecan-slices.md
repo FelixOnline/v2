@@ -25,7 +25,7 @@ highlights:
 
 Who doesn’t love the maple and pecan slice that you can buy at food outlets around campus? The syrupy biscuit base, gooey but crunchy – topped with decadent dark chocolate. I am definitely a fan and wanted to have a go at making them. I tried looking for a recipe online but had no luck. Lots of recipes for pecan pie, peanut butter traybakes and caramel squares, but none for maple and pecan slices. So I decided to come up with a recipe for them – and in doing so, checked out the cost to compare them to the price we pay on campus...
 
-__Ingredients:__
+Ingredients:
 
 160g butter
 
@@ -45,7 +45,7 @@ __Ingredients:__
 
 100g dark chocolate
 
-__Method__
+Method
 
 Preheat the oven to 180°C/Gas Mark 4 and butter an 8 inch/20cm diameter cake tin. Line with baking paper if you wish (optional.)
 
@@ -56,7 +56,7 @@ Pour the mixture into the tin and press down with a fork. Bake in the oven for 1
 While the base cools, melt the chocolate slowly in a pan over a low heat. Pour the melted chocolate over the cooled biscuit base and leave in the fridge until the chocolate has set.
  Cut into 12 slices and enjoy!
 
-__Cost breakdown and tips__
+Cost breakdown and tips
 
 I used golden syrup in my version as it’s a lot cheaper than maple syrup - you get 98% of the taste for about a tenth of the cost. Obviously you probably can’t/shouldn’t call it a ‘maple’ and pecan slice, but I think “syrupy pecan slice” sounds just as good!
 

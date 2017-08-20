@@ -22,13 +22,13 @@ authors:
 highlights:
 ---
 
-__What: __Happy Days
+What: Happy Days
 
-__Where: __Young Vic, SE1
+Where: Young Vic, SE1
 
-__When: __until 8th March
+When: until 8th March
 
-__Price: __Various
+Price: Various
 
 Disclaimer: do not book tickets for this as a February blues pick-me-up. The poster’s colourful, the title’s promising, but the only comedy you’ll get it the bleakest of tragicomedy.
 

@@ -50,4 +50,4 @@ This study is just one of many that is looking at the reasons behind why we slee
 
 However, according to the Great British Sleep Survey 2012 most of us are only averaging 5.1 hours, so if reading this hasn’t sent you to sleep yet, go and get an early night!
 
-__DOI: __10.1016/j.neuron.2013.12.025
+DOI: 10.1016/j.neuron.2013.12.025

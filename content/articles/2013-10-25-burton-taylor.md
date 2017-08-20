@@ -35,4 +35,4 @@ Already twice married and divorced, this doesn’t exactly scream the best match
  By focusing solely on the relatively short time span of the production history of the play, the writers have room to delve deep into the complex characters. Past mistakes and troubles are referred to, which give us a more satisfying, rounded picture of the couple; mixing the happy memories of their magical past that can never be recaptured, as well as looking ahead to the emptier, more bleak future also relating this to their declining health, ending on a very bittersweet note that asks the audience to care and empathise with a couple who probably will have no realistic long-term prospects.
  It’s an endearing, memorable little television film, one that benefits enormously from the gifted cast playing gifted actors.
 
-__Rating: 4/5__
+Rating: 4/5

@@ -28,7 +28,7 @@ Except travel plans are more akin to a realistic portrayal of a puppy in 101 Dal
 
 Sceptical I may sound, there are actually ways - trial-and-error-ed ones in fact - to make sure that you don’t give up on your plans mid-way, to give you enough motivation to plan and execute the travelling from start to finish. Give them a try - the difference could be between spending a Sunday afternoon observing either beach-dwelling hot chicks/guys or a Hollyoaks Omnibus.
 
-__Steady dosage wins the trip__
+Steady dosage wins the trip
 
 This is sadly how many exciting travel plans meet their pitfall: all the glamour, exoticness of visiting a dream location are extinguished, their appeal sinking like an obese whale until, eventually, it fades into obscurity.
 
@@ -38,7 +38,7 @@ What often happens is that you’ve overdone the hype during the planning stage.
 
 Try dissecting your holiday planning into different aspects - transport, accommodation, activities, entertainment - and approaching them in stages. That way you’ll give yourself consistent dosages of eagerness, keeping you as determined when stepping out of home as when the trip idea first occurred to you.
 
-__Unleash your inner Indiana Jones__
+Unleash your inner Indiana Jones
 
 A choice of location is never sufficient - the greater purpose always lies with the action you wish to partake, whether it’s skiing, hurling tomatoes at each other, finding spirituality in a coffee shop, or letting your genitals swagger amidst your fellow naked-runners.
 
@@ -48,7 +48,7 @@ Never hitchhiked before? Practise clenching your fist into a thumbs-up position 
 
 Reverse psychology works here too: the more pledges you make, the harder you’ll find backing out courtesy of peer pressure. Now, no one likes to the called a coward or chicken - right Marty McFly?
 
-__Connections, connections...__
+Connections, connections...
 
 Praise be to Mark Zuckerberg and his near-complete digital colonisation schemes - if only we prank Bin Laden into getting Facebook - ponds and landmasses are negligible obstacles when it comes down to communication. Similarly, technological wonders like Skype and Twitter allow acquaintances to be made and kept regardless of the mileage between separations.
 
@@ -58,7 +58,7 @@ Get to know the place even before you get there by rounding up people you know w
 
 Or why not let enter into your life fragments of your heart’s desired location? With Imperial College’s fame as one of the most multi-cultural institutions in the UK, chances are six-degrees of separation will bless you with a connection or two in your destination-of-choice.
 
-__Literary tourist__
+Literary tourist
 
 A common origin of inspiration for travel ideas: the bookshelves stacked full with ultramarine spines and their orangey counterparts. Predictably, delving into a Lonely Planet or Rough Guide is probably seldom the starting point of travel preparations.
 

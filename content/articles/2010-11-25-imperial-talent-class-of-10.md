@@ -23,7 +23,7 @@ highlights:
  - photos
 ---
 
-__Do you all want to start by telling us a bit about what your plays are like? __
+Do you all want to start by telling us a bit about what your plays are like?
 
 Gilead: Let’s see, mine is a musical revue in the traditional sense of a revue, lots of catchy tunes with different words put to them, largely based on all the anecdotes I’ve picked up over my three years here. It sends up all the trends and attitudes and habits that you know and love around you, and it’s all sung by a wonderful cast and accompanied by a fantastic fourteen piece band.
 
@@ -41,7 +41,7 @@ Pranav: And mine’s rather different, it looks at the creation of the first ato
 
 Shamini: Yeah, we tend to lose sight of the fact that science occurs in a social context, that scientists are real humans. Also in this particular case that science can actually have such a huge impact on the world and on people’s lives.
 
-__What made you want to start writing to begin with?__
+What made you want to start writing to begin with?
 
 Shamini: It was definitely over a year ago when I started writing down some of the ideas with a plan to write something. I suppose when you’re around drama a lot, and involved in lots of artistic things, you get these bits of inspiration and you think, “wouldn’t it be great if I could kind of cram all these things together and create something to direct myself.”
 
@@ -81,7 +81,7 @@ For me the hardest thing was casting because I had to turn down so many great ac
 
 Gilead: Hear hear.
 
-__Will you be continuing to write?__
+Will you be continuing to write?
 
 Pranav: Absolutely, I’ve got all sorts of ideas bumping about that I’d like to get down.
 

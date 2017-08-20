@@ -41,7 +41,7 @@ Light can be plane polarised, causing all the waves to lie flat in the same dire
 
 “At Imperial we have something that is probably unique worldwide: we can bring together knowledge on metamaterials and knowledge on lasers. Normally, the researcher communities don’t talk or work together. We’re now combining the two using gain and active materials. This has huge implications: it opens up a whole realm of research. There’s no way of controlling light so strongly as with a metamaterial.”
 
-__What is plasmonics?__
+What is plasmonics?
 
 Plasmonics is the the study of free metal electrons which trap light at the interface of a metal and another substance, creating ‘surface plasmons’. This confines light to an electronic scale, and is the basis on which metamaterials science is built.
  Imperial’s Professor Stefan Maier is a researcher in plasmonics and nanophotonics, who was pivotal in developing the field as a modern science. “The topic is a little older than metamaterials,” he says, “by about one hundred years or so! But it was really revolutionised by the development of nanofabrication, so new research in plasmonics began at the end of the 90s and the turn of the century.

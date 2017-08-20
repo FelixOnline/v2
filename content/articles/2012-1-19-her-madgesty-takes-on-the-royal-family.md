@@ -22,9 +22,9 @@ authors:
 highlights:
 ---
 
-__Director__ Madonna
-__Screenwriters__ Madonna, Alek Keshishian
-__Cast__ Abbie Cornish, Andrea Riseborough, James D’Arcy, Oscar Isaac
+Director Madonna
+Screenwriters Madonna, Alek Keshishian
+Cast Abbie Cornish, Andrea Riseborough, James D’Arcy, Oscar Isaac
 
 Madonna doesn’t exactly have a great track record when it comes to the film industry. Both her acting and directorial debuts were widely panned, and subsequent attempts to make a name for herself have not quite worked out. _W.E._ is her second behind-the-camera effort, and whilst it would be wrong to completely ignore her passion project, _W.E._ is unlikely to do wonders for her film career.
 

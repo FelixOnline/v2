@@ -40,6 +40,6 @@ The second Imperial try enabled Chris 'China Light' Lau to demonstrate his abili
 
 During the second half the effects of the previous night started to tell as Imperial started to falter, however, with the replacement of some tired legs, Imperial were able to take the lead through Fresher Edward Vaughan who carried over from another quick break. At this point, it looked as though Imperial were going to go on and win the game, however, heat, humidity and hangovers began to tell enabling Kyoto to take control scoring a number of tries taking the game.
 
-__Team Awards__
+Team Awards
 Twat of the match - Paddy for dropping the ball over the line
 Man of the match - Toby Spittle

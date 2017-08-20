@@ -59,7 +59,7 @@ Said one Twitter commentator: “Protestors have found UKIP MP Douglas Carswell 
 
 The People’s Assembly have confirmed they are planning further protests, scheduled to take place on the 20th June.
 
-__THOUGHTS OF A PROTESTOR__
+THOUGHTS OF A PROTESTOR
 
 We assembled at around five o’clock outside Downing Street, and began to march. For three hours we marched, and though physically exhausted by the end of it, our high spirits kept us going.
 
@@ -77,4 +77,4 @@ Protest can make a difference. In 1990, the movement of mass protest and civil d
 
 On the 20th June tens of thousands will join forces in the heart of London to send a message: we will not put up with these lies any longer. I hope to see you there.
 
-__NAVID NABIJOU__
+NAVID NABIJOU

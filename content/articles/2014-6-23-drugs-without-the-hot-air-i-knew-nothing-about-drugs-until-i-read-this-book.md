@@ -24,7 +24,7 @@ highlights:
  - photos
 ---
 
-__Guess which substance killed Amy Winehouse? Have a stab in the dark. __
+Guess which substance killed Amy Winehouse? Have a stab in the dark.
 
 I was amazed to find out that despite huge problems with illicit substance abuse, and having been hospitalised previously for an overdose of heroin, ecstasy, cocaine and ketamine, there was nothing illegal about the substance that eventually killed her: alcohol. Of course, the Daily Mail jumped to conclusions when initially reporting on the story.
 
@@ -34,7 +34,7 @@ David Nutt is the Edward J Safra chair of Neuropsychopharmacology at the fine in
 
 The internet doesn’t need another review from some 21 year old kid when The Economist and The Huffington Post have already got that down. I just thought I would relay some of the findings in it that surprised and fascinated me. If you find them unbelievable, I advise you to think where your current knowledge of drugs and drug users comes from; for me it was _Breaking Bad_ and _The Sopranos_. These statistics and facts are of course out of context (go read the book) but I’ve tried to be fair when taking them out. Finally, the sources of these facts are all cited in the book but I haven’t checked them out. [Most of them, I have – ed.]
 
-__On the comparison of legal and illegal activities:__
+On the comparison of legal and illegal activities:
 
 On average, a horse rider can expect a serious accident every 350 hours riding. An ecstasy user can expect a case of acute harm once every 10,000 pills (Chapter 2).
 
@@ -42,7 +42,7 @@ Tobacco has 7,000,000 users in the UK and cocaine has 700,000. Cocaine is respon
 
 This is how the ISCD ranked drugs, based on harm to the user and to society, based on 16 different factors (page 43):
 
-__On Tobacco:__
+On Tobacco:
 
 The World Health Organisation has estimated that tobacco will account for 10% of all deaths worldwide by 2015 (page 194).
 
@@ -50,11 +50,11 @@ Tobacco-related health problems cost £13.7 billion per year. Cigarette taxes ge
 
 It’s only because popular culture is saturated with positive images of people smoking and because friends encourage it that anyone smokes a second cigarette. Their first is usually unenjoyable. Compare this with LSD and ecstasy where some people can go as far as to say their first pill was positively life-altering (page 201).
 
-__On Legal Highs:__
+On Legal Highs:
 
 Of the dozens of deaths that were reported as due to mephedrone (MMCAT) in 2009, only two have been confirmed as being directly and solely caused by the drug. However, it may have had a net effect of saving lives overall as people switched from cocaine to mephedrone. There were 95 cocaine deaths in the first half of 2008 which reduced to 66 in the first half of 2009 (page 117).
 
-__On Politicians:__
+On Politicians:
 
 Barack Obama was a regular cannabis smoker in his younger years and has even admitted to trying cocaine before he came to office (page 135).
 
@@ -64,7 +64,7 @@ When Cameron was caught with cannabis at Eton he was made to write out hundreds 
 
 Compare this to the punishment of prison which costs £38,000 a year to keep someone in, and which usually turns inmates onto harder drugs (also page 286).
 
-__On the international war on drugs:__
+On the international war on drugs:
 
 Al Qaeda is principally funded by opium and cannabis production (page 277).
 
@@ -74,13 +74,13 @@ Every gram of cocaine snorted in England will have been responsible for an area 
 
 The illicit drugs trade is about 1% of the global economy, untaxed and unregulated (page 276).
 
-__On the difficulty of conducting research with illegal drugs in mental health therapy:__
+On the difficulty of conducting research with illegal drugs in mental health therapy:
 
 Mental health is the biggest health burden in Europe today, costing more than heart disease and cancer combined (page 227).
 
 A recent study of subject with chronic, treatment-resistant PTSD resulted in an 83% success rate – ten out of twelve subjects essentially no longer had the disorder after two sessions of ecstasy-assisted psychotherapy (page 25).
 
-__On how LSD can deliver moments of inspiration:__
+On how LSD can deliver moments of inspiration:
 
 Kary Mullis, who won the Nobel prize for inventing the polymerase chain reaction, went as far as to say “would I have invented PCR if I hadn’t taken LSD? I seriously doubt it [having taken LSD] I could sit on a DNA molecule and watch the polymers go by. I learnt that partly on psychedelic drugs.” (page 258).
 

@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-The newly discovered dwarf planet __2012 VP____113__ was discovered by astronomers at the Carnegie Institution of Science, Washington last week.
+The newly discovered dwarf planet 2012 VP113 was discovered by astronomers at the Carnegie Institution of Science, Washington last week.
 
 2012 VP113, with a diameter of 450km is the smallest celestial body to lay claim to the title of the most distant planet in the solar system, usurping dwarf planet Sedna (discovered 2003). Precisely, while Sedna is the body in the solar system that travels furthest from the Sun, with an orbit ranging from 76-937 AU (Astronomical Units - 1 AU is the distance between the Sun and the Earth), 2012 VP113's minimum distance from the Sun is 80AU, and so qualifies as the most distant solar system object when ranked by minimum distance.
 

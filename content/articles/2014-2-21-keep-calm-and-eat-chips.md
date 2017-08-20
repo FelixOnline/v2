@@ -22,9 +22,9 @@ authors:
 highlights:
 ---
 
-__O__h chips, glorious chips. The humble deep fried potato strips have been one of the most accessible and consumed foods across the world. It also provides a great subject for banter when stealing your friends’ chips becomes the top priority in the pub. As we near the end of the National Chip Week, it is perhaps time to take a deeper look into the world of chips.
+Oh chips, glorious chips. The humble deep fried potato strips have been one of the most accessible and consumed foods across the world. It also provides a great subject for banter when stealing your friends’ chips becomes the top priority in the pub. As we near the end of the National Chip Week, it is perhaps time to take a deeper look into the world of chips.
 
-__Where did it come from?__
+Where did it come from?
 
 To really understand the history of chips, we need to look into the “mother hen” – potatoes. It is believed that potatoes originated in the Andes of South America around 8000 years ago. The Spanish conquistadors brought the vegetable back to Europe in 1536 and it was first grown in London in 1597.
 
@@ -32,7 +32,7 @@ The idea of deep frying chips was from France or Belgium. One of the stories is 
 
 In Britain, the first chips were fried in around 1860 in Oldham, which is also where the first Fish and Chip shop opened for business. British chips are cut much thicker and, since the surface to volume ratio is lower, they have a lower fat content. So next time when you feel like something greasy, go for chunky chips; they’re less bad for you!
 
-__Are they really potatoes?__
+Are they really potatoes?
 
 Well, supposedly, yes. Traditionally (and still in practice by some restaurants) chips are fried twice, once to cook the potatoes and again to give it the crisp texture and golden colour. Quite often most of us will find frying a bit too much of a hassle, so that’s where frozen chips come in.
 
@@ -40,7 +40,7 @@ Sold in most supermarkets nowadays, it is estimated that 80% of households in th
 
 Unlike “powdered mashed potatoes”, there is no evidence so far that there are chips on the market that are made from reformed potato starch, or other ingredients that are totally unrelated, perhaps because it has to stay in the chip shape and therefore reducing the incentive for doing so. However, there are reports that Burger King started spraying a coat of starch to keep the chips hot and crispy for longer.
 
-__Homemade healthier chips__
+Homemade healthier chips
 
 So one evening, we felt a crave of burgers and chips, so we made some! If you feel like doing something simple this weekend and don’t feel like buying pre-made “stuff” off the shelf, here is a quick recipe to cook.
 
@@ -58,7 +58,7 @@ For the burger, dice the onion and mix it with the beef and egg. Then divide the
 
 As for chips, chop the potatoes into chip shape and boil for 3-5 minutes. It doesn’t really matter what potatoes you use, but desiree potatoes are recommended since they have a firmer and creamier texture – in this case, we just got a baking potato from the local supermarket. Drain them and shake them out onto a roasting pan, drizzle with oil and season well. We added a bit of curry powder to spice things up a bit, you can add any herbs and spices if you wish! Put it in the oven at 200 degrees for about half an hour, or until golden brown and crisp. Don’t forget to turn them at least twice to make sure they are crispy all the way round!
 
-__Safety First!__
+Safety First!
 
 If you do decide to fry chips this weekend, please remember never fill the pan over a third full with oil or fat, and never be tempted to cook with a chip pan after consuming alcohol. Also, don’t leave the pan alone with the heat on, and be sure to cool down the pan if the oil starts smoking.
 

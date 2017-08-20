@@ -35,7 +35,7 @@ I’ll look at the Careers Services at our Universities, to try to find out why 
 
 But this week I’ll look at every academic’s nightmare: the Research Councils.
 
-__A case study: the EPSRC__
+A case study: the EPSRC
 
 Far to the west of here, in beautiful Swindon, you will find the head offices of the Engineering and Physical Sciences Research Council (EPSRC). They are the organisation which decides how to distribute the government’s £740 million Engineering and Physical Sciences budget.
 
@@ -58,7 +58,7 @@ And it’s true, businesses aren’t interested in mathematics, because the rese
 
 And here is the problem: the EPSRC equates the value of a subject with business interest in it. Governments love this, of course, because the economy will boom while they’re in office, and crash after they’ve gone. But for the UK it is self-evidently disastrous. So how did this “business-impact” position come about, and what can we do about it?
 
-__A brief history of funding__
+A brief history of funding
 
 The famous Haldane principle states that decisions over how to allocate research funding should be decided by a council of researchers. This supposedly keeps academia free from government influence, or any outside interference. The principle has generally been in use since 1918, but a few decades ago Margaret Thatcher decided to shake things up a bit.
 
@@ -86,7 +86,7 @@ The Delivery Plan is “built around a Sponsor model of Research Management in w
 
 Yes, “anything that is excellent will have impact if the pathways are right”. Make of that what you will.
 
-__What the future holds__
+What the future holds
 
 The councils today look much like you’d expect after 30 years of “change”. In the EPSRC, for instance, half of the council is made up of “industry representatives,” as the box (right) shows.
 

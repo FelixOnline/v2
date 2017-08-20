@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-I don’t normally watch shows in the ‘so bad it’s good’ category – there are far too many genuinely good programmes which I can devote my time to. The one exception to this rule is [_Waterloo Road_](http://www.bbc.co.uk/programmes/b006t1p7)__.
+I don’t normally watch shows in the ‘so bad it’s good’ category – there are far too many genuinely good programmes which I can devote my time to. The one exception to this rule is [_Waterloo Road_](http://www.bbc.co.uk/programmes/b006t1p7).
 
 The first time I saw it I was instantly hooked: it was truly the most ridiculous thing that I had ever seen on TV. The action takes place in an unbelievably incompetently run secondary school in Rochdale, where the average pupil death rate is one per term. This is a show in which the staff go drinking in the pub every day after lessons; where everybody in a position of authority higher than the Headmaster is insane or frankly just plain evil and where the school motto, “ex nihilo omnia” (everything from nothing) actively insults the pupils.
 

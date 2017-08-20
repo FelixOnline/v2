@@ -29,7 +29,7 @@ highlights:
  - longread
 ---
 
-Tonight was a first in two respects; not only was it my first time attending a concert in the gorgeous __Cadogan Hall__ but it was also in fact the first ever time I had seen the Imperial College Symphony Orchestra (ICSO) perform. And so, as you can imagine I was suitably excited.
+Tonight was a first in two respects; not only was it my first time attending a concert in the gorgeous Cadogan Hall but it was also in fact the first ever time I had seen the Imperial College Symphony Orchestra (ICSO) perform. And so, as you can imagine I was suitably excited.
 
 This was their Spring Concert, a celebration of a term of hard work and careful planning. For our enjoyment they were performing Gershwin’s ‘An American in Paris’; Mozart’s ‘Piano Concerto in D Minor’; ‘In the Steppes of Central Asia’ by Borodin; and finally the incendiary ‘Firebird Suite’ by Stravinsky. It was a crammed and very varied schedule, designed to illustrate the broad range of the orchestra’s repertoire. I was also eager to see Martin James Bartlett, an 18-year-old pianist and winner of the BBC ‘Young Musician’ Award in 2014, about whom I had heard great things, perform alongside the orchestra on the Mozart concerto.
 

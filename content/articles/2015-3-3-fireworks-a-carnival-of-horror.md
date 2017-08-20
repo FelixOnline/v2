@@ -29,7 +29,7 @@ highlights:
 
 Death. Darkness. Claustrophobia. Darkness. Madness. Darkness. Dalia Taha’s new play _Fireworks_ is not the celebration that the title suggests. Telling the story of two families battling for sanity in a besieged Palestine, _Fireworks_ examines how children rationalise and interact with war and death, a jolting and twisted dichotomy.
 
-I was apprehensive before going to see _Fireworks_. I had read about it, about the subjects it covered. I knew it was not going to be an easy watch. But it was definitely going to be a fascinating new take on the impact of warfare. The play is a product of a nearly two decade partnership the __Royal Court__ has had with Palestinian writers, developing their untapped talent and unique life experience to create some wonderful pieces of theatre.
+I was apprehensive before going to see _Fireworks_. I had read about it, about the subjects it covered. I knew it was not going to be an easy watch. But it was definitely going to be a fascinating new take on the impact of warfare. The play is a product of a nearly two decade partnership the Royal Court has had with Palestinian writers, developing their untapped talent and unique life experience to create some wonderful pieces of theatre.
 
 And what a way it started. The set: a single concrete room, suffocating in its rigidity, faded azure walls, minimal belongings, a crypt for the living. Dramatic lighting plunged us between total blackness and glimpses of their life, snapshots of a daily scene that photographed the surreal scene for us. We are constantly cut between these very short scenes throughout the whole play, highlighting the fleeting nature of the moments and lives we were witnessing.
 

@@ -26,9 +26,9 @@ highlights:
 
 ###  The Descendants
 
-___Director __Alexander Payne
-__Screenwriters __Alexander Payne, Nat Faxon, Jim Rash
-__Cast __George Clooney, Shailene Woodley, Amara Miller_
+_Director Alexander Payne
+Screenwriters Alexander Payne, Nat Faxon, Jim Rash
+Cast George Clooney, Shailene Woodley, Amara Miller_
 
 Clooney is an actor who seems to push the boundaries as he ages. Although known for playing slick and suave characters, here he is in _The Descendants,_ a warm and modest family drama in which the confirmed bachelor of Hollywood plays a dedicated father of two, living in Hawaii. The twist is that his wife ends up in a coma after a water-skiing accident. He even admits that he’s been the back-up parent in their marriage. But it appears the responsibility is suddenly on him now. Not that he minds, of course; he just doesn’t have a clue on how to go about this.
 

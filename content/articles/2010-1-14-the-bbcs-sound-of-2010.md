@@ -35,7 +35,7 @@ Joy Orbison started DJing at the tender age of 12, back when he was still mortal
 
 If his Fabric sets and recent releases are anything to go by, he’s only getting better.
 
-__Gold Panda__
+Gold Panda
 
 Gold Panda is a Japan-obsessed, leftfield, electronic artist who stands out from the BBC’s selection by being truly original.
 
@@ -43,7 +43,7 @@ Lacking in mainstream appeal, his songs combine samples taken from charity shop 
 
 Perhaps the most important find on this list, he may not find fame and chart success in 2010 (his myspace doesn’t display the marks of an intense PR push) but I bet he will be around much longer than most of the artists that made it onto this list.
 
-__The Drums__
+The Drums
 
 The Drums are the NME’s tip for 2010 and like most of NME’s tips, they have a hollow look in their eyes and sound a lot like The Smiths.
 
@@ -51,7 +51,7 @@ These New York ‘cool kids’ who sing about surfing are probably some record l
 
 They’ll probably turn out like their comrades in catchy whistling: Peter, Bjorn and John and disappear after their one song is released about 4 times.
 
-__Owl City__
+Owl City
 
 He has 20 million plays on myspace by re-imagining The Postal Service through the eyes of cretin.
 
@@ -61,13 +61,13 @@ This man is an idiot, one of his lyrics is as follows: ’10 million fireflies, 
 
 If you have never listened to Postal Service then you probably won’t understand the urge I have to track him down and punch him in the ovaries.
 
-__Ellie Goulding__
+Ellie Goulding
 
 The latest in the relentless wave of young female singer songwriters, like a zombie invasion with too much hairspray and 80’s shoulder pads… and I’m pretty sure you can only kill them by removing the head.
 
 I probably wouldn’t be too offended by Ms Goulding (she just follows in the hardly original footsteps of Little Boots without adding to or taking anything away from the formula) except she’s recorded a horrible cover of Bon Iver’s “Wolves” with shallow electronically distorted vocals... Kill me please.
 
-__Devlin__
+Devlin
 
 It was bound to happen: the BBC found the Eminem of grime! By that I mean an angry little white dude with mad flow.
 
@@ -75,7 +75,7 @@ The beats are fast, the music is menacing and there’s obviously lots of violen
 
 But if you’re not already massively into grime, why would you be remotely interested in Devlin? Oh wait… ‘cos he’s white. Thanks for treating us like retards, BBC.
 
-__Daisy Dares You__
+Daisy Dares You
 
 The BBC wants us to believe that “Bubblegum punk” is the sound of 2010. Seriously? This is a fucking joke.
 

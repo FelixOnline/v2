@@ -24,13 +24,13 @@ highlights:
  - photos
 ---
 
-__THE INTERVIEW__
+THE INTERVIEW
 
-__Directors: __Evan Goldberg, Seth Rogen
+Directors: Evan Goldberg, Seth Rogen
 
-__Screenplay: __Dan Sterling
+Screenplay: Dan Sterling
 
-__Cast: __James Franco, Seth Rogen, Randall Park
+Cast: James Franco, Seth Rogen, Randall Park
 
 Rating: 3/5
 

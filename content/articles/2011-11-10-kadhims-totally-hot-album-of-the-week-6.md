@@ -29,7 +29,7 @@ It was cold this morning, wasn’t it? Like most students, myself included, you�
 
 The summer is dead and we’re quickly approaching those days where you get to the library before it’s light and leave well after the pathetic sun has scuttled off in fear of the overwhelming dark.
 
-But there is some hope in the face of this November malaise; __Real Estate’s__ second album, _[Days](http://open.spotify.com/album/2atm9XvDoORbpwCz3xIRWO)_ [spotify]. It’s happy in a rueful sense; a chilled out, surfer-rock ode to the summer that’s stopped answering our calls. It washes over you with simple, wandering lyrics about the kind of love that only really exists in nostalgic hindsight (preferably while wearing chunky black hipster glasses…)
+But there is some hope in the face of this November malaise; Real Estate’s second album, _[Days](http://open.spotify.com/album/2atm9XvDoORbpwCz3xIRWO)_ [spotify]. It’s happy in a rueful sense; a chilled out, surfer-rock ode to the summer that’s stopped answering our calls. It washes over you with simple, wandering lyrics about the kind of love that only really exists in nostalgic hindsight (preferably while wearing chunky black hipster glasses…)
 
 Admittedly the album doesn’t require a lot of hard work to get into it. But as much as music snobs want to believe that all the best albums require “repeat listens”, _Days_ works just as well in the background as it does when you need music to tease out feelings that you can’t otherwise verbalize.
 

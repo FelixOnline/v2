@@ -22,15 +22,15 @@ authors:
 highlights:
 ---
 
-__What: __Burroughs, Lynch and Warhol: The Secret Photographers
+What: Burroughs, Lynch and Warhol: The Secret Photographers
 
-__Where: __The Photographer’s Gallery
+Where: The Photographer’s Gallery
 
-__When: __17th January - 30th March
+When: 17th January - 30th March
 
-__Price: __£4, £2.50 concessions, occasionally free
+Price: £4, £2.50 concessions, occasionally free
 
-__T__he Photographer’s Gallery, nestled in the heart of the West End, is playing host to a triumvirate of titans of 20th century American culture: Andy Warhol, William Burroughs, and David Lynch. Or maybe that should be: Andy Warhol. William Burroughs. David Lynch. The gallery has decided to stage this exhibition not as a single collection, but rather as a trio of separate exhibitions, each exploring the seldom seen photographs of these masters. The result is an experience that is rich in scope, but perhaps somewhat underwhelming.
+The Photographer’s Gallery, nestled in the heart of the West End, is playing host to a triumvirate of titans of 20th century American culture: Andy Warhol, William Burroughs, and David Lynch. Or maybe that should be: Andy Warhol. William Burroughs. David Lynch. The gallery has decided to stage this exhibition not as a single collection, but rather as a trio of separate exhibitions, each exploring the seldom seen photographs of these masters. The result is an experience that is rich in scope, but perhaps somewhat underwhelming.
 
 Out of the three, it is Andy Warhol who has the most obvious link to photography; the pop-art polymath’s work was often based upon photographs, and the idea of celebrity culture – along with the media exposure that accompanies it – is a running theme throughout his career. Warhol saw the advent of the ‘point and shoot’ camera as a means to expand his obsessive documentation of his daily life. The selection of black and white prints on display act as a time capsule from 1970s Manhattan, but the themes that underlie much of Warhol’s more formal work shines through: there are shots of the inside of pantries, documentations of consumerism, and an obsession with signage. Celebrity spotting gets an obligatory mention, best documented by his candid shot of Jean-Michel Basquiat looking up mid-bite, a forkful of pastry on its way to his lips, which is reproduced and stitched together. However, since Warhol would often shoot an entire roll of film a day, it seems like an arduous task to cut such an extensive collection down to just 50 shots, and one wonders how much we are missing out on.
 

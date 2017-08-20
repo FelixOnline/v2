@@ -28,17 +28,17 @@ highlights:
  - longread
 ---
 
-__Exhibition__
+Exhibition
 
-__Director:__ Joanna Hogg
+Director: Joanna Hogg
 
-__Writer: __Joanna Hogg
+Writer: Joanna Hogg
 
-__Starring: __Viv Albertine, Liam Gillick, Tom Hiddleston, Harry Kershaw, Mary Roscoe
+Starring: Viv Albertine, Liam Gillick, Tom Hiddleston, Harry Kershaw, Mary Roscoe
 
-__Runtime: __104 minutes
+Runtime: 104 minutes
 
-__Certification: __15
+Certification: 15
 
 The biography of British director Joanna Hogg is a strange one indeed: mentored by legendary avant-gardiste Derek Jarman during the 1970s, she won a scholarship to the National Film and Television School, where she took a chance on unknown actor Tilda Swinton for her graduate piece. And then? Twenty years of relative obscurity spent directing episodes of TV series, and TV-movies. If the story ended here, it would be little surprise - after all, many creative people are never given the opportunity to realise their visions. But in 2008, exactly two decades after graduating, Hogg released her first feature length film _Unrelated _to rave acclaim; seemingly coming from nowhere, here was a director with a completely formed style, a direct successor to Eric Rohmer. Her next film, _Archipelago_, released in 2010, only served to further her formidable reputation, and this year sees the release of her _Exhibition_, which could be her most accomplished film to date.
 

@@ -40,4 +40,4 @@ Is it, then, the end for Kodak? Probably not. After it will sell off its intelle
 
 One thing we can however be sure about: Kodak will not be forgotten. Its yellow boxes of film and point-and-shoot cameras made it possible for countless millions to freeze-frame their memories forever, and allow us to remember and define what an entire century looked like. Nevertheless, even if it succeeds and another smaller company emerges from the bankruptcy proceedings, it seems unlikely there is going to ever be another ‘Kodak moment’.
 
-__Sign up for the Imperial Entrepreneurs mailing list at: [imperialentrepreneurs.com](http://imperialentrepreneurs.com)__
+Sign up for the Imperial Entrepreneurs mailing list at: [imperialentrepreneurs.com](http://imperialentrepreneurs.com)

@@ -23,7 +23,7 @@ highlights:
  - longread
 ---
 
-__Orphan Black: Season 1__
+Orphan Black: Season 1
 
 Rating: 5/5
 

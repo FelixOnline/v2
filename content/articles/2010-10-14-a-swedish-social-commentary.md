@@ -34,21 +34,21 @@ Watching the film I felt as though I could draw parallels between myself and som
 
 I spoke to Ruben Ӧstlund about his directorial choices and future work:
 
-__Where do you draw your inspiration?__
+Where do you draw your inspiration?
 
 The concept is a thematic film about group behaviour. I think this is something very fundamental about being a human being, that we are herd animals. I made my first feature, Gitarrmongot [literally: The Guitar Mongoloid] about being individuals that don’t pay attention to the group, and while I was making it I got very interested in the complete opposite, about how the group influences the way you behave. All the five situations in Involuntary come from situations from my life or other people in my life.
 
 > The concept is a thematic film about group behaviour. I think this is something very fundamental about being a human being, that we are herd animals
 
-__You seem to have a very unique directing style through using long takes from a stationary camera, is there a reason for this style?__
+You seem to have a very unique directing style through using long takes from a stationary camera, is there a reason for this style?
 
 From the beginning I needed limitations from which I could draw creative energy and one limitation is to have a fixed camera. With this, the scene could take place in front of the camera or not, so I have to make decisions that allow the scene to work. In the beginning, I used the fixed camera as a method by which I could make the scene’s focus 100% in front of the camera, instead of taking ten different angles in the same scene. When you are on set, it takes so much time and effort to move the cameras around that you can’t fully focus on what is actually going on in the scene.
 
-__Why do you keep people’s heads and bodies out of shot?__
+Why do you keep people’s heads and bodies out of shot?
 
 I am very interested in the real time aspect that works in film. There are few other art forms where the real time aspect is as obvious as it is in film. In shots where people are off the screen or you can’t see the head, what I’m aiming for is to activate the audience, making them use their brains to figure out what is going on. The easiest way to do that is to make something happen off the screen so the audience have to work it out.
 
-__Which story line is your favourite?__
+Which story line is your favourite?
 
 I like all of them and I think all of them are very important; I wanted all the groups to be very different. A personal favourite may be the storyline on the bus, where the actor breaks a curtain, and the driver refuses to move any further until whoever did it confesses. It’s a classic situation where you have a few seconds where you can say, “Oh, I’m sorry – it was me,” but if you miss that,. it becomes harder and harder to confess.
 
@@ -56,10 +56,10 @@ I think the situation is very universal as humans are so afraid of losing face i
 
 An inspiration for this comes from a famous Swedish adventurer called S.A. Andrée, who, in the 1800s, decided to fly by hot air balloon to the North Pole. Of course, when you look at that even today, you would think that’s totally crazy and everyone on the expedition died. But as you read his diaries from the time you find out that even he thought it was doomed to failure but the social implications of giving up once he started were so great that he still hopped in the balloon, knowing the probable consequences.
 
-__You started off directing skiing films and then went to film school, but how would you advise getting into directing?__
+You started off directing skiing films and then went to film school, but how would you advise getting into directing?
 
 I think the background with skiing was very important for me, because what lots of people who want to get into the film industry is for the red carpet and all the glamour. When filming skiing, I was a fanatic skier so I was pointing the camera towards something I was interested in. I think this is the best way to get into the industry because other people decide that they want to be in the industry and then have to choose what to point the camera at. If you know what you are interested in, then that is a good start - point the camera in that direction.
 
-__Are there any plans to do English language films?__
+Are there any plans to do English language films?
 
 Maybe. We are working with a company called Third and one of their directors, Duane Hopkins and it might be that way in the future if we can get some money from the British Film Institute.

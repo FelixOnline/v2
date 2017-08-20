@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__God help me it’s bad...__
+God help me it’s bad...
 
 John Park
 
@@ -37,7 +37,7 @@ Radcliffe, Grint and Watson have been in these roles for a long time but even th
 
 A convoluted plot and unimpressive leading actors aside, there is much fun to be had in the longest set-up of the franchise. The CGI is impeccable and a couple of scenes will surely blow you away. Shame the rest of the film doesn’t quite live up to that standard but the millions that will inevitably sit through this one should get their pay off by next July, when the real final part is expected to arrive.
 
-__Outstanding...__
+Outstanding...
 
 Lucia Podhorska
 

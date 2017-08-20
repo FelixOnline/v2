@@ -42,4 +42,4 @@ This method makes the process more economically appealing to existing polyuretha
 
 Econic Technologies was initially set up to commercialise the catalysts developed by the team at Imperial. The research has already attracted the attention of major chemical companies to support the adoption of this more economically sound and environmentally friendly technology. The research was funded by the Government’s Department of Energy and Climate Change and the Engineering and Physical Sciences Research Council and published on the February 10, 2015.
 
-__DOI: __10.1021/cs501798s
+DOI: 10.1021/cs501798s

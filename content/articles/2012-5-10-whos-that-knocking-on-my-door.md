@@ -22,11 +22,11 @@ authors:
 highlights:
 ---
 
-[__Silent House__](http://www.imdb.com/title/tt1767382/)
+[Silent House](http://www.imdb.com/title/tt1767382/)
 
-__Directors__ Chris Kentis, Laura Lau
-__Screenwriter__ Laura Lau
-__Cast__ Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens
+Directors Chris Kentis, Laura Lau
+Screenwriter Laura Lau
+Cast Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens
 
 Here is a film that is more likely to impress than scare. Depending on what you’re in the mood for, _Silent House_ could be the film for you. It would be best not to expect many jump scares or any blood, gore and guts. Instead be amazed at how this feature film looks as though it was filmed in one long take, without ever making a scene change. There are some black-outs sure, and the number of continuity errors is somewhat laughable, but it’s the real-time, real-life experience that counts. Of course, this was not shot in one long take. But the director tries very hard to keep everything flowing. Film-buffs or any eagle-eyed members of the audience will be able to spot where the edits took place, but why try to dissect and trivialise what actually looks quite remarkable?
 

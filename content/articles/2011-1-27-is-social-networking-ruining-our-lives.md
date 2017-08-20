@@ -22,7 +22,7 @@ highlights:
  - comment
 ---
 
-__Ben Good– No__
+Ben Good– No
 
 December 23, 2006 at 20:41, “Ben has joined Facebook”. It was a simple page, no friends, no photos and a fake birth date to get around the age restrictions. If you had told me then that this, and other social networking sites, would be the cornerstone of social interaction for our generation I probably wouldn’t have believed you. But, whilst this development may be surprising I believe that it has been positive.
 
@@ -36,7 +36,7 @@ The true global potential of the medium is perfectly demonstrated by the recent 
 
 The social media revolution has without a doubt changed the way we interact with each other and the wider world. It has provided a new easy way to communicate and for those who want it, a channel through which your voice has the potential to be heard by millions.
 
-__Alex Nowbar – Yes__
+Alex Nowbar – Yes
 
 How many times have you been introduced to someone of whom you were already aware, perhaps the collateral of a recent facebook browse or, if you’re one of the pathetic many (like me), a target of a facebook stalk? Or at least made decisions based on relationship statuses as seen on facebook?
 

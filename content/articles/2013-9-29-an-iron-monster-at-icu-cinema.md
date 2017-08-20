@@ -27,10 +27,10 @@ ANNOUNCEMENT FRESHERS: FREE ICE CREAM and cinema screenings too! Imperial cinema
  Iron Man 3 picks up where The Avengers left off, Tony Stark (Robert Downey Jr) has PTSD after a traumatic near death experience but he has no time to recover before a new eyeliner-clad super villain arrives on the scene; surrounded by his badman posse he posts sketchy videos outlining his plans for domination of the West before acting accordingly. Will Robbo Jr save ‘murica from the evil racially stereotypical baddie? Come to Imperial Cinema to find out!
  In 10 years time, remember how excited and optimistic you were as a fresher before crippling self-doubt and depression took over? Monsters University charts the origins of Mike and Sully as they navigate through the unchartered waters of frat houses, letterman jackets and beer pong (all of which will totally happen during your freshers’ week). Jokes aside, Monsters University might teach you some valuable life lessons about the first year of unayy!
 
-__Tuesday 1st October__
+Tuesday 1st October
  18:30-Iron Man 3
  21:00-Monsters University
-__Thursday 3rd October__
+Thursday 3rd October
  18:30-Monsters University
  21:00-Iron Man 3
 

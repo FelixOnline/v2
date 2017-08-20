@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-Rugby:__ Imperial 22 - 20 Portsmouth__
+Rugby: Imperial 22 - 20 Portsmouth
 
 Imperial’s 1st XV got their season off to a positive start with a narrow win over Portsmouth at Harlington. On a day where the weather conditions were unusually favorable, Imperial made it difficult to overcome their stubborn opposition.
 

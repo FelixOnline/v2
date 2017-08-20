@@ -31,9 +31,9 @@ Surely, nothing could have happened without the support of our generous sponsors
 
 A big thank you to all contestants, who did their best to prepare delicious and creative dishes. Your positive energy and enthusiasm makes us believe that even more students will take part in the next Imperial Food Awards.
 
-__Winner – Braised Lamb Shanks, served with baby potatoes and cherry tomatoes by __Olivia Tillbert
+Winner – Braised Lamb Shanks, served with baby potatoes and cherry tomatoes by Olivia Tillbert
 
-__Ingredients__
+Ingredients
 
 2 tsp Plain Flour
  4 lamb shanks
@@ -52,7 +52,7 @@ __Ingredients__
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110281507-felix-braised-lamb-shanks-2.jpg" title="The winning braised lamb shanks" caption="The winning braised lamb shanks" attr="Credit: Olivia Tillbert" >}}
 
-__Recipe__
+Recipe
 
 Slice the onions into medium sized chunks. (Try your best not to cry – mission impossible!)
  Take of the carrots skin and chop them into medium chunks.
@@ -74,9 +74,9 @@ Slice the onions into medium sized chunks. (Try your best not to cry – mission
  When the shanks are removed from the casserole dish/pot, add the spinach and basil leaves and stir until they have wilted. (Don’t worry: the spinach will fit!) Do this at the same gentle heat.
  Serve beautifully with the potatoes and tomatoes! Salt and pepper to taste.
 
-__First runner-up – The Which Came First by __Sam Gonshaw__ and __Navid Nabijou
+First runner-up – The Which Came First by Sam Gonshaw and Navid Nabijou
 
-__Ingredients__
+Ingredients
 
 2 poussins
  8 eggs
@@ -93,7 +93,7 @@ __Ingredients__
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110281502-felix-the-which-came-first-photo-2.jpg" title="The Which Came First" caption="The Which Came First" attr="Credit: Sam Gonshaw and Navid Nabijou" >}}
 
-__Recipe__
+Recipe
 
 First, hard boil the eggs. We shall return to these later.
  To prepare the marinade, first crush the garlic. Mix the basil in a bowl with the garlic. Squeeze half a lemon into the bowl. Add the white wine and the olive oil.
@@ -103,9 +103,9 @@ First, hard boil the eggs. We shall return to these later.
  Prepare the plates by covering them with a bed of lettuce. Once the poussins are done, place one on each plate and surround with the finished eggs.
  Enjoy served immediately with a chilled bottle of sauvignon blanc and an open mind.
 
-__Second runner-up – Crispy Pork Belly by __Chew Jermaine
+Second runner-up – Crispy Pork Belly by Chew Jermaine
 
-__Ingredients__
+Ingredients
 
 A slab of pork belly
  Salt
@@ -116,7 +116,7 @@ A slab of pork belly
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110281505-felix-dscn7256.jpg" title="Crispy Pork Belly" caption="Crispy Pork Belly" attr="Credit: Chew Jermaine" >}}
 
-__Recipe__
+Recipe
 
 Preheat the oven at 200°C for 15min. Rinse the pork belly, dab dry the pork belly, especially the skin.
  Mix the salt, pepper, and sesame oil in a bowl. Coat the skin evenly with the mixture.
@@ -125,6 +125,6 @@ Preheat the oven at 200°C for 15min. Rinse the pork belly, dab dry the pork bel
  Put the pork belly in again and heat for another 15-20min. The pork belly is ready when the skin has turned golden brown and looks crispy.
  Carve up the meat and the crispy skin separately to be served.
 
-__Runners-up__
+Runners-up
 
 Jens Wilting, Yiango Mavrocostanti, George Trigeorgis, Stephen Gallagher and Yap Chinhua

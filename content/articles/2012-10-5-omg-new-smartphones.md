@@ -56,18 +56,18 @@ But the iPhone 5 lacks NFC (contactless), which is odd of Apple to keep out seei
 
 Overall, all three of these phones have excellent hardware and you can read about more comparisons [here](http://www.techradar.com/news/phone-and-communications/mobile-phones/iphone-5-vs-samsung-galaxy-s3-vs-lumia-920-vs-htc-one-x-1096966), but the one thing that really seperates them is the Operating System. There’s no outright winner in this though, it all depends on what you want out of your phone.
 
-__Windows__
+Windows
 
 The easiest, fastest and simplest to use and understand has to be, bizarrely, Windows Phone. However, it has serious limitations due to the lack of apps and its current market share. The good news is that time is definitely on Windows’ side, especially with the imminent launch of Windows 8 and free programming software.
 
-__Apple__
+Apple
 
 iOS has the largest app store in the world and is probably has the most recognised interface around as well as being quite fast.
 
-__Android__
+Android
 
 Android lets you be creative and customise to your heart’s content, perfect for the all tech lovers/hackers.
 
-__Blackberry__
+Blackberry
 
 I can't see why anyone would own one of these anymore as they won't be around for much longer. Then again, they'll probably be collectors items one day when we all think "wow, there used to be a crummy qwerty keyboard on phones!". To all blackberry owners: upgrade and OMG new smartphones!

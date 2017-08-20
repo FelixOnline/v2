@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Rugby__
+Rugby
 
 _Men’s 1st XV – 28_
 

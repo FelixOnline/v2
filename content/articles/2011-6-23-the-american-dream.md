@@ -35,7 +35,7 @@ The statement of purpose is much like your personal statement, where you elabora
 
 Funding is often a deal breaker for most students considering a PhD in the US. Don’t be discouraged. Firstly, admission officers know that students are financially challenged and often enter graduate school with a considerable debt. For the record, US undergraduates pay between $30,000 and $50,000 annually throughout their 4-year Bachelor. You will be surprised to find that universities compete for you with lucrative scholarships. The financial package attached to your offer of admission will obviously be greater the stronger your application is. This often covers your tuition fees for the first year (roughly $35,000) and you can always do a Teaching Assistantship (TA), where you work between 5 and 20 hours a week for 9 months and earn a salary of $18,000. During the remaining years you will attend few classes and hence will only pay a small tuition fee. Additionally, you will have the opportunity to work as a ‘graduate research assistant’. This means you can assist your supervisor and do research contributing to your PhD for an annual salary of $19,000. Hence you are in the blissful situation where you get paid for research that you would do anyway. It’s almost too good to be true.
 
-__Useful links:__
+Useful links:
 [www.statementofpurpose.com](http://www.statementofpurpose.com)
 [www.ets.org/gre](http://www.ets.org/gre)
 [www.gradcafe.com](http://www.gradcafe.com)

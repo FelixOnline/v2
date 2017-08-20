@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-The most offensive thing __The Horrors__ have probably ever done is release _Strange House_. The best thing they have ever done would have to be a toss-up between recognising this embarrassment and recording _Sea within a Sea_. What lies inbetween was the live show I attended.
+The most offensive thing The Horrors have probably ever done is release _Strange House_. The best thing they have ever done would have to be a toss-up between recognising this embarrassment and recording _Sea within a Sea_. What lies inbetween was the live show I attended.
 
 To be honest, when you are being supported by Cerebral Ballzy (who can only be described in a phrase assembled by a disgruntled friend during their support slot: “I don’t understand why I’m not being paid to be here”) you don’t have much to live up to as long as you don’t sound like a mass of incomprehensible noise.
 

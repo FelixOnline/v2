@@ -27,7 +27,7 @@ We decided to ‘start strong’ with _Felix_, under the assumption that we coul
 
 I started writing on Monday morning .
 
-__Saturday/Sunday__
+Saturday/Sunday
 
 The Union staff have already been back for a week, and the news that’s come in over Christmas means we have things to reprt on other than rugby clubs misbehaving. IC Radio & LeoSoc take over the Felix Office for their weekly meetings.
 
@@ -35,13 +35,13 @@ More organised section editors have already sent out their commissioning emails,
 
 Skett is excited, and tweets about it.
 
-__Monday__
+Monday
 
 Content is starting to be written, with other section editors in as well. This week the Food Editor’s busy on an essay.
 
 Typical Mondays are usually admin and social media updates, as well as sourcing stories. This is also when section editor’s meetings take place, as most people tend not to be writing up stories.
 
-__Tuesday__
+Tuesday
 
 Content keeps being written, the keyboards (and writers) sounding a little more tired and harassed. Skett asks us in an email to tell her how many pages we have by 18:00 or “I’ll cut your fucking section”. As this is still being written, I have little idea how long this piece will be.
 
@@ -51,13 +51,13 @@ Today there’s been a long dicussion on Charlie Hebdo, as there’ll be a comme
 
 A few people usually come in on Tuesday to start layout, and many of the comment articles and collaborative pieces are written today.
 
-__Wednesday__
+Wednesday
 
 Layout day! Arts are in early as always (7 pages this week). Most of the content should be (read, isn’t) in now, so all that’s left is fitting it onto the page. Pretty much everyone picks Wednesday to lay out, or, often, write their editorial.
 
 I pick up the camera that’s lying around in the office, having realised that my glorious plan of doing excellent photojournalism throughout the week has failed in spectacular fashion – I quickly realised that I have absolutely zero talents as a photographer. I collar the next person through the door and pressgang them (thanks, Tom!).
 
-__Thursday__
+Thursday
 
 We go to print this evening. Copy Editors start coming in to go through the paper, although there are only two of us at the moment. Usually we barely reach 11:00 before the first shout of “Why can’t they spell?!” goes out – highlights from last term included an in depth conversation on whether 4000 should have a comma in (hint: it shouldn’t), and whether or not avengement is a word (hint: it’s isn’t).
 
@@ -71,7 +71,7 @@ We have sourced enough pictures to fill the issue!
 
 The print deadline is at 23:00, and we agree that it’s looking like a late finish.
 
-__Friday__
+Friday
 
 The paper arrives from the printers on Fridays, and the web team come in to upload News and Comment. Angry emails arrive to complain about the Issue (more on this next week!).
 

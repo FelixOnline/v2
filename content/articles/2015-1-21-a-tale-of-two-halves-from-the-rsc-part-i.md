@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-The __Royal Shakespeare Company__ has shown once again that it defines how Shakespeare should be performed. Unusually at the __Barbican__ as opposed to the __Globe__, the restraints of performing in the round were removed, opening up more options for staging and props. This allowed a realistic scene to be set, engrossing you more fully in this world of debauchery and rebellion.
+The Royal Shakespeare Company has shown once again that it defines how Shakespeare should be performed. Unusually at the Barbican as opposed to the Globe, the restraints of performing in the round were removed, opening up more options for staging and props. This allowed a realistic scene to be set, engrossing you more fully in this world of debauchery and rebellion.
 
 I don’t usually find Shakespeare history plays all that exciting. Although just as excellent as his other pieces, they sometimes feel bound in their creativity by the need for at least some historical accuracy. And despite this somewhat being the case here later on, the performance showed that it needn’t be so; not for a second did I feel bored in this gripping portrayal of the king’s troubled life.
 

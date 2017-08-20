@@ -29,7 +29,7 @@ You’re freshmen now. No more school for you – all grown up! (Yeah, right. St
  Ever since you got your school-leaving grades and (congratulations!) your Unconditionals, all everyone’s been talking to you about is how to prepare for the “big jump” from school to University: what laptop/tablet/Macbook you should buy, which self-help book (wait, no one reads books anymore – more likely to be a Buzzfeed article) contains the best tips you need for strategically managing your time, how to most effectively customise your Spotify ‘studying’ playlist, which energy drinks you should get used to, what are the best “alternative’ sleeping cycles that might work for you, and so on.
  However, all this clamouring about details doesn’t necessarily lead to a successful studying strategy – indeed, it can even backfire. People can work themselves up and feel so daunted by the seemingly-immense prospect of college studies that they unthinkingly go with the flow and throw money around in an attempt to embrace tips, tricks, and gimmicks – anything that they’re told will give them an edge. However, during your time here, you will see that people religiously sticking with these techniques, even when they aren’t working so well, will be killed off by George R. R. Martin, start falling by the wayside and struggle in the crunch period building up to Summer Finals. So, Felix shall attempt to disillusion you and clear up any misconceptions you might have about the art of studying at Imperial before it’s too late.
 
-__#1 Studying Venue__
+#1 Studying Venue
 
 While studying in the College Library with your peers is known to have undoubted positive effects, it isn’t for everyone. Furthermore, sitting with a latte in Starbucks with your iPod and lecture notes before you is inevitably going to result in you fruitlessly doodling on the fruits of your free printing credit and Instaspamming people about how you’re getting no work done. Which they knew 2 hours ago when you frolicked off.
  So, the other option besides not studying at all, is to try to study in your room.
@@ -45,7 +45,7 @@ How to watch it all go up in smoke:
  - Have leftover chores causing mental anxiety – like cooking dinner, or doing your laundry, oh wait you still haven’t cooked dinner yet, but now it’s time to iron your clothes!! Maybe you’ll just copy the tutorial answers tomorrow morning.
  - Have a TV/gaming rig in your room (…just one more match on FIFA, I promise…)
 
-__#2 Studying Time__
+#2 Studying Time
 
 The average student boasts about how many all-nighters s/he’s pulled. The better student boasts about how few all-nighters s/he’s pulled. While Imperial is notorious for working you harder than most other places, and practice makes perfect, what you’re studying isn’t rocket science (okay, tough luck, Aero Eng. crew), but it can’t be reliably mastered at 0430hrs after you’ve chugged 3 cans of Red Bull just to finish the introductory question of your project report.
  Eventually you will find your timetable to be scattered throughout the day, with lectures and tutorials at any random time between 9am-5pm, and then clubs/societies meetings/trainings anytime thereafter – in which case, you may not even get opportunities to have powernaps after staying up late. And any peer I’ve seen who’s taken the gamble of powernapping at 11pm (to wake up at 2am and continue working) has failed hilariously.
@@ -54,14 +54,14 @@ The average student boasts about how many all-nighters s/he’s pulled. The bett
 
 > Felix shall attempt to disillusion you and clear up any misconceptions you might have about the art of studying at Imperial before it’s too late
 
-__#3 Studying Gadgetry__
+#3 Studying Gadgetry
 
 Firstly, regarding laptops: it really doesn’t matter if you use Windows or Mac. Whatever you’re personally more comfortable using, is the best bet. Period.
  Secondly, all you’ll really need is a decent computer with a decent internet connection (Long Live Imperial-WPA/LAN!) to access your lecture recordings (may/may not exist yet, depending on your department), Blackboard material, and lecture notes/web resources.
  Fancy-schmancy tablets, iPad Minis, Galaxy Tabs, all have the odd circumstantial perk but they aren’t necessary in any way. Many financially less-well-off students do well without them all around the world, and even if they had the money, affluence wouldn’t necessarily help.
  Good ol’ pen(cil) and paper, coupled with aforementioned computer (equipped with internet access) and a handy printer (available in the College Library and your Department), are unbeatable.
 
-__#4 Studying Music__
+#4 Studying Music
 
 You may have long-practised absorbing academic information in your headphone-generated enclave, but according to recent scientific studies, listening to music is little different from keeping your ears open to white noise in your surroundings – in fact, the regular changes in pitch, tempo, timbre, voices etc. makes your brain work harder to keep up with it all (albeit subconsciously) in addition to internalising the wisdom from the textbook before you, thus draining you of energy. You’re at Imperial; you’d do well to trust science. (Disclaimer: one of the studies referenced was done by the University of Phoenix, so do take a pinch of salt with this.)
  From personal experience though, it can help to be plugged in to an aural landscape while doing project work in the library for instance, as you aren’t distracted by friends constantly walking by or chatting (because you can’t hear them), and when you’re doing project work, it’s not so much mental acrobatics you need to do at this point (that should have been done when you were working out how to even do the project) as much as strategizing, formatting, summarising, and writing what you already know.

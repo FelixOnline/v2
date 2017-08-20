@@ -23,13 +23,13 @@ authors:
 highlights:
 ---
 
-__PREDESTINATION__
+PREDESTINATION
 
-__Director: __Michael Spierig, Peter Spierig
+Director: Michael Spierig, Peter Spierig
 
-__Screenplay: __Michael Spierig, Peter Spierig
+Screenplay: Michael Spierig, Peter Spierig
 
-__Cast: __Ethan Hawke, Sarah Snook
+Cast: Ethan Hawke, Sarah Snook
 
 Rating: 4/5
 

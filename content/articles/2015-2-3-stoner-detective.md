@@ -23,15 +23,15 @@ authors:
 highlights:
 ---
 
-__INHERENT VICE__
+INHERENT VICE
 
-__Directors: __Paul Thomas Anderson
+Directors: Paul Thomas Anderson
 
-__Screenplay: __Jordan Roberts, Daniel Gerson, Robert L. Baird
+Screenplay: Jordan Roberts, Daniel Gerson, Robert L. Baird
 
-__Cast: __Joaquin Phoenix, Katherine Waterston, Reese Witherspoon, Josh Brolin
+Cast: Joaquin Phoenix, Katherine Waterston, Reese Witherspoon, Josh Brolin
 
-__Rating: 4/5__
+Rating: 4/5
 
 Paul Thomas Anderson continues his quest to make one polarising film after another. His films are designed to challenge, frustrate and question, and even the simplest sounding plot can have the potential to be an overbearing, incomprehensible chore in the hands of Anderson. But there is a certain level of intrigue and fun to be had in trying to follow and keep up with everything that is going on in this over-crowded crime drama that echoes the great Hollywood neo-noirs.
 

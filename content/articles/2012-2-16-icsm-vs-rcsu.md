@@ -29,7 +29,7 @@ highlights:
  - longread
 ---
 
-___Disclaimer: __If you read this as anything other than a bit of banterous free advertising for our joint event, then you read too hard._
+_Disclaimer: If you read this as anything other than a bit of banterous free advertising for our joint event, then you read too hard._
 
 ####  RCSU IS BETTER:
  Paul Beaumont, RCSU Vice President (Operations)

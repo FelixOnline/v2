@@ -31,9 +31,9 @@ highlights:
 
 Hannah and Clare are two real foodies who have become vegan for a month to raise money for the Multiple Sclerosis Trust. They’ve decided to make the most of this opportunity and are on a quest to find really good vegan food. Follow their progress in their weekly column to see if they really can find vegan food that satisfies the meat-eaters among us.
 
-__Hannah’s Cheap and Easy Vegan Mediterranean Couscous – serves 1__
+Hannah’s Cheap and Easy Vegan Mediterranean Couscous – serves 1
 
-___Ingredients___
+_Ingredients_
  - 70g giant couscous
  - Drizzle of olive oil
  - 1 crushed clove of garlic

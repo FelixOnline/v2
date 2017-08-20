@@ -22,7 +22,7 @@ highlights:
  - longread
 ---
 
-__Choosing a platform__
+Choosing a platform
 
 As soon as I had finished installing Ghost on a cloud virtual server, my good friend Luke G-B pointed out the existence another awesome blogging/CMS platform called WagtailCMS.
 
@@ -36,7 +36,7 @@ While using the WagtailCMS platform requires a large amount of specialised techn
 
 Meanwhile, for those of you with a bit of server-admin know how, or more time than you know what to do with, the Ghost platform is fairly easy to set up, and is ready to be used straight after installation.
 
-__Why Not Wordpress ____or tumblr?__
+Why Not Wordpress or tumblr?
 
 I freely admit to being a bit of a Wordpress snob, it just seems so commonplace. While I must concede the fact that it is another extremely powerful blogging system with a friendly User Interface (UI), I think it has become the MySpace of the blogging world. There are so many plugins that the Wordpress (WP) platform has become a bit too cluttered. On an average WP blog, a visitor can be easily distracted by the page layout, the interesting widgets on the sidebar (including a count of the tens of people who have recently visited from across the world) and the ability to log in and/or leave a comment.
 
@@ -50,7 +50,7 @@ The cost is more than the cost of a free WP blog, but this basic plan does boast
 
 “... premium email support, unlimited features, unlimited users, unlimited themes & apps, and support for custom domains.”
 
-__How to install Ghost__
+How to install Ghost
 
 If you choose to go ahead with installing Ghost on a server, you should follow the easy official instructions available on the Ghost installation page. The platform runs on the modern Node.js web framework, so be ready to install it.
 
@@ -68,6 +68,6 @@ Finally, as an extra step, if you’d like to receive emails from the blog, (esp
 
 Tip: Remember to restart the web server application after changing the website’s configuration files on the server in order for the new settings to come into effect!
 
-__Time To Start Blogging__
+Time To Start Blogging
 
 So, Congratulations! If you’ve followed each step in the article (and the linked instructions) you should now have a fully functioning (and slightly hipster) blog to amaze your friends, or hide your deepest thoughts.

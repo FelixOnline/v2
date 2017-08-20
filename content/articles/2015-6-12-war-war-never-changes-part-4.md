@@ -26,7 +26,7 @@ highlights:
 
 Yes, the day of reckoning is upon us. Global productivity has come to a standstill. These are the news headline that will echo around the world on the day of the release of _Fallout 4_.
 
-If you have spent any time on the internet in the past week, you know that __Bethesda __has made a good attempt at breaking it! After putting up a countdown about a week ago, Bethesda then released the trailer to the newest installment in the Fallout series.
+If you have spent any time on the internet in the past week, you know that Bethesda has made a good attempt at breaking it! After putting up a countdown about a week ago, Bethesda then released the trailer to the newest installment in the Fallout series.
 
 For all of you who don’t know what _Fallout_ is; _Fallout _is a RPG game set in a post apocalyptic which has been ravaged by a nuclear war. These games revolve around you the protagonist trying to survive this harsh wasteland. The games themselves originated from a text-based game to a full sandbox game with RPG and FPS elements. Basically, imagine _Skyrim_ with technology in post-apocalyptic America, but better.
 

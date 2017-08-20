@@ -60,7 +60,7 @@ As Rob Fitzpatrick so eloquently put it in is final speech, most of the times pe
 ## What’s next for ICStartup?
 ICStartup is planning to build upon the success of the Venture Catalyst Challenge ‘13 and deliver bigger, better and more exciting events next year. It’s clear that this is a great time to get involved in the start-up community but if you still need a little more convincing about why to give it a go then read on for our “top 10 reasons to throw your books on the floor, storm out of the library and start your own buisness.”
 
-__10 great reasons to throw your books on the floor, storm out of the library and start your own business__
+10 great reasons to throw your books on the floor, storm out of the library and start your own business
 
 1. You’ll get to hangout in Shoreditch and switch the library cafe for cute independent coffee shops
 
@@ -82,4 +82,4 @@ __10 great reasons to throw your books on the floor, storm out of the library an
 
 10. It will be fun.
 
-__[Pedro on Google+](https://plus.google.com/+PedroPereiraMarketing?rel=author)__
+[Pedro on Google+](https://plus.google.com/+PedroPereiraMarketing?rel=author)

@@ -75,7 +75,7 @@ So although Microsoft’s profits are down 4% on last year, it’s evident that 
 
 But with the “post-PC era” drawing ever closer, a radical change was needed. I for one think Microsoft have reacted well, they’ve stepped up and have gone hard.
 
-### __Too Long, Didn’t Read__
+### Too Long, Didn’t Read
 
 Microsoft are going so hard that home is just a fictional concept. They’ve radically changed their fundamental strategy by mixing hardware with software across all platforms (phones, tablets/hybrids and desktops) and they’ve released bare new products including Windows 8, Windows Phone 8, Office 365 and Surface in the last 6 months.
 

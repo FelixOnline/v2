@@ -29,6 +29,6 @@ Blakfish formed in 2000 as mere schoolchildren but went on to be one of the grea
 
 SYIAC and Champions are both comprised of songs primarily about everyday things that got on the band members’ nerves like driving in London or vegetarians. This, along with the genius of the lyrics gives the tracks a strange charm, I guarantee that if you listen to their songs you will be singing along to almost every line in agreement. Their sound adds various extra dimensions to the mix with heavy riffs and roaring vocals united with upbeat choruses and melodies. Their distinctive style makes this band a definite must for angry hardcore-lovers and fans of softer indie alike. Check out the recommendations and if you like what you hear then buy the album, it’s more than worth it!
 
-___Writer’s Recommendations__
+_Writer’s Recommendations
  1: Listen to ‘Your Hair’s Straight But Your Boyfriend Ain’t’. It’s basically just Blakfish moaning about fashion. Brilliant.
  2: Listen to Blakfish’s true Christmas anthem ‘The True Meaning of Christmas’_

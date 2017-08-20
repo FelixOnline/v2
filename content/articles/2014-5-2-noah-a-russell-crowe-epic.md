@@ -24,17 +24,17 @@ highlights:
  - photos
 ---
 
-__Noah__
+Noah
 
-__Director:__ Darren Aronofsky
+Director: Darren Aronofsky
 
-__Writers: __Darren Aronofsky, Ari Handel
+Writers: Darren Aronofsky, Ari Handel
 
-__Starring: __Russell Crowe, Jennifer Connelly, Emma Watson, Ray Winstone, Douglas Booth, Logan Lerman, Anthony Hopkins
+Starring: Russell Crowe, Jennifer Connelly, Emma Watson, Ray Winstone, Douglas Booth, Logan Lerman, Anthony Hopkins
 
-__Runtime: __138 minutes
+Runtime: 138 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 4/5
 

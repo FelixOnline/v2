@@ -32,7 +32,7 @@ What better way to get to know a place and its culture than to take part in a fe
 
 From mating festivals in Africa to making a wish to the heavens in Taiwan, I will attempt to bring you around the world with 19 festivals. Some have deep cultural roots, or religious purposes whilst some are celebration of music and dancing. The list is only a corner of the iceberg and more of a bucket list of my own, but hopefully reading about them will inspire you to travel.
 
-__Africa__
+Africa
 
 _South Africa - Hermanus Whale Festival_
 
@@ -62,7 +62,7 @@ _Time: Late September_
 
 _Official website: (tours by travel agents – due to the sheer number no links will be provided)_
 
-__Latin America__
+Latin America
 
 _Aguascalientes, Mexico – Festival de las Calaveras (festival of skulls)_
 
@@ -74,9 +74,7 @@ _Time: 28/10 – 9/11 for 2015_
 
 _Official website: http://www.festivaldecalaveras.com.mx/_
 
-____
-
-__South America__
+South America
 
 _Rio de Janeiro, Brazil – Rio festival_
 
@@ -88,8 +86,6 @@ _Time: 5/2 to 9/2 for 2016_
 
 _Official Website: http://www.rio-carnival.net/_
 
-__
-
 _Peru – Inti Raymi_
 
 Translated as the Festival of the Sun, Inti Raymi is the celebration of Winter Solstice in honour of the god Inti by the Incas. The ceremonies not only celebrate the Sun and the start of a new planting season, but a plea to bring the Sun back and shortened this longest night in the Southern Hemisphere. The first Inti Raymi was held in 1412, and was the most important event during the Inca Empire involving 9 days of colourful dances, processions and animal sacrifices in Cuzco. It was banned in 1535 by Catholic priests, but was reconstructed since 1944 at Sacsayhuaman (2km from Cuzco) on June 24th. However, the festival is still celebrated by indigenous cultures throughout the Andes. Colourful costumes, music and food sharing are carried out.
@@ -100,8 +96,6 @@ _Official website: the official website cannot be found, but here’s a more in 
 
 [_http://www.lonelyplanet.com/peru/travel-tips-and-articles/77190_](http://www.lonelyplanet.com/peru/travel-tips-and-articles/77190)
 
-__
-
 _Buenos Aires, Argentina – Festival y Mundial de Tango_
 
 It is all about the tango in this Argentinian festival, with the ‘Festival and Dance World Cup’ held in the same week in August. Thousands of dancers flood into the city from all over the world to take part in the celebration of tango, which is declared as an Intangible Cultural Heritage of Humanity in December 2009. Whether you are a seasoned tango dancer or just here to enjoy the show, the nightly milonga (where tango is danced) all over the city, concerts and will definitely keep you entertained. What’s more is that all the activities and shows of the Tango Buenos Aires festival are _free_ and admitted on a first come, first serve principle or given out at a certain time and place, so make sure you do your research and be ready for the week. With this amazing festival being free – what excuse do you have for not booking that flight to Argentina?
@@ -110,7 +104,7 @@ _Time: August (tbc for 2015)_
 
 _Official website: (from last year) http://festivales.buenosaires.gob.ar/2014/tangofestivalymundial/en/reglamento_
 
-__North America__
+North America
 
 _Nevada, US – Burning Man Festival_
 
@@ -121,8 +115,6 @@ The weeklong festival that begins on the last Monday of August, and take place i
 _Time: Last Monday of August_
 
 _Official website: http://burningman.org/_
-
-__
 
 _New Orleans, US - Mardi Gras_
 
@@ -144,7 +136,7 @@ _Time: April_
 
 _Official website: https://www.coachella.com/_
 
-__Europe__
+Europe
 
 _Venice, Italy – Mask Carnival_
 
@@ -155,8 +147,6 @@ The celebrations centre around St Mark’s Square, with locals and tourists deck
 _Time of the year: generally around February_
 
 _Official website: http://www.venice-carnival-italy.com/_
-
-__
 
 _Bunol, Spain – La Tomatina_
 
@@ -178,17 +168,15 @@ _Timing: Late September to early October_
 
 _Official Website:_
 
-__Asia__
+Asia
 
 _India – Holi festival_
 
 Inspiring powdered throwing celebrations around the world, Holi festival is the mother of all colour festivals. An ancient Hindu festival, the tradition of throwing coloured powders originated from the Braj region of India. Krishna, a Hindu deity with dark blue skin from drinking poisoned breast milk feared no one would love him, and his mother encouraged him to colour Radha’s face in any colour he wants and the two became a couple. The festival celebrates the beginning of spring, but also with religious symbolism commemorating the triumph of Vishnu and her son over the demon king Hiranyakashipu and his sister “Holika”. The latter was burnt in a bonfire that is recreated on the night before the festival. Its first record was by poet Kalidasa during the 4th century. The day is for pure enjoyment and partying, with only one aim: the colour everyone. Traditionally, natural colour powders such as turmeric are used, but nowadays any methods from water balloons to coloured solutions are fair game. The festival is traditionally celebrated in India and Nepal, but has gained popularity all over the world. To see what a traditional Holi is like, go to Mathura and Vrindavan; for modern Holi, then Delhi is the place.
 
-_Time: __Phalgun Purnima__,__typically in March_
+_Time: Phalgun Purnima,typically in March_
 
 _Official website: http://www.holifestival.org/_
-
-__
 
 _Pingxi, Taiwan - Pingxi Sky Lantern Festival_
 
@@ -198,8 +186,6 @@ _Time: Lunar New Year (usually around February)_
 
 _Official Website: http://timefortaiwan.tw/cal\_en/cal\_19543_
 
-__
-
 _Kyoto, Japan – Gion Matsuri_
 
 More of a season of festivals than just one, _Matsuri_ in Japan is a huge thing. Almost every shrine has their own, with a procession consisting of men in traditional garb carrying _dashi_ (temple-like float) carrying the _kami_ (deity) across the streets. One of the most famous is the Gion Matsuri in Kyoto of the Yasaka Shrine that occurs through the whole of July, with two parades (17/7 and 24/7) consisting of floats up to 20 m tall. It originated as a purification ritual to appease gods that are thought to cause natural disasters by the Emperor Seiwa. Food stalls, festival games are also set up on streets with girls dressed in _yukata_ (summer kimono). For maximum culture exposure, it is worth going to the old kimono merchant district during _yoiyama_ (15/7) to visit the private houses exhibiting heirlooms.
@@ -208,7 +194,7 @@ _Time: July_
 
 _Official website: http://www.jnto.go.jp/eng/location/spot/festival/gion.html_
 
-__Polynesian and Australasian__
+Polynesian and Australasian
 
 _Sarawak/ West Kalimantan - Gawai Dayak_
 
@@ -217,8 +203,6 @@ What started in 1957 by a radio forum has become a festival for the Dayak people
 _Time: 31/5 – 1/6_
 
 _Official website: http://publicholidays.com.my/hari-gawai/_
-
-__
 
 _Cape York Peninsula – Laura Aboriginal Dance Festival_
 
@@ -236,9 +220,7 @@ _Time: Wednesday of the 11th week of 210-day pawukon calendar (15/7/2015; 10/02/
 
 _Official website: there isn’t one since it is a religious holiday_
 
-__
-
-__Editorial - Fly me to the moon: Festival hopping__
+Editorial - Fly me to the moon: Festival hopping
 
 Travel has become the new black, with everybody and anybody going off for their gap year or luxury spa holiday or a city break spamming you on facebook, twitter and Instagram. Your primary school friend had just flown off the Peru to climb Machu Pichu, your high school friends are having the time of their lives island hopping in Thailand and you thought to yourself, why aren’t I going anywhere interesting as well?
 
@@ -246,29 +228,25 @@ There are probably a festival for every month, if not every day of the year if o
 
 Well, here’s your chance! Forget about your friends’ stereotypical gap years around Thailand or Australia and take on this new travel challenge: festival hopping! Because everyone in Imperial deserves a break.
 
-__Suggested itineraries:__
+Suggested itineraries:
 
 _The summer festival hop:_
 
-Start off with _Galungan Festival_ in __Bali __on 15th July, then head to__ Kyoto __to enjoy the rest of _Gion Matsuri_ for the rest of July. You then have three weeks to explore SE Asia before you fly to __Spain__for_La Tomatia_. Give yourself a month to wander across the Mediterranean Ocean before joining a tour to witness the ancient _Gerewol festival _in __Niger__ before it’s time to return to Imperial in October.
+Start off with _Galungan Festival_ in Bali on 15th July, then head to Kyoto to enjoy the rest of _Gion Matsuri_ for the rest of July. You then have three weeks to explore SE Asia before you fly to Spainfor_La Tomatia_. Give yourself a month to wander across the Mediterranean Ocean before joining a tour to witness the ancient _Gerewol festival _in Niger before it’s time to return to Imperial in October.
 
 _Spring parties haul:_
 
-For the life and soul of this world who wants to take a break before committing for a career, pick your poison and start off either at __Rio de Jairo, Venice or New Orleans.__ After celebrating _Lent_ in style during February, make sure you make your way to __India__in March for the colourful _Holi festival. _You then have roughly a month before _Coachella_ starts in the party capital __Las Vegas__, where you are free to stay for live or carry on road-tripping through America.
-
-__
+For the life and soul of this world who wants to take a break before committing for a career, pick your poison and start off either at Rio de Jairo, Venice or New Orleans. After celebrating _Lent_ in style during February, make sure you make your way to Indiain March for the colourful _Holi festival. _You then have roughly a month before _Coachella_ starts in the party capital Las Vegas, where you are free to stay for live or carry on road-tripping through America.
 
 _Southern Hemisphere Run:_
 
-What would live be like down under? Start your journey by easing yourself in __Indonesia__’s _Gawai Dayak__festival_and immersing yourself in the Dakay people’s harvest ritual on 1st June. Then head to __Peru__ and experience the _festival of the sun - ___ ___Inti Raymi_on Southern Hemisphere’s winter solstice. You can end your journey here or travel through South America for two months (or drop by __Bali__for _Galungan_ in July) before heading to __Argentina__for the free _Tango festival._
+What would live be like down under? Start your journey by easing yourself in Indonesia’s _Gawai Dayakfestival_and immersing yourself in the Dakay people’s harvest ritual on 1st June. Then head to Peru and experience the _festival of the sun - _ _Inti Raymi_on Southern Hemisphere’s winter solstice. You can end your journey here or travel through South America for two months (or drop by Balifor _Galungan_ in July) before heading to Argentinafor the free _Tango festival._
 
 Of course, the above itineraries are merely my fantasy and a suggestion; however, with the amount of people going on a round-the-world trips, making world famous festivals as the focus doesn’t sound that bad. Whether you want to hop for two, three or twenty festivals over a month, two months or a year, here are a few tips to help you plan the journey of you life:
 
-____
+Flights:
 
-__Flights:__
-
-Most of you would probably immediately type in Skyscanner’s website, or Easyjet and Ryanair, but for multi-stop or long haul tickets __STA Travel__ is probably the best deal out there you can find. With _price beat guarantee _and _£__49 deposit_ to secure flights, it’s the ultimate student travel company. Sample itineraries such as The Big Boomerang fly you across Europe, Asia, Australia and America through 11 stops for £1,399 and you are free to create your own itinerary!
+Most of you would probably immediately type in Skyscanner’s website, or Easyjet and Ryanair, but for multi-stop or long haul tickets STA Travel is probably the best deal out there you can find. With _price beat guarantee _and _£49 deposit_ to secure flights, it’s the ultimate student travel company. Sample itineraries such as The Big Boomerang fly you across Europe, Asia, Australia and America through 11 stops for £1,399 and you are free to create your own itinerary!
 
 For those who are still skeptical about the price – my sister recently booked her return tickets to LA after researching for days and saved £30.
 
@@ -276,8 +254,8 @@ And for people who always change their mind, they have _Multiflex pass_ from £2
 
 Information: www.statravel.co.uk
 
-__Accommodation:__
+Accommodation:
 
-For those with low budgets, __hostelworld__is a good place to look, although you most look through the reviews and rating before choosing it. For those who want to live like a local, __Airbnb__ offers rooms for all budgets.
+For those with low budgets, hostelworldis a good place to look, although you most look through the reviews and rating before choosing it. For those who want to live like a local, Airbnb offers rooms for all budgets.
 
-Alternatively, for the more web savvy A-listers who wants an en-suite, __Voyageprive__can offer luxury accommodation for a good price but usually based on two sharing. Otherwise, __Hotel.com__ gives you a free night every ten nights you book.
+Alternatively, for the more web savvy A-listers who wants an en-suite, Voyageprivecan offer luxury accommodation for a good price but usually based on two sharing. Otherwise, Hotel.com gives you a free night every ten nights you book.

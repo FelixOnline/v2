@@ -26,7 +26,7 @@ highlights:
  - longread
 ---
 
-__Nanaca Crash__
+Nanaca Crash
 
 The first thing you should know about this game is that it’s Japanese, which therefore means it’s been liberally sprinkled with craziness. In this anime-style game you control a girl on a bike whose main objective is to crash into a man, sending him flying, and then to keep him in the air as long as possible through a series of further carefully-timed aerial collisions. Quite what the story is here is a mystery, as all the instructions are also in Japanese.
 
@@ -36,7 +36,7 @@ So far, so easy, but the skill is really required when you notice the passers-by
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Yeti Sports__
+Yeti Sports
 
  Although they were authored at the turn of the millennium, relatively few people seem to have encountered this ever-growing series of games. All involve the titular yeti using clubs, snowballs or even flamingos to hit penguins as fast as he can along beaches and up icebergs. Our personal favourite is Yetisports 4: Albatross Overload, although make sure to try the original penguin-hitting classic. Penguin fans can also sleep easy as all of the fluffy critters seem to be fine upon landing. Experts should try the Ylympics Tournament!
 
@@ -44,7 +44,7 @@ __Yeti Sports__
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Depict1__
+Depict1
 
  In this retro platformer you control a small boy lost in a world of invisible walls, infinite pits and shadowy enemies. Led by a mysterious narrator whose advice is not as helpful as it initially might seem, you and the boy must journey in the hope of finding some escape despite the narrator insisting that there is none to be found. Depict1 turns a lot of the traditional staples of video games, such as spiky pits, bonus diamonds and timed levels, on their head and forces the player to re-examine everything they thought they knew about platformers. After a few levels there comes a feeling that the entire game is both unpredictable and out to get you which makes for an original and exciting experience. The adrenaline is kept high by the constant suspicious thoughts about what might happen next, and even working out how to move is a challenge in itself.
 
@@ -54,7 +54,7 @@ Backed up by some pretty graphics that give the game a professional polish, Depi
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Moby Dick__
+Moby Dick
 
  Despite the developer admitting that this game is what happens "when you make a game from a book you have never read", this 2D whale munch-fest is surprisingly true to the original text. Players must control the titular white whale using the mouse, and have to destroy as many boats and munch on as many fish (and sailors) as they can without running out of air or health. Sailors will bombard you with arrows and nets, and later bigger ships will arrive and fire cannonballs at you.
 
@@ -64,7 +64,7 @@ As you blitz your way through the ocean it’s easy to overlook how pretty the g
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Bunny Flags__
+Bunny Flags
 
  In this defend-and-shoot game, you control an eyepatched rabbit commando defending his flag (and, indeed, himself) from hostile enemies. Quite why the enemies are disembodied fingers and all the action is played out amongst giant books and mugs of coffee is not easy to discern, but the mixture of tower defence and top-down shooter is a good one.
 
@@ -74,7 +74,7 @@ The shooting aspect helps take the tedium out of waiting for enemies to reach yo
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__AVOIDAL__
+AVOIDAL
 
  "Enemies as weapons" is the idea behind this mouse-controlled arcade game. Destroy the blue stars by setting off the traps that you must yourself avoid - red stars will chase you around the screen and yellow spikes fly in a straight line when activated. It sounds pretty easy, but when there’s enemies bearing down on you and no way to escape a small panic does start to set in. Graphics aren’t particularly amazing but at least they don’t get in the way. A good way to spend an idle ten minutes.
 
@@ -82,7 +82,7 @@ __AVOIDAL__
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Treadmillasaurus Rex__
+Treadmillasaurus Rex
 
  Dinosaurs. Lasers. Partying. Three things that are undeniably awesome, so if you were to mix these things together you might think that the product would be a game of epic proportions. And you’d be right. The titular treadmill will push T-Rex back and forth between the lasers and spiked balls force him to jump, causing the wheel to spin. Where it lands is (presumably) random, and with certain spaces activating laser light shows, confetti showers and top hats, things get very epic very quickly. Whether the wheel ever lands on 'Win The Game' is debatable, so if that happens to you then let us know!
 
@@ -90,7 +90,7 @@ __Treadmillasaurus Rex__
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Bejeweled Blitz__
+Bejeweled Blitz
 
 Even if you’ve never played this particular version, chances are you’ve stumbled upon this gem-swapping family of games before. Blitz is a timed variant of the classic formula: you have just 60 seconds to score as many points as you can by making rows of three, four or five gems.
 
@@ -100,7 +100,7 @@ The one-minute limit really helps to pick up the pace and makes the game much mo
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__CellCraft__
+CellCraft
 
 Despite stinking ever so slightly of a, *shudder*, educational game, this biology-based adventure RPG is actually quite entertaining. Taking control of the cell, moving it along and building ribosomes and other things is fun as you can zoom in and see everything happening, and there’s an incredible amount of detail in the way the game works. Quite why, then, the developers felt the need to include a plot featuring talking duck-billed platypuses is a true mystery.
 
@@ -108,7 +108,7 @@ Despite stinking ever so slightly of a, *shudder*, educational game, this biolog
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Achievement Unlocked 2__
+Achievement Unlocked 2
 
 Even though it’s the most basic platformer it’s possible to have ñ moving and jumping with walls and spikes – something about this 'achievements metagame' makes it too compelling to switch off. Pilot your tiny blue elephant around the 'levels' for no purpose other than collecting the game’s 250 achievements. Maybe it’s a hard-wired aspect of human nature, or maybe we just lead very boring lives, but whatever the cause as soon as you start playing you’ll instantly be addicted.
 
@@ -118,7 +118,7 @@ Although the game is basic, it doesn’t make it any the less challenging ñ sim
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Panda’s Big Adventure__
+Panda’s Big Adventure
 
 This point-and-click puzzle adventure sees the titular panda travelling through time in a somewhat familiar blue box. Although it’s just your standard formula with no weird time travel effects, it’s still pretty fun for a quick play and the puzzles, if a little odd can be genuinely quite challenging in places.
 
@@ -126,7 +126,7 @@ This point-and-click puzzle adventure sees the titular panda travelling through 
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Doeo__
+Doeo
 
 Hovering your mouse over as many coloured blocks as you can against the clock may sound like a boring idea on paper, but when you put it together with a big dollop of Japanese craziness things suddenly start to work out.
 
@@ -136,7 +136,7 @@ A 'doeo' is a little pink or green block embellished with a cute animal face and
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Alice Is Dead Episode 3__
+Alice Is Dead Episode 3
 
 This point-and-click adventure provides a plunges Lewis Carroll’s Alice In Wonderland into a sordid world of crime, violence and shady science. You play as The White Rabbit – now an assassin who after an attempt on his life has lost his memory. Graphics are gorgeous and bring the world to life, and voice acting is particularly good for a web game.
 
@@ -144,7 +144,7 @@ This point-and-click adventure provides a plunges Lewis Carroll’s Alice In Won
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Cat Astro Phi__
+Cat Astro Phi
 
 It has a cute kitty. It has spaceships. Is there really any more you need to know? This top-down shooting game, played in a Gameboy window that should send waves of nostalgia over anyone born in the 80s, features a tiny space man out to save his cat and escape the hostile planets on which he inevitably crash lands.
 
@@ -154,7 +154,7 @@ Asteroid-infested space flights sandwich each level and provide a fun distractio
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__World Conquest__
+World Conquest
 
 It’s RISK, but on Facebook! The classic world domination strategy game is recreated in pixel-perfect detail for you to play with your friends and/or strangers. Set up a private game and invite your friends for some classic turn-based action ñ just remember, take Asia!
 
@@ -162,7 +162,7 @@ It’s RISK, but on Facebook! The classic world domination strategy game is recr
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Effing Meteors__
+Effing Meteors
 
 In this abstract action game, you control a (deep breath, physicists) 'gravity well' with which you can trap meteors and send them hurtling towards planets in balls of fire. The aim of the game is simple: wipe out as many species as you can. Each species behaves differently and you must adjust your tactics accordingly to beat them.
 
@@ -172,7 +172,7 @@ As the game continues in this fashion you’ll encounter aliens, missile-shootin
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Vector Rush__
+Vector Rush
 
 I’ve never taken acid, but if I did I’m pretty sure this is what it would look like. Your first reaction on entering this 3D tunnel game will most likely be to scream, but after you’ve calmed down and regained control of your bowels this game turns into an adrenaline-pumping trippy monster that is actually incredibly enjoyable. Collect blue rings for extra lives!
 
@@ -180,7 +180,7 @@ I’ve never taken acid, but if I did I’m pretty sure this is what it would lo
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Goblin War Machine__
+Goblin War Machine
 
 Sometimes it can all get on top of you. Girlfriend trouble? Exam stress? Then maybe it’s time to kill some people... in this vehicular-action game of course! Take to this cannonball-firing monster truck and jump, drive and shoot all over the native human population of hamlets, villages and towns. Towers and buildings stand in your way, and warriors will fight back with spears, siege towers and even parachutes.
 
@@ -190,7 +190,7 @@ Although the gameplay is really fun when it gets going, the war machine’s gene
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Armor Mayhem__
+Armor Mayhem
 
 In this 2D futuristic shoot-'em-up, you play an armoured soldier fighting for a trans-planetary corporation on a planet consumed by humanity’s energy crisis. It’s a fight to the death for control of mysterious crystals (which don’t feature in the gameplay) and you and your AI teammates must compete in deathmatch, capture-the-flag and king-of-the-hill style games against other corporations.
 
@@ -200,7 +200,7 @@ The game delivers very solid action that does its forefathers Quake and Unreal T
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Meat Boy__
+Meat Boy
 
 Fancy getting yourself a slice of that bloody red action? Why not try the original Flash game that started the craze? It’s not as well polished as it’s big brother but still packs all the crazy-hard levels that you could ever need.
 
@@ -208,7 +208,7 @@ Fancy getting yourself a slice of that bloody red action? Why not try the origin
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__DuBlox__
+DuBlox
 
  Have you ever tried to pick up tofu with chopsticks? If so, you will probably already be a master of the complex logic behind this geometrical puzzler. As the four yellow cubes flop around the stage flipping and rolling, much like tofu cubes in the hands of a chopstick amateur, your brain will go in meltdown trying to comprehend where to lie them flat, where to stand them up and, ultimately, how to get them to the red goal zone.
 
@@ -228,7 +228,7 @@ As the action starts to get going, the sheer number of missiles in the waters re
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Sushi Cat 2__
+Sushi Cat 2
 
 It has a cat. It has sushi – with faces. Oh, and it’s Japanese. That should be all you need to know that this is cutest, most kawaii game you’re ever likely to play on this side of the world. Sushi Cat is on a mission to rescue his beloved, but he’s going to have to eat a bucketful of sushi first. Drop the bouncy kitty and watch him nom is way through the sashimi and tofu. Brilliant!
 
@@ -238,7 +238,7 @@ The gameplay isn’t exactly challenging, but it doesn’t need to be. Collectin
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Rebuild__
+Rebuild
 
 Finally, a bit of originality in the zombie genre! In this isometric strategy game, you play the leader of a group of apocalypse survivors trying their damndest to stay alive. This isn’t just about killing zombies, people need food, medicine and happiness, and it’s your job to find them those things.
  Being able to completely customise the fort is a great feature, and the huge scope for expansion makes everything much more interesting. There’s also a lot of depth to the strategy and plenty to keep players interested for a good little while.
@@ -247,7 +247,7 @@ Finally, a bit of originality in the zombie genre! In this isometric strategy ga
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Carveola Incident__
+Carveola Incident
 
 In this gallery shooter, you play a World War One army sergeant faced with something much worse than the Axis powers: zombies. After teaming up with German counterparts, you’ll take on all manner of undead in the traditional fashion.
 
@@ -257,7 +257,7 @@ Only, the mist over no-man’s land brings more fear than usual, not least becau
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Shellshock Live__
+Shellshock Live
 
 Do you remember the DOS classic Scorched Earth or like the idea of Worms but can’t condone the waste of good fishing bait? If so, you’re going to love this multiplayer Flash artillery shooter. You and up to five friends (or strangers) can battle it out in tanks, taking it in turns to fire all manner of bullets, grenades and even heavy drilling equipment at each other.
 
@@ -267,7 +267,7 @@ Rather disappointingly, victory is awarded on points alone so there aren’t any
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__BattlePaint__
+BattlePaint
 
 In this top-down shooter, making a mess is the order of the day. The floor is splattered with the coloured innards of every cube you rip into so the more it looks like unicorn vomit the better you’re doing.
 
@@ -277,7 +277,7 @@ The simple premise is brought to life by the graphical effects, and although the
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__iSketch__
+iSketch
 
 Despite being around since the mad, bad days of Web 1.0 when really annoying Flash introductions were cool, iSketch is still going strong and is still enjoyable even though it’s starting to show its age a little. The classic Pictionary, where players have to draw a picture to describe a word or phrase, has been brought online and thrown into the wild world of multiplayer action.
 

@@ -33,11 +33,11 @@ University is of course more than just about a degree and we organize a range of
 
 This year, I am also looking to revive RCS Sports clubs, rugby and football in particular. I am hoping that we can re-ignite some of our old rivalries and put the various trophies behind the union bar up for competition again. If this is something you are interested in, please e-mail the RCSU Sports Office Oscar Farrell at _Oscar.farrell12@imperial.ac.uk_.
 
-End of the day, university is what you make of it. The relationship between the union and its member is a two-way one. If you don’t put some energy in, you are unlikely to get a lot out of it. So, get to know the union officers, come to the RCSU office for my weekly drop- ins and check what we are up to on _www.rcsu.org.__uk._ Our website is currently being re-designed by our webmaster Philip Kent and we hope to get an all new interactive site rolled out in the near future.
+End of the day, university is what you make of it. The relationship between the union and its member is a two-way one. If you don’t put some energy in, you are unlikely to get a lot out of it. So, get to know the union officers, come to the RCSU office for my weekly drop- ins and check what we are up to on _www.rcsu.org.uk._ Our website is currently being re-designed by our webmaster Philip Kent and we hope to get an all new interactive site rolled out in the near future.
 
 The best way to keep in touch is to read my e-mails and newsletters as they will be full of important tidbits about what’s happening and the opportunities we provide for you. I swear they won’t be as boring as they sound!
 
 Here’s to an amazing year,
 
-__Plabon Saha__
+Plabon Saha
  RCSU President

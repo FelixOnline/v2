@@ -23,15 +23,15 @@ authors:
 highlights:
 ---
 
-__A MOST VIOLENT YEAR__
+A MOST VIOLENT YEAR
 
-__Director: __J. C. Chandor
+Director: J. C. Chandor
 
-__Screenplay: __J. C. Chandor
+Screenplay: J. C. Chandor
 
-__Cast: __Oscar Isaac, Jessica Chastain
+Cast: Oscar Isaac, Jessica Chastain
 
-__Rating:__ 4/5
+Rating: 4/5
 
 Chandor has a faultless record as a writer/director with his previous films _Margin Call _and _All is Lost_. The record continues unblemished with his newest simmering crime drama. This time he is tackling 1981, statistically the most violent year in New York City – hence the title. Trying to expand your business, and wanting to make it to the very top is a dangerous ambition to have, even more so when the climate is this volatile. Yet this does not stop Abel Morales (Oscar Isaac) from pushing forward with his plans. He puts in a significant amount of deposit for a new oil refinery, with big dreams to get ahead
 

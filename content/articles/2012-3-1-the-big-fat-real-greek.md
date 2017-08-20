@@ -31,7 +31,7 @@ highlights:
 
 _Many of you may feel a bit unwilling to visit a Greek restaurant because of Greece’s absurd and unjustifiable dealing of its politico-economic crisis. Besides, it is a fact, especially for those studying economics, that a country so small as Greece and with such a small and limited economy, can easily drag down healthy(?) economies such as America’s, the UK’s and Europe’s. However, we suggest you try to forget for a moment that all our problems’ source is Greece and enjoy some delicious food!_
 
-__The Real Greek __is a modern restaurant chain found across London. It’s the ideal place for you and your friends to enjoy tasteful Greek and Mediterranean dishes in a relaxed environment.
+The Real Greek is a modern restaurant chain found across London. It’s the ideal place for you and your friends to enjoy tasteful Greek and Mediterranean dishes in a relaxed environment.
 
 We haven’t visited a Greek restaurant for a long time and our anticipation to taste everything on the menu was great. We decided very quickly though; “please bring us the standards”. As a starter we had the traditional Tzatziki – Real Greek is the only restaurant in London that makes it with garlic instead of mint, as we were told by the waiter – and Babaganoush, a light and fragrant blend of smoked aubergine, tahini and garlic, served with the necessary Greek flatbread.
 

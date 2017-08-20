@@ -39,15 +39,15 @@ This information will be collected and moderated confidentially and your experie
 
 The campaign aims:
 
-__To gather students’ experiences__
+To gather students’ experiences
 
 We hope to gather your experiences of sexism through our survey, Through sharing your stories (anonymously) with the student body, the College and the Union, we hope to raise awareness of the level of sexism experienced by students, and highlight areas where change is required to combat sexism on campus. If you have an experience of sexism you want to share, fill in a short form at imperialcollegeunion.org/icsexism.
 
-__To get people talking about gender and feminism__
+To get people talking about gender and feminism
 
 Through a series of informal and fun events as well as a panel discussion, we hope to start an open and inclusive conversation on campus about what constitutes sexism and why it’s a problem. More broadly, we’d also like to encourage more discussion around gender & feminism.
 
-__To empower students to make change happen__
+To empower students to make change happen
 
 Through our discussion based events, women’s space and weekly Feminist Society meetings, you can take part in discussions aimed at finding ways of tackling sexist behaviour on campus, be it through creating a supportive women’s network at Imperial, or influencing the union or college to change its policies... or any other idea you might have!
 

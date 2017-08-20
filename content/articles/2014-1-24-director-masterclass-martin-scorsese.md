@@ -29,7 +29,7 @@ _“I think I learn more in a movie or in a story when I see what a person does 
 
 Scorsese has created such a variety of films from religious epics (_The Last Temptation of Christ_ and _Kundun_) to kids’ movies (_Hugo_) however he is really known for his depictions gangsters and vigilantes on the streets of New York.
 
-__Taxi Driver (1976)__
+Taxi Driver (1976)
 
 The most iconic film of Scorsese’s filmography tells the story of a vigilante who decides he wants to clean up the streets and after deciding he can’t kill a politician, he goes after a pimp to rescue a twelve-year-old girl from a life of prostitution. The reason this movie is such a classic is because it masters the feeling of isolation that Travis Bickle (Robert De Niro) feels.
 
@@ -41,13 +41,13 @@ BUT…
 
 The final scene shows a selection of newspaper articles telling the story of what he has done and a letter from the parents of the rescued girl. Though he is praised as a hero we know he was moments away from killing a senator before deciding to a kill the pimps. We are reminded that, although we went along with him for the ride, now it is time to reflect on how a racist, fascist who has pretend-arguments with himself in the mirror accidently became a hero.
 
-__Goodfellas (1990)__
+Goodfellas (1990)
 
 “As far back as I can remember, I always wanted to be a gangster,” This is the ultimate gangster movie, and the first of triptych of films about organised crime including _Casino_ and _The Departed_. The story shows how a kid becomes a Mafioso, then his treacherous career and in the end how he hates himself for leaving the life of crime via a witness protection program. A true epic.
 
 As with all his previous films we get fantastic camera moves and probably an era defining steady-cam shot following Henry Hill through the back entrance of the Copacobana Club, through the kitchens meeting and greeting everyone and into the club where a table is bought out and put right at the front for him. It really led the way for directors like Paul Thomas Anderson to use such complicated tracking shots.
 
-__The Wolf of Wall Street (2014)__
+The Wolf of Wall Street (2014)
 
 _The Wolf of Wall Street_ is Scorsese looking through the eyes of Jason Belfort played by Leonardo DiCaprio, a corrupt and opulent man travelling from rags to obscene riches. One of the first scenes shows Belfort using a straw to blow cocaine into the ass of a prostitute and really this sets the tone for the rest of the movie.
 

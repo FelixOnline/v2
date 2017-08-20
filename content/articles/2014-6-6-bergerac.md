@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-___Bergerac___
+_Bergerac_
 
 This 80s gem comes to us from the scenic island of Jersey and stars good old Cornish boy John Nettles (now better known for top German TV hit, _Midsummer Murders_) as recovering alcoholic Jim Bergerac. Jersey native Bergerac rails against his island’s transformation from a tight knit pastoral fishing community to the arch-Thatcherite tax haven where Dave Cameron’s dad hid all of his money, all the time driving around in his trademark vintage sports car solving the palest of white collar crime.
 

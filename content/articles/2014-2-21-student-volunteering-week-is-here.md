@@ -44,7 +44,7 @@ Interacting with your local community outside of the lecture theatre, laboratory
 
 Getting involved in SVW is simple…
 
-Check out the full programme at __www.imperialhub.org/svw__ or __www.imperialcollegeunion.org/whats-on__
+Check out the full programme at www.imperialhub.org/svw or www.imperialcollegeunion.org/whats-on
 
 Sign up to an event that interests you – remember, no previous experience required!
 
@@ -52,9 +52,9 @@ Receive a confirmation email with final event details
 
 Go along to the event, meet new people and make a difference
 
-Share your photos and experience with us on Facebook or Twitter __(#SVW2014)__
+Share your photos and experience with us on Facebook or Twitter (#SVW2014)
 
-__Getting involved in SVW is simple…__
+Getting involved in SVW is simple…
 
 1. Check out the full programme at [www.imperialhub.org/svw](http://www.imperialhub.org/svw) or [www.imperialcollegeunion.org/whats-on](http://www.imperialcollegeunion.org/whats-on)
 2. Sign up to an event that interests you – remember, no previous experience required!
@@ -62,7 +62,7 @@ __Getting involved in SVW is simple…__
 4. Go along to the event, meet new people and make a difference
 5. Share your photos and experience with us on Facebook or Twitter (#SVW2014)
 
-__Top 5 reasons to volunteer__
+Top 5 reasons to volunteer
  - Take a break from the lab and library.
 o Students improve their grades and skills when they volunteer
  - Volunteering is flexible and a great opportunity to gain work experience
@@ -74,7 +74,7 @@ o Meet people outside of your course and hall who care about the same issues you
  - Gain transferable skills you can evidence in job applications
 o 87% of employers think that volunteering can have a generally positive effect on career progression for people aged 16-25
 
-__10 simple good deed suggestions__
+10 simple good deed suggestions
 
 - Put your spare change in a charity donation box
 
@@ -96,6 +96,6 @@ __10 simple good deed suggestions__
 
 - Offer directions to a tourist who looks lost
 
-__Beyond SVW__
+Beyond SVW
 
 The good news is that the fun doesn’t stop when the week finishes. You can continue to make the most of your time at Imperial and get to know the community you study and live in. By volunteering, you can make a difference to an issue you care about or ignite a passion you didn’t know you had; it will provide you with a wealth of skills outside of your academic life and is a great way to boost your employability. It’s flexible, hugely rewarding and gives you the chance to experience a new industry or sector – you can even gain an accreditation for your efforts through the Union’s Imperial Plus scheme or Imperial Hub’s Social Leadership Award.

@@ -36,4 +36,4 @@ The main advantage of using printers is their ease of conversion to printing dru
 
 This development is not completely without its flaws, however, with certain solvents having the potential to wreck havoc with the cartridge material. Common solvents used, water and water/ethanol mixtures, are fine, however other commonly used solvents may cause more trouble.
 
-__DOI: [10.1039/c2ce26519b](http://pubs.rsc.org/en/Content/ArticleLanding/2013/CE/c2ce26519b)__
+DOI: [10.1039/c2ce26519b](http://pubs.rsc.org/en/Content/ArticleLanding/2013/CE/c2ce26519b)

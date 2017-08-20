@@ -34,4 +34,4 @@ In a darkened room, about twenty duped individuals milled around looking at mach
 
 So that’s my take. Of the show itself, highlights included a blonde assistant, the fact that she was eastern-European and her acting ability. I was particularly impressed by how she didn’t laugh when she told some of her stories; a favourite of mine was how Einstein calculated the age of the universe after an ethometric sesh. Would I recommend it? Well I did leave happy, but a free beer will do that to you.
 
-[_The Ethometric Museum_](http://www.ocmevents.org/ocm/events/Ethometricmuseum) at __The Battersea Arts Centre__ on the 25 and 26 May. Tickets are £10.
+[_The Ethometric Museum_](http://www.ocmevents.org/ocm/events/Ethometricmuseum) at The Battersea Arts Centre on the 25 and 26 May. Tickets are £10.

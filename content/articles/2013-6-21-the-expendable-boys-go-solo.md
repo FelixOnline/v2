@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-__Bullet to the Head__
+Bullet to the Head
 
 The plot is almost irrelevant in Sylvester Stallone’s latest action vehicle. Sly is the good guy out for revenge after his partner is murdered during a devious double-cross, there are some bad people working with should-be-good but corrupt people looking to do some dodgy deals, and as the film’s title suggests, there are many exploding heads thanks to some excellent aim. Trust no-one, shoot anyone who gets in your way, preferably in the face, and walk away having completed your mission.
  It moves at a ridiculously quick pace, picking off one bad guy after another from a long list: Sly’s sidekick, Sung Kang, playing a police officer, has a knack for tracking people down with just a phone call. There’s friction initially, as James Bonomo (Stallone) is an assassin hired to hunt down and mercilessly kill for money, whereas Tyler Kwon (Kang) is a law-enforcer. There’s uncomfortable banter, Sly doesn’t have a problem taking jabs at Tyler’s Asian heritage, but soon they put their problems aside and it’s not long before the two start working together.
@@ -36,7 +36,7 @@ No one else truly matters here: the bad guys consist of Adewale Akinnuoye-Agbaje
 
 Bodies stack up, chaos ensues, and there’s plenty of carnage. And Stallone shows he’s still got it at the age of 60+. Director Walter Hill, known for his male-dominated action, churns out yet another competent but not at all special feature that serves well as a highly entertaining, mindless but stupidly fun ride. – 3 Stars
 
-__The Last Stand__
+The Last Stand
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210127-tna08-the-last-stand-2013-movie-still-image-schwarzenegger-kim-jee-woo.jpg" title="" caption="" attr="" >}}
 
@@ -52,7 +52,7 @@ Difficult to sit through is any sequence involvingGabriel Cortez, the antagonist
 
 But where the film feels most confident in is where there’s gunfire and explosions. Director Jee-Woon Kim doesn’t shy away from any preposterous ideas and chooses instead to embrace them, adding style and noise to give the full-on blockbuster experience. The film rarely takes any breaks, and as it works itself up to a much-needed showdown between Arnie and the villain, it pays off in a brutal yet satisfying sequence that shows off Arnie’s ever-lasting physical prowess.
 
-__Parker__
+Parker
 
 Jason Statham is no doubt a one-trick pony who is outstanding at what he does. He’s a moody-looking, moody-sounding Cockney Brit whose suave tough-guy act is difficult to match. His martial arts skills have always been captured well and because of this mix of qualities, no matter how useless the film, Statham has always come across as a reliable lead in whatever situation he’s placed in.
 

@@ -48,7 +48,7 @@ The Union is [currently carrying out a survey](http://www.surveymonkey.com/s/the
 
 “The future and form of the Summer Ball is, as it always has been, in the hands of our members and Student Officers. The results of [Felix's Summer Ball survey](http://felixonline.co.uk/summerball/) along with our own will form the first round of feedback we aim to collect before making a decision on the future of the ball.”
 
-__The Union's statement in full__
+The Union's statement in full
 
 _Our aim to sell over 3500 tickets was not realised. Based on expected commitments from other universities and a stronger lineup of acts 3500 attendees was considered achievable. Every effort was made to market and promote the ball to Imperial students and London-based students too. It is clear from the outcome of the ball that the assumptions made and research carried out were incorrect and insufficient. There were many unforeseen circumstances that contributed to the lower than expected income however these can't be solely blamed._
 

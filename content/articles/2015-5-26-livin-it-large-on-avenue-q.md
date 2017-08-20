@@ -53,6 +53,6 @@ This magic is rounded off by such inspired moments of genius as the Bad Idea Bea
 
 Credit must also go to whoever’s been responsible for ensuring that each theatre, alongside the usual strobe and haze warnings, have been putting up signs alerting audiences to instances of ‘mild puppet nudity.’ Consider yourselves warned.
 
-_This review is based on seeing the production at the __Mercury Theatre__, Colchester. Avenue Q was at the __Greenwich Theatre__ until 26th May, and is now continuing to tour the UK. Tickets from £20, available online._
+_This review is based on seeing the production at the Mercury Theatre, Colchester. Avenue Q was at the Greenwich Theatre until 26th May, and is now continuing to tour the UK. Tickets from £20, available online._
 
 For the record, I also saw _Avenue Q _while it was at Greenwich. I stand by everything I said for its stay at the Mercury.

@@ -36,4 +36,4 @@ The review will be presented to the Provost’s board on the 28th of March, in t
 
 If you would like to submit feedback to the panel, fill out the Union’s online form by Feb 6th:
 
-__http://tinyurl.com/icRER__
+http://tinyurl.com/icRER

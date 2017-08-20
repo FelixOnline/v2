@@ -37,9 +37,9 @@ Modern Zelda titles, although still good, just can’t compare to this original.
 
 Many of the Zelda games strived to be like _Ocarina of Time_ and merely couldn’t achieve the same results. Perhaps _Skyward Sword_, the new Zelda soon to be released on the Wii, which tells the story of where the Master Sword came from, and allows the player to have complete control of Link’s sword using the MotionPlus sensors on the WiiMote, will be the first of the series to truly compete with _Ocarina of Time_.
 
-__How to play it today__
+How to play it today
 
 Ocarina of Time was originally released on the N64, but if you don't have a copy lying around, how can you play it today?
- - Ocarina of Time was also released on the Gamecube. If you've got a Wii, you could pick up and play this version on __eBay__ for less than a fiver!
- - It's possible to download a __N64 emulator__ and ROM of the original game, but be aware that this is a legal grey area!
- - Or, wait a few months for when Nintendo releases a remastered version on the new __Nintendo 3DS__ - the same game but in 3D!
+ - Ocarina of Time was also released on the Gamecube. If you've got a Wii, you could pick up and play this version on eBay for less than a fiver!
+ - It's possible to download a N64 emulator and ROM of the original game, but be aware that this is a legal grey area!
+ - Or, wait a few months for when Nintendo releases a remastered version on the new Nintendo 3DS - the same game but in 3D!

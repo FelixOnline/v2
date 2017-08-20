@@ -52,7 +52,7 @@ Leggings/jeggings/treggings, regardless of what you call them, undeniably have t
 
 So should your backside be perfectly pert, I am by no means preventing you from giving the male population their eye candy, but for those wishing to keep their dignity having indulged somewhat more humanly over the break on comfort food instead of trips to the gym, opt to dress with a lengthy shimmering top à la Kate Moss in vintage Chanel or perhaps throw on a pair of treggings under this season’s favourite large jumper for an overall cosier effect as seen on Rumi Neely.
 
-### __GUYS: Roll long sleeves, burn short sleeves__
+### GUYS: Roll long sleeves, burn short sleeves
 
 Referring to formal short-sleeved shirts as opposed to the standard t-shirt, this section is the start of an attempt to ban the wearing of such items. If you are not yet aware of the risks of wearing such pieces – they hang on even the hunkiest of men in the most unflattering manner, then perhaps it is time you cleared out your wardrobe out and indulged in what women call ‘retail therapy’.
 

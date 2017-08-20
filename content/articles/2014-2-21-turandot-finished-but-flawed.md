@@ -23,15 +23,15 @@ highlights:
  - photos
 ---
 
-__What: __Turandot
+What: Turandot
 
-__Where: __Royal Opera House, WC2
+Where: Royal Opera House, WC2
 
-__When: __until 10th March
+When: until 10th March
 
-__Price: __Various
+Price: Various
 
-__P__uccini’s _Turandot _was “the end of the great tradition” of Italian opera. Ever popular, it is the grandest of them all, and yet it is deeply problematic. Set in a mythical China, at its simplest the tale concerns a Prince, Calaf, who wins the heart of the Princess of China, Turandot. However Turandot is proud – a symbol of the feminine of modern times, unwilling to make an object of herself through marriage. She has insulated herself from the world of men, and set a challenge; three riddles must be solved to win her hand, and the price of failure is death. The opera opens with the execution of an unfortunate prince, whose head is displayed with the many other trophies, yet somehow Calaf decides he has fallen in love with the icy Turandot.
+Puccini’s _Turandot _was “the end of the great tradition” of Italian opera. Ever popular, it is the grandest of them all, and yet it is deeply problematic. Set in a mythical China, at its simplest the tale concerns a Prince, Calaf, who wins the heart of the Princess of China, Turandot. However Turandot is proud – a symbol of the feminine of modern times, unwilling to make an object of herself through marriage. She has insulated herself from the world of men, and set a challenge; three riddles must be solved to win her hand, and the price of failure is death. The opera opens with the execution of an unfortunate prince, whose head is displayed with the many other trophies, yet somehow Calaf decides he has fallen in love with the icy Turandot.
 
 Calaf’s love for this inaccessible, even frightening, woman is difficult to understand or empathise with. Perhaps it is a narcissistic one – as a minister tellingly warns him that “Turandot does not exist! Only the Nothingness in which you annihilate yourself!” The insightful and complex psychology of these two characters are the greatest strengths of this work, and as Calaf passes the riddles we await with great anticipation what musical illumination of the soul will occur for us, as the dismayed cold Turandot is thawed by Calaf’s love.
 

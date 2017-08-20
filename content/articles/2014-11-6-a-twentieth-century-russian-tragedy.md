@@ -22,9 +22,9 @@ authors:
 highlights:
 ---
 
-_I__’ll give you my cheek you’ll want my breast. I’ll give you my breast you’ll want my badger. You’ll work your way down and nothing will stop you’._
+_I’ll give you my cheek you’ll want my breast. I’ll give you my breast you’ll want my badger. You’ll work your way down and nothing will stop you’._
 
-Opening on the 10th October, director Katie Mitchell returns to __The Young Vic__ in a production of Russian playwright Anton Chekhov’s final play, _The Cherry Orchard_. Set in 20th century Russia, the play follows an aristocratic Russian matriarch and her family in the midst of losing their beloved country estate along with its immense cherry orchard.
+Opening on the 10th October, director Katie Mitchell returns to The Young Vic in a production of Russian playwright Anton Chekhov’s final play, _The Cherry Orchard_. Set in 20th century Russia, the play follows an aristocratic Russian matriarch and her family in the midst of losing their beloved country estate along with its immense cherry orchard.
 
 Initially devised as a comedy, the play’s original director, Stanislavski, saw it more as a tragedy and it is this interpretation that influences Mitchell’s current portrayal. The set is cold and gloomy with the once grandiose house now haggard and poorly illuminated.
 

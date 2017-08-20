@@ -23,13 +23,13 @@ highlights:
  - longread
 ---
 
-__Almost every memorable moment as a GTA (Graduate Teaching Assistant) is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job. It’s been a rollercoaster first year as a GTA, and I’ve definitely learnt some valuable lessons (such as not to get too drunk the night before a field trip abroad), but I don’t think I did a bad job. Here are my highlights and lowlights of the year, as well as the best and worst experiences I had with GTAs when I was an undergrad. __
+Almost every memorable moment as a GTA (Graduate Teaching Assistant) is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job. It’s been a rollercoaster first year as a GTA, and I’ve definitely learnt some valuable lessons (such as not to get too drunk the night before a field trip abroad), but I don’t think I did a bad job. Here are my highlights and lowlights of the year, as well as the best and worst experiences I had with GTAs when I was an undergrad.
 
-### __The Best__
+### The Best
 
 ###
 
-__As A GTA__
+As A GTA
 
 1. Having my tutorial students ask whether I’ll be their tutor next year. Honestly guys, you made my year. I’ll do my best!
 
@@ -51,7 +51,7 @@ __As A GTA__
 
 10. Automatically gaining a whole load of friends (usually MSc students) to hang out with after a weekend of bonding on a field trip.
 
-__As A Student__
+As A Student
 
 1. The magic GTA who made Fluids make far more sense than the lecturer ever did
 
@@ -59,9 +59,9 @@ __As A Student__
 
 3. When my group project was saved by a GTA, when they really didn’t have to.
 
-### __The Worst__
+### The Worst
 
-__As A GTA__
+As A GTA
 
 1. Being approached and asked out by a student after class. Sure, we may be friends for the purpose of a class or a field trip, but you’re 18, there is zero chance that I will consider making you a regular part of my social life. Don’t embarrass me in front of my real friends!
 
@@ -83,7 +83,7 @@ __As A GTA__
 
 10. The many hours long, mindlessly boring, irrelevant training that we’re forced to sit through at the beginning of the year. The majority of us aren’t even responsible for imparting any original knowledge, why teach us to do it? It’s enough to put a naive PhD student off teaching for life!
 
-__As A Student__
+As A Student
 
 1. The GTA I had in my first year who would consistently ignore me, and talk only to my male lab partner, even when he was answering my questions. Last year, he hit on me. Not cool.
 

@@ -23,7 +23,7 @@ highlights:
  - longread
 ---
 
-The title of Michael Wynne’s latest work, _Who Cares_, is both deliberately provocative and perfectly explanatory of what the audience entering the __Royal Court__ have signed themselves up for. This production for the Jerwood Theatre Upstairs is less ‘state of the nation’ and more ‘state of the national health service’, a no-holds barred examination of how the NHS has fared, is faring, and will fare under the previous and future governments.
+The title of Michael Wynne’s latest work, _Who Cares_, is both deliberately provocative and perfectly explanatory of what the audience entering the Royal Court have signed themselves up for. This production for the Jerwood Theatre Upstairs is less ‘state of the nation’ and more ‘state of the national health service’, a no-holds barred examination of how the NHS has fared, is faring, and will fare under the previous and future governments.
 
 The play poses a series of striking questions, the first of which is nothing to do with the NHS, but is instead ‘where the hell am I going?’ Ostensibly taking place in the Court’s studio theatre, the show actually kicks off by queueing in the alley next to the theatre, between it and the rehearsal/office building located next door.
 

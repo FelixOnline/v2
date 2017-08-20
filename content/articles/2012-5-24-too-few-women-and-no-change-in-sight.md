@@ -31,7 +31,7 @@ highlights:
 
 If you like your Felix lighthearted, you may want to turn the page, because this article is anything but. The seeds of my piece were planted when I heard that one of my friends was planning to attend [CodeF](http://www.ukcodef.com/), a Google networking event ‘exclusively for female computer scientists’ attending top universities here in the UK. These kind of events are commonplace at Imperial, women-only events meant to encourage female scientists and engineers to apply to the top jobs in the country, jobs that are skewed heavily towards men. Unfortunately, these firms are fighting a battle that is very near lost in a fashion that places gestures over results. The losers are not the women already at Imperial, but the many women who will be turned away before they even get the chance to wine and dine with Britain’s best.
 
-__An opportunity lost__
+An opportunity lost
 
 The information revolution is the first major ‘revolution’ to have occurred after women’s rights rose to prominence. It was as such an excellent opportunity to start off with an attempt at gender equality. Looking at where we are now, however, it is obvious that this mission (if it ever existed) has failed. Imperial is split 65%-35% between men and women, while the ratio in Computing is almost certainly worse.
 
@@ -45,7 +45,7 @@ The mission to motivate them into graduate technology is arguably not as vital, 
 
 {{< figure src="http://felixonline.co.uk/img/upload/201205250025-mc4509-w.png" title="Startup Sqoot learnt a hard lesson the in consequences of advertising women as a ‘perk’" caption="Startup Sqoot learnt a hard lesson the in consequences of advertising women as a ‘perk’" attr="" >}}
 
-__Forcing an attitude change__
+Forcing an attitude change
 
 The first port of call needs to look at our children, and the influences they receive. Toys and games play a huge role here. [The blogger Kate Bachus](http://www.katebachus.com) takes the brilliant example of Lego sets. Those targeted at boys are a magnitude more complex than those targeted at girls of the same age. Skills you learn on Lego sets are pretty much the exact same ones you apply when problem-solving in programming, and it’s hard to imagine girls having an interest in the latter when they are never challenged by the former.
 
@@ -54,7 +54,7 @@ Setting toys aside, games are another area where women are almost unconsciously 
 Now that we have girls interested in programming, how do we get them to put that down on their UCAS forms? This problem is more complex, but I suspect a lot of it boils down to representations of programmers in the media. I can think of only two major productions where the techie is a woman: _The Girl with the Dragon Tattoo_ and the American drama _Criminal Minds_. The majority (_CSI_, _The Social Network_, _Swordfish_, or virtually any major production with the need for an IT professional) all portray the person behind the computer as an awkward male with a one-dimensional personality.
  Even before you begin to delve into the expectations placed on women, you have to ask, who wants to be that man? I certainly don’t. That we have any women applying to work behind a moitor should amaze us.
 
-__Clawing back some equality__
+Clawing back some equality
 
 The truth is, a brilliant opportunity to turn the tables on ingrained sexism at our universities and workplaces was lost some time ago, probably before our generation was born. Instead, we start off with the same representation of gender as we have in the other, older fields of engineering (Meccano for boys, Barbies for girls, anyone?), and the smelly, antisocial male programmer as our protagonist. Is the fact that we end up with abysmal numbers of women in the field any surprise?
 

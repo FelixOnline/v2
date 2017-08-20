@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First female Vice-Chancellor
 date: "2012-01-12 21:54:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
+image: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckinghamxd.jpg"
 headline: true
 featured: true
 imported: true

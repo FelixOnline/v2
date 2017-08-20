@@ -26,13 +26,13 @@ highlights:
  - comment
 ---
 
-__UK e-borders scheme deemed ineffective:__
+UK e-borders scheme deemed ineffective:
 
 Reports have suggested that the £500m ‘e-borders’ programme propelled by the Home Office has not been very effective in dealing with migrants who are said to be potentially dangerous. This scheme, which took 10 years to develop, was made to ensure that ‘high risk individuals’ such as criminals and terrorists would not be able to re-enter into the UK. The idea was for the passengers to provide their personal details to the airlines such that the individuals would be prevented from boarding the planes themselves. However, only 2 airlines have signed up for the pre-departure screenings which are essential for such a system to work.
 
 The scheme was meant to track the movement of 100% of the passengers moving in or out of Britain but only manages to track about 65% of such passengers. To ensure the movement of terrorists and other non-state actors, the tracking of all passengers is essential. The report also expanded upon the ‘poor quality of data’ collected from the e-borders system. The UK Border Agency is said to be the most technologically advanced in Europe but has clearly shown areas where improvement is necessary. The main reason for lack of data collection is said to be because of a lack of tracking on European routes. Also, the lack of e-borders system at sea and on trade routes has made the system seem more ineffective. The full report is, however, not in public domain. The people who have published this report have also put forward some positive findings. They state that the e-system has been effective in capturing criminals who have serious charges such as those of rape and murder on their heads.
 
-__Libya intensifies pressure on USA:__
+Libya intensifies pressure on USA:
 
 There is anger in Libya over the US capture of a suspected Al Qaeda leader. The man named as Abu Anas Al-Liby was wanted for his connection in the bombings in Tanzania and Kenya of US embassies in 1998. US defence secretary, Chuck Hagel, commended the raid and stated that this showed how America would spare ‘no effort to hold terrorists accountable’.
 
@@ -44,7 +44,7 @@ The Libyan government, however, feels that this event will not erode relationshi
 
 This raid has angered terrorist groups who have asked for some retaliation.
 
-__Hamid Karzai criticizes NATO forces:__
+Hamid Karzai criticizes NATO forces:
 
 NATO combat forces are planning to leave Afghanistan in 2014. There are still 80,000 NATO forces in Afghanistan that will be gradually retracted. Hamid Karzai does not seem to see these forces as being beneficial in his country.
 
@@ -54,7 +54,7 @@ This view, however, has brought forward criticism from people around the world. 
 
 This is not the firwst time that Karzai has made such controversial claims. He has tended to show animosity towards western forces in the past in various speeches and interviews.
 
-__EU proposes Mediterranean Sea patrols:__
+EU proposes Mediterranean Sea patrols:
 
 On October 3, a migrant boat was shipwrecked off the coast of Lampedusa in Italy. The incident resulted in the death of 274 people and the captain of the ship being detained. This has resulted in the European Commission requesting the EU to undertake search and rescue operations in the Mediterranean. Italian Interior Minister, Angelo Alfano, supported the proposition and stated that more has to be done to save lives.
 

@@ -23,7 +23,7 @@ highlights:
  - photos
 ---
 
-Simons Stephens ranks as one of Britain’s most prolific playwrights, which makes it no surprise that, fresh off the run of _Birdland_at the __Royal Court__ last summer, he’s already back in the theatre with _Carmen Disruption_, a musing on life, love and loss in an unnamed European city.
+Simons Stephens ranks as one of Britain’s most prolific playwrights, which makes it no surprise that, fresh off the run of _Birdland_at the Royal Court last summer, he’s already back in the theatre with _Carmen Disruption_, a musing on life, love and loss in an unnamed European city.
 
 As the title suggests, _Carmen Disruption _follows (somewhat loosely, truth be told) the structure of Bizet’s opera, using the characters and themes of that work to examine the life of an opera singer, travelling from country to country, always playing the same role – always playing Carmen.
 
@@ -43,6 +43,6 @@ The play’s composition is part of this allure – none of the characters direc
 
 > "The set is a literal deconstruction of the environment, of both Carmen and the unnamed city."
 
-And all of that is before you get to the set. The live music may have been a bold move, but the set is an even bolder one – a literal deconstruction of the environment, of both _Carmen_ and the unnamed city. A bull, presumably the one killed in _Carmen__’s_ climax, is sprawled centre-stage. All around it, rubble.Bricks, scattered across the space. The rear wall and wings of the theatre are fully exposed, with the mechanisms of theatre – the lights, the speakers, the cables that run between them, all on fully display. It’s a stark image, unlike almost any other on London stages. It goes beyond a kind of minimalism, moving from an emptiness to a physically crumbling theatre. At one point, rubble even falls from the ceiling. This, combined with the music and the performances, which display intense emotion mixed with a disconnected distance – from each other, and from the world at large – is what makes _Carmen Disruption _a truly memorable experience. The imagery of the show is burnt onto your retinas, the music lingers in your ears, and _Carmen _is truly reborn.
+And all of that is before you get to the set. The live music may have been a bold move, but the set is an even bolder one – a literal deconstruction of the environment, of both _Carmen_ and the unnamed city. A bull, presumably the one killed in _Carmen’s_ climax, is sprawled centre-stage. All around it, rubble.Bricks, scattered across the space. The rear wall and wings of the theatre are fully exposed, with the mechanisms of theatre – the lights, the speakers, the cables that run between them, all on fully display. It’s a stark image, unlike almost any other on London stages. It goes beyond a kind of minimalism, moving from an emptiness to a physically crumbling theatre. At one point, rubble even falls from the ceiling. This, combined with the music and the performances, which display intense emotion mixed with a disconnected distance – from each other, and from the world at large – is what makes _Carmen Disruption _a truly memorable experience. The imagery of the show is burnt onto your retinas, the music lingers in your ears, and _Carmen _is truly reborn.
 
 _Carmen Disruption is at the Almeida Theatre until 23rd May._

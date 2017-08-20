@@ -63,9 +63,9 @@ Nicolas concluded by saying how much Georg will be missed. “Georg’s passing 
 
 “And as long as we remember Georg he will live his dream through us”.
 
-__–__
+–
 
-### __Friend and roommate Jonathan: "I will never stop missing him"__
+### Friend and roommate Jonathan: "I will never stop missing him"
 
 _"Georg was my roommate, but more than that, he was my friend. He was a brother to me and I loved him; he had an infectious passion for his subject, for his friends, and for everything in-between. _
 
@@ -79,11 +79,11 @@ _He was one of the most authentic people I have ever met, always giving his hone
 
 _The last words I ever said to him were "Good morning", and the honest truth is that ever since I've woken up without him in the room, the phrase hasn't been true when I say it. My heart is broken and I will never stop missing him." _
 
-__JONATHAN MASTERS__
+JONATHAN MASTERS
 
-__–__
+–
 
-__A few words from Welfare__
+A few words from Welfare
 
 People experience grief in different ways. It can take a long time to come to terms with death, and to seek help is a very positive and important step.
 
@@ -93,9 +93,9 @@ You can speak to your personal or senior tutor, your warden if you are in a hall
 
 Georg was a popular member of our community, and the Union sends its heartfelt sympathies to his family and friends
 
-__CHRISTOPHER KAYE, DEPUTY PRESIDENT (WELFARE)__ _dpwelfare@ic.ac.uk_
+CHRISTOPHER KAYE, DEPUTY PRESIDENT (WELFARE) _dpwelfare@ic.ac.uk_
 
-__–__
+–
 
 Samaritans (24 hr helpline):
 
@@ -107,4 +107,4 @@ Student Counselling Service:
 
 Phone: 020 7594 9637
 
-e-mail:_ _counselling@ic.ac.uk__
+e-mail:_ _counselling@ic.ac.uk

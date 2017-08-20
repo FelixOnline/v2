@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-An empire can be measured not by the length of its borders, or by the riches of its lands, but by the quality of its sculptures. At least, this is what the __Tate Britain__ is trying to argue, with its newest exhibition _Sculpture Victorious_, an ode to the golden age of British sculpture. Actually, perhaps that first sentence should be amended to read “the quantity of its sculptures”, since it was during the Victorian era that the country experienced a surge in sculpture production, unprecedented in its history, which culminated in the reconstruction of the Palace of Westminster, destroyed in a fire a couple of years before Victoria came to the throne.
+An empire can be measured not by the length of its borders, or by the riches of its lands, but by the quality of its sculptures. At least, this is what the Tate Britain is trying to argue, with its newest exhibition _Sculpture Victorious_, an ode to the golden age of British sculpture. Actually, perhaps that first sentence should be amended to read “the quantity of its sculptures”, since it was during the Victorian era that the country experienced a surge in sculpture production, unprecedented in its history, which culminated in the reconstruction of the Palace of Westminster, destroyed in a fire a couple of years before Victoria came to the throne.
 
 We start with the lady herself: two busts of Victoria, done 48 years apart. In the first, by sculptor Sir Francis Chantrey, the young monarch looks out with a confrontational stare, her dress exposing one shoulder; in the second, Alfred Gilbert, who wasn’t even born when Victoria came to the throne, portrays her as the matriarch of an empire, her eyes heavy and tired, trussed up in lace like a swaddled infant.
 

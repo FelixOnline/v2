@@ -40,6 +40,6 @@ After I had gotten over the initial silliness that was the ragdoll mode, kicking
 
 The achievements on the other hand weren’t too bad, and I actually found achieving most of them quite enjoyable. Sadly there wasn’t actually much of them, or content in general. I think I finished the entire game in a bit 2 hours, and that includes me dicking about.
 
-What I have to say is that this game is actually incredibly broken. I found several ways to completely crash the game, get myself stuck in such ways that I had to restart! Also, the obvious advertising for __GAME__ was really jarring and put me off playing a bit.
+What I have to say is that this game is actually incredibly broken. I found several ways to completely crash the game, get myself stuck in such ways that I had to restart! Also, the obvious advertising for GAME was really jarring and put me off playing a bit.
 
 My advice is for you give this one a miss. Even if it is free it really isn’t worth the effort. Just go into a game store for the same experience, and you may actually be able to buy a proper game!

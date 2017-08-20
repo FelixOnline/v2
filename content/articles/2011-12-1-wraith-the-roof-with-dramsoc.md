@@ -34,4 +34,4 @@ Over in the Western Realm, things are more farcical still. James Goodchild strut
 
 The specials effects are innovative to say the least and give _ODAM _an unpretentious charm, best exemplified when a climactic fight scene is paused as Mrs. Bowman hands out Ribenas. The script, whilst a little long, is well written, with echoes of _Monty Python’s Holy Grail_ as well as moments of real original comedy. DramSoc is clearly alive and w ell at Imperial, and most important of all, it’s got a good sense of humour.
 
-__Of Dice and Men plays tonight and tomorrow, Union Concert Hall, £5 in advance for students, £7 otherwise.__
+Of Dice and Men plays tonight and tomorrow, Union Concert Hall, £5 in advance for students, £7 otherwise.

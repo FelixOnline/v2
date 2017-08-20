@@ -30,7 +30,7 @@ It’s two days before your first exam.As the last minute panic starts to set in
 
 To all those serial highlighting offenders out there: read on to find out how to go from cramming zero to cramming hero. This is a guide to thegood, the bad and the ugly of studying techniques.
 
-__The Good__
+The Good
 
 You envy the person who takes revisionin their stride. (Or maybe you are that person, in which case – congratulations!) But with these few tips you should breeze through your studies like you are as cool as Vanilla Ice (baby).
 
@@ -42,7 +42,7 @@ But wait a second. Before you start heading over to your tutor’s office to qui
 
 Another method that can help “practice testing” is the use of flashcards –as you are forced to recall information from memory. And in yet more good news, if getting all arts and crafts and making flash cards is not your style you’ll be pleased to hear that there are now digital app versions of flash cards such as Quizlet, StudyBlue and FlashCardMachine. Pretty sweet.
 
-__The Bad__
+The Bad
 
 You know the bad already. You just don’t want to admit that you know. I’ll make it short and painless. Things not to do when studying:
 
@@ -58,7 +58,7 @@ You know the bad already. You just don’t want to admit that you know. I’ll m
 
 Of course these methods may work for some people. But in general, highlighting can draw you attention to specific facts and decrease your ability to draw connections between different areas. Reading, I assume, can be good for some people. However half reading, half day-dreaming about what you’re going to do after exams have finished is probably not ideal. It may be a bit surprising that summarising is on this list of what not to do. An often endorsed method is shunned by the authors of the report as they claim that there are more effective ways to best utilise study time. You got told.
 
-__The Ugly__
+The Ugly
 
 To say these techniques are ugly is slightly misleading. They are actually the techniques that are not especially effective, but not completely crap. But the good, the bad and the medium doesn’t have quite the same ring to it so here goes: the ugly.
 

@@ -31,7 +31,7 @@ It’s late night on Halloween, and you and a group of friends are walking home 
 
 Oops, it seems like you’ve inadvertently walked into the scenes of a horror film. If you’re going to survive the night, you’d better follow my advice.
 
-__Be ____the ____right ____person__
+Be the right person
 
 First off, to survive you need to make sure that you’re the right character. Everyone knows that it’s the blonde bimbo in eight-inch heels, and an inappropriately small amount of clothing for the time of year, that goes first. So make sure you have a pair of sensible shoes for running on, and try to care more about your life than breaking a nail.
 
@@ -39,7 +39,7 @@ Next up as a victim, it’s probably either the jock or the outsider – the alp
 
 If you’re a girl, your best bet for survival is to be the meekly pretty virgin with a bit of backbone that will tell the guy chasing you that they’re evil, or crazy, or a murderer, then run for the hills. If you’re a guy, being the romantic interest is probably your best bet. Even evil, crazy murderers are romantics at heart.
 
-__Go to ____the ____right ____place__
+Go to the right place
 
 Congratulations, you’ve managed to be the right person and survive the first couple of killings, but you’ve got a while to go before you’re safe. You need to find a good space to hide and wait until morning. Unfortunately it’s fast approaching three in the morning and anyone in there right mind is going to asleep, or at the very least ignoring the crazy sounding person banging on their door screaming about a killer.
 
@@ -49,7 +49,7 @@ Try not to go anywhere that is imbued with history either. Though you may manage
 
 I hear that hotels are quite nice places to spend the night, why not see if you can find one?
 
-__Things you shouldn’t do__
+Things you shouldn’t do
 
 Don’t have sex. If you do, you will die almost immediatly, if not during. Everyone knows that the couple who have sex are always the next ones to die. Why not fill your time with useful things like trying to escape instead?
 

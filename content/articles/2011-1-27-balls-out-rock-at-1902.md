@@ -29,7 +29,7 @@ I still believe there is hope yet for rock. Even more so when I meet unsigned ba
 
 We spoke about the deploring state of rock, bands they dig and what they’ll bring on February 19th, when they headline Felix’s Music Night, 19.02.
 
-__What kind of music did you guys set out to make?__
+What kind of music did you guys set out to make?
 
 Tobias (guitar, vocals): Initially we were just two guitarists writing music, which turned out as guitar rock. And gradually we’ve been fighting against everything that guitar rock means.
 
@@ -43,7 +43,7 @@ Andy: It’s just something that people are always going to be able to relate to
 
 James: I think I’m kind of fed up with rock at the moment because it’s just so not rock. When you’re a rock drummer, you get on stage and you get topless and you smash the drums as hard as you can. So many bands now are boring. They’re not even doing anything musically interesting, and they look bored on stage.
 
-__What are some of your influences?__
+What are some of your influences?
 
 Tobias: It’s weird how our influences work, because I can tell you some of my favourite bands, Andy’ll tell you his, James’ll tell you his and they’ll be so different but we can have points at which the reasons why we like them are the same. One band that me and Andy really like is Radiohead, because every song is unique and exiciting in its own way. But then I like kind of hardcore punk stuff, from the schizoid stuff of Blood Brothers, to the nuts-out weird vocals of Future of the Left. And the balls that you get from that kind of rock. Mixed in with some of the intricacies, and the openness, and the textures of some of the indie bands. Wild Beasts have a really great open kind of feel to them… but with the balls. I think the balls are what people are missing. Just the cojones man. Cojones!
 
@@ -51,7 +51,7 @@ Andy: I guess we try and bring the fun element of bands that are gonna make you 
 
 Tobias: We’ve shifted our focus from “I like playing that. I’ll play my good part.” to saying just “How does this make me feel?”. And that’s what music’s about. Making people feel something. Whether it’s about making people feel scared, happy and elated or making them just want to boogie their arse off. That’s what we want to do. It’s liberating in a way because you’re not worried particularly about what you’re playing, you’re just in the moment, enjoying it. I think we’re working out if you can’t make something good with four chords, and one time signature and rhythmic feel, then you’re not going to make something good that has a million of them. We’ve learnt to restrain ourselves, and just try to make good music that’s there for itself and for people to listen to.
 
-__What will you guys bring to 19.02?__
+What will you guys bring to 19.02?
 
 Tobias: We can bring a shitload of energy. We’ll just be nuts, and make people want to jump up and down.
 

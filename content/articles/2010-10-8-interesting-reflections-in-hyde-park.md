@@ -36,4 +36,4 @@ All four sculptures are made of highly polished stainless steel. They reflect th
 
 The reflections of the sky remind you just how much sky there is visible already in Hyde Park and the sheer shininess of it is very satisfying. Kapoor himself, who says he walks in Hyde Park frequently, was keen to point out how much the sculptures will change with weather and viewer. I went back on a different day and all four really were transformed by the afternoon light and shifting clouds. They are pieces to admire again and again.
 
-__Turning the World Upside Down runs until 13 March 2011__
+Turning the World Upside Down runs until 13 March 2011

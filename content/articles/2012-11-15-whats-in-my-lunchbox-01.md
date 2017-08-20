@@ -56,7 +56,7 @@ The other important vessel is what you’ll be transporting your soup in for tha
 
 If you’re really cheap, wide-mouth Mason jars that are used for jam/honey will work if you’re using it to store frozen soup portions, and have access to a microwave (just leave room for expansion during freezing.) Take out the frozen soup jars in the morning, bag them, and then reheat until piping hot during lunch.
 ## Cream of mushroom soup with crispy bacon bits recipe
-__Ingredients:__
+Ingredients:
 
 4 rashers bacon, rind off and chopped into small bits (both streaky and back bacon are fine) -– optional garnish
 
@@ -78,7 +78,7 @@ Oregano and parsley (dried is okay)
 
 Oil or butter for frying
 
-__Bacon garnish:__ Heat up a small amount of oil in a frying pan, then bung in the bacon bits and fry until crisp. Remove and set aside on paper towels to drain.
+Bacon garnish: Heat up a small amount of oil in a frying pan, then bung in the bacon bits and fry until crisp. Remove and set aside on paper towels to drain.
 
 Saute the onion, garlic and mushrooms in oil/butter until fragrant, soft and just starting to colour. Sprinkle the flour on and stir until evenly mixed, then add stock and milk. Bring to the boil, then let simmer for up to 30 minutes (you’ll see it thicken up nicely.) Taste and adjust seasoning – add some oregano at this stage.
 

@@ -21,7 +21,7 @@ highlights:
  - longread
 ---
 
-__Dear Rector,__
+Dear Rector,
 
 We, the students of Imperial College London, are alarmed and strongly against the Life Science Restructure. We feel that the planned restructure will cause significant disruption to student life within Life Sciences. If it goes ahead, Imperial will damage its reputation for excellence in teaching and research. This move, and the manner in which it has been handled are not in the students’ best interest.
 
@@ -35,7 +35,7 @@ If these matters cannot be resolved, then the student body should make its displ
 
 This letter has 376 signatures at the time of writing.
 
-__Dear Sirs,__
+Dear Sirs,
 
 I have been shocked and upset at the details that have emerged this week of the Life Sciences ‘restructuring’. Particularly, the loss of Senior tutors, which will greatly affect the pastoral support available for students.
 
@@ -49,7 +49,7 @@ I know of many other present students and Life Sciences graduates who have also 
 
 Francisca Sconce, MRes student, Silwood Park campus
 
-__Dear Sirs,__
+Dear Sirs,
 
 I came to university to get an education, not fund research! Yet Imperial thinks it acceptable to callously dismiss some of the best teaching staff in the department. I think the fact that among others, the admissions tutor is going, tells you all you need to know about Imperial’s attitude towards undergraduate studies.
 
@@ -61,7 +61,7 @@ Imperial is making a grave error in sacking many of the staff in biochemistry wh
 
 Guy Needham (2nd year biochemistry student)
 
-__Dear Sirs,__
+Dear Sirs,
 
 I must address some of the points raised by Mr Davies [in last weekís article entitled ìFlee! Flee the St John Ambulance Service!î] I stress that these are my personal views.
 

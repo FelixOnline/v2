@@ -27,38 +27,38 @@ highlights:
  - comment
 ---
 
-__Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now. __
+Voting is now open! Click [here ](https://vote.union.ic.ac.uk/)to take part now.
 
-__Already voted? Take part [in our exit poll](https://jfe.qualtrics.com/form/SV_71CXNNVEGt94h2R) to tell us who you voted for! __
+Already voted? Take part [in our exit poll](https://jfe.qualtrics.com/form/SV_71CXNNVEGt94h2R) to tell us who you voted for!
 
-__What made you run for this position?__
+What made you run for this position?
 
 Working within the RCSU, as a Constituent Union, has been one of the highlights of my time at Imperial. I also feel the Union has made my time at Imperial unforgettable - from some (very!) memorable metric nights to playing netball for ICUNC.
 
 I’ve spoken to lots of students as a result of my involvement; home and international, undergraduate and postgraduate, IC and ICSM; I became aware that there are many things that can be improved within the Union. Since listening to these views I’ve had ideas on ways these opinions, views and improvements can be achieved and realised that I feel I would have a lot to offer in a role as Union President.
 
-__What is the main change you would like to implement if elected?__
+What is the main change you would like to implement if elected?
 
 I was very surprised that only 71% of Imperial students felt the Union was the voice of the students. This should be 100%, especially at a world-class institution; after all that is what the Union is there for! My main aim would be to increase this percentage. There needs to be improvement.
 
 I would amplify the student voice through ensuring the students feel fully supported by the Union in all aspects. Whether that is through implementing a consultation platform for students to express their views before decisions are made, or making postgraduates feel more included. The Union should be able to represent and provide for all students.
 
-__What is your favourite thing about Imperial?__
+What is your favourite thing about Imperial?
 
 The people! I’ve met some truly fantastic people and made some great friends during my time at Imperial, all with different interests from all 4 corners of the world. Everyone I’ve met has introduced me to new opportunities and great experiences, within Imperial and outside in London. This is one of the major advantages of getting involved in the Union, as I’ve met many of these people through Union clubs and societies. Friends made recently or on the first day of Imperial have most definitely made my time here extremely enjoyable.
 
-__What is the biggest challenge you foresee in the next year?__
+What is the biggest challenge you foresee in the next year?
 
 I think the biggest challenge would be dealing with issues that may come up spontaneously or ‘out-of-the-blue’, and having to deal with the repercussions of these. As these don’t come with training they can be the biggest challenges as you have to learn on the job and cannot be pre-prepared. However, I believe I am a level headed person and understand the importance of working closely with the deputy-presidents to overcome any unexpected challenges; holding the best interests of the students at heart.
 
-__How do you plan to take a leading role in Union Council if you have never attended a meeting before?__
+How do you plan to take a leading role in Union Council if you have never attended a meeting before?
 
 As a member of the RCSU Executive Committee I have been fully informed and aware of the format and processes within Union Council and I intend to seek further advice from the current president and other members of the Council. Despite having not attended a Union Council meeting I will focus on learning the entire ‘ins and outs’ of the council long before the first meeting so I am completely prepared. I have also learnt the important skills involved with taking a leading role within meetings, through chairing the RCSU Entertainments Board this year.
 
-__Nearly every event could be argued as integrated undergraduate/postgraduate events, how do you specifically plan to engage with postgraduates? __
+Nearly every event could be argued as integrated undergraduate/postgraduate events, how do you specifically plan to engage with postgraduates?
 
 I think postgraduates feel Union events are heavily weighted in the direction of undergraduates, and therefore may not feel welcome. Having spoken to postgraduates themselves there seems to be a unanimous view that they do not feel Union events are tailored to them at all and importance in ‘pleasing’ students heavily revolves around undergraduates. I think it is extremely important to build relationships between undergrads and postgrads, aiming to start the building blocks through smaller events, such as the Union pub quiz; where publicity for the event can be equally pointed towards both groups of students and form merging teams.
 
-__We already have a consultation framework, why do you feel there is a need to implement a “consultation platform?”__
+We already have a consultation framework, why do you feel there is a need to implement a “consultation platform?”
 
 Having spoken to a number of current students there is a feeling that the Union sometimes implements motions without first consulting the students or clubs involved. Via this platform, I plan to make sure that anyone that would be affected by any decision is consulted first, to at least make sure they are fully prepared for any changes and can give their opinions on it in a constructive manner. This ties in with my aim to increase the student voice and for students to feel the Union are working completely in the students’ interests.

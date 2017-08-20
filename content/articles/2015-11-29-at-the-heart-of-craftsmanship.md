@@ -28,4 +28,4 @@ With no soundtrack, other than the occasional strain of a classical concerto com
 
 Throughout, the footage is interspersed with footage from the 1960s; lost-wax casting is passed down by oral tradition, and – as the black and white clips show – the only thing to have changed is the approach to health and safety. Although– spoiler alert – the life-size dog sculpture produced at the end is fucking hideous, _Hand Gestures_ serves as a powerful visual link to the past. But the line between pensive and ponderous is a narrow one, and while _Hand Gestures_ just about manages to remain entertainingly reflective, it did push this sleep-deprived reviewer to the limit.
 
-__Final Verdict: 2.5 Stars__
+Final Verdict: 2.5 Stars

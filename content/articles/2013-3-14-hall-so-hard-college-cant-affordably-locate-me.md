@@ -30,11 +30,11 @@ highlights:
 
 Here is a serious question: is it really 10 million pounds to refurbish Evelyn Gardens? If it is then that is surely worth it. 10 million pounds for thousands of students’ welfare? It is a lot of money to us, but not to a big institution like Imperial. They made ten times that much in just one year. Of course it’s not as simple as that as they are investing in other things, but surely student welfare, and the chance for all students to be able to have a great experience, is worth it? On the subject of Garden Hall, what more can be said: a lot of students have got behind the campaign. They’ve really gone all out on this, and the message to College is clear: it is the most oversubscribed hall, it is cheap and close to campus, it is what students want. You wanted student input, you got it.
 
-__New Campus__
+New Campus
 
 [The new campus has been launched](http://felixonline.co.uk/news/3460/imperial-launches-new-campus/). This is for postgrads only. Much excitement for all as BoJo was chilling with the Rector and I was forgetting to bring my camera card. The fact that I felt a bit underdressed aside, this could be something great for Imperial – that is, if we use it wisely. The aims of it are to built an excellent research centre (obviously, why would you aim to build a shit one?) that turns research into a money making venture. Whilst that statement may be so souless that it will probably be cast in any new Twilight movies, it doesn’t have to be all bad. Making money isn’t in and of itself an evil thing. It’s what you do to make money that can become a bit sketchy. It is worrying as this ideology of making money from science could lead to more catastrofucks like the [Life Sciences cuts](http://felixonline.co.uk/news/547/opposition-to-life-sciences-cuts-grows/) that happened two years ago. I am worried that researchers will feel on edge, and as though they must immediately be showing some kind of amazing money spinner from their research. The truth is that science for science’s sake often produces that result. What I’m saying is this: we can’t go bankrupt, but let the scientists breath a little bit. Don’t let them carelessly throw away heaps of money, sure, but don’t straightjacket them.
 
-__BUCS, Elections, and exams__
+BUCS, Elections, and exams
 
 [A quick word on BUCS](http://felixonline.co.uk/news/3456/medics-to-stage-protest-over-bucs-decision/): it isn’t broke, why are they fixing it?
 

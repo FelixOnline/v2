@@ -32,7 +32,7 @@ The groups competing are The Techtonics (all male), Imperielles (all female) and
 
 “The fact that we’re hosting has given everyone a massive boost, compared to what we had at Voice Festival... it’s nice to have the home advantage, you’ve got the home crowd. I think that will go a very long way in the results. I mean, who knows what group, if any, will win.”
 
-Following the competition, the winning group will go on to compete in the Final at New York’s Beacon Theatre in April. They will follow in the footsteps of Birmingham University’s __Sons of Pitches__, who won the International video round in 2013. The group has since released their debut EP, _Not Too Shabby_, and will be MC’ing the event and giving a guest performance.
+Following the competition, the winning group will go on to compete in the Final at New York’s Beacon Theatre in April. They will follow in the footsteps of Birmingham University’s Sons of Pitches, who won the International video round in 2013. The group has since released their debut EP, _Not Too Shabby_, and will be MC’ing the event and giving a guest performance.
 
 “The excitement’s definitely building. There’s been a kind of...issue surrounding the ticket pricing... there are quite a few extra charges. Having chatted to people who’d done it before, I requested paper tickets... it’s been good having a lot of them at the list price”.
 

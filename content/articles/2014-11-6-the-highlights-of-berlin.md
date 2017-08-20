@@ -31,23 +31,23 @@ On one hand you have the centuries old Berliner Dom built in Renaissance style n
 
 Having spent a month in Berlin, I couldn’t help but fall in love with this metropolis complete with its multi-national inhabitants. Despite my best efforts, I couldn’t visit everything I wanted to, but here are some of my top five most frequented hangouts:
 
-__Tempolhofer Park__
+Tempolhofer Park
 
 A former airfield that was still in use until 2008, this endless stretch of criss-crossing tarmac paths is now an unofficial park beloved by Berliners. With over 300 hectares of ground, it is pretty safe to say that you won’t have to worry about not finding a free spot. With the fenced off terminal at the side and numerous abandoned planes scattered around, there’s plenty for you to explore.
 
 The best way to do so is to rollerblade or cycle; it’s not every day you get to whiz down an airport runway, or have a barbeque while you watch people paraglide.
 
-The park also hosts various pop-up events; during my visit there was a modern art mini golf installation, right next to a horticulture corner run by a local University. High profile events such as the Berlin Marathon and the __Popkomm__ (during Berlin Music Week) were also held there.
+The park also hosts various pop-up events; during my visit there was a modern art mini golf installation, right next to a horticulture corner run by a local University. High profile events such as the Berlin Marathon and the Popkomm (during Berlin Music Week) were also held there.
 
 The only downside of this park is that it’s not easy to reach from; you have to walk quite a distance with no signs to direct you. Therefore it’s recommended that you studied your route or print out a map in preparation for your visit.
 
-__Tempelhofer Field, 12099 Berlin__
+Tempelhofer Field, 12099 Berlin
 
-__Station: U6 Tempelhof or U7 Südstern__
+Station: U6 Tempelhof or U7 Südstern
 
-__Free entry__
+Free entry
 
-__Biergartens and Beach Bars__
+Biergartens and Beach Bars
 
 It would be a shame for you to visit Berlin and not indulge yourself in the favourite drink of the nation.
 
@@ -61,21 +61,21 @@ Despite my inability to figure out why Berliners are so obsessed with sand, beac
 
 Often situated next to the river, or in some cases on a rooftop, you will find rustic wooden benches and deckchairs scattered across sandpits and raised platforms, not unlike those you find in popular seaside destinations. Some of the more dedicated bars even have a hot tub for its guests and in those next to a river or a lake many of the punters would venture in for a swim in the summer months.
 
-__Cassiopeia Biergarten__
+Cassiopeia Biergarten
 
-__Address: Revalerstr. 99 10245 Berlin__
+Address: Revalerstr. 99 10245 Berlin
 
-__Station: M13 Simplostraße/ U Warschauer Str__
+Station: M13 Simplostraße/ U Warschauer Str
 
-__Deck5 __
+Deck5
 
-__Address: Schönhauser Allee 79, 10439 Berlin __
+Address: Schönhauser Allee 79, 10439 Berlin
 
-__Station: U2 Schonhauser Alle__
+Station: U2 Schonhauser Alle
 
-__Open: 10:00 – 00:00__
+Open: 10:00 – 00:00
 
-__Mauerpark Fleamarket__
+Mauerpark Fleamarket
 
 One of the largest scale flea markets that I have ever seen in my life, there is no doubt that this is my favourite place on Earth, hands down.
 
@@ -89,15 +89,15 @@ Further on are rows after rows of antique wares lined under tents, and stalls se
 
 It is very easy to feel claustrophobic and if you need to refuel or escape, there’s plenty of food store around selling Nutella crepes and Currywrusts and you head over to the empty green space next to the market to enjoy the music from Maurerpark bearpit karaoke, or up the hill to enjoy the graffiti and swings.
 
-__Address: Bernauer Straße 63-64, 13355 Mitte__
+Address: Bernauer Straße 63-64, 13355 Mitte
 
-__Station: M10 Wolliner Straße, U2 Eberswalder Straße or U8 Bernauer Straße__
+Station: M10 Wolliner Straße, U2 Eberswalder Straße or U8 Bernauer Straße
 
-__Open: Sun 8:00 - 18:00__
+Open: Sun 8:00 - 18:00
 
-__Free entry__
+Free entry
 
-__MarkhalleNeue Street Food Thursday__
+MarkhalleNeue Street Food Thursday
 
 Located in the hip district of Kreuzberg, this hall transforms into a indoor market that is a true foodie’s heaven every Thursday evening when an international throng of street food stalls congregate to sell their mouth-watering goods to eager diners.
 
@@ -107,15 +107,15 @@ Yet you won’t regret it for the world and will vow to yourself you will return
 
 Except you can’t, so you can only settle for buying a cup of fresh mint fruit tea to pacify yourself.
 
-__Markthalle Neun, Eisenbahnstraße 42/43, 10997 Kreuzberg__
+Markthalle Neun, Eisenbahnstraße 42/43, 10997 Kreuzberg
 
-__Station: U1 Görlitzer Bhf.__
+Station: U1 Görlitzer Bhf.
 
-__Open: Thursday 17:00 - 22:00__
+Open: Thursday 17:00 - 22:00
 
-__Free Entry__
+Free Entry
 
-__Humanas at Frankfuter Tor__
+Humanas at Frankfuter Tor
 
 Technically speaking this isn’t an attraction at all, but part of a second hand chain store. Why is it on my list then, you might ask. Well the answer is that I have been to this shop three times, and every time I ended up spending hours in there scouring through the racks and scouring a good buy.
 
@@ -123,12 +123,12 @@ If your not adverse to the idea of second hand clothing and harbour an inner hip
 
 With five whopping storeys of vintage and second hand fashion that won’t break your budget, you will be running around getting your mitts on anything that catches your eyes. Whether you are in it for the trend or simply because it is way more affordable than high street shops, the individuality and variety is a good alternative to get a unique souvenir of Berlin.
 
-__Address: Frankfurter Tor 3, 10243 Berlin __
+Address: Frankfurter Tor 3, 10243 Berlin
 
-__Station: U5, Tram 10 / Frankfurter Tor __
+Station: U5, Tram 10 / Frankfurter Tor
 
-__Open: Mon-Sat 10:00 – 20:00 __
+Open: Mon-Sat 10:00 – 20:00
 
-__Tel. (030) 422 2018 __
+Tel. (030) 422 2018
 
 Even if you’re only in Berlin for a few days, all these locations are worth visiting, so make your way there if you can!

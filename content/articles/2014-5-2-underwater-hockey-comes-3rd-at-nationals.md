@@ -33,10 +33,10 @@ The team walked away with a medal hung round their necks for the first time. It 
 
 Thanks to Sport Imperial for non-BUCS funding as well as to Plymouth University Octopush Club and the British Octopush Association for organising the tournament.
 
-__What is Underwater Hockey?__
+What is Underwater Hockey?
 
 Underwater Hockey is a fast paced sport, played by teams of six at the bottom of a pool with four alternating substitute players. The aim of the game is score more than the other team by moving a lead puck along the bottom of the pool using a ‘pusher’. Snorkels allow the players to keep moving with the game while they take a quick breath between long dives. A team scores by working together to push, flick and pass the puck down the pitch and getting it into the opponent’s goal. This is often achieved best through skill rather than brute strength- proven by the fact this is a mixed sport at adult level.
 
-__Want to play?__
+Want to play?
 
 We train every week at St. Mary’s pool, Paddington, at 8pm on Mondays. This new and rapidly expanding club is always looking for more members. If you want to play email Eric Leung (swl12@ic.ac.uk)

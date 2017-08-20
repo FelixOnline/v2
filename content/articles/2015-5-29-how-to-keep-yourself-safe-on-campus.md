@@ -35,13 +35,13 @@ The security teams, as well as myself, are also very keen to support any actions
 
 Since starting, the two main crimes that have been all too apparent, impacting the most and creating victims of crime are theft of pedal cycles and theft of laptops. In the last six weeks 13 Laptops and 6 bikes have been stolen. In total the value of the items stolen is approximately £15,000 and some of the crimes were absolutely preventable.
 
-__Investigation findings__
+Investigation findings
 
 Bicycles on the whole have been stolen by professional thieves targeting bike storage areas and cutting off inferior security devices such as cable locks. Suspects have managed to enter secure bike sheds by tailgating people in and then out with stolen bikes and scaling fencing. Thieves have been captured on CCTV walking onto the campus on foot dressed in full cycling gear, helmets, glasses, pollution masks and lycra shorts and then minute’s later riding out again on stolen bikes.
 
 The many laptops that have been taken have, mainly, been stolen when left unattended in insecure areas such as open plan offices, communal areas in halls of residence, unlocked classrooms, and eating establishments. Suspects have, again, managed to enter secure areas through tailgating and unfortunately thieves will target the College campus as they see it as an easy target where electronics are left unattended. The example I usually give is you would not leave £1500 cash sitting on a table in an office or communal area and expect it to stay there while you go get a coffee, so then why do it with a computer, phone, or tablet worth similar amounts of money.
 
-__How to keep your bike safe:__
+How to keep your bike safe:
 
 •Use a quality lock not a cheap cable lock. The security office can provide a discounted A graded D lock for £30. They have been in use since 2011 and to date not one has ever been cut off.
 
@@ -61,7 +61,7 @@ Being polite and holding doors open is nice but not at the expense of someone’
 
 •If you see someone acting suspiciously, report it to security immediately.
 
-__Keeping your Laptops and Tablets safe__
+Keeping your Laptops and Tablets safe
 
 •Keep your communal areas, office spaces and halls of residence as secure as possible, do not allow people to tailgate you into controlled areas.
 

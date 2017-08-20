@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__The Hobbit: The Desolation of Smaug__
+The Hobbit: The Desolation of Smaug
 
-__Director:__ Peter Jackson
+Director: Peter Jackson
 
-__Writers: __Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J. R. R. Tolkien (novel)
+Writers: Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro, J. R. R. Tolkien (novel)
 
-__Starring: __Ian McKellen, Martin Freeman, Richard Armitage, Orlando Bloom, Evangeline Lilly, Lee Pace, Luke Evans, Benedict Cumberbatch, Sylvester McCoy
+Starring: Ian McKellen, Martin Freeman, Richard Armitage, Orlando Bloom, Evangeline Lilly, Lee Pace, Luke Evans, Benedict Cumberbatch, Sylvester McCoy
 
-__Runtime: __161 minutes
+Runtime: 161 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Dwarves are useless and can’t do anything, whilst Wood Elves and their fluid, slick gymnastic movements are awesome and humans haven’t yet had the chance to shine: that’s the message to take away from Desolation of Smaug, the second entry to Peter Jackson’s overblown _Hobbit_ trilogy.
 

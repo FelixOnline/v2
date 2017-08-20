@@ -40,4 +40,4 @@ Created by J.J. Abrams – the man behind Alias, Fringe and the new Star Trek mo
 
 The brilliance of the show comes from its innate ability to appeal to all audiences. Dog lovers, science fiction fans, scientist and adventurous shoot-em’-up junkies all have their slice of pizza to enjoy. This is a top of the list recommendation for everyone out there. You just need to watch it, cos it’s amazing.
 
-__FADE TO BLACK.__
+FADE TO BLACK.

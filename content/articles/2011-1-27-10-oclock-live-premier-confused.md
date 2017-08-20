@@ -41,4 +41,4 @@ Mitchell was easily the superstar of the group being the most erudite and genuin
 
 Finally if you are going to conduct a political talk show, some prior knowledge is a must. Not knowing who the cabinet ministers are is embarrassing. I enjoyed the smirking Richard Sharp of Goldman Sachs who smugly listened to Mitchell fumble through the banking crisis and this I fear seems to be the major failing of this confuzzled little show. Comedians are not stupid people but to keep up beyond witty one liners when debating with leaders in their respective fields, some homework is required which I think the cast are skiving off so far. The second half of the show did pick up with Jimmy looking far more comfortable and so I have great hope with a little restructuring and a deep breath every so often this show can develop on the potential it has to be great satirical comedy that is informative and topical. Especially if they stop airing it against Question Time and News Night.
 
-__C4 Thursday, 10pm and [4OD](http://www.channel4.com/programmes/10-oclock-live/4od)__
+C4 Thursday, 10pm and [4OD](http://www.channel4.com/programmes/10-oclock-live/4od)

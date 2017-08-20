@@ -35,6 +35,6 @@ The Most Valuable Players (MVP) of the day were: Jorn Jorg (Overall MVP for soli
 
 After winning the game, the team went on to host the Superbowl party at the Union, which was a successful and entertaining night that saw the New England Patriots defeat the Seattle Seahawks 28-24 in amazing circumstances. Now the team looks forward to playing Hertfordshire on Sunday 8th February and ACC on Wednesday 4th February where the James Alden award will continue to be fought for.
 
-__SAM HILL__
+SAM HILL
 
-__IMPERIAL IMMORTALS__
+IMPERIAL IMMORTALS

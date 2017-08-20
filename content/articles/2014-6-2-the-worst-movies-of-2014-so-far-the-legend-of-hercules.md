@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__The Legend of Hercules__
+The Legend of Hercules
 
-__Director:__ Renny Harlin
+Director: Renny Harlin
 
-__Writers: __Sean Hood, Daniel Giat, Renny Harlin, Giulio Steve
+Writers: Sean Hood, Daniel Giat, Renny Harlin, Giulio Steve
 
-__Starring: __Kellan Lutz, Gaia Weiss, Scott Adkins, Roxanne McKee
+Starring: Kellan Lutz, Gaia Weiss, Scott Adkins, Roxanne McKee
 
-__Runtime: __99 minutes
+Runtime: 99 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 1/5
 

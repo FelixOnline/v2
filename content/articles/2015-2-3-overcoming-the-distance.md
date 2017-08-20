@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chanon Wongsatayanont talks about coping with long distance relationships
 date: "2015-02-03 13:30:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031330-ps3110-long_distance_relationship___sleep_by_tabby_like_a_cat-d68iq5b.png.jpeg"
+image: "http://felixonline.co.uk/img/upload/201502031330-ps3110-long_distance_relationship_sleep_by_tabby_like_a_cat-d68iq5b.png.jpeg"
 headline: true
 featured: true
 imported: true
@@ -38,7 +38,7 @@ I would know. Ever since we’ve started going out a year and a half ago, my gir
 
 I’m not going to lie; there were a lot of things we had to adjust to cope with the separation. So, at the risk of seeming like an Agony Uncle, here are some tips that would help you maintain a healthy long distance relationship.
 
-__Tell each other how you cope__
+Tell each other how you cope
 
 I avoided saying ‘communication’ since this broad term has been used to death in all relationship advice posts. What I mean is just talking about what you prefer or are comfortable with. You’d be surprised with what feels ‘natural’ to each person in a long distance relationship.
 
@@ -46,19 +46,19 @@ Do you like to leave Skype on whenever you get home so you feel that you’re al
 
 You might think that this would bring on some awkward conversations but I feel that this is valuable in avoiding misunderstanding or wrong assumptions. You don’t want to label each other with something that they’re not. Skype-ing or texting daily to keep the warmth alive is not clingy. At the same time, Skype-ing only once in a while with the intention of making every Skype session valuable does not mean they’re becoming cold. People have different ways to adjust to the new situation and it never hurts to make that clear.
 
-__Update each other__
+Update each other
 
 The scariest thing about long distance relationships is how easy it is to drift apart without even realising it. You may forget to talk about what you’ve been up to for days, then weeks, and before you know it, you have no idea what you’re each up to. Then you begin to lose out of each other’s references and jokes. Suddenly you notice that someone else began to understand them better than you.
 
 That’s our secret fear. However, frequent updates on something so simple as one another’s days can do wonders to keep you connected. It makes the distance seem smaller, as you’ll be able to relate to what he or she is doing and vice versa. Next time you talk will also be much easier since there’ll always be things to pick up on other than how much you miss each other.
 
-__Accommodate each other__
+Accommodate each other
 
 The two of you will likely have different lives, meeting new people in different settings. You’ll be with different groups of friends doing lots of stuff at different times. And that’s not to factor in time difference in some cases. It will be much harder to organize a time to meet since you’ll both have to be at home in front of a computer.
 
 But compromises must be made on both sides to make time for each other for the reasons in the previous point.
 
-__Share new experiences__
+Share new experiences
 
 No doubt you’ve had lots of amazing experience with your significant other while you were together but you can start new experiences by beginning a TV series, book, hobby or even start a new class together.
 
@@ -66,7 +66,7 @@ You will most likely already share a lot of that already, but when you’re apar
 
 And this doesn’t all have to be indoors stuff. What my girlfriend and I always do when we travel somewhere new is to create a photo diary and send it to each other. That way, it’s almost like you’re seeing those new things together.
 
-__Gestures__
+Gestures
 
 Now what these gestures mean completely on you. Are you the sweet, dependable or fun type of couple? Do you prefer old-fashioned letters and parcels, mysterious flower deliveries or surprise snapchats? These are helpful as reminders of those times you were together.
 

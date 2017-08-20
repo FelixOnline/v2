@@ -29,7 +29,7 @@ highlights:
  - comment
 ---
 
-__Charles Betts__
+Charles Betts
 
 I find going out on a Saturday night in London an odd thing. I’ve usually had a rough week, I’m tired, fed-up with humanity, feeling miserable and in a pretty foul mood. I feel the onset of a cold thanks to a vitamin D deficiency that the city’s winter brings. I would quite like to stay at home and lie on my backside all evening watching TV, but I know deep down that would only make me feel like a sad–arse friendless weirdo. Needless to say, I would get mixed feelings.
 
@@ -45,7 +45,7 @@ Since that night I’ve been rationing my TV usage. TV, as the alternative optio
 
 Put simply, it’s much more fun to watch people spray cream on each other’s nipples in real life than it is on TV (just ask a Daily Mail journalist), in the same way it’s far more enjoyable to create the news than listen to it (even if Mr. Woollard of fire extinguisher fame would disagree).
 
-__Matt Allinson__
+Matt Allinson
 
 > Not all TV is of the vapid variety. It is brilliant for facilitating conversation
 

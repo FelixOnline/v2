@@ -37,4 +37,4 @@ For the main, we had green curry chicken with peas, aubergine and baby corn, and
 
 Realising that not everyone has the time – or the money – to indulge in a long, leisurely lunch, Umami has introduced an Express Lunch Menu; a three-course feast which is priced at an incredible £9.95 per person. Starters comprise a choice of tom yam soup, chicken toast or Thai beef salad, followed by a trio of equally tempting main courses: Malay chicken curry with potatoes served with steamed rice, Indonesian coconut and tamarind fish stew with steamed rice, or wok-fried tofu and seasonal vegetables with basil leaf served with rice or noodles.
 
-__Umami__ 100 Cromwell Road, SW7 4ER. Open for lunch Monday to Friday from 12pm to 3pm and for dinner Monday to Sunday from 5pm to 10:30pm. For reservations, call 02073412320.
+Umami 100 Cromwell Road, SW7 4ER. Open for lunch Monday to Friday from 12pm to 3pm and for dinner Monday to Sunday from 5pm to 10:30pm. For reservations, call 02073412320.

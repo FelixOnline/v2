@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Fencing__
+Fencing
 
 Men’s 1st 135
  ULU 1st 74

@@ -59,4 +59,4 @@ Alas, such a triumph cannot be adequately described in this medium of words, div
 
 VVVVVV, I salute thee. I am whole again.
 
-__VVVVVV is available now and can be downloaded for £3.99 from [Steam](http://store.steampowered.com/app/70300/).__
+VVVVVV is available now and can be downloaded for £3.99 from [Steam](http://store.steampowered.com/app/70300/).

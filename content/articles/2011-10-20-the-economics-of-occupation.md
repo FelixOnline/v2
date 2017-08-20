@@ -41,25 +41,25 @@ In 2008 policy makers could at least plead naivety; who could have seen the sudd
 
 Well actually Joseph Stiglitz, that’s who. This professor of economics and Nobel laureate was our Cassandra. He was preaching long before the housing bubble and credit default swaps of the inherent dangers posed by lax legislation and misaligned incentives. [His 2010 book Freefall](http://www.guardian.co.uk/books/2010/jan/30/freefall-global-economy-joseph-stiglitz), recently updated, is his victory lap. But more than “I told you so”, Stiglitz offers a way out of the mire. Politicians would do well to head his advice. For all their vague talk about “justice”, the St Paul’s protestors could too.
 
-__Market Failure__
+Market Failure
 
 Stiglitz lays the blame for the crisis squarely at the feet of free markets and their ideologue proponents. Key to the collapse of the financial system was the problem of externalities, he argues. Externalities are by-products of business for which there is no market mechanism to account - sometimes positive, sometimes negative. If I own a bee farm and an orchard sets up next door, the orchard benefits significantly from my bees’ pollination without affecting me. But should the orchard owners not pay for this privilege? This is an externality - the market provides no way of paying me. A negative externality would be global warming – harm is caused by business but not in a way penalised by the markets.
 
 Stiglitz argues that banks, with their light touch regulations, posed huge negative externalities on the economy as a whole in a number of ways: the misunderstanding of risk, performance related pay and implicit government subsidy.
 
-__Risky Business__
+Risky Business
 
 Before making a loan, banks need to understand the risk associated with the borrower defaulting and adjust the interest rate accordingly. But to further decrease risk, banks started to package loans together with assumption that the more loans one had, the more the risk was spread out. This was fine, provided defaults weren’t correlated. But when house prices started to fall across the country, defaults became very correlated indeed. Because many of these loans had been packaged together in highly complex ways, banks suddenly realised that they couldn’t really tell which loans were safe and which weren’t. They also couldn’t trust the safety of other banks and so stopped lending to each other, resulting in the credit crunch. Stiglitz’s verdict is clear – commercial banks shouldn’t be allowed to create products they don’t fully understand. As US Treasury Secretary Henry Paulson quipped, “the only useful financial innovation in recent decades has been the cash machine”.
 
-__Performance related pay and other oxymorons__
+Performance related pay and other oxymorons
 
 Performance related pay was abandoned by most professions when it became clear that it rewarded quantity, not quality and encouraged short term results. These are precisely the problems plaguing modern banking. Bonuses are paid for gains but pay is not docked for losses, promoting excessive risk taking as bankers just couldn’t lose. Mortgage vendors were rewarded according to the number of mortgages issued, not their quality, leading to the phenomenon of “liar loans” for which borrowers required no proof of income. Even after the Crunch, the flow of bonuses continued, making a mockery of the claim that they were performance based.
 
-__Bankers on benefits__
+Bankers on benefits
 
 But perhaps the strongest externality was the implicit guarantee that the government would always save the biggest banks to protect the rest of the economy. This safety net enabled banks to take much greater risk at much lower interest rates - a subsidy of billions of dollars, greatly distorting the market. When the bailouts were received, very little was loaned on to small and medium sized business, the risks of speculation were still too tempting.
 
-__What’s to be done?__
+What’s to be done?
 
 Unlike some of London’s protesters, Stiglitz is no communist and recognises the importance of markets - the key is regulation. As the world sits on the brink of what may well be a double dip recession, here are his suggestions for policy changes to make a difference:
 

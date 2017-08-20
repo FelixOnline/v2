@@ -36,32 +36,32 @@ In addition to the health benefits, the organic production systems have a large 
 
 Therefore, after a great deal of research in organic markets and farms, I have prepared a shopping list for you listing my top five organic products available on the market, so that you know where to go and what to choose!
 
-__Mandarin & Ginger Extra Dark Chocolate by Seed & Bean__
+Mandarin & Ginger Extra Dark Chocolate by Seed & Bean
 
-__Description: __Dominican Cocoa is delightfully blended with Italian Mandarin essential oil and a hint of ginger from China for a blissfully warm enveloping orange confection.
-__More details: __[www.seedandbean.co.uk](http://www.seedandbean.co.uk)
+Description: Dominican Cocoa is delightfully blended with Italian Mandarin essential oil and a hint of ginger from China for a blissfully warm enveloping orange confection.
+More details: [www.seedandbean.co.uk](http://www.seedandbean.co.uk)
 
-__Mini Magoo’s Granuesli with Bluberries__
+Mini Magoo’s Granuesli with Bluberries
 
-__Description: __Rich, handmade cereals. I particularly like the distinctive flavour of each ingredient that is not tainted by any additives. You can find it many different flavours such as dates or ginger.
-__More Details: __[www.minimagoo.com](http://www.minimagoo.com)
+Description: Rich, handmade cereals. I particularly like the distinctive flavour of each ingredient that is not tainted by any additives. You can find it many different flavours such as dates or ginger.
+More Details: [www.minimagoo.com](http://www.minimagoo.com)
 
-__365 Organic Everyday Value Olive Oil by Whole Foods Market__
+365 Organic Everyday Value Olive Oil by Whole Foods Market
 
-__Description:__ It does make a significant difference to your salads. Try it on top of fresh bread!
-__More details:__[www.wholefoodsmarket.com](http://www.wholefoodsmarket.com)
+Description: It does make a significant difference to your salads. Try it on top of fresh bread!
+More details:[www.wholefoodsmarket.com](http://www.wholefoodsmarket.com)
 
-__Mini Vegbox by Riverford Organic Farm__
+Mini Vegbox by Riverford Organic Farm
 
-__Description:__ It contains 7 or 8 varieties of very high quality fresh vegetables – better then Tesco or Sainsbury’s. The most important thing is that it is a very reasonable price – £9.85 for the whole box.
-__More Details: __[www.riverford.co.uk](http://www.riverford.co.uk)
+Description: It contains 7 or 8 varieties of very high quality fresh vegetables – better then Tesco or Sainsbury’s. The most important thing is that it is a very reasonable price – £9.85 for the whole box.
+More Details: [www.riverford.co.uk](http://www.riverford.co.uk)
 
-__Organic Almonds by Not Just Nuts__
+Organic Almonds by Not Just Nuts
 
-__Description: __A healthy snack full of energy and vitamins. Use them as a fine flavouring, raw, sliced, ground or fried. Add to stir fries, use in the base of a nut roast or stuffing mix and taste the difference!
-__More details:__[www.notjustnuts.co.uk](http://www.notjustnuts.co.uk)
+Description: A healthy snack full of energy and vitamins. Use them as a fine flavouring, raw, sliced, ground or fried. Add to stir fries, use in the base of a nut roast or stuffing mix and taste the difference!
+More details:[www.notjustnuts.co.uk](http://www.notjustnuts.co.uk)
 
-__Perfekt Ultimate Organic Granola__
+Perfekt Ultimate Organic Granola
 
 Description: The utimate balance of delicious jumbo oats, crunchy nuts and seeds gently toasted with agave nectar.
  More details: [www.granovita.co.uk](http://www.granovita.co.uk)

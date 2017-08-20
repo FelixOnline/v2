@@ -23,10 +23,10 @@ authors:
 highlights:
 ---
 
-## ## __Joe__
-__Editor-In-Chief__
+## ## Joe
+Editor-In-Chief
 
-__Wow, well it certainly has been a year!__
+Wow, well it certainly has been a year!
 
 I started this job in October, with a small amount of training and the dusty cobwebs of my previous years of section editorship skulking miserably in the corners of my mind. Summer, as I’m sure you all know, is quite potent at clearing the mind of useful memories.
 
@@ -48,7 +48,7 @@ Thanks for reading and thanks for a great year, I hope you’ve enjoyed the pape
 ## ## Philippa
 Editor-Elect
 
-__It’s pretty terrifying to think that the next issue will be edited by yours truly. Am I ready? Right now? Literally, right now, as I sit in the safety of Imperial’s tiny humanities department, downing caffeine after about four hours of sleep last night? Nah, I’m far from it.__
+It’s pretty terrifying to think that the next issue will be edited by yours truly. Am I ready? Right now? Literally, right now, as I sit in the safety of Imperial’s tiny humanities department, downing caffeine after about four hours of sleep last night? Nah, I’m far from it.
 
 But I have time, and hoping that in that time I will learn a large number of things hopefully very quickly. These, you will be glad to know, will include learning how to write editorials that won’t sound like the beginning of an adolescent, self-absorbed MySpace profile “about me” entry.
 

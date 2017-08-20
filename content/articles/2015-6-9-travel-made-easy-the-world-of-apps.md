@@ -68,5 +68,3 @@ Most airlines now have an app where you can check in and get your boarding pass.
 10) Kites
 
 An app designed by an imperial graduate, this still expanding app shows you recommendations by users all over the world. With a twitter-based format, each kite is only 140 characters long, keeping things short and sweet with option to add photos. You can follow users and add your kites into a collection like a London Harry Potter tour.
-
-____

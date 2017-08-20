@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__Overall Rankings__
+Overall Rankings
 
 _The Times_
 
@@ -33,7 +33,7 @@ _The Sunday Times_
 
 Imperial came in 8th place which is a significant improvement from last year’s position of 14th place. We rank beneath universities such as Bath, Durham and Exeter.
 
-__Subject tables__
+Subject tables
 
 _The Times_
 
@@ -42,7 +42,7 @@ Most subjects such as Geology, Medicine, Computer Science, Materials and Biology
 Other subjects have stayed consistent in their ranking, like Civil Engineering and Chemical Engineering in 2nd place, and Electronical and Electrical Engineering in 4th place.
  However some subjects, like Mathematics for instance, have suffered a dramatic fall from 3rd to 7th place. Chemistry had a slight improvement from 18th up to 16th place.
 
-__Teaching__
+Teaching
 
 _The Times_
 
@@ -56,7 +56,7 @@ The Sunday Times gave Imperial 146 out of 250 (58.4%) for Teaching Excellence ba
 
 The number of students getting Firsts/2:1s is 83 out of 100 for Imperial Sudents.
 
-__Academics__
+Academics
 
 _The Times_
 

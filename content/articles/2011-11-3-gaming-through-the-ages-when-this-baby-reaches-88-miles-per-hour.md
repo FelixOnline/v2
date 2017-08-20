@@ -33,7 +33,7 @@ highlights:
 
 _Interested in what our writers think of the future of gaming? [See the companion article here!](http://felixonline.co.uk/games/1678/the-future-of-gaming/)_
 
-__Felix Issue 500 (1978) - Michael Cook__
+Felix Issue 500 (1978) - Michael Cook
 
 It’s June 1978, and Felix is celebrating its 500th issue being printed. Meanwhile, on the other side of the world, Japanese arcades are playing host to a videogame that will become a monument in the genealogy of the medium – Space Invaders has just been released by Taito. Itself an evolution of the popular Breakout arcade machines, Space Invaders used popular sci-fi themes (the first Star Wars film had been released only a year earlier) and the combination proved a hit with players, to the point where there was a temporary shortage of 100 Yen coins in Japan shortly after its release.
 
@@ -49,7 +49,7 @@ The 2600 cost $199 on release – expensive, but cheap in comparison to similar 
 
 The industry is a strange place in the late seventies. Home consoles are beginning to take centre stage from the arcade cabinets, and hardware is slowly beginning to climb the slope of affordability versus power that would lead to explosions in popularity around the time of the NES and, later, the PlayStation. In the same length of time between the launch of World of Warcraft and the present day, gaming went from consoles like the 2600 (whose hardware duplicated the left and right sides of the screen to enable simple arcade games like Pong) to the release of Super Mario Bros. in 1985. While we’ve certainly seen similar leaps in gaming since World of Warcraft (OnLive being of particular note, perhaps) the technological leaps and bounds being made in the late seventies are unimaginable to the gamers of today.
 
-__Felix Issue 1000 (1994) - Omar Hafeez-Bore__
+Felix Issue 1000 (1994) - Omar Hafeez-Bore
 
 This is the most exciting annual review we’ve ever written at Felix Games! Not only are we beginning the brand-spanking-new year of 1995, but we seem to be entering into nothing short of a new era of videogame history. Both Sega and Sony have now unleashed unto Japan their state of the art CD-based consoles, whilst Nintendo is still keeping its cards close to its chest. Whether or not the Ultra 64’s software cartridges prove sturdy enough to withstand the laser-read edge of the new console CD-format is unimportant; the battle for console supremacy is going to be a spectacular show whatever the result. We wouldn’t normally bet on the newcomer Sony and its PlayStation, but the reports from Japan of Tekken’s smooth 3D graphics sound almost too good to be true. We only wish there was a way for us to see it in motion sooner.
 
@@ -65,7 +65,7 @@ Alongside these advances there was also some loss, as Tennis for Two creator Wil
 
 Here’s to 1995 folks, and the future of our wonderful hobby.
 
-__Felix Issue 1500 (2011) – Simon Worthington__
+Felix Issue 1500 (2011) – Simon Worthington
 
 The landscape of gaming has changed a lot since the good old days of the Nintendo 64 and the original PlayStation. Gaming is more popular now than its ever been, with the concept of someone defining themself as a “gamer” becoming as superfluous as people who likes books calling themselves “readers”. Through the numerous inventions and innovations to gaming technology that pervade the current generation of consoles and games, the medium of video games has been opened up to more people than ever thought possible.
 

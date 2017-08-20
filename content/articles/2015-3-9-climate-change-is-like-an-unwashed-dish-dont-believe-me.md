@@ -36,13 +36,13 @@ Popular amongst scientists and politicians, you might hear about a ‘safe opera
 
 Climate change is undisputed but the world isn’t going to freeze overnight or be plagued with some terrifying disease, that can all be left for a Friday night in front of the TV with a bag of popcorn. What I’d like to do right now is to bust some myths and give you a low-down on some major impacts of global warming and what’s going on in the world of politics to stop it.
 
-__Climate change 101__
+Climate change 101
 
 Just so we’re on the same page. Greenhouse gases (GHGs) come in a variety of forms, creating a pretty damaging chemical cocktail. This lethal recipe includes infamous carbon dioxide, methane and nitrous oxide as well as some harder-to-pronounce chemicals: sulphur hexafluoride, hydrofluorcarbons and perflurocarbons. Their emission into the atmosphere is primarily through industrial outsources, car emissions, shipping vessels, domestic appliances and deforestation.
 
 So how do they cause climate change? Well, about ¼ of all anthropogenic carbon dioxide has gone into the oceans where it reacts with water to form carbonic acid, which readily dissociates to create ionising hydrogen ions and bicarbonate which causes ocean acidification. On top of this, increased GHGs in the atmosphere contribute to a thickening of the greenhouse gas layer, which increases re-radiation of heat back to Earth’s surface and the lower atmosphere, increasing ocean warming and atmospheric warming. Voila.
 
-__Climate change is natural and normal. It's happened before… right?__
+Climate change is natural and normal. It's happened before… right?
 
 Yep. Climate change has happened in the past, but it’s not been pretty. Also, crucially, it is the undisputed causal link between increased GHG emissions and changes in Earth’s climate as well the relative change and magnitude of change that are the issue here.
 
@@ -56,7 +56,7 @@ It’s also important to consider the magnitude of change. Change could have hap
 
 So it is true that climate change has happened in the past and it is a natural part of Earth’s history. However, the difference this time is that it is us that have caused these changes.
 
-__Not all scientists agree__
+Not all scientists agree
 
 Nope, they do. Well, the majority of them anyway. In 2013 a survey of thousands of scientific papers taking a position on climate change found 97.1% of the scientific community believed that humans were causing climate change. In addition, the latest assessment report from the Intergovernmental Panel on Climate Change (IPCC) stated “most of the observed increase in globally averaged temperatures since the mid-20th century is very likely due to the observed increase in anthropogenic greenhouse gas concentrations”.
 
@@ -64,7 +64,7 @@ Of course there are always sceptics out there. Just this week Senator James Inho
 
 At the end of this January a major survey of around 4,000 US citizens’ opinions on global warming revealed that only half the population agreed with the IPCC that climate change was mostly driven by human activity. Most deniers said that there was either no evidence for global warming, or that the recent warming of the Earth was due to natural climate variability. In contrast, 87% of scientists from the American Association for the Advancement of Science (AAAS) surveyed believed that the burning of fossil fuels has caused climate change. The American public’s ignorance and the gap between scientists and general society’s opinion highlight the need to promote a greater understanding and public engagement in climate change.
 
-__Small but mighty__
+Small but mighty
 
 First appearances can be deceptive. So you’ll hear a lot of statistics being flown about, such as atmospheric temperatures have increased by 0.74 degrees over the last decade. Perhaps you’ll think “so what?”. However, these seemingly insignificant changes environmental conditions can have much greater consequences for the Earth and humanity than you may initially think.
 
@@ -72,7 +72,7 @@ Increased emissions of strongly ionising chemicals (nitrous oxides and sulphates
 
 The two major ice sheets that are melting at an accelerating rate are Greenland and West Antarctic, contributing an 8 and 6 mm/year rise in sea surface levels respectively. Overall the sea level has increased 1.5m in the last decade and is predicted to further rise 0.75-2m during our lifetimes. This may also seem pretty puny but will have huge consequences for regions such as New Orleans and Miami. None of the Maldives is more than 1.8m above sea level, and according to IPCC predictions the island will be rendered uninhabitable by 2100.
 
-__So, what's being done? __
+So, what's being done?
 
 Climate change is now taking more of the limelight within international political agendas. Obama wisely said “this isn’t something in the distant future, climate change is already affecting us now.” Compare that to 2002 when former president George Bush rejected participation in the Kyoto protocol and you can see we’re going in the right direction. Obama here also hits on something that is very important. Historically humanity cannot be trusted with the future tense, trading short-term gain for long-term pain. So international agreements are needed that emphasise the effect of climate change to us now, rather than in some distant future.
 

@@ -50,4 +50,4 @@ It's reliably over-the-top, funny and brutal. Out of the two historical Tarantin
 
 If you're a fan, it's essential. If you aren't sold on this particular brand, then this is unlikely to sway your opinion. If you're stuck in the middle, then delving headfirst into this tale of southern slavery is well worth it.
 
-_Django Unchained__is released in the United Kingdom on 18 January 2013_
+_Django Unchainedis released in the United Kingdom on 18 January 2013_

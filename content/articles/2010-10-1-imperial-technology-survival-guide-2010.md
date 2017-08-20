@@ -33,7 +33,7 @@ Welcome Freshers! You’ve made it to Imperial, a place where technology and lif
 
 These days you are probably already armed with some sort of computer, maybe even just a netbook. But in the unlikely event you get caught short, there are plenty of computers scattered around Imperial that are free to use. Armed with your IC login, you have full unadulterated access to the Internet. Be warned that there is a usage policy and [ICT](http://www3.imperial.ac.uk/ict) is watching, Big Brother style, as those of us who have fallen foul in the past can attest.
 
-__At College__
+At College
 
 So where can you get at a computer? Well the [Library](http://www3.imperial.ac.uk/library) has quite a few, from the ground floor Café to the individual subject orientated floors with books (remember them right?) there are clusters of computers available for use. There are also a few scattered outside the SCR and most departments around college have at least one dedicated computer suite. Rumour has it that some departments are better endowed than others (here’s looking at you Mech Eng), so if you find yourself short in one department check out your neighbouring departments.
 
@@ -41,7 +41,7 @@ Of course, Imperial has a campus wide wireless network. Imperial-WPA is the pref
 
 Whilst using a non-college computer you can still get access to your H drive by using the Home directory finder (on the Imperial ICT website) and following the instructions. Your email account can also be accessed using Exchange, IMAP or POP depending on what your needs are. Snow Leopard users will be pleased to hear that Imperial runs Exchange 2007 meaning all your Mac apps work brilliantly with your college account. Windows users will need Outlook for full interoperability with calendar, contacts and email. If you’re out and about, your email can also be got at through the Outlook Web Access (<http://icex.imperial.ac.uk>) in any browser, though to get the non ‘light’ version you’ll need Internet Explorer *sigh*.
 
-__In Halls__
+In Halls
 
 Speaking of halls, tech doesn’t stop at the door. Many Halls are kitted out with LCD TVs, games consoles, DVD/Blu-ray players and shared computers. If you’ve got your own TV with you (you crazy kids), don’t forget you’ll ‘need’ a TV license, even for those with computer TV tuner cards.
 
@@ -49,18 +49,18 @@ Imperial, especially South Kensington, is a pretty benign place overall, but the
 
 Monetary protection for your gear is also important. Being a public place, nefarious types can get into halls, lecture theatres and seminar rooms and half-hitch your best stuff. It happened several times when I was in your shoes and those who weren’t insured paid dearly. You’ll need a studen insurer like Endsleigh who specialize in insurance geared up for students at reasonable rates. Some halls of residence also have insurance built into the rent so check with your Wardening team to get the specifics. Stolen gear doesn’t always have to mean a wrecked week, if you’re covered.
 
-__Music__
+Music
 
 Everyone needs music at some point during their studies, whether it’s for working or rocking a party. These days music is available everywhere, some of it legally, quite a lot of it not. So if you’re sick of your music collection, why not check out [Spotify](http://www.spotify.com/uk/) for your free and legal music hit.
 
 Using a client available for Windows, OSX and linux, the service provides 20 hours of streaming a month from a large music library with artists from EMI, Sony, Universal, Warner and some other smaller labels. There’s the odd advert between songs and ads are displayed in the program itself, but if you’re after music on the cheap you can’t get much better. If you’re a heavy user you can even go with Spotify Unlimted for £4.99 a month or Premium for £9.99 a month to get Spotify on your phone and offline.
 
-__London Town__
+London Town
 
 Of course you’re not just here in London to study, so your tech life should follow you out and about in our nation’s capital. Pretty good 3G signal can be had across London on the whole, for those equipped with smartphones, modems and portable hotspots. For those in need of WiFi, London just so happens to be one of the most connected cities on the planet. Almost every coffee shop on every corner offers WiFi of some sort, whilst phone boxes and even some lampposts about the ci ty also act as hotspots. Most are run by BT, T-mobile, the Cloud and O2, but having an account with one of them normally means you can log into others using a cross network login system.
 
 But what if you in need of a new gadget? The ‘world famous’ Tottenham Court Road plays host to quite a few consumer electronics stores and even has three tube stations along it, so it’s easy to get there and back with your goods. London also plays host to three Apple stores, Regent Street, Covent Garden and Westfield, should you be a Mac-o-phile. There’s even a PC World, if you absolutely must, located close to college on High Street Ken.
 
-__London Transport__
+London Transport
 
 London is a fantastic place to run around exploring, but not all of it works all the time, especially when there are strikes! This is where TfL’s journey planner and travel updates are absolutely essential reading for all Londoners. With tube, rail and bus updates to keep you abreast of disruptions, Tfl.gov.uk should be your first port of call before stepping out the door. Smartphone users can get TfL apps too, most are free or cheap, or there’s a Tfl mobile site for when you’re on the go. And don’t forget your everyday tech, Oyster card of course, because those paper tickets are getting mighty expensive. RFID baby!

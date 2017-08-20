@@ -37,7 +37,7 @@ This is a recipe for a simple lasagne with two vegetables: spinach and butternut
 
 When it comes to adding seasonings, I have not included quantities since this is very much down to personal preference. Use common sense. To phrase it unnecessarily complicatedly, add enough pepper so that you can taste the pepper but not so much that it tastes of it. This recipe makes enough for about 6 people (or 4 hungry people).
 
-__Ingredients__
+Ingredients
 
 125g Lasagne (about 6 sheets)
 

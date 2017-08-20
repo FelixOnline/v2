@@ -21,10 +21,9 @@ authors:
 highlights:
 ---
 
-__Tokyo University 1st XV 32____
-__
+Tokyo University 1st XV 32
 
-__ICURFC 1st XV 7__
+ICURFC 1st XV 7
 
 The second game day of the IC Ninja’s tour of Japan began a much like the first. Weary, hungover bodies dragged themselves across the whitewash, expectant. Unfortunately, the similarities end here. With two play makers, Brown and Chalke, injured as well as prop Alldridge the Ninjas were forced to make changes. Burge stepped up at 10, Thomas in the centre and Spittle at loosehead.
 

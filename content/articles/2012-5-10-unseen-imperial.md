@@ -31,7 +31,7 @@ highlights:
 
 Once again, thank you to those who have submitted accounts on the aspects of our lives that we just don’t talk about
 
-__~__
+~
 
 Well, how do I start off? Let me just begin by saying that I was diagnosed of having severe depression and have been meeting my doctor and I am currently on medication since the last academic year. I’ve been through the whole process of counselling, psychiatric evaluation, CBT sessions (Cognitive Behavioural Therapy), and there have even been times that I’ve rung up the Samaritans when it was just too much for me to handle. So, yes, I’ve had and still having my share of mental health issues.
 
@@ -53,7 +53,7 @@ Then during the second term I just couldn’t handle it anymore and took the lea
 
 So if you are suffering or know anyone who is suffering from a mental health issue, please get help! You might think it is embarrassing, you might think people might take the mock out of you, you might feel you are a failure. I know I did! But after that first step, it becomes a bit easier for you to open up and help yourself get through with it. I’m not saying it is easy at all, it is tough and there are some instances that you’ll have to put that extra effort in! But all I’m saying is that get help if you are having some troubles, being quiet and feeling ashamed never helps and I don’t want anyone to go through what I’ve been through! I’ve been having this for ten years and am still in the process of getting help for the past one and a half years! I don’t want to make this sound like a happy ending in a fairy tale but with all the help I’m getting, I find myself to be more confident and happier than I’ve ever been in my life! So, please do get help is you are suffering from a mental health issue!
 
-__~__
+~
 
 In 2011 the world that I loved turned dim. It’s hard to describe how things turned so quickly, but they did. There were redundancies and many uncertainties. My friends were receiving letters to say they were to be made redundant and the supervisors had gone underground. We did not know what was going on and people became worried and upset. I was the only one about to ask and question. It was hard seeing my friends crying and unable to contact the supervisors to talk through the situations. I too had been moved to what we started to call the redundancy waiting room – as all those who were moved were being made redundant.
 
@@ -65,6 +65,6 @@ I contacted my supervisors and told them that I had been to my GP and was diagno
 
 It all just made me so very sad. Sad that people I had known and worked with for many years would be so unsupportive, when I most needed to be supported. If there is one message I would like to transmit to all, it is keep communication open when working with someone who has clinical depression. Support them in the same you would support someone who told you they had just been diagnosed with cancer. One in four people in the UK will experience a mental health problem in any given year. There is no excuse for ignorance.
 
-__~__
+~
 
 If you’d like to share your experiences of anything people don’t openly discuss, such as faith, sexuality, body image, mental health, disability or discrimination of any kind, please email [icu-disabilities@imperial.ac.uk](mailto:icu-disabilities@imperial.ac.uk). You can create an anonymous email address to send it from and any details which could be used to identify you will be edited out.

@@ -24,7 +24,7 @@ highlights:
  - longread
 ---
 
-__<a name="fnv"></a>Fallout: New Vegas__
+<a name="fnv"></a>Fallout: New Vegas
 
 For the first of our ‘sequels to recently released games’ theme, Fallout: New Vegas was on show this year at Eurogamer just weeks before it comes out in the shops. Although not a direct sequel to last year’s smash hit Fallout 3, as the game takes place in an entirely new location and with new characters, fans will recognise the familiar Bethesda engine and game interface.
 
@@ -38,7 +38,7 @@ There have been some changes and improvements in the form of a new “infamy” 
 
 If you played through Fallout 3 and still can’t get enough, or have never played anything like it at all, you should get New Vegas. It’s the standard Fallout gameplay we saw last year with a few tweaks and improvements, and if that’s what you like then that’s fine. If, like us, you were a little bit bored by the end of the last game and were hoping for something new and different, then New Vegas might not be the best choice.
 
-__<a name="acb"></a>Assassin’s Creed: Brotherhood__
+<a name="acb"></a>Assassin’s Creed: Brotherhood
 
 You could be forgiven for feeling a peculiar twitch of déjà vu upon hearing that the next title to come at us from Ubisoft Montreal is yet another Assassin’s Creed title, Assassin’s Creed: Brotherhood. It hasn’t even been a full year since its predecessor Assassin’s Creed 2 was released to the masses but already this next installment will be gracing our supermarket shelves in just under a month. “It’s been in production for a while, in parallel with AC2,” says the Ubisoft minion we cornered, which explains how the next installment is ready so quickly.
 
@@ -50,7 +50,7 @@ At Eurogamer we got the opportunity to play a few rounds of a ‘Wanted’ match
 
 As we killed more and more players and (naturally) moved our way up the scoreboard, the game compensated by setting more players on us to make it harder to pursue our own targets. At certain points both assassin and victim are presented with a countdown timer of about ten seconds. If the target is in view it remains full and red, but as soon as we escaped the timer went yellow (like in single player) and started to countdown to zero. During this time hiding in hay carts or rooftop shacks sent the bar blue and if the countdown reached zero the pursuer had ‘lost the contract’ and we were safe. This was a great way to bring the hiding mechanic into multiplayer and use hiding skills that are wasted on the single player guards, and it was a real adrenaline-filled moment of tension as we lay wondering whether our pursuer had seen us. All in all the multiplayer was an intense, enjoyable experience and there’s plenty of room for some serious strategy and tactics in amongst the running and knifing. The tension is kept high by the knowledge that you could be struck down at any moment by a pursuer. Our only concern is whether or not the multiplayer will remain popular once the novelty wears off, so the challenge for Ubisoft will be to keep the game fresh. Otherwise though, the multiplayer seems to be the perfect extension for those who have mastered single player and need a new challenge.
 
-__<a name="rage"></a>RAGE__
+<a name="rage"></a>RAGE
 
 If there’s one thing people know id Software for, it’s shooters. With such huge titles as Wolfenstein, Doom and Quake under their belts some might argue that id Software practically invented the first-person shooter genre and it would be hard to argue against them. Why then, with such big names with such established fan bases, would they opt to create a whole new game with a whole new feel?
 
@@ -66,7 +66,7 @@ There’s also clearly been a lot of thought put into combat. Different enemies 
 
 Obviously there will always be some that miss the classic RPG experience that is somewhat missing from RAGE, but we think that by removing some of the more tedious elements and forcing the player into first-person shooting RAGE brings a fresh experience to the table that many will enjoy and it comes with pretty and colourful visuals to boot. Certainly, RAGE is going to be one of the big hits of 2011 and proof that even a company with such a familiar formula as id Software can still innovate and produce a truly new gaming experience.
 
-__<a name="lbp2"></a>LittleBigPlanet 2__
+<a name="lbp2"></a>LittleBigPlanet 2
 
 With such critical acclaim for it’s predecessor, it’s hard to think what Media Molecule could do with LittleBigPlanet 2. Whatever it was, it was going to need to big and it was going to need to be innovative. We got the chance to play a late build of the game at Eurogamer and see what had changed for ourselves.
 

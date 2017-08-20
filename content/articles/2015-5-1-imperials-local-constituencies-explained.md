@@ -25,7 +25,7 @@ highlights:
 
 The majority of students at Imperial (especially those in halls) are concentrated in the four constituencies of Chelsea and Fulham, Kensington, Hammersmith, and Cities of London and Westminster. Felix takes a look at each of them below.
 
-__Hammersmith__
+Hammersmith
 
 Hammersmith is currently represented by the Labour Party’s Andy Slaughter, the Shadow Justice Minister. Slaughter was previously MP for Ealing, Acton and Shepherd’s Bush from 2005-2010 and is running for a second term (his third overall) in the 2015 election.
 
@@ -37,7 +37,7 @@ The first campaign is particularly relevant for Imperial students, in more ways 
 
 Any changes to Charing Cross will likely also impact on medical students, many of whom study in the hospital throughout their clinical years.
 
-__Chelsea and Fulham__
+Chelsea and Fulham
 
 Chelsea and Fulham is currently represented by the Conservative Party’s Greg Hands, the Deputy Chief Whip of the Coalition government. Hands was previously MP for Hammersmith and Fulham from 2005-2010 and is running for a second term (also his third overall) in the 2015 election.
 
@@ -47,7 +47,7 @@ Hands’ policies echo those of the Conservative Party in general, as he has end
 
 Other promises highlighted by Hands include increased spending on the NHS and lifting the cap on university places.
 
-__Cities of London and Westminster__
+Cities of London and Westminster
 
 Cities of London and Westminster has been represented since 2001 by the Conservative Party’s Mark Field.
 
@@ -55,7 +55,7 @@ Current polling shows Field will likely be returned with 53% of the vote, contin
 
 Field has run campaigns on multiple topics affecting constituents, including funding of hospitals, policing issues, housing problems, as well as those affecting the city at large, not least transport.
 
-__Kensington__
+Kensington
 
 Kensington was represented until 2015 by Malcolm Rifkind of the Conservative Party, who is not seeking to retain his seat in the 2015 election.
 

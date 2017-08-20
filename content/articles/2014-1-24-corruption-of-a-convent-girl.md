@@ -22,15 +22,15 @@ authors:
 highlights:
 ---
 
-__What: __Manon
+What: Manon
 
-__Where: __Royal Opera House, WC1
+Where: Royal Opera House, WC1
 
-__When: __Until 6th February
+When: Until 6th February
 
-__Price: __Various
+Price: Various
 
-__M__anon premiered in 1884, at the height of the _Belle Époque._ French imperialism was at its peak, and a spirit of optimism flowed on the streets of wealthy Paris. Twenty years earlier, Richard Wagner had brought his opera _Tannhäuser _to the _Opéra de Paris_ and begun his cultural revolution. French poets, musicians and painters had fallen under his spell, but now was the time for France to reclaim its place at the head of the cultural world. _Manon_ was commissioned from the celebrated composer Jules Massenet and quickly conquered the world’s stages.
+Manon premiered in 1884, at the height of the _Belle Époque._ French imperialism was at its peak, and a spirit of optimism flowed on the streets of wealthy Paris. Twenty years earlier, Richard Wagner had brought his opera _Tannhäuser _to the _Opéra de Paris_ and begun his cultural revolution. French poets, musicians and painters had fallen under his spell, but now was the time for France to reclaim its place at the head of the cultural world. _Manon_ was commissioned from the celebrated composer Jules Massenet and quickly conquered the world’s stages.
 
 The protagonist and title character, Manon Lescaut, is a beautiful young girl of 16 when she arrives in the city, destined for the convent. She is quickly pursued by suitors and decides to run off with a handsome _chevalier _– Des Grieux. Soon, however, she is tempted by the life of luxury and comfort offered by her wealthier suitors. The story explores the struggle between the passions of love and of greed set against the backdrop of decadent, bourgeois Paris.
 

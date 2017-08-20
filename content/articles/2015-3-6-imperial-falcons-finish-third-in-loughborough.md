@@ -24,7 +24,7 @@ highlights:
  - longread
 ---
 
-__The Imperial Falcons baseball team recorded a third place position in the first ever M1 Series Tournament at Loughborough on the 21st/22nd February, after some strong performances throughout the weekend and a dramatic walk-off hit secured a win in the final game.__
+The Imperial Falcons baseball team recorded a third place position in the first ever M1 Series Tournament at Loughborough on the 21st/22nd February, after some strong performances throughout the weekend and a dramatic walk-off hit secured a win in the final game.
 
 On a brisk February morning, the Imperial Falcons made the long journey up to Loughborough University to compete in the inaugural M1 Series Tournament. The Falcons began their campaign batting first against the inexperienced Sheffield Hornets. Imperial made a bright start, going 2-0 up with no outs, after a hit from captain Ashley (the fastest man in Singapore), and a number of walks. Sheffield recovered to strike out the side, but were then held in the bottom of the innings thanks to some strong pitching from Zack.
 

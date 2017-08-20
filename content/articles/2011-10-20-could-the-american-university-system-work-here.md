@@ -28,7 +28,7 @@ highlights:
  - longread
 ---
 
-__Yes - Alexander Karapetian__
+Yes - Alexander Karapetian
 
 We shouldn’t be so quick to react negatively towards the recent intention to change towards the American style system of having a Grade Point Average (GPA) by UCL. Students under the UK classification system are often under great pressures to attain a degree with 2:1 or above, with those not doing so risking slipping completely under the radar of potential employers.
 
@@ -50,7 +50,7 @@ Although my personal opinion remains against implementing the GPA system in the 
 
 - - - - - -
 
-__No - Alexandra Nowbar__
+No - Alexandra Nowbar
 
 I’m here to advocate the British university system. It should be a walk in the park – Hyde, not Central. And yes, that was about as hilarious as Gurl With Opinion’s article from last week was profound. She (or the troll) informs us that boys are magnetized by their confidence. I imagine boys reading her pearls of wisdom will be sceptical about this presumption and perhaps wonder why a girl so confident would not reveal her identity. But that aside (wouldn’t want to make too much of a fuss in case it was a troll), I expect my side of the argument to be easy to the point of thinking I could get away with any old ramble. However, there’s been too much daft writing of late so I will make an effort to present a strong case that focuses on undergraduate study.
 

@@ -52,7 +52,7 @@ The boys on the estate also travel in packs. They sit on low walls and stairways
 
 When they are in their own bubble, shielded from the male gaze, it seems that the girls can do anything. They are funny, loud and charming, when they want to be. They’re also fearsome, bitchy and violent: Definitely not the sort of people you want to be pissing off.
 
-Dance is used repeatedly to show them at their most ebullient and carefree. There are some beautifully shot dance scenes, particularly the one to __Rihanna__’s ‘Diamonds’.
+Dance is used repeatedly to show them at their most ebullient and carefree. There are some beautifully shot dance scenes, particularly the one to Rihanna’s ‘Diamonds’.
 
 The tight shots focus on the actors’ faces, lingering on their skin, which appears in rich shades of blue and black. The actors are really good dancers so at times it’s frustrating that the shot-framing doesn’t reveal more of this.
 

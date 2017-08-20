@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Girls__
+Girls
 _Father, Son, Holy Ghost_
 2011
 

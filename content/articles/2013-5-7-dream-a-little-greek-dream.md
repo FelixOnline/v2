@@ -32,7 +32,7 @@ With summer vacations just a stone’s throw away, it seemed ideal for me to thi
 
 Greece is quite a diverse country, with beautiful beaches, small villages but also mountains and big cities; hence it has everything a tourist would wish for. Below some of the beauties will be presented, of course these are just a small portion of the magnitude of this country. Focus will not be shed to the most touristic places, as these are well known and reported, but to the more hidden gems of this country.
 
-__Crete, Falasarna beach__
+Crete, Falasarna beach
 
 The biggest island in Greece, located in the southern part of the country combines the beauty of the sea and the mountains. It is the perfect destination for anyone who wants to relax from the humdrum of everyday life, but at the same time wants to explore the nightlife options.
 
@@ -40,7 +40,7 @@ One of my favourite beaches is “Falasarna”, located in the western part of t
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305072033-tna08-greece2.png" title="" caption="" attr="" >}}
 
-__Kastoria__
+Kastoria
 
 If the sea is not for you and you want a place near the mountains, where it is of course quite chillier even during the summer, then Kastoria is the place for you. It is located in the North-west of the country and it is a fairly small city, offering a vast range of activities and sightseeing options.
 
@@ -50,7 +50,7 @@ For the more relaxed visitors, the city offers spectacular cuisine as well and i
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305072033-tna08-greece3.png" title="" caption="" attr="" >}}
 
-__Thessaloniki__
+Thessaloniki
 
 Moving a bit to the south again the second biggest city in Greece, Thessaloniki, can be found, located directly by the sea. The city itself offers a wide rangeof activities and sightseeing options. There are many museums and also the old town walls, where one can enjoy the view of the whole city from above. The most famous landmark of this city is the “White tower”. One can go up the tower and again admire the breathtaking view of the city and the sea. My favourite activity in this city is walking by the seaside, which is quite relaxing and helps clear one’s mind.
 

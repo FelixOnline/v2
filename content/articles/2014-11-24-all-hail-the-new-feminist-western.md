@@ -27,13 +27,13 @@ highlights:
  - comment
 ---
 
-__Director: __Tommy Lee Jones
+Director: Tommy Lee Jones
 
-__Screenplay: __Tommy Lee Jones, Kieran Fitzgerald, Wesley A. Oliver
+Screenplay: Tommy Lee Jones, Kieran Fitzgerald, Wesley A. Oliver
 
-__Cast: __Hilary Swank, Tommy Lee Jones
+Cast: Hilary Swank, Tommy Lee Jones
 
-__Rating:__ 4/5
+Rating: 4/5
 
 Women traditionally play smaller roles in Westerns. They are reduced to rich ladies, pretty widows, or poor prostitutes. They all get kidnapped at some point during the film, who then of course require some sort of rescuing from male characters. _The Salvation_, which played recently at the BFI London Film Festival, even takes it as far as making the female lead, Eva Green, mute. But there is a big shake-up of tradition in _The Homesman_, from director Tommy Lee Jones. It tells the story of a woman taking the bold initiative to venture out into the Wild West, transporting three women who have gone insane to a safe place in Iowa.
 

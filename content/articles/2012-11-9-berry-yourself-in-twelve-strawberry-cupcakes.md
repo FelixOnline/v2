@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Ingredi____ents:__
+Ingredients:
 
 1 cup almond milk (or any milk of your preference)
 
@@ -45,7 +45,7 @@ Pinch of salt
 
 10 strawberries cut in slices
 
-__Procedure:__
+Procedure:
 
 Preheat the oven at 180 degrees Celsius.
 

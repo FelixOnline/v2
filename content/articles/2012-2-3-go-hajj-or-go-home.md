@@ -25,9 +25,9 @@ highlights:
  - photos
 ---
 
-I’d always thought writing opening paragraphs was hard. But no editorial challenge that faces us, here in the Felix office, comes anywhere close to the mammoth task taken on by the __British Museum__ (or, more truthfully, by curator Venetia Porter) in its latest exhibition, [_Hajj: Journey to the Heart of Islam_](http://www.britishmuseum.org/whats_on/exhibitions/hajj.aspx).
+I’d always thought writing opening paragraphs was hard. But no editorial challenge that faces us, here in the Felix office, comes anywhere close to the mammoth task taken on by the British Museum (or, more truthfully, by curator Venetia Porter) in its latest exhibition, [_Hajj: Journey to the Heart of Islam_](http://www.britishmuseum.org/whats_on/exhibitions/hajj.aspx).
 
-Suitably housed under the domed roof of the Reading Room, the __British Museum__ presents an exploration of the history, culture and experience of the fabled Muslim pilgrimage, Hajj, the first recorded exhibition of its kind. It comes as part of the museum’s study into faith and society: first [_Book of the Dead_](http://www.britishmuseum.org/whats_on/archive_exhibitions/2011/book_of_the_dead.aspx)in 2010, then [_Treasures of Heaven_](http://www.britishmuseum.org/whats_on/exhibitions/treasures_of_heaven.aspx) last year, analysed the impact of religious belief on the cultures of Ancient Egypt and Medieval Europe respectively. But Hajj is quite a different matter entirely.
+Suitably housed under the domed roof of the Reading Room, the British Museum presents an exploration of the history, culture and experience of the fabled Muslim pilgrimage, Hajj, the first recorded exhibition of its kind. It comes as part of the museum’s study into faith and society: first [_Book of the Dead_](http://www.britishmuseum.org/whats_on/archive_exhibitions/2011/book_of_the_dead.aspx)in 2010, then [_Treasures of Heaven_](http://www.britishmuseum.org/whats_on/exhibitions/treasures_of_heaven.aspx) last year, analysed the impact of religious belief on the cultures of Ancient Egypt and Medieval Europe respectively. But Hajj is quite a different matter entirely.
 
 > An eclectic mix of modern art, antique relics and personal accounts
 
@@ -43,4 +43,4 @@ The exhibition suffered at times from resembling a three-dimensional textbook, j
 
 _Hajj: Journey to the Heart of Islam_ is a valiant endeavour to wrestle with something so visible, yet so impenetrable. For those who know little of Islam, Hajj gives a thorough account that touches, if only briefly, on almost every shade of the world-wide Muslim community. For the more initiated, I don’t know what else I can suggest, short of conversion.
 
-Hajj: Journey to the Heart of Islam _at __The British Museum__ until April 15. Tickets from £12_
+Hajj: Journey to the Heart of Islam _at The British Museum until April 15. Tickets from £12_

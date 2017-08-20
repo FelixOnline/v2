@@ -43,4 +43,4 @@ With the abundance of material available for viewing in each space, it’s not h
 
 Whether you’ve been a lifelong fan of the magazine, want to experience snapshots of cultural zeitgeists of days gone by or simply want to catch a glimpse of Kate Moss’s nipples, 20 years of _Dazed & Confused_ will certainly not disappoint.
 
-_20 years of _Dazed & Confused: Making it up as we go along_ at __Somerset House__ until January 29. Admission free._
+_20 years of _Dazed & Confused: Making it up as we go along_ at Somerset House until January 29. Admission free._

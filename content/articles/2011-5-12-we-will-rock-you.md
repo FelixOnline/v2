@@ -40,7 +40,7 @@ On a weekend when most of us were lamely pushing ahead with the revision schedul
 [
  Click to read Gilead Amit's liveblog of the rehearsals](http://felixonline.co.uk/arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours/)
 
-__Cast List__
+Cast List
 
 _Galileo_ Robert Felstead
 _Scaramouche_ Katie Clemence

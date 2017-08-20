@@ -24,13 +24,13 @@ highlights:
  - photos
 ---
 
-__SELMA__
+SELMA
 
-__Director: __Ava DuVernay
+Director: Ava DuVernay
 
-__Screenplay: __Paul Webb
+Screenplay: Paul Webb
 
-__Cast: __David Oyelowo, Carmen Ejogo, Tim Roth, Tom Wilkinson, Oprah Winfrey
+Cast: David Oyelowo, Carmen Ejogo, Tim Roth, Tom Wilkinson, Oprah Winfrey
 
 Rating: 5/5
 

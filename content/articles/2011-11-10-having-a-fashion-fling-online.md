@@ -28,7 +28,7 @@ highlights:
  - photos
 ---
 
-[__Style Bubble__](http://stylebubble.co.uk)
+[Style Bubble](http://stylebubble.co.uk)
 
 Susanna Lau (aka Susie Bubble) is undoubtedly Britain’s most followed fashion blogger. The London-based 28-year-old, who once wrote about sneaking into fashion week shows, claiming, “If you’re ballsy enough to act like you’re somebody, SOMEONE’s gonna fall for it eventually,” now graces many front rows and is often granted backstage access to photograph her favourite details. Despite consciously leaving out celebrities as inspirational fashion figures in her writing, her own celeb status is global.
 
@@ -38,7 +38,7 @@ Her personal avant-garde style is impossible to categorise, though a minimalist 
 
 The blog also includes her famous ‘London Shop Map’, an extensive guide to London’s unique shopping experience, which includes everything from department store favourites like Selfridges and Liberty, and designers like Acne and Marc Jacobs, to East London vintage boutiques and Kensington charity shops. As a brand in her own right, she has associations with recognisable names such as Elle and Topshop, whilst never forgetting the importance of blogs. During her time writing for Dazed and Confused, she confessed to checking up to 250 a day.
 
-[__Textbook__](http://textbook.tumblr.com)
+[Textbook](http://textbook.tumblr.com)
 
 As a follower of fashion blogs since they first appeared on the industry’s radar some five years ago, I confess I have become something of a blog-snob. Personal style blogs are now ten to the dozen, with hundreds of wannabe Rumi Neelies and Jane Aldridges clogging up the blogroll of those whose interest is in the close observation of beautiful, modelesque girls with perfect hair and deeply enviable wardrobes. And if your interest sways towards capturing the everyday moments of sartorial glory, the holy trinity of street-style remains: [Scott Schuman](http://thesartorialist.com), [Garance Doré](http://garancedore.fr/en) and [Tommy Ton](http://jakandjil.com), whose hallowed cameras point only at the select super-stylish few, though presently the field is congested with DSLR-owners whose taste doesn’t yet quite cut the sartorial mustard. There is now an established elite within the blogosphere, which some would say defeats the object of blogging – it is, after all, about individuals sharing ideas in a free, public forum. Alas, such is the nature of the industry: _elitism omnia vincit_.
 
@@ -46,7 +46,7 @@ So imagine my delight when I find (on Tumblr, of all things!) a blog with a trul
 
 A blog for all the sartorially fabulous who could imagine that, of course, if Rasputin were alive and fashion-forward today, he would totally be wearing Rick Owens. I mean, obviously.
 
-[__The Ones 2 Watch__](http://theones2watch.com)
+[The Ones 2 Watch](http://theones2watch.com)
 
 In these tough times when the student budget is beginning to drain and the days look clouded with educational bleakness, those of us with a spark of creative appreciation prefer to scoff on inspirational works as opposed to chips or chocolate. Unfortunately, it is on days like these, when we most crave the glossy pages of the likes of Vogue, i-D and Numero, that we are faced with the daunting reality that these monthlies are no longer affordable, thanks to our latest shopping extravaganza.
 

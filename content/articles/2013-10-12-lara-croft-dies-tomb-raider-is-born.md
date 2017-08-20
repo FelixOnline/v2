@@ -31,4 +31,4 @@ The graphics and cinematics of the game are beautiful. There are a multitude of 
 
 The completion of the story is as anticipated, and not entirely satisfying. However, once it’s over, there are still mini-quests to complete and various bits and bobs to go find, which you will actually still want to do because it’s quite fun! Overall the main strength of this game is the peek into Lara’s early history and the vivid scenes of her development into the Tomb Raider, but it has enough of the good old shooting and puzzle-solving to please the more traditional gamers too.
 
-__Tomb Raider 2013 was released on 5 March 2013. It can currently be bought for around £9.99.__
+Tomb Raider 2013 was released on 5 March 2013. It can currently be bought for around £9.99.

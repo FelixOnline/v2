@@ -32,18 +32,18 @@ After the huge success of last year’s awards the Student Academic Choice Award
 
 The awards available in the SACAs reflect the priorities of current and past Imperial students, and all have the common theme of ‘excellence’. The awards aim to reward members of staff who display the elements of excellent academic practice that our members believe are most important, such as high-quality feedback or the use of innovative teaching techniques. Through national and local surveys, staff-student committees, and the individual opinions of our Academic Representatives, we developed the following categories and their shortlisting criteria.
 
-__Best Teaching for Undergraduates __– Excellence in teaching is characterised by enthusiasm, the use of original and accessible teaching methods as well as the clarity of learning objectives.
+Best Teaching for Undergraduates – Excellence in teaching is characterised by enthusiasm, the use of original and accessible teaching methods as well as the clarity of learning objectives.
 
-__Best Teaching for Postgraduates__ – Excellence in teaching is characterised by enthusiasm, the use of original and accessible teaching methods as well as the clarity of learning objectives.
+Best Teaching for Postgraduates – Excellence in teaching is characterised by enthusiasm, the use of original and accessible teaching methods as well as the clarity of learning objectives.
 
-__Best Innovation__ – Excellence in innovation is characterised by the imaginative use of technology, the early adoption of new methods, and the use of online and mobile technologies in learning & teaching.
+Best Innovation – Excellence in innovation is characterised by the imaginative use of technology, the early adoption of new methods, and the use of online and mobile technologies in learning & teaching.
 
-__Best Graduate Teaching Assistant__ – Excellence as a Graduate Teaching Assistant is characterised by clear and effective demonstrating, offering detailed and personalised feedback, and giving one-to-one support to students when needed.
+Best Graduate Teaching Assistant – Excellence as a Graduate Teaching Assistant is characterised by clear and effective demonstrating, offering detailed and personalised feedback, and giving one-to-one support to students when needed.
 
-__Best Tutoring__- Excellence in tutoring is characterised by the offering of quality pastoral care and support, and the responsiveness, availability and openness of the tutor.
+Best Tutoring- Excellence in tutoring is characterised by the offering of quality pastoral care and support, and the responsiveness, availability and openness of the tutor.
 
-__Best Feedback__- Excellence in feedback is characterised by constructive commentary, the accessibility of staff members to explain or expand upon feedback, and the timely return of assessed coursework.
+Best Feedback- Excellence in feedback is characterised by constructive commentary, the accessibility of staff members to explain or expand upon feedback, and the timely return of assessed coursework.
 
-__Best Support Staff__- Excellence in support staffing is characterised by using experience and knowledge to help students, enhancing the staff-student community within the department, and supporting co- and extra-curricular activities.
+Best Support Staff- Excellence in support staffing is characterised by using experience and knowledge to help students, enhancing the staff-student community within the department, and supporting co- and extra-curricular activities.
 
-__Best Supervision__- Excellence in doctoral research supervision is characterised by the availability and openness of the supervisor,
+Best Supervision- Excellence in doctoral research supervision is characterised by the availability and openness of the supervisor,

@@ -41,7 +41,7 @@ She replied, “Yes, it is.”
 
 And that’s that, really. The food is perfectly good – we had Japanese tiger prawns (decent), edamame (over-seasoned), a lamb focaccia burger (very good), and the Chef’s favourite duck stir fry (not bad). For pudding, chocolate chunk brownie (hearty and sweet) and fruit crush sorbets (refreshing blackcurrant and apple flavours). Eileen is from New Orleans, so we were hoping to try out the Jambalaya, but unfortunately they had run out. The fruit smoothies were delicious, the atmosphere is relaxed, and the staff were friendly (I’ve been reliably informed that all good restaurant critics use the rule of three). You get well-made food in a nice room surrounded by nice people. And that’s all I want to say on the matter, forget any star-rating nonsense.
 
-__Giraffe__
+Giraffe
 
 7 Kensington High Street, London, W8 5NP.
 

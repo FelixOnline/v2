@@ -22,13 +22,13 @@ authors:
 highlights:
 ---
 
-__Sleepless Nights__
+Sleepless Nights
 
 Hello, I’m groaning at you from my desk. It’s currently 3am on Wednesday, and I’m looking down the barrel of a very real possibility of an all nighter. Something nobody ever tells you (but I’m doing it right now as I feel like moaning) is just how tiring making this newspaper can be... but, honestly, it’s still fun. I wouldn’t swap jobs with anyone (even if the job is underwear model fondeller – not that that job exists; probably bureaucrats ruining the fucking world again with their red tape and systems and stuff).
 
 Anyway, now is the crucial time to decide. All those of you not lucky enough to be a fresher will know this question: do I just persevere and continue the all nighter, or do I go to bed and get some (brief) sleep. It all comes down to this: what will make me the most awake tomorrow morning? You may think that this is just self indulgent ramblings of a massive tool, because that is precisely what it is. However, it is relevant to students. I’m essentially doing research for you: I’m field testing to see which method is the best and most productive, and come revision period you’ll be thanking me.
 
-__Nokia nightmare__
+Nokia nightmare
 
 Now onto tackling the big issue of the day. The new generation of smartphones have been released and I can’t resist giving a quick note on it. Nokia have been shouting to anyone who will listen (at Imperial, that’s a decent amount) that they have “wireless charging”. This sounds incredible, but it’s not exactly as it seems. I’m not saying they are misleading you all on purpose, I’m saying they are very good at marketing themselves.
 
@@ -36,7 +36,7 @@ The way this wireless charging works is that you plug a cushion thing into the w
 
 Perhaps you think this is unimportant (you’d be right) but there is a link to a wider issue here. Perhaps now you’re thinking I’m about to put in some tenuous social commentary or observation (you’d be right AGAIN, you’re really on fire, good job you). The point is that not everything is always how it immediately sounds, seems, and is told to us. Don’t let anybody sway you with what they want you to think and feel (erm, except for this text here). Question marketing, question everything.
 
-__Trusting them?__
+Trusting them?
 
 You’ll notice two stories regarding the Imperial College Healthcare Trust in this issue.
  It’s fair to say that a lot of people aren’t fans of the proposals. There are three proposals on the table, and soon we will find out the exact outcome. My personal thoughts are that it would seem that it is difficult to get a straight answer out of anyone. It’s hard to find out exactly what is going on, and how the plans will affect the students at Imperial.

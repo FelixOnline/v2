@@ -26,7 +26,7 @@ highlights:
  - photos
 ---
 
-__Yes - James Clough__
+Yes - James Clough
 
 But the secretive manner of his death means that he, and al-Qaeda, retain their air of mystery. Bin Laden is now a martyr for the cause. Imagine if America had captured bin Laden. They could have demonstrated their victory publicly, humiliating him without having to kill him. They would still have seen all the benefits of killing him: removing his capacity to assist and direct al-Qaeda, emasculating a former inspiration for prospective suicide bombers, and proving that al-Qaeda could not outsmart the West, but there would have been further benefits to capturing bin Laden and giving him a trial.
 
@@ -38,7 +38,7 @@ Perhaps it would have been more difficult to capture bin Laden than to kill him,
 
 Bringing bin Laden to trial would have been more just, legal and impressive. It would have humiliated al-Qaeda with a public defeat. It would’ve shown the whole world the difference between the West and al-Qaeda, it would’ve been a more effective way to help win the War on Terror, and it would’ve sent the strongest possible message that the West are the good guys. If America had captured bin Laden, they could have given him the death sentence, giving us the same end result. But because they killed him there and then, the opportunity to do the right thing has been lost. Bin Laden would surely have preferred death to capture. This, as much as anything, tells us that America made the wrong choice, and that bin Laden was able to have the last laugh after all.
 
-__No - Ed Middleton__
+No - Ed Middleton
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110140128-sjw209-ed-osama.jpg" title="" caption="" attr="" >}}
 

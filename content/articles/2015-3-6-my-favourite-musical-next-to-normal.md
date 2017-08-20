@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-_N__ext to Normal_, with book and lyrics by Brian Yorkey and music by Tom Kitt, follows Diana, a bipolar depressive with a dead son, a rock star psychiatrist, a daughter she describes as “a freak” (and her stoner boyfriend)... and Dan, her husband.
+_Next to Normal_, with book and lyrics by Brian Yorkey and music by Tom Kitt, follows Diana, a bipolar depressive with a dead son, a rock star psychiatrist, a daughter she describes as “a freak” (and her stoner boyfriend)... and Dan, her husband.
 
 When it was on Broadway during 2009-11, the production controversially won the Pulitzer Prize, and also gained a cult following on YouTube and Twitter, before closing in January 2011.
 

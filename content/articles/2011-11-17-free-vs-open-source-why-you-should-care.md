@@ -29,13 +29,13 @@ A term is being increasingly used in the media, one which is taken by most to ha
 
 What the media often imply it means is ‘Free’, used in a context more akin to ‘freedom’, a concept coined by Richard Stallman in the 80s. A commonly quoted description is “Free as in speech, not free as in beer”, and to this extent, it is sometimes instead called “Libre” (for example, the free office suite LibreOffice) to try and avoid the confusion. It is on this that Stallman spoke.
 
-__Making the choice__
+Making the choice
 
 Free software has an altogether different meaning, and is much more about morality than open source is. There are four freedoms listed by the Free Software Foundation as fundamental to free software.
 
 Free software often (nearly always) overlaps with Open Source but the two are not the same thing, and this is something that, in my experience, few people realise. In short, Free software was created due to moral reasoning, it’s about people having power over their own computing and being able to decide how to use their own computers, whereas Open Source is the development technique that came from this. Open Source software (like Chromium, amongst others) is not necessarily free software, as free software insists on the four fundamental freedoms listed above and Open Source proponents don’t always agree with these freedoms. However, all free software (such as the GIMP) is by definition also open source, as this is necessary for freedom.
 
-__Why it matters__
+Why it matters
 
 So why should you care about this? There are numerous reasons to avoid any non-free (proprietary) software (including backdoors allowing the writer to control your computer, large and unwieldy programs using more memory, and of course, more bugs, to name just a few), but in practice completely avoiding proprietary software is impossible.
 
@@ -47,6 +47,6 @@ Secondly, there has been a thought process prevalent in software companies over 
 
 So, in short, Free software conforms to the four fundamental freedoms, but Open Source simply conforms to freedom 1. Free software gives you, the user, freedom, but Open Source does not.
 
-__Free software everyday?__
+Free software everyday?
 
 How much should this matter to you? Finding truly Free software, for a variety of reasons, is a lot more difficult than you would hope, so it might not be wise to depend on it. Yet if you get the chance, supporting and using Free software is definitely the way to go.

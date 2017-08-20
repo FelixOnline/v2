@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Six years is a long time to spend in this place. If my Imperial career were a child, it would be preparing for its first year of primary school by now: shiny new rucksack perched on its back, lunch money nestled in its pocket. Like a parent leaving his child at the school gates, it’s time I let Imperial go. Will it miss me? Probably not. It’ll be too busy fighting the other boys and girls for its place in the league tables. Still, watching it scamper across the playground has got me reminiscing. __
+Six years is a long time to spend in this place. If my Imperial career were a child, it would be preparing for its first year of primary school by now: shiny new rucksack perched on its back, lunch money nestled in its pocket. Like a parent leaving his child at the school gates, it’s time I let Imperial go. Will it miss me? Probably not. It’ll be too busy fighting the other boys and girls for its place in the league tables. Still, watching it scamper across the playground has got me reminiscing.
 
 According to its website I’ve written over 40 articles for Felix and it’s a strange thing reading over them. I start as a convinced Catholic, then an atheist. I start as a Libertarian, then wise up. I start unsure about what I’m doing with my life, then... best not to ask. I start a frightened fresher, then an Imperial Graduate, then an Imperial Postgraduate. I don’t expect I’m alone in changing so much here. As I changed, so did my perspective on Imperial.
 

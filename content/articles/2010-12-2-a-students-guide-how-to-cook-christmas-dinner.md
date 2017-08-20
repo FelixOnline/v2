@@ -36,7 +36,7 @@ Once everything is cooking and when everyone’s together it is well worth the e
 
 Here’s our guide to preparing Christmas dinner. I hope the recipes and tips serve you well!
 
-__Citrus and Thyme Turkey__
+Citrus and Thyme Turkey
 
 Of all the things to be prepared for our hall Christmas dinner, the turkey (chicken in our case because it worked out to be cheaper!) was the thing that scared everyone the most. After a term of partying hard and sleeping little, our palates were more familiar with Kentucky Fried than home-roasted, and our culinary skills hadn’t quite reached their full potential. Nevertheless someone on our staircase took on the Delia challenge and made an amazing job of it. Once you’ve worked out the correct time to cook the bird given its weight, it’s actually not that scary. Here’s a flavour packed recipe that is easily adapted to chicken:
 
@@ -74,7 +74,7 @@ Cover with a loose tent of foil. Roast the turkey for the calculated time, basti
 
 How to know if the turkey is cooked: Insert a skewer into the thickest part of the thigh. The juices should run clear. If they’re still pink, then cook for a further 20-30mins and test again. A turkey of this size should take about 3 ½ hrs.
 
-__Perfect Roasties__
+Perfect Roasties
 
 Roast potatoes make or break a Sunday roast for me. Should Christmas dinner disaster strike, the loss of the turkey would be nothing compared to the loss of perfectly golden crunchy on the outside, fluffy on the inside roasties. Some people swear by goose or duck fat. Whilst running out to the Serpentine might be a cost effective method of acquiring our own, as students, I think butter will do just fine. My trick is a mixture of vegetable oil for crispiness and animal fat for flavour with a sprinkling of flour to create those extra crunchy edges.
 
@@ -98,7 +98,7 @@ On the hob, place a large roasting tray over high heat and add the fat and oil. 
 
 Roast for an hour, taking the tray out every 20 mins and turning the potatoes to allow them to cook evenly.
 
-__Roasted Autumn Veg__
+Roasted Autumn Veg
 
 When the mulled wine is flowing and you’re panicking trying to cook your first ever turkey, a one roasting dish recipe like this makes life a little easier. It combines all the usual Christmas dinner suspects; carrots, parsnips, red onion and potatoes. But infused with thyme and whole garlic cloves roasted in their skins, suddenly veg is no longer a dreaded obstacle to the meaty star of the Christmas dinner plate. With minimal preparation, you can throw them all in a pan together and once in the oven can forget about them until you’re ready to serve.
 

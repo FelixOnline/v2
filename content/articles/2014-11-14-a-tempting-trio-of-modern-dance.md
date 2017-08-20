@@ -24,7 +24,7 @@ highlights:
  - photos
 ---
 
-In front of a warm, receptive crowd, last Friday saw the opening of an exciting programme at the __Royal Opera House__, including a new ballet by Liam Scarlett, choreographed to Bernstein’s _Symphony no. 2, The Age of Anxiety_.
+In front of a warm, receptive crowd, last Friday saw the opening of an exciting programme at the Royal Opera House, including a new ballet by Liam Scarlett, choreographed to Bernstein’s _Symphony no. 2, The Age of Anxiety_.
 
 This beautiful adaptation is based on the synonymous poem by W.H. Auden, awarded a Pulitzer for the tale in 1948. The nuances and complexities of the poem boil down to a simple story set in New York: four lonely strangers during the tumultuous times of World War II who strike up a friendship in a bar, developing into intimacy as the night wears on.
 

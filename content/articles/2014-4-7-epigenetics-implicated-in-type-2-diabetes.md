@@ -50,4 +50,4 @@ This suggests that these changes may be contributing to the pathogenesis of type
 
 Perhaps one day the stigma of suffering from ‘self-inflicted’ diabetes – type 2 diabetes being a condition linked to obesity and old age – will lessen, as people are able to receive the medical treatment that they deserve. We can only hope.
 
-__DOI: __10.1371/journal.pgen.1004160
+DOI: 10.1371/journal.pgen.1004160

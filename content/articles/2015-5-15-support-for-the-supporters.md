@@ -37,7 +37,7 @@ It’s not easy and can be quite taxing for the friends and family. Outsiders mi
 
 So to help the supporters, I’ve compiled a list of tips and things to bear in mind in order to make it easier.
 
-__It’s not you, it’s not me__
+It’s not you, it’s not me
 
 Sometimes, supporters can be hurt by what their loved ones say during their phase. For depression, the sufferer might go silent for days until you think that you’ve done something wrong. During an anxiety attack, they might burst out with insensitive accusations because they’re feeling overwhelmed by their emotions. What makes it particularly sting is because they’re so unlike their usual character.
 
@@ -47,7 +47,7 @@ Depression, anxiety and bipolar disorder cloud the mind, crippling it with hopel
 
 Therefore, distancing yourself from the disruptive condition might be the best way to prevent yourself from getting hurt when trying to help. It can be as simple as attributing the hurtful things said to the illness itself, trying not to get your feelings involved as you comfort them. By doing this, you don’t care less about them. In fact, it makes you a more effective supporter, because you’ll focus on the issue at hand.
 
-__Know that they are suffering__
+Know that they are suffering
 
 Going through the lows of the illness is not something they’d choose to feel if they could help it. They are in the grips of their thoughts, driven on by the condition, and it is a horrible feeling that they can’t control.
 
@@ -55,11 +55,11 @@ As you support your friends or family members, it helps to remember that it is n
 
 Regardless, I want to remind you that by sharing their vulnerabilities and suffering, they are placing a lot of trust on you on a sensitive topic, which shows how much they appreciate you.
 
-__It will pass__
+It will pass
 
 Mental illnesses usually come in phases. For example, depression oscillates between normal and relapse periods. For some people, these occur every week for a few days at a time. For others, they last for weeks but occur only once every few months. As someone close to the sufferer, you’ll know this better than most or begin to notice patterns that aren’t yet confirmed. So even when you feel worn down, do remember that it is not always this way.
 
-__Don’t let it define your relationship__
+Don’t let it define your relationship
 
 There’s a misconception about living with people with mental illness where it’s believed that the supporter has to spend all of his or her time supporting the sufferer. This is far from the truth, as you’ll probably realise from the ‘it will pass’ section.
 

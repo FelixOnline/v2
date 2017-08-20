@@ -47,8 +47,8 @@ One of the more contentious points aside from Weeks Hall was the Union’s entry
 Phihippa Skett, who sat on the panel, told Felix, “Being on the panel was a lot of fun, and i really enjoyed the experience. I think it is vital that we can directly ask senior members of the Union and College questions about the issues that are affecting students, as I feel that often these people sit in their offices and forget what it is like talking to actual students once in a while.”
 
 ICTV’s next broadcast will be the annual production of Meet the Candidates, where viewers can watch candidates for next year’s sabbatical officers debate with each other. This will be broadcast live in two weeks.
-## ## __A taster of what came up__
-__Closure of Weeks__
+## ## A taster of what came up
+Closure of Weeks
 
 Weeks found out about the closure of the Hall from Felix’s Twitter feed after the Council meeting.
 
@@ -60,20 +60,20 @@ Tom and Wheeler say there is no chance of a campaign to save Weeks.
 
 Bridge says We need to trust students and build better communication.
 
-__What does College do to supoort teaching?__
+What does College do to supoort teaching?
 
 Changed the promotion criteria - can not be prompted purely on research, and can not excuse poor teaching.
 
 20th Anniversy of President’s award, things like supervision – all need student nomination
 
-__Why does the Union charge an entry fee?__
+Why does the Union charge an entry fee?
 
 “Because it is budgeted for and if to remove that there will be less money going on everything else we spend it on.”
 
 ACC Bar nights, almost filling the Union to capacity - make only £150. A venue in Fulham can offer cheaper drinks and make money.
 
 “Why can’t the Union run a model that incites our own students into the bars to use and creates a market. Suggest you need to review your model fully.”
-## ## __How did IQL happen? __
+## ## How did IQL happen?
 _By Thomas Lim_
 
 The workload of Imperial students is unashamedly high – are we able to do all the things we want whilst continuing with our degrees? Probably not. Nonetheless, I feel there is a significant deficit in the way the College and Union interacts with students, and makes them aware of the issues they care about. Students don’t have the time or patience to attend Union Council or other meetings which may be of interest, perceiving them as boring, drawn out and allowing a few people to talk aimlessly for a long time (something I hope the Union’s Democracy Review will work on).
@@ -85,5 +85,3 @@ Perhaps it was the act of getting our panellists out of their comfort zone and i
 I for one, am immensely proud that we managed to produce the show, of the panelists for taking part, the audience & viewers for giving us so many questions and the ICTV tech team for producing a high quality broadcast, despite technical hitches. I hope this will become a termly event now: the only way is up for Imperial Questions Live!
 
 _Note: This article was updated on 23rd February to correct an inaccuracy regarding Tom Wheeler's knowledge of the situation regarding Weeks Hall compared to both CWB minutes and the programme. Felix apologies to Tom Wheeler for this inaccuracy._
-
-__

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__£25 and Under__
+£25 and Under
 
 First up we’ve got the under £25 category, and while there’s quite a lot you can get for under a quarter of a ton, there’s not much better, and more useful, than a flash drive. Problem is flash drives are a dime a dozen these days, and while they come in all shapes and sizes most are downright dull.
 
@@ -32,7 +32,7 @@ In steps the [Stormtrooper Unmasked Star Wars MIMOBOT](http://www.mimoco.com/sho
 
 Prices range from £13 up to about £40, for different storage sizes, while characters are available from all over the Star Wars universe.
 
-__£50 and Under__
+£50 and Under
 
 For the under £50 category our money is on a decent set of noise isolating headphones. Chances are your tech loving recipient is going to have a pocket device capable of rocking their brains with tunes, so why not give them something good to listen to it with.
 

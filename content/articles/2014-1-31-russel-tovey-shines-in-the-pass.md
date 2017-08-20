@@ -22,13 +22,13 @@ authors:
 highlights:
 ---
 
-__What: __The Pass
+What: The Pass
 
-__Where: __Royal Court, SW1
+Where: Royal Court, SW1
 
-__When:__ 13th January - 5th March
+When: 13th January - 5th March
 
-__Price: __£20, £10 Mondays
+Price: £20, £10 Mondays
 
 With the latest revelation from Thomas Hitzlsperger, and Tom Daley’s recent announcement that he is in a gay relationship, the topic of high profile sportsman and homosexuality is currently much discussed. This new play by John Donnelly is set over a 12 year period of a professional footballer Jason’s career. It begins on the evening before his first appearance for the team, sharing a hotel room with a fellow debutant and friend Ade. Their relationship is perhaps something more than just friends and team-mates. A few years later, at the height of Jason’s footballing fame and success, he spends an evening with a table dancer in a hotel room with dubious intentions. In the final act, Jason invites Ade to catch up in his hotel room where he is living, having separated from his wife. By then, his star has waned and he is battling with injuries, looking for a club that will take him for a final season or two.
 

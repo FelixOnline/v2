@@ -23,9 +23,9 @@ authors:
 highlights:
 ---
 
-Of all the shit stage-names artists have given themselves in the history of music, ‘[Bono](http://www.youtube.com/watch?v=Eih_ybKdVXU)’ has got to be the worst. But ‘Young God’, one-half of Seattle-based [__Blue Sky Black Death__](http://www.bsbdmusic.com/) (BSBD), is definitely a close second. In fact, if BSBD weren’t so damn fantastic, I’d say he was an arrogant so-and-so (thankfully __U2__’s songs [afford them no such protection](http://www.youtube.com/watch?v=19KstSgU-c0&ob=av2e)).
+Of all the shit stage-names artists have given themselves in the history of music, ‘[Bono](http://www.youtube.com/watch?v=Eih_ybKdVXU)’ has got to be the worst. But ‘Young God’, one-half of Seattle-based [Blue Sky Black Death](http://www.bsbdmusic.com/) (BSBD), is definitely a close second. In fact, if BSBD weren’t so damn fantastic, I’d say he was an arrogant so-and-so (thankfully U2’s songs [afford them no such protection](http://www.youtube.com/watch?v=19KstSgU-c0&ob=av2e)).
 
-BSBD’s latest album, _[Noir](http://open.spotify.com/album/05Hu2upmXcnye5TKXzUZpQ)_[spotify], is an education in how to make epic electronic/instrumental music properly. What I mean by this is that instead of brazenly shouting, “THIS MUSIC IS FOR STADIUMS” (*ahem, __M83__…) their music takes you on an expressive emotional journey that just so happens to include the feeling of staring deep into an eternal sky.
+BSBD’s latest album, _[Noir](http://open.spotify.com/album/05Hu2upmXcnye5TKXzUZpQ)_[spotify], is an education in how to make epic electronic/instrumental music properly. What I mean by this is that instead of brazenly shouting, “THIS MUSIC IS FOR STADIUMS” (*ahem, M83…) their music takes you on an expressive emotional journey that just so happens to include the feeling of staring deep into an eternal sky.
 
 Flowery language aside, it’s the logical conclusion of moving instrumental hip-hop away from the dancefloor. Songs like '[Sleeping Children Are Still Flying](http://www.youtube.com/watch?v=T4qICd3ldLU)' may have a wicked country-infused drop, but it doesn’t rest on its laurels; the remaining five and a half minutes are varied and diverse, with nary a hint of a repetitive chorus.
 

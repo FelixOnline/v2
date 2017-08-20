@@ -48,4 +48,4 @@ Unfortunately, I could go on. The challenges and the scene are completely discon
 
 What this all adds up to is a game that doesn’t really know what to do with itself. Creativity should be the order of the day (it’s in the freaking title), but through _Create_’s critical design mistakes the imagination is dragged down to the level of a glorified colouring book. Challenges can be fun but too often are difficult in entirely the wrong way. Unlocks are the final nail in the coffin, and spoil the game for anyone who does want to decorate the scenes. It’s a shame, because the concept behind _Create _is still sound,_ The Sims_ without the Sims is still a good idea. This time, thought, EA have gone in the wrong direction, limiting the creativity instead of unleashing it.
 
-__Create is available now from EA and Bright Light Studios for PC, Mac, PS3, Xbox 360, and Wii.__
+Create is available now from EA and Bright Light Studios for PC, Mac, PS3, Xbox 360, and Wii.

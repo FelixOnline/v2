@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__Ingredients:__
+Ingredients:
 
 For the fillling:
 
@@ -42,7 +42,7 @@ For the base:
 
 1 cup dates
 
-__Procedure:__
+Procedure:
 
 Yes... This is indeed the simplest tart; very healthy and it has a rich, dark chocolate taste.
 

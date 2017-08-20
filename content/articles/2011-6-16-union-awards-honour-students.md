@@ -36,7 +36,7 @@ Additionally, Fellowship winner Nathaniel Bottrell was lauded for his extensive 
 
 Christopher Birkett and Jenny Wilson received the highest accolade possible, a Fellowship with Distinction, thereby being deemed by the Union to have made ‘an innovative development to the work of the Union such as to leave a positive legacy that will make a lasting impression for future members.’
 
-__Full List of Winners__
+Full List of Winners
 
 _Colours_
 

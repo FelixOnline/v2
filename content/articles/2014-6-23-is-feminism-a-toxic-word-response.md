@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__I’ve been calling myself a feminist for about 10 years, and I started doing so for a simple reason – I believe women and men should be treated equally. I was not going to pretend not to be something because it might make others around me more comfortable.__
+I’ve been calling myself a feminist for about 10 years, and I started doing so for a simple reason – I believe women and men should be treated equally. I was not going to pretend not to be something because it might make others around me more comfortable.
 
 Just to be sure, I looked up ‘feminism’ in the Oxford dictionary, “The advocacy of women’s rights on the ground of the equality of the sexes.” I wish it were a concept so obvious it didn’t need a name, but we live in a world where rape is used as a weapon of war; where infant girls are killed because their parents wanted a boy; where girls are denied education, and the multitude of other little inequalities that grind down our daily lives. I will continue to call myself a feminist, because to get anywhere near equality more needs to be done.
 

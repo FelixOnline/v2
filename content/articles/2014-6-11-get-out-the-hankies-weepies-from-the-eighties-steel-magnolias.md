@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Steel Magnolias (1989)__
+Steel Magnolias (1989)
 
-__Director:__ Herbert Ross
+Director: Herbert Ross
 
-__Writers: __Robert Harling
+Writers: Robert Harling
 
-__Starring: __Sally Field, Julia Roberts, Daryl Hannah, Olympia Dukakis, Shirley MacLaine, Dolly Parton, Tom Skeritt, Sam Shepard, Dylan McDermott
+Starring: Sally Field, Julia Roberts, Daryl Hannah, Olympia Dukakis, Shirley MacLaine, Dolly Parton, Tom Skeritt, Sam Shepard, Dylan McDermott
 
-__Runtime: __117 minutes
+Runtime: 117 minutes
 
-__Certification: __PG
+Certification: PG
 
 Rating: 4/5
 

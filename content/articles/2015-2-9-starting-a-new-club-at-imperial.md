@@ -30,5 +30,3 @@ If you have an idea for a new club, the first step is to find other people who a
 Things to think about when filling out the form are how to make your club sustainable, how to get people to your events, and ways of funding what you want to do.
 
 Once they’ve seen the application, the NAC will decide whether to make you a new club or put you into the New Clubs Incubator – which allows you to run activities with a bit more support from the DPCS. Once you’ve run a few events and become sustainable, the NAC can make you into a new club, and assign the club to one of Imperial’s Management Groups.
-
-____

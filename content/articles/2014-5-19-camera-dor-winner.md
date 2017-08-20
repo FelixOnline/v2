@@ -24,17 +24,17 @@ highlights:
  - photos
 ---
 
-__Ilo Ilo__
+Ilo Ilo
 
-__Director:__ Anthony Chen
+Director: Anthony Chen
 
-__Writer: __Anthony Chen
+Writer: Anthony Chen
 
-__Starring: __Koh Jia Ler, Angeli Bayani, Tian Wen Chen, Yann Yann Yeo, Jo Kukathas
+Starring: Koh Jia Ler, Angeli Bayani, Tian Wen Chen, Yann Yann Yeo, Jo Kukathas
 
-__Runtime: __99 minutes
+Runtime: 99 minutes
 
-__Certification: __12A
+Certification: 12A
 
 _Ilo Ilo_, Anthony Chen’s touching, naturalistic portrayal of family life in 1990s Singapore, has finally touched down in the UK, nearly a whole year after winning critical acclaim at the Cannes Film Festival. Incredibly accomplished for a first feature, Chen’s possession of the Camera d’Or prize for the best debut feature at Cannes puts him in the exalted company of directors such as Jim Jarmusch, Steve McQueen, and Miranda July; a sure indication that he is one to watch in the development of East Asian cinema.
 

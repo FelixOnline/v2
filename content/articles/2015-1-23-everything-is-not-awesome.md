@@ -37,76 +37,76 @@ _Guardians of the Galaxy _sneaks in with two nominations – Visual Effects and 
 
 It’s a mixed bag of nominations, all in all. There are some very, very right calls, and there are obvious front-runners for the awards. But there also some worrying omissions, with the fact that the Academy is predominantly old, male and white being more obvious than it has in years.
 
-### __Felix Film’s Guide to Oscar betting__
+### Felix Film’s Guide to Oscar betting
 
 As the awards season builds up to its maximum climax that is the Oscars, it becomes increasingly easier to predict the winner. And so here are some of the predictions in the popoular categories. Bet at your own risk.
 
-__Best Picture__: As shown in the poster above, the clear frontrunner here is _Boyhood_, a film of remarkable achievements that was made over the period of twelve years. The only real competitor this faces is _Birdman_, but given how _Boy_ has triumphed over _Bird_ in pretty much all the important awards thus far, the top prize of the night is likely to go in favour of what has been dubbed _12 Years a Boy_, taken after last year’s winning picture, _12 Years a Slave_.
+Best Picture: As shown in the poster above, the clear frontrunner here is _Boyhood_, a film of remarkable achievements that was made over the period of twelve years. The only real competitor this faces is _Birdman_, but given how _Boy_ has triumphed over _Bird_ in pretty much all the important awards thus far, the top prize of the night is likely to go in favour of what has been dubbed _12 Years a Boy_, taken after last year’s winning picture, _12 Years a Slave_.
 
-__Best Actor in a Leading Role: __Michael Keaton, in his fantastic return to form in _Birdman_ is bound to take home his first ever Oscar of his career. He does face stiff competition from audience-favourite Eddie Redmayne of _The Theory of Everything_, but the Brit actor is far too young to be winning in this category.
+Best Actor in a Leading Role: Michael Keaton, in his fantastic return to form in _Birdman_ is bound to take home his first ever Oscar of his career. He does face stiff competition from audience-favourite Eddie Redmayne of _The Theory of Everything_, but the Brit actor is far too young to be winning in this category.
 
-__Best Actress in a Leading Role: __Julianne Moore, believe it or not, has never won an Oscar. She has been nominated a bunch of times and has sure been snubbed over the years. 2015 will be her year, in her heart-breakingly real portrait of an early-onset Alzheimer’s patient, in _Still Alice_.
+Best Actress in a Leading Role: Julianne Moore, believe it or not, has never won an Oscar. She has been nominated a bunch of times and has sure been snubbed over the years. 2015 will be her year, in her heart-breakingly real portrait of an early-onset Alzheimer’s patient, in _Still Alice_.
 
-__Best Actor in a Supporting Role: __J. K. Simmons, who has long been working as a character actor appearing in bit parts, finally has the chance to shine as a ruthless, terrorising conductor of a jazz band. His supporting performance in _Whiplash_ is winning all sorts of accolades, and rightfully so.
+Best Actor in a Supporting Role: J. K. Simmons, who has long been working as a character actor appearing in bit parts, finally has the chance to shine as a ruthless, terrorising conductor of a jazz band. His supporting performance in _Whiplash_ is winning all sorts of accolades, and rightfully so.
 
-__Best Actress in a Supporting Role: __Patricia Arquette’s beautifully nuanced performance, spanning a period of over a decade, is a part of what makes this ambitious tale of _Boyhood_ work so well. With a Golden Globe already in the bag, an Oscar is looking very much a likely scenario for this underrated actress.
+Best Actress in a Supporting Role: Patricia Arquette’s beautifully nuanced performance, spanning a period of over a decade, is a part of what makes this ambitious tale of _Boyhood_ work so well. With a Golden Globe already in the bag, an Oscar is looking very much a likely scenario for this underrated actress.
 
-### __And the Golden Globe goes to...__
+### And the Golden Globe goes to...
 
 ![Screen Shot 2015-01-23 at 17.34.11.png](../inc/timthumb.php?src=/img/upload/201501231734-jyg11-screen-shot-2015-01-23-at-17.34.11.png&w=460px&zc=1&a=t)
 
-__Best Motion Picture –Drama__
+Best Motion Picture –Drama
 
 Boyhood
 
-__Best Motion Picture – Musical or Comedy__
+Best Motion Picture – Musical or Comedy
 
 The Grand Budapest Hotel
 
-__Best Director__
+Best Director
 
 Richard Linklater – Boyhood
 
-__Best Actor – Drama__
+Best Actor – Drama
 
 Eddie Redmayne – The Theory of Everything
 
-__Best Actor – Musical or Comedy__
+Best Actor – Musical or Comedy
 
 Michael Keaton – Birdman
 
-__Best Actress – Drama__
+Best Actress – Drama
 
 Julianne Moore – Still Alice
 
-__Best Actress – Musical or Comedy__
+Best Actress – Musical or Comedy
 
 Amy Adams – Big Eyes
 
-__Best Supporting Actor__
+Best Supporting Actor
 
 J.K. Simmons – Whiplash
 
-__Best Supporting Actress__
+Best Supporting Actress
 
 Patricia Arquette – Boyhood
 
-__Best Screenplay __
+Best Screenplay
 
 Alejandro Gonzalez Inarritu, Nicolas Glacobone, Alexander Dinelaris and Armando Bo – Birdman
 
-__Best Original Score__
+Best Original Score
 
 Johann Johannsson – The Theory of Everything
 
-__Best Original Song__
+Best Original Song
 
 Glory (Selma) – John Legend, Common
 
-__Best Foreign Language Film__
+Best Foreign Language Film
 
 Leviathan (Russia)
 
-__Best Animated Feature__
+Best Animated Feature
 
 How to Train Your Dragon 2

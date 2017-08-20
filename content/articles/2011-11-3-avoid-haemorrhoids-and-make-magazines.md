@@ -57,6 +57,6 @@ And thanks to that random inspirational blast from the past I’m now working wi
 
 But most of all, I want to make a magazine worth getting haemorrhoids for.
 
-_Get in touch to find out more - __This is a public service announcement to all gamers/writers/people at Imperial! __We are looking for budding writers! __Your idea can be one-sentence or a whole feature. __Wait, that’s not all, we’re also looking for artists and designers. If you’re willing to help us direct, produce, research (play games), collate and design the magazine then we want you._
+_Get in touch to find out more - This is a public service announcement to all gamers/writers/people at Imperial! We are looking for budding writers! Your idea can be one-sentence or a whole feature. Wait, that’s not all, we’re also looking for artists and designers. If you’re willing to help us direct, produce, research (play games), collate and design the magazine then we want you._
 
 _Email: [omar.hafeez-bore06@imperial.ac.uk](mailto:omar.hafeez-bore08@imperial.ac.uk) or [games.felix@imperial.ac.uk](mailto:games.felix@imperial.ac.uk)_

@@ -25,7 +25,7 @@ highlights:
  - comment
 ---
 
-Born and bred in Sheffield, __Arctic Monkeys__ are an English rock band that formed in 2002. Most commonly associated with __The Libertines__ and __The Strokes,__ Arctic Monkeys consist of front man Alex Turner (lead vocals, rhythm guitar, lead guitar), Jamie Cook (lead guitar, rhythm guitar), Nick O’Malley (bass, backing vocals), and Matt Helders (drums, backing vocals). In the nine years since their debut album release, Arctic Monkeys have released four more studio albums, won seven Brit awards, performed during the London Olympic Opening Ceremony and headlined Glastonbury. Twice.
+Born and bred in Sheffield, Arctic Monkeys are an English rock band that formed in 2002. Most commonly associated with The Libertines and The Strokes, Arctic Monkeys consist of front man Alex Turner (lead vocals, rhythm guitar, lead guitar), Jamie Cook (lead guitar, rhythm guitar), Nick O’Malley (bass, backing vocals), and Matt Helders (drums, backing vocals). In the nine years since their debut album release, Arctic Monkeys have released four more studio albums, won seven Brit awards, performed during the London Olympic Opening Ceremony and headlined Glastonbury. Twice.
 
 As the principal creative force within the band, Alex Turner brings to the group his distinctive northern accent and fiercely intelligent songwriting. His brilliantly knowing observations manage to capture a scene in a remarkably short amount of time. From the beginning he displayed emotional maturity beyond his years and is deservedly hailed by critics as British indie rock’s finest lyricist.
 

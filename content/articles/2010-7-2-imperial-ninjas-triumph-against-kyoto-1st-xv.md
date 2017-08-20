@@ -61,6 +61,6 @@ The final score was 61-19 thanks to an impressive six out of seven conversions b
 
 The post match festivities and generosity of our hosts were enjoyed and appreciated by all, with O'Rourke in particular pleased to hear his opposite number describe him as “the best prop in Japan”. Testament to IC's touring nature, the game of flip cup landed on Japanese soil traveling more than half way round the world from Argentina 2008. Just as the drink ran dry and most of the lads had finally got to grips with the chopsticks it was time to leave, some with gifts and all with fond memories.
 
-__Team Awards__
+Team Awards
  Man of the Match: Freddie Chalke
  Twat of the Match: Louie Barnett for insisting on doing quick line-outs, which didn't work

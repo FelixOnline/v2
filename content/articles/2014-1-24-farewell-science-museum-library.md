@@ -36,6 +36,6 @@ Simon Harding-Roots, Imperial’s Chief Operations Officer, said: “I’m very 
 
 After the departure of the Science Museum library, the space will remain empty while a commitee convenes in College to discuss the best way in which to use spaces around campus, lead by Professor Stephen Richardson Associate Provost (Institutional Affairs). Student feedback will be welcomed in considerations of future uses of the space.
 
-In the meanwhile if students and staff have any queries regarding the changes taking place the library is available for communcation via__ library@imperial.ac.uk.__
+In the meanwhile if students and staff have any queries regarding the changes taking place the library is available for communcation via library@imperial.ac.uk.
 
-For more information about the Science Museum Library at Wroughton visit: __http://bit.ly/1dZsx0d__
+For more information about the Science Museum Library at Wroughton visit: http://bit.ly/1dZsx0d

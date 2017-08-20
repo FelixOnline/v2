@@ -38,4 +38,4 @@ Co-op also partly fails because there is simply no replay value to _ilomilo_. Th
 
 It cannot be denied that _ilomilo _is a joy to play. Completing puzzles is irrefutably fun and there’s a certain attraction that keeps you playing all the way to the end, with the game’s technical excellence and cute visuals doing their most to both help you along and not get in your way. It’s a truth that anyone could pick up this charming arcade title and, despite its flaws, they would almost certainly enjoy it.
 
-___ilomilo is available now from SouthEnd Interactive and Microsoft Games Studios from the [Xbox Live Marketplace ](http://marketplace.xbox.com/en-US/Product/ilomilo/66acd000-77fe-1000-9115-d80258410a1b?cid=SLink)for 800 Microsoft Points and on [Windows Phone 7](zune://navigate/?appID=6d8088a0-77d6-df11-a844-00237de2db9e) for £3.99.___
+_ilomilo is available now from SouthEnd Interactive and Microsoft Games Studios from the [Xbox Live Marketplace ](http://marketplace.xbox.com/en-US/Product/ilomilo/66acd000-77fe-1000-9115-d80258410a1b?cid=SLink)for 800 Microsoft Points and on [Windows Phone 7](zune://navigate/?appID=6d8088a0-77d6-df11-a844-00237de2db9e) for £3.99._

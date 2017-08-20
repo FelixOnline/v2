@@ -25,15 +25,15 @@ highlights:
  - photos
 ---
 
-__INTERSTELLAR__
+INTERSTELLAR
 
-__Director: __Christopoher Nolan
+Director: Christopoher Nolan
 
-__Screenplay: __Christopher Nolan, Jonathan Nolan
+Screenplay: Christopher Nolan, Jonathan Nolan
 
-__Cast: __Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, John Lithgow, Casey Affleck, Ellen Burstyn, Wes Bentley
+Cast: Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, John Lithgow, Casey Affleck, Ellen Burstyn, Wes Bentley
 
-__Rating:__ 5/5
+Rating: 5/5
 
 Christopher Nolan has a back catalogue to die for. A _Batman_ trilogy that revived a character left for dead by the film industry (and in no small part helped revive a genre that was under the threat of suffering the same fate), a mind-bending take on amnesia that deconstructed conventional film structures and one of the most incredibly original films in decades, and that’s barely scratching the surface.
 

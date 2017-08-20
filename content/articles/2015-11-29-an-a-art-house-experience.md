@@ -37,4 +37,4 @@ The fun extends to the film’s cinematography, and boy does Ruizpalacios get in
 
 As an introduction to art-house movies, _Güeros_ is perfect. An endlessly interesting film, it establishes Alonso Ruizpalacios as a directorto watch. Go see it, and come away with a smile on your face.
 
-__Final Verdict: 5 Stars__
+Final Verdict: 5 Stars

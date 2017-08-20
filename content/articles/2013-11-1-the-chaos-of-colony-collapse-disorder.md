@@ -42,4 +42,4 @@ The consequences of CCD extend far beyond a potential shortage of honey and pret
 
 And so research continues. For the sake of both the human race and the beleaguered bee one hopes solutions will soon be found.
 
-__[DOI:10.1371/journal.pone.0076683](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076683)__
+[DOI:10.1371/journal.pone.0076683](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076683)

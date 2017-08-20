@@ -23,9 +23,9 @@ highlights:
 
 Topman Ctrl are throwing free tickets at us to give to you for this show, so we're running a mini-competition for them, just email us at music.felix@gmail.com with the answer to this question:
 
-___In the wonderfully weird video for “Ambling Alp”, what object are all the naked people at the end running towards?___
+_In the wonderfully weird video for “Ambling Alp”, what object are all the naked people at the end running towards?_
 
-___First person to email us with the correct answer gets two free tickets. music.felix@gmail.com. Easy.___
+_First person to email us with the correct answer gets two free tickets. music.felix@gmail.com. Easy._
 
 Yeasayer describe themselves as “Middle Eastern-psych-pop-snap-gospel” but actually they're an experimental indie band from Brooklyn, New York. They released their debut album All Hour Cymbals in 2007 and this year they released their follow-up, Odd Blood.
 

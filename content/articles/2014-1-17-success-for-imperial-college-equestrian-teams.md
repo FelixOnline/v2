@@ -28,4 +28,4 @@ Despite a few mishaps in the morning before the competition, the first team was 
 
 The second team’s competition at Southampton was run under exactly the same format, with the dressage tests in the morning and jumping in the afternoon. In the dressage Sara Wieclawska was the first to ride her horse, Becky Salen was second to ride her horse, Sorin Popa third and Lucie Walder fourth. All the dressage tests were ridden extremely well, and the team was in third place after dressage. In the show-jumping Becky rode a fantastic clear round, Sara was unlucky to have one fence down and both Lucie and Sorin unfortunately had two refusals. Overally, Becky was placed 7th, Lucie was placed 8th and the team was placed third overall, an improvement on their first competition.
 
-If you would like to try horse-riding, we are holding a Give It A Go session for beginner riders on 29th January. For more information email __riding@ic.ac.uk. __
+If you would like to try horse-riding, we are holding a Give It A Go session for beginner riders on 29th January. For more information email riding@ic.ac.uk.

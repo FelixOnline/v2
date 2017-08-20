@@ -35,14 +35,14 @@ Unfortunately I fell victim to this game some months ago and it was getting to t
 
 If you don’t cherish your sanity enough to even think of playing this game, below are a list of remedies to CookieClickerAddiction:
 
-__1__. Suicide
+1. Suicide
 
 “Kill me. If you’ve ever been my friend, kill me.”
 
 - James Dashner, The Death Cure.
 
-__2.__ Find another addictive game/music/hobby out there!
+2. Find another addictive game/music/hobby out there!
 
-__3.__ Hack the game. This is what I did. I followed instructions on a Youtube video that gave me pretty much enough cookies to unlock all the current achievements – although more achievements are added as its makers. Surprisingly CookieClicker clocked on to the hack and gave me the “bad cookie” award.
+3. Hack the game. This is what I did. I followed instructions on a Youtube video that gave me pretty much enough cookies to unlock all the current achievements – although more achievements are added as its makers. Surprisingly CookieClicker clocked on to the hack and gave me the “bad cookie” award.
 
 The dark game, this absolutely dastardly invention of a clearly insane mind, can be found on the link http://orteil.dashnet.org/cookieclicker/ which you obviously are not going to play anyway, coz you have a life an all right?

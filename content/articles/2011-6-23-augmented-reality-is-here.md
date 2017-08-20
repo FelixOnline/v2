@@ -36,7 +36,7 @@ Augmented reality is only just emerging from that gimmicky stage. It’s a young
 
 These limitations were twofold: the reliance on fiducials (those black and white square markers), and a lack of a bridge between the user and the augmented world. But in the age of the smartphone, the latter issue is moot. Now it has become a lot easier for those innovators in augmented reality to start distributing their content to the masses.
 
-__Still an infant industry__
+Still an infant industry
 
 One such company at the conference was [Wikitude](http://www.wikitude.com/en/), showcasing their self-named augmented reality browser. Available on all major mobile operating systems, Wikitude allows you to look at your surroundings through your smartphone’s camera. It will then overlay information and facts about what you can see, including user-added content and geo-tagged tweets. This is an interesting use-case, and it certainly seems to be popular (it was voted the best augmented reality browser two years in a row). However, it lacks a great deal of interaction, and you have to walk around with your smartphone in front of you to get the effect – not a great look.
 
@@ -52,7 +52,7 @@ Thankfully, some people do seem to be heading in that direction. One particularl
 
 This is a great use for augmented reality. It brings benefits to both parties, which means it’s exactly the sort of initiative that will bring the technology closer to the public eye. For the consumer, it saves a lot of time with trying on the accessory, and allows them a lot more customisation than they would get in the shops. It can save and even generate extra revenue for the company (as they need make fewer watches if most people use this system). This particular example gave a return on investment of four to one. It was also said that the trial was considered a success, with others also having been completed. This is a hopeful sign for pushing augmented reality forward.
 
-__Making it a reality__
+Making it a reality
 
 So where does the technology go from here? It really needs something to push it forward, to accelerate its growth. And if investors aren’t prepared to stump up their cash, maybe it will be games that provide this spurt. The games industry is huge, and if it were to adopt augmented reality en masse, it would almost certainly make it big very quickly. This is definitely a possibility, as we’re starting to see examples of this already.
 

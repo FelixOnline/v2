@@ -38,4 +38,4 @@ My cousin is waiting for a lung transplant. If she gets one, it will radically c
 
 So that is why I’m doing an Ironman. I want to inspire people to give a few pennies to a cause that is very close to my heart. Any amount counts – and it will be incredibly gratefully received.
 
-You can sponsor Ned online by going to [__www.justgiving.com/NedsIronman__](http://www.justgiving.com/NedsIronman) or by text through JustTextGiving by sending ‘IRON66 £(amount you like to give)’ to 70070.
+You can sponsor Ned online by going to [www.justgiving.com/NedsIronman](http://www.justgiving.com/NedsIronman) or by text through JustTextGiving by sending ‘IRON66 £(amount you like to give)’ to 70070.

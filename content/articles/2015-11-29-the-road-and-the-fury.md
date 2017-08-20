@@ -36,4 +36,4 @@ At 102 minutes, the film’s biggest issue is that it is too long. Certain scene
 
 As a piece of pure filmmaking, _Steve McQueen: The Man & Le Mans_ is robust, and Clarke and McKenna deliver a film that hums with visual energy. Where it really excels, however, it in building up a psychological portrait of McQueen, allowing us to peer under the hood of an icon, and see the obsessive engine beneath.
 
-__Final Verdict: 3.5 Stars__
+Final Verdict: 3.5 Stars

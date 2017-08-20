@@ -30,12 +30,12 @@ highlights:
 
 When I began to put this article together the recorded radiation levels around the storage tanks of the Fukushima Nuclear Plant stood at 1,800 millisieverts. By Tuesday a ground reading of 2,200 mSv, a 22% rise, was duly noted.
 
-__The Problem__
+The Problem
  The plant incurred damage in the wake of the 2011 Japanese tsunami. Coolant systems were disrupted and three reactors proceeded to ‘meltdown’. Plant engineers and clean-up workers have struggled with the arduous challenge of keeping the fission reactors cool. Coolant water (up to 400 tonnes per day) is used to this end. The inevitable consequence of this process is the accretion of a large volume of contaminated waste water. Up to 300 tonnes are estimated to have reached the Pacific Ocean to date.
 
 The integrity of the Fukushima equipment is far from stable. TEPCO (the Tokyo Electric Power Co.) found that storage tanks for contaminated water were leaking. The radiation readings above can be attributed to these leaks. Pipes and other damaged structures have also contributed to the problem.
 
-__Japan’s Response__
+Japan’s Response
  The Nuclear Regulation Authority (NRA) of Japan alleged that affected areas ‘were easily contained’. Noting the rapid development of the situation in the past fortnight, Shinzo Abe, Prime Minister of Japan reminded the media of the imperative need “to take drastic measures of a maximum scale” in reducing contamination. His Government has adopted a financially charged stance, pledging a further ¥47 billion (£304 million) in relief. His prudence in relation to the matter has been noted by the international community; Tokyo is a candidate city for the 2020 Olympic Games.
 
 Scientists at the Fukushima plant will attempt to curb contamination by establishing a 27 metre ‘Ice Wall’. The crux of the approach is that freeze pipes containing coolant will freeze surrounding soil, inhibiting groundwater flow. The project is billed to take 6-8 weeks to complete. In sum the people of Japan have thus far taken an enterprising approach to make the best of a bad situation. Their actions have proven that they acknowledge their culpability on both a national and global scale.
@@ -46,7 +46,7 @@ I contacted a Mr. Abdul Patel (MPhil Nuclear Energy, The University of Cambridge
 
 Abdul Patel has tapped into the need for wider debate. The relevant authorities need to acknowledge their shortcomings if Japan is to move forward. In the case of Fukushima the financial, environmental and indeed social consequences of the disaster are clear evidence of the need for a more cohesive approach to energy provision.
 
-__Impeding Factors and Lessons Learned__
+Impeding Factors and Lessons Learned
  The overarching criticism from many parties has been the location of a nuclear plant in a geologically volatile region. Coupled with previous knowledge of earthquakes and subsequent tsunamis in the Pacific Ocean (principally Sumatra, 2004) the drawbacks seem blatant, albeit with hindsight.
 
 This in turn has led to criticism of the integrity of equipment at the Fukushima Nuclear Plant. As cited by Abdul Patel,
@@ -65,7 +65,7 @@ This proposes the need to address company dynamics, giving credence to the role 
 
 It is ironic to think that the steadfast adherence of the Japanese people to a rigorously regimental culture focused on honour may have limited the country’s response to the disaster. One solution would be to establish an independent watchdog, with the role of supervising and assisting the trajectory of free information through the ranks.
 
-__Conclusion__
+Conclusion
  Be it honour over pragmatism, debate over finance or apportionment of blame, the deterioration of Fukushima Nuclear Plant provides a moral for an, as of yet, incomplete story; that of humanity’s response to natural disaster and climate change.
 
 When I was a mere Fresher I submitted an article to [Felix in November 2011](http://felixonline.co.uk/comment/1695/should-climate-change-be-labelled/), angry about governmental approach to climate change. My mantra was as follows,

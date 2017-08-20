@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__Graduation__
+Graduation
 
 As you may be able to infer from the picture above, I’ve graduated! I am now Tim Arbabzadah, Master of Science. Those five seconds of fame on the stage were fun. Although, I didn’t really expect to be the first Master of Science graduate to receive a degree. This meant I had to nervously try to hope that I remembered how to walk and shake hands with people, without being drowned out by the crowd in front of me. Anyway, this meant that I had to graduate and then try to find time to also edit the paper. I therefore would like to take the time to apologise for what may be a somewhat rushed issue this week. Hopefully there won’t be too many errors, but you may find that some sentences just randomly don’t fini. Anyway, I’m sitting here in the dead of night, all alone in the office, with all of my sweary notes telling me to “fucking change page numbers” and other such angry reminders,and it made me think about the Real World.
 
@@ -30,7 +30,7 @@ The main difference between student life and working life is really the constant
 
 The ceremony itself was rather odd. The Rector’s address in particular I thought was a bit strange. Not only did it sound as though he hadn’t really rehearsed it all that much, but it had a very obvious and clear message: well done on graduating; now, go and make money and then give us that money. Lots of our alumni give money, please model yourself on them by giving us money. Nothing wrong with asking us for donations and all that, but, dude, seriously, give us like a maybe longer than a two minute segue into that. Or perhaps just don’t mention it right away. This isn’t me being massively paranoid by the way: the joke of the night about the speech was that it had a heavy “where’s my fucking money punk” focus.
 
-__Hackery__
+Hackery
 
 Just so you know this, here is a definition: a hack is someone who focuses solely on the Union and thinks it is the most important thing in the entire planet and the be all and end all. I have to be a bit hacky due to my position, although I have tried to keep news a bit more interesting to everyone. There are, on occasions, times when you have to talk about something.
 

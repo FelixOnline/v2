@@ -22,17 +22,17 @@ authors:
 highlights:
 ---
 
-__Last Vegas__
+Last Vegas
 
-__Director:__ Jon Turteltaub
+Director: Jon Turteltaub
 
-__Writer: __Dan Fogelman
+Writer: Dan Fogelman
 
-__Starring: __Michael Douglas, Robert De Niro, Morgan Freeman, Kevin Kline, Mary Steenburgen
+Starring: Michael Douglas, Robert De Niro, Morgan Freeman, Kevin Kline, Mary Steenburgen
 
-__Runtime: __105 minutes
+Runtime: 105 minutes
 
-__Certification: __12A
+Certification: 12A
 
 When an old friend finally announces that he is ready to settle down with a woman young enough to his granddaughter, his friends are nothing short of excitement as they get ready for the bachelor party of their lives. Now that they’re all over the age of 70, even in Vegas they need to play it safe. There are pills to be taken, blood pressure to watch and bed times to adhere to. Are they getting too old for this shit? Michael Douglas, Morgan Freeman, Robert De Niro and Kevin Kline certainly don’t think so.
 

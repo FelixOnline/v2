@@ -24,11 +24,11 @@ authors:
 highlights:
 ---
 
-[__The Cabin in the Woods__](http://www.imdb.com/title/tt1259521/)
+[The Cabin in the Woods](http://www.imdb.com/title/tt1259521/)
 
-__Director __Drew Goddard
-__Screenwriters__ Joss Whedon, Drew Goddard
-__Cast Kristen __Connolly, Chris Hemsworth, Jesse William, Fran Kranz, Anna Hutchison
+Director Drew Goddard
+Screenwriters Joss Whedon, Drew Goddard
+Cast Kristen Connolly, Chris Hemsworth, Jesse William, Fran Kranz, Anna Hutchison
 
 Usually, I am not a fan of horror movies, but knowing that this was written by Joss Whedon – the genius behind _Buffy the Vampire Slayer_ – was enough to make me risk potential nightmares and watch it. And I’m glad I did – even though I haven’t really been able to sleep since.
 

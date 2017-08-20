@@ -22,7 +22,7 @@ authors:
 highlights:
 ---
 
-__Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes. In a civilised country like India the treatment of women and “untouchables” is not only completely unacceptable, but also completely unforgivable. However I think it is also wrong to say that the story is as simple as saying that the BJP Party, which was sworn into power a fortnight ago, is to blame. __
+Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes. In a civilised country like India the treatment of women and “untouchables” is not only completely unacceptable, but also completely unforgivable. However I think it is also wrong to say that the story is as simple as saying that the BJP Party, which was sworn into power a fortnight ago, is to blame.
 
 It was in December 2012 that India’s attitude towards women was thrown into the spotlight, when a 23-year-old was gang-raped on a public bus in Delhi – she subsequently passed away a few days later from her injuries.
 

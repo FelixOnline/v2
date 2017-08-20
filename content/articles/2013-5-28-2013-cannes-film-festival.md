@@ -78,7 +78,7 @@ Offering a “thoughtful exploration of meaning of parenthood” as well as prov
 
 Some complaints here however, as some noted the film overall “makes little emotional connection” and how the director “never quite manages to infuse it with the same depth of feeling his main character goes through.” And here’s the harshest one of all “[it] has overall depth and tenor of a Lifetime movie.”
 
-__Winners in full:__
+Winners in full:
 
 Palme d’Or: Abdellatif Kechiche (Blue is the Warmest Colour)
 

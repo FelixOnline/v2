@@ -27,7 +27,7 @@ highlights:
  - longread
 ---
 
-_Yes_ – __Sam Horti__
+_Yes_ – Sam Horti
 
 It seems that the public have decided, almost unanimously, that Nick Clegg is a “sell-out” who has betrayed Liberal Democrat voters. Most of the contempt felt towards the Deputy Prime Minister seems to stem from the Coalition’s tuition fees policy, which will come into effect in September 2012.
 
@@ -45,7 +45,7 @@ Not only do I say that the general feeling towards Nick Clegg is unfounded, I sa
 
 I would ask those who are so quick to belittle Clegg to make a choice in their own minds. They can either have a Liberal Democrat leader who fulfills their own personal desires by attempting to force his manifesto upon David Cameron, or a stable government in which Nick Clegg conducts himself with subtlety. I would say that anyone who prefers the first option is being a little selfish. On the issue of tuition fees, they were simply outranked. I cannot see how Nick Clegg can be to blame for going back on his word when his influence on the matter was next to nothing. Unfortunately, as long as Nick Clegg’s input stays, as it must do, out of the public eye, his integrity will continue to be doubted.
 
-_No_ – __Tim Arbabzadah__
+_No_ – Tim Arbabzadah
 
 So, I am here to argue about why Nick Clegg is a turbo douchebag. Typical student gripes about tuition fees, broken pledges, blah blah blah. I will address that very quickly right now. He said, during the tuition fee row, that he regretted making the pledge saying “I should have been more careful.” Making it sound as if it is something he did on a drunken night out and woke up hoping it was just a dream. Yeah, but that is just the tip of the arsehole-iceberg.
 

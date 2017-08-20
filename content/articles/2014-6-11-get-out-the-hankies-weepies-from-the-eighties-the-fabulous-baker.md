@@ -24,17 +24,17 @@ highlights:
  - longread
 ---
 
-__The Fabulous Baker (1989)__
+The Fabulous Baker (1989)
 
-__Director:__ Steve Kloves
+Director: Steve Kloves
 
-__Writers: __Steve Kloves
+Writers: Steve Kloves
 
-__Starring: __Michelle Pfeiffer, Jeff Bridges, Beau Bridges
+Starring: Michelle Pfeiffer, Jeff Bridges, Beau Bridges
 
-__Runtime: __114 minutes
+Runtime: 114 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 4/5
 

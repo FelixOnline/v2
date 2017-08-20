@@ -29,7 +29,7 @@ highlights:
  - photos
 ---
 
-This January sees the opening of the __Gilbert & Ildiko Butler____drawings gallery__ at the Courtauld. The wonderful purpose built gallery, designed by 2013 Stirling prize winners Witherford Watson Mann Architects, finally gives the public a chance to see one of the most celebrated collections of drawings in the country. With over 7000 works, this is a remarkable opportunity to see a glimpse into the overlooked riches of the __Courtauld Institute. __
+This January sees the opening of the Gilbert & Ildiko Butlerdrawings gallery at the Courtauld. The wonderful purpose built gallery, designed by 2013 Stirling prize winners Witherford Watson Mann Architects, finally gives the public a chance to see one of the most celebrated collections of drawings in the country. With over 7000 works, this is a remarkable opportunity to see a glimpse into the overlooked riches of the Courtauld Institute.
 
 In this first exhibition in the new gallery, _Unseen_ presents a small selection of works, all of which have not been exhibited at the gallery in the last twenty years. Predominantly by lesser known artists, the works range from the renaissance to the twentieth century with a remarkable breadth of subject matter and style. Although the works of some well-known artists are presented including Rubens and Henry Moore, the true delight of this exhibition is the number of works which show styles and technique often centuries before their time.
 

@@ -27,7 +27,7 @@ highlights:
 
 Royally entertaining…”, “stimulating comedy”, “a victoriously vulgar piece of light entertainment.” Not so fast!
 
-That’s what the popular, royalist press of this country has been saying about this year’s must-see show,_ King Charles III_ at the __Wyndham Theatre__.
+That’s what the popular, royalist press of this country has been saying about this year’s must-see show,_ King Charles III_ at the Wyndham Theatre.
 
 Of course, for a huge proportion of the British population, the Royal Family are, quite literally, the crown jewels of this great country. Unfortunately, I’m not one of those people, and so it shouldn’t surprise you that I was not quite as “royally entertained” as some other parts of the admittedly jovial audience. A great play maybe, but a shocking case of trivialising a scarily dark issue.
 

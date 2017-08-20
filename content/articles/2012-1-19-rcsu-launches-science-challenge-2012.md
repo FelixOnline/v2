@@ -39,10 +39,10 @@ Entrants select one topic question and must write 800 words by 5 March, when the
 The event was modernised with an interactive live twitter stream being displayed on one screen for the attendees to post collectively as they experienced the event. The tweets were aggregated under the hashtag [#SciChal](https://twitter.com/#!/search?q=%23scichal) but the screen was shortly switched off as there was no moderation mechanism in place.
 
 The questions for this year's Science Challenge this year are as follows:
-__Lord Robert Winston__: _"What are the five main ethical issues that face modern science and how do we tackle them?"_
-__Pallab Ghosh__: _"What is the role of science journalism in the 21st Century?"_
-__Peter Lacy__: _"What scientific breakthrough should we focus on to provide sustainable food, energy and water for nine billion on a planet of apparently finite natural resources, and why?"_
-__Mark Henderson__: _"How should politicians best make use of science?"_
+Lord Robert Winston: _"What are the five main ethical issues that face modern science and how do we tackle them?"_
+Pallab Ghosh: _"What is the role of science journalism in the 21st Century?"_
+Peter Lacy: _"What scientific breakthrough should we focus on to provide sustainable food, energy and water for nine billion on a planet of apparently finite natural resources, and why?"_
+Mark Henderson: _"How should politicians best make use of science?"_
 
 The competition allows both Imperial students to enter as well as students from secondary schools and colleges, with a separate prize branch for external students. Two unallocated tickets to the House of Lords dinner, where the final is expected to be held, were handed out during the launch to Annina Sartor, who successfully answered the arithmetic riddle given with 131, the number of years since the RCSU's founding.
 

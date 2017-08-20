@@ -36,42 +36,42 @@ The Presidential campaign was also affected by delays as individual candidates b
 
 The results for Deputy President (Welfare) and President were delayed until 22 March and 27 March respectively rather than the 20 March for the other positions.
 
-__RESULTS__
+RESULTS
 
-__President__
+President
  Paul Beaumont: 2658 – Elected
  Abdul Patel: 2300 (Second Round)
  Henry Abbott: 660 (First Round)
  RON: 288 (First Round)
 
-__Deputy President (C&S)__
+Deputy President (C&S)
  Henry Whittaker: 2629 – Elected
  RON: 655 (First Round)
  Joachim Dias: 447 (First Round)
 
-__Deputy President (Education)__
+Deputy President (Education)
  Douglas Hunt: 3167 – Elected
  RON: 673 (First Round)
 
-__Deputy President (F&S)__
+Deputy President (F&S)
  Stefan Nubert: 1809 – Elected
  Chandana Shankar: 1701 (Second Round)
  RON: 367 (First Round)
 
-__Deputy President (Welfare)__
+Deputy President (Welfare)
  Rebecca Lane: 1291 – Elected
  Jack Hewitt: 1230 (Fourth Round)
  Binayak Basnyat: 874 (Third Round)
  Reuben Margerison: 609 (Second Round)
  RON: 334 (First Round)
 
-__Felix Editor__
+Felix Editor
  Tim Arbabzadah: 2153 – Elected
  Alexander Karapetian: 1713 (Second Round)
  Laurence Pope: 500 (First Round)
  RON: 242 (First Round)
 
-__ICSMSU President__
+ICSMSU President
  Shiv Vohra: 940 – Elected
  RON: 208 (First Round)
 

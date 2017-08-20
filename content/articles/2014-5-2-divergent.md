@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Divergent__
+Divergent
 
-__Director:__ Neil Burger
+Director: Neil Burger
 
-__Writers: __Evan Daugherty, Vanessa Taylor, Veronica Roth (novel)
+Writers: Evan Daugherty, Vanessa Taylor, Veronica Roth (novel)
 
-__Starring: __Shailene Woodley, Theo James, Kate Winslet
+Starring: Shailene Woodley, Theo James, Kate Winslet
 
-__Runtime: __139 minutes
+Runtime: 139 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 3/5
 

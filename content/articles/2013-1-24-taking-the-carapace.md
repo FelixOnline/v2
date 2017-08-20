@@ -41,4 +41,4 @@ For certain scenes though, such as Grete’s freakout and Gregor’s death, the 
 
 Overall Metamorphosis was well produced. The open plan family house was a clever way of allowing us to see Gregor’s behaviour as his family grew increasingly ashamed and separated from him. The relatively small stage prevented the overuse of a single setting becoming boring and negated the need for messy changes between scene.
 
-__[Metamorphosis is on at the Lyric Hammersmith](http://www.lyric.co.uk/whats-on/production/metamorphosis/). Tickets from £12.50. Until 9th February.__
+[Metamorphosis is on at the Lyric Hammersmith](http://www.lyric.co.uk/whats-on/production/metamorphosis/). Tickets from £12.50. Until 9th February.

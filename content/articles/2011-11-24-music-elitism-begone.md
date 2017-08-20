@@ -29,7 +29,7 @@ highlights:
 
 What does your CD collection consist of? Oh, wait a second, I remember now. Nobody buys those things anymore… it’s all about the Internet nowadays.
 
-At the risk of sounding old fashioned and out of the loop, I will admit that I have only ever downloaded two songs: one a rather funky number by the electro-swing group __The Correspondents__, and the other? ‘[Last Christmas](http://www.youtube.com/watch?v=E8gmARGvPlI&ob=av3e)’ by __Wham!__ I realise that the confession I am about to write will win me no friends in the ‘cool’ music crowd but I want to start the fight against music elitism!
+At the risk of sounding old fashioned and out of the loop, I will admit that I have only ever downloaded two songs: one a rather funky number by the electro-swing group The Correspondents, and the other? ‘[Last Christmas](http://www.youtube.com/watch?v=E8gmARGvPlI&ob=av3e)’ by Wham! I realise that the confession I am about to write will win me no friends in the ‘cool’ music crowd but I want to start the fight against music elitism!
 
 I didn’t buy that song because it was Christmas. It was, in fact, January. I bought it because I can honestly say that I am a Wham! fan and that song is a classic all year round. I am often told by a close friend to not mention the presence of Wham! in my music collection to new acquaintances in order to avoid the inevitable backing away, “Sorry… I have somewhere else to be…” scenario. But to tell the truth I often use it as a test. In my book, if you can’t accept my love of Wham! then you are not worth having as an acquaintance.
 
@@ -37,7 +37,7 @@ I am no 80s freak. I don’t own a pair of leg warmers or have pictures of Georg
 
 {{< figure src="http://felixonline.co.uk/img/upload/201111242132-felix-wham.jpg" title="Snowflakes, dandruff or... cocaine? Well, it is the 80s " caption="Snowflakes, dandruff or... cocaine? Well, it is the 80s " attr="" >}}
 
-I am not ashamed to say that since becoming a student over two years ago, I have been to see __LCD Soundsystem__, the __Jonas Brothers__, __Rufus Wainwright__ and __Brad Paisley__, amongst others. A mix for sure but something I feel like I should be able to write about without fear of reprisal.
+I am not ashamed to say that since becoming a student over two years ago, I have been to see LCD Soundsystem, the Jonas Brothers, Rufus Wainwright and Brad Paisley, amongst others. A mix for sure but something I feel like I should be able to write about without fear of reprisal.
 
 Be sure that this ‘lack of musical taste’ is not down to being uninterested in music. I will listen to anything and I can generally find something I like about it. In all honesty, I don’t listen ironically to any of the questionable things on my iPod; I really do just enjoy listening to them.
 

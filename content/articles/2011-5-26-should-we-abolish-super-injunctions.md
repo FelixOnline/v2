@@ -24,7 +24,7 @@ highlights:
  - longread
 ---
 
-_Yes_ – __Gareth Rosser__
+_Yes_ – Gareth Rosser
 
 The simple answer? Yes. Freedom of speech is one of the hallmarks of a civilised society, and injunctions curtail that freedom in a very real way. I mean, let’s be honest I’m a reasonable-ish person and in extreme and rare situations, I could be persuaded that injunctions might have a place. But these days, celebrities are using them to hide extramarital affairs or other activities of an embarrassing nature. Quite frankly, this is not enough of a reason.
 
@@ -40,7 +40,7 @@ The extent of these injunctions is mind–boggling. Until a peer announced that 
 
 I’ll admit, maybe there is a place for injunctions in certain special cases. But in the way they’re currently being used undermines their purpose. They’re being used for selfish reasons, to escape consequences. And ironically, many of the injunctions taken out have led to more publicity for the celebrities, not less. I can’t say I don’t take some small satisfaction from this. I appreciate that celebrities are human. They make mistakes. We all do. But some celebrities seem to think they deserve to hide from their mistakes. With the dawning of the internet, celebrities may end up having to eat their just desserts.
 
-_No_ – __Angry Geek__
+_No_ – Angry Geek
 
 I realise you may be slightly concerned to see my name here, on the other side of the page, the one where the crazies live and people think that celebrities should be able to have affairs in secret. Well, yes and no. I’m here fighting for the side of superinjunctions not because I think it’s right to keep the naughty actions of others a secret, but because, seriously, fuck you guys.
 

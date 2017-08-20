@@ -29,7 +29,7 @@ highlights:
  - longread
 ---
 
-__Yes – Tagore Nakornchai__
+Yes – Tagore Nakornchai
 
 The idea that there would be an unelected legislative chamber completely and utterly unaccountable to scrutiny and democratic processes seems completely foreign in a modern, liberal democracy. Yet that is exactly what the House of Lords is – a body made up of MPs who lost their seats, ex-CEOs (or ex-Union leaders) who donated to the parties, great-great-great-great grandsons of 18th century generals and the bishops of the Church of England.
 
@@ -43,7 +43,7 @@ Change is needed – having the Lords democratically elected will bring greater 
 
 So really, is there any case for not reforming the Lords? We’d get rid of one of the last undemocratic institutions in the UK, improve the accountability of the House of Commons and preserve, even enhance the checks and balances that presently exist. Oh, yes, and of course, since there won’t be that many Lords in the reformed Lords, we’ll presumably have to change the name as well. Maybe it’s time we copied something from the former colonies and rename it the Senate.
 
-__No – Matthew Parker__
+No – Matthew Parker
 
 > Why fix something that’s not broken?
 

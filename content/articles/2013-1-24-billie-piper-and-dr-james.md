@@ -53,4 +53,4 @@ Furthermore, if Connie is a student who lives in a “shit hole”, how does she
 
 Aside from the few blips, if anything (for science students especially) it is definitely worth going along for the “psychology is not a real science” jokes.
 
-__[The Effect is on at the National Theatre](http://www.nationaltheatre.org.uk/shows/the-effect). Tickets from £12. Until 23rd February.__
+[The Effect is on at the National Theatre](http://www.nationaltheatre.org.uk/shows/the-effect). Tickets from £12. Until 23rd February.

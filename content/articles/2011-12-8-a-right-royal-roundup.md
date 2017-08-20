@@ -24,7 +24,7 @@ highlights:
  - photos
 ---
 
-__Hacks, cracks and website attacks__
+Hacks, cracks and website attacks
 
 Without a doubt, the biggest thing to hit the gaming world this year would have to be April’s takedown of the [PSN](http://uk.playstation.com/psn/). Gamers were originally left in the dark about the whole situation, with Sony initially only offering the explanation that there was an ‘external intrusion’. It took Sony days to even admit that addressed and payment details may have been stolen – with some reporting malicious use of debit cards.
 
@@ -36,7 +36,7 @@ Valve had some bad news too. The [Steam](http://www.steampowered.com) forums suf
 
 Luckily for Steam users, the forums returned in just a few weeks, and it didn’t affect the entire service, though, it is a stark reminder of the risks involved with “cloud” gaming services such as Steam and the PSN.
 
-__Releases Galore__
+Releases Galore
 
 There has been plenty of good news this year though, with lots of major releases to keep your fingers occupied with. The first was back in March when the much-anticipated [_Crysis 2_](http://www.ea.com/crysis-2) was released, which reached over three million sales by June, and was generally decided to be an excellent title by the critics. [Crytek](http://www.crytek.com/)’s rhetoric machine was in full force for this release, with executives saying that _Crysis 2_’s graphics, AI and gameplay are the best in video gaming history.
 
@@ -56,7 +56,7 @@ For those who preferred something a little bit lighter, the third [_Humble Indie
 
 And, of course, no wrap up of the year’s big releases is complete without [_Skyrim_](http://www.elderscrolls.com/skyrim/), one of a few games to receive universal acclaim. Steam showed 230,000 concurrent players on the day of release, and approximately $450m in sales over just five days, making it the second best selling game this year, beaten only by _Modern Warfare 3_.
 
-__Consoles on the way__
+Consoles on the way
 
 {{< figure src="http://felixonline.co.uk/img/upload/201112082132-pk1811-3ds_large.jpg" title="" caption="" attr="" >}}
 
@@ -64,7 +64,7 @@ Bar the Xbox 360 dashboard being revamped a couple of times, Microsoft and Sony 
 
 What may be more successful for them is 2012’s [Wii U](http://e3.nintendo.com/hw/#/introduction), the successor to their last console in 2006. This was unveiled at June’s E3, and features a touchscreen on the controller, in addition to the high definition playback on the television. This would be in addition to using the older Wiimotes, and backwards compatibility (at least from an optical media angle) would be restricted to Wii games, owners of large GameCube libraries may have to repurchase their titles from whatever (if anything) succeeds the Virtual Console.
 
-__What can we expect in ‘12?__
+What can we expect in ‘12?
 
 It’s hard to tell what will happen next year. One of the arguments against the high price of the 3DS games is the high cost, especially when you consider the increasing number of people gaming on their mobile phones, thanks to app store mania. This definitely seems to be the way things are going – Atari released 100 of their classic games onto iOS, and there have been calls by Nintendo’s investors to do the same.
 

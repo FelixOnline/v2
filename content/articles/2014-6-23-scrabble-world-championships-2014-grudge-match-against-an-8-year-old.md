@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-__Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins. What sets him out from the rest of the crowd is that, being aged 8, he’s at least a decade younger than anyone else here. Learning from my failures in adopting the direct approach with Nigel, I managed to convince him have a chat with me over a game the following day.__
+Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins. What sets him out from the rest of the crowd is that, being aged 8, he’s at least a decade younger than anyone else here. Learning from my failures in adopting the direct approach with Nigel, I managed to convince him have a chat with me over a game the following day.
 
 Buoyed by my date with Lewis, I continued to rove field-recorder in hand. Still feeling my way into the Scrabble scene, driven in equal measures by my own ignorance and potential interviewees’ relative reticence, I found myself asking similar questions to each willing participant. Question: “If you had one tip to a layman Scrabbler, what would it be?” Almost without exception, the response was to learn all the two letter words. Yet somehow this didn’t seem enough. I wanted more in depth secrets, some juice, to give a window into the mind of a proper player and see better how their approach differed from that of you or I. I added it to my notes and pressed on.
 

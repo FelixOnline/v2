@@ -25,7 +25,7 @@ highlights:
 
 This year, it's all about meat in the London restaurant scene. Hot new arrivals include pop-up joint [#Meateasy](http://www.themeatwagon.co.uk/) (New Cross) serving minced 28 day aged chuck steak burgers, Philly cheesesteaks and other North American grill classics. Satisfying our pure, primitive desire to eat meat provides the comfort that lets us forget about the grim times we're in. Aside from the new faces, capitalist London is full of legendary gastronomic rivals who strive to outdo each other in nothing other than preparing the most exquisite meat. So where's the beef?
 
-__THE BURGER__
+THE BURGER
 
 [Haché](http://www.hacheburgers.com/) vs [Byron](http://www.byronhamburgers.com/)
 
@@ -35,13 +35,13 @@ Haché. Their falafel sweetcorn burger with beetroot is the only vegetarian dish
 
 Haché's crucial beef burgers are ironically spoilt by their signature ciabatta buns that don't really work. Nevertheless, they have very strong patty potential. Byron, despite their patchy service, makes incredible burgers that are perfectly medium-rare. They're even better than in Gordon Ramsey's Maze Grill.
 
-__THE ALL-YOU-CAN-EAT BRAZILIAN BBQ__
+THE ALL-YOU-CAN-EAT BRAZILIAN BBQ
 
 [Rodizio Rico](http://www.rodiziorico.com/) vs [Rodizio Preto](http://www.rodiziopreto.co.uk/)
 
 Are you looking for a meat orgy? Or is it meat asphyxiation? Head to one of these havens that'll leave you paralysed in pleasure. In the Rodizio, or Brazilian barbeque, waiters glide from table to table with hunks of meat on swords, stopping to carve a pile on your plate until you tell them to stop. Itís about quality, quantity, and variety too. There's straight-off-the-barbeque beef ribs, lamb, gammon, chorizo, chicken hearts, baby beef and more, which will work you up into a frenzy. You name a cut of meat, theyíll have it. If you somehow get bored of the protein monotony, thereís a colossal buffet of Brazilian dishes such as fritters, feijoada stews, rice and salads too. Out of the two restaurants, Rodizio Rico has the edge with their wonderfully flavourful, smoky cuts of meat and cheerful service. At £23.50 a head, it might feel slightly pricey but youíll get your money's worth if you play it right, i.e., fill up on sirloin. There's a Rodizio Rico branch opening in Fulham Broadway soon. Definitely something to look forward to.
 
-__OUR LOCAL FAVOURITE__
+OUR LOCAL FAVOURITE
 
 [Best Mangal](http://www.bestmangal.com/) vs [Bodean’s](http://www.bodeansbbq.com/)
 

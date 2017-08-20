@@ -26,9 +26,9 @@ highlights:
 
 [Hobo with a Shotgun](http://www.imdb.com/title/tt1640459/)
 
-__Director__ Jason Elsener
-__Screenwriters__ Rob Cotterill, Niv Fichman, Paul Gross, Frank Siracusa
-__Cast__ Rutger Hauer
+Director Jason Elsener
+Screenwriters Rob Cotterill, Niv Fichman, Paul Gross, Frank Siracusa
+Cast Rutger Hauer
 
 Some films are bad. Some films are so bad they’re good. And there are some films which are so bad, they’re awesome. ​
 

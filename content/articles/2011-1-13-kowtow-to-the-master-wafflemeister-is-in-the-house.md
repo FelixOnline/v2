@@ -41,23 +41,23 @@ I’ll let you into a secret, though. The creator of Wafflemeister, Alex Troulli
 
 I spoke to Alex to tell us more…
 
-__How did you come up with the idea of a waffle business in 1999? __
+How did you come up with the idea of a waffle business in 1999?
 
 I have always been very passionate about gourmet food and desserts. Back in 1999 it was impossible to find a freshly made waffle virtually anywhere in London. So I decided to set-up a business that would make them fresh in-store daily and added other delicious toppings and gelato to go with it.
 
-__Had you any experience dealing with your own business prior to this, considering it was a big step to take? And what was it like to balance the studies and BFC? __
+Had you any experience dealing with your own business prior to this, considering it was a big step to take? And what was it like to balance the studies and BFC?
 
 Luckily I had some previous experience from running my own company prior to joining the MBA programme. That did help considerably in setting up BFC and avoiding some of the pitfalls that come with a start-up. It was difficult to balance both work and the MBA but you somehow make it work by just adding more hours to the day. I had a great work group and business partners. That did help tremendously.
 
-__Do you have any tips for anyone wanting to start their own business? __
+Do you have any tips for anyone wanting to start their own business?
 
 It is not easy. Be prepared to work very, very hard and only do it if you are extremely passionate about what it is you want to do. Write an exhaustive business plan. Ask for help and free advice where and whenever possible. Try getting discounts all the time. Focus on execution and always listen to your customer.
 
-__What was the reason behind you returning to the waffles? __
+What was the reason behind you returning to the waffles?
 
 I love good food and after spending nearly 10 years in finance I wanted to get back to something that I was more passionate about.
 
-__After opening three stores in London, what are your plans for Wafflemeister in 2011? __
+After opening three stores in London, what are your plans for Wafflemeister in 2011?
 
 We want to focus on growing local trade and our catering events business. We will add 1 or 2 stores to our UK portfolio this year and are also researching plans for opening a store in the US.
 

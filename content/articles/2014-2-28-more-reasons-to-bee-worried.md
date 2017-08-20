@@ -40,4 +40,4 @@ Don’t panic too much though, as Dr David Aston – president of the British Be
 
 As always, prevention is better than cure.
 
-__DOI: ____10.1038/nature12977__
+DOI: 10.1038/nature12977

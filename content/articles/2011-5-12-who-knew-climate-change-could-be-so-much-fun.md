@@ -45,4 +45,4 @@ With so much of the premise relying on the core gameplay, it’s so important th
 
 I really would recommend FotW, even if this genre isn’t your usual tipple. Having to think about your various strategies and the solid gameplay makes this game one to look out for.
 
-__Fate Of The World is available now from [www.fateoftheworld.net](http://www.fateoftheworld.net), for about £10.__
+Fate Of The World is available now from [www.fateoftheworld.net](http://www.fateoftheworld.net), for about £10.

@@ -24,7 +24,7 @@ authors:
 highlights:
 ---
 
-__Sir Christopher Lee passes away__
+Sir Christopher Lee passes away
 
 Veteran actor Sir Christopher Lee died aged 93, it was revealed on Thursday.
 
@@ -46,7 +46,7 @@ Lee also had an extremely active career outside of acting, not least in the worl
 
 Lee was made a CBE in 2001, before being knighted in 2009.
 
-__Chris Hemsworth joins female Ghostbusters__
+Chris Hemsworth joins female Ghostbusters
 
 Paul Feig, director of the all-female take on beloved classic _Ghostbusters_, has announced his latest piece of casting via Twitter.
 
@@ -60,7 +60,7 @@ The film is being pushed as its own story, not just another spin on the original
 
 Before that, Hemsworth is appearing in the new _Vacation_ film, landing on August 21, while future co-star Melissa McCarthy is on screens now in _Spy_.
 
-__Female Jump Street gets more writers__
+Female Jump Street gets more writers
 
 Much like _Ghostbusters_, the _Jump Street_ series is getting its own female-led spin-off, and Sony has adopted one of cinema’s new favourite tactics: having multiple writers working on separate scripts for the same film at the same time.
 
@@ -74,7 +74,7 @@ The main thrust of the franchise is also going strong, with Rodney Rothman worki
 
 There’s no news on the story or any real details for any of the three projects - not yet, anyway.
 
-__Spectre teaser released__
+Spectre teaser released
 
 The latest James Bond film, _Spectre_, got a new teaser trailer during the NBA finals on Tuesday night, marking the start of the steady increase of publicity materials for the highly-anticipated film.
 

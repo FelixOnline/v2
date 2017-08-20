@@ -52,4 +52,4 @@ This is also a great opportunity for anyone looking to enhance their CV. From le
 
 There will be an induction session held later in the summer term giving an overview of the plans for the coming year and the different roles available. Additionally we are planning a formal training session to help everyone with their presentation and teaching skills.
 
-This is really an amazing program to be involved in, so if you are interested just send an email to [__james.pearle08@imperial.ac.uk__](mailto:james.pearle08@imperial.ac.uk) and join us in our effort to help the youth of today help themselves.
+This is really an amazing program to be involved in, so if you are interested just send an email to [james.pearle08@imperial.ac.uk](mailto:james.pearle08@imperial.ac.uk) and join us in our effort to help the youth of today help themselves.

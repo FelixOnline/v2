@@ -35,5 +35,3 @@ Initially Cecil starts out as a simple commentator on the goings on in the town.
 Despite having gone on for over a year and a half now _Welcome to Night Vale_ continues to feel fresh and innovative. The show’s creative team is not afraid to explore new format ideas and there are regular guest contributors – both to the writing and music. The podcast reminds me of other similar comedy shows of a similar format – such as Radio 4’s _Bigipedia_ – however I have never listened to anything that was quite so imaginative and daring, both in terms of style as well as content, as _Welcome to Night Vale_. All of the episodes are available free online so there is no excuse for you not to check them out. With thirty nine episodes having already been released, and a companion novel on the way, there is a lot to catch up – but I can promise you that you won’t be disappointed by this unique podcast.
 
 _See commonplacebooks.com/welcome-to-night-vale for more information and to purchase _Welcome to Night Vale _merchandise. The show can be streamed, for free, from http://podbay.fm/show/536258179._
-
-__

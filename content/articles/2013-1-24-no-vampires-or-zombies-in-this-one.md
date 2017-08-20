@@ -23,11 +23,11 @@ highlights:
  - longread
 ---
 
-__Lincoln__
+Lincoln
 
-__Director__: Steven Spielberg
-__Screenwriters__: Tony Kushner, Doris Kearns Goodwin (book)
-__Starring__: Daniel Day-Lewis, Sally Field, Tommy Lee Jones, David Strathairn, Hal Holbrook, Lee Pace, Joseph Gordon-Levitt
+Director: Steven Spielberg
+Screenwriters: Tony Kushner, Doris Kearns Goodwin (book)
+Starring: Daniel Day-Lewis, Sally Field, Tommy Lee Jones, David Strathairn, Hal Holbrook, Lee Pace, Joseph Gordon-Levitt
 
 It’s a story we all think we know so well. Abraham Lincoln, the 16th President of the United States, abolished slavery. Yay, he’s a hero and hurrah for Lincoln who remains an American icon. But Steven Spielberg is here to tell us that it wasn’t a simple task by any means. Passing the 13th Amendment in the last few months of his Presidency, Lincoln achieved a milestone in American politics banning slavery outright – that’s the end result. But what came beforehand was a whole heap of ups and downs that threatened its smooth course. For international audiences not familiar with the details and intricacies of the event, _Lincoln_ can seem a daunting, information-heavy movie experience. But here is a film so well crafted, cleverly written and brilliantly acted that it forms as much as it entertains. Essentially this is a film where we see a lot of talking, between important individuals behind closed doors, but how Spielberg keeps every single minute of it all so fascinating is a real wonder.
 

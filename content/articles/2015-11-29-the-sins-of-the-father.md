@@ -32,4 +32,4 @@ What follows is a deeply personal documentary – Sands grandfather, who grew up
 
 While Sands adds an Adam Curtis-esque authority to the documentary, his linking together of past and present events is not as seamless – we end the documentary on a mediation on growing Fascist sentiment in the Ukraine that seems to sit oddly with the rest of the film. Nevertheless, _My Nazi Legacy _is a moving, deeply personal portrait of the scars left by the march of history.
 
-__Final Verdict: 3.5 Stars__
+Final Verdict: 3.5 Stars

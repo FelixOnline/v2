@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-__Elite: Dangerous__
+Elite: Dangerous
 
 If you are talking about space games, the Elite series is one that stirs good memories for many a gamer. Sadly, the last entry in this illustrious series was released back in 1995, meaning that many of the newer generation of gamers never really had the opportunity to play this. Therefore when Elite: Dangerous was offered up on kickstarter, it wasn’t long before it reached its target goal.
 
@@ -37,7 +37,7 @@ Well obviously it’s available, which No Man’s Sky or Star Citizen can’t cl
 
 This game is for you if you want play a space game, and you want to play it now. Overall it has gotten really good reviews, and while the learning curve may be a bit steep, it does look really like something that could be immensely enjoyable.
 
-__No Man’s Sky__
+No Man’s Sky
 
 When this game was shown off by Hello Games at E3, it completely blew most people’s minds. No Man’s Sky looked like the space game we have always wanted, and it has mostly been developed in secret, under the codename Project Skyscraper. This game’s universe is completely procedurally generated and will be based on a 64-bit seed key. This means that this game can create more than 18 quintillion planets (18 followed by 18 zeros) for you to explore. However, this does not even include all the possibilities of flora and fauna, which are generated in the exact same way. So not only do you seamlessly get to fly from space to the planet’s surface, you can jump out and inspect the animals, name their species and categorize them!
 
@@ -47,7 +47,7 @@ Sadly this game is not out yet, and there is no fixed release date, however, a 2
 
 This game is for you if you don’t really care much about the fighting, and trading and all those shenanigans and prefer to explore things, seeing marvellous new worlds, watch fascinating creatures and name them anything you want. What this game will hopefully be is a beautiful journey with views that won’t disappoint.
 
-__Star Citizen__
+Star Citizen
 
 This is the game that I am looking forward to the most. This game has a solid foundation in old prequels, and was crowdfunded to the ridiculous amount of $68 million to date, with more coming in daily. Rather than working with procedural generation, the development team at Robert Space Industries have crafted over 60 unique star systems, and they look incredibly beautiful for it. However, exploring the entirety of a planet, or even manually flying to their surface sadly aren’t features that are currently planned in the game.
 

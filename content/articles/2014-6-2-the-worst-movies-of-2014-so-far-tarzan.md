@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Tarzan__
+Tarzan
 
-__Director:__ Reinhard Klooss
+Director: Reinhard Klooss
 
-__Writers: __Reinhard Klooss, Jessica Postigo
+Writers: Reinhard Klooss, Jessica Postigo
 
-__Starring: __(voices) Kellan Lutz, Robert Capron, Spencer Locke
+Starring: (voices) Kellan Lutz, Robert Capron, Spencer Locke
 
-__Runtime: __94 minutes
+Runtime: 94 minutes
 
-__Certification: __PG
+Certification: PG
 
 Rating: 1/5
 

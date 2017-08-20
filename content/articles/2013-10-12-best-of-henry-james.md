@@ -31,4 +31,4 @@ James’ In the Cage has the feel of a detective story; here the voyeuristic ten
 
 Short stories are perfect if you don’t have the time or energy to concentrate on a longer novel. You can pick the book up whenever you want, sure in the knowledge that you won’t have to leave something unfinished for weeks while you work towards your next deadline. James’ tales are also something of a ‘language workout’; they require a little effort but the rewards are copious and the reader’s English may become much improved.
 
-__Selected Tales by Henry James; published by Penguin Classics ed. 2001.__
+Selected Tales by Henry James; published by Penguin Classics ed. 2001.

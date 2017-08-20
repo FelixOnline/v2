@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-Rupert Street. It’s not exactly a street name that shouts out “Food Mecca”, such an honour usually reserved for the likes of Brick Lane, Old Street and Borough Market. But think again. I visited Rupert Street, located in the centre of Soho, three times within a period of two or so weeks. Not for the X-rated sex shops as some would relate Soho to, but for the relatively newly opened __[MADD](http://www.wearemadd.com/)__, a mango dessert café.
+Rupert Street. It’s not exactly a street name that shouts out “Food Mecca”, such an honour usually reserved for the likes of Brick Lane, Old Street and Borough Market. But think again. I visited Rupert Street, located in the centre of Soho, three times within a period of two or so weeks. Not for the X-rated sex shops as some would relate Soho to, but for the relatively newly opened [MADD](http://www.wearemadd.com/), a mango dessert café.
 
 The brainchild of an Imperial alumnus, Ralph Monthienvichienchai, its creation was stemmed from an unwillingness to study a PhD and a passion for mangoes. Of course, it isn’t every day that an equation like that results in opening your own mango café in the heart of Soho. A Masters degree from the [Business School](http://www3.imperial.ac.uk/business-school) may have put him in good stead for the theory behind business, but Ralph believed the only way to learn was to get out there and take each hit and fall as they came.
 
@@ -33,20 +33,20 @@ MADD bears a striking resemblance to the other more familiar yoghurt brands like
 
 Our Mango Sago bowl combines mango with sago pearls, a starch ingredient originating from New Guinea but rarely presented to the Western palate, and is one of the best representations in London of a Mango, Sago and Pomelo dessert I often seek in Hong Kong. Next comes the Mango MADDness, a jumbo platter featuring sticky glutinous rice with mango, a mango pudding and a Panna Cotta that was created especially for MADD with a chef from Le Cordon Bleu. You’d be challenged to finish that all on your own, which is why MADD is a place to visit with friends. Jenga towers, Connect 4 and UNO cards complete the experience where you can just be a bit... MADD.
 
-Rupert Street is also home to the heavily publicized __[Bubbleology](http://www.bubbleology.co.uk/)__, which serves Taiwanese bubble tea, a beverage containing tiny tapioca pearls which slide up into your mouth as you sip. In my opinion, it’s overrated, definitely not original (although its PR says otherwise) and I can’t believe they’re opening a pop-up store in Harvey Nichols next month. Try it if you’re not used to having balls in your mouth.
+Rupert Street is also home to the heavily publicized [Bubbleology](http://www.bubbleology.co.uk/), which serves Taiwanese bubble tea, a beverage containing tiny tapioca pearls which slide up into your mouth as you sip. In my opinion, it’s overrated, definitely not original (although its PR says otherwise) and I can’t believe they’re opening a pop-up store in Harvey Nichols next month. Try it if you’re not used to having balls in your mouth.
 
-Finally, you can also find the food blogger’s favourite, __[Spuntino](http://www.spuntino.co.uk/)__, serving comfort food with an Italian-American twist, on this street. Peanut butter ice cream and jam – totally!
+Finally, you can also find the food blogger’s favourite, [Spuntino](http://www.spuntino.co.uk/), serving comfort food with an Italian-American twist, on this street. Peanut butter ice cream and jam – totally!
 
-__MADD__ 53 Rupert Street, Soho. W1D 7PH.
+MADD 53 Rupert Street, Soho. W1D 7PH.
 
 Opening hours: Mon-Thur 11am-10pm; Fri-Sat 11am-midnight; Sun 11am-8pm.
 
 [www.wearemadd.com](http://www.wearemadd.com)
 
-__Bubbleology__ 49 Rupert St, Soho. W1D 7PF.
+Bubbleology 49 Rupert St, Soho. W1D 7PF.
 
 Opening hours: 11am-11pm
 
-__Spuntino__ 61 Rupert Street, Soho, London, W1D 7PW.
+Spuntino 61 Rupert Street, Soho, London, W1D 7PW.
 
 Opening hours: Mon-Sat 11am-midnight; Sun noon-11pm

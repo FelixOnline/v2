@@ -58,5 +58,3 @@ There are effective medical treatments for the vast majority of mental health pr
 No one should have to live with one forever, and no one should feel defined by it. In an ideal world, the NHS would provide all the treatment and help we could need, but this isn’t that ideal world.
 
 Imperial needs to support students to the best it can, it’s in College’s own interest to have healthy students and it needs to continue to effectively fund organisations that help that.
-
-____

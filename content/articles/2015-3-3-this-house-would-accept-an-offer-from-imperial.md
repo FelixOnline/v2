@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-__Proposition: Bruce Weaver__
+Proposition: Bruce Weaver
 
 We are all aware of Imperial’s academic reputation. I think the academic benefits of attending Imperial College are not disputed, so I will instead focus on why I think the College is good for us, and how the problems are just as bad at other universities.
 
@@ -41,7 +41,7 @@ I have met some of the most interesting and enthusiastic people I have ever met 
 
 Looking back it’s clear that the 17 year old me got four out my five UCAS options completely wrong. The one I definitely got right was Imperial.
 
-__Opposition: Kristian Lending__
+Opposition: Kristian Lending
 
 Forget 'Education' – what matters is your ability to get a job, be well paid for it, and what you go through to get it. We're told that Imperial is great for this. That's overstated. What's understated is the unnecessarily laissez-faire process to get there. 87.8% employability? That's inflated by the huge medic population, which, thanks to the NHS, are gifted with 100% employability, both here and at twenty of the other thirty medical schools in the country. In other words, if you're not a medic the figure is lower, and if you are, you gained nothing by coming here.
 

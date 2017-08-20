@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Vampire Academy__
+Vampire Academy
 
-__Director:__ Mark Waters
+Director: Mark Waters
 
-__Writers: __Richelle Mead, Daniel Waters
+Writers: Richelle Mead, Daniel Waters
 
-__Starring: __Zoey Deutch, Lucy Fry, Danilla Kozlovsky, Gabriel Byrne, Dominic Sherwood, Olga Kurylenko, Sarah Hyland, Joely Richardson
+Starring: Zoey Deutch, Lucy Fry, Danilla Kozlovsky, Gabriel Byrne, Dominic Sherwood, Olga Kurylenko, Sarah Hyland, Joely Richardson
 
-__Runtime: __104 minutes
+Runtime: 104 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 1/5
 

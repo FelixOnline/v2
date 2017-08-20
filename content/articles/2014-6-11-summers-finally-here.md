@@ -25,17 +25,17 @@ highlights:
  - photos
 ---
 
-__Suddenly, Last Summer__
+Suddenly, Last Summer
 
-__Director:__ Joseph L. Mankiewicz
+Director: Joseph L. Mankiewicz
 
-__Writers: __Gore Vidal, Tennesse Williams
+Writers: Gore Vidal, Tennesse Williams
 
-__Starring: __Elizabeth Taylor, Katharine Hepburn, Montgomery Clift, Mercedes McCambridge
+Starring: Elizabeth Taylor, Katharine Hepburn, Montgomery Clift, Mercedes McCambridge
 
-__Runtime: __114 minutes
+Runtime: 114 minutes
 
-__Certification: __15
+Certification: 15
 
 Rating: 4/5
 

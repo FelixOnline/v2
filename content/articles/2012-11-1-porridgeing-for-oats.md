@@ -29,7 +29,7 @@ The main and key ingredient in porridge is of the course the oats. After being h
 
 As for the liquid, you should use only water when cooking the porridge, milk is usually added afterwards to form a cooling milky moat. Although many people use either milk or a water/milk mix, I think it masks the taste of the oats and in fact and leaves the porridge blander. Putting milk in porridge is much like putting sugar in tea; don’t be a hooligan, leave it out.
 
-__Ingredients:__
+Ingredients:
 
 1/3 pint of pinhead oatmeal
 
@@ -39,6 +39,6 @@ A pinch of sea salt
 
 A splash of milk and/or your favourite topping - blueberries or raspberries are good
 
-__Method:__
+Method:
 
 The night before, combine the water and oats in a saucepan and leave to soak overnight. Bring the oats to a boil whilst stirring continuously with a spurtle (traditional wooden stirring stick) or wooden spoon. Ensure you stir with your right hand and in a clockwise direction, otherwise risk invoking the devil into your breakfast. Simmer the oats for around 15 minutes whilst continuously stirring, until the porridge becomes thick yet still pourable. At this point, add the salt and leave to rest off the heat for 5 minutes. Adding salt beforehand will stiffen the oats and ruin the texture. Serve out the porridge into bowls; it is common to add a splash of milk or cream. Pour yourself a glass of hand-warm scotch whiskey and enjoy!

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__The Amazing Spider-Man 2__
+The Amazing Spider-Man 2
 
-__Director:__ Marc Webb
+Director: Marc Webb
 
-__Writers: __Alex Kurtzman, Roberto Orci, Jeff Pinker, James Vanderbilt
+Writers: Alex Kurtzman, Roberto Orci, Jeff Pinker, James Vanderbilt
 
-__Starring: __Andrew Garfield, Emma Stone, Dane DeHaan, Jamie Foxx, Sally Field, Paul Giamatti
+Starring: Andrew Garfield, Emma Stone, Dane DeHaan, Jamie Foxx, Sally Field, Paul Giamatti
 
-__Runtime: __142 minutes
+Runtime: 142 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 3/5
 

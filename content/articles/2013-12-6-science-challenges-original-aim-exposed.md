@@ -31,7 +31,7 @@ This was that challenge :-
 
 --ooOOoo--
 
-___RCS Association Competition__
+_RCS Association Competition
  During the foreseeable future an event will occur which will either kill most of humanity or make the planet’s surface uninhabitable. Once that happens it will be too late to take any useful action, consequently it would seem prudent to get ready now, while we are still alive.
  The information needed to give our descendants a flying start on the way to a new civilisation will need to be in a long-lasting form and a format that will make sense to whoever is left of whatever ethnicity and language._
 

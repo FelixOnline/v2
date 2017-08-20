@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-￼__Prisoners__
+￼Prisoners
 
 Director: Denis Villeneuve
 

@@ -25,7 +25,7 @@ highlights:
  - photos
 ---
 
-In 1984, the __Museum of Modern Art__ in New York opened a new exhibition: ‘_An International Survey of Recent Painting and Sculpture_’. it promised to be a survey of the most important artists currently working in the art world. Not everyone was impressed. Out of the 169 works featured, only 13 were by women artists, a fact that was not helped by the curator, Kynaston McShine, saying that any artist not in the show should rethink his career. In 1985, one year after the show opened, the Guerrilla Girls were formed by seven women artists. And the rest, as they say, is history.
+In 1984, the Museum of Modern Art in New York opened a new exhibition: ‘_An International Survey of Recent Painting and Sculpture_’. it promised to be a survey of the most important artists currently working in the art world. Not everyone was impressed. Out of the 169 works featured, only 13 were by women artists, a fact that was not helped by the curator, Kynaston McShine, saying that any artist not in the show should rethink his career. In 1985, one year after the show opened, the Guerrilla Girls were formed by seven women artists. And the rest, as they say, is history.
 
 Their most famous work is immediately arresting; on a yellow background, bold black text screams: “_Do women have to be naked to get into the Met Museum? Less than 5% of the artists in the Modern Art Sections are women, but 85% of the nudes are female_”. Offset with an image of Ingres’ painting_ La Grande Odalisque_, where the woman’s head has been replaced with a gorilla, their statement is immediately clear; women are under-represented in art galleries, except where they are the subject of the Male Gaze.
 

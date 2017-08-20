@@ -45,27 +45,27 @@ Also in for a double award was Lorraine Craig, who picked up a President’s Awa
 
 The final President’s Award was given to Phillip Kent, a Chemistry student, for his role as Systems Administrator for the Union Website. Beaumont said: “Imperial College Union literally wouldn’t have a web presence without Philip. Over the Summer 2012 he helped myself, and two members of staff completely re-write the Union’s website, which takes £1M of CSP transactions each year. As SysAdmin, Philip has worked selflessly to try and ensure the security of one of the CSPs best communication tools: Dougal, the Union webserver. Without Philip, CSPs could have lost their websites and individuality, and the Central Union, the support system. Philip has also written some of the new systems that students and the Union rely on for annual events: the Mums and Dads matching system, for one. For all of his contributions, I have awarded Philip the President’s Award, and the Council has awarded him an Outstanding Achievement Award.”
 
-__Union Awards__
+Union Awards
 
-__Colours__
+Colours
 
 Zahra Aboukhalil, Fatima Ahmad, Matthew Allinson, Martin Asprusten, Giada Azzopardi, Richard Bennett, Henry Bleech, William Brown, Christopher Charles, Francis Clegg, James Cooper, Peter Davis, Pongsathorn Dechatiwongse, Aaron D’souza, Christian Franke, Shiladitya Ghosh, William Glendinning, Usman Goga, Boshuo Guo, Maija-Lisa Han, Dariush Hassanzadeh-Baboli, Johannes Hoenigl, AliHosin, Ibtesham Hossain, Maximilian Hunter, Matthew Hutchins, Emily Hutchinson, Narthana Ilenkovan, Naomi Jordan, Neeraj Kalra, Hanan Kamel, Natalie Kempston, Giridhar Kesavan, Callum Kirk, Jane Langdon-Davies, Marissa Lewis, Jonathan London, Anna Luthman, Frank Machin, Megan MacKenzie, Gemma Milman, Noah Nathan, Nicholas Ng, Aislinn O'Malley, Leonardo Paol, Bhavesh Patel, Lydia Pearson, Helen Pennington, Helen Phillips, Claudio Polisseni, Jonathan Pratt, Sybghat Rahim, Deepka Rana, Timothy Runcorn, Lewis Ryan, Plabon Saha, Cyin San, Harish Santhanam, Usman Siddiqui, Natasha Strydom, James Sudlow, Zhao Tai, Yuen Tham, Victoria Walpole, Ken Wu
 
-__Outstanding Service Award__
+Outstanding Service Award
 
 Dominic Andradi-Brown, Isabel Fenton, Benjamin Fry, Adam Funnell, George Goldberg, Maryam Habibzay, Philip Kent, Wasim Khouri, Joseph Letts, Thomas Lim, Slobodan Radosavljevic, Suzanne Rayner, Joseph Rumer. Simon Schillebeeckx. Steven Tran. Ross Webster. Thomas Wilshere. Jake Woods
 
-__Fellowship__
+Fellowship
 
 Lorraine Craig
 
-__Fellowship with Distinction__
+Fellowship with Distinction
 
 Nathaniel Bottrell
 
 Stephen Richardson
 
-__President’s Awards__
+President’s Awards
 
 UG Rep: Biology Soc
 

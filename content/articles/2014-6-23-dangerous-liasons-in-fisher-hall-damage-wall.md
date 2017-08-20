@@ -27,9 +27,9 @@ highlights:
  - comment
 ---
 
-__[Tabloid Special]__
+[Tabloid Special]
 
-__Further concerns have been raised in recent weeks about the structural integrity of the Fisher Hall buildings in Evelyn Gardens, including the event mentioned in the above title. __
+Further concerns have been raised in recent weeks about the structural integrity of the Fisher Hall buildings in Evelyn Gardens, including the event mentioned in the above title.
 
 Following a prior investigation of Fisher last year, this author visited again to examine the most recent developments as the building slowly disintegrates around the poor Freshers inside. The alarming incidents reported add to the recent controversy surrounding the college’s accommodation policy, with both the move to North Acton and the poor quality of the Wilson House refurbishment sources of concern.
 

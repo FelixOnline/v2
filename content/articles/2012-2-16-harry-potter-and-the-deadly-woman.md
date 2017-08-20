@@ -24,9 +24,9 @@ authors:
 highlights:
 ---
 
-__Director__ James Watkins
-__Screenwriters__ Susan Hill (novel), Jane Goldman (screenplay)
-__Cast__ Daniel Radcliffe, Ciarán Hinds, Janet McTeer
+Director James Watkins
+Screenwriters Susan Hill (novel), Jane Goldman (screenplay)
+Cast Daniel Radcliffe, Ciarán Hinds, Janet McTeer
 
 Anyone who has seen Susan Hill’s eery tale _The Woman in Black_ on stage will know that the performance is terrifying. Even people who say they don’t get scared got scared in the theatre at this one. But that’s just it – in the theatre, it’s dark…the woman is creepy as hell…oh god, why is the rocking chair rocking on its own…oh my god why have the lights gone out….OH MY GOD THE WOMAN IN BLACK IS SCREAMING RIGHT BEHIND ME!!!!! I mean – you really get into it when there are several hundred people all having nervous breakdowns at the same time. So it was a risk adapting this sepulchral, haunting tale to the screen, where popcorn tends to distract from the terror.
 

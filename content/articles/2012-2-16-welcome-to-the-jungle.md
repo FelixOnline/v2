@@ -44,6 +44,6 @@ Having been tempted by Dolly’s artisan Keralan culinary skills, I spent my las
 
 In short, don’t bypass Thekkady if you’re in the area (and indeed, go out of your way to be in the area): it’s sure to be a high point of your trip. The locals are humble, the nature serene, and the sights, sounds and smells as alluring as ever. When you’re bored of temples and forts, head to Thekkady and get lost in the undergrowth.
 
-__Planning a trip to Kerala?__
+Planning a trip to Kerala?
 
 [Kerala Holidays](http://KeralaHolidays.com) were awarded as India’s Best In-Bound Tour Operator 2011, and offer tailor-made tour packages for groups of all sizes. Visit the website and check out some testimonials.

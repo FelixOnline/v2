@@ -24,17 +24,17 @@ highlights:
  - longread
 ---
 
-__X-Men: Days of Future Past__
+X-Men: Days of Future Past
 
-__Director:__ Bryan Singer
+Director: Bryan Singer
 
-__Writer: __Simon Kinberg, Jane Goldman, Matthew Vaughn
+Writer: Simon Kinberg, Jane Goldman, Matthew Vaughn
 
-__Starring: __Hugh Jackman, James McAvoy, Michael Fassbender, Patrick Stewart, Ian McKellen, Jennifer Lawrence, Ellen Page, Shawn Ashmore, Halle Berry, Nicholas Hoult, Peter Dinklage, Evan Peters, Omar Sy, Bingbing Fan
+Starring: Hugh Jackman, James McAvoy, Michael Fassbender, Patrick Stewart, Ian McKellen, Jennifer Lawrence, Ellen Page, Shawn Ashmore, Halle Berry, Nicholas Hoult, Peter Dinklage, Evan Peters, Omar Sy, Bingbing Fan
 
-__Runtime: __131 minutes
+Runtime: 131 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 5/5
 

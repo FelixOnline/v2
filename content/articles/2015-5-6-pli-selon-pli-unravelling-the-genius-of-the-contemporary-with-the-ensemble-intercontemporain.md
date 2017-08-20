@@ -27,7 +27,7 @@ highlights:
  - comment
 ---
 
-The __Barbican__ brought their _Boulez at 90_ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain. This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.
+The Barbican brought their _Boulez at 90_ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain. This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.
 
 Paradoxically, the evening began 100 years earlier with a piece from 1913; Debussy’s ‘Syrinx’ for solo flute. Although only a few minutes long, the exotic and fragmentary abstractions of the music, performed wonderfully by Sophie Cherrier, served as an eye-opening prelude to Boulez’s ‘…explosante-fixe…’, also for flute. Pairing these pieces in this way demonstrated continuity in 20th Century musical thought that is often difficult to grasp. When heard alone, the chaotic whirlings and sudden explosions of ‘…explosante-fixe…’ can seem confusing, but here they gained a new clarity and the swings in texture became hypnotic.
 

@@ -24,13 +24,13 @@ highlights:
  - photos
 ---
 
-__Director: __Morten Tyldum
+Director: Morten Tyldum
 
-__Screenplay: __Graham Moore
+Screenplay: Graham Moore
 
-__Cast: __Benedict Cumberbatch, Keira Knightley, Matthew Goode, Charles Dance, Allen Leech, Mark Strong
+Cast: Benedict Cumberbatch, Keira Knightley, Matthew Goode, Charles Dance, Allen Leech, Mark Strong
 
-__Rating:__ 4/5
+Rating: 4/5
 
 T_he Imitation Game _is the story of Alan Turing, a story that most Imperial student probably knows. He is the father of computing, the man who helped end the Second World War an estimated two years earlier by cracking the enigma code saving millions of lives in the process. But he is also the man who was arrested for homosexuality, was sentenced with indecency, forced do undergo chemical castration in an attempt to ‘cure’ him, and ultimately committed suicide at the age of forty.
 

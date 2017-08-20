@@ -31,7 +31,7 @@ highlights:
  - longread
 ---
 
-__Tom Rivlin: Deputy President (Clubs and Societies) candidate, 2015__
+Tom Rivlin: Deputy President (Clubs and Societies) candidate, 2015
 
 Let’s get one thing out of the way first: yes, I did just lose in the Big Elections. Yes, I am extremely bitter about this. Yes, you can read the whole article as just a sore loser whining about losing sorely if you want.
 
@@ -57,7 +57,7 @@ So what’s the alternative? I’m not here to suggest one. The current system b
 
 Would I run for a sabbatical role again if I had the chance? Probably not; in my opinion it is not worth the time and effort those two weeks require to campaign, even if you do win.
 
-__Ben Howitt, Deputy President (Clubs and Societies) elect, 2015__
+Ben Howitt, Deputy President (Clubs and Societies) elect, 2015
 
 I’m not going to come out spewing rainbows and say that campaigning was the most fun I’d had all year. It’s a stressful experience, and one that you need to prepare yourself for.
 
@@ -81,7 +81,7 @@ I will say that you should definitely consider running for a Sabbatical in next 
 
 And if you don’t win, remember it’s not the end of all things. After all, there is definitely more to life than Imperial College Union.
 
-__Abi de Bruin, current Deputy President (Clubs and Societies)__
+Abi de Bruin, current Deputy President (Clubs and Societies)
 
 This year seems to have seen an unfortunate turn to the negative with a lot of the campaigning that’s been going on – particularly it seems to have been less enjoyed by the candidates and it’s such a shame. I absolutely loved campaigning; it was two of the greatest weeks I’ve ever experienced. I loved talking about how much I loved the Union and wanted to be involved in it full time, spending two weeks talking about how amazing our clubs are and the incredible things they do was something I couldn’t get enough of.
 
@@ -90,5 +90,3 @@ Sure it was completely and utterly exhausting: I got ill, I got stressed, I lost
 Wandering round the JCR with bags of sweets; chatting to random strangers wherever I ran into them; and doing shout-outs in what I think was over thirty lectures was exhausting but so cool. Telling people what it was that the Union did, explaining why I wanted to get involved, what it is I would actually be doing, and then why they should vote for me to be the one doing that meant that I got to spend a lot of time being challenged on my motives and actually convincing people that I was the right person for it. Taking a random stranger from a ‘who is this crazy person talking to me, what is the Union, what are they talking about?’ to ‘oh maybe I’ll vote in these elections, and maybe I’ll vote for her’ was a really exciting experience.
 
 Genuinely, the passion that people show off during election season is incredible to watch, and seeing the amount that some people really care about what goes on here is one of the greatest things about being involved in the Big elections.
-
-____

@@ -23,17 +23,17 @@ highlights:
  - photos
 ---
 
-__Frozen__
+Frozen
 
-__Directors:__ Chris Buck, Jennifer Lee
+Directors: Chris Buck, Jennifer Lee
 
-__Writers: __Jennifer Lee, Chris Buck, Hans Christian Andersen (story), Shane Morris
+Writers: Jennifer Lee, Chris Buck, Hans Christian Andersen (story), Shane Morris
 
-__Starring: __(voices)Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+Starring: (voices)Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 
-__Runtime: __102 minutes
+Runtime: 102 minutes
 
-__Certification: __PG
+Certification: PG
 
 As its title suggests, Walt Disney’s brand new animation film is all about the cold, which is just as well, given the appropriate period of its release date. There is so much snow, a lot of wind, and plenty of ice to get you into the winter mood if you weren’t already. Loosely based on Hans Christen Andersen’s story _The Snow Queen_, we have Elsa (Idina Menzel), a young princess who can conjure up all things related to winter. A potentially fatal accident has her parents worrying for the safety of her younger sister, Anna (Kristen Bell). From that point on, Elsa is forever separated from Anna and the two start living different lives.
 

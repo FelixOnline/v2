@@ -23,7 +23,7 @@ highlights:
  - longread
 ---
 
-__You Are God__
+You Are God
 
 _Lily Le_
 
@@ -41,7 +41,7 @@ This snippet of Polish culture is refreshing in comparison to Hollywood style fi
 There are no unrealistic extremes: no fairytale happy endings or tragic finales full of morality and how you should change your life. The troubled relationship between Magik and his girlfriend invokes empathy as it lacks the idiotic first-world type love problems usually seen in modern day movies. None of the characters are devastatingly beautiful or wear fancy clothes with unmaintainable fancy hair.
  Surprisingly, the film makes it terribly easy for a wannabe scientist spending daily life in Kensington to relate to a wannabe hip hop artist living in industrial Poland trying to get through life’s struggles and make it into the big time. Definitely worth a watch for hip hop or non-hip hop fans alike.
 
-__Rust and Bone__
+Rust and Bone
 
 _Katy Bettany_
 
@@ -57,7 +57,7 @@ Despite excellent performances from Cotillard, Schoenaerts and Verdure, the film
 
 This is a film about approaches to the human body – it is about pain that is sought and pain that is inflicted. The theme of control is explored – with obvious parallels drawn between Ali and the whales, with Stéphanie’s need to control large mammals. Ever present is the power of nature, of the cycles of degradation and renewal, and physical strength. This is not a commercial love story, but it is one that will not fail to move even the coldest of viewers.
 
-__The Sapphires__
+The Sapphires
 
 _Katy Bettany_
 

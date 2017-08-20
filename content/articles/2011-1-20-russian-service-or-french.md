@@ -48,7 +48,7 @@ The theme between the pair of dishes for the main course was twofold. I put papr
 
 It is fair to say that service à l’Anglaise is not necessarily easier for the host than any other way of serving food, but with a little thought it means that you can be sure the food will not let you down.
 
-___Menu___
+_Menu_
 
 _Raspberry Cocktail_
 

@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__I__n January of this year, the UK Government pledged to accept 500 refugees from the Civil War in Syria. _Oh My Sweet Land _tackles the other 2.3 million refugees who don’t have that “privilege”. A collaboration between Amir Nizar Zuabi and Corinne Jaber resulted in this play, inspired by their trip to the Syrian refugee camps in Jordan and hearing the stories of people in the harshest moments of their lives.
+In January of this year, the UK Government pledged to accept 500 refugees from the Civil War in Syria. _Oh My Sweet Land _tackles the other 2.3 million refugees who don’t have that “privilege”. A collaboration between Amir Nizar Zuabi and Corinne Jaber resulted in this play, inspired by their trip to the Syrian refugee camps in Jordan and hearing the stories of people in the harshest moments of their lives.
 
 A one woman show, Jaber plays a young Parisian with Syrian roots who falls in love with Ashraf, a refugee from the Civil War. Guilty about leaving his family and haunted by memories of the Syrian atrocities, Ashraf disappears from Paris without a word. In love with Ashraf and desperate to form a connection to her Syrian roots, the young woman travels to the Middle East to find the answers she needs. Meeting countless Syrians on her way, Jaber recounts the stories they tell her and builds a picture of a civil war which has “nothing civil about it”.
 

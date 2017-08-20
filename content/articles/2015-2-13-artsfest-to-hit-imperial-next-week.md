@@ -30,7 +30,7 @@ The successes of Arts clubs at Imperial are far reaching. A few years ago, in a 
 
 Just a couple of weeks ago, the International Championships of Collegiate A Cappella came to the UK for the first time and held their semi-final at Imperial. With more teams competing than any other University, and an award for best soloist, the event was a sure sign of Imperial’s talents.
 
-We have five orchestras, one of the best university cinemas in the country, fantastic choirs and ambitious art and dance groups. Each one has a number of fantastic events coming up for you this term – such as more ambitious shows than ever before in the recently redeveloped __Union Concert Hall__, ICSO performing at __Cadogan Hall__, home of the Royal Philharmonic Orchestra, and the IC Choir performing _Carmina Burana_ in the Great Hall. And on top of all this, they all take part in ArtsFest!
+We have five orchestras, one of the best university cinemas in the country, fantastic choirs and ambitious art and dance groups. Each one has a number of fantastic events coming up for you this term – such as more ambitious shows than ever before in the recently redeveloped Union Concert Hall, ICSO performing at Cadogan Hall, home of the Royal Philharmonic Orchestra, and the IC Choir performing _Carmina Burana_ in the Great Hall. And on top of all this, they all take part in ArtsFest!
 
 ArtsFest is a weeklong celebration of Art, Drama, Music, Dance and everything in between that Imperial has to offer. This year it takes place from 16th –20th February and has more events and more collaborations than ever before. And crucially, every single event is free.
 

@@ -23,17 +23,17 @@ authors:
 highlights:
 ---
 
-__Captain America: The Winter Soldier__
+Captain America: The Winter Soldier
 
-__Directors:__ Anthony Russo, Joe Russo
+Directors: Anthony Russo, Joe Russo
 
-__Writers: __Christopher Markus, Stephen McFeely, Ed Brubaker
+Writers: Christopher Markus, Stephen McFeely, Ed Brubaker
 
-__Starring: __Chris Evans, Scarlett Johansson, Samuel L. Jackson, Robert Redford, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Emily VanCamp
+Starring: Chris Evans, Scarlett Johansson, Samuel L. Jackson, Robert Redford, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Emily VanCamp
 
-__Runtime: __136 minutes
+Runtime: 136 minutes
 
-__Certification: __12A
+Certification: 12A
 
 Rating: 5/5
 

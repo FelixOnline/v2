@@ -25,7 +25,7 @@ highlights:
  - longread
 ---
 
-A disclaimer, before this review goes any further. I have extraordinarily strong feelings and opinions about _Arcadia_. I studied the text for A-Level, and directed the show for DramSoc in the summer of my first year of university. It’s been a huge part of my life for the past few years, and it’s only fair to the __English Touring Theatre__ production that I make that plain before passing comment on their show.
+A disclaimer, before this review goes any further. I have extraordinarily strong feelings and opinions about _Arcadia_. I studied the text for A-Level, and directed the show for DramSoc in the summer of my first year of university. It’s been a huge part of my life for the past few years, and it’s only fair to the English Touring Theatre production that I make that plain before passing comment on their show.
 
 Originally appearing in 1993, _Arcadia_ is easily Tom Stoppard’s most popular play, if not one of English literature’s most popular plays – a claim acknowledged in the programme notes for this latest large-scale production, where it is revealed that it came near the top of their audience poll of future play ideas. It’s an exquisitely composed work set entirely in the large drawing room of a country house, with scenes transitioning between 1809 and 1993.
 

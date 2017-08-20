@@ -61,4 +61,4 @@ The College routinely carries out maintenance to ensure students’ accommodatio
 
  Damage to the window frame pictured is due to condensation. Accommodation staff continue to monitor the situation and students with any concerns can contact their Hall Supervisor if they have any concerns. Similarly damage to the ceiling, as shown in one of the photographs, was due to a defect on the roof, allowing water through. That defect has been fixed, the peeling paint removed and the accommodation team are closely monitoring it.
 
-__College Spokesperson__
+College Spokesperson

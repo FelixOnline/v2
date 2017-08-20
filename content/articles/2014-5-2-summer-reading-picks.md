@@ -23,7 +23,7 @@ authors:
 highlights:
 ---
 
-__Hitchhiker’s Guide to the Galaxy__
+Hitchhiker’s Guide to the Galaxy
 
 _Douglas Adams_
 
@@ -31,7 +31,7 @@ Douglas Adams’ famous humour series has appeared in many formats – a radio s
 
 The books are all wonderfully inventive in their absurdity. Adams was a comic genius who managed to create both a unique and colourful universe as well as fun and compelling characters. There are laughs on every page and the series is a quick and easy read but it is also very well written and has a surprising depth. A must read.
 
-__Space Captain Smith__
+Space Captain Smith
 
 _Toby Frost_
 
@@ -41,7 +41,7 @@ The book is very accessible and laugh out loud funny, with a lot of broad humour
 
 The novel also manages to be an engaging action story, of a type rarely seen nowadays in SF fiction. The plot is fast moving and exciting, while never feeling superficial, and the characters are well sketched and likable.
 
-__Collected Stories__
+Collected Stories
 
 _Evelyn Waugh_
 
@@ -51,7 +51,7 @@ This collection of short stories spans Waugh’s entire career, covering a numbe
 
 The _Collected Stories_, however, are also a brilliant introduction to the writer for novices. Pick up the book and dive into one of the stories – you’re sure not to regret it.
 
-__The Third Bear__
+The Third Bear
 
 _Jeff VanderMeer_
 
@@ -61,7 +61,7 @@ VanderMeer has an amazing imagination, creating a wide range of fantastical, uns
 
 It is difficult to describe the individual stories since they are completely different from anything else that I have ever read before, and from each other. If you want to experience something unique and utterly original be sure to check this out.
 
-__Candide__
+Candide
 
 _Voltaire_
 

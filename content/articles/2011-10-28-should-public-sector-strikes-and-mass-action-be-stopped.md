@@ -26,7 +26,7 @@ highlights:
  - photos
 ---
 
-__Yes - James Clough__
+Yes - James Clough
 
 Public sector workers do the jobs that we deem to be so important that taxpayers cannot exempt themselves from paying for them. We rely upon the NHS, police force and public transport every day; they are essential parts of our lives and without them society would be completely different.
 
@@ -46,7 +46,7 @@ You might say that the right to strike is an important way of keeping the govern
 
 When they strike they hurt the public sector as a whole. They hurt the taxpayer. They hurt the people in society who most need their help. It is unfair and unethical for the public sector to hold the country to ransom; if you want to work for the state then you must accept that the voters are in charge and to try and go against their wishes is just unacceptable.
 
-__No - Ed Middleton__
+No - Ed Middleton
 
 {{< figure src="http://felixonline.co.uk/img/upload/201110140128-sjw209-ed-osama.jpg" title="" caption="" attr="" >}}
 

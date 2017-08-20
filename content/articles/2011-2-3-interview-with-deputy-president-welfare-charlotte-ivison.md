@@ -25,29 +25,29 @@ highlights:
  - comment
 ---
 
-__What has been your biggest challenge as Deputy President (Welfare)?__
+What has been your biggest challenge as Deputy President (Welfare)?
 
 Engaging students in welfare issues. Students at times don’t take their own welfare very seriously. Often when they do need help they either don’t know where to go or they choose to suffer in silence because of social perceptions. I think it’s very easy at Imperial to prioritise academia. Admittedly when I was a fresher I didn’t take part in campaign weeks and I’m still not sure if we’re involving students enough through campaign weeks. But they are very important and the issues that they highlight, like sexual health in SHAG Week, will always be vital to student wellbeing.
 
-__What’s an average day like?__
+What’s an average day like?
 
 I start the day at 10am, usually with checking and replying to emails that I’ve received. They’re usually on a range of things from papers for College meetings to student issues. I’ll then spend some time organising whatever campaign week I’m working on, which usually involves contacting appropriate charities and clubs to get involved, room bookings and ordering publicity materials. I’ll usually do this with the appropriate welfare officer. In the afternoon I may have a College committee, a meeting with individual staff, a student consultation group that I’ve organised or meet with an individual student who needs some help.
 
-__What do you enjoy most about your job?__
+What do you enjoy most about your job?
 
 I really enjoy being able to help students, both on a representative level and individually when they have a specific problem. It’s very rewarding to feel like you’ve made a student’s life better. Particularly in individual cases, you’re working directly with a student and helping them through whatever issues have come up, which are usually quite serious and have large, life-changing consequences.
 
 But also representing students on College committees and putting across their concerns and views is rewarding. The College do take student views on board; they really do take welfare very seriously. Admittedly the committees that I sit on are less combative and less ‘political’ than the other sabbaticals have to sit on, but nonetheless it is great to feel like the student view is being fed upwards and making real changes.
 
-__What do you enjoy least?__
+What do you enjoy least?
 
 Committee meetings can, at times, be a little tedious. Sometimes you find yourself at a very long, very unproductive meeting and you don’t feel like you’re using your time to the benefit of students or delivering them value-for-money. But it is essential to maintain student representation in all areas of College, the odd tedious meeting every now and again is a small price to pay for that.
 
-__Do you have any regrets about your time as Deputy President (Welfare)?__
+Do you have any regrets about your time as Deputy President (Welfare)?
 
 I think at the beginning I shied away from tackling certain problems head-on. When I first started the role, I didn’t have much experience in operating Union finances and so I shied away from handling the finances for the campaign weeks entirely myself. Now that I’ve gained more experience I’ve started to do that and the result is that things run more smoothly. So my only regret is not being more confident in myself at the beginning.
 
-__Do you have any advice for anyone considering running for Deputy President (Welfare)?__
+Do you have any advice for anyone considering running for Deputy President (Welfare)?
 
 Make sure that you actually care about student welfare or you’ll end up being bored. Not everyone has that passion and concern for other people so be sure that you do. Be prepared to take an active role in defining your role and responsibilities. It’s a very young position, it’s only two years old and so it’s much less defined than say Deputy President (Clubs & Societies); the job description is still evolving. You’ll have to make a decision about what direction to take the role in.
 

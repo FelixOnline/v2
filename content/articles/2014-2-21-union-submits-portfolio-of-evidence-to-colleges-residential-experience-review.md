@@ -34,4 +34,4 @@ The Union also explained its main recommendation, which was that “the review g
 
 to achieve”.
 
-To find out more about the Union’s submission to the panel, download the document at __www.imperialcollegeunion.org/rer.__
+To find out more about the Union’s submission to the panel, download the document at www.imperialcollegeunion.org/rer.
