@@ -18,7 +18,6 @@ categories:
  - comment
 tags:
  - imported
- - imported_comments
  - multi-author
 authors:
  - ck2513

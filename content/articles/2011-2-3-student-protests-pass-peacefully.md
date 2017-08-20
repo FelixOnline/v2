@@ -18,7 +18,6 @@ categories:
  - news
 tags:
  - imported
- - imported_comments
  - multi-author
 authors:
  - felix

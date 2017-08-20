@@ -108,10 +108,12 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << " - #{old_path}"
   md << "imported: true"
   md << "comments:"
+  comment_count = 0
   r["comments"].split(/\s+\+\s+/).each do |c|
     text = Nokogiri::HTML::DocumentFragment.parse(c).to_s.gsub(/\n+/, "<br>").gsub(/\s+/, " ").gsub(/[^[:print:]]/ , '')
     next if text.include? "[/url]" # bb code
     md << " - value: >\n     #{text}"
+    comment_count += 1
   end
 
   md << "\n# Article Taxonomies"
@@ -121,7 +123,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "tags:"
   md << " - imported"
   md << " - image" if r["image_path"] && r["image_path"].length > 0
-  md << " - imported_comments" if r["comments"].length > 0
+  md << " - imported_comments" if comment_count > 0
   md << " - multi-author" if authors.length > 1
   md << "authors:"
   authors.each do |author|
